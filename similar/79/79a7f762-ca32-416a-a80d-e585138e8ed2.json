@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.26514843,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "03c9078a-0730-4637-bb3f-339a226ae3ac",
    "title": {
     "en": "Kaiji Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.23114587,
+   "score": 0.23259172,
    "languages": [
     "en",
     "ru",
@@ -24,7 +35,7 @@
     "en": "Captain Tsubasa - Rising Sun"
    },
    "contentRating": "safe",
-   "score": 0.22798403,
+   "score": 0.2237152,
    "languages": [
     "en",
     "tr"
@@ -36,7 +47,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.22230554,
+   "score": 0.22203077,
    "languages": [
     "en"
    ]
@@ -47,7 +58,7 @@
     "en": "Gambling Outcast Kaiji: The 2.4 Billion Escape Arc - Kaiji Part 6"
    },
    "contentRating": "safe",
-   "score": 0.20728558,
+   "score": 0.20861869,
    "languages": [
     "en"
    ]
@@ -58,7 +69,7 @@
     "en": "Firescooter☆"
    },
    "contentRating": "safe",
-   "score": 0.20536624,
+   "score": 0.20518386,
    "languages": [
     "en"
    ]
@@ -81,21 +92,8 @@
     "en": "Boukyou Tarou"
    },
    "contentRating": "safe",
-   "score": 0.1990505,
+   "score": 0.19928063,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0491bc8a-bfaf-4732-9503-3ac5c4208aba",
-   "title": {
-    "en": "Bigger Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.1941695,
-   "languages": [
-    "pl",
-    "fr",
     "en"
    ]
   },
@@ -105,7 +103,7 @@
     "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
    },
    "contentRating": "safe",
-   "score": 0.19242674,
+   "score": 0.19198734,
    "languages": [
     "pt-br",
     "en",
@@ -129,12 +127,25 @@
    ]
   },
   {
+   "id": "0491bc8a-bfaf-4732-9503-3ac5c4208aba",
+   "title": {
+    "en": "Bigger Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.19136061,
+   "languages": [
+    "pl",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "a055644f-4efa-42c7-b3c0-dfedcdbe4df5",
    "title": {
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.18606156,
+   "score": 0.18595774,
    "languages": [
     "en"
    ]
@@ -145,7 +156,7 @@
     "en": "Yugo"
    },
    "contentRating": "safe",
-   "score": 0.1852784,
+   "score": 0.18489483,
    "languages": [
     "en"
    ]
@@ -156,7 +167,7 @@
     "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.18381451,
+   "score": 0.18344775,
    "languages": [
     "en"
    ]
@@ -167,7 +178,7 @@
     "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.1814894,
+   "score": 0.17901419,
    "languages": [
     "en",
     "ru"
@@ -179,7 +190,7 @@
     "en": "Shojo Manga"
    },
    "contentRating": "safe",
-   "score": 0.17815042,
+   "score": 0.17717624,
    "languages": [
     "it",
     "tr",
@@ -187,18 +198,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
-   "title": {
-    "en": "Cat Shit One' 80"
-   },
-   "contentRating": "safe",
-   "score": 0.17590548,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:37+00:00"
+ "updatedAt": "2023-12-10T18:21:36+00:00"
 }

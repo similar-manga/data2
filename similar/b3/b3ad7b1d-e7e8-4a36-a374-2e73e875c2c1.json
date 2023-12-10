@@ -6,12 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "85a99758-de39-471e-9f6d-800547f53d0a",
+   "title": {
+    "en": "Tougen Anki"
+   },
+   "contentRating": "safe",
+   "score": 0.3020192,
+   "languages": [
+    "pl",
+    "fr",
+    "ar",
+    "pt-br",
+    "en",
+    "ru",
+    "tr",
+    "it",
+    "ms"
+   ]
+  },
+  {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
    "title": {
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.26680756,
+   "score": 0.26578876,
    "languages": [
     "ru",
     "tr",
@@ -24,12 +43,26 @@
    ]
   },
   {
+   "id": "1caae7cb-9e28-48c4-96a2-9a24ead822ff",
+   "title": {
+    "en": "Peach Boy Riverside"
+   },
+   "contentRating": "safe",
+   "score": 0.2403298,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.2356862,
+   "score": 0.2351952,
    "languages": [
     "en",
     "pt-br",
@@ -65,7 +98,7 @@
     "en": "Indigo Police"
    },
    "contentRating": "safe",
-   "score": 0.22559471,
+   "score": 0.2267542,
    "languages": [
     "en"
    ]
@@ -76,7 +109,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.22435002,
+   "score": 0.22476433,
    "languages": [
     "en"
    ]
@@ -87,27 +120,9 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.21867533,
+   "score": 0.2184618,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
-   "title": {
-    "en": "Ao no Exorcist"
-   },
-   "contentRating": "safe",
-   "score": 0.21831393,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "fr",
-    "en",
-    "tr",
-    "it",
-    "es",
-    "he"
    ]
   },
   {
@@ -122,12 +137,30 @@
    ]
   },
   {
+   "id": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
+   "title": {
+    "en": "Ao no Exorcist"
+   },
+   "contentRating": "safe",
+   "score": 0.21625109,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "fr",
+    "en",
+    "tr",
+    "it",
+    "es",
+    "he"
+   ]
+  },
+  {
    "id": "17ce37ea-1cda-4429-b062-c4b627814225",
    "title": {
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.21617952,
+   "score": 0.21561667,
    "languages": [
     "pt-br",
     "fr",
@@ -146,22 +179,9 @@
     "en": "Oni ni Itaru Doro"
    },
    "contentRating": "safe",
-   "score": 0.2133518,
+   "score": 0.2139008,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "fb407ebc-6830-44bf-b1ed-9ea1720b98ca",
-   "title": {
-    "en": "Zanzai Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.2128547,
-   "languages": [
-    "en",
-    "it",
-    "pt-br"
    ]
   },
   {
@@ -170,7 +190,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.21268256,
+   "score": 0.21191655,
    "languages": [
     "en"
    ]
@@ -181,7 +201,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.21212894,
+   "score": 0.21188709,
    "languages": [
     "it",
     "id",
@@ -192,66 +212,34 @@
    ]
   },
   {
-   "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
+   "id": "fb407ebc-6830-44bf-b1ed-9ea1720b98ca",
    "title": {
-    "en": "Jujutsu Kaisen"
+    "en": "Zanzai Shounen"
    },
    "contentRating": "safe",
-   "score": 0.20471805,
+   "score": 0.21005625,
    "languages": [
-    "it",
-    "hu",
-    "pt-br",
-    "ru",
     "en",
-    "es-la",
-    "ar",
-    "fr",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d64b0768-bebe-433c-b923-99870503c0a3",
+   "title": {
+    "en": "Dark Gathering"
+   },
+   "contentRating": "safe",
+   "score": 0.20979474,
+   "languages": [
+    "pt-br",
+    "en",
     "vi",
-    "uk",
-    "he",
-    "id",
-    "zh-hk",
     "es",
-    "de",
-    "",
-    "sr",
-    "th",
-    "mn",
-    "ms",
-    "tr"
-   ]
-  },
-  {
-   "id": "dcc1a514-8d48-44a7-a38b-d48e3cac4335",
-   "title": {
-    "en": "Tetsunagi Kooni"
-   },
-   "contentRating": "safe",
-   "score": 0.2037072,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8bd19e5c-94f7-4368-a918-50f463857446",
-   "title": {
-    "en": "Kuroshitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.20114101,
-   "languages": [
-    "en",
-    "pt-br",
-    "hu",
-    "tr",
     "es-la",
-    "bg",
-    "fr",
-    "it",
-    "uk"
+    "zh-hk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:10+00:00"
+ "updatedAt": "2023-12-10T18:28:27+00:00"
 }

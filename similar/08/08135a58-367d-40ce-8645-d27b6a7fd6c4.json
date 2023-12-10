@@ -11,7 +11,7 @@
     "en": "White Day"
    },
    "contentRating": "safe",
-   "score": 0.45533824,
+   "score": 0.48018333,
    "languages": [
     "bg",
     "pl",
@@ -24,7 +24,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.3593849,
+   "score": 0.35589278,
    "languages": [
     "en",
     "id"
@@ -36,10 +36,21 @@
     "en": "Ashita no Kimi ga Suki"
    },
    "contentRating": "safe",
-   "score": 0.34329435,
+   "score": 0.33852988,
    "languages": [
     "vi",
     "fr"
+   ]
+  },
+  {
+   "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
+   "title": {
+    "en": "White of Dawn"
+   },
+   "contentRating": "safe",
+   "score": 0.3303166,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -48,7 +59,7 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.32270607,
+   "score": 0.32041878,
    "languages": [
     "en",
     "pl",
@@ -61,20 +72,9 @@
     "en": "And twinkle"
    },
    "contentRating": "safe",
-   "score": 0.31397578,
+   "score": 0.31105748,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
-   "title": {
-    "en": "White of Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.31317592,
-   "languages": [
     "en"
    ]
   },
@@ -84,7 +84,7 @@
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.30904528,
+   "score": 0.30834895,
    "languages": [
     "pt-br",
     "en"
@@ -96,7 +96,7 @@
     "en": "Sakura Yoi Machi, Yahan Mae"
    },
    "contentRating": "safe",
-   "score": 0.30775276,
+   "score": 0.30697104,
    "languages": [
     "en",
     "fr"
@@ -108,7 +108,7 @@
     "en": "Slice of Black Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.30725276,
+   "score": 0.30451462,
    "languages": [
     "en",
     "hu",
@@ -117,14 +117,14 @@
    ]
   },
   {
-   "id": "32b61031-e570-46af-921e-027cfae497f5",
+   "id": "db1840a0-c263-4436-a152-36ea85f4f9e9",
    "title": {
-    "en": "Clip Your Face"
+    "en": "White Carol"
    },
    "contentRating": "safe",
-   "score": 0.30607617,
+   "score": 0.30442563,
    "languages": [
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -133,9 +133,20 @@
     "en": "Kimi no Ai de Motenashite"
    },
    "contentRating": "safe",
-   "score": 0.3044148,
+   "score": 0.3037926,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "32b61031-e570-46af-921e-027cfae497f5",
+   "title": {
+    "en": "Clip Your Face"
+   },
+   "contentRating": "safe",
+   "score": 0.30371672,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -144,46 +155,10 @@
     "en": "Nishuukan Kareshi"
    },
    "contentRating": "safe",
-   "score": 0.30409193,
+   "score": 0.30348262,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "db1840a0-c263-4436-a152-36ea85f4f9e9",
-   "title": {
-    "en": "White Carol"
-   },
-   "contentRating": "safe",
-   "score": 0.30268213,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bc5735b4-1977-4c6e-b3cd-244a4a836130",
-   "title": {
-    "en": "Shoujo Ningyo"
-   },
-   "contentRating": "safe",
-   "score": 0.30079135,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3c771e77-26f3-44cc-a4d3-f948186926d0",
-   "title": {
-    "en": "Mokyu..."
-   },
-   "contentRating": "safe",
-   "score": 0.30064705,
-   "languages": [
-    "fr",
-    "id",
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -192,12 +167,34 @@
     "en": "Amber"
    },
    "contentRating": "safe",
-   "score": 0.30035093,
+   "score": 0.29947242,
    "languages": [
     "en",
     "id"
    ]
+  },
+  {
+   "id": "305a3654-743c-4061-b8d3-1c9a489e7189",
+   "title": {
+    "en": "Itsuwari Darling"
+   },
+   "contentRating": "safe",
+   "score": 0.29944217,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bc5735b4-1977-4c6e-b3cd-244a4a836130",
+   "title": {
+    "en": "Shoujo Ningyo"
+   },
+   "contentRating": "safe",
+   "score": 0.29931676,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:04+00:00"
+ "updatedAt": "2023-12-10T18:09:12+00:00"
 }

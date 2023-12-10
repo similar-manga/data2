@@ -22,7 +22,7 @@
     "en": "Tonimo Kakunimo"
    },
    "contentRating": "suggestive",
-   "score": 0.23817416,
+   "score": 0.23820922,
    "languages": [
     "id",
     "pt-br",
@@ -48,24 +48,12 @@
     "en": "Black Yome ni Yoroshiku!"
    },
    "contentRating": "suggestive",
-   "score": 0.21952818,
+   "score": 0.21917064,
    "languages": [
     "fr",
     "en",
     "es",
     "it"
-   ]
-  },
-  {
-   "id": "631f17a1-4ef9-4204-8cf8-cae5391ecca3",
-   "title": {
-    "en": "Metal Heart"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21884048,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -91,12 +79,24 @@
    ]
   },
   {
+   "id": "631f17a1-4ef9-4204-8cf8-cae5391ecca3",
+   "title": {
+    "en": "Metal Heart"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21884048,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "14fc9998-5abe-484e-8a7b-b8bf254686de",
    "title": {
     "en": "Heaven"
    },
    "contentRating": "suggestive",
-   "score": 0.21790837,
+   "score": 0.21774435,
    "languages": [
     "en"
    ]
@@ -107,13 +107,30 @@
     "en": "Atsumare! Fushigi Kenkyu-bu"
    },
    "contentRating": "suggestive",
-   "score": 0.21682073,
+   "score": 0.2159513,
    "languages": [
     "en",
     "pt-br",
     "id",
     "vi",
     "fr"
+   ]
+  },
+  {
+   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "title": {
+    "en": "Amagami-san Chi no Enmusubi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2118165,
+   "languages": [
+    "pt-br",
+    "fr",
+    "id",
+    "ar",
+    "en",
+    "ru",
+    "vi"
    ]
   },
   {
@@ -128,20 +145,14 @@
    ]
   },
   {
-   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "id": "a24d6347-fae3-4b54-af68-ee3e01cd3475",
    "title": {
-    "en": "Amagami-san Chi no Enmusubi"
+    "en": "Ru~mu! Room No.1301"
    },
    "contentRating": "suggestive",
-   "score": 0.20839177,
+   "score": 0.20642692,
    "languages": [
-    "pt-br",
-    "fr",
-    "id",
-    "ar",
-    "en",
-    "ru",
-    "vi"
+    "en"
    ]
   },
   {
@@ -153,6 +164,21 @@
    "score": 0.20398019,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4ff51820-2e82-4294-bdd9-c0b4874317d3",
+   "title": {
+    "en": "Douyara Boku no Hanayome wa Onna Kishidan na you de"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20398019,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en",
+    "ru",
+    "id"
    ]
   },
   {
@@ -180,33 +206,7 @@
     "ru",
     "en"
    ]
-  },
-  {
-   "id": "4ff51820-2e82-4294-bdd9-c0b4874317d3",
-   "title": {
-    "en": "Douyara Boku no Hanayome wa Onna Kishidan na you de"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20398019,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en",
-    "ru",
-    "id"
-   ]
-  },
-  {
-   "id": "a24d6347-fae3-4b54-af68-ee3e01cd3475",
-   "title": {
-    "en": "Ru~mu! Room No.1301"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20056151,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:21+00:00"
+ "updatedAt": "2023-12-10T18:09:59+00:00"
 }

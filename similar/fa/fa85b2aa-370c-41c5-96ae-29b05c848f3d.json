@@ -11,7 +11,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.23491539,
+   "score": 0.23267601,
    "languages": [
     "es-la",
     "en",
@@ -32,7 +32,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.23031361,
+   "score": 0.22963265,
    "languages": [
     "en",
     "it",
@@ -56,7 +56,7 @@
     "en": "Vagabond"
    },
    "contentRating": "safe",
-   "score": 0.22420615,
+   "score": 0.22420585,
    "languages": [
     "it",
     "pt-br",
@@ -76,7 +76,7 @@
     "en": "Napoleon - Age of the Lion"
    },
    "contentRating": "safe",
-   "score": 0.2208217,
+   "score": 0.22024347,
    "languages": [
     "en"
    ]
@@ -87,7 +87,7 @@
     "en": "Kiba no Tabishounin - The Arms Peddler"
    },
    "contentRating": "safe",
-   "score": 0.21229024,
+   "score": 0.20969419,
    "languages": [
     "pt-br",
     "en",
@@ -97,12 +97,35 @@
    ]
   },
   {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.20938061,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "9b7c8f21-1842-4b13-adf5-22ae6a1367be",
+   "title": {
+    "en": "The Story of Our Corpse Hunt"
+   },
+   "contentRating": "safe",
+   "score": 0.20746602,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
    "title": {
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.20791802,
+   "score": 0.20664373,
    "languages": [
     "tr",
     "en",
@@ -118,8 +141,23 @@
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.20530261,
+   "score": 0.20516023,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e5ddee5-eccb-48cc-b6bb-43488cc9791f",
+   "title": {
+    "en": "Vagabond (Hong Kong Colored Version)"
+   },
+   "contentRating": "safe",
+   "score": 0.20499153,
+   "languages": [
+    "fa",
+    "ar",
+    "kk",
+    "pt-br",
     "en"
    ]
   },
@@ -129,7 +167,7 @@
     "en": "Kamisama, Kisama wo Koroshitai."
    },
    "contentRating": "safe",
-   "score": 0.20525545,
+   "score": 0.20328227,
    "languages": [
     "en"
    ]
@@ -140,7 +178,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20242716,
+   "score": 0.20189418,
    "languages": [
     "en"
    ]
@@ -166,7 +204,7 @@
     "en": "Terra Formars"
    },
    "contentRating": "safe",
-   "score": 0.19797802,
+   "score": 0.19793476,
    "languages": [
     "en",
     "pt-br",
@@ -192,47 +230,11 @@
     "en": "Resident Evil: Phantom Beast of the North Sea"
    },
    "contentRating": "safe",
-   "score": 0.18894449,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.18430105,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "62d96fe4-cfb1-450f-a6f8-119f3528b44b",
-   "title": {
-    "en": "DINER"
-   },
-   "contentRating": "safe",
-   "score": 0.18167922,
-   "languages": [
-    "pt-br",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
-   "title": {
-    "en": "Godzilla vs. Destroyah Red"
-   },
-   "contentRating": "safe",
-   "score": 0.1773224,
+   "score": 0.1878091,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:48+00:00"
 }

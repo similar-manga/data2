@@ -11,7 +11,7 @@
     "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
    },
    "contentRating": "safe",
-   "score": 0.34359995
+   "score": 0.3488871
   },
   {
    "id": "64cd0472-db8b-4686-b039-c1b8ffb44cb0",
@@ -19,7 +19,7 @@
     "en": "Yamato Takeru (WATSUKI Nobuhiro)"
    },
    "contentRating": "safe",
-   "score": 0.28365847,
+   "score": 0.2787916,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.2712171,
+   "score": 0.2718343,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.26781434,
+   "score": 0.27023646,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "Galaxy Express 999 Another Story: Ultimate Journey"
    },
    "contentRating": "safe",
-   "score": 0.26342887,
+   "score": 0.26563066,
    "languages": [
     "ru"
    ]
@@ -63,7 +63,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.25539297,
+   "score": 0.2577432,
    "languages": [
     "en"
    ]
@@ -74,7 +74,7 @@
     "en": "Fullmetal Alchemist: The Prototype"
    },
    "contentRating": "safe",
-   "score": 0.25108477,
+   "score": 0.25389594,
    "languages": [
     "pt-br"
    ]
@@ -85,7 +85,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.23953955,
+   "score": 0.23937707,
    "languages": [
     "en"
    ]
@@ -96,7 +96,7 @@
     "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.23431975
+   "score": 0.23655663
   },
   {
    "id": "41797f21-635f-428d-8a71-78c25ed11b46",
@@ -104,11 +104,19 @@
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.23163053,
+   "score": 0.2318109,
    "languages": [
     "es-la",
     "en"
    ]
+  },
+  {
+   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
+   "title": {
+    "en": "Miraizer Vam"
+   },
+   "contentRating": "safe",
+   "score": 0.23079768
   },
   {
    "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
@@ -120,14 +128,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
-   "title": {
-    "en": "Miraizer Vam"
-   },
-   "contentRating": "safe",
-   "score": 0.2271745
   },
   {
    "id": "ddd44276-89d1-4b8c-89e6-f5ea24e44079",
@@ -143,24 +143,24 @@
    ]
   },
   {
-   "id": "49c033b0-621b-43bf-b478-45725ea0d47f",
-   "title": {
-    "en": "∀ Gundam - ∀ “Korokoro”"
-   },
-   "contentRating": "safe",
-   "score": 0.21801908,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "8a30b4df-40a2-48c4-8887-667a7be1a832",
    "title": {
     "en": "Gundam Reconguista in G"
    },
    "contentRating": "safe",
-   "score": 0.2178657
+   "score": 0.2179877
+  },
+  {
+   "id": "49c033b0-621b-43bf-b478-45725ea0d47f",
+   "title": {
+    "en": "∀ Gundam - ∀ “Korokoro”"
+   },
+   "contentRating": "safe",
+   "score": 0.21781017,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   },
   {
    "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
@@ -168,11 +168,11 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.21664615,
+   "score": 0.2159677,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:34+00:00"
+ "updatedAt": "2023-12-10T18:16:10+00:00"
 }

@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.6838691
+  },
+  {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
    "title": {
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.61312425,
+   "score": 0.6161471,
    "languages": [
     "en"
    ]
@@ -22,7 +30,15 @@
     "en": "The Son of the Godfather"
    },
    "contentRating": "safe",
-   "score": 0.4369419
+   "score": 0.6093356
+  },
+  {
+   "id": "11791846-4b84-4557-9e6b-d2c714b57db3",
+   "title": {
+    "en": "Todoroki Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.43069413
   },
   {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
@@ -30,7 +46,7 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.366671
+   "score": 0.37999615
   },
   {
    "id": "58f807bd-1f51-4d80-972f-2cc89a844a79",
@@ -38,7 +54,15 @@
     "en": "Osamu Tezuka Mother's Once Upon a Time"
    },
    "contentRating": "safe",
-   "score": 0.30605137
+   "score": 0.31272733
+  },
+  {
+   "id": "8b189d49-999d-41d9-bc70-328c990026f9",
+   "title": {
+    "en": "Alice in Osamuland"
+   },
+   "contentRating": "safe",
+   "score": 0.29881126
   },
   {
    "id": "0b80be23-1e56-4295-b551-31d7461874ee",
@@ -46,7 +70,7 @@
     "en": "TEAM PHOENIX"
    },
    "contentRating": "safe",
-   "score": 0.2716053
+   "score": 0.28210133
   },
   {
    "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
@@ -54,7 +78,7 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.24061768,
+   "score": 0.25341272,
    "languages": [
     "en"
    ]
@@ -65,7 +89,7 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.2372384
+   "score": 0.24486311
   },
   {
    "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
@@ -73,26 +97,18 @@
     "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.22965455,
+   "score": 0.22827685,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6576ac4c-0251-4978-ace8-70c675cb3b86",
+   "id": "c442d007-1349-43b8-b893-6a9ce710ba3c",
    "title": {
-    "en": "Seeds of Anxiety*"
+    "en": "Onna no Mado"
    },
    "contentRating": "safe",
-   "score": 0.21973412
-  },
-  {
-   "id": "84a64104-2129-49d3-80ea-2d21bffc5fd5",
-   "title": {
-    "en": "Shissou Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.21514967
+   "score": 0.22683823
   },
   {
    "id": "a16ce0c1-da89-45c0-b453-4eba7cf6b28d",
@@ -100,19 +116,7 @@
     "en": "Yomawari Neko"
    },
    "contentRating": "safe",
-   "score": 0.2148939
-  },
-  {
-   "id": "f052fabc-7687-4140-ba3a-22e43009cd3d",
-   "title": {
-    "en": "Oni (KANNO Osamu)"
-   },
-   "contentRating": "safe",
-   "score": 0.20963992,
-   "languages": [
-    "vi",
-    "en"
-   ]
+   "score": 0.2233739
   },
   {
    "id": "1d8f855d-7a57-4ae0-858e-ec7cba999a89",
@@ -120,7 +124,7 @@
     "en": "Mika and the Rainbow Cat"
    },
    "contentRating": "safe",
-   "score": 0.20856443,
+   "score": 0.2229137,
    "languages": [
     "en"
    ]
@@ -131,30 +135,19 @@
     "en": "The Guardian of Mt. Moon"
    },
    "contentRating": "safe",
-   "score": 0.20754911,
+   "score": 0.22082259,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7ce83763-093c-4c2a-8104-c610221eb765",
+   "id": "6576ac4c-0251-4978-ace8-70c675cb3b86",
    "title": {
-    "en": "Airport"
+    "en": "Seeds of Anxiety*"
    },
    "contentRating": "safe",
-   "score": 0.20521277
-  },
-  {
-   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
-   "title": {
-    "en": "Succeed"
-   },
-   "contentRating": "safe",
-   "score": 0.20171721,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21965414
   }
  ],
- "updatedAt": "2023-12-10T01:10:12+00:00"
+ "updatedAt": "2023-12-10T18:35:59+00:00"
 }

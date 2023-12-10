@@ -11,7 +11,7 @@
     "en": "Mahoutsukai Mana to H no Tobira"
    },
    "contentRating": "suggestive",
-   "score": 0.23213665,
+   "score": 0.22817595,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"
    },
    "contentRating": "suggestive",
-   "score": 0.22734821,
+   "score": 0.22534414,
    "languages": [
     "it",
     "pt-br",
@@ -37,7 +37,7 @@
     "en": "Chounin A wa Akuyaku Reijou wo Doushitemo Sukuitai"
    },
    "contentRating": "suggestive",
-   "score": 0.22652078,
+   "score": 0.22504877,
    "languages": [
     "mn",
     "en"
@@ -49,7 +49,7 @@
     "ja-ro": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.21874446,
+   "score": 0.2173823,
    "languages": [
     "en",
     "ru",
@@ -65,7 +65,7 @@
     "en": "Bijo to Kenja to Majin no Ken"
    },
    "contentRating": "suggestive",
-   "score": 0.2142332,
+   "score": 0.21355002,
    "languages": [
     "en",
     "fr",
@@ -80,7 +80,7 @@
     "en": "Isekai Kenkokuki"
    },
    "contentRating": "suggestive",
-   "score": 0.20958178,
+   "score": 0.20811686,
    "languages": [
     "pt-br",
     "fr",
@@ -96,7 +96,7 @@
     "en": "Orc Hero Story - Discovery Chronicles"
    },
    "contentRating": "suggestive",
-   "score": 0.20705792,
+   "score": 0.206572,
    "languages": [
     "en",
     "id",
@@ -112,7 +112,7 @@
     "en": "A Skeleton Who Was The Brave"
    },
    "contentRating": "suggestive",
-   "score": 0.20403041,
+   "score": 0.20357321,
    "languages": [
     "en",
     "ru",
@@ -134,29 +134,6 @@
    ]
   },
   {
-   "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
-   "title": {
-    "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19208555,
-   "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "pl",
-    "es-la",
-    "ru",
-    "tr",
-    "ar",
-    "id",
-    "vi",
-    "uk",
-    "fr",
-    "hu"
-   ]
-  },
-  {
    "id": "cbce49c7-6311-4955-8b10-1005775d5cee",
    "title": {
     "en": "The Strongest Dull Prince's Secret Battle for the Throne"
@@ -174,12 +151,35 @@
    ]
   },
   {
+   "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
+   "title": {
+    "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19156094,
+   "languages": [
+    "pt-br",
+    "en",
+    "it",
+    "pl",
+    "es-la",
+    "ru",
+    "tr",
+    "ar",
+    "id",
+    "vi",
+    "uk",
+    "fr",
+    "hu"
+   ]
+  },
+  {
    "id": "136a8c13-cf72-427a-8d76-23f1bf070c0e",
    "title": {
     "en": "S-Rank Monster no Behemoth Dakedo, Neko to Machigawarete Erufu Musume no Kishi (Pet) Toshite Kurashitemasu"
    },
    "contentRating": "suggestive",
-   "score": 0.19154082,
+   "score": 0.18925998,
    "languages": [
     "ru",
     "fr",
@@ -190,24 +190,12 @@
    ]
   },
   {
-   "id": "ff73a7a3-0f65-47d6-9f71-6c3c529dcd9b",
-   "title": {
-    "en": "Saikin Haitta Shiro Madoushi ga Party Crusher de, Ore no Isekai Boukensha Seikatsu ga Houkai ni Kiki na Ken ni Tsuite"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18452506,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "df59c687-346f-45fa-b351-ee8dc09f752f",
    "title": {
     "en": "Tales of Wedding Rings"
    },
    "contentRating": "suggestive",
-   "score": 0.18351476,
+   "score": 0.18306758,
    "languages": [
     "pt-br",
     "ru",
@@ -226,7 +214,7 @@
     "en": "Sekai Saikyou no Assassin, Isekai Kizoku ni Tensei Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.1833036,
+   "score": 0.18262033,
    "languages": [
     "pt-br",
     "ru",
@@ -235,6 +223,18 @@
     "en",
     "fr",
     "es-la"
+   ]
+  },
+  {
+   "id": "ff73a7a3-0f65-47d6-9f71-6c3c529dcd9b",
+   "title": {
+    "en": "Saikin Haitta Shiro Madoushi ga Party Crusher de, Ore no Isekai Boukensha Seikatsu ga Houkai ni Kiki na Ken ni Tsuite"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18246605,
+   "languages": [
+    "id",
+    "en"
    ]
   },
   {
@@ -253,5 +253,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:26+00:00"
+ "updatedAt": "2023-12-10T18:34:06+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Kantai Collection -KanColle- Kuchikukan no kuseni namaiki da!! (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.32127023,
+   "score": 0.32550466,
    "languages": [
     "es-la"
    ]
@@ -40,15 +40,19 @@
    ]
   },
   {
-   "id": "9feee689-2eb4-4b79-95b3-436e99733b5d",
+   "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
    "title": {
-    "en": "Fire Emblem - Your Pretty Hair (Doujinshi)"
+    "en": "Thank You"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "pt-br",
+    "id",
     "en",
-    "es-la"
+    "ru",
+    "fr",
+    "it"
    ]
   },
   {
@@ -78,19 +82,15 @@
    ]
   },
   {
-   "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
+   "id": "9feee689-2eb4-4b79-95b3-436e99733b5d",
    "title": {
-    "en": "Thank You"
+    "en": "Fire Emblem - Your Pretty Hair (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "pt-br",
-    "id",
     "en",
-    "ru",
-    "fr",
-    "it"
+    "es-la"
    ]
   },
   {
@@ -99,7 +99,19 @@
     "en": "THE iDOLM@STER - Ummei no Akai Kumo no Ito (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.21891575,
+   "score": 0.22117543,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "9ac67c30-24fc-4f2f-84dd-6a3741f16463",
+   "title": {
+    "en": "Fullmetal Alchemist - Traumerei (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.21651629,
    "languages": [
     "en",
     "it"
@@ -117,15 +129,42 @@
    ]
   },
   {
-   "id": "6f0df0eb-9670-4977-9bed-720211c073bf",
+   "id": "d2adbcda-bd1e-4deb-b53f-144519b86085",
    "title": {
-    "en": "Saigo no Negai ~Last Pray~"
+    "en": "Akazukin to Yasashii Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "it",
+    "pl",
+    "bg"
+   ]
+  },
+  {
+   "id": "0c197e2b-a688-40d7-918a-ef36335586a3",
+   "title": {
+    "en": "Fullmetal Alchemist - Love Me Tender (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "1d0068f1-c17c-4b82-bc2f-11e529898838",
+   "title": {
+    "en": "Pom the Panda"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
     "en",
-    "it"
+    "it",
+    "pl",
+    "fr"
    ]
   },
   {
@@ -164,20 +203,6 @@
    ]
   },
   {
-   "id": "d2adbcda-bd1e-4deb-b53f-144519b86085",
-   "title": {
-    "en": "Akazukin to Yasashii Ookami"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pt-br",
-    "it",
-    "pl",
-    "bg"
-   ]
-  },
-  {
    "id": "270c4033-18cb-435a-90f5-e5b562777902",
    "title": {
     "en": "Fate/Grand Order - Nobbu Shitei Kyoudai (doujinshi)"
@@ -191,32 +216,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "1d0068f1-c17c-4b82-bc2f-11e529898838",
-   "title": {
-    "en": "Pom the Panda"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "it",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "0c197e2b-a688-40d7-918a-ef36335586a3",
-   "title": {
-    "en": "Fullmetal Alchemist - Love Me Tender (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:50+00:00"
+ "updatedAt": "2023-12-10T18:19:26+00:00"
 }

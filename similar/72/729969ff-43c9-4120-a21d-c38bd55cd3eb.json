@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.27940643,
+   "score": 0.2810675,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.25303352,
+   "score": 0.2531168,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +34,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.24027124,
+   "score": 0.23993814,
    "languages": [
     "pt-br",
     "es",
@@ -48,12 +48,23 @@
    ]
   },
   {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.21850714,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.21623164,
+   "score": 0.2147065,
    "languages": [
     "id",
     "en",
@@ -79,20 +90,8 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.21402317,
+   "score": 0.21156237,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
-   "title": {
-    "en": "Tokyo Doragon Naito"
-   },
-   "contentRating": "safe",
-   "score": 0.2051249,
-   "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -115,8 +114,20 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.19579478,
+   "score": 0.19553776,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
+   "title": {
+    "en": "Tokyo Doragon Naito"
+   },
+   "contentRating": "safe",
+   "score": 0.19526887,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -126,18 +137,7 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.1916825,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
-   "title": {
-    "en": "Locke the Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.19025172,
+   "score": 0.19091062,
    "languages": [
     "en"
    ]
@@ -158,18 +158,14 @@
    ]
   },
   {
-   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
+   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
    "title": {
-    "en": "Persona 5"
+    "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.18854806,
+   "score": 0.19025172,
    "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "id",
-    "es"
+    "en"
    ]
   },
   {
@@ -224,5 +220,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:19+00:00"
+ "updatedAt": "2023-12-10T18:20:45+00:00"
 }

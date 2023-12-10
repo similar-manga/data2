@@ -6,14 +6,74 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
+   "title": {
+    "en": "Monogatari no Naka no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.30297273,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "fe2c084b-083d-4eb9-91bd-f6825f9701db",
+   "title": {
+    "en": "Mahou Gakuen no Daizai Majutsushi"
+   },
+   "contentRating": "safe",
+   "score": 0.2959667
+  },
+  {
+   "id": "70daece1-af3e-4475-b3e7-a3bde8de4606",
+   "title": {
+    "en": "Magic Master"
+   },
+   "contentRating": "safe",
+   "score": 0.29371226
+  },
+  {
+   "id": "7772d596-24b0-4e2b-afe6-8e5f2a713dc6",
+   "title": {
+    "en": "High School Cyborg Gen"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "d11b40f8-8d4a-479c-98ce-5b480b600b78",
+   "title": {
+    "en": "Suihelibe!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
    "title": {
     "en": "Hadaka no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.28286704,
+   "score": 0.28310025,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2825713,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
    ]
   },
   {
@@ -22,10 +82,29 @@
     "en": "Magic Pico Girl"
    },
    "contentRating": "safe",
-   "score": 0.27966452,
+   "score": 0.27875525,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b5ceba59-69c4-4cd7-b866-e26c6f6c512a",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai Twitter Extras"
+   },
+   "contentRating": "safe",
+   "score": 0.27402613,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c76086aa-3a71-4b0c-9148-ebed66ac4b20",
+   "title": {
+    "en": "Majimekei Kuzu no Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.26988393
   },
   {
    "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
@@ -33,7 +112,7 @@
     "en": "RDG - Red Data Girl"
    },
    "contentRating": "safe",
-   "score": 0.26697508,
+   "score": 0.26642892,
    "languages": [
     "en",
     "fr"
@@ -45,7 +124,7 @@
     "en": "Yuuto no Shinro Kibou"
    },
    "contentRating": "safe",
-   "score": 0.26626593,
+   "score": 0.26584873,
    "languages": [
     "en"
    ]
@@ -56,7 +135,7 @@
     "en": "Hageruya!"
    },
    "contentRating": "safe",
-   "score": 0.26168784,
+   "score": 0.2618027,
    "languages": [
     "en"
    ]
@@ -67,7 +146,7 @@
     "en": "Sweety"
    },
    "contentRating": "safe",
-   "score": 0.26114595,
+   "score": 0.26034918,
    "languages": [
     "en"
    ]
@@ -78,109 +157,23 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.26062062,
+   "score": 0.26005507,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
+   "id": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
    "title": {
-    "en": "Hana to Harinezumi"
+    "en": "Kimi to Warui Koto ga Shitai"
    },
    "contentRating": "safe",
-   "score": 0.25810835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "20fb9a68-f4c2-4f83-b34b-fd98838eb1d2",
-   "title": {
-    "en": "Miracle☆Gift"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.25950035,
    "languages": [
     "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "67bcffa9-406d-45c8-a34c-e32b0d11c572",
-   "title": {
-    "en": "Boku no Ushiro ni Majo ga Iru"
-   },
-   "contentRating": "safe",
-   "score": 0.24439712,
-   "languages": [
-    "es",
-    "en",
-    "tr",
-    "pt-br",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "775662a1-ac6c-4523-b9db-87ebc983742b",
-   "title": {
-    "en": "Field★Trip"
-   },
-   "contentRating": "safe",
-   "score": 0.2439297,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "339e757b-4b69-4ee6-82e0-aa1d695b0fa9",
-   "title": {
-    "en": "Donkey High School"
-   },
-   "contentRating": "safe",
-   "score": 0.24074692
-  },
-  {
-   "id": "66297109-c52d-41fa-82f1-506092dc00b9",
-   "title": {
-    "en": "17-sai Kara Yarinaosu Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.24061117,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "a6a89c2e-6806-49b3-a388-5150f5351de0",
-   "title": {
-    "en": "Mahouka Koukou no Rettousei - Koritsu-hen"
-   },
-   "contentRating": "safe",
-   "score": 0.23967984
-  },
-  {
-   "id": "27afc20d-7537-477c-93c7-3cd615a6cd39",
-   "title": {
-    "en": "Guardian Garden - Mamori Hito no Niwa"
-   },
-   "contentRating": "safe",
-   "score": 0.23726344
-  },
-  {
-   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
-   "title": {
-    "en": "Jibun Daisuki Aise-san"
-   },
-   "contentRating": "safe",
-   "score": 0.23623893,
-   "languages": [
-    "id",
-    "en"
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:34+00:00"
+ "updatedAt": "2023-12-10T18:10:34+00:00"
 }

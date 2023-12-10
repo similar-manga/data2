@@ -11,7 +11,7 @@
     "en": "Think Tank"
    },
    "contentRating": "suggestive",
-   "score": 0.33904067
+   "score": 0.33785692
   },
   {
    "id": "8cb2b7a2-669b-402f-98ba-c4f493aaeb54",
@@ -19,7 +19,7 @@
     "en": "Sumirenchi"
    },
    "contentRating": "suggestive",
-   "score": 0.32941243
+   "score": 0.33206064
   },
   {
    "id": "ca5fb826-a0be-4c9b-8b38-13c0a444c86b",
@@ -27,7 +27,7 @@
     "en": "she is beautiful"
    },
    "contentRating": "suggestive",
-   "score": 0.3291495,
+   "score": 0.32908937,
    "languages": [
     "en",
     "es-la",
@@ -40,7 +40,7 @@
     "en": "Mystery Minzoku Gakusha Yakumo Itsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.32233715,
+   "score": 0.3225869,
    "languages": [
     "en"
    ]
@@ -51,7 +51,7 @@
     "en": "Try Angel"
    },
    "contentRating": "suggestive",
-   "score": 0.3156363
+   "score": 0.31533465
   },
   {
    "id": "f2d1669f-912f-4d8b-847f-6c0d8464db6c",
@@ -59,18 +59,7 @@
     "en": "1O8"
    },
    "contentRating": "suggestive",
-   "score": 0.31424654
-  },
-  {
-   "id": "ab5c12e3-6065-4109-9f38-7c0744053082",
-   "title": {
-    "en": "Michio"
-   },
-   "contentRating": "suggestive",
-   "score": 0.30926794,
-   "languages": [
-    "vi"
-   ]
+   "score": 0.31349885
   },
   {
    "id": "39741ad0-c82e-473d-8b10-73ee1f7a2bdd",
@@ -78,7 +67,7 @@
     "en": "Everyday I am Human"
    },
    "contentRating": "suggestive",
-   "score": 0.30884257
+   "score": 0.30851623
   },
   {
    "id": "634a7706-9c64-4c68-8f02-2fb6c0ee01cc",
@@ -86,9 +75,20 @@
     "en": "Suzunone"
    },
    "contentRating": "suggestive",
-   "score": 0.3079321,
+   "score": 0.30797955,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ab5c12e3-6065-4109-9f38-7c0744053082",
+   "title": {
+    "en": "Michio"
+   },
+   "contentRating": "suggestive",
+   "score": 0.30793887,
+   "languages": [
+    "vi"
    ]
   },
   {
@@ -97,18 +97,7 @@
     "en": "Zutto Seishun Poi desu yo"
    },
    "contentRating": "suggestive",
-   "score": 0.30631706,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0e2d1e59-9954-4afc-8881-9e1b7057db4d",
-   "title": {
-    "en": "All Star Collaboration Comic"
-   },
-   "contentRating": "suggestive",
-   "score": 0.30580378,
+   "score": 0.30705366,
    "languages": [
     "en"
    ]
@@ -119,18 +108,7 @@
     "en": "The Black and Red Staircase"
    },
    "contentRating": "suggestive",
-   "score": 0.30560878
-  },
-  {
-   "id": "6e44f02d-3aa4-4a17-b378-f63f274b2c02",
-   "title": {
-    "en": "Isekai Tensei Shita kedo Pantsu wo Rensei suru Nouryoku shika Arimasen"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3042927,
-   "languages": [
-    "en"
-   ]
+   "score": 0.30540508
   },
   {
    "id": "125ee433-6c56-4bc6-afcc-a321adc9f89d",
@@ -138,19 +116,28 @@
     "en": "Stand by Me: Kakuemon"
    },
    "contentRating": "suggestive",
-   "score": 0.3042426
+   "score": 0.3050043
   },
   {
-   "id": "a2225df7-0cbf-46a6-9b96-56adba090e6b",
+   "id": "0e2d1e59-9954-4afc-8881-9e1b7057db4d",
    "title": {
-    "en": "Robot"
+    "en": "All Star Collaboration Comic"
    },
    "contentRating": "suggestive",
-   "score": 0.30403337,
+   "score": 0.30417717,
    "languages": [
-    "en",
-    "bg",
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "6e44f02d-3aa4-4a17-b378-f63f274b2c02",
+   "title": {
+    "en": "Isekai Tensei Shita kedo Pantsu wo Rensei suru Nouryoku shika Arimasen"
+   },
+   "contentRating": "suggestive",
+   "score": 0.30414394,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -159,11 +146,24 @@
     "en": "Jigoku Ane"
    },
    "contentRating": "suggestive",
-   "score": 0.30394596,
+   "score": 0.3038522,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a2225df7-0cbf-46a6-9b96-56adba090e6b",
+   "title": {
+    "en": "Robot"
+   },
+   "contentRating": "suggestive",
+   "score": 0.30321386,
+   "languages": [
+    "en",
+    "bg",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:15+00:00"
+ "updatedAt": "2023-12-10T18:25:50+00:00"
 }

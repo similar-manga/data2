@@ -28,7 +28,7 @@
     "en": "Kashikoi"
    },
    "contentRating": "suggestive",
-   "score": 0.2797652,
+   "score": 0.27984026,
    "languages": [
     "en",
     "pt-br"
@@ -40,7 +40,7 @@
     "en": "La La La"
    },
    "contentRating": "suggestive",
-   "score": 0.26018962,
+   "score": 0.26051912,
    "languages": [
     "en"
    ]
@@ -63,7 +63,7 @@
     "en": "Love Yume Mix"
    },
    "contentRating": "suggestive",
-   "score": 0.24687703,
+   "score": 0.24654157,
    "languages": [
     "en"
    ]
@@ -74,24 +74,9 @@
     "en": "Asobi ni Iku yo!"
    },
    "contentRating": "suggestive",
-   "score": 0.23457114,
+   "score": 0.2388009,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b4c93297-b32f-4f90-b619-55456a38b0aa",
-   "title": {
-    "en": "Fuufu Ijou, Koibito Miman."
-   },
-   "contentRating": "suggestive",
-   "score": 0.23412052,
-   "languages": [
-    "vi",
-    "fr",
-    "pt-br",
-    "en",
-    "es-la"
    ]
   },
   {
@@ -100,7 +85,7 @@
     "en": "Ganbare, Douki-chan (Alt. Numbering)"
    },
    "contentRating": "suggestive",
-   "score": 0.23365039,
+   "score": 0.23355931,
    "languages": [
     "ru",
     "pt-br",
@@ -113,25 +98,29 @@
    ]
   },
   {
+   "id": "b4c93297-b32f-4f90-b619-55456a38b0aa",
+   "title": {
+    "en": "Fuufu Ijou, Koibito Miman."
+   },
+   "contentRating": "suggestive",
+   "score": 0.23246376,
+   "languages": [
+    "vi",
+    "fr",
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "86798356-a6c6-47af-bdec-d10177c7250a",
    "title": {
     "en": "Joushi no Atsu ga Tsuyo Sugite Koi ga Dekinai"
    },
    "contentRating": "suggestive",
-   "score": 0.23253113,
+   "score": 0.2320006,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "300d5dea-64d4-4d85-9954-b23424fe45ad",
-   "title": {
-    "en": "Princess Lover!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23204985,
-   "languages": [
-    "pl"
    ]
   },
   {
@@ -140,38 +129,21 @@
     "en": "Union!"
    },
    "contentRating": "suggestive",
-   "score": 0.23124638,
+   "score": 0.23136912,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "80dbce9d-92a8-4a19-8bd5-b1727dc0f6c8",
+   "id": "300d5dea-64d4-4d85-9954-b23424fe45ad",
    "title": {
-    "en": "Choukadou Girls"
+    "en": "Princess Lover!"
    },
    "contentRating": "suggestive",
-   "score": 0.23115425,
+   "score": 0.23129328,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1918983a-1b03-493a-a734-590f4075f5f0",
-   "title": {
-    "en": "Onee-chan wa Game o Suruto Hito ga Kawaru Onee-chan"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23115425,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "id",
-    "vi",
-    "pl",
-    "es-la"
+    "pl"
    ]
   },
   {
@@ -207,12 +179,40 @@
    ]
   },
   {
+   "id": "80dbce9d-92a8-4a19-8bd5-b1727dc0f6c8",
+   "title": {
+    "en": "Choukadou Girls"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23115425,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1918983a-1b03-493a-a734-590f4075f5f0",
+   "title": {
+    "en": "Onee-chan wa Game o Suruto Hito ga Kawaru Onee-chan"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23115425,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "id",
+    "vi",
+    "pl",
+    "es-la"
+   ]
+  },
+  {
    "id": "6c00ba6a-0240-47bd-9fb4-b01d2fd69ce7",
    "title": {
     "en": "Mijuku na Futari de Gozaimasu ga"
    },
    "contentRating": "suggestive",
-   "score": 0.22872572,
+   "score": 0.22798136,
    "languages": [
     "en",
     "id",
@@ -221,5 +221,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:20+00:00"
+ "updatedAt": "2023-12-10T18:28:53+00:00"
 }

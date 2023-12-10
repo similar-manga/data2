@@ -6,28 +6,30 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "853f628b-ac25-4865-9f72-3f45d86f798b",
+   "title": {
+    "en": "Tonari no Stella"
+   },
+   "contentRating": "safe",
+   "score": 0.3377434,
+   "languages": [
+    "pt-br",
+    "vi",
+    "ru",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "d0a108e6-cf37-4269-a1b3-69009bae743f",
    "title": {
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.332828,
+   "score": 0.33606452,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "cffa51b0-e218-47c3-a96a-f3eda9d2e7d4",
-   "title": {
-    "en": "Ame Tokidoki Koi Moyou"
-   },
-   "contentRating": "safe",
-   "score": 0.32150137,
-   "languages": [
-    "en",
-    "hu",
-    "id"
    ]
   },
   {
@@ -36,11 +38,24 @@
     "en": "\"Hajimete\" Ageru!"
    },
    "contentRating": "safe",
-   "score": 0.3193788,
+   "score": 0.32104355,
    "languages": [
     "pl",
     "en",
     "ro"
+   ]
+  },
+  {
+   "id": "cffa51b0-e218-47c3-a96a-f3eda9d2e7d4",
+   "title": {
+    "en": "Ame Tokidoki Koi Moyou"
+   },
+   "contentRating": "safe",
+   "score": 0.32060754,
+   "languages": [
+    "en",
+    "hu",
+    "id"
    ]
   },
   {
@@ -49,7 +64,7 @@
     "en": "Ama Iro Omoi"
    },
    "contentRating": "safe",
-   "score": 0.30720794,
+   "score": 0.30650815,
    "languages": [
     "pl",
     "en"
@@ -61,7 +76,7 @@
     "en": "Kirihara Mika no Yuuutsu"
    },
    "contentRating": "safe",
-   "score": 0.3065518,
+   "score": 0.305797,
    "languages": [
     "en"
    ]
@@ -72,7 +87,7 @@
     "en": "Yorimichi :RE"
    },
    "contentRating": "safe",
-   "score": 0.30558285,
+   "score": 0.30411333,
    "languages": [
     "en",
     "tr"
@@ -84,7 +99,7 @@
     "en": "Koi Koinegau"
    },
    "contentRating": "safe",
-   "score": 0.3035613,
+   "score": 0.3032193,
    "languages": [
     "en",
     "fr"
@@ -96,20 +111,9 @@
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.3025905,
+   "score": 0.3023332,
    "languages": [
     "es",
-    "en"
-   ]
-  },
-  {
-   "id": "9b26241e-4a44-4c10-899b-3fa9b31f4c25",
-   "title": {
-    "en": "Hitsuji wo Kazoete Dokomademo"
-   },
-   "contentRating": "safe",
-   "score": 0.30198476,
-   "languages": [
     "en"
    ]
   },
@@ -119,7 +123,7 @@
     "en": "Okitsune no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.3017291,
+   "score": 0.30137378,
    "languages": [
     "en"
    ]
@@ -130,9 +134,20 @@
     "en": "Namae mo Shiranai"
    },
    "contentRating": "safe",
-   "score": 0.30138004,
+   "score": 0.30102193,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "9b26241e-4a44-4c10-899b-3fa9b31f4c25",
+   "title": {
+    "en": "Hitsuji wo Kazoete Dokomademo"
+   },
+   "contentRating": "safe",
+   "score": 0.30092636,
+   "languages": [
     "en"
    ]
   },
@@ -142,7 +157,7 @@
     "en": "Dynamite Star"
    },
    "contentRating": "safe",
-   "score": 0.3001719,
+   "score": 0.29932925,
    "languages": [
     "pl",
     "en",
@@ -155,7 +170,7 @@
     "en": "Anata no Uta ni Koishite Mita"
    },
    "contentRating": "safe",
-   "score": 0.29953134,
+   "score": 0.29923272,
    "languages": [
     "fr",
     "en"
@@ -167,7 +182,7 @@
     "en": "Love Period"
    },
    "contentRating": "safe",
-   "score": 0.29815942,
+   "score": 0.29791838,
    "languages": [
     "en",
     "es-la"
@@ -179,23 +194,12 @@
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.2973358,
+   "score": 0.29675964,
    "languages": [
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "a1102449-1b47-479f-8968-99023b9c5d30",
-   "title": {
-    "en": "Onkochisin na Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.29697657,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:05+00:00"
+ "updatedAt": "2023-12-10T18:28:15+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Crazy Convenience Store"
    },
    "contentRating": "suggestive",
-   "score": 0.3061993,
+   "score": 0.30390978,
    "languages": [
     "en",
     "ru"
@@ -23,7 +23,7 @@
     "en": "Senpai Kara Me ga Hanasenai to Aru Kaishain no Nichijou"
    },
    "contentRating": "suggestive",
-   "score": 0.2776718,
+   "score": 0.27304807,
    "languages": [
     "fr",
     "en",
@@ -39,7 +39,7 @@
     "en": "Ichijouma Mankitsu Gurashi"
    },
    "contentRating": "suggestive",
-   "score": 0.25994813,
+   "score": 0.26121703,
    "languages": [
     "en"
    ]
@@ -50,7 +50,7 @@
     "en": "Seitokai ni mo Ana wa Aru!"
    },
    "contentRating": "suggestive",
-   "score": 0.25269884,
+   "score": 0.24892882,
    "languages": [
     "en",
     "id"
@@ -62,7 +62,7 @@
     "en": "Paranoia Cage"
    },
    "contentRating": "suggestive",
-   "score": 0.25133175,
+   "score": 0.24646302,
    "languages": [
     "ru",
     "pt-br",
@@ -82,24 +82,35 @@
    ]
   },
   {
+   "id": "a562a4c2-0030-40ff-9629-a67a42fe2044",
+   "title": {
+    "en": "Keyaki shimai no Shiki"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23870482,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6234614b-65df-4c0c-83ac-611c3dc0268d",
    "title": {
     "en": "Furi2Play!"
    },
    "contentRating": "suggestive",
-   "score": 0.24282101,
+   "score": 0.23614268,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "a562a4c2-0030-40ff-9629-a67a42fe2044",
+   "id": "67df8deb-b321-4158-87dc-1bb3276892ed",
    "title": {
-    "en": "Keyaki shimai no Shiki"
+    "en": "Kyoukai Senjou no Horizon - Animedia 4koma"
    },
    "contentRating": "suggestive",
-   "score": 0.241572,
+   "score": 0.23532934,
    "languages": [
     "en"
    ]
@@ -116,12 +127,12 @@
    ]
   },
   {
-   "id": "67df8deb-b321-4158-87dc-1bb3276892ed",
+   "id": "d906f45f-3a57-4bd3-96ac-dcc856cd0e1f",
    "title": {
-    "en": "Kyoukai Senjou no Horizon - Animedia 4koma"
+    "en": "Monster Musume no Iru Nichijou - 4-koma Anthology"
    },
    "contentRating": "suggestive",
-   "score": 0.23532934,
+   "score": 0.22431739,
    "languages": [
     "en"
    ]
@@ -132,7 +143,7 @@
     "en": "Ore no Kokan wa Bishoujo Datta no ka"
    },
    "contentRating": "suggestive",
-   "score": 0.22416312,
+   "score": 0.22387935,
    "languages": [
     "en",
     "pt-br",
@@ -140,17 +151,6 @@
     "vi",
     "tr",
     "ru"
-   ]
-  },
-  {
-   "id": "d906f45f-3a57-4bd3-96ac-dcc856cd0e1f",
-   "title": {
-    "en": "Monster Musume no Iru Nichijou - 4-koma Anthology"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21942832,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -168,19 +168,6 @@
    ]
   },
   {
-   "id": "14fe3778-68d5-406d-ac03-88653c29b0f3",
-   "title": {
-    "en": "Makabe-san wa Tada Motetai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20764354,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "8f1a419b-f768-4f14-929b-05bc760b6d29",
    "title": {
     "en": "Ani Yome-san no Sewa wo Yaku"
@@ -194,16 +181,30 @@
    ]
   },
   {
-   "id": "1c6f0478-16c9-460e-8513-487ac7416d5f",
+   "id": "d457706e-b464-4f67-83ec-257cdb04dec7",
    "title": {
-    "en": "Ane to Muchi"
+    "en": "I don't know much about garage kits"
    },
    "contentRating": "suggestive",
    "score": 0.20764354,
    "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "14fe3778-68d5-406d-ac03-88653c29b0f3",
+   "title": {
+    "en": "Makabe-san wa Tada Motetai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20764354,
+   "languages": [
+    "pt-br",
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:21+00:00"
+ "updatedAt": "2023-12-10T18:18:07+00:00"
 }

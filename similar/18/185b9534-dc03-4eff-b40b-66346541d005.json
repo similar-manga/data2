@@ -6,27 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d5f4e407-581b-46f9-9b8e-6cd1d8a5008a",
+   "title": {
+    "en": "10-nenkan Karada wo Nottorare Akujo ni natte Ita Watashi ni, Nidoto Kao wo Miseru na to Konyaku Haki shite Kita Kishi-sama ga Kyou mo Sugatte kuru"
+   },
+   "contentRating": "safe",
+   "score": 0.29996192,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "d3d86139-3c1f-4c29-8b5c-eb6573eea39a",
    "title": {
     "en": "Akuyaku Reijou, Godome no Jinsei wo Jaryuu to Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.273667,
+   "score": 0.27204913,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
+   "id": "91ee504c-f455-469b-bfbc-f1d78cb8f487",
    "title": {
-    "en": "Seijo ni naru no de Nidoume no Jinsei wa Katte ni sasete moraimasu ~Outaishi wa, Zensei de Watashi wo Futta Koibito deshita~"
+    "en": "Marquis of Amnesia"
    },
    "contentRating": "safe",
-   "score": 0.26960006,
+   "score": 0.2705749,
    "languages": [
-    "es-la",
-    "en"
+    "en",
+    "it"
    ]
   },
   {
@@ -35,7 +47,7 @@
     "en": "Loop 7-kai me no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome (Hitojichi) Seikatsu wo Mankitsu Suru"
    },
    "contentRating": "safe",
-   "score": 0.26923984,
+   "score": 0.2677093,
    "languages": [
     "id",
     "en",
@@ -44,14 +56,41 @@
    ]
   },
   {
+   "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
+   "title": {
+    "en": "Seijo ni naru no de Nidoume no Jinsei wa Katte ni sasete moraimasu ~Outaishi wa, Zensei de Watashi wo Futta Koibito deshita~"
+   },
+   "contentRating": "safe",
+   "score": 0.2674023,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "b0eae9bd-bdcf-4fc2-820c-095aa89ea190",
    "title": {
     "en": "I Will Remove Them From My Life"
    },
    "contentRating": "safe",
-   "score": 0.26741928,
+   "score": 0.2631637,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ab44f11b-a02c-427e-84ee-cce4bb6e77ef",
+   "title": {
+    "en": "Yane Urabeya no Koushaku Fujin"
+   },
+   "contentRating": "safe",
+   "score": 0.26148787,
+   "languages": [
+    "fr",
+    "th",
+    "pt-br",
+    "en",
+    "tr"
    ]
   },
   {
@@ -60,7 +99,7 @@
     "en": "Don't Overlook the Reincarnated Granny - The Second Life of a Former Villainous Empress"
    },
    "contentRating": "safe",
-   "score": 0.26169685,
+   "score": 0.25874135,
    "languages": [
     "en",
     "th",
@@ -69,35 +108,12 @@
    ]
   },
   {
-   "id": "6997022b-345a-4e05-8f97-1c5c9a4eaf0c",
-   "title": {
-    "en": "Tearmoon Teikoku Monogatari: Juusha-Tachi no Ochakai"
-   },
-   "contentRating": "safe",
-   "score": 0.2527093,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "fc18c0a3-dbd4-4f0f-88af-105cc6990b55",
-   "title": {
-    "en": "Moto Akuyaku Reijo Makimodotta node Ouji-sama kara Tousou Shiyou to Omoimasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.2526937,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "77ae6d99-0d2d-4f63-8903-6246cac20897",
    "title": {
     "en": "Tearmoon Empire Story: The Reincarnation Reversal Story of the Princess, Starting from the Guillotine~@COMIC"
    },
    "contentRating": "safe",
-   "score": 0.25261548,
+   "score": 0.25214684,
    "languages": [
     "en",
     "id",
@@ -109,14 +125,74 @@
    ]
   },
   {
+   "id": "6997022b-345a-4e05-8f97-1c5c9a4eaf0c",
+   "title": {
+    "en": "Tearmoon Teikoku Monogatari: Juusha-Tachi no Ochakai"
+   },
+   "contentRating": "safe",
+   "score": 0.25202775,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "fc18c0a3-dbd4-4f0f-88af-105cc6990b55",
+   "title": {
+    "en": "Moto Akuyaku Reijo Makimodotta node Ouji-sama kara Tousou Shiyou to Omoimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.25066802,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fd77f868-bdfb-46e2-a0f5-e3c5ec0a1bf8",
+   "title": {
+    "en": "\"Shinde Miro\" to Iwareta no de Shinimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.247824,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "a795cee1-18e5-4ec3-ac2a-9675128d6afd",
    "title": {
     "en": "Outaishi-sama, Watashi Kondo Koso Anata ni Korosaretakunain desu!"
    },
    "contentRating": "safe",
-   "score": 0.24680877,
+   "score": 0.2464115,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ef73c8fa-b0e7-40a5-a68f-16c43ae071b0",
+   "title": {
+    "en": "Victoria Winner Ostwen Ouhi wa Sekai de Ichiban Erasou de Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.24637167,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "426f0648-3411-48f1-8ac9-c725e9110605",
+   "title": {
+    "en": "Of Course, I'll Claim Palimony!"
+   },
+   "contentRating": "safe",
+   "score": 0.24251679,
+   "languages": [
+    "ru",
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -125,79 +201,12 @@
     "en": "Moto Keikoku no Bijo to Flag Crusher Outaishi"
    },
    "contentRating": "safe",
-   "score": 0.2421401,
+   "score": 0.24148469,
    "languages": [
     "th",
     "en"
    ]
-  },
-  {
-   "id": "3521c5e8-a737-43a3-97b6-c25d2f23d24e",
-   "title": {
-    "en": "The Villainess Will Die in Three Years"
-   },
-   "contentRating": "safe",
-   "score": 0.23836407,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f90a87ef-6e42-4879-ad97-30fe5613da5c",
-   "title": {
-    "en": "Byoujaku na Akuyaku Reijou desu ga, Konyakusha ga Kahogo sugite Nigedashitai (Watashitachi Kenen no Naka deshita yo ne!?)"
-   },
-   "contentRating": "safe",
-   "score": 0.23586492,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0c70814d-4089-4830-b36a-7b2e2dcdb735",
-   "title": {
-    "en": "I Parted Countlessly From My Beloved Over a Millennium, Now I Shall Become the Wicked Lady"
-   },
-   "contentRating": "safe",
-   "score": 0.23379867,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "be685968-bda0-4c88-ab2f-c6e1345344cc",
-   "title": {
-    "en": "The Banished Villainess' Husband"
-   },
-   "contentRating": "safe",
-   "score": 0.22644599,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5af60d6c-8b8e-4ca3-bc10-3046543c1614",
-   "title": {
-    "en": "The Small Village of the Young Lady Without Blessing"
-   },
-   "contentRating": "safe",
-   "score": 0.22253682,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "641ef96d-fe37-4fa1-854b-dcef9623a145",
-   "title": {
-    "en": "Strange Love Rivals Increased!"
-   },
-   "contentRating": "safe",
-   "score": 0.22227909,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:42+00:00"
+ "updatedAt": "2023-12-10T18:10:56+00:00"
 }

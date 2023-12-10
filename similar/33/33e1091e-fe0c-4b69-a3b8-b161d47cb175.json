@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d1c3c133-9e76-4a54-85cf-7967449c5e8f",
+   "title": {
+    "en": "The Monster Manor, Cursed by Blood"
+   },
+   "contentRating": "safe",
+   "score": 0.2855417
+  },
+  {
    "id": "bbd2a7c5-e0a0-44bd-bae6-9e56ee7d7d11",
    "title": {
     "en": "The Dark Academy of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.26905593
+   "score": 0.2697606
   },
   {
    "id": "64e7b9a0-2725-4f25-ba4a-35eb42d58507",
@@ -19,7 +27,7 @@
     "en": "The Dreadful Marionettes"
    },
    "contentRating": "safe",
-   "score": 0.24251032
+   "score": 0.24283156
   },
   {
    "id": "b904d62a-ec59-4a3b-a5e7-dac29285d88a",
@@ -27,7 +35,15 @@
     "en": "White Snake Girl"
    },
    "contentRating": "safe",
-   "score": 0.23582707
+   "score": 0.23690882
+  },
+  {
+   "id": "41c91756-9713-4067-82ae-164f8f8f8122",
+   "title": {
+    "en": "The Blood-Sucking Little Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.22771686
   },
   {
    "id": "8cfc7113-7174-4154-87c0-f1968723ce8b",
@@ -35,7 +51,23 @@
     "en": "The Wrathful Cat Girl"
    },
    "contentRating": "safe",
-   "score": 0.22360127
+   "score": 0.22443835
+  },
+  {
+   "id": "bf55afae-b557-47c3-9c5c-3fbcc006021c",
+   "title": {
+    "en": "The Blood-Stained Bamboo Dolls"
+   },
+   "contentRating": "safe",
+   "score": 0.22292762
+  },
+  {
+   "id": "4fae8dcf-1488-4851-9751-a628e2a1b757",
+   "title": {
+    "en": "The Venomous Spotted Spider"
+   },
+   "contentRating": "safe",
+   "score": 0.22240187
   },
   {
    "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
@@ -43,7 +75,7 @@
     "en": "Kaeremasen."
    },
    "contentRating": "safe",
-   "score": 0.22207963,
+   "score": 0.21844852,
    "languages": [
     "en"
    ]
@@ -54,7 +86,7 @@
     "en": "Mane of the Wind"
    },
    "contentRating": "safe",
-   "score": 0.20526613,
+   "score": 0.20491782,
    "languages": [
     "en"
    ]
@@ -65,18 +97,7 @@
     "en": "Redrum 327"
    },
    "contentRating": "safe",
-   "score": 0.20342313
-  },
-  {
-   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
-   "title": {
-    "en": "Deguchi Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.19700074,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20232584
   },
   {
    "id": "cf91a0c4-b43d-4698-8b66-54a9820c24ef",
@@ -84,10 +105,37 @@
     "en": "Doyou Wide Club e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.19165184,
+   "score": 0.1984927,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
+   "title": {
+    "en": "Deguchi Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.19725911,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bbac1bff-6f25-41f7-a7c2-239ef40851db",
+   "title": {
+    "en": "Museum of Horror"
+   },
+   "contentRating": "safe",
+   "score": 0.18367404
+  },
+  {
+   "id": "4c20cc6a-762e-429f-a068-134d6405975d",
+   "title": {
+    "en": "Fushigi no Tatari-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.18367404
   },
   {
    "id": "96848047-b5f8-4e1e-a20f-c1593da6919e",
@@ -99,69 +147,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "711c7ca2-e528-4f9a-bc7b-936075cdc0ed",
-   "title": {
-    "en": "House of Riddles"
-   },
-   "contentRating": "safe",
-   "score": 0.17717804,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e5e72a5-9c42-4c9b-861c-ab17274d0f88",
-   "title": {
-    "en": "White Snake Manor"
-   },
-   "contentRating": "safe",
-   "score": 0.17625527
-  },
-  {
-   "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
-   "title": {
-    "en": "Red House"
-   },
-   "contentRating": "safe",
-   "score": 0.17328966,
-   "languages": [
-    "fr",
-    "ro",
-    "pt-br",
-    "en",
-    "de",
-    "pl"
-   ]
-  },
-  {
-   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
-   "title": {
-    "en": "Sayonara Limit"
-   },
-   "contentRating": "safe",
-   "score": 0.1706222,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
-   "title": {
-    "en": "Lady Lizard"
-   },
-   "contentRating": "safe",
-   "score": 0.16534606
-  },
-  {
-   "id": "64748df2-2022-4391-bfac-a0f20ad3cb12",
-   "title": {
-    "en": "Quartet Game"
-   },
-   "contentRating": "safe",
-   "score": 0.1634325
   }
  ],
- "updatedAt": "2023-12-10T01:01:44+00:00"
+ "updatedAt": "2023-12-10T18:13:51+00:00"
 }

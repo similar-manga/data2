@@ -11,7 +11,7 @@
     "en": "Kawaii Satou-kun"
    },
    "contentRating": "safe",
-   "score": 0.31746683,
+   "score": 0.3158752,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Tenkou Zenya"
    },
    "contentRating": "safe",
-   "score": 0.3121719
+   "score": 0.3110692
   },
   {
    "id": "d9da4002-bab5-4ec7-90d8-5eea6e2ab1d3",
@@ -31,7 +31,7 @@
     "en": "My Wife Is a High School Student"
    },
    "contentRating": "safe",
-   "score": 0.31070665
+   "score": 0.3104214
   },
   {
    "id": "a0ee613a-84df-4f02-a131-8d7abf8aecd3",
@@ -39,7 +39,7 @@
     "en": "Sonna Kimi Demo Suki Nanda"
    },
    "contentRating": "safe",
-   "score": 0.30849373
+   "score": 0.30793694
   },
   {
    "id": "93326065-285f-407f-93e7-e0481c620d13",
@@ -47,9 +47,21 @@
     "en": "Natsu no Ashiato"
    },
    "contentRating": "safe",
-   "score": 0.30617905,
+   "score": 0.30581024,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "669f6453-5639-4db0-be17-8ce743066cb3",
+   "title": {
+    "en": "Two Cups of Coffee"
+   },
+   "contentRating": "safe",
+   "score": 0.29589784,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -58,31 +70,7 @@
     "en": "Sono Tenshi, Toriatsukai Chuui!"
    },
    "contentRating": "safe",
-   "score": 0.2961628
-  },
-  {
-   "id": "669f6453-5639-4db0-be17-8ce743066cb3",
-   "title": {
-    "en": "Two Cups of Coffee"
-   },
-   "contentRating": "safe",
-   "score": 0.29588994,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "4b85991b-ee4e-4f72-9016-b9ccca09d1a7",
-   "title": {
-    "en": "No Use Crying Over Spilt Milk"
-   },
-   "contentRating": "safe",
-   "score": 0.29544052,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
+   "score": 0.29584527
   },
   {
    "id": "b8dbc07c-d94b-4883-9bde-cfff0b284aab",
@@ -90,7 +78,19 @@
     "en": "Sensei to Megane, Ikenai Kiss"
    },
    "contentRating": "safe",
-   "score": 0.29528448
+   "score": 0.29495662
+  },
+  {
+   "id": "4b85991b-ee4e-4f72-9016-b9ccca09d1a7",
+   "title": {
+    "en": "No Use Crying Over Spilt Milk"
+   },
+   "contentRating": "safe",
+   "score": 0.29493034,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "db12d3fc-9863-488a-a432-fe0664f964e3",
@@ -98,8 +98,20 @@
     "en": "I Love My Sister's Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.29517493,
+   "score": 0.29475537,
    "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "167689d9-f80e-4ffe-8f59-44d0b41a5f4f",
+   "title": {
+    "en": "Hand-in-Hand Lovers"
+   },
+   "contentRating": "safe",
+   "score": 0.2947232,
+   "languages": [
+    "en",
     "pl"
    ]
   },
@@ -109,7 +121,7 @@
     "en": "Android Dilemma"
    },
    "contentRating": "safe",
-   "score": 0.29487175,
+   "score": 0.29469493,
    "languages": [
     "en"
    ]
@@ -120,53 +132,38 @@
     "en": "Ano Ko ni Kubittake"
    },
    "contentRating": "safe",
-   "score": 0.2947049,
+   "score": 0.29456437,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "327a66e0-f10d-4264-94a7-5ba00b468142",
+   "id": "46205e13-92c2-45c3-b0d2-564d68cebd8d",
    "title": {
-    "en": "Go Isshou ni Heart mo Atatamemasuka?"
-   },
-   "contentRating": "safe",
-   "score": 0.2929896,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "a7f59aa1-588e-4f86-bf81-40c3dce279e6",
-   "title": {
-    "en": "Imokenpi wa Koi wo Yobu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08df1856-3103-4b33-80c3-4c45f9079fc8",
-   "title": {
-    "en": "Hot Cherry"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "ae508711-0a6c-4d1b-acc3-02665405ffcf",
-   "title": {
-    "en": "Hatsukoi, Katakoi."
+    "en": "Renjou Aquarium"
    },
    "contentRating": "safe",
    "score": 0.2857143
+  },
+  {
+   "id": "e0ebdf44-3200-4c33-9269-0ca0c8ad633e",
+   "title": {
+    "en": "Kimi to Hajimari no Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "b9906402-a1ed-4294-8fdb-176ec94e8c02",
+   "title": {
+    "en": "Akai Kami no Marure Ina"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:23+00:00"
+ "updatedAt": "2023-12-10T18:34:00+00:00"
 }

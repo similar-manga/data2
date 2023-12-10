@@ -11,7 +11,7 @@
     "en": "Bara to Zirconia"
    },
    "contentRating": "safe",
-   "score": 0.27133763,
+   "score": 0.27011564,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Bound Love"
    },
    "contentRating": "safe",
-   "score": 0.27041462,
+   "score": 0.27008405,
    "languages": [
     "en",
     "tr",
@@ -35,7 +35,7 @@
     "en": "Merry Go Round In Wonderland"
    },
    "contentRating": "safe",
-   "score": 0.2635286,
+   "score": 0.26302868,
    "languages": [
     "en"
    ]
@@ -46,38 +46,23 @@
     "en": "Ever Share Color"
    },
    "contentRating": "safe",
-   "score": 0.25904527,
+   "score": 0.2591042,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "fe03831e-c8b8-4c82-b244-f71b095aab2c",
+   "id": "9ada6ee8-efd8-446c-a94f-22431a57fa83",
    "title": {
-    "en": "Line"
-   },
-   "contentRating": "safe",
-   "score": 0.25815433,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
-   "title": {
-    "en": "Lost Girl"
+    "en": "Happy Birthday!"
    },
    "contentRating": "safe",
    "score": 0.25750363,
    "languages": [
-    "ru",
-    "pt-br",
     "en",
-    "tr",
-    "es-la",
-    "pl",
-    "fr"
+    "ko",
+    "es"
    ]
   },
   {
@@ -103,16 +88,31 @@
    ]
   },
   {
-   "id": "9ada6ee8-efd8-446c-a94f-22431a57fa83",
+   "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
    "title": {
-    "en": "Happy Birthday!"
+    "en": "Lost Girl"
    },
    "contentRating": "safe",
    "score": 0.25750363,
    "languages": [
+    "ru",
+    "pt-br",
     "en",
-    "ko",
-    "es"
+    "tr",
+    "es-la",
+    "pl",
+    "fr"
+   ]
+  },
+  {
+   "id": "fe03831e-c8b8-4c82-b244-f71b095aab2c",
+   "title": {
+    "en": "Line"
+   },
+   "contentRating": "safe",
+   "score": 0.25732762,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -121,7 +121,7 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.25372317,
+   "score": 0.253615,
    "languages": [
     "en",
     "bg"
@@ -133,7 +133,7 @@
     "en": "Everybody Loves Somebody"
    },
    "contentRating": "safe",
-   "score": 0.25313738,
+   "score": 0.252913,
    "languages": [
     "it",
     "en"
@@ -145,9 +145,23 @@
     "en": "Ouji to Hime to Watashi"
    },
    "contentRating": "safe",
-   "score": 0.24877477,
+   "score": 0.24837598,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0a52218a-076e-4201-9a12-a6f5a662e8eb",
+   "title": {
+    "en": "Tsubomi (Anthology)"
+   },
+   "contentRating": "safe",
+   "score": 0.24822894,
+   "languages": [
+    "it",
+    "en",
+    "tr",
+    "pl"
    ]
   },
   {
@@ -156,7 +170,7 @@
     "en": "bit by bit"
    },
    "contentRating": "safe",
-   "score": 0.24799778,
+   "score": 0.24779154,
    "languages": [
     "en"
    ]
@@ -167,24 +181,10 @@
     "en": "Hyakuoku Nengo no Kimi no Koe mo"
    },
    "contentRating": "safe",
-   "score": 0.24613513,
+   "score": 0.2463128,
    "languages": [
     "it",
     "en"
-   ]
-  },
-  {
-   "id": "0a52218a-076e-4201-9a12-a6f5a662e8eb",
-   "title": {
-    "en": "Tsubomi (Anthology)"
-   },
-   "contentRating": "safe",
-   "score": 0.24555896,
-   "languages": [
-    "it",
-    "en",
-    "tr",
-    "pl"
    ]
   },
   {
@@ -193,12 +193,12 @@
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.2416864,
+   "score": 0.24046381,
    "languages": [
     "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:04+00:00"
+ "updatedAt": "2023-12-10T18:35:41+00:00"
 }

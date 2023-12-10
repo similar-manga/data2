@@ -11,7 +11,7 @@
     "en": "Yuki no Koi"
    },
    "contentRating": "safe",
-   "score": 0.29570007,
+   "score": 0.29976088,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Visukiisu no Akai Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.2838761,
+   "score": 0.28691545,
    "languages": [
     "en",
     "pl",
@@ -35,7 +35,7 @@
     "en": "Wasurene no Language"
    },
    "contentRating": "safe",
-   "score": 0.26340312,
+   "score": 0.26203242,
    "languages": [
     "pl",
     "en",
@@ -48,7 +48,7 @@
     "en": "Kokoro Rental"
    },
    "contentRating": "safe",
-   "score": 0.25199383,
+   "score": 0.25226474,
    "languages": [
     "pl",
     "en",
@@ -61,7 +61,7 @@
     "en": "Kyoukai no Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.251794,
+   "score": 0.2514203,
    "languages": [
     "en",
     "pl"
@@ -73,7 +73,7 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.2375535,
+   "score": 0.23715948,
    "languages": [
     "en",
     "bg"
@@ -85,22 +85,10 @@
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.23741652,
+   "score": 0.23715132,
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "aed16a84-b4cf-431d-898f-2809c422522f",
-   "title": {
-    "en": "Tsuyogari"
-   },
-   "contentRating": "safe",
-   "score": 0.23648079,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -115,27 +103,26 @@
    ]
   },
   {
+   "id": "aed16a84-b4cf-431d-898f-2809c422522f",
+   "title": {
+    "en": "Tsuyogari"
+   },
+   "contentRating": "safe",
+   "score": 0.23569755,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "2124b898-a137-4592-9431-2a9e1ab3ab00",
    "title": {
     "en": "Jane and Harlequin"
    },
    "contentRating": "safe",
-   "score": 0.23123033,
+   "score": 0.23104437,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
-   "title": {
-    "en": "Candy Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.22992767,
-   "languages": [
-    "fr",
-    "en",
-    "tr"
    ]
   },
   {
@@ -144,20 +131,9 @@
     "en": "Everybody Loves Somebody"
    },
    "contentRating": "safe",
-   "score": 0.22986451,
+   "score": 0.22972518,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
-   "title": {
-    "en": "Deguchi Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.22791877,
-   "languages": [
     "en"
    ]
   },
@@ -167,18 +143,18 @@
     "en": "Daruma no Kokoro"
    },
    "contentRating": "safe",
-   "score": 0.22710402,
+   "score": 0.22960539,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "54dc90bd-01b5-44d0-97a3-7a6caf0ed2f1",
+   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
    "title": {
-    "en": "Bokura no Hana no Saku Koro no"
+    "en": "Deguchi Zero"
    },
    "contentRating": "safe",
-   "score": 0.22440635,
+   "score": 0.22770047,
    "languages": [
     "en"
    ]
@@ -189,11 +165,35 @@
     "en": "Seiten Nari!"
    },
    "contentRating": "safe",
-   "score": 0.22420579,
+   "score": 0.22552381,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "54dc90bd-01b5-44d0-97a3-7a6caf0ed2f1",
+   "title": {
+    "en": "Bokura no Hana no Saku Koro no"
+   },
+   "contentRating": "safe",
+   "score": 0.22428326,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
+   "title": {
+    "en": "Candy Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.22363116,
+   "languages": [
+    "fr",
+    "en",
+    "tr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:45+00:00"
+ "updatedAt": "2023-12-10T18:16:35+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
    },
    "contentRating": "safe",
-   "score": 0.23377188,
+   "score": 0.2378904,
    "languages": [
     "ru",
     "en"
@@ -23,10 +23,29 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.22359043,
+   "score": 0.22350816,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "31c672d9-ccce-44f0-98b0-f45fde110414",
+   "title": {
+    "en": "Arc the Lad II - Flame of Elk"
+   },
+   "contentRating": "safe",
+   "score": 0.21423641
+  },
+  {
+   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
+   "title": {
+    "en": "Mobile Suit Gundam F90 FF"
+   },
+   "contentRating": "safe",
+   "score": 0.2140129,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -41,34 +60,12 @@
    ]
   },
   {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
+   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
    "title": {
-    "en": "Mobile Suit Gundam F90 FF"
+    "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.2140129,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31c672d9-ccce-44f0-98b0-f45fde110414",
-   "title": {
-    "en": "Arc the Lad II - Flame of Elk"
-   },
-   "contentRating": "safe",
-   "score": 0.21383534
-  },
-  {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.2105462,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21025641
   },
   {
    "id": "c7665fcd-6e62-4283-8651-5e5b0aed9d73",
@@ -76,23 +73,7 @@
     "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.20982362
-  },
-  {
-   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
-   "title": {
-    "en": "Shiden Kai Hawk"
-   },
-   "contentRating": "safe",
-   "score": 0.2093337
-  },
-  {
-   "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
-   "title": {
-    "en": "Shin Hyataro of the Ushiro"
-   },
-   "contentRating": "safe",
-   "score": 0.20812738
+   "score": 0.20955503
   },
   {
    "id": "ca6261ee-82c1-464f-b8b8-0f15c315f805",
@@ -100,10 +81,29 @@
     "en": "DCD Diamond Cut Diamond"
    },
    "contentRating": "safe",
-   "score": 0.2063699,
+   "score": 0.20925038,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
+   "title": {
+    "en": "Shin Hyataro of the Ushiro"
+   },
+   "contentRating": "safe",
+   "score": 0.20818624
+  },
+  {
+   "id": "6a7d0f70-e41c-4385-bb1c-3868f53144d8",
+   "title": {
+    "en": "Brave Bell"
+   },
+   "contentRating": "safe",
+   "score": 0.20406926,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -129,20 +129,41 @@
    ]
   },
   {
+   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "title": {
+    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+   },
+   "contentRating": "safe",
+   "score": 0.20303048,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
    "title": {
     "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.20129326
+   "score": 0.20196387
   },
   {
-   "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
    "title": {
-    "en": "Teito Monogatari"
+    "en": "Yomi no Tsugai"
    },
    "contentRating": "safe",
-   "score": 0.19967239
+   "score": 0.20042479,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
   },
   {
    "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
@@ -150,19 +171,11 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.19935618,
+   "score": 0.1992699,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "553f2052-6320-4657-a5f1-ef5713d73be2",
-   "title": {
-    "en": "21st Century Adventure"
-   },
-   "contentRating": "safe",
-   "score": 0.1988289
   }
  ],
- "updatedAt": "2023-12-10T01:07:25+00:00"
+ "updatedAt": "2023-12-10T18:29:06+00:00"
 }

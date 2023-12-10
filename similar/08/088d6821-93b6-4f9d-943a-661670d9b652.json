@@ -6,14 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "24fe1d62-cc52-431f-9d09-0455a6b499fd",
+   "title": {
+    "en": "The Girl in the Sailor Uniform"
+   },
+   "contentRating": "safe",
+   "score": 0.3153244,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "b1a6218d-c3ad-4f50-a606-fdab9ae53153",
    "title": {
     "en": "Gunjou no Sumu Machi"
    },
    "contentRating": "safe",
-   "score": 0.31537846,
+   "score": 0.313544,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6b804c1a-2d85-4f09-b6ca-8b109e0191e6",
+   "title": {
+    "en": "Hana wa Saku, Shura no Gotoku"
+   },
+   "contentRating": "safe",
+   "score": 0.3082073,
+   "languages": [
+    "en",
+    "th",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -22,7 +48,7 @@
     "en": "Impatiens"
    },
    "contentRating": "safe",
-   "score": 0.30267742,
+   "score": 0.30135345,
    "languages": [
     "en"
    ]
@@ -33,21 +59,8 @@
     "en": "Jane and Harlequin"
    },
    "contentRating": "safe",
-   "score": 0.29488808,
+   "score": 0.2945312,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8a82dd6-88a0-4e61-b09d-47be1e6b6ee7",
-   "title": {
-    "en": "Take Off"
-   },
-   "contentRating": "safe",
-   "score": 0.28752026,
-   "languages": [
-    "pt-br",
-    "pl",
     "en"
    ]
   },
@@ -55,17 +68,6 @@
    "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
    "title": {
     "en": "Esora Hikouki"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4f65c275-ce24-4267-935d-6573cf6e7cd2",
-   "title": {
-    "en": "The Two in the Corner"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -86,12 +88,47 @@
    ]
   },
   {
+   "id": "4f65c275-ce24-4267-935d-6573cf6e7cd2",
+   "title": {
+    "en": "The Two in the Corner"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f8a82dd6-88a0-4e61-b09d-47be1e6b6ee7",
+   "title": {
+    "en": "Take Off"
+   },
+   "contentRating": "safe",
+   "score": 0.28510043,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4d9538e4-c15c-4542-acf4-fa3f7d230281",
+   "title": {
+    "en": "My New Friend is a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.283321,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2b5ef364-a7d2-42b1-915e-93c5e7140952",
    "title": {
     "en": "A Breeze of Kanome"
    },
    "contentRating": "safe",
-   "score": 0.2799447,
+   "score": 0.27958593,
    "languages": [
     "en"
    ]
@@ -102,7 +139,7 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.27776352,
+   "score": 0.2786254,
    "languages": [
     "en"
    ]
@@ -113,26 +150,21 @@
     "en": "Fuyukoshi-chan no No Pan Biyori"
    },
    "contentRating": "safe",
-   "score": 0.27757615,
+   "score": 0.27470946,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "321c00bb-3522-4250-ab41-36cf9274c442",
+   "id": "12311367-3e5c-416e-9e26-29d8f5c30050",
    "title": {
-    "en": "Escape from High School Girls"
+    "en": "School Back"
    },
    "contentRating": "safe",
-   "score": 0.27629226,
+   "score": 0.27347258,
    "languages": [
-    "it",
-    "tr",
-    "hu",
-    "pl",
-    "pt-br",
-    "fr",
     "es-la",
+    "pt-br",
     "en"
    ]
   },
@@ -142,7 +174,7 @@
     "en": "Kizuna Baton"
    },
    "contentRating": "safe",
-   "score": 0.27374747,
+   "score": 0.27275303,
    "languages": [
     "en"
    ]
@@ -153,50 +185,11 @@
     "en": "Seaside Return"
    },
    "contentRating": "safe",
-   "score": 0.2735157,
+   "score": 0.272481,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "d747298c-6371-4cf7-92da-1a476af71fb8",
-   "title": {
-    "en": "Otome no Itari"
-   },
-   "contentRating": "safe",
-   "score": 0.27247882,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
-   "title": {
-    "en": "Service Area"
-   },
-   "contentRating": "safe",
-   "score": 0.27170298,
-   "languages": [
-    "pt-br",
-    "ru",
-    "it",
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "279d7e00-1178-4d58-86c7-2ac0c099353f",
-   "title": {
-    "en": "Hitohira"
-   },
-   "contentRating": "safe",
-   "score": 0.2715261,
-   "languages": [
-    "en",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:05+00:00"
+ "updatedAt": "2023-12-10T18:09:15+00:00"
 }

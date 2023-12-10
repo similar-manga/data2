@@ -6,6 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
+   "title": {
+    "en": "Dragon and Chameleon"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "vi",
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "d3510d8b-1a32-427e-abc4-1603afa21ce6",
+   "title": {
+    "en": "Akumajou Dracula: Fukusyuu no Jyokyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "a9cc6c18-93d4-4c84-988f-6bd9e86e3fd7",
+   "title": {
+    "en": "Akumajou Dracula X: Gekka no Yasoukyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "bg",
+    "en"
+   ]
+  },
+  {
    "id": "af454a9c-5006-456b-b6f6-d23e8f84a8e7",
    "title": {
     "en": "Yami ni Naku Oni"
@@ -17,45 +56,39 @@
    ]
   },
   {
+   "id": "7bd7f1dd-5975-4133-8bc7-9e2852ef8368",
+   "title": {
+    "en": "Akumajou Dracula: Yami no Juin"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
+   "title": {
+    "en": "Battle in 5 Seconds After Meeting"
+   },
+   "contentRating": "safe",
+   "score": 0.2562165,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "ru",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
    "id": "2b824280-e9b8-4aca-9809-0a260753b668",
    "title": {
     "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.25675264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
-   "title": {
-    "en": "Omega Tribe Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.24756777,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "05e41447-5317-4e3b-8e86-77206306d4b0",
-   "title": {
-    "en": "Ransetsuki"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0a393e6f-c8ac-4231-862e-f8f4ea735532",
-   "title": {
-    "en": "Speed Grapher"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.2560388,
    "languages": [
     "en"
    ]
@@ -73,6 +106,78 @@
    ]
   },
   {
+   "id": "0a393e6f-c8ac-4231-862e-f8f4ea735532",
+   "title": {
+    "en": "Speed Grapher"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "05e41447-5317-4e3b-8e86-77206306d4b0",
+   "title": {
+    "en": "Ransetsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "60294a05-0458-4303-b16c-de2728b09297",
+   "title": {
+    "en": "Angel Beats! The Last Operation"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "65fa324d-4075-4f59-a71c-2c82f69f6779",
+   "title": {
+    "en": "After God"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "ru",
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "74eb3db8-84c9-4e6f-99a3-647bde6d1d68",
+   "title": {
+    "en": "Fist of the North Star Gaiden - Garuda of the Golden Wing - Prehistory of the Nanto Goshasei"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "96247bf9-caeb-472c-8519-3f1108e762ca",
+   "title": {
+    "en": "Shishang Zui Qiang Jiazu"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
    "title": {
     "en": "Kamisama Game"
@@ -84,106 +189,16 @@
    ]
   },
   {
-   "id": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
+   "id": "7d18c567-426e-4c11-8c49-6ec843f53cef",
    "title": {
-    "en": "Vermillion"
+    "en": "Ikigami Sairin"
    },
    "contentRating": "safe",
-   "score": 0.24049257,
+   "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fb45bda2-a387-475a-b0d6-18eeed806391",
-   "title": {
-    "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "83adb474-b5b7-43ea-8d51-b2ce41dbc1fd",
-   "title": {
-    "en": "Andromalius"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e95d23ae-6639-4332-adb4-036b925e1418",
-   "title": {
-    "en": "Genocider Mami"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
-   "title": {
-    "en": "Chaos Rings"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1cf26b33-b5ca-4ace-a508-13363fd9ae44",
-   "title": {
-    "en": "Crescent Noise"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ba382f50-5060-49a7-86d4-2b7a87ff6910",
-   "title": {
-    "en": "Izayoi no Hitomi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9143fef-9747-4e5e-80cb-42433a841a49",
-   "title": {
-    "en": "Namida wo Yurushita Jigoku no Shisha"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:18+00:00"
+ "updatedAt": "2023-12-10T18:12:38+00:00"
 }

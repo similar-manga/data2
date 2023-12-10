@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "831d7b27-1bee-49fc-b166-0475ab41f5e0",
+   "title": {
+    "en": "Vengeful Spirits - Sacrifice Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.2780829
+  },
+  {
    "id": "0f7bb049-e017-4ea3-a18a-61e9c96cd584",
    "title": {
     "en": "Bloody Bug Mansion"
    },
    "contentRating": "safe",
-   "score": 0.2638759
+   "score": 0.2634817
   },
   {
    "id": "b1015a1e-eb48-4ef3-8025-822aed0e0a73",
@@ -19,7 +27,7 @@
     "en": "Lightning Girl"
    },
    "contentRating": "safe",
-   "score": 0.2500104
+   "score": 0.24993409
   },
   {
    "id": "c6177bae-3fa2-4830-9df2-ab6349b615e6",
@@ -27,7 +35,7 @@
     "en": "The Dreadful Beaks"
    },
    "contentRating": "safe",
-   "score": 0.2364439,
+   "score": 0.23508634,
    "languages": [
     "en"
    ]
@@ -38,7 +46,7 @@
     "en": "Fear! Manor of Blood"
    },
    "contentRating": "safe",
-   "score": 0.23458669
+   "score": 0.23467265
   },
   {
    "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
@@ -46,7 +54,7 @@
     "en": "Lady Lizard"
    },
    "contentRating": "safe",
-   "score": 0.22477968
+   "score": 0.22518316
   },
   {
    "id": "b904d62a-ec59-4a3b-a5e7-dac29285d88a",
@@ -54,7 +62,7 @@
     "en": "White Snake Girl"
    },
    "contentRating": "safe",
-   "score": 0.21906227
+   "score": 0.21887863
   },
   {
    "id": "64e7b9a0-2725-4f25-ba4a-35eb42d58507",
@@ -62,7 +70,7 @@
     "en": "The Dreadful Marionettes"
    },
    "contentRating": "safe",
-   "score": 0.19631141
+   "score": 0.19656323
   },
   {
    "id": "7e5e72a5-9c42-4c9b-861c-ab17274d0f88",
@@ -70,7 +78,7 @@
     "en": "White Snake Manor"
    },
    "contentRating": "safe",
-   "score": 0.19550318
+   "score": 0.19594553
   },
   {
    "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
@@ -94,12 +102,28 @@
    "score": 0.1929228
   },
   {
+   "id": "4fae8dcf-1488-4851-9751-a628e2a1b757",
+   "title": {
+    "en": "The Venomous Spotted Spider"
+   },
+   "contentRating": "safe",
+   "score": 0.19136213
+  },
+  {
    "id": "a633abe8-c107-4e6c-b414-ca31deda535f",
    "title": {
     "en": "Dracula in White"
    },
    "contentRating": "safe",
-   "score": 0.18838187
+   "score": 0.18930623
+  },
+  {
+   "id": "d3af5dfc-a5a6-4e7b-b27b-abcb82242c63",
+   "title": {
+    "en": "The Leeches Cling On"
+   },
+   "contentRating": "safe",
+   "score": 0.1867258
   },
   {
    "id": "4607f958-9c77-446d-b78c-16d5f634a9fd",
@@ -107,7 +131,7 @@
     "en": "Tomo no Kowai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.18430425,
+   "score": 0.18400699,
    "languages": [
     "en"
    ]
@@ -124,46 +148,7 @@
     "pl",
     "pt-br"
    ]
-  },
-  {
-   "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
-   "title": {
-    "en": "Red House"
-   },
-   "contentRating": "safe",
-   "score": 0.17598404,
-   "languages": [
-    "fr",
-    "ro",
-    "pt-br",
-    "en",
-    "de",
-    "pl"
-   ]
-  },
-  {
-   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
-   "title": {
-    "en": "Kaeremasen."
-   },
-   "contentRating": "safe",
-   "score": 0.17569628,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f3ea43f0-f35c-4628-a9f2-2e93e090470b",
-   "title": {
-    "en": "Kanojo no Kare"
-   },
-   "contentRating": "safe",
-   "score": 0.17569628,
-   "languages": [
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:51+00:00"
+ "updatedAt": "2023-12-10T18:35:07+00:00"
 }

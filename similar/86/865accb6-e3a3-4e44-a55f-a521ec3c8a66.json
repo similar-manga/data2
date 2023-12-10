@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.29894745,
+   "score": 0.30356354,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.24581663,
+   "score": 0.24620506,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Star-Lit Survival"
    },
    "contentRating": "safe",
-   "score": 0.24041691,
+   "score": 0.24062227,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.23425247,
+   "score": 0.23588498,
    "languages": [
     "ru",
     "tr",
@@ -68,18 +68,6 @@
    ]
   },
   {
-   "id": "8e244c4f-7468-4b06-8fa8-0ed53fba1214",
-   "title": {
-    "en": "81 Fatal Questions"
-   },
-   "contentRating": "safe",
-   "score": 0.2226575,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "fc4b7dfc-bbc0-4f94-9d86-6ae5f9d9bfa4",
    "title": {
     "en": "Tokyo Gareki Shoujo"
@@ -96,7 +84,7 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.22077546,
+   "score": 0.22087826,
    "languages": [
     "en"
    ]
@@ -107,7 +95,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.21809563,
+   "score": 0.21753374,
    "languages": [
     "es-la",
     "pt-br",
@@ -134,7 +122,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.21363187,
+   "score": 0.21364793,
    "languages": [
     "pt-br",
     "fr",
@@ -145,6 +133,25 @@
     "tr",
     "id",
     "it"
+   ]
+  },
+  {
+   "id": "399f4c2b-8405-4c98-ad48-0b645afe5769",
+   "title": {
+    "en": "DEAD ROCK"
+   },
+   "contentRating": "safe",
+   "score": 0.21135005,
+   "languages": [
+    "it",
+    "fr",
+    "pt-br",
+    "de",
+    "ru",
+    "en",
+    "vi",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -175,42 +182,46 @@
    ]
   },
   {
+   "id": "8e244c4f-7468-4b06-8fa8-0ed53fba1214",
+   "title": {
+    "en": "81 Fatal Questions"
+   },
+   "contentRating": "safe",
+   "score": 0.20150311,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.20071748,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
+  },
+  {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
    "title": {
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.19953364,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
-   "title": {
-    "en": "Arcadia of the Moonlight"
-   },
-   "contentRating": "safe",
-   "score": 0.1978867,
-   "languages": [
-    "en",
-    "es-la",
-    "ar",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
-   "title": {
-    "en": "Mobile Suit Gundam F90 FF"
-   },
-   "contentRating": "safe",
-   "score": 0.19448666,
+   "score": 0.19914432,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:11+00:00"
+ "updatedAt": "2023-12-10T18:23:04+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.22796933,
+   "score": 0.22774622,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Psy-Comm"
    },
    "contentRating": "safe",
-   "score": 0.22640967,
+   "score": 0.22609888,
    "languages": [
     "en"
    ]
@@ -33,7 +33,15 @@
     "en": "Tide-Line Blue"
    },
    "contentRating": "safe",
-   "score": 0.22620942
+   "score": 0.22416039
+  },
+  {
+   "id": "7827a193-d084-42f4-852e-30290aadeb78",
+   "title": {
+    "en": "Billy Pack"
+   },
+   "contentRating": "safe",
+   "score": 0.21810296
   },
   {
    "id": "9019d5a3-c06f-4b8a-8eef-25991d7e953e",
@@ -41,7 +49,18 @@
     "en": "Shuumatsu no Majo to Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.19754845
+   "score": 0.19740741
+  },
+  {
+   "id": "288e54bd-f011-416a-959f-28d7ef09a69c",
+   "title": {
+    "en": "I Am A God Of Medicine"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "62e989da-8d25-4794-a203-66b50885c1e6",
@@ -49,18 +68,7 @@
     "en": "Monster Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.19375819,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6de9a4f7-9007-4b74-af6b-81ebec91697e",
-   "title": {
-    "en": "Reversi"
-   },
-   "contentRating": "safe",
-   "score": 0.19319545,
+   "score": 0.19074057,
    "languages": [
     "en"
    ]
@@ -71,15 +79,33 @@
     "en": "Uprising 9"
    },
    "contentRating": "safe",
-   "score": 0.19162491
+   "score": 0.19070055
   },
   {
-   "id": "37561c94-4903-45ee-ac89-d1b69fd11a23",
+   "id": "ecdb9e53-4cfd-4633-bb02-b7e5115e01d8",
    "title": {
-    "en": "Missileman Mummy"
+    "en": "Dr. Player"
    },
    "contentRating": "safe",
-   "score": 0.1893556
+   "score": 0.19010627,
+   "languages": [
+    "pl",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "de24e7e7-1be3-41a8-b02b-fe4c7c370572",
+   "title": {
+    "en": "The Dark Mage’s Return to Enlistment"
+   },
+   "contentRating": "safe",
+   "score": 0.1896945,
+   "languages": [
+    "fr",
+    "en",
+    "pl"
+   ]
   },
   {
    "id": "12852d22-575e-48db-9292-b2a57f12d1f7",
@@ -87,7 +113,34 @@
     "en": "Mabaram The School Conqueror"
    },
    "contentRating": "safe",
-   "score": 0.18914847,
+   "score": 0.18899657,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37561c94-4903-45ee-ac89-d1b69fd11a23",
+   "title": {
+    "en": "Missileman Mummy"
+   },
+   "contentRating": "safe",
+   "score": 0.18830578
+  },
+  {
+   "id": "4575b8cd-7852-4f90-9935-d7f935a386d1",
+   "title": {
+    "en": "Close to the Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.1882344
+  },
+  {
+   "id": "72921c46-547e-4962-bbfc-3d36884eb171",
+   "title": {
+    "en": "Hataraku Saibou HIV Special Edition"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
    "languages": [
     "en"
    ]
@@ -115,63 +168,7 @@
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
-   "title": {
-    "en": "MY LITTLE MARS"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "es-la",
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "bcbf10c8-f75f-4f7c-befd-6459db3b7cfc",
-   "title": {
-    "en": "CHR-47"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "e287772e-0d2b-4d96-8040-98a8741b71eb",
-   "title": {
-    "en": "Space Combat Forward"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211
-  },
-  {
-   "id": "b964c8aa-662b-4d3e-a130-215a0144bf44",
-   "title": {
-    "en": "Frame Saber"
-   },
-   "contentRating": "safe",
-   "score": 0.1852045,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3d88a1b3-644a-4b99-b9d8-2698b45eef2e",
-   "title": {
-    "en": "Anomaly: Soul"
-   },
-   "contentRating": "safe",
-   "score": 0.18510106,
-   "languages": [
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:53+00:00"
+ "updatedAt": "2023-12-10T18:22:19+00:00"
 }

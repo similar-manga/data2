@@ -11,7 +11,7 @@
     "en": "Segregated World"
    },
    "contentRating": "safe",
-   "score": 0.24051972,
+   "score": 0.24024189,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.23516841,
+   "score": 0.23480378,
    "languages": [
     "pl",
     "en"
@@ -34,7 +34,18 @@
     "en": "Succeed"
    },
    "contentRating": "safe",
-   "score": 0.22978447,
+   "score": 0.22922148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
+   "title": {
+    "en": "Yggdra Silver"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
    "languages": [
     "en"
    ]
@@ -68,25 +79,62 @@
    ]
   },
   {
-   "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
+   "id": "486e0188-49d3-4093-9422-6faf3508a4a1",
    "title": {
-    "en": "Hakugin no Teiō"
+    "en": "Hammer Session! R"
    },
    "contentRating": "safe",
-   "score": 0.21276526,
+   "score": 0.21248147,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
+   "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
    "title": {
-    "en": "Astral Walker"
+    "en": "Hakugin no Teiō"
    },
    "contentRating": "safe",
-   "score": 0.2098978,
+   "score": 0.2101768,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
+   "title": {
+    "en": "Mu Wu's Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "0d242cf4-eead-4a74-87c9-5805a42a2303",
+   "title": {
+    "en": "Tenohira Sousei-ki"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "849bd266-864d-4d46-9381-cb95765b817a",
+   "title": {
+    "en": "Post-apocalyptic Dispatch Company"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -115,16 +163,14 @@
    ]
   },
   {
-   "id": "849bd266-864d-4d46-9381-cb95765b817a",
+   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
    "title": {
-    "en": "Post-apocalyptic Dispatch Company"
+    "en": "Astral Walker"
    },
    "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.20629445,
    "languages": [
-    "en",
-    "pt-br",
-    "fr"
+    "en"
    ]
   },
   {
@@ -133,7 +179,7 @@
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.20664243,
+   "score": 0.20572379,
    "languages": [
     "pt-br",
     "id",
@@ -147,58 +193,12 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.20459528,
+   "score": 0.20430121,
    "languages": [
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "11c0eb33-5206-4a79-bd4a-ba45620a2096",
-   "title": {
-    "en": "Toshokan Sensou - SPITFIRE!"
-   },
-   "contentRating": "safe",
-   "score": 0.20369866,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e244c4f-7468-4b06-8fa8-0ed53fba1214",
-   "title": {
-    "en": "81 Fatal Questions"
-   },
-   "contentRating": "safe",
-   "score": 0.20368451,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "d82c15b0-2a81-45bf-add2-1a79905ac419",
-   "title": {
-    "en": "Detective Conan - Zero the Enforcer"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.20073904,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:29+00:00"
+ "updatedAt": "2023-12-10T18:31:47+00:00"
 }

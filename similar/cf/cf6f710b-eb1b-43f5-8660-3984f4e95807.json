@@ -11,7 +11,7 @@
     "en": "Curtain Call"
    },
    "contentRating": "safe",
-   "score": 0.258268,
+   "score": 0.2572072,
    "languages": [
     "en",
     "ru",
@@ -22,13 +22,16 @@
    ]
   },
   {
-   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
+   "id": "6373ccf4-01fd-4b80-8f12-facc1b2a7a10",
    "title": {
-    "en": "Disaster, Old Man and Monster"
+    "en": "Evangeline's Sword"
    },
    "contentRating": "safe",
-   "score": 0.24465029,
+   "score": 0.25608915,
    "languages": [
+    "it",
+    "pt-br",
+    "pl",
     "en"
    ]
   },
@@ -38,7 +41,18 @@
     "en": "A Lantern's Light"
    },
    "contentRating": "safe",
-   "score": 0.23592845,
+   "score": 0.23499407,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
+   "title": {
+    "en": "Disaster, Old Man and Monster"
+   },
+   "contentRating": "safe",
+   "score": 0.23437111,
    "languages": [
     "en"
    ]
@@ -49,33 +63,20 @@
     "en": "Tribal Gear - Ghost Tail Ostrakon"
    },
    "contentRating": "safe",
-   "score": 0.2241605,
+   "score": 0.2239273,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8d696392-9dfc-4ebb-8214-df8ccdefd7e0",
+   "id": "4131c3c1-cee5-49b2-9bd8-d1b511a9bf8d",
    "title": {
-    "en": "Ossan wa Ore no 〇〇 ni Kizukanai"
+    "en": "King of the Mound"
    },
    "contentRating": "safe",
-   "score": 0.22043337,
+   "score": 0.2209083,
    "languages": [
-    "vi",
-    "id",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5bb51c1e-d9c5-4897-89ac-f79ff6b12763",
-   "title": {
-    "en": "Ritsuka to Sousetsu no Kamui"
-   },
-   "contentRating": "safe",
-   "score": 0.22043337,
-   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -94,14 +95,17 @@
    ]
   },
   {
-   "id": "7bc13322-a936-40f8-a150-3041a2316223",
+   "id": "8d696392-9dfc-4ebb-8214-df8ccdefd7e0",
    "title": {
-    "en": "A Story of Brother and Sister with Cursed Tradition"
+    "en": "Ossan wa Ore no 〇〇 ni Kizukanai"
    },
    "contentRating": "safe",
    "score": 0.22043337,
    "languages": [
-    "en"
+    "vi",
+    "id",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -116,12 +120,34 @@
    ]
   },
   {
+   "id": "5bb51c1e-d9c5-4897-89ac-f79ff6b12763",
+   "title": {
+    "en": "Ritsuka to Sousetsu no Kamui"
+   },
+   "contentRating": "safe",
+   "score": 0.22043337,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7bc13322-a936-40f8-a150-3041a2316223",
+   "title": {
+    "en": "A Story of Brother and Sister with Cursed Tradition"
+   },
+   "contentRating": "safe",
+   "score": 0.22043337,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8697fae8-e0df-446c-88d0-d8c366a48e2f",
    "title": {
     "en": "Immortal, Invincible"
    },
    "contentRating": "safe",
-   "score": 0.21825913,
+   "score": 0.21779516,
    "languages": [
     "fr",
     "en",
@@ -135,7 +161,7 @@
     "en": "Super Mario: Goddess of the Demon Empire"
    },
    "contentRating": "safe",
-   "score": 0.21732602,
+   "score": 0.21736158,
    "languages": [
     "en"
    ]
@@ -152,51 +178,34 @@
    ]
   },
   {
-   "id": "b8714875-dd43-47f5-a619-cb0cd1b62a0f",
+   "id": "64127f6d-4c79-4dd5-b8e0-de46b0c8916e",
    "title": {
-    "en": "Higan Hikou Shoujo Naeko"
+    "en": "The 100th Regression of the Max-Level Player"
    },
    "contentRating": "safe",
    "score": 0.21597971,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
-   "title": {
-    "en": "Hane no Ichizoku"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "127574ba-7797-48dd-b6f1-ff2e10525d4f",
-   "title": {
-    "en": "Clown"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53fabff2-f22e-4b36-a3e9-fc68dd84aca8",
-   "title": {
-    "en": "Me ga Atta Mono wo Sekika Shite Shimau Shounen to Me no Mienai Seijo no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "id",
+    "pl",
     "en",
-    "pt-br"
+    "de"
+   ]
+  },
+  {
+   "id": "d48e6c94-98eb-4c42-b2d5-fba678ae09aa",
+   "title": {
+    "en": "Spirit Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "fr",
+    "id",
+    "it",
+    "en",
+    "pl",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:19+00:00"
+ "updatedAt": "2023-12-10T18:31:20+00:00"
 }

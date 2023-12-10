@@ -11,7 +11,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.24718255,
+   "score": 0.24654965,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Cat Shit One' 80"
    },
    "contentRating": "safe",
-   "score": 0.22560629,
+   "score": 0.22505243,
    "languages": [
     "en"
    ]
@@ -70,11 +70,33 @@
     "en": "Toudoku ni Ita"
    },
    "contentRating": "safe",
-   "score": 0.19599828,
+   "score": 0.19423667,
    "languages": [
     "en",
     "es",
     "de"
+   ]
+  },
+  {
+   "id": "625c2c40-e685-424a-a4ab-a8f103d78e1c",
+   "title": {
+    "en": "Dokuganryu Date Masamune"
+   },
+   "contentRating": "safe",
+   "score": 0.19400705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "18294a65-d144-4288-a10d-c93e75d48535",
+   "title": {
+    "en": "Karasu"
+   },
+   "contentRating": "safe",
+   "score": 0.19400705,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -83,7 +105,7 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.19113807,
+   "score": 0.19098093,
    "languages": [
     "en",
     "ru",
@@ -96,7 +118,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.19105487,
+   "score": 0.19065827,
    "languages": [
     "en"
    ]
@@ -107,7 +129,31 @@
     "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.18461505,
+   "score": 0.18463036,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "892c7a72-f14c-4a15-9be2-f96230893ac7",
+   "title": {
+    "en": "Yuuki Aru Mono yori Chire"
+   },
+   "contentRating": "safe",
+   "score": 0.18256395,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "bd1c3b26-5f26-4f35-8de7-d9f629a9d73c",
+   "title": {
+    "en": "Katabami to Ougon"
+   },
+   "contentRating": "safe",
+   "score": 0.18205518,
    "languages": [
     "en",
     "ru"
@@ -126,28 +172,6 @@
     "pl",
     "it",
     "ru"
-   ]
-  },
-  {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
-   "title": {
-    "en": "Godzilla vs. Destroyah Red"
-   },
-   "contentRating": "safe",
-   "score": 0.18183354,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.18183354,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -171,33 +195,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
-   "title": {
-    "en": "Adou"
-   },
-   "contentRating": "safe",
-   "score": 0.18041366,
-   "languages": [
-    "ru",
-    "en",
-    "zh-hk",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.1786353,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:10+00:00"
+ "updatedAt": "2023-12-10T18:17:41+00:00"
 }

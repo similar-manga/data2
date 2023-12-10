@@ -11,7 +11,7 @@
     "en": "The Worthless Girl Who Wanted to Go to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.35195258,
+   "score": 0.4329121,
    "languages": [
     "de",
     "fr",
@@ -25,7 +25,7 @@
     "en": "Yokan"
    },
    "contentRating": "safe",
-   "score": 0.32591742,
+   "score": 0.3258244,
    "languages": [
     "fr",
     "en",
@@ -38,7 +38,7 @@
     "en": "Ten Kara Kita"
    },
    "contentRating": "safe",
-   "score": 0.31595847,
+   "score": 0.31356636,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Flower Heart"
    },
    "contentRating": "safe",
-   "score": 0.30984712,
+   "score": 0.30911624,
    "languages": [
     "en"
    ]
@@ -60,7 +60,7 @@
     "en": "Sora ni Saitara"
    },
    "contentRating": "safe",
-   "score": 0.3065848,
+   "score": 0.30353475,
    "languages": [
     "en"
    ]
@@ -71,7 +71,7 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.30603865,
+   "score": 0.30285418,
    "languages": [
     "de",
     "en",
@@ -84,9 +84,21 @@
     "en": "Song of Heaven and Earth"
    },
    "contentRating": "safe",
-   "score": 0.30133688,
+   "score": 0.2985748,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "de9d197e-b0b8-4ac5-a4e5-43abd7786020",
+   "title": {
+    "en": "YOU IF"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -101,18 +113,6 @@
     "en",
     "it",
     "ru"
-   ]
-  },
-  {
-   "id": "380422e5-4cd3-4ae9-8c2f-d6c18f83ad83",
-   "title": {
-    "en": "Fight Bell"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -133,6 +133,34 @@
    ]
   },
   {
+   "id": "380422e5-4cd3-4ae9-8c2f-d6c18f83ad83",
+   "title": {
+    "en": "Fight Bell"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "53e50f79-89f5-4331-9395-2e3c48359a24",
+   "title": {
+    "en": "Dirty Work"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "it",
+    "en",
+    "ru",
+    "vi",
+    "pl",
+    "ro"
+   ]
+  },
+  {
    "id": "334e7ab5-3cbe-47fe-8b27-7cb56557f380",
    "title": {
     "en": "Mukashi no Tomodachi"
@@ -141,18 +169,6 @@
    "score": 0.2857143,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "de9d197e-b0b8-4ac5-a4e5-43abd7786020",
-   "title": {
-    "en": "YOU IF"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -178,28 +194,12 @@
    ]
   },
   {
-   "id": "53e50f79-89f5-4331-9395-2e3c48359a24",
-   "title": {
-    "en": "Dirty Work"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "it",
-    "en",
-    "ru",
-    "vi",
-    "pl",
-    "ro"
-   ]
-  },
-  {
    "id": "e47322f1-f3c6-4005-9a8a-fd8a6902e0f2",
    "title": {
     "en": "A Fish's Dream"
    },
    "contentRating": "safe",
-   "score": 0.2778973,
+   "score": 0.27754042,
    "languages": [
     "pl",
     "en",
@@ -207,5 +207,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:36+00:00"
+ "updatedAt": "2023-12-10T18:21:32+00:00"
 }

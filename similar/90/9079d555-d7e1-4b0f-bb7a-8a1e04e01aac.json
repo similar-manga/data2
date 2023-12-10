@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
-   "title": {
-    "en": "Laika in Space"
-   },
-   "contentRating": "safe",
-   "score": 0.21959382,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
    "title": {
     "en": "We'll Go See the Ocean."
@@ -33,7 +22,7 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.20593478,
+   "score": 0.20508005,
    "languages": [
     "en",
     "it"
@@ -45,7 +34,7 @@
     "en": "Creation of the World Garden"
    },
    "contentRating": "safe",
-   "score": 0.2025839,
+   "score": 0.20068918,
    "languages": [
     "en"
    ]
@@ -79,7 +68,7 @@
     "en": "Tokoshie x Bullet: Kaijuu Gakuen"
    },
    "contentRating": "safe",
-   "score": 0.19255786,
+   "score": 0.19317661,
    "languages": [
     "ru",
     "en"
@@ -91,7 +80,7 @@
     "en": "The Love That Binds Us to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.19119672,
+   "score": 0.19033693,
    "languages": [
     "en",
     "ru",
@@ -104,7 +93,7 @@
     "en": "Instant Death Cold Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.18336034,
+   "score": 0.18226767,
    "languages": [
     "en",
     "ru"
@@ -122,12 +111,23 @@
    ]
   },
   {
+   "id": "abb54d0d-82e9-4c9e-b80f-3987b5c98184",
+   "title": {
+    "en": "Assault Lily: Last Bullet - Secret Garden ~ Dreamy Memoria ~"
+   },
+   "contentRating": "safe",
+   "score": 0.17968446,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3c8cce29-530d-4de2-b66d-15773876e6a2",
    "title": {
     "en": "Splash"
    },
    "contentRating": "safe",
-   "score": 0.17761233,
+   "score": 0.17711048,
    "languages": [
     "fr",
     "en"
@@ -139,7 +139,7 @@
     "en": "Song of Heaven and Earth"
    },
    "contentRating": "safe",
-   "score": 0.17706336,
+   "score": 0.17680897,
    "languages": [
     "en"
    ]
@@ -161,24 +161,11 @@
     "en": "Mu-kai"
    },
    "contentRating": "safe",
-   "score": 0.17271477,
+   "score": 0.17278402,
    "languages": [
     "en",
     "it",
     "fr"
-   ]
-  },
-  {
-   "id": "f3bdab10-c991-40d5-b8fe-95958ac88b6b",
-   "title": {
-    "en": "Mary"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372,
-   "languages": [
-    "en",
-    "zh-hk",
-    "tr"
    ]
   },
   {
@@ -191,7 +178,19 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2507de0a-4466-43f8-b315-6075c6b155a8",
+   "title": {
+    "en": "Sabu the Bruiser"
+   },
+   "contentRating": "safe",
+   "score": 0.16994372,
+   "languages": [
+    "pl",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:41+00:00"
+ "updatedAt": "2023-12-10T18:24:20+00:00"
 }

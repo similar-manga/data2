@@ -11,7 +11,7 @@
     "en": "Tonari no Ninja"
    },
    "contentRating": "safe",
-   "score": 0.35359716,
+   "score": 0.34565187,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Enten"
    },
    "contentRating": "safe",
-   "score": 0.32177454,
+   "score": 0.32637706,
    "languages": [
     "en"
    ]
@@ -35,22 +35,11 @@
     "en": "Naruto: Road to Ninja"
    },
    "contentRating": "safe",
-   "score": 0.3205818,
+   "score": 0.31721133,
    "languages": [
     "en",
     "ru",
     "ro"
-   ]
-  },
-  {
-   "id": "30e8e05f-1450-41e5-b8f4-922ff4799c19",
-   "title": {
-    "en": "Ninja Papa"
-   },
-   "contentRating": "safe",
-   "score": 0.31455013,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -59,7 +48,18 @@
     "en": "Farewell! Cherry Boy!"
    },
    "contentRating": "safe",
-   "score": 0.30938786,
+   "score": 0.31480962,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "30e8e05f-1450-41e5-b8f4-922ff4799c19",
+   "title": {
+    "en": "Ninja Papa"
+   },
+   "contentRating": "safe",
+   "score": 0.31086582,
    "languages": [
     "en"
    ]
@@ -70,8 +70,21 @@
     "en": "Joze, the Faithful Dog"
    },
    "contentRating": "safe",
-   "score": 0.3035419,
+   "score": 0.30728853,
    "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "943b8809-f4d6-4fdb-8530-41064991d0e2",
+   "title": {
+    "en": "Natomatos"
+   },
+   "contentRating": "safe",
+   "score": 0.30507606,
+   "languages": [
+    "ru",
     "fr",
     "en"
    ]
@@ -82,23 +95,10 @@
     "en": "CROSS"
    },
    "contentRating": "safe",
-   "score": 0.3021507,
+   "score": 0.30185255,
    "languages": [
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "943b8809-f4d6-4fdb-8530-41064991d0e2",
-   "title": {
-    "en": "Natomatos"
-   },
-   "contentRating": "safe",
-   "score": 0.30132455,
-   "languages": [
-    "ru",
-    "fr",
-    "en"
    ]
   },
   {
@@ -107,7 +107,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.29799667,
+   "score": 0.29862037,
    "languages": [
     "pt-br",
     "pl",
@@ -122,7 +122,7 @@
     "en": "Selling Me Softly"
    },
    "contentRating": "safe",
-   "score": 0.29744768,
+   "score": 0.29695526,
    "languages": [
     "en",
     "pl"
@@ -134,16 +134,50 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.2896912,
+   "score": 0.29035783,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
+   "id": "c1cb567a-a4e8-41ef-a520-095324fb0d77",
+   "title": {
+    "en": "Sand Storm Boarders"
+   },
+   "contentRating": "safe",
+   "score": 0.28849748,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "title": {
+    "en": "Otter No.11"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
    "title": {
     "en": "29 de Bukiyou de"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4d3b51fc-272b-44cf-9cb5-e6195a94bd06",
+   "title": {
+    "en": "Please Take a Seat"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -162,43 +196,7 @@
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "4d3b51fc-272b-44cf-9cb5-e6195a94bd06",
-   "title": {
-    "en": "Please Take a Seat"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
-   "title": {
-    "en": "Otter No.11"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "6c583845-8276-4f80-b90b-902959b5d240",
-   "title": {
-    "en": "Tokyo Depato Sensou Taikenki"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:39+00:00"
+ "updatedAt": "2023-12-10T18:24:16+00:00"
 }

@@ -22,7 +22,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.20849536,
+   "score": 0.2042439,
    "languages": [
     "id",
     "ru",
@@ -30,17 +30,6 @@
     "pt-br",
     "es-la",
     "it"
-   ]
-  },
-  {
-   "id": "0c59712a-37cf-43fc-b11b-b72304dbdf07",
-   "title": {
-    "en": "Anima Cal Lives"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20203052,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -56,12 +45,23 @@
    ]
   },
   {
+   "id": "0c59712a-37cf-43fc-b11b-b72304dbdf07",
+   "title": {
+    "en": "Anima Cal Lives"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eef9c561-26eb-4284-9052-2c87026e48bc",
    "title": {
     "en": "Seiheki Club"
    },
    "contentRating": "suggestive",
-   "score": 0.19729193,
+   "score": 0.19483073,
    "languages": [
     "en"
    ]
@@ -75,6 +75,22 @@
    "score": 0.19166298,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "eff87780-93d9-412e-b831-c731787e9bea",
+   "title": {
+    "en": "Oroka na Tenshi wa Akuma to Odoru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17496355,
+   "languages": [
+    "en",
+    "fr",
+    "id",
+    "pt-br",
+    "ru",
+    "es"
    ]
   },
   {
@@ -104,61 +120,12 @@
    ]
   },
   {
-   "id": "eff87780-93d9-412e-b831-c731787e9bea",
-   "title": {
-    "en": "Oroka na Tenshi wa Akuma to Odoru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "fr",
-    "id",
-    "pt-br",
-    "ru",
-    "es"
-   ]
-  },
-  {
    "id": "004e6dbe-b8cf-4f95-8ab2-e5f112ead297",
    "title": {
     "en": "Watashi no Koi de Shindekure"
    },
    "contentRating": "suggestive",
-   "score": 0.1740264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f63eef7c-7db9-40d6-8856-747427860f22",
-   "title": {
-    "en": "High School Girl Kingdom Tokyo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16498032,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f310ec7-b797-4b2b-a059-1f542958f308",
-   "title": {
-    "en": "Reader"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f55bcceb-9b78-4456-aae1-b5771fd0e7d2",
-   "title": {
-    "en": "Shiroi Gekkou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723,
+   "score": 0.1726907,
    "languages": [
     "en"
    ]
@@ -186,16 +153,49 @@
    ]
   },
   {
+   "id": "2f310ec7-b797-4b2b-a059-1f542958f308",
+   "title": {
+    "en": "Reader"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f55bcceb-9b78-4456-aae1-b5771fd0e7d2",
+   "title": {
+    "en": "Shiroi Gekkou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f63eef7c-7db9-40d6-8856-747427860f22",
+   "title": {
+    "en": "High School Girl Kingdom Tokyo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16326976,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "72e0cfc5-1163-448f-bd56-9313dd313447",
    "title": {
     "en": "Kujibiki Unbalance"
    },
    "contentRating": "suggestive",
-   "score": 0.16400671,
+   "score": 0.16272146,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:58+00:00"
+ "updatedAt": "2023-12-10T18:25:03+00:00"
 }

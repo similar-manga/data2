@@ -11,7 +11,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.2039515,
+   "score": 0.20231628,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Juujika no Rokunin"
    },
    "contentRating": "safe",
-   "score": 0.20242307,
+   "score": 0.20180647,
    "languages": [
     "es",
     "fr",
@@ -40,9 +40,20 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.19483656,
+   "score": 0.19482389,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "28591273-88bf-4a4d-afbe-95c3c3430117",
+   "title": {
+    "en": "Shibuya Kingyo"
+   },
+   "contentRating": "safe",
+   "score": 0.19195889,
+   "languages": [
     "en"
    ]
   },
@@ -52,9 +63,28 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.19095524,
+   "score": 0.1904927,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Yuukoku no Moriarty"
+   },
+   "contentRating": "safe",
+   "score": 0.18596533,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "uk",
+    "ar",
+    "tr",
+    "vi",
+    "hu"
    ]
   },
   {
@@ -63,7 +93,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.18063395,
+   "score": 0.18016537,
    "languages": [
     "en",
     "pt-br"
@@ -75,18 +105,7 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.17869334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.17414214,
+   "score": 0.17733502,
    "languages": [
     "en"
    ]
@@ -97,7 +116,7 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.17392889,
+   "score": 0.17315376,
    "languages": [
     "it",
     "pl",
@@ -111,7 +130,7 @@
     "en": "Reincarnation no Kaben"
    },
    "contentRating": "safe",
-   "score": 0.17365623,
+   "score": 0.17311251,
    "languages": [
     "es-la",
     "en",
@@ -125,12 +144,23 @@
    ]
   },
   {
+   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "title": {
+    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+   },
+   "contentRating": "safe",
+   "score": 0.17207654,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
    "title": {
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.17146973,
+   "score": 0.17102931,
    "languages": [
     "es-la",
     "en"
@@ -142,7 +172,7 @@
     "en": "Zanzai Shounen"
    },
    "contentRating": "safe",
-   "score": 0.17084262,
+   "score": 0.1703717,
    "languages": [
     "en",
     "it",
@@ -166,51 +196,27 @@
     "en": "Star-Lit Survival"
    },
    "contentRating": "safe",
-   "score": 0.16805685,
+   "score": 0.16727284,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
+   "id": "d64b0768-bebe-433c-b923-99870503c0a3",
    "title": {
-    "en": "Metamorcode"
+    "en": "Dark Gathering"
    },
    "contentRating": "safe",
-   "score": 0.1667829,
+   "score": 0.16587946,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
-   "title": {
-    "en": "Queen Emeraldas"
-   },
-   "contentRating": "safe",
-   "score": 0.1667207,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
-   "title": {
-    "en": "Mao"
-   },
-   "contentRating": "safe",
-   "score": 0.16596378,
-   "languages": [
-    "en",
     "pt-br",
-    "zh-hk",
-    "ca",
-    "zh",
-    "pl",
-    "ru",
-    "es"
+    "en",
+    "vi",
+    "es",
+    "es-la",
+    "zh-hk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:39+00:00"
+ "updatedAt": "2023-12-10T18:24:14+00:00"
 }

@@ -11,19 +11,7 @@
     "en": "Night at the Aquarium"
    },
    "contentRating": "safe",
-   "score": 0.39056757,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
-   "title": {
-    "en": "Death"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
+   "score": 0.39329565,
    "languages": [
     "vi",
     "en"
@@ -41,12 +29,24 @@
    ]
   },
   {
+   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
+   "title": {
+    "en": "Death"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "0ed6225d-8724-4af4-980a-f8c37a7f6449",
    "title": {
     "en": "Family Fight"
    },
    "contentRating": "safe",
-   "score": 0.27220002,
+   "score": 0.27421334,
    "languages": [
     "it",
     "pl",
@@ -60,7 +60,7 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.25683475,
+   "score": 0.25676253,
    "languages": [
     "it",
     "en"
@@ -72,7 +72,7 @@
     "en": "Under the Bridge"
    },
    "contentRating": "safe",
-   "score": 0.24892542,
+   "score": 0.2504152,
    "languages": [
     "pt-br",
     "en"
@@ -95,7 +95,7 @@
     "en": "A Compulsory Holiday"
    },
    "contentRating": "safe",
-   "score": 0.2458398,
+   "score": 0.24687617,
    "languages": [
     "en"
    ]
@@ -106,8 +106,20 @@
     "en": "Potechi"
    },
    "contentRating": "safe",
-   "score": 0.24538063,
+   "score": 0.24646842,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
+   "title": {
+    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
+   },
+   "contentRating": "safe",
+   "score": 0.24606362,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -117,34 +129,9 @@
     "en": "Ice Blade: The Lost File"
    },
    "contentRating": "safe",
-   "score": 0.24264798,
+   "score": 0.2409314,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "d8a046b3-833c-4523-9b5d-e21206b1c403",
-   "title": {
-    "en": "Ojousama wa Maid Harem wo Torimodoshitai"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "id",
-    "ko",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "42ed1a06-c768-40cf-8796-fd505b5093a1",
-   "title": {
-    "en": "Asayake no Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
     "en"
    ]
   },
@@ -161,17 +148,6 @@
    ]
   },
   {
-   "id": "e4afb99c-1cef-498c-b1a7-bf7321ab2903",
-   "title": {
-    "en": "If You Want to Catch a Bass"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
    "title": {
     "en": "Yamamoto's Ear Cleaning Shop"
@@ -183,18 +159,38 @@
    ]
   },
   {
-   "id": "4c573712-38ef-49ff-957b-5b08c423030d",
+   "id": "e4afb99c-1cef-498c-b1a7-bf7321ab2903",
    "title": {
-    "en": "Toward the Twelve-colored Sea"
+    "en": "If You Want to Catch a Bass"
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
-    "pt-br",
-    "en",
-    "tr"
+    "en"
+   ]
+  },
+  {
+   "id": "42647c77-390c-41d9-a7fc-4cdfd8882050",
+   "title": {
+    "en": "Hakobune no Biosophia"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "42ed1a06-c768-40cf-8796-fd505b5093a1",
+   "title": {
+    "en": "Asayake no Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:25+00:00"
+ "updatedAt": "2023-12-10T18:10:10+00:00"
 }

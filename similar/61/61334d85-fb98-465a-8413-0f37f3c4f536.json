@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.20322606,
+   "score": 0.1994724,
    "languages": [
     "en",
     "ru",
@@ -35,7 +35,7 @@
     "en": "Black Lagoon"
    },
    "contentRating": "suggestive",
-   "score": 0.19019102,
+   "score": 0.18822715,
    "languages": [
     "it",
     "ru",
@@ -54,7 +54,7 @@
     "en": "Kannou Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.1873813,
+   "score": 0.18464929,
    "languages": [
     "es-la",
     "pt-br",
@@ -76,20 +76,6 @@
    ]
   },
   {
-   "id": "3169544f-4b87-4a14-917b-f73600941f55",
-   "title": {
-    "en": "Noa-senpai wa Tomodachi."
-   },
-   "contentRating": "suggestive",
-   "score": 0.16673858,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
    "id": "340273ab-6f5a-4eb8-abdf-269343213e4e",
    "title": {
     "en": "Gekikou Kamen"
@@ -99,6 +85,21 @@
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "4d65a1cc-59b0-4f4b-903f-854e6c4b9d10",
+   "title": {
+    "en": "My Wife is a Little Intimidating"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16456632,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "ru",
+    "id"
    ]
   },
   {
@@ -115,17 +116,16 @@
    ]
   },
   {
-   "id": "4d65a1cc-59b0-4f4b-903f-854e6c4b9d10",
+   "id": "3169544f-4b87-4a14-917b-f73600941f55",
    "title": {
-    "en": "My Wife is a Little Intimidating"
+    "en": "Noa-senpai wa Tomodachi."
    },
    "contentRating": "suggestive",
-   "score": 0.16456632,
+   "score": 0.16422045,
    "languages": [
-    "es-la",
     "en",
+    "vi",
     "pt-br",
-    "ru",
     "id"
    ]
   },
@@ -179,39 +179,49 @@
    ]
   },
   {
+   "id": "c855ec45-b8d9-4aea-9a0d-b2ae544c11dc",
+   "title": {
+    "en": "Tokimori-san ga Muboubi desu!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13957919,
+   "languages": [
+    "es-la",
+    "fr",
+    "th",
+    "pt-br",
+    "en",
+    "vi",
+    "id",
+    "ar",
+    "ru"
+   ]
+  },
+  {
    "id": "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d",
    "title": {
     "en": "Kine-san no 1-ri de Cinema"
    },
    "contentRating": "suggestive",
-   "score": 0.1471571,
+   "score": 0.13957919,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "5a724f98-55ce-4fcd-b347-ec25a67bbb14",
+   "id": "b231f7e6-307e-4a83-876d-52d8555c348f",
    "title": {
-    "en": "Sawaranu Futari wa Nani wo Suru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1403832,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee6264df-0a88-46a8-bb64-5bc64446813c",
-   "title": {
-    "en": "La La La"
+    "en": "Takane no Hana-san"
    },
    "contentRating": "suggestive",
    "score": 0.13957919,
    "languages": [
-    "en"
+    "es-la",
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:38+00:00"
+ "updatedAt": "2023-12-10T18:18:51+00:00"
 }

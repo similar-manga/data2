@@ -36,9 +36,38 @@
     "en": "Genshi"
    },
    "contentRating": "suggestive",
-   "score": 0.16938308,
+   "score": 0.17030379,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f111b97d-d3bc-4aa9-8d82-959db6592e00",
+   "title": {
+    "en": "Eternal Torment"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16312099,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
+   "title": {
+    "en": "Witch Hunter"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16245595,
+   "languages": [
+    "ro",
+    "en",
+    "de",
+    "pl",
+    "ar",
+    "pt-br"
    ]
   },
   {
@@ -53,35 +82,6 @@
    ]
   },
   {
-   "id": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
-   "title": {
-    "en": "Witch Hunter"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16054651,
-   "languages": [
-    "ro",
-    "en",
-    "de",
-    "pl",
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f111b97d-d3bc-4aa9-8d82-959db6592e00",
-   "title": {
-    "en": "Eternal Torment"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15577836,
-   "languages": [
-    "ru",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "e31f7b4b-cc4e-4ac0-989f-3012497b44a2",
    "title": {
     "en": "The Strongest Virus"
@@ -93,12 +93,24 @@
    ]
   },
   {
+   "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
+   "title": {
+    "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
+   },
+   "contentRating": "suggestive",
+   "score": 0.14569537,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "a1c7c817-4e59-43b7-9365-09675a149a6f",
    "title": {
     "en": "One Piece"
    },
    "contentRating": "suggestive",
-   "score": 0.144281,
+   "score": 0.14422265,
    "languages": [
     "ca",
     "pt-br",
@@ -125,15 +137,18 @@
    ]
   },
   {
-   "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
+   "id": "452513a9-c698-410e-9bf9-fe90309780d2",
    "title": {
-    "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
+    "en": "Fate/EXTRA CCC FoxTail"
    },
    "contentRating": "suggestive",
-   "score": 0.14413211,
+   "score": 0.14412339,
    "languages": [
     "en",
-    "es-la"
+    "vi",
+    "pt-br",
+    "es-la",
+    "es"
    ]
   },
   {
@@ -148,47 +163,12 @@
    ]
   },
   {
-   "id": "452513a9-c698-410e-9bf9-fe90309780d2",
-   "title": {
-    "en": "Fate/EXTRA CCC FoxTail"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14266829,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br",
-    "es-la",
-    "es"
-   ]
-  },
-  {
-   "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
-   "title": {
-    "en": "Orient"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14045312,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "ru",
-    "it",
-    "el",
-    "fr",
-    "es",
-    "ar",
-    "id"
-   ]
-  },
-  {
    "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
    "title": {
     "en": "Senran Kagura - Shoujotachi no Shinei"
    },
    "contentRating": "suggestive",
-   "score": 0.13896051,
+   "score": 0.13897477,
    "languages": [
     "en"
    ]
@@ -199,7 +179,7 @@
     "en": "Her Love is so heavy, it hurts."
    },
    "contentRating": "suggestive",
-   "score": 0.13766065,
+   "score": 0.13669568,
    "languages": [
     "ro",
     "en"
@@ -226,7 +206,22 @@
    "languages": [
     "vi"
    ]
+  },
+  {
+   "id": "7492f334-e1e3-4716-9489-d330e35e3dcb",
+   "title": {
+    "en": "Into the Net!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12838347,
+   "languages": [
+    "fr",
+    "ru",
+    "en",
+    "id",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:17+00:00"
+ "updatedAt": "2023-12-10T18:23:18+00:00"
 }

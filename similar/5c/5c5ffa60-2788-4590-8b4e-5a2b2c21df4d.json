@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.26411808,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5c4d35f1-1e01-44e7-9438-b7faa14961ad",
    "title": {
     "en": "Xinghai Rongyao"
    },
    "contentRating": "safe",
-   "score": 0.26051572,
+   "score": 0.26010117,
    "languages": [
     "ru"
    ]
@@ -28,14 +39,36 @@
    ]
   },
   {
+   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "title": {
+    "en": "AGAPE"
+   },
+   "contentRating": "safe",
+   "score": 0.2534357,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "26c1e1a6-3c8d-4513-af87-a2387eb69b90",
    "title": {
     "en": "Legend of the Galactic Heroes - Golden Wings"
    },
    "contentRating": "safe",
-   "score": 0.2489044,
+   "score": 0.25327903,
    "languages": [
     "ru"
+   ]
+  },
+  {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -44,7 +77,18 @@
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.23761474,
+   "score": 0.23968983,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.23045012,
    "languages": [
     "en"
    ]
@@ -55,7 +99,7 @@
     "en": "Yugo"
    },
    "contentRating": "safe",
-   "score": 0.2319027,
+   "score": 0.23035768,
    "languages": [
     "en"
    ]
@@ -66,20 +110,37 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.22332488,
+   "score": 0.22643952,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "id": "65fa324d-4075-4f59-a71c-2c82f69f6779",
    "title": {
-    "en": "AGAPE"
+    "en": "After God"
    },
    "contentRating": "safe",
-   "score": 0.22198036,
+   "score": 0.2264281,
    "languages": [
+    "fr",
+    "ru",
+    "pt-br",
+    "vi",
     "en"
+   ]
+  },
+  {
+   "id": "60294a05-0458-4303-b16c-de2728b09297",
+   "title": {
+    "en": "Angel Beats! The Last Operation"
+   },
+   "contentRating": "safe",
+   "score": 0.22498026,
+   "languages": [
+    "en",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -88,7 +149,29 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.22173463,
+   "score": 0.22030997,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d9625d18-9988-43f2-a74b-9c0f12630177",
+   "title": {
+    "en": "Moon Worm"
+   },
+   "contentRating": "safe",
+   "score": 0.21992944,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6c56ecf3-3256-4ada-9ed4-1271f961a155",
+   "title": {
+    "en": "Weiss Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.21985559,
    "languages": [
     "en"
    ]
@@ -99,107 +182,11 @@
     "en": "Kyosuurei"
    },
    "contentRating": "safe",
-   "score": 0.21868001,
+   "score": 0.21776645,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
-   "title": {
-    "en": "Ryoko's Case File"
-   },
-   "contentRating": "safe",
-   "score": 0.21598358,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
-   "title": {
-    "en": "Alien Nine Special"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
-   "title": {
-    "ja": "Raid on Tokyo"
-   },
-   "contentRating": "safe",
-   "score": 0.21597303,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e3792f0d-57a6-455f-90bd-2e68d7ea5a04",
-   "title": {
-    "en": "Monster's Child"
-   },
-   "contentRating": "safe",
-   "score": 0.21514395,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
-   "title": {
-    "en": "Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.2149706,
-   "languages": [
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
-   ]
-  },
-  {
-   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
-   "title": {
-    "en": "Life Maker"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:25+00:00"
+ "updatedAt": "2023-12-10T18:18:20+00:00"
 }

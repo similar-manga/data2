@@ -6,14 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "301ab80a-b198-4858-b778-9c52da836930",
+   "title": {
+    "en": "Nami Uraraka ni, Meoto Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.30829263,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "010a2e68-b80f-4546-a146-54406544b4dc",
+   "title": {
+    "en": "Yoru no Manimani"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
    "title": {
     "en": "Sunny"
    },
    "contentRating": "safe",
-   "score": 0.27412385,
+   "score": 0.27255973,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "16da5065-92f3-4895-82ab-626f08b90990",
+   "title": {
+    "en": "Orenchi no Maid-san 2 (Hobby)"
+   },
+   "contentRating": "safe",
+   "score": 0.27018538,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -22,101 +60,8 @@
     "en": "Ten yori Takaku"
    },
    "contentRating": "safe",
-   "score": 0.27138472,
+   "score": 0.26844656,
    "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c55672b8-4618-4b85-a84b-739a1f3232de",
-   "title": {
-    "en": "Milk Cake in the Reflection"
-   },
-   "contentRating": "safe",
-   "score": 0.24904865,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "a1aac928-7a29-41f3-b497-2c7a1f4f7ef3",
-   "title": {
-    "en": "Ascribe to Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.24652569,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
-   "title": {
-    "en": "Oui Oui Days"
-   },
-   "contentRating": "safe",
-   "score": 0.2433082,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
-   "title": {
-    "en": "JA - Joshi ni Yoru Agriculture"
-   },
-   "contentRating": "safe",
-   "score": 0.24258028,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
-   "title": {
-    "en": "Wagahai no Kare wa Baka de aru"
-   },
-   "contentRating": "safe",
-   "score": 0.24221057,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
-   "title": {
-    "en": "Jinjya no Susume"
-   },
-   "contentRating": "safe",
-   "score": 0.24100262,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e10ebfac-fa83-441c-9c57-3d5461dcd47f",
-   "title": {
-    "en": "Until I Turn Around the Corner"
-   },
-   "contentRating": "safe",
-   "score": 0.24000789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a37d2a4a-6caa-4ff3-84fe-f137f97b207c",
-   "title": {
-    "ja-ro": "Alma-chan wa Kazoku ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.23837078,
-   "languages": [
-    "es-la",
     "pt-br",
     "en"
    ]
@@ -127,7 +72,7 @@
     "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.23547797,
+   "score": 0.2564349,
    "languages": [
     "it",
     "en",
@@ -137,64 +82,125 @@
    ]
   },
   {
-   "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
    "title": {
-    "en": "Tamariba"
+    "en": "Anata ga Shitekurenakute mo"
    },
    "contentRating": "safe",
-   "score": 0.23276806,
+   "score": 0.25061557,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c55672b8-4618-4b85-a84b-739a1f3232de",
+   "title": {
+    "en": "Milk Cake in the Reflection"
+   },
+   "contentRating": "safe",
+   "score": 0.24915211,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "c8c44a2b-45a0-4d5f-bc9a-c052807f55cf",
+   "title": {
+    "en": "Muta no Aru Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24794964,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "969de1c5-046e-44c2-8ed9-d171656ba3a3",
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
-    "en": "Kawaii Neko no Gazou wo Saisyo ni Okutirai Hito"
+    "en": "Skip and Loafer"
    },
    "contentRating": "safe",
-   "score": 0.23276806,
+   "score": 0.24791671,
    "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "55371342-9af0-489d-9c0f-5a839e0a17fd",
-   "title": {
-    "en": "Cecile's Feelings"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "d6aaba3a-2bb5-4b5a-a799-e5c3ff48d654",
-   "title": {
-    "en": "Tonari no Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2208e0fb-aa4a-4683-a13f-ebd03058baa4",
-   "title": {
-    "en": "Love 0¥"
-   },
-   "contentRating": "safe",
-   "score": 0.22342183,
-   "languages": [
+    "pt-br",
+    "uk",
     "en",
     "vi",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "10946824-bc6e-467c-9ee7-a32c23fbc156",
+   "title": {
+    "en": "Crossing Time"
+   },
+   "contentRating": "safe",
+   "score": 0.24690832,
+   "languages": [
+    "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
+   "title": {
+    "en": "Oui Oui Days"
+   },
+   "contentRating": "safe",
+   "score": 0.24294558,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1aac928-7a29-41f3-b497-2c7a1f4f7ef3",
+   "title": {
+    "en": "Ascribe to Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24247828,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
+   "title": {
+    "en": "Wagahai no Kare wa Baka de aru"
+   },
+   "contentRating": "safe",
+   "score": 0.24182211,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
+   "title": {
+    "en": "Ai to Ao no Kyoukai"
+   },
+   "contentRating": "safe",
+   "score": 0.24163055,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
+   "title": {
+    "en": "JA - Joshi ni Yoru Agriculture"
+   },
+   "contentRating": "safe",
+   "score": 0.24127598,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:13+00:00"
+ "updatedAt": "2023-12-10T18:12:23+00:00"
 }

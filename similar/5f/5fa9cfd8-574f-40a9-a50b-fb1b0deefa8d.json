@@ -11,7 +11,7 @@
     "en": "Green"
    },
    "contentRating": "safe",
-   "score": 0.2706852,
+   "score": 0.27084115,
    "languages": [
     "ar",
     "it",
@@ -25,7 +25,7 @@
     "en": "School Zone"
    },
    "contentRating": "safe",
-   "score": 0.26685423,
+   "score": 0.26643646,
    "languages": [
     "en",
     "fr"
@@ -37,7 +37,7 @@
     "en": "Komaoto"
    },
    "contentRating": "safe",
-   "score": 0.26283807,
+   "score": 0.261316,
    "languages": [
     "ru",
     "tr",
@@ -53,7 +53,7 @@
     "en": "Twinkling Stars"
    },
    "contentRating": "safe",
-   "score": 0.25095457,
+   "score": 0.2506747,
    "languages": [
     "vi",
     "en"
@@ -65,7 +65,7 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.2507951,
+   "score": 0.24888092,
    "languages": [
     "en",
     "es-la"
@@ -77,7 +77,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.24157661,
+   "score": 0.24107097,
    "languages": [
     "pt-br",
     "ru",
@@ -92,7 +92,7 @@
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.24096835,
+   "score": 0.24045451,
    "languages": [
     "en",
     "pl"
@@ -104,9 +104,87 @@
     "en": "Lighter"
    },
    "contentRating": "safe",
-   "score": 0.23796348,
+   "score": 0.23777603,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e9134507-1631-4c68-bce1-3cfa7f78eb3e",
+   "title": {
+    "en": "Uraura Hikaru: Shinshin ni Mitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.23392051,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
+   "title": {
+    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "65308d09-a4a0-4fdc-ba2e-8abfbb316a02",
+   "title": {
+    "en": "I Wanna Become a Wolf"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "es-la",
+    "fr",
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
+   "title": {
+    "en": "Dodoitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "4de59a89-a6a8-4059-9ab3-501f7c260223",
+   "title": {
+    "en": "Saegusa-Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "pt-br",
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
+   "title": {
+    "en": "Kanai-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "pl",
+    "ru",
+    "ar",
+    "en",
+    "pt-br",
+    "tr"
    ]
   },
   {
@@ -133,81 +211,7 @@
     "fr",
     "tr"
    ]
-  },
-  {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
-   "title": {
-    "en": "Dodoitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
-   "title": {
-    "en": "Ikiru"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "65308d09-a4a0-4fdc-ba2e-8abfbb316a02",
-   "title": {
-    "en": "I Wanna Become a Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "es-la",
-    "fr",
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "4de59a89-a6a8-4059-9ab3-501f7c260223",
-   "title": {
-    "en": "Saegusa-Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
-   "title": {
-    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
-   "title": {
-    "en": "Olga A Yiri"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:34+00:00"
+ "updatedAt": "2023-12-10T18:18:42+00:00"
 }

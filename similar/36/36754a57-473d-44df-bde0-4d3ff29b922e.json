@@ -6,6 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.22152327,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en",
+    "tr",
+    "ru",
+    "fa"
+   ]
+  },
+  {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
    "title": {
     "en": "Jungle Boy"
@@ -22,7 +39,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.21857028,
+   "score": 0.21765763,
    "languages": [
     "en",
     "it",
@@ -41,6 +58,26 @@
    ]
   },
   {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.21627946,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "398a26c5-04fa-4076-b921-0b0fb44edb10",
    "title": {
     "en": "Gunka no Baltzar"
@@ -53,12 +90,28 @@
    ]
   },
   {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.21163332,
+   "languages": [
+    "en",
+    "es-la",
+    "zh-hk",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
    "title": {
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.2090078,
+   "score": 0.20906585,
    "languages": [
     "tr",
     "en",
@@ -74,7 +127,18 @@
     "en": "Napoleon - Age of the Lion"
    },
    "contentRating": "safe",
-   "score": 0.20468,
+   "score": 0.20452295,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.20397425,
    "languages": [
     "en"
    ]
@@ -85,13 +149,36 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.20364742,
+   "score": 0.20329061,
    "languages": [
     "pt-br",
     "en",
     "es",
     "ru",
     "tr"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.1981933,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.19576006,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -114,7 +201,7 @@
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.19197263,
+   "score": 0.19187485,
    "languages": [
     "en",
     "es-la",
@@ -125,113 +212,27 @@
    ]
   },
   {
-   "id": "62952d0b-52e5-4c5c-bb57-4bda60e27356",
+   "id": "af2b38df-05bf-44b7-b604-3579072c590d",
    "title": {
-    "en": "Kingdom (fan-colored)"
+    "en": "Vlad Dracula"
    },
    "contentRating": "safe",
-   "score": 0.19040368,
+   "score": 0.1912682,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
+   "id": "47859811-7fd7-488a-963d-bd10c081142e",
    "title": {
-    "en": "Vinland Saga"
+    "en": "Shiki"
    },
    "contentRating": "safe",
-   "score": 0.18306701,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "ru",
-    "ar",
-    "cs",
-    "uk",
-    "tr",
-    "ro",
-    "es",
-    "it"
-   ]
-  },
-  {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
-   "title": {
-    "ja": "Raid on Tokyo"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1e167d35-6b1f-4d5d-af00-be83160741fc",
-   "title": {
-    "en": "Skyscraper Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.18012866,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
-   "title": {
-    "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
-   },
-   "contentRating": "safe",
-   "score": 0.17950039,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar",
-    "id",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
-   "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
-   },
-   "contentRating": "safe",
-   "score": 0.17718768,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.17707163,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
-   "title": {
-    "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.17658263,
+   "score": 0.1912682,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:51+00:00"
+ "updatedAt": "2023-12-10T18:14:09+00:00"
 }

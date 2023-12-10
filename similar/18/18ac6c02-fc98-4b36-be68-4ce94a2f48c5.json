@@ -11,7 +11,7 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.26267418,
+   "score": 0.26825738,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.24301821
+   "score": 0.24092434
   },
   {
    "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
@@ -30,7 +30,7 @@
     "en": "Red Colored Elegy"
    },
    "contentRating": "safe",
-   "score": 0.23710547,
+   "score": 0.23780236,
    "languages": [
     "ar",
     "pt-br"
@@ -42,7 +42,7 @@
     "en": "Sofa-chan"
    },
    "contentRating": "safe",
-   "score": 0.22560257,
+   "score": 0.22243838,
    "languages": [
     "pl",
     "fr",
@@ -60,7 +60,7 @@
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.20784253,
+   "score": 0.20621489,
    "languages": [
     "en",
     "es-la",
@@ -71,12 +71,20 @@
    ]
   },
   {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.20524198
+  },
+  {
    "id": "aa161a85-17c4-4260-865a-b62f5471bdfa",
    "title": {
     "en": "Steam Boy"
    },
    "contentRating": "safe",
-   "score": 0.20242988
+   "score": 0.20522684
   },
   {
    "id": "9ed7759e-3a3e-4850-b1ef-0b039add6f75",
@@ -84,7 +92,18 @@
     "en": "Alien 9 Complete"
    },
    "contentRating": "safe",
-   "score": 0.2019177,
+   "score": 0.2000693,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.19742343,
    "languages": [
     "en"
    ]
@@ -95,10 +114,23 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.19799112,
+   "score": 0.19686848,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "ebdcb990-a71b-4259-979c-fa65abe0c24a",
+   "title": {
+    "en": "Zanmu"
+   },
+   "contentRating": "safe",
+   "score": 0.19549474,
+   "languages": [
+    "vi",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -107,21 +139,9 @@
     "en": "Legend of the Galactic Heroes - Golden Wings"
    },
    "contentRating": "safe",
-   "score": 0.19606046,
+   "score": 0.19450903,
    "languages": [
     "ru"
-   ]
-  },
-  {
-   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
-   "title": {
-    "en": "Nightmare Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.1901302,
-   "languages": [
-    "zh-hk",
-    "en"
    ]
   },
   {
@@ -133,13 +153,14 @@
    "score": 0.18916775
   },
   {
-   "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
+   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
    "title": {
-    "en": "Please Eat Me, My Darling"
+    "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.18678233,
+   "score": 0.18819,
    "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -164,58 +185,16 @@
    ]
   },
   {
-   "id": "660f39e6-a52b-440b-b412-d14d96e435dc",
+   "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
    "title": {
-    "en": "Kan no Mushi"
+    "en": "Please Eat Me, My Darling"
    },
    "contentRating": "safe",
-   "score": 0.18487382,
+   "score": 0.1856685,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "ba7908db-5c9e-4f78-9fc1-3b3581f752e9",
-   "title": {
-    "en": "Look Back"
-   },
-   "contentRating": "safe",
-   "score": 0.18462256,
-   "languages": [
-    "sr",
-    "ru",
-    "pt-br",
-    "kk",
-    "es-la",
-    "fr",
-    "ne"
-   ]
-  },
-  {
-   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
-   "title": {
-    "en": "Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.18318157,
-   "languages": [
-    "en",
-    "it",
-    "vi",
-    "ar",
-    "ru",
-    "es",
-    "pt-br",
-    "pl",
-    "tr",
-    "ro",
-    "id",
-    "es-la",
-    "fr",
-    "de"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:42+00:00"
+ "updatedAt": "2023-12-10T18:10:58+00:00"
 }

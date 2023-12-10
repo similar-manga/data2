@@ -11,7 +11,7 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.28855968,
+   "score": 0.28862154,
    "languages": [
     "en",
     "pl"
@@ -34,7 +34,7 @@
     "en": "After Snowfall, Wonder"
    },
    "contentRating": "safe",
-   "score": 0.26373363,
+   "score": 0.26343217,
    "languages": [
     "fr",
     "en"
@@ -46,7 +46,7 @@
     "en": "Snow Blind"
    },
    "contentRating": "safe",
-   "score": 0.26291502,
+   "score": 0.26268354,
    "languages": [
     "fr",
     "es-la",
@@ -74,16 +74,18 @@
    ]
   },
   {
-   "id": "79950e7f-d2e1-4cea-abec-85a2d57d27a3",
+   "id": "2ef7710f-5cd1-4d68-ac7b-f9802df830ff",
    "title": {
-    "en": "Ryuukei no Sora"
+    "en": "Locker Room"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "fr",
+    "id",
+    "es-la",
     "en",
-    "ru"
+    "fr",
+    "it"
    ]
   },
   {
@@ -100,18 +102,27 @@
    ]
   },
   {
-   "id": "2ef7710f-5cd1-4d68-ac7b-f9802df830ff",
+   "id": "79950e7f-d2e1-4cea-abec-85a2d57d27a3",
    "title": {
-    "en": "Locker Room"
+    "en": "Ryuukei no Sora"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "id",
-    "es-la",
-    "en",
     "fr",
-    "it"
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "5c00adc1-15da-4d11-bb0f-f5eb043e1789",
+   "title": {
+    "en": "Song of Heaven and Earth"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -139,23 +150,12 @@
    ]
   },
   {
-   "id": "5c00adc1-15da-4d11-bb0f-f5eb043e1789",
-   "title": {
-    "en": "Song of Heaven and Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
    "title": {
     "en": "Kishibe no Yume"
    },
    "contentRating": "safe",
-   "score": 0.23510446,
+   "score": 0.23465271,
    "languages": [
     "en",
     "es-la",
@@ -168,8 +168,21 @@
     "en": "Blood in the Field"
    },
    "contentRating": "safe",
-   "score": 0.23447211,
+   "score": 0.23345748,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
+   "title": {
+    "en": "Shadowman"
+   },
+   "contentRating": "safe",
+   "score": 0.23331478,
+   "languages": [
+    "pt-br",
+    "es",
     "en"
    ]
   },
@@ -185,34 +198,16 @@
    ]
   },
   {
-   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
+   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
    "title": {
-    "en": "Shadowman"
-   },
-   "contentRating": "safe",
-   "score": 0.22996947,
-   "languages": [
-    "pt-br",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "f3cbfbf0-a6f2-49f8-b73f-a34c69362e0c",
-   "title": {
-    "en": "Skip! Yamada-kun"
+    "en": "Merboy"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "ru",
-    "de",
-    "tr",
-    "vi",
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:53+00:00"
+ "updatedAt": "2023-12-10T18:27:40+00:00"
 }

@@ -6,12 +6,32 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
+   "title": {
+    "en": "Coffee \u0026 Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.46983877,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "696db525-a4c0-4a7c-a799-98fc75044910",
+   "title": {
+    "en": "Yamamoto-san's Cat Story"
+   },
+   "contentRating": "safe",
+   "score": 0.3954895
+  },
+  {
    "id": "768cded0-80ac-4c0d-b29b-cc28fc224d70",
    "title": {
     "en": "Hataraku Saibou Neko"
    },
    "contentRating": "safe",
-   "score": 0.3930519
+   "score": 0.38032025
   },
   {
    "id": "cc077710-3f9a-4acb-8319-a80f80ca4c45",
@@ -19,11 +39,62 @@
     "en": "Poyopoyo Kansatsu Nikki"
    },
    "contentRating": "safe",
-   "score": 0.38931057,
+   "score": 0.37822774,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "7d80640d-c591-4c7a-a47e-594c29c2037c",
+   "title": {
+    "en": "Like a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.3758821,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9ca8d424-8d3b-4ac7-aecf-49a137be262e",
+   "title": {
+    "en": "The Hero Summoned from Another World is a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.37108183,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "48496326-c504-459a-9f95-1c97d25edb68",
+   "title": {
+    "en": "The Masterful Cat Is Depressed Again Today"
+   },
+   "contentRating": "safe",
+   "score": 0.35660657,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "bf241703-b432-424c-b6f6-17ae220b2b56",
+   "title": {
+    "en": "Uchi ni Otaku no Neko ga Imasu"
+   },
+   "contentRating": "safe",
+   "score": 0.35410038
+  },
+  {
+   "id": "99eb8461-8c28-4b56-9a77-413b52518131",
+   "title": {
+    "en": "Nagi o Sagashite"
+   },
+   "contentRating": "safe",
+   "score": 0.34429684
   },
   {
    "id": "ca2842fc-aa2c-40d3-99fa-bc9fe1b99e7f",
@@ -31,7 +102,21 @@
     "en": "Wagahai wa Uchuu Neko de aru"
    },
    "contentRating": "safe",
-   "score": 0.3400546
+   "score": 0.3310079
+  },
+  {
+   "id": "ed9d57a3-a688-4419-a03a-29aee0deab6a",
+   "title": {
+    "en": "Tsureneko:  Maruru to Hachi"
+   },
+   "contentRating": "safe",
+   "score": 0.32723522,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "id"
+   ]
   },
   {
    "id": "681aae2f-a81f-40c1-8555-499946d093c7",
@@ -39,7 +124,7 @@
     "en": "Nekomahime"
    },
    "contentRating": "safe",
-   "score": 0.32646856,
+   "score": 0.31413934,
    "languages": [
     "en",
     "tr",
@@ -53,7 +138,7 @@
     "en": "My Little Noir"
    },
    "contentRating": "safe",
-   "score": 0.31973624,
+   "score": 0.31339315,
    "languages": [
     "id",
     "ru",
@@ -66,116 +151,29 @@
    ]
   },
   {
-   "id": "dbac87fb-da12-4d29-ae0c-f88aed08f305",
+   "id": "6de9b7a6-7378-4324-9c46-4daea45a50f0",
    "title": {
-    "en": "Kremlin"
+    "en": "Neko no Manimani"
    },
    "contentRating": "safe",
-   "score": 0.2719892
+   "score": 0.30416873
   },
   {
-   "id": "5a25d37b-2398-4958-83c1-b71c3c7dcb8b",
+   "id": "3096fd3d-8fd2-469f-959e-49a565a90de1",
    "title": {
-    "en": "Toko-Toko"
+    "en": "Dog Company"
    },
    "contentRating": "safe",
-   "score": 0.25922194,
-   "languages": [
-    "en"
-   ]
+   "score": 0.30025762
   },
   {
-   "id": "a16ce0c1-da89-45c0-b453-4eba7cf6b28d",
+   "id": "8d481cbc-9016-4a60-a94b-d82a328905c7",
    "title": {
-    "en": "Yomawari Neko"
+    "en": "Kurogou"
    },
    "contentRating": "safe",
-   "score": 0.2531939
-  },
-  {
-   "id": "5a7520ae-fad6-487c-ad87-350ba0d23604",
-   "title": {
-    "en": "Nyanderful"
-   },
-   "contentRating": "safe",
-   "score": 0.2529594,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3623bac-4d21-41a4-ac2b-e7b53a60cfbf",
-   "title": {
-    "en": "Pavlov's Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.23612587
-  },
-  {
-   "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
-   "title": {
-    "en": "Yurumates"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "99ecc886-a9e8-4dd7-9979-bac2f5bd68c6",
-   "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Ensemble!"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b500a5b6-6867-45f8-80b0-a013683b97bb",
-   "title": {
-    "en": "Lisa Step!"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665
-  },
-  {
-   "id": "651e0896-dc17-4399-a2f3-f85eb93402d4",
-   "title": {
-    "en": "Dekoboko Girlish"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "6d16184b-c951-4370-968f-ef6befc29377",
-   "title": {
-    "en": "Magi-Cu 4-koma - Steins;Gate - Sekaisen Hendouritsu x. 091015%"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "60595326-a5d2-48a1-8a34-7759c1179de6",
-   "title": {
-    "en": "Bonobono"
-   },
-   "contentRating": "safe",
-   "score": 0.23185515,
-   "languages": [
-    "en",
-    "es"
-   ]
+   "score": 0.2955227
   }
  ],
- "updatedAt": "2023-12-10T01:08:44+00:00"
+ "updatedAt": "2023-12-10T18:32:25+00:00"
 }

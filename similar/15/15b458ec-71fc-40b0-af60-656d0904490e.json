@@ -11,7 +11,18 @@
     "en": "Akiba's Trip"
    },
    "contentRating": "suggestive",
-   "score": 0.2646343,
+   "score": 0.26761755,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f79282f-9f3c-4350-b570-b88feb315672",
+   "title": {
+    "en": "Izoraba!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2065591,
    "languages": [
     "en"
    ]
@@ -32,23 +43,12 @@
    ]
   },
   {
-   "id": "0f79282f-9f3c-4350-b570-b88feb315672",
-   "title": {
-    "en": "Izoraba!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2065591,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2ca258f3-f212-49ff-b66c-8ec6ff41ad87",
    "title": {
     "en": "Kimi wa 008"
    },
    "contentRating": "suggestive",
-   "score": 0.20632888,
+   "score": 0.20553285,
    "languages": [
     "en",
     "pt-br",
@@ -61,7 +61,7 @@
     "en": "Hidan no Aria"
    },
    "contentRating": "suggestive",
-   "score": 0.19853675,
+   "score": 0.19941132,
    "languages": [
     "en",
     "pt-br",
@@ -89,21 +89,10 @@
     "en": "Absolute Duo"
    },
    "contentRating": "suggestive",
-   "score": 0.19279718,
+   "score": 0.19462873,
    "languages": [
     "pl",
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "e31f7b4b-cc4e-4ac0-989f-3012497b44a2",
-   "title": {
-    "en": "The Strongest Virus"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19066478,
-   "languages": [
     "en"
    ]
   },
@@ -113,29 +102,18 @@
     "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.18880281,
+   "score": 0.19033599,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cf0a1779-0bd7-4b3b-9f67-558439acfa74",
+   "id": "e31f7b4b-cc4e-4ac0-989f-3012497b44a2",
    "title": {
-    "en": "Tanzaburo Tojima Wants To Be Kamen Rider"
+    "en": "The Strongest Virus"
    },
    "contentRating": "suggestive",
-   "score": 0.18483567,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
-   "title": {
-    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18475209,
+   "score": 0.19015227,
    "languages": [
     "en"
    ]
@@ -152,12 +130,23 @@
    ]
   },
   {
+   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
+   "title": {
+    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18475209,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "805ff299-b5ed-4887-90ef-bece73d182e5",
    "title": {
     "en": "Isekai Battle Royale"
    },
    "contentRating": "suggestive",
-   "score": 0.18449593,
+   "score": 0.18417901,
    "languages": [
     "es-la",
     "pt-br"
@@ -169,20 +158,9 @@
     "en": "Kuro Ageha"
    },
    "contentRating": "suggestive",
-   "score": 0.18358558,
+   "score": 0.18344477,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c2e76d62-702b-4a8e-a4d0-c7cecd45b8ea",
-   "title": {
-    "en": "One Piece (Fan Colored)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18257418,
-   "languages": [
-    "pt-br"
    ]
   },
   {
@@ -196,7 +174,34 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "12ac16ec-8894-420b-bc03-eade9340dfd8",
+   "title": {
+    "en": "Trinity Seven"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18257418,
+   "languages": [
+    "de",
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ro"
+   ]
+  },
+  {
+   "id": "c2e76d62-702b-4a8e-a4d0-c7cecd45b8ea",
+   "title": {
+    "en": "One Piece (Fan Colored)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18257418,
+   "languages": [
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:36+00:00"
+ "updatedAt": "2023-12-10T18:10:39+00:00"
 }

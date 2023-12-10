@@ -6,12 +6,33 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bc1d5980-e4bc-454d-be44-8ce4f2072f04",
+   "title": {
+    "en": "A Manga World That Gets One Page Once a Year"
+   },
+   "contentRating": "safe",
+   "score": 0.35231614,
+   "languages": [
+    "id",
+    "ru",
+    "pl",
+    "tl",
+    "en",
+    "it",
+    "es-la",
+    "pt-br",
+    "ms",
+    "th",
+    "fr"
+   ]
+  },
+  {
    "id": "ec6a3bbd-90a7-412d-aedf-15ead0ec26da",
    "title": {
     "en": "Amagami-san Chi no Enmusubi (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.33202216,
+   "score": 0.33478966,
    "languages": [
     "fr",
     "it",
@@ -28,7 +49,7 @@
     "en": "Aniota JK ga Ossan Kyara ni Natteshimau Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.27149948,
+   "score": 0.2709211,
    "languages": [
     "en"
    ]
@@ -39,7 +60,7 @@
     "en": "4 page de Owaru Rabukome Shiki Jinsei"
    },
    "contentRating": "safe",
-   "score": 0.27087057,
+   "score": 0.268396,
    "languages": [
     "vi",
     "en",
@@ -52,7 +73,7 @@
     "en": "Multiplying Wives - A Fairy Tail"
    },
    "contentRating": "safe",
-   "score": 0.2667606,
+   "score": 0.2637234,
    "languages": [
     "en"
    ]
@@ -63,7 +84,7 @@
     "en": "The Cover Pages of a Manga Before and After the Author Obviously Went Through Something"
    },
    "contentRating": "safe",
-   "score": 0.26063138,
+   "score": 0.25689057,
    "languages": [
     "en",
     "id",
@@ -76,7 +97,7 @@
     "en": "Asa Okitara Onnanoko ni Natteta Manga"
    },
    "contentRating": "safe",
-   "score": 0.2550066,
+   "score": 0.25229758,
    "languages": [
     "en",
     "id",
@@ -89,11 +110,22 @@
     "en": "A Manga About High School Boys Who Woke Up as Girls One Morning (Webcomic)"
    },
    "contentRating": "safe",
-   "score": 0.24906634,
+   "score": 0.24753831,
    "languages": [
     "fr",
     "id",
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "5afeffd2-87ea-4269-9632-395b54ad43dd",
+   "title": {
+    "en": "House of the Restorer"
+   },
+   "contentRating": "safe",
+   "score": 0.24534896,
+   "languages": [
     "en"
    ]
   },
@@ -103,7 +135,7 @@
     "en": "The Workaday Life of a Certain Manga Artist"
    },
    "contentRating": "safe",
-   "score": 0.24639209,
+   "score": 0.24224274,
    "languages": [
     "en"
    ]
@@ -114,7 +146,18 @@
     "en": "The Gods of Laughter: The Final Chapter"
    },
    "contentRating": "safe",
-   "score": 0.24161662,
+   "score": 0.2413252,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2a413ee1-3114-458e-baef-c46e7d4a125d",
+   "title": {
+    "en": "Xian Bai Er Up and Down"
+   },
+   "contentRating": "safe",
+   "score": 0.2400294,
    "languages": [
     "en"
    ]
@@ -143,18 +186,6 @@
    ]
   },
   {
-   "id": "170ee6b2-e331-47f1-9653-5748bee8e2f7",
-   "title": {
-    "en": "The North Wind and the Sun"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "f1823030-b08d-4290-a9cb-2439080e0f95",
    "title": {
     "en": "The Hero Who Pulled Out the Holy Sword That Changed His Gender"
@@ -169,44 +200,17 @@
    ]
   },
   {
-   "id": "91ec66fd-1bfe-4a2f-a734-44922e0f012e",
+   "id": "170ee6b2-e331-47f1-9653-5748bee8e2f7",
    "title": {
-    "en": "Otousan's Short Story: Little Witch Tries to Fly With a Broom"
+    "en": "The North Wind and the Sun"
    },
    "contentRating": "safe",
-   "score": 0.22755206,
+   "score": 0.23567893,
    "languages": [
-    "fr",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "8b27cf20-2770-4c25-bf13-7db8349cd0d3",
-   "title": {
-    "en": "My First Planet"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
-    "en",
-    "tr",
-    "it",
-    "pt-br",
-    "es"
-   ]
-  },
-  {
-   "id": "5b446430-9acd-4493-bb80-02f4381ad48e",
-   "title": {
-    "en": "Angelmois Please"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
+    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:44+00:00"
+ "updatedAt": "2023-12-10T18:13:50+00:00"
 }

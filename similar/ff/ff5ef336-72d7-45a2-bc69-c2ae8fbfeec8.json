@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.28950754,
+   "score": 0.28709713,
    "languages": [
     "en",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Zom 100 ~100 Things I Want to do Before I Become a Zombie~"
    },
    "contentRating": "suggestive",
-   "score": 0.2290593,
+   "score": 0.22699855,
    "languages": [
     "ru",
     "en",
@@ -33,30 +33,12 @@
    ]
   },
   {
-   "id": "eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
-   "title": {
-    "en": "Tengoku Daimakyou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21929899,
-   "languages": [
-    "ru",
-    "zh-hk",
-    "ar",
-    "pt-br",
-    "en",
-    "es-la",
-    "fr",
-    "fa"
-   ]
-  },
-  {
    "id": "801513ba-a712-498c-8f57-cae55b38cc92",
    "title": {
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.21763274,
+   "score": 0.21947725,
    "languages": [
     "fr",
     "pt-br",
@@ -76,6 +58,24 @@
    ]
   },
   {
+   "id": "eeb2ab0e-7dbc-4f0c-b476-8181d44217a8",
+   "title": {
+    "en": "Tengoku Daimakyou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21856809,
+   "languages": [
+    "ru",
+    "zh-hk",
+    "ar",
+    "pt-br",
+    "en",
+    "es-la",
+    "fr",
+    "fa"
+   ]
+  },
+  {
    "id": "1421a9e8-fbf5-4e64-a72f-dbebdf570a1f",
    "title": {
     "en": "Shimauma"
@@ -92,7 +92,7 @@
     "en": "Goblin Slayer Gaiden: Year One"
    },
    "contentRating": "suggestive",
-   "score": 0.20189284,
+   "score": 0.20104179,
    "languages": [
     "es-la",
     "pt-br",
@@ -109,7 +109,7 @@
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.20128046,
+   "score": 0.20084856,
    "languages": [
     "es",
     "en",
@@ -118,30 +118,12 @@
    ]
   },
   {
-   "id": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
-   "title": {
-    "en": "Gangsta"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19333313,
-   "languages": [
-    "ru",
-    "id",
-    "tr",
-    "uk",
-    "pt-br",
-    "en",
-    "pl",
-    "it"
-   ]
-  },
-  {
    "id": "67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6",
    "title": {
     "en": "Goblin Slayer"
    },
    "contentRating": "suggestive",
-   "score": 0.19023325,
+   "score": 0.18919449,
    "languages": [
     "pt-br",
     "ar",
@@ -163,12 +145,30 @@
    ]
   },
   {
+   "id": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
+   "title": {
+    "en": "Gangsta"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18612404,
+   "languages": [
+    "ru",
+    "id",
+    "tr",
+    "uk",
+    "pt-br",
+    "en",
+    "pl",
+    "it"
+   ]
+  },
+  {
    "id": "9f7530e3-3fc0-4d2b-a1f9-00caadbf2d05",
    "title": {
     "en": "Fate/strange Fake"
    },
    "contentRating": "suggestive",
-   "score": 0.18657778,
+   "score": 0.18541414,
    "languages": [
     "pt-br",
     "ru",
@@ -181,12 +181,23 @@
    ]
   },
   {
+   "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
+   "title": {
+    "en": "TOKYO TRIBE"
+   },
+   "contentRating": "suggestive",
+   "score": 0.182764,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1d0fa942-e78f-4b6e-8c81-85ec23fabc3a",
    "title": {
     "en": "Chi to Hai no Joou"
    },
    "contentRating": "suggestive",
-   "score": 0.18317002,
+   "score": 0.1822936,
    "languages": [
     "en",
     "pt-br",
@@ -195,23 +206,12 @@
    ]
   },
   {
-   "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
-   "title": {
-    "en": "TOKYO TRIBE"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18309078,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "936765df-fd02-4659-9158-c1cefbbf4c51",
    "title": {
     "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
    },
    "contentRating": "suggestive",
-   "score": 0.18077815,
+   "score": 0.1799125,
    "languages": [
     "ru",
     "en",
@@ -255,5 +255,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:21+00:00"
+ "updatedAt": "2023-12-10T18:36:19+00:00"
 }

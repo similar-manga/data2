@@ -6,20 +6,57 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "ad6b4a60-ce15-451a-b745-392481d99233",
+   "id": "1ef6ddce-7930-45ae-a335-9a45604b99f7",
    "title": {
-    "en": "Usotsuki wa Koi wo Suru"
+    "en": "Genjitsushugi Yuusha no Oukoku Saikenki"
+   },
+   "contentRating": "safe",
+   "score": 0.60752267,
+   "languages": [
+    "de",
+    "en",
+    "id",
+    "fr",
+    "tr",
+    "it",
+    "es-la",
+    "hi",
+    "pt-br",
+    "pl",
+    "ru"
+   ]
+  },
+  {
+   "id": "d37e74e0-9152-4c7b-a706-7f63a2ab9912",
+   "title": {
+    "en": "Time Lag"
+   },
+   "contentRating": "safe",
+   "score": 0.3273929
+  },
+  {
+   "id": "c2363914-4938-4aef-925b-8dc6fbbcbc9d",
+   "title": {
+    "en": "Himitsu wa Kiss de Abakareru"
+   },
+   "contentRating": "safe",
+   "score": 0.29751304
+  },
+  {
+   "id": "8a05674c-5365-4f5f-8908-c5e7b6c241ae",
+   "title": {
+    "en": "Dramatic ni Ubae!"
    },
    "contentRating": "safe",
    "score": 0.2835781,
    "languages": [
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "0edc965d-2d24-4565-b013-5b32ff0c70d8",
+   "id": "da02e42b-7f25-4393-a206-18110c2080aa",
    "title": {
-    "en": "Sensei ga Okiniiri"
+    "en": "Sakura no Hana ga Saku Koro ni"
    },
    "contentRating": "safe",
    "score": 0.2835781
@@ -33,149 +70,97 @@
    "score": 0.2835781
   },
   {
-   "id": "f1efad8b-2f43-4b36-b7b3-256ef701872d",
+   "id": "8bea6fb0-876c-45d7-9988-8d4f9dd050dd",
    "title": {
-    "en": "Kooru Shakunetsu"
+    "en": "Overdose"
    },
    "contentRating": "safe",
    "score": 0.2835781,
    "languages": [
-    "en",
-    "pl"
+    "it"
    ]
   },
   {
-   "id": "9fec7405-c442-42b5-acb8-07efd843e173",
+   "id": "9cb288b4-4ab1-4e02-8303-4c0c7093cb4d",
    "title": {
-    "en": "Butai Sode no Ouji-sama"
+    "en": "Meikyuu Kairou"
    },
    "contentRating": "safe",
    "score": 0.2835781
   },
   {
-   "id": "0c5389cb-df84-400d-a29a-f2fdbbc9d26b",
+   "id": "5bcac780-a7a8-45d7-a54c-157dc7cbc36e",
    "title": {
-    "en": "Koi no Shikata, Oshiete Kudasai"
+    "en": "Star Collector"
    },
    "contentRating": "safe",
-   "score": 0.25732112,
+   "score": 0.2835781,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0daf338e-86f5-416a-9771-e054fc7da1c6",
+   "id": "b4dbd911-a9d4-43f8-8fce-85a220f92cbe",
    "title": {
-    "en": "Ghost Logic"
+    "en": "Shinitagari to Iseijin"
    },
    "contentRating": "safe",
-   "score": 0.25361478,
-   "languages": [
-    "de",
-    "fr",
-    "en"
-   ]
+   "score": 0.2835781
   },
   {
-   "id": "e30e532e-379a-42f0-b7f2-4e9e01cb90e5",
+   "id": "f9d67355-24fa-4a5e-bab7-e187248436ee",
    "title": {
-    "en": "Shinbuki"
+    "en": "Itsuwari no Ai wo Haramu"
    },
    "contentRating": "safe",
-   "score": 0.25200936
+   "score": 0.2835781
   },
   {
-   "id": "f55a50b0-3300-4438-b6ef-fcc842b54af1",
+   "id": "fb8ab84d-c4bd-47c2-8766-a2e54b80d568",
    "title": {
-    "en": "Double Snake"
+    "en": "Bloom Brothers"
    },
    "contentRating": "safe",
-   "score": 0.24558583,
+   "score": 0.2835781,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "50feb9a0-94ac-4f52-ae6e-4c9646847874",
+   "id": "0edc965d-2d24-4565-b013-5b32ff0c70d8",
    "title": {
-    "en": "Kaze ni Chiru Hanabira to Kisu"
+    "en": "Sensei ga Okiniiri"
    },
    "contentRating": "safe",
-   "score": 0.24558583,
+   "score": 0.2835781
+  },
+  {
+   "id": "331db6d2-bf6e-47d9-b5f0-89b615841370",
+   "title": {
+    "en": "Jazz"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781
+  },
+  {
+   "id": "ad6b4a60-ce15-451a-b745-392481d99233",
+   "title": {
+    "en": "Usotsuki wa Koi wo Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
    "languages": [
-    "it",
-    "en"
+    "pl"
    ]
   },
   {
-   "id": "f0f4c83e-0bc4-4211-94f3-e70f618ca6a3",
+   "id": "23733456-ec4f-461b-848f-f5109b038f95",
    "title": {
-    "en": "Hanazakari no Niwa"
+    "en": "Ameiro Banyuu Inryoku"
    },
    "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "7dbf493a-b544-4cc4-be45-2f6ff7f80a9f",
-   "title": {
-    "en": "Bara to Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bee88f3b-f148-449d-9370-1da827dfb762",
-   "title": {
-    "en": "Omairi Desu yo"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "76f44afe-2505-4bbc-b67d-2a9ed5913cce",
-   "title": {
-    "en": "Pokerface"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
-   "title": {
-    "en": "Tonight The Night"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "it",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "9ce44d6c-034c-4daf-abe6-ecf952230557",
-   "title": {
-    "en": "Namaiki na Ryouken no Shitsukekata"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2835781
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:55+00:00"
 }

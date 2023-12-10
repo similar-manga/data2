@@ -11,7 +11,7 @@
     "en": "Arcana 10 - Conflict / Secret Societies"
    },
    "contentRating": "safe",
-   "score": 0.22386585,
+   "score": 0.22350018,
    "languages": [
     "en",
     "it"
@@ -35,7 +35,7 @@
     "en": "Arcana 12 - Demons"
    },
    "contentRating": "safe",
-   "score": 0.17562334,
+   "score": 0.17353788,
    "languages": [
     "fr",
     "en",
@@ -48,10 +48,32 @@
     "en": "Arcana 05 - Japanese Style / Samurai"
    },
    "contentRating": "safe",
-   "score": 0.17313874,
+   "score": 0.17171477,
    "languages": [
     "hu",
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "1017a17e-e409-4bf9-85f3-2751a4f83114",
+   "title": {
+    "en": "Non-chan no Tenohira"
+   },
+   "contentRating": "safe",
+   "score": 0.16830656,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
+   "title": {
+    "en": "Arcana+ 01 - Boys in Uniform"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
     "en"
    ]
   },
@@ -70,17 +92,6 @@
    ]
   },
   {
-   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
-   "title": {
-    "en": "Arcana+ 01 - Boys in Uniform"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "32ff052b-ca43-4595-a251-04e9ca7341d0",
    "title": {
     "en": "Arcana 08 - Butler II"
@@ -92,13 +103,50 @@
    ]
   },
   {
+   "id": "02d5f7d6-03dc-46a8-b495-db514c2b4fff",
+   "title": {
+    "en": "The Boss's Shotgun Wedding"
+   },
+   "contentRating": "safe",
+   "score": 0.16010337,
+   "languages": [
+    "it",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "7d24ea7b-d4e1-4aa5-a26a-9dd1b32edb2b",
    "title": {
     "en": "Arcana 11 - Time Travel / Time Traveller"
    },
    "contentRating": "safe",
-   "score": 0.16058742,
+   "score": 0.15929715,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c8933c46-c0f3-45f4-ad31-2308859bec0d",
+   "title": {
+    "en": "Ima, Ai ni Yukimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.1582266,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "44ed579d-5840-4adf-9c64-9b07674ee96b",
+   "title": {
+    "en": "DEEMO -Prelude-"
+   },
+   "contentRating": "safe",
+   "score": 0.15324077,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -108,7 +156,7 @@
     "en": "Sore ga Sekai no Futsu ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.153593,
+   "score": 0.15319955,
    "languages": [
     "en"
    ]
@@ -119,22 +167,10 @@
     "en": "Ihou no Oswald"
    },
    "contentRating": "safe",
-   "score": 0.15074028,
+   "score": 0.15003246,
    "languages": [
     "zh-hk",
     "en"
-   ]
-  },
-  {
-   "id": "b6d9b931-83fe-434f-b01d-60302ca3a353",
-   "title": {
-    "en": "Planet of Wheat"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -151,52 +187,17 @@
    ]
   },
   {
-   "id": "7f9915f2-3c98-4eb6-ac6f-f0bb489c8cb7",
+   "id": "b6d9b931-83fe-434f-b01d-60302ca3a353",
    "title": {
-    "en": "Eternal Arcadia - Air Pirate Romanticism!"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5fa08e64-ceee-41d9-b48e-39e848bedb82",
-   "title": {
-    "en": "Arcana 09 - Transformation☆Personification"
+    "en": "Planet of Wheat"
    },
    "contentRating": "safe",
    "score": 0.14285715,
    "languages": [
     "en",
-    "pl",
-    "hu",
-    "fr"
-   ]
-  },
-  {
-   "id": "1a3fb67c-a339-4ec0-aa7d-32c2794a6b7f",
-   "title": {
-    "en": "Cain"
-   },
-   "contentRating": "safe",
-   "score": 0.13921656,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "909338f5-3f2c-4240-95f6-edaada70ca69",
-   "title": {
-    "en": "Aria at Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.13797759,
-   "languages": [
-    "en"
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:44+00:00"
+ "updatedAt": "2023-12-10T18:13:49+00:00"
 }

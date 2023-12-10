@@ -6,12 +6,79 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "da2b304d-4d10-4762-80d6-1c7237ec1ecd",
+   "title": {
+    "en": "Tokyo Higoro"
+   },
+   "contentRating": "safe",
+   "score": 0.32423627,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
+   "title": {
+    "en": "Kaji Ryuusuke's Agenda"
+   },
+   "contentRating": "safe",
+   "score": 0.30164993,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
+   "title": {
+    "en": "Otona no Zukan Kaiteiban"
+   },
+   "contentRating": "safe",
+   "score": 0.2935282,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "683117b1-e326-4bc8-b189-e4f17940bf56",
+   "title": {
+    "en": "Chiisai Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.29333296,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9134507-1631-4c68-bce1-3cfa7f78eb3e",
+   "title": {
+    "en": "Uraura Hikaru: Shinshin ni Mitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
+   "title": {
+    "en": "Takaga Tasogare"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "5fa9cfd8-574f-40a9-a50b-fb1b0deefa8d",
    "title": {
     "en": "Years"
    },
    "contentRating": "safe",
-   "score": 0.27117705,
+   "score": 0.26771557,
    "languages": [
     "es",
     "en",
@@ -26,7 +93,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.26455986,
+   "score": 0.26392165,
    "languages": [
     "pt-br",
     "ru",
@@ -36,74 +103,71 @@
    ]
   },
   {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
    "title": {
-    "en": "Sunny"
+    "en": "Hirayasumi"
    },
    "contentRating": "safe",
-   "score": 0.23276806,
+   "score": 0.25121576,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
-   "title": {
-    "en": "Sayonara Bye-Bye"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "ru",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
-   "title": {
-    "en": "Komaoto"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "ru",
-    "tr",
+    "ar",
+    "uk",
     "en",
+    "tr",
     "it",
-    "pl",
-    "ca"
+    "pt-br",
+    "vi",
+    "ru"
    ]
   },
   {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
+   "id": "5cc2520e-3f8a-4d58-ba61-c19eee1c9a96",
    "title": {
-    "en": "Olga A Yiri"
+    "en": "Osen"
    },
    "contentRating": "safe",
-   "score": 0.23276806,
+   "score": 0.24942899,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "624907a9-9aac-4998-8f1e-bed15ab26d71",
+   "id": "ce2fe5b4-8b18-426b-9dbf-c2f216c8a82e",
    "title": {
-    "en": "The Magnificent Grand Scene"
+    "en": "Club 9"
+   },
+   "contentRating": "safe",
+   "score": 0.23352209,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "55226f5d-c4bb-4eff-95e6-896bf1977968",
+   "title": {
+    "en": "Nao Go Straight -Guide Dog Trainer-"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
-    "en",
-    "pt-br",
-    "es-la"
+    "en"
    ]
   },
   {
-   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
    "title": {
-    "en": "F.P. Ageha"
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "title": {
+    "en": "Ikiru"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -124,93 +188,17 @@
    ]
   },
   {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
    "title": {
-    "en": "Ikiru"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
-   "title": {
-    "en": "Dodoitsu"
+    "en": "Anata ga Shitekurenakute mo"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
-   "title": {
-    "en": "Kanai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "pl",
-    "ru",
-    "ar",
-    "en",
-    "pt-br",
-    "tr"
-   ]
-  },
-  {
-   "id": "350257d7-4535-4cc7-b83b-1c0c5cb06557",
-   "title": {
-    "en": "See you soon."
-   },
-   "contentRating": "safe",
-   "score": 0.21783859,
-   "languages": [
-    "hu",
-    "en"
-   ]
-  },
-  {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
-   "title": {
-    "en": "Window"
-   },
-   "contentRating": "safe",
-   "score": 0.21681158,
-   "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.21616842,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
-   "title": {
-    "en": "JA - Joshi ni Yoru Agriculture"
-   },
-   "contentRating": "safe",
-   "score": 0.21502191,
-   "languages": [
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:43+00:00"
+ "updatedAt": "2023-12-10T18:32:21+00:00"
 }

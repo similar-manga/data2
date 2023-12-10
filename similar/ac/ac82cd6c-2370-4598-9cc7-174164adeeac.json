@@ -11,7 +11,7 @@
     "en": "Seiju no kuni no kinjutsukai"
    },
    "contentRating": "suggestive",
-   "score": 0.23100063,
+   "score": 0.23528993,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Crazy Convenience Store"
    },
    "contentRating": "suggestive",
-   "score": 0.21707791,
+   "score": 0.21696885,
    "languages": [
     "en",
     "ru"
@@ -65,23 +65,23 @@
    ]
   },
   {
-   "id": "bcba4e02-1142-44a1-b8cb-b5d1c926b990",
-   "title": {
-    "en": "Comic Party: Party Time"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19191061,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6bd5a776-b219-42b5-8ff4-3fe1f3e3c4a0",
    "title": {
     "en": "Ichijouma Mankitsu Gurashi"
    },
    "contentRating": "suggestive",
-   "score": 0.18974997,
+   "score": 0.18950412,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bcba4e02-1142-44a1-b8cb-b5d1c926b990",
+   "title": {
+    "en": "Comic Party: Party Time"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18920133,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Non Milk-Milk Coffee Webcomic"
    },
    "contentRating": "suggestive",
-   "score": 0.18962963,
+   "score": 0.18918866,
    "languages": [
     "en",
     "vi",
@@ -119,32 +119,21 @@
    ]
   },
   {
-   "id": "87dcba0a-f06f-4105-9995-c15a0a309a1d",
+   "id": "585cd243-a13f-4b3b-ae6e-62b5c1a2978c",
    "title": {
-    "en": "Erotic Comic Department!"
+    "en": "Uchi no Meido wa Naka ga Warui"
    },
    "contentRating": "suggestive",
-   "score": 0.18206888,
+   "score": 0.1794454,
    "languages": [
-    "es-la",
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
    "id": "ea8d1df2-bff9-4945-9394-3217b827ce9d",
    "title": {
     "en": "Tales from the Club"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1794454,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15df7b34-89ad-4958-ae02-82b6881a42c5",
-   "title": {
-    "en": "Goblin Hiroimashita"
    },
    "contentRating": "suggestive",
    "score": 0.1794454,
@@ -164,15 +153,14 @@
    ]
   },
   {
-   "id": "585cd243-a13f-4b3b-ae6e-62b5c1a2978c",
+   "id": "15df7b34-89ad-4958-ae02-82b6881a42c5",
    "title": {
-    "en": "Uchi no Meido wa Naka ga Warui"
+    "en": "Goblin Hiroimashita"
    },
    "contentRating": "suggestive",
    "score": 0.1794454,
    "languages": [
-    "en",
-    "vi"
+    "en"
    ]
   },
   {
@@ -183,6 +171,18 @@
    "contentRating": "suggestive",
    "score": 0.17879541,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "87dcba0a-f06f-4105-9995-c15a0a309a1d",
+   "title": {
+    "en": "Erotic Comic Department!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1778395,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -198,5 +198,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:52+00:00"
+ "updatedAt": "2023-12-10T18:27:36+00:00"
 }

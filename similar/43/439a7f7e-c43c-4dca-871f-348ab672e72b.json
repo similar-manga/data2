@@ -11,7 +11,7 @@
     "en": "Winter Flower"
    },
    "contentRating": "safe",
-   "score": 0.3034095,
+   "score": 0.30002463,
    "languages": [
     "en",
     "pl",
@@ -26,7 +26,7 @@
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.29186574,
+   "score": 0.2923955,
    "languages": [
     "pl",
     "en"
@@ -38,7 +38,7 @@
     "en": "Sora ni Saitara"
    },
    "contentRating": "safe",
-   "score": 0.2908529,
+   "score": 0.29083827,
    "languages": [
     "en"
    ]
@@ -49,10 +49,23 @@
     "en": "The Girl's Winter"
    },
    "contentRating": "safe",
-   "score": 0.28996444,
+   "score": 0.29006314,
    "languages": [
     "en",
     "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
+   "title": {
+    "en": "World End Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.28563908,
+   "languages": [
+    "en",
+    "fr",
     "pl"
    ]
   },
@@ -70,25 +83,12 @@
    ]
   },
   {
-   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
-   "title": {
-    "en": "World End Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.28499627,
-   "languages": [
-    "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
    "id": "5ebd70a9-2c10-4f7c-b658-eb77768ab87e",
    "title": {
     "en": "Seiten ni Tsurugi wo Kazase"
    },
    "contentRating": "safe",
-   "score": 0.2808303,
+   "score": 0.28009388,
    "languages": [
     "en",
     "pl"
@@ -100,7 +100,7 @@
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.27219668,
+   "score": 0.2720077,
    "languages": [
     "fr",
     "en",
@@ -114,7 +114,7 @@
     "en": "Kumori Nochi Saku"
    },
    "contentRating": "safe",
-   "score": 0.26503482,
+   "score": 0.26268703,
    "languages": [
     "en"
    ]
@@ -125,9 +125,22 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.2615363,
+   "score": 0.2620141,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4ba166b5-c954-4ffe-9114-130d0c2b7dea",
+   "title": {
+    "en": "Kao no Nai Otoko"
+   },
+   "contentRating": "safe",
+   "score": 0.2604187,
+   "languages": [
+    "pl",
+    "en",
+    "bg"
    ]
   },
   {
@@ -154,16 +167,15 @@
    ]
   },
   {
-   "id": "4ba166b5-c954-4ffe-9114-130d0c2b7dea",
+   "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
    "title": {
-    "en": "Kao no Nai Otoko"
+    "en": "Kachuu no Ou"
    },
    "contentRating": "safe",
-   "score": 0.2604187,
+   "score": 0.2569291,
    "languages": [
-    "pl",
-    "en",
-    "bg"
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -178,28 +190,16 @@
    ]
   },
   {
-   "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
-   "title": {
-    "en": "Kachuu no Ou"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
    "title": {
     "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.2546162,
+   "score": 0.25426707,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:22+00:00"
+ "updatedAt": "2023-12-10T18:15:38+00:00"
 }

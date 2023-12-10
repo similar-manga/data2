@@ -6,12 +6,32 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.23012485,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "2f401942-3619-4f9d-acbd-12e0616b35da",
+   "title": {
+    "en": "Yaoyorozu Kuroneko Sokuhou"
+   },
+   "contentRating": "safe",
+   "score": 0.22759555
+  },
+  {
    "id": "79a569a8-32d4-4d94-a180-2fcf399b0851",
    "title": {
     "en": "KAFKA: Fukashigi na Jikenbo"
    },
    "contentRating": "safe",
-   "score": 0.2218363
+   "score": 0.22030765
   },
   {
    "id": "ea602e52-c61f-48b4-bce2-f3975828220c",
@@ -19,7 +39,26 @@
     "en": "The Ring Vol.1"
    },
    "contentRating": "safe",
-   "score": 0.2191688
+   "score": 0.21736614
+  },
+  {
+   "id": "1cfd3e0e-bad1-439b-812d-60d738ae0a1d",
+   "title": {
+    "en": "Kietakunai Kami-sama to Nichinichi Gurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2159405
+  },
+  {
+   "id": "9c13896a-440c-48c3-86f6-e2a2a667c21d",
+   "title": {
+    "en": "Onryou Oku-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.21400343,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "70281eed-7252-4207-b6a7-71fc6b92eabf",
@@ -27,18 +66,22 @@
     "en": "Ishiguro Masakazu's Kyoufu Tanpen"
    },
    "contentRating": "safe",
-   "score": 0.2117582,
+   "score": 0.21400328,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4dc5383d-f5df-4ec6-b0fd-66924de26ce6",
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
    "title": {
-    "en": "Tantei AI no Real Deep Learning"
+    "en": "Ghost Story Loop"
    },
    "contentRating": "safe",
-   "score": 0.20837267
+   "score": 0.2118432,
+   "languages": [
+    "en",
+    "id"
+   ]
   },
   {
    "id": "6576ac4c-0251-4978-ace8-70c675cb3b86",
@@ -47,6 +90,30 @@
    },
    "contentRating": "safe",
    "score": 0.20716318
+  },
+  {
+   "id": "4dc5383d-f5df-4ec6-b0fd-66924de26ce6",
+   "title": {
+    "en": "Tantei AI no Real Deep Learning"
+   },
+   "contentRating": "safe",
+   "score": 0.20522688
+  },
+  {
+   "id": "dd5a4ee0-b6eb-4e7f-b2d5-80aa8352d8ad",
+   "title": {
+    "en": "Tokko Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.20473087
+  },
+  {
+   "id": "ff861098-94a8-470e-ad24-f21f691d3a5d",
+   "title": {
+    "en": "Oukyuu Jokan no Nozokimi Jikenbo - Kuuki Yomazu ni Anata no Himitsu Abakimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.20363398
   },
   {
    "id": "2954a23f-22c1-4bce-a2fc-0a0dc3e201a7",
@@ -63,12 +130,20 @@
    ]
   },
   {
+   "id": "13e03584-eb63-4545-af36-89040751c075",
+   "title": {
+    "en": "Koisuru 2DK, Ayakashi Zensai Tsuki."
+   },
+   "contentRating": "safe",
+   "score": 0.2017579
+  },
+  {
    "id": "5dfe9757-34c9-4c34-9f0e-b3a5d382317c",
    "title": {
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.1998204,
+   "score": 0.1990051,
    "languages": [
     "en"
    ]
@@ -79,110 +154,14 @@
     "en": "Jigoku Kurayami Hana mo Naki"
    },
    "contentRating": "safe",
-   "score": 0.1949271,
+   "score": 0.19433,
    "languages": [
     "zh",
     "ru",
     "zh-hk",
     "en"
    ]
-  },
-  {
-   "id": "85e5cb4a-e38a-4f5d-99d4-02c283dc27f5",
-   "title": {
-    "en": "Yakoudou Kitan"
-   },
-   "contentRating": "safe",
-   "score": 0.1924837
-  },
-  {
-   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
-   "title": {
-    "en": "He Was My Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.18679152,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.18679152,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
-   "title": {
-    "en": "Saint☆Young Men"
-   },
-   "contentRating": "safe",
-   "score": 0.18095681,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
-   "title": {
-    "en": "Atrocious Fairy Tales for Adults"
-   },
-   "contentRating": "safe",
-   "score": 0.17836179,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "63d803cc-76f7-4d24-9092-c89541ec50e8",
-   "title": {
-    "en": "Moko to Yuganda Satsujinki domo"
-   },
-   "contentRating": "safe",
-   "score": 0.17509651
-  },
-  {
-   "id": "6b10b439-b2ce-4b99-822e-43cc6f1e5951",
-   "title": {
-    "en": "My Taste"
-   },
-   "contentRating": "safe",
-   "score": 0.17360564,
-   "languages": [
-    "it",
-    "pl",
-    "fr",
-    "en",
-    "ru",
-    "tr",
-    "pt-br",
-    "bg",
-    "es-la"
-   ]
-  },
-  {
-   "id": "0f5b5af4-15e7-41bd-9e33-d0e8e0934599",
-   "title": {
-    "en": "Noroi no Video no Tadashii Kanshou Style"
-   },
-   "contentRating": "safe",
-   "score": 0.17360564,
-   "languages": [
-    "en",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:18+00:00"
+ "updatedAt": "2023-12-10T18:12:37+00:00"
 }

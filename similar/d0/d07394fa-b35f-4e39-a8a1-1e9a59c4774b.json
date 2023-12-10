@@ -25,12 +25,24 @@
    "score": 0.18966082
   },
   {
+   "id": "ef9a63f3-e3b9-4e0f-a0ed-8cb41a420b54",
+   "title": {
+    "en": "Manga Old Testament"
+   },
+   "contentRating": "safe",
+   "score": 0.18421206,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "78c345fe-3bd6-4c1e-abb4-8d415e1d6f6c",
    "title": {
     "en": "Yume no Shizuku, Kin no Torikago"
    },
    "contentRating": "safe",
-   "score": 0.17608605,
+   "score": 0.17452371,
    "languages": [
     "es",
     "en"
@@ -42,10 +54,18 @@
     "en": "Hikari"
    },
    "contentRating": "safe",
-   "score": 0.17166054,
+   "score": 0.1711798,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ba354260-6f7c-40f6-8558-79dc86b1322f",
+   "title": {
+    "en": "Jotei Ecatherina"
+   },
+   "contentRating": "safe",
+   "score": 0.17081918
   },
   {
    "id": "759ff0b8-ca93-4bc8-8dfe-9481d9a167d6",
@@ -64,15 +84,24 @@
    "score": 0.16963778
   },
   {
-   "id": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
+   "id": "40c373ac-ab7c-4582-bd0e-14893faefb8b",
    "title": {
-    "en": "Tenmaku no Jadougal"
+    "en": "Kyouai to Junai"
    },
    "contentRating": "safe",
-   "score": 0.16536555,
+   "score": 0.16707605,
    "languages": [
-    "en"
+    "ar",
+    "pt-br"
    ]
+  },
+  {
+   "id": "0249e0ed-54da-4401-81ab-25272fd21591",
+   "title": {
+    "en": "Roselia Oukoku Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.16594316
   },
   {
    "id": "9033010a-539b-43ab-8b02-316f38a3ae4d",
@@ -83,26 +112,42 @@
    "score": 0.16487244
   },
   {
+   "id": "bcfe1b36-daee-40fd-9984-d9597caf9da7",
+   "title": {
+    "en": "Tenmaku no Jadougal"
+   },
+   "contentRating": "safe",
+   "score": 0.16344656,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e52172a5-5d41-41bf-b578-f09cce21e0c1",
+   "title": {
+    "en": "Queen Margot"
+   },
+   "contentRating": "safe",
+   "score": 0.16335407
+  },
+  {
+   "id": "d36d6814-6ab0-496b-a58d-c6e7380a1a11",
+   "title": {
+    "en": "Chupitto"
+   },
+   "contentRating": "safe",
+   "score": 0.15871198
+  },
+  {
    "id": "c7d93139-b172-42d9-b5d8-56c0cdb606a3",
    "title": {
     "en": "City Hunter - Rebirth"
    },
    "contentRating": "safe",
-   "score": 0.15794054,
+   "score": 0.15739976,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "70d707bf-f170-4c3e-bb34-400a4b93c9c8",
-   "title": {
-    "en": "Dream of a Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.15714753,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -115,54 +160,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "931f5b32-3640-4505-a9d1-c0037c302808",
-   "title": {
-    "en": "DOLL: IC in a Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.15172864,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "791d2e5a-6088-41a4-bb7d-1484fe8cc484",
-   "title": {
-    "en": "Gourmet Detective Goro Akechi"
-   },
-   "contentRating": "safe",
-   "score": 0.14691064
-  },
-  {
-   "id": "417d2d14-4c31-4af3-8dbd-4d31686cef5a",
-   "title": {
-    "en": "Anime Shop Manager"
-   },
-   "contentRating": "safe",
-   "score": 0.14691064,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89677ca6-a8a2-4be1-aba2-b716063f5c96",
-   "title": {
-    "en": "Setsunai Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.14691064
-  },
-  {
-   "id": "46d08157-ea60-4ef6-985a-f352360ce116",
-   "title": {
-    "en": "Kimi ga Daredemo Aishiteru"
-   },
-   "contentRating": "safe",
-   "score": 0.14691064
   }
  ],
- "updatedAt": "2023-12-10T01:08:22+00:00"
+ "updatedAt": "2023-12-10T18:31:27+00:00"
 }

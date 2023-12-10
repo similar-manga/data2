@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5c6cacb9-ed5f-4978-b41a-67fc9533991c",
+   "title": {
+    "en": "We Did Not Date"
+   },
+   "contentRating": "safe",
+   "score": 0.4081248,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a4304d3b-191d-471f-8c78-353d403a35d0",
    "title": {
     "en": "Sengoku Komachi Kuroutan: Noukou Giga"
    },
    "contentRating": "safe",
-   "score": 0.38978592,
+   "score": 0.38522854,
    "languages": [
     "fr",
     "en",
@@ -25,23 +36,31 @@
     "en": "Sengoku ARMORS (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.38169113,
+   "score": 0.37817985,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "aae5607d-f353-455a-bec2-9bc3a97c01d5",
+   "id": "fcef51f3-2c03-441c-9ad8-8e5cdd412bc8",
    "title": {
-    "en": "They Say I Am the King of the Future"
+    "en": "I Have No Intention of Dating"
    },
    "contentRating": "safe",
-   "score": 0.37263197,
+   "score": 0.37669098,
    "languages": [
-    "en",
-    "fr"
+    "id",
+    "en"
    ]
+  },
+  {
+   "id": "b1ae9124-518e-4efa-ab37-b113acc3a14e",
+   "title": {
+    "en": "Sengoku Gonbe"
+   },
+   "contentRating": "safe",
+   "score": 0.37208584
   },
   {
    "id": "8499d5d0-e558-4853-b0bc-8ae2edbc6978",
@@ -49,15 +68,19 @@
     "en": "Date A Live - Dead end TOHKA"
    },
    "contentRating": "safe",
-   "score": 0.3715568
+   "score": 0.37081122
   },
   {
-   "id": "717fda35-6886-4226-8f5b-9ef3577b5710",
+   "id": "aae5607d-f353-455a-bec2-9bc3a97c01d5",
    "title": {
-    "en": "Amagake"
+    "en": "They Say I Am the King of the Future"
    },
    "contentRating": "safe",
-   "score": 0.36810368
+   "score": 0.37008193,
+   "languages": [
+    "en",
+    "fr"
+   ]
   },
   {
    "id": "a8cf320f-b283-4280-a927-4edd8e4bf8a5",
@@ -65,7 +88,7 @@
     "en": "The Romantically Inept Also Wants to Fall in Love Using an App"
    },
    "contentRating": "safe",
-   "score": 0.36595047,
+   "score": 0.36616313,
    "languages": [
     "pt-br",
     "vi",
@@ -73,120 +96,77 @@
    ]
   },
   {
-   "id": "b41e3e9e-d831-4d1c-a0a8-0e9bc4b04b80",
+   "id": "717fda35-6886-4226-8f5b-9ef3577b5710",
    "title": {
-    "en": "The Couple From Previous Lives"
+    "en": "Amagake"
    },
    "contentRating": "safe",
-   "score": 0.35937816,
+   "score": 0.36557275
+  },
+  {
+   "id": "17d07972-929c-4fb1-913b-e81f7bd6ad76",
+   "title": {
+    "en": "Sengoku Heroine Go"
+   },
+   "contentRating": "safe",
+   "score": 0.36551744
+  },
+  {
+   "id": "00fb4d6e-6b8f-417d-a0ed-78d1217a70d8",
+   "title": {
+    "en": "Kaze no Yari"
+   },
+   "contentRating": "safe",
+   "score": 0.36249796
+  },
+  {
+   "id": "aa6dc6e4-b217-4f77-a19c-ac9ee5f1f3cb",
+   "title": {
+    "en": "Bullshit Love Stories at School"
+   },
+   "contentRating": "safe",
+   "score": 0.36249197,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f960354e-60a6-4ace-a218-45fc515eef4f",
+   "id": "c615dd55-dbfd-4416-b631-01232984aa71",
    "title": {
-    "en": "A Reporter Who Was Interviewed on The Street by Chance While Being on A Date"
+    "en": "The Matchmaker Forbids Me From Dating"
    },
    "contentRating": "safe",
-   "score": 0.35869914,
+   "score": 0.3619756,
    "languages": [
     "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "509f4ad8-85b7-4f73-96e9-f2fdbf9d2b8d",
-   "title": {
-    "en": "20-byou Date"
-   },
-   "contentRating": "safe",
-   "score": 0.35800508,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
-   "title": {
-    "en": "Love Attack"
-   },
-   "contentRating": "safe",
-   "score": 0.35629544,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c5a8dc2-70a7-45ce-8ed1-4fa6ebef2035",
-   "title": {
-    "en": "I Can't Get!!"
-   },
-   "contentRating": "safe",
-   "score": 0.35401624,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "440f8d91-b032-4bf3-8dba-2cde482fbc53",
-   "title": {
-    "en": "Journey to Seek Past Reincarnations"
-   },
-   "contentRating": "safe",
-   "score": 0.35331672,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "077d7782-3eee-4352-8931-b5d16e9d0305",
-   "title": {
-    "en": "Dirty Christ Superstar"
-   },
-   "contentRating": "safe",
-   "score": 0.3532296,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
-   "title": {
-    "en": "Renai Catalog"
-   },
-   "contentRating": "safe",
-   "score": 0.35181454,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "30f3cef1-00f7-42e8-b39a-1a73c01d99e4",
-   "title": {
-    "en": "The girl I started dating won't walk next to me"
-   },
-   "contentRating": "safe",
-   "score": 0.34939197,
-   "languages": [
-    "vi",
-    "en",
+    "it",
     "id"
    ]
   },
   {
-   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
+   "id": "1fe45a2d-3a82-4d51-a216-1f2c26d12a3c",
    "title": {
-    "en": "Sengoku Basara 3 -Roar of Dragon-"
+    "en": "Régiment"
    },
    "contentRating": "safe",
-   "score": 0.34795505,
-   "languages": [
-    "en"
-   ]
+   "score": 0.36188224
+  },
+  {
+   "id": "66f0a013-eb5a-4696-b206-ee7832e32144",
+   "title": {
+    "en": "Zokugun Hijikata Toshizou"
+   },
+   "contentRating": "safe",
+   "score": 0.36161235
+  },
+  {
+   "id": "d79285f1-0542-46f6-b927-6a005c2bd37b",
+   "title": {
+    "en": "His Women’s University"
+   },
+   "contentRating": "safe",
+   "score": 0.35971603
   }
  ],
- "updatedAt": "2023-12-10T01:02:24+00:00"
+ "updatedAt": "2023-12-10T18:15:43+00:00"
 }

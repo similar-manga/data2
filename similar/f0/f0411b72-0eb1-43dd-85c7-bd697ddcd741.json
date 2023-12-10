@@ -11,7 +11,7 @@
     "en": "Witch Hunter"
    },
    "contentRating": "suggestive",
-   "score": 0.36721545,
+   "score": 0.35654354,
    "languages": [
     "ro",
     "en",
@@ -27,7 +27,7 @@
     "en": "Burn the Witch"
    },
    "contentRating": "suggestive",
-   "score": 0.24056251,
+   "score": 0.23646909,
    "languages": [
     "de",
     "he",
@@ -62,7 +62,7 @@
     "en": "Kuroneko to Majo no Kyoushitsu"
    },
    "contentRating": "suggestive",
-   "score": 0.22097145,
+   "score": 0.21531746,
    "languages": [
     "vi",
     "pt-br",
@@ -101,17 +101,6 @@
    ]
   },
   {
-   "id": "b71f3782-133a-44dd-9ddf-9e4f03afbafc",
-   "title": {
-    "en": "Usagi no Frau"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18804416,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "37b7061e-7d5a-43fc-91d6-fba60f8519e0",
    "title": {
     "en": "Fate/Prototype: Sougin no Fragments"
@@ -128,35 +117,23 @@
    ]
   },
   {
-   "id": "56420d5a-e88d-417d-9865-255d319488ce",
+   "id": "b71f3782-133a-44dd-9ddf-9e4f03afbafc",
    "title": {
-    "en": "Supipara - Otome no Houkago Kansoku"
+    "en": "Usagi no Frau"
    },
    "contentRating": "suggestive",
-   "score": 0.17713253,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "533057c0-ea97-4353-a7dd-189d3a022baf",
-   "title": {
-    "en": "Momoiro Sabbath"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17106691,
+   "score": 0.18208781,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "47029dd2-1b20-457c-aa80-6ef0c431cc9a",
+   "id": "56420d5a-e88d-417d-9865-255d319488ce",
    "title": {
-    "en": "Aa, Tsugi no Shigoto wa Bakemono Taiji desu"
+    "en": "Supipara - Otome no Houkago Kansoku"
    },
    "contentRating": "suggestive",
-   "score": 0.16665758,
+   "score": 0.17342286,
    "languages": [
     "en",
     "pt-br"
@@ -176,16 +153,14 @@
    ]
   },
   {
-   "id": "074f054b-7c3d-4e3d-ad8b-de6c77329585",
+   "id": "533057c0-ea97-4353-a7dd-189d3a022baf",
    "title": {
-    "en": "Hidan no Aria"
+    "en": "Momoiro Sabbath"
    },
    "contentRating": "suggestive",
-   "score": 0.16369085,
+   "score": 0.16490453,
    "languages": [
-    "en",
-    "pt-br",
-    "fr"
+    "en"
    ]
   },
   {
@@ -194,7 +169,7 @@
     "en": "One Piece - Digital Colored Comics"
    },
    "contentRating": "suggestive",
-   "score": 0.16245596,
+   "score": 0.16231179,
    "languages": [
     "it",
     "uk",
@@ -204,6 +179,19 @@
     "id",
     "ar",
     "tr",
+    "fr"
+   ]
+  },
+  {
+   "id": "074f054b-7c3d-4e3d-ad8b-de6c77329585",
+   "title": {
+    "en": "Hidan no Aria"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16051383,
+   "languages": [
+    "en",
+    "pt-br",
     "fr"
    ]
   },
@@ -220,6 +208,18 @@
    ]
   },
   {
+   "id": "3e55208a-76cc-4da7-bda3-c244976c99f4",
+   "title": {
+    "en": "Detective Akechi in a frenzy."
+   },
+   "contentRating": "suggestive",
+   "score": 0.15855493,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
    "id": "fb2e2bdf-1f42-4d32-a43d-3a63d88579d5",
    "title": {
     "en": "Daiaku Kojou"
@@ -231,5 +231,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:44+00:00"
 }

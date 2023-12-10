@@ -6,17 +6,6 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "6560eb32-d4ba-4e93-ba39-9790b03b32ea",
-   "title": {
-    "en": "Summer, Lemon, and Overlay"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20047042,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "69d9d31d-a435-4f5d-8fbb-3ab93fab16f9",
    "title": {
     "en": "Yoroizuka-san wo Baburasetai"
@@ -30,12 +19,23 @@
    ]
   },
   {
+   "id": "6560eb32-d4ba-4e93-ba39-9790b03b32ea",
+   "title": {
+    "en": "Summer, Lemon, and Overlay"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20047042,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e160a8e3-304f-4dca-838b-ee1821c490d8",
    "title": {
     "en": "Watashi ga Koibito ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)"
    },
    "contentRating": "suggestive",
-   "score": 0.18773626,
+   "score": 0.18759783,
    "languages": [
     "es",
     "id",
@@ -46,31 +46,9 @@
    ]
   },
   {
-   "id": "bf039dca-021c-49c1-90c3-0bcf83807baa",
-   "title": {
-    "en": "Nighty Night, Scheherazade"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17930618,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "361a8f75-4d1e-431e-8749-6e8155f66d4c",
    "title": {
     "en": "Shimekiri Mae niwa Yuri ga Hakadoru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17930618,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9e99aee3-0f31-4e1e-8e06-8dcc38e5dfec",
-   "title": {
-    "en": "You, My Double"
    },
    "contentRating": "suggestive",
    "score": 0.17930618,
@@ -92,6 +70,28 @@
    ]
   },
   {
+   "id": "9e99aee3-0f31-4e1e-8e06-8dcc38e5dfec",
+   "title": {
+    "en": "You, My Double"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17930618,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf039dca-021c-49c1-90c3-0bcf83807baa",
+   "title": {
+    "en": "Nighty Night, Scheherazade"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17930618,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8ec115ea-7b61-4d28-b954-a4f36ab93f8a",
    "title": {
     "en": "You Are Mine"
@@ -108,7 +108,7 @@
     "en": "Mahiro-chan's Secret"
    },
    "contentRating": "suggestive",
-   "score": 0.16489223,
+   "score": 0.16447224,
    "languages": [
     "en"
    ]
@@ -130,7 +130,7 @@
     "en": "Boku no Suki na Hito ga Suki na Hito"
    },
    "contentRating": "suggestive",
-   "score": 0.1628655,
+   "score": 0.16136749,
    "languages": [
     "es-la",
     "pt-br",
@@ -168,23 +168,10 @@
     "en": "Itadaki!"
    },
    "contentRating": "suggestive",
-   "score": 0.15723857,
+   "score": 0.15560421,
    "languages": [
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
-   "title": {
-    "en": "Takidani Koukou Manga Club"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14136302,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
    ]
   },
   {
@@ -193,11 +180,24 @@
     "en": "My Home Mirano"
    },
    "contentRating": "suggestive",
-   "score": 0.1408673,
+   "score": 0.13967147,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
+   "title": {
+    "en": "Takidani Koukou Manga Club"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13929403,
+   "languages": [
+    "fr",
+    "en",
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:27+00:00"
+ "updatedAt": "2023-12-10T18:34:08+00:00"
 }

@@ -11,10 +11,24 @@
     "en": "Thunder 3"
    },
    "contentRating": "safe",
-   "score": 0.24515994,
+   "score": 0.25283355,
    "languages": [
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
+   "title": {
+    "en": "Shaman King: The Super Star"
+   },
+   "contentRating": "safe",
+   "score": 0.24704365,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -23,7 +37,18 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.23204157,
+   "score": 0.23651564,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "82e06016-c23f-49a5-97d5-f0a535080fec",
+   "title": {
+    "en": "Taiyou Shounen Jango"
+   },
+   "contentRating": "safe",
+   "score": 0.23496394,
    "languages": [
     "en"
    ]
@@ -34,7 +59,7 @@
     "en": "GATE 7"
    },
    "contentRating": "safe",
-   "score": 0.22900665,
+   "score": 0.22713147,
    "languages": [
     "pt-br",
     "en",
@@ -47,65 +72,9 @@
     "en": "Fullmetal Alchemist: The Prototype"
    },
    "contentRating": "safe",
-   "score": 0.22595495,
+   "score": 0.22494087,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "21b18592-8925-466b-b909-071b52676a38",
-   "title": {
-    "en": "Teiden Shoujo to Hanemushi no Orchestra"
-   },
-   "contentRating": "safe",
-   "score": 0.22472511,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7511b858-06e5-414d-b343-467ea468efdf",
-   "title": {
-    "en": "Black Warriors"
-   },
-   "contentRating": "safe",
-   "score": 0.22377376,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
-   "title": {
-    "en": "Brothers"
-   },
-   "contentRating": "safe",
-   "score": 0.22257361,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bc06172f-8e62-4e92-84ec-2bfbd9dab255",
-   "title": {
-    "en": "Ueki no Housoku"
-   },
-   "contentRating": "safe",
-   "score": 0.22254054,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
-   "title": {
-    "en": "Sol Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.22224459,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -114,7 +83,7 @@
     "en": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu"
    },
    "contentRating": "safe",
-   "score": 0.22160992,
+   "score": 0.22430065,
    "languages": [
     "es-la",
     "it",
@@ -126,12 +95,104 @@
    ]
   },
   {
+   "id": "2dcd7c11-d7d6-458f-8c02-87f7d70d525d",
+   "title": {
+    "en": "Judgement Primary School"
+   },
+   "contentRating": "safe",
+   "score": 0.22403085,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21b18592-8925-466b-b909-071b52676a38",
+   "title": {
+    "en": "Teiden Shoujo to Hanemushi no Orchestra"
+   },
+   "contentRating": "safe",
+   "score": 0.22399928,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
+   "title": {
+    "en": "Madara"
+   },
+   "contentRating": "safe",
+   "score": 0.22379391,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7511b858-06e5-414d-b343-467ea468efdf",
+   "title": {
+    "en": "Black Warriors"
+   },
+   "contentRating": "safe",
+   "score": 0.22296372,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
+   "title": {
+    "en": "Brothers"
+   },
+   "contentRating": "safe",
+   "score": 0.22266407,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bc06172f-8e62-4e92-84ec-2bfbd9dab255",
+   "title": {
+    "en": "Ueki no Housoku"
+   },
+   "contentRating": "safe",
+   "score": 0.22260755,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
+   "title": {
+    "en": "Sol Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.21989946,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "043a10f5-c16d-4402-bf82-0f3e8a33de29",
+   "title": {
+    "en": "Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.21761234,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
    "title": {
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.21843919,
+   "score": 0.21739642,
    "languages": [
     "ru",
     "fr",
@@ -144,63 +205,7 @@
     "it",
     "vi"
    ]
-  },
-  {
-   "id": "869ad120-7341-4ea9-a980-f3545bc0503c",
-   "title": {
-    "en": "Dr. Stone: 4D Science"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "ae80041b-73eb-41d1-b870-440c69713b09",
-   "title": {
-    "en": "Trump!"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "6ef63fa1-e394-4255-8183-bf25aa7a3e25",
-   "title": {
-    "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.21170788,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.21081853,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:41+00:00"
+ "updatedAt": "2023-12-10T18:21:45+00:00"
 }

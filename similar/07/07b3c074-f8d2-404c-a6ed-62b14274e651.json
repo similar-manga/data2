@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ac817ae5-a0fe-4d62-9f7c-2170ee43c935",
+   "title": {
+    "en": "Malaygo Kawai"
+   },
+   "contentRating": "safe",
+   "score": 0.2730809,
+   "languages": [
+    "ms"
+   ]
+  },
+  {
    "id": "082850d2-b970-4415-a8de-08e9c82b425c",
    "title": {
     "en": "The Same Girl on The Train Home"
@@ -34,6 +45,27 @@
     "ms",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "bc1d5980-e4bc-454d-be44-8ce4f2072f04",
+   "title": {
+    "en": "A Manga World That Gets One Page Once a Year"
+   },
+   "contentRating": "safe",
+   "score": 0.13423121,
+   "languages": [
+    "id",
+    "ru",
+    "pl",
+    "tl",
+    "en",
+    "it",
+    "es-la",
+    "pt-br",
+    "ms",
+    "th",
+    "fr"
    ]
   },
   {
@@ -96,17 +128,14 @@
    ]
   },
   {
-   "id": "8a7c02b8-7ac1-41e6-8961-760e92648dd1",
+   "id": "a42d07f0-f9a9-4fcd-811a-0df7bb09915a",
    "title": {
-    "en": "A Story About a Senpai Who Can't Get Better Test Scores and a Kouhai Who Actually Can"
+    "en": "Wasabi"
    },
    "contentRating": "safe",
-   "score": 0.058123823,
+   "score": 0.067115605,
    "languages": [
-    "en",
-    "id",
-    "ms",
-    "it"
+    "ms"
    ]
   },
   {
@@ -121,6 +150,45 @@
     "en",
     "ru",
     "ms"
+   ]
+  },
+  {
+   "id": "58c9abd8-a4a6-41b1-9504-d7da7ec10acd",
+   "title": {
+    "en": "Tsuji-kun And Miyazono-san"
+   },
+   "contentRating": "safe",
+   "score": 0.058123823,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "fr",
+    "da",
+    "tl",
+    "zh",
+    "de",
+    "es-la",
+    "hi",
+    "ms",
+    "zh-hk",
+    "tr",
+    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "8a7c02b8-7ac1-41e6-8961-760e92648dd1",
+   "title": {
+    "en": "A Story About a Senpai Who Can't Get Better Test Scores and a Kouhai Who Actually Can"
+   },
+   "contentRating": "safe",
+   "score": 0.058123823,
+   "languages": [
+    "en",
+    "id",
+    "ms",
+    "it"
    ]
   },
   {
@@ -154,7 +222,58 @@
     "nl",
     ""
    ]
+  },
+  {
+   "id": "d7037b2a-874a-4360-8a7b-07f2899152fd",
+   "title": {
+    "en": "Mairimashita! Iruma-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.036760733,
+   "languages": [
+    "es",
+    "pt-br",
+    "id",
+    "tr",
+    "vi",
+    "en",
+    "ru",
+    "fr",
+    "bn",
+    "es-la",
+    "ms",
+    "it",
+    "de",
+    "pl"
+   ]
+  },
+  {
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
+   "title": {
+    "en": "Black Clover"
+   },
+   "contentRating": "safe",
+   "score": 0.035049982,
+   "languages": [
+    "es",
+    "pt-br",
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:03+00:00"
+ "updatedAt": "2023-12-10T18:09:10+00:00"
 }

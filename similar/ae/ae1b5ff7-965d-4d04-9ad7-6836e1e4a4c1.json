@@ -11,7 +11,7 @@
     "en": "Poker Face"
    },
    "contentRating": "safe",
-   "score": 0.40557978,
+   "score": 0.41381612,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Kago no Uchi"
    },
    "contentRating": "safe",
-   "score": 0.31356645,
+   "score": 0.31254435,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Wakaresaseya no Koi"
    },
    "contentRating": "safe",
-   "score": 0.3074733,
+   "score": 0.306701,
    "languages": [
     "en"
    ]
@@ -44,9 +44,32 @@
     "en": "Matenrou Maybe?"
    },
    "contentRating": "safe",
-   "score": 0.2989718,
+   "score": 0.2989542,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2f5839f6-7f08-4283-8628-7973662a5908",
+   "title": {
+    "en": "Hakanakumo"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "61fa06a2-e06f-49c1-806e-91ef3be4cc85",
+   "title": {
+    "en": "Kikyou"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -64,21 +87,9 @@
    ]
   },
   {
-   "id": "61fa06a2-e06f-49c1-806e-91ef3be4cc85",
+   "id": "2eb733cb-bce8-40a9-a1f4-0e70cd7fef44",
    "title": {
-    "en": "Kikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "46203b97-5e96-4959-9615-d86832110af6",
-   "title": {
-    "en": "Otokonoko no Koto"
+    "en": "Trap"
    },
    "contentRating": "safe",
    "score": 0.2835781,
@@ -87,9 +98,9 @@
    ]
   },
   {
-   "id": "2f5839f6-7f08-4283-8628-7973662a5908",
+   "id": "46203b97-5e96-4959-9615-d86832110af6",
    "title": {
-    "en": "Hakanakumo"
+    "en": "Otokonoko no Koto"
    },
    "contentRating": "safe",
    "score": 0.2835781,
@@ -110,38 +121,16 @@
    ]
   },
   {
-   "id": "2eb733cb-bce8-40a9-a1f4-0e70cd7fef44",
-   "title": {
-    "en": "Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
    "title": {
     "en": "Tonight The Night"
    },
    "contentRating": "safe",
-   "score": 0.28265795,
+   "score": 0.2763508,
    "languages": [
     "it",
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "d5679da5-8790-429a-b20b-fbb4c869a36d",
-   "title": {
-    "en": "Wasureru"
-   },
-   "contentRating": "safe",
-   "score": 0.26777378,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -150,7 +139,18 @@
     "en": "After"
    },
    "contentRating": "safe",
-   "score": 0.2667813,
+   "score": 0.26652423,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d5679da5-8790-429a-b20b-fbb4c869a36d",
+   "title": {
+    "en": "Wasureru"
+   },
+   "contentRating": "safe",
+   "score": 0.26407573,
    "languages": [
     "en"
    ]
@@ -161,7 +161,7 @@
     "en": "A Doll and His Master"
    },
    "contentRating": "safe",
-   "score": 0.26230797,
+   "score": 0.26200593,
    "languages": [
     "en",
     "it",
@@ -175,7 +175,7 @@
     "en": "Double Snake"
    },
    "contentRating": "safe",
-   "score": 0.2609401,
+   "score": 0.26049337,
    "languages": [
     "en"
    ]
@@ -186,11 +186,11 @@
     "en": "Extreme Urameshiya"
    },
    "contentRating": "safe",
-   "score": 0.2600269,
+   "score": 0.25973287,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:57+00:00"
+ "updatedAt": "2023-12-10T18:27:48+00:00"
 }

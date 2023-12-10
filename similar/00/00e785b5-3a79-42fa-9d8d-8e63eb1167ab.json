@@ -6,25 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
-   "title": {
-    "en": "Metamorcode"
-   },
-   "contentRating": "safe",
-   "score": 0.30165544,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5cf2da4c-5df3-4ad8-b81d-edb251cb7bce",
    "title": {
     "en": "Majima-kun Goes All Out!!"
    },
    "contentRating": "safe",
-   "score": 0.2998015,
+   "score": 0.30120564,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
+   "title": {
+    "en": "Metamorcode"
+   },
+   "contentRating": "safe",
+   "score": 0.3005848,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
+   "title": {
+    "en": "Sensei no Yasashii Koroshikata"
+   },
+   "contentRating": "safe",
+   "score": 0.27602178,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -33,7 +46,7 @@
     "en": "MookHyang - Dark Lady"
    },
    "contentRating": "safe",
-   "score": 0.26389134,
+   "score": 0.26429057,
    "languages": [
     "ru",
     "en",
@@ -49,21 +62,10 @@
     "en": "Classroom"
    },
    "contentRating": "safe",
-   "score": 0.25500447,
+   "score": 0.2563765,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
-   "title": {
-    "en": "Watashi wa Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.24738148,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -72,8 +74,20 @@
     "en": "Telepathy Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.24685773,
+   "score": 0.24792585,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0026052c-9091-4dc7-915c-dffce9559234",
+   "title": {
+    "en": "Shinigami no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.24596687,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -83,7 +97,7 @@
     "en": "Aphorism"
    },
    "contentRating": "safe",
-   "score": 0.24124621,
+   "score": 0.24042077,
    "languages": [
     "pl",
     "en",
@@ -97,7 +111,7 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.24012555,
+   "score": 0.2396735,
    "languages": [
     "it",
     "pl",
@@ -117,26 +131,40 @@
    ]
   },
   {
+   "id": "375b2866-13ca-4df0-98e6-23c75b566e2c",
+   "title": {
+    "en": "Mononokemono"
+   },
+   "contentRating": "safe",
+   "score": 0.23267521,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
    "title": {
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.23341253,
+   "score": 0.23071834,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "375b2866-13ca-4df0-98e6-23c75b566e2c",
+   "id": "9c4f1b25-c224-4346-990a-f18c77f4ab9e",
    "title": {
-    "en": "Mononokemono"
+    "en": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru"
    },
    "contentRating": "safe",
-   "score": 0.23039751,
+   "score": 0.22414598,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -145,8 +173,22 @@
     "en": "Mukuchi na Bakemono wa Yoru ni Naku"
    },
    "contentRating": "safe",
-   "score": 0.21920179,
+   "score": 0.21929233,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.21493815,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
     "en"
    ]
   },
@@ -165,40 +207,7 @@
     "tr",
     "id"
    ]
-  },
-  {
-   "id": "6ef63fa1-e394-4255-8183-bf25aa7a3e25",
-   "title": {
-    "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.20986655,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
-   "title": {
-    "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
-   },
-   "contentRating": "safe",
-   "score": 0.20593067,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc5a908c-ddf9-4a0d-94f3-1f1c4cb368bd",
-   "title": {
-    "en": "Gesu to Kami-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.20352875,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:48+00:00"
+ "updatedAt": "2023-12-10T18:08:27+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "XENON-199X・R-"
    },
    "contentRating": "safe",
-   "score": 0.30222538
+   "score": 0.3023749
   },
   {
    "id": "e77fd982-be6e-47a2-a835-54c9992ea172",
@@ -20,6 +20,14 @@
    },
    "contentRating": "safe",
    "score": 0.2857143
+  },
+  {
+   "id": "3863b9bc-ad4d-4b63-8337-6123cf225a6e",
+   "title": {
+    "en": "Super Submarine Sortie"
+   },
+   "contentRating": "safe",
+   "score": 0.23460478
   },
   {
    "id": "c937be5c-43ba-477d-9b64-56e2f2125eef",
@@ -35,7 +43,7 @@
     "en": "Shuumatsu no Majo to Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.22147281
+   "score": 0.22216696
   },
   {
    "id": "ff42bb0e-87f1-4341-9d31-0b43136f5de7",
@@ -43,26 +51,15 @@
     "en": "Get truth Fang of the Sun Dougram"
    },
    "contentRating": "safe",
-   "score": 0.2164872
+   "score": 0.21631831
   },
   {
-   "id": "134e3ea9-e26c-4efa-8330-6542011f1ea4",
+   "id": "cebc365b-ea63-431f-96f6-bff59067de6d",
    "title": {
-    "en": "Wings with Closed Eyes MARIA"
+    "en": "The Campaign of the Special Air Attack"
    },
    "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "774d3d1a-6393-4600-85c3-7cd7cd647d11",
-   "title": {
-    "en": "Midori no Machi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "zh"
-   ]
+   "score": 0.20402141
   },
   {
    "id": "ba1c6284-8e52-472f-b27d-2f10b71dbfe9",
@@ -84,12 +81,31 @@
    "score": 0.20203052
   },
   {
+   "id": "134e3ea9-e26c-4efa-8330-6542011f1ea4",
+   "title": {
+    "en": "Wings with Closed Eyes MARIA"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "774d3d1a-6393-4600-85c3-7cd7cd647d11",
+   "title": {
+    "en": "Midori no Machi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
    "id": "3683f667-c23d-4688-b872-0ade276aaafa",
    "title": {
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.20139967,
+   "score": 0.20008469,
    "languages": [
     "en",
     "pt-br",
@@ -102,7 +118,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.19882004,
+   "score": 0.1984363,
    "languages": [
     "ru",
     "en",
@@ -111,59 +127,32 @@
    ]
   },
   {
+   "id": "9e2248b8-ad7d-4c88-b191-7699f160325a",
+   "title": {
+    "en": "Fortress in the Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.19630793
+  },
+  {
    "id": "aa80067a-9832-4cd8-8b10-2fcd226f6d6e",
    "title": {
     "en": "Armored Trooper Votoms - AT Stories"
    },
    "contentRating": "safe",
-   "score": 0.19484723
+   "score": 0.19381438
   },
   {
-   "id": "55c4c609-758b-4530-a313-a88d547611ef",
+   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
    "title": {
-    "en": "Never-Ending Afternoon"
+    "en": "TC-225"
    },
    "contentRating": "safe",
-   "score": 0.18291752,
+   "score": 0.18581708,
    "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "8875549c-beaa-431e-9f68-0b4807ee46c4",
-   "title": {
-    "en": "Destronaut"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "6e9c271e-6c3c-42c2-b163-85bbc4b2c6ea",
-   "title": {
-    "en": "Prima Doll: New Order"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "vi",
-    "zh-hk",
     "en"
    ]
-  },
-  {
-   "id": "14abf5df-69a5-4ed8-bcfb-5ba5f1786830",
-   "title": {
-    "en": "Kamen Rider Hibiki And The 7 Senki"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157
   }
  ],
- "updatedAt": "2023-12-10T01:00:14+00:00"
+ "updatedAt": "2023-12-10T18:09:41+00:00"
 }

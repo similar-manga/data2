@@ -11,7 +11,7 @@
     "en": "Class-Neutral"
    },
    "contentRating": "suggestive",
-   "score": 0.30537868,
+   "score": 0.30299833,
    "languages": [
     "ru"
    ]
@@ -22,10 +22,21 @@
     "en": "These Players Think I'm One Of Them"
    },
    "contentRating": "suggestive",
-   "score": 0.25126028,
+   "score": 0.24772589,
    "languages": [
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a62f903f-9674-4a1a-8053-8105efa62a5f",
+   "title": {
+    "en": "Max Level Knight"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24237125,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,7 +45,7 @@
     "en": "Isekai Saikouhou no Guild Leader ~Guild Saijaku no Boku da Kedo, Guild Members Zen'in no ai ga Omokute Guild o Yameraremasen~"
    },
    "contentRating": "suggestive",
-   "score": 0.24245773,
+   "score": 0.24047981,
    "languages": [
     "id",
     "en"
@@ -46,18 +57,7 @@
     "en": "Nostalgia World Online"
    },
    "contentRating": "suggestive",
-   "score": 0.24180268
-  },
-  {
-   "id": "a62f903f-9674-4a1a-8053-8105efa62a5f",
-   "title": {
-    "en": "Max Level Knight"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24039495,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23997848
   },
   {
    "id": "5c1e13ca-fee4-44c5-97c6-4dddf7e62fd2",
@@ -65,30 +65,7 @@
     "en": "I Became a Terminally-Ill Knight"
    },
    "contentRating": "suggestive",
-   "score": 0.23495737,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5075e874-ad12-4103-b306-f97a5a1bb876",
-   "title": {
-    "en": "NPC"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2324796,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "70cd82d8-8020-401e-ba35-f6b0ccb3aae7",
-   "title": {
-    "en": "Ark The Legend"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23117562,
+   "score": 0.23438285,
    "languages": [
     "en"
    ]
@@ -99,9 +76,32 @@
     "en": "Zettai Kami no Yuugi"
    },
    "contentRating": "suggestive",
-   "score": 0.22983335,
+   "score": 0.22906694,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "70cd82d8-8020-401e-ba35-f6b0ccb3aae7",
+   "title": {
+    "en": "Ark The Legend"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2286456,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5075e874-ad12-4103-b306-f97a5a1bb876",
+   "title": {
+    "en": "NPC"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22547974,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -110,7 +110,7 @@
     "en": "The Kicked Out S-Rank Appraiser Creates the Strongest Guild"
    },
    "contentRating": "suggestive",
-   "score": 0.22456977,
+   "score": 0.22360648,
    "languages": [
     "en"
    ]
@@ -121,7 +121,7 @@
     "en": "I Am Not a Goddess"
    },
    "contentRating": "suggestive",
-   "score": 0.22399575,
+   "score": 0.22222996,
    "languages": [
     "en"
    ]
@@ -132,18 +132,10 @@
     "en": "Under the Black Fog"
    },
    "contentRating": "suggestive",
-   "score": 0.22022033,
+   "score": 0.21925722,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5e85e5c1-40d5-44f1-9eaa-f3744f626768",
-   "title": {
-    "en": "Tensei Saki wa Kaifuku no Izumi no Naka ~Kurushikute mo Shinenai Jigoku wo Norikoeta Ore wa Sekai Saikyou~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21568939
   },
   {
    "id": "8b794324-b0b7-46c0-9c8e-3c2160b4325f",
@@ -157,12 +149,20 @@
    ]
   },
   {
+   "id": "5e85e5c1-40d5-44f1-9eaa-f3744f626768",
+   "title": {
+    "en": "Tensei Saki wa Kaifuku no Izumi no Naka ~Kurushikute mo Shinenai Jigoku wo Norikoeta Ore wa Sekai Saikyou~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21309896
+  },
+  {
    "id": "a53e5b5d-622e-4cef-9a7b-ceb1efc48092",
    "title": {
     "en": "Majo to Ryouken"
    },
    "contentRating": "suggestive",
-   "score": 0.21078481,
+   "score": 0.21049762,
    "languages": [
     "pt-br",
     "id",
@@ -175,7 +175,7 @@
     "en": "Martial Arts Reigns"
    },
    "contentRating": "suggestive",
-   "score": 0.21015757,
+   "score": 0.21022382,
    "languages": [
     "fr",
     "pt-br",
@@ -183,5 +183,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:29+00:00"
+ "updatedAt": "2023-12-10T18:21:14+00:00"
 }

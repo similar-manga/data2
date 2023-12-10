@@ -6,28 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.34136248,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
    "title": {
     "en": "Gazer"
    },
    "contentRating": "safe",
-   "score": 0.31115574,
+   "score": 0.30787748,
    "languages": [
     "pt-br",
     "en",
     "es"
-   ]
-  },
-  {
-   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
-   "title": {
-    "en": "Meikai no Pendulum"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "ru"
    ]
   },
   {
@@ -43,12 +42,24 @@
    ]
   },
   {
+   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
+   "title": {
+    "en": "Meikai no Pendulum"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "2b824280-e9b8-4aca-9809-0a260753b668",
    "title": {
     "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.26077443,
+   "score": 0.26757446,
    "languages": [
     "en"
    ]
@@ -59,16 +70,16 @@
     "en": "Bible of Black"
    },
    "contentRating": "safe",
-   "score": 0.2561637,
+   "score": 0.25595966,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
+   "id": "74dc13ca-e270-4339-a156-8842f9721894",
    "title": {
-    "en": "Pandora"
+    "en": "Gakkou Youkai Kikou: You"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -88,9 +99,9 @@
    ]
   },
   {
-   "id": "74dc13ca-e270-4339-a156-8842f9721894",
+   "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
    "title": {
-    "en": "Gakkou Youkai Kikou: You"
+    "en": "Pandora"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -104,7 +115,7 @@
     "en": "Toriya Trip"
    },
    "contentRating": "safe",
-   "score": 0.24227206,
+   "score": 0.24200052,
    "languages": [
     "en"
    ]
@@ -115,7 +126,18 @@
     "en": "Room 303"
    },
    "contentRating": "safe",
-   "score": 0.2355431,
+   "score": 0.23604172,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7a934a6e-8d31-4c1f-a49b-69705303071b",
+   "title": {
+    "en": "Twin Spirit Detectives"
+   },
+   "contentRating": "safe",
+   "score": 0.2285374,
    "languages": [
     "en"
    ]
@@ -126,7 +148,7 @@
     "en": "Shitauke Tantei Nokori Kasuhiro"
    },
    "contentRating": "safe",
-   "score": 0.22621238,
+   "score": 0.22355008,
    "languages": [
     "de",
     "pt-br",
@@ -139,7 +161,7 @@
     "en": "Meteor Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.22518861,
+   "score": 0.22330625,
    "languages": [
     "en",
     "es-la"
@@ -162,33 +184,11 @@
     "en": "Ron Kamonohashi: Deranged Detective (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.2139358,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
-   "title": {
-    "en": "Armados"
-   },
-   "contentRating": "safe",
-   "score": 0.21101016,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c6384450-abc7-46ba-abc9-89805f00d104",
-   "title": {
-    "en": "Matohazure Q-doubu"
-   },
-   "contentRating": "safe",
-   "score": 0.20702565,
+   "score": 0.21236971,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:46+00:00"
+ "updatedAt": "2023-12-10T18:32:30+00:00"
 }

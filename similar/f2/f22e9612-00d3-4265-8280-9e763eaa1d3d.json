@@ -11,7 +11,7 @@
     "en": "Bokura no Hana no Saku Koro no"
    },
    "contentRating": "safe",
-   "score": 0.2624434,
+   "score": 0.26149902,
    "languages": [
     "en"
    ]
@@ -39,14 +39,6 @@
    ]
   },
   {
-   "id": "88e4d5b4-410e-439d-a477-7d82f55c6074",
-   "title": {
-    "en": "Sleeping Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
    "id": "057cbb2f-2c25-4f86-a4b0-66c8b0c90892",
    "title": {
     "en": "Heartland no Juunin"
@@ -56,6 +48,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "88e4d5b4-410e-439d-a477-7d82f55c6074",
+   "title": {
+    "en": "Sleeping Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
   },
   {
    "id": "248df036-335e-4aa6-bbde-e973ea25d82a",
@@ -76,7 +76,7 @@
     "en": "Fukou Reijou Deshita ga, Happy End wo Mukaemashita Anthology"
    },
    "contentRating": "safe",
-   "score": 0.25136617
+   "score": 0.2507591
   },
   {
    "id": "3935f730-ecbd-4c65-b537-e20aa6a4125d",
@@ -84,7 +84,7 @@
     "en": "Hatsukoi Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.2501299,
+   "score": 0.25015613,
    "languages": [
     "en"
    ]
@@ -95,7 +95,7 @@
     "en": "Matataki suru Tabi, Koi o Suru"
    },
    "contentRating": "safe",
-   "score": 0.24830098
+   "score": 0.24415213
   },
   {
    "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
@@ -103,7 +103,7 @@
     "en": "Ai wo Hamu Akuma"
    },
    "contentRating": "safe",
-   "score": 0.23987733,
+   "score": 0.23941168,
    "languages": [
     "en",
     "pt-br",
@@ -116,19 +116,22 @@
     "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.23860613,
+   "score": 0.23734306,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "5f44c1e9-8920-4494-9df0-594986f424ae",
+   "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
    "title": {
-    "en": "Hajimari no Ao"
+    "en": "Princess Ai Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.23008436
+   "score": 0.23344858,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "0fcabed7-7e5a-403e-a4d8-270efc133ad8",
@@ -136,7 +139,7 @@
     "en": "Hitomi kara Destiny"
    },
    "contentRating": "safe",
-   "score": 0.22911358,
+   "score": 0.22940485,
    "languages": [
     "en",
     "vi",
@@ -155,6 +158,14 @@
    ]
   },
   {
+   "id": "39ef650f-2918-4965-8f6e-ca1ab30e988b",
+   "title": {
+    "en": "Tokimeki Tonight: Return to the Makabe Family Home"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143
+  },
+  {
    "id": "8312a27e-e5cc-49fe-b643-a25f167ea385",
    "title": {
     "en": "Our Torsos"
@@ -166,24 +177,13 @@
    ]
   },
   {
-   "id": "39ef650f-2918-4965-8f6e-ca1ab30e988b",
+   "id": "5f44c1e9-8920-4494-9df0-594986f424ae",
    "title": {
-    "en": "Tokimeki Tonight: Return to the Makabe Family Home"
+    "en": "Hajimari no Ao"
    },
    "contentRating": "safe",
-   "score": 0.22857143
-  },
-  {
-   "id": "0947f34a-e2c5-4508-95fe-cd6d6502155b",
-   "title": {
-    "en": "Kore ga Unmei!? Akuyaku Reijou wa Aisare Route ni Hairimashita!"
-   },
-   "contentRating": "safe",
-   "score": 0.22297665,
-   "languages": [
-    "zh-hk"
-   ]
+   "score": 0.22799328
   }
  ],
- "updatedAt": "2023-12-10T01:09:46+00:00"
+ "updatedAt": "2023-12-10T18:34:56+00:00"
 }

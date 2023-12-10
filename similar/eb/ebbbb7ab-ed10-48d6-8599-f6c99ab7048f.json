@@ -11,7 +11,7 @@
     "en": "Tokyo Aliens"
    },
    "contentRating": "safe",
-   "score": 0.2496111,
+   "score": 0.2526831,
    "languages": [
     "es-la",
     "fa",
@@ -33,23 +33,23 @@
    ]
   },
   {
-   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
-   "title": {
-    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.23517773,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b7c3d479-0ea9-43fc-861e-10d9f6bfe755",
    "title": {
     "en": "Diasporaiser"
    },
    "contentRating": "safe",
-   "score": 0.23464087,
+   "score": 0.2365762,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
+   "title": {
+    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.23448496,
    "languages": [
     "en"
    ]
@@ -60,7 +60,7 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.22118022,
+   "score": 0.22144778,
    "languages": [
     "es-la",
     "en"
@@ -72,9 +72,22 @@
     "en": "Version"
    },
    "contentRating": "safe",
-   "score": 0.21698584,
+   "score": 0.215445,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
+   "title": {
+    "en": "MY LITTLE MARS"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "es-la",
+    "en",
+    "zh-hk"
    ]
   },
   {
@@ -103,25 +116,12 @@
    ]
   },
   {
-   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
-   "title": {
-    "en": "MY LITTLE MARS"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "es-la",
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
    "title": {
     "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.20768428,
+   "score": 0.20813334,
    "languages": [
     "en"
    ]
@@ -132,7 +132,7 @@
     "en": "The Scum of the Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.20563143,
+   "score": 0.2070322,
    "languages": [
     "ru",
     "it",
@@ -160,11 +160,22 @@
     "en": "Kouchuugun Shikan Boukensha ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.19270708,
+   "score": 0.19295408,
    "languages": [
     "en",
     "id",
     "th"
+   ]
+  },
+  {
+   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
+   "title": {
+    "en": "Rairairai"
+   },
+   "contentRating": "safe",
+   "score": 0.19210517,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -174,17 +185,6 @@
    },
    "contentRating": "safe",
    "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
-   "title": {
-    "en": "Rairairai"
-   },
-   "contentRating": "safe",
-   "score": 0.19097273,
    "languages": [
     "en"
    ]
@@ -201,5 +201,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:30+00:00"
+ "updatedAt": "2023-12-10T18:34:16+00:00"
 }

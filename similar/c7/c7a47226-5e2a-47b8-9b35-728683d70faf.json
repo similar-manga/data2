@@ -6,24 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.26053712,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "0ca1627e-95dd-4118-892a-f144adf02256",
    "title": {
     "en": "March Comes in Like a Lion"
    },
    "contentRating": "safe",
-   "score": 0.23590146,
+   "score": 0.28990316,
    "languages": [
     "en",
     "pt-br",
@@ -32,12 +20,24 @@
    ]
   },
   {
+   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
+   "title": {
+    "en": "Golden Gold"
+   },
+   "contentRating": "safe",
+   "score": 0.2638673,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
    "title": {
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.22849931,
+   "score": 0.23251288,
    "languages": [
     "pt-br",
     "es-la",
@@ -55,7 +55,7 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.22615542,
+   "score": 0.22820443,
    "languages": [
     "en",
     "ru"
@@ -67,7 +67,7 @@
     "en": "What's Michael?"
    },
    "contentRating": "safe",
-   "score": 0.21862112,
+   "score": 0.22236376,
    "languages": [
     "de",
     "en"
@@ -90,18 +90,7 @@
     "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.21015832,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
-   "title": {
-    "en": "The Boy Who Collects The Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.20858641,
+   "score": 0.21530205,
    "languages": [
     "en"
    ]
@@ -112,7 +101,7 @@
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.20638028,
+   "score": 0.20867391,
    "languages": [
     "my",
     "es-la",
@@ -124,29 +113,25 @@
    ]
   },
   {
-   "id": "f052fabc-7687-4140-ba3a-22e43009cd3d",
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
    "title": {
-    "en": "Oni (KANNO Osamu)"
+    "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.20349908,
+   "score": 0.2085872,
    "languages": [
-    "vi",
     "en"
    ]
   },
   {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
+   "id": "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
    "title": {
-    "en": "Tail Star"
+    "en": "The Boy Who Collects The Stars"
    },
    "contentRating": "safe",
-   "score": 0.20284611,
+   "score": 0.20737033,
    "languages": [
-    "pl",
-    "en",
-    "es",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -155,21 +140,20 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.20263377,
+   "score": 0.2067257,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3fe4d4c0-60d2-482f-9009-f9e4e44812f7",
+   "id": "f052fabc-7687-4140-ba3a-22e43009cd3d",
    "title": {
-    "en": "As for Time..."
+    "en": "Oni (KANNO Osamu)"
    },
    "contentRating": "safe",
-   "score": 0.20170458,
+   "score": 0.20527668,
    "languages": [
-    "fr",
-    "ru",
+    "vi",
     "en"
    ]
   },
@@ -179,11 +163,38 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.20088248,
+   "score": 0.20393072,
    "languages": [
     "en",
     "es-la",
     "fr"
+   ]
+  },
+  {
+   "id": "3fe4d4c0-60d2-482f-9009-f9e4e44812f7",
+   "title": {
+    "en": "As for Time..."
+   },
+   "contentRating": "safe",
+   "score": 0.20225166,
+   "languages": [
+    "fr",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "229eb307-021e-4062-8d39-94422da2671e",
+   "title": {
+    "en": "Tail Star"
+   },
+   "contentRating": "safe",
+   "score": 0.2012127,
+   "languages": [
+    "pl",
+    "en",
+    "es",
+    "pt-br"
    ]
   },
   {
@@ -192,23 +203,12 @@
     "en": "One Pound Gospel"
    },
    "contentRating": "safe",
-   "score": 0.20051713,
+   "score": 0.20053004,
    "languages": [
     "fr",
     "pt-br"
    ]
-  },
-  {
-   "id": "81d50c58-635e-4b23-bdcc-b072ca533f4d",
-   "title": {
-    "en": "Umihara Kawase Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.19885504,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:59+00:00"
+ "updatedAt": "2023-12-10T18:30:31+00:00"
 }

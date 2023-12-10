@@ -11,9 +11,21 @@
     "en": "Zen'yasai Patroller"
    },
    "contentRating": "safe",
-   "score": 0.2527064,
+   "score": 0.25419408,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "9e2f94ee-1099-4e3c-8200-31e7237b2668",
+   "title": {
+    "en": "Genei Realism"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -30,24 +42,12 @@
    ]
   },
   {
-   "id": "9e2f94ee-1099-4e3c-8200-31e7237b2668",
-   "title": {
-    "en": "Genei Realism"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "c85d8d75-f41f-45f3-836a-66e75372755f",
    "title": {
     "en": "Yousei Hakase to Hana no Tsuru"
    },
    "contentRating": "safe",
-   "score": 0.23672718,
+   "score": 0.23612146,
    "languages": [
     "en"
    ]
@@ -58,21 +58,19 @@
     "en": "Kuma-san to Issho"
    },
    "contentRating": "safe",
-   "score": 0.23214304,
+   "score": 0.23140128,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
+   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
    "title": {
-    "en": "The Dress"
+    "en": "Replay"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "pl",
-    "it",
     "en"
    ]
   },
@@ -93,13 +91,15 @@
    ]
   },
   {
-   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
+   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
    "title": {
-    "en": "Replay"
+    "en": "The Dress"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
+    "pl",
+    "it",
     "en"
    ]
   },
@@ -109,7 +109,7 @@
     "en": "Kaijidou Mokuroku"
    },
    "contentRating": "safe",
-   "score": 0.21619631,
+   "score": 0.2148575,
    "languages": [
     "en"
    ]
@@ -120,7 +120,7 @@
     "en": "Sasagu Omoi wa Hana Meguri"
    },
    "contentRating": "safe",
-   "score": 0.20737767,
+   "score": 0.2066116,
    "languages": [
     "en"
    ]
@@ -131,7 +131,7 @@
     "en": "Bokura no Hana no Saku Koro no"
    },
    "contentRating": "safe",
-   "score": 0.20488657,
+   "score": 0.20338489,
    "languages": [
     "en"
    ]
@@ -155,38 +155,37 @@
     "en": "Dare mo Shiranai 29-nichi"
    },
    "contentRating": "safe",
-   "score": 0.19944648,
+   "score": 0.1990857,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a85210f3-2ec8-4feb-b7fe-1a39eeebf10f",
+   "id": "d4a730ef-e29e-4969-98cc-1e8f97731ecb",
    "title": {
-    "en": "Sakura Omoi"
-   },
-   "contentRating": "safe",
-   "score": 0.19763558,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e23069ed-9166-476c-b0c2-8765b16c90eb",
-   "title": {
-    "en": "Rocker in Locker"
+    "en": "Trick or Kiss"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "52686925-ebf6-418e-85a2-3e65d49a73d9",
+   "id": "cabe9efe-af2e-45a6-acfb-a129950a2d7c",
    "title": {
-    "en": "Shinigami no Aria"
+    "en": "Shinba Shounen to Nemuru Kyojin"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1fb05ece-008e-4212-8514-1214bb48cfe8",
+   "title": {
+    "en": "Samurai Komachi"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -195,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:21+00:00"
+ "updatedAt": "2023-12-10T18:33:54+00:00"
 }

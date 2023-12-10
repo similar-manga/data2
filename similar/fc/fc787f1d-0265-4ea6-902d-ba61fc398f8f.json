@@ -11,7 +11,7 @@
     "en": "Shin Hyataro of the Ushiro"
    },
    "contentRating": "safe",
-   "score": 0.26354662
+   "score": 0.26279363
   },
   {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
@@ -87,6 +87,14 @@
    "score": 0.22535361
   },
   {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.22270699
+  },
+  {
    "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
     "en": "Ge Ge Ge no Kitaro"
@@ -95,6 +103,23 @@
    "score": 0.21928771,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.21551341,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -152,6 +177,26 @@
    ]
   },
   {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21088137,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
    "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
    "title": {
     "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
@@ -163,82 +208,16 @@
    ]
   },
   {
-   "id": "8bd19e5c-94f7-4368-a918-50f463857446",
+   "id": "fa797996-e862-48a1-97be-1e5b1f827b9e",
    "title": {
-    "en": "Kuroshitsuji"
+    "en": "Hell's Gate"
    },
    "contentRating": "safe",
-   "score": 0.2042307,
+   "score": 0.20678619,
    "languages": [
-    "en",
-    "pt-br",
-    "hu",
-    "tr",
-    "es-la",
-    "bg",
-    "fr",
-    "it",
-    "uk"
-   ]
-  },
-  {
-   "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
-   "title": {
-    "en": "Jujutsu Kaisen"
-   },
-   "contentRating": "safe",
-   "score": 0.2025693,
-   "languages": [
-    "it",
-    "hu",
-    "pt-br",
-    "ru",
-    "en",
-    "es-la",
-    "ar",
-    "fr",
-    "vi",
-    "uk",
-    "he",
-    "id",
-    "zh-hk",
-    "es",
-    "de",
-    "",
-    "sr",
-    "th",
-    "mn",
-    "ms",
-    "tr"
-   ]
-  },
-  {
-   "id": "d83798f7-a148-4ff9-a28c-7ad50424cd6f",
-   "title": {
-    "en": "Dragon Quest IV Gaiden - Labyrinth of Hell"
-   },
-   "contentRating": "safe",
-   "score": 0.19955182
-  },
-  {
-   "id": "a4b39b6e-a448-4644-a540-64ceff1d8305",
-   "title": {
-    "en": "Toilet-bound Hanako-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.19926417,
-   "languages": [
-    "vi",
-    "ru",
-    "fr",
-    "pt-br",
-    "id",
-    "th",
-    "es-la",
-    "en",
-    "pl"
+    "ar"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:13+00:00"
+ "updatedAt": "2023-12-10T18:36:00+00:00"
 }

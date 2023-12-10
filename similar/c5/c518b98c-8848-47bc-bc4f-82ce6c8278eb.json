@@ -11,7 +11,7 @@
     "en": "Raisins"
    },
    "contentRating": "safe",
-   "score": 0.2966357,
+   "score": 0.2908609,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Miss Korai and the Cat God"
    },
    "contentRating": "safe",
-   "score": 0.29251623,
+   "score": 0.28989822,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "A Breeze of Kanome"
    },
    "contentRating": "safe",
-   "score": 0.26974356,
+   "score": 0.27550334,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Bad Secretary"
    },
    "contentRating": "safe",
-   "score": 0.18801057,
+   "score": 0.18783073,
    "languages": [
     "en",
     "pt-br",
@@ -60,18 +60,6 @@
    "score": 0.18070157,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "6cd5a844-b5df-42bd-ad94-d05725a60e92",
-   "title": {
-    "en": "Koroshiya Akazukin"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "hu"
    ]
   },
   {
@@ -98,6 +86,18 @@
    ]
   },
   {
+   "id": "6cd5a844-b5df-42bd-ad94-d05725a60e92",
+   "title": {
+    "en": "Koroshiya Akazukin"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "en",
+    "hu"
+   ]
+  },
+  {
    "id": "12e69ced-43f6-4204-8fb1-4207022c28d6",
    "title": {
     "en": "Hizumi no Dual"
@@ -114,7 +114,7 @@
     "en": "Seaside Return"
    },
    "contentRating": "safe",
-   "score": 0.16351084,
+   "score": 0.16309302,
    "languages": [
     "en"
    ]
@@ -125,7 +125,7 @@
     "en": "Atashin'chi"
    },
    "contentRating": "safe",
-   "score": 0.16267902,
+   "score": 0.16188408,
    "languages": [
     "de",
     "en",
@@ -138,9 +138,21 @@
     "en": "Sword Dancer"
    },
    "contentRating": "safe",
-   "score": 0.1595673,
+   "score": 0.15890656,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "61566310-b625-49cd-bdc9-b52b737125e1",
+   "title": {
+    "en": "An Exorbitant Wife"
+   },
+   "contentRating": "safe",
+   "score": 0.15649216,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -155,38 +167,30 @@
    ]
   },
   {
-   "id": "4f81740f-5164-4a39-9e95-e138108de3f1",
+   "id": "140e8eef-2f6f-42e8-a7f7-965534ab142d",
    "title": {
-    "en": "Ghost Speaker"
+    "en": "Omae, Tanuki ni Naranee ka?"
    },
    "contentRating": "safe",
-   "score": 0.14754222,
+   "score": 0.15649216,
    "languages": [
-    "en"
+    "en",
+    "vi",
+    "pt-br",
+    "es-la"
    ]
   },
   {
-   "id": "1cd2ff34-bbfc-4687-97a2-9bda85ad734a",
+   "id": "b54ea659-3c53-4fb9-af8f-857c73f0e7b8",
    "title": {
-    "en": "Narisumasu."
+    "en": "Ouji-sama, Kono Koi wa Unmeidesu ka"
    },
    "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e25e450f-b6d1-4495-9d0d-927e65462376",
-   "title": {
-    "en": "Just One Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
+   "score": 0.15622263,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:53+00:00"
+ "updatedAt": "2023-12-10T18:30:16+00:00"
 }

@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
-   "title": {
-    "en": "Foo Fighter Fuji"
-   },
-   "contentRating": "safe",
-   "score": 0.26396608,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
    "title": {
     "en": "Love You"
    },
    "contentRating": "safe",
-   "score": 0.26358822,
+   "score": 0.26189035,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
+   "title": {
+    "en": "Foo Fighter Fuji"
+   },
+   "contentRating": "safe",
+   "score": 0.261687,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Love Attack"
    },
    "contentRating": "safe",
-   "score": 0.26231298,
+   "score": 0.25722542,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Kanojo wa Itsumo Kagayaiteita"
    },
    "contentRating": "safe",
-   "score": 0.26104796,
+   "score": 0.25527874,
    "languages": [
     "hu",
     "de",
@@ -57,12 +57,37 @@
    ]
   },
   {
+   "id": "e28cdf94-e8c3-41e5-8f9a-19e6983504ac",
+   "title": {
+    "en": "Fantasies"
+   },
+   "contentRating": "safe",
+   "score": 0.25520933,
+   "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "title": {
+    "en": "Little War"
+   },
+   "contentRating": "safe",
+   "score": 0.2538862,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
    "title": {
     "en": "Permanent God"
    },
    "contentRating": "safe",
-   "score": 0.25824818,
+   "score": 0.25211585,
    "languages": [
     "pt-br",
     "bg",
@@ -74,16 +99,14 @@
    ]
   },
   {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "id": "d3b647a4-6b90-4b37-99a1-936f38cd3586",
    "title": {
-    "en": "Little War"
+    "en": "レンタルキラー"
    },
    "contentRating": "safe",
-   "score": 0.25483784,
+   "score": 0.25080785,
    "languages": [
-    "fr",
-    "pt-br",
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -92,21 +115,10 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.2501694,
+   "score": 0.24825056,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "d3b647a4-6b90-4b37-99a1-936f38cd3586",
-   "title": {
-    "en": "レンタルキラー"
-   },
-   "contentRating": "safe",
-   "score": 0.24776602,
-   "languages": [
-    "pt-br"
    ]
   },
   {
@@ -121,15 +133,41 @@
    ]
   },
   {
+   "id": "b120f8d9-643b-4e89-8364-fe5525ca3db5",
+   "title": {
+    "en": "Onigoroki"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
    "title": {
     "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.24682336,
+   "score": 0.24517758,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "title": {
+    "en": "I Spy"
+   },
+   "contentRating": "safe",
+   "score": 0.2382787,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
    ]
   },
   {
@@ -138,7 +176,7 @@
     "en": "SWOT (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.2369761,
+   "score": 0.23463582,
    "languages": [
     "pl",
     "en"
@@ -156,29 +194,6 @@
    ]
   },
   {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d77d37f9-d224-4105-a179-13ae6ce6658b",
-   "title": {
-    "en": "Ashita no Kimi ga Suki"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "vi",
-    "fr"
-   ]
-  },
-  {
    "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
     "en": "Karakuri"
@@ -190,21 +205,7 @@
     "pl",
     "it"
    ]
-  },
-  {
-   "id": "ff1e69ec-31c5-4fd9-ac6b-cb89eaba31ed",
-   "title": {
-    "en": "Ame no Hi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "de",
-    "en",
-    "id",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:08+00:00"
+ "updatedAt": "2023-12-10T18:30:52+00:00"
 }

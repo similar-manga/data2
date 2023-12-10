@@ -11,7 +11,7 @@
     "en": "Tokyo Jungle"
    },
    "contentRating": "safe",
-   "score": 0.25375623,
+   "score": 0.25223812,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.25262308,
+   "score": 0.2509153,
    "languages": [
     "en"
    ]
@@ -33,9 +33,37 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.24058002,
+   "score": 0.24109308,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f5fe1552-61e5-488f-b5f8-9929e44be6c8",
+   "title": {
+    "en": "Teriyaki Western"
+   },
+   "contentRating": "safe",
+   "score": 0.23053317,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+   "title": {
+    "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
+   },
+   "contentRating": "safe",
+   "score": 0.2136689,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "pl",
+    "ar",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -78,7 +106,7 @@
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.19561611,
+   "score": 0.19452113,
    "languages": [
     "en"
    ]
@@ -116,7 +144,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.19288683,
+   "score": 0.19227718,
    "languages": [
     "en"
    ]
@@ -127,20 +155,9 @@
     "en": "Amanusya"
    },
    "contentRating": "safe",
-   "score": 0.19161187,
+   "score": 0.19088484,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
-   "title": {
-    "en": "Mobile Suit Gundam F90 FF"
-   },
-   "contentRating": "safe",
-   "score": 0.18731716,
-   "languages": [
     "en"
    ]
   },
@@ -156,15 +173,13 @@
    ]
   },
   {
-   "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
+   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
-    "en": "The Playground of Yin and Yang"
+    "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.18418874,
+   "score": 0.18731716,
    "languages": [
-    "es",
-    "ja",
     "en"
    ]
   },
@@ -179,21 +194,7 @@
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
-   "title": {
-    "en": "Kingdom Hearts III"
-   },
-   "contentRating": "safe",
-   "score": 0.18183354,
-   "languages": [
-    "it",
-    "es-la",
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:28+00:00"
+ "updatedAt": "2023-12-10T18:29:13+00:00"
 }

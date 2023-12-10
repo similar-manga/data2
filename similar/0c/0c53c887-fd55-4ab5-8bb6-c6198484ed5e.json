@@ -11,11 +11,19 @@
     "en": "Obake Life"
    },
    "contentRating": "safe",
-   "score": 0.38900316,
+   "score": 0.38680702,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "55d452ae-67b5-48bb-ade8-e6f5da68e352",
+   "title": {
+    "en": "Ken ni Kogu"
+   },
+   "contentRating": "safe",
+   "score": 0.37894753
   },
   {
    "id": "008c35fd-57fa-4ffa-812f-5cc07408770a",
@@ -23,10 +31,22 @@
     "en": "Kanojo to Boku no Endroll"
    },
    "contentRating": "safe",
-   "score": 0.35006717,
+   "score": 0.34891972,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0026052c-9091-4dc7-915c-dffce9559234",
+   "title": {
+    "en": "Shinigami no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.34835115,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -35,11 +55,42 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.34769377,
+   "score": 0.34590745,
    "languages": [
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038",
+   "title": {
+    "en": "When I Was Reincarnated in Another World, I Was a Heroine and He Was a Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.3454652,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "vi",
+    "de"
+   ]
+  },
+  {
+   "id": "50ce9bd6-f6df-498a-bc22-570d5ae5f2ea",
+   "title": {
+    "en": "5Toubun no Hanayome: Character Books"
+   },
+   "contentRating": "safe",
+   "score": 0.34486586
+  },
+  {
+   "id": "c7138005-ceec-4600-af78-fad356064661",
+   "title": {
+    "en": "Let's La Gon"
+   },
+   "contentRating": "safe",
+   "score": 0.34468913
   },
   {
    "id": "367f0840-48f5-4925-97fd-fb16d16f3c49",
@@ -47,7 +98,7 @@
     "en": "Manga wo Yomeru Ore ga Sekai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.34717914,
+   "score": 0.34431812,
    "languages": [
     "es-la",
     "en"
@@ -59,7 +110,7 @@
     "en": "Cremators"
    },
    "contentRating": "safe",
-   "score": 0.3465161,
+   "score": 0.34349293,
    "languages": [
     "en",
     "pt-br",
@@ -67,18 +118,31 @@
    ]
   },
   {
-   "id": "69dc2fa5-9b39-48c3-bea5-5f6bf4bf4038",
+   "id": "e0c81b70-dce4-4a61-9a7e-0aa927c654fe",
    "title": {
-    "en": "When I Was Reincarnated in Another World, I Was a Heroine and He Was a Hero"
+    "en": "Shinigami Ramen"
    },
    "contentRating": "safe",
-   "score": 0.3450132,
+   "score": 0.34280682,
    "languages": [
     "en",
-    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "316d3d09-bb83-49da-9d90-11dc7ce40967",
+   "title": {
+    "en": "Honzuki no Gekokujou ~Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen~ Dai 3-bu 「Ryouchi ni Hon o Hirogeyou!」"
+   },
+   "contentRating": "safe",
+   "score": 0.3427788,
+   "languages": [
     "id",
-    "vi",
-    "de"
+    "en",
+    "pl",
+    "pt-br",
+    "ru",
+    "th"
    ]
   },
   {
@@ -87,31 +151,7 @@
     "en": "Tsubasa"
    },
    "contentRating": "safe",
-   "score": 0.3428047
-  },
-  {
-   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
-   "title": {
-    "en": "Smile Death Match"
-   },
-   "contentRating": "safe",
-   "score": 0.3385977,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "374ae3b7-bb0e-4efe-a48a-84e029a798e5",
-   "title": {
-    "en": "Takamori-kun wo Damarasetai!! (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.33719394,
-   "languages": [
-    "en",
-    "vi"
-   ]
+   "score": 0.34209058
   },
   {
    "id": "c7bd529f-ce03-4c82-b669-86a66d8ca24b",
@@ -119,90 +159,28 @@
     "en": "The dreams in my world"
    },
    "contentRating": "safe",
-   "score": 0.33435962
+   "score": 0.3389155
   },
   {
-   "id": "e2e24c56-880e-4cb4-87f2-e81a8a0c0213",
+   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
    "title": {
-    "en": "Shin Megami Tensei Devil Children - Light \u0026 Dark"
+    "en": "Smile Death Match"
    },
    "contentRating": "safe",
-   "score": 0.33415735
-  },
-  {
-   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
-   "title": {
-    "en": "I want you to ask me first!"
-   },
-   "contentRating": "safe",
-   "score": 0.33182126,
+   "score": 0.33864745,
    "languages": [
     "en",
-    "pt-br"
+    "ru"
    ]
   },
   {
-   "id": "3e9f5040-7de8-4c9d-b2d2-73bcbb68b316",
+   "id": "1fdaacb9-c78f-433a-83cb-c0fbb53df346",
    "title": {
-    "en": "Shuumatsu no Koe"
+    "en": "Shinitai Majo to Koroshitai Tenshu"
    },
    "contentRating": "safe",
-   "score": 0.3309911,
-   "languages": [
-    "fr",
-    "es-la",
-    "vi",
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
-   "title": {
-    "en": "SHY"
-   },
-   "contentRating": "safe",
-   "score": 0.32779124,
-   "languages": [
-    "ru",
-    "fr",
-    "pt-br",
-    "es-la",
-    "en",
-    "id",
-    "th",
-    "tr",
-    "it",
-    "vi"
-   ]
-  },
-  {
-   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
-   "title": {
-    "en": "Death of a Highschool"
-   },
-   "contentRating": "safe",
-   "score": 0.3264226,
-   "languages": [
-    "pt-br",
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "899ac405-c941-4333-83f6-48bc0193e516",
-   "title": {
-    "en": "Meteor Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.32618836,
-   "languages": [
-    "en",
-    "es-la"
-   ]
+   "score": 0.33720648
   }
  ],
- "updatedAt": "2023-12-10T01:00:14+00:00"
+ "updatedAt": "2023-12-10T18:09:40+00:00"
 }

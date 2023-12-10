@@ -6,15 +6,14 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "631f17a1-4ef9-4204-8cf8-cae5391ecca3",
+   "id": "5791fae6-c99d-4a8c-9ba6-30be12e70569",
    "title": {
-    "en": "Metal Heart"
+    "en": "Shimokita Glory Days"
    },
    "contentRating": "suggestive",
    "score": 0.23276806,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -29,14 +28,15 @@
    ]
   },
   {
-   "id": "5791fae6-c99d-4a8c-9ba6-30be12e70569",
+   "id": "631f17a1-4ef9-4204-8cf8-cae5391ecca3",
    "title": {
-    "en": "Shimokita Glory Days"
+    "en": "Metal Heart"
    },
    "contentRating": "suggestive",
    "score": 0.23276806,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -45,25 +45,9 @@
     "en": "Amagami - Various Artists"
    },
    "contentRating": "suggestive",
-   "score": 0.21086432,
+   "score": 0.2082018,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b198f9b8-7489-44cc-a062-1cb4b32d5507",
-   "title": {
-    "en": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta."
-   },
-   "contentRating": "suggestive",
-   "score": 0.20158304,
-   "languages": [
-    "en",
-    "es-la",
-    "vi",
-    "id",
-    "fr",
-    "pt-br"
    ]
   },
   {
@@ -94,6 +78,22 @@
    ]
   },
   {
+   "id": "b198f9b8-7489-44cc-a062-1cb4b32d5507",
+   "title": {
+    "en": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta."
+   },
+   "contentRating": "suggestive",
+   "score": 0.20158304,
+   "languages": [
+    "en",
+    "es-la",
+    "vi",
+    "id",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "671058eb-e819-4522-a996-e0ab634db511",
    "title": {
     "en": "Shuffle! - Days in the Bloom"
@@ -110,7 +110,7 @@
     "en": "Kakkou no Iinazuke"
    },
    "contentRating": "suggestive",
-   "score": 0.18877704,
+   "score": 0.1881631,
    "languages": [
     "fr",
     "es-la",
@@ -129,24 +129,9 @@
     "en": "Heaven"
    },
    "contentRating": "suggestive",
-   "score": 0.18612877,
+   "score": 0.18412077,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
-   "title": {
-    "en": "Ojousama no Shimobe"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18030135,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr",
-    "ru"
    ]
   },
   {
@@ -162,6 +147,17 @@
    ]
   },
   {
+   "id": "4da46e9b-c828-4376-aefe-942f313bea2f",
+   "title": {
+    "en": "Jutten!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18030135,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ac1d1995-e123-40d3-b139-3be1e2a93574",
    "title": {
     "en": "Mizuiro Splash"
@@ -173,34 +169,18 @@
    ]
   },
   {
-   "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+   "id": "1553d304-e19c-40d9-b55e-09f2ae3df9de",
    "title": {
-    "en": "My Charms Are Wasted on Medaka Kuroiwa"
+    "en": "Tonimo Kakunimo"
    },
    "contentRating": "suggestive",
    "score": 0.18030135,
    "languages": [
-    "ru",
-    "en",
-    "es-la",
-    "pt-br",
-    "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "3c524d15-6523-42e0-91a8-f516dd57fc7a",
-   "title": {
-    "en": "Ama ama Cinderella"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18030135,
-   "languages": [
-    "en",
-    "vi",
     "id",
-    "fr",
-    "pt-br"
+    "pt-br",
+    "en",
+    "it",
+    "es-la"
    ]
   },
   {
@@ -213,7 +193,26 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7fb957e4-a94b-496d-be91-b7d75fad7b21",
+   "title": {
+    "en": "Osananajimi to wa Romcom ni Naranai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18030135,
+   "languages": [
+    "ru",
+    "en",
+    "th",
+    "uk",
+    "vi",
+    "pt-br",
+    "es-la",
+    "id",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:18+00:00"
+ "updatedAt": "2023-12-10T18:23:21+00:00"
 }

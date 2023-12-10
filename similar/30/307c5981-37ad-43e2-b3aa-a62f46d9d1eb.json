@@ -37,7 +37,7 @@
     "en": "Chloroform"
    },
    "contentRating": "safe",
-   "score": 0.19235848,
+   "score": 0.19172394,
    "languages": [
     "es-la",
     "en"
@@ -49,7 +49,7 @@
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.18404934,
+   "score": 0.18258889,
    "languages": [
     "pt-br",
     "es",
@@ -81,12 +81,86 @@
    ]
   },
   {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.17879505,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.17599909,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
+   "title": {
+    "en": "Rewrite: SIDE-R"
+   },
+   "contentRating": "safe",
+   "score": 0.17474067,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
    "title": {
     "en": "Uncanny Brains"
    },
    "contentRating": "safe",
-   "score": 0.17565607,
+   "score": 0.17465238,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.1733745,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d4a49028-1aa5-4422-ad5d-729b20d0dc4f",
+   "title": {
+    "en": "Jigoku Kurayami Hana mo Naki"
+   },
+   "contentRating": "safe",
+   "score": 0.17158198,
+   "languages": [
+    "zh",
+    "ru",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "81d50c58-635e-4b23-bdcc-b072ca533f4d",
+   "title": {
+    "en": "Umihara Kawase Gaiden"
+   },
+   "contentRating": "safe",
+   "score": 0.16951758,
    "languages": [
     "en"
    ]
@@ -97,43 +171,7 @@
     "en": "Vampir"
    },
    "contentRating": "safe",
-   "score": 0.17257853,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "81d50c58-635e-4b23-bdcc-b072ca533f4d",
-   "title": {
-    "en": "Umihara Kawase Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.17205176,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d4a49028-1aa5-4422-ad5d-729b20d0dc4f",
-   "title": {
-    "en": "Jigoku Kurayami Hana mo Naki"
-   },
-   "contentRating": "safe",
-   "score": 0.1718943,
-   "languages": [
-    "zh",
-    "ru",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.16793562,
+   "score": 0.16830204,
    "languages": [
     "en"
    ]
@@ -155,49 +193,14 @@
     "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
    },
    "contentRating": "safe",
-   "score": 0.1673351,
+   "score": 0.16741489,
    "languages": [
     "pt-br",
     "en",
     "it",
     "fr"
    ]
-  },
-  {
-   "id": "03c9078a-0730-4637-bb3f-339a226ae3ac",
-   "title": {
-    "en": "Kaiji Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.16724746,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
-   "title": {
-    "en": "The Planet of Sutakola"
-   },
-   "contentRating": "safe",
-   "score": 0.16531163,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
-   "title": {
-    "en": "The Darwin Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.16182682,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:36+00:00"
+ "updatedAt": "2023-12-10T18:13:29+00:00"
 }

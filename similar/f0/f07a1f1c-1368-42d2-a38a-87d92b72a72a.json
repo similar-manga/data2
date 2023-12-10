@@ -6,25 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
-   "title": {
-    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2847205,
-   "languages": [
-    "id",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
    "title": {
     "en": "How About R15?"
    },
    "contentRating": "suggestive",
-   "score": 0.28448975,
+   "score": 0.28336462,
    "languages": [
     "en",
     "pt-br",
@@ -33,14 +20,16 @@
    ]
   },
   {
-   "id": "0013b0ec-9b15-4e7f-a22b-05de7127a219",
+   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
    "title": {
-    "en": "Work I Really Want To Do!!!"
+    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.27898884,
+   "score": 0.2830181,
    "languages": [
-    "en"
+    "id",
+    "en",
+    "fr"
    ]
   },
   {
@@ -49,9 +38,20 @@
     "en": "Tacchan, Who Will You Pick?"
    },
    "contentRating": "suggestive",
-   "score": 0.27737176,
+   "score": 0.27586234,
    "languages": [
     "es-la"
+   ]
+  },
+  {
+   "id": "0013b0ec-9b15-4e7f-a22b-05de7127a219",
+   "title": {
+    "en": "Work I Really Want To Do!!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.27585253,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -60,7 +60,7 @@
     "en": "Nanka Kanojo ni Inumimi to Shippo Ga Haetan Daga Ore wa Dousurebaii?"
    },
    "contentRating": "suggestive",
-   "score": 0.27588204,
+   "score": 0.2746078,
    "languages": [
     "en"
    ]
@@ -71,7 +71,7 @@
     "en": "Mikudashi Ibari wa Mikudashitai!"
    },
    "contentRating": "suggestive",
-   "score": 0.27321053,
+   "score": 0.27192092,
    "languages": [
     "en",
     "es-la"
@@ -83,7 +83,7 @@
     "en": "Arakure Ojousama wa Monmon Shiteiru"
    },
    "contentRating": "suggestive",
-   "score": 0.2668059,
+   "score": 0.2663683,
    "languages": [
     "pt-br",
     "ru",
@@ -99,7 +99,7 @@
     "en": "Grand Blue"
    },
    "contentRating": "suggestive",
-   "score": 0.26628816,
+   "score": 0.26600203,
    "languages": [
     "pt-br",
     "en",
@@ -118,23 +118,10 @@
     "en": "Miyo-chan Sensei wa Kaku Katariki"
    },
    "contentRating": "suggestive",
-   "score": 0.26331517,
+   "score": 0.26297513,
    "languages": [
     "es-la",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "1f843e31-a930-46b6-be23-6c02944387ed",
-   "title": {
-    "en": "Koibito wa Oni no Hime"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25890428,
-   "languages": [
-    "pt-br",
-    "id",
     "en"
    ]
   },
@@ -157,31 +144,12 @@
    ]
   },
   {
-   "id": "b9b2fbc4-e351-406c-a468-799be14033df",
-   "title": {
-    "en": "TenPuru -No One Can Live on Loneliness-"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25562006,
-   "languages": [
-    "en",
-    "fr",
-    "id",
-    "pl",
-    "es-la",
-    "pt-br",
-    "ru",
-    "vi",
-    "tr"
-   ]
-  },
-  {
    "id": "b05825a3-9d8e-45bc-a45a-1fe065186b83",
    "title": {
     "en": "Filter-Goshi no Kanojo"
    },
    "contentRating": "suggestive",
-   "score": 0.25490937,
+   "score": 0.2566584,
    "languages": [
     "pt-br",
     "en",
@@ -196,7 +164,7 @@
     "en": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
    },
    "contentRating": "suggestive",
-   "score": 0.25450316,
+   "score": 0.25423062,
    "languages": [
     "pt-br",
     "tr",
@@ -208,12 +176,44 @@
    ]
   },
   {
+   "id": "1f843e31-a930-46b6-be23-6c02944387ed",
+   "title": {
+    "en": "Koibito wa Oni no Hime"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25418812,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "b9b2fbc4-e351-406c-a468-799be14033df",
+   "title": {
+    "en": "TenPuru -No One Can Live on Loneliness-"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2540243,
+   "languages": [
+    "en",
+    "fr",
+    "id",
+    "pl",
+    "es-la",
+    "pt-br",
+    "ru",
+    "vi",
+    "tr"
+   ]
+  },
+  {
    "id": "831b12b8-2d0e-4397-8719-1efee4c32f40",
    "title": {
     "en": "Oshimai"
    },
    "contentRating": "suggestive",
-   "score": 0.25235003,
+   "score": 0.2508109,
    "languages": [
     "en",
     "vi",
@@ -230,7 +230,7 @@
     "en": "I Am Worried That My Childhood Friend Is Too Cute!"
    },
    "contentRating": "suggestive",
-   "score": 0.2473679,
+   "score": 0.24784961,
    "languages": [
     "en",
     "id",
@@ -239,5 +239,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:42+00:00"
+ "updatedAt": "2023-12-10T18:34:45+00:00"
 }

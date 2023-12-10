@@ -24,12 +24,23 @@
    ]
   },
   {
+   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
+   "title": {
+    "en": "Onikirimaru"
+   },
+   "contentRating": "safe",
+   "score": 0.2312524,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.23326863,
+   "score": 0.2248235,
    "languages": [
     "en",
     "pt-br",
@@ -42,14 +53,23 @@
    ]
   },
   {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
    "title": {
-    "en": "Onikirimaru"
+    "en": "Hunter x Hunter"
    },
    "contentRating": "safe",
-   "score": 0.2312524,
+   "score": 0.21616338,
    "languages": [
-    "en"
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -199,6 +219,39 @@
    ]
   },
   {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.19567512,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+   "title": {
+    "en": "Wistoria: Wand and Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.19070147,
+   "languages": [
+    "id",
+    "en",
+    "ru",
+    "pt-br",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
    "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
    "title": {
     "en": "Persona 5"
@@ -212,48 +265,7 @@
     "id",
     "es"
    ]
-  },
-  {
-   "id": "8bd19e5c-94f7-4368-a918-50f463857446",
-   "title": {
-    "en": "Kuroshitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.18408021,
-   "languages": [
-    "en",
-    "pt-br",
-    "hu",
-    "tr",
-    "es-la",
-    "bg",
-    "fr",
-    "it",
-    "uk"
-   ]
-  },
-  {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
-   "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.1818395,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.17986298,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:24+00:00"
+ "updatedAt": "2023-12-10T18:29:04+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.31631806
+   "score": 0.3254423
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -19,7 +19,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.29845428,
+   "score": 0.3045993,
    "languages": [
     "en"
    ]
@@ -30,18 +30,36 @@
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.22675057,
+   "score": 0.22708538,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "255628a7-c227-4d12-9ba6-3fc7e57264ef",
+   "id": "f5795134-9ac6-411f-8526-11d37230a3e9",
    "title": {
-    "en": "Tic Toc Adventures"
+    "en": "Arrested Love"
    },
    "contentRating": "safe",
-   "score": 0.21738599
+   "score": 0.22033218,
+   "languages": [
+    "vi",
+    "pt-br",
+    "ru",
+    "en",
+    "fa",
+    "pl",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "f9cf002c-a84d-4bac-9d7d-ac49c2bdc6c8",
+   "title": {
+    "en": "Bishoujo Doujin Sakka to Wakagashira"
+   },
+   "contentRating": "safe",
+   "score": 0.21733731
   },
   {
    "id": "32e6167d-9ab6-4ac1-b1ef-dded40ddd986",
@@ -49,7 +67,39 @@
     "en": "Development Planet C-9"
    },
    "contentRating": "safe",
-   "score": 0.21476011
+   "score": 0.21654347
+  },
+  {
+   "id": "255628a7-c227-4d12-9ba6-3fc7e57264ef",
+   "title": {
+    "en": "Tic Toc Adventures"
+   },
+   "contentRating": "safe",
+   "score": 0.21610081
+  },
+  {
+   "id": "9f503bc8-6c7a-491d-be26-af40fdfb0026",
+   "title": {
+    "en": "Thunder 3"
+   },
+   "contentRating": "safe",
+   "score": 0.20885903,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "3af63f39-90b4-45f1-9427-301a7e015ab0",
+   "title": {
+    "en": "Hiroware Koneko to Moto Yakuza"
+   },
+   "contentRating": "safe",
+   "score": 0.20627968,
+   "languages": [
+    "ru",
+    "en"
+   ]
   },
   {
    "id": "6130f038-0c1c-479c-a9f0-9d3cb453ceb1",
@@ -63,24 +113,23 @@
    ]
   },
   {
-   "id": "9f503bc8-6c7a-491d-be26-af40fdfb0026",
-   "title": {
-    "en": "Thunder 3"
-   },
-   "contentRating": "safe",
-   "score": 0.20374204,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "f12e7b75-3fe7-4253-9770-2353abbae3f8",
    "title": {
     "en": "Always Like Spring"
    },
    "contentRating": "safe",
-   "score": 0.2018521
+   "score": 0.2010956
+  },
+  {
+   "id": "231a5d96-583b-4c58-97fd-5ac1396be737",
+   "title": {
+    "en": "Oyaji to Nyankichi"
+   },
+   "contentRating": "safe",
+   "score": 0.20002201,
+   "languages": [
+    "pt-br"
+   ]
   },
   {
    "id": "6a5f475c-e79e-4f53-8deb-01523f12df95",
@@ -88,7 +137,7 @@
     "en": "Ewokaku Futari"
    },
    "contentRating": "safe",
-   "score": 0.1978837,
+   "score": 0.19917183,
    "languages": [
     "zh-hk"
    ]
@@ -99,7 +148,7 @@
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.19625701,
+   "score": 0.19548574,
    "languages": [
     "fr",
     "en"
@@ -111,74 +160,16 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.18941835
+   "score": 0.19543195
   },
   {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
+   "id": "a493f2d6-6e38-484c-ade0-c81550e7457c",
    "title": {
-    "en": "Nichijou"
+    "en": "Hero Kojin Sakuhinshuu"
    },
    "contentRating": "safe",
-   "score": 0.1884276,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "de",
-    "id",
-    "ru",
-    "it"
-   ]
-  },
-  {
-   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
-   "title": {
-    "en": "Gakuen Utopia Manabi Straight!"
-   },
-   "contentRating": "safe",
-   "score": 0.18754779,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5358827-9c36-47ee-98b7-6f88e8fd886b",
-   "title": {
-    "en": "New Kiteretsu Encyclopedia"
-   },
-   "contentRating": "safe",
-   "score": 0.18435472
-  },
-  {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
-   "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
-   },
-   "contentRating": "safe",
-   "score": 0.18435472,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "it",
-    "es"
-   ]
-  },
-  {
-   "id": "04bca7eb-2a47-488d-a227-17dbda5371cf",
-   "title": {
-    "en": "Aosora"
-   },
-   "contentRating": "safe",
-   "score": 0.17848447,
-   "languages": [
-    "en",
-    "fr"
-   ]
+   "score": 0.19437492
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:44+00:00"
 }

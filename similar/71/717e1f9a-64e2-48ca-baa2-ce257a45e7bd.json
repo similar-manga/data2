@@ -6,25 +6,125 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6a9f201b-7f91-4596-baf7-505ab198476c",
+   "id": "abc711a1-aa8c-40d3-bed1-541b0d975725",
    "title": {
-    "en": "Love x Joint"
+    "en": "Futarijime Romantic"
    },
    "contentRating": "safe",
-   "score": 0.29636174,
+   "score": 0.31204334,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e0c22186-cc5b-42ca-a9f3-5c81257cc78d",
+   "id": "03677663-c2c8-44aa-9b21-b1c1b0f64086",
    "title": {
-    "en": "Koko Kara Saki wa NG!"
+    "en": "Ekikoi: The Young Miss Falls for the Station Attendant"
    },
    "contentRating": "safe",
-   "score": 0.28520605,
+   "score": 0.3054304,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "15a79a9d-c588-4b3f-9ac1-ce3c61f82d7a",
+   "title": {
+    "en": "Rui ni Tokimeku Hazuganai!"
+   },
+   "contentRating": "safe",
+   "score": 0.30382013,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "2d6dfcde-805b-4a39-a877-0c05109177e2",
+   "title": {
+    "en": "Seishun Heavy Rotation"
+   },
+   "contentRating": "safe",
+   "score": 0.30209157,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ba5d5f15-d36d-42bb-8cc3-bf0dcf9bac63",
+   "title": {
+    "en": "ABO!! -Which Type Do You Like?-"
+   },
+   "contentRating": "safe",
+   "score": 0.29924724,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a9779082-e501-4f7b-a6d6-e42de4dd9b23",
+   "title": {
+    "ja": "Hashiba Kaede wa Tokimekitai"
+   },
+   "contentRating": "safe",
+   "score": 0.2964845,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6a9f201b-7f91-4596-baf7-505ab198476c",
+   "title": {
+    "en": "Love x Joint"
+   },
+   "contentRating": "safe",
+   "score": 0.29573256,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru"
+   },
+   "contentRating": "safe",
+   "score": 0.2954324,
+   "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
+   "title": {
+    "en": "Ima, Koi wo Shite Imasu"
+   },
+   "contentRating": "safe",
+   "score": 0.29362044,
+   "languages": [
+    "en",
+    "hu",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b9c16c69-df27-4c6e-9676-8a260403758f",
+   "title": {
+    "en": "Uchi no Otouto-domo ga sumimasen"
+   },
+   "contentRating": "safe",
+   "score": 0.29223767,
+   "languages": [
+    "en",
+    "es-la",
+    "vi",
+    "it"
    ]
   },
   {
@@ -39,152 +139,68 @@
    ]
   },
   {
-   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
+   "id": "dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505",
    "title": {
-    "en": "Hana-kun to Koisuru Watashi"
+    "en": "Kimi ga Tokubetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
+   "title": {
+    "en": "Kuzuna Kimi Shika Aisenai"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "es-la",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "34336f60-f2f9-437e-bdf7-74b5d10ab9c8",
+   "title": {
+    "en": "Tenkousei ga Oshi Seiyuu Datta Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
+   "title": {
+    "en": "Natsume to Natsume"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr"
+   ]
+  },
+  {
+   "id": "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e",
+   "title": {
+    "en": "The Prince's Romance Gambit"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "bcf9f938-4d78-446c-8915-3561057f5497",
-   "title": {
-    "en": "Kirarin Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5bf841c-b59f-4a83-afc3-cd1dec38dc6f",
-   "title": {
-    "en": "Bye Bye Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "edb667c3-0c6f-45f9-8d8f-069a3c08143c",
-   "title": {
-    "en": "Yasuko and Kenji"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5594eff-90e2-4e66-b328-c5c78ddd0637",
-   "title": {
-    "en": "Kagehinata"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f13de5ed-7c12-4216-8352-336d01063ae0",
-   "title": {
-    "en": "Quick Witted Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "7e374a67-53ad-4a41-986c-7f65a020f20b",
-   "title": {
-    "en": "Wish Upon a Glass"
-   },
-   "contentRating": "safe",
-   "score": 0.2679444,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
-   "title": {
-    "en": "Hatsu Haru"
-   },
-   "contentRating": "safe",
-   "score": 0.26623347,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "214a442e-4dc4-4de4-9df0-538d18a04f83",
-   "title": {
-    "en": "Damage Danshi"
-   },
-   "contentRating": "safe",
-   "score": 0.26507837,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
-   "title": {
-    "en": "The Tale of Taro Yamada"
-   },
-   "contentRating": "safe",
-   "score": 0.26250637,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
-   "title": {
-    "en": "Hana ni Kedamono"
-   },
-   "contentRating": "safe",
-   "score": 0.25980195,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8f029d5a-27b5-44c6-a4e2-224f381369d3",
-   "title": {
-    "en": "Manin Densha to Watashi to Kare"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb4109f4-cbe8-4b22-b76e-c51be973bbdb",
-   "title": {
-    "en": "8 mm"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:17+00:00"
+ "updatedAt": "2023-12-10T18:20:38+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.2451541,
+   "score": 0.24452384,
    "languages": [
     "pt-br",
     "es",
@@ -24,7 +24,7 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.23973142,
+   "score": 0.23876461,
    "languages": [
     "en",
     "pl"
@@ -36,7 +36,7 @@
     "en": "Chloroform"
    },
    "contentRating": "safe",
-   "score": 0.20757142,
+   "score": 0.20717962,
    "languages": [
     "es-la",
     "en"
@@ -48,7 +48,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.20477499,
+   "score": 0.20443644,
    "languages": [
     "pt-br",
     "ru",
@@ -63,11 +63,34 @@
     "en": "Human Chair"
    },
    "contentRating": "safe",
-   "score": 0.20402643,
+   "score": 0.20324647,
    "languages": [
     "en",
     "pl",
     "uk"
+   ]
+  },
+  {
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
+   "title": {
+    "en": "Material Polka"
+   },
+   "contentRating": "safe",
+   "score": 0.20302771,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.19671912,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -90,17 +113,6 @@
    ]
   },
   {
-   "id": "e7ff17d1-3a46-4c3e-93bb-f6327a80934f",
-   "title": {
-    "en": "Air Pocket"
-   },
-   "contentRating": "safe",
-   "score": 0.19664207,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d52aa653-f66d-4e43-b33e-a3517e8dbd64",
    "title": {
     "en": "Blue Franju"
@@ -114,12 +126,23 @@
    ]
   },
   {
+   "id": "e7ff17d1-3a46-4c3e-93bb-f6327a80934f",
+   "title": {
+    "en": "Air Pocket"
+   },
+   "contentRating": "safe",
+   "score": 0.19664207,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
    "title": {
     "en": "He Was My Brother"
    },
    "contentRating": "safe",
-   "score": 0.19606923,
+   "score": 0.19538224,
    "languages": [
     "en",
     "es-la"
@@ -131,7 +154,7 @@
     "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.19519775,
+   "score": 0.19470337,
    "languages": [
     "en"
    ]
@@ -159,17 +182,6 @@
    ]
   },
   {
-   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
-   "title": {
-    "en": "Merboy"
-   },
-   "contentRating": "safe",
-   "score": 0.19400705,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
    "title": {
     "en": "Peephole"
@@ -182,32 +194,16 @@
    ]
   },
   {
-   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
+   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
    "title": {
-    "en": "Mayonaka Sanpo"
+    "en": "Merboy"
    },
    "contentRating": "safe",
-   "score": 0.18802185,
-   "languages": [
-    "fa",
-    "ar",
-    "fr",
-    "hu",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
-   "title": {
-    "en": "Poison"
-   },
-   "contentRating": "safe",
-   "score": 0.18731716,
+   "score": 0.19400705,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:31+00:00"
+ "updatedAt": "2023-12-10T18:13:14+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Yozakura Quartet"
    },
    "contentRating": "suggestive",
-   "score": 0.17183048,
+   "score": 0.16998124,
    "languages": [
     "vi",
     "en",
@@ -35,7 +35,7 @@
     "en": "Shingan no Yuusha"
    },
    "contentRating": "suggestive",
-   "score": 0.14973602,
+   "score": 0.14833349,
    "languages": [
     "ru",
     "en",
@@ -46,23 +46,12 @@
    ]
   },
   {
-   "id": "8e343c66-adef-42ee-b6bf-ecc3d9b862d0",
-   "title": {
-    "en": "Iyahaya Nantomo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14904636,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fcf1aa35-4891-46a3-9874-f1823ddac415",
    "title": {
     "en": "Sousei no Onmyouji"
    },
    "contentRating": "suggestive",
-   "score": 0.14838035,
+   "score": 0.14740942,
    "languages": [
     "ru",
     "es",
@@ -71,6 +60,17 @@
     "es-la",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "8e343c66-adef-42ee-b6bf-ecc3d9b862d0",
+   "title": {
+    "en": "Iyahaya Nantomo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14705428,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -112,20 +112,6 @@
    ]
   },
   {
-   "id": "56ac4bec-0e20-4fd3-9c12-74eb9cfc9adc",
-   "title": {
-    "en": "Homeland Dropout: The Time I Was Reincarnated as the Fourth Enchanter in the Entire World"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14088984,
-   "languages": [
-    "en",
-    "id",
-    "ru",
-    "vi"
-   ]
-  },
-  {
    "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
    "title": {
     "en": "Orient"
@@ -151,11 +137,25 @@
     "en": "Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
    },
    "contentRating": "suggestive",
-   "score": 0.1393555,
+   "score": 0.13899471,
    "languages": [
     "en",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "56ac4bec-0e20-4fd3-9c12-74eb9cfc9adc",
+   "title": {
+    "en": "Homeland Dropout: The Time I Was Reincarnated as the Fourth Enchanter in the Entire World"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13884576,
+   "languages": [
+    "en",
+    "id",
+    "ru",
+    "vi"
    ]
   },
   {
@@ -223,5 +223,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:40+00:00"
+ "updatedAt": "2023-12-10T18:13:38+00:00"
 }

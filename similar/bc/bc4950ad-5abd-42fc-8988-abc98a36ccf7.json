@@ -11,7 +11,7 @@
     "en": "Children Can't Choose Their Parents"
    },
    "contentRating": "safe",
-   "score": 0.25792864,
+   "score": 0.25631747,
    "languages": [
     "es-la",
     "bg",
@@ -26,7 +26,7 @@
     "en": "Tomorrow -Yasashisa ni Kawaru made-"
    },
    "contentRating": "safe",
-   "score": 0.23412235,
+   "score": 0.23161371,
    "languages": [
     "bg",
     "en"
@@ -38,7 +38,7 @@
     "en": "Kimi wa Boku no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.22530481,
+   "score": 0.22514291,
    "languages": [
     "uk",
     "bg",
@@ -81,7 +81,7 @@
     "en": "The End in Common Ruin"
    },
    "contentRating": "safe",
-   "score": 0.1934885,
+   "score": 0.1930672,
    "languages": [
     "bg",
     "pl",
@@ -95,12 +95,31 @@
     "en": "Fukugaeru"
    },
    "contentRating": "safe",
-   "score": 0.17967577,
+   "score": 0.17925112,
    "languages": [
     "bg",
     "en",
     "pl",
     "de"
+   ]
+  },
+  {
+   "id": "6b10b439-b2ce-4b99-822e-43cc6f1e5951",
+   "title": {
+    "en": "My Taste"
+   },
+   "contentRating": "safe",
+   "score": 0.17665982,
+   "languages": [
+    "it",
+    "pl",
+    "fr",
+    "en",
+    "ru",
+    "tr",
+    "pt-br",
+    "bg",
+    "es-la"
    ]
   },
   {
@@ -124,38 +143,6 @@
    ]
   },
   {
-   "id": "6b10b439-b2ce-4b99-822e-43cc6f1e5951",
-   "title": {
-    "en": "My Taste"
-   },
-   "contentRating": "safe",
-   "score": 0.17665982,
-   "languages": [
-    "it",
-    "pl",
-    "fr",
-    "en",
-    "ru",
-    "tr",
-    "pt-br",
-    "bg",
-    "es-la"
-   ]
-  },
-  {
-   "id": "1a945050-9a18-4e5f-bfbc-1fc70d3ee427",
-   "title": {
-    "en": "Bitter Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.17048313,
-   "languages": [
-    "en",
-    "bg",
-    "pl"
-   ]
-  },
-  {
    "id": "523ecb65-8e86-4a41-9be1-97b554a5bc1b",
    "title": {
     "en": "Shoujo no Tsukurikata"
@@ -166,6 +153,19 @@
     "pl",
     "bg",
     "en"
+   ]
+  },
+  {
+   "id": "1a945050-9a18-4e5f-bfbc-1fc70d3ee427",
+   "title": {
+    "en": "Bitter Trap"
+   },
+   "contentRating": "safe",
+   "score": 0.1691301,
+   "languages": [
+    "en",
+    "bg",
+    "pl"
    ]
   },
   {
@@ -187,7 +187,7 @@
     "en": "Angel's Share"
    },
    "contentRating": "safe",
-   "score": 0.15981859,
+   "score": 0.16074936,
    "languages": [
     "pl",
     "en",
@@ -239,5 +239,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:31+00:00"
+ "updatedAt": "2023-12-10T18:29:22+00:00"
 }

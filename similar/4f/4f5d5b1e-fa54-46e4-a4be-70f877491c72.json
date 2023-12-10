@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "17dbf20a-8430-4af6-be74-9d9a480e932d",
+   "title": {
+    "en": "Sea of Monsters"
+   },
+   "contentRating": "safe",
+   "score": 0.4111453,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "62e989da-8d25-4794-a203-66b50885c1e6",
    "title": {
     "en": "Monster Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.38516968,
+   "score": 0.3845029,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Midwood"
    },
    "contentRating": "safe",
-   "score": 0.3816994,
+   "score": 0.37629,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "The City of Monsters and Treasure"
    },
    "contentRating": "safe",
-   "score": 0.36098605,
+   "score": 0.35827276,
    "languages": [
     "en"
    ]
@@ -44,10 +55,22 @@
     "en": "The Undefeated Newbie"
    },
    "contentRating": "safe",
-   "score": 0.3586778,
+   "score": 0.35727283,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "2842bdca-6f81-495f-aab2-51eaa3a566f0",
+   "title": {
+    "en": "The Lady Who Summons Monsters"
+   },
+   "contentRating": "safe",
+   "score": 0.3557418,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -56,9 +79,21 @@
     "en": "Unemployed Monster Player"
    },
    "contentRating": "safe",
-   "score": 0.35003483,
+   "score": 0.34604862,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b15c94f0-232d-4fe7-9da8-4dbb25dafbb6",
+   "title": {
+    "en": "Monster Pet Evolution"
+   },
+   "contentRating": "safe",
+   "score": 0.34463173,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -67,7 +102,7 @@
     "en": "Becoming a Witch in a World Full of Monster Stories"
    },
    "contentRating": "safe",
-   "score": 0.3428595,
+   "score": 0.33954543,
    "languages": [
     "id",
     "en",
@@ -80,33 +115,23 @@
     "en": "Omnipotent Warrior"
    },
    "contentRating": "safe",
-   "score": 0.33599582,
+   "score": 0.3339172,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
+   "id": "74816f9b-c776-4d9c-9d89-38354e29ebfa",
    "title": {
-    "en": "The Game Invades the Earth"
+    "en": "Uragirareta Boukensha, Andeddo Toshite Yomigaeri Musou Suru"
    },
    "contentRating": "safe",
-   "score": 0.32072783,
+   "score": 0.32853386,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
-   "title": {
-    "en": "Monsters"
-   },
-   "contentRating": "safe",
-   "score": 0.3204698,
-   "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -115,94 +140,60 @@
     "en": "Strange Invasion"
    },
    "contentRating": "safe",
-   "score": 0.32027522,
+   "score": 0.31987634,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7dbc59db-6c77-4084-94ec-a38e0826faab",
+   "id": "668a08b5-7e46-4ce1-9dc5-56a816e6cfb4",
    "title": {
-    "en": "Time Retrograde"
+    "en": "Is this Hunter for Real?"
    },
    "contentRating": "safe",
-   "score": 0.29783663,
+   "score": 0.31894282,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
-   "title": {
-    "en": "Kaiju No. 8"
-   },
-   "contentRating": "safe",
-   "score": 0.29090765,
-   "languages": [
-    "ar",
-    "uk",
-    "pt-br",
-    "it",
-    "id",
-    "ru",
     "fr",
-    "tr",
-    "pl",
-    "fa",
-    "es-la",
     "en",
-    "th"
-   ]
-  },
-  {
-   "id": "9f0f872a-f05b-4ed5-a7e8-2a86442d18e3",
-   "title": {
-    "en": "Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.2880115,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e3792f0d-57a6-455f-90bd-2e68d7ea5a04",
-   "title": {
-    "en": "Monster's Child"
-   },
-   "contentRating": "safe",
-   "score": 0.28598082,
-   "languages": [
-    "ru",
     "pt-br",
-    "en"
+    "id",
+    "ru"
    ]
   },
   {
-   "id": "73635280-e4f9-484f-b4f8-29eccb5c2532",
+   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
    "title": {
-    "en": "The Great Age of Genes"
+    "en": "The Game Invades the Earth"
    },
    "contentRating": "safe",
-   "score": 0.27647159,
+   "score": 0.31748328,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
+   "id": "3c274507-7ac6-407a-b93e-193173a9cca5",
    "title": {
-    "en": "Monster Cage"
+    "en": "Yao Kaifan La!"
    },
    "contentRating": "safe",
-   "score": 0.27586734,
+   "score": 0.31651616,
    "languages": [
     "en",
-    "pl",
-    "bg"
+    "tr"
+   ]
+  },
+  {
+   "id": "c8848bb3-72c3-479c-ae30-eb0009ca506d",
+   "title": {
+    "en": "Help! This Island has Some Monsters!"
+   },
+   "contentRating": "safe",
+   "score": 0.3164528,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:52+00:00"
+ "updatedAt": "2023-12-10T18:16:53+00:00"
 }

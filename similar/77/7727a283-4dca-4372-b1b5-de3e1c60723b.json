@@ -11,7 +11,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.17095989,
+   "score": 0.17191187,
    "languages": [
     "en",
     "pt-br",
@@ -96,12 +96,24 @@
    ]
   },
   {
+   "id": "68824871-4838-4683-a1ca-4b86ff2a6638",
+   "title": {
+    "en": "Yu-Gi-Oh! The Movie - Anime Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.11377603,
+   "languages": [
+    "de",
+    "fr"
+   ]
+  },
+  {
    "id": "fc2a2247-1a29-48e9-a1c5-b45ed7166c9a",
    "title": {
     "en": "Magi Craft Meister"
    },
    "contentRating": "safe",
-   "score": 0.11085113,
+   "score": 0.11091322,
    "languages": [
     "pt-br",
     "en",
@@ -110,6 +122,33 @@
     "es-la",
     "de",
     "id"
+   ]
+  },
+  {
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
+   "title": {
+    "en": "Black Clover"
+   },
+   "contentRating": "safe",
+   "score": 0.10291429,
+   "languages": [
+    "es",
+    "pt-br",
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
    ]
   },
   {
@@ -123,6 +162,25 @@
     "fr",
     "en",
     "de"
+   ]
+  },
+  {
+   "id": "399f4c2b-8405-4c98-ad48-0b645afe5769",
+   "title": {
+    "en": "DEAD ROCK"
+   },
+   "contentRating": "safe",
+   "score": 0.092897736,
+   "languages": [
+    "it",
+    "fr",
+    "pt-br",
+    "de",
+    "ru",
+    "en",
+    "vi",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -145,7 +203,7 @@
     "ja-ro": "Kage no Jitsuryokusha ni Naritakute"
    },
    "contentRating": "safe",
-   "score": 0.08497723,
+   "score": 0.08459793,
    "languages": [
     "pl",
     "uk",
@@ -170,7 +228,7 @@
     "en": "Gakuen Sousei Nekoten!"
    },
    "contentRating": "safe",
-   "score": 0.07813747,
+   "score": 0.07753635,
    "languages": [
     "en",
     "de"
@@ -182,7 +240,7 @@
     "en": "The Scum of the Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.07607832,
+   "score": 0.0763919,
    "languages": [
     "ru",
     "it",
@@ -194,14 +252,20 @@
    ]
   },
   {
-   "id": "e28cdf94-e8c3-41e5-8f9a-19e6983504ac",
+   "id": "958e98b6-c63c-4309-b912-d91a0c9f12e1",
    "title": {
-    "en": "Fantasies"
+    "en": "Manuke na FPS Player ga Isekai e Ochita Baai"
    },
    "contentRating": "safe",
-   "score": 0.07462314,
+   "score": 0.07585069,
    "languages": [
     "en",
+    "tr",
+    "id",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
     "de"
    ]
   },
@@ -211,7 +275,7 @@
     "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.07457404,
+   "score": 0.07458526,
    "languages": [
     "ca",
     "en",
@@ -220,53 +284,7 @@
     "ro",
     "de"
    ]
-  },
-  {
-   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
-   "title": {
-    "en": "Torikago Gakkyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.06966032,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
-   "title": {
-    "en": "Blue Lock"
-   },
-   "contentRating": "safe",
-   "score": 0.06960559,
-   "languages": [
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "pt-br",
-    "en",
-    "it",
-    "tr",
-    "uk",
-    "fr",
-    "hu",
-    "de"
-   ]
-  },
-  {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.06568862,
-   "languages": [
-    "en",
-    "de"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:30+00:00"
+ "updatedAt": "2023-12-10T18:21:17+00:00"
 }

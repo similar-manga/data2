@@ -6,23 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
-   "title": {
-    "en": "Soldier"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21021613,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b76a0506-5168-431b-8acc-fa340a042f93",
    "title": {
     "en": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen"
    },
    "contentRating": "suggestive",
-   "score": 0.20922188,
+   "score": 0.20931242,
    "languages": [
     "en",
     "es-la",
@@ -36,12 +25,23 @@
    ]
   },
   {
+   "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
+   "title": {
+    "en": "Soldier"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2089609,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b7902d2f-6b51-4598-8f20-5d388b9cb202",
    "title": {
     "en": "Ikusa no Ko"
    },
    "contentRating": "suggestive",
-   "score": 0.20861937,
+   "score": 0.20823944,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "Summoned Japan"
    },
    "contentRating": "suggestive",
-   "score": 0.18605673,
+   "score": 0.18547226,
    "languages": [
     "en",
     "id",
@@ -91,7 +91,7 @@
     "en": "Drifters"
    },
    "contentRating": "suggestive",
-   "score": 0.1640141,
+   "score": 0.16315833,
    "languages": [
     "en",
     "pt-br",
@@ -106,7 +106,7 @@
     "en": "Cockroach Buster"
    },
    "contentRating": "suggestive",
-   "score": 0.16037352,
+   "score": 0.16057114,
    "languages": [
     "en",
     "pl",
@@ -133,7 +133,7 @@
     "en": "Dog Soldier"
    },
    "contentRating": "suggestive",
-   "score": 0.15717748,
+   "score": 0.15648176,
    "languages": [
     "en"
    ]
@@ -144,7 +144,7 @@
     "en": "Psycho x Past: Ryouki Satsujin Sennyuu Sousa"
    },
    "contentRating": "suggestive",
-   "score": 0.15556426,
+   "score": 0.15565383,
    "languages": [
     "en"
    ]
@@ -172,17 +172,6 @@
    ]
   },
   {
-   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
-   "title": {
-    "en": "Higanjima - 48 Nichigo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1524417,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "0bfd9934-e738-44c0-adcf-dc7962f7d76c",
    "title": {
     "en": "Vaia'n Maiden"
@@ -204,7 +193,18 @@
     "zh-hk",
     "en"
    ]
+  },
+  {
+   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
+   "title": {
+    "en": "Higanjima - 48 Nichigo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15153632,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:36+00:00"
+ "updatedAt": "2023-12-10T18:29:34+00:00"
 }

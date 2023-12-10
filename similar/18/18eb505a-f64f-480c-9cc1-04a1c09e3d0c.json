@@ -11,7 +11,7 @@
     "en": "Regressing With the King's Power"
    },
    "contentRating": "safe",
-   "score": 0.27010512,
+   "score": 0.27252278,
    "languages": [
     "fr",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Ishi ni Usubeni, Tetsu ni Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.26583645,
+   "score": 0.26473486,
    "languages": [
     "vi",
     "en",
@@ -40,7 +40,7 @@
     "en": "Rich Player"
    },
    "contentRating": "safe",
-   "score": 0.26410306,
+   "score": 0.25667152,
    "languages": [
     "en",
     "pl",
@@ -56,7 +56,7 @@
     "en": "Wan Gu Shen Wang"
    },
    "contentRating": "safe",
-   "score": 0.24654502,
+   "score": 0.2470722,
    "languages": [
     "fr",
     "tr",
@@ -72,7 +72,7 @@
     "en": "Re:Life Player"
    },
    "contentRating": "safe",
-   "score": 0.24551421,
+   "score": 0.24295877,
    "languages": [
     "pt-br",
     "en",
@@ -81,18 +81,29 @@
    ]
   },
   {
-   "id": "cac1a74c-0b5f-498a-8472-05f0636e1b4d",
+   "id": "6994b74a-2ecd-4a54-8d23-d2adff5e0b0c",
    "title": {
-    "en": "Return to Player"
+    "en": "Player"
    },
    "contentRating": "safe",
-   "score": 0.2439361,
+   "score": 0.24159455,
    "languages": [
-    "id",
-    "fr",
-    "es-la",
+    "ru",
     "en",
-    "pl"
+    "fr"
+   ]
+  },
+  {
+   "id": "15f687c2-f3ae-4291-864e-45d0979b13db",
+   "title": {
+    "en": "Insanely Talented Player"
+   },
+   "contentRating": "safe",
+   "score": 0.2415859,
+   "languages": [
+    "en",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -101,7 +112,7 @@
     "en": "Existence"
    },
    "contentRating": "safe",
-   "score": 0.23995179,
+   "score": 0.2385194,
    "languages": [
     "pt-br",
     "ar",
@@ -117,10 +128,42 @@
     "en": "Reincarnated Escort Warrior"
    },
    "contentRating": "safe",
-   "score": 0.23992564,
+   "score": 0.23830616,
    "languages": [
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "a796fb50-cdc9-4c15-a48d-bc1d733d89b2",
+   "title": {
+    "en": "The Player Who Can't Level Up"
+   },
+   "contentRating": "safe",
+   "score": 0.23793767,
+   "languages": [
+    "en",
+    "id",
+    "pl",
+    "pt-br",
+    "fr",
+    "cs",
+    "de"
+   ]
+  },
+  {
+   "id": "cac1a74c-0b5f-498a-8472-05f0636e1b4d",
+   "title": {
+    "en": "Return to Player"
+   },
+   "contentRating": "safe",
+   "score": 0.23674005,
+   "languages": [
+    "id",
+    "fr",
+    "es-la",
+    "en",
+    "pl"
    ]
   },
   {
@@ -129,7 +172,7 @@
     "en": "Divine Emperor"
    },
    "contentRating": "safe",
-   "score": 0.23632169,
+   "score": 0.23350164,
    "languages": [
     "en",
     "it",
@@ -143,7 +186,7 @@
     "en": "They Say I Am the King of the Future"
    },
    "contentRating": "safe",
-   "score": 0.22987194,
+   "score": 0.23103096,
    "languages": [
     "en",
     "fr"
@@ -155,7 +198,7 @@
     "en": "Absolute Necromancer"
    },
    "contentRating": "safe",
-   "score": 0.22928362,
+   "score": 0.22910927,
    "languages": [
     "pt-br",
     "fr",
@@ -176,61 +219,18 @@
    ]
   },
   {
-   "id": "a4337a6a-b57a-4819-8292-c03352afc5cb",
+   "id": "5f6de04c-8465-4bb1-81a6-c71f8ccbd08e",
    "title": {
-    "en": "The Dungeon Cleaning Life of a Once Genius Hunter"
+    "en": "Bizarre Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.2282397,
+   "score": 0.22879884,
    "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "f817d19e-e377-4fe3-b3e7-a334e80fb6f7",
-   "title": {
-    "en": "How to Live as a Villain"
-   },
-   "contentRating": "safe",
-   "score": 0.22801544,
-   "languages": [
-    "pt-br",
+    "ar",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "43547c04-8fa2-49ce-84b4-b0424dd98bd6",
-   "title": {
-    "en": "Legendary Youngest Son of the Marquis House"
-   },
-   "contentRating": "safe",
-   "score": 0.22792116,
-   "languages": [
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "14b81959-13ed-46eb-a277-da66f672acb5",
-   "title": {
-    "en": "The World After the Fall"
-   },
-   "contentRating": "safe",
-   "score": 0.22418985,
-   "languages": [
-    "it",
-    "en",
-    "vi",
-    "fr",
-    "pl",
-    "fa",
-    "id",
-    "uk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:43+00:00"
+ "updatedAt": "2023-12-10T18:10:59+00:00"
 }

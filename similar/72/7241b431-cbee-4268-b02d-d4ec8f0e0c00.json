@@ -11,7 +11,7 @@
     "en": "Our Mystery Notes: St. Clarice Detectives"
    },
    "contentRating": "suggestive",
-   "score": 0.19837478
+   "score": 0.19913505
   },
   {
    "id": "b26e8021-c35f-4057-9ddc-2fa534f49b7a",
@@ -19,7 +19,7 @@
     "en": "Re:LIVE"
    },
    "contentRating": "suggestive",
-   "score": 0.17813498,
+   "score": 0.19035722,
    "languages": [
     "it",
     "pt-br",
@@ -40,7 +40,7 @@
     "en": "Detective Akechi in a frenzy."
    },
    "contentRating": "suggestive",
-   "score": 0.13302669,
+   "score": 0.13280465,
    "languages": [
     "es",
     "en"
@@ -50,14 +50,6 @@
    "id": "6f164bc5-87f6-4b30-bfcc-7d748fd14f3e",
    "title": {
     "en": "Osakan Family"
-   },
-   "contentRating": "suggestive",
-   "score": 0.11664238
-  },
-  {
-   "id": "76ee4f54-e2a0-4e0e-b2ce-68fcc99c9769",
-   "title": {
-    "en": "Brave Police J-Decker"
    },
    "contentRating": "suggestive",
    "score": 0.11664238
@@ -79,40 +71,39 @@
    "score": 0.11664238
   },
   {
+   "id": "76ee4f54-e2a0-4e0e-b2ce-68fcc99c9769",
+   "title": {
+    "en": "Brave Police J-Decker"
+   },
+   "contentRating": "suggestive",
+   "score": 0.11664238
+  },
+  {
    "id": "e48feae9-8f52-4638-b924-d2e2ad869133",
    "title": {
     "en": "Burai The Kid"
    },
    "contentRating": "suggestive",
-   "score": 0.11642467
+   "score": 0.11659698
   },
   {
-   "id": "7e3d081f-30f2-475d-83bb-e247cffea3d6",
+   "id": "cf0dc384-99c6-4292-b7d5-4c9211f4423b",
    "title": {
-    "en": "Isshiki-san wa Koi wo shiritai."
+    "en": "Shoutai Fumei to Kyoufu"
    },
    "contentRating": "suggestive",
    "score": 0.10101526,
    "languages": [
     "vi",
-    "en",
-    "es-la",
     "id",
-    "pt-br"
+    "pt-br",
+    "en"
    ]
   },
   {
    "id": "aa966c66-a6d3-4871-ae61-6ec5688225d9",
    "title": {
     "en": "Tasuke, the Samurai Cop"
-   },
-   "contentRating": "suggestive",
-   "score": 0.10101526
-  },
-  {
-   "id": "081460bc-61b0-4ee8-8c11-61f34d16cd39",
-   "title": {
-    "en": "Silent Movie"
    },
    "contentRating": "suggestive",
    "score": 0.10101526
@@ -136,42 +127,56 @@
    ]
   },
   {
-   "id": "cf0dc384-99c6-4292-b7d5-4c9211f4423b",
+   "id": "7e3d081f-30f2-475d-83bb-e247cffea3d6",
    "title": {
-    "en": "Shoutai Fumei to Kyoufu"
+    "en": "Isshiki-san wa Koi wo shiritai."
    },
    "contentRating": "suggestive",
    "score": 0.10101526,
    "languages": [
     "vi",
+    "en",
+    "es-la",
     "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "081460bc-61b0-4ee8-8c11-61f34d16cd39",
+   "title": {
+    "en": "Silent Movie"
+   },
+   "contentRating": "suggestive",
+   "score": 0.10101526
+  },
+  {
+   "id": "42c57bae-fc53-4aa1-b2e3-0c51e30b0521",
+   "title": {
+    "en": "Girls Who Report The Color Of Their Underwear To Me Every Day For Some Reason"
+   },
+   "contentRating": "suggestive",
+   "score": 0.090350784,
+   "languages": [
+    "vi",
     "pt-br",
-    "en"
+    "it",
+    "zh",
+    "en",
+    "fr",
+    "id"
    ]
   },
   {
-   "id": "77e86805-3b9e-4518-b873-f07dcb05fe65",
+   "id": "b6507dcb-d981-4a55-a4a5-bea32e9f10e4",
    "title": {
-    "en": "The Fan \u0026 M Museum"
+    "en": "Takuan and Batsu's Daily Demon Diary"
    },
    "contentRating": "suggestive",
    "score": 0.090350784,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a51fcac5-47a6-47aa-81d1-b10fefdc80ad",
-   "title": {
-    "en": "Ningen Card"
-   },
-   "contentRating": "suggestive",
-   "score": 0.090350784,
-   "languages": [
-    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:19+00:00"
+ "updatedAt": "2023-12-10T18:20:43+00:00"
 }

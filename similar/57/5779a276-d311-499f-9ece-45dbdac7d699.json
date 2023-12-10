@@ -6,14 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "ab3a7af5-bb80-4db9-ae3b-898d0e9d531c",
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
    "title": {
-    "en": "My Young Master"
+    "en": "Cold Game"
    },
    "contentRating": "safe",
-   "score": 0.244444,
+   "score": 0.25932628,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -22,7 +23,30 @@
     "en": "Prince of the Night"
    },
    "contentRating": "safe",
-   "score": 0.24418676,
+   "score": 0.24430065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
+   "title": {
+    "en": "Bell Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.2412199,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "ab3a7af5-bb80-4db9-ae3b-898d0e9d531c",
+   "title": {
+    "en": "My Young Master"
+   },
+   "contentRating": "safe",
+   "score": 0.2405798,
    "languages": [
     "en"
    ]
@@ -33,7 +57,18 @@
     "en": "Akatoki no Yami"
    },
    "contentRating": "safe",
-   "score": 0.22708672,
+   "score": 0.22588186,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "93425f9a-991a-477b-bd3a-3a64463bce32",
+   "title": {
+    "en": "Gekiai ~Motto Motometai"
+   },
+   "contentRating": "safe",
+   "score": 0.22203608,
    "languages": [
     "en"
    ]
@@ -44,10 +79,21 @@
     "en": "The Prince in Game Is Hard to Raise"
    },
    "contentRating": "safe",
-   "score": 0.22447447,
+   "score": 0.22075658,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "739dd80f-1fad-4980-b944-927b45331770",
+   "title": {
+    "en": "Shiro to Kuro no Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.2182072,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -56,7 +102,30 @@
     "en": "Eila to Totsukuni no Ou"
    },
    "contentRating": "safe",
-   "score": 0.21534088
+   "score": 0.21410319
+  },
+  {
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
+   "title": {
+    "en": "Detective Kouko Feels Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.21360926,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dd35dd2c-0603-49f4-9710-7c0da1784219",
+   "title": {
+    "en": "I Raised a Sickly Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.21276325,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "711c7ca2-e528-4f9a-bc7b-936075cdc0ed",
@@ -64,7 +133,7 @@
     "en": "House of Riddles"
    },
    "contentRating": "safe",
-   "score": 0.21287267,
+   "score": 0.21243174,
    "languages": [
     "en"
    ]
@@ -75,112 +144,41 @@
     "en": "Raise A Mink As My Wife"
    },
    "contentRating": "safe",
-   "score": 0.21132514,
+   "score": 0.20949431,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d547ae22-525e-45b7-8eda-f149b97a530e",
+   "id": "02f1158a-af1f-4559-9ea0-54dcadea7d04",
    "title": {
-    "en": "Ikusei Game ni Tensei Shita no ni, Naze ka Kishitachi ni Dekiaisaretemasu"
+    "en": "Amber Icy Days"
    },
    "contentRating": "safe",
-   "score": 0.20994796
-  },
-  {
-   "id": "24cae2a0-bb5f-446e-a1f4-1c3b7c621505",
-   "title": {
-    "en": "Akuyaku Reijou wa Kiraware Kizoku ni Koi wo suru"
-   },
-   "contentRating": "safe",
-   "score": 0.20871021,
-   "languages": [
-    "id",
-    "en",
-    "th"
-   ]
-  },
-  {
-   "id": "3e1f12de-d97d-4baa-b701-0987ab2e1bb3",
-   "title": {
-    "en": "Aries"
-   },
-   "contentRating": "safe",
-   "score": 0.20428924,
+   "score": 0.20943205,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+   "id": "1c3b03a7-a923-4c50-942d-5a60b006ac1a",
    "title": {
-    "en": "Kamisama Game"
+    "en": "Kagami no Miko Ayaka"
    },
    "contentRating": "safe",
-   "score": 0.20266774,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20869681
   },
   {
-   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
+   "id": "849e708a-9372-4451-bb4d-3ffc07a77835",
    "title": {
-    "en": "Anne the Lover"
+    "en": "Crown Prince Has a Sweetheart"
    },
    "contentRating": "safe",
-   "score": 0.20232686,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2da06be0-e6a9-4523-8e7a-b72b83785150",
-   "title": {
-    "en": "Trapped"
-   },
-   "contentRating": "safe",
-   "score": 0.20106275,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f56af0e4-df18-4ae9-b177-0e336f932a79",
-   "title": {
-    "en": "Prince's Pampered Wife"
-   },
-   "contentRating": "safe",
-   "score": 0.20020424,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ba166b5-c954-4ffe-9114-130d0c2b7dea",
-   "title": {
-    "en": "Kao no Nai Otoko"
-   },
-   "contentRating": "safe",
-   "score": 0.19877397,
-   "languages": [
-    "pl",
-    "en",
-    "bg"
-   ]
-  },
-  {
-   "id": "4bb27ee8-2aa9-4c43-a7bf-176de85e3a90",
-   "title": {
-    "en": "The Prince Regent's Concubines"
-   },
-   "contentRating": "safe",
-   "score": 0.19678865,
+   "score": 0.20778053,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:12+00:00"
+ "updatedAt": "2023-12-10T18:17:47+00:00"
 }

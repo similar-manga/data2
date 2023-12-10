@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
+   "title": {
+    "en": "Kimi no Yokogao wo Miteita"
+   },
+   "contentRating": "safe",
+   "score": 0.32964298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
    "title": {
     "en": "Orgel Garden"
    },
    "contentRating": "safe",
-   "score": 0.32862902,
+   "score": 0.32918906,
    "languages": [
     "en"
    ]
@@ -22,18 +33,24 @@
     "en": "Usotsuki na Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.30551282,
+   "score": 0.305794,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1772da10-bcb0-452a-a798-51f42d031dc6",
+   "id": "935c50ba-91ce-4fda-852a-a3755e7b5f05",
    "title": {
-    "en": "Daughter of the General"
+    "en": "Mechanical Marie"
    },
    "contentRating": "safe",
-   "score": 0.2993919
+   "score": 0.30216512,
+   "languages": [
+    "es-la",
+    "id",
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "49d931d7-d9ac-4cc9-8440-7de4514bb985",
@@ -41,18 +58,60 @@
     "en": "Maria-ppoino!"
    },
    "contentRating": "safe",
-   "score": 0.29894888
+   "score": 0.29999802
   },
   {
-   "id": "cb2a501c-d42e-4898-a4c3-ac9039ce18cf",
+   "id": "1772da10-bcb0-452a-a798-51f42d031dc6",
    "title": {
-    "en": "Ardour"
+    "en": "Daughter of the General"
    },
    "contentRating": "safe",
-   "score": 0.28160772,
+   "score": 0.2974851
+  },
+  {
+   "id": "f4baa5be-99f4-483b-9c2f-90d8246ba855",
+   "title": {
+    "en": "Ichigo Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.2974764
+  },
+  {
+   "id": "7432ad39-3868-40a4-8063-2280f4163454",
+   "title": {
+    "en": "Lonely Ruka"
+   },
+   "contentRating": "safe",
+   "score": 0.29312572
+  },
+  {
+   "id": "b0f80453-d43c-481d-84e2-02b1d1f95b13",
+   "title": {
+    "en": "Aikatsu! Secret Story"
+   },
+   "contentRating": "safe",
+   "score": 0.28800285,
    "languages": [
-    "en",
-    "ru"
+    "en"
+   ]
+  },
+  {
+   "id": "45cc7968-da1b-4c94-b96c-1ea72393db92",
+   "title": {
+    "en": "Shaving of Life"
+   },
+   "contentRating": "safe",
+   "score": 0.28532875
+  },
+  {
+   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
+   "title": {
+    "en": "Dress-up Yuka-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.28532875,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -61,7 +120,38 @@
     "en": "Turning the World into an Enemy"
    },
    "contentRating": "safe",
-   "score": 0.27884024
+   "score": 0.2841345
+  },
+  {
+   "id": "cb2a501c-d42e-4898-a4c3-ac9039ce18cf",
+   "title": {
+    "en": "Ardour"
+   },
+   "contentRating": "safe",
+   "score": 0.28129277,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "c4656b61-b6f0-4313-86f3-4bb2c7bbafab",
+   "title": {
+    "en": "Tsugi wa Sasete ne, hajimete"
+   },
+   "contentRating": "safe",
+   "score": 0.28128368,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "515f9c8d-1ea7-45c7-8c52-a083953ad3c7",
+   "title": {
+    "en": "4x4 ~Otonari-san wa 4B Danshi~"
+   },
+   "contentRating": "safe",
+   "score": 0.28082338
   },
   {
    "id": "bce08e6d-e135-40ce-867c-bc75c7ee0d65",
@@ -69,104 +159,8 @@
     "en": "Forbidden Kiss"
    },
    "contentRating": "safe",
-   "score": 0.2777169
-  },
-  {
-   "id": "c98d2953-2aad-4505-abd2-97da2579bedf",
-   "title": {
-    "en": "12-Sai"
-   },
-   "contentRating": "safe",
-   "score": 0.27671394,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
-   "title": {
-    "en": "The Tale of Taro Yamada"
-   },
-   "contentRating": "safe",
-   "score": 0.27516866,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76583498-78df-43ef-ab3f-c9fb4b6b6d05",
-   "title": {
-    "en": "Aka-chan to Boku"
-   },
-   "contentRating": "safe",
-   "score": 0.27247798,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
-   "title": {
-    "en": "Hatsu Haru"
-   },
-   "contentRating": "safe",
-   "score": 0.26997232,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.2641631,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
-   "title": {
-    "en": "Glass Mask"
-   },
-   "contentRating": "safe",
-   "score": 0.2641631,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
-   "title": {
-    "en": "Say Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2616798,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd2139ba-0855-4367-98dc-565bfa42cafc",
-   "title": {
-    "en": "Koi. - Itoshii Itoshii to Iu Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.2616798
-  },
-  {
-   "id": "d7ca6289-8b95-4c80-a3b7-f12b050d2f05",
-   "title": {
-    "en": "Crossroad"
-   },
-   "contentRating": "safe",
-   "score": 0.2616798
+   "score": 0.27744463
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:47+00:00"
 }

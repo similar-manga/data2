@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0a7a9e60-9160-4883-8b75-803a12108a0f",
+   "title": {
+    "en": "777"
+   },
+   "contentRating": "safe",
+   "score": 0.30528715,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
+   "title": {
+    "en": "Surviving Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.2814744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "976322f5-4f8a-4617-b850-c054b710ff24",
    "title": {
     "en": "+Again"
    },
    "contentRating": "safe",
-   "score": 0.2722935,
+   "score": 0.2716371,
    "languages": [
     "en"
    ]
@@ -33,10 +56,21 @@
     "en": "Bankara-san ga Tooru"
    },
    "contentRating": "safe",
-   "score": 0.2358628,
+   "score": 0.23573968,
    "languages": [
     "pl",
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "7511b858-06e5-414d-b343-467ea468efdf",
+   "title": {
+    "en": "Black Warriors"
+   },
+   "contentRating": "safe",
+   "score": 0.23357965,
+   "languages": [
     "en"
    ]
   },
@@ -46,7 +80,7 @@
     "en": "Saint Seiya - Next Dimension"
    },
    "contentRating": "safe",
-   "score": 0.23354654,
+   "score": 0.2334721,
    "languages": [
     "pt-br",
     "es",
@@ -55,12 +89,39 @@
    ]
   },
   {
-   "id": "7511b858-06e5-414d-b343-467ea468efdf",
+   "id": "fe6d0469-2f2f-4d20-ac83-5172a662e3b5",
    "title": {
-    "en": "Black Warriors"
+    "en": "Kung Fu Tao"
    },
    "contentRating": "safe",
-   "score": 0.23342769,
+   "score": 0.22857885,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e61725ac-2f53-4038-b887-a1e852f81a5f",
+   "title": {
+    "en": "Enma Gavel"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "id",
+    "ru",
+    "en",
+    "es-la",
+    "ca",
+    "pl"
+   ]
+  },
+  {
+   "id": "2dcd7c11-d7d6-458f-8c02-87f7d70d525d",
+   "title": {
+    "en": "Judgement Primary School"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
    "languages": [
     "en"
    ]
@@ -89,19 +150,15 @@
    ]
   },
   {
-   "id": "e61725ac-2f53-4038-b887-a1e852f81a5f",
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
    "title": {
-    "en": "Enma Gavel"
+    "en": "Red Blue"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
-    "id",
-    "ru",
     "en",
-    "es-la",
-    "ca",
-    "pl"
+    "pt-br"
    ]
   },
   {
@@ -118,17 +175,6 @@
    ]
   },
   {
-   "id": "5cf2da4c-5df3-4ad8-b81d-edb251cb7bce",
-   "title": {
-    "en": "Majima-kun Goes All Out!!"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "874fd5f1-78cb-48a4-b018-b64862520a3b",
    "title": {
     "en": "Tattoo Hearts"
@@ -140,63 +186,16 @@
    ]
   },
   {
-   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
+   "id": "5cf2da4c-5df3-4ad8-b81d-edb251cb7bce",
    "title": {
-    "en": "Brothers"
+    "en": "Majima-kun Goes All Out!!"
    },
    "contentRating": "safe",
-   "score": 0.21432751,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1436ef54-436d-49d8-b1a7-15ffe7d08123",
-   "title": {
-    "en": "Blood Type V"
-   },
-   "contentRating": "safe",
-   "score": 0.21321936,
-   "languages": [
-    "it",
-    "en",
-    "ro",
-    "pl"
-   ]
-  },
-  {
-   "id": "ab5a8b56-af2e-458a-822a-4722c1d0b123",
-   "title": {
-    "en": "Kuzumoto-san Chi no Yonkyoudai"
-   },
-   "contentRating": "safe",
-   "score": 0.21291697,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1d484ae6-4379-43e7-8b5a-9509a9f5d86f",
-   "title": {
-    "en": "Life Ho"
-   },
-   "contentRating": "safe",
-   "score": 0.20898345,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2b034a9-a996-41b8-985e-763b9ce40369",
-   "title": {
-    "en": "Youkai no Oisha-san"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.22131334,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:28+00:00"
+ "updatedAt": "2023-12-10T18:10:18+00:00"
 }

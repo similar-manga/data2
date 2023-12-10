@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.30058402,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
     "en": "The Tiger of Omertà"
    },
    "contentRating": "safe",
-   "score": 0.30359083,
+   "score": 0.29834554,
    "languages": [
     "fr",
     "en"
@@ -23,7 +35,7 @@
     "en": "Crown Gear"
    },
    "contentRating": "safe",
-   "score": 0.25872165,
+   "score": 0.2584098,
    "languages": [
     "en",
     "hu"
@@ -35,15 +47,27 @@
     "en": "Chaos Rings"
    },
    "contentRating": "safe",
-   "score": 0.25184,
+   "score": 0.25085267,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2970916f-3710-4344-a236-b67ccc50a965",
+   "id": "92001131-f414-4e3d-ad78-cc85d467265d",
    "title": {
-    "en": "Bengo!"
+    "en": "Macho ★ Max"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "f9d854ea-6787-40f5-a30c-5d72eef9e0cb",
+   "title": {
+    "en": "Junket Bank"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -63,12 +87,23 @@
    ]
   },
   {
+   "id": "2970916f-3710-4344-a236-b67ccc50a965",
+   "title": {
+    "en": "Bengo!"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
    "title": {
     "en": "Eiyuu Densetsu - Sora no Kiseki"
    },
    "contentRating": "safe",
-   "score": 0.23290399,
+   "score": 0.23243551,
    "languages": [
     "en"
    ]
@@ -79,7 +114,7 @@
     "en": "Goodbye Mr. Bunny"
    },
    "contentRating": "safe",
-   "score": 0.2173091,
+   "score": 0.22332841,
    "languages": [
     "pl",
     "pt-br",
@@ -87,17 +122,49 @@
    ]
   },
   {
-   "id": "b3d1b2e6-6a61-4263-b300-d9e367134010",
+   "id": "42a9a639-567d-46c0-a666-1278a4c7745a",
    "title": {
-    "en": "Doll-Kara"
+    "en": "Betsu ni Houridashita Waje ja Nai n Dakedo.... - Mikan no Manga ga Aru Riyuu"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.22131334,
    "languages": [
     "en",
-    "ru",
-    "fr",
+    "fr"
+   ]
+  },
+  {
+   "id": "c5b2a1ce-051e-4e8e-a2fa-6a2866b1784a",
+   "title": {
+    "en": "Batman: Justice Buster"
+   },
+   "contentRating": "safe",
+   "score": 0.20647804,
+   "languages": [
+    "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "5cc2520e-3f8a-4d58-ba61-c19eee1c9a96",
+   "title": {
+    "en": "Osen"
+   },
+   "contentRating": "safe",
+   "score": 0.20357195,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a7a0d75-9438-4c0b-a399-0f3a9f1d27bc",
+   "title": {
+    "en": "Zebraman"
+   },
+   "contentRating": "safe",
+   "score": 0.20289294,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -112,95 +179,16 @@
    ]
   },
   {
-   "id": "ea875336-eaad-42c0-ad62-c0986af975ad",
+   "id": "42a3033e-2dd4-4591-a153-9201bccf313f",
    "title": {
-    "en": "Asahinagu"
+    "en": "Aoki Ao no Atopos"
    },
    "contentRating": "safe",
-   "score": 0.19945505,
+   "score": 0.20203052,
    "languages": [
-    "ru",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "d5208b9d-5233-4672-bf5c-6e7d23767e37",
-   "title": {
-    "en": "J\u003c-\u003eM"
-   },
-   "contentRating": "safe",
-   "score": 0.19734658,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
-   "title": {
-    "en": "Bungou Stray Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.19606638,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en",
-    "pl",
-    "fr",
-    "id",
-    "es-la",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "7a4ff526-0aea-432b-872c-863493525ddf",
-   "title": {
-    "en": "Hero Company"
-   },
-   "contentRating": "safe",
-   "score": 0.19252805,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "26101e7c-6ac9-47f1-8aaa-db28604177c2",
-   "title": {
-    "en": "Jalapeño"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b364fcd-224c-403d-8a3c-c999e8c3a849",
-   "title": {
-    "en": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "333f5f0b-473b-4184-aa72-23af3c8a3a90",
-   "title": {
-    "en": "Moonlight Mile"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "it",
-    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:18+00:00"
+ "updatedAt": "2023-12-10T18:20:43+00:00"
 }

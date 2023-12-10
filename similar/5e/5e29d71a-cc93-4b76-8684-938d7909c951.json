@@ -11,7 +11,7 @@
     "en": "Kanojo wa Mizumizushii"
    },
    "contentRating": "safe",
-   "score": 0.3100367,
+   "score": 0.31261963,
    "languages": [
     "en",
     "it",
@@ -24,35 +24,10 @@
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.30580547,
+   "score": 0.30481225,
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "f4a3f498-4751-4821-8560-df0dbcacb194",
-   "title": {
-    "en": "Ore no Imouto wa Shinonome-san"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "zh-hk",
-    "de",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
-   "title": {
-    "en": "Toufuu (Fu)kenbunroku"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -68,6 +43,17 @@
     "ru",
     "pt-br",
     "id"
+   ]
+  },
+  {
+   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
+   "title": {
+    "en": "Toufuu (Fu)kenbunroku"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -90,12 +76,26 @@
    ]
   },
   {
+   "id": "f4a3f498-4751-4821-8560-df0dbcacb194",
+   "title": {
+    "en": "Ore no Imouto wa Shinonome-san"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "zh-hk",
+    "de",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "d065b454-df51-42d7-9599-2cf400e6c867",
    "title": {
     "en": "Tsuki ga Kirei desu ne"
    },
    "contentRating": "safe",
-   "score": 0.2777077,
+   "score": 0.2785912,
    "languages": [
     "pt-br",
     "es-la",
@@ -111,10 +111,24 @@
     "en": "Motokano to no Jirettai Gisou Kekkon"
    },
    "contentRating": "safe",
-   "score": 0.27467188,
+   "score": 0.27511382,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "061ef842-fc90-49c1-bf1c-9106b8660dfb",
+   "title": {
+    "en": "Tayutau Kemuri wa Tsukamenai"
+   },
+   "contentRating": "safe",
+   "score": 0.26853916,
+   "languages": [
+    "pt-br",
+    "id",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -123,7 +137,7 @@
     "en": "Terrace House Dust"
    },
    "contentRating": "safe",
-   "score": 0.26938403,
+   "score": 0.26821128,
    "languages": [
     "en"
    ]
@@ -134,9 +148,21 @@
     "en": "The Things I Hate About You"
    },
    "contentRating": "safe",
-   "score": 0.26797602,
+   "score": 0.26738247,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "8d186d3b-1076-40a7-b61b-86a3a00d43b5",
+   "title": {
+    "en": "Boku to Shishou no Himitsu Koubou"
+   },
+   "contentRating": "safe",
+   "score": 0.2659928,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -146,7 +172,18 @@
     "en": "No Strategy, No Bullshit."
    },
    "contentRating": "safe",
-   "score": 0.25963634,
+   "score": 0.2584967,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "29887775-6909-40ab-a826-f459c4fbc617",
+   "title": {
+    "en": "Kanojo wa Rokurokubi - Drafts"
+   },
+   "contentRating": "safe",
+   "score": 0.25572664,
    "languages": [
     "en"
    ]
@@ -157,7 +194,7 @@
     "en": "Kimi to Picopico (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.25655273,
+   "score": 0.25549594,
    "languages": [
     "en"
    ]
@@ -174,42 +211,7 @@
     "id",
     "en"
    ]
-  },
-  {
-   "id": "113c347d-4356-4e85-8668-5d795ab2c897",
-   "title": {
-    "en": "Batcage."
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "vi",
-    "th",
-    "en"
-   ]
-  },
-  {
-   "id": "dc30f1e2-506b-4e51-8ad5-e2b77ede5949",
-   "title": {
-    "en": "Lemonade Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "862b052b-1c72-42a2-9ffa-f6f79451b26c",
-   "title": {
-    "en": "365 Nichi no Koubou"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:30+00:00"
+ "updatedAt": "2023-12-10T18:18:32+00:00"
 }

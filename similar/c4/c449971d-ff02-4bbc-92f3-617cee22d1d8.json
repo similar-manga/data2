@@ -11,7 +11,7 @@
     "en": "BaDoom"
    },
    "contentRating": "safe",
-   "score": 0.29740587,
+   "score": 0.29327032,
    "languages": [
     "en",
     "pt-br"
@@ -26,14 +26,6 @@
    "score": 0.20203052
   },
   {
-   "id": "23a81331-4907-444e-9977-359d87c2b51a",
-   "title": {
-    "en": "Level:Faith"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298
-  },
-  {
    "id": "59dcfb3f-4eb9-4eca-bd7f-46ff84452b31",
    "title": {
     "en": "Rebirth: Project Yuna"
@@ -45,14 +37,34 @@
    ]
   },
   {
+   "id": "23a81331-4907-444e-9977-359d87c2b51a",
+   "title": {
+    "en": "Level:Faith"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298
+  },
+  {
    "id": "f91b78f5-9570-43fd-b5ff-eaa6edd4f9a5",
    "title": {
     "en": "Picking Up Beast Girls In The End Times"
    },
    "contentRating": "safe",
-   "score": 0.18950234,
+   "score": 0.1900726,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4f127c41-bd56-4161-aee5-2c55746993f8",
+   "title": {
+    "en": "Lone"
+   },
+   "contentRating": "safe",
+   "score": 0.18868382,
+   "languages": [
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -61,7 +73,18 @@
     "en": "Psycho-Pass: Sinners of the System Case 3 - Beyond love and hate"
    },
    "contentRating": "safe",
-   "score": 0.17768115,
+   "score": 0.17621285,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "27905230-6b55-4ef1-a1ef-f3c2d97448d7",
+   "title": {
+    "en": "Quickdraw!"
+   },
+   "contentRating": "safe",
+   "score": 0.17373386,
    "languages": [
     "en"
    ]
@@ -72,7 +95,7 @@
     "en": "Girl Meat Girl"
    },
    "contentRating": "safe",
-   "score": 0.17288175
+   "score": 0.1734957
   },
   {
    "id": "364a5196-1c31-4e9a-a36c-683910b8fb3d",
@@ -80,7 +103,18 @@
     "en": "Humanities Blade"
    },
    "contentRating": "safe",
-   "score": 0.17193763,
+   "score": 0.17068213,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9ad26155-b759-4bf9-a391-5efced58024b",
+   "title": {
+    "en": "Maimaimaigoen"
+   },
+   "contentRating": "safe",
+   "score": 0.16942774,
    "languages": [
     "en"
    ]
@@ -91,19 +125,11 @@
     "en": "Sukaraiti"
    },
    "contentRating": "safe",
-   "score": 0.16956702,
+   "score": 0.16874793,
    "languages": [
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "336b68bb-3ad7-45b5-861a-7a3f1f50bb69",
-   "title": {
-    "en": "Omniscience"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
   },
   {
    "id": "5911cf90-141b-476a-9485-5aca5e6aec5b",
@@ -114,17 +140,6 @@
    "score": 0.16495723
   },
   {
-   "id": "0f96b3e1-a2eb-4d09-8db1-9c0b9926001f",
-   "title": {
-    "en": "Angel Fusion"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c826cc8f-3e29-4520-b8f7-13b1198b396b",
    "title": {
     "en": "Adventure Family: Here is Planet 0"
@@ -133,37 +148,24 @@
    "score": 0.16495723
   },
   {
-   "id": "4636f619-ee14-4e19-96cb-f2d6084f61fb",
+   "id": "7f14747e-a37e-4759-8e1a-c550a1710ed3",
    "title": {
-    "en": "The Museum of Inverse Travel"
+    "en": "Checkmate"
    },
    "contentRating": "safe",
-   "score": 0.16188195,
+   "score": 0.16495723,
    "languages": [
-    "tl",
     "en"
    ]
   },
   {
-   "id": "f1f5c63e-668c-4055-9328-f6fe2cc200ee",
+   "id": "336b68bb-3ad7-45b5-861a-7a3f1f50bb69",
    "title": {
-    "en": "Psycho Party"
+    "en": "Omniscience"
    },
    "contentRating": "safe",
-   "score": 0.16122158,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "da5cfff7-71b6-4830-b5f8-a1f53f417326",
-   "title": {
-    "en": "The Day the Sky Collapses"
-   },
-   "contentRating": "safe",
-   "score": 0.1563882
+   "score": 0.16495723
   }
  ],
- "updatedAt": "2023-12-10T01:07:51+00:00"
+ "updatedAt": "2023-12-10T18:30:11+00:00"
 }

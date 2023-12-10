@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b642cbd1-79b8-4073-80c1-e76ccb23c6d3",
+   "title": {
+    "en": "Cardfight!! Vanguard YouthQuake"
+   },
+   "contentRating": "safe",
+   "score": 0.6376539,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "82a49c7e-2c95-40e9-bcfe-d58e8ec5dcb6",
+   "title": {
+    "en": "Cardfight!! Vanguard: Turnabout"
+   },
+   "contentRating": "safe",
+   "score": 0.3688224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "86c4baa1-4a43-4757-bd4f-22f558cce13a",
    "title": {
     "en": "GirlPan vs SeraJuu"
    },
    "contentRating": "safe",
-   "score": 0.29986233,
+   "score": 0.30053788,
    "languages": [
     "en",
     "ru"
@@ -23,9 +45,54 @@
     "en": "Seibu Ichi no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.29301924,
+   "score": 0.2951586,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "28f9e770-fa28-4d7a-95ae-da4edf977921",
+   "title": {
+    "en": "Cardfight!! Vanguard Will+Dress D2"
+   },
+   "contentRating": "safe",
+   "score": 0.28775623,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
+   "title": {
+    "en": "Chou Kasoku Ningen Leo"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "title": {
+    "en": "Minds"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "title": {
+    "en": "Ryuudan Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
     "en"
    ]
   },
@@ -55,29 +122,6 @@
    ]
   },
   {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
-   "title": {
-    "en": "Minds"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
-   "title": {
-    "en": "Ryuudan Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
     "en": "Karakuri"
@@ -91,23 +135,12 @@
    ]
   },
   {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8493c7cd-8c28-4c67-a711-509e19307105",
    "title": {
     "en": "Zenei no Archer"
    },
    "contentRating": "safe",
-   "score": 0.26244867,
+   "score": 0.2607909,
    "languages": [
     "ru",
     "en"
@@ -119,7 +152,7 @@
     "en": "1980"
    },
    "contentRating": "safe",
-   "score": 0.26006356,
+   "score": 0.2603176,
    "languages": [
     "en"
    ]
@@ -130,7 +163,7 @@
     "en": "The West Wind and the Sun: Zephyr and Sol"
    },
    "contentRating": "safe",
-   "score": 0.26005444,
+   "score": 0.25972423,
    "languages": [
     "fr",
     "en",
@@ -145,33 +178,9 @@
     "en": "Attention Grabbers"
    },
    "contentRating": "safe",
-   "score": 0.2584446,
+   "score": 0.259606,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "565f9056-f7aa-419a-9f73-db0a8f057339",
-   "title": {
-    "en": "Kavukizumu"
-   },
-   "contentRating": "safe",
-   "score": 0.24521786,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
-   "title": {
-    "en": "Blood-Coloured Forbidden Territory"
-   },
-   "contentRating": "safe",
-   "score": 0.24515554,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -180,22 +189,11 @@
     "en": "Sword Dancer"
    },
    "contentRating": "safe",
-   "score": 0.24456511,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8d2a7bad-f34f-4e9b-9159-e08c8f996c29",
-   "title": {
-    "en": "Astronauts"
-   },
-   "contentRating": "safe",
-   "score": 0.24297133,
+   "score": 0.24515711,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:17+00:00"
+ "updatedAt": "2023-12-10T18:17:58+00:00"
 }

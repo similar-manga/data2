@@ -11,7 +11,7 @@
     "en": "Jigoku Mushi o Kuu! Oninbo"
    },
    "contentRating": "safe",
-   "score": 0.22063263,
+   "score": 0.21314396,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Onihei Hankachou"
    },
    "contentRating": "safe",
-   "score": 0.19465707,
+   "score": 0.19389898,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Biohazard: Death Island"
    },
    "contentRating": "safe",
-   "score": 0.18806332,
+   "score": 0.18766391,
    "languages": [
     "uk",
     "id",
@@ -57,10 +57,21 @@
     "en": "Kurosagi Shitai Takuhaibin"
    },
    "contentRating": "safe",
-   "score": 0.17712733,
+   "score": 0.17311625,
    "languages": [
     "en",
     "zh"
+   ]
+  },
+  {
+   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "title": {
+    "en": "Kyoukai no End Feel"
+   },
+   "contentRating": "safe",
+   "score": 0.17291676,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -96,18 +107,7 @@
     "en": "Shuuenchi"
    },
    "contentRating": "safe",
-   "score": 0.16619313,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
-   "title": {
-    "en": "Taisho Detective"
-   },
-   "contentRating": "safe",
-   "score": 0.16206945,
+   "score": 0.16474283,
    "languages": [
     "en"
    ]
@@ -118,9 +118,20 @@
     "en": "SNS Tantei Ononoki Tsukasa"
    },
    "contentRating": "safe",
-   "score": 0.16201572,
+   "score": 0.1616225,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
+   "title": {
+    "en": "Taisho Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.1614571,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -131,6 +142,18 @@
    "contentRating": "safe",
    "score": 0.1522774,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
+   "title": {
+    "en": "Ankoku Jiten"
+   },
+   "contentRating": "safe",
+   "score": 0.15097697,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -148,9 +171,9 @@
    ]
   },
   {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
    "title": {
-    "en": "Ankoku Jiten"
+    "en": "Balemount"
    },
    "contentRating": "safe",
    "score": 0.15097697,
@@ -169,37 +192,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
-   "title": {
-    "en": "Serial Killer Isekai ni Oritatsu"
-   },
-   "contentRating": "safe",
-   "score": 0.13827631,
-   "languages": [
-    "es-la",
-    "fr",
-    "en",
-    "vi",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "9ef6e461-033b-4976-b222-943856c94a97",
-   "title": {
-    "en": "Smiley"
-   },
-   "contentRating": "safe",
-   "score": 0.13731293,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:48+00:00"
+ "updatedAt": "2023-12-10T18:16:44+00:00"
 }

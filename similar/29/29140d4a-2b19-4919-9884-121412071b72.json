@@ -11,7 +11,7 @@
     "en": "Cologne Policeman Odo"
    },
    "contentRating": "safe",
-   "score": 0.21285817
+   "score": 0.21330595
   },
   {
    "id": "6e4cad01-fd44-4174-85d8-10b73ff7f787",
@@ -19,7 +19,7 @@
     "en": "Tokyo Salad Bowl"
    },
    "contentRating": "safe",
-   "score": 0.20158078
+   "score": 0.2014319
   },
   {
    "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
@@ -27,7 +27,7 @@
     "en": "Harp of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.19388731
+   "score": 0.19480133
   },
   {
    "id": "206a856d-6245-430f-8dcc-487642280d78",
@@ -35,7 +35,19 @@
     "en": "Alcázar - King"
    },
    "contentRating": "safe",
-   "score": 0.18286788
+   "score": 0.18409851
+  },
+  {
+   "id": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+   "title": {
+    "en": "Charm Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.18313754,
+   "languages": [
+    "pl",
+    "en"
+   ]
   },
   {
    "id": "2bbf1d99-b9b7-4c88-92b4-cbc09dd3eec2",
@@ -51,11 +63,19 @@
     "en": "Anti Anti Angel"
    },
    "contentRating": "safe",
-   "score": 0.17434795,
+   "score": 0.1751787,
    "languages": [
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "dc3792a7-2968-4f64-9a0a-98cbf6f9136c",
+   "title": {
+    "en": "Otona no Hatsukoi"
+   },
+   "contentRating": "safe",
+   "score": 0.16597848
   },
   {
    "id": "a82b31d4-b14e-45b7-82db-0784517189fe",
@@ -63,7 +83,7 @@
     "en": "Dark Fragrance"
    },
    "contentRating": "safe",
-   "score": 0.16374564,
+   "score": 0.1637755,
    "languages": [
     "en"
    ]
@@ -80,12 +100,20 @@
    ]
   },
   {
+   "id": "1ffed258-5c9c-4243-afb8-c97e25663c44",
+   "title": {
+    "en": "Dotou! Jamuka no Daibouken"
+   },
+   "contentRating": "safe",
+   "score": 0.1595158
+  },
+  {
    "id": "f40c24df-165d-4e72-957b-deaefb4431e3",
    "title": {
     "en": "Monkey Girl"
    },
    "contentRating": "safe",
-   "score": 0.15831935
+   "score": 0.1586127
   },
   {
    "id": "a0861345-be1a-4f4d-97bb-6310b91cb32b",
@@ -100,77 +128,35 @@
    ]
   },
   {
-   "id": "7dc29262-9e02-4544-86d8-4aa8273a86d0",
+   "id": "accbd9a3-67b1-4e46-bbdb-5d318a463643",
    "title": {
-    "en": "Yami no Matsuei"
+    "en": "Sukeban Deka Pretend"
    },
    "contentRating": "safe",
-   "score": 0.15370995,
+   "score": 0.1550966
+  },
+  {
+   "id": "2e931a8e-e459-4855-beee-1ab967450fb3",
+   "title": {
+    "en": "Gokudou Juliet"
+   },
+   "contentRating": "safe",
+   "score": 0.1540056,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9312be6c-9dac-4697-8860-156e49c13e6e",
+   "id": "b0f29351-65aa-45ed-ad99-5e3a99382484",
    "title": {
-    "en": "Root W.P.B."
+    "en": "Shiina-san, Numattemasu."
    },
    "contentRating": "safe",
-   "score": 0.1533166
-  },
-  {
-   "id": "9b815665-7f50-48c1-af81-4fc756eef672",
-   "title": {
-    "en": "Blind Game - New Age Hakkenden"
-   },
-   "contentRating": "safe",
-   "score": 0.15300778,
+   "score": 0.15397324,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
-   "title": {
-    "en": "Akatsuki no Yona"
-   },
-   "contentRating": "safe",
-   "score": 0.1519279,
-   "languages": [
-    "en",
-    "bg",
-    "ru",
-    "ar",
-    "pt-br",
-    "hu",
-    "tr",
-    "pl",
-    "id"
-   ]
-  },
-  {
-   "id": "d872bcf3-2e1a-461e-aef2-5db25bf08d99",
-   "title": {
-    "en": "Elegant Men"
-   },
-   "contentRating": "safe",
-   "score": 0.15132998,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "71cc967d-5755-41c9-89a9-4f3e14884b1b",
-   "title": {
-    "en": "Sweet Bitter Love"
-   },
-   "contentRating": "safe",
-   "score": 0.15060014,
-   "languages": [
-    "en"
+    "zh-hk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:20+00:00"
+ "updatedAt": "2023-12-10T18:12:44+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Absolute Duo"
    },
    "contentRating": "suggestive",
-   "score": 0.31123793,
+   "score": 0.31288508,
    "languages": [
     "pl",
     "it",
@@ -24,7 +24,7 @@
     "en": "Senran Kagura - Shoujotachi no Shinei"
    },
    "contentRating": "suggestive",
-   "score": 0.3031808,
+   "score": 0.29397166,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "Blue Blazes"
    },
    "contentRating": "suggestive",
-   "score": 0.23699272,
+   "score": 0.23681232,
    "languages": [
     "en"
    ]
@@ -46,10 +46,22 @@
     "en": "Kage Kara Mamoru!"
    },
    "contentRating": "suggestive",
-   "score": 0.2306572,
+   "score": 0.22696237,
    "languages": [
     "uk",
     "en"
+   ]
+  },
+  {
+   "id": "ebea2cf5-ce6c-4586-b2ad-a414fc7e0d22",
+   "title": {
+    "en": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattan daga"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19965857,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -58,7 +70,7 @@
     "en": "The Number 1 Beautiful Girl in the School is in Love With Me, the XXX Artist."
    },
    "contentRating": "suggestive",
-   "score": 0.19448563,
+   "score": 0.19291158,
    "languages": [
     "en",
     "id"
@@ -70,7 +82,7 @@
     "en": "The First Times' Lady"
    },
    "contentRating": "suggestive",
-   "score": 0.19395213,
+   "score": 0.19260326,
    "languages": [
     "en"
    ]
@@ -81,7 +93,7 @@
     "en": "Orient"
    },
    "contentRating": "suggestive",
-   "score": 0.19228943,
+   "score": 0.19194792,
    "languages": [
     "pt-br",
     "en",
@@ -101,7 +113,7 @@
     "en": "Kimi wa 008"
    },
    "contentRating": "suggestive",
-   "score": 0.18825497,
+   "score": 0.18688558,
    "languages": [
     "en",
     "pt-br",
@@ -152,18 +164,6 @@
    ]
   },
   {
-   "id": "ebea2cf5-ce6c-4586-b2ad-a414fc7e0d22",
-   "title": {
-    "en": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattan daga"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17669939,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "6a0ecbba-c8d5-4d1e-ab08-c24f303cc80a",
    "title": {
     "en": "Seriously Dating a Succubus"
@@ -175,28 +175,6 @@
     "pl",
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
-   "title": {
-    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1726539,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "48881cde-d594-4a4f-89b0-1f6d7e25a148",
-   "title": {
-    "en": "Muramasa"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17074607,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -213,7 +191,38 @@
     "id",
     "vi"
    ]
+  },
+  {
+   "id": "984562b1-04be-4059-8f12-e22904f11a70",
+   "title": {
+    "en": "Nagasarete Airantou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16968054,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "es"
+   ]
+  },
+  {
+   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "title": {
+    "en": "Amagami-san Chi no Enmusubi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16955896,
+   "languages": [
+    "pt-br",
+    "fr",
+    "id",
+    "ar",
+    "en",
+    "ru",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:05+00:00"
+ "updatedAt": "2023-12-10T18:20:06+00:00"
 }

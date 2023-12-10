@@ -11,19 +11,7 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.18989706,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
-   "title": {
-    "en": "Fugitives"
-   },
-   "contentRating": "safe",
-   "score": 0.17893896,
+   "score": 0.19051899,
    "languages": [
     "en",
     "it"
@@ -35,7 +23,7 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.17846926,
+   "score": 0.18052182,
    "languages": [
     "it",
     "en"
@@ -61,6 +49,18 @@
    ]
   },
   {
+   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
+   "title": {
+    "en": "Fugitives"
+   },
+   "contentRating": "safe",
+   "score": 0.17427894,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "1703a43b-76ed-47f0-a512-aa52cc0f169b",
    "title": {
     "en": "Zansatsu! Ponytail"
@@ -79,7 +79,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.16952343,
+   "score": 0.16883673,
    "languages": [
     "pt-br",
     "ru",
@@ -101,6 +101,22 @@
    ]
   },
   {
+   "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
+   "title": {
+    "en": "Thank You"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "pt-br",
+    "id",
+    "en",
+    "ru",
+    "fr",
+    "it"
+   ]
+  },
+  {
    "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
    "title": {
     "en": "Snow Blind"
@@ -115,6 +131,19 @@
     "uk",
     "vi",
     "pl"
+   ]
+  },
+  {
+   "id": "4825b997-83f0-47b7-a1c6-2079172663fe",
+   "title": {
+    "en": "Spiritsetter"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "it",
+    "en",
+    "uk"
    ]
   },
   {
@@ -133,46 +162,19 @@
    ]
   },
   {
-   "id": "4825b997-83f0-47b7-a1c6-2079172663fe",
+   "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
    "title": {
-    "en": "Spiritsetter"
+    "en": "Komaoto"
    },
    "contentRating": "safe",
    "score": 0.15898573,
    "languages": [
-    "it",
-    "en",
-    "uk"
-   ]
-  },
-  {
-   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
-   "title": {
-    "en": "We Can Fly!"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "it"
-   ]
-  },
-  {
-   "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
-   "title": {
-    "en": "Thank You"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "pt-br",
-    "id",
-    "en",
     "ru",
-    "fr",
-    "it"
+    "tr",
+    "en",
+    "it",
+    "pl",
+    "ca"
    ]
   },
   {
@@ -191,19 +193,17 @@
    ]
   },
   {
-   "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
+   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
    "title": {
-    "en": "Komaoto"
+    "en": "We Can Fly!"
    },
    "contentRating": "safe",
    "score": 0.15898573,
    "languages": [
-    "ru",
-    "tr",
     "en",
-    "it",
+    "pt-br",
     "pl",
-    "ca"
+    "it"
    ]
   },
   {
@@ -226,20 +226,17 @@
    ]
   },
   {
-   "id": "f546580d-2bf5-4738-a2d9-420f6e56970b",
+   "id": "ff965654-6783-430e-91bb-27307d88109c",
    "title": {
-    "en": "Doraemon (Hino Hideshi)"
+    "en": "Impermanence Resonating: An Attempt at a SF Manga"
    },
    "contentRating": "safe",
-   "score": 0.14752036,
+   "score": 0.14803167,
    "languages": [
-    "pt-br",
     "en",
-    "it",
-    "es-la",
-    "vi"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:49+00:00"
+ "updatedAt": "2023-12-10T18:22:06+00:00"
 }

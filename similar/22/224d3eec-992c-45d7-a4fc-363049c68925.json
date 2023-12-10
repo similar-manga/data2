@@ -11,7 +11,7 @@
     "en": "Wild 7 R"
    },
    "contentRating": "suggestive",
-   "score": 0.21334256
+   "score": 0.21289746
   },
   {
    "id": "819742bb-21a0-445e-9920-5f8dec6fcf16",
@@ -19,7 +19,21 @@
     "en": "The Small Tatami of the Great Plain"
    },
    "contentRating": "suggestive",
-   "score": 0.21217206
+   "score": 0.21165945
+  },
+  {
+   "id": "936765df-fd02-4659-9158-c1cefbbf4c51",
+   "title": {
+    "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19371587,
+   "languages": [
+    "ru",
+    "en",
+    "hu",
+    "pt-br"
+   ]
   },
   {
    "id": "7cdafb87-bde5-4025-aba0-36efd9432a61",
@@ -27,7 +41,7 @@
     "en": "Drifters"
    },
    "contentRating": "suggestive",
-   "score": 0.1949511,
+   "score": 0.19355245,
    "languages": [
     "en",
     "pt-br",
@@ -37,34 +51,12 @@
    ]
   },
   {
-   "id": "936765df-fd02-4659-9158-c1cefbbf4c51",
-   "title": {
-    "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19428411,
-   "languages": [
-    "ru",
-    "en",
-    "hu",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c4d0c41b-5f1a-4f72-909c-c4d67278bf78",
-   "title": {
-    "en": "Showa Phantoms - Those Unforgettable Guys"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19301075
-  },
-  {
    "id": "50ced036-edd9-43e6-aff9-14a691071456",
    "title": {
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.19173999,
+   "score": 0.19144718,
    "languages": [
     "es",
     "en",
@@ -73,12 +65,20 @@
    ]
   },
   {
+   "id": "c4d0c41b-5f1a-4f72-909c-c4d67278bf78",
+   "title": {
+    "en": "Showa Phantoms - Those Unforgettable Guys"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19121622
+  },
+  {
    "id": "b3683a72-dedf-4981-ad2f-d8d1e597718d",
    "title": {
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.19008958,
+   "score": 0.18902674,
    "languages": [
     "en",
     "ru",
@@ -91,7 +91,7 @@
     "en": "The Black and Red Staircase"
    },
    "contentRating": "suggestive",
-   "score": 0.18668997
+   "score": 0.18617219
   },
   {
    "id": "5eb514bc-bb37-4f37-a2e9-def530b08c29",
@@ -111,7 +111,7 @@
     "en": "Robot"
    },
    "contentRating": "suggestive",
-   "score": 0.17872994,
+   "score": 0.17814893,
    "languages": [
     "en",
     "bg",
@@ -124,7 +124,7 @@
     "en": "Legend of the Holy Common Man"
    },
    "contentRating": "suggestive",
-   "score": 0.17534605
+   "score": 0.17487937
   },
   {
    "id": "7f1c253d-9557-4abc-b30b-929d7d8db45e",
@@ -132,7 +132,7 @@
     "en": "Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru."
    },
    "contentRating": "suggestive",
-   "score": 0.17282924,
+   "score": 0.17225456,
    "languages": [
     "pt-br",
     "id",
@@ -149,7 +149,7 @@
     "en": "Kodoku no ie"
    },
    "contentRating": "suggestive",
-   "score": 0.1723329,
+   "score": 0.17132193,
    "languages": [
     "vi"
    ]
@@ -160,7 +160,7 @@
     "en": "Mugen Shinshi: Ouma-hen"
    },
    "contentRating": "suggestive",
-   "score": 0.1698903,
+   "score": 0.16918956,
    "languages": [
     "en"
    ]
@@ -171,7 +171,7 @@
     "en": "Tales of Wedding Rings"
    },
    "contentRating": "suggestive",
-   "score": 0.168301,
+   "score": 0.16787775,
    "languages": [
     "pt-br",
     "ru",
@@ -204,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:11:59+00:00"
 }

@@ -22,7 +22,7 @@
     "en": "The Monster Rec-chan"
    },
    "contentRating": "safe",
-   "score": 0.26451927,
+   "score": 0.2638817,
    "languages": [
     "en",
     "pl",
@@ -38,13 +38,28 @@
     "en": "Ana Akibukuro ha Wasuregachi"
    },
    "contentRating": "safe",
-   "score": 0.25865987,
+   "score": 0.25490618,
    "languages": [
     "en",
     "mn",
     "pl",
     "id",
     "fr"
+   ]
+  },
+  {
+   "id": "2caa303c-d903-4344-bfd9-2da45ecd141e",
+   "title": {
+    "en": "Resign"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "es",
+    "it",
+    "pl",
+    "en"
    ]
   },
   {
@@ -65,17 +80,26 @@
    ]
   },
   {
-   "id": "2caa303c-d903-4344-bfd9-2da45ecd141e",
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
    "title": {
-    "en": "Resign"
+    "en": "Memento Memori"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.2444347,
    "languages": [
-    "pt-br",
-    "es",
-    "it",
-    "pl",
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "a1f8bce7-08e4-42c4-966c-ed1c0a4ecffb",
+   "title": {
+    "en": "Glittering and Glaring: My Destiny  Romance with Violence"
+   },
+   "contentRating": "safe",
+   "score": 0.21742234,
+   "languages": [
     "en"
    ]
   },
@@ -102,6 +126,17 @@
    ]
   },
   {
+   "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
+   "title": {
+    "en": "Poison"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "170fe881-65a4-444d-b8bc-654eb59dd032",
    "title": {
     "en": "Monbushou Chokuzoku no Satsuriku Heiki"
@@ -113,54 +148,9 @@
    ]
   },
   {
-   "id": "81a83950-5b5c-474d-80b4-c92a864d73c1",
+   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
    "title": {
-    "en": "Playback I Love You"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "4f65c275-ce24-4267-935d-6573cf6e7cd2",
-   "title": {
-    "en": "The Two in the Corner"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
-   "title": {
-    "en": "Waltzing at Sanzu River"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "595aeefa-2977-4c50-9eac-f68e7f2e9a81",
-   "title": {
-    "en": "Snake Mountain"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "02be54ac-b1bc-496c-a496-bcea5356bcb5",
-   "title": {
-    "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
+    "en": "Merboy"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -183,9 +173,9 @@
    ]
   },
   {
-   "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
+   "id": "4f65c275-ce24-4267-935d-6573cf6e7cd2",
    "title": {
-    "en": "Poison"
+    "en": "The Two in the Corner"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -194,16 +184,29 @@
    ]
   },
   {
-   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
+   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
    "title": {
-    "en": "Merboy"
+    "en": "Owatte miru no mo Warukunai"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "81a83950-5b5c-474d-80b4-c92a864d73c1",
+   "title": {
+    "en": "Playback I Love You"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:33+00:00"
+ "updatedAt": "2023-12-10T18:31:58+00:00"
 }

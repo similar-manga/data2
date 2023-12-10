@@ -11,7 +11,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.23586556,
+   "score": 0.23522861,
    "languages": [
     "es-la",
     "en",
@@ -32,7 +32,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.23501056,
+   "score": 0.23462628,
    "languages": [
     "pt-br",
     "en",
@@ -47,7 +47,7 @@
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.2347521,
+   "score": 0.23409009,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2285213,
+   "score": 0.22759572,
    "languages": [
     "en",
     "it",
@@ -85,6 +85,14 @@
    "score": 0.21919806
   },
   {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.21459538
+  },
+  {
    "id": "e6109f9b-c393-4c71-84f8-10e978265cae",
    "title": {
     "en": "Battle Angel Alita: Mars Chronicle"
@@ -103,7 +111,19 @@
     "en": "Kunoichi Ibun - An Angel Has Flown Down"
    },
    "contentRating": "safe",
-   "score": 0.21253172
+   "score": 0.21239172
+  },
+  {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.2123242,
+   "languages": [
+    "en",
+    "ru"
+   ]
   },
   {
    "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
@@ -144,7 +164,7 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.20517343
+   "score": 0.20502934
   },
   {
    "id": "75532241-da34-4afb-a7df-a227b269ed20",
@@ -152,11 +172,27 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.20459408,
+   "score": 0.20427945,
    "languages": [
     "en",
     "it"
    ]
+  },
+  {
+   "id": "0aea1bd2-4bca-4856-8530-ea4d11a858cd",
+   "title": {
+    "en": "Soshite - Lone Wolf and Cub: Eyes of the Child"
+   },
+   "contentRating": "safe",
+   "score": 0.20036125
+  },
+  {
+   "id": "104a4efb-d305-4213-abb2-c237391979f0",
+   "title": {
+    "en": "Aircraft Carrier Ibuki: GREAT GAME"
+   },
+   "contentRating": "safe",
+   "score": 0.2002357
   },
   {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
@@ -164,52 +200,11 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.19986801,
+   "score": 0.19886474,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.19850478,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "fc3d7979-7aa9-4417-b289-ffc8c5057c98",
-   "title": {
-    "en": "Africa Army Corps"
-   },
-   "contentRating": "safe",
-   "score": 0.19726096
-  },
-  {
-   "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
-   "title": {
-    "en": "Jungle King"
-   },
-   "contentRating": "safe",
-   "score": 0.19719593
-  },
-  {
-   "id": "0781388e-2fbe-4e35-ada4-5c9bbef210ff",
-   "title": {
-    "en": "Assassine"
-   },
-   "contentRating": "safe",
-   "score": 0.19582668,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:50+00:00"
+ "updatedAt": "2023-12-10T18:14:07+00:00"
 }

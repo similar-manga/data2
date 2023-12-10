@@ -11,7 +11,7 @@
     "en": "Hikari"
    },
    "contentRating": "safe",
-   "score": 0.23641624,
+   "score": 0.23667152,
    "languages": [
     "en"
    ]
@@ -22,9 +22,22 @@
     "en": "Star-Lit Survival"
    },
    "contentRating": "safe",
-   "score": 0.21520579,
+   "score": 0.21506676,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "db60fb9f-60db-4cdb-80ba-f0cc114b28ea",
+   "title": {
+    "en": "Dead or Deadline"
+   },
+   "contentRating": "safe",
+   "score": 0.21143465,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br"
    ]
   },
   {
@@ -33,7 +46,7 @@
     "en": "Serial Killer Isekai ni Oritatsu"
    },
    "contentRating": "safe",
-   "score": 0.21036759,
+   "score": 0.21084562,
    "languages": [
     "es-la",
     "fr",
@@ -41,6 +54,21 @@
     "vi",
     "pt-br",
     "ar"
+   ]
+  },
+  {
+   "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
+   "title": {
+    "en": "Tank Chair"
+   },
+   "contentRating": "safe",
+   "score": 0.20012715,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -55,18 +83,15 @@
    ]
   },
   {
-   "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
+   "id": "2866b6f0-4570-4d29-8f36-023237f4a9f9",
    "title": {
-    "en": "Tank Chair"
+    "en": "Houseki Shoujo wa Namida o Nagasanai"
    },
    "contentRating": "safe",
-   "score": 0.19893134,
+   "score": 0.19547565,
    "languages": [
-    "vi",
     "en",
-    "pt-br",
-    "id",
-    "es-la"
+    "ar"
    ]
   },
   {
@@ -95,7 +120,7 @@
     "en": "Bokura no Natsu ga Saketeiku"
    },
    "contentRating": "safe",
-   "score": 0.19288018
+   "score": 0.19296212
   },
   {
    "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
@@ -103,11 +128,19 @@
     "en": "Assassin's Plan"
    },
    "contentRating": "safe",
-   "score": 0.19154273,
+   "score": 0.19105703,
    "languages": [
     "ro",
     "en"
    ]
+  },
+  {
+   "id": "387cb608-d8ac-42d9-936e-4d2d7d37cbab",
+   "title": {
+    "en": "Tenshi Shukushi"
+   },
+   "contentRating": "safe",
+   "score": 0.18868813
   },
   {
    "id": "a293293e-6b78-44a5-b76c-c292f39e99b5",
@@ -115,21 +148,9 @@
     "en": "Luca's Right Eye"
    },
    "contentRating": "safe",
-   "score": 0.18701681,
+   "score": 0.18662123,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0781388e-2fbe-4e35-ada4-5c9bbef210ff",
-   "title": {
-    "en": "Assassine"
-   },
-   "contentRating": "safe",
-   "score": 0.18694752,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -138,7 +159,7 @@
     "en": "White Throne of Bones"
    },
    "contentRating": "safe",
-   "score": 0.18583323,
+   "score": 0.18647227,
    "languages": [
     "id",
     "fr",
@@ -157,36 +178,17 @@
    ]
   },
   {
-   "id": "8ea46a38-749b-4112-b5e4-be902920194d",
+   "id": "0781388e-2fbe-4e35-ada4-5c9bbef210ff",
    "title": {
-    "en": "Escape Room"
+    "en": "Assassine"
    },
    "contentRating": "safe",
-   "score": 0.18500522
-  },
-  {
-   "id": "eb3592a8-da51-4a2b-894d-11d03170bc53",
-   "title": {
-    "en": "Black Sonata"
-   },
-   "contentRating": "safe",
-   "score": 0.18432191,
+   "score": 0.18564916,
    "languages": [
     "en",
-    "ko"
-   ]
-  },
-  {
-   "id": "695ec8bf-b7db-4fb2-987e-a8edcee2b567",
-   "title": {
-    "en": "A Cure for Killing"
-   },
-   "contentRating": "safe",
-   "score": 0.1835244,
-   "languages": [
-    "en"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:17+00:00"
+ "updatedAt": "2023-12-10T18:33:45+00:00"
 }

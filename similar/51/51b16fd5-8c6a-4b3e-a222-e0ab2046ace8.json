@@ -11,7 +11,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2995083,
+   "score": 0.29892462,
    "languages": [
     "en",
     "it",
@@ -35,7 +35,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.27417457,
+   "score": 0.27621162,
    "languages": [
     "es-la",
     "en",
@@ -51,12 +51,20 @@
    ]
   },
   {
+   "id": "3863b9bc-ad4d-4b63-8337-6123cf225a6e",
+   "title": {
+    "en": "Super Submarine Sortie"
+   },
+   "contentRating": "safe",
+   "score": 0.2717771
+  },
+  {
    "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
    "title": {
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.270501,
+   "score": 0.270419,
    "languages": [
     "tr",
     "en",
@@ -72,7 +80,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.25133526,
+   "score": 0.24955276,
    "languages": [
     "en"
    ]
@@ -83,11 +91,30 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.24961355,
+   "score": 0.24842258,
    "languages": [
     "en",
     "it"
    ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.23663898,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "104a4efb-d305-4213-abb2-c237391979f0",
+   "title": {
+    "en": "Aircraft Carrier Ibuki: GREAT GAME"
+   },
+   "contentRating": "safe",
+   "score": 0.22943284
   },
   {
    "id": "62952d0b-52e5-4c5c-bb57-4bda60e27356",
@@ -95,7 +122,7 @@
     "en": "Kingdom (fan-colored)"
    },
    "contentRating": "safe",
-   "score": 0.22562289,
+   "score": 0.22444615,
    "languages": [
     "en"
    ]
@@ -106,7 +133,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.22108416,
+   "score": 0.22084682,
    "languages": [
     "pt-br",
     "en",
@@ -116,12 +143,20 @@
    ]
   },
   {
+   "id": "a4f9c8dc-e09a-401e-8c71-feb4deed1ba9",
+   "title": {
+    "en": "Dobaku no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.22032134
+  },
+  {
    "id": "fc3d7979-7aa9-4417-b289-ffc8c5057c98",
    "title": {
     "en": "Africa Army Corps"
    },
    "contentRating": "safe",
-   "score": 0.21924394
+   "score": 0.21924056
   },
   {
    "id": "e39991fd-699b-4477-82cc-87b7dcb8bbb3",
@@ -129,7 +164,7 @@
     "en": "Inui and Tatsumi: Secret History of the Siberian Intervention"
    },
    "contentRating": "safe",
-   "score": 0.21157607
+   "score": 0.21163101
   },
   {
    "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
@@ -137,15 +172,7 @@
     "en": "Crusher Joe REBIRTH"
    },
    "contentRating": "safe",
-   "score": 0.20596758
-  },
-  {
-   "id": "3c5703e1-febd-4cf2-adb7-4be69fa0bf55",
-   "title": {
-    "en": "Lost Lad London"
-   },
-   "contentRating": "safe",
-   "score": 0.198959
+   "score": 0.2054477
   },
   {
    "id": "cf753d01-12c8-499d-8bdc-5c75de95072e",
@@ -153,56 +180,19 @@
     "en": "Yuugatou"
    },
    "contentRating": "safe",
-   "score": 0.19744554,
+   "score": 0.2016601,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
+   "id": "3c5703e1-febd-4cf2-adb7-4be69fa0bf55",
    "title": {
-    "en": "The Comeback of the Demon King"
+    "en": "Lost Lad London"
    },
    "contentRating": "safe",
-   "score": 0.19690602,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
-   "title": {
-    "en": "Jungle Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.19433686,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
-   "title": {
-    "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.193358,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
-   "title": {
-    "en": "Kirisuke and Johnny, The Slaying of 499"
-   },
-   "contentRating": "safe",
-   "score": 0.193358,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20066647
   }
  ],
- "updatedAt": "2023-12-10T01:02:57+00:00"
+ "updatedAt": "2023-12-10T18:17:07+00:00"
 }

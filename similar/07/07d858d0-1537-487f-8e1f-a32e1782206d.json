@@ -29,7 +29,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.24081,
+   "score": 0.2398365,
    "languages": [
     "pt-br",
     "es",
@@ -43,12 +43,43 @@
    ]
   },
   {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.22378992,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
    "title": {
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.22346853,
+   "score": 0.22279972,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
+   "title": {
+    "en": "Lion Books"
+   },
+   "contentRating": "safe",
+   "score": 0.22247906,
    "languages": [
     "en"
    ]
@@ -72,23 +103,12 @@
    ]
   },
   {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.22177318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
    "title": {
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.21213566,
+   "score": 0.21113221,
    "languages": [
     "en"
    ]
@@ -110,7 +130,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.20573388,
+   "score": 0.20591149,
    "languages": [
     "en"
    ]
@@ -148,6 +168,23 @@
    ]
   },
   {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.19754834,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
    "id": "a8dbdba7-6904-46cb-b03b-cf869b11110b",
    "title": {
     "en": "The Heroic Legend of Arslan"
@@ -166,69 +203,50 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.1899908,
+   "score": 0.18950497,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
+   "id": "158bc0cc-e79e-4f13-a001-6d0abe9733ab",
    "title": {
-    "en": "Kingdom Hearts III"
+    "en": "The House Without Time"
    },
    "contentRating": "safe",
-   "score": 0.18596411,
+   "score": 0.18893555,
    "languages": [
-    "it",
-    "es-la",
     "en",
-    "pt-br"
+    "it"
    ]
   },
   {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
    "title": {
-    "en": "D.Gray-man"
+    "en": "Black Clover"
    },
    "contentRating": "safe",
-   "score": 0.18594487,
+   "score": 0.18644527,
    "languages": [
-    "pl",
-    "en",
     "es",
-    "ru",
-    "bg",
     "pt-br",
-    "tr",
-    "ar",
+    "hu",
+    "id",
+    "en",
+    "ru",
     "it",
-    "fr",
     "es-la",
-    "uk"
-   ]
-  },
-  {
-   "id": "6e7fcbe3-eb73-41b4-90c8-d3f415a1a20a",
-   "title": {
-    "en": "Ragouden"
-   },
-   "contentRating": "safe",
-   "score": 0.18437216,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
-   "title": {
-    "en": "The Legend of Heroes VI: Trails of Cold Steel"
-   },
-   "contentRating": "safe",
-   "score": 0.18336391,
-   "languages": [
-    "en"
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:03+00:00"
+ "updatedAt": "2023-12-10T18:09:11+00:00"
 }

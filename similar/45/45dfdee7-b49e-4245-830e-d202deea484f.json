@@ -11,7 +11,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.32405612,
+   "score": 0.3236119,
    "languages": [
     "ru",
     "vi",
@@ -33,24 +33,10 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.29455593,
+   "score": 0.29648668,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.28299248,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
    ]
   },
   {
@@ -59,7 +45,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.28286523,
+   "score": 0.28381702,
    "languages": [
     "en",
     "pt-br",
@@ -71,12 +57,38 @@
    ]
   },
   {
+   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
+   "title": {
+    "en": "Ahiru no Sora"
+   },
+   "contentRating": "safe",
+   "score": 0.28152204,
+   "languages": [
+    "en",
+    "tl",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "98b1d0ec-a7e4-4064-84a5-de2fb9595ff5",
+   "title": {
+    "en": "Bench"
+   },
+   "contentRating": "safe",
+   "score": 0.2788202,
+   "languages": [
+    "ca",
+    "en"
+   ]
+  },
+  {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
    "title": {
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.27446336,
+   "score": 0.27487254,
    "languages": [
     "en",
     "fr",
@@ -91,7 +103,18 @@
     "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.2673543,
+   "score": 0.2688129,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f854d21-0d00-4f24-a835-b28834daacc9",
+   "title": {
+    "en": "Hachigatsu no Cinderella Nine S"
+   },
+   "contentRating": "safe",
+   "score": 0.26847684,
    "languages": [
     "en"
    ]
@@ -102,7 +125,7 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.2664145,
+   "score": 0.26468968,
    "languages": [
     "ru",
     "en",
@@ -110,12 +133,23 @@
    ]
   },
   {
-   "id": "d91023f0-d7ea-464d-9f29-fae3063465ee",
+   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
    "title": {
-    "en": "The Kabocha Wine"
+    "en": "Fairway no Koe wo Kikasete"
    },
    "contentRating": "safe",
-   "score": 0.25651762,
+   "score": 0.262938,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ebcff7c1-aaf9-46ea-8d8b-2f4ea7e8f02b",
+   "title": {
+    "en": "Kenta Yarimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.26070866,
    "languages": [
     "en"
    ]
@@ -126,7 +160,7 @@
     "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.2547414,
+   "score": 0.26050073,
    "languages": [
     "pt-br",
     "en",
@@ -143,101 +177,49 @@
     "en": "Osomatsu-kun"
    },
    "contentRating": "safe",
-   "score": 0.25412962,
+   "score": 0.25861862,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
+   "id": "d91023f0-d7ea-464d-9f29-fae3063465ee",
    "title": {
-    "en": "Kono Oto Tomare!"
+    "en": "The Kabocha Wine"
    },
    "contentRating": "safe",
-   "score": 0.25037393,
+   "score": 0.2576548,
    "languages": [
-    "fr",
-    "vi",
-    "pt-br",
-    "en",
-    "id",
-    "es-la",
-    "ar",
-    "it",
-    "hu"
+    "en"
    ]
   },
   {
-   "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+   "id": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
    "title": {
-    "en": "Yotsuba\u0026!"
+    "en": "Burning Kabaddi"
    },
    "contentRating": "safe",
-   "score": 0.24710934,
+   "score": 0.25279403,
    "languages": [
-    "pt-br",
-    "ru",
     "en",
+    "fr",
+    "hi",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
+   "title": {
+    "en": "Show-ha Shou-ten!"
+   },
+   "contentRating": "safe",
+   "score": 0.2511886,
+   "languages": [
     "zh-hk",
-    "tr",
-    "es-la",
-    "uk",
-    "vi",
-    "es"
-   ]
-  },
-  {
-   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
-   "title": {
-    "en": "Sasameke"
-   },
-   "contentRating": "safe",
-   "score": 0.23578157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
-   "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
-   },
-   "contentRating": "safe",
-   "score": 0.23434344,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "it",
-    "es"
-   ]
-  },
-  {
-   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
-   "title": {
-    "en": "I'm Teppei"
-   },
-   "contentRating": "safe",
-   "score": 0.23208444,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "23cc261e-687e-4b24-9308-fccc93094b98",
-   "title": {
-    "en": "R the Ultimate Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.22752349,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:27+00:00"
+ "updatedAt": "2023-12-10T18:15:52+00:00"
 }

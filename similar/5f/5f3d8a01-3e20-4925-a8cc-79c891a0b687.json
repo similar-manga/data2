@@ -11,7 +11,7 @@
     "en": "Fate/Apocrypha"
    },
    "contentRating": "safe",
-   "score": 0.44099545,
+   "score": 0.44108033,
    "languages": [
     "en",
     "pt-br",
@@ -27,7 +27,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.23915996,
+   "score": 0.2385287,
    "languages": [
     "zh-hk",
     "en",
@@ -44,6 +44,20 @@
     "fa",
     "ar",
     "pl"
+   ]
+  },
+  {
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
+   "title": {
+    "en": "re CERVIN"
+   },
+   "contentRating": "safe",
+   "score": 0.2346748,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -69,7 +83,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.21162505,
+   "score": 0.21167997,
    "languages": [
     "en",
     "it",
@@ -93,7 +107,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.20726506,
+   "score": 0.20715523,
    "languages": [
     "es-la",
     "en",
@@ -109,15 +123,45 @@
    ]
   },
   {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.19902477,
+   "languages": [
+    "en",
+    "es-la",
+    "zh-hk",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "81e9cf75-908b-489e-906d-c7f001673274",
    "title": {
     "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
    },
    "contentRating": "safe",
-   "score": 0.19781756,
+   "score": 0.19758244,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.1943051,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -126,7 +170,7 @@
     "en": "Arashi no Hana Murakumo no Uta"
    },
    "contentRating": "safe",
-   "score": 0.19341521,
+   "score": 0.19274625,
    "languages": [
     "en"
    ]
@@ -137,7 +181,7 @@
     "en": "Star Wars - The Mandalorian"
    },
    "contentRating": "safe",
-   "score": 0.18552272,
+   "score": 0.18497048,
    "languages": [
     "pt-br",
     "en"
@@ -149,24 +193,13 @@
     "en": "Kara no Kyoukai - The Garden of Sinners"
    },
    "contentRating": "safe",
-   "score": 0.18351379,
+   "score": 0.18284684,
    "languages": [
     "ru",
     "en",
     "fr",
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
-   "title": {
-    "en": "ism/i"
-   },
-   "contentRating": "safe",
-   "score": 0.1820879,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -182,12 +215,23 @@
    ]
   },
   {
+   "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
+   "title": {
+    "en": "ism/i"
+   },
+   "contentRating": "safe",
+   "score": 0.17951861,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
    "title": {
     "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
    },
    "contentRating": "safe",
-   "score": 0.17434163,
+   "score": 0.17405206,
    "languages": [
     "pt-br",
     "en",
@@ -211,46 +255,7 @@
     "it",
     "ru"
    ]
-  },
-  {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
-   "title": {
-    "en": "Shin Megami Tensei - Kahn"
-   },
-   "contentRating": "safe",
-   "score": 0.17211175,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6de510fb-cb39-45e9-8548-b211cdb0b771",
-   "title": {
-    "en": "Dantalian no Shoka"
-   },
-   "contentRating": "safe",
-   "score": 0.17101015,
-   "languages": [
-    "es",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
-   "title": {
-    "en": "Fool Night"
-   },
-   "contentRating": "safe",
-   "score": 0.17096174,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:40+00:00"
 }

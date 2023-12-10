@@ -11,7 +11,7 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.19672403,
+   "score": 0.19603376,
    "languages": [
     "ru",
     "en"
@@ -23,22 +23,34 @@
     "en": "Seikai Suru Kado"
    },
    "contentRating": "safe",
-   "score": 0.19091256,
+   "score": 0.19027244,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
    "title": {
-    "en": "Legend of the Galactic Heroes"
+    "en": "Atom - The Beginning"
    },
    "contentRating": "safe",
-   "score": 0.1896632,
+   "score": 0.1820731,
    "languages": [
+    "pt-br",
     "en",
-    "ru",
-    "pt-br"
+    "ru"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.18022999,
+   "languages": [
+    "zh-hk",
+    "en"
    ]
   },
   {
@@ -47,7 +59,18 @@
     "en": "A Country Without Humans"
    },
    "contentRating": "safe",
-   "score": 0.18066338,
+   "score": 0.17966746,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.17638087,
    "languages": [
     "en"
    ]
@@ -64,12 +87,25 @@
    ]
   },
   {
+   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
+   "title": {
+    "en": "Legend of the Galactic Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.17556103,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
    "title": {
     "en": "Sorairo Square."
    },
    "contentRating": "safe",
-   "score": 0.17532599,
+   "score": 0.17465109,
    "languages": [
     "en"
    ]
@@ -91,7 +127,7 @@
     "en": "TC-225"
    },
    "contentRating": "safe",
-   "score": 0.1676198,
+   "score": 0.16625524,
    "languages": [
     "en"
    ]
@@ -102,7 +138,7 @@
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.16467972,
+   "score": 0.16345346,
    "languages": [
     "ru",
     "en"
@@ -112,6 +148,29 @@
    "id": "3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
    "title": {
     "en": "Awajima Hyakkei"
+   },
+   "contentRating": "safe",
+   "score": 0.15920596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
+   "title": {
+    "en": "Super Danganronpa 2: Goodbye Despair Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.15920596,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "a532122f-565b-4cf9-93bd-486aebf54ef1",
+   "title": {
+    "en": "Asahina-san no Bentou Tabetai"
    },
    "contentRating": "safe",
    "score": 0.15920596,
@@ -131,77 +190,7 @@
     "it",
     "fr"
    ]
-  },
-  {
-   "id": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
-   "title": {
-    "en": "New Normal"
-   },
-   "contentRating": "safe",
-   "score": 0.15860634,
-   "languages": [
-    "tr",
-    "en",
-    "ru",
-    "pt-br",
-    "pl",
-    "fr",
-    "th",
-    "es-la",
-    "it",
-    "tl"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.15783998,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.15772718,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "bed2ef5e-99b1-4809-8f65-5866391f839b",
-   "title": {
-    "en": "The Gender of Mona Lisa"
-   },
-   "contentRating": "safe",
-   "score": 0.15549102,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
-   "title": {
-    "en": "The Darwin Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.15530431,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:33+00:00"
+ "updatedAt": "2023-12-10T18:16:08+00:00"
 }

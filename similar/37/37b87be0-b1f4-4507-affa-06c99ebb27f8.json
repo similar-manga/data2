@@ -11,7 +11,7 @@
     "en": "Dragon Ball SD"
    },
    "contentRating": "safe",
-   "score": 0.34687334,
+   "score": 0.33691427,
    "languages": [
     "en",
     "it",
@@ -24,7 +24,7 @@
     "en": "Dragon Ball GT"
    },
    "contentRating": "safe",
-   "score": 0.2974258,
+   "score": 0.28757995,
    "languages": [
     "en"
    ]
@@ -35,21 +35,10 @@
     "en": "Sand Land Full Color"
    },
    "contentRating": "safe",
-   "score": 0.2545036,
+   "score": 0.25431588,
    "languages": [
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
-   "title": {
-    "en": "Assobot Goku"
-   },
-   "contentRating": "safe",
-   "score": 0.25360745,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -58,7 +47,18 @@
     "en": "Magu-chan: God of Destruction"
    },
    "contentRating": "safe",
-   "score": 0.24611987,
+   "score": 0.24746834,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
+   "title": {
+    "en": "Assobot Goku"
+   },
+   "contentRating": "safe",
+   "score": 0.23621255,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.23534264,
+   "score": 0.23535673,
    "languages": [
     "es-la"
    ]
@@ -80,7 +80,7 @@
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.22550909,
+   "score": 0.22287309,
    "languages": [
     "es-la",
     "en"
@@ -92,38 +92,12 @@
     "en": "Doom Breaker"
    },
    "contentRating": "safe",
-   "score": 0.22069278,
+   "score": 0.21865247,
    "languages": [
     "fr",
     "pl",
     "en",
     "fa"
-   ]
-  },
-  {
-   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
-   "title": {
-    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
-   },
-   "contentRating": "safe",
-   "score": 0.2152269,
-   "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
-   "title": {
-    "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
-   },
-   "contentRating": "safe",
-   "score": 0.21484058,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -145,14 +119,29 @@
    ]
   },
   {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
    "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
+    "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.2109695,
+   "score": 0.21484058,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.21217752,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "it",
+    "fr"
    ]
   },
   {
@@ -161,7 +150,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.20964652,
+   "score": 0.21039014,
    "languages": [
     "pt-br",
     "fr",
@@ -193,12 +182,38 @@
    ]
   },
   {
+   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "title": {
+    "en": "Dragon Quest: Sora in the Blue Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.20886768,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a81d7f35-eaca-43a8-9928-2b1b521556b2",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Meteor Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.20722935,
+   "languages": [
+    "es-la",
+    "fr",
+    "pl",
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
    "title": {
     "en": "Dragon Ball X One Piece - Cross Epoch"
    },
    "contentRating": "safe",
-   "score": 0.20742679,
+   "score": 0.20384976,
    "languages": [
     "ca",
     "it",
@@ -207,19 +222,7 @@
     "bg",
     "pl"
    ]
-  },
-  {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.19820718,
-   "languages": [
-    "en",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:54+00:00"
+ "updatedAt": "2023-12-10T18:14:16+00:00"
 }

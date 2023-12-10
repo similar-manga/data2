@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cffe8e9c-bfb8-47a1-909c-f877d947df3b",
+   "title": {
+    "en": "Kao Dake ja Suki ni Narimasen"
+   },
+   "contentRating": "safe",
+   "score": 0.33297583,
+   "languages": [
+    "en",
+    "hu",
+    "es-la"
+   ]
+  },
+  {
    "id": "e161f886-ec1a-44ff-8769-0831f2348e06",
    "title": {
     "en": "Don't Believe Her"
    },
    "contentRating": "safe",
-   "score": 0.33497137,
+   "score": 0.33085907,
    "languages": [
     "en"
    ]
@@ -22,7 +35,7 @@
     "en": "Hakoniwa Angel"
    },
    "contentRating": "safe",
-   "score": 0.32918286,
+   "score": 0.3268961,
    "languages": [
     "en"
    ]
@@ -33,7 +46,7 @@
     "en": "Donmai Princess"
    },
    "contentRating": "safe",
-   "score": 0.3282044,
+   "score": 0.32588866,
    "languages": [
     "en"
    ]
@@ -44,9 +57,46 @@
     "en": "Goshimei Arigatou Gozaimasu!"
    },
    "contentRating": "safe",
-   "score": 0.32635581,
+   "score": 0.32368198,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e8389656-9267-4f3b-8495-c0324b3debbb",
+   "title": {
+    "ja": "Houkago, Kare to Kekkon Shimasu."
+   },
+   "contentRating": "safe",
+   "score": 0.32278013,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "03c994de-ee9d-465d-bd32-d8a8c3b4cb4f",
+   "title": {
+    "en": "Hush"
+   },
+   "contentRating": "safe",
+   "score": 0.3223991,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru"
+   },
+   "contentRating": "safe",
+   "score": 0.32023987,
+   "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -55,9 +105,21 @@
     "en": "Kimi ga Suki Toka Arienai"
    },
    "contentRating": "safe",
-   "score": 0.31999987,
+   "score": 0.3189842,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a0685346-3f0b-4296-a8c3-8f502c2e7f24",
+   "title": {
+    "en": "Marriage Purple"
+   },
+   "contentRating": "safe",
+   "score": 0.3183621,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -66,7 +128,30 @@
     "en": "Roke Mani"
    },
    "contentRating": "safe",
-   "score": 0.31965196,
+   "score": 0.31828457,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1a39491c-289c-40bf-bba2-5414e2ada850",
+   "title": {
+    "en": "Koi no You na Mono Janaku"
+   },
+   "contentRating": "safe",
+   "score": 0.31678146,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
+   "title": {
+    "en": "Like to Be Ordinary!"
+   },
+   "contentRating": "safe",
+   "score": 0.316219,
    "languages": [
     "en"
    ]
@@ -77,29 +162,7 @@
     "en": "Suki tte Iwaseru Houhou"
    },
    "contentRating": "safe",
-   "score": 0.3173182,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
-   "title": {
-    "en": "Like to Be Ordinary!"
-   },
-   "contentRating": "safe",
-   "score": 0.3170883,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
-   "title": {
-    "en": "Strange Orange"
-   },
-   "contentRating": "safe",
-   "score": 0.3142945,
+   "score": 0.3155252,
    "languages": [
     "en"
    ]
@@ -110,78 +173,22 @@
     "en": "Kikenchitai Danshi - Kedamono Black \u0026 White"
    },
    "contentRating": "safe",
-   "score": 0.3140461,
+   "score": 0.31277806,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
+   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
    "title": {
-    "en": "Lovely"
+    "en": "Strange Orange"
    },
    "contentRating": "safe",
-   "score": 0.31149593,
+   "score": 0.31270263,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5d475ef5-6afb-4ce7-9890-9a216de9efc4",
-   "title": {
-    "en": "Hadashi no Aitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.31060618,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "525c4335-0913-4d3b-8d67-eda2a1e3010e",
-   "title": {
-    "en": "Kirara no Hoshi"
-   },
-   "contentRating": "safe",
-   "score": 0.30426753,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5e55d8c-f8df-42e8-8bcc-8ad336a09904",
-   "title": {
-    "en": "Idol Clubs"
-   },
-   "contentRating": "safe",
-   "score": 0.30220318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "50fd4a8e-f774-4e6b-88cb-e9a6f6a91ea0",
-   "title": {
-    "en": "Short Sunzen!"
-   },
-   "contentRating": "safe",
-   "score": 0.30181384,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ac83e7db-67b3-40b0-92c8-b166bf58e9b9",
-   "title": {
-    "en": "Fetish Berry"
-   },
-   "contentRating": "safe",
-   "score": 0.30164748,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:42+00:00"
+ "updatedAt": "2023-12-10T18:13:46+00:00"
 }

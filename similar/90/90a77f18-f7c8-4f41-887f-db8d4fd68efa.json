@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
-   "title": {
-    "en": "Cyber Blue - Lost Number Children"
-   },
-   "contentRating": "safe",
-   "score": 0.24311288,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2b0a68a4-36e8-4724-b9cd-84fe48ab4dd1",
    "title": {
     "en": "Medabot Reloaded"
@@ -29,12 +18,23 @@
    ]
   },
   {
+   "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
+   "title": {
+    "en": "Cyber Blue - Lost Number Children"
+   },
+   "contentRating": "safe",
+   "score": 0.24311288,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
    "title": {
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.22248794,
+   "score": 0.2238409,
    "languages": [
     "en"
    ]
@@ -45,7 +45,18 @@
     "en": "Perman"
    },
    "contentRating": "safe",
-   "score": 0.22157468,
+   "score": 0.22165458,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ee1e2e44-7002-422e-bf35-ae106bf6b2c3",
+   "title": {
+    "en": "Ad Astra Per Aspera"
+   },
+   "contentRating": "safe",
+   "score": 0.20980069,
    "languages": [
     "en"
    ]
@@ -56,7 +67,7 @@
     "en": "Mega Man 10 -Extra F-"
    },
    "contentRating": "safe",
-   "score": 0.20692955,
+   "score": 0.20693901,
    "languages": [
     "fr",
     "es-la",
@@ -70,18 +81,7 @@
     "en": "Barom-1"
    },
    "contentRating": "safe",
-   "score": 0.20309924,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.20145074,
+   "score": 0.20283708,
    "languages": [
     "en"
    ]
@@ -92,29 +92,29 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.2014286,
+   "score": 0.2010554,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "69373c97-2794-4304-97b7-7477975f962f",
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
-    "en": "Mobile Suit Gundam Valpurgis EVE"
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.19904587,
+   "score": 0.20090605,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "819cf49e-8e5b-4f0c-89ac-ca47e4e0bdf9",
+   "id": "d7f927c8-c1f5-474e-bb3d-57da04be7662",
    "title": {
-    "en": "Super Dragon Ball Heroes: AVATARS!!"
+    "en": "Sentai Red Isekai de Boukensha ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.19733995,
+   "score": 0.19963823,
    "languages": [
     "en"
    ]
@@ -125,9 +125,20 @@
     "en": "Boundary Apocalypse - Starfall"
    },
    "contentRating": "safe",
-   "score": 0.19718195,
+   "score": 0.19806567,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "819cf49e-8e5b-4f0c-89ac-ca47e4e0bdf9",
+   "title": {
+    "en": "Super Dragon Ball Heroes: AVATARS!!"
+   },
+   "contentRating": "safe",
+   "score": 0.19710995,
+   "languages": [
     "en"
    ]
   },
@@ -144,49 +155,38 @@
    ]
   },
   {
-   "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
+   "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
    "title": {
-    "en": "Microman: The Small Giant + Red Powers"
+    "en": "Monkz"
    },
    "contentRating": "safe",
-   "score": 0.19330476,
+   "score": 0.19358625,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
+   "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
    "title": {
-    "en": "Esoragoto"
+    "en": "Microman: The Small Giant + Red Powers"
+   },
+   "contentRating": "safe",
+   "score": 0.19232507,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "69373c97-2794-4304-97b7-7477975f962f",
+   "title": {
+    "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
    "score": 0.19180173,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "05a04e0b-43fa-46a5-a9bf-673b20f692a3",
-   "title": {
-    "en": "Cat's World"
-   },
-   "contentRating": "safe",
-   "score": 0.18908778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6b3008ad-3642-4152-b0de-b7aed387898a",
-   "title": {
-    "en": "Wonder X"
-   },
-   "contentRating": "safe",
-   "score": 0.18908778,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:41+00:00"
+ "updatedAt": "2023-12-10T18:24:21+00:00"
 }

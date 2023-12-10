@@ -11,7 +11,7 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.28466645,
+   "score": 0.28853825,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.2662553,
+   "score": 0.2701175,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.22665086,
+   "score": 0.2266442,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.22326523,
+   "score": 0.2221062,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
    },
    "contentRating": "safe",
-   "score": 0.22260587,
+   "score": 0.22032057,
    "languages": [
     "en"
    ]
@@ -73,17 +73,6 @@
    ]
   },
   {
-   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.21648373,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
     "en": "Mobile Suit Gundam F90 FF"
@@ -95,34 +84,45 @@
    ]
   },
   {
-   "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
-   "title": {
-    "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.21473165,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
    "title": {
     "en": "Mobile Suit Zeta Gundam Define"
    },
    "contentRating": "safe",
-   "score": 0.21311748,
+   "score": 0.21516849,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
    "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.21255086,
+   "score": 0.21505488,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
+   "title": {
+    "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
+   },
+   "contentRating": "safe",
+   "score": 0.21243055,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
+   "title": {
+    "en": "Star Ocean - Blue Sphere"
+   },
+   "contentRating": "safe",
+   "score": 0.20774591,
    "languages": [
     "en"
    ]
@@ -133,19 +133,19 @@
     "en": "Digimon Story: Cyber Sleuth"
    },
    "contentRating": "safe",
-   "score": 0.20623028,
+   "score": 0.20632379,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
+   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
    "title": {
-    "en": "Star Ocean - Blue Sphere"
+    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.20529504,
+   "score": 0.20489633,
    "languages": [
     "en"
    ]
@@ -167,7 +167,7 @@
     "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
    },
    "contentRating": "safe",
-   "score": 0.20258345,
+   "score": 0.20195904,
    "languages": [
     "th",
     "en"
@@ -179,11 +179,11 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.19957994,
+   "score": 0.19855945,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:24+00:00"
+ "updatedAt": "2023-12-10T18:31:34+00:00"
 }

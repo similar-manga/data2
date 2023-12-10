@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
+   "title": {
+    "en": "In the Rose Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.30702603,
+   "languages": [
+    "ru",
+    "vi",
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "dc84dffa-5ea9-4e62-b5f2-5a7a5fcc90ec",
    "title": {
     "en": "I Think I Have Transmigrated Somewhere"
    },
    "contentRating": "safe",
-   "score": 0.29265186,
+   "score": 0.29399875,
    "languages": [
     "en",
     "pl"
@@ -23,7 +38,7 @@
     "en": "Travelling Through the Universe's Flower"
    },
    "contentRating": "safe",
-   "score": 0.28623337,
+   "score": 0.28784442,
    "languages": [
     "en",
     "fr"
@@ -35,62 +50,58 @@
     "en": "Fuyu no Ou to Haru no Hime"
    },
    "contentRating": "safe",
-   "score": 0.28269318,
+   "score": 0.277194,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7747e63d-631a-4982-9894-13f6bd3a0823",
+   "id": "abd1bc00-093d-401e-8ff0-58ae9e6e7715",
    "title": {
-    "en": "The Cover Pages of a Manga Before and After the Author Obviously Went Through Something"
+    "en": "Eiyuu Densetsu - Sen no Kiseki IV"
    },
    "contentRating": "safe",
-   "score": 0.25653955,
+   "score": 0.26992863,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1e33f17-1119-40c2-8ede-a4443930fde4",
+   "title": {
+    "en": "Extras Are the First to Be Abandoned"
+   },
+   "contentRating": "safe",
+   "score": 0.2685472,
    "languages": [
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "bfc4b099-b3bf-4c4e-ab8c-5e7383cfa054",
+   "title": {
+    "en": "Ichi Page de Owatta LoveCome"
+   },
+   "contentRating": "safe",
+   "score": 0.26766172,
+   "languages": [
+    "ru",
     "id",
-    "ko"
-   ]
-  },
-  {
-   "id": "929b7bab-229b-4d1d-91cd-96888fafa021",
-   "title": {
-    "en": "The Striking Mage and the Maverick Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.2554663,
-   "languages": [
+    "en",
     "pt-br",
-    "en",
-    "id"
+    "pl"
    ]
   },
   {
-   "id": "9398d1bb-825c-4aeb-bf14-6fb6a2424721",
+   "id": "9a823687-9db3-415d-a871-0724b04a2833",
    "title": {
-    "en": "The Journey of the Hero and the Wolf"
+    "en": "Please Marry Me Again, Husband!"
    },
    "contentRating": "safe",
-   "score": 0.2550084,
+   "score": 0.26716647,
    "languages": [
-    "hi",
-    "en",
-    "tr",
-    "it"
-   ]
-  },
-  {
-   "id": "8d24b46b-e465-4e26-9d65-154ac4922605",
-   "title": {
-    "en": "4 page de Owaru Rabukome Shiki Jinsei"
-   },
-   "contentRating": "safe",
-   "score": 0.25491413,
-   "languages": [
-    "vi",
-    "en",
-    "id"
+    "en"
    ]
   },
   {
@@ -99,9 +110,95 @@
     "en": "City of Dreams"
    },
    "contentRating": "safe",
-   "score": 0.25458565,
+   "score": 0.2567157,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9398d1bb-825c-4aeb-bf14-6fb6a2424721",
+   "title": {
+    "en": "The Journey of the Hero and the Wolf"
+   },
+   "contentRating": "safe",
+   "score": 0.2553267,
+   "languages": [
+    "hi",
+    "en",
+    "tr",
+    "it"
+   ]
+  },
+  {
+   "id": "bc1d5980-e4bc-454d-be44-8ce4f2072f04",
+   "title": {
+    "en": "A Manga World That Gets One Page Once a Year"
+   },
+   "contentRating": "safe",
+   "score": 0.2552819,
+   "languages": [
+    "id",
+    "ru",
+    "pl",
+    "tl",
+    "en",
+    "it",
+    "es-la",
+    "pt-br",
+    "ms",
+    "th",
+    "fr"
+   ]
+  },
+  {
+   "id": "929b7bab-229b-4d1d-91cd-96888fafa021",
+   "title": {
+    "en": "The Striking Mage and the Maverick Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.25520393,
+   "languages": [
+    "pt-br",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "7747e63d-631a-4982-9894-13f6bd3a0823",
+   "title": {
+    "en": "The Cover Pages of a Manga Before and After the Author Obviously Went Through Something"
+   },
+   "contentRating": "safe",
+   "score": 0.25486955,
+   "languages": [
+    "en",
+    "id",
+    "ko"
+   ]
+  },
+  {
+   "id": "703bb963-6010-4f48-a4f5-279eec943715",
+   "title": {
+    "en": "It's Not Fun Being the Empress of the Empire"
+   },
+   "contentRating": "safe",
+   "score": 0.25450045,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "8d24b46b-e465-4e26-9d65-154ac4922605",
+   "title": {
+    "en": "4 page de Owaru Rabukome Shiki Jinsei"
+   },
+   "contentRating": "safe",
+   "score": 0.25395206,
+   "languages": [
+    "vi",
+    "en",
+    "id"
    ]
   },
   {
@@ -110,7 +207,7 @@
     "en": "I Shall Master This Family"
    },
    "contentRating": "safe",
-   "score": 0.2527616,
+   "score": 0.25299367,
    "languages": [
     "pl",
     "fr",
@@ -122,96 +219,7 @@
     "ru",
     "vi"
    ]
-  },
-  {
-   "id": "f5faf035-e07e-4b99-9edc-ef0e26e739c6",
-   "title": {
-    "en": "Saho-chan Won't Concentrate Properly on Her Studies."
-   },
-   "contentRating": "safe",
-   "score": 0.25181842,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "71e83c98-0f07-4e6c-ab0e-0c6c786d8895",
-   "title": {
-    "en": "Your God Sent You"
-   },
-   "contentRating": "safe",
-   "score": 0.2513011,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
-   "title": {
-    "en": "In the Rose Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.24603763,
-   "languages": [
-    "ru",
-    "vi",
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "138bec6a-f95b-48b9-8c55-fe5a254ac819",
-   "title": {
-    "en": "What It Means to Be You"
-   },
-   "contentRating": "safe",
-   "score": 0.24487126,
-   "languages": [
-    "en",
-    "tr",
-    "fr",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "a1fe8351-8907-462e-a180-60b7cb6d8a79",
-   "title": {
-    "en": "The Princess Arrives!"
-   },
-   "contentRating": "safe",
-   "score": 0.24336724,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.24233769,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "310b669b-2fbd-4e4e-bbd4-40475a954268",
-   "title": {
-    "en": "Mahou ga Kagaku ni Koisuru Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.24147265,
-   "languages": [
-    "es-la",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:23+00:00"
+ "updatedAt": "2023-12-10T18:10:05+00:00"
 }

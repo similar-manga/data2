@@ -11,7 +11,7 @@
     "en": "Dekiai Robot"
    },
    "contentRating": "safe",
-   "score": 0.3224624,
+   "score": 0.3286348,
    "languages": [
     "tr",
     "pl",
@@ -34,7 +34,7 @@
     "en": "Hoshino Heartbeat"
    },
    "contentRating": "safe",
-   "score": 0.26432195,
+   "score": 0.26434204,
    "languages": [
     "es-la",
     "en"
@@ -46,7 +46,7 @@
     "en": "Battle Girl Ai"
    },
    "contentRating": "safe",
-   "score": 0.25637227
+   "score": 0.25664
   },
   {
    "id": "62488791-6f5a-4f5d-8921-583857be6f74",
@@ -54,7 +54,7 @@
     "en": "Akatsuki no Miko"
    },
    "contentRating": "safe",
-   "score": 0.2555289,
+   "score": 0.2562676,
    "languages": [
     "en",
     "hu"
@@ -66,23 +66,15 @@
     "en": "Ponpoko Robo Ato \u0026 Suu"
    },
    "contentRating": "safe",
-   "score": 0.24404243
+   "score": 0.24760345
   },
   {
-   "id": "9b6c0bb1-ad52-49ef-acd5-c5bb5418d14b",
+   "id": "9f7642cf-5bc4-4671-84c6-4c599a3068ac",
    "title": {
-    "en": "Shinkon (Kari)chuu"
+    "en": "Kawaii Kimi ni Koiwazurai"
    },
    "contentRating": "safe",
-   "score": 0.23724669
-  },
-  {
-   "id": "f8fb65c6-174d-4725-a3ab-8fbb5e8c3bfc",
-   "title": {
-    "en": "Ichikyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.23722504
+   "score": 0.24002194
   },
   {
    "id": "9b815665-7f50-48c1-af81-4fc756eef672",
@@ -90,10 +82,26 @@
     "en": "Blind Game - New Age Hakkenden"
    },
    "contentRating": "safe",
-   "score": 0.23667346,
+   "score": 0.23613329,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9b6c0bb1-ad52-49ef-acd5-c5bb5418d14b",
+   "title": {
+    "en": "Shinkon (Kari)chuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23543967
+  },
+  {
+   "id": "f2cd3ba3-56d6-4391-afc9-280fc34d8dd5",
+   "title": {
+    "en": "St. Pineapple Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.23435183
   },
   {
    "id": "5baa3347-0e37-40c0-8177-5972706c85de",
@@ -101,15 +109,7 @@
     "en": "Ryuu no Nemuru Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.23411135
-  },
-  {
-   "id": "1ed44548-d4d2-45b1-a823-6e44dc59a8a0",
-   "title": {
-    "en": "Tower of the Future"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.23381576
   },
   {
    "id": "4a6d834c-967c-4f69-942b-1a48a2c841d5",
@@ -121,6 +121,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1ed44548-d4d2-45b1-a823-6e44dc59a8a0",
+   "title": {
+    "en": "Tower of the Future"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   },
   {
    "id": "475b8ec6-45d3-46b3-b97f-ef6c3ea7781b",
@@ -135,12 +143,15 @@
    ]
   },
   {
-   "id": "62c858e5-15f5-4153-be67-6dc909d7b773",
+   "id": "25e687ba-0efa-4892-9ee6-02676317ef18",
    "title": {
-    "en": "Girl Meat Girl"
+    "en": "Unforgettable Love of Mine"
    },
    "contentRating": "safe",
-   "score": 0.23288725
+   "score": 0.23175879,
+   "languages": [
+    "fr"
+   ]
   },
   {
    "id": "8c5910a5-a256-4a7e-ad72-aade1d309e2c",
@@ -148,19 +159,11 @@
     "en": "Angel Oil"
    },
    "contentRating": "safe",
-   "score": 0.23263343,
+   "score": 0.23162408,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0378c741-c389-4e49-ab66-f276ba83b118",
-   "title": {
-    "en": "Shoujo Kesshou Kokoro Jikaru"
-   },
-   "contentRating": "safe",
-   "score": 0.23000665
   }
  ],
- "updatedAt": "2023-12-10T01:04:44+00:00"
+ "updatedAt": "2023-12-10T18:21:55+00:00"
 }

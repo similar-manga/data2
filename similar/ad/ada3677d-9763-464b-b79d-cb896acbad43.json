@@ -45,7 +45,7 @@
     "en": "Piccolina"
    },
    "contentRating": "suggestive",
-   "score": 0.22766712,
+   "score": 0.22624288,
    "languages": [
     "vi",
     "pt-br",
@@ -60,18 +60,7 @@
     "en": "Tsumasaki no Ajisai"
    },
    "contentRating": "suggestive",
-   "score": 0.22241433,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e3bb42f0-4283-434e-8180-aa27c71722af",
-   "title": {
-    "en": "Anemone no Shishuu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22070968,
+   "score": 0.22192322,
    "languages": [
     "en"
    ]
@@ -99,6 +88,17 @@
    ]
   },
   {
+   "id": "ddcb83c1-d7d2-4e32-a5b2-c8f9b08ff793",
+   "title": {
+    "en": "Shiawase Sorezore Comic Anthology"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21345355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0d3ffb54-73a6-4bf3-b111-782ec4173999",
    "title": {
     "en": "Tadaima, Okaeri"
@@ -113,9 +113,9 @@
    ]
   },
   {
-   "id": "ddcb83c1-d7d2-4e32-a5b2-c8f9b08ff793",
+   "id": "e3bb42f0-4283-434e-8180-aa27c71722af",
    "title": {
-    "en": "Shiawase Sorezore Comic Anthology"
+    "en": "Anemone no Shishuu"
    },
    "contentRating": "suggestive",
    "score": 0.21345355,
@@ -129,15 +129,15 @@
     "en": "Daikirai na Aisaretagari"
    },
    "contentRating": "suggestive",
-   "score": 0.21264713,
+   "score": 0.21229784,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a2f287c4-0671-4f05-a9de-9a71fc6e1002",
+   "id": "5f046427-f4ec-4bc9-b4d1-42f3c1f0acf4",
    "title": {
-    "ja": "Eigyou Desukara"
+    "en": "Sayonara Bokura"
    },
    "contentRating": "suggestive",
    "score": 0.20124593,
@@ -171,9 +171,9 @@
    ]
   },
   {
-   "id": "5f046427-f4ec-4bc9-b4d1-42f3c1f0acf4",
+   "id": "a2f287c4-0671-4f05-a9de-9a71fc6e1002",
    "title": {
-    "en": "Sayonara Bokura"
+    "ja": "Eigyou Desukara"
    },
    "contentRating": "suggestive",
    "score": 0.20124593,
@@ -182,16 +182,16 @@
    ]
   },
   {
-   "id": "57d38ea1-86e7-4dc5-b75e-b3dbb9e8a6ed",
+   "id": "e614d595-547d-4135-8dff-207b717c32f8",
    "title": {
-    "en": "Inakami"
+    "en": "Kyori-kan ga Bagutteru Osananajimi. (Tsukiattenai)"
    },
    "contentRating": "suggestive",
-   "score": 0.19269152,
+   "score": 0.19091864,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:55+00:00"
+ "updatedAt": "2023-12-10T18:27:45+00:00"
 }

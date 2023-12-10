@@ -11,10 +11,21 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.28764215,
+   "score": 0.28796625,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
+   "title": {
+    "en": "Lion Books"
+   },
+   "contentRating": "safe",
+   "score": 0.24422623,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -23,7 +34,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.2423879,
+   "score": 0.24274841,
    "languages": [
     "en",
     "pt-br",
@@ -36,51 +47,25 @@
    ]
   },
   {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.2420564,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
    "title": {
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.23545943,
+   "score": 0.23381157,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
    "title": {
-    "en": "Detective Conan"
+    "en": "Detective Conan Special"
    },
    "contentRating": "safe",
-   "score": 0.21398972,
+   "score": 0.21679784,
    "languages": [
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
+    "en"
    ]
   },
   {
@@ -103,23 +88,38 @@
    ]
   },
   {
+   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
+   "title": {
+    "en": "Detective Conan"
+   },
+   "contentRating": "safe",
+   "score": 0.21269354,
+   "languages": [
+    "id",
+    "en",
+    "pl",
+    "pt-br",
+    "it",
+    "ru",
+    "es-la",
+    "es",
+    "vi",
+    "ca",
+    "ar",
+    "tr",
+    "fr",
+    "mn",
+    "bg",
+    "uk"
+   ]
+  },
+  {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
    "title": {
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.21155868,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
-   "title": {
-    "en": "Outlaw Man"
-   },
-   "contentRating": "safe",
-   "score": 0.20581608,
+   "score": 0.21101944,
    "languages": [
     "en"
    ]
@@ -130,7 +130,7 @@
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.20471099,
+   "score": 0.20453553,
    "languages": [
     "pt-br",
     "it",
@@ -149,16 +149,14 @@
    ]
   },
   {
-   "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
+   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
    "title": {
-    "en": "Repeat"
+    "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.20349957,
+   "score": 0.2034507,
    "languages": [
-    "it",
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -167,27 +165,39 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.20225455,
+   "score": 0.20342244,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+   "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
    "title": {
-    "en": "The Legend of Dororo and Hyakkimaru"
+    "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.19930029,
+   "score": 0.20332354,
    "languages": [
-    "ru",
-    "tr",
-    "pt-br",
-    "es-la",
-    "en",
     "it",
-    "zh-hk",
-    "id"
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
+   "title": {
+    "en": "The Dangers in My Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.20165402,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "tr",
+    "id",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -196,7 +206,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.19865015,
+   "score": 0.20040481,
    "languages": [
     "ru",
     "vi",
@@ -213,20 +223,21 @@
    ]
   },
   {
-   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
+   "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
    "title": {
-    "en": "The Dangers in My Heart"
+    "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.19702022,
+   "score": 0.1997367,
    "languages": [
-    "pt-br",
-    "en",
-    "es-la",
+    "ru",
     "tr",
-    "id",
-    "ar",
-    "fr"
+    "pt-br",
+    "es-la",
+    "en",
+    "it",
+    "zh-hk",
+    "id"
    ]
   },
   {
@@ -235,23 +246,12 @@
     "en": "Suzuran is Going Strong!"
    },
    "contentRating": "safe",
-   "score": 0.19625962,
+   "score": 0.19844736,
    "languages": [
     "en",
     "it"
    ]
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.1942704,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:15+00:00"
+ "updatedAt": "2023-12-10T18:36:07+00:00"
 }

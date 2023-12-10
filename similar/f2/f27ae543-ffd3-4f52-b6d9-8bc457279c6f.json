@@ -6,14 +6,61 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "47607aaf-54e2-4aa0-b281-ac943370261c",
+   "title": {
+    "en": "Nana-Hon no Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.26034716,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1cf26b33-b5ca-4ace-a508-13363fd9ae44",
    "title": {
     "en": "Crescent Noise"
    },
    "contentRating": "safe",
-   "score": 0.2598146,
+   "score": 0.2594151,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9842df90-53a8-4a26-8696-2b47a6a52cf9",
+   "title": {
+    "en": "Mononoke no Ran"
+   },
+   "contentRating": "safe",
+   "score": 0.25734562,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "67a021af-30c8-4f1e-a914-169097c5f34b",
+   "title": {
+    "en": "Ni Luo Ya - Niraya"
+   },
+   "contentRating": "safe",
+   "score": 0.2525706,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "54affdd4-4bd3-499f-b9c9-7f5753639b7e",
+   "title": {
+    "en": "Lost At The End Of The World"
+   },
+   "contentRating": "safe",
+   "score": 0.2508667,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -22,20 +69,8 @@
     "en": "Izayoi no Hitomi"
    },
    "contentRating": "safe",
-   "score": 0.25203237,
+   "score": 0.250745,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9143fef-9747-4e5e-80cb-42433a841a49",
-   "title": {
-    "en": "Namida wo Yurushita Jigoku no Shisha"
-   },
-   "contentRating": "safe",
-   "score": 0.24752928,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -52,42 +87,68 @@
    ]
   },
   {
+   "id": "a9143fef-9747-4e5e-80cb-42433a841a49",
+   "title": {
+    "en": "Namida wo Yurushita Jigoku no Shisha"
+   },
+   "contentRating": "safe",
+   "score": 0.24607597,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "ac63b3b1-b16e-4e3d-ae82-1f9a1e0a3c4b",
    "title": {
     "en": "The Law of the Yama"
    },
    "contentRating": "safe",
-   "score": 0.23837882,
+   "score": 0.23864497,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e95d23ae-6639-4332-adb4-036b925e1418",
+   "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
    "title": {
-    "en": "Genocider Mami"
+    "en": "Dorara"
+   },
+   "contentRating": "safe",
+   "score": 0.23560646,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "31ef10e1-3fbb-4c41-a462-b273edbb6980",
+   "title": {
+    "en": "Mujou no Sekki - Ouma no Ketsumyaku"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "fr",
     "en"
    ]
   },
   {
-   "id": "83adb474-b5b7-43ea-8d51-b2ce41dbc1fd",
+   "id": "fb45bda2-a387-475a-b0d6-18eeed806391",
    "title": {
-    "en": "Andromalius"
+    "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "ru",
     "en"
    ]
   },
   {
-   "id": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
+   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
    "title": {
-    "en": "Vermillion"
+    "en": "Sekiryuu no Otome"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -107,90 +168,27 @@
    ]
   },
   {
-   "id": "fb45bda2-a387-475a-b0d6-18eeed806391",
+   "id": "83adb474-b5b7-43ea-8d51-b2ce41dbc1fd",
    "title": {
-    "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
+    "en": "Andromalius"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "ru",
     "en"
    ]
   },
   {
-   "id": "e2b534d6-05ed-421c-99a1-bb36425f4045",
+   "id": "e95d23ae-6639-4332-adb4-036b925e1418",
    "title": {
-    "en": "Shougezhe"
+    "en": "Genocider Mami"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "d40aa845-bc0b-4c34-a5eb-99cf973e3935",
-   "title": {
-    "en": "Kesshoku no Shuugosha"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "51643b03-ba9f-435d-a70a-d2e5b35e6cea",
-   "title": {
-    "en": "Sexy☆Socks"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
-   "title": {
-    "en": "FREAKS"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "ru",
-    "it",
-    "th",
-    "hu",
-    "fr"
-   ]
-  },
-  {
-   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
-   "title": {
-    "en": "Monster and Child"
-   },
-   "contentRating": "safe",
-   "score": 0.21799052,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "39ec2e1e-63d7-4fdb-bf3d-ed838d80f21d",
-   "title": {
-    "en": "Adashi Mono"
-   },
-   "contentRating": "safe",
-   "score": 0.21589944,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:47+00:00"
+ "updatedAt": "2023-12-10T18:34:58+00:00"
 }

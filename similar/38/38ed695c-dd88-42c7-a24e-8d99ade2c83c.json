@@ -11,7 +11,7 @@
     "en": "The MVP Won't Hand it Over!"
    },
    "contentRating": "safe",
-   "score": 0.29957807,
+   "score": 0.29873556,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Boys'n Girl"
    },
    "contentRating": "safe",
-   "score": 0.28040445,
+   "score": 0.27527016,
    "languages": [
     "pl",
     "de",
@@ -35,20 +35,41 @@
     "en": "Himegimi no Aikon"
    },
    "contentRating": "safe",
-   "score": 0.26576462,
+   "score": 0.26440126,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fa2f5315-0f69-43ee-b663-655946a5f8cb",
+   "id": "c97d8626-8ae1-472c-bef7-d963555c02fd",
    "title": {
-    "en": "Boku no Lily"
+    "en": "Punch!"
    },
    "contentRating": "safe",
-   "score": 0.24403769,
+   "score": 0.24988212,
    "languages": [
-    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "d2cb3dc6-0070-49be-a6d7-0cf30e186635",
+   "title": {
+    "en": "Pretty Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "04bb64eb-3035-4efd-b038-5c6b4a0549d1",
+   "title": {
+    "en": "Help Comes Running!"
+   },
+   "contentRating": "safe",
+   "score": 0.24160752,
+   "languages": [
     "en"
    ]
   },
@@ -65,13 +86,14 @@
    ]
   },
   {
-   "id": "04bb64eb-3035-4efd-b038-5c6b4a0549d1",
+   "id": "fa2f5315-0f69-43ee-b663-655946a5f8cb",
    "title": {
-    "en": "Help Comes Running!"
+    "en": "Boku no Lily"
    },
    "contentRating": "safe",
-   "score": 0.24160752,
+   "score": 0.23798564,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -81,7 +103,7 @@
     "en": "Tennen Bitter Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.23376982,
+   "score": 0.23202147,
    "languages": [
     "en"
    ]
@@ -92,7 +114,7 @@
     "en": "H³ School!"
    },
    "contentRating": "safe",
-   "score": 0.23308966,
+   "score": 0.23197481,
    "languages": [
     "en"
    ]
@@ -103,30 +125,45 @@
     "en": "Konya, Kimi ni Ai ni Iku"
    },
    "contentRating": "safe",
-   "score": 0.22704485,
+   "score": 0.22605594,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
+   "id": "1461f8d2-ab00-412d-88cb-ef0ab21945c8",
    "title": {
-    "en": "Hajimete..."
+    "en": "Bengoshi to 17-sai"
    },
    "contentRating": "safe",
-   "score": 0.21965864,
+   "score": 0.22588839,
    "languages": [
-    "en"
+    "vi",
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "0510e3fc-a693-4fb5-ae09-80e63df31f5c",
+   "id": "cfcc577d-14a3-4332-beaa-346068d2afbd",
    "title": {
-    "en": "Atashi Hitori de Daijoubu"
+    "en": "Tamon-kun Ima Docchi!?"
    },
    "contentRating": "safe",
-   "score": 0.21965864,
+   "score": 0.2241606,
    "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "a985f6c8-e021-41c8-91b9-b3bbd2f60502",
+   "title": {
+    "en": "My Idol Came to My House!"
+   },
+   "contentRating": "safe",
+   "score": 0.22390172,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -144,49 +181,16 @@
    ]
   },
   {
-   "id": "0e4c009e-5bf1-4a0e-b110-d09eaf3a7cc9",
+   "id": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
    "title": {
-    "en": "Milk Crown Lovers"
+    "en": "Hajimete..."
    },
    "contentRating": "safe",
-   "score": 0.21599172,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "584dc44c-62af-4ab2-adb6-efcf7eee77da",
-   "title": {
-    "en": "Café Café"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a47e7c2e-7e4b-4236-a137-215b76110197",
-   "title": {
-    "en": "Afternoon Lavendar"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
-   "title": {
-    "en": "Funny Money Rich Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
+   "score": 0.21965864,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:56+00:00"
+ "updatedAt": "2023-12-10T18:14:24+00:00"
 }

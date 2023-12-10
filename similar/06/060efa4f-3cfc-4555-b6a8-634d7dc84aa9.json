@@ -11,7 +11,7 @@
     "en": "Honogurai Mizu no Soko kara"
    },
    "contentRating": "safe",
-   "score": 0.31065163,
+   "score": 0.31100345,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
    },
    "contentRating": "safe",
-   "score": 0.2970006,
+   "score": 0.29707816,
    "languages": [
     "en"
    ]
@@ -41,6 +41,18 @@
    ]
   },
   {
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
+   "title": {
+    "en": "Yorukumo"
+   },
+   "contentRating": "safe",
+   "score": 0.23584764,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "dd0f25f5-4006-42d1-9969-76ade2717617",
    "title": {
     "en": "A Meek Little Brother Like Me"
@@ -52,9 +64,9 @@
    ]
   },
   {
-   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
+   "id": "9cb0528a-daf1-47c0-b779-d82fe8980fc6",
    "title": {
-    "en": "Ringwanderung"
+    "en": "Slaying the Monster"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -66,6 +78,17 @@
    "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
    "title": {
     "en": "Breakaway"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
+   "title": {
+    "en": "Ringwanderung"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -86,12 +109,23 @@
    ]
   },
   {
-   "id": "9cb0528a-daf1-47c0-b779-d82fe8980fc6",
+   "id": "0c178bca-9b98-4896-8ecd-2f8e15a17ad6",
    "title": {
-    "en": "Slaying the Monster"
+    "en": "Yuuan no Kanata"
    },
    "contentRating": "safe",
-   "score": 0.23276806,
+   "score": 0.22928734,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b70049e-ce95-40dc-a1f9-e8aa5a183733",
+   "title": {
+    "en": "Muhoutou"
+   },
+   "contentRating": "safe",
+   "score": 0.22591244,
    "languages": [
     "en"
    ]
@@ -102,7 +136,7 @@
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.22305812,
+   "score": 0.22340998,
    "languages": [
     "en"
    ]
@@ -136,7 +170,7 @@
     "en": "The Dream I Had When I Died"
    },
    "contentRating": "safe",
-   "score": 0.20057584,
+   "score": 0.20021446,
    "languages": [
     "pt-br",
     "en"
@@ -148,46 +182,12 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.19159728,
+   "score": 0.191488,
    "languages": [
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
-   "title": {
-    "en": "Atrocious Fairy Tales for Adults"
-   },
-   "contentRating": "safe",
-   "score": 0.18806942,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
-   "title": {
-    "en": "The Tale of That Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.17603877,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
-   "title": {
-    "en": "Assassin's Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.17310348,
-   "languages": [
-    "ro",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:59+00:00"
+ "updatedAt": "2023-12-10T18:09:00+00:00"
 }

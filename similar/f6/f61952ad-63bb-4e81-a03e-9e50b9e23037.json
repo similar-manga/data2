@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b2bbb996-31d8-4bd1-b582-932ff7ea56e4",
+   "title": {
+    "en": "High School Detective Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.27690208,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dcb9341c-ecb1-4086-aad8-c62ac7b9ab7e",
    "title": {
     "en": "Trace 2.0"
    },
    "contentRating": "safe",
-   "score": 0.26841623,
+   "score": 0.26773337,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a675a6d-11f5-4fc3-9221-1c0f5b3981cb",
+   "title": {
+    "en": "BombFist"
+   },
+   "contentRating": "safe",
+   "score": 0.2504154,
    "languages": [
     "en"
    ]
@@ -22,13 +44,24 @@
     "en": "Free Draw"
    },
    "contentRating": "safe",
-   "score": 0.24673054,
+   "score": 0.24472646,
    "languages": [
     "id",
     "en",
     "ru",
     "pt-br",
     "tr"
+   ]
+  },
+  {
+   "id": "2c0fc807-a9f8-4812-8f96-81a1082f7daf",
+   "title": {
+    "en": "Can't I Just Be a Student?"
+   },
+   "contentRating": "safe",
+   "score": 0.24428912,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -44,12 +77,23 @@
    ]
   },
   {
+   "id": "5e2acc1c-c647-420f-96cd-3fa4fc047fa5",
+   "title": {
+    "en": "Help me! Ancestors"
+   },
+   "contentRating": "safe",
+   "score": 0.24075471,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7889434b-d9a5-454c-8ea1-8c7a4509fc51",
    "title": {
     "en": "Servamp"
    },
    "contentRating": "safe",
-   "score": 0.24053216,
+   "score": 0.2386493,
    "languages": [
     "es",
     "en",
@@ -58,157 +102,99 @@
    ]
   },
   {
-   "id": "39ec2e1e-63d7-4fdb-bf3d-ed838d80f21d",
+   "id": "77a39772-0dda-442d-adb8-d6b36bc0901b",
    "title": {
-    "en": "Adashi Mono"
+    "en": "LESSA - Servant of Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.2277723,
+   "score": 0.23582019,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "377a602a-ab03-4d18-b065-55bc415295ac",
-   "title": {
-    "en": "The Reborn"
-   },
-   "contentRating": "safe",
-   "score": 0.22684835,
-   "languages": [
-    "pt-br",
+    "id",
     "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "096db829-206b-49e0-8aef-020f4177b998",
-   "title": {
-    "en": "LOST"
-   },
-   "contentRating": "safe",
-   "score": 0.22664498,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d7c88a29-a66a-4e0f-8f18-59e7a2389246",
-   "title": {
-    "en": "Tiara"
-   },
-   "contentRating": "safe",
-   "score": 0.22602665,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d69113cd-d368-4347-8657-1ed9987e7aa9",
-   "title": {
-    "en": "TAL"
-   },
-   "contentRating": "safe",
-   "score": 0.22032726,
-   "languages": [
-    "en",
-    "it",
     "de"
    ]
   },
   {
-   "id": "0c60a44d-c793-4a7d-8269-66afbdb2c517",
+   "id": "cea99594-b963-4431-bc93-7a4adeba9c54",
    "title": {
-    "en": "Ultimate Legend - Kang Hae Hyo"
+    "en": "Disease"
    },
    "contentRating": "safe",
-   "score": 0.21998103,
+   "score": 0.23405026,
    "languages": [
-    "en",
-    "ro",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0f7058f5-9ce7-4f45-8dfb-f9af33657d16",
-   "title": {
-    "en": "Please Show Up!"
-   },
-   "contentRating": "safe",
-   "score": 0.21853594,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e85676ee-efa1-4c20-9561-66e9c1a15ce7",
-   "title": {
-    "en": "Praying for Peace: This World Has Been Dominated by the Real Boss!!"
-   },
-   "contentRating": "safe",
-   "score": 0.21798788,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76ac6b53-df49-4ace-85a2-b27970830ef2",
-   "title": {
-    "en": "Kubera"
-   },
-   "contentRating": "safe",
-   "score": 0.21625209,
-   "languages": [
-    "pl",
-    "en",
     "pt-br",
-    "it",
-    "ar",
     "fr",
-    "de",
-    "fa"
+    "en",
+    "fa",
+    "id"
    ]
   },
   {
-   "id": "03bf7f38-18e6-4f98-a455-85e6b2e566f0",
+   "id": "1332d505-921c-40c0-8770-bd6d07ff4fb4",
    "title": {
-    "en": "King of Piling"
+    "en": "Shark Wyvern"
    },
    "contentRating": "safe",
-   "score": 0.21581595,
+   "score": 0.23370887,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "id": "057c89e8-40f2-4215-9bd0-754d7e5572b6",
    "title": {
-    "en": "World Trigger"
+    "en": "Monster"
    },
    "contentRating": "safe",
-   "score": 0.21404657,
+   "score": 0.23356833,
    "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "de",
-    "tr"
+    "en"
    ]
   },
   {
-   "id": "8bd77fe2-1d5d-4b60-b2e8-a428fa6cd5e7",
+   "id": "2c13176e-13b3-41d9-aafb-37923bf0d0f2",
    "title": {
-    "en": "Overbearing Loyal Dog Looking for Love"
+    "en": "Chivalry"
    },
    "contentRating": "safe",
-   "score": 0.21364245,
+   "score": 0.23356438,
    "languages": [
-    "en",
-    "fr",
-    "es"
+    "en"
+   ]
+  },
+  {
+   "id": "f68f48a1-d1f7-429e-9bfc-b60a15f4cbeb",
+   "title": {
+    "en": "Jinjujeon"
+   },
+   "contentRating": "safe",
+   "score": 0.23095089,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bd01964f-3696-468a-ab36-b94d0bbe04ee",
+   "title": {
+    "en": "Attention Seeker"
+   },
+   "contentRating": "safe",
+   "score": 0.23003791,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "13fc2758-f738-4cd7-ad31-48d318a55958",
+   "title": {
+    "en": "After School Special Supplementary class"
+   },
+   "contentRating": "safe",
+   "score": 0.22957666,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:56+00:00"
+ "updatedAt": "2023-12-10T18:35:20+00:00"
 }

@@ -6,14 +6,59 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3fd7398a-8f3e-4f1d-be8f-ce81ca7228e1",
+   "title": {
+    "en": "Aslan"
+   },
+   "contentRating": "safe",
+   "score": 0.25916255,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "e6f09443-f42d-42b8-bc09-dfcae064e83a",
    "title": {
     "en": "The Summit"
    },
    "contentRating": "safe",
-   "score": 0.2580895,
+   "score": 0.25669357,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "590d7915-aecc-40d4-ae13-449ae06b32cb",
+   "title": {
+    "en": "Nakai-kun Tachi no Himegoto"
+   },
+   "contentRating": "safe",
+   "score": 0.2551566,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2848e436-78d2-4031-9124-9d4c3592a75c",
+   "title": {
+    "en": "Hai ni Mabataki"
+   },
+   "contentRating": "safe",
+   "score": 0.24902582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
+   "title": {
+    "en": "Kaji Ryuusuke's Agenda"
+   },
+   "contentRating": "safe",
+   "score": 0.24858102,
+   "languages": [
     "en"
    ]
   },
@@ -23,18 +68,75 @@
     "en": "G-Defend"
    },
    "contentRating": "safe",
-   "score": 0.23228782,
+   "score": 0.23205458,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ae8866a6-21dd-4903-acd2-1ced3481c3c9",
+   "id": "3b91805b-2f37-4b33-965e-06b01ec7f493",
    "title": {
-    "en": "Suna o Kizamu Hari"
+    "en": "Dousei Yankee Akamatsu Seven"
    },
    "contentRating": "safe",
-   "score": 0.2183183,
+   "score": 0.23180202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "423ef7d6-c45b-4568-965e-4186488c2f0c",
+   "title": {
+    "en": "Triangle Bookend"
+   },
+   "contentRating": "safe",
+   "score": 0.23168139,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "189686fb-6570-4b6e-8f87-8be266961f16",
+   "title": {
+    "en": "Libertine Life"
+   },
+   "contentRating": "safe",
+   "score": 0.23168139,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c7525ee2-136d-40cd-aca3-b36b6ad2104f",
+   "title": {
+    "en": "Rainy Days, Yesterday"
+   },
+   "contentRating": "safe",
+   "score": 0.22262569,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "0933e4cd-2575-4f33-b21a-88af1991ea8c",
+   "title": {
+    "en": "My Daily Life With Two Dads"
+   },
+   "contentRating": "safe",
+   "score": 0.2225917,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "fec5084b-3334-497c-8886-05d70ab56f07",
+   "title": {
+    "en": "Gray"
+   },
+   "contentRating": "safe",
+   "score": 0.222028,
    "languages": [
     "en"
    ]
@@ -45,18 +147,29 @@
     "en": "SEX"
    },
    "contentRating": "safe",
-   "score": 0.21715212,
+   "score": 0.21809243,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "028240e6-d308-415d-8fc2-1e9060eb4108",
+   "id": "ae8866a6-21dd-4903-acd2-1ced3481c3c9",
    "title": {
-    "en": "Hana no Saku Koro"
+    "en": "Suna o Kizamu Hari"
    },
    "contentRating": "safe",
-   "score": 0.21692955,
+   "score": 0.21788825,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "be279e37-105e-4a6d-9519-c36db18ef6fe",
+   "title": {
+    "en": "Boku no Diamond Star"
+   },
+   "contentRating": "safe",
+   "score": 0.21663162,
    "languages": [
     "en"
    ]
@@ -67,7 +180,7 @@
     "en": "Acid Town"
    },
    "contentRating": "safe",
-   "score": 0.2163937,
+   "score": 0.21639928,
    "languages": [
     "en",
     "tr",
@@ -75,121 +188,7 @@
     "es-la",
     "pt-br"
    ]
-  },
-  {
-   "id": "6a89003e-214c-4622-b444-b733afbfac77",
-   "title": {
-    "en": "Out"
-   },
-   "contentRating": "safe",
-   "score": 0.21314257,
-   "languages": [
-    "it",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "83ddd508-d0a2-4f18-a0bf-d236301caaca",
-   "title": {
-    "en": "Boku no Yasashii Oniisan"
-   },
-   "contentRating": "safe",
-   "score": 0.21244366,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c619fde7-c5db-40f6-ac1f-e68c6d81f68f",
-   "title": {
-    "en": "Saijoukyuu FORTUNE"
-   },
-   "contentRating": "safe",
-   "score": 0.21162851,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e537dd2-74fd-4e90-928e-ebdd9e18626b",
-   "title": {
-    "en": "Close Your Eyes"
-   },
-   "contentRating": "safe",
-   "score": 0.2100931,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "96d3d5c5-efc9-4e1f-bab5-33343f4d45d3",
-   "title": {
-    "en": "Black Trick"
-   },
-   "contentRating": "safe",
-   "score": 0.2050345,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89fda578-ef81-4669-907e-df837c74627a",
-   "title": {
-    "en": "Combination"
-   },
-   "contentRating": "safe",
-   "score": 0.20272021,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "705930e5-0d70-4372-aaeb-5b14b74a6918",
-   "title": {
-    "en": "Soshite Tsuzuki ga Aru no Nara"
-   },
-   "contentRating": "safe",
-   "score": 0.20098999,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c2de9ed-5fab-4337-bd87-78df95cad4af",
-   "title": {
-    "en": "Hidamari ga Kikoeru"
-   },
-   "contentRating": "safe",
-   "score": 0.20064197,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "4199bccd-6ba7-4eee-ac64-1414dd3fcad7",
-   "title": {
-    "en": "KiraKira"
-   },
-   "contentRating": "safe",
-   "score": 0.20064197,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08f54fb5-2881-4228-9c92-cb5fac5265cc",
-   "title": {
-    "en": "After"
-   },
-   "contentRating": "safe",
-   "score": 0.20064197,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:56+00:00"
+ "updatedAt": "2023-12-10T18:08:50+00:00"
 }

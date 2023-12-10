@@ -6,12 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
    "title": {
-    "en": "Outlaw Man"
+    "en": "Detective Conan Special"
    },
    "contentRating": "safe",
-   "score": 0.23788472,
+   "score": 0.23896039,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.23754501,
+   "score": 0.23690058,
    "languages": [
     "id",
     "en",
@@ -43,12 +43,23 @@
    ]
   },
   {
+   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
+   "title": {
+    "en": "Outlaw Man"
+   },
+   "contentRating": "safe",
+   "score": 0.23674358,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
    "title": {
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.20927313,
+   "score": 0.20919138,
    "languages": [
     "en",
     "pt-br"
@@ -60,7 +71,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.20910405,
+   "score": 0.20768772,
    "languages": [
     "es-la",
     "pt-br",
@@ -75,7 +86,7 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.20720616,
+   "score": 0.20736931,
    "languages": [
     "pl",
     "en"
@@ -87,7 +98,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.20536222,
+   "score": 0.20523283,
    "languages": [
     "en"
    ]
@@ -98,9 +109,20 @@
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.19545148,
+   "score": 0.19544248,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "5b21ae0e-966e-43be-9f96-ee08ebfde5d0",
+   "title": {
+    "en": "The Call of Animals"
+   },
+   "contentRating": "safe",
+   "score": 0.19509703,
+   "languages": [
     "en"
    ]
   },
@@ -110,8 +132,24 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.19370857,
+   "score": 0.19364108,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a92bd70d-a716-4e48-90c6-137682742137",
+   "title": {
+    "en": "Ron Kamonohashi: Deranged Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.18685524,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "th",
+    "id",
+    "ru",
     "en"
    ]
   },
@@ -121,7 +159,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.18735969,
+   "score": 0.1868188,
    "languages": [
     "en"
    ]
@@ -143,9 +181,26 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.18623254,
+   "score": 0.18593988,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "edf170db-288b-4773-90df-1c542c69d4e9",
+   "title": {
+    "en": "Kemono Jihen"
+   },
+   "contentRating": "safe",
+   "score": 0.18554246,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "ru",
+    "tr",
+    "lt",
+    "hu"
    ]
   },
   {
@@ -154,7 +209,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.18536453,
+   "score": 0.18495834,
    "languages": [
     "ru",
     "tr",
@@ -165,55 +220,7 @@
     "zh-hk",
     "id"
    ]
-  },
-  {
-   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
-   "title": {
-    "en": "The Thief of Shanghai"
-   },
-   "contentRating": "safe",
-   "score": 0.18461049,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e277c4bc-2531-4f95-8ab9-852dbd5e45bd",
-   "title": {
-    "en": "Ordinary Child"
-   },
-   "contentRating": "safe",
-   "score": 0.18307689,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
-   "title": {
-    "en": "The Elusive Samurai"
-   },
-   "contentRating": "safe",
-   "score": 0.18286487,
-   "languages": [
-    "en",
-    "fr",
-    "ru",
-    "vi",
-    "es-la"
-   ]
-  },
-  {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.18231665,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:29+00:00"
+ "updatedAt": "2023-12-10T18:18:28+00:00"
 }

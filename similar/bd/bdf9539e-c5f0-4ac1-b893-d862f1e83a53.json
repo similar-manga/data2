@@ -6,38 +6,80 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6166c08e-cca6-4a25-9233-14be0d0ab9d2",
+   "title": {
+    "en": "Absolute Martial Arts"
+   },
+   "contentRating": "safe",
+   "score": 0.33987755,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "9d685cb5-594b-4891-9f98-e50bfee0ffa4",
+   "title": {
+    "en": "Masters of Lightning Knives"
+   },
+   "contentRating": "safe",
+   "score": 0.31822896,
+   "languages": [
+    "en",
+    "fr",
+    "pl",
+    "id",
+    "fa"
+   ]
+  },
+  {
    "id": "045d9ed7-2600-4472-8141-1bd61532ad06",
    "title": {
     "en": "Superpowered Warrior"
    },
    "contentRating": "safe",
-   "score": 0.31076732,
+   "score": 0.3060612,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8837b342-ba75-4749-90f6-6d0119ac0ff8",
+   "id": "ac61efa1-197d-4b4b-844b-6b0c0645a9f8",
    "title": {
-    "en": "Youngest Son of the NamGung Clan"
+    "en": "Zodiac: Twelve Souls"
    },
    "contentRating": "safe",
-   "score": 0.31057653,
+   "score": 0.29417983,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f249f19c-62a6-4108-844a-b655c0597f97",
+   "id": "3000502f-cedb-4c5a-9273-98f6af5991c0",
    "title": {
-    "en": "The Peerless Sword God"
+    "en": "Tale of a Scribe Who Retires to the Countryside"
    },
    "contentRating": "safe",
-   "score": 0.289255,
+   "score": 0.29203838,
    "languages": [
+    "it",
     "fr",
     "en",
-    "it"
+    "es",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3dc41d88-ad01-406c-8663-1b5bd099839d",
+   "title": {
+    "en": "My Disciples Are Super Gods"
+   },
+   "contentRating": "safe",
+   "score": 0.29029906,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
    ]
   },
   {
@@ -46,7 +88,7 @@
     "en": "Zhi Zun Shen Mo"
    },
    "contentRating": "safe",
-   "score": 0.28520215,
+   "score": 0.28070292,
    "languages": [
     "en"
    ]
@@ -57,20 +99,9 @@
     "en": "Ultimate Path Martial Arts"
    },
    "contentRating": "safe",
-   "score": 0.28395063,
+   "score": 0.2788598,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "d364a3e4-4aad-4f14-b0c4-aaf9ff09a017",
-   "title": {
-    "en": "Reincarnated as an Unruly Heir"
-   },
-   "contentRating": "safe",
-   "score": 0.28063667,
-   "languages": [
-    "fr"
    ]
   },
   {
@@ -79,7 +110,7 @@
     "en": "Heavenly Sword's Grand Saga"
    },
    "contentRating": "safe",
-   "score": 0.27973828,
+   "score": 0.27780148,
    "languages": [
     "pt-br",
     "en",
@@ -93,24 +124,20 @@
     "en": "Shenwu Tianzun"
    },
    "contentRating": "safe",
-   "score": 0.27759227,
+   "score": 0.27710375,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3f38adf6-145c-4a04-b220-1ed8b5a20b55",
+   "id": "d364a3e4-4aad-4f14-b0c4-aaf9ff09a017",
    "title": {
-    "en": "Heavenly Demon Reborn!"
+    "en": "Reincarnated as an Unruly Heir"
    },
    "contentRating": "safe",
-   "score": 0.27666157,
+   "score": 0.2752555,
    "languages": [
-    "fr",
-    "tr",
-    "pl",
-    "ru",
-    "en"
+    "fr"
    ]
   },
   {
@@ -119,7 +146,7 @@
     "en": "The Invincible Princess Is Bored Again Today"
    },
    "contentRating": "safe",
-   "score": 0.27483952,
+   "score": 0.27368835,
    "languages": [
     "en",
     "hu",
@@ -129,15 +156,18 @@
    ]
   },
   {
-   "id": "5fc2aff1-aa09-4705-8c73-a031c4d62249",
+   "id": "3f38adf6-145c-4a04-b220-1ed8b5a20b55",
    "title": {
-    "en": "I Upgrade by Rewarding Apprentices"
+    "en": "Heavenly Demon Reborn!"
    },
    "contentRating": "safe",
-   "score": 0.27465636,
+   "score": 0.27350172,
    "languages": [
-    "en",
-    "fr"
+    "fr",
+    "tr",
+    "pl",
+    "ru",
+    "en"
    ]
   },
   {
@@ -146,64 +176,39 @@
     "en": "My Senior Brother Is Too Steady"
    },
    "contentRating": "safe",
-   "score": 0.27347746,
+   "score": 0.27336663,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "d3e8cfb4-da3a-4baf-87d0-2dceb3c6ca90",
+   "id": "5fc2aff1-aa09-4705-8c73-a031c4d62249",
    "title": {
-    "en": "Global Martial Artist"
+    "en": "I Upgrade by Rewarding Apprentices"
    },
    "contentRating": "safe",
-   "score": 0.27240655,
+   "score": 0.273142,
    "languages": [
-    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "1d5e923f-71e0-4bb5-aa75-3f42b7fcb109",
+   "title": {
+    "en": "Above All Gods"
+   },
+   "contentRating": "safe",
+   "score": 0.27258193,
+   "languages": [
+    "ar",
+    "en",
     "fr",
-    "en",
-    "pl",
-    "id"
-   ]
-  },
-  {
-   "id": "892cf5fe-b80d-41a8-ba47-66428dfef022",
-   "title": {
-    "en": "Master of the Martial Arts Library"
-   },
-   "contentRating": "safe",
-   "score": 0.26988015,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09656afb-aaf9-4f9b-95fd-873cb537ddc3",
-   "title": {
-    "en": "Return of the Mad Demon"
-   },
-   "contentRating": "safe",
-   "score": 0.26929963,
-   "languages": [
-    "pl",
     "pt-br",
-    "it",
-    "fa",
-    "uk"
-   ]
-  },
-  {
-   "id": "ba8ee0c2-b5ed-4203-be51-a717588ecc15",
-   "title": {
-    "en": "My Apprentice: Game Over Again!"
-   },
-   "contentRating": "safe",
-   "score": 0.26864725,
-   "languages": [
-    "pt-br"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:35+00:00"
+ "updatedAt": "2023-12-10T18:29:32+00:00"
 }

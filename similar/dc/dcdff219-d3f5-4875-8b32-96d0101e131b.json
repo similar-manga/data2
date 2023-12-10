@@ -11,7 +11,7 @@
     "en": "Alma De Un Solo Color"
    },
    "contentRating": "safe",
-   "score": 0.36903587
+   "score": 0.37363133
   },
   {
    "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
@@ -19,7 +19,7 @@
     "en": "ERROR US"
    },
    "contentRating": "safe",
-   "score": 0.35113615
+   "score": 0.33222678
   },
   {
    "id": "eaf58b68-82e0-4235-bec8-b1cac3f2e455",
@@ -27,7 +27,7 @@
     "en": "El Perro del Gorro Atornillado al Cráneo"
    },
    "contentRating": "safe",
-   "score": 0.3048853
+   "score": 0.30925664
   },
   {
    "id": "7f9df789-2372-4cf8-bd54-021de9d757ef",
@@ -35,7 +35,7 @@
     "en": "Kokenoshima"
    },
    "contentRating": "safe",
-   "score": 0.28732094,
+   "score": 0.28834662,
    "languages": [
     "tr",
     "en"
@@ -47,7 +47,7 @@
     "en": "GALAXIAS"
    },
    "contentRating": "safe",
-   "score": 0.2716091,
+   "score": 0.27525273,
    "languages": [
     "fa",
     "es-la",
@@ -63,7 +63,7 @@
     "en": "Brother in the Doll"
    },
    "contentRating": "safe",
-   "score": 0.25977603,
+   "score": 0.2645756,
    "languages": [
     "en",
     "hu",
@@ -73,40 +73,28 @@
    ]
   },
   {
-   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
-   "title": {
-    "en": "Joreishi Rentaro no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.25620925,
-   "languages": [
-    "it",
-    "pt-br",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
    "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
    "title": {
     "en": "Mercy"
    },
    "contentRating": "safe",
-   "score": 0.25549507,
+   "score": 0.25674585,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
+   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
    "title": {
-    "en": "Roll"
+    "en": "Joreishi Rentaro no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.24286817,
+   "score": 0.2539275,
    "languages": [
     "it",
+    "pt-br",
+    "zh-hk",
     "en"
    ]
   },
@@ -116,7 +104,7 @@
     "en": "Adabana"
    },
    "contentRating": "safe",
-   "score": 0.24160296,
+   "score": 0.24245869,
    "languages": [
     "ca",
     "en",
@@ -126,13 +114,14 @@
    ]
   },
   {
-   "id": "92997fa3-d957-4e72-9531-2cbce8974ddd",
+   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
    "title": {
-    "en": "ChunChu"
+    "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.2385202,
+   "score": 0.2422389,
    "languages": [
+    "it",
     "en"
    ]
   },
@@ -142,7 +131,7 @@
     "en": "The Beautiful Ones"
    },
    "contentRating": "safe",
-   "score": 0.23647034,
+   "score": 0.23970553,
    "languages": [
     "vi",
     "es",
@@ -154,15 +143,25 @@
    ]
   },
   {
-   "id": "f93697cd-ee8c-472c-a0c8-9479d3df09db",
+   "id": "ae778911-acc6-48fe-b26b-fe801118d3e7",
    "title": {
-    "en": "Jekyll no Tsukaima"
+    "en": "My Little Goddess"
    },
    "contentRating": "safe",
-   "score": 0.23617987,
+   "score": 0.23882583,
    "languages": [
-    "en",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "92997fa3-d957-4e72-9531-2cbce8974ddd",
+   "title": {
+    "en": "ChunChu"
+   },
+   "contentRating": "safe",
+   "score": 0.23709036,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -171,18 +170,18 @@
     "en": "Skeleton Bolt"
    },
    "contentRating": "safe",
-   "score": 0.234937
+   "score": 0.2347648
   },
   {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "id": "f93697cd-ee8c-472c-a0c8-9479d3df09db",
    "title": {
-    "en": "SKY CLAW"
+    "en": "Jekyll no Tsukaima"
    },
    "contentRating": "safe",
-   "score": 0.23470342,
+   "score": 0.23415674,
    "languages": [
-    "fr",
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -191,7 +190,7 @@
     "en": "Ossan wa Ore no 〇〇 ni Kizukanai"
    },
    "contentRating": "safe",
-   "score": 0.23419046,
+   "score": 0.2337039,
    "languages": [
     "vi",
     "id",
@@ -200,5 +199,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:52+00:00"
+ "updatedAt": "2023-12-10T18:32:45+00:00"
 }

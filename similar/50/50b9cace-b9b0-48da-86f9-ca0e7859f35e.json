@@ -11,7 +11,7 @@
     "en": "Tokyoin Reika, the Billionaire"
    },
    "contentRating": "safe",
-   "score": 0.26290354,
+   "score": 0.2596253,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.25406283,
+   "score": 0.25345966,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Nice to Meet You! The Pure-Hearted Fellow"
    },
    "contentRating": "safe",
-   "score": 0.25075904,
+   "score": 0.25064668,
    "languages": [
     "en"
    ]
@@ -56,21 +56,10 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.24539456,
+   "score": 0.2443859,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
-   "title": {
-    "en": "Gakuen Utopia Manabi Straight!"
-   },
-   "contentRating": "safe",
-   "score": 0.23722614,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -79,19 +68,31 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.23704603,
+   "score": 0.23692538,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
+   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
    "title": {
-    "en": "Just Date Each Other Already!"
+    "en": "Gakuen Utopia Manabi Straight!"
+   },
+   "contentRating": "safe",
+   "score": 0.23639522,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6ba9077-8623-4c8f-a880-3718357c1dc3",
+   "title": {
+    "en": "Koi ni Utsutsu wo Nukasu Bekarazu!!"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
+    "pl",
     "en"
    ]
   },
@@ -108,14 +109,13 @@
    ]
   },
   {
-   "id": "e6ba9077-8623-4c8f-a880-3718357c1dc3",
+   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
    "title": {
-    "en": "Koi ni Utsutsu wo Nukasu Bekarazu!!"
+    "en": "Just Date Each Other Already!"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
-    "pl",
     "en"
    ]
   },
@@ -132,43 +132,18 @@
    ]
   },
   {
-   "id": "442650cc-b442-4f24-a504-a3b35af7c57f",
-   "title": {
-    "en": "Nijou Taka Koukou Rojou Kansatsu-bu"
-   },
-   "contentRating": "safe",
-   "score": 0.2223733,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "bc600082-5fac-4146-be78-8db50af0a680",
    "title": {
     "en": "Kuroi-san After School"
    },
    "contentRating": "safe",
-   "score": 0.2220473,
+   "score": 0.22150911,
    "languages": [
     "de",
     "vi",
     "pt-br",
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "792e28fb-27be-425d-b92a-64e2d5474657",
-   "title": {
-    "en": "Akane-banashi"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "it"
    ]
   },
   {
@@ -196,7 +171,32 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "792e28fb-27be-425d-b92a-64e2d5474657",
+   "title": {
+    "en": "Akane-banashi"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "fr",
+    "es-la",
+    "it"
+   ]
+  },
+  {
+   "id": "442650cc-b442-4f24-a504-a3b35af7c57f",
+   "title": {
+    "en": "Nijou Taka Koukou Rojou Kansatsu-bu"
+   },
+   "contentRating": "safe",
+   "score": 0.22064339,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:55+00:00"
+ "updatedAt": "2023-12-10T18:17:01+00:00"
 }

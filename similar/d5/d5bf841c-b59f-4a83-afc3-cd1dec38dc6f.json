@@ -11,7 +11,7 @@
     "en": "Otouto wo Kareshi ni Suru Houhou"
    },
    "contentRating": "safe",
-   "score": 0.3225956,
+   "score": 0.32050684,
    "languages": [
     "pl"
    ]
@@ -22,7 +22,7 @@
     "en": "Almighty X 10"
    },
    "contentRating": "safe",
-   "score": 0.29735485,
+   "score": 0.29581532,
    "languages": [
     "en",
     "pl"
@@ -58,7 +58,7 @@
     "en": "Mairunovich"
    },
    "contentRating": "safe",
-   "score": 0.2596874,
+   "score": 0.25895762,
    "languages": [
     "en",
     "pt-br",
@@ -96,7 +96,7 @@
     "en": "Boku no Ie ni Oide"
    },
    "contentRating": "safe",
-   "score": 0.24969645,
+   "score": 0.24895291,
    "languages": [
     "en",
     "pl",
@@ -104,9 +104,32 @@
    ]
   },
   {
+   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
+   "title": {
+    "en": "Koigokoro Senpukuchuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
    "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
    "title": {
     "en": "Hana ni Kedamono"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "aef1cc5c-2506-4afa-96ca-b20dbf643466",
+   "title": {
+    "en": "Sokkuri Mate"
    },
    "contentRating": "safe",
    "score": 0.23847859,
@@ -128,9 +151,9 @@
    ]
   },
   {
-   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
+   "id": "5a2da084-5c0b-4e8c-8b9b-2fd2032c791e",
    "title": {
-    "en": "Koigokoro Senpukuchuu"
+    "en": "Return"
    },
    "contentRating": "safe",
    "score": 0.23847859,
@@ -150,6 +173,18 @@
    ]
   },
   {
+   "id": "e8b28147-a921-495e-b9b7-4d1c517675aa",
+   "title": {
+    "en": "The Astrometry"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "c0a7ad12-685c-42b2-8276-7a07ebcd777d",
    "title": {
     "en": "Naisho no Tsubomi"
@@ -160,45 +195,7 @@
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
-   "title": {
-    "en": "Skip Beat!"
-   },
-   "contentRating": "safe",
-   "score": 0.22535999,
-   "languages": [
-    "en",
-    "pl",
-    "ar",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "23d9293a-999e-4736-ba43-6d6b8109a6fa",
-   "title": {
-    "en": "Spicy Recipe"
-   },
-   "contentRating": "safe",
-   "score": 0.22421616,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
-   "title": {
-    "en": "Megane Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.22385608,
-   "languages": [
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:34+00:00"
+ "updatedAt": "2023-12-10T18:32:00+00:00"
 }

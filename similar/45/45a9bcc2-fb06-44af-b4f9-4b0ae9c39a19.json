@@ -11,7 +11,7 @@
     "en": "Clannad - 4-koma Manga Gekijou"
    },
    "contentRating": "safe",
-   "score": 0.40776023,
+   "score": 0.39095002,
    "languages": [
     "en"
    ]
@@ -22,23 +22,46 @@
     "en": "Little Busters! EX The 4koma"
    },
    "contentRating": "safe",
-   "score": 0.3596258,
+   "score": 0.3463088,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "5043289e-596b-4734-8a5d-37943fe515c7",
+   "id": "2afa0331-8e5d-4847-b929-e19a7c15d274",
    "title": {
-    "en": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku"
+    "en": "Danganronpa - The Academy of Hope and the High School Students of Despair 4-koma Kings"
    },
    "contentRating": "safe",
-   "score": 0.35744876,
+   "score": 0.32508296,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b312a68e-2f96-4829-819f-4d99008c44d9",
+   "title": {
+    "en": "Castlevania 4koma"
+   },
+   "contentRating": "safe",
+   "score": 0.3170606,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4699775f-57f7-4896-987c-fe5e57403d8f",
+   "title": {
+    "en": "Satsuten!"
+   },
+   "contentRating": "safe",
+   "score": 0.3156256,
    "languages": [
     "en",
-    "vi",
-    "de"
+    "pt-br",
+    "es",
+    "pl"
    ]
   },
   {
@@ -47,20 +70,32 @@
     "en": "Magi-Cu 4-koma - Steins;Gate - Sekaisen Hendouritsu x. 091015%"
    },
    "contentRating": "safe",
-   "score": 0.33338076,
+   "score": 0.31459895,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "42973dd1-290f-45e2-aa7d-0b2efc0edf0f",
+   "id": "4af7c4b1-262c-426f-b86a-051c99b9f503",
    "title": {
-    "en": "Jibun ga Twintail no Kawaii Onnanoko da to Omoikonde, Kyou no Dekigoto wo 4koma ni Suru"
+    "en": "Mio's Diary"
    },
    "contentRating": "safe",
-   "score": 0.3228456,
+   "score": 0.31004784,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "23b51846-bec4-41e4-a9a2-a034064d01eb",
+   "title": {
+    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic"
+   },
+   "contentRating": "safe",
+   "score": 0.30921695,
+   "languages": [
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -69,40 +104,7 @@
     "en": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru 4-Koma"
    },
    "contentRating": "safe",
-   "score": 0.3168861,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d212f83c-743a-43b2-93fa-510d03e67200",
-   "title": {
-    "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Official 4koma Anthology"
-   },
-   "contentRating": "safe",
-   "score": 0.31569964,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871f6e9b-8ead-4dfc-854b-e64cf2f59307",
-   "title": {
-    "en": "Kounago Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.3126945,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f0b5f6dd-24c0-434d-92ad-20e354866c2f",
-   "title": {
-    "en": "Kyoukai Senjou no Horizon (Anthology)"
-   },
-   "contentRating": "safe",
-   "score": 0.3082646,
+   "score": 0.30456972,
    "languages": [
     "en"
    ]
@@ -113,9 +115,67 @@
     "en": "Akuno Himitsu Kessha"
    },
    "contentRating": "safe",
-   "score": 0.30764115,
+   "score": 0.3043254,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "42973dd1-290f-45e2-aa7d-0b2efc0edf0f",
+   "title": {
+    "en": "Jibun ga Twintail no Kawaii Onnanoko da to Omoikonde, Kyou no Dekigoto wo 4koma ni Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.3034551,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
+   "title": {
+    "en": "Hyper Ultra Girlish"
+   },
+   "contentRating": "safe",
+   "score": 0.30307397,
+   "languages": [
+    "ru",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "871f6e9b-8ead-4dfc-854b-e64cf2f59307",
+   "title": {
+    "en": "Kounago Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.30253655,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d212f83c-743a-43b2-93fa-510d03e67200",
+   "title": {
+    "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Official 4koma Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.29900706,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
+   "title": {
+    "en": "Minigram (MILGRAM 4koma)"
+   },
+   "contentRating": "safe",
+   "score": 0.29835165,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -124,68 +184,11 @@
     "en": "Gensou Suikoden V - 4koma Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.30626157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b9906d2-19fb-4575-ac75-0b2e2e02fdd8",
-   "title": {
-    "en": "Re-Kan!"
-   },
-   "contentRating": "safe",
-   "score": 0.30531746,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "23b51846-bec4-41e4-a9a2-a034064d01eb",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic"
-   },
-   "contentRating": "safe",
-   "score": 0.30493265,
-   "languages": [
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "70d20ce1-00e9-46a8-be99-5a1d0758a5b1",
-   "title": {
-    "en": "Quick Start!!"
-   },
-   "contentRating": "safe",
-   "score": 0.3006771,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e9732e7-0d69-43a6-9379-b4693c0c539f",
-   "title": {
-    "en": "Gekibuno."
-   },
-   "contentRating": "safe",
-   "score": 0.2995219,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97df4abb-504d-4e8b-898e-bf1bdb9f523a",
-   "title": {
-    "en": "Kantai Collection -KanColle- 4-koma Comic: Fubuki, Ganbarimasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.29728243,
+   "score": 0.29793352,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:26+00:00"
+ "updatedAt": "2023-12-10T18:15:51+00:00"
 }

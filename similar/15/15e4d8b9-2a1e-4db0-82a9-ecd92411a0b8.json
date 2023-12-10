@@ -6,6 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.28219837,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
    "title": {
     "en": "Atrocious Fairy Tales for Adults"
@@ -22,7 +36,7 @@
     "en": "Chloroform"
    },
    "contentRating": "safe",
-   "score": 0.21834545,
+   "score": 0.21846406,
    "languages": [
     "es-la",
     "en"
@@ -34,7 +48,18 @@
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.21795139,
+   "score": 0.21429214,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
+   "title": {
+    "en": "Material Polka"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
    "languages": [
     "en"
    ]
@@ -51,15 +76,79 @@
    ]
   },
   {
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
+   "title": {
+    "en": "Yorukumo"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "66452183-f3d9-48aa-b58e-9b19ab082c1f",
+   "title": {
+    "en": "Edogawa Osamu's Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.20299341,
+   "languages": [
+    "es-la",
+    "en",
+    "ru",
+    "vi",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
    "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
    "title": {
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.20165063,
+   "score": 0.20141993,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.2001352,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.20008944,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Snow and Ink"
+   },
+   "contentRating": "safe",
+   "score": 0.19827265,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -75,144 +164,44 @@
    ]
   },
   {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "Fool Night"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
-   "score": 0.1963962,
+   "score": 0.19827265,
    "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
-   "title": {
-    "en": "Vampir"
-   },
-   "contentRating": "safe",
-   "score": 0.19403595,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
-   "title": {
-    "en": "Second Coming"
-   },
-   "contentRating": "safe",
-   "score": 0.1927029,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "07e67401-a3b5-47dc-adc1-205f5cae6e10",
-   "title": {
-    "en": "Nightmares"
-   },
-   "contentRating": "safe",
-   "score": 0.1927029,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "6de510fb-cb39-45e9-8548-b211cdb0b771",
-   "title": {
-    "en": "Dantalian no Shoka"
-   },
-   "contentRating": "safe",
-   "score": 0.1927029,
-   "languages": [
-    "es",
     "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0",
+   "title": {
+    "en": "Fish"
+   },
+   "contentRating": "safe",
+   "score": 0.19827265,
+   "languages": [
+    "es-la",
+    "zh-hk",
     "en"
    ]
   },
   {
-   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
    "title": {
-    "en": "He Was My Brother"
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
    },
    "contentRating": "safe",
-   "score": 0.1927029,
+   "score": 0.19827265,
    "languages": [
+    "id",
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "f0954799-3cbd-4be0-805e-29161edfa312",
-   "title": {
-    "en": "Death Edge"
-   },
-   "contentRating": "safe",
-   "score": 0.1927029,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "5e9e50a7-39cc-447c-a5b3-a459bebd7f62",
-   "title": {
-    "en": "Human Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.19257645,
-   "languages": [
-    "en",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
-   "title": {
-    "en": "【Oshi no Ko】"
-   },
-   "contentRating": "safe",
-   "score": 0.18809794,
-   "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
-   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
-   "title": {
-    "en": "Tales of the Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.18809794,
-   "languages": [
-    "vi",
-    "en",
-    "pl",
-    "it",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:36+00:00"
+ "updatedAt": "2023-12-10T18:10:41+00:00"
 }

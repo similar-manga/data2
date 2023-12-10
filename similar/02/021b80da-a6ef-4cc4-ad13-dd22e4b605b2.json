@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a7ce69e5-445e-40c8-b90f-ec80848cda78",
+   "title": {
+    "en": "Royal Agent"
+   },
+   "contentRating": "safe",
+   "score": 0.32554758,
+   "languages": [
+    "ru",
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "a1b35f72-a7de-46bf-a6c2-fe60992efd79",
    "title": {
     "en": "The Ring of the Seven Worlds"
@@ -22,7 +35,18 @@
     "en": "Phantasy Star - Third"
    },
    "contentRating": "safe",
-   "score": 0.28035766,
+   "score": 0.27995676,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1e232820-d044-45f6-94aa-f08101ade2b2",
+   "title": {
+    "en": "Nightingale"
+   },
+   "contentRating": "safe",
+   "score": 0.27456528,
    "languages": [
     "en"
    ]
@@ -33,9 +57,20 @@
     "en": "Metalial Story"
    },
    "contentRating": "safe",
-   "score": 0.26098824,
+   "score": 0.26041612,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "84fe7ebe-dddc-4768-a408-f3349482b333",
+   "title": {
+    "en": "My Beautiful Agent Wife"
+   },
+   "contentRating": "safe",
+   "score": 0.25285017,
+   "languages": [
     "en"
    ]
   },
@@ -45,7 +80,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.2503332,
+   "score": 0.25107753,
    "languages": [
     "en"
    ]
@@ -67,7 +102,7 @@
     "en": "Fate/hollow ataraxia"
    },
    "contentRating": "safe",
-   "score": 0.24538364,
+   "score": 0.24569789,
    "languages": [
     "en",
     "fr",
@@ -80,7 +115,18 @@
     "en": "Peigenz"
    },
    "contentRating": "safe",
-   "score": 0.24523784,
+   "score": 0.2449868,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f0e7d0e7-9ad5-431e-8c80-45c35b0e7732",
+   "title": {
+    "en": "Inzak"
+   },
+   "contentRating": "safe",
+   "score": 0.24488367,
    "languages": [
     "en"
    ]
@@ -91,10 +137,26 @@
     "en": "Duo Xuan Shi"
    },
    "contentRating": "safe",
-   "score": 0.24334668,
+   "score": 0.24394904,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "acd72dd4-3ec3-4730-b55d-c6b719c782a3",
+   "title": {
+    "en": "World Teacher – Other World Style Education \u0026 Agent"
+   },
+   "contentRating": "safe",
+   "score": 0.24250874,
+   "languages": [
+    "en",
+    "es-la",
+    "id",
+    "fr",
+    "pt-br",
+    "tr"
    ]
   },
   {
@@ -103,10 +165,21 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.2393799,
+   "score": 0.23872624,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "2355e85c-c819-4e65-ad7b-5a8646349461",
+   "title": {
+    "en": "Princess Agent"
+   },
+   "contentRating": "safe",
+   "score": 0.23530461,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -115,77 +188,11 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.23635003,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "872699f8-36f3-42fb-b333-d9dc087ff5af",
-   "title": {
-    "en": "System Crashers"
-   },
-   "contentRating": "safe",
-   "score": 0.2351325,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
-   "title": {
-    "en": "Version"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
-   "title": {
-    "en": "Astral Walker"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "42289724-53ab-4016-9812-cdb6a7d7ea0a",
-   "title": {
-    "en": "Scavengers Another Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a2e59283-eee1-4fb3-8ee3-fffa701d31d0",
-   "title": {
-    "en": "Yoake Mae ni Shinu"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b964c8aa-662b-4d3e-a130-215a0144bf44",
-   "title": {
-    "en": "Frame Saber"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23529251,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:50+00:00"
+ "updatedAt": "2023-12-10T18:08:35+00:00"
 }

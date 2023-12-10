@@ -11,7 +11,7 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.23669942,
+   "score": 0.23764,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Sand Storm Boarders"
    },
    "contentRating": "safe",
-   "score": 0.23440845,
+   "score": 0.23346458,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Medabot Reloaded"
    },
    "contentRating": "safe",
-   "score": 0.22429608,
+   "score": 0.22345886,
    "languages": [
     "en",
     "es-la"
@@ -45,7 +45,7 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.22427592,
+   "score": 0.22335067,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Brave Universe Sworgrader"
    },
    "contentRating": "safe",
-   "score": 0.21093129,
+   "score": 0.2099507,
    "languages": [
     "es-la",
     "en"
@@ -79,7 +79,7 @@
     "en": "Heart Gear"
    },
    "contentRating": "safe",
-   "score": 0.20409329,
+   "score": 0.20255315,
    "languages": [
     "id",
     "en",
@@ -96,7 +96,18 @@
     "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
    },
    "contentRating": "safe",
-   "score": 0.20080063,
+   "score": 0.20001608,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
+   "title": {
+    "en": "Microman: The Small Giant + Red Powers"
+   },
+   "contentRating": "safe",
+   "score": 0.19785473,
    "languages": [
     "en"
    ]
@@ -107,7 +118,7 @@
     "en": "Pen Pal at the End of the World"
    },
    "contentRating": "safe",
-   "score": 0.20059358,
+   "score": 0.19633496,
    "languages": [
     "ru",
     "fr",
@@ -121,23 +132,12 @@
    ]
   },
   {
-   "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
-   "title": {
-    "en": "Microman: The Small Giant + Red Powers"
-   },
-   "contentRating": "safe",
-   "score": 0.19778782,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
    "title": {
     "en": "Mobile Suit Gundam N-Extreme"
    },
    "contentRating": "safe",
-   "score": 0.1977811,
+   "score": 0.19571382,
    "languages": [
     "en"
    ]
@@ -154,12 +154,25 @@
    ]
   },
   {
+   "id": "082857f5-740c-4556-9625-479d52124eea",
+   "title": {
+    "en": "Mazinkaiser vs Shin Getter Robo"
+   },
+   "contentRating": "safe",
+   "score": 0.18412797,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
    "title": {
     "en": "Me \u0026 Roboco"
    },
    "contentRating": "safe",
-   "score": 0.18196136,
+   "score": 0.180284,
    "languages": [
     "fr",
     "pt-br",
@@ -173,35 +186,23 @@
     "en": "Sachie-chan Guu!!"
    },
    "contentRating": "safe",
-   "score": 0.18023884,
+   "score": 0.17982121,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c673728f-332a-4474-87af-9c66b9096d5b",
+   "id": "4c408bb7-4207-44f2-a953-b08936eef9a8",
    "title": {
-    "en": "Mecha-Ude: Mechanical Arms"
+    "en": "Macross 7th Chord"
    },
    "contentRating": "safe",
    "score": 0.1787909,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "63dac493-f796-4aa6-b453-7cf1fe4be596",
-   "title": {
-    "en": "Toaru Majutsu no Virtual-On"
-   },
-   "contentRating": "safe",
-   "score": 0.1787909,
-   "languages": [
-    "es-la",
-    "zh",
-    "en"
+    "en",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:14+00:00"
+ "updatedAt": "2023-12-10T18:25:46+00:00"
 }

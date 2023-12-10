@@ -11,7 +11,7 @@
     "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.29745415,
+   "score": 0.2966356,
    "languages": [
     "pl",
     "en",
@@ -24,7 +24,7 @@
     "en": "Seaside Return"
    },
    "contentRating": "safe",
-   "score": 0.29007974,
+   "score": 0.2901242,
    "languages": [
     "en"
    ]
@@ -54,6 +54,17 @@
    ]
   },
   {
+   "id": "dd27c4db-67e3-4786-97de-ca934eb529e1",
+   "title": {
+    "en": "I Can't Throw Away Books"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "19878414-f05e-4f4a-8789-2b552b381402",
    "title": {
     "en": "Entryway"
@@ -66,23 +77,12 @@
    ]
   },
   {
-   "id": "dd27c4db-67e3-4786-97de-ca934eb529e1",
-   "title": {
-    "en": "I Can't Throw Away Books"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
    "title": {
     "en": "Sensei, Ote o Douzo?"
    },
    "contentRating": "safe",
-   "score": 0.2444616,
+   "score": 0.24384548,
    "languages": [
     "en"
    ]
@@ -93,7 +93,7 @@
     "en": "By the Tama River"
    },
    "contentRating": "safe",
-   "score": 0.24421203,
+   "score": 0.2438039,
    "languages": [
     "en",
     "pt-br",
@@ -106,34 +106,55 @@
     "en": "Living with a Zashiki-warashi"
    },
    "contentRating": "safe",
-   "score": 0.24332507,
+   "score": 0.24265999,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e65c4964-668c-4fed-833a-638581ec65a1",
+   "id": "7980ff2e-0e78-4830-bf9e-f18fc2d15600",
    "title": {
-    "en": "Canon"
+    "en": "Our Time of Dawn"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
-    "es-la",
     "en",
-    "vi"
+    "it"
    ]
   },
   {
-   "id": "b5c843ee-ae77-41ea-9de7-985b1740bc9f",
+   "id": "ee12e48c-662b-4e08-bb70-b782de017fde",
    "title": {
-    "en": "Furachi na Yuuwaku"
+    "en": "Colors"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
+   ]
+  },
+  {
+   "id": "efd3841a-d4a6-4e16-9f91-e5737b47fe80",
+   "title": {
+    "en": "Sakura no Ki no Shita ni wa"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "8a5f053b-fae1-4418-8414-01953bc6ff65",
+   "title": {
+    "en": "Ai no Tane"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -170,29 +191,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "75d0eb7b-19f4-4ff0-a005-4c65e59e0932",
-   "title": {
-    "en": "Akai Kutsu"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee12e48c-662b-4e08-bb70-b782de017fde",
-   "title": {
-    "en": "Colors"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:16+00:00"
+ "updatedAt": "2023-12-10T18:28:44+00:00"
 }

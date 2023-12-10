@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.3240263
+  },
+  {
    "id": "f0566129-581e-4be6-874a-88e72a10c7de",
    "title": {
     "en": "The Son of the Godfather"
    },
    "contentRating": "safe",
-   "score": 0.25500074
+   "score": 0.26332173
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -19,10 +27,26 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.24923457,
+   "score": 0.25199455,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
+   "title": {
+    "en": "Dr. Thrill"
+   },
+   "contentRating": "safe",
+   "score": 0.24530415
+  },
+  {
+   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "title": {
+    "en": "Harp of the Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.23890048
   },
   {
    "id": "38e121fe-2a2e-40d8-8a0a-e91d79a99ca9",
@@ -30,7 +54,7 @@
     "en": "The Noble Farmer"
    },
    "contentRating": "safe",
-   "score": 0.24125184,
+   "score": 0.23803788,
    "languages": [
     "en",
     "vi"
@@ -42,27 +66,22 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.24085262,
+   "score": 0.23676611,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
+   "id": "478c5810-6998-4ebf-9756-52de64658be0",
    "title": {
-    "en": "Dr. Thrill"
+    "en": "Danganronpa - The Academy of Hope and High School Students of Despair Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.24042252
-  },
-  {
-   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
-   "title": {
-    "en": "Harp of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.23956908
+   "score": 0.23477915,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "417d2d14-4c31-4af3-8dbd-4d31686cef5a",
@@ -70,7 +89,7 @@
     "en": "Anime Shop Manager"
    },
    "contentRating": "safe",
-   "score": 0.23389928,
+   "score": 0.23318261,
    "languages": [
     "en"
    ]
@@ -81,7 +100,27 @@
     "en": "Osamu Tezuka Mother's Once Upon a Time"
    },
    "contentRating": "safe",
-   "score": 0.23003021
+   "score": 0.23209406
+  },
+  {
+   "id": "db20bb89-4e2c-4cf9-8618-340b085f5375",
+   "title": {
+    "en": "Yakunara Mug Cup Mo (Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.23057385
+  },
+  {
+   "id": "77fe723a-5b06-4362-8e6b-3a9e5a7b26bd",
+   "title": {
+    "en": "14-sai to Illustrator"
+   },
+   "contentRating": "safe",
+   "score": 0.22709264,
+   "languages": [
+    "pt-br",
+    "es-la"
+   ]
   },
   {
    "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
@@ -89,7 +128,26 @@
     "en": "Star of the Giants"
    },
    "contentRating": "safe",
-   "score": 0.22489573
+   "score": 0.22490291
+  },
+  {
+   "id": "31a08139-de7c-4422-bc1d-80f4dcccb1f2",
+   "title": {
+    "en": "Kurukuru Kurumi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.22433534
+  },
+  {
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
+   "title": {
+    "en": "Sarutobi"
+   },
+   "contentRating": "safe",
+   "score": 0.22163285,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "0e52b5fc-3e76-43cb-94fd-cd4232da8cf3",
@@ -97,78 +155,12 @@
     "en": "The Strange World of Yousuke"
    },
    "contentRating": "safe",
-   "score": 0.22089376,
+   "score": 0.22043623,
    "languages": [
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "3fe4d4c0-60d2-482f-9009-f9e4e44812f7",
-   "title": {
-    "en": "As for Time..."
-   },
-   "contentRating": "safe",
-   "score": 0.2150528,
-   "languages": [
-    "fr",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "7888380e-b90a-432d-ad0d-a20cdda8d595",
-   "title": {
-    "en": "Me \u0026 the Devil Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.21354403,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "81a56f27-14dd-485e-b56f-ef950f504653",
-   "title": {
-    "en": "Rewrite: SIDE-B"
-   },
-   "contentRating": "safe",
-   "score": 0.2129502,
-   "languages": [
-    "vi",
-    "es-la"
-   ]
-  },
-  {
-   "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
-   "title": {
-    "en": "Howling Pen RRR"
-   },
-   "contentRating": "safe",
-   "score": 0.21177375
-  },
-  {
-   "id": "0ba541d9-c9df-49a7-bca7-66e9f854c317",
-   "title": {
-    "en": "GO! NANA"
-   },
-   "contentRating": "safe",
-   "score": 0.21077372
-  },
-  {
-   "id": "c18a867b-adbb-4aa9-a9c7-b9fe72979270",
-   "title": {
-    "en": "Silent Manga Audition: Sekai kara Todoita Japanese Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.2087156,
-   "languages": [
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:07+00:00"
+ "updatedAt": "2023-12-10T18:20:11+00:00"
 }

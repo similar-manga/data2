@@ -6,12 +6,41 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "de7202ad-57d6-4849-9f7d-e3db470929de",
+   "title": {
+    "en": "Yokai Boy + Green Alien + Perfect Crime Machine"
+   },
+   "contentRating": "safe",
+   "score": 0.25622007
+  },
+  {
+   "id": "537a0244-0838-4522-b3bb-bedbea7a0104",
+   "title": {
+    "en": "Flag Fighter"
+   },
+   "contentRating": "safe",
+   "score": 0.24815336
+  },
+  {
+   "id": "48db4722-3e23-46f2-9132-680dddb67266",
+   "title": {
+    "en": "Meikyuu no Ou"
+   },
+   "contentRating": "safe",
+   "score": 0.24090014,
+   "languages": [
+    "pt-br",
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "89d8e011-ad11-474f-bb7d-d6ee23a30653",
    "title": {
     "en": "Kurogane no Kodou"
    },
    "contentRating": "safe",
-   "score": 0.23295416
+   "score": 0.23223798
   },
   {
    "id": "c42725e2-01a4-41f4-917e-1435073d8460",
@@ -20,6 +49,19 @@
    },
    "contentRating": "safe",
    "score": 0.23023048
+  },
+  {
+   "id": "ec576f96-c206-4b53-8cda-021a309b35fe",
+   "title": {
+    "en": "Danzai no Majutsugari"
+   },
+   "contentRating": "safe",
+   "score": 0.23011066,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
   },
   {
    "id": "e8ea2aea-0c5c-4452-8208-e3db1074b352",
@@ -35,7 +77,19 @@
     "en": "The Hollow Regalia"
    },
    "contentRating": "safe",
-   "score": 0.22600625,
+   "score": 0.22463769,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "4037090d-0c35-4f83-9fcf-cb126d327fa1",
+   "title": {
+    "en": "Monster Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.2200296,
    "languages": [
     "en",
     "pt-br"
@@ -47,7 +101,7 @@
     "en": "VERSUS"
    },
    "contentRating": "safe",
-   "score": 0.21834369,
+   "score": 0.21756673,
    "languages": [
     "uk",
     "pt-br",
@@ -63,12 +117,31 @@
    ]
   },
   {
+   "id": "d3b9df08-b980-48d4-835e-6437f7deea31",
+   "title": {
+    "en": "Dead Flag"
+   },
+   "contentRating": "safe",
+   "score": 0.21573606,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f461f95e-0ee1-4a2d-a16b-4a6f67093748",
    "title": {
     "en": "Kamen Rider Stronger"
    },
    "contentRating": "safe",
-   "score": 0.21221627
+   "score": 0.2120594
+  },
+  {
+   "id": "e65a8ca4-40e7-4c81-9ff9-bace0d5cbe17",
+   "title": {
+    "en": "DROP"
+   },
+   "contentRating": "safe",
+   "score": 0.20208906
   },
   {
    "id": "983a2660-b50f-4bc6-832a-2524dfd25d32",
@@ -76,101 +149,24 @@
     "en": "Garla"
    },
    "contentRating": "safe",
-   "score": 0.2033244
+   "score": 0.20142694
   },
   {
-   "id": "2814a7f2-ad27-4b59-a40d-9a73eda65aab",
+   "id": "a80eb8c6-ed51-4857-83c3-04fcf6c10aa2",
    "title": {
-    "en": "Death God 4"
+    "en": "Duel Masters Beginner Duema Revolution Final Complete Guide"
    },
    "contentRating": "safe",
-   "score": 0.20293117
+   "score": 0.20134681
   },
   {
-   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
+   "id": "4320a526-7c87-45cb-9e38-5dcdd8f5362e",
    "title": {
-    "en": "TEAM PHOENIX"
+    "en": "Duel Masters Introductory Duema Revolution Start Complete Guide"
    },
    "contentRating": "safe",
-   "score": 0.19947658
-  },
-  {
-   "id": "40c050de-f0a6-4e1a-b111-7b080b822c05",
-   "title": {
-    "en": "Kamen Rider J"
-   },
-   "contentRating": "safe",
-   "score": 0.19928166
-  },
-  {
-   "id": "7b8aaa94-e7bd-4265-bd9d-baa9714742b6",
-   "title": {
-    "en": "Godzilla vs. Mechagodzilla II (SAKAI Takayuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.19928166
-  },
-  {
-   "id": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
-   "title": {
-    "en": "Ao no Exorcist"
-   },
-   "contentRating": "safe",
-   "score": 0.19898596,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "fr",
-    "en",
-    "tr",
-    "it",
-    "es",
-    "he"
-   ]
-  },
-  {
-   "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
-   "title": {
-    "en": "The Devil Garon"
-   },
-   "contentRating": "safe",
-   "score": 0.19864894
-  },
-  {
-   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
-   "title": {
-    "en": "GOD EATER - Kyuuseishu no Kikan"
-   },
-   "contentRating": "safe",
-   "score": 0.19839813,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "d0f57b4a-8a11-4fc4-9d25-de9b0527eab8",
-   "title": {
-    "en": "Shintouki: Teogonia"
-   },
-   "contentRating": "safe",
-   "score": 0.19808267,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "27f88fe6-d89b-4f54-b5d8-383564863797",
-   "title": {
-    "en": "Doragagaga"
-   },
-   "contentRating": "safe",
-   "score": 0.1974685,
-   "languages": [
-    "ru",
-    "en"
-   ]
+   "score": 0.20134681
   }
  ],
- "updatedAt": "2023-12-10T01:09:38+00:00"
+ "updatedAt": "2023-12-10T18:34:38+00:00"
 }

@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "50e788c7-33e4-4a8e-83b7-6e09681ad854",
+   "title": {
+    "en": "Wizard's Martial World"
+   },
+   "contentRating": "safe",
+   "score": 0.2531167,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "14b81959-13ed-46eb-a277-da66f672acb5",
    "title": {
     "en": "The World After the Fall"
    },
    "contentRating": "safe",
-   "score": 0.2518939,
+   "score": 0.24883462,
    "languages": [
     "it",
     "en",
@@ -24,35 +36,67 @@
    ]
   },
   {
+   "id": "fac40369-3528-4f11-98f1-34beefb72bce",
+   "title": {
+    "en": "I Am Reborn as the Sword God"
+   },
+   "contentRating": "safe",
+   "score": 0.247643,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "2db4e1e8-8776-4596-9d90-70291f2545a1",
    "title": {
     "en": "Shrouding The Heavens"
    },
    "contentRating": "safe",
-   "score": 0.24691308,
+   "score": 0.24672627,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c50b48d7-b043-4ff9-8c0d-aae10d5e0491",
+   "id": "36eec760-a886-495d-95de-ce286555e4d9",
    "title": {
-    "en": "Starting with the Guhuo bird"
+    "en": "Stairs"
    },
    "contentRating": "safe",
-   "score": 0.23757869,
+   "score": 0.24597585,
    "languages": [
+    "it",
+    "fr",
     "en",
-    "tr"
+    "ru",
+    "id"
    ]
   },
   {
-   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
+   "id": "9ed16bc9-f570-4e71-8dda-aebc098b683b",
    "title": {
-    "en": "Super God System"
+    "en": "The Legend of the Northern Blade"
    },
    "contentRating": "safe",
-   "score": 0.23653898,
+   "score": 0.23825178,
+   "languages": [
+    "pt-br",
+    "it",
+    "fr",
+    "pl",
+    "en",
+    "id",
+    "uk"
+   ]
+  },
+  {
+   "id": "0a148e65-10d5-471b-9968-0c854b7f9fcb",
+   "title": {
+    "en": "The Heavenly Emperor of Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.23655504,
    "languages": [
     "en"
    ]
@@ -63,7 +107,7 @@
     "en": "Return of the Mad Demon"
    },
    "contentRating": "safe",
-   "score": 0.23626484,
+   "score": 0.2361837,
    "languages": [
     "pl",
     "pt-br",
@@ -73,40 +117,37 @@
    ]
   },
   {
+   "id": "c50b48d7-b043-4ff9-8c0d-aae10d5e0491",
+   "title": {
+    "en": "Starting with the Guhuo bird"
+   },
+   "contentRating": "safe",
+   "score": 0.23582064,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "599ff730-edf0-4ad8-9e08-70395895af3f",
    "title": {
     "en": "Start Raising Dragons From Today"
    },
    "contentRating": "safe",
-   "score": 0.23570582,
+   "score": 0.23560801,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "0de7b6a4-ca45-4b9b-9547-697128b0acec",
+   "id": "54a05c19-138d-409c-9879-df3ba1f3d7e2",
    "title": {
-    "en": "Apocalypse Online"
+    "en": "A True Martial World"
    },
    "contentRating": "safe",
-   "score": 0.23469552,
+   "score": 0.23466139,
    "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "24e7400d-dbad-4ff4-9ae0-9660102ce823",
-   "title": {
-    "en": "Rise From the Rubble"
-   },
-   "contentRating": "safe",
-   "score": 0.23455231,
-   "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   },
@@ -116,33 +157,22 @@
     "en": "Worthless Regression"
    },
    "contentRating": "safe",
-   "score": 0.23424365,
+   "score": 0.23345008,
    "languages": [
     "ru"
    ]
   },
   {
-   "id": "d8863585-8652-43b5-8211-b425f8776e39",
+   "id": "24e7400d-dbad-4ff4-9ae0-9660102ce823",
    "title": {
-    "en": "Picked up From Another World"
+    "en": "Rise From the Rubble"
    },
    "contentRating": "safe",
-   "score": 0.23356746,
+   "score": 0.23331462,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7155ec9f-2941-4cd7-93af-71a5c4da79b4",
-   "title": {
-    "en": "Past Lives of the Thunder God"
-   },
-   "contentRating": "safe",
-   "score": 0.23326336,
-   "languages": [
-    "en",
     "fr",
-    "pt-br"
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -161,62 +191,30 @@
    ]
   },
   {
-   "id": "60508e0a-46eb-413e-b5c0-94da6b785fce",
+   "id": "b90f2953-d492-44cd-aee4-a7e4ab357b45",
    "title": {
-    "en": "The Return of the Prodigious Swordmaster"
+    "en": "Life and Death: The Awakening"
    },
    "contentRating": "safe",
-   "score": 0.23117572,
+   "score": 0.23296773,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "10c548ad-f7ce-47c3-8db8-b8863440a07b",
-   "title": {
-    "en": "Terminally-Ill Genius Dark Knight"
-   },
-   "contentRating": "safe",
-   "score": 0.23067538,
-   "languages": [
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "45a1ac5c-8be7-4a5a-8610-ff6495a1e72c",
-   "title": {
-    "en": "The Second Coming of Gluttony"
-   },
-   "contentRating": "safe",
-   "score": 0.23040552,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "hu",
-    "tr",
-    "pl",
-    "pt-br",
-    "fa",
-    "it",
-    "ar"
-   ]
-  },
-  {
-   "id": "02c072ca-05d9-4c38-8c9f-0464f75e62a6",
-   "title": {
-    "en": "City of Sanctuary"
-   },
-   "contentRating": "safe",
-   "score": 0.23032938,
-   "languages": [
-    "pt-br",
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "7155ec9f-2941-4cd7-93af-71a5c4da79b4",
+   "title": {
+    "en": "Past Lives of the Thunder God"
+   },
+   "contentRating": "safe",
+   "score": 0.2328214,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:19+00:00"
+ "updatedAt": "2023-12-10T18:26:01+00:00"
 }

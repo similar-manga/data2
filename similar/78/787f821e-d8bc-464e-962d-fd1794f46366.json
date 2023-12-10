@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cb21709e-4737-43aa-8524-d26701b5212a",
+   "title": {
+    "en": "BADON"
+   },
+   "contentRating": "safe",
+   "score": 0.2500119,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
    "id": "a887db23-0b0d-47b4-9cd5-74e15348ae6b",
    "title": {
     "en": "Gallery Fake"
    },
    "contentRating": "safe",
-   "score": 0.21897234,
+   "score": 0.21854143,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Atarashii Joushi wa Dotennen"
    },
    "contentRating": "safe",
-   "score": 0.21346278,
+   "score": 0.21226685,
    "languages": [
     "en"
    ]
@@ -33,8 +44,32 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.20823443,
+   "score": 0.2079052,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "26216c7f-45a8-4ce3-8aa8-30977f467f2c",
+   "title": {
+    "en": "Until We Become a Family"
+   },
+   "contentRating": "safe",
+   "score": 0.20589797,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
+   "title": {
+    "en": "Meganebashi Hanako no Mitate"
+   },
+   "contentRating": "safe",
+   "score": 0.20361696,
+   "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -64,6 +99,17 @@
    ]
   },
   {
+   "id": "685d41b3-6619-422b-85cf-0b9112d4727f",
+   "title": {
+    "en": "Sight of 133 Centimeters Tall"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
    "title": {
     "en": "Double"
@@ -81,153 +127,68 @@
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.19024336,
+   "score": 0.19006883,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "b73371d4-02dd-4db0-b448-d9afa3d698f1",
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
    "title": {
-    "en": "Ao Ashi"
+    "en": "Kaji Ryuusuke's Agenda"
    },
    "contentRating": "safe",
-   "score": 0.18756457,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr",
-    "id",
-    "ru",
-    "ar",
-    "it",
-    "fa",
-    "es"
-   ]
-  },
-  {
-   "id": "f86def88-af8d-4f82-94d8-057367e0db2a",
-   "title": {
-    "en": "Hitori de Shinitai"
-   },
-   "contentRating": "safe",
-   "score": 0.18371451,
-   "languages": [
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "dc22c201-a2a8-40aa-a23f-69852b0c8d0f",
-   "title": {
-    "en": "Kowloon Generic Romance"
-   },
-   "contentRating": "safe",
-   "score": 0.18333761,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "zh-hk",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
-   "title": {
-    "en": "Blue Period"
-   },
-   "contentRating": "safe",
-   "score": 0.18062799,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "ru",
-    "id",
-    "tr",
-    "it",
-    "fa"
-   ]
-  },
-  {
-   "id": "5fa9cfd8-574f-40a9-a50b-fb1b0deefa8d",
-   "title": {
-    "en": "Years"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "es",
-    "en",
-    "fr",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.17335083,
+   "score": 0.187941,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c",
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
    "title": {
-    "en": "The Apothecary Diaries"
+    "en": "Otona no Zukan Kaiteiban"
    },
    "contentRating": "safe",
-   "score": 0.17128606,
+   "score": 0.187941,
    "languages": [
-    "tr",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la",
-    "de",
-    "it",
-    "uk",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
+   "id": "683117b1-e326-4bc8-b189-e4f17940bf56",
    "title": {
-    "en": "What's Michael?"
+    "en": "Chiisai Tomodachi"
    },
    "contentRating": "safe",
-   "score": 0.1702479,
+   "score": 0.187941,
    "languages": [
-    "de",
+    "en"
+   ]
+  },
+  {
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
+   "title": {
+    "en": "Takaga Tasogare"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "e9134507-1631-4c68-bce1-3cfa7f78eb3e",
+   "title": {
+    "en": "Uraura Hikaru: Shinshin ni Mitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:34+00:00"
+ "updatedAt": "2023-12-10T18:21:28+00:00"
 }

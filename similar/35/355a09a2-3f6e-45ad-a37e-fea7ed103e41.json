@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "00fc664e-edfd-42e8-b117-28300e2b1517",
+   "title": {
+    "en": "Sheng Wang"
+   },
+   "contentRating": "safe",
+   "score": 0.28973517,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "21b18592-8925-466b-b909-071b52676a38",
    "title": {
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.27358508,
+   "score": 0.27338108,
    "languages": [
     "en"
    ]
@@ -28,12 +40,48 @@
    ]
   },
   {
+   "id": "6051f786-418d-43a7-8fac-0ff346158e85",
+   "title": {
+    "en": "Wu Fist"
+   },
+   "contentRating": "safe",
+   "score": 0.26934263,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "4a62de28-fa71-4872-b8f1-028fa30a5d31",
    "title": {
     "en": "The Smiling, Proud Wanderer"
    },
    "contentRating": "safe",
-   "score": 0.2669107,
+   "score": 0.26462853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "840ea776-58ec-4276-83f6-4b3e044d1556",
+   "title": {
+    "en": "Imperial God Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.26282498,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d0e881c9-371f-4e00-a0fd-7648c1c5d7a1",
+   "title": {
+    "en": "Koukyuu no Zatsuyouki"
+   },
+   "contentRating": "safe",
+   "score": 0.25923777,
    "languages": [
     "en"
    ]
@@ -44,10 +92,21 @@
     "en": "Arata Kangatari"
    },
    "contentRating": "safe",
-   "score": 0.25961596,
+   "score": 0.2571805,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "f949287f-13b9-42b2-a92a-fa01f77b050b",
+   "title": {
+    "en": "Wu Ling Hou"
+   },
+   "contentRating": "safe",
+   "score": 0.25344643,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -56,22 +115,11 @@
     "en": "Zhan Long"
    },
    "contentRating": "safe",
-   "score": 0.2542243,
+   "score": 0.25327936,
    "languages": [
     "fr",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "a4566b91-7b3b-44fa-bb31-97d856fe04df",
-   "title": {
-    "en": "Journey to the World Sword"
-   },
-   "contentRating": "safe",
-   "score": 0.25326172,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -87,110 +135,63 @@
    ]
   },
   {
-   "id": "2a9da664-a83a-4bf7-a493-990de3007837",
+   "id": "b03e9841-fc09-4841-86ad-d55d4edcc26c",
    "title": {
-    "en": "Sui Tang Heroes"
+    "en": "Tang Yin"
    },
    "contentRating": "safe",
-   "score": 0.24517341,
+   "score": 0.24975348,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c92c0ff2-f076-4258-a4f5-002a84574890",
-   "title": {
-    "en": "The Legend of Genghis"
-   },
-   "contentRating": "safe",
-   "score": 0.2417634,
-   "languages": [
-    "pl",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "4dad3ab4-10a6-4e07-8121-12f07e3d6ceb",
-   "title": {
-    "en": "Chong Tai Ji"
-   },
-   "contentRating": "safe",
-   "score": 0.24119854,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09aa712c-1457-4779-b2a0-877099a4c0e2",
-   "title": {
-    "en": "Saiyuki RELOAD BLAST"
-   },
-   "contentRating": "safe",
-   "score": 0.24027427,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e8baba85-9eac-447c-9a3b-ef4af41ddf82",
-   "title": {
-    "en": "Dragon Fist"
-   },
-   "contentRating": "safe",
-   "score": 0.24027427,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
-   "title": {
-    "en": "Kishin Douji Zenki"
-   },
-   "contentRating": "safe",
-   "score": 0.23712616,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06f2469a-b19c-4e22-9efd-9078fe2e58e8",
-   "title": {
-    "en": "A Book of Dreams"
-   },
-   "contentRating": "safe",
-   "score": 0.2355517,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9929379c-1931-42c7-8140-26ab22966558",
-   "title": {
-    "en": "Nine Tales"
-   },
-   "contentRating": "safe",
-   "score": 0.23546878,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
-   "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.23425676,
-   "languages": [
-    "pl",
+    "es-la",
     "en",
-    "es",
-    "pt-br"
+    "id",
+    "fr"
+   ]
+  },
+  {
+   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
+   "title": {
+    "en": "Wizards Nation"
+   },
+   "contentRating": "safe",
+   "score": 0.24967413,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "88335056-3725-420c-a1b1-c30888fabc31",
+   "title": {
+    "en": "Xuan Yuan-Sword Legend: The Gate of Firmament"
+   },
+   "contentRating": "safe",
+   "score": 0.24879205,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "72b3ae65-f936-42b7-966a-891014ddebf4",
+   "title": {
+    "en": "Fushigi Yuugi - Byakko Senki"
+   },
+   "contentRating": "safe",
+   "score": 0.24853875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "98b5c02e-c5cc-4c3d-b35a-218c83d9d9a8",
+   "title": {
+    "en": "No.1 Idol Heavenly Group of the Imperial City"
+   },
+   "contentRating": "safe",
+   "score": 0.24821122,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:48+00:00"
+ "updatedAt": "2023-12-10T18:14:01+00:00"
 }

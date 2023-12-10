@@ -11,7 +11,7 @@
     "en": "Joze, the Faithful Dog"
    },
    "contentRating": "safe",
-   "score": 0.29271916,
+   "score": 0.2965353,
    "languages": [
     "fr",
     "en"
@@ -23,7 +23,7 @@
     "en": "Murahagane"
    },
    "contentRating": "safe",
-   "score": 0.27043912,
+   "score": 0.2712575,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Naruto: Road to Ninja"
    },
    "contentRating": "safe",
-   "score": 0.26430395,
+   "score": 0.26267806,
    "languages": [
     "en",
     "ru",
@@ -47,7 +47,7 @@
     "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.26121402,
+   "score": 0.26110023,
    "languages": [
     "en"
    ]
@@ -64,26 +64,26 @@
    ]
   },
   {
-   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
-   "title": {
-    "en": "Galaxy Gangs"
-   },
-   "contentRating": "safe",
-   "score": 0.23893365,
-   "languages": [
-    "de",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "501e8cde-8ecd-476e-b3e9-1c15a7fbb998",
    "title": {
     "en": "Sample No. 9"
    },
    "contentRating": "safe",
-   "score": 0.23816168,
+   "score": 0.24402224,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
+   "title": {
+    "en": "Galaxy Gangs"
+   },
+   "contentRating": "safe",
+   "score": 0.23923545,
+   "languages": [
+    "de",
+    "es-la",
     "en"
    ]
   },
@@ -93,7 +93,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.23785202,
+   "score": 0.23845816,
    "languages": [
     "pt-br",
     "pl",
@@ -103,12 +103,36 @@
    ]
   },
   {
+   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
+   "title": {
+    "en": "CROSS"
+   },
+   "contentRating": "safe",
+   "score": 0.23429775,
+   "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
+   "title": {
+    "en": "Chrono Mansion"
+   },
+   "contentRating": "safe",
+   "score": 0.23173484,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "9964ea10-6a8c-49d5-9a2b-12d72747e721",
    "title": {
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.23419827,
+   "score": 0.23078252,
    "languages": [
     "fr",
     "id",
@@ -122,36 +146,12 @@
    ]
   },
   {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.23409404,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
-   "title": {
-    "en": "Chrono Mansion"
-   },
-   "contentRating": "safe",
-   "score": 0.23090576,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "69f5bcd1-e733-413f-9a6b-85d34e4c8efd",
    "title": {
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.22927406,
+   "score": 0.23025145,
    "languages": [
     "en",
     "tr"
@@ -163,7 +163,7 @@
     "en": "Tokyo Jungle"
    },
    "contentRating": "safe",
-   "score": 0.22728467,
+   "score": 0.22839986,
    "languages": [
     "en"
    ]
@@ -174,23 +174,8 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.22703211,
+   "score": 0.22781879,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "13f600ad-cc77-473d-b08c-a70240643fe0",
-   "title": {
-    "en": "Lawless Kid"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pt-br",
-    "fr",
-    "ru",
-    "vi",
     "en"
    ]
   },
@@ -205,7 +190,19 @@
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
+   "title": {
+    "en": "Selling Me Softly"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:45+00:00"
+ "updatedAt": "2023-12-10T18:29:55+00:00"
 }

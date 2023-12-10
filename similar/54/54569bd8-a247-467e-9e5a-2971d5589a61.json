@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
-   "title": {
-    "en": "Your Mind is Easy to Read"
-   },
-   "contentRating": "safe",
-   "score": 0.3517211,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "87ebb83f-4e9d-47cd-8a48-c9bb5fd9c42b",
    "title": {
     "en": "The Things I Hate About You"
    },
    "contentRating": "safe",
-   "score": 0.3507555,
+   "score": 0.3494007,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
+   "title": {
+    "en": "Your Mind is Easy to Read"
+   },
+   "contentRating": "safe",
+   "score": 0.34710768,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -35,7 +35,7 @@
     "en": "My Girlfriend will be a Mangaka"
    },
    "contentRating": "safe",
-   "score": 0.34874046,
+   "score": 0.34171787,
    "languages": [
     "id",
     "vi",
@@ -44,26 +44,64 @@
    ]
   },
   {
+   "id": "4413d794-e0da-4a6e-b61a-afd5758914e6",
+   "title": {
+    "en": "Hanninmae no Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.33552155,
+   "languages": [
+    "th",
+    "fr",
+    "vi",
+    "pt-br",
+    "it",
+    "bg",
+    "en"
+   ]
+  },
+  {
+   "id": "ec387b13-b35c-4abe-a089-5b69ff429118",
+   "title": {
+    "en": "Ouji-sama no Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.31083012,
+   "languages": [
+    "pt-br",
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
+   "title": {
+    "en": "The Girl I Like Forgot Her Glasses"
+   },
+   "contentRating": "safe",
+   "score": 0.30578566,
+   "languages": [
+    "uk",
+    "id",
+    "pt-br",
+    "en",
+    "ru",
+    "es-la",
+    "fr",
+    "ar",
+    "tr"
+   ]
+  },
+  {
    "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
    "title": {
     "en": "Houkago☆Idol"
    },
    "contentRating": "safe",
-   "score": 0.3070276,
+   "score": 0.30488226,
    "languages": [
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
-   "title": {
-    "en": "Jibun Daisuki Aise-san"
-   },
-   "contentRating": "safe",
-   "score": 0.30064595,
-   "languages": [
-    "id",
     "en"
    ]
   },
@@ -73,9 +111,21 @@
     "en": "Kirihara-san does not have a sense of distance!"
    },
    "contentRating": "safe",
-   "score": 0.29979864,
+   "score": 0.2995175,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c7b8d146-b3f0-49e2-8292-c2878043864d",
+   "title": {
+    "en": "Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu"
+   },
+   "contentRating": "safe",
+   "score": 0.29838613,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -84,10 +134,22 @@
     "en": "Tomoe Koga’s Birthday | 2020"
    },
    "contentRating": "safe",
-   "score": 0.29710716,
+   "score": 0.29735252,
    "languages": [
     "ru",
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
+   "title": {
+    "en": "Jibun Daisuki Aise-san"
+   },
+   "contentRating": "safe",
+   "score": 0.29659104,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -97,9 +159,51 @@
     "en": "Katsute no Ore ga Suki na Kimi he"
    },
    "contentRating": "safe",
-   "score": 0.2956478,
+   "score": 0.2960836,
    "languages": [
     "es-la"
+   ]
+  },
+  {
+   "id": "94a48b9c-2a5b-4397-95f1-15df8b017488",
+   "title": {
+    "en": "The Dreaming Boy Is a Realist"
+   },
+   "contentRating": "safe",
+   "score": 0.29558277,
+   "languages": [
+    "es-la",
+    "en",
+    "vi",
+    "id"
+   ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.29090387,
+   "languages": [
+    "en",
+    "pt-br",
+    "uk",
+    "vi",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ba75f3e6-56c4-4c76-8ee5-f25428d3fd62",
+   "title": {
+    "en": "The Maiden With Zero Love Experience"
+   },
+   "contentRating": "safe",
+   "score": 0.288782,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -108,105 +212,12 @@
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.2886606,
+   "score": 0.286106,
    "languages": [
     "en",
     "vi"
    ]
-  },
-  {
-   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
-   "title": {
-    "en": "Itsuka, Kimi wo"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
-   "title": {
-    "en": "Nande Nanda-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "fr",
-    "vi",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "862b052b-1c72-42a2-9ffa-f6f79451b26c",
-   "title": {
-    "en": "365 Nichi no Koubou"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9088a076-744b-4773-a83e-8e3f1748f387",
-   "title": {
-    "en": "Ren'ai Saibaihou"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
-   "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "bc600082-5fac-4146-be78-8db50af0a680",
-   "title": {
-    "en": "Kuroi-san After School"
-   },
-   "contentRating": "safe",
-   "score": 0.28324848,
-   "languages": [
-    "de",
-    "vi",
-    "pt-br",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "9964ea10-6a8c-49d5-9a2b-12d72747e721",
-   "title": {
-    "en": "A Story About Spending a Little More Time With an Eccentric Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.28173235,
-   "languages": [
-    "fr",
-    "id",
-    "en",
-    "vi",
-    "ms",
-    "pt-br",
-    "ru",
-    "th",
-    "ro"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:04+00:00"
+ "updatedAt": "2023-12-10T18:17:25+00:00"
 }

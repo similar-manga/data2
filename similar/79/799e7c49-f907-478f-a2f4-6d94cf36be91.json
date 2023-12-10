@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ad82e3d8-dd37-455c-b870-83ba4a508daa",
+   "title": {
+    "en": "Amber by Night"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
    "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
    "title": {
     "en": "Gakusou"
@@ -19,12 +27,23 @@
    ]
   },
   {
-   "id": "ad82e3d8-dd37-455c-b870-83ba4a508daa",
+   "id": "11b451fd-e0d7-4fbe-9466-60dd4b8fcdbd",
    "title": {
-    "en": "Amber by Night"
+    "en": "Ten Thousand Kinds of Love"
    },
    "contentRating": "safe",
-   "score": 0.28520605
+   "score": 0.2733858,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c4ca0736-8312-4366-925f-3938e8c02e33",
+   "title": {
+    "en": "Mama ni Ouji wa Irimasuka?"
+   },
+   "contentRating": "safe",
+   "score": 0.27306503
   },
   {
    "id": "56d3da3a-6036-4792-b582-67efda6378fe",
@@ -32,7 +51,23 @@
     "en": "Diamond Life"
    },
    "contentRating": "safe",
-   "score": 0.27107722
+   "score": 0.2699081
+  },
+  {
+   "id": "19d3b8eb-877c-45ef-948e-6e747a42da12",
+   "title": {
+    "en": "Glass Chair"
+   },
+   "contentRating": "safe",
+   "score": 0.26771873
+  },
+  {
+   "id": "389a96fb-a220-4b92-a59f-5d9e182c73d3",
+   "title": {
+    "en": "Itoshisa to Kizu o Dakishimete"
+   },
+   "contentRating": "safe",
+   "score": 0.26470137
   },
   {
    "id": "d81facec-963b-4093-bbec-e1008cedf4e1",
@@ -40,10 +75,18 @@
     "en": "Thank You for the Meal"
    },
    "contentRating": "safe",
-   "score": 0.26661536,
+   "score": 0.26446095,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7db7585f-79b1-4bdb-95fd-811e083a90a8",
+   "title": {
+    "en": "Kemutai Ane to Zurui Imouto"
+   },
+   "contentRating": "safe",
+   "score": 0.26390013
   },
   {
    "id": "4049c69b-f1b2-4c85-a105-9d3934fab31a",
@@ -51,7 +94,44 @@
     "en": "Wanted By Her Lost Love"
    },
    "contentRating": "safe",
-   "score": 0.26316488
+   "score": 0.26269254
+  },
+  {
+   "id": "11b18a9d-1606-48dc-94fd-12f70918b62b",
+   "title": {
+    "en": "Osananajimi ga Kawaisugite Gaman dekinai"
+   },
+   "contentRating": "safe",
+   "score": 0.2612644
+  },
+  {
+   "id": "3fe1355a-44b3-459f-a2f7-381668c9f4ce",
+   "title": {
+    "en": "Remote Couple"
+   },
+   "contentRating": "safe",
+   "score": 0.26101923
+  },
+  {
+   "id": "aa90bb32-0b5c-425e-82ab-a2007542f118",
+   "title": {
+    "en": "\"Mi\" Seijuku"
+   },
+   "contentRating": "safe",
+   "score": 0.26000103,
+   "languages": [
+    "ru",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "63097ef1-d8c2-46c7-a3ad-07395c0232f8",
+   "title": {
+    "en": "Mitsugetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.25927293
   },
   {
    "id": "6f91d0cb-39e1-4c87-8e3f-89db628393aa",
@@ -59,125 +139,19 @@
     "en": "Toki wo Yuku Uma"
    },
    "contentRating": "safe",
-   "score": 0.2598884,
+   "score": 0.2591631,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "beb25ef5-a947-423c-948c-2a43c038f3b4",
+   "id": "fd9a96f4-fe28-4e09-8258-ef71d68b280b",
    "title": {
-    "en": "Seaside Return"
+    "en": "Scattered Plums, Flower thieves ~An Adult’s Love Journey with a Younger Person~"
    },
    "contentRating": "safe",
-   "score": 0.25857157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "778144e6-8dd6-432d-bb69-72dc51c1f5e5",
-   "title": {
-    "en": "3D Material"
-   },
-   "contentRating": "safe",
-   "score": 0.25723422,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "e0b7a1cc-0cec-4c1b-85b0-0e804b054abb",
-   "title": {
-    "en": "Uchi no Neko Shirimasenka?"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f467a6a-7140-4dce-a688-4f35be44f39c",
-   "title": {
-    "en": "Watashitachi, Rikon Shimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "uk",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "fa283a9b-5f72-4fa3-8448-afb8dda4032a",
-   "title": {
-    "en": "Primal"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98101818-d963-498f-98a0-d7c1683cec5e",
-   "title": {
-    "en": "Glass Goshi no Kioku"
-   },
-   "contentRating": "safe",
-   "score": 0.25288966
-  },
-  {
-   "id": "b5c843ee-ae77-41ea-9de7-985b1740bc9f",
-   "title": {
-    "en": "Furachi na Yuuwaku"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
-   "title": {
-    "en": "Sensei, Ote o Douzo?"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b31eab48-cb2a-44ad-83d8-e403e8c504ca",
-   "title": {
-    "en": "Suppli"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
-   "title": {
-    "en": "White of Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
+   "score": 0.25824636
   }
  ],
- "updatedAt": "2023-12-10T01:04:37+00:00"
+ "updatedAt": "2023-12-10T18:21:36+00:00"
 }

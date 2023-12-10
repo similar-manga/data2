@@ -35,7 +35,7 @@
     "en": "Akumu no Elevator"
    },
    "contentRating": "safe",
-   "score": 0.21508396,
+   "score": 0.21430984,
    "languages": [
     "en",
     "pl"
@@ -47,7 +47,7 @@
     "en": "Ousama Game - Kigen"
    },
    "contentRating": "safe",
-   "score": 0.20293762,
+   "score": 0.20268108,
    "languages": [
     "es-la"
    ]
@@ -58,7 +58,7 @@
     "en": "Bokura no Q"
    },
    "contentRating": "safe",
-   "score": 0.19460166,
+   "score": 0.19373456,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.19291265,
+   "score": 0.19176061,
    "languages": [
     "en"
    ]
@@ -83,6 +83,17 @@
    "score": 0.19047621,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
     "en"
    ]
   },
@@ -107,7 +118,7 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.185089,
+   "score": 0.18423381,
    "languages": [
     "en",
     "pt-br"
@@ -119,11 +130,22 @@
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.18276635,
+   "score": 0.18240064,
    "languages": [
     "pt-br",
     "es",
     "en"
+   ]
+  },
+  {
+   "id": "f1ec4262-755c-4ca3-a052-d3897d93a42f",
+   "title": {
+    "en": "Sunset of Silver"
+   },
+   "contentRating": "safe",
+   "score": 0.1817719,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -132,8 +154,31 @@
     "en": "Cloud"
    },
    "contentRating": "safe",
-   "score": 0.180334,
+   "score": 0.1798802,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.17259362,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
+   "title": {
+    "en": "Super Danganronpa 2: Goodbye Despair Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.16787477,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -147,54 +192,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
-   "title": {
-    "en": "The Watchman"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
-   "title": {
-    "en": "Dorobou Night Trick"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "cb174ea9-4ff7-4c30-870f-83fd76001b9c",
-   "title": {
-    "en": "Armadillo"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
-   "title": {
-    "en": "Sherlock"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:19+00:00"
+ "updatedAt": "2023-12-10T18:26:01+00:00"
 }

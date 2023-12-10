@@ -6,12 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
+   "title": {
+    "en": "Kimi to Warui Koto ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.2883435,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
    "title": {
     "en": "13 Game"
    },
    "contentRating": "safe",
-   "score": 0.28756553,
+   "score": 0.2868677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7066efc8-b73f-4b17-8b8d-6060a5412590",
+   "title": {
+    "en": "Kill Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.26877058,
+   "languages": [
+    "pt-br",
+    "id",
+    "es-la",
+    "vi",
+    "th",
+    "en",
+    "uk"
+   ]
+  },
+  {
+   "id": "91e2e469-8d67-49d6-b810-c9a465431eba",
+   "title": {
+    "en": "B Group no Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.26336604,
    "languages": [
     "en"
    ]
@@ -22,7 +62,7 @@
     "en": "Kuzumoto-san Chi no Yonkyoudai"
    },
    "contentRating": "safe",
-   "score": 0.2636708,
+   "score": 0.26311883,
    "languages": [
     "en"
    ]
@@ -39,17 +79,6 @@
    ]
   },
   {
-   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
-   "title": {
-    "en": "Gakuen Psycho-Pass"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e17291c8-0356-4438-97e7-1346da5faa11",
    "title": {
     "en": "Rebirth Knight"
@@ -59,6 +88,17 @@
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
+   "title": {
+    "en": "Gakuen Psycho-Pass"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -94,7 +134,7 @@
     "en": "Crescent Love"
    },
    "contentRating": "safe",
-   "score": 0.24752948,
+   "score": 0.24693447,
    "languages": [
     "en",
     "fr"
@@ -106,9 +146,25 @@
     "en": "Ushiro no Shindere-san"
    },
    "contentRating": "safe",
-   "score": 0.24328773,
+   "score": 0.24282713,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.24208882,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
    ]
   },
   {
@@ -117,23 +173,10 @@
     "en": "DCD Diamond Cut Diamond"
    },
    "contentRating": "safe",
-   "score": 0.24223848,
+   "score": 0.2417755,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "7ecbd849-e295-4e9d-8e0a-a36ecd0117cf",
-   "title": {
-    "en": "Satsuki's Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.24168311,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
    ]
   },
   {
@@ -148,51 +191,18 @@
    ]
   },
   {
-   "id": "ae80041b-73eb-41d1-b870-440c69713b09",
-   "title": {
-    "en": "Trump!"
-   },
-   "contentRating": "safe",
-   "score": 0.239908,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
    "title": {
     "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.23967254,
+   "score": 0.23945509,
    "languages": [
     "pl",
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "c7d873e5-c7d7-4430-81a8-f745ac93f70b",
-   "title": {
-    "en": "Moeru Seito Kaichou"
-   },
-   "contentRating": "safe",
-   "score": 0.23843296,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09d51cdd-e3c1-4537-8f58-2fb959bee5bc",
-   "title": {
-    "en": "Bokuretsu Manken Love Gun"
-   },
-   "contentRating": "safe",
-   "score": 0.23813812,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:52+00:00"
+ "updatedAt": "2023-12-10T18:08:40+00:00"
 }

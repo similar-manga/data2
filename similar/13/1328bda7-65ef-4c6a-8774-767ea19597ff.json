@@ -6,16 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "id": "7d1d6ca3-b70f-495c-9d2c-389c3f0edf3b",
    "title": {
-    "en": "Wonted"
+    "en": "Zhen Men Ren"
    },
    "contentRating": "safe",
-   "score": 0.24178101,
+   "score": 0.25319552,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7b214a16-ef4e-4cde-92b0-557bdc41f36b",
+   "title": {
+    "en": "Return of Immortal Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.2473766,
    "languages": [
     "en",
-    "pl",
-    "pt-br"
+    "pt-br",
+    "es",
+    "fr",
+    "id"
    ]
   },
   {
@@ -24,7 +37,56 @@
     "en": "Black Warriors"
    },
    "contentRating": "safe",
-   "score": 0.24104087,
+   "score": 0.24069124,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "title": {
+    "en": "Wonted"
+   },
+   "contentRating": "safe",
+   "score": 0.2399229,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
+   "title": {
+    "en": "Surviving Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.23879918,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
+   "title": {
+    "en": "Shaman King: The Super Star"
+   },
+   "contentRating": "safe",
+   "score": 0.23413314,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "976322f5-4f8a-4617-b850-c054b710ff24",
+   "title": {
+    "en": "+Again"
+   },
+   "contentRating": "safe",
+   "score": 0.23137648,
    "languages": [
     "en"
    ]
@@ -35,33 +97,7 @@
     "en": "The Strongest Fate System"
    },
    "contentRating": "safe",
-   "score": 0.23883317,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
-   "title": {
-    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
-   },
-   "contentRating": "safe",
-   "score": 0.23419623,
-   "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "976322f5-4f8a-4617-b850-c054b710ff24",
-   "title": {
-    "en": "+Again"
-   },
-   "contentRating": "safe",
-   "score": 0.23243561,
+   "score": 0.23049968,
    "languages": [
     "en"
    ]
@@ -72,10 +108,51 @@
     "en": "Tiger \u0026 Bunny"
    },
    "contentRating": "safe",
-   "score": 0.22366184,
+   "score": 0.22790615,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.22641028,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "it",
+    "fr"
+   ]
+  },
+  {
+   "id": "313aa957-69c2-4102-8bd2-006398b91845",
+   "title": {
+    "en": "Changan Fantasy"
+   },
+   "contentRating": "safe",
+   "score": 0.2215754,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
+   "title": {
+    "en": "Dead Account"
+   },
+   "contentRating": "safe",
+   "score": 0.22043337,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -92,6 +169,17 @@
    ]
   },
   {
+   "id": "d517246d-f207-4c63-ac3c-e36b3f773c91",
+   "title": {
+    "en": "Cheating Craft"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "af0ecd8f-6563-4e33-a65c-4ced92be0e2e",
    "title": {
     "en": "Ssen Nom"
@@ -103,106 +191,16 @@
    ]
   },
   {
-   "id": "46414120-3303-4471-9197-782985312a58",
+   "id": "96247bf9-caeb-472c-8519-3f1108e762ca",
    "title": {
-    "en": "Märchen - The Embodiment of Tales"
+    "en": "Shishang Zui Qiang Jiazu"
    },
    "contentRating": "safe",
-   "score": 0.21409501,
+   "score": 0.21597971,
    "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "9e7fc7da-6edf-4eb6-9009-427e46e57d05",
-   "title": {
-    "en": "Tiger x Crane"
-   },
-   "contentRating": "safe",
-   "score": 0.21351922,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
-   "title": {
-    "en": "Cafe Occult"
-   },
-   "contentRating": "safe",
-   "score": 0.20816009,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
-   "title": {
-    "en": "Hajime no Ippo"
-   },
-   "contentRating": "safe",
-   "score": 0.20520392,
-   "languages": [
-    "en",
-    "ar",
-    "fr",
-    "es",
-    "pt-br",
-    "ru",
-    "pl"
-   ]
-  },
-  {
-   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
-   "title": {
-    "en": "Sensou Gekijou"
-   },
-   "contentRating": "safe",
-   "score": 0.20408164,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9d5a90db-2657-4392-b726-beb89217b430",
-   "title": {
-    "en": "Aimer"
-   },
-   "contentRating": "safe",
-   "score": 0.20189811,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cab91d47-c2d0-46d4-ba81-51dd530b13d1",
-   "title": {
-    "en": "Saint Seiya - Next Dimension"
-   },
-   "contentRating": "safe",
-   "score": 0.19820848,
-   "languages": [
-    "pt-br",
-    "es",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "d322930b-e3a6-4494-853d-288ebb50c6b6",
-   "title": {
-    "en": "Mahouka Koukou no Rettousei - Shizoku Kaigi-hen"
-   },
-   "contentRating": "safe",
-   "score": 0.19447088,
-   "languages": [
-    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:30+00:00"
+ "updatedAt": "2023-12-10T18:10:23+00:00"
 }

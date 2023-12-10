@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cea99594-b963-4431-bc93-7a4adeba9c54",
+   "title": {
+    "en": "Disease"
+   },
+   "contentRating": "safe",
+   "score": 0.28821757,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "fa",
+    "id"
+   ]
+  },
+  {
    "id": "e6cfe689-9cb9-48e6-9f5b-a523c8b88128",
    "title": {
     "en": "No Country for Zombie"
    },
    "contentRating": "safe",
-   "score": 0.27301738,
+   "score": 0.27003297,
    "languages": [
     "en"
    ]
@@ -22,29 +37,29 @@
     "en": "Be for the Beast"
    },
    "contentRating": "safe",
-   "score": 0.26583177,
+   "score": 0.26668128,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "695ec8bf-b7db-4fb2-987e-a8edcee2b567",
+   "id": "acadbef3-fc56-44b6-8089-d1f59f5b41c5",
    "title": {
-    "en": "A Cure for Killing"
+    "en": "Kissing with God's Eyes Covered"
    },
    "contentRating": "safe",
-   "score": 0.2525669,
+   "score": 0.26202762,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a13b0c38-ea2c-483d-aa1e-95882f19abb6",
+   "id": "63efd165-b8d1-4abb-b99e-c7d533cad819",
    "title": {
-    "en": "Memories -Life-"
+    "en": "Do You Believe in Fate?!"
    },
    "contentRating": "safe",
-   "score": 0.25168067,
+   "score": 0.2613793,
    "languages": [
     "en"
    ]
@@ -55,7 +70,40 @@
     "en": "She’s The Mom Candidate"
    },
    "contentRating": "safe",
-   "score": 0.25116456,
+   "score": 0.25558662,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a13b0c38-ea2c-483d-aa1e-95882f19abb6",
+   "title": {
+    "en": "Memories -Life-"
+   },
+   "contentRating": "safe",
+   "score": 0.25274944,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "695ec8bf-b7db-4fb2-987e-a8edcee2b567",
+   "title": {
+    "en": "A Cure for Killing"
+   },
+   "contentRating": "safe",
+   "score": 0.24906653,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1fd32936-4b45-485a-b070-d30d5db4e961",
+   "title": {
+    "en": "Cafe Midnight"
+   },
+   "contentRating": "safe",
+   "score": 0.24882734,
    "languages": [
     "en"
    ]
@@ -66,7 +114,7 @@
     "en": "Trigger"
    },
    "contentRating": "safe",
-   "score": 0.24697272,
+   "score": 0.24764906,
    "languages": [
     "en"
    ]
@@ -77,9 +125,33 @@
     "en": "It Was All You"
    },
    "contentRating": "safe",
-   "score": 0.24686441,
+   "score": 0.24747206,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8836e021-2415-4302-8113-8d8e0a2a9cb0",
+   "title": {
+    "en": "Knife In Her Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.24701834,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9058357-b9e4-48df-b2b4-6343f049273c",
+   "title": {
+    "en": "Dear Future You"
+   },
+   "contentRating": "safe",
+   "score": 0.24671742,
+   "languages": [
+    "en",
+    "fr",
+    "es-la"
    ]
   },
   {
@@ -88,7 +160,7 @@
     "en": "Picking Up Beast Girls In The End Times"
    },
    "contentRating": "safe",
-   "score": 0.24511956,
+   "score": 0.24658479,
    "languages": [
     "en"
    ]
@@ -99,23 +171,10 @@
     "en": "Housekeeper"
    },
    "contentRating": "safe",
-   "score": 0.2433808,
+   "score": 0.24344623,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "e9058357-b9e4-48df-b2b4-6343f049273c",
-   "title": {
-    "en": "Dear Future You"
-   },
-   "contentRating": "safe",
-   "score": 0.24235724,
-   "languages": [
-    "en",
-    "fr",
-    "es-la"
    ]
   },
   {
@@ -124,70 +183,11 @@
     "en": "Puristic"
    },
    "contentRating": "safe",
-   "score": 0.24196057,
+   "score": 0.2425374,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "433219cf-6b3c-4d0d-88ce-7915355c8830",
-   "title": {
-    "en": "Tomurai no Tou"
-   },
-   "contentRating": "safe",
-   "score": 0.24147265,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "79a67764-312a-40af-835a-622a9741bffa",
-   "title": {
-    "en": "If AI Ruled the World"
-   },
-   "contentRating": "safe",
-   "score": 0.24147265,
-   "languages": [
-    "en",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "05f033a1-54bb-4e5c-897b-410f85e4cc2d",
-   "title": {
-    "en": "Son's New Home"
-   },
-   "contentRating": "safe",
-   "score": 0.24147265,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d7d35311-45ed-45ee-b87d-277ea868c589",
-   "title": {
-    "en": "Mabushii Hikari"
-   },
-   "contentRating": "safe",
-   "score": 0.23872279,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "aae5607d-f353-455a-bec2-9bc3a97c01d5",
-   "title": {
-    "en": "They Say I Am the King of the Future"
-   },
-   "contentRating": "safe",
-   "score": 0.23636931,
-   "languages": [
-    "en",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:15+00:00"
+ "updatedAt": "2023-12-10T18:36:06+00:00"
 }

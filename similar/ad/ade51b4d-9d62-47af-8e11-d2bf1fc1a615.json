@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4a101ad0-9dbd-4455-9872-a24133ef56d9",
+   "title": {
+    "en": "Love Letter"
+   },
+   "contentRating": "safe",
+   "score": 0.63315356,
+   "languages": [
+    "hi",
+    "vi",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "9bfe27f5-b7dd-4caf-8368-d640e14e65a3",
    "title": {
     "en": "Babel no Tegami"
    },
    "contentRating": "safe",
-   "score": 0.45897803,
+   "score": 0.4532337,
    "languages": [
     "pl",
     "en"
@@ -23,7 +37,7 @@
     "en": "Love Letter"
    },
    "contentRating": "safe",
-   "score": 0.42194593,
+   "score": 0.4165192,
    "languages": [
     "tr",
     "ca",
@@ -40,7 +54,18 @@
     "en": "Bye-Bye Love-Letters"
    },
    "contentRating": "safe",
-   "score": 0.35491717,
+   "score": 0.34530514,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a63cba3-7f7b-4b6d-9a9c-10319ec42895",
+   "title": {
+    "en": "Love Letter for my Love Then and Now"
+   },
+   "contentRating": "safe",
+   "score": 0.32823455,
    "languages": [
     "en"
    ]
@@ -51,7 +76,7 @@
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.32530382,
+   "score": 0.32272455,
    "languages": [
     "fr",
     "en",
@@ -60,14 +85,47 @@
    ]
   },
   {
+   "id": "e5dc25e7-a2f0-43cc-bd73-17bdc30b65f0",
+   "title": {
+    "en": "One Semester Servant"
+   },
+   "contentRating": "safe",
+   "score": 0.31780508,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ee161d09-12eb-4ef8-8cf5-03c54a607d1b",
+   "title": {
+    "en": "Love Letters in Early Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.29477867,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b41a4592-69d6-4201-8370-5d879c80ca04",
    "title": {
     "en": "Magical Academy Ethnia - Letters to the Sky"
    },
    "contentRating": "safe",
-   "score": 0.29162115,
+   "score": 0.28545487,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "43c2069b-a072-4ae2-9dec-6bfa47382c2a",
+   "title": {
+    "en": "Love Letter"
+   },
+   "contentRating": "safe",
+   "score": 0.26776928,
+   "languages": [
     "en"
    ]
   },
@@ -77,21 +135,24 @@
     "en": "Sekai de Ichiban Hayai Haru"
    },
    "contentRating": "safe",
-   "score": 0.26234096,
+   "score": 0.26210403,
    "languages": [
     "vi"
    ]
   },
   {
-   "id": "2a062223-3d9c-42ed-92cf-57a011ac7e8c",
+   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
    "title": {
-    "en": "The Boy Who Could Stop Time and the Girl Sitting Next to Him"
+    "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.24409716,
+   "score": 0.24080513,
    "languages": [
-    "es-la",
-    "en"
+    "it",
+    "en",
+    "pl",
+    "bg",
+    "fr"
    ]
   },
   {
@@ -100,23 +161,11 @@
     "en": "Oshougatsu Jikka ni Kisei Shiteta Kedo, Kaeru Toki ni Natte Hikitomete Kuru Imouto tte ii Yo ne"
    },
    "contentRating": "safe",
-   "score": 0.24085458,
+   "score": 0.23943622,
    "languages": [
     "pt-br",
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "b1f17aa5-738f-4f92-abdc-b0914256b3c3",
-   "title": {
-    "en": "The Necromancer's Daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "en",
-    "ru"
    ]
   },
   {
@@ -137,16 +186,15 @@
    ]
   },
   {
-   "id": "9837bda7-8de3-4ec0-90f2-d8b0886612eb",
+   "id": "b1f17aa5-738f-4f92-abdc-b0914256b3c3",
    "title": {
-    "en": "Kaze ga Nuketekunda"
+    "en": "The Necromancer's Daughter"
    },
    "contentRating": "safe",
-   "score": 0.23786837,
+   "score": 0.2388799,
    "languages": [
     "en",
-    "vi",
-    "fr"
+    "ru"
    ]
   },
   {
@@ -155,7 +203,7 @@
     "en": "Anata no Kage wo Ou"
    },
    "contentRating": "safe",
-   "score": 0.23693115,
+   "score": 0.23758481,
    "languages": [
     "it",
     "ru",
@@ -167,60 +215,7 @@
     "tr",
     "en"
    ]
-  },
-  {
-   "id": "305d6018-0f30-4a53-81b8-2338d71791d8",
-   "title": {
-    "en": "The End of Summer"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "567f158f-2ec6-4f88-8fa0-622b271d3a22",
-   "title": {
-    "en": "A Devil With Crippled Wings Falls in Love With a One-Winged Angel"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7a37ec3c-e883-49eb-8a90-74607ba69708",
-   "title": {
-    "en": "Jihanki"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "ru",
-    "en",
-    "vi",
-    "tr"
-   ]
-  },
-  {
-   "id": "34e06d1f-0a43-42c6-9c8b-2b3eac318801",
-   "title": {
-    "en": "Daily Life of My Childhood Friend, the Airy Esper High School Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:56+00:00"
+ "updatedAt": "2023-12-10T18:27:47+00:00"
 }

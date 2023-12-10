@@ -11,7 +11,7 @@
     "en": "80's Video Trip"
    },
    "contentRating": "safe",
-   "score": 0.40597734,
+   "score": 0.40480623,
    "languages": [
     "vi",
     "en",
@@ -25,7 +25,7 @@
     "en": "Nanda Kore"
    },
    "contentRating": "safe",
-   "score": 0.3585719,
+   "score": 0.3549642,
    "languages": [
     "es-la",
     "id",
@@ -36,12 +36,30 @@
    ]
   },
   {
+   "id": "c783711c-e593-44e9-83a1-8c95b7f703de",
+   "title": {
+    "en": "I Asked My First Girlfriend Why She Went Out with Me"
+   },
+   "contentRating": "safe",
+   "score": 0.35400045,
+   "languages": [
+    "es",
+    "en",
+    "ne",
+    "ru",
+    "id",
+    "pl",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "cb44e9ed-1796-4f7d-90a4-14735e410b03",
    "title": {
     "en": "Muffled Message"
    },
    "contentRating": "safe",
-   "score": 0.30758855,
+   "score": 0.30397126,
    "languages": [
     "en"
    ]
@@ -52,7 +70,7 @@
     "en": "Dirty Work"
    },
    "contentRating": "safe",
-   "score": 0.2967488,
+   "score": 0.29808158,
    "languages": [
     "it",
     "en",
@@ -60,38 +78,6 @@
     "vi",
     "pl",
     "ro"
-   ]
-  },
-  {
-   "id": "3860a361-989a-4fff-9f96-163e663faec8",
-   "title": {
-    "en": "Three Video Messages"
-   },
-   "contentRating": "safe",
-   "score": 0.29097947,
-   "languages": [
-    "id",
-    "pt-br",
-    "ca",
-    "ru",
-    "it",
-    "hu",
-    "ro",
-    "fr",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "95f3db2e-44a0-4b35-aed6-a37fbf67b601",
-   "title": {
-    "en": "My Father 68y/o, My Mother 64y/o, Me 24y/o"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -108,6 +94,18 @@
    ]
   },
   {
+   "id": "95f3db2e-44a0-4b35-aed6-a37fbf67b601",
+   "title": {
+    "en": "My Father 68y/o, My Mother 64y/o, Me 24y/o"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "3c954f95-057a-44b6-8279-9e20a1d9fcdc",
    "title": {
     "en": "Today I'm Still Alive"
@@ -119,17 +117,23 @@
    ]
   },
   {
-   "id": "13ab94bd-d49d-45ab-9356-78ef91eecac0",
+   "id": "3860a361-989a-4fff-9f96-163e663faec8",
    "title": {
-    "en": "Boku no Kanojo wa AI Sakuga"
+    "en": "Three Video Messages"
    },
    "contentRating": "safe",
-   "score": 0.2702994,
+   "score": 0.2853303,
    "languages": [
     "id",
     "pt-br",
+    "ca",
+    "ru",
+    "it",
+    "hu",
+    "ro",
+    "fr",
     "en",
-    "tl"
+    "vi"
    ]
   },
   {
@@ -138,7 +142,7 @@
     "en": "A Romantic Comedy That Only I Know"
    },
    "contentRating": "safe",
-   "score": 0.26741204,
+   "score": 0.27275136,
    "languages": [
     "ru",
     "pl",
@@ -147,17 +151,28 @@
    ]
   },
   {
-   "id": "28d7ead6-83b4-4d5c-8618-355198220ad3",
+   "id": "13ab94bd-d49d-45ab-9356-78ef91eecac0",
    "title": {
-    "en": "Me and My Yandere Girlfriend(s)"
+    "en": "Boku no Kanojo wa AI Sakuga"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.27159703,
    "languages": [
-    "es-la",
+    "id",
     "pt-br",
     "en",
-    "id"
+    "tl"
+   ]
+  },
+  {
+   "id": "3c59e55e-c8cf-451e-a91f-36d83cce717e",
+   "title": {
+    "en": "Mistake"
+   },
+   "contentRating": "safe",
+   "score": 0.26930267,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -176,53 +191,45 @@
    ]
   },
   {
+   "id": "28d7ead6-83b4-4d5c-8618-355198220ad3",
+   "title": {
+    "en": "Me and My Yandere Girlfriend(s)"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "122d0951-7b64-41ba-bf27-6c26459c3b88",
    "title": {
     "en": "The Cool Boyfriend and the Innocent Girlfriend"
    },
    "contentRating": "safe",
-   "score": 0.2494464,
+   "score": 0.254072,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6d717adb-d283-4f9c-bf56-e0b4936fe083",
+   "id": "f29bf4a1-e746-4e06-a631-dc4d127a56b8",
    "title": {
-    "en": "Risou no Kareshitachi"
+    "en": "A Romcom Where Defying the Honor Student Girlfriend Is Not an Option"
    },
    "contentRating": "safe",
-   "score": 0.24833895,
+   "score": 0.24920064,
    "languages": [
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "5edb7bd4-728e-4fc6-9c4b-294afc9449d0",
-   "title": {
-    "en": "A Story about a Girl Who Likes to Eat"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d38d62c7-b600-462d-ab7f-29d8177f3470",
-   "title": {
-    "en": "Always, Ever Since That Day"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "id",
+    "en",
     "vi",
-    "en"
+    "id",
+    "fr",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:32+00:00"
+ "updatedAt": "2023-12-10T18:21:22+00:00"
 }

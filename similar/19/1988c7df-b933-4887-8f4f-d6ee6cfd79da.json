@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dba7fa3a-2d13-4e07-b504-2dce265a1387",
+   "title": {
+    "en": "BATMAN and THE JUSTICE LEAGUE"
+   },
+   "contentRating": "safe",
+   "score": 0.38787246,
+   "languages": [
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "21688024-f53f-4cb2-9c2e-62973f134975",
    "title": {
     "en": "Window Washer Park"
@@ -15,6 +27,25 @@
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "9c21fbcd-e22e-4e6d-8258-7d580df9fc45",
+   "title": {
+    "en": "Lycoris Recoil"
+   },
+   "contentRating": "safe",
+   "score": 0.19737382,
+   "languages": [
+    "pt-br",
+    "en",
+    "it",
+    "vi",
+    "fr",
+    "es-la",
+    "ru",
+    "pl",
+    "tr"
    ]
   },
   {
@@ -34,7 +65,7 @@
     "en": "Sakamoto Days"
    },
    "contentRating": "safe",
-   "score": 0.19497329,
+   "score": 0.19463584,
    "languages": [
     "pt-br",
     "it",
@@ -50,6 +81,45 @@
     "bn",
     "fa",
     "th"
+   ]
+  },
+  {
+   "id": "40c058a2-430e-4ced-b663-369dcf38583f",
+   "title": {
+    "en": "Gokurakugai"
+   },
+   "contentRating": "safe",
+   "score": 0.19269808,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "fr",
+    "id",
+    "fa"
+   ]
+  },
+  {
+   "id": "259dfd8a-f06a-4825-8fa6-a2dcd7274230",
+   "title": {
+    "en": "Yofukashi no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.18454427,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "ru",
+    "es-la",
+    "tr",
+    "uk",
+    "it",
+    "id",
+    "pl",
+    "sv",
+    "my",
+    "es"
    ]
   },
   {
@@ -96,25 +166,38 @@
    ]
   },
   {
+   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
+   "title": {
+    "en": "Mobile Suit Gundam F90 FF"
+   },
+   "contentRating": "safe",
+   "score": 0.18008737,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0f449765-1bd4-452a-b7d1-db74bbb7e14f",
    "title": {
     "en": "Tatari"
    },
    "contentRating": "safe",
-   "score": 0.18023148,
+   "score": 0.17972155,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
+   "id": "8283a222-48df-4474-b52a-938444368fb3",
    "title": {
-    "en": "Mobile Suit Gundam F90 FF"
+    "en": "False Child"
    },
    "contentRating": "safe",
-   "score": 0.17967689,
+   "score": 0.17840374,
    "languages": [
+    "id",
+    "pt-br",
     "en"
    ]
   },
@@ -154,76 +237,21 @@
    ]
   },
   {
-   "id": "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a",
+   "id": "a92bd70d-a716-4e48-90c6-137682742137",
    "title": {
-    "en": "Ana no Mujina"
+    "en": "Ron Kamonohashi: Deranged Detective"
    },
    "contentRating": "safe",
-   "score": 0.17344809,
-   "languages": [
-    "en",
-    "it",
-    "es-la",
-    "es"
-   ]
-  },
-  {
-   "id": "895c5435-2d38-469f-a3f2-3c990390339d",
-   "title": {
-    "en": "Suzuran is Going Strong!"
-   },
-   "contentRating": "safe",
-   "score": 0.1724357,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
-   "title": {
-    "en": "Life Maker"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
-   "title": {
-    "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
-   "title": {
-    "en": "Mega Man Battle Network Operate Shooting Star VS"
-   },
-   "contentRating": "safe",
-   "score": 0.16976768,
+   "score": 0.17399,
    "languages": [
     "es-la",
+    "pt-br",
+    "th",
+    "id",
+    "ru",
     "en"
-   ]
-  },
-  {
-   "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
-   "title": {
-    "en": "Fullmetal Alchemist: The Prototype"
-   },
-   "contentRating": "safe",
-   "score": 0.16833538,
-   "languages": [
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:44+00:00"
+ "updatedAt": "2023-12-10T18:11:03+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Bikou"
    },
    "contentRating": "safe",
-   "score": 0.31170464,
+   "score": 0.30526495,
    "languages": [
     "it"
    ]
@@ -22,7 +22,7 @@
     "en": "Killer Dream"
    },
    "contentRating": "safe",
-   "score": 0.28817248,
+   "score": 0.28831068,
    "languages": [
     "fr",
     "ar",
@@ -30,6 +30,29 @@
     "en",
     "tr",
     "id"
+   ]
+  },
+  {
+   "id": "d5b72291-7bf2-4c69-9822-9df8f2fd37d0",
+   "title": {
+    "en": "Linda"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "bg",
+    "pl"
+   ]
+  },
+  {
+   "id": "73971ccf-fbba-4891-8df2-2bd5eebf79ba",
+   "title": {
+    "en": "1/2"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -58,46 +81,12 @@
    ]
   },
   {
-   "id": "d5b72291-7bf2-4c69-9822-9df8f2fd37d0",
-   "title": {
-    "en": "Linda"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "bg",
-    "pl"
-   ]
-  },
-  {
-   "id": "73971ccf-fbba-4891-8df2-2bd5eebf79ba",
-   "title": {
-    "en": "1/2"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "dd0f25f5-4006-42d1-9969-76ade2717617",
    "title": {
     "en": "A Meek Little Brother Like Me"
    },
    "contentRating": "safe",
-   "score": 0.2639368,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "95716c73-f20f-4ac9-96b9-22adfbd0c563",
-   "title": {
-    "en": "Honogurai Mizu no Soko kara"
-   },
-   "contentRating": "safe",
-   "score": 0.26385435,
+   "score": 0.26595578,
    "languages": [
     "en"
    ]
@@ -108,7 +97,18 @@
     "en": "Hanao"
    },
    "contentRating": "safe",
-   "score": 0.26358125,
+   "score": 0.26493803,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "95716c73-f20f-4ac9-96b9-22adfbd0c563",
+   "title": {
+    "en": "Honogurai Mizu no Soko kara"
+   },
+   "contentRating": "safe",
+   "score": 0.2643906,
    "languages": [
     "en"
    ]
@@ -119,7 +119,7 @@
     "en": "Ibitsu Renaikan"
    },
    "contentRating": "safe",
-   "score": 0.26246196,
+   "score": 0.26255044,
    "languages": [
     "fr",
     "en",
@@ -139,13 +139,14 @@
    ]
   },
   {
-   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
+   "id": "1a9fe643-e941-499d-a21f-504710fe8c74",
    "title": {
-    "en": "Replay"
+    "en": "The Man Will Survive for 1 More Hour per 1 Like"
    },
    "contentRating": "safe",
    "score": 0.25509605,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -161,14 +162,13 @@
    ]
   },
   {
-   "id": "1a9fe643-e941-499d-a21f-504710fe8c74",
+   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
    "title": {
-    "en": "The Man Will Survive for 1 More Hour per 1 Like"
+    "en": "Replay"
    },
    "contentRating": "safe",
    "score": 0.25509605,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -178,7 +178,7 @@
     "en": "Snow Maidens"
    },
    "contentRating": "safe",
-   "score": 0.25256354,
+   "score": 0.25433075,
    "languages": [
     "fr",
     "ar",
@@ -191,7 +191,7 @@
     "en": "Wings"
    },
    "contentRating": "safe",
-   "score": 0.25153434,
+   "score": 0.25369704,
    "languages": [
     "fr",
     "bg",
@@ -204,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:38+00:00"
+ "updatedAt": "2023-12-10T18:10:45+00:00"
 }

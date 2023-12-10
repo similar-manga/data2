@@ -19,7 +19,7 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.21312529,
+   "score": 0.21406323,
    "languages": [
     "en"
    ]
@@ -30,20 +30,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.212101
-  },
-  {
-   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
-   "title": {
-    "en": "Mu-kai"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "it",
-    "fr"
-   ]
+   "score": 0.21224792
   },
   {
    "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
@@ -61,14 +48,16 @@
    ]
   },
   {
-   "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
+   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
    "title": {
-    "en": "We'll Go See the Ocean."
+    "en": "Mu-kai"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
-    "en"
+    "en",
+    "it",
+    "fr"
    ]
   },
   {
@@ -89,23 +78,26 @@
    ]
   },
   {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
    "title": {
-    "en": "Ikiru"
+    "en": "We'll Go See the Ocean."
    },
    "contentRating": "safe",
-   "score": 0.19436413,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "18a99aaf-a4f5-41ae-a872-ff5fa0f52415",
+   "id": "d41b265a-c8be-4011-aead-65527bab1620",
    "title": {
-    "en": "The Crow's Jewellers"
+    "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.19047621
+   "score": 0.1978678,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "8c4e2d74-6e6c-438b-ad29-5ddaf8dbbfc2",
@@ -117,6 +109,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "18a99aaf-a4f5-41ae-a872-ff5fa0f52415",
+   "title": {
+    "en": "The Crow's Jewellers"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621
   },
   {
    "id": "d52aa653-f66d-4e43-b33e-a3517e8dbd64",
@@ -152,7 +152,7 @@
     "en": "School Zone"
    },
    "contentRating": "safe",
-   "score": 0.18373454,
+   "score": 0.18395273,
    "languages": [
     "en",
     "fr"
@@ -164,23 +164,19 @@
     "en": "Yume no Tsudzuki"
    },
    "contentRating": "safe",
-   "score": 0.17763375,
+   "score": 0.17781557,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "07e67401-a3b5-47dc-adc1-205f5cae6e10",
+   "id": "54059360-008c-49fe-a511-c5e23bc49242",
    "title": {
-    "en": "Nightmares"
+    "en": "Sumi Nigori"
    },
    "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "en",
-    "it"
-   ]
+   "score": 0.17637405
   },
   {
    "id": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
@@ -197,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:03+00:00"
+ "updatedAt": "2023-12-10T18:09:10+00:00"
 }

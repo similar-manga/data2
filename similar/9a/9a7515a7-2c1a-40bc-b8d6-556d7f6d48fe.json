@@ -11,7 +11,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.23290955,
+   "score": 0.23292363,
    "languages": [
     "pt-br",
     "es",
@@ -45,7 +45,7 @@
     "en": "Sand Land Full Color"
    },
    "contentRating": "safe",
-   "score": 0.18729976,
+   "score": 0.18630853,
    "languages": [
     "es-la",
     "pl"
@@ -57,13 +57,33 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.16535541,
+   "score": 0.16467468,
    "languages": [
     "en",
     "fr",
     "ru",
     "vi",
     "es-la"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.16396031,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -136,7 +156,7 @@
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.15176636,
+   "score": 0.15130143,
    "languages": [
     "pt-br",
     "it",
@@ -170,29 +190,6 @@
     "es-la",
     "ar",
     "ru"
-   ]
-  },
-  {
-   "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
-   "title": {
-    "en": "Kaiju No. 8"
-   },
-   "contentRating": "safe",
-   "score": 0.1483147,
-   "languages": [
-    "ar",
-    "uk",
-    "pt-br",
-    "it",
-    "id",
-    "ru",
-    "fr",
-    "tr",
-    "pl",
-    "fa",
-    "es-la",
-    "en",
-    "th"
    ]
   },
   {
@@ -249,26 +246,6 @@
    ]
   },
   {
-   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
-   "title": {
-    "en": "Hunter x Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.1415,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "ru",
-    "es-la",
-    "it",
-    "fa",
-    "ar",
-    "es",
-    "vi"
-   ]
-  },
-  {
    "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
    "title": {
     "en": "Thus Spoke Rohan Kishibe"
@@ -285,7 +262,21 @@
     "ru",
     "zh"
    ]
+  },
+  {
+   "id": "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a",
+   "title": {
+    "en": "Ana no Mujina"
+   },
+   "contentRating": "safe",
+   "score": 0.13615842,
+   "languages": [
+    "en",
+    "it",
+    "es-la",
+    "es"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:08+00:00"
+ "updatedAt": "2023-12-10T18:25:29+00:00"
 }

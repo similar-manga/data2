@@ -11,7 +11,7 @@
     "en": "Somnia"
    },
    "contentRating": "safe",
-   "score": 0.30001885
+   "score": 0.29957986
   },
   {
    "id": "92b24841-b7a7-4427-9bb1-df660a301674",
@@ -19,7 +19,7 @@
     "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
    },
    "contentRating": "safe",
-   "score": 0.27132645,
+   "score": 0.27173194,
    "languages": [
     "en",
     "es-la",
@@ -29,26 +29,26 @@
    ]
   },
   {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.26563254,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
    "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
    "title": {
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.264168,
+   "score": 0.27029577,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
+   "title": {
+    "en": "Dragon Ball Heroes - Victory Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.2658886,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -57,21 +57,9 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.25941473,
+   "score": 0.26065975,
    "languages": [
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "4c41af7f-8bde-4d97-a8d2-45d7bcc0bfaf",
-   "title": {
-    "en": "Nephilim John"
-   },
-   "contentRating": "safe",
-   "score": 0.25709736,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -81,7 +69,19 @@
     "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
    },
    "contentRating": "safe",
-   "score": 0.2569583
+   "score": 0.2566312
+  },
+  {
+   "id": "4c41af7f-8bde-4d97-a8d2-45d7bcc0bfaf",
+   "title": {
+    "en": "Nephilim John"
+   },
+   "contentRating": "safe",
+   "score": 0.25604945,
+   "languages": [
+    "pl",
+    "en"
+   ]
   },
   {
    "id": "57bdb07c-9338-4d80-a1e3-8eed6238ada4",
@@ -89,7 +89,15 @@
     "en": "Cyborg 009 (SATO Sugar)"
    },
    "contentRating": "safe",
-   "score": 0.2560054
+   "score": 0.2557936
+  },
+  {
+   "id": "0fda2276-395c-4052-959c-356181b7755e",
+   "title": {
+    "en": "Golden Bat (NAGAMATSU Takeo)"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
   },
   {
    "id": "db53b0b0-bfbb-4677-b54c-60ae542cb6a6",
@@ -103,17 +111,17 @@
    ]
   },
   {
-   "id": "0fda2276-395c-4052-959c-356181b7755e",
+   "id": "f8eb3e59-49eb-4201-a5a1-12f1187ad2f8",
    "title": {
-    "en": "Golden Bat (NAGAMATSU Takeo)"
+    "en": "Cyborg 009 - Gold-hen"
    },
    "contentRating": "safe",
-   "score": 0.25555065
+   "score": 0.25156474
   },
   {
-   "id": "089e3f18-7552-4c72-9946-7ac5446f570d",
+   "id": "e2e24c56-880e-4cb4-87f2-e81a8a0c0213",
    "title": {
-    "en": "Skyrider"
+    "en": "Shin Megami Tensei Devil Children - Light \u0026 Dark"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -130,9 +138,9 @@
    ]
   },
   {
-   "id": "e2e24c56-880e-4cb4-87f2-e81a8a0c0213",
+   "id": "089e3f18-7552-4c72-9946-7ac5446f570d",
    "title": {
-    "en": "Shin Megami Tensei Devil Children - Light \u0026 Dark"
+    "en": "Skyrider"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -143,7 +151,7 @@
     "en": "The Third: Aoi Hitomi no Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.24742712,
+   "score": 0.24741897,
    "languages": [
     "de"
    ]
@@ -154,7 +162,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.24241133,
+   "score": 0.24574636,
    "languages": [
     "en",
     "pt-br",
@@ -163,19 +171,7 @@
     "de",
     "tr"
    ]
-  },
-  {
-   "id": "e54a7615-ee0a-4af0-979b-d8b8c50332cc",
-   "title": {
-    "en": "Boundary Apocalypse - Starfall"
-   },
-   "contentRating": "safe",
-   "score": 0.23763055,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:33+00:00"
+ "updatedAt": "2023-12-10T18:34:25+00:00"
 }

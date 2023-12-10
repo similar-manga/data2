@@ -6,12 +6,43 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "09fa1a9d-2e20-46cf-9859-c42681e642b4",
+   "title": {
+    "en": "On the Day I Was Born, a Hundred Ghosts Roamed at Night, and Snow Covered Corpses Guarded the Path"
+   },
+   "contentRating": "safe",
+   "score": 0.3070491,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "733fc3ac-deca-444e-bb79-14186e00ccf1",
+   "title": {
+    "en": "Shadows House - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.3032807,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "ru",
+    "id",
+    "tr",
+    "es",
+    "fr",
+    "es-la",
+    "it"
+   ]
+  },
+  {
    "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.2999302,
+   "score": 0.2985165,
    "languages": [
     "en"
    ]
@@ -22,10 +53,55 @@
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.2862183,
+   "score": 0.28214198,
    "languages": [
     "pt-br",
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "f44c1ae4-75d6-4ff6-9e5c-7330773e2dbd",
+   "title": {
+    "en": "Darkness and Death"
+   },
+   "contentRating": "safe",
+   "score": 0.28191832,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "72edffc2-0a89-4835-a9de-862c52ebd1a4",
+   "title": {
+    "en": "Guai Qi Bi Ji"
+   },
+   "contentRating": "safe",
+   "score": 0.2641631,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6886171f-d424-4249-be09-62cc12ed0d1f",
+   "title": {
+    "en": "Delusional Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.2641631,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9e2f94ee-1099-4e3c-8200-31e7237b2668",
+   "title": {
+    "en": "Genei Realism"
+   },
+   "contentRating": "safe",
+   "score": 0.26269233,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -35,7 +111,7 @@
     "ja-ro": "Kage no Jitsuryokusha ni Naritakute"
    },
    "contentRating": "safe",
-   "score": 0.26795235,
+   "score": 0.2620049,
    "languages": [
     "pl",
     "uk",
@@ -55,12 +131,12 @@
    ]
   },
   {
-   "id": "6886171f-d424-4249-be09-62cc12ed0d1f",
+   "id": "b94dc367-174b-48d1-81b5-c6faef2f77d2",
    "title": {
-    "en": "Delusional Boy"
+    "en": "Gui Mo"
    },
    "contentRating": "safe",
-   "score": 0.2641631,
+   "score": 0.2616798,
    "languages": [
     "en"
    ]
@@ -88,14 +164,24 @@
    ]
   },
   {
-   "id": "9e2f94ee-1099-4e3c-8200-31e7237b2668",
+   "id": "f8380b2c-4fd1-433c-90ee-5f27a0f8361d",
    "title": {
-    "en": "Genei Realism"
+    "en": "Ghost Stories Game"
    },
    "contentRating": "safe",
-   "score": 0.24592702,
+   "score": 0.24409597,
    "languages": [
-    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "d3ddbc36-1293-402a-9089-253168bdcff3",
+   "title": {
+    "en": "Tesso no Ori"
+   },
+   "contentRating": "safe",
+   "score": 0.2388799,
+   "languages": [
     "en"
    ]
   },
@@ -111,96 +197,16 @@
    ]
   },
   {
-   "id": "f22f4bf8-11da-4f21-a63d-89eea1bf08c1",
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
    "title": {
-    "en": "Black Collection"
+    "en": "Material Polka"
    },
    "contentRating": "safe",
    "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f3fb4701-4958-4a92-8529-59f3cb99f938",
-   "title": {
-    "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41908d13-7ce6-4d64-8422-1740f9c6944c",
-   "title": {
-    "en": "Chloroform"
-   },
-   "contentRating": "safe",
-   "score": 0.23296995,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
-   "title": {
-    "en": "Mahou Tsukai no Deshi ga Warau Toki."
-   },
-   "contentRating": "safe",
-   "score": 0.23224436,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
-   "title": {
-    "en": "Ex vs. Stalker"
-   },
-   "contentRating": "safe",
-   "score": 0.23194122,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "96045bc1-004e-42df-8d4f-f4ffd7ec317a",
-   "title": {
-    "en": "The Dream I Had When I Died"
-   },
-   "contentRating": "safe",
-   "score": 0.23177628,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
-   "title": {
-    "en": "Online - The Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.22612078,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3e11e374-ddfc-4fb8-a8cf-c5e7bad8d8a0",
-   "title": {
-    "en": "Lovecraftian Plague Doctor"
-   },
-   "contentRating": "safe",
-   "score": 0.22244215,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:50+00:00"
+ "updatedAt": "2023-12-10T18:16:48+00:00"
 }

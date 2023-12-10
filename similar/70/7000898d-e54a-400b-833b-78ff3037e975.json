@@ -11,11 +11,22 @@
     "en": "Candy Candy"
    },
    "contentRating": "safe",
-   "score": 0.6936824,
+   "score": 0.69545686,
    "languages": [
     "pt-br",
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "894e9cab-c0ec-4c5d-88f6-fcbc8bd244d5",
+   "title": {
+    "en": "My Boyfriend"
+   },
+   "contentRating": "safe",
+   "score": 0.4446072,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -24,7 +35,7 @@
     "en": "Sensei Addict"
    },
    "contentRating": "safe",
-   "score": 0.33028212
+   "score": 0.3271254
   },
   {
    "id": "cb34d616-87d4-40e7-8a37-3dc947f84ff4",
@@ -32,18 +43,7 @@
     "en": "Cinderella no Kake"
    },
    "contentRating": "safe",
-   "score": 0.3177364
-  },
-  {
-   "id": "a46b7ba2-4b1b-4976-8b6a-07eee7f42ac6",
-   "title": {
-    "en": "Konya, Kimi ni Ai ni Iku"
-   },
-   "contentRating": "safe",
-   "score": 0.30917493,
-   "languages": [
-    "en"
-   ]
+   "score": 0.31807002
   },
   {
    "id": "ba778168-1df1-4b87-8665-9eb472ea7178",
@@ -51,15 +51,66 @@
     "en": "The Cat Lives"
    },
    "contentRating": "safe",
-   "score": 0.30775046
+   "score": 0.31519997
   },
   {
-   "id": "8d890fa8-a4c2-4f57-ab24-a107fafdfdaf",
+   "id": "cffe8e9c-bfb8-47a1-909c-f877d947df3b",
    "title": {
-    "en": "Rangeman"
+    "en": "Kao Dake ja Suki ni Narimasen"
    },
    "contentRating": "safe",
-   "score": 0.30663115,
+   "score": 0.31494418,
+   "languages": [
+    "en",
+    "hu",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b93228b3-fc48-4a83-b13c-2063d2e25d64",
+   "title": {
+    "en": "Haru no Higurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.31296304
+  },
+  {
+   "id": "16dfa20b-da93-4a37-922a-1b76951eb234",
+   "title": {
+    "en": "Hametai Otoko to Damasenai Kanojo - Trick Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.31062394
+  },
+  {
+   "id": "ecc0c9a8-20e8-4614-9c33-9ad1bc192d0e",
+   "title": {
+    "en": "Uchi no Obaa-chan ga Motoyan ni Nerawarete imasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.31037432,
+   "languages": [
+    "th"
+   ]
+  },
+  {
+   "id": "a46b7ba2-4b1b-4976-8b6a-07eee7f42ac6",
+   "title": {
+    "en": "Konya, Kimi ni Ai ni Iku"
+   },
+   "contentRating": "safe",
+   "score": 0.30823487,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "07083781-8911-4256-90fa-f6c586d25c2a",
+   "title": {
+    "en": "Andalusia No Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.30814034,
    "languages": [
     "en"
    ]
@@ -70,93 +121,49 @@
     "en": "Haikara-San: Here Comes Miss Modern"
    },
    "contentRating": "safe",
-   "score": 0.30627567,
+   "score": 0.3063918,
    "languages": [
     "tr"
    ]
   },
   {
-   "id": "5a6a8f72-2cb0-4b5e-95c4-e18617a8307d",
+   "id": "8d890fa8-a4c2-4f57-ab24-a107fafdfdaf",
    "title": {
-    "en": "God is Love"
+    "en": "Rangeman"
    },
    "contentRating": "safe",
-   "score": 0.30422378
-  },
-  {
-   "id": "972b7120-87b3-4ceb-b2d8-f41defc50636",
-   "title": {
-    "en": "Naisho no Mangaka Tonari no Yutori-san"
-   },
-   "contentRating": "safe",
-   "score": 0.29761088
-  },
-  {
-   "id": "b787c344-fef5-4853-a5c3-5321c25354b5",
-   "title": {
-    "en": "Yoru wa Mijikashi Arukeyo Otome"
-   },
-   "contentRating": "safe",
-   "score": 0.29651427
-  },
-  {
-   "id": "c442d1ad-47ea-43d8-bc91-731baf160ca4",
-   "title": {
-    "en": "Otome no Omocha"
-   },
-   "contentRating": "safe",
-   "score": 0.296027,
-   "languages": [
-    "hu"
-   ]
-  },
-  {
-   "id": "01593760-623b-49b9-a9cc-a6bd4bbe19ce",
-   "title": {
-    "en": "Himegoto wa Hanazono"
-   },
-   "contentRating": "safe",
-   "score": 0.294245
-  },
-  {
-   "id": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
-   "title": {
-    "en": "Otome Holic"
-   },
-   "contentRating": "safe",
-   "score": 0.2938696,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
-   "title": {
-    "en": "Funny Money Rich Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.29325712,
+   "score": 0.3058867,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4fd64191-bce0-4ccb-936e-596d03be0da9",
+   "id": "94617c4c-c997-4d2c-8888-64c8134ba187",
    "title": {
-    "en": "Shout!"
+    "en": "I'm Not a Maid!"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.30554083,
+   "languages": [
+    "en"
+   ]
   },
   {
-   "id": "799c6f51-f932-4498-ad2c-0f8973c114ef",
+   "id": "3672ab7a-69bd-4cb1-860d-11d57848ba9c",
    "title": {
-    "en": "Tama Tama! Kingyosou"
+    "en": "Sugar Sugar Honey"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.30515614
+  },
+  {
+   "id": "0dc1865a-158d-42de-9fb5-28882215b527",
+   "title": {
+    "en": "Tokyo Jungle Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.30476242
   }
  ],
- "updatedAt": "2023-12-10T01:04:13+00:00"
+ "updatedAt": "2023-12-10T18:20:27+00:00"
 }

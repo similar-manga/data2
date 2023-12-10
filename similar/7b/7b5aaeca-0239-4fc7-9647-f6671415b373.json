@@ -26,7 +26,7 @@
     "en": "Makabe-san wa Tada Motetai"
    },
    "contentRating": "suggestive",
-   "score": 0.23680821,
+   "score": 0.23626411,
    "languages": [
     "pt-br",
     "es-la",
@@ -34,9 +34,9 @@
    ]
   },
   {
-   "id": "1c6f0478-16c9-460e-8513-487ac7416d5f",
+   "id": "a562a4c2-0030-40ff-9629-a67a42fe2044",
    "title": {
-    "en": "Ane to Muchi"
+    "en": "Keyaki shimai no Shiki"
    },
    "contentRating": "suggestive",
    "score": 0.22778316,
@@ -45,9 +45,9 @@
    ]
   },
   {
-   "id": "a562a4c2-0030-40ff-9629-a67a42fe2044",
+   "id": "1c6f0478-16c9-460e-8513-487ac7416d5f",
    "title": {
-    "en": "Keyaki shimai no Shiki"
+    "en": "Ane to Muchi"
    },
    "contentRating": "suggestive",
    "score": 0.22778316,
@@ -68,25 +68,12 @@
    ]
   },
   {
-   "id": "e52367ac-5799-46d0-93db-67ef336de6dd",
-   "title": {
-    "en": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19847581,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "ff360116-6df6-4bd3-817c-795f651c5b75",
    "title": {
     "en": "Prison!"
    },
    "contentRating": "suggestive",
-   "score": 0.19723411,
+   "score": 0.1966691,
    "languages": [
     "es-la",
     "pt-br",
@@ -95,14 +82,39 @@
    ]
   },
   {
+   "id": "e52367ac-5799-46d0-93db-67ef336de6dd",
+   "title": {
+    "en": "Taberu Dake de Level-Up! Damegami to Issho ni Isekai Musou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19447713,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "0013b0ec-9b15-4e7f-a22b-05de7127a219",
    "title": {
     "en": "Work I Really Want To Do!!!"
    },
    "contentRating": "suggestive",
-   "score": 0.19552012,
+   "score": 0.19391933,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9ba9791c-c3f5-41b7-ae5b-08578305f250",
+   "title": {
+    "en": "Sabae to Yattara Owaru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18598416,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -117,44 +129,23 @@
    ]
   },
   {
+   "id": "bdfc7777-f1ee-4131-82cb-2fb5861d32e1",
+   "title": {
+    "en": "Shingeki no Eroko-san ~Hen na Oneesan wa Danshikousei to Nakayoku Naritai~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18598416,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
    "id": "86798356-a6c6-47af-bdec-d10177c7250a",
    "title": {
     "en": "Joushi no Atsu ga Tsuyo Sugite Koi ga Dekinai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18598416,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e529c7a0-955b-47e2-ab9c-0dabc6ed6d39",
-   "title": {
-    "en": "Miyo-chan Sensei wa Kaku Katariki"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18598416,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "2430d142-6a6f-453e-9195-4a91be01fc57",
-   "title": {
-    "en": "Himawari Town Sunroad Girls"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18598416,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "054fa10a-395f-4fa1-a052-9481ebff2302",
-   "title": {
-    "en": "Mayuru's Hot Spring"
    },
    "contentRating": "suggestive",
    "score": 0.18598416,
@@ -179,20 +170,6 @@
    ]
   },
   {
-   "id": "bdfc7777-f1ee-4131-82cb-2fb5861d32e1",
-   "title": {
-    "en": "Shingeki no Eroko-san ~Hen na Oneesan wa Danshikousei to Nakayoku Naritai~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18598416,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
    "id": "fdae76c8-38c1-4ba6-a96b-daf8a5611d7d",
    "title": {
     "en": "Kuroneko no Suiei-bu"
@@ -203,7 +180,31 @@
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "e529c7a0-955b-47e2-ab9c-0dabc6ed6d39",
+   "title": {
+    "en": "Miyo-chan Sensei wa Kaku Katariki"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18598416,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "054fa10a-395f-4fa1-a052-9481ebff2302",
+   "title": {
+    "en": "Mayuru's Hot Spring"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18598416,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:42+00:00"
+ "updatedAt": "2023-12-10T18:21:49+00:00"
 }

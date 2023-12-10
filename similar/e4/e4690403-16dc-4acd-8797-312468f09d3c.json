@@ -11,7 +11,7 @@
     "en": "Maria of the Silver Valley"
    },
    "contentRating": "safe",
-   "score": 0.61842096
+   "score": 0.6260317
   },
   {
    "id": "99c55b76-dee9-4758-a0c9-ed1a70d4edca",
@@ -19,7 +19,19 @@
     "en": "Ooku: The Inner Chambers"
    },
    "contentRating": "safe",
-   "score": 0.22530828
+   "score": 0.22605859
+  },
+  {
+   "id": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+   "title": {
+    "en": "Charm Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.22141382,
+   "languages": [
+    "pl",
+    "en"
+   ]
   },
   {
    "id": "163a7ebc-ff76-454d-a02b-d306b21017d5",
@@ -27,18 +39,15 @@
     "en": "Cologne Policeman Odo"
    },
    "contentRating": "safe",
-   "score": 0.21602462
+   "score": 0.21683891
   },
   {
-   "id": "d5fc7365-f202-44c6-a029-08ea04896dcc",
+   "id": "7182a3a3-b292-4fdb-ab21-87bb9c4bcbd8",
    "title": {
-    "en": "Liselotte \u0026 the Witch's Forest"
+    "en": "Shotoku Taishi"
    },
    "contentRating": "safe",
-   "score": 0.2129135,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21190439
   },
   {
    "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
@@ -46,7 +55,18 @@
     "en": "Harp of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.20978807
+   "score": 0.21083006
+  },
+  {
+   "id": "d5fc7365-f202-44c6-a029-08ea04896dcc",
+   "title": {
+    "en": "Liselotte \u0026 the Witch's Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.21051633,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "d94943f6-e25f-4a7a-96b2-ebcdcb727e0e",
@@ -54,7 +74,7 @@
     "en": "Angel Hunt"
    },
    "contentRating": "safe",
-   "score": 0.20453788,
+   "score": 0.20392497,
    "languages": [
     "en"
    ]
@@ -65,9 +85,22 @@
     "en": "Anti Anti Angel"
    },
    "contentRating": "safe",
-   "score": 0.20333011,
+   "score": 0.20305066,
    "languages": [
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
+   "title": {
+    "en": "High School Debut"
+   },
+   "contentRating": "safe",
+   "score": 0.19556631,
+   "languages": [
+    "en",
+    "pl",
     "pt-br"
    ]
   },
@@ -83,16 +116,14 @@
    ]
   },
   {
-   "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
+   "id": "9b7d94cb-d0aa-4c39-9fb9-490d793083b5",
    "title": {
-    "en": "High School Debut"
+    "en": "Sleeping Beauty Age"
    },
    "contentRating": "safe",
    "score": 0.19556631,
    "languages": [
-    "en",
-    "pl",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -120,54 +151,21 @@
    ]
   },
   {
-   "id": "3dc7cb08-1bac-4d1a-b192-6d8865adbc39",
+   "id": "e6f9f347-fc8f-4422-8242-3d4aa484d8ef",
    "title": {
-    "en": "Kuranoa"
+    "en": "Asian Beat"
    },
    "contentRating": "safe",
-   "score": 0.18492709
+   "score": 0.18963674
   },
   {
-   "id": "5310fa94-bea5-48b8-b7bd-d3087e821e25",
+   "id": "1b435545-1541-488c-b907-13813761b552",
    "title": {
-    "en": "Étoile de La Seine"
+    "en": "Chatting by the Stairs"
    },
    "contentRating": "safe",
-   "score": 0.1843817
-  },
-  {
-   "id": "4c53bbcd-d0a7-424e-9169-393820b29147",
-   "title": {
-    "en": "Kaizoku Hime ~Captain Rose no Bouken~"
-   },
-   "contentRating": "safe",
-   "score": 0.18321757,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.1797995,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "fa66876c-c75f-45a0-97b7-258293f56ac3",
-   "title": {
-    "en": "Kimi wo Shinasenai tame no Storia"
-   },
-   "contentRating": "safe",
-   "score": 0.17870876
+   "score": 0.18648565
   }
  ],
- "updatedAt": "2023-12-10T01:09:11+00:00"
+ "updatedAt": "2023-12-10T18:33:30+00:00"
 }

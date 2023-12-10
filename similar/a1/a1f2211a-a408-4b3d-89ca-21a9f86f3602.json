@@ -11,7 +11,7 @@
     "en": "The Soldier Who Guards the Gate of the City Freedom"
    },
    "contentRating": "safe",
-   "score": 0.40697017,
+   "score": 0.41602013,
    "languages": [
     "en"
    ]
@@ -22,18 +22,7 @@
     "en": "The Man of the Sun and the Woman of the Earth"
    },
    "contentRating": "safe",
-   "score": 0.25602543,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1d8f855d-7a57-4ae0-858e-ec7cba999a89",
-   "title": {
-    "en": "Mika and the Rainbow Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.24713902,
+   "score": 0.25516495,
    "languages": [
     "en"
    ]
@@ -48,20 +37,6 @@
    "languages": [
     "fr",
     "en"
-   ]
-  },
-  {
-   "id": "c6b707e7-cc58-49fc-86da-ac8253d31ba8",
-   "title": {
-    "en": "You no Ou"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "pl",
-    "en",
-    "bg",
-    "ca"
    ]
   },
   {
@@ -89,12 +64,37 @@
    ]
   },
   {
+   "id": "c6b707e7-cc58-49fc-86da-ac8253d31ba8",
+   "title": {
+    "en": "You no Ou"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "pl",
+    "en",
+    "bg",
+    "ca"
+   ]
+  },
+  {
+   "id": "1d8f855d-7a57-4ae0-858e-ec7cba999a89",
+   "title": {
+    "en": "Mika and the Rainbow Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.2467131,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "86f2b731-aec3-4596-9f87-5573a201d561",
    "title": {
     "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.24271885,
+   "score": 0.24237333,
    "languages": [
     "pl",
     "en",
@@ -102,31 +102,9 @@
    ]
   },
   {
-   "id": "8a2ac887-5f7e-4968-9b5f-a573da6ae704",
-   "title": {
-    "en": "Busshi no Busshin - Kamakura Hanbun Busshiroku"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "aab0b50c-6608-4169-9a79-ab11010cdecf",
    "title": {
     "en": "Maiden of the Workshop"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6b6b6848-77c9-4b8b-aa54-5840741d2011",
-   "title": {
-    "en": "Yoshihime to Ushio"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -147,26 +125,64 @@
    ]
   },
   {
-   "id": "1f107cfa-5661-4ce0-b724-d397868002e2",
+   "id": "8a2ac887-5f7e-4968-9b5f-a573da6ae704",
    "title": {
-    "en": "Hakomiya Gensou Gekijou"
+    "en": "Busshi no Busshin - Kamakura Hanbun Busshiroku"
    },
    "contentRating": "safe",
-   "score": 0.22222224,
+   "score": 0.23809525,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8be382ed-b430-43a1-9716-ab5ca93349ac",
+   "id": "acb71b54-9140-4c8a-8af7-cc385b5260a1",
    "title": {
-    "en": "Busujima Kyouju no Tamago"
+    "en": "Fate/Grand Order: Ordú Beag"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "pt-br",
+    "hu",
+    "en"
+   ]
+  },
+  {
+   "id": "6b6b6848-77c9-4b8b-aa54-5840741d2011",
+   "title": {
+    "en": "Yoshihime to Ushio"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
+   "title": {
+    "en": "The White Witch and the Snow-Viewing Tea Party"
    },
    "contentRating": "safe",
    "score": 0.22222224,
    "languages": [
     "en",
+    "pl",
+    "it",
     "fr"
+   ]
+  },
+  {
+   "id": "4e79ab8c-9f80-4da1-85b2-220860f84746",
+   "title": {
+    "en": "Hokorobi no Lamp"
+   },
+   "contentRating": "safe",
+   "score": 0.22222224,
+   "languages": [
+    "en",
+    "hu"
    ]
   },
   {
@@ -184,21 +200,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
-   "title": {
-    "en": "The White Witch and the Snow-Viewing Tea Party"
-   },
-   "contentRating": "safe",
-   "score": 0.22222224,
-   "languages": [
-    "en",
-    "pl",
-    "it",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:26+00:00"
+ "updatedAt": "2023-12-10T18:26:22+00:00"
 }

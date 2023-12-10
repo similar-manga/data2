@@ -11,7 +11,7 @@
     "en": "Virtual Hero"
    },
    "contentRating": "safe",
-   "score": 0.30804172,
+   "score": 0.3040231,
    "languages": [
     "en"
    ]
@@ -22,16 +22,16 @@
     "en": "GirlPan vs SeraJuu"
    },
    "contentRating": "safe",
-   "score": 0.3037122,
+   "score": 0.30401272,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "591eb5e6-22b8-44e6-9db4-cbb8788eb3e8",
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
    "title": {
-    "en": "Another Vanguard - Vanguard Frontier"
+    "en": "Ryuudan Shounen"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -40,34 +40,9 @@
    ]
   },
   {
-   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
+   "id": "591eb5e6-22b8-44e6-9db4-cbb8788eb3e8",
    "title": {
-    "en": "Karakuri"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl",
-    "it"
-   ]
-  },
-  {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
-   "title": {
-    "en": "Minds"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
+    "en": "Another Vanguard - Vanguard Frontier"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -89,6 +64,31 @@
    ]
   },
   {
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "title": {
+    "en": "Minds"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
+   "title": {
+    "en": "Karakuri"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl",
+    "it"
+   ]
+  },
+  {
    "id": "a6999c9e-c0e2-4534-a4da-632d09f010e9",
    "title": {
     "en": "Section 459"
@@ -100,9 +100,9 @@
    ]
   },
   {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
-    "en": "Ryuudan Shounen"
+    "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -116,7 +116,7 @@
     "en": "Tokyo Jungle"
    },
    "contentRating": "safe",
-   "score": 0.2819554,
+   "score": 0.28130677,
    "languages": [
     "en"
    ]
@@ -127,7 +127,7 @@
     "en": "Yo-kai Watch Treasure Busters"
    },
    "contentRating": "safe",
-   "score": 0.2612889,
+   "score": 0.26084274,
    "languages": [
     "pt-br",
     "fr",
@@ -136,24 +136,12 @@
    ]
   },
   {
-   "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
-   "title": {
-    "en": "The Tiger of Omertà"
-   },
-   "contentRating": "safe",
-   "score": 0.25391188,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "85b11eaf-6de0-48d2-8d66-f39ab0852ac4",
    "title": {
     "en": "Red Girl"
    },
    "contentRating": "safe",
-   "score": 0.2528382,
+   "score": 0.25396633,
    "languages": [
     "en"
    ]
@@ -164,8 +152,20 @@
     "en": "Rico"
    },
    "contentRating": "safe",
-   "score": 0.25262064,
+   "score": 0.25350562,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
+   "title": {
+    "en": "The Tiger of Omertà"
+   },
+   "contentRating": "safe",
+   "score": 0.25281456,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -175,7 +175,7 @@
     "en": "Fairytale,"
    },
    "contentRating": "safe",
-   "score": 0.2496397,
+   "score": 0.2493059,
    "languages": [
     "vi",
     "en"
@@ -187,7 +187,7 @@
     "en": "Zansatsu! Ponytail"
    },
    "contentRating": "safe",
-   "score": 0.24872918,
+   "score": 0.24881332,
    "languages": [
     "fr",
     "it",
@@ -195,5 +195,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:45+00:00"
+ "updatedAt": "2023-12-10T18:19:13+00:00"
 }

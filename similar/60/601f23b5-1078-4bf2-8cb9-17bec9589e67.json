@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
+   "title": {
+    "en": "Little Busters! EX The 4koma"
+   },
+   "contentRating": "safe",
+   "score": 0.263103,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "5043289e-596b-4734-8a5d-37943fe515c7",
    "title": {
     "en": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku"
    },
    "contentRating": "safe",
-   "score": 0.32732597,
+   "score": 0.2600321,
    "languages": [
     "en",
     "vi",
@@ -19,15 +31,14 @@
    ]
   },
   {
-   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
+   "id": "9f5fdd4b-26ca-4d9e-a4ff-b781f4681bc4",
    "title": {
-    "en": "Little Busters! EX The 4koma"
+    "en": "Katatsumuri-chan"
    },
    "contentRating": "safe",
-   "score": 0.27541322,
+   "score": 0.24919137,
    "languages": [
-    "en",
-    "vi"
+    "en"
    ]
   },
   {
@@ -36,18 +47,18 @@
     "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Official 4koma Anthology"
    },
    "contentRating": "safe",
-   "score": 0.2635113,
+   "score": 0.24839029,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6d16184b-c951-4370-968f-ef6befc29377",
+   "id": "5367b6df-c7af-40d4-8ab4-ef56b4ec0717",
    "title": {
-    "en": "Magi-Cu 4-koma - Steins;Gate - Sekaisen Hendouritsu x. 091015%"
+    "en": "Yuusha-bu Biyori Party♪"
    },
    "contentRating": "safe",
-   "score": 0.24545167,
+   "score": 0.23637332,
    "languages": [
     "en"
    ]
@@ -58,7 +69,7 @@
     "en": "Puchimasu!"
    },
    "contentRating": "safe",
-   "score": 0.24512553,
+   "score": 0.2342449,
    "languages": [
     "en",
     "es-la"
@@ -70,10 +81,32 @@
     "en": "Murabito Tensei: Saikyou no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.22761673,
+   "score": 0.23375544,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "6d16184b-c951-4370-968f-ef6befc29377",
+   "title": {
+    "en": "Magi-Cu 4-koma - Steins;Gate - Sekaisen Hendouritsu x. 091015%"
+   },
+   "contentRating": "safe",
+   "score": 0.23004982,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4af7c4b1-262c-426f-b86a-051c99b9f503",
+   "title": {
+    "en": "Mio's Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.22573337,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -82,7 +115,7 @@
     "en": "Angel Beats! Original Comics"
    },
    "contentRating": "safe",
-   "score": 0.22441427,
+   "score": 0.22387633,
    "languages": [
     "vi",
     "fr",
@@ -91,37 +124,16 @@
    ]
   },
   {
-   "id": "166e8cdd-c211-4ae2-a2e6-288004e87fcd",
+   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
    "title": {
-    "en": "Super Mario Sunshine 4Koma Manga Kingdom"
+    "en": "Hyper Ultra Girlish"
    },
    "contentRating": "safe",
-   "score": 0.21400854,
+   "score": 0.21854629,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5853b091-5849-4303-81ad-0e06b071dee0",
-   "title": {
-    "en": "Yuyushiki"
-   },
-   "contentRating": "safe",
-   "score": 0.20870689,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b9906d2-19fb-4575-ac75-0b2e2e02fdd8",
-   "title": {
-    "en": "Re-Kan!"
-   },
-   "contentRating": "safe",
-   "score": 0.20718469,
-   "languages": [
+    "ru",
     "en",
-    "es-la"
+    "fr"
    ]
   },
   {
@@ -130,7 +142,7 @@
     "en": "Tensei Shitara Kozakana datta kedo Ryuu ni Nareru Rashii node Ganbarimasu"
    },
    "contentRating": "safe",
-   "score": 0.20567864,
+   "score": 0.20867996,
    "languages": [
     "en"
    ]
@@ -141,7 +153,7 @@
     "en": "Akuyaku Reijou Tensei Oji-san"
    },
    "contentRating": "safe",
-   "score": 0.20517895,
+   "score": 0.2077571,
    "languages": [
     "id",
     "vi",
@@ -149,56 +161,38 @@
    ]
   },
   {
-   "id": "07500447-533b-4d64-93e3-4fbb8458a42d",
+   "id": "166e8cdd-c211-4ae2-a2e6-288004e87fcd",
    "title": {
-    "en": "A-Channel"
+    "en": "Super Mario Sunshine 4Koma Manga Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.19808327,
+   "score": 0.20447704,
    "languages": [
-    "en",
-    "es",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "782211b2-44ca-44ae-89f2-8a1160221b96",
+   "id": "5853b091-5849-4303-81ad-0e06b071dee0",
    "title": {
-    "en": "Tensei Goblin dakedo Shitsumon aru?"
+    "en": "Yuyushiki"
    },
    "contentRating": "safe",
-   "score": 0.19548097,
+   "score": 0.20339012,
    "languages": [
-    "en",
-    "ru",
-    "th",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "ad665f6c-f932-44c1-aad4-8307441a9756",
+   "id": "7f7a9625-2a5a-42a9-b3d0-a3bd625cecaa",
    "title": {
-    "en": "Kiniro Mosaic"
+    "en": "Joukamachi no Dandelion"
    },
    "contentRating": "safe",
-   "score": 0.1897461,
+   "score": 0.20059054,
    "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "13256965-4b23-444b-9c80-54cb10c20f53",
-   "title": {
-    "en": "Shinjou Saikyou no Dai Kenja, Tensei-saki ga Nuigurumi demo Saikyou deshita"
-   },
-   "contentRating": "safe",
-   "score": 0.18731716,
-   "languages": [
-    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:35+00:00"
+ "updatedAt": "2023-12-10T18:18:45+00:00"
 }

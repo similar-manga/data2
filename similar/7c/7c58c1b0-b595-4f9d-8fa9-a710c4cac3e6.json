@@ -11,10 +11,18 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.2610754,
+   "score": 0.26435667,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b52370bb-178b-437b-b5c3-a5b5a96893e7",
+   "title": {
+    "en": "Battlefield No. 5"
+   },
+   "contentRating": "safe",
+   "score": 0.26347628
   },
   {
    "id": "bbe605e5-bbe6-4091-bb6b-e8aa8dbf8fe6",
@@ -22,7 +30,7 @@
     "en": "Gyakushuu no Dragon Rider"
    },
    "contentRating": "safe",
-   "score": 0.2502746,
+   "score": 0.2508787,
    "languages": [
     "en"
    ]
@@ -33,7 +41,7 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.22707188
+   "score": 0.23212844
   },
   {
    "id": "0f623742-d82c-472f-bda4-d6e3f1039b7c",
@@ -41,7 +49,7 @@
     "en": "Dominion"
    },
    "contentRating": "safe",
-   "score": 0.22538199,
+   "score": 0.22515647,
    "languages": [
     "pl"
    ]
@@ -52,7 +60,23 @@
     "en": "TEAM PHOENIX"
    },
    "contentRating": "safe",
-   "score": 0.2198703
+   "score": 0.22437228
+  },
+  {
+   "id": "9044f2b2-e6af-4941-ad7c-138049c8f0b0",
+   "title": {
+    "en": "Adventure Gaboten Island"
+   },
+   "contentRating": "safe",
+   "score": 0.2215268
+  },
+  {
+   "id": "ca831d4b-ab8c-48ba-ad19-852840fbce69",
+   "title": {
+    "en": "Nonai"
+   },
+   "contentRating": "safe",
+   "score": 0.22134805
   },
   {
    "id": "eba9285c-8314-4f14-898d-a9476b83a394",
@@ -60,18 +84,26 @@
     "en": "Pokémon"
    },
    "contentRating": "safe",
-   "score": 0.21770088,
+   "score": 0.2176247,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "46d3e9f0-8892-48c8-9fe1-816efec04d4f",
+   "id": "77b7cb94-b6d9-4610-b4f6-a49c6991c82c",
    "title": {
-    "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
+    "en": "Luo Fu"
    },
    "contentRating": "safe",
-   "score": 0.21101399
+   "score": 0.21417737
+  },
+  {
+   "id": "7c7158c3-e60f-4970-a5c9-912ae2e818ec",
+   "title": {
+    "en": "The Dashing Harimau"
+   },
+   "contentRating": "safe",
+   "score": 0.21201168
   },
   {
    "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
@@ -85,12 +117,23 @@
    ]
   },
   {
-   "id": "7c7158c3-e60f-4970-a5c9-912ae2e818ec",
+   "id": "87e4d7e4-5ed8-4c21-91f3-d732f34abe6b",
    "title": {
-    "en": "The Dashing Harimau"
+    "en": "The Great Conqueror"
    },
    "contentRating": "safe",
-   "score": 0.21001458
+   "score": 0.21101399,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "46d3e9f0-8892-48c8-9fe1-816efec04d4f",
+   "title": {
+    "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
+   },
+   "contentRating": "safe",
+   "score": 0.21101399
   },
   {
    "id": "daacd330-0267-4503-b05e-04925ddeef85",
@@ -104,76 +147,13 @@
    ]
   },
   {
-   "id": "0712b798-5917-4307-b3e5-ea745f5adec9",
+   "id": "fdee8eab-c377-4a5e-bda7-ca1e0e0fff8f",
    "title": {
-    "en": "Daigo Tokusou"
+    "en": "Ki \u0026 Hi"
    },
    "contentRating": "safe",
-   "score": 0.20420447
-  },
-  {
-   "id": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
-   "title": {
-    "en": "Sakamoto Days"
-   },
-   "contentRating": "safe",
-   "score": 0.20231827,
-   "languages": [
-    "pt-br",
-    "it",
-    "en",
-    "ru",
-    "es-la",
-    "tr",
-    "sr",
-    "ar",
-    "fr",
-    "pl",
-    "id",
-    "bn",
-    "fa",
-    "th"
-   ]
-  },
-  {
-   "id": "359441d4-63f7-426c-b914-c636578ddcb0",
-   "title": {
-    "en": "Kakuremi"
-   },
-   "contentRating": "safe",
-   "score": 0.20162432,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "78cbfb65-2681-48a4-92ca-8c7dd63737a7",
-   "title": {
-    "en": "Tokyo Jungle"
-   },
-   "contentRating": "safe",
-   "score": 0.19905865,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
-   "title": {
-    "en": "Night Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.19902006
-  },
-  {
-   "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
-   "title": {
-    "en": "Countryside General"
-   },
-   "contentRating": "safe",
-   "score": 0.19893922
+   "score": 0.20672658
   }
  ],
- "updatedAt": "2023-12-10T01:04:45+00:00"
+ "updatedAt": "2023-12-10T18:21:56+00:00"
 }

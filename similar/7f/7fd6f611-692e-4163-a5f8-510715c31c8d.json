@@ -11,7 +11,7 @@
     "en": "A Carefree Life"
    },
    "contentRating": "safe",
-   "score": 0.2891597,
+   "score": 0.28686073,
    "languages": [
     "en",
     "id",
@@ -24,7 +24,7 @@
     "en": "Lemon's"
    },
    "contentRating": "safe",
-   "score": 0.27035892,
+   "score": 0.26948154,
    "languages": [
     "en",
     "fr"
@@ -36,7 +36,7 @@
     "en": "Rainy Song"
    },
    "contentRating": "safe",
-   "score": 0.26833147,
+   "score": 0.26846907,
    "languages": [
     "en",
     "pl",
@@ -45,12 +45,12 @@
    ]
   },
   {
-   "id": "2d9e2b65-213a-4c33-96b9-7013e12ff255",
+   "id": "6ade47ff-2f4f-4dae-b747-d2c9b48de4e4",
    "title": {
-    "en": "Girlfriend"
+    "en": "Nukumori Blanket"
    },
    "contentRating": "safe",
-   "score": 0.2663634,
+   "score": 0.25916255,
    "languages": [
     "en",
     "pt-br"
@@ -68,18 +68,6 @@
    ]
   },
   {
-   "id": "6ade47ff-2f4f-4dae-b747-d2c9b48de4e4",
-   "title": {
-    "en": "Nukumori Blanket"
-   },
-   "contentRating": "safe",
-   "score": 0.25916255,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "f01ae8cb-d39d-44ab-94bc-7038823eaa80",
    "title": {
     "en": "Bridesmaid"
@@ -92,12 +80,35 @@
    ]
   },
   {
+   "id": "2d9e2b65-213a-4c33-96b9-7013e12ff255",
+   "title": {
+    "en": "Girlfriend"
+   },
+   "contentRating": "safe",
+   "score": 0.25916255,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "c44b0467-7de5-4fa4-a70c-675d74e10db1",
    "title": {
     "en": "We Don't Like Love Songs"
    },
    "contentRating": "safe",
-   "score": 0.2562917,
+   "score": 0.25579315,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5cd075f4-6a5e-4dbd-986b-0499bfa8827d",
+   "title": {
+    "en": "Fallin' In And Out Of Love Like A Rollercoaster"
+   },
+   "contentRating": "safe",
+   "score": 0.25102618,
    "languages": [
     "en"
    ]
@@ -108,21 +119,10 @@
     "en": "F.U.S.S.A"
    },
    "contentRating": "safe",
-   "score": 0.25201452,
+   "score": 0.25087667,
    "languages": [
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "5cd075f4-6a5e-4dbd-986b-0499bfa8827d",
-   "title": {
-    "en": "Fallin' In And Out Of Love Like A Rollercoaster"
-   },
-   "contentRating": "safe",
-   "score": 0.25157103,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -131,18 +131,7 @@
     "en": "A Bud in Secret"
    },
    "contentRating": "safe",
-   "score": 0.25081232,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f933f2ff-db4c-4a84-b82a-9a72321bc1bf",
-   "title": {
-    "en": "I'm an Idiot"
-   },
-   "contentRating": "safe",
-   "score": 0.24826787,
+   "score": 0.24983655,
    "languages": [
     "en"
    ]
@@ -153,20 +142,30 @@
     "en": "Girls' Lives"
    },
    "contentRating": "safe",
-   "score": 0.2479201,
+   "score": 0.24867101,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c1885445-1ff6-4272-8f4a-f476da937115",
+   "id": "f933f2ff-db4c-4a84-b82a-9a72321bc1bf",
    "title": {
-    "en": "Hyakuoku Nengo no Kimi no Koe mo"
+    "en": "I'm an Idiot"
    },
    "contentRating": "safe",
-   "score": 0.24330968,
+   "score": 0.24814837,
    "languages": [
-    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "3f7fb508-be22-453a-ba33-2631345b529f",
+   "title": {
+    "en": "Alter Ego"
+   },
+   "contentRating": "safe",
+   "score": 0.24487689,
+   "languages": [
     "en"
    ]
   },
@@ -176,23 +175,24 @@
     "en": "Treatment Time"
    },
    "contentRating": "safe",
-   "score": 0.24312563,
+   "score": 0.24316537,
    "languages": [
     "es",
     "en"
    ]
   },
   {
-   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
+   "id": "c1885445-1ff6-4272-8f4a-f476da937115",
    "title": {
-    "en": "Good Weather"
+    "en": "Hyakuoku Nengo no Kimi no Koe mo"
    },
    "contentRating": "safe",
-   "score": 0.24244238,
+   "score": 0.24287626,
    "languages": [
+    "it",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:53+00:00"
+ "updatedAt": "2023-12-10T18:22:19+00:00"
 }

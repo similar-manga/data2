@@ -11,7 +11,7 @@
     "en": "Kamui Gaiden"
    },
    "contentRating": "suggestive",
-   "score": 0.21568148,
+   "score": 0.21547058,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "One Piece"
    },
    "contentRating": "suggestive",
-   "score": 0.14836262,
+   "score": 0.14769031,
    "languages": [
     "ca",
     "pt-br",
@@ -96,7 +96,7 @@
     "en": "Kabuto"
    },
    "contentRating": "suggestive",
-   "score": 0.14090735,
+   "score": 0.14056835,
    "languages": [
     "en"
    ]
@@ -107,7 +107,7 @@
     "en": "Mazinger Z (Outa Gosaku)"
    },
    "contentRating": "suggestive",
-   "score": 0.13977075,
+   "score": 0.14046738,
    "languages": [
     "en"
    ]
@@ -129,7 +129,7 @@
     "en": "Zannen Jokanbu Black General-san"
    },
    "contentRating": "suggestive",
-   "score": 0.13214223,
+   "score": 0.13171233,
    "languages": [
     "en",
     "pt-br",
@@ -161,29 +161,6 @@
    ]
   },
   {
-   "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
-   "title": {
-    "en": "Senran Kagura - Shoujotachi no Shinei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12988476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "306466c7-bd1a-411d-a1c0-f58db01f23a9",
-   "title": {
-    "en": "King of the Ants"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12805572,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "4cbcf157-ef13-4f3e-8de1-c2febe21a5c9",
    "title": {
     "en": "Mobile Suit Zeta Gundam Sayonara"
@@ -195,12 +172,23 @@
    ]
   },
   {
+   "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
+   "title": {
+    "en": "Senran Kagura - Shoujotachi no Shinei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1274364,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fcf1aa35-4891-46a3-9874-f1823ddac415",
    "title": {
     "en": "Sousei no Onmyouji"
    },
    "contentRating": "suggestive",
-   "score": 0.1276621,
+   "score": 0.12707135,
    "languages": [
     "ru",
     "es",
@@ -209,6 +197,18 @@
     "es-la",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "306466c7-bd1a-411d-a1c0-f58db01f23a9",
+   "title": {
+    "en": "King of the Ants"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1266552,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -226,5 +226,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:58+00:00"
+ "updatedAt": "2023-12-10T18:17:09+00:00"
 }

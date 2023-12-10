@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
+   "title": {
+    "en": "Sensei no Yasashii Koroshikata"
+   },
+   "contentRating": "safe",
+   "score": 0.24676426,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "66297109-c52d-41fa-82f1-506092dc00b9",
    "title": {
     "en": "17-sai Kara Yarinaosu Propose"
    },
    "contentRating": "safe",
-   "score": 0.24606727,
+   "score": 0.2449201,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +36,7 @@
     "en": "Dou ka Ore wo Houtte Oitekure"
    },
    "contentRating": "safe",
-   "score": 0.23989312,
+   "score": 0.23678668,
    "languages": [
     "en"
    ]
@@ -34,7 +47,7 @@
     "en": "Hyouka"
    },
    "contentRating": "safe",
-   "score": 0.21902673,
+   "score": 0.2180147,
    "languages": [
     "id",
     "en",
@@ -43,6 +56,34 @@
     "es-la",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+   "title": {
+    "en": "Kaoru Hana wa Rin to Saku"
+   },
+   "contentRating": "safe",
+   "score": 0.2168115,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "vi",
+    "id",
+    "es-la",
+    "ar"
+   ]
+  },
+  {
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
+   "title": {
+    "en": "A-Presto"
+   },
+   "contentRating": "safe",
+   "score": 0.21125256,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -57,15 +98,43 @@
    ]
   },
   {
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2084879,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
+   ]
+  },
+  {
    "id": "09c3e582-02b0-4c5d-8693-5c89099677d1",
    "title": {
     "en": "Aku no Meshitsukai"
    },
    "contentRating": "safe",
-   "score": 0.20581135,
+   "score": 0.20642696,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "eece6d75-0897-4ebc-9f5c-57d250bc634b",
+   "title": {
+    "en": "Kimi no Gomeifuku nante Inoranai"
+   },
+   "contentRating": "safe",
+   "score": 0.20466696,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -74,21 +143,23 @@
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.19904111,
+   "score": 0.20229164,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "25d708c8-7146-4bd5-9f6c-3c003c09839b",
+   "id": "70a1a115-a0c9-46b8-9310-65873e5fbb55",
    "title": {
-    "en": "D.C.S.G. ~Da Capo - Second Graduation~"
+    "en": "Comic Aku No Musume"
    },
    "contentRating": "safe",
-   "score": 0.19673184,
+   "score": 0.20203052,
    "languages": [
-    "pl",
-    "en"
+    "ru",
+    "en",
+    "zh-hk",
+    "fr"
    ]
   },
   {
@@ -97,10 +168,22 @@
     "en": "One Summer's Kids Game"
    },
    "contentRating": "safe",
-   "score": 0.19496733,
+   "score": 0.19743301,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "25d708c8-7146-4bd5-9f6c-3c003c09839b",
+   "title": {
+    "en": "D.C.S.G. ~Da Capo - Second Graduation~"
+   },
+   "contentRating": "safe",
+   "score": 0.19512449,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -109,98 +192,22 @@
     "en": "ToHeart2 ~colorful note~"
    },
    "contentRating": "safe",
-   "score": 0.19359656,
+   "score": 0.19248381,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2036ce4b-46ac-4e88-b0b1-90b3ea3aa1a1",
+   "id": "70b00648-7d6a-4c05-8611-d8b4554a33ba",
    "title": {
-    "en": "Nante Nasakenai Bokura da"
+    "en": "Haruchika"
    },
    "contentRating": "safe",
-   "score": 0.19113007,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "ca",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
-   "title": {
-    "en": "Shuumatsu wa Aoi Haru"
-   },
-   "contentRating": "safe",
-   "score": 0.18977873,
-   "languages": [
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443",
-   "title": {
-    "en": "Clannad"
-   },
-   "contentRating": "safe",
-   "score": 0.18757634,
-   "languages": [
-    "pl",
-    "de",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6ef63fa1-e394-4255-8183-bf25aa7a3e25",
-   "title": {
-    "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.18525282,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21257695-df39-49a5-b952-d05a152879f5",
-   "title": {
-    "en": "Steel Septum"
-   },
-   "contentRating": "safe",
-   "score": 0.18173774,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "591b6e03-c02b-4362-aa75-b9066e21f46e",
-   "title": {
-    "en": "Tsuyokute New Game na Love Come"
-   },
-   "contentRating": "safe",
-   "score": 0.1794957,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "e9910ced-1503-401c-b1b0-23145dcc3c92",
-   "title": {
-    "en": "Nice to Meet You! The Pure-Hearted Fellow"
-   },
-   "contentRating": "safe",
-   "score": 0.1791586,
+   "score": 0.19222209,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:16+00:00"
+ "updatedAt": "2023-12-10T18:36:07+00:00"
 }

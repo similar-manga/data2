@@ -11,7 +11,7 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.2881921,
+   "score": 0.28843647,
    "languages": [
     "en",
     "pt-br",
@@ -24,7 +24,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.23181017,
+   "score": 0.23210101,
    "languages": [
     "en"
    ]
@@ -35,10 +35,22 @@
     "en": "Tokoshie x Bullet: Kaijuu Gakuen"
    },
    "contentRating": "safe",
-   "score": 0.22764228,
+   "score": 0.2256532,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
+   "title": {
+    "en": "Snowball Earth"
+   },
+   "contentRating": "safe",
+   "score": 0.22285084,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -47,7 +59,7 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.2220408,
+   "score": 0.22152065,
    "languages": [
     "ru",
     "en"
@@ -59,7 +71,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.221516,
+   "score": 0.22083558,
    "languages": [
     "pt-br",
     "en",
@@ -69,39 +81,16 @@
    ]
   },
   {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
-   "title": {
-    "en": "Snowball Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.22042967,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
    "title": {
     "en": "Dogs / Bullets \u0026 Carnage"
    },
    "contentRating": "safe",
-   "score": 0.21985804,
+   "score": 0.21921928,
    "languages": [
     "en",
     "bg",
     "pl"
-   ]
-  },
-  {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
-   "title": {
-    "en": "Uncanny Brains"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -119,12 +108,46 @@
    ]
   },
   {
-   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
+   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
    "title": {
-    "en": "The Planet of Sutakola"
+    "en": "Uncanny Brains"
    },
    "contentRating": "safe",
-   "score": 0.19485423,
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c2ff08bd-88a9-4523-bed3-6e7cdeb8fe9b",
+   "title": {
+    "en": "OREN'S"
+   },
+   "contentRating": "safe",
+   "score": 0.20530413,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -135,13 +158,36 @@
     "en": "Shojo Manga"
    },
    "contentRating": "safe",
-   "score": 0.19451919,
+   "score": 0.19759123,
    "languages": [
     "it",
     "tr",
     "pt-br",
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "8b0145b1-947c-4f72-936e-be87b3d72b5d",
+   "title": {
+    "en": "The Unwavering Planets"
+   },
+   "contentRating": "safe",
+   "score": 0.1961885,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
+   "title": {
+    "en": "The Planet of Sutakola"
+   },
+   "contentRating": "safe",
+   "score": 0.19575596,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -154,54 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "8b0145b1-947c-4f72-936e-be87b3d72b5d",
-   "title": {
-    "en": "The Unwavering Planets"
-   },
-   "contentRating": "safe",
-   "score": 0.19405249,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.19401923,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "55c4c609-758b-4530-a313-a88d547611ef",
-   "title": {
-    "en": "Never-Ending Afternoon"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
-   "title": {
-    "en": "Omega Tribe Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.18653075,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:47+00:00"
+ "updatedAt": "2023-12-10T18:27:23+00:00"
 }

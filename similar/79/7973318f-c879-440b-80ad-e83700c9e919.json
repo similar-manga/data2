@@ -11,7 +11,7 @@
     "en": "The Small Village of the Young Lady Without Blessing"
    },
    "contentRating": "safe",
-   "score": 0.36784708,
+   "score": 0.3671985,
    "languages": [
     "id",
     "en"
@@ -23,9 +23,27 @@
     "en": "Reincarnated into an Otome Game? Nah, I'm Too Busy Mastering Magic!"
    },
    "contentRating": "safe",
-   "score": 0.33337665,
+   "score": 0.3329984,
    "languages": [
     "en",
+    "id"
+   ]
+  },
+  {
+   "id": "7350be91-b5e1-467d-89df-a089d014d20b",
+   "title": {
+    "en": "Seijo no Maryoku wa Bannou desu"
+   },
+   "contentRating": "safe",
+   "score": 0.29409435,
+   "languages": [
+    "ru",
+    "en",
+    "fr",
+    "pl",
+    "it",
+    "es-la",
+    "pt-br",
     "id"
    ]
   },
@@ -35,7 +53,7 @@
     "en": "Daiyogensha wa Zensei kara Nigeru"
    },
    "contentRating": "safe",
-   "score": 0.29272547,
+   "score": 0.29061976,
    "languages": [
     "en",
     "es-la",
@@ -44,79 +62,12 @@
    ]
   },
   {
-   "id": "896a437a-6f12-4728-a6c7-2961b1e300c6",
-   "title": {
-    "en": "Osake no Tame ni Otome Game Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.2778603,
-   "languages": [
-    "en",
-    "th",
-    "id"
-   ]
-  },
-  {
-   "id": "092d4920-0bf3-4b3c-8c84-5027ade69e35",
-   "title": {
-    "en": "Akuyaku Reijou no Tsuihougo!"
-   },
-   "contentRating": "safe",
-   "score": 0.2695811,
-   "languages": [
-    "es-la",
-    "tr",
-    "en",
-    "ru",
-    "fr",
-    "id"
-   ]
-  },
-  {
-   "id": "ea7a90b2-88f5-400c-b4ea-f30b0c3af19c",
-   "title": {
-    "en": "There's No Such Thing as a Villainess Route? Not in My Book!"
-   },
-   "contentRating": "safe",
-   "score": 0.26648974,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "20d72207-e32f-4d20-94e1-86417b54b9da",
-   "title": {
-    "en": "Heroine? Saint? No, I'm an All-Works Maid (Proud)!"
-   },
-   "contentRating": "safe",
-   "score": 0.266022,
-   "languages": [
-    "en",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "2022a7a1-59fb-446b-a37c-8bb3fed9a632",
-   "title": {
-    "en": "Gyakkou Shita Akuyaku Reijou wa, Naze ka Maryoku wo Ushinattanode Shinsou no Reijou ni Narimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.26125413,
-   "languages": [
-    "en",
-    "id",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "d7100239-9327-4a2d-af1d-8f48f0facfea",
    "title": {
     "en": "The Villainess Is Adored by the Crown Prince of the Neighboring Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2500733,
+   "score": 0.28127962,
    "languages": [
     "en",
     "tr",
@@ -129,12 +80,105 @@
    ]
   },
   {
+   "id": "896a437a-6f12-4728-a6c7-2961b1e300c6",
+   "title": {
+    "en": "Osake no Tame ni Otome Game Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.28100488,
+   "languages": [
+    "en",
+    "th",
+    "id"
+   ]
+  },
+  {
+   "id": "092d4920-0bf3-4b3c-8c84-5027ade69e35",
+   "title": {
+    "en": "Akuyaku Reijou no Tsuihougo!"
+   },
+   "contentRating": "safe",
+   "score": 0.2709184,
+   "languages": [
+    "es-la",
+    "tr",
+    "en",
+    "ru",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "20d72207-e32f-4d20-94e1-86417b54b9da",
+   "title": {
+    "en": "Heroine? Saint? No, I'm an All-Works Maid (Proud)!"
+   },
+   "contentRating": "safe",
+   "score": 0.26549143,
+   "languages": [
+    "en",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ea7a90b2-88f5-400c-b4ea-f30b0c3af19c",
+   "title": {
+    "en": "There's No Such Thing as a Villainess Route? Not in My Book!"
+   },
+   "contentRating": "safe",
+   "score": 0.26513916,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "2022a7a1-59fb-446b-a37c-8bb3fed9a632",
+   "title": {
+    "en": "Gyakkou Shita Akuyaku Reijou wa, Naze ka Maryoku wo Ushinattanode Shinsou no Reijou ni Narimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.2606306,
+   "languages": [
+    "en",
+    "id",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
+   "title": {
+    "en": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.25538585,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "fr"
+   ]
+  },
+  {
+   "id": "27589628-3704-468f-a464-361a8a76c3aa",
+   "title": {
+    "en": "Isekai de Café wo Kaiten Shimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.2468501,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "8484fa76-fb9e-494c-9aa0-9a48c582cea6",
    "title": {
     "en": "My Sister Picked up the Male Lead"
    },
    "contentRating": "safe",
-   "score": 0.24480224,
+   "score": 0.2445876,
    "languages": [
     "id",
     "en",
@@ -148,7 +192,7 @@
     "en": "Akuyaku Reijou Level 99: Watashi wa UraBoss desu ga Maou de wa Arimasen"
    },
    "contentRating": "safe",
-   "score": 0.24472737,
+   "score": 0.24429801,
    "languages": [
     "en",
     "vi",
@@ -165,7 +209,7 @@
     "en": "Milady Just Wants to Relax"
    },
    "contentRating": "safe",
-   "score": 0.23535202,
+   "score": 0.2360021,
    "languages": [
     "en",
     "id",
@@ -179,54 +223,12 @@
     "en": "The Strongest Characters in the World Are Obsessed With Me"
    },
    "contentRating": "safe",
-   "score": 0.2333576,
+   "score": 0.23283808,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "45866858-19c2-4f54-9e15-226e2f2beabf",
-   "title": {
-    "en": "Don't Overlook the Reincarnated Granny - The Second Life of a Former Villainous Empress"
-   },
-   "contentRating": "safe",
-   "score": 0.22372077,
-   "languages": [
-    "en",
-    "th",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "b00ca6fd-4fab-4c8f-a981-4a89cefc5d89",
-   "title": {
-    "en": "The Villainess Is Retiring"
-   },
-   "contentRating": "safe",
-   "score": 0.2228995,
-   "languages": [
-    "en",
-    "id",
-    "ru",
-    "fa"
-   ]
-  },
-  {
-   "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
-   "title": {
-    "en": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.21969625,
-   "languages": [
-    "ru",
-    "en",
-    "id",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:37+00:00"
+ "updatedAt": "2023-12-10T18:21:35+00:00"
 }

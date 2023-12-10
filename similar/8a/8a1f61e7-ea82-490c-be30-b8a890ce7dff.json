@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
+   "title": {
+    "en": "Hanasaki Sentimental"
+   },
+   "contentRating": "safe",
+   "score": 0.30843085,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
    "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
    "title": {
     "en": "Junai Rosen"
    },
    "contentRating": "safe",
-   "score": 0.30933943,
+   "score": 0.30803567,
    "languages": [
     "en"
    ]
@@ -22,9 +33,20 @@
     "en": "Koi suru 1/4"
    },
    "contentRating": "safe",
-   "score": 0.3080543,
+   "score": 0.30765465,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "93425f9a-991a-477b-bd3a-3a64463bce32",
+   "title": {
+    "en": "Gekiai ~Motto Motometai"
+   },
+   "contentRating": "safe",
+   "score": 0.29905573,
+   "languages": [
     "en"
    ]
   },
@@ -34,7 +56,7 @@
     "en": "Kimi o Matsu -\u003e Akaiito"
    },
    "contentRating": "safe",
-   "score": 0.297328,
+   "score": 0.29688504,
    "languages": [
     "en"
    ]
@@ -45,7 +67,7 @@
     "en": "Mamacolle"
    },
    "contentRating": "safe",
-   "score": 0.29525054,
+   "score": 0.29513913,
    "languages": [
     "pl",
     "fr"
@@ -57,15 +79,39 @@
     "en": "Pretty"
    },
    "contentRating": "safe",
-   "score": 0.29426348,
+   "score": 0.2941403,
    "languages": [
     "fr"
+   ]
+  },
+  {
+   "id": "729940e6-e49e-4ce0-9011-12c10b80f97e",
+   "title": {
+    "en": "Golden Japanesque"
+   },
+   "contentRating": "safe",
+   "score": 0.29367638,
+   "languages": [
+    "es",
+    "es-la",
+    "en"
    ]
   },
   {
    "id": "21f71c14-ebb8-40bf-8e85-48b642d961fe",
    "title": {
     "en": "Sayonara Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "96b0f185-d209-49c6-aabf-57873e8ed17f",
+   "title": {
+    "en": "Sweet Revenge"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -85,9 +131,20 @@
    ]
   },
   {
-   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
+   "id": "e15631f0-dd96-4a0c-934d-9f6c3b4d2e6e",
    "title": {
-    "en": "Anne the Lover"
+    "en": "Ren Ai Tan"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a35f2737-ac1f-4f34-babf-9e11ea7ddbdb",
+   "title": {
+    "en": "Kiseki no Riyuu"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -107,87 +164,27 @@
    ]
   },
   {
-   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
+   "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
    "title": {
-    "en": "Winter Flowers"
+    "en": "Hajimari no Kotoba"
    },
    "contentRating": "safe",
-   "score": 0.26017228,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
-   "title": {
-    "en": "Candy Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.25768003,
-   "languages": [
-    "fr",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
-   "title": {
-    "en": "Koi*Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.25487414,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3933ea33-0293-4e16-a8d6-9c992ed19fa3",
+   "id": "b47d0512-0685-462a-aff4-ee08908f19fd",
    "title": {
-    "en": "Hajimari no Haru"
+    "en": "Little Rain"
    },
    "contentRating": "safe",
-   "score": 0.25455645,
+   "score": 0.2857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb720ad1-f8ea-40a4-a911-3ffb6d541c88",
-   "title": {
-    "en": "Hime Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.25398275,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "b321e05c-c1e4-4837-8e61-d6e450f6c319",
-   "title": {
-    "en": "Ko no Ren ni Namidasuru!"
-   },
-   "contentRating": "safe",
-   "score": 0.25232318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b0e10a3-7685-46fd-8707-7f4a935c978a",
-   "title": {
-    "en": "Merry Unbalance Christmas"
-   },
-   "contentRating": "safe",
-   "score": 0.25099963,
-   "languages": [
-    "en",
-    "pl"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:22+00:00"
+ "updatedAt": "2023-12-10T18:23:32+00:00"
 }

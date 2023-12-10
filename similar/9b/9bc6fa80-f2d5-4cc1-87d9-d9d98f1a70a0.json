@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
-   "title": {
-    "en": "Gakusou"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "fr",
-    "ar"
-   ]
-  },
-  {
    "id": "5307712b-a34a-498b-89ef-51949f133a1d",
    "title": {
     "en": "The Night We Become More Than Friends"
@@ -42,9 +29,9 @@
    ]
   },
   {
-   "id": "4d20f2fe-0a4c-4692-aea3-3e620924d181",
+   "id": "d56050b5-071f-4802-87d8-9e54f3c14f2b",
    "title": {
-    "en": "Egao Futatsu"
+    "en": "Kamisama no Omamori"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -53,9 +40,22 @@
    ]
   },
   {
-   "id": "d56050b5-071f-4802-87d8-9e54f3c14f2b",
+   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
    "title": {
-    "en": "Kamisama no Omamori"
+    "en": "Gakusou"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "fr",
+    "ar"
+   ]
+  },
+  {
+   "id": "4d20f2fe-0a4c-4692-aea3-3e620924d181",
+   "title": {
+    "en": "Egao Futatsu"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -81,16 +81,62 @@
    ]
   },
   {
+   "id": "17d363f8-ece3-434c-8dbd-0ad34330bc65",
+   "title": {
+    "en": "Debu to Bijin"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f797a03-f5ee-4f2f-be93-b2248d5082e0",
+   "title": {
+    "en": "Sputnik"
+   },
+   "contentRating": "safe",
+   "score": 0.28337222,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "f093dcb2-848d-4540-b114-b800256f87ed",
    "title": {
     "en": "By the Tama River"
    },
    "contentRating": "safe",
-   "score": 0.27465257,
+   "score": 0.27364773,
    "languages": [
     "en",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "a3bc925d-d02a-498c-b3b6-fa588568410b",
+   "title": {
+    "en": "Kono Setsugen de Kimi ga Zutto Waratte Irareru you ni"
+   },
+   "contentRating": "safe",
+   "score": 0.26702774,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "abca3e5f-61ee-452e-a9e0-5985d0d1dd8d",
+   "title": {
+    "en": "Urushi Uruhashi"
+   },
+   "contentRating": "safe",
+   "score": 0.26571822,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -99,11 +145,33 @@
     "en": "Nocturne"
    },
    "contentRating": "safe",
-   "score": 0.26713088,
+   "score": 0.2654111,
    "languages": [
     "en",
     "pl",
     "fr"
+   ]
+  },
+  {
+   "id": "6e27167a-92ad-4a66-a877-60bf079e000f",
+   "title": {
+    "en": "I Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.2646874,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92031790-1446-451f-814a-be4869d6606a",
+   "title": {
+    "en": "The Story of a Rare Monster and a Worthless Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.26155,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -112,7 +180,7 @@
     "en": "Our Time of Dawn"
    },
    "contentRating": "safe",
-   "score": 0.26246628,
+   "score": 0.26152748,
    "languages": [
     "en",
     "it"
@@ -124,87 +192,12 @@
     "en": "I am Currently Living with a Bear"
    },
    "contentRating": "safe",
-   "score": 0.26231897,
+   "score": 0.26145864,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
-   "title": {
-    "en": "Ikiru"
-   },
-   "contentRating": "safe",
-   "score": 0.26135257,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
-   "title": {
-    "en": "Service Area"
-   },
-   "contentRating": "safe",
-   "score": 0.26020184,
-   "languages": [
-    "pt-br",
-    "ru",
-    "it",
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "4310ed20-58bb-4a5f-8fec-ed873b7bbee7",
-   "title": {
-    "en": "Sumika's Home"
-   },
-   "contentRating": "safe",
-   "score": 0.26001996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
-   "title": {
-    "en": "Komaoto"
-   },
-   "contentRating": "safe",
-   "score": 0.2577452,
-   "languages": [
-    "ru",
-    "tr",
-    "en",
-    "it",
-    "pl",
-    "ca"
-   ]
-  },
-  {
-   "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
-   "title": {
-    "en": "Sensei, Ote o Douzo?"
-   },
-   "contentRating": "safe",
-   "score": 0.25729236,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d4451c52-4c55-48f7-b915-0381a092ad07",
-   "title": {
-    "en": "Namida no Suisou"
-   },
-   "contentRating": "safe",
-   "score": 0.25716034,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:12+00:00"
+ "updatedAt": "2023-12-10T18:25:39+00:00"
 }

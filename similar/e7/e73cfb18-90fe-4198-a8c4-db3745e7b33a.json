@@ -22,7 +22,7 @@
     "en": "Kimagure na Boku no Neko"
    },
    "contentRating": "safe",
-   "score": 0.27900577,
+   "score": 0.2793658,
    "languages": [
     "tr",
     "en"
@@ -34,7 +34,7 @@
     "en": "Wagamama na Kimi Dakara"
    },
    "contentRating": "safe",
-   "score": 0.27704895,
+   "score": 0.27786127,
    "languages": [
     "en"
    ]
@@ -45,10 +45,21 @@
     "en": "Neko no Mail - Igai na Kareshi"
    },
    "contentRating": "safe",
-   "score": 0.2664281,
+   "score": 0.26598546,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "24e588c7-fc5e-4c6d-b59b-3449fd34912b",
+   "title": {
+    "en": "Chiku Bingo"
+   },
+   "contentRating": "safe",
+   "score": 0.25967863,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -57,7 +68,7 @@
     "en": "Issho na Dakejya"
    },
    "contentRating": "safe",
-   "score": 0.25750569,
+   "score": 0.257274,
    "languages": [
     "en"
    ]
@@ -68,7 +79,7 @@
     "en": "Makka na Otokonoko"
    },
    "contentRating": "safe",
-   "score": 0.25537992,
+   "score": 0.25521046,
    "languages": [
     "en"
    ]
@@ -79,9 +90,21 @@
     "en": "Inu Mitai na Ko to Neko Mitai na Ko"
    },
    "contentRating": "safe",
-   "score": 0.2545519,
+   "score": 0.2547943,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
+   "title": {
+    "en": "Tokubetsu na Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.2538894,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -96,15 +119,14 @@
    ]
   },
   {
-   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
+   "id": "d74938a9-b73e-4282-8c85-3eab48df240d",
    "title": {
-    "en": "Tokubetsu na Nichijou"
+    "en": "Rolling"
    },
    "contentRating": "safe",
-   "score": 0.25362304,
+   "score": 0.25126484,
    "languages": [
-    "en",
-    "fr"
+    "en"
    ]
   },
   {
@@ -116,52 +138,6 @@
    "score": 0.25126484,
    "languages": [
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "5a822cf6-e4c0-4fc0-a8c5-97ef6f2d0cdb",
-   "title": {
-    "en": "Momomimi Pheromone"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "37a7e4d8-7cd2-40b9-8752-fe37598eebe4",
-   "title": {
-    "en": "Shining Star"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2ed80f8d-b672-4879-b619-1ff16dc453ff",
-   "title": {
-    "en": "Mousou Otoko"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "0fc06174-6f92-4073-b3ae-0e484c6f41da",
-   "title": {
-    "en": "Yuuwaku"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
     "en"
    ]
   },
@@ -186,7 +162,29 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "37a7e4d8-7cd2-40b9-8752-fe37598eebe4",
+   "title": {
+    "en": "Shining Star"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b8d6199f-f268-429c-b168-e298bb6ba466",
+   "title": {
+    "en": "Poker Face"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:18+00:00"
+ "updatedAt": "2023-12-10T18:33:47+00:00"
 }

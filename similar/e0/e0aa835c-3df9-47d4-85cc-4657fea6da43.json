@@ -11,7 +11,7 @@
     "en": "Little Lovers"
    },
    "contentRating": "safe",
-   "score": 0.29125604,
+   "score": 0.29299706,
    "languages": [
     "fr",
     "en",
@@ -38,7 +38,7 @@
     "en": "Angel Time"
    },
    "contentRating": "safe",
-   "score": 0.2833923,
+   "score": 0.2844583,
    "languages": [
     "pt-br",
     "en"
@@ -50,7 +50,7 @@
     "en": "Boku to Kimi wa"
    },
    "contentRating": "safe",
-   "score": 0.28089327,
+   "score": 0.2786873,
    "languages": [
     "pt-br",
     "en"
@@ -62,9 +62,47 @@
     "en": "Tonari no Danshi"
    },
    "contentRating": "safe",
-   "score": 0.25269192,
+   "score": 0.2542026,
    "languages": [
     "ro",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
+   "title": {
+    "en": "Mermaid Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "d0266508-6cbe-40af-8d8b-d04985a2d081",
+   "title": {
+    "en": "Sentimental Shounen A"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
+   "title": {
+    "en": "HELP!!"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "bg",
+    "en",
     "pt-br"
    ]
   },
@@ -82,16 +120,16 @@
    ]
   },
   {
-   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
+   "id": "f5e27bea-548a-4fa0-8abf-01234ba0096a",
    "title": {
-    "en": "Kaze no Kaeru Basho"
+    "en": "Neko-san no Kimagure Mahou"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en",
-    "bg",
-    "pt-br"
+    "hu",
+    "tr",
+    "en"
    ]
   },
   {
@@ -107,41 +145,32 @@
    ]
   },
   {
-   "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
+   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
    "title": {
-    "en": "HELP!!"
+    "en": "Kaze no Kaeru Basho"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "bg",
     "en",
+    "bg",
     "pt-br"
    ]
   },
   {
-   "id": "f5e27bea-548a-4fa0-8abf-01234ba0096a",
+   "id": "d234a8d0-de2d-4bcd-b6a4-0c349254bccb",
    "title": {
-    "en": "Neko-san no Kimagure Mahou"
+    "en": "Bocchan to Maid"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.2342632,
    "languages": [
-    "hu",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "d0266508-6cbe-40af-8d8b-d04985a2d081",
-   "title": {
-    "en": "Sentimental Shounen A"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
+    "fr",
     "pt-br",
-    "it"
+    "es-la",
+    "en",
+    "id",
+    "tr"
    ]
   },
   {
@@ -150,7 +179,7 @@
     "en": "Koi no Ninpou Chou"
    },
    "contentRating": "safe",
-   "score": 0.23588191,
+   "score": 0.23388699,
    "languages": [
     "en",
     "pt-br"
@@ -162,21 +191,10 @@
     "en": "Himitsu no Sono Ato"
    },
    "contentRating": "safe",
-   "score": 0.23013522,
+   "score": 0.23012409,
    "languages": [
     "pt-br",
     "pl"
-   ]
-  },
-  {
-   "id": "db1840a0-c263-4436-a152-36ea85f4f9e9",
-   "title": {
-    "en": "White Carol"
-   },
-   "contentRating": "safe",
-   "score": 0.22151731,
-   "languages": [
-    "pt-br"
    ]
   },
   {
@@ -185,7 +203,7 @@
     "en": "Christmas ni Omoi o Nosete"
    },
    "contentRating": "safe",
-   "score": 0.21910755,
+   "score": 0.22130403,
    "languages": [
     "pt-br",
     "it",
@@ -196,20 +214,7 @@
     "hu",
     "en"
    ]
-  },
-  {
-   "id": "c3740d61-feec-432c-81a6-1cc2a371befb",
-   "title": {
-    "en": "Nemunoki no Geshukusou"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:01+00:00"
+ "updatedAt": "2023-12-10T18:33:07+00:00"
 }

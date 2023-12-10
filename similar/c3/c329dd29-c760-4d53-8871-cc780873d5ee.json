@@ -11,7 +11,7 @@
     "en": "Sample No. 9"
    },
    "contentRating": "safe",
-   "score": 0.35724977,
+   "score": 0.35849375,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Section 459"
    },
    "contentRating": "safe",
-   "score": 0.33717856,
+   "score": 0.34063032,
    "languages": [
     "fr"
    ]
@@ -33,7 +33,7 @@
     "en": "Sand Storm Boarders"
    },
    "contentRating": "safe",
-   "score": 0.29271916,
+   "score": 0.2965353,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.26302627,
+   "score": 0.26347315,
    "languages": [
     "pt-br",
     "pl",
@@ -59,34 +59,10 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.2543981,
+   "score": 0.25491428,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
-   "title": {
-    "en": "Otter No.11"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
-   "title": {
-    "en": "Selling Me Softly"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -114,6 +90,30 @@
    ]
   },
   {
+   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
+   "title": {
+    "en": "Selling Me Softly"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "title": {
+    "en": "Otter No.11"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
    "title": {
     "en": "CROSS"
@@ -131,7 +131,7 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.23662625,
+   "score": 0.23716944,
    "languages": [
     "en"
    ]
@@ -142,21 +142,10 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.23436959,
+   "score": 0.23503883,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
-   "title": {
-    "en": "Ghostrong"
-   },
-   "contentRating": "safe",
-   "score": 0.23351195,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -171,32 +160,40 @@
    ]
   },
   {
-   "id": "3e0b9d06-cf97-4c12-9e0b-f6e41a72181b",
-   "title": {
-    "en": "Stray Dog"
-   },
-   "contentRating": "safe",
-   "score": 0.23280936,
-   "languages": [
-    "en",
-    "it",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
    "id": "485471ff-4502-4af9-aa0f-956af49e7782",
    "title": {
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.23074709,
+   "score": 0.2332422,
    "languages": [
     "en",
     "pl",
     "th"
    ]
+  },
+  {
+   "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
+   "title": {
+    "en": "Ghostrong"
+   },
+   "contentRating": "safe",
+   "score": 0.23260847,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "51c30924-463f-4fb7-8ccf-4e1f6c5b18d1",
+   "title": {
+    "en": "Niwatori no Umi"
+   },
+   "contentRating": "safe",
+   "score": 0.23182392,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:48+00:00"
+ "updatedAt": "2023-12-10T18:30:03+00:00"
 }

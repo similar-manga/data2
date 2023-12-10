@@ -11,7 +11,7 @@
     "en": "Housekeeper"
    },
    "contentRating": "safe",
-   "score": 0.32213676,
+   "score": 0.3271629,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Poison Candy"
    },
    "contentRating": "safe",
-   "score": 0.30619,
+   "score": 0.30913594,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.2576934,
+   "score": 0.25986916,
    "languages": [
     "pt-br",
     "fr",
@@ -48,12 +48,23 @@
    ]
   },
   {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.22183397,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7901b983-f223-4fd9-bb1f-a42584b4d6ed",
    "title": {
     "en": "Machine Era"
    },
    "contentRating": "safe",
-   "score": 0.20546927,
+   "score": 0.20628385,
    "languages": [
     "pt-br",
     "en"
@@ -65,11 +76,23 @@
     "en": "Arknights: A1 Operations Preparation Detachment"
    },
    "contentRating": "safe",
-   "score": 0.20287423,
+   "score": 0.20426288,
    "languages": [
     "pt-br",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "4037090d-0c35-4f83-9fcf-cb126d327fa1",
+   "title": {
+    "en": "Monster Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.20217575,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -78,7 +101,7 @@
     "en": "One Day, Suddenly, Seoul Is"
    },
    "contentRating": "safe",
-   "score": 0.1972855,
+   "score": 0.19937538,
    "languages": [
     "en",
     "id"
@@ -90,7 +113,7 @@
     "en": "E.D.D - Eliminate Dangerous Doctors"
    },
    "contentRating": "safe",
-   "score": 0.196338,
+   "score": 0.1962633,
    "languages": [
     "en",
     "pl"
@@ -102,7 +125,7 @@
     "en": "Humanities Blade"
    },
    "contentRating": "safe",
-   "score": 0.19356672,
+   "score": 0.19349456,
    "languages": [
     "en"
    ]
@@ -113,18 +136,7 @@
     "en": "3 Guys Who Hang Out In The Woods of Night Woods"
    },
    "contentRating": "safe",
-   "score": 0.19249076,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb654743-9b3d-4af5-9c8c-1e4882bc76dd",
-   "title": {
-    "en": "Spider Silk"
-   },
-   "contentRating": "safe",
-   "score": 0.1898279,
+   "score": 0.19147347,
    "languages": [
     "en"
    ]
@@ -138,6 +150,17 @@
    "score": 0.1889639,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "eb654743-9b3d-4af5-9c8c-1e4882bc76dd",
+   "title": {
+    "en": "Spider Silk"
+   },
+   "contentRating": "safe",
+   "score": 0.18835503,
+   "languages": [
     "en"
    ]
   },
@@ -159,7 +182,7 @@
     "en": "Wilderness Hut"
    },
    "contentRating": "safe",
-   "score": 0.18565951,
+   "score": 0.18494359,
    "languages": [
     "en"
    ]
@@ -170,35 +193,11 @@
     "en": "Shuuenchi"
    },
    "contentRating": "safe",
-   "score": 0.18448421,
+   "score": 0.1842158,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb3592a8-da51-4a2b-894d-11d03170bc53",
-   "title": {
-    "en": "Black Sonata"
-   },
-   "contentRating": "safe",
-   "score": 0.18409255,
-   "languages": [
-    "en",
-    "ko"
-   ]
-  },
-  {
-   "id": "84a9b1ee-26ac-48df-9d9c-532b140a0324",
-   "title": {
-    "en": "GARDEN"
-   },
-   "contentRating": "safe",
-   "score": 0.18296146,
-   "languages": [
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:09+00:00"
+ "updatedAt": "2023-12-10T18:28:25+00:00"
 }

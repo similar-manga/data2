@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5356ad15-1012-4867-af98-70478eb8d643",
+   "title": {
+    "en": "Bouncer"
+   },
+   "contentRating": "safe",
+   "score": 0.2792703,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "62d96fe4-cfb1-450f-a6f8-119f3528b44b",
    "title": {
     "en": "DINER"
@@ -24,7 +36,7 @@
     "en": "Tokyo X Day"
    },
    "contentRating": "safe",
-   "score": 0.22064069,
+   "score": 0.2179089,
    "languages": [
     "en"
    ]
@@ -35,7 +47,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20946148,
+   "score": 0.20686367,
    "languages": [
     "en"
    ]
@@ -46,7 +58,7 @@
     "en": "Omega Tribe Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.20687677,
+   "score": 0.20502287,
    "languages": [
     "en"
    ]
@@ -57,7 +69,7 @@
     "en": "Zange"
    },
    "contentRating": "safe",
-   "score": 0.19854519,
+   "score": 0.20059311,
    "languages": [
     "en"
    ]
@@ -68,7 +80,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.19566977,
+   "score": 0.19474609,
    "languages": [
     "pt-br",
     "en",
@@ -78,23 +90,15 @@
    ]
   },
   {
-   "id": "d1a9fdeb-f713-407f-960c-8326b586e6fd",
+   "id": "7fc83445-07dd-4881-a84e-846456632fb5",
    "title": {
-    "en": "Vagabond"
+    "en": "Katagi Modoshi"
    },
    "contentRating": "safe",
-   "score": 0.18788949,
+   "score": 0.19042467,
    "languages": [
-    "it",
-    "pt-br",
     "es-la",
-    "en",
-    "pl",
-    "hu",
-    "uk",
-    "id",
-    "ar",
-    "tr"
+    "en"
    ]
   },
   {
@@ -106,6 +110,26 @@
    "score": 0.18788455,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d1a9fdeb-f713-407f-960c-8326b586e6fd",
+   "title": {
+    "en": "Vagabond"
+   },
+   "contentRating": "safe",
+   "score": 0.18758827,
+   "languages": [
+    "it",
+    "pt-br",
+    "es-la",
+    "en",
+    "pl",
+    "hu",
+    "uk",
+    "id",
+    "ar",
+    "tr"
    ]
   },
   {
@@ -121,6 +145,35 @@
     "fr",
     "es-la",
     "ru"
+   ]
+  },
+  {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.18201317,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en",
+    "tr",
+    "ru",
+    "fa"
+   ]
+  },
+  {
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
+   "title": {
+    "en": "Tokyo Ghoul (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.17807658,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -147,70 +200,20 @@
    ]
   },
   {
-   "id": "8af33c74-2779-4e2e-94ab-d614762ab499",
+   "id": "6e5ddee5-eccb-48cc-b6bb-43488cc9791f",
    "title": {
-    "en": "My Home Hero"
+    "en": "Vagabond (Hong Kong Colored Version)"
    },
    "contentRating": "safe",
-   "score": 0.17348856,
+   "score": 0.17517081,
    "languages": [
+    "fa",
     "ar",
-    "zh",
-    "en",
-    "ru",
-    "zh-hk",
-    "vi",
-    "id"
-   ]
-  },
-  {
-   "id": "6afeec8e-6d75-4feb-9fe6-0255bcaf0c1a",
-   "title": {
-    "en": "The Bethlem of Magicians"
-   },
-   "contentRating": "safe",
-   "score": 0.16994798,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
-   "title": {
-    "en": "Jungle Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.16640101,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "019dd911-cd1f-4bfb-839c-642be1472ba4",
-   "title": {
-    "en": "Gambling Outcast Kaiji: The 2.4 Billion Escape Arc - Kaiji Part 6"
-   },
-   "contentRating": "safe",
-   "score": 0.16439898,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
-   "title": {
-    "en": "Shojo Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.16431157,
-   "languages": [
-    "it",
-    "tr",
+    "kk",
     "pt-br",
-    "en",
-    "fr"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:30+00:00"
+ "updatedAt": "2023-12-10T18:31:48+00:00"
 }

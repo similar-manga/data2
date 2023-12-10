@@ -6,13 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d0292d00-1dd7-4fba-80f6-e5c9345258b2",
+   "title": {
+    "en": "Gekki"
+   },
+   "contentRating": "safe",
+   "score": 0.25001884,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
    "title": {
     "en": "Deguchi Zero"
    },
    "contentRating": "safe",
-   "score": 0.2268409,
+   "score": 0.22662543,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
+   "title": {
+    "en": "Sayonara Miniskirt"
+   },
+   "contentRating": "safe",
+   "score": 0.20099768,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -22,7 +45,7 @@
     "en": "The Descendant of the Dynasty"
    },
    "contentRating": "safe",
-   "score": 0.19350563,
+   "score": 0.19262189,
    "languages": [
     "en",
     "fr",
@@ -46,7 +69,7 @@
     "en": "Dakini"
    },
    "contentRating": "safe",
-   "score": 0.1890407,
+   "score": 0.18893535,
    "languages": [
     "en"
    ]
@@ -57,7 +80,7 @@
     "en": "I Reincarnated as the Little Sister of a Death Game Manga's Murder Mastermind and Failed"
    },
    "contentRating": "safe",
-   "score": 0.18755223,
+   "score": 0.18804161,
    "languages": [
     "en",
     "es-la",
@@ -78,12 +101,23 @@
    ]
   },
   {
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
+   "title": {
+    "en": "Zekkyou Gakkyuu Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.18120563,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
    "title": {
     "en": "Mimi ga Kieta Hi"
    },
    "contentRating": "safe",
-   "score": 0.17704599,
+   "score": 0.1736232,
    "languages": [
     "en",
     "fr",
@@ -96,7 +130,33 @@
     "en": "Bodyguard"
    },
    "contentRating": "safe",
-   "score": 0.17004545,
+   "score": 0.1694289,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
+   "title": {
+    "en": "Satsuriku no Tenshi: Episode.0"
+   },
+   "contentRating": "safe",
+   "score": 0.16610517,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "es",
+    "pl"
+   ]
+  },
+  {
+   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
+   "title": {
+    "en": "Kaeremasen."
+   },
+   "contentRating": "safe",
+   "score": 0.16610517,
    "languages": [
     "en"
    ]
@@ -113,9 +173,9 @@
    ]
   },
   {
-   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
+   "id": "461dc6ac-f2d4-4893-a7e5-b6c8f0c1c19a",
    "title": {
-    "en": "Kaeremasen."
+    "en": "Parham Itan: Tales From Beyond"
    },
    "contentRating": "safe",
    "score": 0.16610517,
@@ -124,71 +184,16 @@
    ]
   },
   {
-   "id": "4c9d9138-1e6d-4e6d-b079-29f629ce73f0",
+   "id": "10d0b77d-bf00-4669-b052-29d2a320f712",
    "title": {
-    "en": "Ningyou Saisei Koujou"
+    "en": "Shinohara Chie Kessakushuu"
    },
    "contentRating": "safe",
-   "score": 0.1655158,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "711c7ca2-e528-4f9a-bc7b-936075cdc0ed",
-   "title": {
-    "en": "House of Riddles"
-   },
-   "contentRating": "safe",
-   "score": 0.16283783,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c22275fe-3f06-44e4-97d6-66ffa0c8688f",
-   "title": {
-    "en": "Sunflower"
-   },
-   "contentRating": "safe",
-   "score": 0.15855493,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "96848047-b5f8-4e1e-a20f-c1593da6919e",
-   "title": {
-    "en": "The Convent's Curse"
-   },
-   "contentRating": "safe",
-   "score": 0.15482585,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "513e5dc0-f328-48f3-892e-bdbf18ea9331",
-   "title": {
-    "en": "Onohara Henshindou"
-   },
-   "contentRating": "safe",
-   "score": 0.14948702,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ad41966-9c35-426e-a852-13dacc91408b",
-   "title": {
-    "en": "Natsu no Zangai"
-   },
-   "contentRating": "safe",
-   "score": 0.14948702,
+   "score": 0.16610517,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:29+00:00"
+ "updatedAt": "2023-12-10T18:10:22+00:00"
 }

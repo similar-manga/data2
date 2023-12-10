@@ -11,7 +11,18 @@
     "en": "Alice Everlasting"
    },
    "contentRating": "safe",
-   "score": 0.37157127,
+   "score": 0.37369293,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
+   "title": {
+    "en": "Material Polka"
+   },
+   "contentRating": "safe",
+   "score": 0.263559,
    "languages": [
     "en"
    ]
@@ -40,6 +51,18 @@
    ]
   },
   {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.20316832,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "1a58c498-a6fd-411a-bbda-67c611298c3c",
    "title": {
     "en": "I am here for you"
@@ -57,10 +80,22 @@
     "en": "Noroi no Video no Tadashii Kanshou Style"
    },
    "contentRating": "safe",
-   "score": 0.19336486,
+   "score": 0.1924689,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "title": {
+    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -87,18 +122,6 @@
    ]
   },
   {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
-   "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
    "title": {
     "en": "Bug Ego"
@@ -116,7 +139,7 @@
     "en": "Ghost Heights Management Association"
    },
    "contentRating": "safe",
-   "score": 0.19019194,
+   "score": 0.18741503,
    "languages": [
     "en"
    ]
@@ -127,7 +150,7 @@
     "en": "Gedara"
    },
    "contentRating": "safe",
-   "score": 0.18393266,
+   "score": 0.18364772,
    "languages": [
     "en"
    ]
@@ -144,52 +167,29 @@
    ]
   },
   {
+   "id": "c65caf85-b120-4d9d-9003-a1f2ad726be6",
+   "title": {
+    "en": "Yoiko no Shouzou"
+   },
+   "contentRating": "safe",
+   "score": 0.17354237,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "79950e7f-d2e1-4cea-abec-85a2d57d27a3",
    "title": {
     "en": "Ryuukei no Sora"
    },
    "contentRating": "safe",
-   "score": 0.17410158,
+   "score": 0.17336714,
    "languages": [
     "fr",
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "2e3158e7-f429-4b3a-aa56-03ed5637d3e5",
-   "title": {
-    "en": "Jigomezuki!!"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
-   "title": {
-    "en": "The Message in the Rain Shower"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4584b7cf-6079-4fcd-ac77-c5e1f1731ee8",
-   "title": {
-    "en": "Ukongebbo"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:39+00:00"
+ "updatedAt": "2023-12-10T18:18:56+00:00"
 }

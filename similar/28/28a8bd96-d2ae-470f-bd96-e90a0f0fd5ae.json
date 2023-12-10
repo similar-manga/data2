@@ -6,12 +6,48 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d7d37dbd-9291-4abf-86bc-1df1701094bc",
+   "title": {
+    "en": "Steep Cliff"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ef63652e-620c-4dd6-9410-bd270e76130f",
    "title": {
     "en": "Tales from the Land of Daughters - ShengNan's Story"
    },
    "contentRating": "safe",
-   "score": 0.2219462,
+   "score": 0.2219522,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
+   "title": {
+    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
+   },
+   "contentRating": "safe",
+   "score": 0.20898704,
+   "languages": [
+    "id",
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
+   "title": {
+    "en": "Akatoki no Yami"
+   },
+   "contentRating": "safe",
+   "score": 0.20586023,
    "languages": [
     "en"
    ]
@@ -39,13 +75,26 @@
    ]
   },
   {
-   "id": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
    "title": {
-    "en": "Akatoki no Yami"
+    "en": "Cold Game"
    },
    "contentRating": "safe",
    "score": 0.20586023,
    "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
+   "title": {
+    "en": "Bell Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.20586023,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -66,7 +115,18 @@
     "en": "Tale of Felluah"
    },
    "contentRating": "safe",
-   "score": 0.19740108,
+   "score": 0.19510417,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d7a388f-a075-4c85-b124-1d2b4bc98d45",
+   "title": {
+    "en": "Tenshi Kinryouku: Tokyo Chronos"
+   },
+   "contentRating": "safe",
+   "score": 0.19245009,
    "languages": [
     "en"
    ]
@@ -75,6 +135,17 @@
    "id": "307d8752-c0db-4c5a-a679-7872921c15e8",
    "title": {
     "en": "Yowaito Nikki"
+   },
+   "contentRating": "safe",
+   "score": 0.18792383,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
+   "title": {
+    "en": "Shoku no Hana"
    },
    "contentRating": "safe",
    "score": 0.18792383,
@@ -96,96 +167,27 @@
    ]
   },
   {
-   "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
-   "title": {
-    "en": "Shoku no Hana"
-   },
-   "contentRating": "safe",
-   "score": 0.18792383,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a1cac584-a556-4a3e-94ec-3778675e23ff",
    "title": {
     "en": "Chang'an Fantastic Night"
    },
    "contentRating": "safe",
-   "score": 0.18369085,
+   "score": 0.18325968,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "80c27ff8-7916-4b81-9c0d-cb3d647a24b7",
+   "id": "6049fb94-93de-4f10-a30e-6cef5e857b68",
    "title": {
-    "en": "Legend of Nereid"
+    "en": "Boukoku no Marguerite"
    },
    "contentRating": "safe",
    "score": 0.17460318,
    "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
-   "title": {
-    "en": "Kachuu no Ou"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "e8baba85-9eac-447c-9a3b-ef4af41ddf82",
-   "title": {
-    "en": "Dragon Fist"
-   },
-   "contentRating": "safe",
-   "score": 0.17398365,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d94943f6-e25f-4a7a-96b2-ebcdcb727e0e",
-   "title": {
-    "en": "Angel Hunt"
-   },
-   "contentRating": "safe",
-   "score": 0.1679842,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
-   "title": {
-    "en": "Twinkle Loop☆Story"
-   },
-   "contentRating": "safe",
-   "score": 0.16666667,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f0df0eb-9670-4977-9bed-720211c073bf",
-   "title": {
-    "en": "Saigo no Negai ~Last Pray~"
-   },
-   "contentRating": "safe",
-   "score": 0.16666667,
-   "languages": [
-    "en",
-    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:19+00:00"
+ "updatedAt": "2023-12-10T18:12:41+00:00"
 }

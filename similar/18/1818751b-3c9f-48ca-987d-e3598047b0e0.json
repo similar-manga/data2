@@ -6,17 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0c38550d-e7a0-479c-9acb-78a1d7d507b3",
+   "id": "f4e6c234-4c3b-4e7f-a684-e074264142fd",
    "title": {
-    "en": "A Cat-Like Girl"
+    "en": "Are You A Cat?"
    },
    "contentRating": "safe",
-   "score": 0.31893894,
+   "score": 0.34300566,
    "languages": [
-    "pt-br",
-    "en",
-    "tr",
-    "id"
+    "en"
    ]
   },
   {
@@ -25,7 +22,7 @@
     "en": "Escape from High School Girls"
    },
    "contentRating": "safe",
-   "score": 0.31771967,
+   "score": 0.32851234,
    "languages": [
     "it",
     "tr",
@@ -38,12 +35,49 @@
    ]
   },
   {
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
+   "title": {
+    "en": "Coffee \u0026 Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.31138656,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "0c38550d-e7a0-479c-9acb-78a1d7d507b3",
+   "title": {
+    "en": "A Cat-Like Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.30959675,
+   "languages": [
+    "pt-br",
+    "en",
+    "tr",
+    "id"
+   ]
+  },
+  {
+   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "title": {
+    "en": "My Cat Is a Bit Different"
+   },
+   "contentRating": "safe",
+   "score": 0.3079978,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e201b6a2-3b4d-422b-8b71-1a082c2312c4",
    "title": {
     "en": "Miss Korai and the Cat God"
    },
    "contentRating": "safe",
-   "score": 0.30898306,
+   "score": 0.2969203,
    "languages": [
     "en"
    ]
@@ -54,9 +88,34 @@
     "en": "Kuu-chan ga Iku!"
    },
    "contentRating": "safe",
-   "score": 0.3015088,
+   "score": 0.2960407,
    "languages": [
     "hu",
+    "en"
+   ]
+  },
+  {
+   "id": "f24fd4ff-05ea-4de7-8d91-7b268d1eaac8",
+   "title": {
+    "en": "The Girl From The Class Next Door Looks At Me Every Time She Changes Classrooms"
+   },
+   "contentRating": "safe",
+   "score": 0.2945963,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "a5ba5e1c-4886-48d8-a331-e2e4193cf6f5",
+   "title": {
+    "en": "Neko Gurashi no Gamer-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2897599,
+   "languages": [
     "en"
    ]
   },
@@ -66,7 +125,29 @@
     "en": "Neko Hiroimashita"
    },
    "contentRating": "safe",
-   "score": 0.29660884,
+   "score": 0.28890315,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12a7bc68-8f29-4a2a-936b-62a04ea11c28",
+   "title": {
+    "en": "Endo Ryoko Doesn't Hold Back"
+   },
+   "contentRating": "safe",
+   "score": 0.2853405,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "42f11502-9df7-4125-a956-60ffc8fa84f4",
+   "title": {
+    "en": "I Want to Speak With You"
+   },
+   "contentRating": "safe",
+   "score": 0.2846664,
    "languages": [
     "en"
    ]
@@ -77,35 +158,22 @@
     "en": "Travel To The Cats' Territory"
    },
    "contentRating": "safe",
-   "score": 0.2894569,
+   "score": 0.2829474,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "f24fd4ff-05ea-4de7-8d91-7b268d1eaac8",
+   "id": "94d60d12-452d-49f0-8d0f-5af785e561a8",
    "title": {
-    "en": "The Girl From The Class Next Door Looks At Me Every Time She Changes Classrooms"
+    "en": "Ramen Aka Neko"
    },
    "contentRating": "safe",
-   "score": 0.28752166,
+   "score": 0.2810404,
    "languages": [
-    "ru",
     "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "12a7bc68-8f29-4a2a-936b-62a04ea11c28",
-   "title": {
-    "en": "Endo Ryoko Doesn't Hold Back"
-   },
-   "contentRating": "safe",
-   "score": 0.28662512,
-   "languages": [
-    "en"
+    "th"
    ]
   },
   {
@@ -114,7 +182,7 @@
     "en": "My Little Noir"
    },
    "contentRating": "safe",
-   "score": 0.28620505,
+   "score": 0.28084028,
    "languages": [
     "id",
     "ru",
@@ -127,89 +195,17 @@
    ]
   },
   {
-   "id": "b1aab26b-137b-4f5a-bc8b-0bb7edac1cb9",
+   "id": "9ca8d424-8d3b-4ac7-aecf-49a137be262e",
    "title": {
-    "en": "Ayakashi's Bride"
+    "en": "The Hero Summoned from Another World is a Cat"
    },
    "contentRating": "safe",
-   "score": 0.28024456,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "6bcf9622-2319-4f5c-bd06-107bda503df3",
-   "title": {
-    "en": "The Green Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.27211156,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "642bf922-094b-4a98-b0b7-8d6add31b729",
-   "title": {
-    "en": "The Old Man Who Was Reincarnated as a Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.2713659,
-   "languages": [
-    "vi",
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "80614a58-3695-49f1-89da-7007d1325bcb",
-   "title": {
-    "en": "Attemo Nakutemo Neko no Shippo"
-   },
-   "contentRating": "safe",
-   "score": 0.2710267,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "dc30f1e2-506b-4e51-8ad5-e2b77ede5949",
-   "title": {
-    "en": "Lemonade Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.2705094,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ecc60148-aa1b-4e6d-94db-ff479a7cac77",
-   "title": {
-    "en": "Mangaka no Neko de Aru"
-   },
-   "contentRating": "safe",
-   "score": 0.2695207,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "ec26524b-1df2-4722-900f-71afee535a43",
-   "title": {
-    "en": "Angelic"
-   },
-   "contentRating": "safe",
-   "score": 0.26916108,
+   "score": 0.28053036,
    "languages": [
     "en",
     "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:41+00:00"
+ "updatedAt": "2023-12-10T18:10:54+00:00"
 }

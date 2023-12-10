@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
-   "title": {
-    "en": "The Birth of Mega Man"
-   },
-   "contentRating": "safe",
-   "score": 0.43277726,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
    "id": "c1493cba-5027-41cf-a1c3-15bef296b0be",
    "title": {
     "en": "Mega Man X - Team X, Move Out!!"
    },
    "contentRating": "safe",
-   "score": 0.43254495,
+   "score": 0.4319155,
    "languages": [
     "es"
+   ]
+  },
+  {
+   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
+   "title": {
+    "en": "The Birth of Mega Man"
+   },
+   "contentRating": "safe",
+   "score": 0.43191203,
+   "languages": [
+    "es",
+    "en"
    ]
   },
   {
@@ -34,7 +34,7 @@
     "en": "Mega Man 11"
    },
    "contentRating": "safe",
-   "score": 0.40801424,
+   "score": 0.41649422,
    "languages": [
     "ar",
     "es",
@@ -49,21 +49,9 @@
     "en": "Mega Man X Giga Mission"
    },
    "contentRating": "safe",
-   "score": 0.31609717,
+   "score": 0.31985176,
    "languages": [
     "es",
-    "en"
-   ]
-  },
-  {
-   "id": "7f798830-c270-414e-ac0c-7728b692841d",
-   "title": {
-    "en": "Metroid - Shonen King! Shorts!"
-   },
-   "contentRating": "safe",
-   "score": 0.30814406,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -73,10 +61,22 @@
     "en": "Mega Man X3: Stop Doppler's Army!"
    },
    "contentRating": "safe",
-   "score": 0.30374962,
+   "score": 0.30767268,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "7f798830-c270-414e-ac0c-7728b692841d",
+   "title": {
+    "en": "Metroid - Shonen King! Shorts!"
+   },
+   "contentRating": "safe",
+   "score": 0.3044247,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -85,7 +85,7 @@
     "en": "Mega Man's Soccer"
    },
    "contentRating": "safe",
-   "score": 0.2930458,
+   "score": 0.29881266,
    "languages": [
     "es"
    ]
@@ -96,7 +96,7 @@
     "en": "Mega Man: The Deadly Struggle on Mu Arc"
    },
    "contentRating": "safe",
-   "score": 0.2853739,
+   "score": 0.28725892,
    "languages": [
     "en",
     "es"
@@ -108,7 +108,7 @@
     "en": "Mega Man 10 -Extra F-"
    },
    "contentRating": "safe",
-   "score": 0.27841455,
+   "score": 0.2820428,
    "languages": [
     "fr",
     "es-la",
@@ -122,7 +122,7 @@
     "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
    },
    "contentRating": "safe",
-   "score": 0.27719378,
+   "score": 0.27946195,
    "languages": [
     "en"
    ]
@@ -133,7 +133,7 @@
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.26102197,
+   "score": 0.26255098,
    "languages": [
     "es-la",
     "en"
@@ -145,7 +145,7 @@
     "en": "Mega Man X5 IF"
    },
    "contentRating": "safe",
-   "score": 0.25987723,
+   "score": 0.2621827,
    "languages": [
     "en",
     "es"
@@ -157,7 +157,7 @@
     "en": "Mega Man X2: Get Those Special Weapons!"
    },
    "contentRating": "safe",
-   "score": 0.25910872,
+   "score": 0.26097006,
    "languages": [
     "es",
     "en"
@@ -169,7 +169,7 @@
     "en": "Attack! Mega Man X"
    },
    "contentRating": "safe",
-   "score": 0.24729866,
+   "score": 0.24970639,
    "languages": [
     "es",
     "en"
@@ -181,7 +181,7 @@
     "en": "Rockman-chan"
    },
    "contentRating": "safe",
-   "score": 0.23091365,
+   "score": 0.23347244,
    "languages": [
     "es",
     "en",
@@ -206,5 +206,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:09+00:00"
+ "updatedAt": "2023-12-10T18:15:02+00:00"
 }

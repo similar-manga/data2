@@ -11,7 +11,7 @@
     "en": "Skip Beat!"
    },
    "contentRating": "safe",
-   "score": 0.27171707,
+   "score": 0.27064195,
    "languages": [
     "en",
     "pl",
@@ -32,6 +32,19 @@
    ]
   },
   {
+   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
+   "title": {
+    "en": "Nocturne"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "pl",
+    "fr"
+   ]
+  },
+  {
    "id": "d54b5ba8-17c9-4774-8fb9-98593ebdf8e8",
    "title": {
     "en": "Baby, Kokoro no Mama ni!"
@@ -46,25 +59,12 @@
    ]
   },
   {
-   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
-   "title": {
-    "en": "Nocturne"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
    "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
    "title": {
     "en": "Aozora Pop"
    },
    "contentRating": "safe",
-   "score": 0.22154014,
+   "score": 0.21966343,
    "languages": [
     "en",
     "pl"
@@ -77,6 +77,17 @@
    },
    "contentRating": "safe",
    "score": 0.21483447,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "f13de5ed-7c12-4216-8352-336d01063ae0",
+   "title": {
+    "en": "Quick Witted Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.21106277,
    "languages": [
     "pl"
    ]
@@ -111,7 +122,7 @@
     "en": "Boku no Ie ni Oide"
    },
    "contentRating": "safe",
-   "score": 0.20654964,
+   "score": 0.20599821,
    "languages": [
     "en",
     "pl",
@@ -136,7 +147,44 @@
     "en": "Uta no☆Prince-sama♪"
    },
    "contentRating": "safe",
-   "score": 0.19988173,
+   "score": 0.19756246,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.19496198,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
+   "title": {
+    "en": "Hana-kun to Koisuru Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
+   "title": {
+    "en": "Kemono Ni Botsuraku Ojousama"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
    "languages": [
     "en",
     "pl"
@@ -155,55 +203,7 @@
     "es",
     "pl"
    ]
-  },
-  {
-   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
-   "title": {
-    "en": "Kemono Ni Botsuraku Ojousama"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "23d9293a-999e-4736-ba43-6d6b8109a6fa",
-   "title": {
-    "en": "Spicy Recipe"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "c3740d61-feec-432c-81a6-1cc2a371befb",
-   "title": {
-    "en": "Nemunoki no Geshukusou"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d5bf841c-b59f-4a83-afc3-cd1dec38dc6f",
-   "title": {
-    "en": "Bye Bye Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:44+00:00"
 }

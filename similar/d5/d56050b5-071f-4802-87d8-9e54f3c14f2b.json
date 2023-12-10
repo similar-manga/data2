@@ -11,7 +11,18 @@
     "en": "Asagiri no Miko"
    },
    "contentRating": "safe",
-   "score": 0.33765566,
+   "score": 0.33727378,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
+   "title": {
+    "en": "Manaka no Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.32127893,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Jinjya no Susume"
    },
    "contentRating": "safe",
-   "score": 0.3136012,
+   "score": 0.31111678,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "I'll Make You Shout I Love You!"
    },
    "contentRating": "safe",
-   "score": 0.30653682,
+   "score": 0.3056511,
    "languages": [
     "en",
     "vi"
@@ -45,7 +56,7 @@
     "en": "My Sweet Dragon"
    },
    "contentRating": "safe",
-   "score": 0.30616558,
+   "score": 0.30515286,
    "languages": [
     "en"
    ]
@@ -56,7 +67,7 @@
     "en": "Happy Every Day"
    },
    "contentRating": "safe",
-   "score": 0.3006333,
+   "score": 0.29546267,
    "languages": [
     "pl",
     "tr",
@@ -69,7 +80,7 @@
     "en": "Kamisama to"
    },
    "contentRating": "safe",
-   "score": 0.29462734,
+   "score": 0.2943059,
    "languages": [
     "en",
     "pt-br"
@@ -81,35 +92,9 @@
     "en": "Kamisama no Orgel"
    },
    "contentRating": "safe",
-   "score": 0.2888494,
+   "score": 0.28862894,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "506fa2d5-be66-4bda-9019-cf23bbc1c6a1",
-   "title": {
-    "en": "Kisu Shitai Otoko"
-   },
-   "contentRating": "safe",
-   "score": 0.28524488,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
-   "title": {
-    "en": "Gakusou"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "fr",
-    "ar"
    ]
   },
   {
@@ -125,9 +110,20 @@
    ]
   },
   {
-   "id": "4d20f2fe-0a4c-4692-aea3-3e620924d181",
+   "id": "17d363f8-ece3-434c-8dbd-0ad34330bc65",
    "title": {
-    "en": "Egao Futatsu"
+    "en": "Debu to Bijin"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5307712b-a34a-498b-89ef-51949f133a1d",
+   "title": {
+    "en": "The Night We Become More Than Friends"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -153,17 +149,6 @@
    ]
   },
   {
-   "id": "5307712b-a34a-498b-89ef-51949f133a1d",
-   "title": {
-    "en": "The Night We Become More Than Friends"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9bc6fa80-f2d5-4cc1-87d9-d9d98f1a70a0",
    "title": {
     "en": "Frankenstein Sore Kara"
@@ -177,30 +162,42 @@
    ]
   },
   {
-   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
+   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
    "title": {
-    "en": "Nocturne"
+    "en": "Gakusou"
    },
    "contentRating": "safe",
-   "score": 0.27687895,
+   "score": 0.28520605,
    "languages": [
     "en",
-    "pl",
-    "fr"
+    "fr",
+    "ar"
    ]
   },
   {
-   "id": "91194389-7abd-4069-9d27-8d2a23ec6aad",
+   "id": "4d20f2fe-0a4c-4692-aea3-3e620924d181",
    "title": {
-    "en": "Ko Mori Uta"
+    "en": "Egao Futatsu"
    },
    "contentRating": "safe",
-   "score": 0.27666327,
+   "score": 0.28520605,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
+   ]
+  },
+  {
+   "id": "506fa2d5-be66-4bda-9019-cf23bbc1c6a1",
+   "title": {
+    "en": "Kisu Shitai Otoko"
+   },
+   "contentRating": "safe",
+   "score": 0.28307956,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:33+00:00"
+ "updatedAt": "2023-12-10T18:31:57+00:00"
 }

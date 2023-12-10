@@ -11,7 +11,7 @@
     "en": "Chloroform"
    },
    "contentRating": "safe",
-   "score": 0.24761009,
+   "score": 0.24743657,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.23710856,
+   "score": 0.23733768,
    "languages": [
     "pt-br",
     "es",
@@ -36,7 +36,7 @@
     "en": "Horobi no Mae no Shangri-La"
    },
    "contentRating": "safe",
-   "score": 0.21382153,
+   "score": 0.21285962,
    "languages": [
     "en"
    ]
@@ -70,9 +70,34 @@
     "en": "Change Mark"
    },
    "contentRating": "safe",
-   "score": 0.1928811,
+   "score": 0.1951399,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "fbd2ccea-7121-468f-b46f-cd5b3b918bcf",
+   "title": {
+    "en": "Mononobe Koshoten Kaikitan"
+   },
+   "contentRating": "safe",
+   "score": 0.19165882,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "title": {
+    "en": "Revenge Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.18951307,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -87,15 +112,15 @@
    ]
   },
   {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
    "title": {
-    "en": "Revenge Doll"
+    "en": "Ghost Story Loop"
    },
    "contentRating": "safe",
-   "score": 0.18763754,
+   "score": 0.18836984,
    "languages": [
     "en",
-    "es"
+    "id"
    ]
   },
   {
@@ -118,7 +143,7 @@
     "en": "Poison"
    },
    "contentRating": "safe",
-   "score": 0.1874101,
+   "score": 0.18730435,
    "languages": [
     "en"
    ]
@@ -129,7 +154,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.18538107,
+   "score": 0.18525413,
    "languages": [
     "pt-br",
     "ru",
@@ -153,9 +178,9 @@
    ]
   },
   {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
    "title": {
-    "en": "Kokushi no Shima"
+    "en": "Material Polka"
    },
    "contentRating": "safe",
    "score": 0.1816763,
@@ -173,30 +198,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
-   "title": {
-    "en": "Peephole"
-   },
-   "contentRating": "safe",
-   "score": 0.1816763,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
-   "title": {
-    "en": "Merboy"
-   },
-   "contentRating": "safe",
-   "score": 0.1816763,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:31+00:00"
+ "updatedAt": "2023-12-10T18:18:35+00:00"
 }

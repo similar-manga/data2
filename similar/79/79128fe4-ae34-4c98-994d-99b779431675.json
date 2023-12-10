@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
+   "title": {
+    "en": "Shaman King: The Super Star"
+   },
+   "contentRating": "safe",
+   "score": 0.28068757,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "41382cf2-feaf-4fa9-83a0-97f173ba2419",
    "title": {
     "en": "The God Who Can't Clean Up"
    },
    "contentRating": "safe",
-   "score": 0.2641491,
+   "score": 0.2584484,
    "languages": [
     "es-la",
     "en"
@@ -46,7 +60,7 @@
     "en": "Shimatsuya K"
    },
    "contentRating": "safe",
-   "score": 0.25466636,
+   "score": 0.25174057,
    "languages": [
     "en"
    ]
@@ -63,15 +77,18 @@
    ]
   },
   {
-   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
+   "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
    "title": {
-    "en": "GOD EATER - Kyuuseishu no Kikan"
+    "en": "Dragon and Chameleon"
    },
    "contentRating": "safe",
-   "score": 0.24212874,
+   "score": 0.24743582,
    "languages": [
-    "es",
-    "en"
+    "vi",
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -80,46 +97,21 @@
     "en": "Crescent Noise"
    },
    "contentRating": "safe",
-   "score": 0.23904152,
+   "score": 0.2395674,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fefdc15e-47de-4f78-9acd-1102a1712513",
+   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
    "title": {
-    "en": "Isekai Tensei... Sareteneee!"
+    "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.23789538,
+   "score": 0.23611079,
    "languages": [
-    "pt-br",
-    "en",
-    "id",
-    "ru"
-   ]
-  },
-  {
-   "id": "6d8a2637-c260-45d9-9b24-bfc6da33c911",
-   "title": {
-    "en": "Kunimitsu no Matsuri"
-   },
-   "contentRating": "safe",
-   "score": 0.23350064,
-   "languages": [
+    "es",
     "en"
-   ]
-  },
-  {
-   "id": "e9d5052d-6fc2-4a14-b08e-1ed36e3c647a",
-   "title": {
-    "en": "The Day Naruto Became Hokage"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -137,16 +129,17 @@
    ]
   },
   {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "id": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
    "title": {
-    "en": "Wonted"
+    "en": "Dead Account"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "pl",
-    "pt-br"
+    "id",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -161,38 +154,55 @@
    ]
   },
   {
-   "id": "1328bda7-65ef-4c6a-8774-767ea19597ff",
+   "id": "e9d5052d-6fc2-4a14-b08e-1ed36e3c647a",
    "title": {
-    "en": "Doonggule Tea!"
+    "en": "The Day Naruto Became Hokage"
    },
    "contentRating": "safe",
-   "score": 0.23205325,
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "82a49c7e-2c95-40e9-bcfe-d58e8ec5dcb6",
+   "title": {
+    "en": "Cardfight!! Vanguard: Turnabout"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7fa1731d-552e-45c1-ae58-4c37248d4083",
+   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
    "title": {
-    "en": "The Gods of Laughter: The Final Chapter"
+    "en": "Wonted"
    },
    "contentRating": "safe",
-   "score": 0.2295565,
+   "score": 0.23328476,
    "languages": [
-    "en"
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
-   "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
+   "id": "fefdc15e-47de-4f78-9acd-1102a1712513",
    "title": {
-    "en": "Ghostrong"
+    "en": "Isekai Tensei... Sareteneee!"
    },
    "contentRating": "safe",
-   "score": 0.22649977,
+   "score": 0.23301934,
    "languages": [
-    "en"
+    "pt-br",
+    "en",
+    "id",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:36+00:00"
+ "updatedAt": "2023-12-10T18:21:32+00:00"
 }

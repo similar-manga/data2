@@ -11,23 +11,9 @@
     "en": "The Hysteric Trigger"
    },
    "contentRating": "suggestive",
-   "score": 0.17820019,
+   "score": 0.17752601,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "ad2f66cc-3b77-4122-bda1-7c3894066305",
-   "title": {
-    "en": "Marriage Gray"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17714676,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "ko"
    ]
   },
   {
@@ -39,6 +25,20 @@
    "score": 0.17420141,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ad2f66cc-3b77-4122-bda1-7c3894066305",
+   "title": {
+    "en": "Marriage Gray"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17303658,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "ko"
    ]
   },
   {
@@ -59,7 +59,7 @@
     "en": "Kenja no Mago"
    },
    "contentRating": "suggestive",
-   "score": 0.16096431,
+   "score": 0.16050161,
    "languages": [
     "es-la",
     "pt-br",
@@ -88,7 +88,7 @@
     "en": "Isekai Kenkokuki"
    },
    "contentRating": "suggestive",
-   "score": 0.15104142,
+   "score": 0.1505613,
    "languages": [
     "pt-br",
     "fr",
@@ -96,17 +96,6 @@
     "en",
     "id",
     "es-la"
-   ]
-  },
-  {
-   "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
-   "title": {
-    "en": "Patora to Tetsujuuji"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1506786,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -132,7 +121,7 @@
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.1480694,
+   "score": 0.14789826,
    "languages": [
     "fr",
     "pt-br",
@@ -152,31 +141,27 @@
    ]
   },
   {
+   "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
+   "title": {
+    "en": "Patora to Tetsujuuji"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14750516,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2862555d-a54b-4ece-92a0-aabfaaa472ae",
    "title": {
     "en": "Kannou Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.14590523,
+   "score": 0.14527711,
    "languages": [
     "es-la",
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "eb228f42-f442-4f50-ab2b-b5123ae5eace",
-   "title": {
-    "en": "May My Father Die Soon"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14544024,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "es-la",
-    "id"
    ]
   },
   {
@@ -191,16 +176,18 @@
    ]
   },
   {
-   "id": "b3683a72-dedf-4981-ad2f-d8d1e597718d",
+   "id": "eb228f42-f442-4f50-ab2b-b5123ae5eace",
    "title": {
-    "en": "Golgo 13"
+    "en": "May My Father Die Soon"
    },
    "contentRating": "suggestive",
-   "score": 0.14073156,
+   "score": 0.14454457,
    "languages": [
     "en",
+    "pt-br",
     "ru",
-    "fr"
+    "es-la",
+    "id"
    ]
   },
   {
@@ -231,11 +218,22 @@
     "en": "La La La"
    },
    "contentRating": "suggestive",
-   "score": 0.13960955,
+   "score": 0.1381751,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4c12bb7b-4983-4590-bd4e-76828af91977",
+   "title": {
+    "en": "Murder Murder"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13695328,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:34+00:00"
+ "updatedAt": "2023-12-10T18:10:35+00:00"
 }

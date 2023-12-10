@@ -6,15 +6,73 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9ecda053-6809-433a-a558-238357ac8ed3",
+   "title": {
+    "en": "Waraenu Douji - 108 no Gou"
+   },
+   "contentRating": "safe",
+   "score": 0.2612203,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7e94cb72-3b6d-4776-b1b4-57741417f363",
+   "title": {
+    "en": "Devilman Side Story -Human War-"
+   },
+   "contentRating": "safe",
+   "score": 0.24888682
+  },
+  {
    "id": "fd9e15c5-5e31-45c4-8da6-4d09a3ae62b7",
    "title": {
     "en": "Karma - What Goes Around Comes Around"
    },
    "contentRating": "safe",
-   "score": 0.23744364,
+   "score": 0.23739317,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "29f32930-2edf-4e16-bedf-d6a7eb7b5ad5",
+   "title": {
+    "en": "The Buffet"
+   },
+   "contentRating": "safe",
+   "score": 0.23285139,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.2279026,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
+   "id": "e53856c1-f22f-4d79-bf11-055e2ba9c1d8",
+   "title": {
+    "en": "The Silver Oni"
+   },
+   "contentRating": "safe",
+   "score": 0.21689653
   },
   {
    "id": "28d13b43-605b-427a-b185-8f7ee6de0ca4",
@@ -22,17 +80,18 @@
     "en": "From Hell"
    },
    "contentRating": "safe",
-   "score": 0.21649902
+   "score": 0.21575242
   },
   {
-   "id": "9ecda053-6809-433a-a558-238357ac8ed3",
+   "id": "4a5de5c5-6043-42c1-a9bc-9e4ac65c2b08",
    "title": {
-    "en": "Waraenu Douji - 108 no Gou"
+    "en": "SINoALICE"
    },
    "contentRating": "safe",
-   "score": 0.21465197,
+   "score": 0.21360883,
    "languages": [
-    "en"
+    "en",
+    "zh"
    ]
   },
   {
@@ -52,7 +111,7 @@
     "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
    },
    "contentRating": "safe",
-   "score": 0.211699,
+   "score": 0.21248728,
    "languages": [
     "en"
    ]
@@ -63,7 +122,7 @@
     "en": "Koukai no Naraku"
    },
    "contentRating": "safe",
-   "score": 0.2109917,
+   "score": 0.21058477,
    "languages": [
     "en",
     "pl"
@@ -75,21 +134,21 @@
     "en": "The Dream I Had When I Died"
    },
    "contentRating": "safe",
-   "score": 0.2054141,
+   "score": 0.2062137,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "5ad9757a-3d14-4504-a6a7-56db27a38220",
+   "id": "61c82be4-4fa8-452c-91bc-769d7ae28a7b",
    "title": {
-    "en": "Oni Goroshi"
+    "en": "Death Sin"
    },
    "contentRating": "safe",
-   "score": 0.20254861,
+   "score": 0.20607057,
    "languages": [
-    "vi"
+    "fr"
    ]
   },
   {
@@ -98,7 +157,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.20173047,
+   "score": 0.20155616,
    "languages": [
     "it",
     "id",
@@ -109,77 +168,28 @@
    ]
   },
   {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
+   "id": "5ad9757a-3d14-4504-a6a7-56db27a38220",
    "title": {
-    "en": "Metamorcode"
+    "en": "Oni Goroshi"
    },
    "contentRating": "safe",
-   "score": 0.19225785,
+   "score": 0.20082334,
    "languages": [
-    "en"
+    "vi"
    ]
   },
   {
-   "id": "73886e64-61f0-4469-81c9-781ad62c15e8",
+   "id": "bedd7713-355e-411e-b45a-487635a1443a",
    "title": {
-    "en": "Pumpkin Night Gaiden - Naoko"
+    "en": "Shiyakusho"
    },
    "contentRating": "safe",
-   "score": 0.18815424,
+   "score": 0.20007047,
    "languages": [
-    "es",
-    "it"
-   ]
-  },
-  {
-   "id": "c180dadf-469a-489d-8316-b7394f0a2f8b",
-   "title": {
-    "en": "Kuma-san to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.183877,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "91bc9dde-5381-4228-a082-9bc8eae13d19",
-   "title": {
-    "en": "The Cursed Face on My Skin"
-   },
-   "contentRating": "safe",
-   "score": 0.18314286
-  },
-  {
-   "id": "ffdbc599-2857-4ada-acee-cd95fe417a6b",
-   "title": {
-    "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
-   },
-   "contentRating": "safe",
-   "score": 0.18286481,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bada40c3-0062-4718-b46e-a4295ae62433",
-   "title": {
-    "en": "Jusaka - Dr. Bloodsucker"
-   },
-   "contentRating": "safe",
-   "score": 0.17450212
-  },
-  {
-   "id": "c6906727-6fa2-4aec-bd67-136d9ce8334e",
-   "title": {
-    "en": "HIGH SCHxxl G@L"
-   },
-   "contentRating": "safe",
-   "score": 0.17441088,
-   "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:48+00:00"
+ "updatedAt": "2023-12-10T18:35:01+00:00"
 }

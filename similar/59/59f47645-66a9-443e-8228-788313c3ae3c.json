@@ -6,15 +6,99 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a1dc8c93-f83d-4410-a3e3-4051a007d83f",
+   "title": {
+    "en": "Lili-Men"
+   },
+   "contentRating": "safe",
+   "score": 0.24256791,
+   "languages": [
+    "pt-br",
+    "id",
+    "en",
+    "fa",
+    "pl",
+    "es"
+   ]
+  },
+  {
    "id": "73886e64-61f0-4469-81c9-781ad62c15e8",
    "title": {
     "en": "Pumpkin Night Gaiden - Naoko"
    },
    "contentRating": "safe",
-   "score": 0.24032274,
+   "score": 0.2399455,
    "languages": [
     "es",
     "it"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.2304088,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.22197102,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.22197102,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
+   "id": "ebdcb990-a71b-4259-979c-fa65abe0c24a",
+   "title": {
+    "en": "Zanmu"
+   },
+   "contentRating": "safe",
+   "score": 0.2154992,
+   "languages": [
+    "vi",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "c5eb230c-7955-4753-857e-6d4b73fd0d26",
+   "title": {
+    "en": "Doomsday Revenge Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.2154992,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -26,6 +110,19 @@
    "score": 0.2154992,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "89515dc0-210a-4e5e-a94f-77bf938965f1",
+   "title": {
+    "en": "138E"
+   },
+   "contentRating": "safe",
+   "score": 0.20489633,
+   "languages": [
+    "en",
+    "ru",
+    "fr"
    ]
   },
   {
@@ -45,7 +142,7 @@
     "en": "Tokyo X Day"
    },
    "contentRating": "safe",
-   "score": 0.19443987,
+   "score": 0.19183117,
    "languages": [
     "en"
    ]
@@ -63,20 +160,6 @@
    ]
   },
   {
-   "id": "288a9b95-fead-43e2-99e8-ac0e85802e59",
-   "title": {
-    "en": "Kono Ko ja Nai!"
-   },
-   "contentRating": "safe",
-   "score": 0.18823081,
-   "languages": [
-    "en",
-    "fr",
-    "de",
-    "tr"
-   ]
-  },
-  {
    "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
    "title": {
     "en": "Jinjori Barai"
@@ -91,6 +174,31 @@
    ]
   },
   {
+   "id": "288a9b95-fead-43e2-99e8-ac0e85802e59",
+   "title": {
+    "en": "Kono Ko ja Nai!"
+   },
+   "contentRating": "safe",
+   "score": 0.18823081,
+   "languages": [
+    "en",
+    "fr",
+    "de",
+    "tr"
+   ]
+  },
+  {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.18213008,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
    "title": {
     "en": "Please Eat Me, My Darling"
@@ -100,105 +208,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "e503974f-e397-4ebb-bdf4-62583582ef12",
-   "title": {
-    "en": "Look Me in the Eyes When You Talk"
-   },
-   "contentRating": "safe",
-   "score": 0.17958875,
-   "languages": [
-    "it",
-    "en",
-    "ca"
-   ]
-  },
-  {
-   "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
-   "title": {
-    "en": "At the End of 4 Minutes"
-   },
-   "contentRating": "safe",
-   "score": 0.17828019,
-   "languages": [
-    "vi",
-    "fr",
-    "en",
-    "pt-br",
-    "ca"
-   ]
-  },
-  {
-   "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
-   "title": {
-    "en": "Evil Eater"
-   },
-   "contentRating": "safe",
-   "score": 0.17792921,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.17707163,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1860fa21-5e26-49d1-a0ac-09aa959f4fbc",
-   "title": {
-    "en": "Shokujin Shokuyuujou"
-   },
-   "contentRating": "safe",
-   "score": 0.17036709,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
-   "title": {
-    "en": "Vermillion"
-   },
-   "contentRating": "safe",
-   "score": 0.16861323,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "660f39e6-a52b-440b-b412-d14d96e435dc",
-   "title": {
-    "en": "Kan no Mushi"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
-   "title": {
-    "en": "Peephole"
-   },
-   "contentRating": "safe",
-   "score": 0.16564313,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:19+00:00"
+ "updatedAt": "2023-12-10T18:18:03+00:00"
 }

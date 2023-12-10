@@ -11,21 +11,10 @@
     "en": "Spirit Photographer Saburo Kono"
    },
    "contentRating": "safe",
-   "score": 0.27146554,
+   "score": 0.26945084,
    "languages": [
     "pt-br",
     "th"
-   ]
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.25648487,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -34,7 +23,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.25551945,
+   "score": 0.25642467,
    "languages": [
     "en",
     "pt-br",
@@ -47,12 +36,23 @@
    ]
   },
   {
+   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
+   "title": {
+    "en": "Onikirimaru"
+   },
+   "contentRating": "safe",
+   "score": 0.25570816,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
    "title": {
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.24632488,
+   "score": 0.2458205,
    "languages": [
     "ru",
     "tr",
@@ -70,7 +70,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.2428471,
+   "score": 0.2442083,
    "languages": [
     "pt-br",
     "fr",
@@ -89,7 +89,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.2265612,
+   "score": 0.22625569,
    "languages": [
     "en"
    ]
@@ -100,7 +100,7 @@
     "en": "Yotsuba\u0026!"
    },
    "contentRating": "safe",
-   "score": 0.2232159,
+   "score": 0.22492702,
    "languages": [
     "pt-br",
     "ru",
@@ -125,14 +125,34 @@
    ]
   },
   {
-   "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
+   "id": "28591273-88bf-4a4d-afbe-95c3c3430117",
    "title": {
-    "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
+    "en": "Shibuya Kingyo"
    },
    "contentRating": "safe",
-   "score": 0.20946948,
+   "score": 0.21256621,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.20745948,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -159,7 +179,7 @@
     "en": "Toilet-bound Hanako-kun"
    },
    "contentRating": "safe",
-   "score": 0.20467359,
+   "score": 0.20455725,
    "languages": [
     "vi",
     "ru",
@@ -170,6 +190,17 @@
     "es-la",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
+   "title": {
+    "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
+   },
+   "contentRating": "safe",
+   "score": 0.20204003,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -216,45 +247,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
-   "title": {
-    "en": "Munou na Nana"
-   },
-   "contentRating": "safe",
-   "score": 0.19649103,
-   "languages": [
-    "it",
-    "id",
-    "es-la",
-    "pt-br",
-    "en",
-    "he"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.19504239,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:30+00:00"
+ "updatedAt": "2023-12-10T18:15:59+00:00"
 }

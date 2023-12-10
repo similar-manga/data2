@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "754bbbde-5cfe-4f0f-936e-a250d8f384bc",
-   "title": {
-    "en": "Doll Change"
-   },
-   "contentRating": "safe",
-   "score": 0.29139516,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "65208a20-4253-42c8-b0e7-56524bbe795b",
    "title": {
     "en": "Legend of Star General"
    },
    "contentRating": "safe",
-   "score": 0.2661115,
+   "score": 0.26698452,
    "languages": [
     "en",
     "id"
@@ -34,10 +23,35 @@
     "en": "Brave Universe Sworgrader"
    },
    "contentRating": "safe",
-   "score": 0.26469946,
+   "score": 0.2642183,
    "languages": [
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "2b1aa149-9c92-4150-91dc-77ed315912ad",
+   "title": {
+    "en": "Supreme God Seal Card"
+   },
+   "contentRating": "safe",
+   "score": 0.25182328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3363151b-c3a7-4ebd-897d-60ef93ff6885",
+   "title": {
+    "en": "The Missing Gate"
+   },
+   "contentRating": "safe",
+   "score": 0.25074494,
+   "languages": [
+    "fr",
+    "id",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -46,7 +60,7 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.24559036,
+   "score": 0.24473482,
    "languages": [
     "en"
    ]
@@ -57,9 +71,33 @@
     "en": "Virtual Hero"
    },
    "contentRating": "safe",
-   "score": 0.23704746,
+   "score": 0.23592815,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "cd59c76b-43ad-4db4-9dd9-db7bfcc08e26",
+   "title": {
+    "en": "Coin Revenge"
+   },
+   "contentRating": "safe",
+   "score": 0.23122336,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b4faf821-d2d3-4bdd-a58c-9e0ae87731b6",
+   "title": {
+    "en": "Armored Gull: The Exoskeleton Frame"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -80,7 +118,18 @@
     "en": "Darkness Heels -Lili-"
    },
    "contentRating": "safe",
-   "score": 0.22808188,
+   "score": 0.22777106,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
+   "title": {
+    "en": "Astral Walker"
+   },
+   "contentRating": "safe",
+   "score": 0.22745897,
    "languages": [
     "en"
    ]
@@ -89,17 +138,6 @@
    "id": "69373c97-2794-4304-97b7-7477975f962f",
    "title": {
     "en": "Mobile Suit Gundam Valpurgis EVE"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
-   "title": {
-    "en": "Guilty Crown: Dancing Endlaves"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -119,6 +157,17 @@
    ]
   },
   {
+   "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
+   "title": {
+    "en": "Guilty Crown: Dancing Endlaves"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dc3124ba-1149-434b-aa87-a30415df13a9",
    "title": {
     "en": "Yuusha-Ou GaoGaiGar Gaiden King J-Der -Shakunetsu no Fushichou-"
@@ -130,63 +179,16 @@
    ]
   },
   {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
-   "title": {
-    "en": "Astral Walker"
-   },
-   "contentRating": "safe",
-   "score": 0.22465485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bb4f59f2-d7a0-4adb-b698-f10177c24fd4",
-   "title": {
-    "en": "A World Where Only Superhumans Are Harmed"
-   },
-   "contentRating": "safe",
-   "score": 0.22445905,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "b964c8aa-662b-4d3e-a130-215a0144bf44",
    "title": {
     "en": "Frame Saber"
    },
    "contentRating": "safe",
-   "score": 0.2243048,
+   "score": 0.22398621,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f439aae5-437f-4a67-bfde-157b85ac7d00",
-   "title": {
-    "en": "Veiled Armor: Awakening"
-   },
-   "contentRating": "safe",
-   "score": 0.22229327,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "24e7400d-dbad-4ff4-9ae0-9660102ce823",
-   "title": {
-    "en": "Rise From the Rubble"
-   },
-   "contentRating": "safe",
-   "score": 0.22221991,
-   "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:50+00:00"
+ "updatedAt": "2023-12-10T18:22:11+00:00"
 }

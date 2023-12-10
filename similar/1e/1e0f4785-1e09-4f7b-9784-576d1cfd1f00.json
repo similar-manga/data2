@@ -6,12 +6,24 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "fd21b080-26c6-4ef7-84f3-c65a8838bcdf",
+   "title": {
+    "en": "Union!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2450703,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
    "title": {
     "en": "Hijiri-kun wa Kiyoku Ikitai"
    },
    "contentRating": "suggestive",
-   "score": 0.24490385,
+   "score": 0.24407732,
    "languages": [
     "es-la",
     "id",
@@ -19,32 +31,12 @@
    ]
   },
   {
-   "id": "fd21b080-26c6-4ef7-84f3-c65a8838bcdf",
-   "title": {
-    "en": "Union!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2446998,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "575bf4f2-5c08-4ebf-aafc-b08723846f93",
-   "title": {
-    "en": "Kofukuyo, Kiss to Chire"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24355163
-  },
-  {
    "id": "300d5dea-64d4-4d85-9954-b23424fe45ad",
    "title": {
     "en": "Princess Lover!"
    },
    "contentRating": "suggestive",
-   "score": 0.24323358,
+   "score": 0.24240889,
    "languages": [
     "pl"
    ]
@@ -55,7 +47,15 @@
     "en": "Photo Club"
    },
    "contentRating": "suggestive",
-   "score": 0.24246685
+   "score": 0.24230444
+  },
+  {
+   "id": "575bf4f2-5c08-4ebf-aafc-b08723846f93",
+   "title": {
+    "en": "Kofukuyo, Kiss to Chire"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24115287
   },
   {
    "id": "634a7706-9c64-4c68-8f02-2fb6c0ee01cc",
@@ -63,7 +63,7 @@
     "en": "Suzunone"
    },
    "contentRating": "suggestive",
-   "score": 0.24032508,
+   "score": 0.24044149,
    "languages": [
     "en"
    ]
@@ -74,20 +74,12 @@
     "en": "Darashinai desu, Hotta-sensei!"
    },
    "contentRating": "suggestive",
-   "score": 0.23776253,
+   "score": 0.23609056,
    "languages": [
     "vi",
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "e7204b9f-c040-4d82-a556-e90f4f9ffa45",
-   "title": {
-    "en": "Kurage no Hone wa Ao"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23331651
   },
   {
    "id": "4509fd84-c003-4c57-ab07-e207e6999dab",
@@ -131,29 +123,30 @@
     "en": "Yagate Maken no Alicebell"
    },
    "contentRating": "suggestive",
-   "score": 0.23060822,
+   "score": 0.22912978,
    "languages": [
     "id",
     "en"
    ]
   },
   {
-   "id": "236781ac-3250-48d4-b48b-9a04b7d2e084",
+   "id": "e7204b9f-c040-4d82-a556-e90f4f9ffa45",
    "title": {
-    "en": "Butter Neko no Paradox"
+    "en": "Kurage no Hone wa Ao"
    },
    "contentRating": "suggestive",
-   "score": 0.22598797
+   "score": 0.22829287
   },
   {
-   "id": "8881746f-e248-404b-bef8-729ba5e98086",
+   "id": "fc942cd3-41bd-4cf4-8686-ffdaf9827431",
    "title": {
-    "en": "Tsugou No ii Hate"
+    "en": "Ladies versus Butlers!"
    },
    "contentRating": "suggestive",
-   "score": 0.21884048,
+   "score": 0.22397041,
    "languages": [
-    "zh-hk"
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -170,6 +163,17 @@
    ]
   },
   {
+   "id": "8881746f-e248-404b-bef8-729ba5e98086",
+   "title": {
+    "en": "Tsugou No ii Hate"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21884048,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
    "id": "ac2193aa-4f54-4378-9373-f5995e4dedea",
    "title": {
     "en": "Boku wa Ikemen"
@@ -178,18 +182,13 @@
    "score": 0.21884048
   },
   {
-   "id": "e96b9209-2f0f-423b-9736-0c5d3a9788ba",
+   "id": "236781ac-3250-48d4-b48b-9a04b7d2e084",
    "title": {
-    "en": "Shachiku to shoujo no 1800-nichi"
+    "en": "Butter Neko no Paradox"
    },
    "contentRating": "suggestive",
-   "score": 0.21831731,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
+   "score": 0.21884048
   }
  ],
- "updatedAt": "2023-12-10T01:00:55+00:00"
+ "updatedAt": "2023-12-10T18:11:32+00:00"
 }

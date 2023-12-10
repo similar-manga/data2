@@ -11,19 +11,7 @@
     "en": "Life x 01"
    },
    "contentRating": "safe",
-   "score": 0.23984323,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d5fe36ba-42bc-4763-acfe-d690e6544a85",
-   "title": {
-    "en": "Anti Anti Angel"
-   },
-   "contentRating": "safe",
-   "score": 0.23350872,
+   "score": 0.23730177,
    "languages": [
     "en",
     "pt-br"
@@ -41,12 +29,24 @@
    ]
   },
   {
+   "id": "d5fe36ba-42bc-4763-acfe-d690e6544a85",
+   "title": {
+    "en": "Anti Anti Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.23267649,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "1994a996-069e-41b9-a54b-417f566b3f0b",
    "title": {
     "en": "A Love in 100 Days"
    },
    "contentRating": "safe",
-   "score": 0.22363558,
+   "score": 0.22264788,
    "languages": [
     "en",
     "fr"
@@ -58,7 +58,7 @@
     "en": "Magical JxR"
    },
    "contentRating": "safe",
-   "score": 0.22300044,
+   "score": 0.22220153,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.2223634,
+   "score": 0.22142613,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "Akatsuki no Yona"
    },
    "contentRating": "safe",
-   "score": 0.2192347,
+   "score": 0.21832664,
    "languages": [
     "en",
     "bg",
@@ -107,6 +107,17 @@
    ]
   },
   {
+   "id": "8dfb1ccf-55a0-4f87-9805-f958e8399d86",
+   "title": {
+    "en": "Yona of the Dawn (Official Color)"
+   },
+   "contentRating": "safe",
+   "score": 0.2139907,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f13f91dc-ac6c-4907-bb55-e9b78278b5a3",
    "title": {
     "en": "Jiujiu"
@@ -118,16 +129,17 @@
    ]
   },
   {
-   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
+   "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
    "title": {
-    "en": "Tactics"
+    "en": "Queen's Quality"
    },
    "contentRating": "safe",
-   "score": 0.21261017,
+   "score": 0.21295886,
    "languages": [
+    "hu",
     "en",
-    "ru",
-    "ko"
+    "pl",
+    "ar"
    ]
   },
   {
@@ -136,20 +148,45 @@
     "en": "Hatenkou Yuugi"
    },
    "contentRating": "safe",
-   "score": 0.2125209,
+   "score": 0.21174817,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "ccc78ad7-7b11-4fdb-a830-01c944546f79",
+   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
    "title": {
-    "en": "Momogumi Plus Senki"
+    "en": "Tactics"
    },
    "contentRating": "safe",
-   "score": 0.2113735,
+   "score": 0.21160313,
    "languages": [
+    "en",
+    "ru",
+    "ko"
+   ]
+  },
+  {
+   "id": "9bb8e401-aa2e-4d41-85cd-a7d2f0281ac3",
+   "title": {
+    "en": "My Incomplete First Love"
+   },
+   "contentRating": "safe",
+   "score": 0.21081853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3402b7f4-63f6-4c4f-b1c2-0e1872edbfdc",
+   "title": {
+    "en": "The King's First Embrace"
+   },
+   "contentRating": "safe",
+   "score": 0.21081853,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -159,45 +196,11 @@
     "en": "Himegimi no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.21073216,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a7998eb4-27f5-4bcb-b0cb-4c37e5b79653",
-   "title": {
-    "en": "Angel Time"
-   },
-   "contentRating": "safe",
-   "score": 0.20919843,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "1d471302-deae-4554-a699-c26ae18c8740",
-   "title": {
-    "en": "She's Scary"
-   },
-   "contentRating": "safe",
-   "score": 0.20900334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "edfc095d-7867-4dac-9a45-5429c3f009b7",
-   "title": {
-    "en": "Oh, My Romantic Kumiho"
-   },
-   "contentRating": "safe",
-   "score": 0.20746964,
+   "score": 0.21011198,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:40+00:00"
+ "updatedAt": "2023-12-10T18:32:14+00:00"
 }

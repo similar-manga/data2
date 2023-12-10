@@ -6,30 +6,157 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "id": "683117b1-e326-4bc8-b189-e4f17940bf56",
    "title": {
-    "en": "Ikiru"
+    "en": "Chiisai Tomodachi"
    },
    "contentRating": "safe",
-   "score": 0.2048922,
+   "score": 0.28141576,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
+   "id": "0f870a08-b87a-471e-ab96-df551d70f902",
    "title": {
-    "en": "Komaoto"
+    "en": "Rhapsody in Red"
    },
    "contentRating": "safe",
-   "score": 0.2016073,
+   "score": 0.24692619,
    "languages": [
-    "ru",
-    "tr",
     "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
+   "title": {
+    "en": "Takaga Tasogare"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
     "it",
-    "pl",
-    "ca"
+    "en"
+   ]
+  },
+  {
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
+   "title": {
+    "en": "Kaji Ryuusuke's Agenda"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
+   "title": {
+    "en": "Otona no Zukan Kaiteiban"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da2b304d-4d10-4762-80d6-1c7237ec1ecd",
+   "title": {
+    "en": "Tokyo Higoro"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9134507-1631-4c68-bce1-3cfa7f78eb3e",
+   "title": {
+    "en": "Uraura Hikaru: Shinshin ni Mitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b9bd2d1-218b-4984-a44f-59f706a201c7",
+   "title": {
+    "en": "Kimi to Uchuu wo Aruku Tame ni"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "c8e3ef99-430a-4ac5-8a38-8907f4048494",
+   "title": {
+    "en": "Dark Twilight Sanctuary"
+   },
+   "contentRating": "safe",
+   "score": 0.2058635,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "title": {
+    "en": "Ikiru"
+   },
+   "contentRating": "safe",
+   "score": 0.20425677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
+   "title": {
+    "en": "Channel wa Sonomama!"
+   },
+   "contentRating": "safe",
+   "score": 0.20336646,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
+   "title": {
+    "en": "Hirayasumi"
+   },
+   "contentRating": "safe",
+   "score": 0.20325188,
+   "languages": [
+    "ar",
+    "uk",
+    "en",
+    "tr",
+    "it",
+    "pt-br",
+    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "940f858e-7a70-4269-97bd-380a99baeb7c",
+   "title": {
+    "en": "Natsu Neiro"
+   },
+   "contentRating": "safe",
+   "score": 0.20016956,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -38,7 +165,7 @@
     "en": "Uchuu Kyoudai"
    },
    "contentRating": "safe",
-   "score": 0.20028035,
+   "score": 0.19983277,
    "languages": [
     "en",
     "pt-br",
@@ -49,15 +176,19 @@
    ]
   },
   {
-   "id": "940f858e-7a70-4269-97bd-380a99baeb7c",
+   "id": "193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
    "title": {
-    "en": "Natsu Neiro"
+    "en": "Ame to Kimi to"
    },
    "contentRating": "safe",
-   "score": 0.19451998,
+   "score": 0.19659965,
    "languages": [
     "en",
-    "fr"
+    "pl",
+    "ru",
+    "pt-br",
+    "id",
+    "vi"
    ]
   },
   {
@@ -71,147 +202,7 @@
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
-   "title": {
-    "en": "Olga A Yiri"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "279d7e00-1178-4d58-86c7-2ac0c099353f",
-   "title": {
-    "en": "Hitohira"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
-   "title": {
-    "en": "F.P. Ageha"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
-   "title": {
-    "en": "Service Area"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pt-br",
-    "ru",
-    "it",
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "624907a9-9aac-4998-8f1e-bed15ab26d71",
-   "title": {
-    "en": "The Magnificent Grand Scene"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
-   "title": {
-    "en": "Kanai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pl",
-    "ru",
-    "ar",
-    "en",
-    "pt-br",
-    "tr"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
-   "title": {
-    "en": "Sayonara Bye-Bye"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "ru",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
-   "title": {
-    "en": "JA - Joshi ni Yoru Agriculture"
-   },
-   "contentRating": "safe",
-   "score": 0.19393753,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e2cdf44-68ec-467d-95ee-11e55de84671",
-   "title": {
-    "en": "Ana Akibukuro ha Wasuregachi"
-   },
-   "contentRating": "safe",
-   "score": 0.19294147,
-   "languages": [
-    "en",
-    "mn",
-    "pl",
-    "id",
-    "fr"
-   ]
-  },
-  {
-   "id": "e6d0ff06-0c00-4b24-ae78-e4a5087a9656",
-   "title": {
-    "en": "Lighter"
-   },
-   "contentRating": "safe",
-   "score": 0.18214905,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:15+00:00"
+ "updatedAt": "2023-12-10T18:20:32+00:00"
 }

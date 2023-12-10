@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "22220dbb-a0cd-4a5b-a261-70fb1041924a",
+   "title": {
+    "en": "Datte... Gaman Dekinai"
+   },
+   "contentRating": "safe",
+   "score": 0.27446663,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ae6c069a-f1f6-484d-99d2-3b79c34a71c2",
    "title": {
     "en": "Alice's Dream Files"
    },
    "contentRating": "safe",
-   "score": 0.26450253,
+   "score": 0.26327267,
    "languages": [
     "en",
     "fr"
@@ -23,7 +34,7 @@
     "en": "Hime-chan no Ribbon Colorful"
    },
    "contentRating": "safe",
-   "score": 0.2515761,
+   "score": 0.2511589,
    "languages": [
     "en"
    ]
@@ -56,7 +67,7 @@
     "en": "Other Side of the Milky Way"
    },
    "contentRating": "safe",
-   "score": 0.22913605,
+   "score": 0.22687994,
    "languages": [
     "en"
    ]
@@ -67,19 +78,30 @@
     "en": "Joousama no Shirousagi"
    },
    "contentRating": "safe",
-   "score": 0.22611725,
+   "score": 0.22559711,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "4be1a897-d03d-46ce-9860-7af22d434c30",
+   "id": "6d8fa202-711e-4f82-816d-1f347f0c5e47",
    "title": {
-    "en": "Ouji to Majou to Himegimi to"
+    "en": "Sensei no Susume"
    },
    "contentRating": "safe",
-   "score": 0.20334953,
+   "score": 0.22154061,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "83acbf4e-78dc-49c9-818d-5affb3e03535",
+   "title": {
+    "en": "Dark Walker"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -97,21 +119,32 @@
    ]
   },
   {
-   "id": "20246e83-d904-4484-b3cd-c594f1860981",
+   "id": "d9b938d9-ec59-4050-b402-ec5ad3ba0d22",
    "title": {
-    "en": "The Cruelest and Most Beautiful Grimm's Fairy Tales in the World"
+    "en": "Diorama Toy Box"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "91147ce1-7c6b-4c59-ae12-1f97c9ecd0c6",
+   "id": "c1483276-d3cc-43ad-861c-69574c0234f9",
    "title": {
-    "en": "Cosmo na Bokura!"
+    "en": "Mysterious Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "af0fbcbb-5930-4b98-a0ca-4bf84cedbc0d",
+   "title": {
+    "en": "Art Rumor"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -131,9 +164,9 @@
    ]
   },
   {
-   "id": "57bd31ed-ff14-4ec6-9151-49d77e1d78cf",
+   "id": "91147ce1-7c6b-4c59-ae12-1f97c9ecd0c6",
    "title": {
-    "en": "M.G. Darling"
+    "en": "Cosmo na Bokura!"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -142,50 +175,16 @@
    ]
   },
   {
-   "id": "83acbf4e-78dc-49c9-818d-5affb3e03535",
+   "id": "a035cc7f-a1b7-40eb-a935-640b4bdd4c21",
    "title": {
-    "en": "Dark Walker"
+    "en": "Nordiska Sonata"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9de06c13-0ac1-4029-a2e2-6e3b849edba8",
-   "title": {
-    "en": "Mamotte! Lollipop"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "5e2a556a-d3ec-4d95-810d-c6b8deb6b36a",
-   "title": {
-    "en": "Fifteen (Katou Mizuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1483276-d3cc-43ad-861c-69574c0234f9",
-   "title": {
-    "en": "Mysterious Alice"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:46+00:00"
+ "updatedAt": "2023-12-10T18:11:08+00:00"
 }

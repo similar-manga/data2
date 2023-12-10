@@ -11,11 +11,22 @@
     "en": "A Girl Who Only Appears on Snowy Days"
    },
    "contentRating": "safe",
-   "score": 0.37231144,
+   "score": 0.3664248,
    "languages": [
     "id",
     "ru",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "4559430c-1bb4-4ef7-b543-d5c09ecbb030",
+   "title": {
+    "en": "The Flower of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.29225078,
+   "languages": [
     "en"
    ]
   },
@@ -25,7 +36,7 @@
     "en": "Latent Heat"
    },
    "contentRating": "safe",
-   "score": 0.2558023,
+   "score": 0.26721215,
    "languages": [
     "en"
    ]
@@ -50,18 +61,7 @@
     "en": "Good Morning, Mr. Sleepless"
    },
    "contentRating": "safe",
-   "score": 0.24018012,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7bdf8349-1523-43b0-861a-1eff0c3d32ed",
-   "title": {
-    "en": "Kiss Tokidoki Kiss Tokoro ni Yori Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.23768777,
+   "score": 0.23793052,
    "languages": [
     "en"
    ]
@@ -72,31 +72,42 @@
     "en": "Queen of Medicine: The Title of Divine Doctor"
    },
    "contentRating": "safe",
-   "score": 0.2317211,
+   "score": 0.23048806,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c0eacf5e-8ac1-45aa-ad25-fe7d4293db25",
+   "id": "c87ff310-6275-4bce-b91a-b5a39d0de9f0",
    "title": {
-    "en": "The Golden Axe and the Silver Axe ~ The Goddess of the Lake Falls in Love ~"
+    "en": "no title"
    },
    "contentRating": "safe",
-   "score": 0.22587697,
+   "score": 0.22903997,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "310b669b-2fbd-4e4e-bbd4-40475a954268",
+   "id": "b5cbb4a7-e6b0-496b-8afc-e8e5a6b59782",
    "title": {
-    "en": "Mahou ga Kagaku ni Koisuru Hanashi"
+    "en": "My Brother Is From Deep Mountain"
    },
    "contentRating": "safe",
-   "score": 0.22587697,
+   "score": 0.22697012,
    "languages": [
-    "es-la",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "bff07afd-c046-41e8-9f8d-6f1a8655b642",
+   "title": {
+    "en": "Sekai Saikyou no Shinjuu Tsukai"
+   },
+   "contentRating": "safe",
+   "score": 0.22606462,
+   "languages": [
     "en"
    ]
   },
@@ -114,26 +125,26 @@
    ]
   },
   {
-   "id": "c87ff310-6275-4bce-b91a-b5a39d0de9f0",
+   "id": "310b669b-2fbd-4e4e-bbd4-40475a954268",
    "title": {
-    "en": "no title"
+    "en": "Mahou ga Kagaku ni Koisuru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.22561122,
+   "score": 0.22587697,
    "languages": [
+    "es-la",
     "en"
    ]
   },
   {
-   "id": "bb4f285a-b200-4b63-b5ce-7f0cff794c5a",
+   "id": "c0eacf5e-8ac1-45aa-ad25-fe7d4293db25",
    "title": {
-    "en": "Coffee Thief"
+    "en": "The Golden Axe and the Silver Axe ~ The Goddess of the Lake Falls in Love ~"
    },
    "contentRating": "safe",
-   "score": 0.22503723,
+   "score": 0.22587697,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -151,12 +162,24 @@
    ]
   },
   {
+   "id": "bb4f285a-b200-4b63-b5ce-7f0cff794c5a",
+   "title": {
+    "en": "Coffee Thief"
+   },
+   "contentRating": "safe",
+   "score": 0.22262275,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "5ed8e403-639b-4fd7-9b8b-aa88f563a9cd",
    "title": {
     "en": "The King's Choice"
    },
    "contentRating": "safe",
-   "score": 0.21603398,
+   "score": 0.21779649,
    "languages": [
     "pl",
     "en",
@@ -169,35 +192,11 @@
     "en": "Tokiya"
    },
    "contentRating": "safe",
-   "score": 0.21584365,
+   "score": 0.21562281,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8baa43b1-b808-4a65-b493-c5a851fdf7eb",
-   "title": {
-    "en": "Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.20619653,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9bdb0054-6983-4089-a5a1-55ffc94c4c29",
-   "title": {
-    "en": "My Magic Sword Hates Me"
-   },
-   "contentRating": "safe",
-   "score": 0.20619653,
-   "languages": [
-    "en",
-    "vi",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:16+00:00"
+ "updatedAt": "2023-12-10T18:15:24+00:00"
 }

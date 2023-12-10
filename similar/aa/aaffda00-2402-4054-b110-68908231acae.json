@@ -11,7 +11,7 @@
     "en": "Home for Lost Children"
    },
    "contentRating": "safe",
-   "score": 0.31173167,
+   "score": 0.3081346,
    "languages": [
     "en"
    ]
@@ -22,20 +22,9 @@
     "en": "Mori no Naka"
    },
    "contentRating": "safe",
-   "score": 0.271797,
+   "score": 0.2679596,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
-   "title": {
-    "en": "Forest Breeding Farm"
-   },
-   "contentRating": "safe",
-   "score": 0.26036543,
-   "languages": [
     "en"
    ]
   },
@@ -45,9 +34,22 @@
     "en": "The Tale of That Forest"
    },
    "contentRating": "safe",
-   "score": 0.25971755,
+   "score": 0.2544812,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "bd35c947-4969-4fb5-b949-cac46ebb60b6",
+   "title": {
+    "en": "The Daily Life of Master \u0026 Hatsune Miku"
+   },
+   "contentRating": "safe",
+   "score": 0.23738,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -56,7 +58,7 @@
     "en": "Forest Bear"
    },
    "contentRating": "safe",
-   "score": 0.23858577,
+   "score": 0.23585695,
    "languages": [
     "en",
     "ro"
@@ -68,33 +70,8 @@
     "en": "Nejimaki Shoukougun"
    },
    "contentRating": "safe",
-   "score": 0.23471284,
+   "score": 0.23554315,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
-   "title": {
-    "en": "Shoujikimono ga Baka wo Miru"
-   },
-   "contentRating": "safe",
-   "score": 0.23395742,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "06020d3e-3f5a-4d18-bc73-6d12acda0370",
-   "title": {
-    "en": "Kiss Happiness Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -114,6 +91,18 @@
    ]
   },
   {
+   "id": "06020d3e-3f5a-4d18-bc73-6d12acda0370",
+   "title": {
+    "en": "Kiss Happiness Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "00875dbb-33ae-424f-b274-ed4bdf9bca64",
    "title": {
     "en": "2-nen 1-kumi no Majo"
@@ -125,14 +114,16 @@
    ]
   },
   {
-   "id": "135763ce-c3c2-4e6a-98aa-79c8482032a7",
+   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
    "title": {
-    "en": "Summoning The Demon Lord"
+    "en": "Shoujikimono ga Baka wo Miru"
    },
    "contentRating": "safe",
-   "score": 0.2272257,
+   "score": 0.23228797,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -141,7 +132,7 @@
     "en": "Mika, Saigo no Hi"
    },
    "contentRating": "safe",
-   "score": 0.22497855,
+   "score": 0.2293005,
    "languages": [
     "en",
     "vi",
@@ -149,15 +140,24 @@
    ]
   },
   {
-   "id": "e7915694-4f83-4dd2-97a5-4c4a45215cf9",
+   "id": "135763ce-c3c2-4e6a-98aa-79c8482032a7",
    "title": {
-    "en": "Drive"
+    "en": "Summoning The Demon Lord"
    },
    "contentRating": "safe",
-   "score": 0.21717338,
+   "score": 0.22516917,
    "languages": [
-    "pt-br",
-    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "dd2f0704-ffa2-4155-a526-9ce2a0d4361a",
+   "title": {
+    "en": "Pochi"
+   },
+   "contentRating": "safe",
+   "score": 0.21817847,
+   "languages": [
     "en"
    ]
   },
@@ -167,33 +167,39 @@
     "en": "Hotoke no Kao mo Sando Made"
    },
    "contentRating": "safe",
-   "score": 0.21609256,
+   "score": 0.21735439,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ec15f6c2-5d1a-487e-9b30-1d490c20e916",
+   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
    "title": {
-    "en": "Gegege no Kitaro: Showdown on Mt. Atago"
+    "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.21133135,
+   "score": 0.21718913,
    "languages": [
-    "en"
+    "it",
+    "en",
+    "pl",
+    "bg",
+    "fr"
    ]
   },
   {
-   "id": "eb40b578-1a14-4ee0-a415-ef5bce2476ab",
+   "id": "e7915694-4f83-4dd2-97a5-4c4a45215cf9",
    "title": {
-    "en": "Kodomo ga Nemuru Ato"
+    "en": "Drive"
    },
    "contentRating": "safe",
-   "score": 0.21110186,
+   "score": 0.21679276,
    "languages": [
+    "pt-br",
+    "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:48+00:00"
+ "updatedAt": "2023-12-10T18:27:26+00:00"
 }

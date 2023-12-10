@@ -11,7 +11,7 @@
     "en": "A Romantic Comedy That Only I Know"
    },
    "contentRating": "safe",
-   "score": 0.47515678,
+   "score": 0.4781268,
    "languages": [
     "ru",
     "pl",
@@ -20,12 +20,30 @@
    ]
   },
   {
+   "id": "c783711c-e593-44e9-83a1-8c95b7f703de",
+   "title": {
+    "en": "I Asked My First Girlfriend Why She Went Out with Me"
+   },
+   "contentRating": "safe",
+   "score": 0.42008516,
+   "languages": [
+    "es",
+    "en",
+    "ne",
+    "ru",
+    "id",
+    "pl",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "122d0951-7b64-41ba-bf27-6c26459c3b88",
    "title": {
     "en": "The Cool Boyfriend and the Innocent Girlfriend"
    },
    "contentRating": "safe",
-   "score": 0.41014528,
+   "score": 0.41854987,
    "languages": [
     "en"
    ]
@@ -36,7 +54,7 @@
     "en": "Mousou Meets Girl"
    },
    "contentRating": "safe",
-   "score": 0.39869717,
+   "score": 0.40464696,
    "languages": [
     "id"
    ]
@@ -47,32 +65,10 @@
     "en": "Getting into Ecchi Rom-com Situations"
    },
    "contentRating": "safe",
-   "score": 0.38414833,
+   "score": 0.37464756,
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "0bdf3ba9-a8dd-43f2-ab1f-d14a147a10e8",
-   "title": {
-    "en": "A Mangaka's Wish Fulfillment Romcom, But I Got Rejected On Page 1?"
-   },
-   "contentRating": "safe",
-   "score": 0.36804664,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
-   "title": {
-    "en": "Just Date Each Other Already!"
-   },
-   "contentRating": "safe",
-   "score": 0.35906196,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -81,7 +77,7 @@
     "en": "Let's Make My Tall Girlfriend Wear Cute Clothes!"
    },
    "contentRating": "safe",
-   "score": 0.35704386,
+   "score": 0.36362755,
    "languages": [
     "en",
     "vi",
@@ -92,30 +88,38 @@
    ]
   },
   {
-   "id": "8d24b46b-e465-4e26-9d65-154ac4922605",
+   "id": "0bdf3ba9-a8dd-43f2-ab1f-d14a147a10e8",
    "title": {
-    "en": "4 page de Owaru Rabukome Shiki Jinsei"
+    "en": "A Mangaka's Wish Fulfillment Romcom, But I Got Rejected On Page 1?"
    },
    "contentRating": "safe",
-   "score": 0.3531636,
+   "score": 0.36150047,
    "languages": [
-    "vi",
-    "en",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "9964801b-2053-43e4-90b7-029bd349b665",
+   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
    "title": {
-    "en": "Love Comedy Encyclopedia"
+    "en": "Just Date Each Other Already!"
    },
    "contentRating": "safe",
-   "score": 0.351776,
+   "score": 0.35905954,
    "languages": [
-    "es-la",
-    "fr",
-    "vi",
     "en"
+   ]
+  },
+  {
+   "id": "d59c30a8-ef0f-449e-84b2-8f376722d2f6",
+   "title": {
+    "en": "Shiranai Kanojo ga Dekita Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.35282093,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -124,7 +128,7 @@
     "en": "My Girlfriend Is a Fussy Eater"
    },
    "contentRating": "safe",
-   "score": 0.34586135,
+   "score": 0.35113552,
    "languages": [
     "vi",
     "pt-br",
@@ -138,11 +142,53 @@
     "en": "The Expressionless Boyfriend and the Quiet Girlfriend"
    },
    "contentRating": "safe",
-   "score": 0.34366712,
+   "score": 0.3489316,
    "languages": [
     "es-la",
     "en",
     "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "8d24b46b-e465-4e26-9d65-154ac4922605",
+   "title": {
+    "en": "4 page de Owaru Rabukome Shiki Jinsei"
+   },
+   "contentRating": "safe",
+   "score": 0.34871277,
+   "languages": [
+    "vi",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "9964801b-2053-43e4-90b7-029bd349b665",
+   "title": {
+    "en": "Love Comedy Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.34742692,
+   "languages": [
+    "es-la",
+    "fr",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "06c1b6d6-4134-464b-b64b-cad2c1b80386",
+   "title": {
+    "en": "Youbi Goto ni Jinkaku ga Irekawaru Kanojo no Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.3470787,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "tr",
     "id"
    ]
   },
@@ -152,7 +198,7 @@
     "en": "A Disturbing Girlfriend Who Hates Visiting a Shrine for New Year's Eve"
    },
    "contentRating": "safe",
-   "score": 0.33998433,
+   "score": 0.34508392,
    "languages": [
     "fr",
     "en",
@@ -166,7 +212,7 @@
     "en": "Nanda Kore"
    },
    "contentRating": "safe",
-   "score": 0.33905658,
+   "score": 0.34380957,
    "languages": [
     "es-la",
     "id",
@@ -175,45 +221,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "eb6dee39-20ab-4546-bca9-ba6debd7a1a9",
-   "title": {
-    "en": "Manabiya Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.33849776,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
-   "title": {
-    "en": "My Girlfriend will be a Mangaka"
-   },
-   "contentRating": "safe",
-   "score": 0.3269892,
-   "languages": [
-    "id",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7c03cd3e-1089-4e19-9fdd-2cbf79ca0fb1",
-   "title": {
-    "en": "The boy who ended up crossdressing to act as someone else's girlfriend"
-   },
-   "contentRating": "safe",
-   "score": 0.3256887,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:47+00:00"
+ "updatedAt": "2023-12-10T18:34:58+00:00"
 }

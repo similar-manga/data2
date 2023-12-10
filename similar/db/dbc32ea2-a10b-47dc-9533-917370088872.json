@@ -11,7 +11,7 @@
     "en": "Kokenoshima"
    },
    "contentRating": "safe",
-   "score": 0.27129608,
+   "score": 0.26967317,
    "languages": [
     "tr",
     "en"
@@ -23,7 +23,7 @@
     "en": "Mercy"
    },
    "contentRating": "safe",
-   "score": 0.25528702,
+   "score": 0.2541633,
    "languages": [
     "ru",
     "en"
@@ -35,7 +35,7 @@
     "en": "Ame no Furu Basho"
    },
    "contentRating": "safe",
-   "score": 0.22430167,
+   "score": 0.2238492,
    "languages": [
     "en"
    ]
@@ -46,7 +46,18 @@
     "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.21432455,
+   "score": 0.21851066,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "595aeefa-2977-4c50-9eac-f68e7f2e9a81",
+   "title": {
+    "en": "Snake Mountain"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -65,12 +76,12 @@
    ]
   },
   {
-   "id": "595aeefa-2977-4c50-9eac-f68e7f2e9a81",
+   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
    "title": {
-    "en": "Snake Mountain"
+    "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.20959522,
    "languages": [
     "en"
    ]
@@ -81,18 +92,18 @@
     "en": "Change Mark"
    },
    "contentRating": "safe",
-   "score": 0.20570312,
+   "score": 0.2076897,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
+   "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
    "title": {
-    "en": "Like a Laika"
+    "en": "Hopeless Kacchan's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.20546722,
+   "score": 0.20727201,
    "languages": [
     "en"
    ]
@@ -112,6 +123,32 @@
    ]
   },
   {
+   "id": "95961946-c987-4003-97e5-fdbeb4a30f3f",
+   "title": {
+    "en": "Yume no Tsudzuki"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
+   "title": {
+    "en": "The White Witch and the Snow-Viewing Tea Party"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "pl",
+    "it",
+    "fr"
+   ]
+  },
+  {
    "id": "82fbdc9b-412f-46ea-8929-ea8a18d8b9a2",
    "title": {
     "en": "Kumabachi no Koto"
@@ -120,30 +157,6 @@
    "score": 0.20203052,
    "languages": [
     "tr",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "18bb84ad-9e31-4bad-8008-a05fc9238450",
-   "title": {
-    "en": "Little Red's Fluffy Bed"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "95961946-c987-4003-97e5-fdbeb4a30f3f",
-   "title": {
-    "en": "Yume no Tsudzuki"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
     "en",
     "fr"
    ]
@@ -162,27 +175,14 @@
    ]
   },
   {
-   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
+   "id": "18bb84ad-9e31-4bad-8008-a05fc9238450",
    "title": {
-    "en": "The White Witch and the Snow-Viewing Tea Party"
+    "en": "Little Red's Fluffy Bed"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en",
     "pl",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
-   "title": {
-    "en": "Hopeless Kacchan's Love Story"
-   },
-   "contentRating": "safe",
-   "score": 0.2007232,
-   "languages": [
     "en"
    ]
   },
@@ -202,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:49+00:00"
+ "updatedAt": "2023-12-10T18:32:38+00:00"
 }

@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.2325651,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "a055644f-4efa-42c7-b3c0-dfedcdbe4df5",
    "title": {
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.22532953,
+   "score": 0.22442381,
    "languages": [
     "en"
    ]
@@ -29,17 +42,6 @@
     "en",
     "uk",
     "id"
-   ]
-  },
-  {
-   "id": "fd2334d7-c610-4e79-9471-c4efe3a7c16c",
-   "title": {
-    "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.21118218,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -62,9 +64,21 @@
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.2047416,
+   "score": 0.20449959,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.20043495,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -73,20 +87,33 @@
     "en": "Vampire Hunter D"
    },
    "contentRating": "safe",
-   "score": 0.2001854,
+   "score": 0.19996487,
    "languages": [
     "es-la"
    ]
   },
   {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "id": "fd2334d7-c610-4e79-9471-c4efe3a7c16c",
    "title": {
-    "en": "The Darwin Incident"
+    "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
    },
    "contentRating": "safe",
-   "score": 0.19299485,
+   "score": 0.19891703,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "fbd2ccea-7121-468f-b46f-cd5b3b918bcf",
+   "title": {
+    "en": "Mononobe Koshoten Kaikitan"
+   },
+   "contentRating": "safe",
+   "score": 0.1950334,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -100,6 +127,17 @@
     "es-la",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "title": {
+    "en": "The Darwin Incident"
+   },
+   "contentRating": "safe",
+   "score": 0.1920392,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -119,9 +157,23 @@
     "en": "Kyosuurei"
    },
    "contentRating": "safe",
-   "score": 0.18767837,
+   "score": 0.18786944,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.18753214,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -148,56 +200,7 @@
     "pl",
     "uk"
    ]
-  },
-  {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
-   "title": {
-    "en": "The Far East Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.18177654,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
-   "title": {
-    "en": "Black Humor Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.17892866,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
-   "title": {
-    "en": "Tales of the Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.17886673,
-   "languages": [
-    "vi",
-    "en",
-    "pl",
-    "it",
-    "ru"
-   ]
-  },
-  {
-   "id": "41908d13-7ce6-4d64-8422-1740f9c6944c",
-   "title": {
-    "en": "Chloroform"
-   },
-   "contentRating": "safe",
-   "score": 0.17811872,
-   "languages": [
-    "es-la",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:35+00:00"
+ "updatedAt": "2023-12-10T18:13:25+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Ewokaku Futari"
    },
    "contentRating": "safe",
-   "score": 0.26656225,
+   "score": 0.26563993,
    "languages": [
     "zh-hk"
    ]
@@ -25,15 +25,42 @@
    "score": 0.24983473
   },
   {
+   "id": "0bbd2af0-39ff-4d67-a85a-deb75b34886c",
+   "title": {
+    "en": "Kami-sama no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.23128976
+  },
+  {
    "id": "3070be78-046a-4d56-81f4-c053906122c3",
    "title": {
     "en": "Ookami to Hitsuji"
    },
    "contentRating": "safe",
-   "score": 0.22754598,
+   "score": 0.22807184,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "fbb62d28-a83c-4ea5-8546-d6877ab533c6",
+   "title": {
+    "en": "Mahou Tsukai ni Taisetsu na Koto"
+   },
+   "contentRating": "safe",
+   "score": 0.22418253,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3186316f-c96d-4390-824d-6750c520bb53",
+   "title": {
+    "en": "Daijobu Club"
+   },
+   "contentRating": "safe",
+   "score": 0.22389437
   },
   {
    "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
@@ -41,8 +68,21 @@
     "en": "Life Maker"
    },
    "contentRating": "safe",
-   "score": 0.2224503,
+   "score": 0.22168481,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8283a222-48df-4474-b52a-938444368fb3",
+   "title": {
+    "en": "False Child"
+   },
+   "contentRating": "safe",
+   "score": 0.22090338,
+   "languages": [
+    "id",
+    "pt-br",
     "en"
    ]
   },
@@ -52,7 +92,7 @@
     "en": "One-Armed Amy"
    },
    "contentRating": "safe",
-   "score": 0.2182026,
+   "score": 0.2182118,
    "languages": [
     "fr",
     "hi",
@@ -89,12 +129,31 @@
    ]
   },
   {
+   "id": "474f4e95-7731-4d92-badb-bfd52e601df0",
+   "title": {
+    "en": "Lisa's Table of Inedibles"
+   },
+   "contentRating": "safe",
+   "score": 0.21542443,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1f280efb-60ce-410d-bf97-8987aa24c908",
+   "title": {
+    "en": "Toudai no Sanshimai"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253
+  },
+  {
    "id": "f3ddf21b-864e-4575-9d96-217a76d931af",
    "title": {
     "en": "Shunji Obata Short Stories: Esper Whirlwind [Complete Edition] + Dark Beast + Skull Gate"
    },
    "contentRating": "safe",
-   "score": 0.20823443
+   "score": 0.2080714
   },
   {
    "id": "899acb87-147f-44d8-ad17-699a64c0dd48",
@@ -102,7 +161,7 @@
     "en": "The Time of Cherry Blossoms"
    },
    "contentRating": "safe",
-   "score": 0.20398498,
+   "score": 0.20388,
    "languages": [
     "en"
    ]
@@ -113,83 +172,12 @@
     "en": "Ikusaba Animation"
    },
    "contentRating": "safe",
-   "score": 0.2013634,
+   "score": 0.19945438,
    "languages": [
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "fd0638a8-2bf3-4e9c-85c2-2e5d72bf34fd",
-   "title": {
-    "en": "Youkai Apaato no Yuuga na Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.1984341,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "55be8e16-fdd9-4f19-b32f-f0d1c313e8b9",
-   "title": {
-    "en": "Code Geass: Lelouch of the Re;surrection"
-   },
-   "contentRating": "safe",
-   "score": 0.1968412,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ab7364a3-3f84-4732-bc01-aca1a5d95942",
-   "title": {
-    "en": "Spirit Legend Hudie Gaiden: Lotis Naja"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695
-  },
-  {
-   "id": "18cdc34b-e11b-471c-bf71-33f1d7044c9a",
-   "title": {
-    "en": "Verbellum - Kotoba no Sensou"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695
-  },
-  {
-   "id": "f1e9a634-f768-4b45-a1ca-1631eff9f257",
-   "title": {
-    "en": "The Godsend"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "c9926df8-a200-40ba-8c05-0f5b375180c9",
-   "title": {
-    "en": "Sayonara Eri"
-   },
-   "contentRating": "safe",
-   "score": 0.18579999,
-   "languages": [
-    "uk",
-    "pl",
-    "ru",
-    "pt-br",
-    "fr",
-    "hi",
-    "el",
-    "ar",
-    "id",
-    "bg"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:48+00:00"
+ "updatedAt": "2023-12-10T18:16:43+00:00"
 }

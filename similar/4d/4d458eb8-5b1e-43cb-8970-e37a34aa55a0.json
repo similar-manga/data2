@@ -11,7 +11,7 @@
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.23468766,
+   "score": 0.23498625,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20229238,
+   "score": 0.20190823,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.19409804,
+   "score": 0.19348818,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.19109228,
+   "score": 0.18990788,
    "languages": [
     "ru",
     "en",
@@ -58,22 +58,11 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.18954967,
+   "score": 0.18795061,
    "languages": [
     "en",
     "pt-br",
     "vi"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.18953253,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -82,7 +71,7 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.1864175,
+   "score": 0.18631859,
    "languages": [
     "en",
     "ru",
@@ -95,7 +84,7 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.18498048,
+   "score": 0.18437754,
    "languages": [
     "pl",
     "en",
@@ -104,12 +93,23 @@
    ]
   },
   {
+   "id": "42a3033e-2dd4-4591-a153-9201bccf313f",
+   "title": {
+    "en": "Aoki Ao no Atopos"
+   },
+   "contentRating": "safe",
+   "score": 0.18308346,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
    "title": {
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.18270752,
+   "score": 0.18199606,
    "languages": [
     "en",
     "pt-br"
@@ -121,7 +121,7 @@
     "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
    },
    "contentRating": "safe",
-   "score": 0.18141373,
+   "score": 0.18125986,
    "languages": [
     "en",
     "es-la"
@@ -144,7 +144,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.18015747,
+   "score": 0.18006577,
    "languages": [
     "en"
    ]
@@ -155,20 +155,9 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.1788706,
+   "score": 0.17824702,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
-   "title": {
-    "en": "TC-225"
-   },
-   "contentRating": "safe",
-   "score": 0.17630078,
-   "languages": [
     "en"
    ]
   },
@@ -179,6 +168,17 @@
    },
    "contentRating": "safe",
    "score": 0.17440152,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
+   "title": {
+    "en": "TC-225"
+   },
+   "contentRating": "safe",
+   "score": 0.17432491,
    "languages": [
     "en"
    ]
@@ -197,5 +197,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:47+00:00"
+ "updatedAt": "2023-12-10T18:16:40+00:00"
 }

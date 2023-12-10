@@ -11,7 +11,7 @@
     "en": "Together During Summer, Too"
    },
    "contentRating": "safe",
-   "score": 0.4042979,
+   "score": 0.409755,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "That Summer"
    },
    "contentRating": "safe",
-   "score": 0.3859327,
+   "score": 0.3905332,
    "languages": [
     "en"
    ]
@@ -33,18 +33,10 @@
     "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.34530985,
+   "score": 0.34801126,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "e86299fe-4d56-47b4-9bc5-936f445d78b3",
-   "title": {
-    "en": "Kekkon Suru Kara Shite mo ii Yone"
-   },
-   "contentRating": "safe",
-   "score": 0.33742148
   },
   {
    "id": "93326065-285f-407f-93e7-e0481c620d13",
@@ -52,7 +44,7 @@
     "en": "Natsu no Ashiato"
    },
    "contentRating": "safe",
-   "score": 0.33619,
+   "score": 0.33922398,
    "languages": [
     "pt-br"
    ]
@@ -63,10 +55,18 @@
     "en": "Summer Love"
    },
    "contentRating": "safe",
-   "score": 0.33407107,
+   "score": 0.33738106,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e86299fe-4d56-47b4-9bc5-936f445d78b3",
+   "title": {
+    "en": "Kekkon Suru Kara Shite mo ii Yone"
+   },
+   "contentRating": "safe",
+   "score": 0.33725527
   },
   {
    "id": "fc9b73fe-7329-4ff2-ac18-394386f867df",
@@ -74,18 +74,7 @@
     "en": "Sono Tenshi, Toriatsukai Chuui!"
    },
    "contentRating": "safe",
-   "score": 0.3329299
-  },
-  {
-   "id": "6e805b06-e507-4b57-9c53-8c3a31edc60f",
-   "title": {
-    "en": "Madokana Tsuki to Encore"
-   },
-   "contentRating": "safe",
-   "score": 0.32343262,
-   "languages": [
-    "en"
-   ]
+   "score": 0.33195043
   },
   {
    "id": "310a8a6f-e363-479e-91a9-ca2abae25365",
@@ -93,7 +82,7 @@
     "en": "Nishuukan Kareshi"
    },
    "contentRating": "safe",
-   "score": 0.32273313,
+   "score": 0.322422,
    "languages": [
     "en",
     "pt-br"
@@ -105,9 +94,20 @@
     "en": "I Love My Sister's Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.32244456,
+   "score": 0.32191983,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "6e805b06-e507-4b57-9c53-8c3a31edc60f",
+   "title": {
+    "en": "Madokana Tsuki to Encore"
+   },
+   "contentRating": "safe",
+   "score": 0.32189858,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -116,21 +116,9 @@
     "en": "Manatsu no Blue"
    },
    "contentRating": "safe",
-   "score": 0.31272924,
+   "score": 0.31444934,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "47eebfef-1aa6-426a-81e2-d77372c1f759",
-   "title": {
-    "en": "Kawaii Satou-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.31009552,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -139,7 +127,19 @@
     "en": "Heart Throbbing Holidays - Are You Ready?"
    },
    "contentRating": "safe",
-   "score": 0.30929133
+   "score": 0.3113372
+  },
+  {
+   "id": "47eebfef-1aa6-426a-81e2-d77372c1f759",
+   "title": {
+    "en": "Kawaii Satou-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.30977345,
+   "languages": [
+    "en",
+    "pl"
+   ]
   },
   {
    "id": "903d4f2e-bb21-4757-a772-6545c6957902",
@@ -147,7 +147,7 @@
     "en": "Twenty Love"
    },
    "contentRating": "safe",
-   "score": 0.30868918
+   "score": 0.3078028
   },
   {
    "id": "b9906402-a1ed-4294-8fdb-176ec94e8c02",
@@ -155,7 +155,7 @@
     "en": "Akai Kami no Marure Ina"
    },
    "contentRating": "safe",
-   "score": 0.30570474,
+   "score": 0.30665484,
    "languages": [
     "en"
    ]
@@ -166,7 +166,7 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.30313244,
+   "score": 0.3026938,
    "languages": [
     "en",
     "pl",
@@ -174,5 +174,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:43+00:00"
+ "updatedAt": "2023-12-10T18:10:59+00:00"
 }

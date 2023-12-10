@@ -11,9 +11,20 @@
     "en": "Asura"
    },
    "contentRating": "safe",
-   "score": 0.3689578,
+   "score": 0.3740986,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d84dd0a0-dabe-4021-b722-40faf24071fe",
+   "title": {
+    "en": "About Teddy Bear"
+   },
+   "contentRating": "safe",
+   "score": 0.3484225,
+   "languages": [
+    "fr"
    ]
   },
   {
@@ -22,7 +33,7 @@
     "en": "Hokori"
    },
    "contentRating": "safe",
-   "score": 0.3395448,
+   "score": 0.3372065,
    "languages": [
     "en"
    ]
@@ -33,15 +44,26 @@
     "en": "Teddy Bear Tengoku"
    },
    "contentRating": "safe",
-   "score": 0.32512832,
+   "score": 0.32349378,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d82f372-f640-4101-838b-03085eb95d67",
+   "id": "6b13e4c6-13c9-49fc-8a6c-410b48631172",
    "title": {
-    "en": "Don't Cheat on Me!"
+    "en": "She's Kids!"
+   },
+   "contentRating": "safe",
+   "score": 0.303939,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "478b5fb8-4998-459f-b496-e5339a43d9c3",
+   "title": {
+    "en": "Love Me, My Knight"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -50,9 +72,65 @@
    ]
   },
   {
-   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
+   "id": "8406f36b-b613-4629-b195-7857991ad83c",
    "title": {
-    "en": "Kyou mo Ashita mo."
+    "en": "Omatase shimashita, Hatsukoi desu"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "ce02c6b3-2537-4fa2-af4d-93cd81c9973c",
+   "title": {
+    "en": "Big Sister VS Big Brother"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "d17be322-3bb3-46bb-b443-b41fa39a782f",
+   "title": {
+    "en": "My Lovely Master"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3edc1fe2-5626-4e2a-9efa-10921d8b8d01",
+   "title": {
+    "en": "Hissing"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "e0c8f6b3-3d98-4a1a-b251-b4c465a0a678",
+   "title": {
+    "en": "Want You"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "71cc967d-5755-41c9-89a9-4f3e14884b1b",
+   "title": {
+    "en": "Sweet Bitter Love"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -73,29 +151,6 @@
    ]
   },
   {
-   "id": "ce02c6b3-2537-4fa2-af4d-93cd81c9973c",
-   "title": {
-    "en": "Big Sister VS Big Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "71cc967d-5755-41c9-89a9-4f3e14884b1b",
-   "title": {
-    "en": "Sweet Bitter Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5bc8917e-2d26-479c-95fc-4a145bb9729a",
    "title": {
     "en": "Re Re Honey ~S.O.S Daisakusen~"
@@ -108,9 +163,9 @@
    ]
   },
   {
-   "id": "e0c8f6b3-3d98-4a1a-b251-b4c465a0a678",
+   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
    "title": {
-    "en": "Want You"
+    "en": "Kyou mo Ashita mo."
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -119,71 +174,16 @@
    ]
   },
   {
-   "id": "3edc1fe2-5626-4e2a-9efa-10921d8b8d01",
+   "id": "36a96911-c57b-404c-b04d-e681cc3c75e9",
    "title": {
-    "en": "Hissing"
+    "en": "Ore to Leo"
    },
    "contentRating": "safe",
    "score": 0.2857143,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "d17be322-3bb3-46bb-b443-b41fa39a782f",
-   "title": {
-    "en": "My Lovely Master"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
-   "title": {
-    "en": "The Boy Next Door"
-   },
-   "contentRating": "safe",
-   "score": 0.2724024,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf23d8f0-ea3f-4ced-bfd3-a589ba487bb8",
-   "title": {
-    "en": "Oneichan to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.2690783,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
-   "title": {
-    "en": "Lovely"
-   },
-   "contentRating": "safe",
-   "score": 0.26279148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52750899-e6ae-46b1-ae7b-3e86b994667e",
-   "title": {
-    "en": "Crab Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.25979975,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:04+00:00"
+ "updatedAt": "2023-12-10T18:17:26+00:00"
 }

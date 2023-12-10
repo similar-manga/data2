@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bbbc095a-4131-4ca7-9491-2964b2dcc038",
+   "title": {
+    "en": "Renchi na Himoto"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4ecdf624-7c90-4043-b222-52edbacd7ad7",
    "title": {
     "en": "Crescent Love"
    },
    "contentRating": "safe",
-   "score": 0.28447318,
+   "score": 0.28310964,
    "languages": [
     "en",
     "fr"
@@ -23,7 +34,7 @@
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.28362763,
+   "score": 0.28120008,
    "languages": [
     "fr",
     "vi",
@@ -34,6 +45,30 @@
     "ar",
     "it",
     "hu"
+   ]
+  },
+  {
+   "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
+   "title": {
+    "en": "RDG - Red Data Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "9dee4d4b-b21e-4fc7-832b-954cbd06103f",
+   "title": {
+    "en": "Ikiteru Kimi ni Hanataba wo"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -48,9 +83,9 @@
    ]
   },
   {
-   "id": "e9910ced-1503-401c-b1b0-23145dcc3c92",
+   "id": "91fff6d2-c99e-453d-9d31-236670e03e01",
    "title": {
-    "en": "Nice to Meet You! The Pure-Hearted Fellow"
+    "en": "Tantei Wa Mou Shindeiru - The Lost Memory"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -71,27 +106,54 @@
    ]
   },
   {
-   "id": "9dee4d4b-b21e-4fc7-832b-954cbd06103f",
+   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
    "title": {
-    "en": "Ikiteru Kimi ni Hanataba wo"
+    "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
+    "pt-br",
     "en",
-    "fr"
+    "fr",
+    "vi",
+    "id",
+    "es-la",
+    "ar"
    ]
   },
   {
-   "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
+   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
    "title": {
-    "en": "RDG - Red Data Girl"
+    "en": "Show-ha Shou-ten!"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "en",
-    "fr"
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "f6a2ae4b-17c1-46e2-baf7-c6c0a02fa1a4",
+   "title": {
+    "en": "Opposites in Disguise"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9910ced-1503-401c-b1b0-23145dcc3c92",
+   "title": {
+    "en": "Nice to Meet You! The Pure-Hearted Fellow"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -100,7 +162,7 @@
     "en": "Idejuu!"
    },
    "contentRating": "safe",
-   "score": 0.25238898,
+   "score": 0.25100827,
    "languages": [
     "en"
    ]
@@ -111,7 +173,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.25040668,
+   "score": 0.24965587,
    "languages": [
     "en",
     "pl",
@@ -122,25 +184,19 @@
    ]
   },
   {
-   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
    "title": {
-    "en": "Sweety"
+    "en": "Aishiteru Game wo Owarasetai"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
-   "title": {
-    "en": "Gakuen Utopia Manabi Straight!"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
    ]
   },
   {
@@ -153,56 +209,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
-   "title": {
-    "en": "Hana to Harinezumi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
-   "title": {
-    "en": "Hadaka no Taiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5039789f-8fcb-4996-9788-e68147db360c",
-   "title": {
-    "en": "AniKoi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d065b454-df51-42d7-9599-2cf400e6c867",
-   "title": {
-    "en": "Tsuki ga Kirei desu ne"
-   },
-   "contentRating": "safe",
-   "score": 0.24338748,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "ru",
-    "en",
-    "it",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:30+00:00"
+ "updatedAt": "2023-12-10T18:15:59+00:00"
 }

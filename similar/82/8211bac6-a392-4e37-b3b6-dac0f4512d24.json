@@ -6,15 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0aa2520a-a18f-406d-8908-32cec22b88ac",
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
    "title": {
-    "en": "Kono Sekai ga Izure Horobu Koto wo, Ore dake ga Shitte Iru"
+    "en": "Majo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.2303648,
+   "score": 0.22345935,
    "languages": [
+    "vi",
+    "pt-br",
     "en",
-    "id"
+    "ru"
    ]
   },
   {
@@ -23,9 +25,21 @@
     "en": "A Genius' Isekai Overlord Legend - Fist of the North Star: Amiba Gaiden - Even if I Go to Another World, I Am a Genius!! Huh? Was I Mistaken..."
    },
    "contentRating": "safe",
-   "score": 0.21959938,
+   "score": 0.21807487,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0aa2520a-a18f-406d-8908-32cec22b88ac",
+   "title": {
+    "en": "Kono Sekai ga Izure Horobu Koto wo, Ore dake ga Shitte Iru"
+   },
+   "contentRating": "safe",
+   "score": 0.21368805,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -34,7 +48,7 @@
     "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
    },
    "contentRating": "safe",
-   "score": 0.21009544,
+   "score": 0.20958307,
    "languages": [
     "pt-br",
     "en",
@@ -42,6 +56,17 @@
     "id",
     "ru",
     "fr"
+   ]
+  },
+  {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.20857409,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -57,14 +82,17 @@
    ]
   },
   {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
    "title": {
-    "en": "Shin Megami Tensei - Kahn"
+    "en": "re CERVIN"
    },
    "contentRating": "safe",
-   "score": 0.20038898,
+   "score": 0.2007898,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -79,12 +107,34 @@
    ]
   },
   {
+   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "title": {
+    "en": "Shin Megami Tensei - Kahn"
+   },
+   "contentRating": "safe",
+   "score": 0.19995432,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7b9cc384-4c98-4d57-83a4-93be3e573d69",
+   "title": {
+    "en": "Isekai Kaeri no Yuusha wa, Dungeon ga Shutsugen shita Genjitsu Sekai de, Influencer natte Kane wo Kasegimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.19721769,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5f64d517-c4ea-40c0-a463-fcc069d39d3b",
    "title": {
     "en": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou"
    },
    "contentRating": "safe",
-   "score": 0.19728316,
+   "score": 0.19661467,
    "languages": [
     "id",
     "fr",
@@ -97,7 +147,7 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.19547103,
+   "score": 0.19455923,
    "languages": [
     "en",
     "ru"
@@ -109,20 +159,9 @@
     "en": "Star Wars - The Mandalorian"
    },
    "contentRating": "safe",
-   "score": 0.18946904,
+   "score": 0.18833998,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c9494b8e-9cf0-4d52-a99c-7db2ef255e73",
-   "title": {
-    "en": "Meiou-sama ga Tooru no desu yo!"
-   },
-   "contentRating": "safe",
-   "score": 0.18837641,
-   "languages": [
     "en"
    ]
   },
@@ -132,13 +171,24 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.18832384,
+   "score": 0.1877429,
    "languages": [
     "pt-br",
     "ru",
     "en",
     "uk",
     "id"
+   ]
+  },
+  {
+   "id": "c9494b8e-9cf0-4d52-a99c-7db2ef255e73",
+   "title": {
+    "en": "Meiou-sama ga Tooru no desu yo!"
+   },
+   "contentRating": "safe",
+   "score": 0.18750274,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -165,59 +215,7 @@
     "ar",
     "pl"
    ]
-  },
-  {
-   "id": "b4615bd9-7cbd-4243-a8a2-5c24671663e0",
-   "title": {
-    "en": "Yajin Tensei: Karate Survivor in Another World"
-   },
-   "contentRating": "safe",
-   "score": 0.1868311,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "113c8d8d-dc45-4e88-95b9-9950afca37e2",
-   "title": {
-    "en": "King's Proposal"
-   },
-   "contentRating": "safe",
-   "score": 0.18653382,
-   "languages": [
-    "id",
-    "uk",
-    "en"
-   ]
-  },
-  {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
-   "title": {
-    "en": "Kara no Kyoukai - The Garden of Sinners"
-   },
-   "contentRating": "safe",
-   "score": 0.18577892,
-   "languages": [
-    "ru",
-    "en",
-    "fr",
-    "es-la",
-    "pl"
-   ]
-  },
-  {
-   "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
-   "title": {
-    "en": "Zero no Shiniki"
-   },
-   "contentRating": "safe",
-   "score": 0.18297642,
-   "languages": [
-    "en",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:59+00:00"
+ "updatedAt": "2023-12-10T18:22:34+00:00"
 }

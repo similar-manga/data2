@@ -11,7 +11,7 @@
     "en": "Desert Tribe"
    },
    "contentRating": "safe",
-   "score": 0.24555686,
+   "score": 0.24379203,
    "languages": [
     "en"
    ]
@@ -22,10 +22,22 @@
     "en": "Starbiter Satsuki"
    },
    "contentRating": "safe",
-   "score": 0.22818783,
+   "score": 0.22536911,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "da469add-1a65-4df5-9393-662c1bd7f5e6",
+   "title": {
+    "en": "Sousei Mahou no Saigensha"
+   },
+   "contentRating": "safe",
+   "score": 0.22520079,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -34,7 +46,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.22041419,
+   "score": 0.21817689,
    "languages": [
     "en",
     "fr"
@@ -55,6 +67,20 @@
    ]
   },
   {
+   "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
+   "title": {
+    "en": "Rakshasa Street"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
    "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
    "title": {
     "en": "Can You Fall in Love With the Skeleton?"
@@ -72,27 +98,51 @@
    ]
   },
   {
-   "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
+   "id": "0ce0590f-a7da-47b0-8fce-9aeb9052309b",
    "title": {
-    "en": "Rakshasa Street"
+    "en": "Noragami - Clash, O Ye Gods of Calamity"
    },
    "contentRating": "safe",
-   "score": 0.21597971,
+   "score": 0.21295886,
    "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
+    "ar",
+    "it",
+    "en"
    ]
   },
   {
-   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
+   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
    "title": {
-    "en": "Valkyrie Profile - The Dark Alchemist"
+    "en": "Rad and Rinpu"
    },
    "contentRating": "safe",
-   "score": 0.2130642,
+   "score": 0.21295886,
    "languages": [
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "f9a7035e-917b-4fcd-9d01-ad6b14423f85",
+   "title": {
+    "en": "The Hero Girl and the Green Magician"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "41382cf2-feaf-4fa9-83a0-97f173ba2419",
+   "title": {
+    "en": "The God Who Can't Clean Up"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -110,39 +160,14 @@
    ]
   },
   {
-   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
+   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
    "title": {
-    "en": "Rad and Rinpu"
+    "en": "Monsters"
    },
    "contentRating": "safe",
    "score": 0.21295886,
    "languages": [
     "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "0ce0590f-a7da-47b0-8fce-9aeb9052309b",
-   "title": {
-    "en": "Noragami - Clash, O Ye Gods of Calamity"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
-    "ar",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "fbfe07a9-4b54-4a4f-a43c-da39eba8bd14",
-   "title": {
-    "en": "Wizardry Zeo"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
     "en"
    ]
   },
@@ -161,22 +186,6 @@
    ]
   },
   {
-   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
-   "title": {
-    "en": "FREAKS"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
-    "en",
-    "ru",
-    "it",
-    "th",
-    "hu",
-    "fr"
-   ]
-  },
-  {
    "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
    "title": {
     "en": "Naruto: Road to Ninja"
@@ -190,29 +199,16 @@
    ]
   },
   {
-   "id": "41382cf2-feaf-4fa9-83a0-97f173ba2419",
+   "id": "fbfe07a9-4b54-4a4f-a43c-da39eba8bd14",
    "title": {
-    "en": "The God Who Can't Clean Up"
+    "en": "Wizardry Zeo"
    },
    "contentRating": "safe",
    "score": 0.21295886,
    "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
-   "title": {
-    "en": "Monsters"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:04+00:00"
+ "updatedAt": "2023-12-10T18:25:19+00:00"
 }

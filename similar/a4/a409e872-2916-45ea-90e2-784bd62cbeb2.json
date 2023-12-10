@@ -6,6 +6,21 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0976963e-c0b4-4bdc-abde-831e9cb29cc2",
+   "title": {
+    "en": "Damedol to Sekai ni Hitori Dake no Fan"
+   },
+   "contentRating": "safe",
+   "score": 0.18533602,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
    "id": "1ee20ba6-881f-44f3-b3f3-7870f9513637",
    "title": {
     "en": "Ghost Sweeper Arai-kun"
@@ -19,12 +34,24 @@
    ]
   },
   {
+   "id": "4037090d-0c35-4f83-9fcf-cb126d327fa1",
+   "title": {
+    "en": "Monster Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.16677375,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "74f09180-ea04-4738-a7a8-f6e7c8c45f60",
    "title": {
     "en": "Slayers - The Road of the Ring"
    },
    "contentRating": "safe",
-   "score": 0.16429614,
+   "score": 0.16478404,
    "languages": [
     "pl",
     "en",
@@ -46,12 +73,12 @@
    ]
   },
   {
-   "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
+   "id": "f18a36d8-0225-4187-bbc2-c603ae6140bf",
    "title": {
-    "en": "Love You"
+    "en": "Kakugo no Susume - Voltex"
    },
    "contentRating": "safe",
-   "score": 0.16046788,
+   "score": 0.16020662,
    "languages": [
     "en"
    ]
@@ -80,12 +107,23 @@
    ]
   },
   {
-   "id": "f18a36d8-0225-4187-bbc2-c603ae6140bf",
+   "id": "66ed626c-a40c-4fc8-b351-e1a400a9f99c",
    "title": {
-    "en": "Kakugo no Susume - Voltex"
+    "en": "Kawaki's Childhood (Fan colored)"
    },
    "contentRating": "safe",
-   "score": 0.16020662,
+   "score": 0.16003957,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
+   "title": {
+    "en": "Love You"
+   },
+   "contentRating": "safe",
+   "score": 0.15957195,
    "languages": [
     "en"
    ]
@@ -96,7 +134,7 @@
     "en": "Leftover Prince"
    },
    "contentRating": "safe",
-   "score": 0.15682575,
+   "score": 0.1566298,
    "languages": [
     "pt-br",
     "en"
@@ -108,7 +146,7 @@
     "en": "Dangan Tenshi Fan Club"
    },
    "contentRating": "safe",
-   "score": 0.15496407,
+   "score": 0.15049002,
    "languages": [
     "en"
    ]
@@ -119,20 +157,32 @@
     "en": "Half-Yokai Dragon Slayer"
    },
    "contentRating": "safe",
-   "score": 0.14865929,
+   "score": 0.15040146,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
+   "id": "ec576f96-c206-4b53-8cda-021a309b35fe",
    "title": {
-    "en": "Houkago☆Idol"
+    "en": "Danzai no Majutsugari"
    },
    "contentRating": "safe",
-   "score": 0.14658226,
+   "score": 0.14763701,
    "languages": [
+    "pt-br",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "5bc940b5-fe46-4b89-8368-9b945442eb1b",
+   "title": {
+    "en": "What’s Wrong With Liking Big Tails?"
+   },
+   "contentRating": "safe",
+   "score": 0.14609881,
+   "languages": [
     "en"
    ]
   },
@@ -142,58 +192,11 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.14474246,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8ebc5141-8b54-47c0-97a0-908b566061a7",
-   "title": {
-    "en": "Evil Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.14128897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
-   "title": {
-    "en": "Monster Cage"
-   },
-   "contentRating": "safe",
-   "score": 0.14097117,
-   "languages": [
-    "en",
-    "pl",
-    "bg"
-   ]
-  },
-  {
-   "id": "c329dd29-c760-4d53-8871-cc780873d5ee",
-   "title": {
-    "en": "Joze, the Faithful Dog"
-   },
-   "contentRating": "safe",
-   "score": 0.1401808,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
-   "title": {
-    "en": "Foo Fighter Fuji"
-   },
-   "contentRating": "safe",
-   "score": 0.1401808,
+   "score": 0.14582294,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:31+00:00"
+ "updatedAt": "2023-12-10T18:26:37+00:00"
 }

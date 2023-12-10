@@ -6,12 +6,23 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "bc41ee4b-9a40-402b-babd-55c230094325",
+   "title": {
+    "en": "Touge Oni"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21256395,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "936765df-fd02-4659-9158-c1cefbbf4c51",
    "title": {
     "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
    },
    "contentRating": "suggestive",
-   "score": 0.21521075,
+   "score": 0.21241839,
    "languages": [
     "ru",
     "en",
@@ -20,23 +31,12 @@
    ]
   },
   {
-   "id": "bc41ee4b-9a40-402b-babd-55c230094325",
-   "title": {
-    "en": "Touge Oni"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21423002,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a50b4227-e65e-465a-8aaa-3a4975fdb446",
    "title": {
     "en": "Dead Maximum"
    },
    "contentRating": "suggestive",
-   "score": 0.21159373,
+   "score": 0.20985346,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "There's a Demon Lord on the Floor"
    },
    "contentRating": "suggestive",
-   "score": 0.20928507,
+   "score": 0.2014261,
    "languages": [
     "pt-br",
     "fr",
@@ -61,7 +61,7 @@
     "en": "Ane Naru Mono"
    },
    "contentRating": "suggestive",
-   "score": 0.20127448,
+   "score": 0.19615802,
    "languages": [
     "pt-br",
     "en",
@@ -79,7 +79,7 @@
     "ja-ro": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.18905082,
+   "score": 0.1876362,
    "languages": [
     "en",
     "ru",
@@ -95,28 +95,12 @@
     "en": "Realist Maou Niyoru Seiiki Naki Isekai Kaikaku"
    },
    "contentRating": "suggestive",
-   "score": 0.18421113,
+   "score": 0.17896314,
    "languages": [
     "en",
     "fr",
     "pt-br",
     "id",
-    "ru"
-   ]
-  },
-  {
-   "id": "bd935ca2-c9b6-4f2b-a3b3-77402d2337d8",
-   "title": {
-    "en": "Maou Gakuen no Hangyakusha"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18233603,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "it",
-    "es-la",
     "ru"
    ]
   },
@@ -137,11 +121,27 @@
     "en": "Despair Memory Gundam Sequel"
    },
    "contentRating": "suggestive",
-   "score": 0.17527205,
+   "score": 0.17431115,
    "languages": [
     "en",
     "vi",
     "pt-br"
+   ]
+  },
+  {
+   "id": "bd935ca2-c9b6-4f2b-a3b3-77402d2337d8",
+   "title": {
+    "en": "Maou Gakuen no Hangyakusha"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17267467,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "it",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -150,7 +150,7 @@
     "en": "A Skeleton Who Was The Brave"
    },
    "contentRating": "suggestive",
-   "score": 0.17252165,
+   "score": 0.17166652,
    "languages": [
     "en",
     "ru",
@@ -163,7 +163,18 @@
     "en": "Saikyou Skill \"Inochigoi\" de Kuyashii Kedo Musou Shichau Moto Maou-sama no Sekai Seifuku Katsudou"
    },
    "contentRating": "suggestive",
-   "score": 0.16819751,
+   "score": 0.16601111,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b09851d-1b91-4d33-b0fe-c45d233c5c3d",
+   "title": {
+    "en": "YoYoKuus"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16452384,
    "languages": [
     "en"
    ]
@@ -174,21 +185,10 @@
     "en": "Judith of Conviction"
    },
    "contentRating": "suggestive",
-   "score": 0.16615312,
+   "score": 0.16439019,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "2b09851d-1b91-4d33-b0fe-c45d233c5c3d",
-   "title": {
-    "en": "YoYoKuus"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16485362,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -212,7 +212,7 @@
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.16114014,
+   "score": 0.16088916,
    "languages": [
     "es",
     "en",
@@ -221,5 +221,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:56+00:00"
+ "updatedAt": "2023-12-10T18:14:22+00:00"
 }

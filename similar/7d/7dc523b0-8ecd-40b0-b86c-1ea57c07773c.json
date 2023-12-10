@@ -11,32 +11,9 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.21718584,
+   "score": 0.2169954,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
-   "title": {
-    "en": "Star Wars - The Mandalorian"
-   },
-   "contentRating": "safe",
-   "score": 0.21607175,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "374b1da0-90c0-490e-b8e8-c74aaa468da6",
-   "title": {
-    "en": "Eirun Last Code"
-   },
-   "contentRating": "safe",
-   "score": 0.21544152,
-   "languages": [
     "en"
    ]
   },
@@ -58,6 +35,29 @@
    ]
   },
   {
+   "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
+   "title": {
+    "en": "Star Wars - The Mandalorian"
+   },
+   "contentRating": "safe",
+   "score": 0.21520613,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "374b1da0-90c0-490e-b8e8-c74aaa468da6",
+   "title": {
+    "en": "Eirun Last Code"
+   },
+   "contentRating": "safe",
+   "score": 0.21335249,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
    "title": {
     "en": "The Planet of Sutakola"
@@ -74,7 +74,7 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.21300106,
+   "score": 0.21237099,
    "languages": [
     "en",
     "ru"
@@ -86,7 +86,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.21191482,
+   "score": 0.21073334,
    "languages": [
     "en"
    ]
@@ -97,7 +97,7 @@
     "en": "Battle Angel Alita: Mars Chronicle"
    },
    "contentRating": "safe",
-   "score": 0.20285138,
+   "score": 0.2019879,
    "languages": [
     "zh-hk",
     "en",
@@ -110,22 +110,11 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.20088473,
+   "score": 0.20045544,
    "languages": [
     "en",
     "ru",
     "pt-br"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.19575249,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -134,7 +123,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.1929515,
+   "score": 0.19208218,
    "languages": [
     "zh-hk",
     "en",
@@ -171,7 +160,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.19006956,
+   "score": 0.18904361,
    "languages": [
     "pt-br",
     "en",
@@ -181,44 +170,55 @@
    ]
   },
   {
+   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "title": {
+    "en": "Shin Megami Tensei - Kahn"
+   },
+   "contentRating": "safe",
+   "score": 0.18535256,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f0954799-3cbd-4be0-805e-29161edfa312",
    "title": {
     "en": "Death Edge"
    },
    "contentRating": "safe",
-   "score": 0.18592873,
+   "score": 0.18461192,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
    "title": {
-    "en": "Shin Megami Tensei - Kahn"
+    "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.18554199,
+   "score": 0.18328935,
    "languages": [
-    "en"
+    "pt-br",
+    "ru",
+    "en",
+    "uk",
+    "id"
    ]
   },
   {
-   "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
+   "id": "dc935f08-da21-44a6-ba57-ddfade8216d0",
    "title": {
-    "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
+    "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.18353778,
+   "score": 0.18262768,
    "languages": [
-    "pt-br",
     "en",
-    "ar",
-    "id",
-    "ru",
-    "fr"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:48+00:00"
+ "updatedAt": "2023-12-10T18:22:06+00:00"
 }

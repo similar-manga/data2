@@ -11,22 +11,10 @@
     "en": "Spicy Recipe"
    },
    "contentRating": "safe",
-   "score": 0.3038643,
+   "score": 0.3029224,
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
-   "title": {
-    "en": "Kemono Ni Botsuraku Ojousama"
-   },
-   "contentRating": "safe",
-   "score": 0.29900548,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -35,10 +23,22 @@
     "en": "Sayonara Terminal"
    },
    "contentRating": "safe",
-   "score": 0.298876,
+   "score": 0.29867747,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
+   "title": {
+    "en": "Kemono Ni Botsuraku Ojousama"
+   },
+   "contentRating": "safe",
+   "score": 0.298245,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -47,7 +47,7 @@
     "en": "Koi"
    },
    "contentRating": "safe",
-   "score": 0.2955169,
+   "score": 0.2952005,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "A Sloppy Girl Wishes for Love"
    },
    "contentRating": "safe",
-   "score": 0.29430187,
+   "score": 0.2939855,
    "languages": [
     "pt-br",
     "en"
@@ -70,7 +70,7 @@
     "en": "Tonari no Kimi"
    },
    "contentRating": "safe",
-   "score": 0.29295018,
+   "score": 0.2928792,
    "languages": [
     "en",
     "vi"
@@ -117,23 +117,24 @@
    ]
   },
   {
+   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
+   "title": {
+    "en": "Liar Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.28098357,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "5307712b-a34a-498b-89ef-51949f133a1d",
    "title": {
     "en": "The Night We Become More Than Friends"
    },
    "contentRating": "safe",
-   "score": 0.27606827,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "214a442e-4dc4-4de4-9df0-538d18a04f83",
-   "title": {
-    "en": "Damage Danshi"
-   },
-   "contentRating": "safe",
-   "score": 0.27082166,
+   "score": 0.27494615,
    "languages": [
     "en"
    ]
@@ -144,7 +145,18 @@
     "en": "Hajimete..."
    },
    "contentRating": "safe",
-   "score": 0.26937416,
+   "score": 0.2725663,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "214a442e-4dc4-4de4-9df0-538d18a04f83",
+   "title": {
+    "en": "Damage Danshi"
+   },
+   "contentRating": "safe",
+   "score": 0.27051446,
    "languages": [
     "en"
    ]
@@ -155,29 +167,7 @@
     "en": "A Love Song for All"
    },
    "contentRating": "safe",
-   "score": 0.26912344,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c75bea5-e4d2-41dc-a13e-f65f8d279f92",
-   "title": {
-    "en": "Hagure Roji"
-   },
-   "contentRating": "safe",
-   "score": 0.26758233,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5420fd6-8a2c-422d-b617-0371ecf5e005",
-   "title": {
-    "en": "Watashi to Kare to Mou Hitori♡"
-   },
-   "contentRating": "safe",
-   "score": 0.26614296,
+   "score": 0.26784292,
    "languages": [
     "en"
    ]
@@ -188,13 +178,24 @@
     "en": "Kiss de Mezamete Hatto Shite"
    },
    "contentRating": "safe",
-   "score": 0.26540723,
+   "score": 0.26734403,
    "languages": [
     "fr",
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "7c75bea5-e4d2-41dc-a13e-f65f8d279f92",
+   "title": {
+    "en": "Hagure Roji"
+   },
+   "contentRating": "safe",
+   "score": 0.2670259,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:45+00:00"
+ "updatedAt": "2023-12-10T18:13:53+00:00"
 }

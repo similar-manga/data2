@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8e344853-938e-4ff7-a891-222a96c47a20",
+   "title": {
+    "en": "Sensei, We're With You!"
+   },
+   "contentRating": "safe",
+   "score": 0.31656435,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ca98fe66-7b88-49a8-83b0-511fca029237",
    "title": {
     "en": "Love Lab"
    },
    "contentRating": "safe",
-   "score": 0.29768994,
+   "score": 0.296828,
    "languages": [
     "en",
     "es-la",
@@ -24,7 +35,7 @@
     "en": "A Chinese Wife and an Otaku Husband"
    },
    "contentRating": "safe",
-   "score": 0.2942222,
+   "score": 0.29248616,
    "languages": [
     "en"
    ]
@@ -35,7 +46,7 @@
     "en": "Chitose Get You!!"
    },
    "contentRating": "safe",
-   "score": 0.2856015,
+   "score": 0.2845039,
    "languages": [
     "en"
    ]
@@ -58,11 +69,22 @@
     "en": "Hidamari Sketch"
    },
    "contentRating": "safe",
-   "score": 0.28059274,
+   "score": 0.2800802,
    "languages": [
     "en",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "3bee3eb3-5cfc-4711-b4b1-844ae5dca346",
+   "title": {
+    "en": "Dustbox 2.5"
+   },
+   "contentRating": "safe",
+   "score": 0.27990058,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -71,7 +93,7 @@
     "en": "A-Channel"
    },
    "contentRating": "safe",
-   "score": 0.2782744,
+   "score": 0.2767328,
    "languages": [
     "en",
     "es",
@@ -84,9 +106,20 @@
     "en": "Boku Koi Conductor"
    },
    "contentRating": "safe",
-   "score": 0.27623972,
+   "score": 0.2758064,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.27279282,
+   "languages": [
     "en"
    ]
   },
@@ -96,7 +129,7 @@
     "en": "Morita-san wa Mukuchi"
    },
    "contentRating": "safe",
-   "score": 0.27186152,
+   "score": 0.27103028,
    "languages": [
     "en"
    ]
@@ -107,7 +140,7 @@
     "en": "Yurumates"
    },
    "contentRating": "safe",
-   "score": 0.27118245,
+   "score": 0.2684762,
    "languages": [
     "en"
    ]
@@ -118,45 +151,35 @@
     "en": "Gu-Pan!"
    },
    "contentRating": "safe",
-   "score": 0.26859492,
+   "score": 0.26788223,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "5853b091-5849-4303-81ad-0e06b071dee0",
+   "id": "54431c18-d881-45b7-986a-ae5b15a84acd",
    "title": {
-    "en": "Yuyushiki"
+    "en": "Nagisa Wants Taiyou All to Herself"
    },
    "contentRating": "safe",
    "score": 0.25922194,
    "languages": [
+    "es-la",
     "en"
    ]
   },
   {
-   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
+   "id": "3c982800-dd68-4650-8517-e4e052ad51be",
    "title": {
-    "en": "Little Busters! EX The 4koma"
+    "en": "○○na Maid-san"
    },
    "contentRating": "safe",
    "score": 0.25922194,
    "languages": [
     "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "ad665f6c-f932-44c1-aad4-8307441a9756",
-   "title": {
-    "en": "Kiniro Mosaic"
-   },
-   "contentRating": "safe",
-   "score": 0.25922194,
-   "languages": [
-    "en",
-    "id"
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -171,34 +194,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "651e0896-dc17-4399-a2f3-f85eb93402d4",
-   "title": {
-    "en": "Dekoboko Girlish"
-   },
-   "contentRating": "safe",
-   "score": 0.2569334,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "4665f772-9fea-4137-966c-b0ceb0162666",
-   "title": {
-    "en": "Yo-Jo Life!"
-   },
-   "contentRating": "safe",
-   "score": 0.2554096,
-   "languages": [
-    "id",
-    "en",
-    "ru",
-    "pl",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:11+00:00"
+ "updatedAt": "2023-12-10T18:35:56+00:00"
 }

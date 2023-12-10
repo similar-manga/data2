@@ -11,7 +11,7 @@
     "en": "Trap"
    },
    "contentRating": "safe",
-   "score": 0.30568627,
+   "score": 0.3013818,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Hirahira no Tree"
    },
    "contentRating": "safe",
-   "score": 0.2754497,
+   "score": 0.27420858,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Dousokai"
    },
    "contentRating": "safe",
-   "score": 0.27436906,
+   "score": 0.27361342,
    "languages": [
     "en",
     "pl"
@@ -69,7 +69,7 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.27133986,
+   "score": 0.27219233,
    "languages": [
     "en",
     "pl",
@@ -83,7 +83,18 @@
     "en": "Hitotsu no Hana"
    },
    "contentRating": "safe",
-   "score": 0.26949173,
+   "score": 0.26887825,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ca8bd8e8-7f56-4fd7-a945-782fc076c0f4",
+   "title": {
+    "en": "Anata Dake wo Matteru"
+   },
+   "contentRating": "safe",
+   "score": 0.26578468,
    "languages": [
     "en"
    ]
@@ -94,7 +105,7 @@
     "en": "Namida no Memory"
    },
    "contentRating": "safe",
-   "score": 0.26147217,
+   "score": 0.26151344,
    "languages": [
     "en"
    ]
@@ -105,10 +116,32 @@
     "en": "God's in His Heaven"
    },
    "contentRating": "safe",
-   "score": 0.25934115,
+   "score": 0.25945342,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "be279e37-105e-4a6d-9519-c36db18ef6fe",
+   "title": {
+    "en": "Boku no Diamond Star"
+   },
+   "contentRating": "safe",
+   "score": 0.25742802,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "534e868e-97ea-426f-b760-58bc3baeb0bb",
+   "title": {
+    "en": "Tasogare, Kimi ni Ai ni Iku"
+   },
+   "contentRating": "safe",
+   "score": 0.25711057,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -117,7 +150,7 @@
     "en": "Wakaresaseya no Koi"
    },
    "contentRating": "safe",
-   "score": 0.25421536,
+   "score": 0.25419852,
    "languages": [
     "en"
    ]
@@ -148,43 +181,9 @@
    ]
   },
   {
-   "id": "5a880fc2-9020-429b-a7f5-240f8ec0daad",
+   "id": "423ef7d6-c45b-4568-965e-4186488c2f0c",
    "title": {
-    "en": "One Love"
-   },
-   "contentRating": "safe",
-   "score": 0.25396827,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "b80ff652-a454-4b93-a4f0-4c732ce202a3",
-   "title": {
-    "en": "Poolside"
-   },
-   "contentRating": "safe",
-   "score": 0.25396827,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6af16305-372c-4d1b-b673-84e81444ff81",
-   "title": {
-    "en": "Yukemuri Tamatebako"
-   },
-   "contentRating": "safe",
-   "score": 0.25396827,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2014b2e-a7ef-4b87-beca-cca865cd00d8",
-   "title": {
-    "en": "Kurayami no Shutter Speed"
+    "en": "Triangle Bookend"
    },
    "contentRating": "safe",
    "score": 0.25396827,
@@ -193,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:12+00:00"
+ "updatedAt": "2023-12-10T18:23:06+00:00"
 }

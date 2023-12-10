@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9108cd58-5da6-4f03-b94d-29951b4d8d9b",
+   "title": {
+    "en": "Have You Heard the Rumors About Mizuki?"
+   },
+   "contentRating": "safe",
+   "score": 0.61392003,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "82c6b4cd-9137-44cf-ad80-32fae40ca499",
    "title": {
     "en": "Renri no Eda"
    },
    "contentRating": "safe",
-   "score": 0.37671497,
+   "score": 0.35504398,
    "languages": [
     "en",
     "vi"
@@ -23,7 +34,7 @@
     "en": "You can't be brave in front of your best friend"
    },
    "contentRating": "safe",
-   "score": 0.34168217,
+   "score": 0.34284872,
    "languages": [
     "vi",
     "en",
@@ -37,7 +48,7 @@
     "en": "Houkago Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.34164485,
+   "score": 0.3366541,
    "languages": [
     "tl",
     "en"
@@ -49,23 +60,11 @@
     "en": "Kono Mama ja Dame Mitai desu"
    },
    "contentRating": "safe",
-   "score": 0.31688786,
+   "score": 0.3105699,
    "languages": [
     "en",
     "pt-br",
     "pl"
-   ]
-  },
-  {
-   "id": "c8e79f20-7f84-4b95-bce4-9986c12ec873",
-   "title": {
-    "en": "How Can I Be Your Model? There's Just No Way!!"
-   },
-   "contentRating": "safe",
-   "score": 0.30029973,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -74,9 +73,49 @@
     "en": "My Wonderful Sweets"
    },
    "contentRating": "safe",
-   "score": 0.2958717,
+   "score": 0.31016982,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c8e79f20-7f84-4b95-bce4-9986c12ec873",
+   "title": {
+    "en": "How Can I Be Your Model? There's Just No Way!!"
+   },
+   "contentRating": "safe",
+   "score": 0.30203754,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
+   "title": {
+    "en": "Shigatsu no Kimi, Spica."
+   },
+   "contentRating": "safe",
+   "score": 0.30071762,
+   "languages": [
+    "es-la",
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "842cfde9-da4d-4637-97e3-d084685cabd8",
+   "title": {
+    "en": "Delinquent High School Girl and Class Rep"
+   },
+   "contentRating": "safe",
+   "score": 0.29684374,
+   "languages": [
+    "en",
+    "id",
+    "it",
+    "es-la"
    ]
   },
   {
@@ -98,9 +137,49 @@
     "en": "Reversi"
    },
    "contentRating": "safe",
-   "score": 0.2819807,
+   "score": 0.27894956,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "a6a9c19f-ccc5-44af-8bec-7da090220bd3",
+   "title": {
+    "en": "Childhood Friend, Big Love"
+   },
+   "contentRating": "safe",
+   "score": 0.27805457,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "4de70c96-566b-4cdb-88f4-6c7fd5184991",
+   "title": {
+    "en": "Doushitara Osananajimi ♀️ no Kanojo ni Naremasu Ka!?"
+   },
+   "contentRating": "safe",
+   "score": 0.27759647,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "36cba5c2-89e4-493c-8535-9324e84b88a9",
+   "title": {
+    "en": "Melon Soda and Vanilla Ice Cream"
+   },
+   "contentRating": "safe",
+   "score": 0.27569538,
+   "languages": [
+    "ru",
+    "uk",
+    "es-la",
     "en"
    ]
   },
@@ -110,34 +189,9 @@
     "en": "Triangle"
    },
    "contentRating": "safe",
-   "score": 0.2759133,
+   "score": 0.27331063,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "36cba5c2-89e4-493c-8535-9324e84b88a9",
-   "title": {
-    "en": "Melon Soda and Vanilla Ice Cream"
-   },
-   "contentRating": "safe",
-   "score": 0.27580428,
-   "languages": [
-    "ru",
-    "uk",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
-   "title": {
-    "en": "Cream"
-   },
-   "contentRating": "safe",
-   "score": 0.27412897,
-   "languages": [
     "en"
    ]
   },
@@ -147,61 +201,13 @@
     "en": "Wishing on the Moon"
    },
    "contentRating": "safe",
-   "score": 0.27224964,
+   "score": 0.27217272,
    "languages": [
     "en",
     "tr",
     "es"
    ]
-  },
-  {
-   "id": "618c64b3-b90d-4652-aa8f-d1ffaae9e233",
-   "title": {
-    "en": "The Box of Letters"
-   },
-   "contentRating": "safe",
-   "score": 0.27150297,
-   "languages": [
-    "it",
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "acb9c9bc-63cf-46be-9f2c-95197344b693",
-   "title": {
-    "en": "Chocolate Kiss Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.26996264,
-   "languages": [
-    "es",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "66f05752-e27f-4c3e-a2c3-deb5c4d1406d",
-   "title": {
-    "en": "Kimi Ochi"
-   },
-   "contentRating": "safe",
-   "score": 0.26822102,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c87516d4-6d82-4400-a353-09ccfc6fb523",
-   "title": {
-    "en": "The Girl Who Buys the Same Drink as Her Male Friend Every Single Day"
-   },
-   "contentRating": "safe",
-   "score": 0.26673874,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:33+00:00"
+ "updatedAt": "2023-12-10T18:21:26+00:00"
 }

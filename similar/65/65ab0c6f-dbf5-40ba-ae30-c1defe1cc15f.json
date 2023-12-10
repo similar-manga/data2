@@ -11,7 +11,7 @@
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.32533303,
+   "score": 0.3230375,
    "languages": [
     "de",
     "es-la",
@@ -24,7 +24,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.3142207,
+   "score": 0.3132199,
    "languages": [
     "en",
     "fr"
@@ -36,7 +36,7 @@
     "en": "Murahagane"
    },
    "contentRating": "safe",
-   "score": 0.28263292,
+   "score": 0.28201422,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.28097233,
+   "score": 0.28107065,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.27012196,
+   "score": 0.2704235,
    "languages": [
     "fr",
     "pt-br",
@@ -71,7 +71,7 @@
     "en": "Beelzebub (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.27011475,
+   "score": 0.26957473,
    "languages": [
     "en",
     "pl",
@@ -84,7 +84,7 @@
     "en": "Sand Storm Boarders"
    },
    "contentRating": "safe",
-   "score": 0.26254472,
+   "score": 0.26317906,
    "languages": [
     "en"
    ]
@@ -106,7 +106,18 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.25203964,
+   "score": 0.25164616,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
+   "title": {
+    "en": "Alien Nine Special"
+   },
+   "contentRating": "safe",
+   "score": 0.23377874,
    "languages": [
     "en"
    ]
@@ -117,7 +128,7 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.23342684,
+   "score": 0.23351203,
    "languages": [
     "en"
    ]
@@ -128,24 +139,13 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.23274262,
+   "score": 0.23305121,
    "languages": [
     "pt-br",
     "pl",
     "en",
     "it",
     "hu"
-   ]
-  },
-  {
-   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
-   "title": {
-    "en": "Alien Nine Special"
-   },
-   "contentRating": "safe",
-   "score": 0.23163675,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -161,19 +161,6 @@
    ]
   },
   {
-   "id": "6c583845-8276-4f80-b90b-902959b5d240",
-   "title": {
-    "en": "Tokyo Depato Sensou Taikenki"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
    "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
    "title": {
     "en": "CROSS"
@@ -186,9 +173,21 @@
    ]
   },
   {
-   "id": "ce2d29a0-0851-4eff-9ab0-c9f4e64c9b5a",
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
    "title": {
-    "en": "Dr. Haido's Experiment Note"
+    "en": "Otter No.11"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
+   "title": {
+    "en": "Selling Me Softly"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -198,5 +197,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:47+00:00"
+ "updatedAt": "2023-12-10T18:19:19+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c5eb230c-7955-4753-857e-6d4b73fd0d26",
+   "title": {
+    "en": "Doomsday Revenge Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.23728728,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
    "title": {
     "en": "Kiba no Tabishounin - The Arms Peddler"
    },
    "contentRating": "safe",
-   "score": 0.2143442,
+   "score": 0.21386258,
    "languages": [
     "pt-br",
     "en",
@@ -26,7 +37,7 @@
     "en": "Kono Sekai ga Izure Horobu Koto wo, Ore dake ga Shitte Iru"
    },
    "contentRating": "safe",
-   "score": 0.19853856,
+   "score": 0.19835763,
    "languages": [
     "en",
     "id"
@@ -38,7 +49,7 @@
     "en": "Me \u0026 the Devil Blues"
    },
    "contentRating": "safe",
-   "score": 0.1984314,
+   "score": 0.1974444,
    "languages": [
     "ru",
     "pt-br",
@@ -47,14 +58,17 @@
    ]
   },
   {
-   "id": "ea34c5c0-7534-458a-a922-df1e66b51098",
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
    "title": {
-    "en": "Le Chevalier d'Eon"
+    "en": "re CERVIN"
    },
    "contentRating": "safe",
-   "score": 0.18935774,
+   "score": 0.19127414,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -63,8 +77,31 @@
     "en": "Evil Eater"
    },
    "contentRating": "safe",
-   "score": 0.18913601,
+   "score": 0.18890798,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ea34c5c0-7534-458a-a922-df1e66b51098",
+   "title": {
+    "en": "Le Chevalier d'Eon"
+   },
+   "contentRating": "safe",
+   "score": 0.18876176,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
+   "title": {
+    "en": "Balemount"
+   },
+   "contentRating": "safe",
+   "score": 0.18875654,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -74,7 +111,7 @@
     "en": "Tank Chair"
    },
    "contentRating": "safe",
-   "score": 0.18687616,
+   "score": 0.18685019,
    "languages": [
     "vi",
     "en",
@@ -84,13 +121,27 @@
    ]
   },
   {
-   "id": "ebbe576d-48f0-4af5-9b63-75af63ee413c",
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
    "title": {
-    "en": "Bokura no Q"
+    "en": "Ghost Story Loop"
    },
    "contentRating": "safe",
-   "score": 0.18161842,
+   "score": 0.18423995,
    "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.18209219,
+   "languages": [
+    "ru",
+    "tr",
     "en"
    ]
   },
@@ -100,10 +151,21 @@
     "en": "Dantalian no Shoka"
    },
    "contentRating": "safe",
-   "score": 0.1815994,
+   "score": 0.1809203,
    "languages": [
     "es",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "ebbe576d-48f0-4af5-9b63-75af63ee413c",
+   "title": {
+    "en": "Bokura no Q"
+   },
+   "contentRating": "safe",
+   "score": 0.18061781,
+   "languages": [
     "en"
    ]
   },
@@ -113,7 +175,7 @@
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.18070842,
+   "score": 0.18060817,
    "languages": [
     "en",
     "es-la",
@@ -124,93 +186,27 @@
    ]
   },
   {
-   "id": "8211bac6-a392-4e37-b3b6-dac0f4512d24",
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
    "title": {
-    "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou"
+    "en": "Mashira"
    },
    "contentRating": "safe",
-   "score": 0.17136005,
-   "languages": [
-    "ru",
-    "it",
-    "en",
-    "id",
-    "pt-br",
-    "es",
-    "vi"
-   ]
-  },
-  {
-   "id": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
-   "title": {
-    "en": "Vermillion"
-   },
-   "contentRating": "safe",
-   "score": 0.17111754,
+   "score": 0.17861179,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
    "title": {
-    "en": "Shin Megami Tensei - Kahn"
+    "en": "Kyoumeigai"
    },
    "contentRating": "safe",
-   "score": 0.17094989,
+   "score": 0.17861179,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
-   "title": {
-    "en": "More Than Human: Spiderman Another Story!!"
-   },
-   "contentRating": "safe",
-   "score": 0.17043738,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
-   "title": {
-    "en": "Kinnikuman"
-   },
-   "contentRating": "safe",
-   "score": 0.16839682,
-   "languages": [
-    "pt-br",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
-   "title": {
-    "en": "Star Wars - The Mandalorian"
-   },
-   "contentRating": "safe",
-   "score": 0.16704738,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
-   "title": {
-    "en": "Ryoko's Case File"
-   },
-   "contentRating": "safe",
-   "score": 0.16525562,
-   "languages": [
-    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:43+00:00"
+ "updatedAt": "2023-12-10T18:34:49+00:00"
 }

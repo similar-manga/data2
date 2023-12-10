@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "082857f5-740c-4556-9625-479d52124eea",
+   "title": {
+    "en": "Mazinkaiser vs Shin Getter Robo"
+   },
+   "contentRating": "safe",
+   "score": 0.4013293,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
    "title": {
     "en": "VERSUS"
@@ -51,7 +64,7 @@
     "en": "Shin Kamen Rider - Prologue"
    },
    "contentRating": "safe",
-   "score": 0.16280958,
+   "score": 0.16253194,
    "languages": [
     "pt-br",
     "en"
@@ -83,12 +96,30 @@
    ]
   },
   {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.15348181,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
+  },
+  {
    "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
    "title": {
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.15313512,
+   "score": 0.15287986,
    "languages": [
     "ar",
     "uk",
@@ -111,7 +142,7 @@
     "en": "Sentai Daishikkaku"
    },
    "contentRating": "safe",
-   "score": 0.14946908,
+   "score": 0.14927898,
    "languages": [
     "pt-br",
     "en",
@@ -141,7 +172,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.14302965,
+   "score": 0.14253537,
    "languages": [
     "en",
     "pt-br"
@@ -153,12 +184,25 @@
     "en": "Space Battleship Silver Seven"
    },
    "contentRating": "safe",
-   "score": 0.13651435,
+   "score": 0.13594617,
    "languages": [
     "fr",
     "es-la",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "48db4722-3e23-46f2-9132-680dddb67266",
+   "title": {
+    "en": "Meikyuu no Ou"
+   },
+   "contentRating": "safe",
+   "score": 0.13005313,
+   "languages": [
+    "pt-br",
+    "en",
+    "tr"
    ]
   },
   {
@@ -200,64 +244,17 @@
    ]
   },
   {
-   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+   "id": "4037090d-0c35-4f83-9fcf-cb126d327fa1",
    "title": {
-    "en": "Mao"
+    "en": "Monster Hunter"
    },
    "contentRating": "safe",
-   "score": 0.12356949,
+   "score": 0.12445384,
    "languages": [
-    "en",
-    "pt-br",
-    "zh-hk",
-    "ca",
-    "zh",
-    "pl",
-    "ru",
-    "es"
-   ]
-  },
-  {
-   "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
-   "title": {
-    "en": "NOA"
-   },
-   "contentRating": "safe",
-   "score": 0.12305922,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "it",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "1ee20ba6-881f-44f3-b3f3-7870f9513637",
-   "title": {
-    "en": "Ghost Sweeper Arai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.11872172,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
-   "title": {
-    "en": "Repeat"
-   },
-   "contentRating": "safe",
-   "score": 0.11762265,
-   "languages": [
-    "it",
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:32+00:00"
+ "updatedAt": "2023-12-10T18:10:28+00:00"
 }

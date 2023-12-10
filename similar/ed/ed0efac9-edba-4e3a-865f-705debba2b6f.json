@@ -6,13 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1727175e-da36-4469-ae2e-5dc14a7a269a",
+   "title": {
+    "en": "My Little Bookstore"
+   },
+   "contentRating": "safe",
+   "score": 0.6301892,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5cb76f8b-602f-4c3a-b70f-64c1a6dbcc56",
    "title": {
     "en": "Book-bound Battle"
    },
    "contentRating": "safe",
-   "score": 0.3271835,
+   "score": 0.3248637,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7b8446e7-9905-43d7-a826-a646bdbf60f9",
+   "title": {
+    "en": "Our House is a Haunted Rental Bookstore"
+   },
+   "contentRating": "safe",
+   "score": 0.3063053,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "d42ac71c-dab2-4e51-83af-b461d6be3169",
+   "title": {
+    "en": "Karakida-ke no Kosho Gurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2961965,
+   "languages": [
+    "zh",
+    "es-la",
     "en"
    ]
   },
@@ -22,7 +58,7 @@
     "en": "The Reborn Super Doctor"
    },
    "contentRating": "safe",
-   "score": 0.27642217,
+   "score": 0.27899784,
    "languages": [
     "en"
    ]
@@ -33,7 +69,7 @@
     "en": "I'm Desperate to Get Stronger"
    },
    "contentRating": "safe",
-   "score": 0.26500908,
+   "score": 0.26622346,
    "languages": [
     "en"
    ]
@@ -44,11 +80,27 @@
     "en": "The King of Special Forces With a Negative Emotional Quotient Was Reborn on Campus but Was Unexpectedly Welcomed by Girls?!"
    },
    "contentRating": "safe",
-   "score": 0.26054043,
+   "score": 0.26508233,
    "languages": [
     "en",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "12516ba2-94b0-4a20-abff-f1e488e0da39",
+   "title": {
+    "en": "The Doctor's Supremacy"
+   },
+   "contentRating": "safe",
+   "score": 0.26206753,
+   "languages": [
+    "id",
+    "en",
+    "tr",
+    "fr",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -57,7 +109,18 @@
     "en": "Zhi Zun Shen Mo"
    },
    "contentRating": "safe",
-   "score": 0.25784385,
+   "score": 0.2599306,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5282944-a89b-423f-b23f-46a9ed2d3654",
+   "title": {
+    "en": "Don't Mess With Mistress"
+   },
+   "contentRating": "safe",
+   "score": 0.25196806,
    "languages": [
     "en"
    ]
@@ -68,21 +131,10 @@
     "en": "Moon Slayer"
    },
    "contentRating": "safe",
-   "score": 0.24980311,
+   "score": 0.25096697,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "a5282944-a89b-423f-b23f-46a9ed2d3654",
-   "title": {
-    "en": "Don't Mess With Mistress"
-   },
-   "contentRating": "safe",
-   "score": 0.24968721,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -91,7 +143,7 @@
     "en": "The Poisonous Genius Consort is too Arrogant"
    },
    "contentRating": "safe",
-   "score": 0.24942924,
+   "score": 0.25012103,
    "languages": [
     "id",
     "en"
@@ -103,30 +155,7 @@
     "en": "The Constellations Are My Disciples"
    },
    "contentRating": "safe",
-   "score": 0.24815932,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3e0c8605-4a94-4e13-83e4-510bb84a0323",
-   "title": {
-    "en": "The Cape Sunazuri Bookstore"
-   },
-   "contentRating": "safe",
-   "score": 0.24259065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "51cd7290-bdef-41d7-a860-ec23f3741da6",
-   "title": {
-    "en": "Duo Xuan Shi"
-   },
-   "contentRating": "safe",
-   "score": 0.24235219,
+   "score": 0.24961072,
    "languages": [
     "en",
     "pt-br"
@@ -138,18 +167,7 @@
     "en": "Doomsday Summoning Frenzy"
    },
    "contentRating": "safe",
-   "score": 0.2414766,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a5ca50c2-2620-42b2-9fc1-48c25b54a74e",
-   "title": {
-    "en": "Rebirth of Legendary Doctor"
-   },
-   "contentRating": "safe",
-   "score": 0.23962185,
+   "score": 0.24373114,
    "languages": [
     "en"
    ]
@@ -160,23 +178,11 @@
     "en": "Before Love Kills Me"
    },
    "contentRating": "safe",
-   "score": 0.2387667,
+   "score": 0.24249488,
    "languages": [
     "en",
     "es",
     "ar"
-   ]
-  },
-  {
-   "id": "c302c3e8-7ad5-49ca-a72b-2f247282df39",
-   "title": {
-    "en": "I'm Just An Immortal"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -185,7 +191,7 @@
     "en": "Divine Emperor"
    },
    "contentRating": "safe",
-   "score": 0.2372005,
+   "score": 0.24215399,
    "languages": [
     "en",
     "it",
@@ -194,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:33+00:00"
+ "updatedAt": "2023-12-10T18:34:24+00:00"
 }

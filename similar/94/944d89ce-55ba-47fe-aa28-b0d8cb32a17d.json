@@ -6,12 +6,50 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e0602a12-08e0-47dc-9e92-7555dfb2c1bc",
+   "title": {
+    "en": "Josou wo Yamerarenaku Naru Otokonoko no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.36260682,
+   "languages": [
+    "en",
+    "fr",
+    "ru",
+    "pt-br",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "d4c42287-bdc9-4c7d-ad24-a2c6627ae87d",
+   "title": {
+    "en": "Mizuiro no Machi Made"
+   },
+   "contentRating": "safe",
+   "score": 0.29695514,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
+   "title": {
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.28717336,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f730a35b-61f9-475f-b48d-7225cad36dd3",
    "title": {
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.28454998,
+   "score": 0.284687,
    "languages": [
     "en",
     "vi"
@@ -23,7 +61,7 @@
     "en": "Be for the Beast"
    },
    "contentRating": "safe",
-   "score": 0.25172648,
+   "score": 0.25260392,
    "languages": [
     "en"
    ]
@@ -41,12 +79,34 @@
    ]
   },
   {
+   "id": "2848e436-78d2-4031-9124-9d4c3592a75c",
+   "title": {
+    "en": "Hai ni Mabataki"
+   },
+   "contentRating": "safe",
+   "score": 0.24150038,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
    "title": {
     "en": "Black Coffee"
    },
    "contentRating": "safe",
-   "score": 0.24518527,
+   "score": 0.24147683,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a3506177-68d7-414e-a91d-544481dd1c50",
+   "title": {
+    "en": "Uwakisha ni wa Horemasen"
+   },
+   "contentRating": "safe",
+   "score": 0.23844059,
    "languages": [
     "en"
    ]
@@ -57,7 +117,7 @@
     "en": "Soshite Watashi wa Kaeru ni Koisuru"
    },
    "contentRating": "safe",
-   "score": 0.23835953,
+   "score": 0.23786694,
    "languages": [
     "en",
     "pl"
@@ -69,7 +129,7 @@
     "en": "Kodomo ga Neta Ato de"
    },
    "contentRating": "safe",
-   "score": 0.23793338,
+   "score": 0.23739804,
    "languages": [
     "pl",
     "en",
@@ -82,7 +142,7 @@
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.2299067,
+   "score": 0.23074414,
    "languages": [
     "en"
    ]
@@ -99,30 +159,6 @@
    ]
   },
   {
-   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
-   "title": {
-    "en": "Gimmick"
-   },
-   "contentRating": "safe",
-   "score": 0.22424944,
-   "languages": [
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "4199bccd-6ba7-4eee-ac64-1414dd3fcad7",
-   "title": {
-    "en": "KiraKira"
-   },
-   "contentRating": "safe",
-   "score": 0.22424944,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7014040d-cb00-4215-bde0-516a28f4fc5a",
    "title": {
     "en": "Something Happening"
@@ -131,29 +167,6 @@
    "score": 0.22424944,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5d51751b-8649-49b8-a7b3-e9f9aa78bfba",
-   "title": {
-    "en": "Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.22424944,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
-   "title": {
-    "en": "Tokubetsu na Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.22424944,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -168,27 +181,18 @@
    ]
   },
   {
-   "id": "26ef63fb-d977-4ac0-8d29-6bb05aa1402e",
+   "id": "6a89003e-214c-4622-b444-b733afbfac77",
    "title": {
-    "en": "Call My Name"
+    "en": "Out"
    },
    "contentRating": "safe",
    "score": 0.22424944,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "83ddd508-d0a2-4f18-a0bf-d236301caaca",
-   "title": {
-    "en": "Boku no Yasashii Oniisan"
-   },
-   "contentRating": "safe",
-   "score": 0.22424944,
-   "languages": [
-    "en"
+    "it",
+    "en",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:51+00:00"
+ "updatedAt": "2023-12-10T18:24:47+00:00"
 }

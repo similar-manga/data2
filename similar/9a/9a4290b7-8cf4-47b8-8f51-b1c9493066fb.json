@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
+   "title": {
+    "en": "K-ON! Story Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.34510812,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "027df837-7a15-4893-9dc3-e2ae11b94717",
    "title": {
     "en": "Onii-chan Is Done For! Official Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.269794,
+   "score": 0.2692465,
    "languages": [
     "en",
     "pt-br",
@@ -26,7 +37,7 @@
     "en": "School Zone"
    },
    "contentRating": "safe",
-   "score": 0.25476044,
+   "score": 0.25486138,
    "languages": [
     "en",
     "fr"
@@ -38,7 +49,7 @@
     "en": "Harta Cover Stories"
    },
    "contentRating": "safe",
-   "score": 0.24678539,
+   "score": 0.24594375,
    "languages": [
     "en",
     "tr"
@@ -50,7 +61,7 @@
     "en": "D"
    },
    "contentRating": "safe",
-   "score": 0.23399003,
+   "score": 0.23410125,
    "languages": [
     "en"
    ]
@@ -61,10 +72,22 @@
     "en": "Otonaninattara Bijinninaruko-chan"
    },
    "contentRating": "safe",
-   "score": 0.23267457,
+   "score": 0.2340051,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "ade4a857-7881-4104-9e4c-b004abbcc7fc",
+   "title": {
+    "en": "Minami Nanami Wishes to Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.23330177,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -73,9 +96,20 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.23264803,
+   "score": 0.23297761,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1515d3bb-f8d3-4154-9423-e15f9e3088be",
+   "title": {
+    "en": "Famiresu Iko."
+   },
+   "contentRating": "safe",
+   "score": 0.22869818,
+   "languages": [
+    "zh-hk"
    ]
   },
   {
@@ -84,7 +118,7 @@
     "en": "School Kill"
    },
    "contentRating": "safe",
-   "score": 0.22622441,
+   "score": 0.22775123,
    "languages": [
     "en",
     "vi"
@@ -96,7 +130,39 @@
     "en": "The Pool That Night"
    },
    "contentRating": "safe",
-   "score": 0.22330497,
+   "score": 0.22446372,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f82538f5-c2e1-42b8-9b8d-2b1e0590672e",
+   "title": {
+    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru - GX Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.22193067
+  },
+  {
+   "id": "e00dd739-d8b8-40a6-827f-5f8b0cab1798",
+   "title": {
+    "en": "Impossible Love Suicide"
+   },
+   "contentRating": "safe",
+   "score": 0.22193067,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "d8eb146a-4c7a-4f64-a7e1-8c76c2a01ac7",
+   "title": {
+    "en": "Manga Noodle Issue 17: Paru Itagaki"
+   },
+   "contentRating": "safe",
+   "score": 0.22193067,
    "languages": [
     "en"
    ]
@@ -113,85 +179,13 @@
    ]
   },
   {
-   "id": "d8eb146a-4c7a-4f64-a7e1-8c76c2a01ac7",
+   "id": "9e689233-0f23-44cc-9286-ed96aa2efef7",
    "title": {
-    "en": "Manga Noodle Issue 17: Paru Itagaki"
+    "en": "Mirai no Yukue"
    },
    "contentRating": "safe",
-   "score": 0.22193067,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e00dd739-d8b8-40a6-827f-5f8b0cab1798",
-   "title": {
-    "en": "Impossible Love Suicide"
-   },
-   "contentRating": "safe",
-   "score": 0.22193067,
-   "languages": [
-    "ru",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "38d84b01-64b6-452c-acde-66d13ecd762b",
-   "title": {
-    "en": "That’s a Bit Much, Kikuchi!!"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "54fb8f06-bb6d-4339-a6fb-da4062c471dc",
-   "title": {
-    "en": "Jijii 100%"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4f65c275-ce24-4267-935d-6573cf6e7cd2",
-   "title": {
-    "en": "The Two in the Corner"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a4430215-86ef-43e8-963d-787f6f8193ae",
-   "title": {
-    "en": "Queen of the Apartment Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23b51846-bec4-41e4-a9a2-a034064d01eb",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic"
-   },
-   "contentRating": "safe",
-   "score": 0.2171504,
-   "languages": [
-    "es-la",
-    "ru"
-   ]
+   "score": 0.2198283
   }
  ],
- "updatedAt": "2023-12-10T01:06:08+00:00"
+ "updatedAt": "2023-12-10T18:25:28+00:00"
 }

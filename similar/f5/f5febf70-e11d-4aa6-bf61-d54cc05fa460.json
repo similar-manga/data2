@@ -11,7 +11,7 @@
     "en": "The Story of Their Reunion"
    },
    "contentRating": "safe",
-   "score": 0.38746378,
+   "score": 0.38284132,
    "languages": [
     "id",
     "en"
@@ -23,7 +23,7 @@
     "en": "Mirai ga Mieru Sumaho no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3616207,
+   "score": 0.36130646,
    "languages": [
     "vi",
     "en",
@@ -36,7 +36,7 @@
     "en": "Omotta ijou ni otokomaedatta hanashi"
    },
    "contentRating": "safe",
-   "score": 0.31919292,
+   "score": 0.31728995,
    "languages": [
     "en",
     "pt-br",
@@ -49,10 +49,23 @@
     "en": "Kimi no Jinsei Zenbu wo Shiawase ni Shite Agetai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3169112,
+   "score": 0.31606954,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
+   "title": {
+    "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.31332096,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -61,7 +74,7 @@
     "en": "Gamanshiteiru Oku-san no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.31409752,
+   "score": 0.31279442,
    "languages": [
     "fr",
     "vi",
@@ -73,25 +86,12 @@
    ]
   },
   {
-   "id": "2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
-   "title": {
-    "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.3134742,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "310b669b-2fbd-4e4e-bbd4-40475a954268",
    "title": {
     "en": "Mahou ga Kagaku ni Koisuru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.31221566,
+   "score": 0.3106865,
    "languages": [
     "es-la",
     "en"
@@ -103,7 +103,7 @@
     "en": "The Two With the Wall"
    },
    "contentRating": "safe",
-   "score": 0.30524024,
+   "score": 0.30368748,
    "languages": [
     "en",
     "id"
@@ -115,7 +115,7 @@
     "en": "Guutara na Onna no Ko ni Furimawaseru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.30393007,
+   "score": 0.30310297,
    "languages": [
     "en",
     "es-la",
@@ -128,7 +128,7 @@
     "en": "Tsurai toki mo 'daijoubudayo' to kimi ni wa itte shimau hanashi."
    },
    "contentRating": "safe",
-   "score": 0.30055788,
+   "score": 0.29965928,
    "languages": [
     "id",
     "ru",
@@ -141,8 +141,22 @@
     "en": "Makezugirai na Onna no Ko ga Shoubu wo Idondekuru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2993797,
+   "score": 0.29877105,
    "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "398d5fed-4ddf-4717-bc1a-d91698e67243",
+   "title": {
+    "en": "The Story of Reuniting with a Childhood Friend Whom I Had Drifted Apart From After Failing the High School Entrance Exam"
+   },
+   "contentRating": "safe",
+   "score": 0.29750478,
+   "languages": [
+    "it",
+    "ru",
     "en",
     "id"
    ]
@@ -153,7 +167,7 @@
     "en": "Serious as She Is, She Has a Cute Side I Want to Keep All to Myself"
    },
    "contentRating": "safe",
-   "score": 0.29824018,
+   "score": 0.29736257,
    "languages": [
     "id",
     "de",
@@ -163,26 +177,12 @@
    ]
   },
   {
-   "id": "398d5fed-4ddf-4717-bc1a-d91698e67243",
-   "title": {
-    "en": "The Story of Reuniting with a Childhood Friend Whom I Had Drifted Apart From After Failing the High School Entrance Exam"
-   },
-   "contentRating": "safe",
-   "score": 0.2975316,
-   "languages": [
-    "it",
-    "ru",
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "3ccb3bb4-43fb-4384-a235-7baaf1bdb3e6",
    "title": {
     "en": "Ryuunen Shita Senpai to Moto Kouhai no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.29249066,
+   "score": 0.29221928,
    "languages": [
     "it",
     "es-la",
@@ -191,31 +191,29 @@
    ]
   },
   {
-   "id": "1f9ab841-c71e-489a-a44c-45f7db115b65",
+   "id": "42dd301c-2854-4b7f-b1a9-8e05ef90f303",
    "title": {
-    "en": "The Foreign Girl with Airpods"
+    "en": "Tsumetaikedo \"Cold\" de Shimeshitekureru Kanojo"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "es-la",
-    "en"
+    "en",
+    "id"
    ]
   },
   {
-   "id": "8fead50e-ec16-457b-b850-7891cb0904fd",
+   "id": "6a5002a4-b18f-495e-8703-628afcd8bf33",
    "title": {
-    "en": "Kinjo no Mesugaki-chan ni Aoraremakutta Kekka"
+    "en": "Story of a Discussion That Got Lost After the Proposal"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "es-la",
     "en",
-    "vi",
     "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:56+00:00"
+ "updatedAt": "2023-12-10T18:35:19+00:00"
 }

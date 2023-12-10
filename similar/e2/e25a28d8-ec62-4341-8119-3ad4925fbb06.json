@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "082857f5-740c-4556-9625-479d52124eea",
+   "title": {
+    "en": "Mazinkaiser vs Shin Getter Robo"
+   },
+   "contentRating": "safe",
+   "score": 0.46832234,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "0a012ab6-294d-48c6-be4f-18c7102dc6dd",
    "title": {
     "en": "Red Eyes"
    },
    "contentRating": "safe",
-   "score": 0.28043357,
+   "score": 0.27973524,
    "languages": [
     "en",
     "ru"
@@ -34,7 +47,7 @@
     "en": "Code Geass: Lelouch of the Re;surrection"
    },
    "contentRating": "safe",
-   "score": 0.23450653,
+   "score": 0.23364349,
    "languages": [
     "en"
    ]
@@ -45,21 +58,10 @@
     "en": "Shojo Null"
    },
    "contentRating": "safe",
-   "score": 0.21626988,
+   "score": 0.21584585,
    "languages": [
     "id",
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
-   "title": {
-    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.2060597,
-   "languages": [
     "en"
    ]
   },
@@ -69,20 +71,32 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.205366,
+   "score": 0.20625278,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "146e72de-2e59-4f0e-8803-b5f8312cb8c4",
+   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
    "title": {
-    "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
+    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
    },
    "contentRating": "safe",
-   "score": 0.19204654,
+   "score": 0.2058459,
    "languages": [
-    "th",
+    "en"
+   ]
+  },
+  {
+   "id": "ec576f96-c206-4b53-8cda-021a309b35fe",
+   "title": {
+    "en": "Danzai no Majutsugari"
+   },
+   "contentRating": "safe",
+   "score": 0.19575863,
+   "languages": [
+    "pt-br",
+    "es-la",
     "en"
    ]
   },
@@ -92,9 +106,21 @@
     "en": "Beyond the Sky"
    },
    "contentRating": "safe",
-   "score": 0.19202326,
+   "score": 0.19204794,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "146e72de-2e59-4f0e-8803-b5f8312cb8c4",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
+   },
+   "contentRating": "safe",
+   "score": 0.19175683,
+   "languages": [
+    "th",
     "en"
    ]
   },
@@ -104,7 +130,7 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.1915672,
+   "score": 0.19116634,
    "languages": [
     "en"
    ]
@@ -115,7 +141,7 @@
     "en": "Arcadia of the Moonlight"
    },
    "contentRating": "safe",
-   "score": 0.18698654,
+   "score": 0.18682972,
    "languages": [
     "en",
     "es-la",
@@ -130,7 +156,7 @@
     "en": "Mega Man X2: Get Those Special Weapons!"
    },
    "contentRating": "safe",
-   "score": 0.18585245,
+   "score": 0.18453667,
    "languages": [
     "es",
     "en"
@@ -142,7 +168,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.18446511,
+   "score": 0.18375477,
    "languages": [
     "en"
    ]
@@ -153,7 +179,7 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.1815953,
+   "score": 0.18098523,
    "languages": [
     "en"
    ]
@@ -168,29 +194,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "07bb19d8-7ea3-47b1-b998-3f5a5b0389e1",
-   "title": {
-    "en": "Yaoguai Faan"
-   },
-   "contentRating": "safe",
-   "score": 0.17690632,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.17664424,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:05+00:00"
+ "updatedAt": "2023-12-10T18:33:17+00:00"
 }

@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d5cdc512-1603-4b5d-ada3-fbd5c19802ed",
-   "title": {
-    "en": "Farewell! Cherry Boy!"
-   },
-   "contentRating": "safe",
-   "score": 0.35403335,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
    "title": {
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.31701428,
+   "score": 0.3183504,
    "languages": [
     "en",
     "id",
@@ -35,12 +24,34 @@
    ]
   },
   {
+   "id": "d5cdc512-1603-4b5d-ada3-fbd5c19802ed",
+   "title": {
+    "en": "Farewell! Cherry Boy!"
+   },
+   "contentRating": "safe",
+   "score": 0.30173776,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "012eb8dd-7e06-4f58-b88a-c47a5afe1477",
    "title": {
     "en": "Bye-Bye Love-Letters"
    },
    "contentRating": "safe",
-   "score": 0.3024546,
+   "score": 0.2993907,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "50de54db-2c69-4953-96f9-30b038001ac3",
+   "title": {
+    "en": "Ai no Kotoba"
+   },
+   "contentRating": "safe",
+   "score": 0.29916012,
    "languages": [
     "en"
    ]
@@ -51,21 +62,91 @@
     "en": "Everybody Loves Somebody"
    },
    "contentRating": "safe",
-   "score": 0.29343486,
+   "score": 0.29310605,
    "languages": [
     "it",
     "en"
    ]
   },
   {
-   "id": "50de54db-2c69-4953-96f9-30b038001ac3",
+   "id": "684d282e-5422-49ea-ac5d-3e7b4190a924",
    "title": {
-    "en": "Ai no Kotoba"
+    "en": "Kimi ga Hikari"
    },
    "contentRating": "safe",
-   "score": 0.28683197,
+   "score": 0.28581852,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b0e44d2c-4f15-4230-9ad3-214f7f68b4df",
+   "title": {
+    "en": "Merry Go Round In Wonderland"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2e26cfb2-3ddf-4654-bce1-241a67955653",
+   "title": {
+    "en": "The Boys You Knew during Childhood Were Girls the Entire Time"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "f822acf2-9d0e-4b77-9370-27f2fe3b6eed",
+   "title": {
+    "en": "Meguru Kisetsu no Naka de"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fec54be1-17e7-44c7-8a3e-8825dbefe4a7",
+   "title": {
+    "en": "Love Graduation"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "bg"
+   ]
+  },
+  {
+   "id": "a60cf591-8c20-4f71-be4c-d2995e63292a",
+   "title": {
+    "en": "Illuminating Emotions"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "d2369396-777a-4339-a948-5199c4685ec7",
+   "title": {
+    "en": "Ever Share Color"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -76,42 +157,6 @@
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e92e99e0-d3ff-4169-9395-350deb9dc1b1",
-   "title": {
-    "en": "Koi Gokoro Gekokujou"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "62f4ba4d-3f8a-4441-9f2e-939887455caa",
-   "title": {
-    "en": "Koisuru Futari no Mitsu na Yarikata"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ef3f2900-df5c-49e6-b515-5902a5a36659",
-   "title": {
-    "en": "Tomodachi janaku naru hi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "id",
     "en"
    ]
   },
@@ -128,75 +173,29 @@
    ]
   },
   {
-   "id": "b0e44d2c-4f15-4230-9ad3-214f7f68b4df",
+   "id": "2bda909e-35d3-46f5-99a8-0b671736f598",
    "title": {
-    "en": "Merry Go Round In Wonderland"
+    "en": "Hadaka no Ouji-sama"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "fr",
     "en"
    ]
   },
   {
-   "id": "aed16a84-b4cf-431d-898f-2809c422522f",
+   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
    "title": {
-    "en": "Tsuyogari"
+    "en": "Happy End no Uragawa"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3486d5ba-f1f5-4dc8-b20d-829e215edb89",
-   "title": {
-    "en": "Ongaku no Jikan"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
+    "pl",
     "en"
-   ]
-  },
-  {
-   "id": "f822acf2-9d0e-4b77-9370-27f2fe3b6eed",
-   "title": {
-    "en": "Meguru Kisetsu no Naka de"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a60cf591-8c20-4f71-be4c-d2995e63292a",
-   "title": {
-    "en": "Illuminating Emotions"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
-   "title": {
-    "en": "Owatte miru no mo Warukunai"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:12+00:00"
+ "updatedAt": "2023-12-10T18:15:11+00:00"
 }

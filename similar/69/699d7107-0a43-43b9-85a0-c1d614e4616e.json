@@ -6,63 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e36c959b-f739-4b37-a74c-070cc0f0d057",
+   "title": {
+    "en": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl",
+    "tr",
+    "de"
+   ]
+  },
+  {
    "id": "4bf56d82-97f5-479c-a1c9-e4f1516606c1",
    "title": {
     "en": "Zen'yasai Patroller"
    },
    "contentRating": "safe",
-   "score": 0.26683834,
+   "score": 0.2679832,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "a56e8245-220a-4f62-a605-d10ead7bda31",
+   "id": "190681fb-d2a3-455d-aabc-dff6aaf6f401",
    "title": {
-    "en": "Akuma to Tsuki no Yoru"
+    "en": "Picked up a Little Fox"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
-   "title": {
-    "en": "Phantom Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.25203443,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f953bd89-5456-4756-8a41-ca65aa25e2aa",
-   "title": {
-    "en": "Going to the Troll's Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
     "fr"
    ]
   },
   {
-   "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
+   "id": "25e687ba-0efa-4892-9ee6-02676317ef18",
    "title": {
-    "en": "Ai wo Hamu Akuma"
+    "en": "Unforgettable Love of Mine"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24108972,
    "languages": [
-    "en",
-    "pt-br",
-    "pl"
+    "fr"
    ]
   },
   {
@@ -80,16 +69,115 @@
    ]
   },
   {
+   "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
+   "title": {
+    "en": "Phantom Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
+   "title": {
+    "en": "Ai wo Hamu Akuma"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "f953bd89-5456-4756-8a41-ca65aa25e2aa",
+   "title": {
+    "en": "Going to the Troll's Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "a56e8245-220a-4f62-a605-d10ead7bda31",
+   "title": {
+    "en": "Akuma to Tsuki no Yoru"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "93da08f2-553f-462d-a15e-bb15c5430909",
+   "title": {
+    "en": "Fugitto Amor"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "de",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "dd81618b-9fc1-486c-8aff-53846a22f637",
+   "title": {
+    "en": "Abe Seimei Koikatari"
+   },
+   "contentRating": "safe",
+   "score": 0.2232249,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "3a9c9f2b-3bf7-4f7e-9f1d-6230399d9b7f",
    "title": {
     "en": "Akuma no Hanazono"
    },
    "contentRating": "safe",
-   "score": 0.21982162,
+   "score": 0.21849516,
    "languages": [
     "pt-br",
     "hu",
     "pl"
+   ]
+  },
+  {
+   "id": "5af50da5-c3f6-4f67-9888-89df886757f6",
+   "title": {
+    "en": "Tenkoi in Hachioji"
+   },
+   "contentRating": "safe",
+   "score": 0.21765147,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "41dae5dc-603b-4842-895e-f7b176d108b2",
+   "title": {
+    "en": "Yurayura Q"
+   },
+   "contentRating": "safe",
+   "score": 0.21733697,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -98,109 +186,25 @@
     "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.21531172,
+   "score": 0.21575972,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "0dccb0f4-b0da-49fe-9606-5b0fd2ecf7c6",
+   "id": "248df036-335e-4aa6-bbde-e973ea25d82a",
    "title": {
-    "en": "Kimi Dake ni Ai wo."
-   },
-   "contentRating": "safe",
-   "score": 0.20260307,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "60413748-2d4f-40d1-a2a5-3a2500f61d67",
-   "title": {
-    "en": "Garasu Bijin"
+    "en": "Mugen Himitsu"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "fec07e43-371b-4dfe-bd52-08ac29a2781a",
-   "title": {
-    "en": "Ginban Kaleidoscope"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
-   "title": {
-    "en": "Ayakashi Hisen"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "hu",
-    "pl"
-   ]
-  },
-  {
-   "id": "0b9a4346-1a30-4b6a-8631-6efb935f8b40",
-   "title": {
-    "en": "Watashi no Suki na Souma-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl",
+    "tr",
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "22231dea-4bb3-49af-b7b1-82777f3ce713",
-   "title": {
-    "en": "Hanirabi!"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ro",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "c00dda26-4305-432c-9b2b-73ce33f6b79e",
-   "title": {
-    "en": "Majo wa Kaben wo mi ni Matou"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "d13c22d7-3399-4e55-9f7e-bb24daa2dcc2",
-   "title": {
-    "en": "Love Bullet"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:57+00:00"
+ "updatedAt": "2023-12-10T18:19:44+00:00"
 }

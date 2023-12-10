@@ -11,8 +11,31 @@
     "en": "Double Sentiment"
    },
    "contentRating": "safe",
-   "score": 0.3435128,
+   "score": 0.32934952,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e3a3859d-90e4-4d3d-8ac5-282f75401567",
+   "title": {
+    "en": "Eien no Omoi wo Kimi ni"
+   },
+   "contentRating": "safe",
+   "score": 0.30395266,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
+   "title": {
+    "en": "Kimi Hayate"
+   },
+   "contentRating": "safe",
+   "score": 0.30302206,
+   "languages": [
+    "es",
     "en"
    ]
   },
@@ -22,22 +45,10 @@
     "en": "Rare Ji"
    },
    "contentRating": "safe",
-   "score": 0.3055045,
+   "score": 0.30239287,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
-   "title": {
-    "en": "Kimi Hayate"
-   },
-   "contentRating": "safe",
-   "score": 0.30418915,
-   "languages": [
-    "es",
-    "en"
    ]
   },
   {
@@ -46,9 +57,22 @@
     "en": "Kimi ni Hana o"
    },
    "contentRating": "safe",
-   "score": 0.2925436,
+   "score": 0.29467937,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8c953456-55a6-4294-913c-3f5f640711b1",
+   "title": {
+    "en": "Hoteri Hotette First Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.28619254,
+   "languages": [
+    "en",
+    "fr",
+    "es-la"
    ]
   },
   {
@@ -57,7 +81,7 @@
     "en": "Viva Love You"
    },
    "contentRating": "safe",
-   "score": 0.2842416,
+   "score": 0.28222394,
    "languages": [
     "en"
    ]
@@ -68,7 +92,7 @@
     "en": "Kimi ga Suki Toka Arienai"
    },
    "contentRating": "safe",
-   "score": 0.27619904,
+   "score": 0.2754617,
    "languages": [
     "en"
    ]
@@ -79,96 +103,7 @@
     "en": "My Darling Lion"
    },
    "contentRating": "safe",
-   "score": 0.27151912,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0dccb0f4-b0da-49fe-9606-5b0fd2ecf7c6",
-   "title": {
-    "en": "Kimi Dake ni Ai wo."
-   },
-   "contentRating": "safe",
-   "score": 0.2640908,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "c733b54b-91c0-4be4-ac91-270943e85929",
-   "title": {
-    "en": "Natsumeki!!"
-   },
-   "contentRating": "safe",
-   "score": 0.26394847,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9c141b59-00ac-467b-93cb-164644b6c60c",
-   "title": {
-    "en": "Hitotsu no Shigusa mo"
-   },
-   "contentRating": "safe",
-   "score": 0.26025516,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "108ab831-0ddd-472f-9e15-3093d94924a3",
-   "title": {
-    "en": "Dakara Koi to Yobanaide"
-   },
-   "contentRating": "safe",
-   "score": 0.26009884,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
-   "title": {
-    "en": "Daruma no Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.25845772,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "628c364b-4389-41ab-abb9-5b9e4f0238cd",
-   "title": {
-    "en": "Kanpeki Kareshi Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.25378916,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de945f1f-d73d-4160-b2ef-0af000affec2",
-   "title": {
-    "en": "My Beast"
-   },
-   "contentRating": "safe",
-   "score": 0.24973914,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2de048a9-9aa8-4d68-9dbd-6b0dc0d43cab",
-   "title": {
-    "en": "Kare no 1-Ban ni Naru Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.24919096,
+   "score": 0.27333385,
    "languages": [
     "en"
    ]
@@ -179,12 +114,81 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.2491201,
+   "score": 0.26405862,
    "languages": [
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "0dccb0f4-b0da-49fe-9606-5b0fd2ecf7c6",
+   "title": {
+    "en": "Kimi Dake ni Ai wo."
+   },
+   "contentRating": "safe",
+   "score": 0.2639839,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "6f525ed6-3e62-4dc8-99de-9363c72ae4bd",
+   "title": {
+    "en": "Rabu Yome"
+   },
+   "contentRating": "safe",
+   "score": 0.26368445,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c733b54b-91c0-4be4-ac91-270943e85929",
+   "title": {
+    "en": "Natsumeki!!"
+   },
+   "contentRating": "safe",
+   "score": 0.2634673,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
+   "title": {
+    "en": "1-ko Shita kara, Kiss Sasete."
+   },
+   "contentRating": "safe",
+   "score": 0.26280376,
+   "languages": [
+    "vi",
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "21676a6b-cb66-4351-9177-e27bc6dc381d",
+   "title": {
+    "en": "Goshujinsama to Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2624042,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c141b59-00ac-467b-93cb-164644b6c60c",
+   "title": {
+    "en": "Hitotsu no Shigusa mo"
+   },
+   "contentRating": "safe",
+   "score": 0.2591073,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:50+00:00"
+ "updatedAt": "2023-12-10T18:27:29+00:00"
 }

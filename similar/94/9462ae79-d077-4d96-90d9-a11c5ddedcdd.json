@@ -11,7 +11,7 @@
     "en": "In Dreams"
    },
    "contentRating": "safe",
-   "score": 0.33567336,
+   "score": 0.33634397,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Demon"
    },
    "contentRating": "safe",
-   "score": 0.25419804,
+   "score": 0.2558509,
    "languages": [
     "en",
     "pt-br"
@@ -35,7 +35,7 @@
     "en": "The Man of the Sun and the Woman of the Earth"
    },
    "contentRating": "safe",
-   "score": 0.2272585,
+   "score": 0.22680245,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "The Draw of Cambyses"
    },
    "contentRating": "safe",
-   "score": 0.1942938,
+   "score": 0.19466399,
    "languages": [
     "en"
    ]
@@ -71,6 +71,18 @@
    "contentRating": "safe",
    "score": 0.19352116,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
+   "title": {
+    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
+   },
+   "contentRating": "safe",
+   "score": 0.19280939,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -88,6 +100,17 @@
    ]
   },
   {
+   "id": "2e2586c3-ab04-4956-802e-9fdf1980b53f",
+   "title": {
+    "en": "Sakura Illustrated"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "45665565-8eae-4a71-80e7-aafaa42906de",
    "title": {
     "en": "F.R.I.E.N.D IN THE LANGUAGE OF AN ALIEN"
@@ -100,23 +123,12 @@
    ]
   },
   {
-   "id": "ff299f33-10a6-44c7-a58f-0fb99bf5410f",
-   "title": {
-    "en": "Today Is My Death Day"
-   },
-   "contentRating": "safe",
-   "score": 0.16630323,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "1e167d35-6b1f-4d5d-af00-be83160741fc",
    "title": {
     "en": "Skyscraper Blues"
    },
    "contentRating": "safe",
-   "score": 0.16485746,
+   "score": 0.16427518,
    "languages": [
     "en"
    ]
@@ -138,49 +150,10 @@
     "en": "Oyaji Shuu"
    },
    "contentRating": "safe",
-   "score": 0.16049711,
+   "score": 0.16102727,
    "languages": [
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "65308d09-a4a0-4fdc-ba2e-8abfbb316a02",
-   "title": {
-    "en": "I Wanna Become a Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "es-la",
-    "fr",
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
-   "title": {
-    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "4de59a89-a6a8-4059-9ab3-501f7c260223",
-   "title": {
-    "en": "Saegusa-Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar"
    ]
   },
   {
@@ -196,7 +169,31 @@
     "fr",
     "tr"
    ]
+  },
+  {
+   "id": "ff299f33-10a6-44c7-a58f-0fb99bf5410f",
+   "title": {
+    "en": "Today Is My Death Day"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4de59a89-a6a8-4059-9ab3-501f7c260223",
+   "title": {
+    "en": "Saegusa-Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "pt-br",
+    "en",
+    "ar"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:52+00:00"
+ "updatedAt": "2023-12-10T18:24:48+00:00"
 }

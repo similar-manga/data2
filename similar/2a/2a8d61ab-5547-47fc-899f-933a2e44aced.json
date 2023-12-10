@@ -22,7 +22,7 @@
     "en": "Ghost Logic"
    },
    "contentRating": "safe",
-   "score": 0.26067337,
+   "score": 0.26065615,
    "languages": [
     "de",
     "fr",
@@ -35,9 +35,24 @@
     "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
    },
    "contentRating": "safe",
-   "score": 0.2582175,
+   "score": 0.25806752,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "568e2624-cf7b-4c94-a6a3-803838a1836e",
+   "title": {
+    "en": "Inkya de Wotaku de Binbou Dakedo Bijin Ojou-sama ni Osaretemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.25437847,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "vi",
+    "id"
    ]
   },
   {
@@ -46,7 +61,7 @@
     "en": "Crescent Love"
    },
    "contentRating": "safe",
-   "score": 0.2469492,
+   "score": 0.24755381,
    "languages": [
     "en",
     "fr"
@@ -58,7 +73,7 @@
     "en": "Boku no Ushiro ni Majo ga Iru"
    },
    "contentRating": "safe",
-   "score": 0.24546419,
+   "score": 0.24617414,
    "languages": [
     "es",
     "en",
@@ -69,12 +84,35 @@
    ]
   },
   {
+   "id": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
+   "title": {
+    "en": "Kimi to Warui Koto ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.24323542,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "bbbc095a-4131-4ca7-9491-2964b2dcc038",
+   "title": {
+    "en": "Renchi na Himoto"
+   },
+   "contentRating": "safe",
+   "score": 0.24128827,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
    "title": {
     "en": "Shuumatsu wa Aoi Haru"
    },
    "contentRating": "safe",
-   "score": 0.23997018,
+   "score": 0.24063645,
    "languages": [
     "id",
     "pt-br",
@@ -87,7 +125,7 @@
     "en": "Gwisin Byeolgok"
    },
    "contentRating": "safe",
-   "score": 0.23857392,
+   "score": 0.23836274,
    "languages": [
     "en"
    ]
@@ -109,7 +147,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.22823314,
+   "score": 0.22845556,
    "languages": [
     "en",
     "pl",
@@ -125,9 +163,22 @@
     "en": "Ushiro no Shindere-san"
    },
    "contentRating": "safe",
-   "score": 0.22395545,
+   "score": 0.22365923,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
+   "title": {
+    "en": "Sensei no Yasashii Koroshikata"
+   },
+   "contentRating": "safe",
+   "score": 0.22308508,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -136,72 +187,22 @@
     "en": "Moeru Seito Kaichou"
    },
    "contentRating": "safe",
-   "score": 0.2218233,
+   "score": 0.22263527,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
    "title": {
-    "en": "Sensou Gekijou"
+    "en": "Rewrite: SIDE-TERRA"
    },
    "contentRating": "safe",
-   "score": 0.22043337,
+   "score": 0.22131334,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
-   "title": {
-    "en": "Dou ka Ore wo Houtte Oitekure"
-   },
-   "contentRating": "safe",
-   "score": 0.21871299,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b65fbf0e-6768-407d-ba79-fa9fcb319155",
-   "title": {
-    "en": "Hope You're Happy, Lemon"
-   },
-   "contentRating": "safe",
-   "score": 0.21761097,
-   "languages": [
-    "pt-br",
-    "vi",
-    "es-la",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
-   "title": {
-    "en": "RDG - Red Data Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.21635227,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "9dee4d4b-b21e-4fc7-832b-954cbd06103f",
-   "title": {
-    "en": "Ikiteru Kimi ni Hanataba wo"
-   },
-   "contentRating": "safe",
-   "score": 0.2159874,
-   "languages": [
-    "en",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:24+00:00"
+ "updatedAt": "2023-12-10T18:12:54+00:00"
 }

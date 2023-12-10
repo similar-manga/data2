@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f84b3d61-dff4-4924-9e9c-e8e53b978af3",
+   "title": {
+    "en": "Nikushoku Kemono no Amai Yubi"
+   },
+   "contentRating": "safe",
+   "score": 0.25980926,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "d519209d-92f7-4888-8a6a-14b47006ed2e",
    "title": {
     "en": "Yume no Naka no Tomodachi"
@@ -33,12 +44,60 @@
    ]
   },
   {
+   "id": "feb9c041-6748-4668-a799-16bac63bd361",
+   "title": {
+    "en": "How to Hate Mate"
+   },
+   "contentRating": "safe",
+   "score": 0.21407677,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "dd1adeae-4fca-44fc-861f-e7444f8720ea",
    "title": {
     "en": "Shibatte mo Te ni Iretai"
    },
    "contentRating": "safe",
    "score": 0.21407677,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "8c3ded42-b480-47a2-aea4-cb9d1d308465",
+   "title": {
+    "en": "Aoku Kiyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.21407677,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
+   "title": {
+    "en": "Kishibe no Yume"
+   },
+   "contentRating": "safe",
+   "score": 0.19867985,
+   "languages": [
+    "en",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
+   "id": "4fb83ee0-e9c5-483b-882b-099389f648ba",
+   "title": {
+    "en": "The Cat Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.19867985,
    "languages": [
     "es-la",
     "en"
@@ -59,28 +118,16 @@
    ]
   },
   {
-   "id": "4fb83ee0-e9c5-483b-882b-099389f648ba",
+   "id": "8c5e3117-a89b-42e1-ac00-ea1c2ce98c15",
    "title": {
-    "en": "The Cat Witch"
+    "en": "God Virgin"
    },
    "contentRating": "safe",
-   "score": 0.19867985,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
-   "title": {
-    "en": "Kishibe no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.19867985,
+   "score": 0.18844573,
    "languages": [
     "en",
-    "es-la",
-    "tr"
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -89,24 +136,11 @@
     "en": "Yugen's All-Ghouls Homeroom"
    },
    "contentRating": "safe",
-   "score": 0.1968958,
+   "score": 0.18731716,
    "languages": [
     "es-la",
     "pt-br",
     "ru"
-   ]
-  },
-  {
-   "id": "8c5e3117-a89b-42e1-ac00-ea1c2ce98c15",
-   "title": {
-    "en": "God Virgin"
-   },
-   "contentRating": "safe",
-   "score": 0.18829936,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
    ]
   },
   {
@@ -129,7 +163,7 @@
     "en": "Shuumatsu no Koe"
    },
    "contentRating": "safe",
-   "score": 0.18588027,
+   "score": 0.18614228,
    "languages": [
     "fr",
     "es-la",
@@ -193,43 +227,7 @@
     "en",
     "uk"
    ]
-  },
-  {
-   "id": "785e1f78-0b5b-4fc8-a681-4087b3006a45",
-   "title": {
-    "en": "Saiyaku wa Boku o Suki Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.17767107,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "7b8f4f29-bf9f-4f8d-ace7-a27fc22ef2b7",
-   "title": {
-    "en": "Mabayui Hikari"
-   },
-   "contentRating": "safe",
-   "score": 0.17479295,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "a2fcd958-4fc3-4c1d-943b-f16c8d0114b4",
-   "title": {
-    "en": "Aisatsu ga Shitai Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.17479295,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:58+00:00"
+ "updatedAt": "2023-12-10T18:19:48+00:00"
 }

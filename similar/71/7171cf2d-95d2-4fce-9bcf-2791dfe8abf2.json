@@ -11,8 +11,20 @@
     "en": "Street Fighter II"
    },
    "contentRating": "safe",
-   "score": 0.215861,
+   "score": 0.21538863,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
+   "title": {
+    "en": "The Legend of Zelda (Ran Maru)"
+   },
+   "contentRating": "safe",
+   "score": 0.21467327,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -26,18 +38,6 @@
    "languages": [
     "en",
     "es"
-   ]
-  },
-  {
-   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
-   "title": {
-    "en": "The Legend of Zelda (Ran Maru)"
-   },
-   "contentRating": "safe",
-   "score": 0.21467327,
-   "languages": [
-    "ru",
-    "en"
    ]
   },
   {
@@ -75,18 +75,6 @@
    ]
   },
   {
-   "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
-   "title": {
-    "en": "Mega Man: The Deadly Struggle on Mu Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.19799863,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
    "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
    "title": {
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
@@ -98,14 +86,27 @@
    ]
   },
   {
-   "id": "b2240452-09ac-4d03-919d-a2660925dbd9",
+   "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
    "title": {
-    "en": "Microman (MORITOU Yoshihiro)"
+    "en": "Mega Man: The Deadly Struggle on Mu Arc"
+   },
+   "contentRating": "safe",
+   "score": 0.19736889,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "89a793f9-2e2c-4f6c-af42-86eadaf314f8",
+   "title": {
+    "en": "Sword Art Online - Re: Aincrad"
    },
    "contentRating": "safe",
    "score": 0.19700731,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -124,15 +125,14 @@
    ]
   },
   {
-   "id": "89a793f9-2e2c-4f6c-af42-86eadaf314f8",
+   "id": "b2240452-09ac-4d03-919d-a2660925dbd9",
    "title": {
-    "en": "Sword Art Online - Re: Aincrad"
+    "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
    "score": 0.19700731,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -145,6 +145,18 @@
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "ce9fe2e2-8804-496a-90a5-03fb3063188b",
+   "title": {
+    "en": "Isekai no Senshi toshite Kuni ni Manekareta kedo, Kotowatte Heishi kara Hajimeru Koto ni Shita"
+   },
+   "contentRating": "safe",
+   "score": 0.18879503,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -164,27 +176,15 @@
     "en": "Lord of Goblins"
    },
    "contentRating": "safe",
-   "score": 0.18524039,
+   "score": 0.18438461,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b009f62d-7a65-417d-990a-2e671b036069",
+   "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
    "title": {
-    "en": "Pokémon: Mewtwo Strikes Back!"
-   },
-   "contentRating": "safe",
-   "score": 0.18383521,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
-   "title": {
-    "en": "Valkyrie Profile 2"
+    "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
    "score": 0.18383521,
@@ -193,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:17+00:00"
+ "updatedAt": "2023-12-10T18:20:37+00:00"
 }

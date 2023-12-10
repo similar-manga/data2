@@ -6,15 +6,69 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3e6b3e07-7529-4b8c-84d7-41e60a88852f",
+   "title": {
+    "en": "Hydrangea"
+   },
+   "contentRating": "safe",
+   "score": 0.3171625,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "79c08794-f98b-4ebe-9420-bd04e0db9d88",
+   "title": {
+    "en": "Yasashii Shirokuma"
+   },
+   "contentRating": "safe",
+   "score": 0.30952457,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "b8cbcb3c-3507-445e-b2de-a094d2215864",
    "title": {
     "en": "I'm a Fish"
    },
    "contentRating": "safe",
-   "score": 0.310853,
+   "score": 0.30940524,
    "languages": [
     "th",
     "en"
+   ]
+  },
+  {
+   "id": "adddc427-f746-4388-84a8-b6b6deb5d9dd",
+   "title": {
+    "en": "The Daily Life of Angel \u0026 K9999"
+   },
+   "contentRating": "safe",
+   "score": 0.30934885,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6a1a511d-fe61-47e4-9a73-7fce0ca9fd6a",
+   "title": {
+    "en": "Cross Roads"
+   },
+   "contentRating": "safe",
+   "score": 0.30613005
+  },
+  {
+   "id": "81450496-80d1-4bc5-ae28-05a7622ecbb4",
+   "title": {
+    "en": "One Day in the Life of a Comic Artist"
+   },
+   "contentRating": "safe",
+   "score": 0.30198145,
+   "languages": [
+    "en",
+    "ja"
    ]
   },
   {
@@ -23,9 +77,23 @@
     "en": "Akai Kutsu"
    },
    "contentRating": "safe",
-   "score": 0.2916301,
+   "score": 0.29033884,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0e6a5944-3b52-4c66-bb54-a3846a7db12d",
+   "title": {
+    "en": "Osmotic Pressure"
+   },
+   "contentRating": "safe",
+   "score": 0.2864594,
+   "languages": [
+    "en",
+    "es",
+    "fr",
+    "tr"
    ]
   },
   {
@@ -34,10 +102,22 @@
     "en": "Twinkling Stars"
    },
    "contentRating": "safe",
-   "score": 0.28595284,
+   "score": 0.2850688,
    "languages": [
     "vi",
     "en"
+   ]
+  },
+  {
+   "id": "77c89319-8caa-4835-bb52-6358100575ff",
+   "title": {
+    "en": "Hate x Hate"
+   },
+   "contentRating": "safe",
+   "score": 0.28406793,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -46,7 +126,7 @@
     "en": "City in the Sea"
    },
    "contentRating": "safe",
-   "score": 0.2855586,
+   "score": 0.28363627,
    "languages": [
     "it",
     "pt-br",
@@ -60,23 +140,9 @@
     "en": "Tsuki no Yoru"
    },
    "contentRating": "safe",
-   "score": 0.2854346,
+   "score": 0.2828989,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0e6a5944-3b52-4c66-bb54-a3846a7db12d",
-   "title": {
-    "en": "Osmotic Pressure"
-   },
-   "contentRating": "safe",
-   "score": 0.2847818,
-   "languages": [
-    "en",
-    "es",
-    "fr",
-    "tr"
    ]
   },
   {
@@ -85,18 +151,7 @@
     "en": "Yamamoto's Ear Cleaning Shop"
    },
    "contentRating": "safe",
-   "score": 0.284702,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dbb2c23b-112f-44dd-a808-d647618ab31a",
-   "title": {
-    "en": "Raisins"
-   },
-   "contentRating": "safe",
-   "score": 0.2819166,
+   "score": 0.2800137,
    "languages": [
     "en"
    ]
@@ -107,10 +162,21 @@
     "en": "A Story of Awkward and Tender Memories Left by a Self-Proclaimed Scum Mother for Her Daughter"
    },
    "contentRating": "safe",
-   "score": 0.27904505,
+   "score": 0.27836186,
    "languages": [
     "pt-br",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "dbb2c23b-112f-44dd-a808-d647618ab31a",
+   "title": {
+    "en": "Raisins"
+   },
+   "contentRating": "safe",
+   "score": 0.27253586,
+   "languages": [
     "en"
    ]
   },
@@ -120,75 +186,8 @@
     "en": "Lady Red"
    },
    "contentRating": "safe",
-   "score": 0.27147275
-  },
-  {
-   "id": "92cfcf70-cda2-4aec-b6c7-2a48894e6d02",
-   "title": {
-    "en": "Inside the Inside of the Box"
-   },
-   "contentRating": "safe",
-   "score": 0.26761118,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3821054-2d1f-4068-a793-89eab14c9c43",
-   "title": {
-    "en": "Star Red"
-   },
-   "contentRating": "safe",
-   "score": 0.2620327
-  },
-  {
-   "id": "daee44b3-146f-45fc-b109-cb3651744d22",
-   "title": {
-    "en": "But You’re the One Who Taught Me!"
-   },
-   "contentRating": "safe",
-   "score": 0.257743,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "9837bda7-8de3-4ec0-90f2-d8b0886612eb",
-   "title": {
-    "en": "Kaze ga Nuketekunda"
-   },
-   "contentRating": "safe",
-   "score": 0.2574495,
-   "languages": [
-    "en",
-    "vi",
-    "fr"
-   ]
-  },
-  {
-   "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
-   "title": {
-    "en": "Nostalgia"
-   },
-   "contentRating": "safe",
-   "score": 0.25651664,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0f78226e-d211-4f34-b8d4-db40303b6d94",
-   "title": {
-    "en": "A Compulsory Holiday"
-   },
-   "contentRating": "safe",
-   "score": 0.25157338,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2689492
   }
  ],
- "updatedAt": "2023-12-10T01:03:06+00:00"
+ "updatedAt": "2023-12-10T18:17:29+00:00"
 }

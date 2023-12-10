@@ -6,12 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f4a41c9a-2d72-492a-863d-3b9d1fb1a16d",
+   "title": {
+    "en": "Yajin"
+   },
+   "contentRating": "safe",
+   "score": 0.2919304,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ea0957d9-1c31-49c7-973a-34a9ef6459d1",
+   "title": {
+    "en": "Shachiku-san wa Youjo Yuurei ni Iyasaretai."
+   },
+   "contentRating": "safe",
+   "score": 0.26828948,
+   "languages": [
+    "en",
+    "ru",
+    "tr",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "0daf338e-86f5-416a-9771-e054fc7da1c6",
    "title": {
     "en": "Ghost Logic"
    },
    "contentRating": "safe",
-   "score": 0.25849575,
+   "score": 0.25612882,
    "languages": [
     "de",
     "fr",
@@ -19,12 +47,20 @@
    ]
   },
   {
+   "id": "b700777b-b007-436a-8830-951cd5e1df97",
+   "title": {
+    "en": "Phantom Busters"
+   },
+   "contentRating": "safe",
+   "score": 0.25595412
+  },
+  {
    "id": "dd04374a-6050-4f9e-aa3f-99d1a7d7b957",
    "title": {
     "en": "Koorihime Kitan"
    },
    "contentRating": "safe",
-   "score": 0.25437436,
+   "score": 0.2511364,
    "languages": [
     "it",
     "fr",
@@ -38,7 +74,7 @@
     "en": "One-Armed Amy"
    },
    "contentRating": "safe",
-   "score": 0.24909216,
+   "score": 0.24869274,
    "languages": [
     "fr",
     "hi",
@@ -59,7 +95,23 @@
     "en": "Hono Mieru Shonen: Yoi no Kodoku"
    },
    "contentRating": "safe",
-   "score": 0.2337343
+   "score": 0.2301813
+  },
+  {
+   "id": "2eddbaee-7925-4270-b095-7295a2254b21",
+   "title": {
+    "en": "School Ghost Story Twilight School"
+   },
+   "contentRating": "safe",
+   "score": 0.22653702
+  },
+  {
+   "id": "c7138005-ceec-4600-af78-fad356064661",
+   "title": {
+    "en": "Let's La Gon"
+   },
+   "contentRating": "safe",
+   "score": 0.22529165
   },
   {
    "id": "1d0068f1-c17c-4b82-bc2f-11e529898838",
@@ -67,7 +119,7 @@
     "en": "Pom the Panda"
    },
    "contentRating": "safe",
-   "score": 0.2257894,
+   "score": 0.22512943,
    "languages": [
     "en",
     "it",
@@ -81,7 +133,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.22426535,
+   "score": 0.22398487,
    "languages": [
     "en",
     "pl",
@@ -97,7 +149,7 @@
     "en": "Ilya"
    },
    "contentRating": "safe",
-   "score": 0.22158052,
+   "score": 0.22210543,
    "languages": [
     "es-la",
     "hu",
@@ -108,12 +160,20 @@
    ]
   },
   {
+   "id": "0bbd2af0-39ff-4d67-a85a-deb75b34886c",
+   "title": {
+    "en": "Kami-sama no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.21572146
+  },
+  {
    "id": "abd66cdc-406c-4bf1-bbd1-29d91c6bc6fc",
    "title": {
     "en": "Kyouka-sama no sweet sweet boro house"
    },
    "contentRating": "safe",
-   "score": 0.21305661,
+   "score": 0.21235222,
    "languages": [
     "es-la"
    ]
@@ -124,45 +184,9 @@
     "en": "Noritama"
    },
    "contentRating": "safe",
-   "score": 0.21115859,
+   "score": 0.21053587,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
-   "title": {
-    "en": "Momomoke Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.21009602,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "18b1d68a-3396-4063-949d-f399439ebad7",
-   "title": {
-    "en": "Hokuriku Ghost Story"
-   },
-   "contentRating": "safe",
-   "score": 0.20998918,
-   "languages": [
-    "hu"
-   ]
-  },
-  {
-   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
-   "title": {
-    "en": "Tengoku no Honya"
-   },
-   "contentRating": "safe",
-   "score": 0.20920683,
-   "languages": [
-    "de",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -171,48 +195,11 @@
     "en": "Shounen A to Naisho no 7-ka kan."
    },
    "contentRating": "safe",
-   "score": 0.20919704,
+   "score": 0.20905568,
    "languages": [
     "es-la"
    ]
-  },
-  {
-   "id": "7b3f1980-2104-43ea-9815-8e799a987948",
-   "title": {
-    "en": "Rome Rome"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0c6ad667-d786-4d5f-a354-d4014f318b4f",
-   "title": {
-    "en": "Mikoto Hako"
-   },
-   "contentRating": "safe",
-   "score": 0.2078708,
-   "languages": [
-    "es-la",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "811a001d-a10c-4c71-95c1-628da16396f2",
-   "title": {
-    "en": "Classroom"
-   },
-   "contentRating": "safe",
-   "score": 0.20655479,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:09+00:00"
+ "updatedAt": "2023-12-10T18:25:31+00:00"
 }

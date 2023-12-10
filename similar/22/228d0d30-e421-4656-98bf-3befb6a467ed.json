@@ -11,7 +11,7 @@
     "en": "Boys Be Zombitious"
    },
    "contentRating": "safe",
-   "score": 0.38984156,
+   "score": 0.38396803,
    "languages": [
     "es-la",
     "it",
@@ -27,7 +27,7 @@
     "en": "The Zombie Maria"
    },
    "contentRating": "safe",
-   "score": 0.3274413,
+   "score": 0.3254745,
    "languages": [
     "de",
     "fr",
@@ -46,10 +46,22 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.2679039,
+   "score": 0.27107486,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "75043a3f-daec-4ced-943c-65805e837c68",
+   "title": {
+    "en": "A Middle-aged Man Who Returned From Another World Becomes Unrivaled In The Apocalyptic World"
+   },
+   "contentRating": "safe",
+   "score": 0.2682982,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -58,7 +70,7 @@
     "en": "Usuzumi no Hate"
    },
    "contentRating": "safe",
-   "score": 0.2270178,
+   "score": 0.23130946,
    "languages": [
     "id",
     "en",
@@ -72,14 +84,17 @@
    ]
   },
   {
-   "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
+   "id": "74258dd0-a0fe-4979-b4f7-a0a7a044d951",
    "title": {
-    "en": "Laika in Space"
+    "en": "Zombie Land SAGA"
    },
    "contentRating": "safe",
-   "score": 0.20746015,
+   "score": 0.2308771,
    "languages": [
-    "en"
+    "en",
+    "ru",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -88,7 +103,7 @@
     "en": "Jalapeño"
    },
    "contentRating": "safe",
-   "score": 0.18562432,
+   "score": 0.18250404,
    "languages": [
     "en"
    ]
@@ -99,7 +114,7 @@
     "en": "Biohazard: Death Island"
    },
    "contentRating": "safe",
-   "score": 0.1803921,
+   "score": 0.179202,
    "languages": [
     "uk",
     "id",
@@ -141,26 +156,26 @@
    ]
   },
   {
-   "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
-   "title": {
-    "en": "Instant Death Cold Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.15777023,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "b46e2e33-b8a6-46cc-9504-b3d4c0ebce35",
    "title": {
     "en": "A Country Without Humans"
    },
    "contentRating": "safe",
-   "score": 0.15679832,
+   "score": 0.15812314,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
+   "title": {
+    "en": "Instant Death Cold Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.15564097,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -169,7 +184,7 @@
     "en": "Make way for the☆Super Express"
    },
    "contentRating": "safe",
-   "score": 0.15062901,
+   "score": 0.15490781,
    "languages": [
     "en"
    ]
@@ -180,24 +195,10 @@
     "en": "Sukaraiti"
    },
    "contentRating": "safe",
-   "score": 0.14913417,
+   "score": 0.14916098,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "5e5e63aa-ba2b-4d3f-b075-6d1c47bf1bb2",
-   "title": {
-    "en": "The Piano Tuner"
-   },
-   "contentRating": "safe",
-   "score": 0.14834045,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
    ]
   },
   {
@@ -212,5 +213,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:05+00:00"
+ "updatedAt": "2023-12-10T18:12:01+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Harp of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.24163018
+   "score": 0.24271427
   },
   {
    "id": "163a7ebc-ff76-454d-a02b-d306b21017d5",
@@ -19,7 +19,7 @@
     "en": "Cologne Policeman Odo"
    },
    "contentRating": "safe",
-   "score": 0.22482021
+   "score": 0.2252493
   },
   {
    "id": "2bbf1d99-b9b7-4c88-92b4-cbc09dd3eec2",
@@ -35,7 +35,7 @@
     "en": "Étoile de La Seine"
    },
    "contentRating": "safe",
-   "score": 0.20676355
+   "score": 0.20681906
   },
   {
    "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
@@ -43,7 +43,7 @@
     "en": "Snow White with the Red Hair"
    },
    "contentRating": "safe",
-   "score": 0.17759053,
+   "score": 0.17732285,
    "languages": [
     "en",
     "pt-br",
@@ -54,15 +54,49 @@
    ]
   },
   {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.17717521,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "38e121fe-2a2e-40d8-8a0a-e91d79a99ca9",
    "title": {
     "en": "The Noble Farmer"
    },
    "contentRating": "safe",
-   "score": 0.17521775,
+   "score": 0.17583649,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
+   "title": {
+    "en": "Detective Kouko Feels Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.17129163,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
+   "title": {
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
+   },
+   "contentRating": "safe",
+   "score": 0.16911691,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -90,7 +124,7 @@
     "en": "Elegant Men"
    },
    "contentRating": "safe",
-   "score": 0.16694717,
+   "score": 0.16654313,
    "languages": [
     "es-la",
     "en"
@@ -142,41 +176,7 @@
     "ru",
     "ko"
    ]
-  },
-  {
-   "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
-   "title": {
-    "en": "Niji no Ikusa"
-   },
-   "contentRating": "safe",
-   "score": 0.16246809,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "99ea52c2-2c80-470a-8f25-71a8c9d1703d",
-   "title": {
-    "en": "The Undying Engagement Seal of the Doomed Witch and the Young Master Who Leapt Through Time"
-   },
-   "contentRating": "safe",
-   "score": 0.1568246,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
-   "title": {
-    "en": "Hatenkou Yuugi"
-   },
-   "contentRating": "safe",
-   "score": 0.15059996,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:51+00:00"
+ "updatedAt": "2023-12-10T18:14:11+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "RED Es"
    },
    "contentRating": "suggestive",
-   "score": 0.26188573,
+   "score": 0.25902313,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Fuuto PI"
    },
    "contentRating": "suggestive",
-   "score": 0.19671994,
+   "score": 0.20954962,
    "languages": [
     "id",
     "en",
@@ -32,12 +32,23 @@
    ]
   },
   {
+   "id": "ed43b219-0016-4395-aca5-8aa5c5cda7cf",
+   "title": {
+    "en": "To Read The Criminal Tells"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18251939,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0c59712a-37cf-43fc-b11b-b72304dbdf07",
    "title": {
     "en": "Anima Cal Lives"
    },
    "contentRating": "suggestive",
-   "score": 0.17851622,
+   "score": 0.17279463,
    "languages": [
     "en"
    ]
@@ -48,8 +59,20 @@
     "en": "Gun Dragon II"
    },
    "contentRating": "suggestive",
-   "score": 0.17153445,
+   "score": 0.16759866,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "03d60b4c-551a-4f3d-925b-a67135cd616a",
+   "title": {
+    "en": "Pen to Wappa to Jijitsu-kon"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16718467,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -59,7 +82,7 @@
     "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands"
    },
    "contentRating": "suggestive",
-   "score": 0.1656251,
+   "score": 0.15882988,
    "languages": [
     "es",
     "vi",
@@ -84,23 +107,12 @@
    ]
   },
   {
-   "id": "ed43b219-0016-4395-aca5-8aa5c5cda7cf",
-   "title": {
-    "en": "To Read The Criminal Tells"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16397889,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e96f17a-0aa1-411a-82bd-1171c0ee95f3",
    "title": {
     "en": "37 Year Old Kindaichi Case Files"
    },
    "contentRating": "suggestive",
-   "score": 0.1620157,
+   "score": 0.15314652,
    "languages": [
     "en",
     "es",
@@ -108,14 +120,13 @@
    ]
   },
   {
-   "id": "03d60b4c-551a-4f3d-925b-a67135cd616a",
+   "id": "7b0fbb36-7e17-4709-b616-742005b7e0e3",
    "title": {
-    "en": "Pen to Wappa to Jijitsu-kon"
+    "en": "Yona Yona Yona"
    },
    "contentRating": "suggestive",
-   "score": 0.15922251,
+   "score": 0.15152289,
    "languages": [
-    "vi",
     "en"
    ]
   },
@@ -125,18 +136,7 @@
     "en": "Ziggurat"
    },
    "contentRating": "suggestive",
-   "score": 0.15893947,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "122330aa-9663-498b-b146-4313cde474ac",
-   "title": {
-    "en": "Psychometrer"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1555231,
+   "score": 0.15152289,
    "languages": [
     "en"
    ]
@@ -153,12 +153,12 @@
    ]
   },
   {
-   "id": "7b0fbb36-7e17-4709-b616-742005b7e0e3",
+   "id": "122330aa-9663-498b-b146-4313cde474ac",
    "title": {
-    "en": "Yona Yona Yona"
+    "en": "Psychometrer"
    },
    "contentRating": "suggestive",
-   "score": 0.15152289,
+   "score": 0.15150343,
    "languages": [
     "en"
    ]
@@ -169,7 +169,7 @@
     "en": "Seigai no Majo"
    },
    "contentRating": "suggestive",
-   "score": 0.14883353,
+   "score": 0.14380535,
    "languages": [
     "en",
     "pt-br",
@@ -182,7 +182,7 @@
     "en": "Koukaku no Pandora - Ghost Urn"
    },
    "contentRating": "suggestive",
-   "score": 0.1448088,
+   "score": 0.14134917,
    "languages": [
     "en"
    ]
@@ -193,7 +193,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.14123096,
+   "score": 0.13580978,
    "languages": [
     "id",
     "ru",
@@ -215,5 +215,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:33+00:00"
+ "updatedAt": "2023-12-10T18:26:42+00:00"
 }

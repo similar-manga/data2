@@ -11,7 +11,7 @@
     "en": "New Mobile Report Gundam Wing - Endless Waltz"
    },
    "contentRating": "safe",
-   "score": 0.37737924
+   "score": 0.39131373
   },
   {
    "id": "bda45fba-5728-4661-86fe-83734522f301",
@@ -19,7 +19,7 @@
     "en": "Mobile Suit Victory Gundam"
    },
    "contentRating": "safe",
-   "score": 0.3581233
+   "score": 0.3701142
   },
   {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
@@ -27,7 +27,7 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.35618436,
+   "score": 0.36609045,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "Mobile Suit Gundam SEED Re:"
    },
    "contentRating": "safe",
-   "score": 0.33680683
+   "score": 0.36352146
   },
   {
    "id": "43162dea-10f8-4302-adca-3a1d72a5b8a8",
@@ -46,7 +46,7 @@
     "en": "SD Gundam Force Side Stories"
    },
    "contentRating": "safe",
-   "score": 0.3258135
+   "score": 0.3378756
   },
   {
    "id": "56e91ed0-99cc-43af-b154-062357d89c54",
@@ -54,26 +54,7 @@
     "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.31265315
-  },
-  {
-   "id": "2eb51dbb-ac18-451e-b186-650723f2d9f1",
-   "title": {
-    "en": "Mobile Suit Gundam F91"
-   },
-   "contentRating": "safe",
-   "score": 0.3115718
-  },
-  {
-   "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
-   "title": {
-    "en": "Mobile Suit Gundam N-Extreme"
-   },
-   "contentRating": "safe",
-   "score": 0.3093738,
-   "languages": [
-    "en"
-   ]
+   "score": 0.3237968
   },
   {
    "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
@@ -81,15 +62,23 @@
     "en": "Turn A Gundam"
    },
    "contentRating": "safe",
-   "score": 0.30841535
+   "score": 0.3220251
   },
   {
-   "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
+   "id": "2eb51dbb-ac18-451e-b186-650723f2d9f1",
    "title": {
-    "en": "Mobile Suit Gundam SEED MSV - The Blooming of Housenka on the Battlefield"
+    "en": "Mobile Suit Gundam F91"
    },
    "contentRating": "safe",
-   "score": 0.30263844,
+   "score": 0.3209177
+  },
+  {
+   "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
+   "title": {
+    "en": "Mobile Suit Gundam N-Extreme"
+   },
+   "contentRating": "safe",
+   "score": 0.318749,
    "languages": [
     "en"
    ]
@@ -100,9 +89,20 @@
     "en": "∀ Gundam - ∀ “Korokoro”"
    },
    "contentRating": "safe",
-   "score": 0.30174208,
+   "score": 0.31468633,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
+   "title": {
+    "en": "Mobile Suit Gundam SEED MSV - The Blooming of Housenka on the Battlefield"
+   },
+   "contentRating": "safe",
+   "score": 0.30891833,
+   "languages": [
     "en"
    ]
   },
@@ -112,7 +112,7 @@
     "en": "SD Gundam Sangokuden War God Duel"
    },
    "contentRating": "safe",
-   "score": 0.2899727
+   "score": 0.30340967
   },
   {
    "id": "cdf82c3d-b841-421a-b2ca-c3859d5b77d3",
@@ -120,15 +120,7 @@
     "en": "Superior Defender Gundam Force"
    },
    "contentRating": "safe",
-   "score": 0.28800386
-  },
-  {
-   "id": "09fc3c69-5b21-493e-83a1-f9486c46a19f",
-   "title": {
-    "en": "Mobile Suit Gundam Seed Eclipse"
-   },
-   "contentRating": "safe",
-   "score": 0.28670993
+   "score": 0.29810077
   },
   {
    "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
@@ -136,10 +128,18 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.28278333,
+   "score": 0.29321966,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "09fc3c69-5b21-493e-83a1-f9486c46a19f",
+   "title": {
+    "en": "Mobile Suit Gundam Seed Eclipse"
+   },
+   "contentRating": "safe",
+   "score": 0.29289183
   },
   {
    "id": "8a30b4df-40a2-48c4-8887-667a7be1a832",
@@ -147,8 +147,8 @@
     "en": "Gundam Reconguista in G"
    },
    "contentRating": "safe",
-   "score": 0.27912706
+   "score": 0.28345457
   }
  ],
- "updatedAt": "2023-12-10T01:03:39+00:00"
+ "updatedAt": "2023-12-10T18:18:54+00:00"
 }

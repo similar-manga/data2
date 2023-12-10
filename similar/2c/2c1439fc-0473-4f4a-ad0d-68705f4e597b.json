@@ -11,7 +11,7 @@
     "en": "Soshite Watashi wa Kaeru ni Koisuru"
    },
    "contentRating": "safe",
-   "score": 0.34416956,
+   "score": 0.34562734,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.34302104,
+   "score": 0.34405476,
    "languages": [
     "en",
     "pl",
@@ -32,23 +32,12 @@
    ]
   },
   {
-   "id": "e297e294-9ab5-4900-91c7-7198b9dfe3f9",
-   "title": {
-    "en": "Issho na Dakejya"
-   },
-   "contentRating": "safe",
-   "score": 0.30263272,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2d12507f-621f-413e-9fdb-f19ed5941d99",
    "title": {
     "en": "Houkago Guitar"
    },
    "contentRating": "safe",
-   "score": 0.30163667,
+   "score": 0.30308682,
    "languages": [
     "tr",
     "pl",
@@ -56,14 +45,13 @@
    ]
   },
   {
-   "id": "c741aeca-0138-4658-8eb0-ef1163272b48",
+   "id": "e297e294-9ab5-4900-91c7-7198b9dfe3f9",
    "title": {
-    "en": "Aibiki"
+    "en": "Issho na Dakejya"
    },
    "contentRating": "safe",
-   "score": 0.28352362,
+   "score": 0.3029855,
    "languages": [
-    "tr",
     "en"
    ]
   },
@@ -79,64 +67,36 @@
    ]
   },
   {
-   "id": "f65eb2ef-0b96-4a96-a330-1a1ebc18af14",
+   "id": "b20ec12b-ac35-41f2-8d40-a80fde0062da",
    "title": {
-    "en": "5000"
+    "en": "Cheap Thrill"
    },
    "contentRating": "safe",
    "score": 0.28350797,
    "languages": [
-    "en",
-    "bg",
+    "en"
+   ]
+  },
+  {
+   "id": "b282d35f-f587-469b-8fbd-37522290723b",
+   "title": {
+    "en": "Nagareboshi, Okkochita"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
     "tr",
-    "pt-br",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "dd1adeae-4fca-44fc-861f-e7444f8720ea",
-   "title": {
-    "en": "Shibatte mo Te ni Iretai"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "es-la",
     "en"
    ]
   },
   {
-   "id": "d70964f2-8964-4b81-b656-20a67301a1b8",
+   "id": "fe932f62-f6c4-4e6f-8234-e2c378dfa31c",
    "title": {
-    "en": "Dragon ni Koi"
+    "en": "Netorare 3P Kaikan Kousoku Play"
    },
    "contentRating": "safe",
    "score": 0.28350797,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b4d653b-dc14-4ae0-83b2-f2cf6ca6d2a6",
-   "title": {
-    "en": "Tittle Tattle"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8470bc3a-16ef-4efc-8fa0-c82722d83ac3",
-   "title": {
-    "en": "Haru no E ni wa Shinjuu wo"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -153,9 +113,9 @@
    ]
   },
   {
-   "id": "3175f068-471c-41f8-ad5a-19a49c09aeda",
+   "id": "8fd62e26-1eaf-4df3-a5f6-1d0fbcf08c84",
    "title": {
-    "en": "One day, Suddenly, Like Love"
+    "en": "First Love (ENOMOTO Tsubaki)"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -175,6 +135,52 @@
    ]
   },
   {
+   "id": "dd1adeae-4fca-44fc-861f-e7444f8720ea",
+   "title": {
+    "en": "Shibatte mo Te ni Iretai"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "7d2624f0-414e-4b1d-a557-1c71a786361d",
+   "title": {
+    "en": "Sugar In My Coffee"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
+   "title": {
+    "en": "Unmei no Koi ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "90fb0403-7df4-4c85-8969-77abf46be546",
+   "title": {
+    "en": "Oneshot"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c8b9dea4-b6d7-47ce-ab10-63c4b918c364",
    "title": {
     "en": "Kimi ga Terasu Koi no Hikari"
@@ -185,18 +191,7 @@
     "tr",
     "en"
    ]
-  },
-  {
-   "id": "5a8e2622-c791-454f-8f13-aeeb1208af62",
-   "title": {
-    "en": "On A Snowy Day"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:27+00:00"
+ "updatedAt": "2023-12-10T18:13:03+00:00"
 }

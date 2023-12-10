@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
+   "title": {
+    "en": "One Piece Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.2543394,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
    "title": {
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.24890074
+   "score": 0.25026593
   },
   {
    "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
@@ -19,7 +31,7 @@
     "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.22751802
+   "score": 0.22834732
   },
   {
    "id": "aab94c3a-34b4-4051-84ff-7ba9cbab0da8",
@@ -27,7 +39,7 @@
     "en": "One Piece x Toriko: Taste of the Devil Fruit"
    },
    "contentRating": "safe",
-   "score": 0.22435634,
+   "score": 0.22470136,
    "languages": [
     "en",
     "ca",
@@ -41,7 +53,7 @@
     "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.22144124
+   "score": 0.22124091
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -60,7 +72,15 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.21942072
+   "score": 0.2202015
+  },
+  {
+   "id": "8d20b785-7977-46d7-adce-f19b3d078a30",
+   "title": {
+    "en": "Super Mario Land 2: 6 Gold Coins"
+   },
+   "contentRating": "safe",
+   "score": 0.21658349
   },
   {
    "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
@@ -68,9 +88,21 @@
     "en": "The Thief of Shanghai"
    },
    "contentRating": "safe",
-   "score": 0.21627302,
+   "score": 0.21650864,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3f27338e-3966-4c39-83e9-af5864526ed9",
+   "title": {
+    "en": "Pumpkin Scissors"
+   },
+   "contentRating": "safe",
+   "score": 0.21648231,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -82,9 +114,9 @@
    "score": 0.21591946
   },
   {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
    "title": {
-    "en": "Mobile Suit MOON Gundam"
+    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
    "score": 0.21254572,
@@ -93,9 +125,9 @@
    ]
   },
   {
-   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
    "title": {
-    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
+    "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
    "score": 0.21254572,
@@ -115,61 +147,27 @@
    ]
   },
   {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.21104574,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
    "title": {
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.2107262,
+   "score": 0.21080531,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
-    "en": "Mobile Suit Gundam Aggressor"
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.20969994,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f27338e-3966-4c39-83e9-af5864526ed9",
-   "title": {
-    "en": "Pumpkin Scissors"
-   },
-   "contentRating": "safe",
-   "score": 0.20886946,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
-   "title": {
-    "en": "Mobile Suit Gundam F90 FF"
-   },
-   "contentRating": "safe",
-   "score": 0.20886946,
+   "score": 0.21072744,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:53+00:00"
+ "updatedAt": "2023-12-10T18:14:16+00:00"
 }

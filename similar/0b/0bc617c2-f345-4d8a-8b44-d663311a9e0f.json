@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "da0fac62-e916-408a-9d02-c88a78f0fd38",
+   "title": {
+    "en": "Ultraman Leo"
+   },
+   "contentRating": "safe",
+   "score": 0.3606583
+  },
+  {
+   "id": "08875f4d-7e12-420c-b54f-be63b42d4163",
+   "title": {
+    "en": "Complete version Ultraman Mebius Gaiden Plus Heisei Ultraman Works"
+   },
+   "contentRating": "safe",
+   "score": 0.3503266
+  },
+  {
    "id": "39801903-3b03-4704-98ea-a9f2d80bdadf",
    "title": {
     "en": "Ultraman (KAZUMINE Daiji)"
    },
    "contentRating": "safe",
-   "score": 0.35699692
+   "score": 0.3487073
   },
   {
    "id": "7c58c1b0-b595-4f9d-8fa9-a710c4cac3e6",
@@ -19,7 +35,23 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.35289794
+   "score": 0.34755695
+  },
+  {
+   "id": "24b8b0d2-bcaf-494a-aee7-89b649599a89",
+   "title": {
+    "en": "Return of Ultraman"
+   },
+   "contentRating": "safe",
+   "score": 0.3405749
+  },
+  {
+   "id": "ced1aeb8-22ab-4e8a-b541-00cee257f943",
+   "title": {
+    "en": "Ultraman Ace"
+   },
+   "contentRating": "safe",
+   "score": 0.32733104
   },
   {
    "id": "80d5dc70-982b-4348-afe8-87ed6a2ed785",
@@ -27,15 +59,18 @@
     "en": "Ultraman: The Next"
    },
    "contentRating": "safe",
-   "score": 0.3183042
+   "score": 0.3113334
   },
   {
-   "id": "57172578-6ac7-405c-bf38-b7109beee935",
+   "id": "72b5a5e8-9573-423e-b41f-2b75cb193a0f",
    "title": {
-    "en": "Ultra Flying Kaiju Land!"
+    "en": "Ultraman: Another Gene"
    },
    "contentRating": "safe",
-   "score": 0.2738125
+   "score": 0.30945784,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "574f45d2-8bcb-4365-8cab-4e7c60552562",
@@ -43,7 +78,31 @@
     "en": "Aztekaiser"
    },
    "contentRating": "safe",
-   "score": 0.27242947
+   "score": 0.27290478
+  },
+  {
+   "id": "7c54da6d-ecf4-4f2b-b4ca-1e45bdd3725b",
+   "title": {
+    "en": "Ultraman Ginga S The Movie"
+   },
+   "contentRating": "safe",
+   "score": 0.26945794
+  },
+  {
+   "id": "57172578-6ac7-405c-bf38-b7109beee935",
+   "title": {
+    "en": "Ultra Flying Kaiju Land!"
+   },
+   "contentRating": "safe",
+   "score": 0.26681462
+  },
+  {
+   "id": "3a4731e6-c28b-4108-9948-f20b154cc01c",
+   "title": {
+    "en": "“Fun Kindergarten” Original Version Ultraman \u0026 Ultra Seven"
+   },
+   "contentRating": "safe",
+   "score": 0.25820103
   },
   {
    "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
@@ -51,7 +110,7 @@
     "en": "The Devil Garon"
    },
    "contentRating": "safe",
-   "score": 0.24256656
+   "score": 0.24276176
   },
   {
    "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
@@ -59,18 +118,7 @@
     "en": "Super Giants"
    },
    "contentRating": "safe",
-   "score": 0.21947213
-  },
-  {
-   "id": "8309963a-ec84-4fed-b5f6-efbeeee6fa3f",
-   "title": {
-    "en": "Darkness Heels -Lili-"
-   },
-   "contentRating": "safe",
-   "score": 0.21921486,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22054407
   },
   {
    "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
@@ -78,7 +126,7 @@
     "en": "Tuberculose"
    },
    "contentRating": "safe",
-   "score": 0.21841325
+   "score": 0.21841343
   },
   {
    "id": "b2240452-09ac-4d03-919d-a2660925dbd9",
@@ -86,76 +134,11 @@
     "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
-   "score": 0.21713021,
+   "score": 0.21744046,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "fc4b7dfc-bbc0-4f94-9d86-6ae5f9d9bfa4",
-   "title": {
-    "en": "Tokyo Gareki Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.21534503,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
-   "title": {
-    "en": "Locke the Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.21142507,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b009f62d-7a65-417d-990a-2e671b036069",
-   "title": {
-    "en": "Pokémon: Mewtwo Strikes Back!"
-   },
-   "contentRating": "safe",
-   "score": 0.20428382,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
-   "title": {
-    "en": "Outlaw Man"
-   },
-   "contentRating": "safe",
-   "score": 0.19907773,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9907241-770f-4764-82d0-f0b15f46709e",
-   "title": {
-    "en": "Dino Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.19654545,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "e1493976-7929-469b-942f-7c91c320b357",
-   "title": {
-    "en": "Space Ghost"
-   },
-   "contentRating": "safe",
-   "score": 0.19380063
   }
  ],
- "updatedAt": "2023-12-10T01:00:13+00:00"
+ "updatedAt": "2023-12-10T18:09:36+00:00"
 }

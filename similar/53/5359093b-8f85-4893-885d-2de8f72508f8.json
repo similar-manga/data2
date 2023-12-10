@@ -6,14 +6,47 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
+   "title": {
+    "en": "Manaka no Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.45375735,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dc378c8b-0b15-4e53-ac2e-bb9b4339d94b",
+   "title": {
+    "en": "Kawaii Hito."
+   },
+   "contentRating": "safe",
+   "score": 0.45281982,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "361be17f-7fa4-4818-95d2-8c6425437d9d",
    "title": {
     "en": "A Story About A Gyaru Behind His Seat Who Keeps Touching His Back"
    },
    "contentRating": "safe",
-   "score": 0.41973963,
+   "score": 0.42045385,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "e7e6dc5f-fea6-4fbd-9338-fc5e3776308e",
+   "title": {
+    "en": "Hitotsu no Kabe"
+   },
+   "contentRating": "safe",
+   "score": 0.3310152,
+   "languages": [
     "en"
    ]
   },
@@ -36,7 +69,7 @@
     "en": "99% Love"
    },
    "contentRating": "safe",
-   "score": 0.28014094,
+   "score": 0.27978417,
    "languages": [
     "en",
     "bg",
@@ -50,7 +83,7 @@
     "en": "Kimi ga Hikari"
    },
    "contentRating": "safe",
-   "score": 0.2797197,
+   "score": 0.2787907,
    "languages": [
     "en"
    ]
@@ -61,7 +94,7 @@
     "en": "Gokuaku Drop"
    },
    "contentRating": "safe",
-   "score": 0.2748411,
+   "score": 0.2748171,
    "languages": [
     "en"
    ]
@@ -72,10 +105,21 @@
     "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.27214855,
+   "score": 0.2718958,
    "languages": [
     "pl",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "20c47a70-480f-4ad8-a6cf-cbfd1bb46128",
+   "title": {
+    "en": "1 + 1"
+   },
+   "contentRating": "safe",
+   "score": 0.26978707,
+   "languages": [
     "en"
    ]
   },
@@ -85,7 +129,7 @@
     "en": "Haru no Ongaeshi"
    },
    "contentRating": "safe",
-   "score": 0.27104828,
+   "score": 0.26884398,
    "languages": [
     "en",
     "id",
@@ -96,38 +140,16 @@
    ]
   },
   {
-   "id": "20c47a70-480f-4ad8-a6cf-cbfd1bb46128",
-   "title": {
-    "en": "1 + 1"
-   },
-   "contentRating": "safe",
-   "score": 0.2694968,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "1055dced-6eb0-42a8-8f82-cd9f52b4de36",
    "title": {
     "en": "Kami-sama Onegai!"
    },
    "contentRating": "safe",
-   "score": 0.26885593,
+   "score": 0.26854032,
    "languages": [
     "fr",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "3070be78-046a-4d56-81f4-c053906122c3",
-   "title": {
-    "en": "Ookami to Hitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.26825362,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -136,7 +158,7 @@
     "en": "Dog and My Family Circumstance"
    },
    "contentRating": "safe",
-   "score": 0.26785576,
+   "score": 0.26738626,
    "languages": [
     "ru",
     "en"
@@ -159,25 +181,9 @@
    ]
   },
   {
-   "id": "728d4529-24ec-4326-9558-7da5cfafa62f",
+   "id": "49c4c125-8cc3-475b-9e09-624699de2e90",
    "title": {
-    "en": "By Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "vi",
-    "ro",
-    "hu",
-    "pl",
-    "en",
-    "bg"
-   ]
-  },
-  {
-   "id": "8af6bd72-70f9-4ce6-9dcc-5efa5e26fe5f",
-   "title": {
-    "en": "Kimi wa Tomodachi"
+    "en": "Guardian Joker"
    },
    "contentRating": "safe",
    "score": 0.26082027,
@@ -186,20 +192,9 @@
    ]
   },
   {
-   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
+   "id": "cd37dec0-2a85-48d2-b7a5-a092161965b6",
    "title": {
-    "en": "Just Date Each Other Already!"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
-   "title": {
-    "en": "After Friend"
+    "en": "Nekomori-kun no Himitsu no Tobira"
    },
    "contentRating": "safe",
    "score": 0.26082027,
@@ -209,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:02+00:00"
+ "updatedAt": "2023-12-10T18:17:19+00:00"
 }

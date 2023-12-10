@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "acf9f213-803d-4da6-ad2e-9edef2d3f86f",
+   "title": {
+    "en": "SD Gundam Eiyuden"
+   },
+   "contentRating": "safe",
+   "score": 0.41601616
+  },
+  {
    "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
    "title": {
     "en": "Turn A Gundam"
    },
    "contentRating": "safe",
-   "score": 0.39794126
+   "score": 0.40952197
+  },
+  {
+   "id": "c71968a9-0c27-451c-a207-e02e669ae3a9",
+   "title": {
+    "en": "Mobile Suit Gundam - MS Generation"
+   },
+   "contentRating": "safe",
+   "score": 0.38342556
   },
   {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
@@ -19,18 +35,10 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.3672818,
+   "score": 0.37601012,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "cdf82c3d-b841-421a-b2ca-c3859d5b77d3",
-   "title": {
-    "en": "Superior Defender Gundam Force"
-   },
-   "contentRating": "safe",
-   "score": 0.35913667
   },
   {
    "id": "56e91ed0-99cc-43af-b154-062357d89c54",
@@ -38,7 +46,7 @@
     "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.3577731
+   "score": 0.37114292
   },
   {
    "id": "6ea6a544-b6fd-4ca4-b1ec-b3050ab6527a",
@@ -46,7 +54,15 @@
     "en": "New Mobile Report Gundam Wing - Endless Waltz"
    },
    "contentRating": "safe",
-   "score": 0.35576847
+   "score": 0.3682499
+  },
+  {
+   "id": "cdf82c3d-b841-421a-b2ca-c3859d5b77d3",
+   "title": {
+    "en": "Superior Defender Gundam Force"
+   },
+   "contentRating": "safe",
+   "score": 0.36736944
   },
   {
    "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
@@ -54,7 +70,7 @@
     "en": "Mobile Suit Gundam N-Extreme"
    },
    "contentRating": "safe",
-   "score": 0.33258697,
+   "score": 0.3424464,
    "languages": [
     "en"
    ]
@@ -65,7 +81,7 @@
     "en": "SD Gundam Force Side Stories"
    },
    "contentRating": "safe",
-   "score": 0.33198822
+   "score": 0.33946332
   },
   {
    "id": "bda45fba-5728-4661-86fe-83734522f301",
@@ -73,7 +89,7 @@
     "en": "Mobile Suit Victory Gundam"
    },
    "contentRating": "safe",
-   "score": 0.3229349
+   "score": 0.3365731
   },
   {
    "id": "edeaa692-d882-4957-bf0a-26dcbc3bb6ab",
@@ -81,15 +97,7 @@
     "en": "SD Gundam Sangokuden War God Duel"
    },
    "contentRating": "safe",
-   "score": 0.32093567
-  },
-  {
-   "id": "8ad03abb-1aa8-47f4-a134-d086260262a7",
-   "title": {
-    "en": "SD Gundam Sangokuden: Brave Battle Warriors"
-   },
-   "contentRating": "safe",
-   "score": 0.3188568
+   "score": 0.33184183
   },
   {
    "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
@@ -97,10 +105,18 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.31692114,
+   "score": 0.32762286,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8ad03abb-1aa8-47f4-a134-d086260262a7",
+   "title": {
+    "en": "SD Gundam Sangokuden: Brave Battle Warriors"
+   },
+   "contentRating": "safe",
+   "score": 0.3251917
   },
   {
    "id": "2eb39d70-d6d3-43f7-882a-e0c8ba2e163f",
@@ -108,7 +124,7 @@
     "en": "SD Gundam Sangokuden - Fuuun Gouketsuhen"
    },
    "contentRating": "safe",
-   "score": 0.3160361
+   "score": 0.32202128
   },
   {
    "id": "d62bea2a-1148-48d5-ac9b-70048964bc9e",
@@ -116,15 +132,7 @@
     "en": "Mobile Suit Gundam SEED Re:"
    },
    "contentRating": "safe",
-   "score": 0.30479383
-  },
-  {
-   "id": "af1c3dbf-273e-48d4-826b-394258da34cf",
-   "title": {
-    "en": "SD Gundam Force Emaki Musha Retsuden"
-   },
-   "contentRating": "safe",
-   "score": 0.29621726
+   "score": 0.31564915
   },
   {
    "id": "61c19ae3-9cab-4266-a0c8-265571a2b055",
@@ -132,16 +140,8 @@
     "en": "Mobile Fighter G Gundam: Revenge of J Gundam"
    },
    "contentRating": "safe",
-   "score": 0.29371837
-  },
-  {
-   "id": "345d306b-c70c-4af7-ac44-3a3544566d2a",
-   "title": {
-    "en": "Samurai 7"
-   },
-   "contentRating": "safe",
-   "score": 0.29358393
+   "score": 0.30656815
   }
  ],
- "updatedAt": "2023-12-10T01:03:13+00:00"
+ "updatedAt": "2023-12-10T18:17:49+00:00"
 }

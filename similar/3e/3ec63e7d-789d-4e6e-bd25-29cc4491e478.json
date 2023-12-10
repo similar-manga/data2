@@ -11,7 +11,7 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.3057258,
+   "score": 0.30901557,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.22872849,
+   "score": 0.23051359,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.21555573,
+   "score": 0.21523242,
    "languages": [
     "pt-br",
     "ru",
@@ -43,14 +43,38 @@
    ]
   },
   {
+   "id": "47607aaf-54e2-4aa0-b281-ac943370261c",
+   "title": {
+    "en": "Nana-Hon no Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.21179318,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
    "title": {
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.21112837,
+   "score": 0.21064444,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0",
+   "title": {
+    "en": "Fish"
+   },
+   "contentRating": "safe",
+   "score": 0.20589569,
+   "languages": [
+    "es-la",
+    "zh-hk",
     "en"
    ]
   },
@@ -60,7 +84,7 @@
     "en": "Boukyou Tarou"
    },
    "contentRating": "safe",
-   "score": 0.20535846,
+   "score": 0.20465742,
    "languages": [
     "en"
    ]
@@ -71,7 +95,7 @@
     "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.2043425,
+   "score": 0.20316371,
    "languages": [
     "en"
    ]
@@ -82,7 +106,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20362842,
+   "score": 0.20307462,
    "languages": [
     "en"
    ]
@@ -93,7 +117,7 @@
     "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.19665758,
+   "score": 0.19597583,
    "languages": [
     "en"
    ]
@@ -104,7 +128,7 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.19525144,
+   "score": 0.19361807,
    "languages": [
     "en",
     "ru",
@@ -117,9 +141,20 @@
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.1938093,
+   "score": 0.19276302,
    "languages": [
     "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "4a284387-b2d0-4b4f-babd-64101ab4404c",
+   "title": {
+    "en": "G (KOIKE Keiichi)"
+   },
+   "contentRating": "safe",
+   "score": 0.18827143,
+   "languages": [
     "en"
    ]
   },
@@ -129,22 +164,11 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.18965799,
+   "score": 0.1880536,
    "languages": [
     "es-la",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "4a284387-b2d0-4b4f-babd-64101ab4404c",
-   "title": {
-    "en": "G (KOIKE Keiichi)"
-   },
-   "contentRating": "safe",
-   "score": 0.18927224,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -153,7 +177,7 @@
     "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
    },
    "contentRating": "safe",
-   "score": 0.18653622,
+   "score": 0.18623878,
    "languages": [
     "pt-br",
     "en",
@@ -162,38 +186,16 @@
    ]
   },
   {
-   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
+   "id": "af2b38df-05bf-44b7-b604-3579072c590d",
    "title": {
-    "en": "Kyosuurei"
+    "en": "Vlad Dracula"
    },
    "contentRating": "safe",
-   "score": 0.17766836,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.17278685,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7a4ff526-0aea-432b-872c-863493525ddf",
-   "title": {
-    "en": "Hero Company"
-   },
-   "contentRating": "safe",
-   "score": 0.17256871,
+   "score": 0.18105465,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:10+00:00"
+ "updatedAt": "2023-12-10T18:15:04+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f9b26533-a516-499b-b2ca-8d095ac5174a",
+   "title": {
+    "en": "Pokémon HGSS"
+   },
+   "contentRating": "safe",
+   "score": 0.33100474,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
    "title": {
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.31996787,
+   "score": 0.31898972,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Pokémon"
    },
    "contentRating": "safe",
-   "score": 0.30052203,
+   "score": 0.29680863,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Get Pokémon!"
    },
    "contentRating": "safe",
-   "score": 0.2856453,
+   "score": 0.2825562,
    "languages": [
     "en"
    ]
@@ -44,7 +55,7 @@
     "en": "Pokémon Card GB The Comix"
    },
    "contentRating": "safe",
-   "score": 0.28270406,
+   "score": 0.28043097,
    "languages": [
     "en"
    ]
@@ -55,9 +66,42 @@
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.2610747,
+   "score": 0.26018772,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "a6443a84-843e-4396-85b6-fbdf20ea8930",
+   "title": {
+    "en": "Pokémon (2023)"
+   },
+   "contentRating": "safe",
+   "score": 0.24139054,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cdfa03bf-ae04-48b3-835c-997ee981ecb9",
+   "title": {
+    "en": "The Strongest and Fastest Unlimited Level Up: With the Skills [1000x Exp] and [Level Free], I Broke the Upper Level Limit and Rose to the Top!"
+   },
+   "contentRating": "safe",
+   "score": 0.19851668,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d18dd68-2cdf-4296-a9bd-6fbc15d391ef",
+   "title": {
+    "en": "Pikmin (Nintendo DREAM vol. 89)"
+   },
+   "contentRating": "safe",
+   "score": 0.1937728,
+   "languages": [
     "en"
    ]
   },
@@ -67,7 +111,7 @@
     "en": "Last Boss"
    },
    "contentRating": "safe",
-   "score": 0.19093405,
+   "score": 0.19176975,
    "languages": [
     "en"
    ]
@@ -78,7 +122,7 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.1893048,
+   "score": 0.1899348,
    "languages": [
     "en",
     "ca",
@@ -98,12 +142,12 @@
    ]
   },
   {
-   "id": "37159b31-b6fd-4a4d-9db1-3c9905b740e7",
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
    "title": {
-    "en": "The Legend of Zelda Gaiden: Quark and the Fairy Queen"
+    "en": "Dragon Quest: Tale of Heaven"
    },
    "contentRating": "safe",
-   "score": 0.18722153,
+   "score": 0.18693441,
    "languages": [
     "en"
    ]
@@ -114,7 +158,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.18678316,
+   "score": 0.18617402,
    "languages": [
     "en",
     "fr"
@@ -126,7 +170,7 @@
     "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
    },
    "contentRating": "safe",
-   "score": 0.18641004,
+   "score": 0.18503194,
    "languages": [
     "en"
    ]
@@ -142,55 +186,7 @@
     "ru",
     "en"
    ]
-  },
-  {
-   "id": "7e922707-49e8-4277-8fe1-36cbc6759f38",
-   "title": {
-    "en": "The Legend of Zelda - Ocarina of Time 3D"
-   },
-   "contentRating": "safe",
-   "score": 0.18373752,
-   "languages": [
-    "es-la",
-    "de",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "fcffdecb-2324-481a-9f41-960dec67e02f",
-   "title": {
-    "en": "Chin Piece"
-   },
-   "contentRating": "safe",
-   "score": 0.17868543,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d414a39d-d525-456e-be84-17b1d8cbb5fe",
-   "title": {
-    "en": "Kono Subarashii Sekai ni Shukufuku o! Fantastic Days!"
-   },
-   "contentRating": "safe",
-   "score": 0.17846677,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69489ecb-cb30-49bc-9d5f-fc47de896a86",
-   "title": {
-    "en": "Boruto: Road to \"B\""
-   },
-   "contentRating": "safe",
-   "score": 0.17507525,
-   "languages": [
-    "es",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:51+00:00"
+ "updatedAt": "2023-12-10T18:22:12+00:00"
 }

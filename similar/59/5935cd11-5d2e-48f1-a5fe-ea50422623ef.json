@@ -11,7 +11,7 @@
     "en": "Succeed"
    },
    "contentRating": "safe",
-   "score": 0.2811232,
+   "score": 0.2802634,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.24449025,
+   "score": 0.24583414,
    "languages": [
     "ru",
     "fr",
@@ -42,7 +42,7 @@
     "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.22619037,
+   "score": 0.22536166,
    "languages": [
     "en"
    ]
@@ -53,7 +53,7 @@
     "en": "Beyond the Sky"
    },
    "contentRating": "safe",
-   "score": 0.2144814,
+   "score": 0.21354872,
    "languages": [
     "pl",
     "en"
@@ -65,32 +65,8 @@
     "en": "Segregated World"
    },
    "contentRating": "safe",
-   "score": 0.20570962,
+   "score": 0.20495701,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.20285277,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "146e72de-2e59-4f0e-8803-b5f8312cb8c4",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "th",
     "en"
    ]
   },
@@ -98,6 +74,17 @@
    "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
    "title": {
     "en": "Version"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21666dcf-1257-497d-9647-e4bb63411137",
+   "title": {
+    "en": "Atrail - Nisekawiteki Nichijou to Senmitsu Element"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -117,12 +104,35 @@
    ]
   },
   {
+   "id": "486e0188-49d3-4093-9422-6faf3508a4a1",
+   "title": {
+    "en": "Hammer Session! R"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "146e72de-2e59-4f0e-8803-b5f8312cb8c4",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "th",
+    "en"
+   ]
+  },
+  {
    "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
    "title": {
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.19975635,
+   "score": 0.19923408,
    "languages": [
     "en",
     "pt-br",
@@ -138,7 +148,7 @@
     "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.19807726,
+   "score": 0.1967851,
    "languages": [
     "en"
    ]
@@ -149,7 +159,7 @@
     "en": "Maya - Midnight Girl"
    },
    "contentRating": "safe",
-   "score": 0.19698595,
+   "score": 0.19597404,
    "languages": [
     "en"
    ]
@@ -160,22 +170,11 @@
     "en": "Wonted"
    },
    "contentRating": "safe",
-   "score": 0.19484136,
+   "score": 0.19315082,
    "languages": [
     "en",
     "pl",
     "pt-br"
-   ]
-  },
-  {
-   "id": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
-   "title": {
-    "en": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -194,16 +193,17 @@
    ]
   },
   {
-   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
+   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Japanese History Detective Conan"
+    "en": "Tiger \u0026 Bunny"
    },
    "contentRating": "safe",
-   "score": 0.1886455,
+   "score": 0.19166298,
    "languages": [
+    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:17+00:00"
+ "updatedAt": "2023-12-10T18:17:59+00:00"
 }

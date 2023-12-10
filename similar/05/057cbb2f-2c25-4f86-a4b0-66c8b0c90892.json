@@ -11,7 +11,7 @@
     "en": "Mugen Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.30148602,
+   "score": 0.30036283,
    "languages": [
     "tr",
     "pt-br",
@@ -24,7 +24,7 @@
     "en": "Zen'yasai Patroller"
    },
    "contentRating": "safe",
-   "score": 0.28530228,
+   "score": 0.2854424,
    "languages": [
     "pt-br",
     "en"
@@ -36,7 +36,7 @@
     "en": "Ai wo Hamu Akuma"
    },
    "contentRating": "safe",
-   "score": 0.28185987,
+   "score": 0.2792781,
    "languages": [
     "en",
     "pt-br",
@@ -49,23 +49,9 @@
     "en": "Baku to Nemurihime"
    },
    "contentRating": "safe",
-   "score": 0.27828258,
+   "score": 0.2790188,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a414f5fd-8e16-45ae-997a-f1d938ee03d4",
-   "title": {
-    "en": "3 Hearts"
-   },
-   "contentRating": "safe",
-   "score": 0.2662075,
-   "languages": [
-    "pt-br",
-    "en",
-    "ro",
-    "pl"
    ]
   },
   {
@@ -74,7 +60,7 @@
     "en": "Kurseong South - The Forest of Black Tea"
    },
    "contentRating": "safe",
-   "score": 0.2654439,
+   "score": 0.26453555,
    "languages": [
     "en"
    ]
@@ -85,9 +71,23 @@
     "en": "Michibata no Tenshi"
    },
    "contentRating": "safe",
-   "score": 0.2643744,
+   "score": 0.263013,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a414f5fd-8e16-45ae-997a-f1d938ee03d4",
+   "title": {
+    "en": "3 Hearts"
+   },
+   "contentRating": "safe",
+   "score": 0.26208052,
+   "languages": [
+    "pt-br",
+    "en",
+    "ro",
+    "pl"
    ]
   },
   {
@@ -96,18 +96,18 @@
     "en": "Hana to Himegimi to Akuma no Vivian"
    },
    "contentRating": "safe",
-   "score": 0.2624444,
+   "score": 0.26183608,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cd37dec0-2a85-48d2-b7a5-a092161965b6",
+   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
    "title": {
-    "en": "Nekomori-kun no Himitsu no Tobira"
+    "en": "Liar Kiss"
    },
    "contentRating": "safe",
-   "score": 0.25863096,
+   "score": 0.25728884,
    "languages": [
     "pl",
     "en"
@@ -125,44 +125,58 @@
    ]
   },
   {
-   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
+   "id": "cd37dec0-2a85-48d2-b7a5-a092161965b6",
    "title": {
-    "en": "Liar Kiss"
+    "en": "Nekomori-kun no Himitsu no Tobira"
    },
    "contentRating": "safe",
-   "score": 0.24831413,
+   "score": 0.2524974,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "77458141-5941-4e2a-bf62-501c1fa56ec1",
+   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
    "title": {
-    "en": "Nakasareta!"
+    "en": "Kashikomi Mousu!"
    },
    "contentRating": "safe",
-   "score": 0.24814893,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "20054acb-037a-4a78-8caa-3a41127dbf4b",
+   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
    "title": {
-    "en": "Prickly Day"
+    "en": "Kaze no Kaeru Basho"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en",
+    "bg",
     "pt-br"
    ]
   },
   {
-   "id": "c34a27d5-a670-4bb1-b805-3e78bc2f7f39",
+   "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
    "title": {
-    "en": "Sasagu Omoi wa Hana Meguri"
+    "en": "HELP!!"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "bg",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1db2dbca-46b3-48c2-ae61-86986a56a6f1",
+   "title": {
+    "en": "Komorebi Neko"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -171,20 +185,9 @@
    ]
   },
   {
-   "id": "da9b1b0c-c797-44f8-9ae2-f354d995218e",
+   "id": "bbfa3505-4689-42dc-bc04-222a8e303ada",
    "title": {
-    "en": "Sokubaku Master"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c525947d-ee5a-4c97-ae6a-ef7555e8bcf1",
-   "title": {
-    "en": "Kira*Kira Crystal"
+    "en": "Tsuki e no Hashigo"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -193,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:58+00:00"
+ "updatedAt": "2023-12-10T18:08:56+00:00"
 }

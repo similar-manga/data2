@@ -23,20 +23,9 @@
     "en": "Night at the Aquarium"
    },
    "contentRating": "safe",
-   "score": 0.24778315,
+   "score": 0.2461016,
    "languages": [
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
-   "title": {
-    "en": "Deep Love - Real"
-   },
-   "contentRating": "safe",
-   "score": 0.24193881,
-   "languages": [
     "en"
    ]
   },
@@ -46,10 +35,21 @@
     "en": "Boy's Summer"
    },
    "contentRating": "safe",
-   "score": 0.2390982,
+   "score": 0.23851752,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
+   "title": {
+    "en": "Deep Love - Real"
+   },
+   "contentRating": "safe",
+   "score": 0.23841456,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -64,13 +64,14 @@
    ]
   },
   {
-   "id": "111aece9-5206-4245-b4db-56b805d6e63f",
+   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
    "title": {
-    "en": "The Pool That Night"
+    "en": "Death"
    },
    "contentRating": "safe",
    "score": 0.22506468,
    "languages": [
+    "vi",
     "en"
    ]
   },
@@ -87,21 +88,20 @@
    ]
   },
   {
-   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
+   "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
    "title": {
-    "en": "Death"
+    "en": "Ijimerarekko ga Kuru!"
    },
    "contentRating": "safe",
    "score": 0.22506468,
    "languages": [
-    "vi",
     "en"
    ]
   },
   {
-   "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
+   "id": "111aece9-5206-4245-b4db-56b805d6e63f",
    "title": {
-    "en": "Ijimerarekko ga Kuru!"
+    "en": "The Pool That Night"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -115,7 +115,7 @@
     "en": "Cathexis"
    },
    "contentRating": "safe",
-   "score": 0.22505267,
+   "score": 0.22403494,
    "languages": [
     "en",
     "it",
@@ -154,18 +154,6 @@
    ]
   },
   {
-   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
-   "title": {
-    "en": "Assassin's Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "ro",
-    "en"
-   ]
-  },
-  {
    "id": "b486153b-9c14-45c5-ac6e-6c17b87d8b9c",
    "title": {
     "en": "A Short Yandere Manga"
@@ -177,6 +165,18 @@
     "id",
     "pt-br",
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
+   "title": {
+    "en": "Assassin's Plan"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "ro",
     "en"
    ]
   },
@@ -195,19 +195,16 @@
    ]
   },
   {
-   "id": "8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed",
+   "id": "43b7e925-4548-40c8-8605-82db5e8911c1",
    "title": {
-    "en": "City in the Sea"
+    "en": "Mr.Train"
    },
    "contentRating": "safe",
-   "score": 0.20633951,
+   "score": 0.2084963,
    "languages": [
-    "it",
-    "pt-br",
-    "en",
-    "pl"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:14+00:00"
+ "updatedAt": "2023-12-10T18:20:28+00:00"
 }

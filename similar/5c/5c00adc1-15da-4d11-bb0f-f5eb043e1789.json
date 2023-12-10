@@ -47,33 +47,57 @@
    ]
   },
   {
-   "id": "74e431fc-f310-4d79-a3dc-b80607116f89",
+   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
    "title": {
-    "en": "The Love That Binds Us to Heaven"
+    "en": "Kamisama to"
    },
    "contentRating": "safe",
-   "score": 0.24912365,
+   "score": 0.24743582,
    "languages": [
     "en",
-    "ru",
-    "tr"
+    "pt-br"
    ]
   },
   {
-   "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
+   "id": "04987753-1655-4149-aa40-fa732c753a41",
    "title": {
-    "en": "The Song of the Voiceless Bird"
+    "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.24777322,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
+   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
    "title": {
-    "en": "Waltzing at Sanzu River"
+    "en": "Revenge Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
+   "title": {
+    "en": "Kishibe no Yume"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
+   "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
+   "title": {
+    "en": "Poison"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -97,33 +121,9 @@
    ]
   },
   {
-   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
+   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
    "title": {
-    "en": "Kamisama to"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
-   "title": {
-    "en": "Revenge Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
-   "title": {
-    "en": "Poison"
+    "en": "Waltzing at Sanzu River"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -132,27 +132,27 @@
    ]
   },
   {
-   "id": "04987753-1655-4149-aa40-fa732c753a41",
+   "id": "74e431fc-f310-4d79-a3dc-b80607116f89",
    "title": {
-    "en": "Godspeed 0.1"
+    "en": "The Love That Binds Us to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
-   "title": {
-    "en": "Kishibe no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24537677,
    "languages": [
     "en",
-    "es-la",
+    "ru",
     "tr"
+   ]
+  },
+  {
+   "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
+   "title": {
+    "en": "The Song of the Voiceless Bird"
+   },
+   "contentRating": "safe",
+   "score": 0.24475227,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -161,22 +161,10 @@
     "en": "Renri no Eda"
    },
    "contentRating": "safe",
-   "score": 0.238578,
+   "score": 0.23790522,
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "2507de0a-4466-43f8-b315-6075c6b155a8",
-   "title": {
-    "en": "Sabu the Bruiser"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -192,6 +180,18 @@
    ]
   },
   {
+   "id": "2507de0a-4466-43f8-b315-6075c6b155a8",
+   "title": {
+    "en": "Sabu the Bruiser"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "b6984507-b2de-4a2a-8a78-4172969a4918",
    "title": {
     "en": "Flower Heart"
@@ -203,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:25+00:00"
+ "updatedAt": "2023-12-10T18:18:17+00:00"
 }

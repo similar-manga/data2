@@ -14,6 +14,17 @@
    "score": 0.25421616
   },
   {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.23487802,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "47add7f5-5625-4808-af49-022ed332492a",
    "title": {
     "en": "SNS Tantei Ononoki Tsukasa"
@@ -41,7 +52,7 @@
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.208908,
+   "score": 0.20911424,
    "languages": [
     "en"
    ]
@@ -64,6 +75,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "47ce24b6-f6e3-4acf-9f41-39a8a07e8607",
+   "title": {
+    "en": "Detective Apprentice Akio..."
+   },
+   "contentRating": "safe",
+   "score": 0.20328984
   },
   {
    "id": "8af33c74-2779-4e2e-94ab-d614762ab499",
@@ -94,6 +113,22 @@
    ]
   },
   {
+   "id": "06365f31-9ddd-4198-831c-9e51fae47e23",
+   "title": {
+    "en": "Divorce Club"
+   },
+   "contentRating": "safe",
+   "score": 0.19664207
+  },
+  {
+   "id": "b83802b7-cb00-4106-9624-362c63185369",
+   "title": {
+    "en": "Genesis Code"
+   },
+   "contentRating": "safe",
+   "score": 0.1956702
+  },
+  {
    "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
    "title": {
     "en": "Cloud"
@@ -113,18 +148,6 @@
    "score": 0.18731716
   },
   {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
-   "title": {
-    "en": "Sherlock"
-   },
-   "contentRating": "safe",
-   "score": 0.18731716,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "79a569a8-32d4-4d94-a180-2fcf399b0851",
    "title": {
     "en": "KAFKA: Fukashigi na Jikenbo"
@@ -133,44 +156,18 @@
    "score": 0.18731716
   },
   {
-   "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "Repurika Moto Tsuma No Fukushu"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
-   "score": 0.18731716
-  },
-  {
-   "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
-   "title": {
-    "en": "Jungle King"
-   },
-   "contentRating": "safe",
-   "score": 0.1855444
-  },
-  {
-   "id": "9f03fd07-8012-4032-ad95-31458704b601",
-   "title": {
-    "en": "The Gourmet"
-   },
-   "contentRating": "safe",
-   "score": 0.18386608
-  },
-  {
-   "id": "dc22c201-a2a8-40aa-a23f-69852b0c8d0f",
-   "title": {
-    "en": "Kowloon Generic Romance"
-   },
-   "contentRating": "safe",
-   "score": 0.18205518,
+   "score": 0.18731716,
    "languages": [
-    "pt-br",
     "es-la",
-    "zh-hk",
     "en",
-    "ru"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:47+00:00"
+ "updatedAt": "2023-12-10T18:32:32+00:00"
 }

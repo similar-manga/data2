@@ -11,7 +11,7 @@
     "en": "My Pet Is a Yakuza"
    },
    "contentRating": "suggestive",
-   "score": 0.29910472,
+   "score": 0.29751867,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Hatsujou Junjou Douwa"
    },
    "contentRating": "suggestive",
-   "score": 0.295206
+   "score": 0.29508752
   },
   {
    "id": "00d73208-1b31-40ab-a71f-95dcb26c8e14",
@@ -30,7 +30,19 @@
     "en": "Hatsujou Yakuza wa Ojou o Tabetai"
    },
    "contentRating": "suggestive",
-   "score": 0.27656084
+   "score": 0.2769393
+  },
+  {
+   "id": "b5dcc75d-b8b4-4081-b14d-a883a6122b71",
+   "title": {
+    "en": "Furare Girl"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26022843,
+   "languages": [
+    "en",
+    "it"
+   ]
   },
   {
    "id": "f8a9184e-a2b0-4faf-a756-02ede6738b34",
@@ -38,7 +50,7 @@
     "ja": "Zenbu Kudasai, Senpai"
    },
    "contentRating": "suggestive",
-   "score": 0.25643182,
+   "score": 0.25624803,
    "languages": [
     "en"
    ]
@@ -49,7 +61,7 @@
     "en": "Camera-senpai to Sewayaki Jouzu na Kouhai-chan"
    },
    "contentRating": "suggestive",
-   "score": 0.25522256,
+   "score": 0.2547641,
    "languages": [
     "es-la"
    ]
@@ -76,15 +88,26 @@
     "en": "My First Time"
    },
    "contentRating": "suggestive",
-   "score": 0.24058644,
+   "score": 0.23961419,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5db6e29d-abc7-418f-a60f-d4672f4fa78d",
+   "id": "c3d8ec06-882d-4d11-9215-af466c3b5f65",
    "title": {
-    "en": "Amadare!"
+    "en": "Gakkou ja Dekinai Koto"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23328476,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "7c9cc903-09c8-405b-882c-e18255eeeadc",
+   "title": {
+    "en": "Hatsukoi Body"
    },
    "contentRating": "suggestive",
    "score": 0.23328476
@@ -101,6 +124,14 @@
    ]
   },
   {
+   "id": "5db6e29d-abc7-418f-a60f-d4672f4fa78d",
+   "title": {
+    "en": "Amadare!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23328476
+  },
+  {
    "id": "807356c3-705a-4009-9f63-b8b4d9ae0c16",
    "title": {
     "en": "Kanojo no Tsumeato"
@@ -109,31 +140,12 @@
    "score": 0.23328476
   },
   {
-   "id": "7c9cc903-09c8-405b-882c-e18255eeeadc",
-   "title": {
-    "en": "Hatsukoi Body"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23328476
-  },
-  {
-   "id": "c3d8ec06-882d-4d11-9215-af466c3b5f65",
-   "title": {
-    "en": "Gakkou ja Dekinai Koto"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23328476,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
    "id": "7e7966ce-ff32-4232-a5d0-355424f9f5be",
    "title": {
     "en": "Ki Ni Naru Ponkotsu Gaaru"
    },
    "contentRating": "suggestive",
-   "score": 0.23242636,
+   "score": 0.23160903,
    "languages": [
     "vi"
    ]
@@ -144,20 +156,8 @@
     "en": "Youryukai no Kemono Jijo"
    },
    "contentRating": "suggestive",
-   "score": 0.23064524
-  },
-  {
-   "id": "7a125c16-1b0b-4dd4-ba59-bae15f6586ae",
-   "title": {
-    "en": "Kanojo ni Nekomimi wa Tsukimono Desu!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "vi"
-   ]
+   "score": 0.2294978
   }
  ],
- "updatedAt": "2023-12-10T01:09:53+00:00"
+ "updatedAt": "2023-12-10T18:35:13+00:00"
 }

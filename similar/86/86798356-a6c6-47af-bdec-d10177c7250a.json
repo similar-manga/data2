@@ -11,7 +11,7 @@
     "en": "Oku-san"
    },
    "contentRating": "suggestive",
-   "score": 0.30772743,
+   "score": 0.30701327,
    "languages": [
     "en",
     "de",
@@ -25,7 +25,7 @@
     "en": "Mijuku na Futari de Gozaimasu ga"
    },
    "contentRating": "suggestive",
-   "score": 0.30528608,
+   "score": 0.30514774,
    "languages": [
     "en",
     "id",
@@ -39,7 +39,7 @@
     "en": "Shingeki no Eroko-san ~Hen na Oneesan wa Danshikousei to Nakayoku Naritai~"
    },
    "contentRating": "suggestive",
-   "score": 0.3000307,
+   "score": 0.29926375,
    "languages": [
     "en",
     "pt-br",
@@ -48,24 +48,12 @@
    ]
   },
   {
-   "id": "563ccf5a-7078-4411-b05b-3985295a2e43",
-   "title": {
-    "en": "100-nen no Oshi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.29984775,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "9ba9791c-c3f5-41b7-ae5b-08578305f250",
    "title": {
     "en": "Sabae to Yattara Owaru"
    },
    "contentRating": "suggestive",
-   "score": 0.29665744,
+   "score": 0.29603443,
    "languages": [
     "en",
     "pt-br"
@@ -77,7 +65,7 @@
     "en": "Hikaru to Hikaru"
    },
    "contentRating": "suggestive",
-   "score": 0.292876,
+   "score": 0.2918504,
    "languages": [
     "id",
     "vi",
@@ -85,22 +73,15 @@
    ]
   },
   {
-   "id": "bc24c75e-1c73-43bc-80aa-024ebb041e34",
+   "id": "563ccf5a-7078-4411-b05b-3985295a2e43",
    "title": {
-    "en": "Musume Janakute, Watashi (Mama) ga Suki Nano!?"
+    "en": "100-nen no Oshi"
    },
    "contentRating": "suggestive",
-   "score": 0.28530282,
+   "score": 0.28897384,
    "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
     "en",
-    "id",
-    "fr",
-    "es",
-    "ar",
-    "tr"
+    "pt-br"
    ]
   },
   {
@@ -131,12 +112,31 @@
    ]
   },
   {
+   "id": "bc24c75e-1c73-43bc-80aa-024ebb041e34",
+   "title": {
+    "en": "Musume Janakute, Watashi (Mama) ga Suki Nano!?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28383917,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en",
+    "id",
+    "fr",
+    "es",
+    "ar",
+    "tr"
+   ]
+  },
+  {
    "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
    "title": {
     "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.27057448,
+   "score": 0.27018213,
    "languages": [
     "id",
     "en",
@@ -149,7 +149,7 @@
     "en": "Kashikoi"
    },
    "contentRating": "suggestive",
-   "score": 0.26985192,
+   "score": 0.26895377,
    "languages": [
     "en",
     "pt-br"
@@ -161,7 +161,7 @@
     "en": "Noa-senpai wa Tomodachi."
    },
    "contentRating": "suggestive",
-   "score": 0.26938793,
+   "score": 0.26820955,
    "languages": [
     "en",
     "vi",
@@ -170,12 +170,25 @@
    ]
   },
   {
+   "id": "50a4dbd0-c159-4b65-a28d-c47b0ef77709",
+   "title": {
+    "en": "Swimsuit World"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26577038,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "4509fd84-c003-4c57-ab07-e207e6999dab",
    "title": {
     "en": "Issho ni Kurashite ii desu ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.2682531,
+   "score": 0.26552573,
    "languages": [
     "fr",
     "pt-br",
@@ -187,25 +200,12 @@
    ]
   },
   {
-   "id": "50a4dbd0-c159-4b65-a28d-c47b0ef77709",
-   "title": {
-    "en": "Swimsuit World"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2667275,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
    "id": "38f6e2f4-18d9-428e-acb7-4e15180bac7b",
    "title": {
     "en": "Rome Futari Gurashi"
    },
    "contentRating": "suggestive",
-   "score": 0.2643254,
+   "score": 0.26298887,
    "languages": [
     "en"
    ]
@@ -216,7 +216,7 @@
     "en": "Grand Blue"
    },
    "contentRating": "suggestive",
-   "score": 0.26255646,
+   "score": 0.26160857,
    "languages": [
     "pt-br",
     "en",
@@ -230,5 +230,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:11+00:00"
+ "updatedAt": "2023-12-10T18:23:05+00:00"
 }

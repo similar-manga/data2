@@ -6,6 +6,42 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "19dca456-59dd-466f-8d89-9709984ab10f",
+   "title": {
+    "en": "DOOOOM!"
+   },
+   "contentRating": "safe",
+   "score": 0.23011072,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "4d654a0e-2334-44d1-9da6-55aabfd16ee1",
+   "title": {
+    "en": "A Man Who Goes to Another World Only Receiving the Skill to Open a Status Screen"
+   },
+   "contentRating": "safe",
+   "score": 0.2259396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6905f8f3-152e-4fb5-85db-7ef02d363c15",
+   "title": {
+    "en": "The Cursed Princess and The Ghost Knight"
+   },
+   "contentRating": "safe",
+   "score": 0.22324586,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "34ccdf7c-6324-4cd9-a649-9c4c437ee4c4",
    "title": {
     "en": "The Tree Of Sacrifice"
@@ -30,18 +66,6 @@
    ]
   },
   {
-   "id": "6905f8f3-152e-4fb5-85db-7ef02d363c15",
-   "title": {
-    "en": "The Cursed Princess and The Ghost Knight"
-   },
-   "contentRating": "safe",
-   "score": 0.21556701,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "8c847bb4-d74c-4c68-aa19-70218a287a77",
    "title": {
     "en": "Yuppy"
@@ -58,17 +82,6 @@
    ]
   },
   {
-   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
-   "title": {
-    "en": "Forest Breeding Farm"
-   },
-   "contentRating": "safe",
-   "score": 0.21484028,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e1d98bf5-484b-4d2b-b6bb-75e420d7235a",
    "title": {
     "en": "Unsolicited Induction"
@@ -82,6 +95,72 @@
    ]
   },
   {
+   "id": "953e6bad-e467-459c-ba35-530d231fdf53",
+   "title": {
+    "en": "Kyuuketsuki ni Chi o Suwareru Onnanoko no narenohate"
+   },
+   "contentRating": "safe",
+   "score": 0.20849775,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "beab053f-c265-42ca-b387-a20017748f7c",
+   "title": {
+    "en": "Devil's Curse and Secret"
+   },
+   "contentRating": "safe",
+   "score": 0.20300739,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "45771057-bcb9-40a7-a3a7-2aae119a145e",
+   "title": {
+    "en": "Shoujo, Akuma to Naru ni wa"
+   },
+   "contentRating": "safe",
+   "score": 0.2024102,
+   "languages": [
+    "it",
+    "id",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
+   "title": {
+    "en": "More Than Human: Spiderman Another Story!!"
+   },
+   "contentRating": "safe",
+   "score": 0.19757861,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f0026037-a444-411f-8455-5dfbbe1f0066",
+   "title": {
+    "en": "The Story of a Demon Girl and an Uncle"
+   },
+   "contentRating": "safe",
+   "score": 0.19682567,
+   "languages": [
+    "en",
+    "de",
+    "id",
+    "ru"
+   ]
+  },
+  {
    "id": "4175d425-f81f-44a3-b107-aa4a78e8896d",
    "title": {
     "en": "From Another World"
@@ -92,18 +171,6 @@
     "en",
     "pl",
     "id"
-   ]
-  },
-  {
-   "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
-   "title": {
-    "en": "More Than Human: Spiderman Another Story!!"
-   },
-   "contentRating": "safe",
-   "score": 0.19626339,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -121,93 +188,27 @@
    ]
   },
   {
-   "id": "beab053f-c265-42ca-b387-a20017748f7c",
-   "title": {
-    "en": "Devil's Curse and Secret"
-   },
-   "contentRating": "safe",
-   "score": 0.19300936,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "a5b4be47-405a-41c4-9f80-54973e70dac8",
    "title": {
     "en": "HUNGER"
    },
    "contentRating": "safe",
-   "score": 0.19174251,
+   "score": 0.1951676,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b76dcb6a-40c8-40a3-8f80-7c979eb3bfb2",
+   "id": "279caee1-4a5e-46a9-a472-dc250cd05093",
    "title": {
-    "en": "experimental project 2018/10/32"
+    "en": "Wonder House of Horrors"
    },
    "contentRating": "safe",
-   "score": 0.1912682,
-   "languages": [
-    "en",
-    "zh-hk",
-    "ja"
-   ]
-  },
-  {
-   "id": "6b53d90a-370c-4a35-9fe1-06f8adf93958",
-   "title": {
-    "en": "Sabrina"
-   },
-   "contentRating": "safe",
-   "score": 0.1912682,
-   "languages": [
-    "pl",
-    "it",
-    "bg",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "bb2cecc8-1956-426b-bca7-46e94a2af573",
-   "title": {
-    "en": "Overzealous Fan"
-   },
-   "contentRating": "safe",
-   "score": 0.1912682,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "53637470-31a0-433f-b34f-76df55278468",
-   "title": {
-    "en": "Tunnel"
-   },
-   "contentRating": "safe",
-   "score": 0.1912682,
+   "score": 0.19166298,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "16439c91-bf8f-4698-9d57-997b128346d0",
-   "title": {
-    "en": "Carp"
-   },
-   "contentRating": "safe",
-   "score": 0.1912682,
-   "languages": [
-    "en",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:30+00:00"
+ "updatedAt": "2023-12-10T18:16:01+00:00"
 }

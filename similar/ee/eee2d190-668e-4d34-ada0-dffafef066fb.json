@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e668e628-9d4d-44d2-b95b-edf87a369712",
+   "title": {
+    "en": "Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.2595836,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eab6bb59-228b-4cde-8a73-38443f1c935c",
+   "title": {
+    "en": "Kakuriyo no Yadomeshi"
+   },
+   "contentRating": "safe",
+   "score": 0.25456128,
+   "languages": [
+    "ru",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "7d8eb774-3a02-4845-9e43-ac62913c38b3",
    "title": {
     "en": "Boku ga Shinu made Tsukiatte"
    },
    "contentRating": "safe",
-   "score": 0.2487347,
+   "score": 0.24437803,
    "languages": [
     "vi",
     "en"
@@ -23,7 +47,7 @@
     "en": "Summer Blue"
    },
    "contentRating": "safe",
-   "score": 0.24266663,
+   "score": 0.24078913,
    "languages": [
     "en"
    ]
@@ -46,7 +70,18 @@
     "en": "Kimi o Matsu -\u003e Akaiito"
    },
    "contentRating": "safe",
-   "score": 0.21758218,
+   "score": 0.21714264,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
+   "title": {
+    "en": "Princess Ai Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.21589611,
    "languages": [
     "en"
    ]
@@ -57,20 +92,9 @@
     "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.2108747,
+   "score": 0.21014218,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
-   "title": {
-    "en": "Kamisama Game"
-   },
-   "contentRating": "safe",
-   "score": 0.20439574,
-   "languages": [
     "en"
    ]
   },
@@ -80,7 +104,18 @@
     "en": "Kimi ga Hikari"
    },
    "contentRating": "safe",
-   "score": 0.20298162,
+   "score": 0.20296383,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+   "title": {
+    "en": "Kamisama Game"
+   },
+   "contentRating": "safe",
+   "score": 0.20169903,
    "languages": [
     "en"
    ]
@@ -91,7 +126,7 @@
     "en": "Anne the Lover"
    },
    "contentRating": "safe",
-   "score": 0.20266478,
+   "score": 0.20140593,
    "languages": [
     "en"
    ]
@@ -102,9 +137,34 @@
     "en": "Koi suru 1/4"
    },
    "contentRating": "safe",
-   "score": 0.20165248,
+   "score": 0.20049252,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
+   "title": {
+    "en": "Shigatsu no Kimi, Spica."
+   },
+   "contentRating": "safe",
+   "score": 0.20047124,
+   "languages": [
+    "es-la",
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9fe65996-bbab-41c4-8553-d677f409c342",
+   "title": {
+    "en": "Trouble G"
+   },
+   "contentRating": "safe",
+   "score": 0.20033652,
+   "languages": [
     "en"
    ]
   },
@@ -114,77 +174,22 @@
     "en": "Aries"
    },
    "contentRating": "safe",
-   "score": 0.19906326,
+   "score": 0.1983183,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "36320572-a99d-4f8f-904e-630312cc963c",
+   "id": "96b0f185-d209-49c6-aabf-57873e8ed17f",
    "title": {
-    "en": "12 Months"
+    "en": "Sweet Revenge"
    },
    "contentRating": "safe",
-   "score": 0.19535257,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "47f42174-e68c-462d-a37a-7eead32858c6",
-   "title": {
-    "en": "Asura"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
-   "title": {
-    "en": "Twinkle Loop☆Story"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b815665-7f50-48c1-af81-4fc756eef672",
-   "title": {
-    "en": "Blind Game - New Age Hakkenden"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
-   "title": {
-    "en": "a cup of..."
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fe03831e-c8b8-4c82-b244-f71b095aab2c",
-   "title": {
-    "en": "Line"
-   },
-   "contentRating": "safe",
-   "score": 0.19077033,
+   "score": 0.19770825,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:37+00:00"
+ "updatedAt": "2023-12-10T18:34:35+00:00"
 }

@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
+   "title": {
+    "en": "Battle in 5 Seconds After Meeting"
+   },
+   "contentRating": "safe",
+   "score": 0.3010284,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "ru",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
    "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
    "title": {
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.28753525,
+   "score": 0.28732908,
    "languages": [
     "pt-br",
     "en",
@@ -25,7 +41,7 @@
     "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.26942065,
+   "score": 0.2697153,
    "languages": [
     "en"
    ]
@@ -36,11 +52,34 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.25496012,
+   "score": 0.25446498,
    "languages": [
     "it",
     "pl",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "67a021af-30c8-4f1e-a914-169097c5f34b",
+   "title": {
+    "en": "Ni Luo Ya - Niraya"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "e95d23ae-6639-4332-adb4-036b925e1418",
+   "title": {
+    "en": "Genocider Mami"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "en"
    ]
   },
@@ -68,9 +107,9 @@
    ]
   },
   {
-   "id": "e95d23ae-6639-4332-adb4-036b925e1418",
+   "id": "9842df90-53a8-4a26-8696-2b47a6a52cf9",
    "title": {
-    "en": "Genocider Mami"
+    "en": "Mononoke no Ran"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -84,7 +123,7 @@
     "en": "Sol Trigger"
    },
    "contentRating": "safe",
-   "score": 0.22299348,
+   "score": 0.22254978,
    "languages": [
     "en"
    ]
@@ -95,18 +134,7 @@
     "en": "Composi!"
    },
    "contentRating": "safe",
-   "score": 0.22091709,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
-   "title": {
-    "en": "2 x Bone"
-   },
-   "contentRating": "safe",
-   "score": 0.21752913,
+   "score": 0.22036198,
    "languages": [
     "en"
    ]
@@ -117,7 +145,7 @@
     "en": "Saint Seiya - Next Dimension"
    },
    "contentRating": "safe",
-   "score": 0.21752536,
+   "score": 0.2181936,
    "languages": [
     "pt-br",
     "es",
@@ -126,12 +154,23 @@
    ]
   },
   {
+   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
+   "title": {
+    "en": "2 x Bone"
+   },
+   "contentRating": "safe",
+   "score": 0.21661073,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dae4fe08-40b7-4f00-9f38-796cc688e82f",
    "title": {
     "en": "Dandelion"
    },
    "contentRating": "safe",
-   "score": 0.21436949,
+   "score": 0.21344091,
    "languages": [
     "en"
    ]
@@ -142,7 +181,7 @@
     "en": "Oni ni Itaru Doro"
    },
    "contentRating": "safe",
-   "score": 0.21323192,
+   "score": 0.21294355,
    "languages": [
     "en"
    ]
@@ -153,50 +192,12 @@
     "en": "Namida wo Yurushita Jigoku no Shisha"
    },
    "contentRating": "safe",
-   "score": 0.20904101,
+   "score": 0.20764355,
    "languages": [
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "bc06172f-8e62-4e92-84ec-2bfbd9dab255",
-   "title": {
-    "en": "Ueki no Housoku"
-   },
-   "contentRating": "safe",
-   "score": 0.20684667,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "51643b03-ba9f-435d-a70a-d2e5b35e6cea",
-   "title": {
-    "en": "Sexy☆Socks"
-   },
-   "contentRating": "safe",
-   "score": 0.20660865,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.20620883,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:12+00:00"
+ "updatedAt": "2023-12-10T18:31:01+00:00"
 }

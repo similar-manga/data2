@@ -11,7 +11,7 @@
     "en": "Tank Chair"
    },
    "contentRating": "safe",
-   "score": 0.19752835,
+   "score": 0.19610946,
    "languages": [
     "vi",
     "en",
@@ -46,7 +46,7 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.17412303,
+   "score": 0.17361785,
    "languages": [
     "en"
    ]
@@ -75,6 +75,21 @@
    "score": 0.17355718,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d4b99a69-f4ac-460a-910a-b578ba17cf17",
+   "title": {
+    "en": "Jank Runk Family"
+   },
+   "contentRating": "safe",
+   "score": 0.17029023,
+   "languages": [
+    "fr",
+    "en",
+    "id",
+    "it",
+    "ar"
    ]
   },
   {
@@ -132,11 +147,22 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.15712884,
+   "score": 0.15589806,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "1a40552b-6f07-4817-978a-180996e98221",
+   "title": {
+    "en": "An Inquiry Concerning A Mechanistic Worldview of the Pituitary Gland"
+   },
+   "contentRating": "safe",
+   "score": 0.15350442,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -146,6 +172,17 @@
    },
    "contentRating": "safe",
    "score": 0.15104425,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c5eb230c-7955-4753-857e-6d4b73fd0d26",
+   "title": {
+    "en": "Doomsday Revenge Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.14926371,
    "languages": [
     "en"
    ]
@@ -162,52 +199,17 @@
    ]
   },
   {
-   "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
+   "id": "75043a3f-daec-4ced-943c-65805e837c68",
    "title": {
-    "en": "Star Wars - The Mandalorian"
+    "en": "A Middle-aged Man Who Returned From Another World Becomes Unrivaled In The Apocalyptic World"
    },
    "contentRating": "safe",
-   "score": 0.14645095,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
-   "title": {
-    "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.14645095,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e56522f-7c12-4f65-941d-27297dbe1092",
-   "title": {
-    "en": "86 -Eighty Six- Run Through the Battlefront"
-   },
-   "contentRating": "safe",
-   "score": 0.14632413,
+   "score": 0.14902058,
    "languages": [
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
-   "title": {
-    "en": "Ankoku Jiten"
-   },
-   "contentRating": "safe",
-   "score": 0.14612879,
-   "languages": [
-    "ru",
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:11+00:00"
+ "updatedAt": "2023-12-10T18:20:20+00:00"
 }

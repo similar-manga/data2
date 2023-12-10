@@ -11,7 +11,26 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.29657537
+   "score": 0.29738733
+  },
+  {
+   "id": "48b3b434-19f4-42f3-9167-62d803efdb38",
+   "title": {
+    "en": "MAHABHARATHAM"
+   },
+   "contentRating": "safe",
+   "score": 0.2743757
+  },
+  {
+   "id": "539aaad5-1663-4fba-8d03-ea9c4d0c8525",
+   "title": {
+    "ja": "Woll"
+   },
+   "contentRating": "safe",
+   "score": 0.2469223,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -19,7 +38,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.23501122,
+   "score": 0.23903418,
    "languages": [
     "en"
    ]
@@ -30,7 +49,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.22760193
+   "score": 0.22848405
   },
   {
    "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
@@ -41,15 +60,15 @@
    "score": 0.22604515
   },
   {
-   "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
+   "id": "24c75b6c-fd19-4938-b829-7bd883154e42",
    "title": {
-    "en": "Prince of Tennis II"
+    "en": "BLACK999"
    },
    "contentRating": "safe",
-   "score": 0.22461623,
+   "score": 0.22401117,
    "languages": [
-    "pl",
-    "es",
+    "id",
+    "es-la",
     "en"
    ]
   },
@@ -59,20 +78,19 @@
     "en": "Lightning Boy Spark Dan"
    },
    "contentRating": "safe",
-   "score": 0.22274767
+   "score": 0.222592
   },
   {
-   "id": "a4304d3b-191d-471f-8c78-353d403a35d0",
+   "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
    "title": {
-    "en": "Sengoku Komachi Kuroutan: Noukou Giga"
+    "en": "Prince of Tennis II"
    },
    "contentRating": "safe",
-   "score": 0.21521041,
+   "score": 0.22156358,
    "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "id"
+    "pl",
+    "es",
+    "en"
    ]
   },
   {
@@ -81,10 +99,40 @@
     "en": "Street Fighter II"
    },
    "contentRating": "safe",
-   "score": 0.21388318,
+   "score": 0.2148331,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a4304d3b-191d-471f-8c78-353d403a35d0",
+   "title": {
+    "en": "Sengoku Komachi Kuroutan: Noukou Giga"
+   },
+   "contentRating": "safe",
+   "score": 0.21481304,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "c5db38b5-4b6b-43a1-908b-894bdcdbf120",
+   "title": {
+    "en": "Ninja Hattori-Kun"
+   },
+   "contentRating": "safe",
+   "score": 0.21008828
+  },
+  {
+   "id": "c22edde5-e980-42b8-82c5-5c9d81a53d58",
+   "title": {
+    "en": "New Ninja Hattori-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.21008828
   },
   {
    "id": "75584961-7595-415f-805b-e4bc8937213c",
@@ -92,7 +140,7 @@
     "en": "NOW"
    },
    "contentRating": "safe",
-   "score": 0.2093993,
+   "score": 0.20900014,
    "languages": [
     "en"
    ]
@@ -103,7 +151,7 @@
     "en": "Tsubasa"
    },
    "contentRating": "safe",
-   "score": 0.20578974
+   "score": 0.20560631
   },
   {
    "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
@@ -119,59 +167,7 @@
     "vi",
     "es-la"
    ]
-  },
-  {
-   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
-   "title": {
-    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
-   },
-   "contentRating": "safe",
-   "score": 0.20458247,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
-   "title": {
-    "en": "Warabe no Kusa"
-   },
-   "contentRating": "safe",
-   "score": 0.19957672,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
-   "title": {
-    "en": "The Zero Zero Directive"
-   },
-   "contentRating": "safe",
-   "score": 0.19739145
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.19662231,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9419ddb3-7c92-4737-a5fa-cee2e00973c8",
-   "title": {
-    "en": "The Grand Legend Ramayana"
-   },
-   "contentRating": "safe",
-   "score": 0.19641854,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:10+00:00"
+ "updatedAt": "2023-12-10T18:25:33+00:00"
 }

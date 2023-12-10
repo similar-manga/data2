@@ -6,12 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "331660d5-a2f4-47d8-8da8-99dfe5277e56",
+   "title": {
+    "en": "Ikitsuku Saki wa Yuusha ka Maou ka"
+   },
+   "contentRating": "safe",
+   "score": 0.33355948,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "c79dceb6-9d5b-4d52-9d58-89afde9c264f",
+   "title": {
+    "en": "Shounin Yuusha wa Isekai wo Gyuujiru!"
+   },
+   "contentRating": "safe",
+   "score": 0.3047011,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "5127bc3e-6b87-4fa2-82eb-fd363cd4c10a",
    "title": {
     "en": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!"
    },
    "contentRating": "safe",
-   "score": 0.2927134,
+   "score": 0.29021084,
    "languages": [
     "en",
     "ru"
@@ -23,7 +50,7 @@
     "en": "The West Wind and the Sun: Zephyr and Sol"
    },
    "contentRating": "safe",
-   "score": 0.27455604,
+   "score": 0.2733794,
    "languages": [
     "fr",
     "en",
@@ -33,12 +60,26 @@
    ]
   },
   {
+   "id": "002871dd-5d07-4204-a6fd-a33a44af2630",
+   "title": {
+    "en": "I Will Live Freely in Another World with Equipment Manufacturing Cheat"
+   },
+   "contentRating": "safe",
+   "score": 0.2717802,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
    "id": "c0cd5eba-eff5-4d3c-bcf2-a337b93f2347",
    "title": {
     "en": "I Received Half of the World From the Demon King!"
    },
    "contentRating": "safe",
-   "score": 0.26923078,
+   "score": 0.26601148,
    "languages": [
     "vi",
     "it",
@@ -54,7 +95,18 @@
     "en": "Gakuen Kishi no Level up!"
    },
    "contentRating": "safe",
-   "score": 0.26061144,
+   "score": 0.25893766,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c3aa0eb-0df9-42f6-8401-7f1cbb28253d",
+   "title": {
+    "en": "I Have a Set of Passive Skills"
+   },
+   "contentRating": "safe",
+   "score": 0.2533807,
    "languages": [
     "en"
    ]
@@ -65,9 +117,22 @@
     "en": "Hippocrate In Another World"
    },
    "contentRating": "safe",
-   "score": 0.2505472,
+   "score": 0.24958323,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "64537bd9-3ba8-4b0c-86fb-19059d3539a3",
+   "title": {
+    "en": "Machigai Shoukan! Oidasareta kedo Joui Gokan Skill de Rakuraku Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24820937,
+   "languages": [
+    "fr",
+    "en",
+    "id"
    ]
   },
   {
@@ -76,39 +141,13 @@
     "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
    },
    "contentRating": "safe",
-   "score": 0.24920836,
+   "score": 0.24730055,
    "languages": [
     "en",
     "fr",
     "pt-br",
     "es-la",
     "ko"
-   ]
-  },
-  {
-   "id": "3d3dda69-7387-4732-b114-e4bb3de67180",
-   "title": {
-    "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.2482818,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "228a5457-7da0-432a-85f4-e011877230a1",
-   "title": {
-    "en": "I Turned Into a Farm Girl After I Got Reincarnated"
-   },
-   "contentRating": "safe",
-   "score": 0.24578342,
-   "languages": [
-    "en",
-    "ru",
-    "id"
    ]
   },
   {
@@ -126,15 +165,39 @@
    ]
   },
   {
-   "id": "5f64d517-c4ea-40c0-a463-fcc069d39d3b",
+   "id": "228a5457-7da0-432a-85f4-e011877230a1",
    "title": {
-    "en": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou"
+    "en": "I Turned Into a Farm Girl After I Got Reincarnated"
    },
    "contentRating": "safe",
-   "score": 0.24146938,
+   "score": 0.24439625,
    "languages": [
-    "id",
+    "en",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "3d3dda69-7387-4732-b114-e4bb3de67180",
+   "title": {
+    "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
+   },
+   "contentRating": "safe",
+   "score": 0.24437024,
+   "languages": [
     "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f093706a-f96a-4bef-8ef1-d1db1fa8a7c1",
+   "title": {
+    "en": "Hazure Skill \"Kinomi Master\""
+   },
+   "contentRating": "safe",
+   "score": 0.24333026,
+   "languages": [
     "en"
    ]
   },
@@ -144,79 +207,14 @@
     "en": "King Killer Reborn"
    },
    "contentRating": "safe",
-   "score": 0.24021053,
+   "score": 0.2398249,
    "languages": [
     "pt-br",
     "en",
     "fr",
     "id"
    ]
-  },
-  {
-   "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
-   "title": {
-    "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
-   },
-   "contentRating": "safe",
-   "score": 0.23774952,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "73839d4c-51ab-4da1-ae88-ec9f80032af5",
-   "title": {
-    "en": "Rules for Peddling in Another World"
-   },
-   "contentRating": "safe",
-   "score": 0.23628347,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
-   "title": {
-    "en": "Maseki Gurume: Mamono no Chikara wo Tabeta Ore wa Saikyou!"
-   },
-   "contentRating": "safe",
-   "score": 0.23589511,
-   "languages": [
-    "es-la",
-    "en",
-    "id",
-    "pt-br",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "47639108-3f64-4515-843f-6283b86dab3f",
-   "title": {
-    "en": "A Single Aristocrat Enjoys a Different World: The Graceful Life of a Man Who Never Gets Married"
-   },
-   "contentRating": "safe",
-   "score": 0.23458362,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "74dc2c17-cb77-4b82-8875-ea1b313cfe44",
-   "title": {
-    "en": "My Harem Depends on Drawing Cards"
-   },
-   "contentRating": "safe",
-   "score": 0.23359372,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:47+00:00"
+ "updatedAt": "2023-12-10T18:16:40+00:00"
 }

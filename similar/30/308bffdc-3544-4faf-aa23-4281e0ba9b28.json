@@ -11,7 +11,7 @@
     "en": "Pandora"
    },
    "contentRating": "safe",
-   "score": 0.4024232,
+   "score": 0.60760397,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.24969006,
+   "score": 0.24823229,
    "languages": [
     "en",
     "id",
@@ -40,7 +40,7 @@
     "en": "Fuseikai no Shiro Madoushi"
    },
    "contentRating": "safe",
-   "score": 0.24728754,
+   "score": 0.24688406,
    "languages": [
     "ru",
     "en"
@@ -60,17 +60,6 @@
     "pl",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "5a7c9ba0-61c2-427f-bb8d-3a1807256ef7",
-   "title": {
-    "en": "Braids: Case of the Braid Killer"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -121,12 +110,34 @@
    ]
   },
   {
+   "id": "5a7c9ba0-61c2-427f-bb8d-3a1807256ef7",
+   "title": {
+    "en": "Braids: Case of the Braid Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
+   "title": {
+    "en": "Captain Tsubasa (Weekly Shonen Jump 40th Anniversary)"
+   },
+   "contentRating": "safe",
+   "score": 0.22922252,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
    "title": {
     "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
    },
    "contentRating": "safe",
-   "score": 0.22780105,
+   "score": 0.22781722,
    "languages": [
     "es",
     "th",
@@ -141,7 +152,7 @@
     "en": "Aphorism"
    },
    "contentRating": "safe",
-   "score": 0.22582199,
+   "score": 0.22234559,
    "languages": [
     "pl",
     "en",
@@ -150,37 +161,15 @@
    ]
   },
   {
-   "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
-   "title": {
-    "en": "Captain Tsubasa (Weekly Shonen Jump 40th Anniversary)"
-   },
-   "contentRating": "safe",
-   "score": 0.2218749,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "11949e8d-b088-44f3-b656-97408e49bda5",
    "title": {
     "en": "Atagoul Treasure Box"
    },
    "contentRating": "safe",
-   "score": 0.22156991,
+   "score": 0.22205193,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
-   "title": {
-    "en": "Nagisa Round"
-   },
-   "contentRating": "safe",
-   "score": 0.22154607,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -205,7 +194,18 @@
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
+   "title": {
+    "en": "Nagisa Round"
+   },
+   "contentRating": "safe",
+   "score": 0.21921895,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:36+00:00"
+ "updatedAt": "2023-12-10T18:13:29+00:00"
 }

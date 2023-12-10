@@ -6,14 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3e3aabb9-87f1-4897-b35f-b0658c6b5212",
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
    "title": {
-    "en": "Cebolinha Versus Cu 2"
+    "en": "I Spy"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.25793388,
    "languages": [
-    "pt-br"
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
    ]
   },
   {
@@ -27,6 +31,17 @@
     "vi",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "3e3aabb9-87f1-4897-b35f-b0658c6b5212",
+   "title": {
+    "en": "Cebolinha Versus Cu 2"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -47,7 +62,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.20478117,
+   "score": 0.20503242,
    "languages": [
     "pt-br",
     "pl",
@@ -68,12 +83,25 @@
    ]
   },
   {
+   "id": "92701b20-044d-4795-b02e-f2b960639ce8",
+   "title": {
+    "en": "Sono Go No Crows"
+   },
+   "contentRating": "safe",
+   "score": 0.20035644,
+   "languages": [
+    "en",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
    "id": "5c7b34cb-b32b-4f3e-9a56-a2888693e852",
    "title": {
     "en": "Digimon Dreamers"
    },
    "contentRating": "safe",
-   "score": 0.19405872,
+   "score": 0.19295643,
    "languages": [
     "en",
     "pt-br",
@@ -94,6 +122,24 @@
    ]
   },
   {
+   "id": "ce7cd7b0-e595-4f0d-98e8-447da10d652d",
+   "title": {
+    "en": "Yozakura-san Chi no Daisakusen"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "vi",
+    "pt-br",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "869ad120-7341-4ea9-a980-f3545bc0503c",
    "title": {
     "en": "Dr. Stone: 4D Science"
@@ -110,7 +156,7 @@
     "en": "Undead Unluck"
    },
    "contentRating": "safe",
-   "score": 0.18328314,
+   "score": 0.18355334,
    "languages": [
     "ru",
     "fr",
@@ -124,12 +170,43 @@
    ]
   },
   {
+   "id": "f8f3f045-01b5-4216-8f41-d947d8b448b0",
+   "title": {
+    "en": "Youchien Wars"
+   },
+   "contentRating": "safe",
+   "score": 0.18326238,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "th",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "title": {
+    "en": "World Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.17732343,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "es-la",
+    "de",
+    "tr"
+   ]
+  },
+  {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
    "title": {
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.18254957,
+   "score": 0.17496355,
    "languages": [
     "ru",
     "fr",
@@ -141,22 +218,6 @@
     "tr",
     "it",
     "vi"
-   ]
-  },
-  {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
-   "title": {
-    "en": "World Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.17795159,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "de",
-    "tr"
    ]
   },
   {
@@ -182,58 +243,7 @@
     "fa",
     "th"
    ]
-  },
-  {
-   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
-   "title": {
-    "en": "Count Over"
-   },
-   "contentRating": "safe",
-   "score": 0.1739348,
-   "languages": [
-    "pt-br",
-    "id",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "2355a333-d58e-454f-9f21-5bc07323f57d",
-   "title": {
-    "en": "Naruto (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.16865693,
-   "languages": [
-    "ar",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "76eb5273-5869-4f5a-8b43-853f55efd6cd",
-   "title": {
-    "en": "SPY×FAMILY - Digital Colored Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.16610737,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "487f1f04-75f3-4a2e-a4af-76e615e32585",
-   "title": {
-    "en": "One Piece Omake"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:28+00:00"
+ "updatedAt": "2023-12-10T18:31:44+00:00"
 }

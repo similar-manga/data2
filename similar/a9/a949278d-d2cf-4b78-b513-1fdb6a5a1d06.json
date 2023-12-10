@@ -11,7 +11,7 @@
     "en": "SKY CLAW"
    },
    "contentRating": "safe",
-   "score": 0.31291926,
+   "score": 0.3108665,
    "languages": [
     "fr",
     "en"
@@ -23,12 +23,23 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.29811943,
+   "score": 0.297854,
    "languages": [
     "fr",
     "en",
     "pl",
     "tr"
+   ]
+  },
+  {
+   "id": "b120f8d9-643b-4e89-8364-fe5525ca3db5",
+   "title": {
+    "en": "Onigoroki"
+   },
+   "contentRating": "safe",
+   "score": 0.29082215,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -49,7 +60,7 @@
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.2652422,
+   "score": 0.26468816,
    "languages": [
     "en"
    ]
@@ -60,7 +71,7 @@
     "en": "Jekyll no Tsukaima"
    },
    "contentRating": "safe",
-   "score": 0.26040402,
+   "score": 0.25975934,
    "languages": [
     "en",
     "pl"
@@ -72,11 +83,34 @@
     "en": "Magatsuhi"
    },
    "contentRating": "safe",
-   "score": 0.25878197,
+   "score": 0.25824678,
    "languages": [
     "pl",
     "en",
     "bg"
+   ]
+  },
+  {
+   "id": "a86c862f-3b06-48ed-a009-f73afdcce284",
+   "title": {
+    "en": "Da Yuan Shen"
+   },
+   "contentRating": "safe",
+   "score": 0.24966858,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5c1da05c-5632-4eca-89ae-d9cf0b2d5fae",
+   "title": {
+    "en": "Zao Saga"
+   },
+   "contentRating": "safe",
+   "score": 0.24947587,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -85,29 +119,7 @@
     "en": "Yumil no Majin"
    },
    "contentRating": "safe",
-   "score": 0.25028163,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78cad88c-86e1-4f85-9303-267b4d3ac7bc",
-   "title": {
-    "en": "Lol-Immortal Jurney"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
-   "title": {
-    "en": "Hane no Ichizoku"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24881506,
    "languages": [
     "en"
    ]
@@ -125,6 +137,17 @@
    ]
   },
   {
+   "id": "127574ba-7797-48dd-b6f1-ff2e10525d4f",
+   "title": {
+    "en": "Clown"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
    "title": {
     "en": "Chrono Mansion"
@@ -134,6 +157,17 @@
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "78cad88c-86e1-4f85-9303-267b4d3ac7bc",
+   "title": {
+    "en": "Lol-Immortal Jurney"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -148,55 +182,17 @@
    ]
   },
   {
-   "id": "127574ba-7797-48dd-b6f1-ff2e10525d4f",
+   "id": "67e38fec-4bf7-4838-8aa3-66961a34389d",
    "title": {
-    "en": "Clown"
+    "en": "Rojiura no Mahou Tantei Jimusho"
    },
    "contentRating": "safe",
    "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69489ecb-cb30-49bc-9d5f-fc47de896a86",
-   "title": {
-    "en": "Boruto: Road to \"B\""
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "ba129667-91ae-414d-bca8-0d316e53b113",
-   "title": {
-    "en": "Demon Accessory"
-   },
-   "contentRating": "safe",
-   "score": 0.24273166,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
-   "title": {
-    "en": "FREAKS"
-   },
-   "contentRating": "safe",
-   "score": 0.24101067,
    "languages": [
     "en",
-    "ru",
-    "it",
-    "th",
-    "hu",
-    "fr"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:43+00:00"
+ "updatedAt": "2023-12-10T18:27:13+00:00"
 }

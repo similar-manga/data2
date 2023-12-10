@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6b0d75b5-443a-49ed-8de1-29356bf4beec",
-   "title": {
-    "en": "Hatsukoi"
-   },
-   "contentRating": "safe",
-   "score": 0.28326726,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
     "en": "Nageku Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.28298858,
+   "score": 0.2809762,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "6b0d75b5-443a-49ed-8de1-29356bf4beec",
+   "title": {
+    "en": "Hatsukoi"
+   },
+   "contentRating": "safe",
+   "score": 0.27529904,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,7 +34,7 @@
     "en": "Shinigami no Aria"
    },
    "contentRating": "safe",
-   "score": 0.27439207,
+   "score": 0.27349812,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.26086038,
+   "score": 0.2605972,
    "languages": [
     "pl",
     "en"
@@ -57,7 +57,7 @@
     "en": "Ningyou Saisei Koujou"
    },
    "contentRating": "safe",
-   "score": 0.24978201,
+   "score": 0.24940827,
    "languages": [
     "en"
    ]
@@ -79,22 +79,10 @@
     "en": "Phantom Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.24435012,
+   "score": 0.24337426,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "28f0134f-d1f8-4caa-9d34-23527c6a677d",
-   "title": {
-    "en": "Mayonaka ni Binetsu"
-   },
-   "contentRating": "safe",
-   "score": 0.24280663,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -103,10 +91,22 @@
     "en": "Mokume Neko no Ie"
    },
    "contentRating": "safe",
-   "score": 0.24268651,
+   "score": 0.24189837,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "28f0134f-d1f8-4caa-9d34-23527c6a677d",
+   "title": {
+    "en": "Mayonaka ni Binetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24187881,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -115,7 +115,7 @@
     "en": "Wasurene no Language"
    },
    "contentRating": "safe",
-   "score": 0.24015576,
+   "score": 0.23926009,
    "languages": [
     "pl",
     "en",
@@ -128,7 +128,7 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.23550834,
+   "score": 0.23491107,
    "languages": [
     "en"
    ]
@@ -139,7 +139,7 @@
     "en": "Sasagu Omoi wa Hana Meguri"
    },
    "contentRating": "safe",
-   "score": 0.23322804,
+   "score": 0.23248829,
    "languages": [
     "en"
    ]
@@ -150,7 +150,7 @@
     "en": "Hoshi ni Negau"
    },
    "contentRating": "safe",
-   "score": 0.23207965,
+   "score": 0.2311927,
    "languages": [
     "pt-br",
     "en",
@@ -163,7 +163,7 @@
     "en": "Another Me"
    },
    "contentRating": "safe",
-   "score": 0.23159404,
+   "score": 0.23089601,
    "languages": [
     "en"
    ]
@@ -193,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:04+00:00"
+ "updatedAt": "2023-12-10T18:35:40+00:00"
 }

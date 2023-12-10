@@ -6,14 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2d333e55-ceb8-4590-98f1-94283ee98c0e",
+   "title": {
+    "en": "The 9 Lives"
+   },
+   "contentRating": "safe",
+   "score": 0.30552974,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "04fe7b0d-a5f2-4ee5-b652-32d33abd76a2",
    "title": {
     "en": "Hakobunjaa"
    },
    "contentRating": "safe",
-   "score": 0.29330444,
+   "score": 0.292544,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7334af26-86c1-4469-86f1-26080f8a44c5",
+   "title": {
+    "en": "Pandora's Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -28,12 +50,31 @@
    ]
   },
   {
+   "id": "e5f34b94-babc-41f6-aa88-85b1e81b3be2",
+   "title": {
+    "en": "Flowering"
+   },
+   "contentRating": "safe",
+   "score": 0.27383596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bafac755-ee71-49a8-8324-05ff69712125",
+   "title": {
+    "en": "Märchen"
+   },
+   "contentRating": "safe",
+   "score": 0.27198395
+  },
+  {
    "id": "d4a2dcbb-f880-466b-9345-145c8569d55a",
    "title": {
     "en": "Dokunoaji"
    },
    "contentRating": "safe",
-   "score": 0.2546169,
+   "score": 0.2515181,
    "languages": [
     "en",
     "it",
@@ -41,9 +82,28 @@
    ]
   },
   {
+   "id": "d6c40d0b-5a4c-4579-ae13-e256e7abbf4d",
+   "title": {
+    "en": "Give Up on Love"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "21f04172-d353-4c3f-b733-c2e2e67f2a79",
    "title": {
     "en": "Twin Chikyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583
+  },
+  {
+   "id": "8e58c309-32b4-4791-9229-a2f7fcfb9d5b",
+   "title": {
+    "en": "Liling-Po"
    },
    "contentRating": "safe",
    "score": 0.24558583
@@ -63,23 +123,23 @@
    ]
   },
   {
-   "id": "c619fde7-c5db-40f6-ac1f-e68c6d81f68f",
+   "id": "8856c1b2-fc7a-4191-ac19-e42b4a327094",
    "title": {
-    "en": "Saijoukyuu FORTUNE"
+    "en": "Rasen no Kakera"
    },
    "contentRating": "safe",
-   "score": 0.24160752,
+   "score": 0.24257484
+  },
+  {
+   "id": "37bf1c2f-7974-456a-ab6a-c7534b70638e",
+   "title": {
+    "en": "Avian Wander"
+   },
+   "contentRating": "safe",
+   "score": 0.24171434,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7644c204-6aac-4f5c-8396-84c71f5092ba",
-   "title": {
-    "en": "Senshuuraku Made Matte"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752
   },
   {
    "id": "766ed6e0-057c-4c66-822e-f0cd3299a94e",
@@ -90,89 +150,21 @@
    "score": 0.24160752
   },
   {
-   "id": "9ce73207-5fd3-44c4-920e-15b346f65abf",
+   "id": "939947ec-3263-49a0-b713-dab01fbf38c9",
    "title": {
-    "en": "Kizudarake no Otokotachi"
+    "en": "Mori Boy"
    },
    "contentRating": "safe",
    "score": 0.24160752
   },
   {
-   "id": "8e412b51-ff24-4e91-a43f-9f48c035c445",
+   "id": "ed77ad84-b4e3-46f5-b399-4b3e4793e66b",
    "title": {
-    "en": "Devil's Bride"
+    "en": "Destinies Cross"
    },
    "contentRating": "safe",
-   "score": 0.23679905,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "c01e79b5-e2ca-4a9c-a424-4cae6b97d532",
-   "title": {
-    "en": "The Boy from the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.22374924,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "606e05a6-bc23-44f8-b9db-48393e852a2b",
-   "title": {
-    "en": "Bamford Koushakuke no Shitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.21965864,
-   "languages": [
-    "en",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "f3fd6d96-9185-4606-b6b4-8656571ea17e",
-   "title": {
-    "en": "Otokogokoro to Haru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.21965864
-  },
-  {
-   "id": "64979dc3-8f25-4ce3-aa1e-66c83a362773",
-   "title": {
-    "en": "Horror Collector"
-   },
-   "contentRating": "safe",
-   "score": 0.21965864,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ca79290-c012-4de3-85f7-a3562fa81773",
-   "title": {
-    "en": "105 Goushitsuji no Inu"
-   },
-   "contentRating": "safe",
-   "score": 0.21919854,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2eb733cb-bce8-40a9-a1f4-0e70cd7fef44",
-   "title": {
-    "en": "Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.21017134,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24160752
   }
  ],
- "updatedAt": "2023-12-10T01:09:42+00:00"
+ "updatedAt": "2023-12-10T18:34:46+00:00"
 }

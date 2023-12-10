@@ -6,15 +6,72 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dc378c8b-0b15-4e53-ac2e-bb9b4339d94b",
+   "title": {
+    "en": "Kawaii Hito."
+   },
+   "contentRating": "safe",
+   "score": 0.33154002,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9b7b2fb4-ed65-4a94-9ca8-a5a7451d9d09",
+   "title": {
+    "en": "Hoho ni Shizumu"
+   },
+   "contentRating": "safe",
+   "score": 0.31047097
+  },
+  {
    "id": "95c9f839-6b5a-43a1-a521-57a9b7d9c541",
    "title": {
     "en": "Kimi ni Hana o"
    },
    "contentRating": "safe",
-   "score": 0.31021503,
+   "score": 0.31029534,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "0cc9fe54-8850-437e-8488-28921e26394e",
+   "title": {
+    "en": "Kimi ga Tonari ni Iru Nante"
+   },
+   "contentRating": "safe",
+   "score": 0.30405027,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "9bfc9560-1f52-4cbe-a279-02a8c0e5f0ac",
+   "title": {
+    "en": "Kimi wa Boku no Kagayakeru Hoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.28333306
+  },
+  {
+   "id": "e3a3859d-90e4-4d3d-8ac5-282f75401567",
+   "title": {
+    "en": "Eien no Omoi wo Kimi ni"
+   },
+   "contentRating": "safe",
+   "score": 0.28210422,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b2e4a4c-57ca-425f-bd0e-f73129005150",
+   "title": {
+    "en": "Tsugi wa Ii yo ne, Senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.2807652
   },
   {
    "id": "0dccb0f4-b0da-49fe-9606-5b0fd2ecf7c6",
@@ -22,7 +79,7 @@
     "en": "Kimi Dake ni Ai wo."
    },
    "contentRating": "safe",
-   "score": 0.278498,
+   "score": 0.27937454,
    "languages": [
     "fr",
     "en"
@@ -34,20 +91,27 @@
     "en": "Kimi ga Suki Toka Arienai"
    },
    "contentRating": "safe",
-   "score": 0.2691192,
+   "score": 0.27392215,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "042b4389-a26d-4505-b96b-e9d5fd731f9c",
+   "id": "65d80cdc-f18a-482d-ae90-99fe95eb2784",
    "title": {
-    "en": "Koisuru Mitsuba"
+    "en": "Koi wo suru nara Kimi Igai"
    },
    "contentRating": "safe",
-   "score": 0.26393753,
+   "score": 0.273838
+  },
+  {
+   "id": "a722feb3-c28f-4414-9b74-4ac07c667fea",
+   "title": {
+    "en": "Osanajimi Ja Dame Desu Ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.27201256,
    "languages": [
-    "fr",
     "en"
    ]
   },
@@ -57,7 +121,7 @@
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.25753266,
+   "score": 0.2574605,
    "languages": [
     "es",
     "en"
@@ -69,105 +133,32 @@
     "en": "Kimi no Iru Sekai"
    },
    "contentRating": "safe",
-   "score": 0.25700024
+   "score": 0.25701576
   },
   {
-   "id": "1a3e1ef3-6f44-437c-867c-11b900f6b2a5",
+   "id": "ff35a4d9-338f-4a20-9b68-64bbbbbed7b5",
    "title": {
-    "en": "Shitsuren no Susume"
+    "en": "Watashi no Gochisou wa, Kimi."
    },
    "contentRating": "safe",
-   "score": 0.25297043,
-   "languages": [
-    "it"
-   ]
+   "score": 0.2555803
   },
   {
-   "id": "9eeb828f-b64a-41fa-825e-adc16b8bc4e8",
+   "id": "35e94408-77f6-4cfe-a589-2ddb54706949",
    "title": {
-    "en": "Kare ga Cafe ni Iru no nara"
+    "en": "Boku Datte, Kiss Shitai"
    },
    "contentRating": "safe",
-   "score": 0.25224707
+   "score": 0.25550666
   },
   {
-   "id": "b88ac7a0-ae64-4cb2-819a-c762ce6d53a9",
+   "id": "e4f7b4a3-71b4-4bcc-a043-f1ce97b8e6be",
    "title": {
-    "en": "Kimi to Kiss Shite Sono Ato de"
+    "en": "Senpai Kirai"
    },
    "contentRating": "safe",
-   "score": 0.25047508,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "64748df2-2022-4391-bfac-a0f20ad3cb12",
-   "title": {
-    "en": "Quartet Game"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "7162c4de-b082-4d05-acdd-c7ceb8b59b96",
-   "title": {
-    "en": "Pink de Ikou!"
-   },
-   "contentRating": "safe",
-   "score": 0.24646986,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "628c364b-4389-41ab-abb9-5b9e4f0238cd",
-   "title": {
-    "en": "Kanpeki Kareshi Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.24598683,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e619ca8-db00-4ac2-94df-65550cbf13e2",
-   "title": {
-    "en": "Gokujou Bitter Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.24477
-  },
-  {
-   "id": "137f12d5-e2ab-417d-938c-a62c2a341553",
-   "title": {
-    "en": "Kimi wa Riaru Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.24214038
-  },
-  {
-   "id": "d16741af-0cc9-40c0-b4e4-733630250e29",
-   "title": {
-    "en": "Ohoshi-sama ni Onegai!"
-   },
-   "contentRating": "safe",
-   "score": 0.24076867
-  },
-  {
-   "id": "0db791cc-9806-43df-9e54-bf0adfc96d9c",
-   "title": {
-    "en": "Onee-chan Dorobou"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "bg",
-    "en",
-    "mn"
-   ]
+   "score": 0.2544021
   }
  ],
- "updatedAt": "2023-12-10T01:03:10+00:00"
+ "updatedAt": "2023-12-10T18:17:40+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Daisuki no Yukue"
    },
    "contentRating": "safe",
-   "score": 0.32224706,
+   "score": 0.32159743,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Haruiro Stalker"
    },
    "contentRating": "safe",
-   "score": 0.31259072,
+   "score": 0.31201208,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "Shitteru Kimochi, Shiranai Karada"
    },
    "contentRating": "safe",
-   "score": 0.30183,
+   "score": 0.30139175,
    "languages": [
     "es-la",
     "en",
@@ -48,7 +48,7 @@
     "en": "Senpai no Pocket"
    },
    "contentRating": "safe",
-   "score": 0.29824546,
+   "score": 0.2979916,
    "languages": [
     "en"
    ]
@@ -59,9 +59,20 @@
     "en": "Ookami Lover"
    },
    "contentRating": "safe",
-   "score": 0.2974591,
+   "score": 0.2973226,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "50d6f11a-967c-4aa1-8988-aa804213e5d5",
+   "title": {
+    "en": "Koi Wakaba"
+   },
+   "contentRating": "safe",
+   "score": 0.29396802,
+   "languages": [
     "en"
    ]
   },
@@ -71,7 +82,7 @@
     "en": "Little Lovers"
    },
    "contentRating": "safe",
-   "score": 0.29458445,
+   "score": 0.2931373,
    "languages": [
     "fr",
     "en",
@@ -80,34 +91,12 @@
    ]
   },
   {
-   "id": "50d6f11a-967c-4aa1-8988-aa804213e5d5",
-   "title": {
-    "en": "Koi Wakaba"
-   },
-   "contentRating": "safe",
-   "score": 0.29435876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2c2443dd-0797-480a-9deb-0a550441ee99",
-   "title": {
-    "en": "Uwasa no Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.2932125,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "0510e3fc-a693-4fb5-ae09-80e63df31f5c",
    "title": {
     "en": "Atashi Hitori de Daijoubu"
    },
    "contentRating": "safe",
-   "score": 0.29004836,
+   "score": 0.2895075,
    "languages": [
     "en"
    ]
@@ -118,31 +107,8 @@
     "en": "Love for Sale"
    },
    "contentRating": "safe",
-   "score": 0.28933653,
+   "score": 0.28857023,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "96616a6d-cab7-4d0d-bd71-78d9855dcbed",
-   "title": {
-    "en": "Shuugaku Ryokou no Susume"
-   },
-   "contentRating": "safe",
-   "score": 0.28598097,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
-   "title": {
-    "en": "First Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -158,14 +124,50 @@
    ]
   },
   {
-   "id": "d8761207-d87c-4ea2-a244-b827f3c0f23c",
+   "id": "043fb287-26b7-4089-87e8-5d72e8ea6c8f",
    "title": {
-    "en": "Oishii Kimi List"
+    "en": "Love Log"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "fr",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "7aed6cca-0bc6-4733-a73b-1e56ba1526c4",
+   "title": {
+    "en": "Omae Watashi no Koto Suki daro?"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
+   "title": {
+    "en": "First Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "eb6dee39-20ab-4546-bca9-ba6debd7a1a9",
+   "title": {
+    "en": "Manabiya Ouji"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
     "en"
    ]
   },
@@ -181,18 +183,16 @@
    ]
   },
   {
-   "id": "7aed6cca-0bc6-4733-a73b-1e56ba1526c4",
+   "id": "d37ee149-e0cf-401e-829d-394f459753e1",
    "title": {
-    "en": "Omae Watashi no Koto Suki daro?"
+    "en": "Melange!"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pt-br",
-    "en",
-    "es-la"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:16+00:00"
+ "updatedAt": "2023-12-10T18:36:07+00:00"
 }

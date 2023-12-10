@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.22069672,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6f70226e-52f1-410f-87dd-c59f5c462fbb",
+   "title": {
+    "en": "The Last Dynasty"
+   },
+   "contentRating": "safe",
+   "score": 0.21337543,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4197b707-4866-4e20-b0de-5ca692f41038",
    "title": {
     "en": "Nothing is a Taboo"
    },
    "contentRating": "safe",
-   "score": 0.20998248,
+   "score": 0.21009369,
    "languages": [
     "en"
    ]
@@ -23,6 +45,17 @@
    },
    "contentRating": "safe",
    "score": 0.20905976,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.19910291,
    "languages": [
     "en"
    ]
@@ -51,23 +84,37 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
-   "title": {
-    "en": "Watashi wa Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.18698874,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
    "title": {
     "en": "Pandora"
    },
    "contentRating": "safe",
-   "score": 0.18134648,
+   "score": 0.18038137,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.17197934,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f8cb571e-01e3-4c44-a62e-2fda89ef3564",
+   "title": {
+    "en": "Yumekui Kenbun"
+   },
+   "contentRating": "safe",
+   "score": 0.17069657,
    "languages": [
     "en"
    ]
@@ -91,10 +138,32 @@
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.16956764,
+   "score": 0.16904655,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "57bda7ca-b19e-4912-9ecd-e4082eca1665",
+   "title": {
+    "en": "Undead Girl Murder Farce"
+   },
+   "contentRating": "safe",
+   "score": 0.16856493,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5e8929dc-bc8a-4d93-b4da-2d3b2485f22f",
+   "title": {
+    "en": "Tokyo Kigo Tanpou"
+   },
+   "contentRating": "safe",
+   "score": 0.16655801,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -103,98 +172,23 @@
     "en": "Shirasunamura"
    },
    "contentRating": "safe",
-   "score": 0.16676901,
+   "score": 0.16613881,
    "languages": [
     "en",
     "es"
    ]
   },
   {
-   "id": "76abfbdc-ebc8-401d-892e-7696cc55e203",
+   "id": "498e95c9-292f-4c19-994d-7281b2253a02",
    "title": {
-    "en": "$100 Is Too Cheap"
+    "en": "Ivory Dark"
    },
    "contentRating": "safe",
    "score": 0.16459186,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
-   "title": {
-    "en": "2 x Bone"
-   },
-   "contentRating": "safe",
-   "score": 0.16459186,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
-   "title": {
-    "en": "Yuuyami Tokkoutai"
-   },
-   "contentRating": "safe",
-   "score": 0.15946344,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f",
-   "title": {
-    "en": "Reincarnation no Kaben"
-   },
-   "contentRating": "safe",
-   "score": 0.154547,
-   "languages": [
-    "es-la",
-    "en",
-    "id",
-    "es",
-    "vi",
-    "tr",
-    "pl",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
-   "title": {
-    "en": "Shikigami Twilight Days"
-   },
-   "contentRating": "safe",
-   "score": 0.15361908,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5515114e-079e-473d-a702-09dcad91da07",
-   "title": {
-    "en": "Arborist"
-   },
-   "contentRating": "safe",
-   "score": 0.15361908,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "2a3fff79-557b-4008-8fc3-c5abdde5573e",
-   "title": {
-    "en": "Telepathy Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.15361908,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:27+00:00"
+ "updatedAt": "2023-12-10T18:10:16+00:00"
 }

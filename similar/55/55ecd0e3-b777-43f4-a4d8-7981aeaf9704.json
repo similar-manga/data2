@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c0c46de8-d6b3-4bfb-9783-e29028b05f55",
+   "title": {
+    "en": "Monster Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.27541998
+  },
+  {
    "id": "7b845d9e-887f-4cab-b5c7-41eb9d6943c7",
    "title": {
     "en": "Justice League Origins"
    },
    "contentRating": "safe",
-   "score": 0.27443138,
+   "score": 0.27072567,
    "languages": [
     "pt-br"
    ]
@@ -38,7 +46,7 @@
     "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
    },
    "contentRating": "safe",
-   "score": 0.254776
+   "score": 0.2541176
   },
   {
    "id": "57bdb07c-9338-4d80-a1e3-8eed6238ada4",
@@ -46,7 +54,7 @@
     "en": "Cyborg 009 (SATO Sugar)"
    },
    "contentRating": "safe",
-   "score": 0.24539213
+   "score": 0.24520947
   },
   {
    "id": "85f141a4-0b63-434a-99a6-b8cdb23e7459",
@@ -54,7 +62,7 @@
     "en": "Metro Hunter"
    },
    "contentRating": "safe",
-   "score": 0.23758951
+   "score": 0.2364984
   },
   {
    "id": "6cd75d29-cf7c-485f-ae46-54ed3589e5dc",
@@ -62,11 +70,19 @@
     "en": "The Hollow Regalia"
    },
    "contentRating": "safe",
-   "score": 0.23432869,
+   "score": 0.23377965,
    "languages": [
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "e8a562c7-0632-4d9c-8262-3e9e8378ed83",
+   "title": {
+    "en": "Touch the Pes"
+   },
+   "contentRating": "safe",
+   "score": 0.23315577
   },
   {
    "id": "ddd2e62d-fd39-4dea-875e-273933a0ab15",
@@ -74,7 +90,15 @@
     "en": "Sugaya Mitsuru Short Sci-Fi Manga Collection"
    },
    "contentRating": "safe",
-   "score": 0.23165989
+   "score": 0.230627
+  },
+  {
+   "id": "474d022c-fdb5-452f-a2fb-db8cb5100bcd",
+   "title": {
+    "en": "Default Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.23033255
   },
   {
    "id": "8890b470-44c8-41ce-b514-6182bf363c36",
@@ -82,56 +106,40 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.23011692,
+   "score": 0.2296832,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d6ac40ec-622d-4f27-ad17-270e7e41ace3",
+   "id": "91dcca67-938f-40a5-84ae-6746619107b2",
    "title": {
-    "en": "Earthlight"
+    "en": "Dragon Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.229128,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7471bb32-2e01-4382-997c-9604da2f63d7",
+   "title": {
+    "en": "The Monster Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143
+  },
+  {
+   "id": "43dec29e-821c-459b-983b-315ca12f2c02",
+   "title": {
+    "en": "eV"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0d4e738b-b3ed-4a19-be4c-80fb78e3ab31",
-   "title": {
-    "en": "Armagedon"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6b2def7a-67fd-4052-8ea6-b400a32650fb",
-   "title": {
-    "en": "Guardians of Galaxy: Galaxy Rush"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334
-  },
-  {
-   "id": "5efb379b-1066-4c5a-981c-4617ff7fbf0b",
-   "title": {
-    "en": "Teen Apocalypse: GUILSTEIN"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334
-  },
-  {
-   "id": "089e3f18-7552-4c72-9946-7ac5446f570d",
-   "title": {
-    "en": "Skyrider"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334
   },
   {
    "id": "015799fc-262b-4cb1-a234-b10910cdf747",
@@ -140,18 +148,7 @@
    },
    "contentRating": "safe",
    "score": 0.22131334
-  },
-  {
-   "id": "a1d3139d-e0ac-45af-b5c5-4878340dc67a",
-   "title": {
-    "en": "Path a Way"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:09+00:00"
+ "updatedAt": "2023-12-10T18:17:36+00:00"
 }

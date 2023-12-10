@@ -11,7 +11,22 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.25753063
+   "score": 0.25570253
+  },
+  {
+   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "title": {
+    "en": "TakuTore!"
+   },
+   "contentRating": "safe",
+   "score": 0.2373106,
+   "languages": [
+    "pt-br",
+    "id",
+    "it",
+    "en",
+    "es-la"
+   ]
   },
   {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
@@ -19,7 +34,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.22646962,
+   "score": 0.2248661,
    "languages": [
     "en",
     "pt-br",
@@ -37,7 +52,7 @@
     "en": "Galaxy Express 999 Another Story: Ultimate Journey"
    },
    "contentRating": "safe",
-   "score": 0.22043931,
+   "score": 0.21671304,
    "languages": [
     "ru"
    ]
@@ -48,7 +63,7 @@
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.21398564,
+   "score": 0.21413931,
    "languages": [
     "es-la"
    ]
@@ -59,7 +74,7 @@
     "en": "21st Century Adventure"
    },
    "contentRating": "safe",
-   "score": 0.21397854
+   "score": 0.21345341
   },
   {
    "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
@@ -67,7 +82,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.21268626,
+   "score": 0.21234144,
    "languages": [
     "pt-br",
     "es",
@@ -81,12 +96,32 @@
    ]
   },
   {
+   "id": "09599e3b-527a-47e3-b847-65c4d609ee7a",
+   "title": {
+    "en": "100 Things I Didn’t Know About My Senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.20616882,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.20547993
+  },
+  {
    "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
    "title": {
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.19960621,
+   "score": 0.19980018,
    "languages": [
     "en",
     "pt-br"
@@ -98,7 +133,7 @@
     "en": "Steel Septum"
    },
    "contentRating": "safe",
-   "score": 0.19930574,
+   "score": 0.19869749,
    "languages": [
     "en"
    ]
@@ -109,7 +144,7 @@
     "en": "Heisei Otaku Remembers"
    },
    "contentRating": "safe",
-   "score": 0.19834715
+   "score": 0.19810939
   },
   {
    "id": "e02341d5-a4ca-46d2-ad62-1a0c789f3645",
@@ -123,45 +158,20 @@
    ]
   },
   {
-   "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
+   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
    "title": {
-    "en": "NOA"
+    "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
-   "score": 0.19295901,
+   "score": 0.19410019,
    "languages": [
-    "es-la",
     "pt-br",
-    "it",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
-   "title": {
-    "en": "Tuberculose"
-   },
-   "contentRating": "safe",
-   "score": 0.19295901
-  },
-  {
-   "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
-   "title": {
-    "en": "To Aru Kagaku no Railgun"
-   },
-   "contentRating": "safe",
-   "score": 0.19286563,
-   "languages": [
-    "en",
-    "zh",
-    "es-la",
+    "fr",
+    "vi",
     "id",
-    "pt-br",
-    "it",
-    "es",
-    "pl",
-    "fr"
+    "es-la",
+    "ar"
    ]
   },
   {
@@ -170,27 +180,16 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.19277762
+   "score": 0.193015
   },
   {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
    "title": {
-    "en": "Mobile Suit MOON Gundam"
+    "en": "Tuberculose"
    },
    "contentRating": "safe",
-   "score": 0.18991385,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
-   "title": {
-    "en": "Shin Hyataro of the Ushiro"
-   },
-   "contentRating": "safe",
-   "score": 0.18933624
+   "score": 0.19295901
   }
  ],
- "updatedAt": "2023-12-10T01:00:51+00:00"
+ "updatedAt": "2023-12-10T18:11:21+00:00"
 }

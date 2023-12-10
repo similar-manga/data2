@@ -22,7 +22,7 @@
     "en": "Tenkousei, Ridatsu Suru"
    },
    "contentRating": "safe",
-   "score": 0.27875575,
+   "score": 0.27689746,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Sumika's Home"
    },
    "contentRating": "safe",
-   "score": 0.26655284,
+   "score": 0.26543036,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "A Time of Blooming"
    },
    "contentRating": "safe",
-   "score": 0.26435614,
+   "score": 0.2617047,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Triangle"
    },
    "contentRating": "safe",
-   "score": 0.26280057,
+   "score": 0.26168895,
    "languages": [
     "pl",
     "en"
@@ -67,22 +67,10 @@
     "en": "Otome no Itari"
    },
    "contentRating": "safe",
-   "score": 0.26256305,
+   "score": 0.25509605,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "c7564951-ae8a-43b7-b122-1ca0cbd9469c",
-   "title": {
-    "en": "Then, I'll Go First"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "de",
-    "en"
    ]
   },
   {
@@ -110,6 +98,18 @@
    ]
   },
   {
+   "id": "c7564951-ae8a-43b7-b122-1ca0cbd9469c",
+   "title": {
+    "en": "Then, I'll Go First"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "de",
+    "en"
+   ]
+  },
+  {
    "id": "eaa718b1-af3b-4b36-aa8a-77d5852ba0b7",
    "title": {
     "en": "The Microcosm Among Us Is Much Further Ahead"
@@ -121,23 +121,12 @@
    ]
   },
   {
-   "id": "24f5e397-d3b1-4cb8-ae46-c46355e945d2",
-   "title": {
-    "en": "Kizuna Baton"
-   },
-   "contentRating": "safe",
-   "score": 0.24604568,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "784614ea-949f-43ed-952f-9881677aa477",
    "title": {
     "en": "Dog and My Family Circumstance"
    },
    "contentRating": "safe",
-   "score": 0.24349828,
+   "score": 0.24257515,
    "languages": [
     "ru",
     "en"
@@ -149,9 +138,20 @@
     "en": "It Was Almost As If"
    },
    "contentRating": "safe",
-   "score": 0.24254218,
+   "score": 0.24071197,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "22d86b53-9cd8-40a9-b941-1e03d0f84744",
+   "title": {
+    "en": "Hana no Niwa Ame no Mai"
+   },
+   "contentRating": "safe",
+   "score": 0.23999466,
+   "languages": [
     "en"
    ]
   },
@@ -161,7 +161,7 @@
     "en": "Yubisaki to Renren"
    },
    "contentRating": "safe",
-   "score": 0.24148156,
+   "score": 0.23862769,
    "languages": [
     "hu",
     "pt-br",
@@ -173,31 +173,28 @@
    ]
   },
   {
-   "id": "22d86b53-9cd8-40a9-b941-1e03d0f84744",
+   "id": "24f5e397-d3b1-4cb8-ae46-c46355e945d2",
    "title": {
-    "en": "Hana no Niwa Ame no Mai"
+    "en": "Kizuna Baton"
    },
    "contentRating": "safe",
-   "score": 0.24147171,
+   "score": 0.23847859,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "32f77abb-96d4-4e6a-b257-5cf029e0c79e",
+   "id": "69e7f0e4-b43a-410f-b8a3-e36f69510ad4",
    "title": {
-    "en": "Winter Flower"
+    "en": "Wasureyuki"
    },
    "contentRating": "safe",
-   "score": 0.24109572,
+   "score": 0.23847859,
    "languages": [
     "en",
-    "pl",
-    "ro",
-    "fr",
-    "es-la"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:23+00:00"
+ "updatedAt": "2023-12-10T18:12:50+00:00"
 }

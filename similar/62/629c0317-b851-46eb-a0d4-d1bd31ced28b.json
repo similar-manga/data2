@@ -11,7 +11,7 @@
     "en": "SWOT (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.35536915,
+   "score": 0.35796788,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.3337527,
+   "score": 0.33477274,
    "languages": [
     "en",
     "fr"
@@ -35,7 +35,7 @@
     "en": "Genjuui Toteku"
    },
    "contentRating": "safe",
-   "score": 0.31818128,
+   "score": 0.317688,
    "languages": [
     "en",
     "pt-br",
@@ -49,7 +49,7 @@
     "en": "Bankara-san ga Tooru"
    },
    "contentRating": "safe",
-   "score": 0.2878853,
+   "score": 0.29408586,
    "languages": [
     "pl",
     "id",
@@ -62,10 +62,25 @@
     "en": "Sengoku ARMORS (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.26127577,
+   "score": 0.26628342,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "title": {
+    "en": "I Spy"
+   },
+   "contentRating": "safe",
+   "score": 0.2662777,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
    ]
   },
   {
@@ -74,29 +89,7 @@
     "en": "Disaster, Old Man and Monster"
    },
    "contentRating": "safe",
-   "score": 0.25315994,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "92780daa-65cb-44e4-a02e-26e2171d776f",
-   "title": {
-    "en": "Multiplying Wives - A Fairy Tail"
-   },
-   "contentRating": "safe",
-   "score": 0.250915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7fa1731d-552e-45c1-ae58-4c37248d4083",
-   "title": {
-    "en": "The Gods of Laughter: The Final Chapter"
-   },
-   "contentRating": "safe",
-   "score": 0.25035104,
+   "score": 0.26476505,
    "languages": [
     "en"
    ]
@@ -107,7 +100,7 @@
     "en": "Love Lunch Time"
    },
    "contentRating": "safe",
-   "score": 0.25014138,
+   "score": 0.25855395,
    "languages": [
     "th",
     "vi",
@@ -116,15 +109,48 @@
    ]
   },
   {
+   "id": "7fa1731d-552e-45c1-ae58-4c37248d4083",
+   "title": {
+    "en": "The Gods of Laughter: The Final Chapter"
+   },
+   "contentRating": "safe",
+   "score": 0.2571818,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92780daa-65cb-44e4-a02e-26e2171d776f",
+   "title": {
+    "en": "Multiplying Wives - A Fairy Tail"
+   },
+   "contentRating": "safe",
+   "score": 0.24910557,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
    "title": {
     "en": "No.9"
    },
    "contentRating": "safe",
-   "score": 0.24336268,
+   "score": 0.24901433,
    "languages": [
     "fr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
+   "title": {
+    "en": "Surviving Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "en"
    ]
   },
@@ -134,38 +160,11 @@
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.23907258,
+   "score": 0.24559288,
    "languages": [
     "en",
     "pl",
     "th"
-   ]
-  },
-  {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.23373608,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
-   "title": {
-    "en": "FREAKS"
-   },
-   "contentRating": "safe",
-   "score": 0.23302473,
-   "languages": [
-    "en",
-    "ru",
-    "it",
-    "th",
-    "hu",
-    "fr"
    ]
   },
   {
@@ -174,7 +173,7 @@
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.23145363,
+   "score": 0.2403888,
    "languages": [
     "en",
     "id",
@@ -187,28 +186,32 @@
    ]
   },
   {
-   "id": "6c1f17de-58d7-4d13-8ac9-c1f2be0d056c",
+   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
    "title": {
-    "en": "SNOW SMILE"
+    "en": "FREAKS"
    },
    "contentRating": "safe",
-   "score": 0.2285219,
+   "score": 0.23986205,
    "languages": [
-    "en"
+    "en",
+    "ru",
+    "it",
+    "th",
+    "hu",
+    "fr"
    ]
   },
   {
-   "id": "7c953ea9-0078-4efd-9964-4ed346626f6e",
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
-    "en": "Maid to Order Tyria"
+    "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.2273697,
+   "score": 0.23891428,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:40+00:00"
+ "updatedAt": "2023-12-10T18:19:00+00:00"
 }

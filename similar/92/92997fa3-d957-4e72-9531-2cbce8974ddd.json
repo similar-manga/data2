@@ -6,16 +6,61 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f0e7d0e7-9ad5-431e-8c80-45c35b0e7732",
+   "title": {
+    "en": "Inzak"
+   },
+   "contentRating": "safe",
+   "score": 0.2583073,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f34f2b36-4a30-4ac9-bee1-630b3a37d7d9",
    "title": {
     "en": "Fate/hollow ataraxia"
    },
    "contentRating": "safe",
-   "score": 0.25385758,
+   "score": 0.25304917,
    "languages": [
     "en",
     "fr",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a86c862f-3b06-48ed-a009-f73afdcce284",
+   "title": {
+    "en": "Da Yuan Shen"
+   },
+   "contentRating": "safe",
+   "score": 0.24678294,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53047298-0101-4060-ae60-e0908f5efba3",
+   "title": {
+    "en": "Peigenz"
+   },
+   "contentRating": "safe",
+   "score": 0.24207714,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "069f2aae-dda9-481b-9f38-201305498bee",
+   "title": {
+    "en": "BASCULER"
+   },
+   "contentRating": "safe",
+   "score": 0.2412861,
+   "languages": [
+    "it",
+    "en"
    ]
   },
   {
@@ -24,10 +69,33 @@
     "en": "Reborn as Emperor"
    },
    "contentRating": "safe",
-   "score": 0.2493598,
+   "score": 0.24101041,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0a544768-b23c-4ef5-ad65-980c36c7b985",
+   "title": {
+    "en": "Onmyou Taisenki"
+   },
+   "contentRating": "safe",
+   "score": 0.2409422,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f9df789-2372-4cf8-bd54-021de9d757ef",
+   "title": {
+    "en": "Kokenoshima"
+   },
+   "contentRating": "safe",
+   "score": 0.23823987,
+   "languages": [
+    "tr",
+    "en"
    ]
   },
   {
@@ -36,7 +104,7 @@
     "en": "Demonic Emperor"
    },
    "contentRating": "safe",
-   "score": 0.24472657,
+   "score": 0.23345913,
    "languages": [
     "en",
     "fr",
@@ -49,36 +117,36 @@
    ]
   },
   {
-   "id": "53047298-0101-4060-ae60-e0908f5efba3",
+   "id": "ecd43fd5-6aab-4a9e-8a31-284d3da34b74",
    "title": {
-    "en": "Peigenz"
+    "en": "Rakuin no Kemonobito"
    },
    "contentRating": "safe",
-   "score": 0.24311094,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0a544768-b23c-4ef5-ad65-980c36c7b985",
+   "id": "5c1da05c-5632-4eca-89ae-d9cf0b2d5fae",
    "title": {
-    "en": "Onmyou Taisenki"
+    "en": "Zao Saga"
    },
    "contentRating": "safe",
-   "score": 0.24139814,
+   "score": 0.23328476,
    "languages": [
+    "ru",
     "en"
    ]
   },
   {
-   "id": "7f9df789-2372-4cf8-bd54-021de9d757ef",
+   "id": "28a7017e-cfd8-4d58-a717-4e6b16a91f97",
    "title": {
-    "en": "Kokenoshima"
+    "en": "EQUITES"
    },
    "contentRating": "safe",
-   "score": 0.24125957,
+   "score": 0.23328476,
    "languages": [
-    "tr",
     "en"
    ]
   },
@@ -105,108 +173,27 @@
    ]
   },
   {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "id": "16547f0a-4408-42d6-80a7-fd688f7cd45e",
    "title": {
-    "en": "SKY CLAW"
+    "en": "Deltora Quest"
    },
    "contentRating": "safe",
-   "score": 0.23143847,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "f2e00a1c-06d4-4696-a806-350aeb8cbef3",
-   "title": {
-    "en": "Divine Emperor"
-   },
-   "contentRating": "safe",
-   "score": 0.22590275,
-   "languages": [
-    "en",
-    "it",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a773e48e-ba41-4624-af2a-e46d5c7b7da6",
-   "title": {
-    "en": "Adabana"
-   },
-   "contentRating": "safe",
-   "score": 0.2248992,
-   "languages": [
-    "ca",
-    "en",
-    "pl",
-    "de",
-    "ro"
-   ]
-  },
-  {
-   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
-   "title": {
-    "en": "Joreishi Rentaro no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.22345208,
-   "languages": [
-    "it",
-    "pt-br",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "8491abb4-6ff0-4be0-a2c0-39fce486da65",
-   "title": {
-    "en": "Shijyushichi Taisen"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "40332944-07d9-4698-a7c1-39bbcc4c971d",
+   "id": "ba017bf1-1c81-4bfd-b1e1-0b81f8741109",
    "title": {
-    "en": "Brother in the Doll"
+    "en": "Material Puzzle - Zero Kreuz"
    },
    "contentRating": "safe",
-   "score": 0.21855082,
-   "languages": [
-    "en",
-    "hu",
-    "es-la",
-    "zh-hk",
-    "vi"
-   ]
-  },
-  {
-   "id": "1f8c16ad-e600-435c-9e46-c21866af3560",
-   "title": {
-    "en": "Son of Demon"
-   },
-   "contentRating": "safe",
-   "score": 0.21619478,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
-   "title": {
-    "en": "Tales of Destiny 2"
-   },
-   "contentRating": "safe",
-   "score": 0.21434769,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:47+00:00"
+ "updatedAt": "2023-12-10T18:24:35+00:00"
 }

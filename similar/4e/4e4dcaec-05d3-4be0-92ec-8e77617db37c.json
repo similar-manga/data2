@@ -11,7 +11,7 @@
     "en": "Maria no Danzai"
    },
    "contentRating": "suggestive",
-   "score": 0.24831428,
+   "score": 0.24720736,
    "languages": [
     "ru",
     "fr",
@@ -30,7 +30,7 @@
     "en": "Watashi no Hara no Naka no Bakemono"
    },
    "contentRating": "suggestive",
-   "score": 0.22549987,
+   "score": 0.22477555,
    "languages": [
     "vi",
     "en"
@@ -42,7 +42,7 @@
     "en": "May My Father Die Soon"
    },
    "contentRating": "suggestive",
-   "score": 0.2217622,
+   "score": 0.22130005,
    "languages": [
     "en",
     "pt-br",
@@ -57,7 +57,7 @@
     "en": "The Isle of 100 Kills"
    },
    "contentRating": "suggestive",
-   "score": 0.20436707,
+   "score": 0.20503083,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Shimauma"
    },
    "contentRating": "suggestive",
-   "score": 0.20025119,
+   "score": 0.19984573,
    "languages": [
     "en"
    ]
@@ -79,7 +79,7 @@
     "en": "Boy's Abyss"
    },
    "contentRating": "suggestive",
-   "score": 0.19473562,
+   "score": 0.19427885,
    "languages": [
     "es-la",
     "fr",
@@ -101,7 +101,7 @@
     "en": "Saihate ni Madou"
    },
    "contentRating": "suggestive",
-   "score": 0.19010204,
+   "score": 0.19006114,
    "languages": [
     "pt-br",
     "vi",
@@ -126,12 +126,36 @@
    ]
   },
   {
+   "id": "93c7cbf2-7a12-4df8-9dde-9ca2b38e7f22",
+   "title": {
+    "en": "Jaa, Kimi no Kawari ni Korosou ka?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18021753,
+   "languages": [
+    "vi",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
+   "title": {
+    "en": "Higanjima - 48 Nichigo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17745572,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "801513ba-a712-498c-8f57-cae55b38cc92",
    "title": {
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.18474123,
+   "score": 0.17729688,
    "languages": [
     "fr",
     "pt-br",
@@ -151,36 +175,12 @@
    ]
   },
   {
-   "id": "93c7cbf2-7a12-4df8-9dde-9ca2b38e7f22",
-   "title": {
-    "en": "Jaa, Kimi no Kawari ni Korosou ka?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18116523,
-   "languages": [
-    "vi",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
-   "title": {
-    "en": "Higanjima - 48 Nichigo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17755845,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "21bbbfbd-0cdb-4dab-a2ae-1cae47afcb63",
    "title": {
     "en": "Reversibleman"
    },
    "contentRating": "suggestive",
-   "score": 0.1775078,
+   "score": 0.17699598,
    "languages": [
     "en"
    ]
@@ -197,26 +197,26 @@
    ]
   },
   {
-   "id": "84278d95-6fad-46a8-8151-2a21a4a894b3",
-   "title": {
-    "en": "Diestrammena"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17239225,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ebc8fc23-a6c6-4df2-9940-6b668389401e",
    "title": {
     "en": "Shikabane Hime"
    },
    "contentRating": "suggestive",
-   "score": 0.17229392,
+   "score": 0.17216413,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "84278d95-6fad-46a8-8151-2a21a4a894b3",
+   "title": {
+    "en": "Diestrammena"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17195956,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -225,11 +225,11 @@
     "en": "The Hysteric Trigger"
    },
    "contentRating": "suggestive",
-   "score": 0.17194442,
+   "score": 0.17149882,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:49+00:00"
+ "updatedAt": "2023-12-10T18:16:46+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Nu–"
    },
    "contentRating": "suggestive",
-   "score": 0.58062726
+   "score": 0.5762183
   },
   {
    "id": "88d04785-9af9-47cb-91e6-50a5c4dd0098",
@@ -27,7 +27,7 @@
     "en": "Tenchi Mission"
    },
    "contentRating": "suggestive",
-   "score": 0.19569436,
+   "score": 0.19655852,
    "languages": [
     "pt-br",
     "es-la"
@@ -43,6 +43,17 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "de08b0be-2e22-4782-a8d3-278ad8ca2400",
+   "title": {
+    "en": "EArTh ∞"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1740184,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -67,18 +78,7 @@
     "en": "Happiness Star Hagar"
    },
    "contentRating": "suggestive",
-   "score": 0.16975154
-  },
-  {
-   "id": "de08b0be-2e22-4782-a8d3-278ad8ca2400",
-   "title": {
-    "en": "EArTh ∞"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16970976,
-   "languages": [
-    "en"
-   ]
+   "score": 0.16972816
   },
   {
    "id": "8d5c1cd9-70fe-4b49-9e64-1bef888acd4d",
@@ -135,7 +135,7 @@
     "en": "#lovers"
    },
    "contentRating": "suggestive",
-   "score": 0.1549544,
+   "score": 0.15575774,
    "languages": [
     "pt-br"
    ]
@@ -164,20 +164,9 @@
    ]
   },
   {
-   "id": "0f189c18-fb5f-4118-a715-d118ca5745d3",
+   "id": "6f34dd9b-4d60-4a44-afc4-57bfb2e0265d",
    "title": {
-    "en": "DRAGON BALL Z Anime Kids Comics"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15113781,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "0fd6f241-2c77-4b21-8de4-b2311008d0bc",
-   "title": {
-    "en": "Gaoh in Tokio: Legend of Insectborg"
+    "en": "Fighting Foodons"
    },
    "contentRating": "suggestive",
    "score": 0.15113781
@@ -189,7 +178,18 @@
    },
    "contentRating": "suggestive",
    "score": 0.15113781
+  },
+  {
+   "id": "0f189c18-fb5f-4118-a715-d118ca5745d3",
+   "title": {
+    "en": "DRAGON BALL Z Anime Kids Comics"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15113781,
+   "languages": [
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:32+00:00"
+ "updatedAt": "2023-12-10T18:21:22+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Fear of the Cursed Cat"
    },
    "contentRating": "safe",
-   "score": 0.6418913
+   "score": 0.64131373
   },
   {
    "id": "05efb37a-ff88-4e90-858e-ffa801410d5d",
@@ -19,15 +19,7 @@
     "en": "Zoids Genesis"
    },
    "contentRating": "safe",
-   "score": 0.30158982
-  },
-  {
-   "id": "51bbb771-ded1-4d00-b403-666d41a109a9",
-   "title": {
-    "en": "Scary Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
+   "score": 0.29530948
   },
   {
    "id": "3b6e0aa9-f395-4f97-88ed-87036ec77e11",
@@ -41,6 +33,14 @@
    "id": "0fe72ff5-af1a-4bc8-bee6-4eaf7990e6e0",
    "title": {
     "en": "Eyes Shining in the Dark"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
+   "id": "51bbb771-ded1-4d00-b403-666d41a109a9",
+   "title": {
+    "en": "Scary Cat"
    },
    "contentRating": "safe",
    "score": 0.2851258
@@ -62,9 +62,25 @@
    "score": 0.23809525
   },
   {
+   "id": "1c11a25c-d665-4e05-9eae-ccf5c9a6c581",
+   "title": {
+    "en": "Skull spider Wriggling in the Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
    "id": "25937d78-d7a2-4502-b064-68c76c0b8bec",
    "title": {
     "en": "Hell Village"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "0c3f5216-4598-4b8c-9b29-3fbf2a0ffc7b",
+   "title": {
+    "en": "Vampire Spider"
    },
    "contentRating": "safe",
    "score": 0.23809525
@@ -75,10 +91,22 @@
     "en": "Toy Paradise"
    },
    "contentRating": "safe",
-   "score": 0.2140981,
+   "score": 0.21348554,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "0f7ce666-8834-4386-ae7f-e13f560c9425",
+   "title": {
+    "en": "Nyaight of the Living Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.207438,
+   "languages": [
+    "ru",
+    "vi"
    ]
   },
   {
@@ -87,12 +115,20 @@
     "en": "Momotaro Infiltration"
    },
    "contentRating": "safe",
-   "score": 0.19444267
+   "score": 0.19582053
   },
   {
-   "id": "53637470-31a0-433f-b34f-76df55278468",
+   "id": "3ab5505c-8dcf-4bf5-b61a-800514c47eb7",
    "title": {
-    "en": "Tunnel"
+    "en": "Beastman"
+   },
+   "contentRating": "safe",
+   "score": 0.19579752
+  },
+  {
+   "id": "c26656ba-9f0a-47bc-b95b-facfcd86840c",
+   "title": {
+    "en": "Survival of the Dead"
    },
    "contentRating": "safe",
    "score": 0.19440396,
@@ -101,45 +137,13 @@
    ]
   },
   {
-   "id": "64cda4ff-ad53-44cd-b6fb-070b13ebcd0b",
+   "id": "c8702a6c-b088-4ec0-a844-b59585a08e86",
    "title": {
-    "en": "Human Face Inuta"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "d9ab46ec-d193-4132-a6c8-b2f6daa6a60b",
-   "title": {
-    "en": "Hole"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "977df2d2-325f-452d-8d3a-3d880208d5d7",
-   "title": {
-    "en": "The Devil's Waste"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "6246bcc1-19c7-490f-891a-cb09e240d5c5",
-   "title": {
-    "en": "Fushigi-kun School"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "3637945f-3eb6-45c8-b304-d92e17453d21",
-   "title": {
-    "en": "Dead God Dead"
+    "en": "Ichiji no Naka no Desire"
    },
    "contentRating": "safe",
    "score": 0.19440396
   }
  ],
- "updatedAt": "2023-12-10T01:06:59+00:00"
+ "updatedAt": "2023-12-10T18:27:57+00:00"
 }

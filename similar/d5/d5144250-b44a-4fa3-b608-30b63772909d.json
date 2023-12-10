@@ -11,7 +11,7 @@
     "en": "Medabot Reloaded"
    },
    "contentRating": "safe",
-   "score": 0.25359115,
+   "score": 0.25490335,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.22748892,
+   "score": 0.22757359,
    "languages": [
     "es-la",
     "en"
@@ -35,9 +35,22 @@
     "en": "Brave Universe Sworgrader"
    },
    "contentRating": "safe",
-   "score": 0.21661304,
+   "score": 0.21649916,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "63dac493-f796-4aa6-b453-7cf1fe4be596",
+   "title": {
+    "en": "Toaru Majutsu no Virtual-On"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "es-la",
+    "zh",
     "en"
    ]
   },
@@ -57,6 +70,19 @@
    ]
   },
   {
+   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
+   "title": {
+    "en": "MY LITTLE MARS"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "es-la",
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
    "title": {
     "en": "Space Battleship Silver Seven"
@@ -71,44 +97,31 @@
    ]
   },
   {
-   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
+   "id": "24c75b6c-fd19-4938-b829-7bd883154e42",
    "title": {
-    "en": "MY LITTLE MARS"
+    "en": "BLACK999"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.19807984,
    "languages": [
+    "id",
     "es-la",
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "63dac493-f796-4aa6-b453-7cf1fe4be596",
-   "title": {
-    "en": "Toaru Majutsu no Virtual-On"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "es-la",
-    "zh",
     "en"
    ]
   },
   {
-   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
+   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
    "title": {
-    "en": "Arcadia of the Moonlight"
+    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
    },
    "contentRating": "safe",
    "score": 0.18070157,
    "languages": [
     "en",
     "es-la",
-    "ar",
-    "fr",
-    "ru"
+    "pl",
+    "it",
+    "fr"
    ]
   },
   {
@@ -128,18 +141,18 @@
    ]
   },
   {
-   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
+   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
    "title": {
-    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+    "en": "Arcadia of the Moonlight"
    },
    "contentRating": "safe",
    "score": 0.18070157,
    "languages": [
     "en",
     "es-la",
-    "pl",
-    "it",
-    "fr"
+    "ar",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -148,7 +161,7 @@
     "en": "Heart Gear"
    },
    "contentRating": "safe",
-   "score": 0.1606671,
+   "score": 0.16026813,
    "languages": [
     "id",
     "en",
@@ -165,7 +178,7 @@
     "en": "Liliwords"
    },
    "contentRating": "safe",
-   "score": 0.15489596,
+   "score": 0.15445831,
    "languages": [
     "pt-br",
     "en",
@@ -178,7 +191,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.15362105,
+   "score": 0.15332195,
    "languages": [
     "en",
     "pt-br",
@@ -194,7 +207,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.14423455,
+   "score": 0.14304145,
    "languages": [
     "ar",
     "uk",
@@ -208,30 +221,6 @@
     "fa",
     "es-la",
     "en",
-    "th"
-   ]
-  },
-  {
-   "id": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
-   "title": {
-    "en": "Sakamoto Days"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "pt-br",
-    "it",
-    "en",
-    "ru",
-    "es-la",
-    "tr",
-    "sr",
-    "ar",
-    "fr",
-    "pl",
-    "id",
-    "bn",
-    "fa",
     "th"
    ]
   },
@@ -256,5 +245,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:32+00:00"
+ "updatedAt": "2023-12-10T18:31:55+00:00"
 }

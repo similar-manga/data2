@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0b02b55c-3f43-42a7-8d0e-cad5432c0307",
-   "title": {
-    "en": "Elemental"
-   },
-   "contentRating": "safe",
-   "score": 0.31658685,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
    "title": {
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.30839798,
+   "score": 0.31572777,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0b02b55c-3f43-42a7-8d0e-cad5432c0307",
+   "title": {
+    "en": "Elemental"
+   },
+   "contentRating": "safe",
+   "score": 0.3135345,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -34,7 +34,7 @@
     "en": "Sasagu Omoi wa Hana Meguri"
    },
    "contentRating": "safe",
-   "score": 0.2941992,
+   "score": 0.29039487,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Kon no Ki Konoha"
    },
    "contentRating": "safe",
-   "score": 0.2778355,
+   "score": 0.2727096,
    "languages": [
     "fr",
     "id",
@@ -57,26 +57,26 @@
    ]
   },
   {
-   "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
-   "title": {
-    "en": "Sakura Hira Hira"
-   },
-   "contentRating": "safe",
-   "score": 0.25392956,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
     "en": "Nageku Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.25388512,
+   "score": 0.25206608,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
+   "title": {
+    "en": "Sakura Hira Hira"
+   },
+   "contentRating": "safe",
+   "score": 0.2507663,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -92,29 +92,6 @@
    ]
   },
   {
-   "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
-   "title": {
-    "en": "The Animal Sacrifice"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
-   "title": {
-    "en": "a cup of..."
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6f0df0eb-9670-4977-9bed-720211c073bf",
    "title": {
     "en": "Saigo no Negai ~Last Pray~"
@@ -124,17 +101,6 @@
    "languages": [
     "en",
     "it"
-   ]
-  },
-  {
-   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
-   "title": {
-    "en": "Sayonara Limit"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -162,27 +128,60 @@
    ]
   },
   {
-   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
+   "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
    "title": {
-    "en": "Hyakkiyakou Juliet"
+    "en": "The Animal Sacrifice"
    },
    "contentRating": "safe",
-   "score": 0.2412042,
+   "score": 0.24743582,
    "languages": [
-    "hu",
     "pl",
     "en"
    ]
   },
   {
-   "id": "307d8752-c0db-4c5a-a679-7872921c15e8",
+   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
    "title": {
-    "en": "Yowaito Nikki"
+    "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.23981938,
+   "score": 0.24743582,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
+   "title": {
+    "en": "Sayonara Limit"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "944e06ae-7503-43af-bffa-1a817da271de",
+   "title": {
+    "en": "Higanbana"
+   },
+   "contentRating": "safe",
+   "score": 0.23670997,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ccb03ab9-94e3-4a81-8bb8-44398edf51e0",
+   "title": {
+    "en": "Mokume Neko no Ie"
+   },
+   "contentRating": "safe",
+   "score": 0.23622061,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -191,7 +190,7 @@
     "en": "World End Garden"
    },
    "contentRating": "safe",
-   "score": 0.23886675,
+   "score": 0.23616233,
    "languages": [
     "en",
     "fr",
@@ -199,5 +198,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:41+00:00"
+ "updatedAt": "2023-12-10T18:27:06+00:00"
 }

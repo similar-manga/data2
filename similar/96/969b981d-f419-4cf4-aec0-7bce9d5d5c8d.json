@@ -6,6 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1fbb3f29-23d3-43a2-bdb0-41d7a4800471",
+   "title": {
+    "en": "Watari Tori to Katatsumuri"
+   },
+   "contentRating": "safe",
+   "score": 0.33418486,
+   "languages": [
+    "es"
+   ]
+  },
+  {
+   "id": "cfc54dae-eb99-4697-b293-aec5e1f183dd",
+   "title": {
+    "en": "Zoids: Battler Raiga"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744
+  },
+  {
    "id": "2b0a68a4-36e8-4724-b9cd-84fe48ab4dd1",
    "title": {
     "en": "Medabot Reloaded"
@@ -18,12 +37,12 @@
    ]
   },
   {
-   "id": "cfc54dae-eb99-4697-b293-aec5e1f183dd",
+   "id": "25029ad6-1709-477a-b159-299fcdd546df",
    "title": {
-    "en": "Zoids: Battler Raiga"
+    "en": "Tank Knights Fortress"
    },
    "contentRating": "safe",
-   "score": 0.2852744
+   "score": 0.27195376
   },
   {
    "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
@@ -31,18 +50,10 @@
     "en": "Cyber Blue - Lost Number Children"
    },
    "contentRating": "safe",
-   "score": 0.27154657,
+   "score": 0.27171448,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "25029ad6-1709-477a-b159-299fcdd546df",
-   "title": {
-    "en": "Tank Knights Fortress"
-   },
-   "contentRating": "safe",
-   "score": 0.27138892
   },
   {
    "id": "442ee1b4-bec8-4c6c-9460-20e8f94abc34",
@@ -50,7 +61,18 @@
     "en": "Musha Senki: The Transfiguration of Light"
    },
    "contentRating": "safe",
-   "score": 0.2704841
+   "score": 0.27053717
+  },
+  {
+   "id": "cf144459-9d55-4b12-9262-ed4e292e589d",
+   "title": {
+    "en": "Enchanted Racer"
+   },
+   "contentRating": "safe",
+   "score": 0.2700093,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "21688024-f53f-4cb2-9c2e-62973f134975",
@@ -58,7 +80,7 @@
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.2688396,
+   "score": 0.26555327,
    "languages": [
     "en",
     "pl"
@@ -73,9 +95,9 @@
    "score": 0.2604187
   },
   {
-   "id": "5a7699cc-bbe9-4a46-a41b-30c2debcd671",
+   "id": "d2157615-89d7-4da4-9e7b-5bb746eb7f41",
    "title": {
-    "en": "Inazuman VS Kikaider"
+    "en": "Gunpla Koshien"
    },
    "contentRating": "safe",
    "score": 0.2569291
@@ -89,9 +111,9 @@
    "score": 0.2569291
   },
   {
-   "id": "d2157615-89d7-4da4-9e7b-5bb746eb7f41",
+   "id": "5a7699cc-bbe9-4a46-a41b-30c2debcd671",
    "title": {
-    "en": "Gunpla Koshien"
+    "en": "Inazuman VS Kikaider"
    },
    "contentRating": "safe",
    "score": 0.2569291
@@ -102,10 +124,18 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.24972412,
+   "score": 0.24997894,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7f389dc2-2be1-4231-93f6-eba281050fe3",
+   "title": {
+    "en": "Metal Guardian Faust"
+   },
+   "contentRating": "safe",
+   "score": 0.24859056
   },
   {
    "id": "624ae414-9e8c-4ec8-9f9b-a1f00e7a43f8",
@@ -122,34 +152,7 @@
    },
    "contentRating": "safe",
    "score": 0.24806947
-  },
-  {
-   "id": "7f389dc2-2be1-4231-93f6-eba281050fe3",
-   "title": {
-    "en": "Metal Guardian Faust"
-   },
-   "contentRating": "safe",
-   "score": 0.24677046
-  },
-  {
-   "id": "b0f8b1c7-789d-4a00-b4c7-14f6d8f68dc3",
-   "title": {
-    "en": "SD Gundam: Musha Maruden"
-   },
-   "contentRating": "safe",
-   "score": 0.2446563
-  },
-  {
-   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
-   "title": {
-    "en": "Shin Henkei Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.24396266,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:58+00:00"
+ "updatedAt": "2023-12-10T18:25:04+00:00"
 }

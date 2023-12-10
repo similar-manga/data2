@@ -11,7 +11,7 @@
     "en": "Yo-kai Watch Treasure Busters"
    },
    "contentRating": "safe",
-   "score": 0.25517038,
+   "score": 0.2546158,
    "languages": [
     "pt-br",
     "fr",
@@ -25,8 +25,22 @@
     "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
    },
    "contentRating": "safe",
-   "score": 0.24693596,
+   "score": 0.24441662,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c057a355-5610-4b1c-a792-51461fa34867",
+   "title": {
+    "en": "Wreckage X"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "es",
+    "it",
+    "bg",
     "en"
    ]
   },
@@ -40,6 +54,31 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
+   "title": {
+    "en": "Dragon Ball Minus"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "it",
+    "en",
+    "pt"
+   ]
+  },
+  {
+   "id": "76d171f9-c0b0-4f86-a94a-a1619c8baecd",
+   "title": {
+    "en": "Detour"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "id",
+    "en"
    ]
   },
   {
@@ -65,51 +104,12 @@
    ]
   },
   {
-   "id": "76d171f9-c0b0-4f86-a94a-a1619c8baecd",
-   "title": {
-    "en": "Detour"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "c057a355-5610-4b1c-a792-51461fa34867",
-   "title": {
-    "en": "Wreckage X"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "es",
-    "it",
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
-   "title": {
-    "en": "Dragon Ball Minus"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "it",
-    "en",
-    "pt"
-   ]
-  },
-  {
    "id": "b4275939-e5bd-49d5-84c8-bf6d1cbc8b66",
    "title": {
     "en": "Rabbit Foot"
    },
    "contentRating": "safe",
-   "score": 0.22683226,
+   "score": 0.22630945,
    "languages": [
     "en"
    ]
@@ -120,22 +120,11 @@
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.21640633,
+   "score": 0.21586157,
    "languages": [
     "pt-br",
     "id",
     "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
-   "title": {
-    "en": "Nejimaki Shoukougun"
-   },
-   "contentRating": "safe",
-   "score": 0.21549015,
-   "languages": [
     "en"
    ]
   },
@@ -145,7 +134,7 @@
     "en": "The West Wind and the Sun: Zephyr and Sol"
    },
    "contentRating": "safe",
-   "score": 0.21535595,
+   "score": 0.21530831,
    "languages": [
     "fr",
     "en",
@@ -155,12 +144,23 @@
    ]
   },
   {
+   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
+   "title": {
+    "en": "Nejimaki Shoukougun"
+   },
+   "contentRating": "safe",
+   "score": 0.21454345,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "135c4b2f-b168-4558-bd5e-32d30fa1cd95",
    "title": {
     "en": "Suginami-ku Isekai Dungeon Kouryaku-ka"
    },
    "contentRating": "safe",
-   "score": 0.21522224,
+   "score": 0.21397887,
    "languages": [
     "vi",
     "en",
@@ -174,37 +174,37 @@
     "en": "Kami-sama no Takarabako"
    },
    "contentRating": "safe",
-   "score": 0.20588233,
+   "score": 0.20403028,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "de41a519-c9cc-428a-baa1-06713e2735b8",
+   "id": "43da40e6-fc7f-4e50-b44e-e3350b0dd0f7",
    "title": {
-    "en": "Cute Flower"
+    "en": "Saguri-san Tankentai"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "336fdb39-ebff-4ad5-aa87-7fc7e5d61360",
-   "title": {
-    "en": "Apollo"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
+    "fr",
     "ru",
-    "zh-hk",
-    "ar",
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
+   "title": {
+    "en": "Dr. Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:19+00:00"
+ "updatedAt": "2023-12-10T18:31:21+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.27711448,
+   "score": 0.2805622,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.2507735,
+   "score": 0.24946208,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.23643975,
+   "score": 0.23611742,
    "languages": [
     "pt-br",
     "es",
@@ -53,7 +53,7 @@
     "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
    },
    "contentRating": "safe",
-   "score": 0.22324622,
+   "score": 0.22701417,
    "languages": [
     "en"
    ]
@@ -64,13 +64,33 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.21904011,
+   "score": 0.21910901,
    "languages": [
     "es-la",
     "pt-br",
     "it",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21678546,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -92,12 +112,23 @@
    ]
   },
   {
+   "id": "72c5d19d-96da-4245-9b6c-8c92e6d5e1c5",
+   "title": {
+    "en": "Inkling Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.19657925,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c7b742e5-84c5-4ca2-b064-f11a5b90c7d8",
    "title": {
     "en": "One in a Hundred"
    },
    "contentRating": "safe",
-   "score": 0.19616438,
+   "score": 0.19403237,
    "languages": [
     "en"
    ]
@@ -108,7 +139,7 @@
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.19563335,
+   "score": 0.19387801,
    "languages": [
     "en"
    ]
@@ -119,7 +150,7 @@
     "en": "Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.19498849,
+   "score": 0.19279926,
    "languages": [
     "en",
     "pl",
@@ -128,17 +159,6 @@
     "id",
     "ru",
     "it"
-   ]
-  },
-  {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
-   "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.19261092,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -153,12 +173,23 @@
    ]
   },
   {
+   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "title": {
+    "en": "Dragon Quest: Sora in the Blue Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.1924974,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
    "title": {
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.19240005,
+   "score": 0.19160192,
    "languages": [
     "en"
    ]
@@ -169,7 +200,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.19108623,
+   "score": 0.19089122,
    "languages": [
     "pt-br",
     "fr",
@@ -188,39 +219,11 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.19090295,
+   "score": 0.19021094,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
-   "title": {
-    "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
-   },
-   "contentRating": "safe",
-   "score": 0.18962647,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dcc3f064-9eee-44c1-b409-f6df242a3496",
-   "title": {
-    "en": "Heart Gear"
-   },
-   "contentRating": "safe",
-   "score": 0.18641016,
-   "languages": [
-    "id",
-    "en",
-    "es-la",
-    "vi",
-    "pt-br",
-    "ru",
-    "uk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:22+00:00"
+ "updatedAt": "2023-12-10T18:33:58+00:00"
 }

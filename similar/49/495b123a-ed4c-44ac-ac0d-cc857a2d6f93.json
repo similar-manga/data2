@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "70a1a115-a0c9-46b8-9310-65873e5fbb55",
+   "title": {
+    "en": "Comic Aku No Musume"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "ru",
+    "en",
+    "zh-hk",
+    "fr"
+   ]
+  },
+  {
    "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
    "title": {
     "en": "Anastasia no Shinei Taichou"
    },
    "contentRating": "safe",
-   "score": 0.22884846,
+   "score": 0.22926393,
    "languages": [
     "en",
     "tr"
@@ -23,7 +37,7 @@
     "en": "Shuumatsu wa Aoi Haru"
    },
    "contentRating": "safe",
-   "score": 0.22546503,
+   "score": 0.22532496,
    "languages": [
     "id",
     "pt-br",
@@ -36,7 +50,30 @@
     "en": "Nyan-Nyan Oratorio"
    },
    "contentRating": "safe",
-   "score": 0.2200083,
+   "score": 0.21994182,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8880df7b-5d67-44b5-a79b-a9d6371c7253",
+   "title": {
+    "en": "Kyuuyaku Märchen"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "20e14431-3f54-4f24-8333-ffa6277f520f",
+   "title": {
+    "en": "A Heart-Captivating Smile"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
    "languages": [
     "en"
    ]
@@ -47,18 +84,7 @@
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.21138115,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
-   "title": {
-    "en": "Warabe no Kusa"
-   },
-   "contentRating": "safe",
-   "score": 0.2087875,
+   "score": 0.21066214,
    "languages": [
     "en"
    ]
@@ -75,12 +101,23 @@
    ]
   },
   {
+   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
+   "title": {
+    "en": "Warabe no Kusa"
+   },
+   "contentRating": "safe",
+   "score": 0.20832373,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8ae14870-4730-4c31-9ad2-36f041192898",
    "title": {
     "en": "Nobunaga Concerto"
    },
    "contentRating": "safe",
-   "score": 0.20295024,
+   "score": 0.20275278,
    "languages": [
     "en"
    ]
@@ -91,7 +128,7 @@
     "en": "Gesu to Kami-sama"
    },
    "contentRating": "safe",
-   "score": 0.19692354,
+   "score": 0.19613783,
    "languages": [
     "en"
    ]
@@ -113,7 +150,7 @@
     "en": "Ilya"
    },
    "contentRating": "safe",
-   "score": 0.18610156,
+   "score": 0.18574008,
    "languages": [
     "es-la",
     "hu",
@@ -121,6 +158,18 @@
     "pt-br",
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "09c3e582-02b0-4c5d-8693-5c89099677d1",
+   "title": {
+    "en": "Aku no Meshitsukai"
+   },
+   "contentRating": "safe",
+   "score": 0.18472472,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -142,64 +191,18 @@
    ]
   },
   {
-   "id": "09c3e582-02b0-4c5d-8693-5c89099677d1",
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
    "title": {
-    "en": "Aku no Meshitsukai"
+    "en": "Sensei no Yasashii Koroshikata"
    },
    "contentRating": "safe",
    "score": 0.18472472,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "a60cf591-8c20-4f71-be4c-d2995e63292a",
-   "title": {
-    "en": "Illuminating Emotions"
-   },
-   "contentRating": "safe",
-   "score": 0.17955104,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
-   "title": {
-    "en": "Nee Nee, Nene-san."
-   },
-   "contentRating": "safe",
-   "score": 0.17883429,
-   "languages": [
-    "ru",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
-   "title": {
-    "en": "Mahou Tsukai no Deshi ga Warau Toki."
-   },
-   "contentRating": "safe",
-   "score": 0.17716576,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
-   "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
-   },
-   "contentRating": "safe",
-   "score": 0.17712182,
-   "languages": [
-    "en"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:36+00:00"
+ "updatedAt": "2023-12-10T18:16:14+00:00"
 }

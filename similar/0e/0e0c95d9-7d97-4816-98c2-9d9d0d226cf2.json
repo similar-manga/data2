@@ -6,12 +6,23 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "5d5ab0e1-2f12-4cd3-8df9-89a074fc6a6e",
+   "title": {
+    "en": "Boku Dake o Mite Kure"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25793245,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7a125c16-1b0b-4dd4-ba59-bae15f6586ae",
    "title": {
     "en": "Kanojo ni Nekomimi wa Tsukimono Desu!"
    },
    "contentRating": "suggestive",
-   "score": 0.26047343,
+   "score": 0.25677222,
    "languages": [
     "en",
     "vi"
@@ -23,7 +34,7 @@
     "en": "Omae Imouto ja Nakute Iinazuke datta no kayo!?"
    },
    "contentRating": "suggestive",
-   "score": 0.25539145,
+   "score": 0.25359052,
    "languages": [
     "en",
     "id",
@@ -32,23 +43,12 @@
    ]
   },
   {
-   "id": "5d5ab0e1-2f12-4cd3-8df9-89a074fc6a6e",
-   "title": {
-    "en": "Boku Dake o Mite Kure"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25518504,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7fb957e4-a94b-496d-be91-b7d75fad7b21",
    "title": {
     "en": "Osananajimi to wa Romcom ni Naranai"
    },
    "contentRating": "suggestive",
-   "score": 0.25222367,
+   "score": 0.25171757,
    "languages": [
     "ru",
     "en",
@@ -67,7 +67,7 @@
     "en": "How About R15?"
    },
    "contentRating": "suggestive",
-   "score": 0.24376152,
+   "score": 0.2429369,
    "languages": [
     "en",
     "pt-br",
@@ -81,7 +81,7 @@
     "ja": "Ookina Noichi to Chiisana Hinayuki"
    },
    "contentRating": "suggestive",
-   "score": 0.24289353,
+   "score": 0.24213661,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Yowa Yowa Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.24004802,
+   "score": 0.23957996,
    "languages": [
     "vi",
     "en",
@@ -106,7 +106,7 @@
     "en": "Arakure Ojousama wa Monmon Shiteiru"
    },
    "contentRating": "suggestive",
-   "score": 0.23772873,
+   "score": 0.23682617,
    "languages": [
     "pt-br",
     "ru",
@@ -122,23 +122,9 @@
     "en": "BL Game no Shujinkou no Otouto de Aru Koto ni Ki ga Tsukimashita"
    },
    "contentRating": "suggestive",
-   "score": 0.23735307,
+   "score": 0.23601349,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "6ccbcdcd-9717-4994-bbbf-381e949b705b",
-   "title": {
-    "en": "I Am Worried That My Childhood Friend Is Too Cute!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23658144,
-   "languages": [
-    "en",
-    "id",
-    "uk",
-    "vi"
    ]
   },
   {
@@ -147,7 +133,7 @@
     "en": "Shuukan Brick"
    },
    "contentRating": "suggestive",
-   "score": 0.2363878,
+   "score": 0.23598203,
    "languages": [
     "en",
     "id",
@@ -156,12 +142,26 @@
    ]
   },
   {
+   "id": "6ccbcdcd-9717-4994-bbbf-381e949b705b",
+   "title": {
+    "en": "I Am Worried That My Childhood Friend Is Too Cute!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23572443,
+   "languages": [
+    "en",
+    "id",
+    "uk",
+    "vi"
+   ]
+  },
+  {
    "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
    "title": {
     "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.23530592,
+   "score": 0.23471366,
    "languages": [
     "id",
     "en",
@@ -174,7 +174,7 @@
     "en": "Miyo-chan Sensei wa Kaku Katariki"
    },
    "contentRating": "suggestive",
-   "score": 0.23528989,
+   "score": 0.23395707,
    "languages": [
     "es-la",
     "pt-br",
@@ -187,7 +187,7 @@
     "en": "Bite Marks"
    },
    "contentRating": "suggestive",
-   "score": 0.23203923,
+   "score": 0.23211826,
    "languages": [
     "ru",
     "en",
@@ -204,7 +204,7 @@
     "en": "Work I Really Want To Do!!!"
    },
    "contentRating": "suggestive",
-   "score": 0.23200074,
+   "score": 0.2316876,
    "languages": [
     "en"
    ]
@@ -215,7 +215,7 @@
     "en": "Futari Switch"
    },
    "contentRating": "suggestive",
-   "score": 0.23119201,
+   "score": 0.23084466,
    "languages": [
     "es-la",
     "ru",
@@ -228,5 +228,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:18+00:00"
+ "updatedAt": "2023-12-10T18:09:51+00:00"
 }

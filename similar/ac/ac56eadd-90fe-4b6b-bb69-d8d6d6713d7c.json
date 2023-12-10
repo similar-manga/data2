@@ -11,7 +11,7 @@
     "en": "Soshite Hibi Koishiteku"
    },
    "contentRating": "safe",
-   "score": 0.2691201,
+   "score": 0.2687963,
    "languages": [
     "pl",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Holy Night"
    },
    "contentRating": "safe",
-   "score": 0.2478503,
+   "score": 0.24472176,
    "languages": [
     "en",
     "pl"
@@ -35,8 +35,33 @@
     "en": "Rinjin"
    },
    "contentRating": "safe",
-   "score": 0.23116052,
+   "score": 0.2313576,
    "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "58a992ce-6043-473f-8987-5ce81b3ca177",
+   "title": {
+    "en": "Soshite Watashi wa Kaeru ni Koisuru"
+   },
+   "contentRating": "safe",
+   "score": 0.21994297,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
+   "title": {
+    "en": "Gimmick"
+   },
+   "contentRating": "safe",
+   "score": 0.21994297,
+   "languages": [
+    "tr",
     "pl",
     "en"
    ]
@@ -55,18 +80,6 @@
    ]
   },
   {
-   "id": "58a992ce-6043-473f-8987-5ce81b3ca177",
-   "title": {
-    "en": "Soshite Watashi wa Kaeru ni Koisuru"
-   },
-   "contentRating": "safe",
-   "score": 0.21994297,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "b621ea46-3a3e-423d-9c06-3449706c97ce",
    "title": {
     "en": "Kodomo ga Neta Ato de"
@@ -80,14 +93,13 @@
    ]
   },
   {
-   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
+   "id": "54846817-cfdf-4802-a3e9-24ca9e6b90f0",
    "title": {
-    "en": "Gimmick"
+    "en": "Otokogokoro x Puchitto Hajiketa Crossover"
    },
    "contentRating": "safe",
-   "score": 0.21994297,
+   "score": 0.20736422,
    "languages": [
-    "tr",
     "pl",
     "en"
    ]
@@ -132,24 +144,12 @@
    ]
   },
   {
-   "id": "54846817-cfdf-4802-a3e9-24ca9e6b90f0",
-   "title": {
-    "en": "Otokogokoro x Puchitto Hajiketa Crossover"
-   },
-   "contentRating": "safe",
-   "score": 0.20736422,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "8477d4e3-fab7-422b-b6fe-c699ec5f5789",
    "title": {
     "en": "Arata Kangatari"
    },
    "contentRating": "safe",
-   "score": 0.19940454,
+   "score": 0.20217408,
    "languages": [
     "en",
     "pl"
@@ -204,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:52+00:00"
+ "updatedAt": "2023-12-10T18:27:35+00:00"
 }

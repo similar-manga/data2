@@ -11,7 +11,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.3021086,
+   "score": 0.30164966,
    "languages": [
     "pt-br",
     "ru",
@@ -26,7 +26,7 @@
     "en": "Night at the Aquarium"
    },
    "contentRating": "safe",
-   "score": 0.29923,
+   "score": 0.30022362,
    "languages": [
     "vi",
     "en"
@@ -38,7 +38,7 @@
     "en": "Olga A Yiri"
    },
    "contentRating": "safe",
-   "score": 0.29781055,
+   "score": 0.29700363,
    "languages": [
     "pt-br",
     "en"
@@ -50,7 +50,7 @@
     "en": "Komaoto"
    },
    "contentRating": "safe",
-   "score": 0.29505384,
+   "score": 0.29451773,
    "languages": [
     "ru",
     "tr",
@@ -58,6 +58,19 @@
     "it",
     "pl",
     "ca"
+   ]
+  },
+  {
+   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
+   "title": {
+    "en": "Sayonara Bye-Bye"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
    ]
   },
   {
@@ -100,15 +113,16 @@
    ]
   },
   {
-   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
+   "id": "9d85b738-9c29-4518-bccf-0ca6607abf56",
    "title": {
-    "en": "Sayonara Bye-Bye"
+    "en": "Green"
    },
    "contentRating": "safe",
-   "score": 0.2851258,
+   "score": 0.2683248,
    "languages": [
-    "ru",
-    "tr",
+    "ar",
+    "it",
+    "fr",
     "en"
    ]
   },
@@ -118,7 +132,7 @@
     "en": "Mayonaka Sanpo"
    },
    "contentRating": "safe",
-   "score": 0.268279,
+   "score": 0.26821193,
    "languages": [
     "fa",
     "ar",
@@ -129,42 +143,14 @@
    ]
   },
   {
-   "id": "9d85b738-9c29-4518-bccf-0ca6607abf56",
-   "title": {
-    "en": "Green"
-   },
-   "contentRating": "safe",
-   "score": 0.26803142,
-   "languages": [
-    "ar",
-    "it",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "abcad188-1350-4844-be42-d69633a5bf27",
    "title": {
     "en": "Potechi"
    },
    "contentRating": "safe",
-   "score": 0.26182303,
+   "score": 0.26183343,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Fukugaeru"
-   },
-   "contentRating": "safe",
-   "score": 0.26153997,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de"
    ]
   },
   {
@@ -173,7 +159,7 @@
     "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.25900513,
+   "score": 0.26085448,
    "languages": [
     "it",
     "en",
@@ -183,39 +169,53 @@
    ]
   },
   {
+   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
+   "title": {
+    "en": "Fukugaeru"
+   },
+   "contentRating": "safe",
+   "score": 0.2596476,
+   "languages": [
+    "bg",
+    "en",
+    "pl",
+    "de"
+   ]
+  },
+  {
+   "id": "e9134507-1631-4c68-bce1-3cfa7f78eb3e",
+   "title": {
+    "en": "Uraura Hikaru: Shinshin ni Mitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.25712046,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "bf8470f3-409c-49aa-8e84-83af31f677bc",
    "title": {
     "en": "Under the Bridge"
    },
    "contentRating": "safe",
-   "score": 0.25471365,
+   "score": 0.2539896,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "42647c77-390c-41d9-a7fc-4cdfd8882050",
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
    "title": {
-    "en": "Hakobune no Biosophia"
+    "en": "Otona no Zukan Kaiteiban"
    },
    "contentRating": "safe",
-   "score": 0.25293773,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
-   "title": {
-    "en": "Yamamoto's Ear Cleaning Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.25275946,
+   "score": 0.25396264,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:30+00:00"
+ "updatedAt": "2023-12-10T18:31:49+00:00"
 }

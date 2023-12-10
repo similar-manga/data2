@@ -11,7 +11,7 @@
     "en": "Tsukuroiya"
    },
    "contentRating": "safe",
-   "score": 0.29644755,
+   "score": 0.29270452,
    "languages": [
     "en"
    ]
@@ -29,6 +29,17 @@
    ]
   },
   {
+   "id": "d7ef7cb6-fb09-4288-85f5-6ff71b765392",
+   "title": {
+    "en": "Alice In Wonderland"
+   },
+   "contentRating": "safe",
+   "score": 0.24059343,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "169e622e-308b-406c-84dc-d5df8e4e165c",
    "title": {
     "en": "Kaizoku to Ningyo"
@@ -39,17 +50,6 @@
     "en",
     "pl",
     "pt-br"
-   ]
-  },
-  {
-   "id": "b9f2c125-cac6-4e74-b81e-38623ef62843",
-   "title": {
-    "en": "The Starlight Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.22239862,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -65,16 +65,85 @@
    ]
   },
   {
+   "id": "b9f2c125-cac6-4e74-b81e-38623ef62843",
+   "title": {
+    "en": "The Starlight Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.21799105,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7a34b48c-7932-4f40-9b8c-99682f59e550",
+   "title": {
+    "en": "Aria of Beech Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.21548055,
+   "languages": [
+    "en",
+    "pt-br",
+    "uk",
+    "ru"
+   ]
+  },
+  {
    "id": "f655eaaf-cfc8-4b55-a673-276a0fd229f2",
    "title": {
     "en": "Nanairo no Mukou"
    },
    "contentRating": "safe",
-   "score": 0.2154378,
+   "score": 0.21450806,
    "languages": [
     "en",
     "de",
     "es-la"
+   ]
+  },
+  {
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
+   "title": {
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
+   },
+   "contentRating": "safe",
+   "score": 0.20981386,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
+   "title": {
+    "en": "Dragon Knights - Search For the Legendary King"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1ba7942-e344-476f-b5da-714edb317fcd",
+   "title": {
+    "en": "Neo Angelique"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b3a79b2-64ba-452e-b014-94b5a3e1e4e9",
+   "title": {
+    "en": "Himegimi no Jouken"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -112,83 +181,16 @@
    ]
   },
   {
-   "id": "4b3a79b2-64ba-452e-b014-94b5a3e1e4e9",
+   "id": "acf31122-946f-4738-8b18-eed1df481012",
    "title": {
-    "en": "Himegimi no Jouken"
+    "en": "Crystal Dragon"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7654b02a-b78c-412f-a385-690c36ac9bf2",
-   "title": {
-    "en": "Xia Ke Xing"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ef63652e-620c-4dd6-9410-bd270e76130f",
-   "title": {
-    "en": "Tales from the Land of Daughters - ShengNan's Story"
-   },
-   "contentRating": "safe",
-   "score": 0.19980863,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e8baba85-9eac-447c-9a3b-ef4af41ddf82",
-   "title": {
-    "en": "Dragon Fist"
-   },
-   "contentRating": "safe",
-   "score": 0.19479479,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "845bcd50-4faf-4033-8898-005abe6ff593",
-   "title": {
-    "en": "Pharaoh no Haka"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cbf01c69-a6c6-4577-80fe-6645728217f2",
-   "title": {
-    "en": "Sora no Kakera"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
-   "title": {
-    "en": "Ougon no Koku"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:54+00:00"
+ "updatedAt": "2023-12-10T18:30:17+00:00"
 }

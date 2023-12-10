@@ -11,7 +11,7 @@
     "en": "Ode to Gallantry"
    },
    "contentRating": "safe",
-   "score": 0.6863197
+   "score": 0.68852806
   },
   {
    "id": "3b2790c4-8161-47d9-8de7-d1d0df31d8b8",
@@ -19,7 +19,7 @@
     "en": "Demi-Gods and Semi-Devils"
    },
    "contentRating": "safe",
-   "score": 0.6803977
+   "score": 0.68565017
   },
   {
    "id": "58359390-ed36-4f82-ad0f-e5df1fdae34e",
@@ -27,7 +27,7 @@
     "en": "Flying Fox of Snowy Mountain"
    },
    "contentRating": "safe",
-   "score": 0.42356908
+   "score": 0.42239884
   },
   {
    "id": "4a62de28-fa71-4872-b8f1-028fa30a5d31",
@@ -35,8 +35,20 @@
     "en": "The Smiling, Proud Wanderer"
    },
    "contentRating": "safe",
-   "score": 0.32237604,
+   "score": 0.32209426,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cba5dadb-0d76-42b6-aab1-723355e7285d",
+   "title": {
+    "en": "Demi-Gods and Semi-Devils"
+   },
+   "contentRating": "safe",
+   "score": 0.26962316,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -46,7 +58,7 @@
     "en": "The Legend of Genghis"
    },
    "contentRating": "safe",
-   "score": 0.2656205,
+   "score": 0.26377386,
    "languages": [
     "pl",
     "fr",
@@ -59,7 +71,7 @@
     "en": "The Ravages of Time"
    },
    "contentRating": "safe",
-   "score": 0.25777054,
+   "score": 0.25686797,
    "languages": [
     "pt-br",
     "en",
@@ -70,120 +82,102 @@
    ]
   },
   {
+   "id": "88ef0fc7-3325-494f-9d3a-3f891ad7afdc",
+   "title": {
+    "en": "Prince Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.24719532,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "7a4ff526-0aea-432b-872c-863493525ddf",
    "title": {
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.24602522,
+   "score": 0.24469593,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e3e27a5b-d766-428d-9b81-59e60fe6eac6",
+   "id": "933add13-9433-46d5-a444-7b177330fb4c",
    "title": {
-    "en": "Resurrection of Reiki – Awakening of the God-Slaying Eye"
+    "en": "Kono Hi, \"Itsuwari no Yuusha\" de Aru Ore wa \"Shin no Yuusha\" de Aru Kare wo Party kara Tsuihou shita"
    },
    "contentRating": "safe",
-   "score": 0.22639918,
+   "score": 0.24302977,
    "languages": [
-    "en",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "e0966537-58a1-421b-8ea9-3e7f02d703c4",
+   "id": "643b86ad-0e88-4ca2-99f0-e48651ade159",
    "title": {
-    "en": "The Hero Returns"
+    "en": "Yong Sheng"
    },
    "contentRating": "safe",
-   "score": 0.22591282,
+   "score": 0.2409474
+  },
+  {
+   "id": "f175bd1b-648d-4fea-9d89-409fab589e51",
+   "title": {
+    "en": "World Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.23096333
+  },
+  {
+   "id": "e37d99ef-efe9-4cdb-b62d-ce2e14ba6d1d",
+   "title": {
+    "en": "The Ace Undercover of Southern Song"
+   },
+   "contentRating": "safe",
+   "score": 0.22753686,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ab6baa25-fa08-4ee8-b79c-5d40d6c26eda",
+   "title": {
+    "en": "Prince of Lan Ling"
+   },
+   "contentRating": "safe",
+   "score": 0.22610831,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "83328446-ba9b-467d-83d1-37241f1ab4d2",
+   "title": {
+    "en": "Yong Heng Zhi Zun"
+   },
+   "contentRating": "safe",
+   "score": 0.22434431,
+   "languages": [
+    "en",
     "pt-br",
-    "en",
-    "id",
     "fr",
-    "it",
-    "pl"
+    "ru"
    ]
   },
   {
-   "id": "c29fb8fd-f053-4f33-90ee-331b3e112133",
+   "id": "15c5152b-5d29-4ba6-b9a7-33f4815a5e92",
    "title": {
-    "en": "Jitsuryokuha Elite Jin"
+    "en": "High and Mighty"
    },
    "contentRating": "safe",
-   "score": 0.2249872,
+   "score": 0.22426797,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
-   "title": {
-    "en": "Wild Eagle Boys Unit"
-   },
-   "contentRating": "safe",
-   "score": 0.2191272
-  },
-  {
-   "id": "45aa8f26-3985-4c9a-bd2b-40c3e1242a77",
-   "title": {
-    "en": "Heroes of the Spring and Autumn"
-   },
-   "contentRating": "safe",
-   "score": 0.21793602,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e0135826-984b-4d61-a8e0-439db57990c5",
-   "title": {
-    "en": "Ravenend no Hitobito"
-   },
-   "contentRating": "safe",
-   "score": 0.21455342
-  },
-  {
-   "id": "7e922707-49e8-4277-8fe1-36cbc6759f38",
-   "title": {
-    "en": "The Legend of Zelda - Ocarina of Time 3D"
-   },
-   "contentRating": "safe",
-   "score": 0.21376736,
-   "languages": [
-    "es-la",
-    "de",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "c00cc3d9-f7c7-46da-95d5-8f5ae1e6fe57",
-   "title": {
-    "en": "It Starts With A Mountain"
-   },
-   "contentRating": "safe",
-   "score": 0.21149556,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "66400137-fce8-4240-8a7c-8b25624b49a6",
-   "title": {
-    "en": "Blood and Steel"
-   },
-   "contentRating": "safe",
-   "score": 0.20980957,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:33+00:00"
+ "updatedAt": "2023-12-10T18:34:25+00:00"
 }

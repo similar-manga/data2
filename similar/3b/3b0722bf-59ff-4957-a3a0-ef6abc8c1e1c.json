@@ -11,7 +11,7 @@
     "en": "Gazer"
    },
    "contentRating": "safe",
-   "score": 0.30355552,
+   "score": 0.30112293,
    "languages": [
     "pt-br",
     "en",
@@ -24,8 +24,21 @@
     "en": "Terrace House Dust"
    },
    "contentRating": "safe",
-   "score": 0.28947398,
+   "score": 0.29312706,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9190a5b-5de7-4383-ba41-1aeb20128451",
+   "title": {
+    "en": "Shitauke Tantei Nokori Kasuhiro"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "de",
+    "pt-br",
     "en"
    ]
   },
@@ -52,25 +65,35 @@
    ]
   },
   {
-   "id": "e9190a5b-5de7-4383-ba41-1aeb20128451",
-   "title": {
-    "en": "Shitauke Tantei Nokori Kasuhiro"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "de",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "51b71281-1fe0-443f-a214-6b09fc9bf4a5",
    "title": {
     "en": "The Band of Young Ruffians"
    },
    "contentRating": "safe",
-   "score": 0.22562076,
+   "score": 0.22877713,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a3cbecf3-a9f5-4674-8125-00a641a55ccc",
+   "title": {
+    "en": "Toaru Kagaku no Railgun - Insist on the need of outsiders (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.21538262,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "8b2ae8c9-6eba-4128-8a63-565ea177d551",
+   "title": {
+    "en": "Senyuu. - Foyfoy・Rudolf-hen"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -87,39 +110,40 @@
    ]
   },
   {
-   "id": "8b2ae8c9-6eba-4128-8a63-565ea177d551",
+   "id": "ace62c1e-2d70-4517-b2f4-baa147db82f7",
    "title": {
-    "en": "Senyuu. - Foyfoy・Rudolf-hen"
+    "en": "Fairy Tail x The Seven Deadly Sins Christmas Special"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21045114,
    "languages": [
+    "ru",
+    "es",
+    "ca",
     "en"
    ]
   },
   {
-   "id": "a3cbecf3-a9f5-4674-8125-00a641a55ccc",
+   "id": "6dce3893-39ac-4e1e-a568-743809334616",
    "title": {
-    "en": "Toaru Kagaku no Railgun - Insist on the need of outsiders (Doujinshi)"
+    "en": "Toaru Kagaku no Railgun - Misaka Mikoto wa Onee-san (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.2120677,
+   "score": 0.20632549,
    "languages": [
     "en",
     "zh"
    ]
   },
   {
-   "id": "ace62c1e-2d70-4517-b2f4-baa147db82f7",
+   "id": "434b37d0-b96c-40b8-8f74-132e72859c36",
    "title": {
-    "en": "Fairy Tail x The Seven Deadly Sins Christmas Special"
+    "en": "Nekura Musume to Internet"
    },
    "contentRating": "safe",
-   "score": 0.21013881,
+   "score": 0.20203052,
    "languages": [
-    "ru",
-    "es",
-    "ca",
+    "fr",
     "en"
    ]
   },
@@ -133,30 +157,6 @@
    "languages": [
     "en",
     "ro"
-   ]
-  },
-  {
-   "id": "c957b7c1-a003-42db-9b96-87ac4fa72e79",
-   "title": {
-    "en": "Toaru Majutsu no Index - Kakine Teitoku returns to Battle Accelerator in Genesis Testament (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "4c26ce69-f83b-412a-8648-569f1d35aa4a",
-   "title": {
-    "en": "Ren-Chin Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "es-la",
-    "en"
    ]
   },
   {
@@ -182,17 +182,19 @@
    ]
   },
   {
-   "id": "434b37d0-b96c-40b8-8f74-132e72859c36",
+   "id": "87b75b3a-a875-4adb-aff2-81243a7ba06b",
    "title": {
-    "en": "Nekura Musume to Internet"
+    "en": "The Wolf Brothers and Little Red Riding Hood"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "fr",
-    "en"
+    "hu",
+    "pl",
+    "en",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:01+00:00"
+ "updatedAt": "2023-12-10T18:14:39+00:00"
 }

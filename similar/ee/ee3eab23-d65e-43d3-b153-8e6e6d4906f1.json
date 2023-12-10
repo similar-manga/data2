@@ -6,15 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b6d91f58-a38f-4107-b9ec-ed2cfd61db41",
+   "title": {
+    "en": "Meshitaki Onna ni Yakuza no Ai wa Omosugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.29127878
+  },
+  {
    "id": "30d61f7f-b018-45df-a2fb-570089084214",
    "title": {
     "en": "Outreijou"
    },
    "contentRating": "safe",
-   "score": 0.27533737,
+   "score": 0.27767888,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "7d80640d-c591-4c7a-a47e-594c29c2037c",
+   "title": {
+    "en": "Like a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.25812563,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,7 +53,7 @@
     "en": "Onii-chan Is Done For! Official Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.21778324,
+   "score": 0.21756488,
    "languages": [
     "en",
     "pt-br",
@@ -44,14 +63,13 @@
    ]
   },
   {
-   "id": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
+   "id": "5d13b733-7204-4870-b96a-cf69ba00475e",
    "title": {
-    "en": "Thank You, Isekai!"
+    "en": "Thank You, Isekai (Webtoon)"
    },
    "contentRating": "safe",
    "score": 0.20158304,
    "languages": [
-    "id",
     "en"
    ]
   },
@@ -68,31 +86,35 @@
    ]
   },
   {
-   "id": "5d13b733-7204-4870-b96a-cf69ba00475e",
+   "id": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
    "title": {
-    "en": "Thank You, Isekai (Webtoon)"
+    "en": "Thank You, Isekai!"
    },
    "contentRating": "safe",
    "score": 0.20158304,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "918fbd19-8973-49de-bb86-96596960375e",
+   "title": {
+    "en": "Animeta!"
+   },
+   "contentRating": "safe",
+   "score": 0.19803706,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b1ca2126-1c7a-45cb-aa77-47dfd5914586",
+   "id": "10076e27-ec0f-462d-ab27-d011a70989dd",
    "title": {
-    "en": "Sanada to Hamako"
+    "en": "Late Blooming Old Man"
    },
    "contentRating": "safe",
-   "score": 0.18814418
-  },
-  {
-   "id": "e21ab872-3794-4628-b9a9-1eaf84e88e9a",
-   "title": {
-    "en": "Fukuoka Zamurai"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418
+   "score": 0.19542594
   },
   {
    "id": "770901fd-cd53-4aaf-b20a-807f8200e8ee",
@@ -103,44 +125,9 @@
    "score": 0.18814418
   },
   {
-   "id": "f24a77be-ac65-4088-85da-30468d976619",
+   "id": "b1ca2126-1c7a-45cb-aa77-47dfd5914586",
    "title": {
-    "en": "Jukai Shounen Zoo 1"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418
-  },
-  {
-   "id": "32dfa93d-cee2-47c2-8d48-7c0ba57fb75d",
-   "title": {
-    "en": "Merry-chan to Hitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "000f87d6-92fe-434d-ac76-da6ad9286acf",
-   "title": {
-    "en": "Reiko Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418
-  },
-  {
-   "id": "dbac87fb-da12-4d29-ae0c-f88aed08f305",
-   "title": {
-    "en": "Kremlin"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418
-  },
-  {
-   "id": "13b64a37-9fa6-43ef-90d0-abc00fc6c4fa",
-   "title": {
-    "en": "Sekai Seifuku ~4koma no Zvezda~"
+    "en": "Sanada to Hamako"
    },
    "contentRating": "safe",
    "score": 0.18814418
@@ -157,13 +144,29 @@
    ]
   },
   {
-   "id": "ab33be26-6cdf-4448-8196-39fc0d0173a9",
+   "id": "5019aa69-79c5-4192-b483-aaf7eb6904e9",
    "title": {
-    "en": "Asoviva"
+    "en": "CHOW DOWN CHAMPS"
+   },
+   "contentRating": "safe",
+   "score": 0.18814418
+  },
+  {
+   "id": "e21ab872-3794-4628-b9a9-1eaf84e88e9a",
+   "title": {
+    "en": "Fukuoka Zamurai"
+   },
+   "contentRating": "safe",
+   "score": 0.18814418
+  },
+  {
+   "id": "a9940537-8cba-4c92-9beb-324a4f5d1c05",
+   "title": {
+    "en": "Super Fool Soup"
    },
    "contentRating": "safe",
    "score": 0.18814418
   }
  ],
- "updatedAt": "2023-12-10T01:09:36+00:00"
+ "updatedAt": "2023-12-10T18:34:31+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "The Boy from the Moon"
    },
    "contentRating": "safe",
-   "score": 0.2583236,
+   "score": 0.2574598,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Anemone"
    },
    "contentRating": "safe",
-   "score": 0.2144298,
+   "score": 0.21814162,
    "languages": [
     "tr",
     "en"
@@ -45,11 +45,22 @@
     "en": "Arcana 07 - Wizard / Magician"
    },
    "contentRating": "safe",
-   "score": 0.20187242,
+   "score": 0.20215522,
    "languages": [
     "en",
     "fr",
     "it"
+   ]
+  },
+  {
+   "id": "6260015c-005f-4106-9528-f9ddb666309f",
+   "title": {
+    "en": "Ikenie Akujo no Shiroi Kekkon - Mezametara 8-nengo, Katsute wa Goei Datta Koushaku-sama no Dekiai ni Naremasen!"
+   },
+   "contentRating": "safe",
+   "score": 0.20181733,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -58,7 +69,7 @@
     "en": "inGrid"
    },
    "contentRating": "safe",
-   "score": 0.20149662,
+   "score": 0.2012027,
    "languages": [
     "en"
    ]
@@ -69,7 +80,7 @@
     "en": "Ihou no Oswald"
    },
    "contentRating": "safe",
-   "score": 0.20148113,
+   "score": 0.20086487,
    "languages": [
     "zh-hk",
     "en"
@@ -81,7 +92,7 @@
     "en": "Arcana 12 - Demons"
    },
    "contentRating": "safe",
-   "score": 0.20043716,
+   "score": 0.20059273,
    "languages": [
     "fr",
     "en",
@@ -89,14 +100,36 @@
    ]
   },
   {
-   "id": "8922a71d-f27f-4946-af16-11ac112420f9",
+   "id": "b94788db-d6e4-46bb-9eac-df5bfa11c702",
    "title": {
-    "en": "Sheikh no Ryakudatsu Ai"
+    "en": "Konaide Kounotori"
    },
    "contentRating": "safe",
-   "score": 0.19170159,
+   "score": 0.20008722,
    "languages": [
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "704fa701-bef0-43c4-a7a0-0f16c0649507",
+   "title": {
+    "en": "Kiss kara Hajimeyou"
+   },
+   "contentRating": "safe",
+   "score": 0.1985891,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "152cfd18-e543-4386-9357-2e3773d66044",
+   "title": {
+    "en": "Muku Na Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.1965782,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -108,6 +141,17 @@
    "score": 0.19166298,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "fce24f32-1694-4c7c-9cba-ffe907b382a0",
+   "title": {
+    "en": "Dream Eater"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "fr"
    ]
   },
   {
@@ -125,72 +169,27 @@
    ]
   },
   {
-   "id": "fce24f32-1694-4c7c-9cba-ffe907b382a0",
+   "id": "8922a71d-f27f-4946-af16-11ac112420f9",
    "title": {
-    "en": "Dream Eater"
+    "en": "Sheikh no Ryakudatsu Ai"
    },
    "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.19074969,
    "languages": [
     "fr"
    ]
   },
   {
-   "id": "9ff1ed12-06fb-42e3-aa3a-67420daff952",
+   "id": "91bff606-7f63-4443-a459-556e41df835d",
    "title": {
-    "en": "The Most Heretical Last Boss Queen Who Will Become the Source of Tragedy Will Devote Herself for the Sake of the People. Comic Anthology"
+    "en": "Amalfi no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.1892563,
+   "score": 0.19009791,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b17df2d5-6e2f-4a14-a7de-dd11d015e453",
-   "title": {
-    "en": "Ubawareta Hanayome"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "210e8cdc-d201-4240-9d3a-1958f137c05b",
-   "title": {
-    "en": "A Cursed Girl's Bible"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d00b1c50-960b-418d-b62c-8672f9dd0d3a",
-   "title": {
-    "en": "Saikyou no Tenshi Nishite Saiai no Akuma"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "931f5b32-3640-4505-a9d1-c0037c302808",
-   "title": {
-    "en": "DOLL: IC in a Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "it",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:10+00:00"
+ "updatedAt": "2023-12-10T18:20:20+00:00"
 }

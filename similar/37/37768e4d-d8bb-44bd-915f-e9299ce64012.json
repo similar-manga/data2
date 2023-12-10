@@ -11,7 +11,7 @@
     "en": "Goodbye Mr. Bunny"
    },
    "contentRating": "safe",
-   "score": 0.23871906,
+   "score": 0.23740341,
    "languages": [
     "pl",
     "pt-br",
@@ -36,7 +36,15 @@
     "en": "Jungle King"
    },
    "contentRating": "safe",
-   "score": 0.22258893
+   "score": 0.2229761
+  },
+  {
+   "id": "47ce24b6-f6e3-4acf-9f41-39a8a07e8607",
+   "title": {
+    "en": "Detective Apprentice Akio..."
+   },
+   "contentRating": "safe",
+   "score": 0.21894008
   },
   {
    "id": "7ce83763-093c-4c2a-8104-c610221eb765",
@@ -44,7 +52,15 @@
     "en": "Airport"
    },
    "contentRating": "safe",
-   "score": 0.2090786
+   "score": 0.20901583
+  },
+  {
+   "id": "45c31711-ed65-419c-81eb-0a030030a76a",
+   "title": {
+    "en": "Nightmare of Dogs"
+   },
+   "contentRating": "safe",
+   "score": 0.20431398
   },
   {
    "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
@@ -77,13 +93,24 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.19845416,
+   "score": 0.19748494,
    "languages": [
     "pt-br",
     "en",
     "es",
     "ru",
     "tr"
+   ]
+  },
+  {
+   "id": "40c4d38c-cae3-45e3-b984-a7a4569dd4ed",
+   "title": {
+    "en": "Teppen Gurarin - Nippon Mukashi Banashi Hanzai Sousa"
+   },
+   "contentRating": "safe",
+   "score": 0.1950228,
+   "languages": [
+    "zh-hk"
    ]
   },
   {
@@ -96,6 +123,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9f94d6b9-caa1-457f-9a5e-dde450932e86",
+   "title": {
+    "en": "Dorokei"
+   },
+   "contentRating": "safe",
+   "score": 0.19011925
   },
   {
    "id": "0fbcdc4e-c990-40e5-a9b0-4d0816206783",
@@ -113,87 +148,33 @@
    ]
   },
   {
-   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+   "id": "e9357f9d-ec92-42cf-8265-94143c740256",
    "title": {
-    "en": "Bungou Stray Dogs"
+    "en": "Bungo Stray Dogs (Vertical Comic)"
    },
    "contentRating": "safe",
-   "score": 0.18237646,
+   "score": 0.18584757
+  },
+  {
+   "id": "8a74ccd1-b145-4dc7-876e-a0d7410b2b4a",
+   "title": {
+    "en": "Under Prison"
+   },
+   "contentRating": "safe",
+   "score": 0.1823214
+  },
+  {
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
+   "title": {
+    "en": "Tokyo Ghoul (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.18130744,
    "languages": [
-    "tr",
-    "pt-br",
     "en",
-    "pl",
-    "fr",
-    "id",
-    "es-la",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "1c265381-d3df-4624-a6a4-24388e336af6",
-   "title": {
-    "en": "Chou Tantei Jikenbo: Rain Code"
-   },
-   "contentRating": "safe",
-   "score": 0.18154992
-  },
-  {
-   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
-   "title": {
-    "en": "Taisho Detective"
-   },
-   "contentRating": "safe",
-   "score": 0.18080401,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "79a569a8-32d4-4d94-a180-2fcf399b0851",
-   "title": {
-    "en": "KAFKA: Fukashigi na Jikenbo"
-   },
-   "contentRating": "safe",
-   "score": 0.17949532
-  },
-  {
-   "id": "7888380e-b90a-432d-ad0d-a20cdda8d595",
-   "title": {
-    "en": "Me \u0026 the Devil Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.17699364,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
-   "title": {
-    "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.17657071,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "197a27f5-835f-49eb-a91a-9751fe73335e",
-   "title": {
-    "en": "Onihei Hankachou"
-   },
-   "contentRating": "safe",
-   "score": 0.17644006,
-   "languages": [
-    "en"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:53+00:00"
+ "updatedAt": "2023-12-10T18:14:15+00:00"
 }

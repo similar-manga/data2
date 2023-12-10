@@ -6,15 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c40ed389-df6a-4bbb-b3e8-4c5b38bb57c4",
+   "title": {
+    "en": "Sword Legend"
+   },
+   "contentRating": "safe",
+   "score": 0.29814717,
+   "languages": [
+    "en",
+    "id",
+    "ru",
+    "ar"
+   ]
+  },
+  {
    "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
    "title": {
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.27539957,
+   "score": 0.2748996,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "b8260de0-b1ee-4ea8-80f3-7c88a980d645",
+   "title": {
+    "en": "Universal Raider"
+   },
+   "contentRating": "safe",
+   "score": 0.27288133,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -23,7 +48,21 @@
     "en": "TEAM PHOENIX"
    },
    "contentRating": "safe",
-   "score": 0.26363593
+   "score": 0.26526582
+  },
+  {
+   "id": "36285540-c2c0-40ae-986a-a839fcd0f08b",
+   "title": {
+    "en": "Hakurai no Kishi"
+   },
+   "contentRating": "safe",
+   "score": 0.25987202,
+   "languages": [
+    "it",
+    "pt-br",
+    "en",
+    "id"
+   ]
   },
   {
    "id": "b29d710f-f8ba-4002-b7a9-26acee48ea9d",
@@ -31,7 +70,18 @@
     "en": "Deadbrain"
    },
    "contentRating": "safe",
-   "score": 0.2565897
+   "score": 0.25603262
+  },
+  {
+   "id": "8ec6a40f-5b98-4fa5-a379-bb6578e7b1fa",
+   "title": {
+    "en": "When I Tried Strengthening a Rusty Sword, It Turned into an OP Magic Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.2549029,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "8d7a4637-456f-4543-a2ab-32c9d13ce362",
@@ -39,40 +89,10 @@
     "en": "Countdown to Countdown"
    },
    "contentRating": "safe",
-   "score": 0.2530999,
+   "score": 0.253267,
    "languages": [
     "pt-br"
    ]
-  },
-  {
-   "id": "f1d65976-1ed7-4843-bb03-fa7a5cbe0715",
-   "title": {
-    "en": "Grandeek ReeL"
-   },
-   "contentRating": "safe",
-   "score": 0.25279427,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
-   "title": {
-    "en": "Scrapped Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.2518931,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0b9ae80-54e0-4512-9556-0827d03137ab",
-   "title": {
-    "en": "Swordsman Roulette Battler"
-   },
-   "contentRating": "safe",
-   "score": 0.25185418
   },
   {
    "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
@@ -80,7 +100,7 @@
     "en": "Segregated World"
    },
    "contentRating": "safe",
-   "score": 0.25151998,
+   "score": 0.2527634,
    "languages": [
     "en"
    ]
@@ -91,84 +111,71 @@
     "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
    },
    "contentRating": "safe",
-   "score": 0.25078338
+   "score": 0.252377
   },
   {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
    "title": {
-    "en": "The Game Invades the Earth"
+    "en": "Madara"
    },
    "contentRating": "safe",
-   "score": 0.24904065,
+   "score": 0.25237602,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6cc2e441-b61b-4178-b773-ce26da036f93",
+   "id": "c0b9ae80-54e0-4512-9556-0827d03137ab",
    "title": {
-    "en": "A Sword's Evolution Begins From Killing"
+    "en": "Swordsman Roulette Battler"
    },
    "contentRating": "safe",
-   "score": 0.24573861
+   "score": 0.25198182
   },
   {
-   "id": "24530e8d-4eac-49fe-a95e-47f2a0e5b362",
+   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
    "title": {
-    "en": "Here Lies the Wicked"
+    "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.24399215,
+   "score": 0.25166282,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b156c6e7-fe33-42a9-ae71-3543527b6683",
+   "id": "2bb86240-1f2a-4061-88d5-f3db0b1a19e2",
    "title": {
-    "en": "Sono Hen No Akuta"
+    "en": "Kaijin Reijou"
    },
    "contentRating": "safe",
-   "score": 0.23924315
-  },
-  {
-   "id": "fc97e6a9-22b2-4513-9a2a-f3b818244d8f",
-   "title": {
-    "en": "Babel (KIM Jung Han)"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
+   "score": 0.25116363,
    "languages": [
-    "en"
+    "es-la"
    ]
   },
   {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
+   "id": "6cbeb8b6-8834-4776-b3ed-f446e87bd4eb",
    "title": {
-    "en": "Kara no Kyoukai - The Garden of Sinners"
+    "en": "Legend Of Spirit Blade"
    },
    "contentRating": "safe",
-   "score": 0.2388799,
+   "score": 0.25020704,
    "languages": [
-    "ru",
-    "en",
-    "fr",
-    "es-la",
-    "pl"
+    "fr"
    ]
   },
   {
-   "id": "f0954799-3cbd-4be0-805e-29161edfa312",
+   "id": "a7f19ca5-77db-4f88-94a2-b60c72890a45",
    "title": {
-    "en": "Death Edge"
+    "en": "The Exorcism Expert"
    },
    "contentRating": "safe",
-   "score": 0.23630002,
+   "score": 0.2481823,
    "languages": [
-    "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:03+00:00"
+ "updatedAt": "2023-12-10T18:33:12+00:00"
 }

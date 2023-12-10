@@ -11,21 +11,10 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.27977303,
+   "score": 0.2788003,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.25198996,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -34,7 +23,18 @@
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.23817706,
+   "score": 0.23730655,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e66bc7d2-90e6-49ec-ae38-440784510c83",
+   "title": {
+    "en": "Mobile Suit Gundam: Thunderbolt Side Story"
+   },
+   "contentRating": "safe",
+   "score": 0.2369597,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.22468442,
+   "score": 0.22344883,
    "languages": [
     "en",
     "pt-br",
@@ -69,7 +69,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.22365834,
+   "score": 0.22288132,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.21128932,
+   "score": 0.21074459,
    "languages": [
     "en",
     "id",
@@ -93,7 +93,7 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.20788662,
+   "score": 0.20735398,
    "languages": [
     "ru",
     "en"
@@ -106,6 +106,17 @@
    },
    "contentRating": "safe",
    "score": 0.2053538,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
+   "title": {
+    "en": "Yugo (2004)"
+   },
+   "contentRating": "safe",
+   "score": 0.19827265,
    "languages": [
     "en"
    ]
@@ -127,7 +138,7 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.18624845,
+   "score": 0.18575162,
    "languages": [
     "en",
     "ru",
@@ -140,24 +151,10 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.18570796,
+   "score": 0.18514167,
    "languages": [
     "en",
     "es"
-   ]
-  },
-  {
-   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
-   "title": {
-    "en": "Adou"
-   },
-   "contentRating": "safe",
-   "score": 0.18474503,
-   "languages": [
-    "ru",
-    "en",
-    "zh-hk",
-    "pt-br"
    ]
   },
   {
@@ -166,7 +163,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.18340598,
+   "score": 0.18206084,
    "languages": [
     "en"
    ]
@@ -183,16 +180,19 @@
    ]
   },
   {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
    "title": {
-    "en": "Uncanny Brains"
+    "en": "Adou"
    },
    "contentRating": "safe",
    "score": 0.17734045,
    "languages": [
-    "en"
+    "ru",
+    "en",
+    "zh-hk",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:57+00:00"
+ "updatedAt": "2023-12-10T18:32:59+00:00"
 }

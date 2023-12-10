@@ -71,6 +71,17 @@
    ]
   },
   {
+   "id": "2b5ef364-a7d2-42b1-915e-93c5e7140952",
+   "title": {
+    "en": "A Breeze of Kanome"
+   },
+   "contentRating": "safe",
+   "score": 0.10787198,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "351628cb-b071-493b-8317-9b7a92a7e5c6",
    "title": {
     "en": "Someone's Laughing Outside the Room"
@@ -97,14 +108,19 @@
    ]
   },
   {
-   "id": "2b5ef364-a7d2-42b1-915e-93c5e7140952",
+   "id": "503f623f-cc65-4fe5-bd89-e5e2c999a192",
    "title": {
-    "en": "A Breeze of Kanome"
+    "en": "1LDK Blues"
    },
    "contentRating": "safe",
-   "score": 0.10787198,
+   "score": 0.105506994,
    "languages": [
-    "en"
+    "vi",
+    "tr",
+    "en",
+    "id",
+    "it",
+    "ru"
    ]
   },
   {
@@ -123,19 +139,14 @@
    ]
   },
   {
-   "id": "503f623f-cc65-4fe5-bd89-e5e2c999a192",
+   "id": "6abfc9ff-1d49-4a66-8c37-0a8a28e639b3",
    "title": {
-    "en": "1LDK Blues"
+    "en": "Double Date"
    },
    "contentRating": "safe",
-   "score": 0.105506994,
+   "score": 0.09746318,
    "languages": [
-    "vi",
-    "tr",
-    "en",
-    "id",
-    "it",
-    "ru"
+    "en"
    ]
   },
   {
@@ -144,7 +155,7 @@
     "en": "Nanchatte Cinderella Oukyuu Inbou Hen Isekai de, Outaishi hi Hajimemashita."
    },
    "contentRating": "safe",
-   "score": 0.10250104,
+   "score": 0.096733384,
    "languages": [
     "en",
     "ru"
@@ -165,46 +176,32 @@
    ]
   },
   {
-   "id": "c517f829-8bb8-44ab-972a-6ec4267f5c35",
+   "id": "19878414-f05e-4f4a-8789-2b552b381402",
    "title": {
-    "en": "I am Currently Living with a Bear"
-   },
-   "contentRating": "safe",
-   "score": 0.08536063,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8e5f7fcf-18d8-4da8-ae6c-f771cbd274b1",
-   "title": {
-    "en": "Sunny \u0026 Rainy"
-   },
-   "contentRating": "safe",
-   "score": 0.08528029,
-   "languages": [
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "9837bda7-8de3-4ec0-90f2-d8b0886612eb",
-   "title": {
-    "en": "Kaze ga Nuketekunda"
+    "en": "Entryway"
    },
    "contentRating": "safe",
    "score": 0.08528029,
    "languages": [
     "en",
-    "vi",
-    "fr"
+    "vi"
    ]
   },
   {
-   "id": "3da90fe2-0639-424b-9756-0ebffe2a7529",
+   "id": "bfd9fb29-6843-4bee-b096-7be221d12a52",
    "title": {
-    "en": "Oshiri Sawaritagaru Hito Nan na no"
+    "en": "A Dream Woven With a Sheik"
+   },
+   "contentRating": "safe",
+   "score": 0.08528029,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf9366fe-afb0-44b2-bf9e-cb050a3fef77",
+   "title": {
+    "en": "Datte Ai wo Shinjiteru"
    },
    "contentRating": "safe",
    "score": 0.08528029,
@@ -213,5 +210,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:43+00:00"
+ "updatedAt": "2023-12-10T18:27:12+00:00"
 }

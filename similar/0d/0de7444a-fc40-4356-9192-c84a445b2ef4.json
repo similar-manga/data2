@@ -11,10 +11,21 @@
     "en": "Happy Every Day"
    },
    "contentRating": "safe",
-   "score": 0.37674785,
+   "score": 0.31300038,
    "languages": [
     "pl",
     "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "c959d6c2-ff7d-4b16-8f38-53a7c2a685c1",
+   "title": {
+    "en": "Senaka no Otoko"
+   },
+   "contentRating": "safe",
+   "score": 0.3076705,
+   "languages": [
     "en"
    ]
   },
@@ -24,7 +35,7 @@
     "en": "Itsuwari Darling"
    },
    "contentRating": "safe",
-   "score": 0.33777085,
+   "score": 0.27543166,
    "languages": [
     "en"
    ]
@@ -35,56 +46,10 @@
     "en": "24 Jikan Renaichuu"
    },
    "contentRating": "safe",
-   "score": 0.3153061,
+   "score": 0.26522553,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "c959d6c2-ff7d-4b16-8f38-53a7c2a685c1",
-   "title": {
-    "en": "Senaka no Otoko"
-   },
-   "contentRating": "safe",
-   "score": 0.30128425,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a7f59aa1-588e-4f86-bf81-40c3dce279e6",
-   "title": {
-    "en": "Imokenpi wa Koi wo Yobu"
-   },
-   "contentRating": "safe",
-   "score": 0.25990003,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
-   "title": {
-    "en": "The Boy Next Door"
-   },
-   "contentRating": "safe",
-   "score": 0.24877916,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "35a02480-b71d-4aae-9a29-b53d50fb6309",
-   "title": {
-    "en": "A Gentle Time"
-   },
-   "contentRating": "safe",
-   "score": 0.24836607,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -93,7 +58,7 @@
     "en": "Guys After Marriage"
    },
    "contentRating": "safe",
-   "score": 0.24387592,
+   "score": 0.23605871,
    "languages": [
     "ro",
     "en"
@@ -123,38 +88,23 @@
    ]
   },
   {
-   "id": "8f3a103e-7d4d-41da-8ed9-2abfa15a5c38",
+   "id": "6e27167a-92ad-4a66-a877-60bf079e000f",
    "title": {
-    "en": "Issho ni Kaero."
+    "en": "I Doll"
    },
    "contentRating": "safe",
-   "score": 0.22958654,
+   "score": 0.22529566,
    "languages": [
-    "tr",
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "49ce762f-9bbb-4876-926b-07ee23183fec",
-   "title": {
-    "en": "Kuji no Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.22875437,
-   "languages": [
-    "pl",
     "en"
    ]
   },
   {
-   "id": "78b4cd82-1fcd-4d01-9974-41588d2bce96",
+   "id": "a7f59aa1-588e-4f86-bf81-40c3dce279e6",
    "title": {
-    "en": "Koibito Asobi"
+    "en": "Imokenpi wa Koi wo Yobu"
    },
    "contentRating": "safe",
-   "score": 0.21819422,
+   "score": 0.22375926,
    "languages": [
     "en"
    ]
@@ -165,18 +115,18 @@
     "en": "Watashi no Kishi-sama wa Minaraichuu!"
    },
    "contentRating": "safe",
-   "score": 0.21797651,
+   "score": 0.21806104,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bc950afa-8417-4146-9298-29f63ad5b04c",
+   "id": "78b4cd82-1fcd-4d01-9974-41588d2bce96",
    "title": {
-    "en": "Toretate Crazy!"
+    "en": "Koibito Asobi"
    },
    "contentRating": "safe",
-   "score": 0.21665007,
+   "score": 0.21686299,
    "languages": [
     "en"
    ]
@@ -187,12 +137,66 @@
     "en": "Mayonaka ni Binetsu"
    },
    "contentRating": "safe",
-   "score": 0.21635339,
+   "score": 0.2161481,
    "languages": [
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "0f4e9922-e84f-46f2-958b-e34a4e27a4a8",
+   "title": {
+    "en": "Uruwashi no Yoi no Tsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.21291788,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "hu",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "dbf64ac6-e4c0-4a47-b414-9b847925e3f7",
+   "title": {
+    "en": "Akuma ni Itsukushimi no Te o"
+   },
+   "contentRating": "safe",
+   "score": 0.21079762,
+   "languages": [
+    "pl",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "3375e927-2365-457a-81a8-dce99e90a583",
+   "title": {
+    "en": "Red Road"
+   },
+   "contentRating": "safe",
+   "score": 0.21079762,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d747298c-6371-4cf7-92da-1a476af71fb8",
+   "title": {
+    "en": "Otome no Itari"
+   },
+   "contentRating": "safe",
+   "score": 0.21079762,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:17+00:00"
+ "updatedAt": "2023-12-10T18:09:50+00:00"
 }

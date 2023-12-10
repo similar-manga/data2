@@ -11,7 +11,7 @@
     "en": "Evergreen:d"
    },
    "contentRating": "suggestive",
-   "score": 0.25808164,
+   "score": 0.25717375,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Trinity Seven"
    },
    "contentRating": "suggestive",
-   "score": 0.22410959,
+   "score": 0.22515889,
    "languages": [
     "de",
     "en",
@@ -30,17 +30,6 @@
     "es-la",
     "fr",
     "ro"
-   ]
-  },
-  {
-   "id": "5ed843e2-8332-4e97-abc8-cc1913173630",
-   "title": {
-    "en": "Occult Maiden - Hishou - Oni o Tsugu Shounen"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20203052,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -68,25 +57,47 @@
    ]
   },
   {
-   "id": "48881cde-d594-4a4f-89b0-1f6d7e25a148",
+   "id": "5ed843e2-8332-4e97-abc8-cc1913173630",
    "title": {
-    "en": "Muramasa"
+    "en": "Occult Maiden - Hishou - Oni o Tsugu Shounen"
    },
    "contentRating": "suggestive",
-   "score": 0.20078872,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a51fcac5-47a6-47aa-81d1-b10fefdc80ad",
+   "id": "48881cde-d594-4a4f-89b0-1f6d7e25a148",
    "title": {
-    "en": "Ningen Card"
+    "en": "Muramasa"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20021144,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "83563a31-a843-4c7c-b0be-7ac359a447a0",
+   "title": {
+    "en": "Oninaki no Curse Holder"
    },
    "contentRating": "suggestive",
    "score": 0.19166298,
    "languages": [
-    "id",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
+   "title": {
+    "en": "Akiba's Trip"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19166298,
+   "languages": [
     "en"
    ]
   },
@@ -104,25 +115,14 @@
    ]
   },
   {
-   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
+   "id": "a51fcac5-47a6-47aa-81d1-b10fefdc80ad",
    "title": {
-    "en": "Akiba's Trip"
+    "en": "Ningen Card"
    },
    "contentRating": "suggestive",
    "score": 0.19166298,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "83563a31-a843-4c7c-b0be-7ac359a447a0",
-   "title": {
-    "en": "Oninaki no Curse Holder"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19166298,
-   "languages": [
-    "es-la",
+    "id",
     "en"
    ]
   },
@@ -156,21 +156,19 @@
     "en": "Lady Justice (Pre-Serialization)"
    },
    "contentRating": "suggestive",
-   "score": 0.18620525,
+   "score": 0.18547146,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ba3b29e1-053d-4533-adf1-841e8fe6b774",
+   "id": "eea66d18-0ccc-45b6-8893-85c05386bc4b",
    "title": {
-    "en": "Futagami Double"
+    "en": "GetBackers Bangaihen"
    },
    "contentRating": "suggestive",
    "score": 0.17496355,
    "languages": [
-    "pl",
-    "fr",
     "en"
    ]
   },
@@ -186,16 +184,25 @@
    ]
   },
   {
-   "id": "eea66d18-0ccc-45b6-8893-85c05386bc4b",
+   "id": "46748d60-9b15-4647-8250-de0926b20268",
    "title": {
-    "en": "GetBackers Bangaihen"
+    "en": "Please Put Them On, Takamine-san!"
    },
    "contentRating": "suggestive",
    "score": 0.17496355,
    "languages": [
-    "en"
+    "id",
+    "ru",
+    "fr",
+    "en",
+    "es-la",
+    "tr",
+    "it",
+    "zh-hk",
+    "pl",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:59+00:00"
+ "updatedAt": "2023-12-10T18:22:35+00:00"
 }

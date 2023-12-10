@@ -6,24 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "899ac405-c941-4333-83f6-48bc0193e516",
-   "title": {
-    "en": "Meteor Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.35936236,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "00c26e55-2e80-4f76-a64c-de326739005c",
    "title": {
     "en": "A Girl Who Can See People's Happiness"
    },
    "contentRating": "safe",
-   "score": 0.3552261,
+   "score": 0.35409567,
    "languages": [
     "en"
    ]
@@ -34,10 +22,22 @@
     "en": "Bijin Ni Naritai"
    },
    "contentRating": "safe",
-   "score": 0.34934828,
+   "score": 0.3525676,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "899ac405-c941-4333-83f6-48bc0193e516",
+   "title": {
+    "en": "Meteor Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.35010505,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -46,7 +46,7 @@
     "en": "When I Crossdressed as My Favorite Character I Was Made Fun Of, but Then I Became Cute and Had a Happy Otaku Life"
    },
    "contentRating": "safe",
-   "score": 0.3476688,
+   "score": 0.34681463,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.31309685,
+   "score": 0.3083903,
    "languages": [
     "ru",
     "en",
@@ -70,34 +70,10 @@
     "en": "I Started Crying After my Daughter Discovered my Crossdressing"
    },
    "contentRating": "safe",
-   "score": 0.30566028,
+   "score": 0.3019431,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "9e431394-70bc-4494-935e-d8d6839082bc",
-   "title": {
-    "en": "Utaenai Fairy"
-   },
-   "contentRating": "safe",
-   "score": 0.2861235,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "03d919cd-6ace-4516-9acd-122c203f6898",
-   "title": {
-    "en": "Change☆Idol"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -124,17 +100,6 @@
    ]
   },
   {
-   "id": "5a88f023-c2bd-497e-b838-c9425c9c5b11",
-   "title": {
-    "en": "Femboy and Portraits"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e19efdf5-9bda-40f9-8f8d-5005d8d30fa4",
    "title": {
     "en": "Learning Chess Through Manga"
@@ -146,9 +111,20 @@
    ]
   },
   {
-   "id": "8450205d-53d7-482c-899c-4e37d840d59d",
+   "id": "5a88f023-c2bd-497e-b838-c9425c9c5b11",
    "title": {
-    "en": "The Story of Getting Remarried and Having a Cute Older Sister"
+    "en": "Femboy and Portraits"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "64f60e64-6813-4d93-b9be-5c078860de18",
+   "title": {
+    "en": "Give Me Back The Sand Boots"
    },
    "contentRating": "safe",
    "score": 0.28508148,
@@ -168,29 +144,56 @@
    ]
   },
   {
-   "id": "fb7f0a28-4a41-438e-9289-c12e9912627b",
+   "id": "03d919cd-6ace-4516-9acd-122c203f6898",
    "title": {
-    "en": "Twinkling Stars"
+    "en": "Change☆Idol"
    },
    "contentRating": "safe",
-   "score": 0.27872345,
+   "score": 0.28508148,
    "languages": [
-    "vi",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "8450205d-53d7-482c-899c-4e37d840d59d",
+   "title": {
+    "en": "The Story of Getting Remarried and Having a Cute Older Sister"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
     "en"
    ]
   },
   {
-   "id": "b71d0862-c9fb-461c-b173-14104667e8fb",
+   "id": "9e431394-70bc-4494-935e-d8d6839082bc",
    "title": {
-    "en": "Aru Hi Bijin ni Nattara"
+    "en": "Utaenai Fairy"
    },
    "contentRating": "safe",
-   "score": 0.27244738,
+   "score": 0.2810664,
    "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "8d2cc795-ead2-4aa5-b036-1f0634724d51",
+   "title": {
+    "en": "The Story of a Boy Who Sits Next to a Beautiful Classmate"
+   },
+   "contentRating": "safe",
+   "score": 0.28095415,
+   "languages": [
+    "id",
     "en",
+    "fr",
+    "es-la",
+    "zh",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:36+00:00"
+ "updatedAt": "2023-12-10T18:18:48+00:00"
 }

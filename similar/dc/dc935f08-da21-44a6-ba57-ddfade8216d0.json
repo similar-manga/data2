@@ -11,7 +11,7 @@
     "en": "Daikaiju Gaea-Tima"
    },
    "contentRating": "safe",
-   "score": 0.22660024,
+   "score": 0.2229145,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.21401475,
+   "score": 0.21332109,
    "languages": [
     "en",
     "ru"
@@ -36,22 +36,20 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20229661,
+   "score": 0.20162384,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
+   "id": "4d383dc5-8acb-415f-ba64-0cfec2e4f7cb",
    "title": {
-    "en": "Toudoku ni Ita"
+    "en": "Mugen no Gunkan Yamato"
    },
    "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.19398357,
    "languages": [
-    "en",
-    "es",
-    "de"
+    "en"
    ]
   },
   {
@@ -69,12 +67,25 @@
    ]
   },
   {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
+   "id": "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
    "title": {
-    "en": "Godzilla vs. Destroyah Red"
+    "en": "Toudoku ni Ita"
    },
    "contentRating": "safe",
-   "score": 0.17970598,
+   "score": 0.19317813,
+   "languages": [
+    "en",
+    "es",
+    "de"
+   ]
+  },
+  {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
    "languages": [
     "en"
    ]
@@ -88,6 +99,30 @@
    "score": 0.17970598,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e7ab9f39-7ffc-4fda-bd87-dc3e5b8480ce",
+   "title": {
+    "en": "Mob Kousei no Ore Demo Boukensha ni Nareba Riajuu ni Naremasuka?"
+   },
+   "contentRating": "safe",
+   "score": 0.1771724,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "88228c06-a554-40ce-912b-84ab6eac6c89",
+   "title": {
+    "en": "Houkago Assault Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.17634669,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -107,11 +142,33 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.17591928,
+   "score": 0.17487536,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
+   "title": {
+    "en": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
+   },
+   "contentRating": "safe",
+   "score": 0.17363772,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "1ecdc422-02fd-479d-bcda-6c479fc9a7b5",
+   "title": {
+    "en": "PoPoLoCrois"
+   },
+   "contentRating": "safe",
+   "score": 0.17074695,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -120,18 +177,7 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.17069137,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
-   "title": {
-    "en": "Cat Shit One' 80"
-   },
-   "contentRating": "safe",
-   "score": 0.1632653,
+   "score": 0.16983575,
    "languages": [
     "en"
    ]
@@ -146,51 +192,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "ebbe576d-48f0-4af5-9b63-75af63ee413c",
-   "title": {
-    "en": "Bokura no Q"
-   },
-   "contentRating": "safe",
-   "score": 0.16198477,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
-   "title": {
-    "en": "Omega Tribe Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.16130151,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
-   "title": {
-    "en": "Chaos Rings"
-   },
-   "contentRating": "safe",
-   "score": 0.16050416,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "26c1e1a6-3c8d-4513-af87-a2387eb69b90",
-   "title": {
-    "en": "Legend of the Galactic Heroes - Golden Wings"
-   },
-   "contentRating": "safe",
-   "score": 0.15768196,
-   "languages": [
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:51+00:00"
+ "updatedAt": "2023-12-10T18:32:43+00:00"
 }

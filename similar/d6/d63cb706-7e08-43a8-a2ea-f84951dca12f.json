@@ -6,16 +6,54 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3f9fd06a-6b29-498d-881c-787409cc1230",
+   "title": {
+    "en": "Poor Father and Daughter"
+   },
+   "contentRating": "safe",
+   "score": 0.30472618,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "5cc0b42c-4cd8-4b85-8a1a-3f59ec708839",
+   "title": {
+    "en": "Ningen no 99% wa Hon de Dekite Iru"
+   },
+   "contentRating": "safe",
+   "score": 0.2822484,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
    "title": {
     "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.25813684,
+   "score": 0.25914177,
    "languages": [
     "pt-br",
     "tr",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "f153b6c4-13b0-40bf-b6a3-5194f1bd4dfa",
+   "title": {
+    "en": "The Story of a Boy Who Can See Lifespans"
+   },
+   "contentRating": "safe",
+   "score": 0.25847998,
+   "languages": [
+    "uk",
     "en"
    ]
   },
@@ -25,11 +63,22 @@
     "en": "Exorcist and Spirit"
    },
    "contentRating": "safe",
-   "score": 0.24364348,
+   "score": 0.24191691,
    "languages": [
     "id",
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "43b7e925-4548-40c8-8605-82db5e8911c1",
+   "title": {
+    "en": "Mr.Train"
+   },
+   "contentRating": "safe",
+   "score": 0.2400639,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -38,7 +87,7 @@
     "en": "Atashin'chi"
    },
    "contentRating": "safe",
-   "score": 0.24043535,
+   "score": 0.23821993,
    "languages": [
     "de",
     "en",
@@ -51,37 +100,38 @@
     "en": "Youkai Apaato no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.23867288,
+   "score": 0.23817006,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "b045518a-4f86-4f98-ae67-1e5946b7f320",
+   "id": "a406461e-cb7e-4b23-9d5c-31c8b8f6427b",
    "title": {
-    "en": "The Abandoned Toy"
+    "en": "Kuuki ga \"Yomeru\" Shinnyushain to Buaiso na Senpai no Hanashi (Web-comic)"
    },
    "contentRating": "safe",
-   "score": 0.23348387,
+   "score": 0.23569602,
    "languages": [
+    "id",
     "en",
-    "vi",
+    "es-la",
     "pt-br"
    ]
   },
   {
-   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
+   "id": "16787c2c-02f5-46b4-9927-3428dc3d5070",
    "title": {
-    "en": "Natsume Yuujinchou"
+    "en": "Kitsune Spirit"
    },
    "contentRating": "safe",
-   "score": 0.23092547,
+   "score": 0.23367214,
    "languages": [
     "en",
     "pt-br",
-    "hu",
-    "tr"
+    "fr",
+    "ru"
    ]
   },
   {
@@ -90,9 +140,57 @@
     "en": "Seven Days After Death"
    },
    "contentRating": "safe",
-   "score": 0.2306487,
+   "score": 0.23266862,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b5283882-c439-4edf-b300-813dcbbfbaf6",
+   "title": {
+    "en": "Surround"
+   },
+   "contentRating": "safe",
+   "score": 0.23114212,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "b045518a-4f86-4f98-ae67-1e5946b7f320",
+   "title": {
+    "en": "The Abandoned Toy"
+   },
+   "contentRating": "safe",
+   "score": 0.2306036,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "50271b50-fd34-4d77-9f6e-3396ae04b7a6",
+   "title": {
+    "en": "Ayashii Tsubo Kattara, Naka kara Bishoujo ga Detekita Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.22983737,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "86115796-e62a-43d4-bb92-2476abd2b547",
+   "title": {
+    "en": "The Man Living with A Ghost in A Mysterious House"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -107,103 +205,7 @@
     "id",
     "zh"
    ]
-  },
-  {
-   "id": "84e7a420-f758-4071-bbf5-b82313b18205",
-   "title": {
-    "en": "Urban Legends and the High School Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.22552921,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d91f8813-bd02-4bb7-8c95-3228a56b5875",
-   "title": {
-    "en": "Noritama"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "56af95d1-8a44-48e7-afd2-49a5a15a6276",
-   "title": {
-    "en": "Nobo-san to Kanojo?"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fc2c0867-f85c-4ce3-95c5-9da54ef03330",
-   "title": {
-    "en": "Genso Ginekokurasy"
-   },
-   "contentRating": "safe",
-   "score": 0.21852025,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
-   "title": {
-    "en": "Nukoduke!"
-   },
-   "contentRating": "safe",
-   "score": 0.21483894,
-   "languages": [
-    "en",
-    "ru",
-    "es",
-    "pl"
-   ]
-  },
-  {
-   "id": "a4e8620d-58ad-4f75-9a44-aafb66ba9675",
-   "title": {
-    "en": "Gal ga Mikakunin Seibutsu ni Souguu Shitara…"
-   },
-   "contentRating": "safe",
-   "score": 0.21263097,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
-   "title": {
-    "en": "Tsumi to Bachi"
-   },
-   "contentRating": "safe",
-   "score": 0.21225001,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cb7df734-d283-46e7-bdc8-499401cbd3ad",
-   "title": {
-    "en": "Maou no Kyoushitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.21220542,
-   "languages": [
-    "fr",
-    "en",
-    "ca",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:36+00:00"
+ "updatedAt": "2023-12-10T18:32:03+00:00"
 }

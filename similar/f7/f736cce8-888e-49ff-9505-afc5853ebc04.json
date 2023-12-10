@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.18787701,
+   "score": 0.18676256,
    "languages": [
     "en",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Dog Soldier"
    },
    "contentRating": "suggestive",
-   "score": 0.18651772,
+   "score": 0.18603463,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "Vaia'n Maiden"
    },
    "contentRating": "suggestive",
-   "score": 0.18365124,
+   "score": 0.18312588,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Black Lagoon"
    },
    "contentRating": "suggestive",
-   "score": 0.18064266,
+   "score": 0.180477,
    "languages": [
     "it",
     "ru",
@@ -65,24 +65,10 @@
     "en": "Bukyousouha"
    },
    "contentRating": "suggestive",
-   "score": 0.17730154,
+   "score": 0.17684925,
    "languages": [
     "zh-hk",
     "en"
-   ]
-  },
-  {
-   "id": "361bcb76-db8b-4702-bc6e-9504d555023f",
-   "title": {
-    "en": "Rairaiden"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17289889,
-   "languages": [
-    "it",
-    "en",
-    "fr",
-    "vi"
    ]
   },
   {
@@ -94,6 +80,20 @@
    "score": 0.17087214,
    "languages": [
     "ru"
+   ]
+  },
+  {
+   "id": "361bcb76-db8b-4702-bc6e-9504d555023f",
+   "title": {
+    "en": "Rairaiden"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17001365,
+   "languages": [
+    "it",
+    "en",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -159,12 +159,23 @@
    ]
   },
   {
+   "id": "21bbbfbd-0cdb-4dab-a2ae-1cae47afcb63",
+   "title": {
+    "en": "Reversibleman"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15728062,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1d0fa942-e78f-4b6e-8c81-85ec23fabc3a",
    "title": {
     "en": "Chi to Hai no Joou"
    },
    "contentRating": "suggestive",
-   "score": 0.15628023,
+   "score": 0.15498382,
    "languages": [
     "en",
     "pt-br",
@@ -173,23 +184,12 @@
    ]
   },
   {
-   "id": "21bbbfbd-0cdb-4dab-a2ae-1cae47afcb63",
-   "title": {
-    "en": "Reversibleman"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15535614,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "de928b04-2a7f-43b2-b33e-04e1073415c3",
    "title": {
     "en": "Black Joke"
    },
    "contentRating": "suggestive",
-   "score": 0.153358,
+   "score": 0.15322763,
    "languages": [
     "pt-br",
     "en"
@@ -219,5 +219,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:59+00:00"
+ "updatedAt": "2023-12-10T18:35:27+00:00"
 }

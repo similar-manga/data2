@@ -11,11 +11,28 @@
     "en": "Part-Time Ghost"
    },
    "contentRating": "safe",
-   "score": 0.38420686,
+   "score": 0.37813026,
    "languages": [
     "pl",
     "uk",
     "en"
+   ]
+  },
+  {
+   "id": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+   "title": {
+    "en": "Thus Spoke Kishibe Rohan - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.21866465,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "fr",
+    "es-la",
+    "pl"
    ]
   },
   {
@@ -24,7 +41,7 @@
     "en": "Koorihime Kitan"
    },
    "contentRating": "safe",
-   "score": 0.2126102,
+   "score": 0.20540261,
    "languages": [
     "it",
     "fr",
@@ -51,34 +68,23 @@
     "en": "Junji Ito: A Study From the Abyss of Horror"
    },
    "contentRating": "safe",
-   "score": 0.19820267,
+   "score": 0.19745134,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "811a001d-a10c-4c71-95c1-628da16396f2",
+   "id": "1e2abe58-293a-4f92-8a05-d816a279d066",
    "title": {
-    "en": "Classroom"
+    "en": "Dream Vendor"
    },
    "contentRating": "safe",
    "score": 0.18030135,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f953367c-4bba-4e12-a85b-abeecd8daff8",
-   "title": {
-    "en": "Kyoukai no Shinigami"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "en",
-    "pl"
+    "it",
+    "pl",
+    "en"
    ]
   },
   {
@@ -109,6 +115,18 @@
    ]
   },
   {
+   "id": "f953367c-4bba-4e12-a85b-abeecd8daff8",
+   "title": {
+    "en": "Kyoukai no Shinigami"
+   },
+   "contentRating": "safe",
+   "score": 0.18030135,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "a3f10b3c-4188-4200-8e80-4f1cfadfcf2c",
    "title": {
     "en": "The End in Common Ruin"
@@ -135,46 +153,6 @@
    ]
   },
   {
-   "id": "18a5117e-1cc1-406b-820a-417503886de7",
-   "title": {
-    "en": "Aphorism"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "pl",
-    "en",
-    "de",
-    "es"
-   ]
-  },
-  {
-   "id": "1e2abe58-293a-4f92-8a05-d816a279d066",
-   "title": {
-    "en": "Dream Vendor"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "it",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
-   "title": {
-    "en": "The Dress"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "pl",
-    "it",
-    "en"
-   ]
-  },
-  {
    "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
    "title": {
     "en": "Red House"
@@ -191,30 +169,56 @@
    ]
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "18a5117e-1cc1-406b-820a-417503886de7",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Aphorism"
    },
    "contentRating": "safe",
-   "score": 0.17292117,
+   "score": 0.18030135,
+   "languages": [
+    "pl",
+    "en",
+    "de",
+    "es"
+   ]
+  },
+  {
+   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
+   "title": {
+    "en": "The Dress"
+   },
+   "contentRating": "safe",
+   "score": 0.18030135,
+   "languages": [
+    "pl",
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "811a001d-a10c-4c71-95c1-628da16396f2",
+   "title": {
+    "en": "Classroom"
+   },
+   "contentRating": "safe",
+   "score": 0.18030135,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "5b3efa84-b1b7-443a-a011-5af084c5ccff",
+   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
    "title": {
-    "en": "Fox Daughter"
+    "en": "Online - The Comic"
    },
    "contentRating": "safe",
-   "score": 0.16700105,
+   "score": 0.17238349,
    "languages": [
-    "pl",
     "en",
-    "es-la"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:23+00:00"
+ "updatedAt": "2023-12-10T18:12:52+00:00"
 }

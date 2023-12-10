@@ -6,28 +6,41 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7532f86a-023b-482a-8d53-670eff0484c5",
+   "title": {
+    "en": "Duchess Crow"
+   },
+   "contentRating": "safe",
+   "score": 0.28383467,
+   "languages": [
+    "uk",
+    "en"
+   ]
+  },
+  {
    "id": "b77fb6fc-a071-4048-b378-718b508f3257",
    "title": {
     "en": "Saving the Villain Who Was Abandoned by the Female Lead (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.25575426,
+   "score": 0.26286924,
    "languages": [
     "id",
     "en"
    ]
   },
   {
-   "id": "3f12d5e6-969c-457b-a6ca-833f30c2d208",
+   "id": "d30f84bd-c129-4da9-bbd2-3675712a3191",
    "title": {
-    "en": "The Grand Duke's Little Lady (Promo)"
+    "en": "My Temp Job as the Youngest Daughter (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.24132186,
+   "score": 0.25121874,
    "languages": [
-    "en",
-    "es",
-    "tr"
+    "tr",
+    "pt-br",
+    "fr",
+    "en"
    ]
   },
   {
@@ -36,7 +49,7 @@
     "en": "It's Not Your Baby! (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.24013603,
+   "score": 0.24244978,
    "languages": [
     "pl",
     "en",
@@ -51,10 +64,22 @@
     "en": "The Lady Wants to Rest (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.22774015,
+   "score": 0.23310363,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "f6c08a7f-be25-4d1c-bd52-5a52957930c6",
+   "title": {
+    "en": "I Tried to Persuade My Brother and He Entrusted the Male Lead to Me (Promo)"
+   },
+   "contentRating": "safe",
+   "score": 0.23116052,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -63,7 +88,7 @@
     "en": "You’ve Come to the Wrong House, Villain (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.22614771,
+   "score": 0.22831537,
    "languages": [
     "ru",
     "en",
@@ -78,36 +103,10 @@
     "en": "Alissa and the Magic Diary (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.2241762,
+   "score": 0.2265285,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "f6c08a7f-be25-4d1c-bd52-5a52957930c6",
-   "title": {
-    "en": "I Tried to Persuade My Brother and He Entrusted the Male Lead to Me (Promo)"
-   },
-   "contentRating": "safe",
-   "score": 0.22392957,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "d30f84bd-c129-4da9-bbd2-3675712a3191",
-   "title": {
-    "en": "My Temp Job as the Youngest Daughter (Promo)"
-   },
-   "contentRating": "safe",
-   "score": 0.22045612,
-   "languages": [
-    "tr",
-    "pt-br",
-    "fr",
-    "en"
    ]
   },
   {
@@ -116,20 +115,9 @@
     "en": "The Princess Is Evil (Promo)"
    },
    "contentRating": "safe",
-   "score": 0.21913666,
+   "score": 0.2212643,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ea79d21b-d15a-4797-b7aa-52c61269dc11",
-   "title": {
-    "en": "Dear Fairy, Please Contract With Me (Promo)"
-   },
-   "contentRating": "safe",
-   "score": 0.21725287,
-   "languages": [
     "en"
    ]
   },
@@ -139,7 +127,29 @@
     "en": "The Two-Faced Princess (PROMO)"
    },
    "contentRating": "safe",
-   "score": 0.21653183,
+   "score": 0.21905828,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ea79d21b-d15a-4797-b7aa-52c61269dc11",
+   "title": {
+    "en": "Dear Fairy, Please Contract With Me (Promo)"
+   },
+   "contentRating": "safe",
+   "score": 0.218663,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3975de20-4573-4f0e-8a3c-5cbaebb02ae4",
+   "title": {
+    "en": "To You Who Never Loved Me"
+   },
+   "contentRating": "safe",
+   "score": 0.2172981,
    "languages": [
     "en"
    ]
@@ -150,10 +160,21 @@
     "en": "Sincerely"
    },
    "contentRating": "safe",
-   "score": 0.2128155,
+   "score": 0.21638694,
    "languages": [
     "tr",
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "13fbf2a9-6e5d-4b63-9ff8-965d9a6d311f",
+   "title": {
+    "en": "I'll Do That Marriage (Promo)"
+   },
+   "contentRating": "safe",
+   "score": 0.21586359,
+   "languages": [
     "en"
    ]
   },
@@ -163,7 +184,7 @@
     "en": "My Childhood Friends Are Trying to Kill Me"
    },
    "contentRating": "safe",
-   "score": 0.21229501,
+   "score": 0.21334499,
    "languages": [
     "en",
     "tr",
@@ -171,39 +192,17 @@
    ]
   },
   {
-   "id": "13fbf2a9-6e5d-4b63-9ff8-965d9a6d311f",
+   "id": "a599c644-6401-4fd7-b6a2-9c9b0a143cef",
    "title": {
-    "en": "I'll Do That Marriage (Promo)"
+    "en": "Her Ladyship Objects to This Marriage!"
    },
    "contentRating": "safe",
-   "score": 0.20893338,
+   "score": 0.21288309,
    "languages": [
+    "pl",
     "en"
-   ]
-  },
-  {
-   "id": "87d11ea6-b723-4c53-a0f2-1dd77a2acebe",
-   "title": {
-    "en": "The Duke's Only Daughter (Promo)"
-   },
-   "contentRating": "safe",
-   "score": 0.20803268,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "beab7f00-ac83-4dc6-8861-6a49ecb6db05",
-   "title": {
-    "en": "My Sister Picked Up the Male Lead (Promo)"
-   },
-   "contentRating": "safe",
-   "score": 0.20684034,
-   "languages": [
-    "en",
-    "th"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:04+00:00"
+ "updatedAt": "2023-12-10T18:17:26+00:00"
 }

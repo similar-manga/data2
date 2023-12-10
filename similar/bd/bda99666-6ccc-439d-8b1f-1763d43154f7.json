@@ -11,7 +11,7 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.32632127,
+   "score": 0.33241984,
    "languages": [
     "en"
    ]
@@ -22,18 +22,42 @@
     "en": "Final Fantasy Type-0"
    },
    "contentRating": "safe",
-   "score": 0.2553412
+   "score": 0.25374097
   },
   {
-   "id": "8a333456-6740-4e84-9991-f77d8a845b4e",
+   "id": "dd8f09d7-0af2-4d09-98fa-0faa92b59956",
    "title": {
-    "en": "Mortal Metal Shibagane"
+    "en": "A War Story of Metal Walker"
    },
    "contentRating": "safe",
-   "score": 0.24926786,
+   "score": 0.2507976
+  },
+  {
+   "id": "2bcd3dc6-b6a1-45bb-bd53-84fa9c9198df",
+   "title": {
+    "en": "Kinzoku Slime wo Taoshi Makutta Ore ga \"Kurokou no Ou\" to Yobareru Made"
+   },
+   "contentRating": "safe",
+   "score": 0.2451587,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "23f6688b-09ee-489d-9126-a9afb86fd5d4",
+   "title": {
+    "en": "HEAVY METAL YANKEES"
+   },
+   "contentRating": "safe",
+   "score": 0.23114409
+  },
+  {
+   "id": "67648b65-f180-4b0f-8166-c970f05a35ae",
+   "title": {
+    "en": "Super Robot Wars Original Generation: The Animation"
+   },
+   "contentRating": "safe",
+   "score": 0.22800915
   },
   {
    "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
@@ -55,39 +79,15 @@
    "score": 0.22800915
   },
   {
-   "id": "67648b65-f180-4b0f-8166-c970f05a35ae",
-   "title": {
-    "en": "Super Robot Wars Original Generation: The Animation"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915
-  },
-  {
-   "id": "23f6688b-09ee-489d-9126-a9afb86fd5d4",
-   "title": {
-    "en": "HEAVY METAL YANKEES"
-   },
-   "contentRating": "safe",
-   "score": 0.22676319
-  },
-  {
    "id": "55be8e16-fdd9-4f19-b32f-f0d1c313e8b9",
    "title": {
     "en": "Code Geass: Lelouch of the Re;surrection"
    },
    "contentRating": "safe",
-   "score": 0.22520636,
+   "score": 0.22301345,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "442ee1b4-bec8-4c6c-9460-20e8f94abc34",
-   "title": {
-    "en": "Musha Senki: The Transfiguration of Light"
-   },
-   "contentRating": "safe",
-   "score": 0.22020563
   },
   {
    "id": "2eb39d70-d6d3-43f7-882a-e0c8ba2e163f",
@@ -95,7 +95,15 @@
     "en": "SD Gundam Sangokuden - Fuuun Gouketsuhen"
    },
    "contentRating": "safe",
-   "score": 0.218566
+   "score": 0.21935154
+  },
+  {
+   "id": "442ee1b4-bec8-4c6c-9460-20e8f94abc34",
+   "title": {
+    "en": "Musha Senki: The Transfiguration of Light"
+   },
+   "contentRating": "safe",
+   "score": 0.21791793
   },
   {
    "id": "9bedcc63-63e5-47c9-97ef-12f5303cb0aa",
@@ -103,10 +111,18 @@
     "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
    },
    "contentRating": "safe",
-   "score": 0.21449365,
+   "score": 0.21404912,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "476cb5ed-671c-4309-a1b8-d26053ad7534",
+   "title": {
+    "en": "0 Sen Kamen + Aircraft Carrier Island"
+   },
+   "contentRating": "safe",
+   "score": 0.21233478
   },
   {
    "id": "c7665fcd-6e62-4283-8651-5e5b0aed9d73",
@@ -114,23 +130,7 @@
     "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.20909308
-  },
-  {
-   "id": "bda45fba-5728-4661-86fe-83734522f301",
-   "title": {
-    "en": "Mobile Suit Victory Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.20814292
-  },
-  {
-   "id": "6ea6a544-b6fd-4ca4-b1ec-b3050ab6527a",
-   "title": {
-    "en": "New Mobile Report Gundam Wing - Endless Waltz"
-   },
-   "contentRating": "safe",
-   "score": 0.20814292
+   "score": 0.20860378
   },
   {
    "id": "869e7535-3dd3-44cd-8248-36ee08540807",
@@ -141,13 +141,13 @@
    "score": 0.20814292
   },
   {
-   "id": "56e91ed0-99cc-43af-b154-062357d89c54",
+   "id": "bda45fba-5728-4661-86fe-83734522f301",
    "title": {
-    "en": "Mobile Suit Gundam 0080: War in the Pocket"
+    "en": "Mobile Suit Victory Gundam"
    },
    "contentRating": "safe",
    "score": 0.20814292
   }
  ],
- "updatedAt": "2023-12-10T01:07:35+00:00"
+ "updatedAt": "2023-12-10T18:29:30+00:00"
 }

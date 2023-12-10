@@ -11,7 +11,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.24818003,
+   "score": 0.24788494,
    "languages": [
     "es-la",
     "en",
@@ -32,7 +32,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2379778,
+   "score": 0.23869179,
    "languages": [
     "en",
     "it",
@@ -56,7 +56,7 @@
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.22904105,
+   "score": 0.2286302,
    "languages": [
     "en",
     "es-la",
@@ -72,7 +72,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.22042938,
+   "score": 0.22015123,
    "languages": [
     "zh-hk",
     "en",
@@ -97,7 +97,7 @@
     "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
    },
    "contentRating": "safe",
-   "score": 0.21091963,
+   "score": 0.21104151,
    "languages": [
     "en",
     "es-la"
@@ -109,7 +109,7 @@
     "en": "Look Back"
    },
    "contentRating": "safe",
-   "score": 0.21008122,
+   "score": 0.20931147,
    "languages": [
     "sr",
     "ru",
@@ -126,7 +126,7 @@
     "en": "Desk War"
    },
    "contentRating": "safe",
-   "score": 0.20196754,
+   "score": 0.20670885,
    "languages": [
     "tr",
     "en",
@@ -135,12 +135,24 @@
    ]
   },
   {
+   "id": "a3500b81-a211-4eef-9937-f7fc83c17fbb",
+   "title": {
+    "en": "Diary of a Quiet Life"
+   },
+   "contentRating": "safe",
+   "score": 0.19956146,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "d773c8be-8e82-4ff1-a4e9-46171395319b",
    "title": {
     "en": "The Saga of Tanya the Evil"
    },
    "contentRating": "safe",
-   "score": 0.1922879,
+   "score": 0.19266511,
    "languages": [
     "hu",
     "pt-br",
@@ -155,12 +167,32 @@
    ]
   },
   {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.19205593,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
    "title": {
     "en": "Hitogata"
    },
    "contentRating": "safe",
-   "score": 0.1800772,
+   "score": 0.17927329,
    "languages": [
     "en",
     "es-la",
@@ -173,10 +205,24 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.17779267,
+   "score": 0.17711213,
    "languages": [
     "es-la",
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
+   "title": {
+    "en": "Kage no Eiyuu no Nichijou-tan"
+   },
+   "contentRating": "safe",
+   "score": 0.16995503,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
     "pt-br"
    ]
   },
@@ -186,7 +232,7 @@
     "en": "Black Lagoon: Eda Initial stage"
    },
    "contentRating": "safe",
-   "score": 0.16942452,
+   "score": 0.16841641,
    "languages": [
     "vi",
     "en",
@@ -201,7 +247,7 @@
     "en": "Sousei no Tenken Tsukai"
    },
    "contentRating": "safe",
-   "score": 0.15905699,
+   "score": 0.16011426,
    "languages": [
     "en",
     "es-la"
@@ -218,53 +264,7 @@
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
-   "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
-   },
-   "contentRating": "safe",
-   "score": 0.15357848,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "53578702-518d-4349-8919-8a9bedfd9277",
-   "title": {
-    "en": "Vampire Hunter D"
-   },
-   "contentRating": "safe",
-   "score": 0.15328538,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
-   "title": {
-    "en": "Choujin X"
-   },
-   "contentRating": "safe",
-   "score": 0.15030839,
-   "languages": [
-    "pt-br",
-    "ar",
-    "ru",
-    "uk",
-    "vi",
-    "en",
-    "fa",
-    "es-la",
-    "id",
-    "mn"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:20+00:00"
+ "updatedAt": "2023-12-10T18:20:49+00:00"
 }

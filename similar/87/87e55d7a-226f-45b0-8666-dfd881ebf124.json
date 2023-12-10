@@ -6,20 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
+   "title": {
+    "en": "Atom - The Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.29273945,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
    "title": {
     "en": "Tetsuzin"
    },
    "contentRating": "safe",
-   "score": 0.27766997
-  },
-  {
-   "id": "219fee10-cc76-4efe-b961-3b52b7c298a7",
-   "title": {
-    "en": "Kodai Senshi Haniwatt"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
+   "score": 0.2781577
   },
   {
    "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
@@ -45,17 +50,47 @@
    ]
   },
   {
-   "id": "aa80067a-9832-4cd8-8b10-2fcd226f6d6e",
+   "id": "219fee10-cc76-4efe-b961-3b52b7c298a7",
    "title": {
-    "en": "Armored Trooper Votoms - AT Stories"
+    "en": "Kodai Senshi Haniwatt"
    },
    "contentRating": "safe",
-   "score": 0.22980437
+   "score": 0.2569291
+  },
+  {
+   "id": "26a40957-765b-4dcf-9548-dcb9e2a63e66",
+   "title": {
+    "en": "GO"
+   },
+   "contentRating": "safe",
+   "score": 0.24931918,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c64514c-ebb0-4118-a690-700ba22c2a80",
+   "title": {
+    "en": "Beautiful Place"
+   },
+   "contentRating": "safe",
+   "score": 0.23166622,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "5ee080e0-feb5-4de8-9cb1-98a70f9ad4e4",
    "title": {
     "en": "Heavy Metal L-Gaim - Under the Sunz"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
+  },
+  {
+   "id": "aa80067a-9832-4cd8-8b10-2fcd226f6d6e",
+   "title": {
+    "en": "Armored Trooper Votoms - AT Stories"
    },
    "contentRating": "safe",
    "score": 0.22980437
@@ -77,7 +112,7 @@
     "en": "Yakou Kumo no Sarissa"
    },
    "contentRating": "safe",
-   "score": 0.22031802
+   "score": 0.22003327
   },
   {
    "id": "52725394-b8b1-4a9b-b264-8f3c038eb892",
@@ -85,11 +120,19 @@
     "en": "Tokoshie x Bullet: Kaijuu Gakuen"
    },
    "contentRating": "safe",
-   "score": 0.21755584,
+   "score": 0.21692838,
    "languages": [
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "832d2b33-5ae3-45fb-ac83-490aca5cbec2",
+   "title": {
+    "en": "Gakusei Sensou - Soukyoku no Fate"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447
   },
   {
    "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
@@ -113,50 +156,11 @@
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.2111401,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ba752895-ca3f-406e-a07b-82dfb030eede",
-   "title": {
-    "en": "Mobile Suit Gundam: Almarya"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172
-  },
-  {
-   "id": "2bbda6fb-da9a-4204-a64e-de14579ed3b0",
-   "title": {
-    "en": "Great Trailers"
-   },
-   "contentRating": "safe",
-   "score": 0.20673537
-  },
-  {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
-   "title": {
-    "en": "Snowball Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.20664449,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d9e3aec9-29c9-405d-8bd2-a62a11e824fb",
-   "title": {
-    "en": "Gas Mask Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.20447756,
+   "score": 0.2112377,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:16+00:00"
+ "updatedAt": "2023-12-10T18:23:15+00:00"
 }

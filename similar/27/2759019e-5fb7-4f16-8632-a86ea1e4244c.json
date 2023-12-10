@@ -6,27 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "7cdafb87-bde5-4025-aba0-36efd9432a61",
-   "title": {
-    "en": "Drifters"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18814647,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "hu",
-    "es"
-   ]
-  },
-  {
    "id": "b76a0506-5168-431b-8acc-fa340a042f93",
    "title": {
     "en": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen"
    },
    "contentRating": "suggestive",
-   "score": 0.1877409,
+   "score": 0.18663394,
    "languages": [
     "en",
     "es-la",
@@ -40,12 +25,27 @@
    ]
   },
   {
+   "id": "7cdafb87-bde5-4025-aba0-36efd9432a61",
+   "title": {
+    "en": "Drifters"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1865458,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "hu",
+    "es"
+   ]
+  },
+  {
    "id": "835feda4-2db0-4753-8249-4575a3ceffe2",
    "title": {
     "en": "Kenja no Mago"
    },
    "contentRating": "suggestive",
-   "score": 0.18490615,
+   "score": 0.18412782,
    "languages": [
     "es-la",
     "pt-br",
@@ -63,7 +63,7 @@
     "en": "Summoned Japan"
    },
    "contentRating": "suggestive",
-   "score": 0.18189329,
+   "score": 0.18146533,
    "languages": [
     "en",
     "id",
@@ -79,7 +79,7 @@
     "en": "Kougekiryoku Kyokuburi no Saikyou Majutsushi ~Kinryokuchi 9999 no Daikenshi, Tensei shite Nidome no Jinsei wo Ayumu~"
    },
    "contentRating": "suggestive",
-   "score": 0.17902115,
+   "score": 0.17776537,
    "languages": [
     "en"
    ]
@@ -90,7 +90,7 @@
     "en": "Vaia'n Maiden"
    },
    "contentRating": "suggestive",
-   "score": 0.17480841,
+   "score": 0.17465717,
    "languages": [
     "en"
    ]
@@ -101,7 +101,7 @@
     "en": "Eroge Tensei: Unmei ni Aragau Kane Buta Kizoku no Funtouki"
    },
    "contentRating": "suggestive",
-   "score": 0.16830914,
+   "score": 0.16778739,
    "languages": [
     "en"
    ]
@@ -112,7 +112,7 @@
     "en": "Summon Warriors: Hack n’ Slash Starting from Level 1"
    },
    "contentRating": "suggestive",
-   "score": 0.16070387,
+   "score": 0.15974112,
    "languages": [
     "en",
     "id"
@@ -124,18 +124,7 @@
     "en": "Ikusa no Ko"
    },
    "contentRating": "suggestive",
-   "score": 0.15876102,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
-   "title": {
-    "en": "Higanjima - 48 Nichigo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15837787,
+   "score": 0.15815584,
    "languages": [
     "en"
    ]
@@ -152,12 +141,23 @@
    ]
   },
   {
+   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
+   "title": {
+    "en": "Higanjima - 48 Nichigo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1574945,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ec8f26f4-bc9f-43b6-93ec-60a05638fca0",
    "title": {
     "en": "Isekai Kenkokuki"
    },
    "contentRating": "suggestive",
-   "score": 0.15282342,
+   "score": 0.15254094,
    "languages": [
     "pt-br",
     "fr",
@@ -173,7 +173,7 @@
     "en": "Keikenchi Chochiku de Nonbiri Shoushin Ryokou ~Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku zama~"
    },
    "contentRating": "suggestive",
-   "score": 0.15215532,
+   "score": 0.15140691,
    "languages": [
     "fr",
     "en",
@@ -187,7 +187,7 @@
     "ja-ro": "Monster no Goshujin-sama"
    },
    "contentRating": "suggestive",
-   "score": 0.14414747,
+   "score": 0.143773,
    "languages": [
     "uk",
     "pl",
@@ -230,5 +230,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:16+00:00"
+ "updatedAt": "2023-12-10T18:12:32+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.20622942,
+   "score": 0.20548816,
    "languages": [
     "en",
     "pt-br",
@@ -24,32 +24,25 @@
    ]
   },
   {
-   "id": "f8aa7ce7-e951-428d-9494-000002b34237",
+   "id": "72c5d19d-96da-4245-9b6c-8c92e6d5e1c5",
    "title": {
-    "en": "Geniearth"
+    "en": "Inkling Alice"
    },
    "contentRating": "safe",
-   "score": 0.1991726,
+   "score": 0.20417507,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
+   "id": "f8aa7ce7-e951-428d-9494-000002b34237",
    "title": {
-    "en": "Thus Spoke Rohan Kishibe"
+    "en": "Geniearth"
    },
    "contentRating": "safe",
-   "score": 0.19692342,
+   "score": 0.19802694,
    "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "it",
-    "pt-br",
-    "id",
-    "ru",
-    "zh"
+    "en"
    ]
   },
   {
@@ -69,12 +62,30 @@
    ]
   },
   {
+   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
+   "title": {
+    "en": "Thus Spoke Rohan Kishibe"
+   },
+   "contentRating": "safe",
+   "score": 0.19361529,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "it",
+    "pt-br",
+    "id",
+    "ru",
+    "zh"
+   ]
+  },
+  {
    "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
    "title": {
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.19287467,
+   "score": 0.19273458,
    "languages": [
     "pt-br",
     "it",
@@ -93,26 +104,33 @@
    ]
   },
   {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.19273175,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
+  },
+  {
    "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
    "title": {
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.19181557,
+   "score": 0.19030876,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "8640fe03-5f28-416c-9ed1-a98a3f793626",
-   "title": {
-    "en": "Kill No More"
-   },
-   "contentRating": "safe",
-   "score": 0.1905485,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -127,12 +145,23 @@
    ]
   },
   {
+   "id": "8640fe03-5f28-416c-9ed1-a98a3f793626",
+   "title": {
+    "en": "Kill No More"
+   },
+   "contentRating": "safe",
+   "score": 0.1884069,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
    "title": {
     "en": "Ao no Exorcist"
    },
    "contentRating": "safe",
-   "score": 0.18720302,
+   "score": 0.18781115,
    "languages": [
     "pt-br",
     "es-la",
@@ -176,12 +205,39 @@
    ]
   },
   {
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
+   "title": {
+    "en": "Black Clover"
+   },
+   "contentRating": "safe",
+   "score": 0.18615156,
+   "languages": [
+    "es",
+    "pt-br",
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
+   ]
+  },
+  {
    "id": "70642969-4090-4e8b-bde7-e8331e25b458",
    "title": {
     "en": "Shin Kamen Rider - Prologue"
    },
    "contentRating": "safe",
-   "score": 0.18351083,
+   "score": 0.18345097,
    "languages": [
     "pt-br",
     "en"
@@ -215,58 +271,7 @@
     "zh-hk",
     "id"
    ]
-  },
-  {
-   "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
-   "title": {
-    "en": "Dragon Ball Super"
-   },
-   "contentRating": "safe",
-   "score": 0.18071045,
-   "languages": [
-    "pt-br",
-    "es",
-    "en",
-    "it",
-    "de",
-    "ar",
-    "ms",
-    "pt",
-    "es-la"
-   ]
-  },
-  {
-   "id": "247fe684-e74b-42f9-ae63-0c410a663408",
-   "title": {
-    "en": "Magic Kaito"
-   },
-   "contentRating": "safe",
-   "score": 0.18065031,
-   "languages": [
-    "ca",
-    "en",
-    "pl",
-    "ru",
-    "id"
-   ]
-  },
-  {
-   "id": "fbe57225-e455-4680-b2b9-5b8b82a1be9e",
-   "title": {
-    "en": "The Ride-On King"
-   },
-   "contentRating": "safe",
-   "score": 0.17884853,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "pl",
-    "id",
-    "it",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:55+00:00"
+ "updatedAt": "2023-12-10T18:08:47+00:00"
 }

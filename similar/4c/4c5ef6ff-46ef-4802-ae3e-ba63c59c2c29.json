@@ -6,12 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
+   "title": {
+    "en": "1-ko Shita kara, Kiss Sasete."
+   },
+   "contentRating": "safe",
+   "score": 0.34309834,
+   "languages": [
+    "vi",
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "47b0f667-c70b-4f83-ae78-4c5f69552fd8",
+   "title": {
+    "en": "Sakura wa Watashi o Sukisugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.3405164,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "441071c4-8c17-49a2-8e1b-55e6901c0da4",
    "title": {
     "en": "Phoenix Flames - Campus Secret Seal"
    },
    "contentRating": "safe",
-   "score": 0.25481194,
+   "score": 0.25471455,
    "languages": [
     "en"
    ]
@@ -22,11 +47,22 @@
     "en": "Sakashita-senpai no Koigokoro"
    },
    "contentRating": "safe",
-   "score": 0.24908553,
+   "score": 0.24934296,
    "languages": [
     "en",
     "pt-br",
     "pl"
+   ]
+  },
+  {
+   "id": "74d6b24c-c1f2-456e-8f7d-888d179b0365",
+   "title": {
+    "en": "Kaitou wa Koyoi mo Hanataba wo. - Namida no Jewel"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -57,7 +93,51 @@
     "en": "Watashi no Mahoutsukai-sama"
    },
    "contentRating": "safe",
-   "score": 0.24033973,
+   "score": 0.23929,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a0ce448-b0d5-4043-bb1d-651d10899032",
+   "title": {
+    "en": "Hamaya-kun!!"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "768c1cab-fe43-4997-9b3c-544c760608dd",
+   "title": {
+    "en": "Tumbling"
+   },
+   "contentRating": "safe",
+   "score": 0.2260817,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d2f4ff4d-7fcf-496f-9dd7-b8e598f7b3cb",
+   "title": {
+    "en": "Pizzicato no Nemuru Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.22476353,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5720c5f4-a660-4837-8ab6-5ba458482f4b",
+   "title": {
+    "en": "O*G*A Onigokko Royale"
+   },
+   "contentRating": "safe",
+   "score": 0.22432102,
    "languages": [
     "en"
    ]
@@ -68,20 +148,19 @@
     "en": "Mamotte! Lollipop"
    },
    "contentRating": "safe",
-   "score": 0.22430278,
+   "score": 0.22393702,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "c1483276-d3cc-43ad-861c-69574c0234f9",
+   "id": "739dd80f-1fad-4980-b944-927b45331770",
    "title": {
-    "en": "Mysterious Alice"
+    "en": "Shiro to Kuro no Alice"
    },
    "contentRating": "safe",
-   "score": 0.22147883,
+   "score": 0.22258182,
    "languages": [
-    "fr",
     "en"
    ]
   },
@@ -91,7 +170,7 @@
     "en": "Tantei Revolution"
    },
    "contentRating": "safe",
-   "score": 0.2162655,
+   "score": 0.21672036,
    "languages": [
     "en"
    ]
@@ -102,91 +181,11 @@
     "en": "My Beast"
    },
    "contentRating": "safe",
-   "score": 0.21562319,
+   "score": 0.2157781,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
-   "title": {
-    "en": "Joousama no Shirousagi"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "37cf7f92-ba0f-4111-9bd2-e8dc6e4d1e6d",
-   "title": {
-    "en": "Kiri - The Route of Infection Kanaria"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57bd31ed-ff14-4ec6-9151-49d77e1d78cf",
-   "title": {
-    "en": "M.G. Darling"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e24543f8-8e14-4971-9a45-c2a984d8589c",
-   "title": {
-    "en": "Dear Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bdf980b4-04f2-4dad-9c90-859cc16de860",
-   "title": {
-    "en": "Black Robinia"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b43d484-e97a-4e43-8483-5ca9cdc71dc1",
-   "title": {
-    "en": "Viva Love You"
-   },
-   "contentRating": "safe",
-   "score": 0.21414235,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0db791cc-9806-43df-9e54-bf0adfc96d9c",
-   "title": {
-    "en": "Onee-chan Dorobou"
-   },
-   "contentRating": "safe",
-   "score": 0.2133391,
-   "languages": [
-    "bg",
-    "en",
-    "mn"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:44+00:00"
+ "updatedAt": "2023-12-10T18:16:34+00:00"
 }

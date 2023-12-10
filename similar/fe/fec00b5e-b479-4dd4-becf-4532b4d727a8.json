@@ -11,7 +11,7 @@
     "en": "Marriage Royale"
    },
    "contentRating": "safe",
-   "score": 0.26827508,
+   "score": 0.2681966,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mayokohama Ramen Sanshimai"
    },
    "contentRating": "safe",
-   "score": 0.2526221,
+   "score": 0.25284034,
    "languages": [
     "en"
    ]
@@ -33,23 +33,49 @@
     "en": "Koaka Head"
    },
    "contentRating": "safe",
-   "score": 0.24708271,
+   "score": 0.24757028,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "1024bc97-4d46-48a6-9365-ba4cc521b24a",
+   "id": "d0b31614-5690-4d25-86bc-5d506aeedf55",
    "title": {
-    "en": "Batsu-Gyaru"
+    "en": "Why Can’t We Stay as Children?"
    },
    "contentRating": "safe",
-   "score": 0.22188008,
+   "score": 0.24322003,
    "languages": [
+    "en",
     "es-la",
-    "pt-br",
-    "en"
+    "ru"
+   ]
+  },
+  {
+   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
+   "title": {
+    "en": "Wakaba-chan wa Wakarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2314277,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0b03a6de-56a5-4f3f-bf1f-d893b8da05d3",
+   "title": {
+    "ja": "Starting Today, We’re Childhood Friends"
+   },
+   "contentRating": "safe",
+   "score": 0.23043682,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -66,6 +92,19 @@
    ]
   },
   {
+   "id": "1024bc97-4d46-48a6-9365-ba4cc521b24a",
+   "title": {
+    "en": "Batsu-Gyaru"
+   },
+   "contentRating": "safe",
+   "score": 0.22188008,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "0acb9ae2-3061-4d35-a2ee-2e414fc6547e",
    "title": {
     "en": "The Class President's Circumstances"
@@ -77,9 +116,9 @@
    ]
   },
   {
-   "id": "649a2780-ca82-442d-8b23-5088b9c9d5c7",
+   "id": "f8e143d8-2c14-4efd-b92a-3170062003a6",
    "title": {
-    "en": "This Is My Justice"
+    "en": "LovePlus - Nene Days"
    },
    "contentRating": "safe",
    "score": 0.21483447,
@@ -100,31 +139,22 @@
    ]
   },
   {
-   "id": "25f6f666-0699-4ea0-add6-1ed3178c6ee7",
+   "id": "49c047a5-b5bc-4133-a61b-7598f1fd19b6",
    "title": {
-    "en": "Bishoujo Sakka to Mezasu Million Selleeeeeeeeer!!"
+    "en": "Katsura's Wig of the Day"
    },
    "contentRating": "safe",
    "score": 0.21483447,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "fr"
    ]
   },
   {
    "id": "e1b197b0-c8c3-4844-a07b-72d479b2d7c0",
    "title": {
     "en": "Mukashi no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8e143d8-2c14-4efd-b92a-3170062003a6",
-   "title": {
-    "en": "LovePlus - Nene Days"
    },
    "contentRating": "safe",
    "score": 0.21483447,
@@ -156,41 +186,16 @@
    ]
   },
   {
-   "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
+   "id": "649a2780-ca82-442d-8b23-5088b9c9d5c7",
    "title": {
-    "en": "Hopeless Kacchan's Love Story"
+    "en": "This Is My Justice"
    },
    "contentRating": "safe",
-   "score": 0.21198148,
+   "score": 0.21483447,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
-   "title": {
-    "en": "Owatte miru no mo Warukunai"
-   },
-   "contentRating": "safe",
-   "score": 0.21023169,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "57b44bff-ac5d-4657-88a6-a27ac1ade939",
-   "title": {
-    "en": "Zettai Osananajimi Sengen"
-   },
-   "contentRating": "safe",
-   "score": 0.20254786,
-   "languages": [
-    "id",
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:19+00:00"
+ "updatedAt": "2023-12-10T18:36:15+00:00"
 }

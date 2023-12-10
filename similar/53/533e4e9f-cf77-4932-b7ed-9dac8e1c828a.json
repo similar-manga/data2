@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0081e3dd-bf93-4bd4-aa95-3e8c0f1dfa31",
+   "title": {
+    "en": "Snow Thaw \u0026 Love Letter"
+   },
+   "contentRating": "safe",
+   "score": 0.47141537,
+   "languages": [
+    "en",
+    "ko",
+    "pt-br"
+   ]
+  },
+  {
    "id": "b3f14755-0fff-45df-a4fd-edf6707119c6",
    "title": {
     "en": "Change As We May, Our Promise Won't"
    },
    "contentRating": "safe",
-   "score": 0.31947386,
+   "score": 0.31801498,
    "languages": [
     "zh-hk",
     "en"
@@ -23,7 +36,7 @@
     "en": "The Art Teacher and the High School Girl"
    },
    "contentRating": "safe",
-   "score": 0.31287682,
+   "score": 0.31325752,
    "languages": [
     "en",
     "ru",
@@ -37,7 +50,7 @@
     "en": "Joshikou no Ouji-sama to Osananajimi no Jimiko-chan"
    },
    "contentRating": "safe",
-   "score": 0.30677828,
+   "score": 0.30613875,
    "languages": [
     "id",
     "en"
@@ -49,7 +62,7 @@
     "en": "A Violet at Zero Degrees Kelvin"
    },
    "contentRating": "safe",
-   "score": 0.3031523,
+   "score": 0.30234104,
    "languages": [
     "en"
    ]
@@ -60,9 +73,22 @@
     "en": "Alice"
    },
    "contentRating": "safe",
-   "score": 0.29698,
+   "score": 0.29745936,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "7d5d4871-19e2-416d-aa9e-73e994a3546d",
+   "title": {
+    "en": "Cool Girl on My Lap"
+   },
+   "contentRating": "safe",
+   "score": 0.29533723,
+   "languages": [
+    "he",
+    "pt-br",
     "en"
    ]
   },
@@ -72,7 +98,7 @@
     "en": "Wagamama Mille-Feuille"
    },
    "contentRating": "safe",
-   "score": 0.2945192,
+   "score": 0.2945529,
    "languages": [
     "en"
    ]
@@ -83,23 +109,11 @@
     "en": "Ano Ko ga Watashi wo Onna ni Suru"
    },
    "contentRating": "safe",
-   "score": 0.29377553,
+   "score": 0.29380733,
    "languages": [
     "pt-br",
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "71eecef1-fa3c-4cfb-9d20-7101ffc4194e",
-   "title": {
-    "en": "Aka no Yuuwaku"
-   },
-   "contentRating": "safe",
-   "score": 0.29136804,
-   "languages": [
-    "en",
-    "tl"
    ]
   },
   {
@@ -108,9 +122,21 @@
     "en": "Original Yuri Manga"
    },
    "contentRating": "safe",
-   "score": 0.29114243,
+   "score": 0.2918459,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "71eecef1-fa3c-4cfb-9d20-7101ffc4194e",
+   "title": {
+    "en": "Aka no Yuuwaku"
+   },
+   "contentRating": "safe",
+   "score": 0.2895862,
+   "languages": [
+    "en",
+    "tl"
    ]
   },
   {
@@ -119,10 +145,23 @@
     "en": "That Red on Me"
    },
    "contentRating": "safe",
-   "score": 0.28718767,
+   "score": 0.28689387,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "dee0ff73-eff4-45ec-8453-4a2a0d5777f1",
+   "title": {
+    "en": "Wishing on the Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.2855917,
+   "languages": [
+    "en",
+    "tr",
+    "es"
    ]
   },
   {
@@ -131,7 +170,7 @@
     "en": "The Kind of Person Who Would Fall in Love With You If You're Nice Enough to Them"
    },
    "contentRating": "safe",
-   "score": 0.28648868,
+   "score": 0.28545946,
    "languages": [
     "en"
    ]
@@ -142,59 +181,22 @@
     "en": "Watashi ga Riaru de, Yuri Nante."
    },
    "contentRating": "safe",
-   "score": 0.28564078,
+   "score": 0.28492793,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "dee0ff73-eff4-45ec-8453-4a2a0d5777f1",
+   "id": "b14bf6d7-73fe-4639-8322-e67f07a66ebc",
    "title": {
-    "en": "Wishing on the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.28540936,
-   "languages": [
-    "en",
-    "tr",
-    "es"
-   ]
-  },
-  {
-   "id": "37d4c617-c19e-459b-8bc6-de8af323e4a8",
-   "title": {
-    "en": "The Two of Us"
-   },
-   "contentRating": "safe",
-   "score": 0.285329,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "0b570131-62eb-4228-abcb-6d49e7f0aa63",
-   "title": {
-    "en": "There's No Textbook for Love"
+    "en": "Valentine's Day"
    },
    "contentRating": "safe",
    "score": 0.28382835,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8a74e91-f4cf-4f64-83a8-7bd10962ade3",
-   "title": {
-    "en": "Impure Same Sex Fraternizing is Against School Rules"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "pl",
-    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:02+00:00"
+ "updatedAt": "2023-12-10T18:17:18+00:00"
 }

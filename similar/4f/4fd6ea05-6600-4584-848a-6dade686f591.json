@@ -6,6 +6,50 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "710a534c-2d53-4bb1-a13c-c8d6864eaab5",
+   "title": {
+    "en": "Kyouraku no Mori no Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.25003558,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "142bb857-5434-4579-ade1-db51efed1660",
+   "title": {
+    "en": "Tenzan no Miko Sonin - Ochikobore no Miko ga Oukyuu ni Haitte Kuni wo Sukutta Ue ni Oujitachi ni Aisaretemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.24100813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0a69bdf0-ca18-4289-a05f-2d7a912eb9af",
+   "title": {
+    "en": "Kashura"
+   },
+   "contentRating": "safe",
+   "score": 0.22614333,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "41566ebb-bd85-4402-b20a-ef9f66edfb07",
+   "title": {
+    "en": "Love Beyond Time"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a264ed75-7ef6-4ec4-be3f-f1f9c8695cc7",
    "title": {
     "en": "Spirit of the Ocean"
@@ -34,7 +78,7 @@
     "en": "Tenka Ichi"
    },
    "contentRating": "safe",
-   "score": 0.22311743,
+   "score": 0.22295335,
    "languages": [
     "en"
    ]
@@ -45,10 +89,21 @@
     "en": "Fox Concubine, Don’t Play With Fire"
    },
    "contentRating": "safe",
-   "score": 0.22267593,
+   "score": 0.22157307,
    "languages": [
     "en",
     "hu"
+   ]
+  },
+  {
+   "id": "1cf6f101-b31f-4645-8234-836c26c66b6c",
+   "title": {
+    "en": "Miao Shou Xian Dan"
+   },
+   "contentRating": "safe",
+   "score": 0.21712908,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -60,6 +115,19 @@
    "score": 0.21483447,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4ba166b5-c954-4ffe-9114-130d0c2b7dea",
+   "title": {
+    "en": "Kao no Nai Otoko"
+   },
+   "contentRating": "safe",
+   "score": 0.21280244,
+   "languages": [
+    "pl",
+    "en",
+    "bg"
    ]
   },
   {
@@ -88,16 +156,15 @@
    ]
   },
   {
-   "id": "4ba166b5-c954-4ffe-9114-130d0c2b7dea",
+   "id": "761b768d-4f65-43b1-af2d-22376f0c1f8f",
    "title": {
-    "en": "Kao no Nai Otoko"
+    "en": "Itsuwari no Freyja"
    },
    "contentRating": "safe",
-   "score": 0.20824778,
+   "score": 0.20978172,
    "languages": [
-    "pl",
-    "en",
-    "bg"
+    "ar",
+    "en"
    ]
   },
   {
@@ -106,7 +173,7 @@
     "en": "Knights of Alfheim"
    },
    "contentRating": "safe",
-   "score": 0.2052624,
+   "score": 0.20491628,
    "languages": [
     "en",
     "fr"
@@ -122,76 +189,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d3b6200b-8dc2-4704-a149-63bb231e19a8",
-   "title": {
-    "en": "Bird of Youth"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "80c27ff8-7916-4b81-9c0d-cb3d647a24b7",
-   "title": {
-    "en": "Legend of Nereid"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "caf6c980-09e2-4cc2-8728-6c86fa83e662",
-   "title": {
-    "en": "The Locked-up Maiden"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "13f152eb-46c7-48c1-881b-b1eb89d50285",
-   "title": {
-    "en": "Boukyaku no Shirushi to Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "643c8848-3054-4b76-873a-926e8b176939",
-   "title": {
-    "en": "Gwanghae's Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.19422014,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "99ea52c2-2c80-470a-8f25-71a8c9d1703d",
-   "title": {
-    "en": "The Undying Engagement Seal of the Doomed Witch and the Young Master Who Leapt Through Time"
-   },
-   "contentRating": "safe",
-   "score": 0.19233195,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:53+00:00"
+ "updatedAt": "2023-12-10T18:16:56+00:00"
 }

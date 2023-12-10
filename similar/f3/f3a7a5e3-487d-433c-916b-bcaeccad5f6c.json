@@ -6,12 +6,69 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.26848176,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "6a1f72e3-a2bf-4716-9724-a9c12a5489f6",
+   "title": {
+    "en": "Nagomi Club"
+   },
+   "contentRating": "safe",
+   "score": 0.2666893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
    "title": {
     "en": "Boy's Summer"
    },
    "contentRating": "safe",
-   "score": 0.2631491,
+   "score": 0.26282686,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "81e440d1-8b48-4b15-a030-4b376ba26b6c",
+   "title": {
+    "en": "Kikenai Yoru wa Nai"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
+   "title": {
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.24417941,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +80,29 @@
     "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
    },
    "contentRating": "safe",
-   "score": 0.24355729,
+   "score": 0.24126247,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
+   "title": {
+    "en": "Otona no Zukan Kaiteiban"
+   },
+   "contentRating": "safe",
+   "score": 0.23379941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
    "languages": [
     "en"
    ]
@@ -40,12 +119,41 @@
    ]
   },
   {
+   "id": "6204ff54-c3d5-4645-b21f-f83f6fa303d0",
+   "title": {
+    "en": "Ani no Yome to Kurashite Imasu."
+   },
+   "contentRating": "safe",
+   "score": 0.22491969,
+   "languages": [
+    "ru",
+    "id",
+    "en",
+    "es",
+    "pt-br",
+    "ko",
+    "de"
+   ]
+  },
+  {
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
+   "title": {
+    "en": "Takaga Tasogare"
+   },
+   "contentRating": "safe",
+   "score": 0.22337377,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "8cf89dc0-667f-43ec-bfd6-931244d4045b",
    "title": {
     "en": "Tell Me a Lie"
    },
    "contentRating": "safe",
-   "score": 0.22359823,
+   "score": 0.22258916,
    "languages": [
     "en"
    ]
@@ -56,9 +164,27 @@
     "en": "Vampir"
    },
    "contentRating": "safe",
-   "score": 0.22286777,
+   "score": 0.21983762,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
+   "title": {
+    "en": "Hirayasumi"
+   },
+   "contentRating": "safe",
+   "score": 0.21720164,
+   "languages": [
+    "ar",
+    "uk",
+    "en",
+    "tr",
+    "it",
+    "pt-br",
+    "vi",
+    "ru"
    ]
   },
   {
@@ -67,7 +193,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.21791165,
+   "score": 0.21655217,
    "languages": [
     "en",
     "pt-br",
@@ -79,141 +205,7 @@
     "ru",
     "fr"
    ]
-  },
-  {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
-   "title": {
-    "en": "Sunny Sunny Ann!"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "350257d7-4535-4cc7-b83b-1c0c5cb06557",
-   "title": {
-    "en": "See you soon."
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "hu",
-    "en"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "760ef322-4c63-4709-b005-caafac6a2b71",
-   "title": {
-    "en": "Golondrina"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "pl",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
-   "title": {
-    "en": "Double"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "970cf604-b773-47fb-8cf1-75b8f1513b19",
-   "title": {
-    "en": "Riman Gambler Mouse"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
-   "title": {
-    "en": "【Oshi no Ko】"
-   },
-   "contentRating": "safe",
-   "score": 0.21241178,
-   "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
-   "id": "e6d0ff06-0c00-4b24-ae78-e4a5087a9656",
-   "title": {
-    "en": "Lighter"
-   },
-   "contentRating": "safe",
-   "score": 0.20995004,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
-   "title": {
-    "en": "Hanzai Koushounin Minegishi Eitarou"
-   },
-   "contentRating": "safe",
-   "score": 0.20967439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd54a429-ea24-469f-b4c0-23eaa76a6e5d",
-   "title": {
-    "en": "Love Letter"
-   },
-   "contentRating": "safe",
-   "score": 0.20833229,
-   "languages": [
-    "tr",
-    "ca",
-    "fa",
-    "fr",
-    "en",
-    "id",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:50+00:00"
+ "updatedAt": "2023-12-10T18:35:05+00:00"
 }

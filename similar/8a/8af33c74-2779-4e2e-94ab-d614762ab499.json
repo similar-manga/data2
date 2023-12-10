@@ -11,7 +11,7 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.25690302,
+   "score": 0.25021824,
    "languages": [
     "en"
    ]
@@ -28,27 +28,25 @@
    ]
   },
   {
+   "id": "40c4d38c-cae3-45e3-b984-a7a4569dd4ed",
+   "title": {
+    "en": "Teppen Gurarin - Nippon Mukashi Banashi Hanzai Sousa"
+   },
+   "contentRating": "safe",
+   "score": 0.2004754,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
    "id": "26c1e1a6-3c8d-4513-af87-a2387eb69b90",
    "title": {
     "en": "Legend of the Galactic Heroes - Golden Wings"
    },
    "contentRating": "safe",
-   "score": 0.19252294,
+   "score": 0.18933508,
    "languages": [
     "ru"
-   ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.18920107,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -64,12 +62,25 @@
    ]
   },
   {
-   "id": "30ebc162-0332-4059-b016-cb7159621756",
+   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
    "title": {
-    "en": "Firescooter☆"
+    "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.18239474,
+   "score": 0.17962703,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
+   "title": {
+    "en": "Yugo (2004)"
+   },
+   "contentRating": "safe",
+   "score": 0.1722922,
    "languages": [
     "en"
    ]
@@ -91,24 +102,12 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.17134501,
+   "score": 0.16806427,
    "languages": [
     "pl",
     "en",
     "es",
     "pt-br"
-   ]
-  },
-  {
-   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
-   "title": {
-    "en": "The Comeback of the Demon King"
-   },
-   "contentRating": "safe",
-   "score": 0.16738616,
-   "languages": [
-    "en",
-    "ru"
    ]
   },
   {
@@ -123,15 +122,15 @@
    ]
   },
   {
-   "id": "30d61f7f-b018-45df-a2fb-570089084214",
+   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
    "title": {
-    "en": "Outreijou"
+    "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.16477263,
+   "score": 0.16426879,
    "languages": [
     "en",
-    "id"
+    "ru"
    ]
   },
   {
@@ -165,18 +164,6 @@
    ]
   },
   {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.16199434,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
    "title": {
     "en": "The Darwin Incident"
@@ -188,17 +175,29 @@
    ]
   },
   {
-   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
+   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
    "title": {
-    "en": "Fugitives"
+    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.1568863,
+   "score": 0.16006531,
    "languages": [
-    "en",
-    "it"
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
+   "title": {
+    "en": "What's Michael?"
+   },
+   "contentRating": "safe",
+   "score": 0.15584415,
+   "languages": [
+    "de",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:24+00:00"
+ "updatedAt": "2023-12-10T18:23:38+00:00"
 }

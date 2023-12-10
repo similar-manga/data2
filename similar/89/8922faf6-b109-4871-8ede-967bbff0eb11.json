@@ -11,7 +11,7 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.2992504,
+   "score": 0.30202037,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "Sensei no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.2573442,
+   "score": 0.25653014,
    "languages": [
     "it"
    ]
@@ -34,10 +34,22 @@
     "en": "Distance Between You and Me"
    },
    "contentRating": "safe",
-   "score": 0.2523197,
+   "score": 0.24947487,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "eb9fa04b-425c-4a44-a76e-5c7fec2c97b1",
+   "title": {
+    "en": "1/3 Sanbun no Ichi"
+   },
+   "contentRating": "safe",
+   "score": 0.24929722,
+   "languages": [
+    "it",
+    "es-la"
    ]
   },
   {
@@ -46,7 +58,7 @@
     "en": "Lemon Planet"
    },
    "contentRating": "safe",
-   "score": 0.24455874,
+   "score": 0.2441336,
    "languages": [
     "it"
    ]
@@ -57,7 +69,7 @@
     "en": "Koikokoro Koushinchuu"
    },
    "contentRating": "safe",
-   "score": 0.24220039,
+   "score": 0.24186487,
    "languages": [
     "pl"
    ]
@@ -68,20 +80,9 @@
     "en": "Ame Nochi Balloon"
    },
    "contentRating": "safe",
-   "score": 0.23696521,
+   "score": 0.23413594,
    "languages": [
     "it"
-   ]
-  },
-  {
-   "id": "59156bc0-42c8-4570-a496-242847e9680d",
-   "title": {
-    "en": "Otouto wo Kareshi ni Suru Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.22410929,
-   "languages": [
-    "pl"
    ]
   },
   {
@@ -90,10 +91,21 @@
     "en": "black peach flower"
    },
    "contentRating": "safe",
-   "score": 0.22348206,
+   "score": 0.22209589,
    "languages": [
     "en",
     "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "59156bc0-42c8-4570-a496-242847e9680d",
+   "title": {
+    "en": "Otouto wo Kareshi ni Suru Houhou"
+   },
+   "contentRating": "safe",
+   "score": 0.22144476,
+   "languages": [
     "pl"
    ]
   },
@@ -103,7 +115,7 @@
     "en": "Koiseyo Moyashi - Timid Boy Blues"
    },
    "contentRating": "safe",
-   "score": 0.21773066,
+   "score": 0.21716242,
    "languages": [
     "en",
     "pl"
@@ -115,8 +127,22 @@
     "en": "Daikyou Enmusubi"
    },
    "contentRating": "safe",
-   "score": 0.21693255,
+   "score": 0.2164055,
    "languages": [
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
+   "title": {
+    "en": "Shigatsu no Kimi, Spica."
+   },
+   "contentRating": "safe",
+   "score": 0.21026959,
+   "languages": [
+    "es-la",
     "pl",
     "en",
     "pt-br"
@@ -128,7 +154,7 @@
     "en": "Christmas Romance"
    },
    "contentRating": "safe",
-   "score": 0.20874654,
+   "score": 0.20858893,
    "languages": [
     "fr",
     "it",
@@ -141,7 +167,7 @@
     "en": "Hirahira to Gunjou"
    },
    "contentRating": "safe",
-   "score": 0.20770817,
+   "score": 0.20749602,
    "languages": [
     "pt-br",
     "en",
@@ -150,14 +176,15 @@
    ]
   },
   {
-   "id": "53708f5a-720d-4110-84b0-579b5d1bd312",
+   "id": "02dc0f0f-e236-45d7-800f-cf2df02170ec",
    "title": {
-    "en": "Kiss wa, Kokuhaku no Mae ni"
+    "en": "Christmas ni Kagayaku"
    },
    "contentRating": "safe",
-   "score": 0.20638023,
+   "score": 0.20613179,
    "languages": [
-    "it"
+    "hu",
+    "pl"
    ]
   },
   {
@@ -166,7 +193,7 @@
     "en": "Christmas ni Omoi o Nosete"
    },
    "contentRating": "safe",
-   "score": 0.20627819,
+   "score": 0.20576432,
    "languages": [
     "pt-br",
     "it",
@@ -177,31 +204,7 @@
     "hu",
     "en"
    ]
-  },
-  {
-   "id": "02dc0f0f-e236-45d7-800f-cf2df02170ec",
-   "title": {
-    "en": "Christmas ni Kagayaku"
-   },
-   "contentRating": "safe",
-   "score": 0.20592819,
-   "languages": [
-    "hu",
-    "pl"
-   ]
-  },
-  {
-   "id": "96382b35-94e3-4f30-b779-4e28024b2cef",
-   "title": {
-    "en": "My Hero!"
-   },
-   "contentRating": "safe",
-   "score": 0.20565648,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:19+00:00"
+ "updatedAt": "2023-12-10T18:23:24+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Linda"
    },
    "contentRating": "safe",
-   "score": 0.3825987,
+   "score": 0.38410673,
    "languages": [
     "bg",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Shonen Linda"
    },
    "contentRating": "safe",
-   "score": 0.34399685,
+   "score": 0.34529787,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Kare wa Hanazono de Yume wo Miru"
    },
    "contentRating": "safe",
-   "score": 0.22231902
+   "score": 0.22813591
   },
   {
    "id": "163a7ebc-ff76-454d-a02b-d306b21017d5",
@@ -42,7 +42,15 @@
     "en": "Cologne Policeman Odo"
    },
    "contentRating": "safe",
-   "score": 0.2193593
+   "score": 0.22026907
+  },
+  {
+   "id": "e6c04f2d-87b1-4935-b356-c13c47b0a1ef",
+   "title": {
+    "en": "Allen to Dolan"
+   },
+   "contentRating": "safe",
+   "score": 0.21983735
   },
   {
    "id": "5310fa94-bea5-48b8-b7bd-d3087e821e25",
@@ -50,7 +58,7 @@
     "en": "Étoile de La Seine"
    },
    "contentRating": "safe",
-   "score": 0.21177018
+   "score": 0.21126509
   },
   {
    "id": "2bbf1d99-b9b7-4c88-92b4-cbc09dd3eec2",
@@ -61,12 +69,20 @@
    "score": 0.20906496
   },
   {
+   "id": "aa480a63-4048-4097-babe-7551921fe6c6",
+   "title": {
+    "en": "Fly High in the Sky!"
+   },
+   "contentRating": "safe",
+   "score": 0.20820571
+  },
+  {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
    "title": {
     "en": "Niji no Ikusa"
    },
    "contentRating": "safe",
-   "score": 0.20476866,
+   "score": 0.2038508,
    "languages": [
     "en"
    ]
@@ -80,102 +96,61 @@
    "score": 0.20143543
   },
   {
+   "id": "31a08139-de7c-4422-bc1d-80f4dcccb1f2",
+   "title": {
+    "en": "Kurukuru Kurumi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.19074078
+  },
+  {
    "id": "99c55b76-dee9-4758-a0c9-ed1a70d4edca",
    "title": {
     "en": "Ooku: The Inner Chambers"
    },
    "contentRating": "safe",
-   "score": 0.18676321
+   "score": 0.18706954
   },
   {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
+   "id": "9e7c14e0-7bbe-4665-9a32-30d40d3bc992",
    "title": {
-    "en": "Gakuen Babysitters"
+    "en": "Masked Temptation"
    },
    "contentRating": "safe",
-   "score": 0.17666301,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
-   "title": {
-    "en": "Tactics"
-   },
-   "contentRating": "safe",
-   "score": 0.1728536,
-   "languages": [
-    "en",
-    "ru",
-    "ko"
-   ]
-  },
-  {
-   "id": "9f80722b-56cb-4c6d-b77a-56d5123a531b",
-   "title": {
-    "en": "My Love Ride!!"
-   },
-   "contentRating": "safe",
-   "score": 0.17216703,
-   "languages": [
-    "tr",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
-   "title": {
-    "en": "Glass Mask"
-   },
-   "contentRating": "safe",
-   "score": 0.1702165,
+   "score": 0.18417776,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e6d41077-a921-43d8-a353-1bfdfb331ba7",
+   "id": "b38de8a5-77f2-408e-9690-434954ec7cad",
    "title": {
-    "en": "The Glacier of No Return"
+    "en": "Everything for You"
    },
    "contentRating": "safe",
-   "score": 0.16788839,
-   "languages": [
-    "en"
-   ]
+   "score": 0.18396115
   },
   {
-   "id": "c18a867b-adbb-4aa9-a9c7-b9fe72979270",
+   "id": "f83f3629-415a-4f27-9952-d9490624b030",
    "title": {
-    "en": "Silent Manga Audition: Sekai kara Todoita Japanese Manga"
+    "en": "Barairo no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.16779716,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
-   "title": {
-    "en": "Snow White with the Red Hair"
-   },
-   "contentRating": "safe",
-   "score": 0.16659862,
+   "score": 0.18051071,
    "languages": [
     "en",
-    "pt-br",
-    "tr",
-    "it",
-    "bg",
-    "ar"
+    "pl",
+    "es-la"
    ]
+  },
+  {
+   "id": "cf8c065e-66a7-4ec2-8fb6-ad3afae8077d",
+   "title": {
+    "en": "Tenjou Renka: Kin no Oujo to Hi no Kusushi"
+   },
+   "contentRating": "safe",
+   "score": 0.1796881
   }
  ],
- "updatedAt": "2023-12-10T01:01:26+00:00"
+ "updatedAt": "2023-12-10T18:13:01+00:00"
 }

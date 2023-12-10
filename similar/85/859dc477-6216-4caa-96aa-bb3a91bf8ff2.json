@@ -11,7 +11,7 @@
     "en": "Kunoichi Ibun - An Angel Has Flown Down"
    },
    "contentRating": "safe",
-   "score": 0.24772365
+   "score": 0.24842717
   },
   {
    "id": "3cba69be-4227-48fe-b6d7-243f6e36000e",
@@ -19,18 +19,7 @@
     "en": "Shiwaase"
    },
    "contentRating": "safe",
-   "score": 0.22677198
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.22034074,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22395395
   },
   {
    "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
@@ -49,7 +38,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.21393785
+   "score": 0.21383677
   },
   {
    "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
@@ -75,12 +64,23 @@
    ]
   },
   {
+   "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
+   "title": {
+    "en": "Bone Crusher"
+   },
+   "contentRating": "safe",
+   "score": 0.20625228,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "30ebc162-0332-4059-b016-cb7159621756",
    "title": {
     "en": "Firescooter☆"
    },
    "contentRating": "safe",
-   "score": 0.20665663,
+   "score": 0.20400771,
    "languages": [
     "en"
    ]
@@ -91,7 +91,7 @@
     "en": "Yakou Kumo no Sarissa"
    },
    "contentRating": "safe",
-   "score": 0.20432432
+   "score": 0.20388214
   },
   {
    "id": "a29bd145-116e-49c8-bc2f-b15857299304",
@@ -99,7 +99,7 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.20311707,
+   "score": 0.20302266,
    "languages": [
     "en",
     "ru",
@@ -107,15 +107,23 @@
    ]
   },
   {
-   "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
+   "id": "480c88ba-f509-4fff-a50c-c41c5a2058d0",
    "title": {
-    "en": "Bone Crusher"
+    "en": "Camera, Hajimete Mo ii Desuka?"
    },
    "contentRating": "safe",
-   "score": 0.2030587,
+   "score": 0.19788373,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "10076e27-ec0f-462d-ab27-d011a70989dd",
+   "title": {
+    "en": "Late Blooming Old Man"
+   },
+   "contentRating": "safe",
+   "score": 0.19565323
   },
   {
    "id": "1c3761c8-1ffd-49b8-8421-37a93d70bf55",
@@ -126,23 +134,23 @@
    "score": 0.19384708
   },
   {
-   "id": "ade21672-965e-4fee-aa2a-3e184480dde4",
-   "title": {
-    "en": "F Final"
-   },
-   "contentRating": "safe",
-   "score": 0.19325195
-  },
-  {
    "id": "52e56d01-12ef-476c-b4f2-df47d38abbf4",
    "title": {
     "en": "Sora ni Mairu"
    },
    "contentRating": "safe",
-   "score": 0.1928777,
+   "score": 0.19356728,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ade21672-965e-4fee-aa2a-3e184480dde4",
+   "title": {
+    "en": "F Final"
+   },
+   "contentRating": "safe",
+   "score": 0.19212286
   },
   {
    "id": "27d58bfa-6467-4204-972c-b23939f3d932",
@@ -151,30 +159,7 @@
    },
    "contentRating": "safe",
    "score": 0.19185884
-  },
-  {
-   "id": "cade38b7-64c4-4a29-8e3c-8c283291d6c6",
-   "title": {
-    "en": "Land of the Lustrous"
-   },
-   "contentRating": "safe",
-   "score": 0.19185884,
-   "languages": [
-    "ru",
-    "en",
-    "es-la",
-    "id",
-    "tr",
-    "fr",
-    "fa",
-    "uk",
-    "pt-br",
-    "ar",
-    "vi",
-    "pl",
-    "az"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:09+00:00"
+ "updatedAt": "2023-12-10T18:22:59+00:00"
 }

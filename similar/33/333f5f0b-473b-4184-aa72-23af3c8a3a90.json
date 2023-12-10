@@ -11,7 +11,7 @@
     "en": "Assembler OX"
    },
    "contentRating": "safe",
-   "score": 0.2596275,
+   "score": 0.25939628,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Sora ni Mairu"
    },
    "contentRating": "safe",
-   "score": 0.24293853,
+   "score": 0.24448107,
    "languages": [
     "en"
    ]
@@ -51,12 +51,45 @@
    ]
   },
   {
+   "id": "f9d854ea-6787-40f5-a30c-5d72eef9e0cb",
+   "title": {
+    "en": "Junket Bank"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
    "title": {
     "en": "Laika in Space"
    },
    "contentRating": "safe",
-   "score": 0.21162428,
+   "score": 0.22082889,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.20691176,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0eb1c1ac-34cd-42d3-b88d-e780d54eed8b",
+   "title": {
+    "en": "Satellite Coin Laundry"
+   },
+   "contentRating": "safe",
+   "score": 0.20429403,
    "languages": [
     "en"
    ]
@@ -67,7 +100,7 @@
     "en": "Uchuu Kyoudai"
    },
    "contentRating": "safe",
-   "score": 0.2036954,
+   "score": 0.20395923,
    "languages": [
     "en",
     "pt-br",
@@ -78,125 +111,87 @@
    ]
   },
   {
-   "id": "0eb1c1ac-34cd-42d3-b88d-e780d54eed8b",
+   "id": "1591c256-e561-4e4b-a57c-64079ef1958e",
    "title": {
-    "en": "Satellite Coin Laundry"
+    "en": "Mathematics Golden"
    },
    "contentRating": "safe",
-   "score": 0.20218232,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
-   "title": {
-    "en": "We'll Go See the Ocean."
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b364fcd-224c-403d-8a3c-c999e8c3a849",
-   "title": {
-    "en": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
-   "title": {
-    "en": "Halloween Night"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "ro",
-    "vi",
-    "pl",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "5061c74c-6853-471c-8a9f-c184e18606b4",
-   "title": {
-    "en": "The Affairs of the Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f85c17e1-948f-4257-acee-1f6d366c9254",
-   "title": {
-    "en": "Tiger \u0026 Bunny 2 - No one is perfect."
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ff965654-6783-430e-91bb-27307d88109c",
-   "title": {
-    "en": "Impermanence Resonating: An Attempt at a SF Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
+   "score": 0.19742027,
    "languages": [
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "70f068b7-3afa-46ce-be2a-1b818740c7a6",
-   "title": {
-    "en": "Tiger \u0026 Bunny 2: The Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "00fc012b-8d52-489c-9529-ee60934cbb0e",
-   "title": {
-    "en": "Keron"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
-   "title": {
-    "en": "Boku no Tsuma wa Kanjou ga Nai"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en",
-    "vi",
-    "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
+   "title": {
+    "en": "The Legend of the Strongest Man Nakane"
+   },
+   "contentRating": "safe",
+   "score": 0.19296314,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "e0413c01-9d2b-40ca-8368-4287aa9b5fff",
+   "title": {
+    "en": "Madara Moyou no Yoi"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+   "title": {
+    "en": "Madoromi Barmaid"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "652c74f2-67fa-492f-85a7-38e6b27186f2",
+   "title": {
+    "en": "Semimaru Zanjitsuroku"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bb490bbb-2792-4fa6-80ef-76f63995a219",
+   "title": {
+    "en": "Unsung Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
+   "title": {
+    "en": "Channel wa Sonomama!"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:43+00:00"
+ "updatedAt": "2023-12-10T18:13:47+00:00"
 }

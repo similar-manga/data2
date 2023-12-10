@@ -11,7 +11,7 @@
     "en": "Tokyo Depato Sensou Taikenki"
    },
    "contentRating": "safe",
-   "score": 0.34041044,
+   "score": 0.3380873,
    "languages": [
     "en",
     "pl",
@@ -24,7 +24,7 @@
     "en": "Waon Nijuusou"
    },
    "contentRating": "safe",
-   "score": 0.2732113,
+   "score": 0.2760107,
    "languages": [
     "en"
    ]
@@ -35,9 +35,21 @@
     "en": "Tasogare Schrödinger"
    },
    "contentRating": "safe",
-   "score": 0.26587608,
+   "score": 0.2675381,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "184cdbab-e7f3-4970-bcca-878504889d6f",
+   "title": {
+    "en": "Forest Bear"
+   },
+   "contentRating": "safe",
+   "score": 0.26293308,
+   "languages": [
+    "en",
+    "ro"
    ]
   },
   {
@@ -46,7 +58,7 @@
     "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.26202658,
+   "score": 0.26192632,
    "languages": [
     "ca",
     "en",
@@ -62,7 +74,7 @@
     "en": "Otter No.11"
    },
    "contentRating": "safe",
-   "score": 0.26174274,
+   "score": 0.26167792,
    "languages": [
     "pl",
     "en"
@@ -74,22 +86,10 @@
     "en": "GARDEN"
    },
    "contentRating": "safe",
-   "score": 0.26064026,
+   "score": 0.2597513,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "184cdbab-e7f3-4970-bcca-878504889d6f",
-   "title": {
-    "en": "Forest Bear"
-   },
-   "contentRating": "safe",
-   "score": 0.2588191,
-   "languages": [
-    "en",
-    "ro"
    ]
   },
   {
@@ -98,7 +98,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.25746387,
+   "score": 0.25712806,
    "languages": [
     "pt-br",
     "pl",
@@ -113,7 +113,18 @@
     "en": "Jitsuryokuha Elite Jin"
    },
    "contentRating": "safe",
-   "score": 0.24984382,
+   "score": 0.24998386,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
+   "title": {
+    "en": "Chou Kasoku Ningen Leo"
+   },
+   "contentRating": "safe",
+   "score": 0.24927448,
    "languages": [
     "en"
    ]
@@ -124,7 +135,7 @@
     "en": "Karakuri"
    },
    "contentRating": "safe",
-   "score": 0.24945024,
+   "score": 0.24879473,
    "languages": [
     "en",
     "pl",
@@ -137,9 +148,21 @@
     "en": "Murahagane"
    },
    "contentRating": "safe",
-   "score": 0.24754032,
+   "score": 0.2479802,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
+   "title": {
+    "en": "CROSS"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "de"
    ]
   },
   {
@@ -166,39 +189,18 @@
    ]
   },
   {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
+   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
    "title": {
-    "en": "CROSS"
+    "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.2417603,
    "languages": [
     "en",
-    "de"
-   ]
-  },
-  {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.24708413,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
-   "title": {
-    "en": "Bear Hunter — Fubuki-gō"
-   },
-   "contentRating": "safe",
-   "score": 0.23936693,
-   "languages": [
-    "en"
+    "pl",
+    "th"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:35+00:00"
+ "updatedAt": "2023-12-10T18:21:30+00:00"
 }

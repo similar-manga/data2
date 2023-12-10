@@ -6,12 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2ccfd010-280d-41b4-98ed-9b217ff80881",
+   "title": {
+    "en": "Ringo no Asobikata"
+   },
+   "contentRating": "safe",
+   "score": 0.3397303,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "683c110a-9e5e-4f78-907d-97d56b33620e",
+   "title": {
+    "en": "Sleeping Beauty"
+   },
+   "contentRating": "safe",
+   "score": 0.3343097
+  },
+  {
+   "id": "4c118f90-63d2-46f6-ae57-5bf61aa87a98",
+   "title": {
+    "en": "Lala no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.30294245
+  },
+  {
    "id": "e92e99e0-d3ff-4169-9395-350deb9dc1b1",
    "title": {
     "en": "Koi Gokoro Gekokujou"
    },
    "contentRating": "safe",
-   "score": 0.26416424,
+   "score": 0.2685589,
    "languages": [
     "en",
     "fr",
@@ -19,9 +47,48 @@
    ]
   },
   {
-   "id": "d2b564b6-91c9-4d70-8512-8981e1a747ee",
+   "id": "739dd80f-1fad-4980-b944-927b45331770",
    "title": {
-    "en": "\"Bungaku Shoujo\" to Oishii Recipe"
+    "en": "Shiro to Kuro no Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.26588488,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bd7ade4-51e4-45aa-9b60-58d48e49d5ea",
+   "title": {
+    "en": "Himitsu - Season 0"
+   },
+   "contentRating": "safe",
+   "score": 0.2633588
+  },
+  {
+   "id": "67343e1c-a0fc-495e-a3b3-2c78106291bd",
+   "title": {
+    "en": "Moon Deity"
+   },
+   "contentRating": "safe",
+   "score": 0.2586365,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "80aa7fa0-67e8-4f9d-a98f-11dcbe79c375",
+   "title": {
+    "en": "Mio no Na no Moto Ni"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "5e9c6fe7-9202-447d-8acc-4b887d29713b",
+   "title": {
+    "en": "Key Jack"
    },
    "contentRating": "safe",
    "score": 0.25555065
@@ -35,140 +102,59 @@
    "score": 0.25555065
   },
   {
+   "id": "d2b564b6-91c9-4d70-8512-8981e1a747ee",
+   "title": {
+    "en": "\"Bungaku Shoujo\" to Oishii Recipe"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "402ca515-c0d7-42cd-af29-8c8255f923ce",
+   "title": {
+    "en": "Harukanaru Toki no Naka de 4"
+   },
+   "contentRating": "safe",
+   "score": 0.24667649
+  },
+  {
+   "id": "1c3b03a7-a923-4c50-942d-5a60b006ac1a",
+   "title": {
+    "en": "Kagami no Miko Ayaka"
+   },
+   "contentRating": "safe",
+   "score": 0.245606
+  },
+  {
+   "id": "68fe48a6-3d49-41fb-ab17-9ac48d33214e",
+   "title": {
+    "en": "Forest of the Jade Bird"
+   },
+   "contentRating": "safe",
+   "score": 0.24524087,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dd008813-6e96-4ffd-a49f-848445473b80",
+   "title": {
+    "en": "Live as a Villainess"
+   },
+   "contentRating": "safe",
+   "score": 0.24473542
+  },
+  {
    "id": "37cf7f92-ba0f-4111-9bd2-e8dc6e4d1e6d",
    "title": {
     "en": "Kiri - The Route of Infection Kanaria"
    },
    "contentRating": "safe",
-   "score": 0.24554177,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb1080e6-77cd-4e9f-90c6-9ee13179a88c",
-   "title": {
-    "en": "Boukyaku no Cradle"
-   },
-   "contentRating": "safe",
-   "score": 0.24360332,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7693efe7-767e-4d10-8541-553db61c91e0",
-   "title": {
-    "en": "Sabaki no Mon"
-   },
-   "contentRating": "safe",
-   "score": 0.23420706,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31c28f73-5dfa-463e-9443-638ff6bf1071",
-   "title": {
-    "en": "Gapz Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.23196603
-  },
-  {
-   "id": "24d22a55-0640-43f6-a9f9-6e86a127e11e",
-   "title": {
-    "en": "Long Goodbye"
-   },
-   "contentRating": "safe",
-   "score": 0.23098011,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f681a4d8-4dba-4d41-9231-51b59d8cb4cb",
-   "title": {
-    "en": "Uchi no Heika ga Shinmai de."
-   },
-   "contentRating": "safe",
-   "score": 0.22982298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c28f9279-f3bd-437a-809d-3db1c9db9d75",
-   "title": {
-    "en": "Game X Rush"
-   },
-   "contentRating": "safe",
-   "score": 0.22772014
-  },
-  {
-   "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
-   "title": {
-    "en": "Tarou-kun wa Yuganderu"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "2b8980a2-6b93-40d5-8cc0-d4c8ecde5814",
-   "title": {
-    "en": "Xia Yin Wang: Wai Zhuan"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334
-  },
-  {
-   "id": "1e440a10-709a-41e9-a546-c20e2fc0406f",
-   "title": {
-    "en": "The Descendant of the Dynasty"
-   },
-   "contentRating": "safe",
-   "score": 0.2196531,
-   "languages": [
-    "en",
-    "fr",
-    "tr"
-   ]
-  },
-  {
-   "id": "d6531b79-c030-475e-a641-316069cb1175",
-   "title": {
-    "en": "Tsuchikaburi no Elena-hime"
-   },
-   "contentRating": "safe",
-   "score": 0.21943063
-  },
-  {
-   "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
-   "title": {
-    "en": "Twinkle Loop☆Story"
-   },
-   "contentRating": "safe",
-   "score": 0.21599679,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "36320572-a99d-4f8f-904e-630312cc963c",
-   "title": {
-    "en": "12 Months"
-   },
-   "contentRating": "safe",
-   "score": 0.2148947,
+   "score": 0.24470462,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:56+00:00"
 }

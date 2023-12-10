@@ -11,7 +11,7 @@
     "en": "Kousaten Chindouchuu"
    },
    "contentRating": "safe",
-   "score": 0.3564347,
+   "score": 0.35206652,
    "languages": [
     "fr",
     "en"
@@ -34,7 +34,7 @@
     "en": "Aosora"
    },
    "contentRating": "safe",
-   "score": 0.2721375,
+   "score": 0.26988623,
    "languages": [
     "en",
     "fr"
@@ -46,20 +46,19 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.26848516,
+   "score": 0.26783854,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "315dbbd5-dd49-4b11-9658-df7063db168d",
+   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
    "title": {
-    "en": "My Biggest Regret"
+    "en": "Inochi o Odoru"
    },
    "contentRating": "safe",
-   "score": 0.2629355,
+   "score": 0.26009434,
    "languages": [
-    "id",
     "en"
    ]
   },
@@ -69,21 +68,10 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.25967306,
+   "score": 0.2596886,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
-   "title": {
-    "en": "Inochi o Odoru"
-   },
-   "contentRating": "safe",
-   "score": 0.25940043,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -92,10 +80,21 @@
     "en": "Coward Cross World"
    },
    "contentRating": "safe",
-   "score": 0.25717843,
+   "score": 0.25670514,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "1aec6b5e-6641-43db-8589-ace2abc14e5f",
+   "title": {
+    "en": "Magu-chan: God of Destruction"
+   },
+   "contentRating": "safe",
+   "score": 0.25534174,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -112,25 +111,49 @@
    ]
   },
   {
-   "id": "1aec6b5e-6641-43db-8589-ace2abc14e5f",
-   "title": {
-    "en": "Magu-chan: God of Destruction"
-   },
-   "contentRating": "safe",
-   "score": 0.25363204,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
    "title": {
     "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
-   "score": 0.25306427,
+   "score": 0.25353158,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "95dd56d7-da37-4139-a4f6-7662aef3678b",
+   "title": {
+    "en": "Majime na Papa ni wa Ura ga aru"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12311367-3e5c-416e-9e26-29d8f5c30050",
+   "title": {
+    "en": "School Back"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
+   "title": {
+    "en": "Nagisa Round"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
     "en"
    ]
   },
@@ -143,17 +166,6 @@
    "score": 0.24983473,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "95dd56d7-da37-4139-a4f6-7662aef3678b",
-   "title": {
-    "en": "Majime na Papa ni wa Ura ga aru"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
     "en"
    ]
   },
@@ -171,17 +183,6 @@
    ]
   },
   {
-   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
-   "title": {
-    "en": "Nagisa Round"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
    "title": {
     "en": "Tasukete! Hinaemon"
@@ -193,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:40+00:00"
+ "updatedAt": "2023-12-10T18:24:19+00:00"
 }

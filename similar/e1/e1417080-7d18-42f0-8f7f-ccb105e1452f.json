@@ -11,7 +11,18 @@
     "en": "Layers of Fear"
    },
    "contentRating": "safe",
-   "score": 0.1988409,
+   "score": 0.20176622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d3467ec5-45d5-4bd4-b2d1-47467b64026d",
+   "title": {
+    "en": "Woman’s Hundred Faces"
+   },
+   "contentRating": "safe",
+   "score": 0.19606698,
    "languages": [
     "en"
    ]
@@ -22,7 +33,18 @@
     "en": "I Can't Throw Away Books"
    },
    "contentRating": "safe",
-   "score": 0.16221675,
+   "score": 0.16288091,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f9915f2-3c98-4eb6-ac6f-f0bb489c8cb7",
+   "title": {
+    "en": "Eternal Arcadia - Air Pirate Romanticism!"
+   },
+   "contentRating": "safe",
+   "score": 0.15899833,
    "languages": [
     "en"
    ]
@@ -33,7 +55,7 @@
     "en": "Waltz"
    },
    "contentRating": "safe",
-   "score": 0.15809898,
+   "score": 0.15807751,
    "languages": [
     "it",
     "pt-br",
@@ -43,23 +65,12 @@
    ]
   },
   {
-   "id": "7f9915f2-3c98-4eb6-ac6f-f0bb489c8cb7",
+   "id": "68f8fdc0-2bf3-4f7f-b798-9b07979cfd6f",
    "title": {
-    "en": "Eternal Arcadia - Air Pirate Romanticism!"
+    "en": "Ore, Gentei Commusho Nande"
    },
    "contentRating": "safe",
-   "score": 0.15775707,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
-   "title": {
-    "en": "Arcana+ 01 - Boys in Uniform"
-   },
-   "contentRating": "safe",
-   "score": 0.15469043,
+   "score": 0.15670997,
    "languages": [
     "en"
    ]
@@ -76,6 +87,17 @@
    ]
   },
   {
+   "id": "a3330cdc-3983-4ec0-9df1-e70354a7db95",
+   "title": {
+    "en": "Manga Masterpiece Opera"
+   },
+   "contentRating": "safe",
+   "score": 0.14932555,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d070b3f4-edb5-4064-bdcc-f70269e122e7",
    "title": {
     "en": "Battle Rabbits"
@@ -87,28 +109,28 @@
    ]
   },
   {
-   "id": "a3330cdc-3983-4ec0-9df1-e70354a7db95",
+   "id": "d74c4f35-64d2-45a8-81fb-f4b3f7ff2f86",
    "title": {
-    "en": "Manga Masterpiece Opera"
+    "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.14905459,
+   "score": 0.14392576,
    "languages": [
-    "en"
+    "pl",
+    "en",
+    "tr"
    ]
   },
   {
-   "id": "154e52ba-f7b1-405e-ac5c-1c06195be430",
+   "id": "b156b9a0-4bcf-49ac-97e2-7232addd134b",
    "title": {
-    "en": "Black Cat Tunnel"
+    "en": "Junji Ito: A Study From the Abyss of Horror"
    },
    "contentRating": "safe",
-   "score": 0.14353058,
+   "score": 0.1438956,
    "languages": [
-    "ca",
     "en",
-    "pl",
-    "de"
+    "pl"
    ]
   },
   {
@@ -123,12 +145,26 @@
    ]
   },
   {
+   "id": "154e52ba-f7b1-405e-ac5c-1c06195be430",
+   "title": {
+    "en": "Black Cat Tunnel"
+   },
+   "contentRating": "safe",
+   "score": 0.14294827,
+   "languages": [
+    "ca",
+    "en",
+    "pl",
+    "de"
+   ]
+  },
+  {
    "id": "7889434b-d9a5-454c-8ea1-8c7a4509fc51",
    "title": {
     "en": "Servamp"
    },
    "contentRating": "safe",
-   "score": 0.14230345,
+   "score": 0.14145513,
    "languages": [
     "es",
     "en",
@@ -137,34 +173,9 @@
    ]
   },
   {
-   "id": "b156b9a0-4bcf-49ac-97e2-7232addd134b",
+   "id": "8ac0855f-5f95-41cb-a1cc-7ac6714980b7",
    "title": {
-    "en": "Junji Ito: A Study From the Abyss of Horror"
-   },
-   "contentRating": "safe",
-   "score": 0.14147474,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "d74c4f35-64d2-45a8-81fb-f4b3f7ff2f86",
-   "title": {
-    "en": "Uchi no Hide"
-   },
-   "contentRating": "safe",
-   "score": 0.1394916,
-   "languages": [
-    "pl",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
-   "title": {
-    "en": "Katana"
+    "en": "Dark Angel"
    },
    "contentRating": "safe",
    "score": 0.13828744,
@@ -183,23 +194,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "2f467a6a-7140-4dce-a688-4f35be44f39c",
-   "title": {
-    "en": "Watashitachi, Rikon Shimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.13828744,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "uk",
-    "es-la",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:02+00:00"
+ "updatedAt": "2023-12-10T18:33:10+00:00"
 }

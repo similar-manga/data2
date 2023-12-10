@@ -11,7 +11,7 @@
     "en": "Kokenoshima"
    },
    "contentRating": "safe",
-   "score": 0.26986465,
+   "score": 0.26350376,
    "languages": [
     "tr",
     "en"
@@ -23,7 +23,7 @@
     "en": "Star Tripper: Planetarium Ghost Travel"
    },
    "contentRating": "safe",
-   "score": 0.21868378,
+   "score": 0.21484606,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Mercy"
    },
    "contentRating": "safe",
-   "score": 0.18223286,
+   "score": 0.20713757,
    "languages": [
     "ru",
     "en"
@@ -60,7 +60,7 @@
     "en": "MAMAGOTO"
    },
    "contentRating": "safe",
-   "score": 0.17793141,
+   "score": 0.17895664,
    "languages": [
     "en"
    ]
@@ -71,7 +71,7 @@
     "en": "Where is the Seven-Colored Star?"
    },
    "contentRating": "safe",
-   "score": 0.175173,
+   "score": 0.17369355,
    "languages": [
     "en"
    ]
@@ -82,35 +82,10 @@
     "en": "Keron"
    },
    "contentRating": "safe",
-   "score": 0.17276801,
+   "score": 0.1716477,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "fb7f0a28-4a41-438e-9289-c12e9912627b",
-   "title": {
-    "en": "Twinkling Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.16563068,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
-   "title": {
-    "en": "Myctophids"
-   },
-   "contentRating": "safe",
-   "score": 0.16374461,
-   "languages": [
-    "fr",
-    "en",
-    "hi"
    ]
   },
   {
@@ -128,6 +103,28 @@
    ]
   },
   {
+   "id": "1ecdc422-02fd-479d-bcda-6c479fc9a7b5",
+   "title": {
+    "en": "PoPoLoCrois"
+   },
+   "contentRating": "safe",
+   "score": 0.16345073,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0abe11f8-ad54-4440-b300-8cb5e7bd262b",
+   "title": {
+    "en": "Sennen Kitsune"
+   },
+   "contentRating": "safe",
+   "score": 0.16280083,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e96c7133-3c4b-4d6d-97db-ef179ca6bf5a",
    "title": {
     "en": "Welcome to the Special Guild!"
@@ -139,12 +136,37 @@
    ]
   },
   {
+   "id": "fb7f0a28-4a41-438e-9289-c12e9912627b",
+   "title": {
+    "en": "Twinkling Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.1627264,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
+   "title": {
+    "en": "Myctophids"
+   },
+   "contentRating": "safe",
+   "score": 0.1623042,
+   "languages": [
+    "fr",
+    "en",
+    "hi"
+   ]
+  },
+  {
    "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
    "title": {
     "en": "Mayonaka Sanpo"
    },
    "contentRating": "safe",
-   "score": 0.15913537,
+   "score": 0.15853338,
    "languages": [
     "fa",
     "ar",
@@ -160,7 +182,7 @@
     "en": "Makimodoshi"
    },
    "contentRating": "safe",
-   "score": 0.15776064,
+   "score": 0.1570051,
    "languages": [
     "tr",
     "en"
@@ -180,38 +202,7 @@
     "ru",
     "es-la"
    ]
-  },
-  {
-   "id": "dbc32ea2-a10b-47dc-9533-917370088872",
-   "title": {
-    "en": "The Beautiful Ones"
-   },
-   "contentRating": "safe",
-   "score": 0.15428492,
-   "languages": [
-    "vi",
-    "es",
-    "fa",
-    "fr",
-    "tr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "782211b2-44ca-44ae-89f2-8a1160221b96",
-   "title": {
-    "en": "Tensei Goblin dakedo Shitsumon aru?"
-   },
-   "contentRating": "safe",
-   "score": 0.15410283,
-   "languages": [
-    "en",
-    "ru",
-    "th",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:55+00:00"
+ "updatedAt": "2023-12-10T18:19:41+00:00"
 }

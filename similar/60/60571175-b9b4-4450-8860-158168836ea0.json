@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fdafcf14-c208-441b-a4f9-825ac3904cfd",
+   "title": {
+    "en": "Jimba"
+   },
+   "contentRating": "safe",
+   "score": 0.34368825
+  },
+  {
    "id": "1f8c16ad-e600-435c-9e46-c21866af3560",
    "title": {
     "en": "Son of Demon"
    },
    "contentRating": "safe",
-   "score": 0.2831196,
+   "score": 0.28074425,
    "languages": [
     "en"
    ]
@@ -22,7 +30,7 @@
     "en": "Yakuza that picked up a kid"
    },
    "contentRating": "safe",
-   "score": 0.27921265,
+   "score": 0.27320555,
    "languages": [
     "vi",
     "id",
@@ -35,7 +43,7 @@
     "en": "Cat, Child, and Mother"
    },
    "contentRating": "safe",
-   "score": 0.25666153,
+   "score": 0.25603753,
    "languages": [
     "en"
    ]
@@ -68,7 +76,7 @@
     "en": "Aya and Ame"
    },
    "contentRating": "safe",
-   "score": 0.22993384,
+   "score": 0.22929199,
    "languages": [
     "en"
    ]
@@ -79,7 +87,7 @@
     "en": "Parent and Child"
    },
    "contentRating": "safe",
-   "score": 0.22825728,
+   "score": 0.22671078,
    "languages": [
     "vi",
     "en",
@@ -89,17 +97,14 @@
    ]
   },
   {
-   "id": "8484fa76-fb9e-494c-9aa0-9a48c582cea6",
+   "id": "e3591745-43ad-4db1-bc25-9d9d260e0215",
    "title": {
-    "en": "My Sister Picked up the Male Lead"
+    "en": "The Solitary Travels of a Mermaid Princess"
    },
    "contentRating": "safe",
-   "score": 0.22644758,
+   "score": 0.22469725,
    "languages": [
-    "id",
-    "en",
-    "tr",
-    "pl"
+    "en"
    ]
   },
   {
@@ -108,21 +113,10 @@
     "en": "Monster and Child"
    },
    "contentRating": "safe",
-   "score": 0.22637539,
+   "score": 0.223238,
    "languages": [
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "e3591745-43ad-4db1-bc25-9d9d260e0215",
-   "title": {
-    "en": "The Solitary Travels of a Mermaid Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.2253343,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -131,7 +125,7 @@
     "en": "Kimi no Jinsei Zenbu wo Shiawase ni Shite Agetai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.22364917,
+   "score": 0.22298388,
    "languages": [
     "en",
     "fr"
@@ -143,7 +137,7 @@
     "en": "0°C no Mahou"
    },
    "contentRating": "safe",
-   "score": 0.22337957,
+   "score": 0.22264633,
    "languages": [
     "tr",
     "de",
@@ -156,56 +150,46 @@
    ]
   },
   {
+   "id": "e167281c-b14f-4fca-8b2c-acfd6e5ade32",
+   "title": {
+    "en": "The Wilderness Family"
+   },
+   "contentRating": "safe",
+   "score": 0.22214755
+  },
+  {
+   "id": "3c1d02d7-1d16-4b39-8c0f-7a84f1e0022c",
+   "title": {
+    "en": "What if You Turned Back Into a Child?"
+   },
+   "contentRating": "safe",
+   "score": 0.22128408
+  },
+  {
+   "id": "8484fa76-fb9e-494c-9aa0-9a48c582cea6",
+   "title": {
+    "en": "My Sister Picked up the Male Lead"
+   },
+   "contentRating": "safe",
+   "score": 0.2207508,
+   "languages": [
+    "id",
+    "en",
+    "tr",
+    "pl"
+   ]
+  },
+  {
    "id": "05f033a1-54bb-4e5c-897b-410f85e4cc2d",
    "title": {
     "en": "Son's New Home"
    },
    "contentRating": "safe",
-   "score": 0.22229671,
+   "score": 0.21855141,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c4b85e42-0604-4999-a734-11fc8518e914",
-   "title": {
-    "en": "The Story of An Old Man who gets called Mama for Breaking An Egg"
-   },
-   "contentRating": "safe",
-   "score": 0.21923955,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0cd5eba-eff5-4d3c-bcf2-a337b93f2347",
-   "title": {
-    "en": "I Received Half of the World From the Demon King!"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "vi",
-    "it",
-    "en",
-    "id",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4326a16f-9225-466e-92d9-5e1bd266309a",
-   "title": {
-    "en": "A Story After Everything Went Well"
-   },
-   "contentRating": "safe",
-   "score": 0.21484055,
-   "languages": [
-    "en",
-    "pt-br",
-    "ca"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:36+00:00"
+ "updatedAt": "2023-12-10T18:18:46+00:00"
 }

@@ -11,15 +11,7 @@
     "en": "Miriam of the skulls"
    },
    "contentRating": "safe",
-   "score": 0.3502342
-  },
-  {
-   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
-   "title": {
-    "en": "ERROR US"
-   },
-   "contentRating": "safe",
-   "score": 0.33184794
+   "score": 0.351928
   },
   {
    "id": "23cbfc01-5e4a-4c04-841e-036927d51fa1",
@@ -27,7 +19,7 @@
     "en": "Alma De Un Solo Color"
    },
    "contentRating": "safe",
-   "score": 0.3265686
+   "score": 0.33004653
   },
   {
    "id": "97397d79-3ae7-477a-abf2-61ae25e0c34e",
@@ -35,7 +27,15 @@
     "en": "Paper Plane"
    },
    "contentRating": "safe",
-   "score": 0.3160149
+   "score": 0.3201349
+  },
+  {
+   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
+   "title": {
+    "en": "ERROR US"
+   },
+   "contentRating": "safe",
+   "score": 0.3173644
   },
   {
    "id": "d5bb1e3a-5837-4aa7-9240-a2c9f8619c53",
@@ -43,7 +43,7 @@
     "en": "Sense of Justice"
    },
    "contentRating": "safe",
-   "score": 0.31091398
+   "score": 0.3124783
   },
   {
    "id": "dcdff219-d3f5-4875-8b32-96d0101e131b",
@@ -51,7 +51,7 @@
     "en": "METRA-K"
    },
    "contentRating": "safe",
-   "score": 0.3048853
+   "score": 0.30925664
   },
   {
    "id": "ee34b5e5-aa9d-4732-854a-a2454ca89e44",
@@ -59,7 +59,7 @@
     "en": "Skeleton Bolt"
    },
    "contentRating": "safe",
-   "score": 0.29797506
+   "score": 0.29956782
   },
   {
    "id": "58c6ecc7-18fe-4602-9fc1-71cdee016db2",
@@ -75,7 +75,7 @@
     "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.2729805,
+   "score": 0.27627474,
    "languages": [
     "en"
    ]
@@ -86,7 +86,7 @@
     "en": "Sekaiseifuku Doukoukai"
    },
    "contentRating": "safe",
-   "score": 0.2666329,
+   "score": 0.26612958,
    "languages": [
     "es-la"
    ]
@@ -97,7 +97,7 @@
     "en": "Yanko to Boushi"
    },
    "contentRating": "safe",
-   "score": 0.26282623,
+   "score": 0.26261815,
    "languages": [
     "en"
    ]
@@ -108,30 +108,10 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.25906947,
+   "score": 0.26084003,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7440dc76-df88-4f92-8c12-c264ed7fc244",
-   "title": {
-    "en": "Ame ga Yamu koro ni"
-   },
-   "contentRating": "safe",
-   "score": 0.25834915,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "4136fde7-7a9b-4496-a2cf-3577bf7815c7",
-   "title": {
-    "en": "Cosmic Arc Travel"
-   },
-   "contentRating": "safe",
-   "score": 0.25523823
   },
   {
    "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
@@ -139,7 +119,7 @@
     "en": "Kanojo wa Itsumo Kagayaiteita"
    },
    "contentRating": "safe",
-   "score": 0.2548252,
+   "score": 0.25736755,
    "languages": [
     "hu",
     "de",
@@ -157,11 +137,31 @@
     "en": "Hopeless Kacchan's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.2522589,
+   "score": 0.25731573,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "4136fde7-7a9b-4496-a2cf-3577bf7815c7",
+   "title": {
+    "en": "Cosmic Arc Travel"
+   },
+   "contentRating": "safe",
+   "score": 0.25605634
+  },
+  {
+   "id": "7440dc76-df88-4f92-8c12-c264ed7fc244",
+   "title": {
+    "en": "Ame ga Yamu koro ni"
+   },
+   "contentRating": "safe",
+   "score": 0.25541615,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:28+00:00"
+ "updatedAt": "2023-12-10T18:34:12+00:00"
 }

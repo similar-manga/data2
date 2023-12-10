@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9d1bd14a-ff52-46a9-9496-4a3405d29615",
-   "title": {
-    "en": "Hair-Tail Fish and Mackerel"
-   },
-   "contentRating": "safe",
-   "score": 0.30052996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e6efc92a-04d9-4d0c-af20-ac2dcad835a2",
    "title": {
     "en": "Living with an Incubus"
    },
    "contentRating": "safe",
-   "score": 0.29972112,
+   "score": 0.30153966,
    "languages": [
     "fr",
     "en",
@@ -30,40 +19,14 @@
    ]
   },
   {
-   "id": "8c5a8dc2-70a7-45ce-8ed1-4fa6ebef2035",
+   "id": "9d1bd14a-ff52-46a9-9496-4a3405d29615",
    "title": {
-    "en": "I Can't Get!!"
+    "en": "Hair-Tail Fish and Mackerel"
    },
    "contentRating": "safe",
-   "score": 0.2884568,
+   "score": 0.29636472,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "13f152eb-46c7-48c1-881b-b1eb89d50285",
-   "title": {
-    "en": "Boukyaku no Shirushi to Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.28683156,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "abd9b3df-3061-4f1b-adbb-e6e3593b2918",
-   "title": {
-    "en": "The Story of the Gatekeeper"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "bg",
-    "ar",
-    "en",
-    "pl"
    ]
   },
   {
@@ -101,12 +64,38 @@
    ]
   },
   {
+   "id": "abd9b3df-3061-4f1b-adbb-e6e3593b2918",
+   "title": {
+    "en": "The Story of the Gatekeeper"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "bg",
+    "ar",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "13f152eb-46c7-48c1-881b-b1eb89d50285",
+   "title": {
+    "en": "Boukyaku no Shirushi to Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.27645877,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "baa8d099-126c-4cfe-981d-ef39a60fcd9d",
    "title": {
     "en": "Love Hunter Akazukin"
    },
    "contentRating": "safe",
-   "score": 0.25694352,
+   "score": 0.25678384,
    "languages": [
     "fr",
     "en",
@@ -119,7 +108,7 @@
     "en": "Majo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.2551038,
+   "score": 0.25505844,
    "languages": [
     "pl",
     "pt-br",
@@ -127,20 +116,20 @@
    ]
   },
   {
-   "id": "e2137d1f-0ddf-42ef-b67d-226e7ba26b97",
+   "id": "8c5a8dc2-70a7-45ce-8ed1-4fa6ebef2035",
    "title": {
-    "en": "Hoshikusu to Hanayome"
+    "en": "I Can't Get!!"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24784182,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1818c4f7-cad3-4fa7-a3d4-fb258bc7d30f",
+   "id": "850fd66f-e9cc-4448-99d3-ae0d3232dffe",
    "title": {
-    "en": "A Sorcerer Entered into a Contract"
+    "en": "Hoshifuru Oka no Majo"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -160,14 +149,15 @@
    ]
   },
   {
-   "id": "59610b00-6072-4f77-ad80-c6989f7a2bee",
+   "id": "480c872d-31b5-4f2e-a098-fba7b6a7a8ee",
    "title": {
-    "en": "Magical Hero Hour"
+    "en": "Jewel to Canary"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
+    "en",
+    "bg"
    ]
   },
   {
@@ -182,9 +172,20 @@
    ]
   },
   {
-   "id": "e618da35-7eef-4076-bc75-590f70e879ea",
+   "id": "78f4b50f-b2e2-4125-b6fc-a34f39b481c3",
    "title": {
-    "en": "Komugi to Sekai no Ryouri-kun"
+    "en": "Shiro no Keiyaku"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77458141-5941-4e2a-bf62-501c1fa56ec1",
+   "title": {
+    "en": "Nakasareta!"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -193,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:32+00:00"
+ "updatedAt": "2023-12-10T18:18:36+00:00"
 }

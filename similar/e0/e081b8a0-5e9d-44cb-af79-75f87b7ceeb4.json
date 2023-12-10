@@ -6,24 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "e9cfa059-ad21-45a3-89a5-ce0e233a486d",
-   "title": {
-    "en": "Seiju no kuni no kinjutsukai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2062545,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "5896ba9b-7bf0-42a3-94eb-15dcb70fafba",
    "title": {
     "en": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero"
    },
    "contentRating": "suggestive",
-   "score": 0.20527773,
+   "score": 0.20489325,
    "languages": [
     "en",
     "es-la",
@@ -34,12 +22,24 @@
    ]
   },
   {
+   "id": "e9cfa059-ad21-45a3-89a5-ce0e233a486d",
+   "title": {
+    "en": "Seiju no kuni no kinjutsukai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20435701,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "e9cb9e3b-efaa-4b85-88e9-5b0612e50a61",
    "title": {
     "en": "6-gou Keibi"
    },
    "contentRating": "suggestive",
-   "score": 0.19584298,
+   "score": 0.19512594,
    "languages": [
     "pt-br",
     "en",
@@ -65,7 +65,7 @@
     "en": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
    },
    "contentRating": "suggestive",
-   "score": 0.18452713,
+   "score": 0.1835379,
    "languages": [
     "it",
     "es-la",
@@ -83,7 +83,7 @@
     "en": "Sentouin, Hakenshimasu!"
    },
    "contentRating": "suggestive",
-   "score": 0.1844555,
+   "score": 0.18350333,
    "languages": [
     "ru",
     "en",
@@ -98,27 +98,27 @@
    ]
   },
   {
-   "id": "aed198a4-8c78-4f05-872a-4e722d38c033",
-   "title": {
-    "en": "No Game No Life Part 2: Eastern Union Arc"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18439531,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
    "id": "ada153d5-db0d-40a0-920c-f76f1e1437dd",
    "title": {
     "en": "Kyoukai Meikyuu to Ikai no Majutsushi"
    },
    "contentRating": "suggestive",
-   "score": 0.17758366,
+   "score": 0.17694171,
    "languages": [
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "aed198a4-8c78-4f05-872a-4e722d38c033",
+   "title": {
+    "en": "No Game No Life Part 2: Eastern Union Arc"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17687242,
+   "languages": [
+    "en",
+    "fr",
     "pt-br"
    ]
   },
@@ -141,7 +141,7 @@
     "en": "Level 1 no Saikyou Kenja - Noroi de Saikakyuu Mahou Shika Tsukaenai kedo, Kami no Kanchigai no Mugen no Maryoku o Te ni Ire Saikyou ni"
    },
    "contentRating": "suggestive",
-   "score": 0.17157555,
+   "score": 0.17084984,
    "languages": [
     "pt-br",
     "fr",
@@ -156,7 +156,7 @@
     "en": "Kemono Michi"
    },
    "contentRating": "suggestive",
-   "score": 0.1708782,
+   "score": 0.16977625,
    "languages": [
     "en",
     "pt-br",
@@ -170,7 +170,7 @@
     "en": "Kou 1 Desu ga Isekai de Joushu Hajimemashita"
    },
    "contentRating": "suggestive",
-   "score": 0.17028086,
+   "score": 0.16969611,
    "languages": [
     "pt-br",
     "fr",
@@ -185,7 +185,7 @@
     "en": "Kajiya de Hajimeru Isekai Slow Life"
    },
    "contentRating": "suggestive",
-   "score": 0.16941945,
+   "score": 0.16804184,
    "languages": [
     "ru",
     "th",
@@ -201,7 +201,7 @@
     "en": "Zettai ni Yatte wa Ikenai Isekai Shoukan"
    },
    "contentRating": "suggestive",
-   "score": 0.16743048,
+   "score": 0.16628832,
    "languages": [
     "es-la",
     "en",
@@ -210,27 +210,12 @@
    ]
   },
   {
-   "id": "45ed7ed8-23b3-45bf-9b9c-da6e9e88f747",
-   "title": {
-    "en": "Isekai de Tochi o Katte Noujou o Tsukurou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16676924,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "id",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "c7311cec-9b0f-42f3-8afe-a06cb5b70229",
    "title": {
     "en": "Isekai de Skill wo Kaitai Shitara Cheat na Yome ga Zoushoku Shimashita: Gainen Kousa no Structure"
    },
    "contentRating": "suggestive",
-   "score": 0.16665754,
+   "score": 0.16573852,
    "languages": [
     "en",
     "pt-br",
@@ -240,7 +225,19 @@
     "fr",
     "it"
    ]
+  },
+  {
+   "id": "0a9b4835-032a-472b-b807-7e0950056536",
+   "title": {
+    "en": "The Undetectable Strongest Job: Rule Breaker"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16573659,
+   "languages": [
+    "en",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:01+00:00"
+ "updatedAt": "2023-12-10T18:33:06+00:00"
 }

@@ -11,9 +11,20 @@
     "en": "Dr. Rabbit"
    },
    "contentRating": "safe",
-   "score": 0.27403867,
+   "score": 0.27234122,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "a4064ff8-421c-43be-ae6b-27a14eeaf1d8",
+   "title": {
+    "en": "Animaru Sentai Unlimited"
+   },
+   "contentRating": "safe",
+   "score": 0.27176645,
+   "languages": [
     "en"
    ]
   },
@@ -23,20 +34,8 @@
     "en": "Kimi wa Boku no Toriko Nare"
    },
    "contentRating": "safe",
-   "score": 0.2704995,
+   "score": 0.2686736,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "30d823b0-b50d-4de0-84c7-466d182d1cb6",
-   "title": {
-    "en": "Kuroneko Guardian"
-   },
-   "contentRating": "safe",
-   "score": 0.26426446,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -46,7 +45,7 @@
     "en": "Dekiai Robot"
    },
    "contentRating": "safe",
-   "score": 0.25279334,
+   "score": 0.24967745,
    "languages": [
     "tr",
     "pl",
@@ -70,6 +69,17 @@
    ]
   },
   {
+   "id": "df311dc4-d7d6-45d3-9837-b1865a776111",
+   "title": {
+    "en": "A Small World"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "980f06c1-83f5-4eb0-8f1d-eed9caa9c692",
    "title": {
     "en": "Watashi no Hakoniwa"
@@ -82,23 +92,12 @@
    ]
   },
   {
-   "id": "df311dc4-d7d6-45d3-9837-b1865a776111",
-   "title": {
-    "en": "A Small World"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "97a1c13d-0443-4e12-8a86-ad84d1c18c17",
    "title": {
     "en": "Bodyguard"
    },
    "contentRating": "safe",
-   "score": 0.23741129,
+   "score": 0.2349764,
    "languages": [
     "en"
    ]
@@ -109,7 +108,7 @@
     "en": "Replica"
    },
    "contentRating": "safe",
-   "score": 0.21937281,
+   "score": 0.21778546,
    "languages": [
     "ru",
     "en"
@@ -129,35 +128,14 @@
    ]
   },
   {
-   "id": "59610b00-6072-4f77-ad80-c6989f7a2bee",
+   "id": "599672ca-1633-4d25-9045-88813d63d951",
    "title": {
-    "en": "Magical Hero Hour"
+    "en": "Nettai Deracine Houshokuten"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21573077,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37b1909b-3419-41bd-bffd-8b60d4708091",
-   "title": {
-    "en": "Akuma Yashiki no Kyouikugakari"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "557e421e-90d6-4f95-94bd-b78c0a87f8f9",
-   "title": {
-    "en": "Kiruza King"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -175,21 +153,43 @@
    ]
   },
   {
-   "id": "480c872d-31b5-4f2e-a098-fba7b6a7a8ee",
+   "id": "3730920b-499d-4052-901c-025bab17e11f",
    "title": {
-    "en": "Jewel to Canary"
+    "en": "Amai Cheri wo Ageru"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "en",
-    "bg"
+    "es-la",
+    "en"
    ]
   },
   {
-   "id": "c22275fe-3f06-44e4-97d6-66ffa0c8688f",
+   "id": "557e421e-90d6-4f95-94bd-b78c0a87f8f9",
    "title": {
-    "en": "Sunflower"
+    "en": "Kiruza King"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a6977664-adf1-4344-83b1-bee4e749682c",
+   "title": {
+    "en": "Kaitou Magu no Ichibushijuu"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a72b8c10-6cc5-4aa0-b286-f7a96af7836b",
+   "title": {
+    "en": "Albireo in the Night Sky"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -198,5 +198,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:32+00:00"
+ "updatedAt": "2023-12-10T18:26:39+00:00"
 }

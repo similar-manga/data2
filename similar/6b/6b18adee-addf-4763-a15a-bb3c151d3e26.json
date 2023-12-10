@@ -11,7 +11,7 @@
     "en": "Kunoichi Ibun - An Angel Has Flown Down"
    },
    "contentRating": "safe",
-   "score": 0.25404748
+   "score": 0.25217676
   },
   {
    "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
@@ -19,7 +19,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.24753167,
+   "score": 0.24724735,
    "languages": [
     "pt-br",
     "en",
@@ -34,7 +34,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.24237876,
+   "score": 0.24128065,
    "languages": [
     "en",
     "it",
@@ -53,12 +53,24 @@
    ]
   },
   {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.23731183,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "fc3d7979-7aa9-4417-b289-ffc8c5057c98",
    "title": {
     "en": "Africa Army Corps"
    },
    "contentRating": "safe",
-   "score": 0.23702726
+   "score": 0.23689006
   },
   {
    "id": "e39991fd-699b-4477-82cc-87b7dcb8bbb3",
@@ -66,7 +78,15 @@
     "en": "Inui and Tatsumi: Secret History of the Siberian Intervention"
    },
    "contentRating": "safe",
-   "score": 0.23577693
+   "score": 0.23602027
+  },
+  {
+   "id": "00fb4d6e-6b8f-417d-a0ed-78d1217a70d8",
+   "title": {
+    "en": "Kaze no Yari"
+   },
+   "contentRating": "safe",
+   "score": 0.23191069
   },
   {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
@@ -74,7 +94,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.23149385,
+   "score": 0.23102108,
    "languages": [
     "zh-hk",
     "en",
@@ -99,7 +119,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.22357383,
+   "score": 0.22381175,
    "languages": [
     "en"
    ]
@@ -124,7 +144,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.22175962
+   "score": 0.22096793
   },
   {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
@@ -132,10 +152,18 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.21979101,
+   "score": 0.21978168,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a4f9c8dc-e09a-401e-8c71-feb4deed1ba9",
+   "title": {
+    "en": "Dobaku no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.21938775
   },
   {
    "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
@@ -143,9 +171,20 @@
     "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.21925846,
+   "score": 0.21825248,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6aa049b7-a8b8-4b42-a831-a3e8267b39ad",
+   "title": {
+    "en": "Legend of the Galactic Heroes - Portraits of Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.215707,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -154,69 +193,11 @@
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.21555035,
+   "score": 0.21558806,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
-   "title": {
-    "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
-   },
-   "contentRating": "safe",
-   "score": 0.2124472,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar",
-    "id",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.20816237,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "8211bac6-a392-4e37-b3b6-dac0f4512d24",
-   "title": {
-    "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou"
-   },
-   "contentRating": "safe",
-   "score": 0.20708804,
-   "languages": [
-    "ru",
-    "it",
-    "en",
-    "id",
-    "pt-br",
-    "es",
-    "vi"
-   ]
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.20316496,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:00+00:00"
+ "updatedAt": "2023-12-10T18:19:54+00:00"
 }

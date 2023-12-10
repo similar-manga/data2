@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "365ddd84-3734-48c0-ab5f-e225c300372f",
+   "title": {
+    "en": "The Great Surgeon"
+   },
+   "contentRating": "safe",
+   "score": 0.4752063,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f19ee5ce-5b4a-4808-ba31-9374fa7900c2",
    "title": {
     "en": "Medical Return"
    },
    "contentRating": "safe",
-   "score": 0.3679948,
+   "score": 0.36358067,
    "languages": [
     "ru",
     "pt-br",
@@ -25,7 +36,7 @@
     "en": "Level-Up Doctor"
    },
    "contentRating": "safe",
-   "score": 0.34584028,
+   "score": 0.33920324,
    "languages": [
     "en",
     "it"
@@ -37,7 +48,7 @@
     "en": "Absolute Sword Sense"
    },
    "contentRating": "safe",
-   "score": 0.29091427,
+   "score": 0.28988895,
    "languages": [
     "en",
     "pt-br",
@@ -46,12 +57,23 @@
    ]
   },
   {
+   "id": "25552d93-495d-4f93-9872-340abe7392a0",
+   "title": {
+    "en": "Peculiar Tales of Swords and Blades"
+   },
+   "contentRating": "safe",
+   "score": 0.28676248,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7155ec9f-2941-4cd7-93af-71a5c4da79b4",
    "title": {
     "en": "Past Lives of the Thunder God"
    },
    "contentRating": "safe",
-   "score": 0.27975765,
+   "score": 0.27955952,
    "languages": [
     "en",
     "fr",
@@ -64,7 +86,7 @@
     "en": "The Heavenly Demon Can't Live a Normal Life"
    },
    "contentRating": "safe",
-   "score": 0.27843064,
+   "score": 0.2789044,
    "languages": [
     "pt-br",
     "fr",
@@ -78,7 +100,31 @@
     "en": "Rebirth After A Thousand Years"
    },
    "contentRating": "safe",
-   "score": 0.2782413,
+   "score": 0.27876145,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ecdb9e53-4cfd-4633-bb02-b7e5115e01d8",
+   "title": {
+    "en": "Dr. Player"
+   },
+   "contentRating": "safe",
+   "score": 0.27790776,
+   "languages": [
+    "pl",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "d3418314-9389-4ffc-a976-13d9ebba6546",
+   "title": {
+    "en": "Falling Flower, Flowing Water"
+   },
+   "contentRating": "safe",
+   "score": 0.27553672,
    "languages": [
     "en"
    ]
@@ -89,18 +135,18 @@
     "en": "Physician Return"
    },
    "contentRating": "safe",
-   "score": 0.27823147,
+   "score": 0.27417845,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d3418314-9389-4ffc-a976-13d9ebba6546",
+   "id": "ce008353-5128-4f04-80d1-7f0be0086d0e",
    "title": {
-    "en": "Falling Flower, Flowing Water"
+    "en": "Heavenly Martial God"
    },
    "contentRating": "safe",
-   "score": 0.27587047,
+   "score": 0.27147642,
    "languages": [
     "en"
    ]
@@ -111,33 +157,10 @@
     "en": "Three Kingdoms"
    },
    "contentRating": "safe",
-   "score": 0.27171314,
+   "score": 0.27005422,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "ce008353-5128-4f04-80d1-7f0be0086d0e",
-   "title": {
-    "en": "Heavenly Martial God"
-   },
-   "contentRating": "safe",
-   "score": 0.2715803,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "04340d4b-185e-4b49-8af3-4b1d7665476b",
-   "title": {
-    "en": "Perfect Surgeon"
-   },
-   "contentRating": "safe",
-   "score": 0.26861385,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -146,7 +169,7 @@
     "en": "Kill the Emperor"
    },
    "contentRating": "safe",
-   "score": 0.2684583,
+   "score": 0.268186,
    "languages": [
     "en"
    ]
@@ -157,54 +180,28 @@
     "en": "Revenge of Young Master Peng"
    },
    "contentRating": "safe",
-   "score": 0.26706743,
+   "score": 0.2677704,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e0966537-58a1-421b-8ea9-3e7f02d703c4",
+   "id": "1cec5419-b190-4b67-a98c-533da2b4c835",
    "title": {
-    "en": "The Hero Returns"
+    "en": "Child of Light"
    },
    "contentRating": "safe",
-   "score": 0.2652507,
+   "score": 0.2661903,
    "languages": [
     "pt-br",
     "en",
+    "pl",
+    "ru",
     "id",
     "fr",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "a4566b91-7b3b-44fa-bb31-97d856fe04df",
-   "title": {
-    "en": "Journey to the World Sword"
-   },
-   "contentRating": "safe",
-   "score": 0.26206222,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e769716-df1e-4d66-89cc-32f3b46e17dc",
-   "title": {
-    "en": "Damn Reincarnation"
-   },
-   "contentRating": "safe",
-   "score": 0.25974658,
-   "languages": [
-    "en",
-    "pt-br",
-    "it",
-    "fr",
-    "pl",
-    "uk"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:20+00:00"
+ "updatedAt": "2023-12-10T18:36:16+00:00"
 }

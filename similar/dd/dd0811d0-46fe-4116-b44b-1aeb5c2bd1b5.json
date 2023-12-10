@@ -6,27 +6,27 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "69208b73-96bb-44b1-999e-9df18e13a2e9",
-   "title": {
-    "en": "The Villain King's Proposal"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23874952,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
    "id": "b7cad75f-b87b-4250-8b2d-0727419e471c",
    "title": {
     "en": "The God of \"Game of Gods\""
    },
    "contentRating": "suggestive",
-   "score": 0.23314291,
+   "score": 0.23135848,
    "languages": [
     "en",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "69208b73-96bb-44b1-999e-9df18e13a2e9",
+   "title": {
+    "en": "The Villain King's Proposal"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23059729,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Hand over the Money!"
    },
    "contentRating": "suggestive",
-   "score": 0.22146715,
+   "score": 0.2205048,
    "languages": [
     "en",
     "fr",
@@ -48,7 +48,7 @@
     "en": "Returned from Hell"
    },
    "contentRating": "suggestive",
-   "score": 0.22071029,
+   "score": 0.22017652,
    "languages": [
     "en"
    ]
@@ -59,7 +59,7 @@
     "en": "My Sinister Lover"
    },
    "contentRating": "suggestive",
-   "score": 0.21064508,
+   "score": 0.21037315,
    "languages": [
     "en",
     "ar"
@@ -71,19 +71,7 @@
     "en": "Reincarnated to Be the Wicked Maid at the Main Lead's Side"
    },
    "contentRating": "suggestive",
-   "score": 0.20047776,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "8906c3da-6169-4991-958a-81e07c019e6c",
-   "title": {
-    "en": "I Am the King"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19759943,
+   "score": 0.199187,
    "languages": [
     "en",
     "id"
@@ -102,25 +90,37 @@
    ]
   },
   {
-   "id": "824ead97-8902-403b-9043-cd9e303c71c6",
-   "title": {
-    "en": "Hidden player"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19495168,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "999f66de-0f9c-4acc-afe9-9622038a22ee",
    "title": {
     "en": "Remote Sister Battles"
    },
    "contentRating": "suggestive",
-   "score": 0.19476984,
+   "score": 0.19402109,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "824ead97-8902-403b-9043-cd9e303c71c6",
+   "title": {
+    "en": "Hidden player"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1938286,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8906c3da-6169-4991-958a-81e07c019e6c",
+   "title": {
+    "en": "I Am the King"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19347559,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -140,7 +140,7 @@
     "en": "Decide to Be a Villain"
    },
    "contentRating": "suggestive",
-   "score": 0.19262823,
+   "score": 0.19235417,
    "languages": [
     "en"
    ]
@@ -151,7 +151,7 @@
     "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands"
    },
    "contentRating": "suggestive",
-   "score": 0.19012177,
+   "score": 0.1891281,
    "languages": [
     "es",
     "vi",
@@ -176,12 +176,23 @@
    ]
   },
   {
+   "id": "c7714d66-af40-4ab6-af91-6dd1d159427d",
+   "title": {
+    "en": "Quest Musou - Ore dake ga Tsukaeru Cheat Skill"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18676972,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b35f67b6-bfb9-4cbd-86f0-621f37e6cb41",
    "title": {
     "en": "Tomodachi Game"
    },
    "contentRating": "suggestive",
-   "score": 0.18760213,
+   "score": 0.18609798,
    "languages": [
     "pt-br",
     "fr",
@@ -191,17 +202,6 @@
     "fa",
     "ar",
     "it"
-   ]
-  },
-  {
-   "id": "c7714d66-af40-4ab6-af91-6dd1d159427d",
-   "title": {
-    "en": "Quest Musou - Ore dake ga Tsukaeru Cheat Skill"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18737113,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -216,5 +216,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:53+00:00"
+ "updatedAt": "2023-12-10T18:32:46+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Kirara no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.29621926,
+   "score": 0.29160938,
    "languages": [
     "en"
    ]
@@ -40,26 +40,26 @@
    ]
   },
   {
-   "id": "35a42a98-5aaa-4518-b1cb-6b89a0ec635f",
-   "title": {
-    "en": "I Know You Won’t Stop"
-   },
-   "contentRating": "safe",
-   "score": 0.2777214,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "87ebb83f-4e9d-47cd-8a48-c9bb5fd9c42b",
    "title": {
     "en": "The Things I Hate About You"
    },
    "contentRating": "safe",
-   "score": 0.27741003,
+   "score": 0.27673447,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "35a42a98-5aaa-4518-b1cb-6b89a0ec635f",
+   "title": {
+    "en": "I Know You Won’t Stop"
+   },
+   "contentRating": "safe",
+   "score": 0.27669325,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -69,23 +69,9 @@
     "en": "Renzu Goshi ni Oni wa Inai"
    },
    "contentRating": "safe",
-   "score": 0.2710231,
+   "score": 0.27121967,
    "languages": [
     "en",
-    "ko"
-   ]
-  },
-  {
-   "id": "0f8439c0-762f-4801-9d45-a8b482d29dd8",
-   "title": {
-    "en": "Amagoi no Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.26765582,
-   "languages": [
-    "en",
-    "id",
-    "de",
     "ko"
    ]
   },
@@ -95,10 +81,24 @@
     "en": "Tada-san wa Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.266942,
+   "score": 0.2667379,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "0f8439c0-762f-4801-9d45-a8b482d29dd8",
+   "title": {
+    "en": "Amagoi no Kanojo"
+   },
+   "contentRating": "safe",
+   "score": 0.26670024,
+   "languages": [
+    "en",
+    "id",
+    "de",
+    "ko"
    ]
   },
   {
@@ -107,7 +107,7 @@
     "en": "Messing With a Female Friend During Lunch Break"
    },
    "contentRating": "safe",
-   "score": 0.2637973,
+   "score": 0.26387632,
    "languages": [
     "id",
     "en",
@@ -143,45 +143,35 @@
    ]
   },
   {
-   "id": "5410f57c-ab73-433c-9ed5-9adfda857418",
+   "id": "76baa138-ad6c-4d25-8084-fe6a24a45273",
    "title": {
-    "en": "Kawaranai 'Miki'"
+    "en": "Oniyuri-san and Himeyuri-san"
    },
    "contentRating": "safe",
    "score": 0.262938,
    "languages": [
-    "fr",
-    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "1d2967dd-d157-4cbb-84ed-ea7cf7140d14",
+   "title": {
+    "en": "Yume de Furarete Hajimaru Yuri"
+   },
+   "contentRating": "safe",
+   "score": 0.262938,
+   "languages": [
+    "id",
     "en",
-    "pt-br"
+    "ko",
+    "pt-br",
+    "pl"
    ]
   },
   {
-   "id": "bafbd13b-0192-4eda-be72-4951c4fdae58",
+   "id": "c555aad2-ade9-4995-acff-9fbec7e1b140",
    "title": {
-    "en": "Watashi ga Riaru de, Yuri Nante."
-   },
-   "contentRating": "safe",
-   "score": 0.262938,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
-   "title": {
-    "en": "Love Story ~Aiwa~"
-   },
-   "contentRating": "safe",
-   "score": 0.262938,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b36ad5b-808d-4b33-b84a-02ab435f9be6",
-   "title": {
-    "en": "About a Fussy Girl's Yuri"
+    "en": "Ma Chérie"
    },
    "contentRating": "safe",
    "score": 0.262938,
@@ -201,7 +191,18 @@
     "en",
     "de"
    ]
+  },
+  {
+   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
+   "title": {
+    "en": "Love Story ~Aiwa~"
+   },
+   "contentRating": "safe",
+   "score": 0.262938,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:21+00:00"
+ "updatedAt": "2023-12-10T18:12:47+00:00"
 }

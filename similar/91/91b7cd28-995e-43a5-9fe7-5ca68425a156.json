@@ -11,7 +11,18 @@
     "en": "Frame Saber"
    },
    "contentRating": "safe",
-   "score": 0.30201754,
+   "score": 0.31006557,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
+   "title": {
+    "en": "Suzuro's Logfile"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -39,46 +50,12 @@
    ]
   },
   {
-   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
+   "id": "366d164c-d2a4-46b0-876f-933ae69bc1d0",
    "title": {
-    "en": "Suzuro's Logfile"
+    "en": "Roppen"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
-   "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
-   },
-   "contentRating": "safe",
-   "score": 0.24482213,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
-   "title": {
-    "en": "Snowball Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.2374109,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
-   "title": {
-    "en": "Guilty Crown: Dancing Endlaves"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23551162,
    "languages": [
     "en"
    ]
@@ -106,35 +83,68 @@
    ]
   },
   {
+   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
+   "title": {
+    "en": "Ghost in the Shell: Global Neural Network"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
+   "title": {
+    "en": "Guilty Crown: Dancing Endlaves"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b0f2018f-fb23-49a4-89fc-b2ed685e7fd2",
+   "title": {
+    "en": "High School Fleet - Maidens of Loreley"
+   },
+   "contentRating": "safe",
+   "score": 0.23109783,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
+   "title": {
+    "en": "Snowball Earth"
+   },
+   "contentRating": "safe",
+   "score": 0.22933312,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
    "title": {
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.21845818,
+   "score": 0.22555768,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d3b2551e-d1b9-4767-b149-39c52467ee5b",
+   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
    "title": {
-    "en": "Unreal"
+    "en": "Kuusou Kagaku Edison"
    },
    "contentRating": "safe",
-   "score": 0.20987335,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "cda25787-5154-4a96-ba3c-4e7a4e6a9385",
-   "title": {
-    "en": "Kyouran Kazoku Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.21159507,
    "languages": [
     "en"
    ]
@@ -143,6 +153,17 @@
    "id": "e9cc7955-69a8-438e-ad27-9343003506dd",
    "title": {
     "en": "ABLE"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6505b576-7b33-4fbb-b6fe-ef2a212cde34",
+   "title": {
+    "en": "Make way for the☆Super Express"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -160,29 +181,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7d0c9a8d-19f4-401c-b296-5d882c056b96",
-   "title": {
-    "en": "Urthotics"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
-   "title": {
-    "en": "Kuusou Kagaku Edison"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:45+00:00"
+ "updatedAt": "2023-12-10T18:24:29+00:00"
 }

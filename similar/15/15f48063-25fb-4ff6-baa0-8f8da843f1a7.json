@@ -11,7 +11,7 @@
     "en": "Nee Nee, Nene-san."
    },
    "contentRating": "safe",
-   "score": 0.32386047,
+   "score": 0.32219377,
    "languages": [
     "ru",
     "pt-br",
@@ -28,6 +28,20 @@
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "90c4af80-c231-44fd-881a-1c01d783e06e",
+   "title": {
+    "en": "Touta"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -55,26 +69,12 @@
    ]
   },
   {
-   "id": "90c4af80-c231-44fd-881a-1c01d783e06e",
-   "title": {
-    "en": "Touta"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "vi"
-   ]
-  },
-  {
    "id": "699f8a24-aaf9-4a2d-b54b-670d697716b1",
    "title": {
     "en": "Shiawase wo Anata ni"
    },
    "contentRating": "safe",
-   "score": 0.2812279,
+   "score": 0.28185666,
    "languages": [
     "uk",
     "pl",
@@ -93,7 +93,7 @@
     "en": "Maigo Center"
    },
    "contentRating": "safe",
-   "score": 0.27800497,
+   "score": 0.27886927,
    "languages": [
     "en",
     "pt-br",
@@ -107,7 +107,7 @@
     "en": "My Father 68y/o, My Mother 64y/o, Me 24y/o"
    },
    "contentRating": "safe",
-   "score": 0.27359584,
+   "score": 0.27349707,
    "languages": [
     "en",
     "fr"
@@ -119,7 +119,7 @@
     "en": "0°C no Mahou"
    },
    "contentRating": "safe",
-   "score": 0.27307114,
+   "score": 0.2729605,
    "languages": [
     "tr",
     "de",
@@ -137,7 +137,7 @@
     "en": "The Story of a Boy Who Wants to be a Girl"
    },
    "contentRating": "safe",
-   "score": 0.27261865,
+   "score": 0.27140513,
    "languages": [
     "ru",
     "en"
@@ -149,7 +149,7 @@
     "en": "Koukai no Nai Jinsei wo"
    },
    "contentRating": "safe",
-   "score": 0.26799893,
+   "score": 0.26753503,
    "languages": [
     "pt-br",
     "ru",
@@ -166,61 +166,64 @@
     "en": "The Two With the Wall"
    },
    "contentRating": "safe",
-   "score": 0.26110852,
+   "score": 0.2602907,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "e6afe37a-a25a-44a0-a6b6-9e70bb7ce7a9",
+   "id": "8c870620-4a00-4f77-ac02-dcf9571a5088",
    "title": {
-    "en": "A Cuckolding Manga"
+    "en": "Ponkotsu no Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.24884987,
+   "languages": [
+    "fr",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "3596da75-c2b2-481b-a00d-2225449a0c51",
+   "title": {
+    "en": "Rain or Shine"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en",
+    "ar",
     "vi",
+    "en",
     "pt-br"
    ]
   },
   {
-   "id": "e40ec4c3-17a4-4de6-b7ea-706e9a1b02a4",
+   "id": "d028c78c-0f85-4f43-bd4a-819957fe25f4",
    "title": {
-    "en": "Nonchalant Fuuko-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "5393909a-8f38-4a8e-8dd0-5b7b4dd98dcb",
-   "title": {
-    "en": "Umareta Imi Nado Nakatta"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "77cd186d-0a3f-4f24-9cdd-505c1fa9d245",
-   "title": {
-    "en": "Your Girlfriend Is About to Do Something Super Amazing"
+    "en": "Natsu no Kizu"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en",
-    "es-la",
-    "id"
+    "fr",
+    "uk"
+   ]
+  },
+  {
+   "id": "c3e50f75-2848-4558-9c03-88d8674693a0",
+   "title": {
+    "en": "A Walk on Rainy Day"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "id",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:36+00:00"
+ "updatedAt": "2023-12-10T18:10:41+00:00"
 }

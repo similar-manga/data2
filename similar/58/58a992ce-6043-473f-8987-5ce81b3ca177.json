@@ -6,29 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "05916f07-c291-4c89-b59b-4ed12aded77b",
+   "title": {
+    "en": "Osananajimi ga Kaeru ni Natteyattekita"
+   },
+   "contentRating": "safe",
+   "score": 0.353253,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2c1439fc-0473-4f4a-ad0d-68705f4e597b",
    "title": {
     "en": "Meimu"
    },
    "contentRating": "safe",
-   "score": 0.35106337,
+   "score": 0.35252115,
    "languages": [
     "tr",
     "en"
-   ]
-  },
-  {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Fukugaeru"
-   },
-   "contentRating": "safe",
-   "score": 0.34399018,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de"
    ]
   },
   {
@@ -37,10 +34,35 @@
     "en": "Soshite Hibi Koishiteku"
    },
    "contentRating": "safe",
-   "score": 0.33887145,
+   "score": 0.3416227,
    "languages": [
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
+   "title": {
+    "en": "Fukugaeru"
+   },
+   "contentRating": "safe",
+   "score": 0.33849326,
+   "languages": [
+    "bg",
+    "en",
+    "pl",
+    "de"
+   ]
+  },
+  {
+   "id": "578451b2-be92-4f2a-8ec8-69a5b30aec84",
+   "title": {
+    "en": "Panda x Red Panda"
+   },
+   "contentRating": "safe",
+   "score": 0.32386342,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -49,7 +71,7 @@
     "en": "Kodomo ga Neta Ato de"
    },
    "contentRating": "safe",
-   "score": 0.32081982,
+   "score": 0.31941876,
    "languages": [
     "pl",
     "en",
@@ -62,7 +84,7 @@
     "en": "Kimi wa Boku no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.30866733,
+   "score": 0.31190997,
    "languages": [
     "uk",
     "bg",
@@ -76,7 +98,7 @@
     "en": "Soshite Tsuzuki ga Aru no Nara"
    },
    "contentRating": "safe",
-   "score": 0.30533758,
+   "score": 0.30772337,
    "languages": [
     "en"
    ]
@@ -87,7 +109,7 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.29092565,
+   "score": 0.29250836,
    "languages": [
     "en",
     "pl",
@@ -119,17 +141,6 @@
    ]
   },
   {
-   "id": "7014040d-cb00-4215-bde0-516a28f4fc5a",
-   "title": {
-    "en": "Something Happening"
-   },
-   "contentRating": "safe",
-   "score": 0.284093,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
    "title": {
     "en": "Gimmick"
@@ -143,12 +154,12 @@
    ]
   },
   {
-   "id": "ed6a83d1-7ca2-4e94-9df9-2f841f7bff85",
+   "id": "7014040d-cb00-4215-bde0-516a28f4fc5a",
    "title": {
-    "en": "Dare mo ga Aisaretagari no"
+    "en": "Something Happening"
    },
    "contentRating": "safe",
-   "score": 0.27229038,
+   "score": 0.284093,
    "languages": [
     "en"
    ]
@@ -159,45 +170,34 @@
     "en": "The Green Chair"
    },
    "contentRating": "safe",
-   "score": 0.2717842,
+   "score": 0.27547845,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2f0978eb-1e77-40da-ace6-30e1a04a0b7b",
+   "id": "866b3256-125d-4527-be9c-952cd7c89ea6",
    "title": {
-    "en": "Lunch Time!"
+    "en": "Zettai BL ni Naru Sekai vs. Zettai BL ni Naritakunai Otoko"
    },
    "contentRating": "safe",
-   "score": 0.26905996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "12a7bc68-8f29-4a2a-936b-62a04ea11c28",
-   "title": {
-    "en": "Endo Ryoko Doesn't Hold Back"
-   },
-   "contentRating": "safe",
-   "score": 0.26669014,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "00fc012b-8d52-489c-9529-ee60934cbb0e",
-   "title": {
-    "en": "Keron"
-   },
-   "contentRating": "safe",
-   "score": 0.2658909,
+   "score": 0.27282992,
    "languages": [
     "en",
-    "pl"
+    "es-la"
+   ]
+  },
+  {
+   "id": "ed6a83d1-7ca2-4e94-9df9-2f841f7bff85",
+   "title": {
+    "en": "Dare mo ga Aisaretagari no"
+   },
+   "contentRating": "safe",
+   "score": 0.27168277,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:16+00:00"
+ "updatedAt": "2023-12-10T18:17:55+00:00"
 }

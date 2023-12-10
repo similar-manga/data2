@@ -11,7 +11,7 @@
     "en": "Yoru Naku Suzume"
    },
    "contentRating": "safe",
-   "score": 0.33606148,
+   "score": 0.3322702,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Nanika ga Michi wo Soreteyattekuru"
    },
    "contentRating": "safe",
-   "score": 0.2910023,
+   "score": 0.28576735,
    "languages": [
     "fr",
     "it",
@@ -33,14 +33,16 @@
    ]
   },
   {
-   "id": "5c00adc1-15da-4d11-bb0f-f5eb043e1789",
+   "id": "60294a05-0458-4303-b16c-de2728b09297",
    "title": {
-    "en": "Song of Heaven and Earth"
+    "en": "Angel Beats! The Last Operation"
    },
    "contentRating": "safe",
-   "score": 0.25556716,
+   "score": 0.27158007,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -49,7 +51,18 @@
     "en": "Wrong Soul"
    },
    "contentRating": "safe",
-   "score": 0.2546916,
+   "score": 0.25443447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5c00adc1-15da-4d11-bb0f-f5eb043e1789",
+   "title": {
+    "en": "Song of Heaven and Earth"
+   },
+   "contentRating": "safe",
+   "score": 0.25435176,
    "languages": [
     "en"
    ]
@@ -60,7 +73,7 @@
     "en": "Watashi no Hakoniwa"
    },
    "contentRating": "safe",
-   "score": 0.25265336,
+   "score": 0.2525369,
    "languages": [
     "en",
     "pl"
@@ -72,7 +85,29 @@
     "en": "A Small World"
    },
    "contentRating": "safe",
-   "score": 0.25257963,
+   "score": 0.2519653,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f56cd25c-8b23-4936-ba0b-f194e60855f7",
+   "title": {
+    "en": "Heavenly Eats"
+   },
+   "contentRating": "safe",
+   "score": 0.24987291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a6f4ac8-8a28-424b-ae5c-4f96c542e79c",
+   "title": {
+    "en": "The Pinnacle Doctor"
+   },
+   "contentRating": "safe",
+   "score": 0.24550036,
    "languages": [
     "en"
    ]
@@ -83,7 +118,7 @@
     "en": "Angelmois Please"
    },
    "contentRating": "safe",
-   "score": 0.24609604,
+   "score": 0.24537095,
    "languages": [
     "en"
    ]
@@ -94,7 +129,7 @@
     "en": "Jigomezuki!!"
    },
    "contentRating": "safe",
-   "score": 0.24558578,
+   "score": 0.24497324,
    "languages": [
     "en"
    ]
@@ -105,24 +140,11 @@
     "en": "An Angel in the Library"
    },
    "contentRating": "safe",
-   "score": 0.24400155,
+   "score": 0.24486572,
    "languages": [
     "vi",
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
-   "title": {
-    "en": "Tengoku no Honya"
-   },
-   "contentRating": "safe",
-   "score": 0.24366635,
-   "languages": [
-    "de",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -131,11 +153,24 @@
     "en": "Orthoros"
    },
    "contentRating": "safe",
-   "score": 0.243237,
+   "score": 0.242115,
    "languages": [
     "ru",
     "hu",
     "en"
+   ]
+  },
+  {
+   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
+   "title": {
+    "en": "Tengoku no Honya"
+   },
+   "contentRating": "safe",
+   "score": 0.24183892,
+   "languages": [
+    "de",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -144,18 +179,7 @@
     "en": "Yoru to Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.2417065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "02d23572-90bd-4c2d-9ecf-fc8ee4db11b6",
-   "title": {
-    "en": "Talking Arrogantly"
-   },
-   "contentRating": "safe",
-   "score": 0.24062529,
+   "score": 0.24150385,
    "languages": [
     "en"
    ]
@@ -166,36 +190,13 @@
     "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
-   "score": 0.24021643,
+   "score": 0.23993714,
    "languages": [
     "ro",
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "cc757f42-773d-43e1-abb3-8a3bdbd14213",
-   "title": {
-    "en": "Majikaru Musou Tenshi Tsuki Irase!! Ryofuko-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.23875275,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
-   "title": {
-    "en": "V no Akuma"
-   },
-   "contentRating": "safe",
-   "score": 0.23666888,
-   "languages": [
-    "fr",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:18+00:00"
+ "updatedAt": "2023-12-10T18:36:12+00:00"
 }

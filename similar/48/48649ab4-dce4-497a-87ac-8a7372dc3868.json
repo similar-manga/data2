@@ -11,7 +11,7 @@
     "en": "The Small Tatami of the Great Plain"
    },
    "contentRating": "suggestive",
-   "score": 0.31204864
+   "score": 0.31639156
   },
   {
    "id": "c4d0c41b-5f1a-4f72-909c-c4d67278bf78",
@@ -19,7 +19,7 @@
     "en": "Showa Phantoms - Those Unforgettable Guys"
    },
    "contentRating": "suggestive",
-   "score": 0.2246203
+   "score": 0.22553323
   },
   {
    "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
@@ -39,7 +39,7 @@
     "en": "Grenadier"
    },
    "contentRating": "suggestive",
-   "score": 0.20966142,
+   "score": 0.2062864,
    "languages": [
     "en"
    ]
@@ -50,7 +50,7 @@
     "en": "Mobile Suit Gundam Rust Horizon"
    },
    "contentRating": "suggestive",
-   "score": 0.19903217
+   "score": 0.19865496
   },
   {
    "id": "46639685-4050-4a96-925b-0b39790bfbe2",
@@ -80,23 +80,12 @@
    ]
   },
   {
-   "id": "d6d02749-baf1-4749-9fc0-c8969733578f",
-   "title": {
-    "en": "Gun Dragon II"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18018569,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6558d34f-f0b2-40ec-9705-88042d4aa2eb",
    "title": {
     "en": "Daughter of the Tiger"
    },
    "contentRating": "suggestive",
-   "score": 0.17987314
+   "score": 0.18163443
   },
   {
    "id": "53f750df-53b0-4823-aa7b-0d69b90d853a",
@@ -110,12 +99,15 @@
    ]
   },
   {
-   "id": "a19744cb-143e-4cfd-8627-385d66aec964",
+   "id": "d6d02749-baf1-4749-9fc0-c8969733578f",
    "title": {
-    "en": "Gun Driver"
+    "en": "Gun Dragon II"
    },
    "contentRating": "suggestive",
-   "score": 0.1773307
+   "score": 0.17660947,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "cf941ac2-4323-4a2e-a44c-81334575e7ec",
@@ -123,10 +115,18 @@
     "en": "Dead Soul Revolver"
    },
    "contentRating": "suggestive",
-   "score": 0.17527281,
+   "score": 0.17296584,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a19744cb-143e-4cfd-8627-385d66aec964",
+   "title": {
+    "en": "Gun Driver"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1728854
   },
   {
    "id": "4abc9504-d465-40b3-a7c5-47b60c51c03b",
@@ -134,21 +134,9 @@
     "en": "Space Hero Story"
    },
    "contentRating": "suggestive",
-   "score": 0.17308842,
+   "score": 0.17240994,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "be7dda55-4eb6-4a73-92a7-21e5e8faf0a5",
-   "title": {
-    "en": "Isekai Shoukan Oji-san no Juumusou Life - Sabage Suki Salaryman wa Kaisha Owari ni Isekai e Chokki suru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1720021,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -158,7 +146,19 @@
    },
    "contentRating": "suggestive",
    "score": 0.17055961
+  },
+  {
+   "id": "be7dda55-4eb6-4a73-92a7-21e5e8faf0a5",
+   "title": {
+    "en": "Isekai Shoukan Oji-san no Juumusou Life - Sabage Suki Salaryman wa Kaisha Owari ni Isekai e Chokki suru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16907138,
+   "languages": [
+    "en",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:34+00:00"
+ "updatedAt": "2023-12-10T18:16:09+00:00"
 }

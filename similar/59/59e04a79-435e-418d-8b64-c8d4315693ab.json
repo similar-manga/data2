@@ -11,7 +11,7 @@
     "en": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita"
    },
    "contentRating": "safe",
-   "score": 0.33646962,
+   "score": 0.33014524,
    "languages": [
     "pt-br",
     "en",
@@ -26,18 +26,18 @@
     "en": "The Isekai Life of Former Demon King Ran-chan"
    },
    "contentRating": "safe",
-   "score": 0.32059503,
+   "score": 0.3102267,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6d86341c-0d7f-4a27-adfc-92d6a7071799",
+   "id": "8cc5cc11-558f-4f47-acde-a2576ae8f9b2",
    "title": {
-    "en": "Youjo Musou: Nakama ni Uragirareta Shoukanshi, Mazoku no Oujo ni Natte \"Eirei Shoukan\" de Dekiai Slow Life wo Okuru"
+    "en": "Demon Lord of the Northern Night"
    },
    "contentRating": "safe",
-   "score": 0.31442514,
+   "score": 0.30927888,
    "languages": [
     "en"
    ]
@@ -48,7 +48,7 @@
     "en": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru"
    },
    "contentRating": "safe",
-   "score": 0.3122358,
+   "score": 0.30857867,
    "languages": [
     "fr",
     "es-la",
@@ -60,12 +60,36 @@
    ]
   },
   {
+   "id": "6d86341c-0d7f-4a27-adfc-92d6a7071799",
+   "title": {
+    "en": "Youjo Musou: Nakama ni Uragirareta Shoukanshi, Mazoku no Oujo ni Natte \"Eirei Shoukan\" de Dekiai Slow Life wo Okuru"
+   },
+   "contentRating": "safe",
+   "score": 0.30788335,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb5bc78f-2215-4b37-8161-6d06d19e45a9",
+   "title": {
+    "en": "Taimashi to Akuma-chan (pixiv)"
+   },
+   "contentRating": "safe",
+   "score": 0.29303473,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "69e218ec-93eb-4025-ae39-33d47b1160e0",
    "title": {
     "en": "Demonic Emperor"
    },
    "contentRating": "safe",
-   "score": 0.2971973,
+   "score": 0.29238713,
    "languages": [
     "en",
     "fr",
@@ -78,29 +102,48 @@
    ]
   },
   {
-   "id": "8b397303-76b3-45d9-8a52-a0003e09fcdb",
+   "id": "16a415d2-f334-4c40-a28b-1d5f16e89f35",
    "title": {
-    "en": "Isekai de Item Collector"
+    "en": "When I Went to Another World, My Little Sister Was Already Reigning as the Demon Lord"
    },
    "contentRating": "safe",
-   "score": 0.2877704,
+   "score": 0.2896757,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9b931daa-e64c-405f-9808-124e38b624aa",
+   "id": "a3b75737-7783-4967-969a-278161c78b09",
    "title": {
-    "en": "Doryoku Shisugita Sekai Saikyou no Butouka ha, Mahou Sekai wo Yoyuu de Ikinuku."
+    "en": "Dogs and Heroes Don't Dress Up"
    },
    "contentRating": "safe",
-   "score": 0.28569776,
+   "score": 0.28486294,
    "languages": [
-    "en",
-    "id",
-    "pt-br",
     "es-la",
-    "ru"
+    "en"
+   ]
+  },
+  {
+   "id": "8b397303-76b3-45d9-8a52-a0003e09fcdb",
+   "title": {
+    "en": "Isekai de Item Collector"
+   },
+   "contentRating": "safe",
+   "score": 0.28431323,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b72b5fd0-a5da-4ed2-899c-6cb27d6135db",
+   "title": {
+    "en": "Taimashi to Akuma-chan  (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.2829923,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -109,7 +152,7 @@
     "en": "Level 0 no Maou-sama, Isekai de Boukensha wo Hajimemasu"
    },
    "contentRating": "safe",
-   "score": 0.28423676,
+   "score": 0.28216434,
    "languages": [
     "ru",
     "en",
@@ -119,108 +162,57 @@
    ]
   },
   {
+   "id": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
+   "title": {
+    "en": "Maou no Jinji"
+   },
+   "contentRating": "safe",
+   "score": 0.2818217,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "9b931daa-e64c-405f-9808-124e38b624aa",
+   "title": {
+    "en": "Doryoku Shisugita Sekai Saikyou no Butouka ha, Mahou Sekai wo Yoyuu de Ikinuku."
+   },
+   "contentRating": "safe",
+   "score": 0.2805966,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "53282330-8754-44db-943f-958a6620b401",
+   "title": {
+    "en": "Ossan, Yuusha to Maou wo Hirou"
+   },
+   "contentRating": "safe",
+   "score": 0.2804611,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "47639108-3f64-4515-843f-6283b86dab3f",
    "title": {
     "en": "A Single Aristocrat Enjoys a Different World: The Graceful Life of a Man Who Never Gets Married"
    },
    "contentRating": "safe",
-   "score": 0.2801982,
+   "score": 0.27805698,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "96582a77-8efd-4a5d-a479-f79645dbd73e",
-   "title": {
-    "en": "Grimoire x Reverse - Tensei Kishin Roumantan"
-   },
-   "contentRating": "safe",
-   "score": 0.27752724,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8de0f430-d87b-4195-bff0-5f9423f3d84f",
-   "title": {
-    "en": "Kamigoroshi no Maou, Saijyaku Shuzoku ni Tensei shi Shijyou Saikyou ni naru"
-   },
-   "contentRating": "safe",
-   "score": 0.27465513,
-   "languages": [
-    "en",
-    "fr",
-    "tr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "08a58ea9-d768-4359-a116-97f5c93407c5",
-   "title": {
-    "en": "Demon Lord Exchange!!"
-   },
-   "contentRating": "safe",
-   "score": 0.2721096,
-   "languages": [
-    "vi",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
-   "title": {
-    "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
-   },
-   "contentRating": "safe",
-   "score": 0.26768547,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "2f90e7e5-16b4-41f5-b717-137cf9783b5b",
-   "title": {
-    "en": "Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole"
-   },
-   "contentRating": "safe",
-   "score": 0.26647088,
-   "languages": [
-    "en",
-    "id",
-    "th"
-   ]
-  },
-  {
-   "id": "ad59c8bb-e645-41d2-bc16-65b1b94cafd6",
-   "title": {
-    "en": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life"
-   },
-   "contentRating": "safe",
-   "score": 0.26536238,
-   "languages": [
-    "es-la",
-    "en",
-    "es",
-    "fr",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
-   "title": {
-    "en": "Kishin Douji Zenki"
-   },
-   "contentRating": "safe",
-   "score": 0.26034987,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:19+00:00"
+ "updatedAt": "2023-12-10T18:18:03+00:00"
 }

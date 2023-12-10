@@ -11,7 +11,18 @@
     "en": "Taki The Apple Thief"
    },
    "contentRating": "safe",
-   "score": 0.31004208,
+   "score": 0.30971712,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ea320c32-ea22-4550-a7e3-88d63ef8f4a4",
+   "title": {
+    "en": "Apple Age"
+   },
+   "contentRating": "safe",
+   "score": 0.2752478,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "The Witch and Me"
    },
    "contentRating": "safe",
-   "score": 0.25286764,
+   "score": 0.25252628,
    "languages": [
     "fr",
     "tr",
@@ -35,7 +46,7 @@
     "en": "To My Sister"
    },
    "contentRating": "safe",
-   "score": 0.23633003,
+   "score": 0.23329256,
    "languages": [
     "pl",
     "tr",
@@ -50,7 +61,7 @@
     "en": "Arcana 16 - Fairy Tales / Nursery Tales"
    },
    "contentRating": "safe",
-   "score": 0.22836834,
+   "score": 0.2235101,
    "languages": [
     "en",
     "hu",
@@ -64,18 +75,7 @@
     "en": "Fight! Super Robot Lifeform Transformers Scramble Comic"
    },
    "contentRating": "safe",
-   "score": 0.21889411,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a175d275-1413-486f-9378-46a87b2789dc",
-   "title": {
-    "en": "Tales of the World - Radiant Mythology 3: Hajimari no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.21653989,
+   "score": 0.21828075,
    "languages": [
     "en"
    ]
@@ -101,7 +101,29 @@
     "en": "Eve's Apple (HIRAHARA Shidare)"
    },
    "contentRating": "safe",
-   "score": 0.2135744,
+   "score": 0.21153915,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a175d275-1413-486f-9378-46a87b2789dc",
+   "title": {
+    "en": "Tales of the World - Radiant Mythology 3: Hajimari no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.20935465,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c566c1a-4036-4939-809b-5f451e8f282a",
+   "title": {
+    "en": "Dream Maker"
+   },
+   "contentRating": "safe",
+   "score": 0.20857283,
    "languages": [
     "en"
    ]
@@ -112,23 +134,21 @@
     "en": "Alice's Dream Files"
    },
    "contentRating": "safe",
-   "score": 0.21120511,
+   "score": 0.20826781,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "d0752cb8-62fa-4f0d-9f42-e55d58d2da68",
+   "id": "cbc2b50f-f398-4774-abee-9e8a5ce27964",
    "title": {
-    "en": "The Fairy and the Hunter"
+    "en": "Gihren’s Greed Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.20151658,
+   "score": 0.20632763,
    "languages": [
-    "pl",
-    "en",
-    "fr"
+    "en"
    ]
   },
   {
@@ -137,9 +157,22 @@
     "en": "Tenkyuugi"
    },
    "contentRating": "safe",
-   "score": 0.19972093,
+   "score": 0.19864762,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d0752cb8-62fa-4f0d-9f42-e55d58d2da68",
+   "title": {
+    "en": "The Fairy and the Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.19795203,
+   "languages": [
+    "pl",
+    "en",
+    "fr"
    ]
   },
   {
@@ -148,7 +181,7 @@
     "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.19789705,
+   "score": 0.19705187,
    "languages": [
     "pl",
     "en",
@@ -161,52 +194,12 @@
     "en": "Mega Man Nanomix - When the DUST settles."
    },
    "contentRating": "safe",
-   "score": 0.19655292,
+   "score": 0.19654775,
    "languages": [
     "en",
     "es"
    ]
-  },
-  {
-   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
-   "title": {
-    "en": "Kishibe no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.19298144,
-   "languages": [
-    "en",
-    "es-la",
-    "tr"
-   ]
-  },
-  {
-   "id": "5b8bc4aa-470f-41a0-b316-149e0a5144b8",
-   "title": {
-    "en": "Yume Midokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.19227614,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "e6e6bb7a-26e1-4ca0-9ad1-ed4aa387ee34",
-   "title": {
-    "en": "Terang"
-   },
-   "contentRating": "safe",
-   "score": 0.19140251,
-   "languages": [
-    "en",
-    "it",
-    "es-la",
-    "fr",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:22+00:00"
+ "updatedAt": "2023-12-10T18:26:10+00:00"
 }

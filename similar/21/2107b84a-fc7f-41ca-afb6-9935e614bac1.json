@@ -11,7 +11,7 @@
     "en": "Shojo Null"
    },
    "contentRating": "safe",
-   "score": 0.20934674,
+   "score": 0.20880173,
    "languages": [
     "id",
     "it",
@@ -24,7 +24,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.20093687,
+   "score": 0.20010525,
    "languages": [
     "it",
     "id",
@@ -40,7 +40,7 @@
     "en": "Android wa Bug wo Shiranai"
    },
    "contentRating": "safe",
-   "score": 0.19987652,
+   "score": 0.19919612,
    "languages": [
     "uk",
     "en"
@@ -52,7 +52,7 @@
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.19401231,
+   "score": 0.1933827,
    "languages": [
     "es-la",
     "en"
@@ -70,23 +70,23 @@
    ]
   },
   {
-   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
-   "title": {
-    "en": "Life Maker"
-   },
-   "contentRating": "safe",
-   "score": 0.16864835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
    "title": {
     "en": "Succeed"
    },
    "contentRating": "safe",
    "score": 0.16783628,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
+   "title": {
+    "en": "Life Maker"
+   },
+   "contentRating": "safe",
+   "score": 0.16768366,
    "languages": [
     "en"
    ]
@@ -107,12 +107,40 @@
    ]
   },
   {
+   "id": "edf170db-288b-4773-90df-1c542c69d4e9",
+   "title": {
+    "en": "Kemono Jihen"
+   },
+   "contentRating": "safe",
+   "score": 0.15978317,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "ru",
+    "tr",
+    "lt",
+    "hu"
+   ]
+  },
+  {
    "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
    "title": {
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.1596844,
+   "score": 0.15878506,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f8cb571e-01e3-4c44-a62e-2fda89ef3564",
+   "title": {
+    "en": "Yumekui Kenbun"
+   },
+   "contentRating": "safe",
+   "score": 0.15823756,
    "languages": [
     "en"
    ]
@@ -146,18 +174,7 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.15511765,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a6ffc7a1-be37-4299-83b9-325d35af1bdc",
-   "title": {
-    "en": "World Record of the Holy Mother"
-   },
-   "contentRating": "safe",
-   "score": 0.15122853,
+   "score": 0.15391913,
    "languages": [
     "en"
    ]
@@ -175,31 +192,16 @@
    ]
   },
   {
-   "id": "0a012ab6-294d-48c6-be4f-18c7102dc6dd",
+   "id": "a6ffc7a1-be37-4299-83b9-325d35af1bdc",
    "title": {
-    "en": "Red Eyes"
+    "en": "World Record of the Holy Mother"
    },
    "contentRating": "safe",
-   "score": 0.14792582,
+   "score": 0.14998096,
    "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "b04582e8-d98b-4f6e-b605-c300f3a5e3bd",
-   "title": {
-    "en": "Sanda"
-   },
-   "contentRating": "safe",
-   "score": 0.14657488,
-   "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "pt-br"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:01+00:00"
+ "updatedAt": "2023-12-10T18:11:50+00:00"
 }

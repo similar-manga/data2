@@ -6,13 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6a1f72e3-a2bf-4716-9724-a9c12a5489f6",
+   "title": {
+    "en": "Nagomi Club"
+   },
+   "contentRating": "safe",
+   "score": 0.31066796,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "175ae5cf-fa0b-4bd5-b927-d22f6888b10a",
    "title": {
     "en": "Aoba Bicycle Shop on Namikibashi Street"
    },
    "contentRating": "safe",
-   "score": 0.29087198,
+   "score": 0.30011585,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
+   "title": {
+    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
+   },
+   "contentRating": "safe",
+   "score": 0.25382134,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -22,7 +45,7 @@
     "en": "Osmotic Pressure"
    },
    "contentRating": "safe",
-   "score": 0.25512385,
+   "score": 0.2536228,
    "languages": [
     "en",
     "es",
@@ -36,22 +59,23 @@
     "en": "The School Girl's Glasses"
    },
    "contentRating": "safe",
-   "score": 0.24931817,
+   "score": 0.25040564,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
+   "id": "4de59a89-a6a8-4059-9ab3-501f7c260223",
    "title": {
-    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
+    "en": "Saegusa-Sensei"
    },
    "contentRating": "safe",
-   "score": 0.24351053,
+   "score": 0.23276806,
    "languages": [
-    "vi",
-    "en"
+    "pt-br",
+    "en",
+    "ar"
    ]
   },
   {
@@ -69,25 +93,23 @@
    ]
   },
   {
-   "id": "4de59a89-a6a8-4059-9ab3-501f7c260223",
-   "title": {
-    "en": "Saegusa-Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
    "id": "111aece9-5206-4245-b4db-56b805d6e63f",
    "title": {
     "en": "The Pool That Night"
    },
    "contentRating": "safe",
-   "score": 0.23019472,
+   "score": 0.22869013,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "197b3d77-7c1a-47ba-b497-9e4d29137f20",
+   "title": {
+    "en": "Hoiku no Ou-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.22672199,
    "languages": [
     "en"
    ]
@@ -98,7 +120,7 @@
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.22452645,
+   "score": 0.22007872,
    "languages": [
     "en",
     "pl"
@@ -110,9 +132,25 @@
     "en": "Kurashi no Izumi"
    },
    "contentRating": "safe",
-   "score": 0.21976882,
+   "score": 0.21691625,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
+   "title": {
+    "en": "Hatarakanai Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.21517242,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "pt-br",
+    "tr",
+    "es"
    ]
   },
   {
@@ -127,12 +165,24 @@
    ]
   },
   {
+   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
+   "title": {
+    "en": "Meganebashi Hanako no Mitate"
+   },
+   "contentRating": "safe",
+   "score": 0.21310665,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "d4d5aa20-9ba8-4e5d-ae9f-e560c1428b06",
    "title": {
     "en": "Color of the Far East"
    },
    "contentRating": "safe",
-   "score": 0.21241057,
+   "score": 0.2131025,
    "languages": [
     "en",
     "ar"
@@ -148,53 +198,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "41abf1ac-ea76-4f1f-8e04-25852993d853",
-   "title": {
-    "en": "School Zone"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "fea614e7-a24d-4352-a755-905fa2c63dbe",
-   "title": {
-    "en": "Comic Master J"
-   },
-   "contentRating": "safe",
-   "score": 0.18939406,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
-   "title": {
-    "en": "Like a Laika"
-   },
-   "contentRating": "safe",
-   "score": 0.18262434,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.18039683,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:40+00:00"
+ "updatedAt": "2023-12-10T18:10:52+00:00"
 }

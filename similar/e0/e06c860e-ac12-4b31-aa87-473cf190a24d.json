@@ -6,6 +6,17 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "14fc9998-5abe-484e-8a7b-b8bf254686de",
+   "title": {
+    "en": "Heaven"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28532875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "20b4201c-d97a-47c7-8cba-25b1d55a36ef",
    "title": {
     "en": "Inukami!"
@@ -19,23 +30,12 @@
    ]
   },
   {
-   "id": "14fc9998-5abe-484e-8a7b-b8bf254686de",
-   "title": {
-    "en": "Heaven"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28532875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e6fd4207-4fda-4ad0-b432-8bb650e2c56a",
    "title": {
     "en": "Demoted to a Teacher, the Strongest Sage Raises an Unbeatable Class"
    },
    "contentRating": "suggestive",
-   "score": 0.25826514,
+   "score": 0.25739413,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "4 Cut Hero"
    },
    "contentRating": "suggestive",
-   "score": 0.2547076,
+   "score": 0.25459298,
    "languages": [
     "ru",
     "en",
@@ -61,7 +61,18 @@
     "en": "Shuffle! - Days in the Bloom"
    },
    "contentRating": "suggestive",
-   "score": 0.24387814,
+   "score": 0.24347608,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "13e0a7a7-ed1f-4e1f-8ed0-00443f7c134a",
+   "title": {
+    "en": "Mowang Yu Yongzhe Yu Sheng Jian Shendian"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2388799,
    "languages": [
     "en"
    ]
@@ -93,14 +104,18 @@
    ]
   },
   {
-   "id": "13e0a7a7-ed1f-4e1f-8ed0-00443f7c134a",
+   "id": "73743311-2118-42eb-9af2-c64d05e97edd",
    "title": {
-    "en": "Mowang Yu Yongzhe Yu Sheng Jian Shendian"
+    "en": "Ghost Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.2388799,
+   "score": 0.23784299,
    "languages": [
-    "en"
+    "ru",
+    "fr",
+    "pt-br",
+    "en",
+    "ar"
    ]
   },
   {
@@ -109,24 +124,9 @@
     "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.23761049,
+   "score": 0.23698488,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "73743311-2118-42eb-9af2-c64d05e97edd",
-   "title": {
-    "en": "Ghost Girl"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23751552,
-   "languages": [
-    "ru",
-    "fr",
-    "pt-br",
-    "en",
-    "ar"
    ]
   },
   {
@@ -146,21 +146,10 @@
     "en": "Seikishi ni Natta kedo Danchou no Oppai ga Sugosugite Kokoro ga Kiyomerarenai"
    },
    "contentRating": "suggestive",
-   "score": 0.22335304,
+   "score": 0.22254646,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "7cc8ef73-a260-494b-9d91-73660ed58471",
-   "title": {
-    "en": "Datenshiron"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22276963,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -169,11 +158,22 @@
     "en": "Hidan no Aria"
    },
    "contentRating": "suggestive",
-   "score": 0.2226043,
+   "score": 0.22129068,
    "languages": [
     "en",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "7cc8ef73-a260-494b-9d91-73660ed58471",
+   "title": {
+    "en": "Datenshiron"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2211716,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -182,7 +182,7 @@
     "en": "Saving Life"
    },
    "contentRating": "suggestive",
-   "score": 0.22202931,
+   "score": 0.22090176,
    "languages": [
     "en"
    ]
@@ -193,11 +193,11 @@
     "en": "Jutten!"
    },
    "contentRating": "suggestive",
-   "score": 0.22119883,
+   "score": 0.22068565,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:00+00:00"
+ "updatedAt": "2023-12-10T18:33:06+00:00"
 }

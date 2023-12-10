@@ -11,7 +11,7 @@
     "en": "Kanojo no Kare"
    },
    "contentRating": "safe",
-   "score": 0.30738005,
+   "score": 0.30762467,
    "languages": [
     "pl",
     "en"
@@ -36,7 +36,7 @@
     "en": "Miyuki no Ori"
    },
    "contentRating": "safe",
-   "score": 0.22288623,
+   "score": 0.22165,
    "languages": [
     "en",
     "pl"
@@ -118,7 +118,7 @@
     "en": "The Girl's Winter"
    },
    "contentRating": "safe",
-   "score": 0.17428043,
+   "score": 0.17499308,
    "languages": [
     "en",
     "pt-br",
@@ -138,19 +138,6 @@
    ]
   },
   {
-   "id": "18eb2a8c-a351-41c7-82e5-07d95eb19c16",
-   "title": {
-    "en": "The Black Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "en",
-    "es",
-    "pl"
-   ]
-  },
-  {
    "id": "c1aa560c-1d60-4c4b-b688-a3bdf8d84bd6",
    "title": {
     "en": "Hidari Te"
@@ -161,6 +148,19 @@
     "pl",
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "18eb2a8c-a351-41c7-82e5-07d95eb19c16",
+   "title": {
+    "en": "The Black Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "en",
+    "es",
+    "pl"
    ]
   },
   {
@@ -181,7 +181,7 @@
     "en": "Risou no Kareshitachi"
    },
    "contentRating": "safe",
-   "score": 0.1546223,
+   "score": 0.15449321,
    "languages": [
     "tr",
     "pl",
@@ -194,25 +194,27 @@
     "en": "Genei Realism"
    },
    "contentRating": "safe",
-   "score": 0.14596415,
+   "score": 0.14891325,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
    "title": {
-    "en": "Shisei"
+    "en": "Satsuriku no Tenshi: Episode.0"
    },
    "contentRating": "safe",
-   "score": 0.1420582,
+   "score": 0.14752036,
    "languages": [
-    "uk",
+    "ru",
     "en",
+    "pt-br",
+    "es",
     "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:34+00:00"
+ "updatedAt": "2023-12-10T18:32:00+00:00"
 }

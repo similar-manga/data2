@@ -6,12 +6,61 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
+   "title": {
+    "en": "Monogatari no Naka no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.27979752,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "28c3b97b-6d2f-4a6c-9f97-a826f0b16f05",
+   "title": {
+    "en": "Konyaku Haki Sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu"
+   },
+   "contentRating": "safe",
+   "score": 0.2769045,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "b8e88f44-8fe3-41b8-a391-335576f7ddcc",
+   "title": {
+    "en": "Buchigire Reijou wa Houfuku wo Chikaimashita."
+   },
+   "contentRating": "safe",
+   "score": 0.264075,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "50b25978-27ca-471a-82f3-93450f485e21",
+   "title": {
+    "en": "Dantoudai no Hanayome - Sekai wo Horobosu Futsutsuka na Tatsuki desu ga."
+   },
+   "contentRating": "safe",
+   "score": 0.26401964,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
    "title": {
     "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
    },
    "contentRating": "safe",
-   "score": 0.26315233,
+   "score": 0.25812495,
    "languages": [
     "ru",
     "en",
@@ -26,21 +75,93 @@
     "en": "Zense wa Kentei. Konjou Kuzu Ouji"
    },
    "contentRating": "safe",
-   "score": 0.26173595,
+   "score": 0.25533465,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "e06bf407-6061-4a07-a74f-5436d121d559",
+   "id": "5309245e-f6a8-4004-be99-6c6749a2c564",
    "title": {
-    "en": "Dragon Raja 2"
+    "en": "Akuyaku Ouji no Eiyuutan"
    },
    "contentRating": "safe",
-   "score": 0.23488164,
+   "score": 0.25217342,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "80014ac8-a70d-4702-a794-7fc2946b6d5a",
+   "title": {
+    "en": "Suterare Shiro Mahoutsukai no Koucha Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.2504181,
+   "languages": [
+    "en",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "a41b29d4-6914-4498-a2ea-49bb0d41f5af",
+   "title": {
+    "en": "The Holy Knight's Dark Road"
+   },
+   "contentRating": "safe",
+   "score": 0.24160445,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "2f3dec35-0e65-4390-adcd-bc6ad8238421",
+   "title": {
+    "en": "Ryuu to Ryuugoroshi no Miko"
+   },
+   "contentRating": "safe",
+   "score": 0.23932531,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
+   "title": {
+    "en": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?"
+   },
+   "contentRating": "safe",
+   "score": 0.23850882,
+   "languages": [
+    "es-la",
+    "en",
+    "it",
+    "zh-hk",
+    "id",
+    "pt-br",
+    "ru",
+    "fr",
+    "tr",
+    "pl"
+   ]
+  },
+  {
+   "id": "636933aa-976e-4455-8082-36751a554be0",
+   "title": {
+    "en": "Unnamed Memory"
+   },
+   "contentRating": "safe",
+   "score": 0.23571122,
+   "languages": [
+    "id",
+    "en",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -49,7 +170,7 @@
     "en": "Toki Majutsushi no Tsuyokute New Game ~Kako ni Modotte Sekai Saikyou kara Yarinaosu~"
    },
    "contentRating": "safe",
-   "score": 0.23357995,
+   "score": 0.23340996,
    "languages": [
     "en",
     "pt-br",
@@ -57,12 +178,24 @@
    ]
   },
   {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "id": "8d69b2dc-16e3-4067-a4f1-850ada0702c6",
    "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
+    "en": "Daijizen no Mahoutsukai Ashuto, Sutareta Ryouchi de Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.23245941,
+   "score": 0.23265603,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "e06bf407-6061-4a07-a74f-5436d121d559",
+   "title": {
+    "en": "Dragon Raja 2"
+   },
+   "contentRating": "safe",
+   "score": 0.23215021,
    "languages": [
     "en"
    ]
@@ -73,7 +206,7 @@
     "en": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu"
    },
    "contentRating": "safe",
-   "score": 0.23197494,
+   "score": 0.23183386,
    "languages": [
     "ru",
     "en",
@@ -81,143 +214,7 @@
     "pt-br",
     "id"
    ]
-  },
-  {
-   "id": "339a6d49-9cc3-4435-98b6-59ddec3a6c0d",
-   "title": {
-    "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
-   },
-   "contentRating": "safe",
-   "score": 0.22982031,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "cdb173d8-51be-40ed-8b88-6ded1b012334",
-   "title": {
-    "en": "The Dragon That Lost Its Eggs Started Raising Me for Some Reason!"
-   },
-   "contentRating": "safe",
-   "score": 0.22740446,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "69e218ec-93eb-4025-ae39-33d47b1160e0",
-   "title": {
-    "en": "Demonic Emperor"
-   },
-   "contentRating": "safe",
-   "score": 0.22696593,
-   "languages": [
-    "en",
-    "fr",
-    "tr",
-    "ru",
-    "pt-br",
-    "pl",
-    "it",
-    "id"
-   ]
-  },
-  {
-   "id": "829d27e8-3d50-48bc-ab1d-9d1c3bfba615",
-   "title": {
-    "en": "Isekai no Binbou Nouka ni Tensei Shita Node, Renga wo Tsukutte Shiro wo Tateru Koto ni Shimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.22557883,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "es"
-   ]
-  },
-  {
-   "id": "5a46590b-14df-43f6-8450-5813cbf482e7",
-   "title": {
-    "en": "Hachinan tte, Sore wa Nai Deshou!"
-   },
-   "contentRating": "safe",
-   "score": 0.22285326,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
-   "title": {
-    "en": "Dou ka Ore wo Houtte Oitekure"
-   },
-   "contentRating": "safe",
-   "score": 0.21678372,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2955da52-2303-48db-b515-3ce9b74eb0ca",
-   "title": {
-    "en": "ShiraYuki PaniMix!"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "66297109-c52d-41fa-82f1-506092dc00b9",
-   "title": {
-    "en": "17-sai Kara Yarinaosu Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.21569897,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
-   "title": {
-    "en": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru"
-   },
-   "contentRating": "safe",
-   "score": 0.2115802,
-   "languages": [
-    "zh-hk",
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "34bb9d07-d5ee-40e5-9524-550230685ace",
-   "title": {
-    "en": "Sayounara Ryuusei, Konnichiwa Jinsei"
-   },
-   "contentRating": "safe",
-   "score": 0.20925276,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "es",
-    "fr",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:33+00:00"
+ "updatedAt": "2023-12-10T18:16:07+00:00"
 }

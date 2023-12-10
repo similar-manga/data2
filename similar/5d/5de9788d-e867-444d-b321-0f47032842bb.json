@@ -11,7 +11,7 @@
     "en": "Togainu no Chi Anthology"
    },
    "contentRating": "safe",
-   "score": 0.22363327
+   "score": 0.22224171
   },
   {
    "id": "57bdb07c-9338-4d80-a1e3-8eed6238ada4",
@@ -19,15 +19,7 @@
     "en": "Cyborg 009 (SATO Sugar)"
    },
    "contentRating": "safe",
-   "score": 0.21147658
-  },
-  {
-   "id": "b313f266-1de1-420b-a7fe-40bb2b0e6230",
-   "title": {
-    "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
-   },
-   "contentRating": "safe",
-   "score": 0.20913753
+   "score": 0.20745833
   },
   {
    "id": "4a43c33d-b370-4f8d-ba2a-a8cb71e78ca9",
@@ -35,18 +27,15 @@
     "en": "Blood Strike: Death God’s Game"
    },
    "contentRating": "safe",
-   "score": 0.20773582
+   "score": 0.20639095
   },
   {
-   "id": "9ecefba0-1881-4450-9cd3-e239c53874a9",
+   "id": "b313f266-1de1-420b-a7fe-40bb2b0e6230",
    "title": {
-    "en": "Marin"
+    "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
    },
    "contentRating": "safe",
-   "score": 0.19425718,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20561479
   },
   {
    "id": "bd363885-2ef7-4174-a457-a59c98626ed0",
@@ -61,9 +50,9 @@
    ]
   },
   {
-   "id": "ffb6762f-b137-4115-a690-62d1c42aa5d9",
+   "id": "9ecefba0-1881-4450-9cd3-e239c53874a9",
    "title": {
-    "en": "Astrodimension Neptunia (Doujinshi)"
+    "en": "Marin"
    },
    "contentRating": "safe",
    "score": 0.19425718,
@@ -87,16 +76,23 @@
    ]
   },
   {
-   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
+   "id": "ffb6762f-b137-4115-a690-62d1c42aa5d9",
    "title": {
-    "en": "The Birth of Mega Man"
+    "en": "Astrodimension Neptunia (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.19315933,
+   "score": 0.19425718,
    "languages": [
-    "es",
     "en"
    ]
+  },
+  {
+   "id": "b055fe71-d354-481c-9a9d-786cdf38c3e4",
+   "title": {
+    "en": "Fire Emblem - The Sacred Stones"
+   },
+   "contentRating": "safe",
+   "score": 0.19091952
   },
   {
    "id": "dad954c6-985b-4bfe-bbe3-ab3f767f4375",
@@ -104,28 +100,56 @@
     "en": "Uta no☆Prince-sama♪ - A North Wind and the Sun (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.19262075
+   "score": 0.18975511
   },
   {
-   "id": "02c072ca-05d9-4c38-8c9f-0464f75e62a6",
+   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
    "title": {
-    "en": "City of Sanctuary"
+    "en": "The Birth of Mega Man"
    },
    "contentRating": "safe",
-   "score": 0.18571335,
+   "score": 0.1880743,
    "languages": [
-    "pt-br",
-    "en",
-    "fr"
+    "es",
+    "en"
    ]
   },
   {
-   "id": "fb7c4d5e-3655-4432-93f6-5061a9e03c1b",
+   "id": "d6115bd7-a0b5-4a37-96b3-0a4d1cd3f9a4",
    "title": {
-    "en": "Ninja Slayer: Glamorous Killers"
+    "en": "Dragon Ball Z - Elsewhere (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.18425371
+   "score": 0.1872691,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2e7ba575-bfac-48ca-8a6c-927cc0ab8af0",
+   "title": {
+    "en": "Code of Silence"
+   },
+   "contentRating": "safe",
+   "score": 0.18615952,
+   "languages": [
+    "en",
+    "fr",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
+   "id": "e4ff4ae4-bcba-4542-b19c-47a06710390e",
+   "title": {
+    "en": "King Started"
+   },
+   "contentRating": "safe",
+   "score": 0.18450557,
+   "languages": [
+    "en",
+    "id"
+   ]
   },
   {
    "id": "598b9a10-126c-4807-9ed2-c1651acb3327",
@@ -148,29 +172,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3e5ea610-0708-4088-bb1c-1a7b2b2d81fb",
-   "title": {
-    "en": "Final Fantasy VII: The Sevening (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.18365079,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
-   "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
-   },
-   "contentRating": "safe",
-   "score": 0.1828695,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:30+00:00"
+ "updatedAt": "2023-12-10T18:18:30+00:00"
 }

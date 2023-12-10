@@ -6,14 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c555872c-b671-4126-8ba0-d823aba37dac",
+   "title": {
+    "en": "Famicom Boy Scouts"
+   },
+   "contentRating": "safe",
+   "score": 0.33110172
+  },
+  {
+   "id": "8c3bfd16-67fd-48b1-9922-37e203751d4c",
+   "title": {
+    "en": "The Story of Takahashi - Meijin, the Famicom Athlete"
+   },
+   "contentRating": "safe",
+   "score": 0.31776118
+  },
+  {
+   "id": "8eafb58e-31ba-4285-ad8b-50de6dd2d1f4",
+   "title": {
+    "en": "Super Famicom Boy Ban"
+   },
+   "contentRating": "safe",
+   "score": 0.27055672
+  },
+  {
    "id": "c1493cba-5027-41cf-a1c3-15bef296b0be",
    "title": {
     "en": "Mega Man X - Team X, Move Out!!"
    },
    "contentRating": "safe",
-   "score": 0.229366,
+   "score": 0.23071094,
    "languages": [
     "es"
+   ]
+  },
+  {
+   "id": "92e0e745-7615-4f2d-be28-97a302d141e7",
+   "title": {
+    "en": "Kin to Tetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.21881892,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -22,7 +57,15 @@
     "en": "Tokyo Majin Gakuen Kenpuchou - Ryu Ryu"
    },
    "contentRating": "safe",
-   "score": 0.22355753
+   "score": 0.217807
+  },
+  {
+   "id": "a00b1040-87c9-4da1-8469-13b09385305a",
+   "title": {
+    "en": "Bomberman: Explosive Family"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447
   },
   {
    "id": "13f600ad-cc77-473d-b08c-a70240643fe0",
@@ -40,23 +83,23 @@
    ]
   },
   {
-   "id": "a00b1040-87c9-4da1-8469-13b09385305a",
-   "title": {
-    "en": "Bomberman: Explosive Family"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447
-  },
-  {
    "id": "22b62427-2c9d-46e8-aa90-f80f759d2ffa",
    "title": {
     "en": "Fight! Super Robot Lifeform Transformers Scramble Comic"
    },
    "contentRating": "safe",
-   "score": 0.21179233,
+   "score": 0.21231994,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "fdd2beba-4d2c-49fb-bcaa-f6cf68a36eb2",
+   "title": {
+    "en": "Breath of Fire Part 2 - Little Adventurer"
+   },
+   "contentRating": "safe",
+   "score": 0.21009378
   },
   {
    "id": "356d88fb-687b-42e7-a516-b95250156708",
@@ -64,11 +107,35 @@
     "en": "Attack! Mega Man X"
    },
    "contentRating": "safe",
-   "score": 0.20909637,
+   "score": 0.20982447,
    "languages": [
     "es",
     "en"
    ]
+  },
+  {
+   "id": "6b062dab-2728-40cc-b032-0c5730124d82",
+   "title": {
+    "en": "Rock'n Game Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.20449369
+  },
+  {
+   "id": "20a10c57-e2cb-480b-85ee-42a2cc8e1005",
+   "title": {
+    "en": "Robot Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.20370717
+  },
+  {
+   "id": "c71968a9-0c27-451c-a207-e02e669ae3a9",
+   "title": {
+    "en": "Mobile Suit Gundam - MS Generation"
+   },
+   "contentRating": "safe",
+   "score": 0.1988849
   },
   {
    "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
@@ -76,7 +143,7 @@
     "en": "Karakuri"
    },
    "contentRating": "safe",
-   "score": 0.19797179,
+   "score": 0.19780236,
    "languages": [
     "en",
     "pl",
@@ -84,89 +151,18 @@
    ]
   },
   {
-   "id": "6a4a437d-4593-45e2-a83d-2784c0a31bdd",
+   "id": "082857f5-740c-4556-9625-479d52124eea",
    "title": {
-    "en": "Eden"
+    "en": "Mazinkaiser vs Shin Getter Robo"
    },
    "contentRating": "safe",
-   "score": 0.19491173
-  },
-  {
-   "id": "63dac493-f796-4aa6-b453-7cf1fe4be596",
-   "title": {
-    "en": "Toaru Majutsu no Virtual-On"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
+   "score": 0.19544496,
    "languages": [
-    "es-la",
-    "zh",
+    "pt-br",
+    "fr",
     "en"
    ]
-  },
-  {
-   "id": "da827d38-9029-4e43-bac5-e6122c92ba3b",
-   "title": {
-    "en": "Mega Man X Giga Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.19422014,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
-   "title": {
-    "en": "Shin Henkei Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.19045569,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "05ef0278-81bb-40b7-a02f-6b46795b59df",
-   "title": {
-    "en": "The Iron Golem"
-   },
-   "contentRating": "safe",
-   "score": 0.187941
-  },
-  {
-   "id": "c0bcee19-b65f-4a3c-8844-119a8d9072cb",
-   "title": {
-    "en": "Bullet Ronchi"
-   },
-   "contentRating": "safe",
-   "score": 0.187941
-  },
-  {
-   "id": "3c50fd22-2f39-401b-96b5-690fde6e5a35",
-   "title": {
-    "en": "Birth! Black Knight Bumblebee"
-   },
-   "contentRating": "safe",
-   "score": 0.187941
-  },
-  {
-   "id": "375411dc-d0f9-4094-ab28-743678c619ff",
-   "title": {
-    "en": "Giant Gilver"
-   },
-   "contentRating": "safe",
-   "score": 0.187941
-  },
-  {
-   "id": "3c372083-0da7-41ae-864c-820db1b6c623",
-   "title": {
-    "en": "Super Bomberman Prologue comic"
-   },
-   "contentRating": "safe",
-   "score": 0.187941
   }
  ],
- "updatedAt": "2023-12-10T01:00:58+00:00"
+ "updatedAt": "2023-12-10T18:11:41+00:00"
 }

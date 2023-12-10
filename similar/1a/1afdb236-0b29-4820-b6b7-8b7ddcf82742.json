@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "aa1beaf2-ef04-4216-a6d8-edacb3e717fe",
+   "title": {
+    "en": "Shujinkou Nikki"
+   },
+   "contentRating": "safe",
+   "score": 0.32220507,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5a691c66-3e67-424b-b361-a56ea71ee9bc",
    "title": {
     "en": "Amber"
    },
    "contentRating": "safe",
-   "score": 0.31993246,
+   "score": 0.31996876,
    "languages": [
     "en",
     "id"
@@ -23,7 +34,7 @@
     "en": "Snow Gift"
    },
    "contentRating": "safe",
-   "score": 0.31368327,
+   "score": 0.31292444,
    "languages": [
     "pl",
     "en"
@@ -35,7 +46,7 @@
     "en": "Doctor Bird"
    },
    "contentRating": "safe",
-   "score": 0.31159204,
+   "score": 0.3111099,
    "languages": [
     "en"
    ]
@@ -46,7 +57,7 @@
     "en": "Loving a Player"
    },
    "contentRating": "safe",
-   "score": 0.30954972,
+   "score": 0.30941096,
    "languages": [
     "en"
    ]
@@ -57,7 +68,7 @@
     "en": "Kawaii Oresama"
    },
    "contentRating": "safe",
-   "score": 0.30425456,
+   "score": 0.30360928,
    "languages": [
     "en",
     "bg",
@@ -70,7 +81,7 @@
     "en": "A Love Song for All"
    },
    "contentRating": "safe",
-   "score": 0.29895854,
+   "score": 0.29864496,
    "languages": [
     "en"
    ]
@@ -81,7 +92,7 @@
     "en": "Little Lovers"
    },
    "contentRating": "safe",
-   "score": 0.29754543,
+   "score": 0.2973055,
    "languages": [
     "fr",
     "en",
@@ -95,21 +106,8 @@
     "en": "Spicy Recipe"
    },
    "contentRating": "safe",
-   "score": 0.2972508,
+   "score": 0.29653403,
    "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f12f3563-356d-4a19-879a-8c88d70104ce",
-   "title": {
-    "en": "The Love's Red Signals"
-   },
-   "contentRating": "safe",
-   "score": 0.2957555,
-   "languages": [
-    "bg",
     "pl",
     "en"
    ]
@@ -120,7 +118,7 @@
     "en": "Wolf-kun and goat-chan"
    },
    "contentRating": "safe",
-   "score": 0.2955917,
+   "score": 0.29516172,
    "languages": [
     "ru",
     "fr",
@@ -128,13 +126,15 @@
    ]
   },
   {
-   "id": "e83050bd-99e4-47f6-a764-3469d8088054",
+   "id": "f12f3563-356d-4a19-879a-8c88d70104ce",
    "title": {
-    "en": "Rabu Rabu Butabara"
+    "en": "The Love's Red Signals"
    },
    "contentRating": "safe",
-   "score": 0.29299742,
+   "score": 0.2951364,
    "languages": [
+    "bg",
+    "pl",
     "en"
    ]
   },
@@ -144,41 +144,7 @@
     "en": "Guardian Joker"
    },
    "contentRating": "safe",
-   "score": 0.28722936,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8bc5c35e-38b2-4dc1-a926-584bd7b25a21",
-   "title": {
-    "en": "Tokyo Photograph"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "4db29a32-6218-4321-be4b-6d9aa829d399",
-   "title": {
-    "en": "Nandemo Arisa"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98b11778-1b1f-4ef0-a26d-bd48e5f7539e",
-   "title": {
-    "en": "Love Mania Sock"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.28670844,
    "languages": [
     "en"
    ]
@@ -193,7 +159,42 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9b626116-ce75-445a-a63e-553f5e9d8937",
+   "title": {
+    "en": "Girl's☆Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dbb7e0fe-b970-416f-be32-5440f805bf1c",
+   "title": {
+    "en": "Yorimichi"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "8bc5c35e-38b2-4dc1-a926-584bd7b25a21",
+   "title": {
+    "en": "Tokyo Photograph"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:48+00:00"
+ "updatedAt": "2023-12-10T18:11:12+00:00"
 }

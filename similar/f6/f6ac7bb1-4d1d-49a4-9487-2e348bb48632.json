@@ -11,7 +11,7 @@
     "en": "Chocolate Kiss Kiss"
    },
    "contentRating": "safe",
-   "score": 0.37399268,
+   "score": 0.37701783,
    "languages": [
     "es",
     "tr",
@@ -24,34 +24,11 @@
     "en": "Wishing on the Moon"
    },
    "contentRating": "safe",
-   "score": 0.3107021,
+   "score": 0.3120714,
    "languages": [
     "en",
     "tr",
     "es"
-   ]
-  },
-  {
-   "id": "d70c0e14-1732-426a-8a51-439dfdff08c4",
-   "title": {
-    "en": "Goodbye Kastor"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "09cac72c-61ca-43a4-b0ec-9b2e78430eb4",
-   "title": {
-    "en": "P=NP?"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "tr"
    ]
   },
   {
@@ -60,7 +37,7 @@
     "en": "Lost Girl"
    },
    "contentRating": "safe",
-   "score": 0.28382835,
+   "score": 0.29113463,
    "languages": [
     "ru",
     "pt-br",
@@ -97,6 +74,29 @@
    ]
   },
   {
+   "id": "d70c0e14-1732-426a-8a51-439dfdff08c4",
+   "title": {
+    "en": "Goodbye Kastor"
+   },
+   "contentRating": "safe",
+   "score": 0.28382835,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "09cac72c-61ca-43a4-b0ec-9b2e78430eb4",
+   "title": {
+    "en": "P=NP?"
+   },
+   "contentRating": "safe",
+   "score": 0.28382835,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
    "id": "5e8141c7-f8c0-4f0c-a824-07a7e7cc921e",
    "title": {
     "en": "Only Need to Love Once"
@@ -125,30 +125,6 @@
    ]
   },
   {
-   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
-   "title": {
-    "en": "Chocolate-Covered Almonds"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7f02a978-5474-4516-a7b9-9a564e2c0e18",
-   "title": {
-    "en": "Momoiro Toiki."
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
    "id": "af48a0ec-91fb-4bfb-a4f1-4657309661a1",
    "title": {
     "en": "Born This Way"
@@ -160,6 +136,19 @@
     "tr",
     "pt-br",
     "uk"
+   ]
+  },
+  {
+   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
+   "title": {
+    "en": "Chocolate-Covered Almonds"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "tr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -187,12 +176,23 @@
    ]
   },
   {
+   "id": "7f02a978-5474-4516-a7b9-9a564e2c0e18",
+   "title": {
+    "en": "Momoiro Toiki."
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
    "id": "28d4d62f-dd9f-4a29-9fd1-e9541974470a",
    "title": {
     "en": "Ore ga Tobacco wo Yamenai Riyuu"
    },
    "contentRating": "safe",
-   "score": 0.2407812,
+   "score": 0.23712844,
    "languages": [
     "th",
     "it",
@@ -204,17 +204,20 @@
    ]
   },
   {
-   "id": "1885bf21-afe1-4680-a59a-2a8f4932f9d1",
+   "id": "5a3d1fa1-14f0-40c5-82e8-f4eac67ae4aa",
    "title": {
-    "en": "When She Touches Me"
+    "en": "Sayuri Hime"
    },
    "contentRating": "safe",
-   "score": 0.23174489,
+   "score": 0.23390579,
    "languages": [
+    "it",
+    "tr",
     "en",
-    "tr"
+    "pl",
+    "de"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:57+00:00"
+ "updatedAt": "2023-12-10T18:35:23+00:00"
 }

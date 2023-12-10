@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3fb2f07f-740a-4482-9927-7228a1a76591",
+   "title": {
+    "en": "Agnus Dei"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "tr",
+    "de",
+    "en"
+   ]
+  },
+  {
    "id": "ae1b5ff7-965d-4d04-9ad7-6836e1e4a4c1",
    "title": {
     "en": "Hitodenashi to Koi"
    },
    "contentRating": "safe",
-   "score": 0.23932818,
+   "score": 0.23914401,
    "languages": [
     "en",
     "tr"
@@ -23,7 +36,30 @@
     "en": "Oujisama wa Inai"
    },
    "contentRating": "safe",
-   "score": 0.23573022,
+   "score": 0.235173,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "24a1e300-64ef-4896-99a6-ff0d6143ac25",
+   "title": {
+    "en": "Hold Me Tight"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
+   "id": "2ea23160-2137-418a-91a0-01eefc72caa8",
+   "title": {
+    "en": "Wistful Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
    "languages": [
     "tr",
     "en"
@@ -44,60 +80,34 @@
    ]
   },
   {
+   "id": "694d27ae-352e-4607-8bed-2983d44e8a21",
+   "title": {
+    "en": "Inner Beauty"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
+   "id": "dcfafb92-2000-4af5-bd7b-ae75286b2709",
+   "title": {
+    "en": "Konwaku!? Megane Seikatsu."
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
    "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
    "title": {
     "en": "Tonight The Night"
    },
    "contentRating": "safe",
-   "score": 0.22331828,
-   "languages": [
-    "it",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "bee88f3b-f148-449d-9370-1da827dfb762",
-   "title": {
-    "en": "Omairi Desu yo"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "4c2de9ed-5fab-4337-bd87-78df95cad4af",
-   "title": {
-    "en": "Hidamari ga Kikoeru"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "f0f4c83e-0bc4-4211-94f3-e70f618ca6a3",
-   "title": {
-    "en": "Hanazakari no Niwa"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "6a89003e-214c-4622-b444-b733afbfac77",
-   "title": {
-    "en": "Out"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
+   "score": 0.219242,
    "languages": [
     "it",
     "en",
@@ -118,95 +128,79 @@
    ]
   },
   {
-   "id": "bb2d6941-cf7e-4823-a85b-9c8e3cf96f68",
+   "id": "6a89003e-214c-4622-b444-b733afbfac77",
    "title": {
-    "en": "Ameiro Paradox"
+    "en": "Out"
    },
    "contentRating": "safe",
-   "score": 0.17930618,
+   "score": 0.20047042,
    "languages": [
-    "pl",
+    "it",
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "4c2de9ed-5fab-4337-bd87-78df95cad4af",
+   "title": {
+    "en": "Hidamari ga Kikoeru"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "e1e7cedc-0175-4902-927d-3e7ebd0cd64c",
+   "title": {
+    "en": "Last Client"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "tr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "bee88f3b-f148-449d-9370-1da827dfb762",
+   "title": {
+    "en": "Omairi Desu yo"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
     "tr",
     "en"
    ]
   },
   {
-   "id": "2a8d9c9e-8f75-4cba-82fd-0e018a2540f2",
+   "id": "f0f4c83e-0bc4-4211-94f3-e70f618ca6a3",
    "title": {
-    "en": "There Is No Way a Pretty Virtual Girl Is a Girl!"
+    "en": "Hanazakari no Niwa"
    },
    "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "en",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "b3fb6c50-edb9-4f25-87af-d0053cb2ba04",
-   "title": {
-    "en": "Intoxicated East Wind"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
+   "score": 0.20047042,
    "languages": [
     "tr"
    ]
   },
   {
-   "id": "530163d8-e607-4fec-ba9a-f6e0cf345a59",
+   "id": "ceedc13b-3f92-4f92-9e84-40227045383b",
    "title": {
-    "en": "Junjou Romantica"
+    "en": "Shinon"
    },
    "contentRating": "safe",
-   "score": 0.17157796,
-   "languages": [
-    "en",
-    "es",
-    "tr",
-    "pl"
-   ]
-  },
-  {
-   "id": "2654d624-74b4-482c-94c9-f258f1045314",
-   "title": {
-    "en": "Acid Town"
-   },
-   "contentRating": "safe",
-   "score": 0.1636834,
+   "score": 0.20047042,
    "languages": [
     "en",
     "tr",
-    "fa",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7b9656e8-14e8-4c18-987f-da44e0e2d8eb",
-   "title": {
-    "en": "Dog Style"
-   },
-   "contentRating": "safe",
-   "score": 0.1636834,
-   "languages": [
-    "hu",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "92169605-52df-4fba-8f26-395cd3302a71",
-   "title": {
-    "en": "Totally Captivated"
-   },
-   "contentRating": "safe",
-   "score": 0.1636834,
-   "languages": [
-    "tr"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:42+00:00"
+ "updatedAt": "2023-12-10T18:13:45+00:00"
 }

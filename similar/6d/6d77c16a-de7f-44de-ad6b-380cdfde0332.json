@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9fa2978a-66be-41be-93c8-3f08ba6767d3",
+   "title": {
+    "en": "Kagerou Days Official Anthology Comic -REMEMBER-"
+   },
+   "contentRating": "safe",
+   "score": 0.69711775,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "550f630b-f442-4661-9f53-27ca8a89f034",
    "title": {
     "en": "Kagerou Daze Official Anthology Comic -DOWNER-"
    },
    "contentRating": "safe",
-   "score": 0.62380934
+   "score": 0.6289939
   },
   {
    "id": "ac7ad06e-00c5-4683-b195-02c71e65dbe5",
@@ -19,17 +30,39 @@
     "en": "Kagerou Daze Official Anthology Comic -WINTER-"
    },
    "contentRating": "safe",
-   "score": 0.6108825
+   "score": 0.6158365
   },
   {
-   "id": "af13b8e7-5175-4663-985c-fa94e6423464",
+   "id": "f2107a85-1fff-4b88-9ee6-8923d5491297",
    "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Comic Anthology passion"
+    "en": "Kagerou Days Official Anthology Comic -BITTER-"
    },
    "contentRating": "safe",
-   "score": 0.28597715,
+   "score": 0.46236774,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
+   "title": {
+    "en": "THE IDOLM@STER Million Live! Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.29273343,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52ff14f9-cd46-4ee2-a171-12c740eff819",
+   "title": {
+    "en": "Osomatsu-san Koushiki - Aishite Iru no yo Osomatsu-san (Anthology Comic)"
+   },
+   "contentRating": "safe",
+   "score": 0.28690514,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -44,12 +77,45 @@
    ]
   },
   {
+   "id": "af13b8e7-5175-4663-985c-fa94e6423464",
+   "title": {
+    "en": "THE iDOLM@STER Cinderella Girls - Comic Anthology passion"
+   },
+   "contentRating": "safe",
+   "score": 0.28146324,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6151e2e0-7c40-40cd-a27a-038e54d0eea4",
    "title": {
     "en": "THE iDOLM@STER Cinderella Girls - Comic Anthology cool"
    },
    "contentRating": "safe",
-   "score": 0.2846284,
+   "score": 0.28108257,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "17f35d63-6a29-41c4-b0da-25e83b0bdded",
+   "title": {
+    "en": "Persona 4 Anthology Comic ~ Seishun Drop ~ (HJ Comics)"
+   },
+   "contentRating": "safe",
+   "score": 0.27320808,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d91dcec2-7059-4f3f-b99e-5ecb4a4f6a85",
+   "title": {
+    "en": "Yoru no Osomatsu-san ~ jinsei dai bakuchi!"
+   },
+   "contentRating": "safe",
+   "score": 0.26862955,
    "languages": [
     "en"
    ]
@@ -60,119 +126,49 @@
     "en": "Bokura no Namco 80s Tribute Comic"
    },
    "contentRating": "safe",
-   "score": 0.26962933
+   "score": 0.2675506
   },
   {
-   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
+   "id": "bb58adff-4b87-47e8-bf83-0b4cb536c188",
    "title": {
-    "en": "Arcana+ 01 - Boys in Uniform"
+    "en": "Clover no Kuni no Alice - Divided Equally Chocolate (Anthology)"
    },
    "contentRating": "safe",
-   "score": 0.23913582,
+   "score": 0.26401234,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
+   "id": "9c0a96b8-8206-424e-a72d-a44c1f3c9c9b",
    "title": {
-    "en": "Gensou Suikoden V - Anthology Comic"
+    "en": "Chibi Attack!!"
    },
    "contentRating": "safe",
-   "score": 0.23531537,
+   "score": 0.26321858
+  },
+  {
+   "id": "e353e1bf-5690-45f9-a975-9c8baac3c842",
+   "title": {
+    "en": "Osomatsu-san Official Comic Anthology ~Square Senbatsu~"
+   },
+   "contentRating": "safe",
+   "score": 0.26293492,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1dabde0a-c679-42ca-bd5a-8b30384908e9",
+   "id": "bc54b2a8-0adf-447f-9330-850616692065",
    "title": {
-    "en": "Tales of Symphonia - Comic Anthology"
+    "en": "Clover no Kuni no Alice - Excess Sugar (Anthology)"
    },
    "contentRating": "safe",
-   "score": 0.23418005
-  },
-  {
-   "id": "d916b2dd-0061-4817-9184-673ad75596d2",
-   "title": {
-    "en": "THE iDOLM@STER Splash Red for Dearly Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.26184863,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "2970916f-3710-4344-a236-b67ccc50a965",
-   "title": {
-    "en": "Bengo!"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "714272c5-ab77-4474-a422-6d714c0aa9cf",
-   "title": {
-    "en": "Since I Was a Brat: Makoto Isshiki Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.23032643,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
-   "title": {
-    "en": "Good Weather"
-   },
-   "contentRating": "safe",
-   "score": 0.2296891,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31902210-8ad9-4c58-acec-220e357b3bc8",
-   "title": {
-    "en": "Harta Cover Stories"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "6eb3d1b8-5ba1-420e-bb06-1f84990b139d",
-   "title": {
-    "en": "Shinitaku naru Shoumonai Hibi ga Shinitaku naru kurai Shoumonakute Shinu hodo Shinitakunai Hibi"
-   },
-   "contentRating": "safe",
-   "score": 0.21239567,
-   "languages": [
-    "zh",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "cc85b777-e11e-491a-89e4-54f9e1786d1e",
-   "title": {
-    "en": "CLANNAD – Anthology Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.20421305,
-   "languages": [
-    "it",
-    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:06+00:00"
+ "updatedAt": "2023-12-10T18:20:09+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3b7ab0cf-0735-497e-abb9-34c2a64c6d9b",
+   "title": {
+    "en": "Anata wo Otona ni Suru ○ tsu no Koto"
+   },
+   "contentRating": "safe",
+   "score": 0.30141357,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1765b1d0-ca8b-4e9d-8237-3c6f76e7c9c6",
    "title": {
     "en": "Have a Nice Ending"
    },
    "contentRating": "safe",
-   "score": 0.29540837,
+   "score": 0.29279414,
    "languages": [
     "id",
     "pt-br",
@@ -25,7 +36,7 @@
     "en": "Night at the Aquarium"
    },
    "contentRating": "safe",
-   "score": 0.27079678,
+   "score": 0.2686049,
    "languages": [
     "vi",
     "en"
@@ -52,9 +63,20 @@
     "en": "Otona to Kodomo no Merry Christmas"
    },
    "contentRating": "safe",
-   "score": 0.24148452,
+   "score": 0.24341184,
    "languages": [
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "ccfa240d-7b98-4910-83c6-fed2fdf9b835",
+   "title": {
+    "en": "📕Slow Readers📚📖"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
     "en"
    ]
   },
@@ -81,18 +103,6 @@
    ]
   },
   {
-   "id": "d40d99dd-e0bc-4d79-acdd-5bf3afb12a1c",
-   "title": {
-    "en": "I Need to Be a Good Person"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "51e48169-a296-47cc-9000-13acf6552b03",
    "title": {
     "en": "The Result of a Joke"
@@ -102,6 +112,18 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "d40d99dd-e0bc-4d79-acdd-5bf3afb12a1c",
+   "title": {
+    "en": "I Need to Be a Good Person"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -129,37 +151,15 @@
    ]
   },
   {
-   "id": "ccfa240d-7b98-4910-83c6-fed2fdf9b835",
-   "title": {
-    "en": "📕Slow Readers📚📖"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "73ee20ef-d637-4fc5-b5db-ebc0c9d5bd22",
    "title": {
     "en": "The Reason Why Corporate Slave Can't Quit the Job"
    },
    "contentRating": "safe",
-   "score": 0.22837971,
+   "score": 0.22776046,
    "languages": [
     "pt-br",
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "477e4046-a86b-4acd-b510-4caef64d6dbd",
-   "title": {
-    "en": "The Perch of Dreams"
-   },
-   "contentRating": "safe",
-   "score": 0.22660618,
-   "languages": [
     "en"
    ]
   },
@@ -169,7 +169,7 @@
     "en": "I Had Always Loved You"
    },
    "contentRating": "safe",
-   "score": 0.22611429,
+   "score": 0.22618575,
    "languages": [
     "id",
     "vi",
@@ -183,7 +183,7 @@
     "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
    },
    "contentRating": "safe",
-   "score": 0.22509347,
+   "score": 0.22406481,
    "languages": [
     "vi",
     "en"
@@ -195,11 +195,11 @@
     "en": "Nenmatsu Yarinoko Shita Koto ga Aru Hito no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.22408842,
+   "score": 0.22336377,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:13+00:00"
+ "updatedAt": "2023-12-10T18:15:15+00:00"
 }

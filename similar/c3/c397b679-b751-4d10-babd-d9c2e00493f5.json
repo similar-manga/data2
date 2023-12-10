@@ -6,15 +6,62 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5b21ae0e-966e-43be-9f96-ee08ebfde5d0",
+   "title": {
+    "en": "The Call of Animals"
+   },
+   "contentRating": "safe",
+   "score": 0.23748878,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "acd3b35d-577e-431b-9259-9b05c688373a",
+   "title": {
+    "en": "Carnivorous Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.23280598,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "80d758ae-e430-4bb5-9ea3-18b09d7597c3",
+   "title": {
+    "en": "Realms of Death"
+   },
+   "contentRating": "safe",
+   "score": 0.23075187,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
    "title": {
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.22835079,
+   "score": 0.22674955,
    "languages": [
     "zh-hk",
     "en"
+   ]
+  },
+  {
+   "id": "8a507b2a-b29e-4ce6-9237-6da23661df1d",
+   "title": {
+    "en": "Code Adam"
+   },
+   "contentRating": "safe",
+   "score": 0.2240615,
+   "languages": [
+    "uk",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -23,7 +70,7 @@
     "en": "Of Machines and Beasts"
    },
    "contentRating": "safe",
-   "score": 0.22573887,
+   "score": 0.22321872,
    "languages": [
     "en",
     "fr",
@@ -37,31 +84,7 @@
     "en": "Picking Up Beast Girls In The End Times"
    },
    "contentRating": "safe",
-   "score": 0.2256276,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8a507b2a-b29e-4ce6-9237-6da23661df1d",
-   "title": {
-    "en": "Code Adam"
-   },
-   "contentRating": "safe",
-   "score": 0.22471525,
-   "languages": [
-    "uk",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
-   "title": {
-    "en": "Super God System"
-   },
-   "contentRating": "safe",
-   "score": 0.22138397,
+   "score": 0.22297154,
    "languages": [
     "en"
    ]
@@ -83,7 +106,7 @@
     "en": "Knight Run"
    },
    "contentRating": "safe",
-   "score": 0.21527682,
+   "score": 0.21485895,
    "languages": [
     "en",
     "ru",
@@ -96,7 +119,7 @@
     "en": "Trace of Doomsday"
    },
    "contentRating": "safe",
-   "score": 0.21126546,
+   "score": 0.21136965,
    "languages": [
     "en",
     "fr",
@@ -105,14 +128,26 @@
    ]
   },
   {
-   "id": "32f67a09-b80f-41e3-a0e7-dd2e22a0e7ec",
+   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
    "title": {
-    "en": "Urban Castaway"
+    "en": "Super God System"
    },
    "contentRating": "safe",
-   "score": 0.2076512,
+   "score": 0.20762567,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
+   "title": {
+    "en": "Nightmare Game"
+   },
+   "contentRating": "safe",
+   "score": 0.20733897,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -121,85 +156,44 @@
     "en": "Sand Storm Boarders"
    },
    "contentRating": "safe",
-   "score": 0.20698267,
+   "score": 0.20618437,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c1239252-3f81-44cd-834c-ee9ab58daf32",
+   "id": "32f67a09-b80f-41e3-a0e7-dd2e22a0e7ec",
    "title": {
-    "en": "The Metabaron"
+    "en": "Urban Castaway"
    },
    "contentRating": "safe",
-   "score": 0.19965543,
+   "score": 0.20556743,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "feae68c5-11cd-4b88-a220-39d7fa653c11",
+   "id": "7b49e09c-78b5-432e-a2ef-884ec209f22d",
    "title": {
-    "en": "Winner Takes All"
+    "en": "Urban Beasts"
    },
    "contentRating": "safe",
-   "score": 0.19959308,
+   "score": 0.20273983,
    "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "es-la",
-    "fr",
-    "id",
-    "ru",
-    "pl"
+    "pt-br"
    ]
   },
   {
-   "id": "23bf20d1-c80b-4c8f-887a-56b28a32bc83",
+   "id": "fcd65d47-a08a-4dba-9933-c08f45e78913",
    "title": {
-    "en": "Hikari"
+    "en": "Dragon Master of the Olden Days"
    },
    "contentRating": "safe",
-   "score": 0.19779819,
+   "score": 0.20266111,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4194a3ec-0941-47d2-91f4-639830204ecd",
-   "title": {
-    "en": "Can't Be Answered"
-   },
-   "contentRating": "safe",
-   "score": 0.19562164,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1d3139d-e0ac-45af-b5c5-4878340dc67a",
-   "title": {
-    "en": "Path a Way"
-   },
-   "contentRating": "safe",
-   "score": 0.19402696,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "74114442-ba6c-44a9-8a57-eb2907775264",
-   "title": {
-    "en": "Future Break Point"
-   },
-   "contentRating": "safe",
-   "score": 0.19399896,
-   "languages": [
-    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:49+00:00"
+ "updatedAt": "2023-12-10T18:30:06+00:00"
 }

@@ -6,25 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
-   "title": {
-    "en": "Hatsu Haru"
-   },
-   "contentRating": "safe",
-   "score": 0.29337507,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
    "id": "4a17a934-bc7f-4e10-a4c4-0ba1c24268b4",
    "title": {
     "en": "Never Give Up!"
    },
    "contentRating": "safe",
-   "score": 0.29194072,
+   "score": 0.2923925,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
+   "title": {
+    "en": "Hatsu Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.2903935,
+   "languages": [
+    "pl"
    ]
   },
   {
@@ -33,22 +33,10 @@
     "en": "Ardour"
    },
    "contentRating": "safe",
-   "score": 0.28343377,
+   "score": 0.28311038,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
-   "title": {
-    "en": "Aozora Pop"
-   },
-   "contentRating": "safe",
-   "score": 0.2821701,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -57,7 +45,30 @@
     "en": "Koibito Asobi"
    },
    "contentRating": "safe",
-   "score": 0.27997795,
+   "score": 0.28167468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
+   "title": {
+    "en": "Aozora Pop"
+   },
+   "contentRating": "safe",
+   "score": 0.28039205,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "3e7f7a94-69da-4226-9eab-76ee21ca2dd2",
+   "title": {
+    "en": "Bishounen Tanteidan"
+   },
+   "contentRating": "safe",
+   "score": 0.27858457,
    "languages": [
     "en"
    ]
@@ -68,7 +79,7 @@
     "en": "Renai Catalog"
    },
    "contentRating": "safe",
-   "score": 0.2743504,
+   "score": 0.2738243,
    "languages": [
     "en"
    ]
@@ -79,9 +90,24 @@
     "en": "The Tale of Taro Yamada"
    },
    "contentRating": "safe",
-   "score": 0.2727661,
+   "score": 0.27279398,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru"
+   },
+   "contentRating": "safe",
+   "score": 0.2722426,
+   "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -90,7 +116,7 @@
     "en": "8 mm"
    },
    "contentRating": "safe",
-   "score": 0.26380783,
+   "score": 0.26345417,
    "languages": [
     "en"
    ]
@@ -101,7 +127,7 @@
     "en": "Say Love"
    },
    "contentRating": "safe",
-   "score": 0.26370132,
+   "score": 0.26328403,
    "languages": [
     "en"
    ]
@@ -112,7 +138,7 @@
     "en": "Mei-chan no Shitsuji"
    },
    "contentRating": "safe",
-   "score": 0.26354384,
+   "score": 0.26324677,
    "languages": [
     "en",
     "pl"
@@ -124,7 +150,7 @@
     "en": "Hana-kun to Koisuru Watashi"
    },
    "contentRating": "safe",
-   "score": 0.26335976,
+   "score": 0.262842,
    "languages": [
     "pt-br",
     "pl",
@@ -132,61 +158,45 @@
    ]
   },
   {
-   "id": "ec21f48d-f162-4d8c-885c-ecde3aaa2b6e",
+   "id": "b9c16c69-df27-4c6e-9676-8a260403758f",
    "title": {
-    "en": "Honey Holic"
+    "en": "Uchi no Otouto-domo ga sumimasen"
    },
    "contentRating": "safe",
-   "score": 0.26193315,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e79ec516-e6c8-438c-a45f-fcdde1df0ea7",
-   "title": {
-    "en": "Crash!"
-   },
-   "contentRating": "safe",
-   "score": 0.25398052,
+   "score": 0.26264927,
    "languages": [
     "en",
-    "pl"
+    "es-la",
+    "vi",
+    "it"
    ]
   },
   {
-   "id": "8bd83300-607d-49b7-8100-56743e06bd33",
+   "id": "58b2e2ca-a1f1-479e-a371-f51e40914f7f",
    "title": {
-    "en": "Aa! Itoshi no Banchou-sama"
+    "en": "Yojouhan no Ibara Hime"
    },
    "contentRating": "safe",
-   "score": 0.25198635,
+   "score": 0.26264927,
    "languages": [
-    "en"
+    "en",
+    "es"
    ]
   },
   {
-   "id": "fadbf83b-7ef8-4cd3-b321-6772eb6457a9",
+   "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
    "title": {
-    "en": "Honey Hunt"
+    "en": "Ima, Koi wo Shite Imasu"
    },
    "contentRating": "safe",
-   "score": 0.2506172,
+   "score": 0.26134646,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bcf9f938-4d78-446c-8915-3561057f5497",
-   "title": {
-    "en": "Kirarin Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.24807943,
-   "languages": [
-    "en"
+    "en",
+    "hu",
+    "es-la",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:19+00:00"
+ "updatedAt": "2023-12-10T18:18:05+00:00"
 }

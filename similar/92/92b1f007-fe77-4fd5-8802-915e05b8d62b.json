@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
+   "title": {
+    "en": "Atom - The Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.2335869,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
    "title": {
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.22227141,
+   "score": 0.2214368,
    "languages": [
     "pt-br",
     "en",
@@ -60,16 +73,14 @@
    ]
   },
   {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
    "title": {
-    "en": "Cosmos"
+    "en": "Crest of the Stars"
    },
    "contentRating": "safe",
    "score": 0.16862984,
    "languages": [
-    "es",
-    "fr",
-    "pt-br",
+    "ru",
     "en"
    ]
   },
@@ -86,14 +97,16 @@
    ]
   },
   {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
+   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
    "title": {
-    "en": "Crest of the Stars"
+    "en": "Cosmos"
    },
    "contentRating": "safe",
    "score": 0.16862984,
    "languages": [
-    "ru",
+    "es",
+    "fr",
+    "pt-br",
     "en"
    ]
   },
@@ -103,11 +116,35 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.16754134,
+   "score": 0.16672345,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
+   "title": {
+    "en": "Higan no Orca"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "c5b2a1ce-051e-4e8e-a2fa-6a2866b1784a",
+   "title": {
+    "en": "Batman: Justice Buster"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -124,12 +161,35 @@
    ]
   },
   {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "26c1e1a6-3c8d-4513-af87-a2387eb69b90",
    "title": {
     "en": "Legend of the Galactic Heroes - Golden Wings"
    },
    "contentRating": "safe",
    "score": 0.15612088,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
+   "title": {
+    "en": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
+   },
+   "contentRating": "safe",
+   "score": 0.154064,
    "languages": [
     "ru"
    ]
@@ -145,73 +205,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.14603771,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.13768567,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.13768567,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "087c3f0e-2a95-4012-8732-c5efa6e29faf",
-   "title": {
-    "en": "Because Goodbyes Are Coming Soon"
-   },
-   "contentRating": "safe",
-   "score": 0.13423784,
-   "languages": [
-    "fr",
-    "pt-br",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
-   "title": {
-    "en": "The Nightmare of Fabrication"
-   },
-   "contentRating": "safe",
-   "score": 0.12314982,
-   "languages": [
-    "tr",
-    "it",
-    "en",
-    "pl",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:47+00:00"
+ "updatedAt": "2023-12-10T18:24:36+00:00"
 }

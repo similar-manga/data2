@@ -11,7 +11,7 @@
     "en": "Spade J"
    },
    "contentRating": "safe",
-   "score": 0.3523427
+   "score": 0.33911458
   },
   {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
@@ -19,7 +19,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.24815726,
+   "score": 0.24672933,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.24247174
+   "score": 0.24235241
   },
   {
    "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
@@ -38,7 +38,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.23729213,
+   "score": 0.23690894,
    "languages": [
     "en",
     "pt-br"
@@ -50,7 +50,7 @@
     "en": "Pilot Ace"
    },
    "contentRating": "safe",
-   "score": 0.23614223
+   "score": 0.2349947
   },
   {
    "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
@@ -58,7 +58,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.23247539,
+   "score": 0.2311487,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Kennedy Knights"
    },
    "contentRating": "safe",
-   "score": 0.2285229
+   "score": 0.22788236
   },
   {
    "id": "433ab7c2-9785-49f6-bde2-94a46f9cd385",
@@ -77,7 +77,7 @@
     "en": "Cursed Kyosuke PSI Ghost Investigation Room"
    },
    "contentRating": "safe",
-   "score": 0.22495382
+   "score": 0.22372492
   },
   {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
@@ -85,7 +85,7 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.22409908
+   "score": 0.22220016
   },
   {
    "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
@@ -93,10 +93,18 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.22288989,
+   "score": 0.22183749,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.21824607
   },
   {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
@@ -104,7 +112,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.21813193,
+   "score": 0.21723944,
    "languages": [
     "id",
     "en",
@@ -130,15 +138,18 @@
     "en": "The Doberman Detective"
    },
    "contentRating": "safe",
-   "score": 0.217542
+   "score": 0.21595915
   },
   {
-   "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
    "title": {
-    "en": "The Zero Zero Directive"
+    "en": "Detective Conan Special"
    },
    "contentRating": "safe",
-   "score": 0.21560787
+   "score": 0.21452922,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
@@ -154,30 +165,13 @@
    ]
   },
   {
-   "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
+   "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
    "title": {
-    "en": "Queen Emeraldas"
+    "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.21155883,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "38fce5ab-d630-40b2-8b4b-6ea3bef2f760",
-   "title": {
-    "en": "Love Lunch Time"
-   },
-   "contentRating": "safe",
-   "score": 0.20938332,
-   "languages": [
-    "th",
-    "vi",
-    "en",
-    "id"
-   ]
+   "score": 0.2140946
   }
  ],
- "updatedAt": "2023-12-10T01:03:24+00:00"
+ "updatedAt": "2023-12-10T18:18:15+00:00"
 }

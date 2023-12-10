@@ -6,16 +6,16 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
+   "id": "cb117c49-22e8-48e4-83cb-015aaae0d827",
    "title": {
-    "en": "Karakuri"
+    "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.2531706,
+   "score": 0.25520933,
    "languages": [
     "en",
-    "pl",
-    "it"
+    "pt-br",
+    "vi"
    ]
   },
   {
@@ -24,9 +24,22 @@
     "en": "Indigo Police"
    },
    "contentRating": "safe",
-   "score": 0.25129032,
+   "score": 0.2535149,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
+   "title": {
+    "en": "Karakuri"
+   },
+   "contentRating": "safe",
+   "score": 0.2523193,
+   "languages": [
+    "en",
+    "pl",
+    "it"
    ]
   },
   {
@@ -38,18 +51,6 @@
    "score": 0.23328476,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
-   "title": {
-    "en": "Minds"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -77,29 +78,26 @@
    ]
   },
   {
-   "id": "cb117c49-22e8-48e4-83cb-015aaae0d827",
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
    "title": {
-    "en": "LOVE THE WARZ"
+    "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.22205877,
+   "score": 0.23328476,
    "languages": [
     "en",
-    "pt-br",
-    "vi"
+    "pl"
    ]
   },
   {
-   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
+   "id": "24910475-a6f2-407c-b8ef-f1335aac494a",
    "title": {
-    "en": "KILLER PARENT"
+    "en": "Watch Dogs Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22555575,
    "languages": [
-    "tr",
-    "en",
-    "ru"
+    "en"
    ]
   },
   {
@@ -116,12 +114,25 @@
    ]
   },
   {
+   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
+   "title": {
+    "en": "KILLER PARENT"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
    "title": {
     "en": "Joreishi Rentaro no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.21787699,
+   "score": 0.2170567,
    "languages": [
     "it",
     "pt-br",
@@ -135,7 +146,7 @@
     "en": "Black Milk"
    },
    "contentRating": "safe",
-   "score": 0.21260022,
+   "score": 0.21337408,
    "languages": [
     "pt-br",
     "en"
@@ -147,7 +158,7 @@
     "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.21039046,
+   "score": 0.21003793,
    "languages": [
     "en",
     "ru",
@@ -162,7 +173,7 @@
     "en": "Composi!"
    },
    "contentRating": "safe",
-   "score": 0.20635913,
+   "score": 0.20582461,
    "languages": [
     "en"
    ]
@@ -173,7 +184,7 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.20412537,
+   "score": 0.20378466,
    "languages": [
     "en"
    ]
@@ -184,23 +195,12 @@
     "en": "Jekyll no Tsukaima"
    },
    "contentRating": "safe",
-   "score": 0.20316918,
+   "score": 0.20208576,
    "languages": [
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "c6384450-abc7-46ba-abc9-89805f00d104",
-   "title": {
-    "en": "Matohazure Q-doubu"
-   },
-   "contentRating": "safe",
-   "score": 0.20027205,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:06+00:00"
+ "updatedAt": "2023-12-10T18:33:19+00:00"
 }

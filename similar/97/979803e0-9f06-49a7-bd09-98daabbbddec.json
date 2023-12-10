@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "515e3ec4-ee36-4401-8aba-c0124b609707",
+   "title": {
+    "en": "Farewell Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.24415219,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da469add-1a65-4df5-9393-662c1bd7f5e6",
+   "title": {
+    "en": "Sousei Mahou no Saigensha"
+   },
+   "contentRating": "safe",
+   "score": 0.22299688,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "2f90e7e5-16b4-41f5-b717-137cf9783b5b",
    "title": {
     "en": "Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole"
    },
    "contentRating": "safe",
-   "score": 0.20506263,
+   "score": 0.20127524,
    "languages": [
     "en",
     "id",
@@ -24,7 +47,7 @@
     "en": "Heart Gear"
    },
    "contentRating": "safe",
-   "score": 0.19698004,
+   "score": 0.19660705,
    "languages": [
     "id",
     "en",
@@ -36,12 +59,26 @@
    ]
   },
   {
+   "id": "258d2691-ffea-4e77-8968-ce5c24ffc6f7",
+   "title": {
+    "en": "Isekai Tensei de Kenja ni Natte Boukensha Seikatsu ~[Mahou Kairyou] de Isekai Saikyou~"
+   },
+   "contentRating": "safe",
+   "score": 0.19645883,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "d1fa8ce7-ad9d-475d-9311-2a850b1f3336",
    "title": {
     "en": "Sekai wa Owattemo Ikirutte Tanoshii"
    },
    "contentRating": "safe",
-   "score": 0.19281398,
+   "score": 0.19197895,
    "languages": [
     "ru",
     "en",
@@ -50,30 +87,61 @@
    ]
   },
   {
-   "id": "d1173b5a-7c10-4762-8890-f7f7e3986c98",
+   "id": "12d81610-51d9-407b-b94d-6f50b4cee8d2",
    "title": {
-    "en": "The Greatest Philosopher With Zero Magic Power."
+    "en": "Tensai Majo no Maryoku Kare"
    },
    "contentRating": "safe",
-   "score": 0.17329626,
+   "score": 0.18026292,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
+   "title": {
+    "en": "Monogatari no Naka no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.17857164,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "51747cbe-691b-475e-bb1f-03ee61aa0f60",
+   "title": {
+    "en": "Manga de Wakaru! Magic Story"
+   },
+   "contentRating": "safe",
+   "score": 0.17742728,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
+   "id": "9c1222ee-3761-4584-8d6c-0b247762f9d5",
    "title": {
-    "en": "Maseki Gurume: Mamono no Chikara wo Tabeta Ore wa Saikyou!"
+    "en": "The Witch of Ice and Snow Has No Time For ××"
    },
    "contentRating": "safe",
-   "score": 0.17083901,
+   "score": 0.17589119,
    "languages": [
-    "es-la",
-    "en",
-    "id",
-    "pt-br",
-    "ru",
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "d1173b5a-7c10-4762-8890-f7f7e3986c98",
+   "title": {
+    "en": "The Greatest Philosopher With Zero Magic Power."
+   },
+   "contentRating": "safe",
+   "score": 0.17087735,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -89,126 +157,57 @@
    ]
   },
   {
+   "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
+   "title": {
+    "en": "Maseki Gurume: Mamono no Chikara wo Tabeta Ore wa Saikyou!"
+   },
+   "contentRating": "safe",
+   "score": 0.16932605,
+   "languages": [
+    "es-la",
+    "en",
+    "id",
+    "pt-br",
+    "ru",
+    "fr"
+   ]
+  },
+  {
+   "id": "032f800d-d632-4442-8830-d037d616ead4",
+   "title": {
+    "en": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru"
+   },
+   "contentRating": "safe",
+   "score": 0.16763544,
+   "languages": [
+    "en",
+    "vi",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "2ced4df6-d97c-44ae-9944-147d59137bfe",
+   "title": {
+    "en": "Cat Magic Is Going to Revolutionize the World, Right? ~If I'm Going to Be Called Inferior, I'm Going to Avenge Myself With Beast Magic!~"
+   },
+   "contentRating": "safe",
+   "score": 0.16719325,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b00f5d5f-0801-4ad5-b343-1f229a7bd404",
    "title": {
     "en": "Jukokuin no Tensei Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.16758704,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "112fc0f3-3661-4428-a2dc-3715d72b6ab6",
-   "title": {
-    "en": "Jamais Vu"
-   },
-   "contentRating": "safe",
-   "score": 0.16198477,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93d98bf7-9dbc-4ee1-9d93-d5dafd1035c8",
-   "title": {
-    "en": "Bliss~End Of Gods"
-   },
-   "contentRating": "safe",
-   "score": 0.16126402,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
-   "title": {
-    "en": "High Energy Core"
-   },
-   "contentRating": "safe",
-   "score": 0.15432245,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "f1c79d23-d306-40e5-8b47-17cab7408f1a",
-   "title": {
-    "en": "Tensei Shitara Slime Datta Ken: Bangaihen - Toaru Kyuuka no Sugoshikata"
-   },
-   "contentRating": "safe",
-   "score": 0.15211198,
-   "languages": [
-    "en",
-    "ar",
-    "es-la"
-   ]
-  },
-  {
-   "id": "829d27e8-3d50-48bc-ab1d-9d1c3bfba615",
-   "title": {
-    "en": "Isekai no Binbou Nouka ni Tensei Shita Node, Renga wo Tsukutte Shiro wo Tateru Koto ni Shimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.15052246,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "es"
-   ]
-  },
-  {
-   "id": "c7b742e5-84c5-4ca2-b064-f11a5b90c7d8",
-   "title": {
-    "en": "One in a Hundred"
-   },
-   "contentRating": "safe",
-   "score": 0.14838092,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d14354de-6af5-4b92-825d-47686d3fa145",
-   "title": {
-    "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem"
-   },
-   "contentRating": "safe",
-   "score": 0.14749245,
-   "languages": [
-    "es-la",
-    "es",
-    "fr",
-    "ru",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "585e6941-5cfb-4f06-8813-4343c6c1bd5c",
-   "title": {
-    "en": "The World's Fastest Level Up!"
-   },
-   "contentRating": "safe",
-   "score": 0.14605778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "030157c5-08d1-44c9-b0ed-9d9234f96dff",
-   "title": {
-    "en": "Shokubutsu Mahou Chito de Nonbiri Ryoshu Seikatsu Hajimemasu Zense no Chishiki o Kushi Shite Nogyo Shitara, Gyakuten Jinsei Hajimatta Kudan"
-   },
-   "contentRating": "safe",
-   "score": 0.14588168,
+   "score": 0.16498455,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:01+00:00"
+ "updatedAt": "2023-12-10T18:25:10+00:00"
 }

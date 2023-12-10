@@ -11,7 +11,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.27338108,
+   "score": 0.27258345,
    "languages": [
     "en",
     "pt-br",
@@ -29,7 +29,7 @@
     "en": "Thus Spoke Rohan Kishibe"
    },
    "contentRating": "safe",
-   "score": 0.26787078,
+   "score": 0.26228464,
    "languages": [
     "fr",
     "en",
@@ -47,7 +47,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.23969524,
+   "score": 0.23880908,
    "languages": [
     "en"
    ]
@@ -101,12 +101,32 @@
    ]
   },
   {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21001557,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
    "id": "b6886009-e60b-44a7-abc2-a575765277ba",
    "title": {
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.20975693,
+   "score": 0.20962022,
    "languages": [
     "pl",
     "en",
@@ -123,18 +143,6 @@
    ]
   },
   {
-   "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
-   "title": {
-    "en": "Sand Land Full Color"
-   },
-   "contentRating": "safe",
-   "score": 0.20574205,
-   "languages": [
-    "es-la",
-    "pl"
-   ]
-  },
-  {
    "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
     "en": "Ge Ge Ge no Kitaro"
@@ -146,12 +154,24 @@
    ]
   },
   {
+   "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
+   "title": {
+    "en": "Sand Land Full Color"
+   },
+   "contentRating": "safe",
+   "score": 0.20450765,
+   "languages": [
+    "es-la",
+    "pl"
+   ]
+  },
+  {
    "id": "8bd19e5c-94f7-4368-a918-50f463857446",
    "title": {
     "en": "Kuroshitsuji"
    },
    "contentRating": "safe",
-   "score": 0.20185548,
+   "score": 0.20132194,
    "languages": [
     "en",
     "pt-br",
@@ -170,7 +190,7 @@
     "en": "The Playground of Yin and Yang"
    },
    "contentRating": "safe",
-   "score": 0.19824588,
+   "score": 0.19752258,
    "languages": [
     "es",
     "ja",
@@ -194,7 +214,7 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.190387,
+   "score": 0.18997136,
    "languages": [
     "en"
    ]
@@ -205,7 +225,7 @@
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.18992846,
+   "score": 0.1893112,
    "languages": [
     "pt-br",
     "it",
@@ -235,24 +255,7 @@
     "fr",
     "vi"
    ]
-  },
-  {
-   "id": "fbe57225-e455-4680-b2b9-5b8b82a1be9e",
-   "title": {
-    "en": "The Ride-On King"
-   },
-   "contentRating": "safe",
-   "score": 0.18323407,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "pl",
-    "id",
-    "it",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:27+00:00"
+ "updatedAt": "2023-12-10T18:34:08+00:00"
 }

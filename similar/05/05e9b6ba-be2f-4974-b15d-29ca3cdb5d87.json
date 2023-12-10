@@ -6,12 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "22220dbb-a0cd-4a5b-a261-70fb1041924a",
+   "title": {
+    "en": "Datte... Gaman Dekinai"
+   },
+   "contentRating": "safe",
+   "score": 0.30297142,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fb89fa17-5674-4ad6-ad3c-1c7b50830aeb",
    "title": {
     "en": "H³ School!"
    },
    "contentRating": "safe",
-   "score": 0.30027112,
+   "score": 0.298731,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d2cb3dc6-0070-49be-a6d7-0cf30e186635",
+   "title": {
+    "en": "Pretty Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.29198807,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ac78abaa-a9ba-4db0-b09a-eb54d8708310",
+   "title": {
+    "en": "Gothic Sports"
+   },
+   "contentRating": "safe",
+   "score": 0.28705367,
    "languages": [
     "en"
    ]
@@ -22,7 +55,7 @@
     "en": "Gakkou no Ojikan"
    },
    "contentRating": "safe",
-   "score": 0.2882833,
+   "score": 0.28560466,
    "languages": [
     "pl",
     "en"
@@ -34,7 +67,7 @@
     "en": "Honey Holic"
    },
    "contentRating": "safe",
-   "score": 0.2768421,
+   "score": 0.27437237,
    "languages": [
     "en"
    ]
@@ -45,18 +78,7 @@
     "en": "My Platinum Lady"
    },
    "contentRating": "safe",
-   "score": 0.27383628,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cea391ad-be50-4a38-92b8-81b3f21bcd9a",
-   "title": {
-    "en": "Shoujo Shounen Gakkyuudan"
-   },
-   "contentRating": "safe",
-   "score": 0.270929,
+   "score": 0.27273822,
    "languages": [
     "en"
    ]
@@ -67,7 +89,7 @@
     "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.26752424,
+   "score": 0.26784247,
    "languages": [
     "en"
    ]
@@ -78,7 +100,18 @@
     "en": "ItaKiss"
    },
    "contentRating": "safe",
-   "score": 0.26730654,
+   "score": 0.2667598,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cea391ad-be50-4a38-92b8-81b3f21bcd9a",
+   "title": {
+    "en": "Shoujo Shounen Gakkyuudan"
+   },
+   "contentRating": "safe",
+   "score": 0.26580754,
    "languages": [
     "en"
    ]
@@ -89,7 +122,7 @@
     "en": "Chibi to Pocchari de Renai Shimasu kedo, Nani ka?"
    },
    "contentRating": "safe",
-   "score": 0.2666358,
+   "score": 0.26529706,
    "languages": [
     "en"
    ]
@@ -100,7 +133,7 @@
     "en": "Attack No.1"
    },
    "contentRating": "safe",
-   "score": 0.26040378,
+   "score": 0.2585206,
    "languages": [
     "en"
    ]
@@ -119,23 +152,23 @@
    ]
   },
   {
-   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
-   "title": {
-    "en": "Anesan Countdown!"
-   },
-   "contentRating": "safe",
-   "score": 0.25591126,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
    "title": {
     "en": "Lovely"
    },
    "contentRating": "safe",
-   "score": 0.25567237,
+   "score": 0.2550991,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
+   "title": {
+    "en": "Anesan Countdown!"
+   },
+   "contentRating": "safe",
+   "score": 0.25499558,
    "languages": [
     "en"
    ]
@@ -146,45 +179,11 @@
     "en": "Orera Kourin! Ai toka Koi toka Sekai toka"
    },
    "contentRating": "safe",
-   "score": 0.25473014,
+   "score": 0.25449312,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
-   "title": {
-    "en": "Hajimete..."
-   },
-   "contentRating": "safe",
-   "score": 0.25428802,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
-   "title": {
-    "en": "Cream"
-   },
-   "contentRating": "safe",
-   "score": 0.24929874,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4dc16407-9fc9-49f7-8a44-aada787df91c",
-   "title": {
-    "en": "The Guy Who Will Give a Kiss for ₩ 5000"
-   },
-   "contentRating": "safe",
-   "score": 0.24852006,
-   "languages": [
-    "en",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:59+00:00"
+ "updatedAt": "2023-12-10T18:08:59+00:00"
 }

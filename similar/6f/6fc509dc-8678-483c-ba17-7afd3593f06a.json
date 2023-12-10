@@ -22,7 +22,7 @@
     "en": "Oshikake Ouji wa Nido Oishii"
    },
    "contentRating": "safe",
-   "score": 0.1202577,
+   "score": 0.119683444,
    "languages": [
     "en"
    ]
@@ -33,33 +33,10 @@
     "en": "Planet of Wheat"
    },
    "contentRating": "safe",
-   "score": 0.110785484,
+   "score": 0.10999224,
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "22a86d7c-6827-402c-80af-dbdee3c6c6aa",
-   "title": {
-    "en": "Ihou no Oswald"
-   },
-   "contentRating": "safe",
-   "score": 0.1016698,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "2b5ef364-a7d2-42b1-915e-93c5e7140952",
-   "title": {
-    "en": "A Breeze of Kanome"
-   },
-   "contentRating": "safe",
-   "score": 0.09410826,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -74,29 +51,40 @@
    ]
   },
   {
+   "id": "22a86d7c-6827-402c-80af-dbdee3c6c6aa",
+   "title": {
+    "en": "Ihou no Oswald"
+   },
+   "contentRating": "safe",
+   "score": 0.09407209,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "2b5ef364-a7d2-42b1-915e-93c5e7140952",
+   "title": {
+    "en": "A Breeze of Kanome"
+   },
+   "contentRating": "safe",
+   "score": 0.093523234,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cffb9e9d-d7a2-4293-b19d-e351eaf2d20c",
    "title": {
     "en": "Denpatou"
    },
    "contentRating": "safe",
-   "score": 0.09301799,
+   "score": 0.09237704,
    "languages": [
     "fr",
     "en",
     "ru",
     "pt-br"
-   ]
-  },
-  {
-   "id": "931f5b32-3640-4505-a9d1-c0037c302808",
-   "title": {
-    "en": "DOLL: IC in a Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.08414063,
-   "languages": [
-    "it",
-    "en"
    ]
   },
   {
@@ -124,12 +112,24 @@
    ]
   },
   {
+   "id": "931f5b32-3640-4505-a9d1-c0037c302808",
+   "title": {
+    "en": "DOLL: IC in a Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.08414063,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "c0bdc917-50d6-44df-8349-a702e5466951",
    "title": {
     "en": "Ashi-Girl"
    },
    "contentRating": "safe",
-   "score": 0.07920686,
+   "score": 0.07852855,
    "languages": [
     "en",
     "es-la",
@@ -138,15 +138,15 @@
    ]
   },
   {
-   "id": "2a8c872a-f981-4450-a43a-f7f02ab8da02",
+   "id": "bfd76e18-140e-4a54-979f-e88ea0b3d3c0",
    "title": {
-    "en": "Snow White's Secret"
+    "en": "The Knight Commander Wants to Monopolize the Former Glasses Girl"
    },
    "contentRating": "safe",
-   "score": 0.06737451,
+   "score": 0.06672557,
    "languages": [
-    "pl",
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
@@ -157,6 +157,18 @@
    "contentRating": "safe",
    "score": 0.066519015,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2a8c872a-f981-4450-a43a-f7f02ab8da02",
+   "title": {
+    "en": "Snow White's Secret"
+   },
+   "contentRating": "safe",
+   "score": 0.06507738,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -181,20 +193,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "924b3c32-f9ac-41dc-8e3c-44e9a3d482bc",
-   "title": {
-    "en": "We Swore to Meet in the Next Life and That’s When Things Got Weird!"
-   },
-   "contentRating": "safe",
-   "score": 0.058064904,
-   "languages": [
-    "en",
-    "vi",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:13+00:00"
+ "updatedAt": "2023-12-10T18:20:26+00:00"
 }

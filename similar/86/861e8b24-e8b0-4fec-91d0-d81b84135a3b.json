@@ -6,12 +6,48 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3b7a12a9-c86d-4092-800b-ca3bfaa8d5f9",
+   "title": {
+    "en": "Tales of Phantasia"
+   },
+   "contentRating": "safe",
+   "score": 0.25666898,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
    "title": {
     "en": "Terranigma"
    },
    "contentRating": "safe",
-   "score": 0.25479352,
+   "score": 0.2559027,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
+   "title": {
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "id",
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
+   "title": {
+    "en": "Ignite"
+   },
+   "contentRating": "safe",
+   "score": 0.2448957,
    "languages": [
     "en"
    ]
@@ -22,31 +58,32 @@
     "en": "Crown"
    },
    "contentRating": "safe",
-   "score": 0.24756397,
+   "score": 0.24482097,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3b7a12a9-c86d-4092-800b-ca3bfaa8d5f9",
+   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
    "title": {
-    "en": "Tales of Phantasia"
+    "en": "Final Re:Quest"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
+   "id": "19e75e0a-13e8-44b9-8510-c348bae6fc7c",
    "title": {
-    "en": "Ignite"
+    "en": "Chaos Theory"
    },
    "contentRating": "safe",
-   "score": 0.24680111,
+   "score": 0.23328476,
    "languages": [
-    "en"
+    "en",
+    "id"
    ]
   },
   {
@@ -55,7 +92,7 @@
     "en": "Yuusha Goikkou no Kaerimichi"
    },
    "contentRating": "safe",
-   "score": 0.23527841,
+   "score": 0.23269336,
    "languages": [
     "en",
     "es-la",
@@ -70,25 +107,28 @@
    ]
   },
   {
-   "id": "fbfe07a9-4b54-4a4f-a43c-da39eba8bd14",
-   "title": {
-    "en": "Wizardry Zeo"
-   },
-   "contentRating": "safe",
-   "score": 0.22890179,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
    "title": {
     "en": "Juuhime - Sincerely Night"
    },
    "contentRating": "safe",
-   "score": 0.22666042,
+   "score": 0.22272192,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.22158845,
+   "languages": [
+    "en",
+    "ar",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -117,86 +157,54 @@
    ]
   },
   {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
+   "id": "fbfe07a9-4b54-4a4f-a43c-da39eba8bd14",
    "title": {
-    "en": "Star Ocean - Blue Sphere"
+    "en": "Wizardry Zeo"
    },
    "contentRating": "safe",
-   "score": 0.21290207,
+   "score": 0.22131334,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9f18938b-f466-4f74-b6f0-140dc28e8812",
+   "id": "11c172c6-dd5d-46d8-9794-1aa60d6e77d3",
    "title": {
-    "en": "Senyuu."
+    "en": "Brunhild the Dragonslayer"
    },
    "contentRating": "safe",
-   "score": 0.20461172,
+   "score": 0.22131334,
    "languages": [
+    "id",
     "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f5d93ec1-69d3-4190-9b6e-9d5fe1dd1a91",
+   "title": {
+    "en": "Chain Chronicle Crimson"
+   },
+   "contentRating": "safe",
+   "score": 0.22113998,
+   "languages": [
     "es",
-    "tr"
-   ]
-  },
-  {
-   "id": "434fce68-4796-4d43-a38d-f79f0ee9103f",
-   "title": {
-    "en": "Sono Mukou no Mukougawa"
-   },
-   "contentRating": "safe",
-   "score": 0.20418485,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
-   "title": {
-    "en": "GOD EATER - the spiral fate"
-   },
-   "contentRating": "safe",
-   "score": 0.1988467,
-   "languages": [
     "en",
-    "tr"
+    "ru"
    ]
   },
   {
-   "id": "a5b9144f-9f00-40c2-ab2e-cf063cbdda1c",
+   "id": "bb1792a0-5887-4dcf-abc4-a733934f6eb1",
    "title": {
-    "en": "Son Yeon Jeon [Limit]"
+    "en": "Fire Emblem - Thracia 776"
    },
    "contentRating": "safe",
-   "score": 0.19445032,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
-   "title": {
-    "en": "Tales of Destiny 2"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf081d30-5fb3-4cee-b3cc-05ee89f4fcbc",
-   "title": {
-    "en": "City Hall"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.2106357,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:10+00:00"
+ "updatedAt": "2023-12-10T18:23:02+00:00"
 }

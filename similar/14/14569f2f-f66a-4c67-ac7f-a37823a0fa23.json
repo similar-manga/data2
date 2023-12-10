@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "87805d71-2e41-4cca-b91b-bb6833324736",
+   "title": {
+    "en": "Step Aside, I Will Choose the Ending"
+   },
+   "contentRating": "safe",
+   "score": 0.40594593,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "641ef96d-fe37-4fa1-854b-dcef9623a145",
    "title": {
     "en": "Strange Love Rivals Increased!"
    },
    "contentRating": "safe",
-   "score": 0.40268064,
+   "score": 0.40223655,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "The Duke's Darling Daughter-in-Law"
    },
    "contentRating": "safe",
-   "score": 0.36608398,
+   "score": 0.36764657,
    "languages": [
     "en",
     "uk"
@@ -34,23 +46,11 @@
     "en": "The Bad Ending of an Otome Game"
    },
    "contentRating": "safe",
-   "score": 0.3551333,
+   "score": 0.35435656,
    "languages": [
     "en",
     "pl",
     "tr"
-   ]
-  },
-  {
-   "id": "85b4d2f6-b4bc-42ba-b478-7ecde3b706e1",
-   "title": {
-    "en": "Saving the Villain from the Heroine"
-   },
-   "contentRating": "safe",
-   "score": 0.35274246,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -59,7 +59,7 @@
     "en": "The Villainess Wants to Die Gracefully"
    },
    "contentRating": "safe",
-   "score": 0.35136005,
+   "score": 0.35355774,
    "languages": [
     "pl",
     "en"
@@ -71,10 +71,22 @@
     "en": "I Became the Younger Sister of a Regretful Obsessive Male Lead"
    },
    "contentRating": "safe",
-   "score": 0.3500365,
+   "score": 0.34972873,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "85b4d2f6-b4bc-42ba-b478-7ecde3b706e1",
+   "title": {
+    "en": "Saving the Villain from the Heroine"
+   },
+   "contentRating": "safe",
+   "score": 0.34907475,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -83,7 +95,7 @@
     "en": "The Viridescent Tiara"
    },
    "contentRating": "safe",
-   "score": 0.3482323,
+   "score": 0.34676927,
    "languages": [
     "ru",
     "en",
@@ -99,7 +111,7 @@
     "en": "Koushaku Reijou no Tashinami"
    },
    "contentRating": "safe",
-   "score": 0.3476469,
+   "score": 0.3448414,
    "languages": [
     "en",
     "fr",
@@ -115,7 +127,7 @@
     "en": "Don't Trust the Female Lead"
    },
    "contentRating": "safe",
-   "score": 0.34331447,
+   "score": 0.3420745,
    "languages": [
     "pt-br",
     "fa"
@@ -127,35 +139,21 @@
     "en": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta... Web Comic"
    },
    "contentRating": "safe",
-   "score": 0.34030256,
+   "score": 0.34066534,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "dc07afaa-643a-4bf4-a9d0-b21ecc101736",
+   "id": "da0ccc81-68ef-4b0b-8023-52f60046d714",
    "title": {
-    "en": "I Met the Male Lead in Prison"
+    "en": "Give the Harem to the Villainess"
    },
    "contentRating": "safe",
-   "score": 0.32817313,
+   "score": 0.33337238,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8848b6bd-dfae-4fec-8bc4-8a130394c9a1",
-   "title": {
-    "en": "The Precious Sister of the Villainous Grand Duke"
-   },
-   "contentRating": "safe",
-   "score": 0.32807708,
-   "languages": [
-    "ru",
     "en",
-    "pl",
-    "fr",
-    "uk"
+    "id"
    ]
   },
   {
@@ -164,32 +162,7 @@
     "en": "The Villainess Refuses to Flirt With the Male Lead"
    },
    "contentRating": "safe",
-   "score": 0.32632506,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "46c44d71-f114-4776-a0de-b4179d65c0e6",
-   "title": {
-    "en": "The Villainess Is Shy in Receiving Affection"
-   },
-   "contentRating": "safe",
-   "score": 0.3258752,
-   "languages": [
-    "en",
-    "fr",
-    "pl",
-    "vi"
-   ]
-  },
-  {
-   "id": "559679c2-e798-4feb-97b4-b4da0b44f848",
-   "title": {
-    "en": "I Adopted a Villainous Dad"
-   },
-   "contentRating": "safe",
-   "score": 0.32528377,
+   "score": 0.3297942,
    "languages": [
     "en"
    ]
@@ -200,11 +173,36 @@
     "en": "I'm a Villainess, but I Picked up the Male Lead"
    },
    "contentRating": "safe",
-   "score": 0.32526633,
+   "score": 0.32918972,
    "languages": [
     "pt-br"
    ]
+  },
+  {
+   "id": "dc07afaa-643a-4bf4-a9d0-b21ecc101736",
+   "title": {
+    "en": "I Met the Male Lead in Prison"
+   },
+   "contentRating": "safe",
+   "score": 0.3290856,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "46c44d71-f114-4776-a0de-b4179d65c0e6",
+   "title": {
+    "en": "The Villainess Is Shy in Receiving Affection"
+   },
+   "contentRating": "safe",
+   "score": 0.32470763,
+   "languages": [
+    "en",
+    "fr",
+    "pl",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:33+00:00"
+ "updatedAt": "2023-12-10T18:10:31+00:00"
 }

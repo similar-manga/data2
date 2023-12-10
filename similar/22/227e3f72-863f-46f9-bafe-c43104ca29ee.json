@@ -6,25 +6,25 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "e8853450-bac4-45df-bea5-5b4c116f3a61",
-   "title": {
-    "en": "Adventurer's Guild Universal Advisor"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23630962,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "c2e76d62-702b-4a8e-a4d0-c7cecd45b8ea",
    "title": {
     "en": "One Piece (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.23613319,
+   "score": 0.23645528,
    "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e8853450-bac4-45df-bea5-5b4c116f3a61",
+   "title": {
+    "en": "Adventurer's Guild Universal Advisor"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23561054,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -34,7 +34,7 @@
     "en": "One Piece - Digital Colored Comics"
    },
    "contentRating": "suggestive",
-   "score": 0.23327762,
+   "score": 0.23354678,
    "languages": [
     "it",
     "uk",
@@ -53,7 +53,7 @@
     "en": "4 Cut Hero"
    },
    "contentRating": "suggestive",
-   "score": 0.2283183,
+   "score": 0.22723712,
    "languages": [
     "ru",
     "en",
@@ -68,7 +68,7 @@
     "en": "After Tormenting the Devil, I Did Not Want to Stand Out, So I Became a Guild Master"
    },
    "contentRating": "suggestive",
-   "score": 0.22665325,
+   "score": 0.22542815,
    "languages": [
     "ru",
     "en",
@@ -82,7 +82,7 @@
     "en": "From Leveling Up the Hero to Leveling Up a Nation"
    },
    "contentRating": "suggestive",
-   "score": 0.21960546,
+   "score": 0.21911676,
    "languages": [
     "en",
     "pt-br",
@@ -106,20 +106,22 @@
     "en": "After School Labyrinth Adventurer ~ I'm now able to go back and forth between Japan and another world, and I'll work hard to level up~"
    },
    "contentRating": "suggestive",
-   "score": 0.21384089,
+   "score": 0.21332288,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
+   "id": "e9cb9e3b-efaa-4b85-88e9-5b0612e50a61",
    "title": {
-    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
+    "en": "6-gou Keibi"
    },
    "contentRating": "suggestive",
-   "score": 0.21329218,
+   "score": 0.2040834,
    "languages": [
-    "en"
+    "pt-br",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -137,16 +139,14 @@
    ]
   },
   {
-   "id": "e9cb9e3b-efaa-4b85-88e9-5b0612e50a61",
+   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
    "title": {
-    "en": "6-gou Keibi"
+    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
    },
    "contentRating": "suggestive",
-   "score": 0.20337084,
+   "score": 0.20170142,
    "languages": [
-    "pt-br",
-    "en",
-    "es-la"
+    "en"
    ]
   },
   {
@@ -155,7 +155,7 @@
     "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.19971503,
+   "score": 0.19942741,
    "languages": [
     "en"
    ]
@@ -166,7 +166,7 @@
     "en": "Kinsou no Vermeil ~Gakeppuchi Majutshi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu~"
    },
    "contentRating": "suggestive",
-   "score": 0.19640267,
+   "score": 0.19507624,
    "languages": [
     "pt-br",
     "en",
@@ -181,21 +181,9 @@
     "en": "Grenadier"
    },
    "contentRating": "suggestive",
-   "score": 0.19445805,
+   "score": 0.19344497,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "9dbd08c3-a4ed-4fa3-82e2-18a400f80627",
-   "title": {
-    "en": "Nimotsu Mochi no Nousuji Musou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19317813,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -208,7 +196,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d4f564d4-2497-45cc-aab2-1df06a30dd7c",
+   "title": {
+    "en": "Chess Time"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19317813,
+   "languages": [
+    "es"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:05+00:00"
+ "updatedAt": "2023-12-10T18:12:00+00:00"
 }

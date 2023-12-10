@@ -11,7 +11,7 @@
     "en": "Kataomoi Couple"
    },
    "contentRating": "safe",
-   "score": 0.31907704,
+   "score": 0.31728545,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Koi Wakaba"
    },
    "contentRating": "safe",
-   "score": 0.3161252,
+   "score": 0.31501567,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Yuan Wei Cu Ji"
    },
    "contentRating": "safe",
-   "score": 0.30743614,
+   "score": 0.30750182,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Muyu He Benxiaozhu"
    },
    "contentRating": "safe",
-   "score": 0.30672663,
+   "score": 0.30536523,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "First Love"
    },
    "contentRating": "safe",
-   "score": 0.30178538,
+   "score": 0.30116266,
    "languages": [
     "pt-br",
     "en"
@@ -67,7 +67,18 @@
     "en": "Senpai no Pocket"
    },
    "contentRating": "safe",
-   "score": 0.2974881,
+   "score": 0.29764232,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.2890435,
    "languages": [
     "en"
    ]
@@ -78,62 +89,7 @@
     "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.28953752,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a73c6af-f336-47a1-bcc9-222e819732d4",
-   "title": {
-    "en": "Hyougara Sanka"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d37ee149-e0cf-401e-829d-394f459753e1",
-   "title": {
-    "en": "Melange!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eeaceee6-71c5-43a0-a8a9-640d302015f0",
-   "title": {
-    "en": "Hokori"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "940fbcd4-aa12-4a1a-be22-8b27ad000c9f",
-   "title": {
-    "en": "Blackberry"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e3d3de2-e6b0-4f1e-9351-20501ea4dc27",
-   "title": {
-    "en": "Deco Deco Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.28842884,
    "languages": [
     "en"
    ]
@@ -152,9 +108,9 @@
    ]
   },
   {
-   "id": "d29e845e-69e5-4066-8799-6835886286b5",
+   "id": "1a73c6af-f336-47a1-bcc9-222e819732d4",
    "title": {
-    "en": "Haruiro Stalker"
+    "en": "Hyougara Sanka"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -163,27 +119,74 @@
    ]
   },
   {
-   "id": "59156bc0-42c8-4570-a496-242847e9680d",
+   "id": "7d080778-75c5-4b5b-a66e-b9e6a776daa7",
    "title": {
-    "en": "Otouto wo Kareshi ni Suru Houhou"
+    "en": "Himitsu no Sono Ato"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "fd9e15c5-5e31-45c4-8da6-4d09a3ae62b7",
+   "title": {
+    "en": "Karma - What Goes Around Comes Around"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "043fb287-26b7-4089-87e8-5d72e8ea6c8f",
+   "title": {
+    "en": "Love Log"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "dcfdf637-e910-475f-ad07-f554b170b895",
+   "title": {
+    "en": "Rensou Mode"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "bfa3d285-3b94-455a-a9aa-5aaacd1fdcb3",
+   "title": {
+    "en": "Watashi no Mahoutsukai-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "13925333-33b4-41eb-ae92-a4847d54cab8",
+   "title": {
+    "en": "Motenai Riyuu ga Oosugiru!!!!!"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "pl"
    ]
-  },
-  {
-   "id": "eb6dee39-20ab-4546-bca9-ba6debd7a1a9",
-   "title": {
-    "en": "Manabiya Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:12+00:00"
+ "updatedAt": "2023-12-10T18:12:20+00:00"
 }

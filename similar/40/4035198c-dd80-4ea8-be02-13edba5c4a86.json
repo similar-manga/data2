@@ -11,7 +11,7 @@
     "en": "Transmission Man Barubar"
    },
    "contentRating": "safe",
-   "score": 0.30001885
+   "score": 0.29957986
   },
   {
    "id": "d2962abe-c277-4339-b1ee-fe7be0c919c1",
@@ -19,7 +19,7 @@
     "en": "otaku basho monogatari"
    },
    "contentRating": "safe",
-   "score": 0.28460994
+   "score": 0.28042755
   },
   {
    "id": "92b24841-b7a7-4427-9bb1-df660a301674",
@@ -27,7 +27,7 @@
     "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
    },
    "contentRating": "safe",
-   "score": 0.26450208,
+   "score": 0.26445976,
    "languages": [
     "en",
     "es-la",
@@ -37,23 +37,12 @@
    ]
   },
   {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
+   "id": "0fda2276-395c-4052-959c-356181b7755e",
    "title": {
-    "en": "E's"
+    "en": "Golden Bat (NAGAMATSU Takeo)"
    },
    "contentRating": "safe",
-   "score": 0.25784785,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57bdb07c-9338-4d80-a1e3-8eed6238ada4",
-   "title": {
-    "en": "Cyborg 009 (SATO Sugar)"
-   },
-   "contentRating": "safe",
-   "score": 0.25558537
+   "score": 0.25555065
   },
   {
    "id": "db53b0b0-bfbb-4677-b54c-60ae542cb6a6",
@@ -79,37 +68,36 @@
    ]
   },
   {
-   "id": "0fda2276-395c-4052-959c-356181b7755e",
+   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
    "title": {
-    "en": "Golden Bat (NAGAMATSU Takeo)"
+    "en": "E's"
    },
    "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
-   "title": {
-    "en": "Monsters"
-   },
-   "contentRating": "safe",
-   "score": 0.248615,
+   "score": 0.25549167,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "b313f266-1de1-420b-a7fe-40bb2b0e6230",
+   "id": "57bdb07c-9338-4d80-a1e3-8eed6238ada4",
    "title": {
-    "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
+    "en": "Cyborg 009 (SATO Sugar)"
    },
    "contentRating": "safe",
-   "score": 0.24743582
+   "score": 0.25525355
   },
   {
    "id": "e2e24c56-880e-4cb4-87f2-e81a8a0c0213",
    "title": {
     "en": "Shin Megami Tensei Devil Children - Light \u0026 Dark"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "b313f266-1de1-420b-a7fe-40bb2b0e6230",
+   "title": {
+    "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -128,32 +116,21 @@
     "en": "The Third: Aoi Hitomi no Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.24717642,
+   "score": 0.24679746,
    "languages": [
     "de"
    ]
   },
   {
-   "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
+   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
    "title": {
-    "en": "Kaiju No. 8"
+    "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.23889574,
+   "score": 0.24618565,
    "languages": [
-    "ar",
-    "uk",
     "pt-br",
-    "it",
-    "id",
-    "ru",
-    "fr",
-    "tr",
-    "pl",
-    "fa",
-    "es-la",
-    "en",
-    "th"
+    "en"
    ]
   },
   {
@@ -162,7 +139,7 @@
     "en": "Sexy☆Socks"
    },
    "contentRating": "safe",
-   "score": 0.2357449,
+   "score": 0.23350982,
    "languages": [
     "en"
    ]
@@ -173,12 +150,20 @@
     "en": "Nephilim John"
    },
    "contentRating": "safe",
-   "score": 0.23409344,
+   "score": 0.23328894,
    "languages": [
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "31c672d9-ccce-44f0-98b0-f45fde110414",
+   "title": {
+    "en": "Arc the Lad II - Flame of Elk"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   }
  ],
- "updatedAt": "2023-12-10T01:02:13+00:00"
+ "updatedAt": "2023-12-10T18:15:14+00:00"
 }

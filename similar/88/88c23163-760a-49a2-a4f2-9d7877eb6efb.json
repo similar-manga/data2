@@ -6,14 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
+   "title": {
+    "en": "Atom - The Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.29972124,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "62483bf6-e4c2-4aaf-bf53-fc822ba21428",
    "title": {
     "en": "Knight Run - Father's Day"
    },
    "contentRating": "safe",
-   "score": 0.25326672,
+   "score": 0.25160727,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6cd8ae64-94bc-4833-b596-fe1f881e8bd6",
+   "title": {
+    "en": "Crows Respect"
+   },
+   "contentRating": "safe",
+   "score": 0.24492913,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -22,7 +47,7 @@
     "en": "Sore ga Sekai no Futsu ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.23706444,
+   "score": 0.23692685,
    "languages": [
     "en"
    ]
@@ -56,7 +81,7 @@
     "en": "Beyond the Sky"
    },
    "contentRating": "safe",
-   "score": 0.22903238,
+   "score": 0.22915004,
    "languages": [
     "pl",
     "en"
@@ -68,7 +93,7 @@
     "en": "My Godly Watch"
    },
    "contentRating": "safe",
-   "score": 0.22797553,
+   "score": 0.2271064,
    "languages": [
     "en"
    ]
@@ -79,7 +104,7 @@
     "en": "Sleipnir"
    },
    "contentRating": "safe",
-   "score": 0.22444117,
+   "score": 0.22378369,
    "languages": [
     "en"
    ]
@@ -90,7 +115,18 @@
     "en": "Aquarion EVOL"
    },
    "contentRating": "safe",
-   "score": 0.22064716,
+   "score": 0.22044505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ce90ae7e-6be5-4b27-b142-81d9b12ebabe",
+   "title": {
+    "en": "Red Fang"
+   },
+   "contentRating": "safe",
+   "score": 0.21375689,
    "languages": [
     "en"
    ]
@@ -101,7 +137,7 @@
     "en": "Rakshasa Street"
    },
    "contentRating": "safe",
-   "score": 0.21393786,
+   "score": 0.21348713,
    "languages": [
     "fr",
     "en",
@@ -110,23 +146,34 @@
    ]
   },
   {
-   "id": "ce90ae7e-6be5-4b27-b142-81d9b12ebabe",
+   "id": "93dd09e2-64b6-4351-905f-66b28ac48558",
    "title": {
-    "en": "Red Fang"
+    "en": "Victim"
    },
    "contentRating": "safe",
-   "score": 0.2138312,
+   "score": 0.20938282,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
+   "id": "26a40957-765b-4dcf-9548-dcb9e2a63e66",
    "title": {
-    "en": "Shin Henkei Shoujo"
+    "en": "GO"
    },
    "contentRating": "safe",
-   "score": 0.20644996,
+   "score": 0.20867427,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
+   "title": {
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
+   },
+   "contentRating": "safe",
+   "score": 0.20708635,
    "languages": [
     "en"
    ]
@@ -141,57 +188,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
-   "title": {
-    "en": "Esoragoto"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
-   "title": {
-    "en": "Guilty Crown: Dancing Endlaves"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc3124ba-1149-434b-aa87-a30415df13a9",
-   "title": {
-    "en": "Yuusha-Ou GaoGaiGar Gaiden King J-Der -Shakunetsu no Fushichou-"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
-   "title": {
-    "en": "Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.20527153,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "de",
-    "id",
-    "ru",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:18+00:00"
+ "updatedAt": "2023-12-10T18:23:21+00:00"
 }

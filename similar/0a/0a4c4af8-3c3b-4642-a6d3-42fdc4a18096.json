@@ -6,13 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10",
+   "title": {
+    "en": "Okuremashite Seishun"
+   },
+   "contentRating": "safe",
+   "score": 0.28684202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7fd47186-a120-4c0d-9493-c501f6821c3c",
    "title": {
     "en": "World's First Romcom: Oga and Bebe (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.2641391,
+   "score": 0.2645161,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "233d148f-cb4a-4fee-97b5-02ffa3900005",
+   "title": {
+    "en": "A Story with Happy Ending"
+   },
+   "contentRating": "safe",
+   "score": 0.25441092,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -31,24 +54,12 @@
    ]
   },
   {
-   "id": "233d148f-cb4a-4fee-97b5-02ffa3900005",
-   "title": {
-    "en": "A Story with Happy Ending"
-   },
-   "contentRating": "safe",
-   "score": 0.25441092,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "ae6a50cf-d946-4edf-b1ae-547b2defb103",
    "title": {
     "en": "Hakarazumo Koi"
    },
    "contentRating": "safe",
-   "score": 0.25330064,
+   "score": 0.2523471,
    "languages": [
     "id",
     "es-la",
@@ -61,7 +72,7 @@
     "en": "Jihanki"
    },
    "contentRating": "safe",
-   "score": 0.24508397,
+   "score": 0.24628237,
    "languages": [
     "ru",
     "en",
@@ -70,45 +81,40 @@
    ]
   },
   {
+   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
+   "title": {
+    "en": "Wakaba-chan wa Wakarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.24459618,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "bceba6eb-3e47-4d5c-a34a-3efb6de5b871",
    "title": {
     "en": "Te o Yaite Ita Osananajimi ga Itsu no Ma ni ka Seichou Shiteta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.24418499,
+   "score": 0.24417658,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "40ad00ed-0b6a-4f3c-97d1-b35db85d9386",
+   "id": "43e16040-b56b-4c30-990d-319e2a896216",
    "title": {
-    "en": "Kareshi ni Ichibyou demo Hayaku Aitai Onnanoko"
+    "en": "I Lied to My Idol to Get Closer to Him"
    },
    "contentRating": "safe",
-   "score": 0.24379103,
+   "score": 0.23961711,
    "languages": [
-    "ru",
-    "fr",
-    "vi",
     "en",
+    "tr",
     "id"
-   ]
-  },
-  {
-   "id": "ade51b4d-9d62-47af-8e11-d2bf1fc1a615",
-   "title": {
-    "en": "Time Letter"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "fr",
-    "ca",
-    "id",
-    "vi",
-    "es-la",
-    "en"
    ]
   },
   {
@@ -120,6 +126,32 @@
    "score": 0.2388799,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "f3fe03f8-87e1-4144-8b74-006af748435e",
+   "title": {
+    "en": "Dream"
+   },
+   "contentRating": "safe",
+   "score": 0.2388799,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "d28cfb77-cf92-4f95-977f-7f2547f1469b",
+   "title": {
+    "en": "My Slanted-Eyed Girlfriend is Cute"
+   },
+   "contentRating": "safe",
+   "score": 0.2388799,
+   "languages": [
+    "vi",
+    "fr",
     "en"
    ]
   },
@@ -144,19 +176,6 @@
    "languages": [
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "f3fe03f8-87e1-4144-8b74-006af748435e",
-   "title": {
-    "en": "Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "pt-br",
-    "ru",
-    "id"
    ]
   },
   {
@@ -186,32 +205,7 @@
     "id",
     "uk"
    ]
-  },
-  {
-   "id": "d28cfb77-cf92-4f95-977f-7f2547f1469b",
-   "title": {
-    "en": "My Slanted-Eyed Girlfriend is Cute"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "vi",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "b1f17aa5-738f-4f92-abdc-b0914256b3c3",
-   "title": {
-    "en": "The Necromancer's Daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:09+00:00"
+ "updatedAt": "2023-12-10T18:09:27+00:00"
 }

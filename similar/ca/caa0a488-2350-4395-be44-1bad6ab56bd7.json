@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d78c706d-bc6f-4acf-ba8f-5c7dd0b84b88",
+   "title": {
+    "en": "Haiiro no Onmyouji"
+   },
+   "contentRating": "safe",
+   "score": 0.3318914,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9e7fc7da-6edf-4eb6-9009-427e46e57d05",
    "title": {
     "en": "Tiger x Crane"
    },
    "contentRating": "safe",
-   "score": 0.31962383,
+   "score": 0.3157994,
    "languages": [
     "en"
    ]
@@ -22,9 +33,20 @@
     "en": "Brothers"
    },
    "contentRating": "safe",
-   "score": 0.31587136,
+   "score": 0.3147274,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0e8bf1b9-1482-4a46-9490-6abcd5f60e34",
+   "title": {
+    "en": "Makise"
+   },
+   "contentRating": "safe",
+   "score": 0.3078122,
+   "languages": [
+    "tr"
    ]
   },
   {
@@ -33,7 +55,7 @@
     "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.30407658,
+   "score": 0.30365548,
    "languages": [
     "es",
     "en"
@@ -45,11 +67,19 @@
     "en": "Colossus Order"
    },
    "contentRating": "safe",
-   "score": 0.30041817,
+   "score": 0.29936603,
    "languages": [
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "a8453605-b8ef-49e8-b4ed-e8baba06c6ac",
+   "title": {
+    "en": "Great Old: Dragon no Tsukurikata"
+   },
+   "contentRating": "safe",
+   "score": 0.29916662
   },
   {
    "id": "2814a7f2-ad27-4b59-a40d-9a73eda65aab",
@@ -57,15 +87,31 @@
     "en": "Death God 4"
    },
    "contentRating": "safe",
-   "score": 0.29649234
+   "score": 0.29618207
   },
   {
-   "id": "486a27a0-6070-4787-8b45-b6141b726565",
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
    "title": {
-    "en": "Senki Senki Momotama"
+    "en": "Surviving Demon"
    },
    "contentRating": "safe",
-   "score": 0.29100135
+   "score": 0.290272,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb5bc78f-2215-4b37-8161-6d06d19e45a9",
+   "title": {
+    "en": "Taimashi to Akuma-chan (pixiv)"
+   },
+   "contentRating": "safe",
+   "score": 0.28688806,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
@@ -79,104 +125,61 @@
    ]
   },
   {
+   "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
+   "title": {
+    "en": "Meteo Emblem"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b72b5fd0-a5da-4ed2-899c-6cb27d6135db",
+   "title": {
+    "en": "Taimashi to Akuma-chan  (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.28012317,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "15fa6881-cb6e-4f5b-8f43-171b5d0514d3",
+   "title": {
+    "en": "Weak Demon Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.2743472,
+   "languages": [
+    "id"
+   ]
+  },
+  {
+   "id": "6c098026-971d-4f5f-b076-06ebe0fe9a30",
+   "title": {
+    "en": "Evil Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.27281678,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4c41af7f-8bde-4d97-a8d2-45d7bcc0bfaf",
    "title": {
     "en": "Nephilim John"
    },
    "contentRating": "safe",
-   "score": 0.27382833,
+   "score": 0.2717636,
    "languages": [
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "ce05f1d2-5baf-45a0-844e-b5835a7bcf68",
-   "title": {
-    "en": "Reverend D"
-   },
-   "contentRating": "safe",
-   "score": 0.26872545
-  },
-  {
-   "id": "86a05b25-e031-4039-8659-83cc4d9bfbdd",
-   "title": {
-    "en": "Salaryman Exorcist - Okumura Yukio no Aishuu"
-   },
-   "contentRating": "safe",
-   "score": 0.26778188,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
-   "title": {
-    "en": "Kishin Douji Zenki"
-   },
-   "contentRating": "safe",
-   "score": 0.26611543,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
-   "title": {
-    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
-   },
-   "contentRating": "safe",
-   "score": 0.2657642,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7be5fbde-2524-4124-9463-dc36b99f1d5d",
-   "title": {
-    "en": "Kamisama no Tsukurikata"
-   },
-   "contentRating": "safe",
-   "score": 0.26288643,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
-   "title": {
-    "en": "Mana Sorcerer"
-   },
-   "contentRating": "safe",
-   "score": 0.25802693,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e60c2ec2-5f92-40e4-be5c-e5b576400aa9",
-   "title": {
-    "en": "Dekisokonai no Monogatari - The Tales of Failure Works"
-   },
-   "contentRating": "safe",
-   "score": 0.25766772,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fb45bda2-a387-475a-b0d6-18eeed806391",
-   "title": {
-    "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
-   },
-   "contentRating": "safe",
-   "score": 0.25050402,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:07+00:00"
+ "updatedAt": "2023-12-10T18:30:50+00:00"
 }

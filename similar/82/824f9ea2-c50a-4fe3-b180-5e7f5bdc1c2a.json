@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2056148a-14da-4acb-a27f-bd5aa3c40b44",
+   "title": {
+    "en": "Saint Seiya - Golden Age"
+   },
+   "contentRating": "safe",
+   "score": 0.26389763,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "113c347d-4356-4e85-8668-5d795ab2c897",
    "title": {
     "en": "Batcage."
    },
    "contentRating": "safe",
-   "score": 0.25317964,
+   "score": 0.24552782,
    "languages": [
     "vi",
     "th",
@@ -24,7 +35,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.22655015,
+   "score": 0.23116726,
    "languages": [
     "en"
    ]
@@ -46,7 +57,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.21069293,
+   "score": 0.21039568,
    "languages": [
     "pl",
     "en",
@@ -63,6 +74,14 @@
    ]
   },
   {
+   "id": "1c8c1b9b-f833-4417-90d8-6186383e9533",
+   "title": {
+    "en": "Hypnosis Mic -Division Rap Battle - side D.H \u0026 B.A.T"
+   },
+   "contentRating": "safe",
+   "score": 0.20915362
+  },
+  {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
    "title": {
     "en": "Pilot Ace"
@@ -71,12 +90,23 @@
    "score": 0.20723124
   },
   {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.20709145,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.2029429,
+   "score": 0.2026899,
    "languages": [
     "id",
     "en",
@@ -102,7 +132,7 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.19965558,
+   "score": 0.19965027,
    "languages": [
     "pl",
     "en"
@@ -114,7 +144,26 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.19597962
+   "score": 0.1969498
+  },
+  {
+   "id": "81e7c176-1ea4-4c12-a05a-89cc440499a1",
+   "title": {
+    "en": "Flame Man"
+   },
+   "contentRating": "safe",
+   "score": 0.19586074
+  },
+  {
+   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
+   "title": {
+    "en": "The Thief of Shanghai"
+   },
+   "contentRating": "safe",
+   "score": 0.19273724,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
@@ -122,7 +171,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.19294147,
+   "score": 0.19263674,
    "languages": [
     "en",
     "fr",
@@ -132,23 +181,15 @@
    ]
   },
   {
-   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
    "title": {
-    "en": "The Thief of Shanghai"
+    "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.19268446,
+   "score": 0.19244517,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "da6fc5c2-c9ab-42f8-9671-ef2bfcc16ee4",
-   "title": {
-    "en": "Space Ironman Kyodain (NARUI Toshio)"
-   },
-   "contentRating": "safe",
-   "score": 0.19230329
   },
   {
    "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
@@ -157,42 +198,7 @@
    },
    "contentRating": "safe",
    "score": 0.19230329
-  },
-  {
-   "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
-   "title": {
-    "en": "Kickoff to Tomorrow"
-   },
-   "contentRating": "safe",
-   "score": 0.19230329
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.19181821,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
-   "title": {
-    "en": "Shiden Kai Hawk"
-   },
-   "contentRating": "safe",
-   "score": 0.18927981
-  },
-  {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
-   "title": {
-    "en": "Night Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.1870784
   }
  ],
- "updatedAt": "2023-12-10T01:05:00+00:00"
+ "updatedAt": "2023-12-10T18:22:36+00:00"
 }

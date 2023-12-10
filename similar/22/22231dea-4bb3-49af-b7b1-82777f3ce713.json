@@ -11,7 +11,7 @@
     "en": "Dr. Rabbit"
    },
    "contentRating": "safe",
-   "score": 0.39134324,
+   "score": 0.39165762,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "Joousama no Shirousagi"
    },
    "contentRating": "safe",
-   "score": 0.29330456,
+   "score": 0.29123032,
    "languages": [
     "en",
     "pt-br"
@@ -46,8 +46,34 @@
     "en": "Strange Pension"
    },
    "contentRating": "safe",
-   "score": 0.28110078,
+   "score": 0.27900103,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "561845c2-a33e-4f5d-b9b6-53ca4ca3a52d",
+   "title": {
+    "en": "Little Rabbit and the Big Bad Leopard"
+   },
+   "contentRating": "safe",
+   "score": 0.27559808,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl",
+    "uk"
+   ]
+  },
+  {
+   "id": "0a9983f8-6997-41f4-93a4-2426c1485ec9",
+   "title": {
+    "en": "I'd love to tell you secretly"
+   },
+   "contentRating": "safe",
+   "score": 0.27558234,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -57,18 +83,7 @@
     "en": "Hatsukoi Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.273832,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
-   "title": {
-    "en": "The Boy Next Door"
-   },
-   "contentRating": "safe",
-   "score": 0.2737007,
+   "score": 0.27192008,
    "languages": [
     "en"
    ]
@@ -79,20 +94,19 @@
     "en": "no title"
    },
    "contentRating": "safe",
-   "score": 0.27182138,
+   "score": 0.27106342,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a56e8245-220a-4f62-a605-d10ead7bda31",
+   "id": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
    "title": {
-    "en": "Akuma to Tsuki no Yoru"
+    "en": "The Boy Next Door"
    },
    "contentRating": "safe",
-   "score": 0.2709469,
+   "score": 0.26965696,
    "languages": [
-    "pl",
     "en"
    ]
   },
@@ -102,10 +116,22 @@
     "en": "Darling Only You!"
    },
    "contentRating": "safe",
-   "score": 0.27020127,
+   "score": 0.26934212,
    "languages": [
     "en",
     "hu"
+   ]
+  },
+  {
+   "id": "a56e8245-220a-4f62-a605-d10ead7bda31",
+   "title": {
+    "en": "Akuma to Tsuki no Yoru"
+   },
+   "contentRating": "safe",
+   "score": 0.26848084,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -114,7 +140,7 @@
     "en": "World End Garden"
    },
    "contentRating": "safe",
-   "score": 0.26980627,
+   "score": 0.26684153,
    "languages": [
     "en",
     "fr",
@@ -127,7 +153,7 @@
     "en": "Tokyo Photograph"
    },
    "contentRating": "safe",
-   "score": 0.26628932,
+   "score": 0.26545504,
    "languages": [
     "fr",
     "en"
@@ -139,7 +165,7 @@
     "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.25912112,
+   "score": 0.25793883,
    "languages": [
     "en",
     "pl"
@@ -151,7 +177,7 @@
     "en": "Lover Boy"
    },
    "contentRating": "safe",
-   "score": 0.2573983,
+   "score": 0.2570763,
    "languages": [
     "fr"
    ]
@@ -162,39 +188,13 @@
     "en": "Wolf-kun and goat-chan"
    },
    "contentRating": "safe",
-   "score": 0.25685456,
+   "score": 0.25670934,
    "languages": [
     "ru",
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "468f56e2-6a7f-4cef-a873-51729ecf4050",
-   "title": {
-    "en": "Kawaii Oresama"
-   },
-   "contentRating": "safe",
-   "score": 0.25679538,
-   "languages": [
-    "en",
-    "bg",
-    "pl"
-   ]
-  },
-  {
-   "id": "1055dced-6eb0-42a8-8f82-cd9f52b4de36",
-   "title": {
-    "en": "Kami-sama Onegai!"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:11:58+00:00"
 }

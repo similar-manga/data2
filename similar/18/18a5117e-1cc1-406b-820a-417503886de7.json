@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.24864022,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "e1585639-caf3-4c0b-b03a-918362d3d5dc",
    "title": {
     "en": "Yokuwakaru Gendai Mahou"
    },
    "contentRating": "safe",
-   "score": 0.23441507,
+   "score": 0.23342128,
    "languages": [
     "en"
    ]
@@ -22,7 +36,18 @@
     "en": "City Hall"
    },
    "contentRating": "safe",
-   "score": 0.22627616,
+   "score": 0.2259643,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8440b7c1-e076-424c-874c-6944dcbb3b89",
+   "title": {
+    "en": "Dark Edge"
+   },
+   "contentRating": "safe",
+   "score": 0.21992892,
    "languages": [
     "en"
    ]
@@ -33,7 +58,7 @@
     "en": "Pandora's Cube"
    },
    "contentRating": "safe",
-   "score": 0.22150274,
+   "score": 0.21802634,
    "languages": [
     "en"
    ]
@@ -56,9 +81,31 @@
     "en": "Torikago Gakkyuu"
    },
    "contentRating": "safe",
-   "score": 0.21298015,
+   "score": 0.211493,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "83b12cdb-6c06-4650-a715-625cbfe66f6f",
+   "title": {
+    "en": "When Darkness Comes"
+   },
+   "contentRating": "safe",
+   "score": 0.20114857,
+   "languages": [
     "en"
    ]
   },
@@ -68,7 +115,7 @@
     "en": "Classroom"
    },
    "contentRating": "safe",
-   "score": 0.19558701,
+   "score": 0.1949811,
    "languages": [
     "en",
     "pl"
@@ -86,6 +133,23 @@
    ]
   },
   {
+   "id": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+   "title": {
+    "en": "Thus Spoke Kishibe Rohan - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "fr",
+    "es-la",
+    "pl"
+   ]
+  },
+  {
    "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
    "title": {
     "en": "Obake Life"
@@ -98,12 +162,23 @@
    ]
   },
   {
+   "id": "5e3c435f-bd7f-4534-a0da-8f15d41ece9e",
+   "title": {
+    "en": "Ultimate Special High School"
+   },
+   "contentRating": "safe",
+   "score": 0.19165437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
    "title": {
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.1901183,
+   "score": 0.19020677,
    "languages": [
     "pt-br",
     "en",
@@ -112,83 +187,16 @@
    ]
   },
   {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
+   "id": "fd379676-def6-4e1c-8062-9959b062e2b8",
    "title": {
-    "en": "Metamorcode"
+    "en": "SCARS"
    },
    "contentRating": "safe",
-   "score": 0.18778755,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "86a05b25-e031-4039-8659-83cc4d9bfbdd",
-   "title": {
-    "en": "Salaryman Exorcist - Okumura Yukio no Aishuu"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "6cd8a940-c4b4-4f44-b3cc-b94dd8d18081",
-   "title": {
-    "en": "Paradise Rule"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "20418bf4-4724-449a-aa74-aee73ccc44d2",
-   "title": {
-    "en": "Tozasareta Nergal"
-   },
-   "contentRating": "safe",
-   "score": 0.18480882,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e60c2ec2-5f92-40e4-be5c-e5b576400aa9",
-   "title": {
-    "en": "Dekisokonai no Monogatari - The Tales of Failure Works"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84947b8a-71fa-47f7-bfd7-6ee0f45228e3",
-   "title": {
-    "en": "Wild Half"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9d0b1d0-b31a-4614-b68a-2e550ff82d5b",
-   "title": {
-    "en": "Mukuchi na Bakemono wa Yoru ni Naku"
-   },
-   "contentRating": "safe",
-   "score": 0.17471153,
+   "score": 0.18913163,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:42+00:00"
+ "updatedAt": "2023-12-10T18:10:57+00:00"
 }

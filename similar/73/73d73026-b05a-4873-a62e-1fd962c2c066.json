@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cf91a0c4-b43d-4698-8b66-54a9820c24ef",
-   "title": {
-    "en": "Doyou Wide Club e Youkoso"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e9190a5b-5de7-4383-ba41-1aeb20128451",
    "title": {
     "en": "Shitauke Tantei Nokori Kasuhiro"
@@ -30,23 +19,23 @@
    ]
   },
   {
-   "id": "6bcf9622-2319-4f5c-bd06-107bda503df3",
+   "id": "cf91a0c4-b43d-4698-8b66-54a9820c24ef",
    "title": {
-    "en": "The Green Chair"
+    "en": "Doyou Wide Club e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.27134055,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3da90fe2-0639-424b-9756-0ebffe2a7529",
+   "id": "6bcf9622-2319-4f5c-bd06-107bda503df3",
    "title": {
-    "en": "Oshiri Sawaritagaru Hito Nan na no"
+    "en": "The Green Chair"
    },
    "contentRating": "safe",
-   "score": 0.26912826,
+   "score": 0.2741648,
    "languages": [
     "en"
    ]
@@ -57,10 +46,21 @@
     "en": "White Day"
    },
    "contentRating": "safe",
-   "score": 0.2652387,
+   "score": 0.27180883,
    "languages": [
     "bg",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "3da90fe2-0639-424b-9756-0ebffe2a7529",
+   "title": {
+    "en": "Oshiri Sawaritagaru Hito Nan na no"
+   },
+   "contentRating": "safe",
+   "score": 0.26543534,
+   "languages": [
     "en"
    ]
   },
@@ -70,7 +70,7 @@
     "en": "Shoulder Tackle Yasuzaki-man"
    },
    "contentRating": "safe",
-   "score": 0.2610562,
+   "score": 0.26188993,
    "languages": [
     "en"
    ]
@@ -81,7 +81,7 @@
     "en": "Forest Bear"
    },
    "contentRating": "safe",
-   "score": 0.2522933,
+   "score": 0.2555981,
    "languages": [
     "en",
     "ro"
@@ -93,8 +93,20 @@
     "en": "The Competitive Eater Who Leapt Through Time"
    },
    "contentRating": "safe",
-   "score": 0.25135598,
+   "score": 0.25402674,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e5bf6c64-e9e3-4e87-97a2-2d4eaa51bfee",
+   "title": {
+    "en": "Yankee-kun na Yamada-kun to Megane-chan to Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.24885312,
+   "languages": [
+    "ca",
     "en"
    ]
   },
@@ -104,18 +116,7 @@
     "en": "People Are Free to Think of What They Want -Her Anger Management-"
    },
    "contentRating": "safe",
-   "score": 0.24934037,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
-   "title": {
-    "en": "Pandora"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24801476,
    "languages": [
     "en"
    ]
@@ -145,14 +146,13 @@
    ]
   },
   {
-   "id": "e5bf6c64-e9e3-4e87-97a2-2d4eaa51bfee",
+   "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
    "title": {
-    "en": "Yankee-kun na Yamada-kun to Megane-chan to Majo"
+    "en": "Pandora"
    },
    "contentRating": "safe",
-   "score": 0.24683723,
+   "score": 0.24743582,
    "languages": [
-    "ca",
     "en"
    ]
   },
@@ -162,7 +162,7 @@
     "en": "Returning Home"
    },
    "contentRating": "safe",
-   "score": 0.24019532,
+   "score": 0.24052806,
    "languages": [
     "en"
    ]
@@ -173,7 +173,7 @@
     "en": "Cat Gravity"
    },
    "contentRating": "safe",
-   "score": 0.2352326,
+   "score": 0.23791373,
    "languages": [
     "en",
     "vi",
@@ -185,16 +185,16 @@
    ]
   },
   {
-   "id": "6454a2b8-37ef-4202-8565-8cf22e5b985f",
+   "id": "c87ff310-6275-4bce-b91a-b5a39d0de9f0",
    "title": {
-    "en": "Tasukete Kudasai! by Hero"
+    "en": "no title"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23560275,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:22+00:00"
+ "updatedAt": "2023-12-10T18:20:54+00:00"
 }

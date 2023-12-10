@@ -11,7 +11,7 @@
     "en": "The Bethlem of Magicians"
    },
    "contentRating": "safe",
-   "score": 0.24074093,
+   "score": 0.24027318,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Violence Jack - Legend of the Sengoku Majin"
    },
    "contentRating": "safe",
-   "score": 0.22495164,
+   "score": 0.22476657,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "DINER"
    },
    "contentRating": "safe",
-   "score": 0.20838429,
+   "score": 0.20739347,
    "languages": [
     "pt-br",
     "es",
@@ -46,7 +46,7 @@
     "en": "Choujin X"
    },
    "contentRating": "safe",
-   "score": 0.2045073,
+   "score": 0.20426388,
    "languages": [
     "pt-br",
     "ar",
@@ -61,12 +61,25 @@
    ]
   },
   {
+   "id": "ebdcb990-a71b-4259-979c-fa65abe0c24a",
+   "title": {
+    "en": "Zanmu"
+   },
+   "contentRating": "safe",
+   "score": 0.20226337,
+   "languages": [
+    "vi",
+    "fr",
+    "ru"
+   ]
+  },
+  {
    "id": "d3f961f6-8ed7-4801-a4cb-79f42890b305",
    "title": {
     "en": "Tokyo Tribe 2"
    },
    "contentRating": "safe",
-   "score": 0.20240663,
+   "score": 0.20221093,
    "languages": [
     "en"
    ]
@@ -77,9 +90,38 @@
     "en": "Kamisama, Kisama wo Koroshitai."
    },
    "contentRating": "safe",
-   "score": 0.20087236,
+   "score": 0.20002137,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.19982241,
+   "languages": [
+    "en",
+    "es-la",
+    "zh-hk",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
+   "title": {
+    "en": "Wakaba-chan wa Wakarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.19763283,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -103,21 +145,35 @@
     "en": "Kurosagi Shitai Takuhaibin"
    },
    "contentRating": "safe",
-   "score": 0.19479692,
+   "score": 0.19452725,
    "languages": [
     "en",
     "zh"
    ]
   },
   {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
    "title": {
-    "en": "Uncanny Brains"
+    "en": "Mashira"
    },
    "contentRating": "safe",
-   "score": 0.18151839,
+   "score": 0.1909904,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.18923256,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -132,100 +188,31 @@
    ]
   },
   {
-   "id": "70f068b7-3afa-46ce-be2a-1b818740c7a6",
+   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
    "title": {
-    "en": "Tiger \u0026 Bunny 2: The Comic"
+    "en": "Uncanny Brains"
    },
    "contentRating": "safe",
-   "score": 0.18074016,
+   "score": 0.18151839,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
+   "id": "6e5ddee5-eccb-48cc-b6bb-43488cc9791f",
    "title": {
-    "en": "Hitogata"
+    "en": "Vagabond (Hong Kong Colored Version)"
    },
    "contentRating": "safe",
-   "score": 0.1756276,
+   "score": 0.18062899,
    "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
-   "title": {
-    "en": "Tank Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.17479354,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
-   "title": {
-    "en": "Record of Ragnarok"
-   },
-   "contentRating": "safe",
-   "score": 0.17456354,
-   "languages": [
-    "zh-hk",
-    "en",
-    "fr",
-    "tr",
-    "es-la",
-    "ru",
-    "pt-br",
-    "bg",
-    "uk",
-    "id",
-    "it",
-    "vi",
     "fa",
     "ar",
-    "pl"
-   ]
-  },
-  {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.17410025,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d1a9fdeb-f713-407f-960c-8326b586e6fd",
-   "title": {
-    "en": "Vagabond"
-   },
-   "contentRating": "safe",
-   "score": 0.17232452,
-   "languages": [
-    "it",
+    "kk",
     "pt-br",
-    "es-la",
-    "en",
-    "pl",
-    "hu",
-    "uk",
-    "id",
-    "ar",
-    "tr"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:57+00:00"
+ "updatedAt": "2023-12-10T18:27:52+00:00"
 }

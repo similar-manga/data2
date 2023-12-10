@@ -17,6 +17,18 @@
    ]
   },
   {
+   "id": "d3837236-811b-439c-93f3-846e3634dfe4",
+   "title": {
+    "en": "Noenoto"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "e6589819-48c9-4877-a12f-c733864b676d",
    "title": {
     "en": "The Flustered Shabby Santa Claus"
@@ -30,18 +42,6 @@
    ]
   },
   {
-   "id": "d3837236-811b-439c-93f3-846e3634dfe4",
-   "title": {
-    "en": "Noenoto"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "d773959c-583e-4e0b-9ce3-6039d3f97f07",
    "title": {
     "en": "Jijou Ari Undead"
@@ -52,6 +52,40 @@
     "pt-br",
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "6cd5a844-b5df-42bd-ad94-d05725a60e92",
+   "title": {
+    "en": "Koroshiya Akazukin"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "3da90fe2-0639-424b-9756-0ebffe2a7529",
+   "title": {
+    "en": "Oshiri Sawaritagaru Hito Nan na no"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f45db0fd-3763-4105-b71d-588841259378",
+   "title": {
+    "en": "Oretachi no Irekawari Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -78,17 +112,6 @@
    ]
   },
   {
-   "id": "3da90fe2-0639-424b-9756-0ebffe2a7529",
-   "title": {
-    "en": "Oshiri Sawaritagaru Hito Nan na no"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2a8c872a-f981-4450-a43a-f7f02ab8da02",
    "title": {
     "en": "Snow White's Secret"
@@ -98,29 +121,6 @@
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "f45db0fd-3763-4105-b71d-588841259378",
-   "title": {
-    "en": "Oretachi no Irekawari Seikatsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6cd5a844-b5df-42bd-ad94-d05725a60e92",
-   "title": {
-    "en": "Koroshiya Akazukin"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "hu"
    ]
   },
   {
@@ -153,22 +153,9 @@
     "en": "Sweet Spot"
    },
    "contentRating": "safe",
-   "score": 0.17962241,
+   "score": 0.17426108,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7088bb9b-926f-40d8-9049-e9a27218a2a3",
-   "title": {
-    "en": "Client"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "uk",
-    "ru"
    ]
   },
   {
@@ -177,7 +164,7 @@
     "en": "Dream Vendor"
    },
    "contentRating": "safe",
-   "score": 0.17440318,
+   "score": 0.17234552,
    "languages": [
     "it",
     "pl",
@@ -190,11 +177,22 @@
     "en": "Saiyuki RELOAD BLAST"
    },
    "contentRating": "safe",
-   "score": 0.1720427,
+   "score": 0.17185415,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c6ca6a1b-6346-4c38-aada-99fb67698818",
+   "title": {
+    "en": "Nanatsu no Kururi"
+   },
+   "contentRating": "safe",
+   "score": 0.16958101,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:22+00:00"
+ "updatedAt": "2023-12-10T18:18:11+00:00"
 }

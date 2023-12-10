@@ -11,7 +11,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.34946942,
+   "score": 0.35750887,
    "languages": [
     "en",
     "fr"
@@ -23,7 +23,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.3151859,
+   "score": 0.30998063,
    "languages": [
     "en",
     "pt-br",
@@ -45,6 +45,14 @@
    ]
   },
   {
+   "id": "efab036d-be4d-4d18-a95d-562205aa1d79",
+   "title": {
+    "en": "Banshou Shaonian"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "05a04e0b-43fa-46a5-a9bf-673b20f692a3",
    "title": {
     "en": "Cat's World"
@@ -56,20 +64,28 @@
    ]
   },
   {
-   "id": "efab036d-be4d-4d18-a95d-562205aa1d79",
+   "id": "d27caadc-8fdb-496e-9630-40215346baee",
    "title": {
-    "en": "Banshou Shaonian"
+    "en": "[another] Xak"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.27736884,
+   "languages": [
+    "en"
+   ]
   },
   {
-   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
+   "id": "ec8646e5-5830-41f6-acdf-66b6566454f9",
    "title": {
-    "en": "TEAM PHOENIX"
+    "en": "Senyuu. - Haruhara Robinson Channel"
    },
    "contentRating": "safe",
-   "score": 0.2632053
+   "score": 0.26424444,
+   "languages": [
+    "en",
+    "es",
+    "es-la"
+   ]
   },
   {
    "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
@@ -96,7 +112,7 @@
     "en": "Dffrnt Strks"
    },
    "contentRating": "safe",
-   "score": 0.25736415,
+   "score": 0.25678247,
    "languages": [
     "en"
    ]
@@ -110,9 +126,17 @@
    "score": 0.25555065
   },
   {
-   "id": "cad1c68e-ece3-4453-9135-aff3918421a3",
+   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
    "title": {
-    "en": "A-kun (17) no Sensou - I, the Tycoon?"
+    "en": "TEAM PHOENIX"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "b775a6cc-3f91-46da-ba69-41018004b14e",
+   "title": {
+    "en": "Dramatic Irony ~Fujisaki Ryuu Tanpenshuu 2"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -121,29 +145,17 @@
    ]
   },
   {
-   "id": "f16c5167-cfee-46e5-95d4-92f0ebe4a695",
+   "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
    "title": {
-    "en": "Pangaea"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "624ae414-9e8c-4ec8-9f9b-a1f00e7a43f8",
-   "title": {
-    "en": "Kaitou Shounen Jokers"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "4939c74b-f2d0-440f-a293-05116cf45e9d",
-   "title": {
-    "en": "Kai Pilgrim"
+    "en": "Digimon Adventure V-Tamer 01 ~A New Courage~"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
+    "zh-hk",
+    "es-la",
+    "fr",
+    "pl",
     "en"
    ]
   },
@@ -156,13 +168,17 @@
    "score": 0.25555065
   },
   {
-   "id": "2ba77690-6ac0-4347-ab02-d850c86141aa",
+   "id": "d9178d54-f78e-4316-b6da-567950b56c6f",
    "title": {
-    "en": "Iron Soul!! Zoids Core Competition"
+    "en": "Dungeon Tuber!!!"
    },
    "contentRating": "safe",
-   "score": 0.25108165
+   "score": 0.25555065,
+   "languages": [
+    "fr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:55+00:00"
+ "updatedAt": "2023-12-10T18:22:24+00:00"
 }

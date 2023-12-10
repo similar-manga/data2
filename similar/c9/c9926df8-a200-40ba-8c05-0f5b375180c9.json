@@ -11,7 +11,7 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.25879854,
+   "score": 0.2584659,
    "languages": [
     "de",
     "en",
@@ -24,7 +24,7 @@
     "en": "Gazer"
    },
    "contentRating": "safe",
-   "score": 0.21502826,
+   "score": 0.21534824,
    "languages": [
     "pt-br",
     "en",
@@ -58,7 +58,7 @@
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.20767927,
+   "score": 0.20731534,
    "languages": [
     "en",
     "ru"
@@ -74,6 +74,23 @@
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "7cb01d3b-3633-4286-b357-1d7691313a07",
+   "title": {
+    "en": "A Silent Voice Special Movie Book"
+   },
+   "contentRating": "safe",
+   "score": 0.19753893,
+   "languages": [
+    "en",
+    "fr",
+    "ru",
+    "de",
+    "pt-br",
+    "uk",
+    "tr"
    ]
   },
   {
@@ -101,6 +118,18 @@
    ]
   },
   {
+   "id": "368c4397-dedd-4093-b1c8-3d5585d3d2bb",
+   "title": {
+    "en": "Spirit Photographer Saburo Kono"
+   },
+   "contentRating": "safe",
+   "score": 0.19504462,
+   "languages": [
+    "pt-br",
+    "th"
+   ]
+  },
+  {
    "id": "c396e8af-a430-41ba-bd12-3732c52ecabb",
    "title": {
     "en": "Hiiragi-san Chi no Kyuuketsu Jijou (Oneshot)"
@@ -114,18 +143,6 @@
    ]
   },
   {
-   "id": "368c4397-dedd-4093-b1c8-3d5585d3d2bb",
-   "title": {
-    "en": "Spirit Photographer Saburo Kono"
-   },
-   "contentRating": "safe",
-   "score": 0.19504462,
-   "languages": [
-    "pt-br",
-    "th"
-   ]
-  },
-  {
    "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
    "title": {
     "en": "Nee Nee, Nene-san."
@@ -136,20 +153,6 @@
     "ru",
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "50ff5329-af4e-4255-a90b-98c2150751e3",
-   "title": {
-    "en": "Kowareta Bokura no Senryaku Ren'ai"
-   },
-   "contentRating": "safe",
-   "score": 0.19243102,
-   "languages": [
-    "vi",
-    "en",
-    "it",
-    "pt-br"
    ]
   },
   {
@@ -167,12 +170,40 @@
    ]
   },
   {
+   "id": "50ff5329-af4e-4255-a90b-98c2150751e3",
+   "title": {
+    "en": "Kowareta Bokura no Senryaku Ren'ai"
+   },
+   "contentRating": "safe",
+   "score": 0.19243102,
+   "languages": [
+    "vi",
+    "en",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
+   "title": {
+    "en": "Sora kara Onna no Ko ga!"
+   },
+   "contentRating": "safe",
+   "score": 0.19020794,
+   "languages": [
+    "ru",
+    "tr",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b",
    "title": {
     "en": "Wilted Flower"
    },
    "contentRating": "safe",
-   "score": 0.18922687,
+   "score": 0.18894285,
    "languages": [
     "ru",
     "en",
@@ -185,40 +216,13 @@
     "en": "Graineliers"
    },
    "contentRating": "safe",
-   "score": 0.18905047,
+   "score": 0.1880242,
    "languages": [
     "vi",
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "82ef4d95-51f9-4e31-9991-52749b24b02e",
-   "title": {
-    "en": "Teleport Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.18579547,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f552da3a-977c-45a9-8d4b-421c68a0c738",
-   "title": {
-    "en": "Engan no Cyclops"
-   },
-   "contentRating": "safe",
-   "score": 0.18579547,
-   "languages": [
-    "en",
-    "pt-br",
-    "ar",
-    "th",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:04+00:00"
+ "updatedAt": "2023-12-10T18:30:43+00:00"
 }

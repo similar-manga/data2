@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d351043f-3f2c-4ef0-acf1-0f2ce511181b",
+   "title": {
+    "en": "Da Vinci's Golgotha"
+   },
+   "contentRating": "safe",
+   "score": 0.6353518
+  },
+  {
    "id": "cb51c238-5544-4c71-ba79-048f8ea3fd91",
    "title": {
     "en": "Kioku Soushitsu no Ore ni wa Kanojo ga Iru Rashii"
    },
    "contentRating": "safe",
-   "score": 0.4188659,
+   "score": 0.41969058,
    "languages": [
     "pt-br",
     "en",
@@ -24,7 +32,7 @@
     "en": "Kioku Soushitsu No Ore o Karakatte Kuru Imouto"
    },
    "contentRating": "safe",
-   "score": 0.41129342,
+   "score": 0.4117622,
    "languages": [
     "en",
     "id",
@@ -37,7 +45,7 @@
     "en": "Apparently I Have a Gyaru Girlfriend After Getting Memory Loss"
    },
    "contentRating": "safe",
-   "score": 0.40518412,
+   "score": 0.40582654,
    "languages": [
     "pt-br",
     "en",
@@ -51,7 +59,7 @@
     "en": "Kioku Soushitsu No Suki Na Hito"
    },
    "contentRating": "safe",
-   "score": 0.3991558,
+   "score": 0.39966422,
    "languages": [
     "en",
     "es-la",
@@ -65,7 +73,7 @@
     "en": "Ore Ga Kioku Soshitsuna No o Ii Koto Ni Guigui Kuru Tsundere Dokyusei"
    },
    "contentRating": "safe",
-   "score": 0.3900005,
+   "score": 0.3902994,
    "languages": [
     "pt-br",
     "en",
@@ -79,11 +87,23 @@
     "en": "Ore Ga Kioku Soushitsu no o Ii Koto ni Guigui Kuru Kouhai"
    },
    "contentRating": "safe",
-   "score": 0.38444468,
+   "score": 0.3854625,
    "languages": [
     "vi",
     "id",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "fa54784d-e704-40c1-af47-8d55218b8780",
+   "title": {
+    "en": "My 36D Maid"
+   },
+   "contentRating": "safe",
+   "score": 0.38423914,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -93,7 +113,7 @@
     "en": "Kioku Soushitsu No Ore To Dokusenyoku Tsuyoi Gyaru"
    },
    "contentRating": "safe",
-   "score": 0.3796026,
+   "score": 0.38067073,
    "languages": [
     "id",
     "en",
@@ -106,7 +126,7 @@
     "en": "Kioku Soushitsu no Ore to Tsundere Doukyuusei no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.36400062,
+   "score": 0.36494264,
    "languages": [
     "en",
     "pt-br",
@@ -119,7 +139,7 @@
     "en": "Apparently I Have a Tsundere Girlfriend after Getting Memory Loss"
    },
    "contentRating": "safe",
-   "score": 0.35783023,
+   "score": 0.35839197,
    "languages": [
     "vi",
     "pt-br",
@@ -134,7 +154,7 @@
     "en": "Kioku Soushitsu No Ore O Sukina Kouhai Ga Chotto Kowai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3494282,
+   "score": 0.34998533,
    "languages": [
     "en",
     "pt-br",
@@ -148,7 +168,7 @@
     "en": "Ani Ga Kioku Soushitsu na no o Ii Koto ni Icha Icha shitai Imouto"
    },
    "contentRating": "safe",
-   "score": 0.33177945,
+   "score": 0.33174127,
    "languages": [
     "es-la",
     "id",
@@ -163,7 +183,7 @@
     "en": "A Silent Garden"
    },
    "contentRating": "safe",
-   "score": 0.32520506
+   "score": 0.32833418
   },
   {
    "id": "d484c93d-c13f-4f29-9387-876e614b8fcd",
@@ -171,18 +191,7 @@
     "en": "How Did I Become the Princess?"
    },
    "contentRating": "safe",
-   "score": 0.3243761,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45856dc8-e838-4faa-8a4f-7b5afc33bc6b",
-   "title": {
-    "en": "The Duchess of the Glass House"
-   },
-   "contentRating": "safe",
-   "score": 0.31879422,
+   "score": 0.32387388,
    "languages": [
     "en"
    ]
@@ -193,26 +202,14 @@
     "en": "The Youngest Princess"
    },
    "contentRating": "safe",
-   "score": 0.31397557,
+   "score": 0.31331232,
    "languages": [
     "en",
     "hu",
     "id",
     "fr"
    ]
-  },
-  {
-   "id": "6c76aaff-e99d-4fd2-b22e-62c103d22e88",
-   "title": {
-    "en": "A Red Knight Does Not Blindly Follow Money"
-   },
-   "contentRating": "safe",
-   "score": 0.3114905,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:29+00:00"
+ "updatedAt": "2023-12-10T18:18:27+00:00"
 }

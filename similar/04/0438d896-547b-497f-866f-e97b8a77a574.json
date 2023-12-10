@@ -11,7 +11,7 @@
     "en": "Sawaranu Futari wa Nani wo Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.28093982,
+   "score": 0.27850565,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Noa-senpai wa Tomodachi."
    },
    "contentRating": "suggestive",
-   "score": 0.22994655,
+   "score": 0.22864643,
    "languages": [
     "en",
     "vi",
@@ -47,9 +47,34 @@
     "en": "Joushi no Atsu ga Tsuyo Sugite Koi ga Dekinai"
    },
    "contentRating": "suggestive",
-   "score": 0.22242822,
+   "score": 0.21779642,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "47c1c31f-1a88-46e0-adad-5c6e871e0afb",
+   "title": {
+    "en": "Liver Diver Lover"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b231f7e6-307e-4a83-876d-52d8555c348f",
+   "title": {
+    "en": "Takane no Hana-san"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21428573,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -72,37 +97,12 @@
    ]
   },
   {
-   "id": "b231f7e6-307e-4a83-876d-52d8555c348f",
-   "title": {
-    "en": "Takane no Hana-san"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21428573,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "47c1c31f-1a88-46e0-adad-5c6e871e0afb",
-   "title": {
-    "en": "Liver Diver Lover"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "a9a664d6-4ea7-4f3b-b96b-4861673c8e5d",
    "title": {
     "en": "Misato-san wa Amasugi Joushi ni Chotto Kibishii"
    },
    "contentRating": "suggestive",
-   "score": 0.21423563,
+   "score": 0.21206759,
    "languages": [
     "pt-br",
     "vi",
@@ -115,30 +115,13 @@
     "en": "Kanojo Shoukan Shimashita!?"
    },
    "contentRating": "suggestive",
-   "score": 0.20298325,
+   "score": 0.20212184,
    "languages": [
     "fr",
     "es-la",
     "en",
     "pt-br",
     "vi"
-   ]
-  },
-  {
-   "id": "a920060c-7e39-4ac1-980c-f0e605a40ae4",
-   "title": {
-    "en": "Gal Yome no Himitsu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20265111,
-   "languages": [
-    "id",
-    "pt-br",
-    "vi",
-    "en",
-    "ru",
-    "th",
-    "pl"
    ]
   },
   {
@@ -156,25 +139,15 @@
    ]
   },
   {
-   "id": "fb72c6f0-6745-48bc-b783-d5807303277c",
+   "id": "011ecd60-144f-476f-92e9-278905cb4450",
    "title": {
-    "en": "Dracu-Riot! Honey!"
+    "en": "Getsuyoubi no Tawawa (Serialization) (Blue) (Fan Colored)"
    },
    "contentRating": "suggestive",
    "score": 0.20203052,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ef8340ee-c47c-4f35-82de-3343895a52fe",
-   "title": {
-    "en": "Wakaba Mariji"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20203052,
-   "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -196,15 +169,42 @@
    ]
   },
   {
-   "id": "011ecd60-144f-476f-92e9-278905cb4450",
+   "id": "ef8340ee-c47c-4f35-82de-3343895a52fe",
    "title": {
-    "en": "Getsuyoubi no Tawawa (Serialization) (Blue) (Fan Colored)"
+    "en": "Wakaba Mariji"
    },
    "contentRating": "suggestive",
    "score": 0.20203052,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb72c6f0-6745-48bc-b783-d5807303277c",
+   "title": {
+    "en": "Dracu-Riot! Honey!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a920060c-7e39-4ac1-980c-f0e605a40ae4",
+   "title": {
+    "en": "Gal Yome no Himitsu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20139776,
+   "languages": [
+    "id",
+    "pt-br",
+    "vi",
     "en",
-    "ru"
+    "ru",
+    "th",
+    "pl"
    ]
   },
   {
@@ -213,12 +213,12 @@
     "en": "Shoujo Nyuumon"
    },
    "contentRating": "suggestive",
-   "score": 0.19882832,
+   "score": 0.19446693,
    "languages": [
     "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:55+00:00"
+ "updatedAt": "2023-12-10T18:08:48+00:00"
 }

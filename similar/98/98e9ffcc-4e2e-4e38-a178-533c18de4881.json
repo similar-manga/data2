@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9062e8ad-5521-43ea-958c-de3eac2a9dd3",
+   "title": {
+    "en": "Dark Souls - The Solitary Dark Soul (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.623997,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f9d3b7d4-434c-4eb1-8d03-9b6285cbe6e2",
    "title": {
     "en": "Imperial Soul"
    },
    "contentRating": "safe",
-   "score": 0.32020554,
+   "score": 0.31188026,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Touhou - Soul Blade in One Slash (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.29595107,
+   "score": 0.29386213,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Touhou - Going to Higan (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.282884,
+   "score": 0.28274912,
    "languages": [
     "en"
    ]
@@ -44,61 +55,10 @@
     "en": "Orthoros"
    },
    "contentRating": "safe",
-   "score": 0.2756753,
+   "score": 0.2721177,
    "languages": [
     "ru",
     "hu",
-    "en"
-   ]
-  },
-  {
-   "id": "b1940990-8a29-4e6d-ab1a-c285605f2f5f",
-   "title": {
-    "en": "Alice in the Dark World"
-   },
-   "contentRating": "safe",
-   "score": 0.27073485,
-   "languages": [
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
-   "title": {
-    "en": "Soul Land II - The Peerless Tang Sect"
-   },
-   "contentRating": "safe",
-   "score": 0.2669495,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "3387925b-e736-449a-aca8-6dee9dd1e9fe",
-   "title": {
-    "en": "Zang Hun Men"
-   },
-   "contentRating": "safe",
-   "score": 0.26344907,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
-   "title": {
-    "en": "Rad and Rinpu"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "pt-br",
-    "pl",
     "en"
    ]
   },
@@ -108,7 +68,45 @@
     "en": "Touhou - Touhou Adventure (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.26082027,
+   "score": 0.26804996,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
+   "title": {
+    "en": "Soul Land II - The Peerless Tang Sect"
+   },
+   "contentRating": "safe",
+   "score": 0.26768583,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "b1940990-8a29-4e6d-ab1a-c285605f2f5f",
+   "title": {
+    "en": "Alice in the Dark World"
+   },
+   "contentRating": "safe",
+   "score": 0.2661497,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3387925b-e736-449a-aca8-6dee9dd1e9fe",
+   "title": {
+    "en": "Zang Hun Men"
+   },
+   "contentRating": "safe",
+   "score": 0.26283872,
    "languages": [
     "en"
    ]
@@ -149,29 +147,16 @@
    ]
   },
   {
-   "id": "943b8809-f4d6-4fdb-8530-41064991d0e2",
+   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
    "title": {
-    "en": "Natomatos"
+    "en": "Rad and Rinpu"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "ru",
-    "fr",
+    "pt-br",
+    "pl",
     "en"
-   ]
-  },
-  {
-   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
-   "title": {
-    "en": "Naruto: Road to Ninja"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "ru",
-    "ro"
    ]
   },
   {
@@ -182,6 +167,19 @@
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "943b8809-f4d6-4fdb-8530-41064991d0e2",
+   "title": {
+    "en": "Natomatos"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "ru",
+    "fr",
     "en"
    ]
   },
@@ -197,5 +195,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:05+00:00"
+ "updatedAt": "2023-12-10T18:25:19+00:00"
 }

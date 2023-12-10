@@ -11,7 +11,7 @@
     "en": "Koi no Ninpou Chou"
    },
    "contentRating": "safe",
-   "score": 0.32969493,
+   "score": 0.3245834,
    "languages": [
     "en",
     "pt-br"
@@ -23,10 +23,23 @@
     "en": "First Love"
    },
    "contentRating": "safe",
-   "score": 0.31227416,
+   "score": 0.310496,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
+   "title": {
+    "en": "Defense Bakari no Koi ja dame!!"
+   },
+   "contentRating": "safe",
+   "score": 0.29759312,
+   "languages": [
+    "en",
+    "tr",
+    "pl"
    ]
   },
   {
@@ -35,7 +48,7 @@
     "en": "Ookami Lover"
    },
    "contentRating": "safe",
-   "score": 0.29584935,
+   "score": 0.29550838,
    "languages": [
     "pl",
     "en"
@@ -47,11 +60,46 @@
     "en": "Omae Watashi no Koto Suki daro?"
    },
    "contentRating": "safe",
-   "score": 0.29346502,
+   "score": 0.2935741,
    "languages": [
     "pt-br",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "043fb287-26b7-4089-87e8-5d72e8ea6c8f",
+   "title": {
+    "en": "Love Log"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "e96064cb-0f58-40ae-a19c-d70deca1fa77",
+   "title": {
+    "en": "Mikami-kun no Himitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "59156bc0-42c8-4570-a496-242847e9680d",
+   "title": {
+    "en": "Otouto wo Kareshi ni Suru Houhou"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl"
    ]
   },
   {
@@ -79,51 +127,14 @@
    ]
   },
   {
-   "id": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
+   "id": "7d080778-75c5-4b5b-a66e-b9e6a776daa7",
    "title": {
-    "en": "Yuki-doke no Netsu"
+    "en": "Himitsu no Sono Ato"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "59156bc0-42c8-4570-a496-242847e9680d",
-   "title": {
-    "en": "Otouto wo Kareshi ni Suru Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "e96064cb-0f58-40ae-a19c-d70deca1fa77",
-   "title": {
-    "en": "Mikami-kun no Himitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
-   "title": {
-    "en": "Defense Bakari no Koi ja dame!!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "tr",
     "pl"
    ]
   },
@@ -140,30 +151,6 @@
    ]
   },
   {
-   "id": "7d080778-75c5-4b5b-a66e-b9e6a776daa7",
-   "title": {
-    "en": "Himitsu no Sono Ato"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "043fb287-26b7-4089-87e8-5d72e8ea6c8f",
-   "title": {
-    "en": "Love Log"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "5d2603d3-d4cc-45e4-b1e7-28f013e0e6c8",
    "title": {
     "en": "Shitteru Kimochi, Shiranai Karada"
@@ -177,12 +164,25 @@
    ]
   },
   {
+   "id": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
+   "title": {
+    "en": "Yuki-doke no Netsu"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
    "title": {
     "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.27824533,
+   "score": 0.27756342,
    "languages": [
     "pl",
     "pt-br",
@@ -195,7 +195,7 @@
     "en": "Daisuki no Yukue"
    },
    "contentRating": "safe",
-   "score": 0.27735472,
+   "score": 0.2763898,
    "languages": [
     "fr",
     "en",
@@ -203,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:38+00:00"
+ "updatedAt": "2023-12-10T18:26:56+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
+   "title": {
+    "en": "Metamorcode"
+   },
+   "contentRating": "safe",
+   "score": 0.18839596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
    "title": {
     "en": "His Killing Plan"
    },
    "contentRating": "safe",
-   "score": 0.1955757,
+   "score": 0.18661657,
    "languages": [
     "fr",
     "es",
@@ -20,24 +31,74 @@
    ]
   },
   {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
-   "title": {
-    "en": "Metamorcode"
-   },
-   "contentRating": "safe",
-   "score": 0.19113635,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "77a32fb4-a1ff-4200-96fb-45ef4f63fbf4",
    "title": {
     "en": "Devil's Editing"
    },
    "contentRating": "safe",
-   "score": 0.18730366,
+   "score": 0.18622467,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "43ee2a60-3cce-4409-a396-367bfaafcadf",
+   "title": {
+    "en": "Nazotoki Drill"
+   },
+   "contentRating": "safe",
+   "score": 0.17497635,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.16654912,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "18a5117e-1cc1-406b-820a-417503886de7",
+   "title": {
+    "en": "Aphorism"
+   },
+   "contentRating": "safe",
+   "score": 0.1625999,
+   "languages": [
+    "pl",
+    "en",
+    "de",
+    "es"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.1625747,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0026052c-9091-4dc7-915c-dffce9559234",
+   "title": {
+    "en": "Shinigami no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.1612878,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -47,23 +108,9 @@
     "en": "Logout Disabled in VR Chat"
    },
    "contentRating": "safe",
-   "score": 0.16299467,
+   "score": 0.16093823,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "18a5117e-1cc1-406b-820a-417503886de7",
-   "title": {
-    "en": "Aphorism"
-   },
-   "contentRating": "safe",
-   "score": 0.1626889,
-   "languages": [
-    "pl",
-    "en",
-    "de",
-    "es"
    ]
   },
   {
@@ -72,9 +119,28 @@
     "en": "Maya - Midnight Girl"
    },
    "contentRating": "safe",
-   "score": 0.16038908,
+   "score": 0.15936989,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
+   "title": {
+    "en": "Beast Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.15800238,
+   "languages": [
+    "ru",
+    "vi",
+    "en",
+    "it",
+    "zh-hk",
+    "pt-br",
+    "es-la",
+    "id",
+    "fr"
    ]
   },
   {
@@ -83,7 +149,7 @@
     "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.15673037,
+   "score": 0.15664834,
    "languages": [
     "pl",
     "en",
@@ -119,44 +185,7 @@
     "en": "Mist no Kaiboroku"
    },
    "contentRating": "safe",
-   "score": 0.15308629,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
-   "title": {
-    "en": "Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.14973557,
-   "languages": [
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
-   ]
-  },
-  {
-   "id": "2490c46b-9bb7-4375-ad8e-dda9d616bcd0",
-   "title": {
-    "en": "Stellar Theater"
-   },
-   "contentRating": "safe",
-   "score": 0.14920941,
+   "score": 0.15204248,
    "languages": [
     "en"
    ]
@@ -172,41 +201,7 @@
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
-   "title": {
-    "en": "Mahou Tsukai no Deshi ga Warau Toki."
-   },
-   "contentRating": "safe",
-   "score": 0.1477098,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "14f36f94-bd10-4101-99d4-73685ca227be",
-   "title": {
-    "en": "ToHeart2 ~colorful note~"
-   },
-   "contentRating": "safe",
-   "score": 0.14680277,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca6261ee-82c1-464f-b8b8-0f15c315f805",
-   "title": {
-    "en": "DCD Diamond Cut Diamond"
-   },
-   "contentRating": "safe",
-   "score": 0.1461739,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:40+00:00"
 }

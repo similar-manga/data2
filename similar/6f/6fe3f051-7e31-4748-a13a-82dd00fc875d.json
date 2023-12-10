@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
+   "title": {
+    "en": "Monkz"
+   },
+   "contentRating": "safe",
+   "score": 0.29172856,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "21b18592-8925-466b-b909-071b52676a38",
    "title": {
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.25433028,
+   "score": 0.24710196,
    "languages": [
     "en"
    ]
@@ -28,6 +39,17 @@
    ]
   },
   {
+   "id": "f5fe1552-61e5-488f-b5f8-9929e44be6c8",
+   "title": {
+    "en": "Teriyaki Western"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
    "title": {
     "en": "The Chronicle of Seven (webcomic version)"
@@ -39,14 +61,24 @@
    ]
   },
   {
-   "id": "77316ee2-aacf-4dab-ae63-eb9998af5ab0",
+   "id": "bd3af1d2-1705-46bf-bcc5-3ab55b2bfa62",
    "title": {
-    "en": "Sengoku ARMORS (Oneshot)"
+    "en": "Piratebent"
    },
    "contentRating": "safe",
-   "score": 0.22465187,
+   "score": 0.22782712,
    "languages": [
-    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e5a591ae-9a57-4218-b385-f7c620e14ee8",
+   "title": {
+    "en": "Underground Brawl"
+   },
+   "contentRating": "safe",
+   "score": 0.22755206,
+   "languages": [
     "en"
    ]
   },
@@ -56,19 +88,20 @@
     "en": "Bakudan! - Bakumatsu Danshi"
    },
    "contentRating": "safe",
-   "score": 0.22336128,
+   "score": 0.22322534,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
+   "id": "77316ee2-aacf-4dab-ae63-eb9998af5ab0",
    "title": {
-    "en": "Mononoke Hime"
+    "en": "Sengoku ARMORS (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.22279476,
+   "score": 0.22253384,
    "languages": [
+    "pl",
     "en"
    ]
   },
@@ -85,12 +118,57 @@
    ]
   },
   {
+   "id": "727bda2a-d15f-456b-b34e-4daa43ab653c",
+   "title": {
+    "en": "Nanatsu no Taizai (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.21501648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9af3f534-f031-40c5-acad-1578c8704010",
+   "title": {
+    "en": "Ganesha Power"
+   },
+   "contentRating": "safe",
+   "score": 0.21501648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
    "title": {
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.21385945,
+   "score": 0.21340916,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d34fbda5-d236-4b92-a522-698c96aa17b3",
+   "title": {
+    "en": "Sudachi no Maojo"
+   },
+   "contentRating": "safe",
+   "score": 0.2109735,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
+   "title": {
+    "en": "Mononoke Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.21079762,
    "languages": [
     "en"
    ]
@@ -107,91 +185,7 @@
     "pt",
     "en"
    ]
-  },
-  {
-   "id": "d5404847-a74f-45c8-82b8-bbaa6b724d63",
-   "title": {
-    "en": "Shinden Yuuden Kakumei-hen - Ochita Kuroi Yuusha no Densetsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
-   "title": {
-    "en": "Warabe no Kusa"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bbe605e5-bbe6-4091-bb6b-e8aa8dbf8fe6",
-   "title": {
-    "en": "Gyakushuu no Dragon Rider"
-   },
-   "contentRating": "safe",
-   "score": 0.20352875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9afe47ee-5c8b-4572-b7c0-efa4f83da432",
-   "title": {
-    "en": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
-   },
-   "contentRating": "safe",
-   "score": 0.20283754,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a46590b-14df-43f6-8450-5813cbf482e7",
-   "title": {
-    "en": "Hachinan tte, Sore wa Nai Deshou!"
-   },
-   "contentRating": "safe",
-   "score": 0.20154837,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "57749a58-650b-473f-abf0-057da0f40755",
-   "title": {
-    "en": "Zhan Long"
-   },
-   "contentRating": "safe",
-   "score": 0.2011295,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "18868868-ef41-45c6-b811-9ca8a17c9041",
-   "title": {
-    "en": "Spray King"
-   },
-   "contentRating": "safe",
-   "score": 0.20046462,
-   "languages": [
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:13+00:00"
+ "updatedAt": "2023-12-10T18:20:27+00:00"
 }

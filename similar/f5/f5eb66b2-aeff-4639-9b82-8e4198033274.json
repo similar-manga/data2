@@ -54,15 +54,15 @@
    ]
   },
   {
-   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
+   "id": "89515dc0-210a-4e5e-a94f-77bf938965f1",
    "title": {
-    "en": "Mu-kai"
+    "en": "138E"
    },
    "contentRating": "safe",
-   "score": 0.114285715,
+   "score": 0.1161306,
    "languages": [
     "en",
-    "it",
+    "ru",
     "fr"
    ]
   },
@@ -76,6 +76,33 @@
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
+   "title": {
+    "en": "Mu-kai"
+   },
+   "contentRating": "safe",
+   "score": 0.114285715,
+   "languages": [
+    "en",
+    "it",
+    "fr"
+   ]
+  },
+  {
+   "id": "87a7705f-fa93-4353-867f-dde9a26799af",
+   "title": {
+    "en": "Zanuff the Butcher"
+   },
+   "contentRating": "safe",
+   "score": 0.10432811,
+   "languages": [
+    "en",
+    "es-la",
+    "fr",
+    "pl"
    ]
   },
   {
@@ -99,17 +126,33 @@
    ]
   },
   {
-   "id": "87a7705f-fa93-4353-867f-dde9a26799af",
+   "id": "2b37189e-0bb2-4586-9757-b3fe6acd77b3",
    "title": {
-    "en": "Zanuff the Butcher"
+    "en": "Majo Taisen - The War of Greedy Witches"
    },
    "contentRating": "safe",
-   "score": 0.10432811,
+   "score": 0.09257644,
    "languages": [
     "en",
-    "es-la",
     "fr",
-    "pl"
+    "id",
+    "pt-br",
+    "uk",
+    "tr",
+    "es-la",
+    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "c9b1eb3f-ac77-4760-971f-a7a754c8daf4",
+   "title": {
+    "en": "Doodle"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "fr"
    ]
   },
   {
@@ -137,14 +180,15 @@
    ]
   },
   {
-   "id": "c9b1eb3f-ac77-4760-971f-a7a754c8daf4",
+   "id": "31ef10e1-3fbb-4c41-a462-b273edbb6980",
    "title": {
-    "en": "Doodle"
+    "en": "Mujou no Sekki - Ouma no Ketsumyaku"
    },
    "contentRating": "safe",
    "score": 0.090350784,
    "languages": [
-    "fr"
+    "fr",
+    "en"
    ]
   },
   {
@@ -164,87 +208,37 @@
    ]
   },
   {
-   "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
+   "id": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
    "title": {
-    "en": "One Pound Gospel"
+    "en": "Isekai Meikyuu no Saishinbu o Mezasou"
    },
    "contentRating": "safe",
-   "score": 0.0808122,
+   "score": 0.085183546,
    "languages": [
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
-   "title": {
-    "en": "Doraemon"
-   },
-   "contentRating": "safe",
-   "score": 0.0808122,
-   "languages": [
-    "it",
-    "fr",
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
-   "title": {
-    "en": "【Oshi no Ko】"
-   },
-   "contentRating": "safe",
-   "score": 0.0808122,
-   "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
     "ru",
-    "vi",
+    "en",
     "id",
     "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
-   "id": "fe18fe91-fa82-441c-9d87-66414d59a622",
-   "title": {
-    "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
-   },
-   "contentRating": "safe",
-   "score": 0.077051416,
-   "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
-   "title": {
-    "en": "Halloween Night"
-   },
-   "contentRating": "safe",
-   "score": 0.07377111,
-   "languages": [
-    "ro",
-    "vi",
-    "pl",
-    "en",
     "fr",
-    "it"
+    "pt-br",
+    "es"
+   ]
+  },
+  {
+   "id": "d4b99a69-f4ac-460a-910a-b578ba17cf17",
+   "title": {
+    "en": "Jank Runk Family"
+   },
+   "contentRating": "safe",
+   "score": 0.083685994,
+   "languages": [
+    "fr",
+    "en",
+    "id",
+    "it",
+    "ar"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:56+00:00"
+ "updatedAt": "2023-12-10T18:35:19+00:00"
 }

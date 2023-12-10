@@ -6,12 +6,32 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "733fc3ac-deca-444e-bb79-14186e00ccf1",
+   "title": {
+    "en": "Shadows House - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.2467965,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "ru",
+    "id",
+    "tr",
+    "es",
+    "fr",
+    "es-la",
+    "it"
+   ]
+  },
+  {
    "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
    "title": {
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.23375534,
+   "score": 0.22883001,
    "languages": [
     "pt-br",
     "es",
@@ -24,9 +44,32 @@
     "en": "G (KOIKE Keiichi)"
    },
    "contentRating": "safe",
-   "score": 0.21252781,
+   "score": 0.2123849,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "759c4b10-af8f-4e0a-ae1d-1be33a34080f",
+   "title": {
+    "en": "Fly - Tondemo Teleport Girl Yumi"
+   },
+   "contentRating": "safe",
+   "score": 0.20644996,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd93c380-1882-436c-8667-22070736da5d",
+   "title": {
+    "en": "Everyone's Loose Screw"
+   },
+   "contentRating": "safe",
+   "score": 0.18763106,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -43,12 +86,12 @@
    ]
   },
   {
-   "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
+   "id": "4c909df0-09c3-4462-8e88-614cdf52018c",
    "title": {
-    "en": "Sekai de Ichiban, Ore ga ◯◯"
+    "en": "The Looming Figure"
    },
    "contentRating": "safe",
-   "score": 0.1827393,
+   "score": 0.1787909,
    "languages": [
     "en"
    ]
@@ -77,9 +120,9 @@
    ]
   },
   {
-   "id": "4c909df0-09c3-4462-8e88-614cdf52018c",
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
    "title": {
-    "en": "The Looming Figure"
+    "en": "Material Polka"
    },
    "contentRating": "safe",
    "score": 0.1787909,
@@ -101,14 +144,27 @@
    ]
   },
   {
-   "id": "ffdbc599-2857-4ada-acee-cd95fe417a6b",
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
    "title": {
-    "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.17815651,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "b1fe996c-6ed6-4dc4-b655-8d2525b51846",
+   "title": {
+    "en": "Crescent Moon"
    },
    "contentRating": "safe",
    "score": 0.1723967,
    "languages": [
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
@@ -123,6 +179,19 @@
    ]
   },
   {
+   "id": "3e36f4b5-37f3-4413-8aa4-67dd80275972",
+   "title": {
+    "en": "Zashisu"
+   },
+   "contentRating": "safe",
+   "score": 0.1723967,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
    "id": "e503974f-e397-4ebb-bdf4-62583582ef12",
    "title": {
     "en": "Look Me in the Eyes When You Talk"
@@ -134,71 +203,7 @@
     "en",
     "ca"
    ]
-  },
-  {
-   "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
-   "title": {
-    "en": "The Watchman"
-   },
-   "contentRating": "safe",
-   "score": 0.17066404,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
-   "title": {
-    "en": "Dorobou Night Trick"
-   },
-   "contentRating": "safe",
-   "score": 0.17066404,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.17066404,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "4b961bba-f68d-487e-ae12-5f638fb19b52",
-   "title": {
-    "en": "Ashita, Hadashi de Koi."
-   },
-   "contentRating": "safe",
-   "score": 0.16254835,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
-   "title": {
-    "en": "Fool Night"
-   },
-   "contentRating": "safe",
-   "score": 0.16228694,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:25+00:00"
+ "updatedAt": "2023-12-10T18:12:57+00:00"
 }

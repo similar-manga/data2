@@ -11,7 +11,7 @@
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.3096928,
+   "score": 0.30664214,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Jungle King"
    },
    "contentRating": "safe",
-   "score": 0.28250208
+   "score": 0.28239718
   },
   {
    "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
@@ -30,7 +30,7 @@
     "en": "Crusher Joe REBIRTH"
    },
    "contentRating": "safe",
-   "score": 0.26402986
+   "score": 0.26396948
   },
   {
    "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
@@ -38,7 +38,7 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.25237736
+   "score": 0.25229356
   },
   {
    "id": "04c875aa-7b61-4b00-8c39-d753d0b6bc6d",
@@ -46,7 +46,18 @@
     "en": "A Genius' Isekai Overlord Legend - Fist of the North Star: Amiba Gaiden - Even if I Go to Another World, I Am a Genius!! Huh? Was I Mistaken..."
    },
    "contentRating": "safe",
-   "score": 0.24432111,
+   "score": 0.24242891,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ccd9f11a-b8fd-4ca3-ac07-30b3662f00f9",
+   "title": {
+    "en": "Insect Detective Yoshimi Yoshida"
+   },
+   "contentRating": "safe",
+   "score": 0.2258638,
    "languages": [
     "en"
    ]
@@ -57,7 +68,7 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.22551954,
+   "score": 0.22419412,
    "languages": [
     "es-la",
     "en",
@@ -98,11 +109,19 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.21879786,
+   "score": 0.21737929,
    "languages": [
     "en",
     "it"
    ]
+  },
+  {
+   "id": "7ce83763-093c-4c2a-8104-c610221eb765",
+   "title": {
+    "en": "Airport"
+   },
+   "contentRating": "safe",
+   "score": 0.2036388
   },
   {
    "id": "ba7908db-5c9e-4f78-9fc1-3b3581f752e9",
@@ -110,7 +129,7 @@
     "en": "Look Back"
    },
    "contentRating": "safe",
-   "score": 0.20431988,
+   "score": 0.20325123,
    "languages": [
     "sr",
     "ru",
@@ -122,20 +141,12 @@
    ]
   },
   {
-   "id": "7ce83763-093c-4c2a-8104-c610221eb765",
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
    "title": {
-    "en": "Airport"
+    "en": "The Osamu Tezuka Story"
    },
    "contentRating": "safe",
-   "score": 0.20387173
-  },
-  {
-   "id": "e39991fd-699b-4477-82cc-87b7dcb8bbb3",
-   "title": {
-    "en": "Inui and Tatsumi: Secret History of the Siberian Intervention"
-   },
-   "contentRating": "safe",
-   "score": 0.19889541
+   "score": 0.20047702
   },
   {
    "id": "65466967-d516-4936-a14b-8016f9dc40bb",
@@ -146,41 +157,24 @@
    "score": 0.19864732
   },
   {
+   "id": "e39991fd-699b-4477-82cc-87b7dcb8bbb3",
+   "title": {
+    "en": "Inui and Tatsumi: Secret History of the Siberian Intervention"
+   },
+   "contentRating": "safe",
+   "score": 0.19849502
+  },
+  {
    "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
    "title": {
     "en": "The Darwin Incident"
    },
    "contentRating": "safe",
-   "score": 0.18992473,
+   "score": 0.1895051,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
-   "title": {
-    "en": "What's Michael?"
-   },
-   "contentRating": "safe",
-   "score": 0.18728653,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "e6109f9b-c393-4c71-84f8-10e978265cae",
-   "title": {
-    "en": "Battle Angel Alita: Mars Chronicle"
-   },
-   "contentRating": "safe",
-   "score": 0.18720295,
-   "languages": [
-    "zh-hk",
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:29+00:00"
+ "updatedAt": "2023-12-10T18:13:09+00:00"
 }

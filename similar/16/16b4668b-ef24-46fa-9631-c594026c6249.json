@@ -6,14 +6,81 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "title": {
+    "en": "I Spy"
+   },
+   "contentRating": "safe",
+   "score": 0.24264932,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
+   ]
+  },
+  {
    "id": "71d07162-16dd-4178-a7ef-003d66360574",
    "title": {
     "en": "Angel Voice"
    },
    "contentRating": "safe",
-   "score": 0.22852555,
+   "score": 0.22628336,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+   "title": {
+    "en": "Blue Box"
+   },
+   "contentRating": "safe",
+   "score": 0.22489695,
+   "languages": [
+    "vi",
+    "fr",
+    "pt-br",
+    "id",
+    "tr",
+    "ro",
+    "en",
+    "es-la",
+    "th",
+    "hu"
+   ]
+  },
+  {
+   "id": "6341b809-53e3-4461-ab3b-160514964685",
+   "title": {
+    "en": "Chiisai Boku no Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.21742114,
+   "languages": [
+    "id",
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "ce7cd7b0-e595-4f0d-98e8-447da10d652d",
+   "title": {
+    "en": "Yozakura-san Chi no Daisakusen"
+   },
+   "contentRating": "safe",
+   "score": 0.21531938,
+   "languages": [
+    "vi",
+    "pt-br",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "fr",
+    "id"
    ]
   },
   {
@@ -22,7 +89,40 @@
     "en": "Age!"
    },
    "contentRating": "safe",
-   "score": 0.2119038,
+   "score": 0.21049877,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4c6993b4-5438-4ea6-a4fb-2480f40313f2",
+   "title": {
+    "en": "Bullet 6mm"
+   },
+   "contentRating": "safe",
+   "score": 0.20824775,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b5a737bc-080a-4e20-bad2-89d77f83deb8",
+   "title": {
+    "en": "Fluctuations of the Hitman S"
+   },
+   "contentRating": "safe",
+   "score": 0.20272121,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bcebd42-d47e-418a-901c-e18ae48269ee",
+   "title": {
+    "en": "Stripe Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.20189984,
    "languages": [
     "en"
    ]
@@ -33,7 +133,7 @@
     "en": "Bokuretsu Manken Love Gun"
    },
    "contentRating": "safe",
-   "score": 0.19814251,
+   "score": 0.19606027,
    "languages": [
     "en"
    ]
@@ -50,24 +150,39 @@
    ]
   },
   {
-   "id": "6f563f31-5336-422d-ade8-5bb458b454e5",
+   "id": "f1845adf-270b-4405-9438-0c56b1b9576c",
    "title": {
-    "en": "Nina Jalhae!"
+    "en": "Beyblade X"
    },
    "contentRating": "safe",
-   "score": 0.18927385,
+   "score": 0.19042067,
+   "languages": [
+    "es-la",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "31c8a16b-43ff-4869-8768-ce8a1d252a78",
+   "title": {
+    "en": "Ashita Aozora"
+   },
+   "contentRating": "safe",
+   "score": 0.18958884,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
+   "id": "28ee14d0-52ab-402a-a86b-939e6a575574",
    "title": {
-    "en": "Hyoujou Fubu"
+    "en": "Toppu GP"
    },
    "contentRating": "safe",
-   "score": 0.1892277,
+   "score": 0.18916707,
    "languages": [
+    "fr",
+    "pt-br",
     "en"
    ]
   },
@@ -83,112 +198,16 @@
    ]
   },
   {
-   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
+   "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
    "title": {
-    "en": "Gakuen Psycho-Pass"
+    "en": "Hyoujou Fubu"
    },
    "contentRating": "safe",
-   "score": 0.18780185,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
-   "title": {
-    "en": "King Golf"
-   },
-   "contentRating": "safe",
-   "score": 0.1861903,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
-   "title": {
-    "en": "Sasameke"
-   },
-   "contentRating": "safe",
-   "score": 0.18435721,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
-   "title": {
-    "en": "Hajime no Ippo"
-   },
-   "contentRating": "safe",
-   "score": 0.17973533,
-   "languages": [
-    "en",
-    "ar",
-    "fr",
-    "es",
-    "pt-br",
-    "ru",
-    "pl"
-   ]
-  },
-  {
-   "id": "59d73e0d-9a87-4f67-b6e6-6e92f31768a5",
-   "title": {
-    "en": "Susume!! Seigaku Dennou Kenkyuubu"
-   },
-   "contentRating": "safe",
-   "score": 0.17831457,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "baf4a60d-bbb0-496c-8917-e1287d419d22",
-   "title": {
-    "en": "THE iDOLM@STER Neue Green for Dearly Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.17734411,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ab5a8b56-af2e-458a-822a-4722c1d0b123",
-   "title": {
-    "en": "Kuzumoto-san Chi no Yonkyoudai"
-   },
-   "contentRating": "safe",
-   "score": 0.17556173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e17291c8-0356-4438-97e7-1346da5faa11",
-   "title": {
-    "en": "Rebirth Knight"
-   },
-   "contentRating": "safe",
-   "score": 0.17556173,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
-   "title": {
-    "en": "Love You"
-   },
-   "contentRating": "safe",
-   "score": 0.17556173,
+   "score": 0.18867368,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:38+00:00"
+ "updatedAt": "2023-12-10T18:10:46+00:00"
 }

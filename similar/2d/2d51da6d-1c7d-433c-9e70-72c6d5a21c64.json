@@ -11,7 +11,7 @@
     "en": "Alas, Stardust"
    },
    "contentRating": "safe",
-   "score": 0.2739316,
+   "score": 0.27494898,
    "languages": [
     "zh-hk"
    ]
@@ -22,10 +22,18 @@
     "en": "The Keys to Your Heart"
    },
    "contentRating": "safe",
-   "score": 0.23492421,
+   "score": 0.2377664,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2c845513-5f5a-47f1-a7d8-3aa5c8838135",
+   "title": {
+    "en": "Kahan no Machi no Céline"
+   },
+   "contentRating": "safe",
+   "score": 0.23698467
   },
   {
    "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
@@ -33,8 +41,60 @@
     "en": "Shinya Shokudou"
    },
    "contentRating": "safe",
-   "score": 0.22363353,
+   "score": 0.22838958,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3f793858-b65a-4894-983d-d6f8659185fe",
+   "title": {
+    "en": "Sunset on Third Street"
+   },
+   "contentRating": "safe",
+   "score": 0.22694021
+  },
+  {
+   "id": "400eb37d-d17f-4f6c-9bf0-db8863fa6f3f",
+   "title": {
+    "en": "My Osamu Tezuka"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
+  },
+  {
+   "id": "0c094713-d57b-4579-b164-e6cb5a9d02aa",
+   "title": {
+    "en": "Aru Hi, Mokuyoukai de."
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
+  },
+  {
+   "id": "23fdc5b9-4f46-49e4-8510-8784e5c64dea",
+   "title": {
+    "en": "A Good Day for Men - Another Economic Genesis: The Story of Mutsumi Maki"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
+  },
+  {
+   "id": "ba5fd61f-a5a2-4b43-a6ab-beb0721dcfdc",
+   "title": {
+    "en": "Zouhyou Monogatari: Ashita wa Docchi e"
+   },
+   "contentRating": "safe",
+   "score": 0.20841594
+  },
+  {
+   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "title": {
+    "en": "Double"
+   },
+   "contentRating": "safe",
+   "score": 0.20737065,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -44,18 +104,35 @@
     "en": "Like Shooting Stars in the Twilight"
    },
    "contentRating": "safe",
-   "score": 0.20198488
+   "score": 0.20264807
   },
   {
-   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "id": "8c3f7ff8-94f1-42d9-a823-ba0b659940b1",
    "title": {
-    "en": "Double"
+    "en": "Tokyo Futari Gurashi"
    },
    "contentRating": "safe",
-   "score": 0.20028383,
+   "score": 0.19946153
+  },
+  {
+   "id": "be36e5cf-465a-4456-8c08-ae8e70565b77",
+   "title": {
+    "en": "Kaika Apartment"
+   },
+   "contentRating": "safe",
+   "score": 0.19644369
+  },
+  {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.19590104,
    "languages": [
-    "vi",
-    "en"
+    "en",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -71,155 +148,13 @@
    ]
   },
   {
-   "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
+   "id": "89efccb5-b0cf-4a1a-84aa-31940b2c618b",
    "title": {
-    "en": "Blue Period"
+    "en": "Nihon wo Tsukutta Otoko: Shibusawa Eiichi Aoki Hibi"
    },
    "contentRating": "safe",
-   "score": 0.18631056,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "ru",
-    "id",
-    "tr",
-    "it",
-    "fa"
-   ]
-  },
-  {
-   "id": "b73371d4-02dd-4db0-b448-d9afa3d698f1",
-   "title": {
-    "en": "Ao Ashi"
-   },
-   "contentRating": "safe",
-   "score": 0.18174353,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr",
-    "id",
-    "ru",
-    "ar",
-    "it",
-    "fa",
-    "es"
-   ]
-  },
-  {
-   "id": "fae012cb-2824-4809-a241-299809d50241",
-   "title": {
-    "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.18080136,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8d420fe4-feb4-489e-b37f-6c75771fe8e3",
-   "title": {
-    "en": "Paripi Koumei"
-   },
-   "contentRating": "safe",
-   "score": 0.1769834,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
-   "title": {
-    "en": "Like a Laika"
-   },
-   "contentRating": "safe",
-   "score": 0.17480525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.17387246,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.17183623,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "5ae5d282-bd56-4844-ab9a-8eb8e7970b62",
-   "title": {
-    "en": "Fude to Kizu"
-   },
-   "contentRating": "safe",
-   "score": 0.17056695,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
-   "title": {
-    "en": "Sunny Sunny Ann!"
-   },
-   "contentRating": "safe",
-   "score": 0.16931435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89daf9dc-075a-4aa5-873a-cc76bb287108",
-   "title": {
-    "en": "Gokushufudou: The Way of the House Husband"
-   },
-   "contentRating": "safe",
-   "score": 0.16911042,
-   "languages": [
-    "pt-br",
-    "tr",
-    "fa",
-    "ar",
-    "es-la",
-    "ru",
-    "id",
-    "uk",
-    "pt",
-    "fr",
-    "it",
-    "sv",
-    "hi",
-    "de"
-   ]
+   "score": 0.19137247
   }
  ],
- "updatedAt": "2023-12-10T01:01:30+00:00"
+ "updatedAt": "2023-12-10T18:13:10+00:00"
 }

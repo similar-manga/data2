@@ -6,15 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
+   "id": "86bd13d6-6786-4e0f-9488-e1cbe5d506ae",
    "title": {
-    "en": "King Golf"
+    "en": "Gate In!"
    },
    "contentRating": "safe",
-   "score": 0.24769886,
+   "score": 0.3248694
+  },
+  {
+   "id": "28ee14d0-52ab-402a-a86b-939e6a575574",
+   "title": {
+    "en": "Toppu GP"
+   },
+   "contentRating": "safe",
+   "score": 0.22473563,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "0d3eb2fd-15aa-41f2-8276-557fa4a01931",
+   "title": {
+    "en": "Aoki Shinwa Mars"
+   },
+   "contentRating": "safe",
+   "score": 0.22068237
+  },
+  {
+   "id": "81013efd-f9ab-4e97-bc94-cf0ed451dcda",
+   "title": {
+    "en": "An Extremely Attractive Gorilla"
+   },
+   "contentRating": "safe",
+   "score": 0.21877153,
    "languages": [
     "en",
-    "pt-br"
+    "fr",
+    "pt-br",
+    "hi"
    ]
   },
   {
@@ -23,21 +54,58 @@
     "en": "Dan Doh!!"
    },
    "contentRating": "safe",
-   "score": 0.2118317,
+   "score": 0.21205053,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4ef96c2c-25e5-4e1a-bb21-90a36c25096a",
+   "id": "13a00bdc-f656-4008-8e10-2193db72ec97",
    "title": {
-    "en": "Age!"
+    "en": "Teenage NO.1"
    },
    "contentRating": "safe",
-   "score": 0.20580734,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21128729
+  },
+  {
+   "id": "c01276dc-b4e6-4dce-ade7-c54b568a982a",
+   "title": {
+    "en": "Kaiketsu Zorori"
+   },
+   "contentRating": "safe",
+   "score": 0.2081377
+  },
+  {
+   "id": "9044f2b2-e6af-4941-ad7c-138049c8f0b0",
+   "title": {
+    "en": "Adventure Gaboten Island"
+   },
+   "contentRating": "safe",
+   "score": 0.2081377
+  },
+  {
+   "id": "6d2eb6cb-2f77-4a57-adf2-7bb392ce07ff",
+   "title": {
+    "en": "Hot Fist! Musashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2081377
+  },
+  {
+   "id": "92f14e76-9362-4e3f-b828-14d639dabf8f",
+   "title": {
+    "en": "Doraemon \"Nobita's Dinosaur 2006DS\" Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.2081377
+  },
+  {
+   "id": "98aafd18-cd7b-486a-a1ae-1483ffe08e4b",
+   "title": {
+    "en": "Go Go! Godzilla!! Matsui-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.20703363
   },
   {
    "id": "ff221a42-0b91-459d-8c8d-970bae4bc8d7",
@@ -45,7 +113,18 @@
     "en": "BREAK BACK"
    },
    "contentRating": "safe",
-   "score": 0.2055985
+   "score": 0.20581488
+  },
+  {
+   "id": "4ef96c2c-25e5-4e1a-bb21-90a36c25096a",
+   "title": {
+    "en": "Age!"
+   },
+   "contentRating": "safe",
+   "score": 0.20540662,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
@@ -53,9 +132,21 @@
     "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.19638832,
+   "score": 0.19690795,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
+   "title": {
+    "en": "King Golf"
+   },
+   "contentRating": "safe",
+   "score": 0.19470319,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -65,96 +156,7 @@
    },
    "contentRating": "safe",
    "score": 0.19465445
-  },
-  {
-   "id": "d84b20c0-2502-4ed6-8a3a-65448e1acd46",
-   "title": {
-    "en": "Slam Dunk (Shinsoban Release)"
-   },
-   "contentRating": "safe",
-   "score": 0.18645261,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "4f9a83e2-d037-4cea-9327-ae4fe676d71e",
-   "title": {
-    "en": "Otoko do Ahou Koushien"
-   },
-   "contentRating": "safe",
-   "score": 0.18382731
-  },
-  {
-   "id": "d3f7efcf-eb7c-4552-b906-7d244c5b66a8",
-   "title": {
-    "en": "Climber Retsuden"
-   },
-   "contentRating": "safe",
-   "score": 0.18251947
-  },
-  {
-   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
-   "title": {
-    "en": "Pokémon"
-   },
-   "contentRating": "safe",
-   "score": 0.17076892,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
-   "title": {
-    "en": "Star of the Giants"
-   },
-   "contentRating": "safe",
-   "score": 0.17063934
-  },
-  {
-   "id": "4d9c92a3-592b-4a97-800f-82ddbaa3095d",
-   "title": {
-    "en": "Sakanaya Champion"
-   },
-   "contentRating": "safe",
-   "score": 0.17056409
-  },
-  {
-   "id": "7d9e2852-4710-4b5e-82f0-e4ef00cee105",
-   "title": {
-    "en": "The Doraemons - Doraemon Game Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
-   "title": {
-    "en": "Countryside General"
-   },
-   "contentRating": "safe",
-   "score": 0.16975781
-  },
-  {
-   "id": "0745e19e-d358-4f9d-a791-ac01a43c1a0d",
-   "title": {
-    "en": "Noboru Baba Children's Manga Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.1653084
-  },
-  {
-   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
-   "title": {
-    "en": "Play Ball"
-   },
-   "contentRating": "safe",
-   "score": 0.16304585
   }
  ],
- "updatedAt": "2023-12-10T01:02:26+00:00"
+ "updatedAt": "2023-12-10T18:15:50+00:00"
 }

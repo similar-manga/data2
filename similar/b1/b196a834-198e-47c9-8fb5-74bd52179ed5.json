@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "45cef491-40d7-416a-a181-176c4d22d9a6",
+   "title": {
+    "en": "Suitei Nenrei 120-sai, Kao mo Shiranai Konyakusha ga Jitsu wa Chouzetsu Bikei deshita."
+   },
+   "contentRating": "safe",
+   "score": 0.31116372
+  },
+  {
    "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
    "title": {
     "en": "Harp of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.23732543
+   "score": 0.23767087
+  },
+  {
+   "id": "b38de8a5-77f2-408e-9690-434954ec7cad",
+   "title": {
+    "en": "Everything for You"
+   },
+   "contentRating": "safe",
+   "score": 0.20481868
   },
   {
    "id": "711c7ca2-e528-4f9a-bc7b-936075cdc0ed",
@@ -25,6 +41,22 @@
    ]
   },
   {
+   "id": "6e65b46c-3b89-483e-ab5c-2e7457d145c5",
+   "title": {
+    "en": "Basil-shi no Yuuga na Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.19563307
+  },
+  {
+   "id": "bb3c286e-51c1-4b1a-b770-e90792bf704b",
+   "title": {
+    "en": "Himitsu no Chaiharo"
+   },
+   "contentRating": "safe",
+   "score": 0.19545321
+  },
+  {
    "id": "e6d41077-a921-43d8-a353-1bfdfb331ba7",
    "title": {
     "en": "The Glacier of No Return"
@@ -36,12 +68,32 @@
    ]
   },
   {
+   "id": "e6f9f347-fc8f-4422-8242-3d4aa484d8ef",
+   "title": {
+    "en": "Asian Beat"
+   },
+   "contentRating": "safe",
+   "score": 0.19034569
+  },
+  {
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
+   "title": {
+    "en": "Detective Kouko Feels Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.19034569,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "a82b31d4-b14e-45b7-82db-0784517189fe",
    "title": {
     "en": "Dark Fragrance"
    },
    "contentRating": "safe",
-   "score": 0.19063088,
+   "score": 0.19017905,
    "languages": [
     "en"
    ]
@@ -52,7 +104,7 @@
     "en": "Cologne Policeman Odo"
    },
    "contentRating": "safe",
-   "score": 0.18995835
+   "score": 0.18961224
   },
   {
    "id": "64e7b9a0-2725-4f25-ba4a-35eb42d58507",
@@ -60,7 +112,15 @@
     "en": "The Dreadful Marionettes"
    },
    "contentRating": "safe",
-   "score": 0.1876131
+   "score": 0.18766324
+  },
+  {
+   "id": "d2e051d5-e5e9-45db-86b9-2308120e43af",
+   "title": {
+    "en": "Taishou Renren Futaba Zoushi"
+   },
+   "contentRating": "safe",
+   "score": 0.18754157
   },
   {
    "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
@@ -68,7 +128,15 @@
     "en": "Lady Lizard"
    },
    "contentRating": "safe",
-   "score": 0.18586306
+   "score": 0.18620506
+  },
+  {
+   "id": "5ac6e591-da9c-468e-b053-f54480921047",
+   "title": {
+    "en": "Marionette"
+   },
+   "contentRating": "safe",
+   "score": 0.18604195
   },
   {
    "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
@@ -76,99 +144,11 @@
     "en": "Orgel Garden"
    },
    "contentRating": "safe",
-   "score": 0.17928715,
+   "score": 0.17890792,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
-   "title": {
-    "en": "Shisei"
-   },
-   "contentRating": "safe",
-   "score": 0.1774848,
-   "languages": [
-    "uk",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "99c55b76-dee9-4758-a0c9-ed1a70d4edca",
-   "title": {
-    "en": "Ooku: The Inner Chambers"
-   },
-   "contentRating": "safe",
-   "score": 0.17705488
-  },
-  {
-   "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
-   "title": {
-    "en": "Mane of the Wind"
-   },
-   "contentRating": "safe",
-   "score": 0.17466801,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b2beaa6-08df-44e5-a404-ecee109744fc",
-   "title": {
-    "en": "Candy Candy"
-   },
-   "contentRating": "safe",
-   "score": 0.17418051,
-   "languages": [
-    "pt-br",
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "b564f264-d2d4-405d-993b-f9fd0c14d1ff",
-   "title": {
-    "en": "Visukiisu no Akai Ningyou"
-   },
-   "contentRating": "safe",
-   "score": 0.17376104,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
-   "title": {
-    "en": "Niji no Ikusa"
-   },
-   "contentRating": "safe",
-   "score": 0.17376104,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "04d3680f-0cad-4009-a394-33fedf5ee31d",
-   "title": {
-    "en": "Kare wa Hanazono de Yume wo Miru"
-   },
-   "contentRating": "safe",
-   "score": 0.17143264
-  },
-  {
-   "id": "555f4931-a136-40d9-902c-eedb7f404942",
-   "title": {
-    "en": "Princess Alice and the King"
-   },
-   "contentRating": "safe",
-   "score": 0.16943108,
-   "languages": [
-    "hu"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:05+00:00"
+ "updatedAt": "2023-12-10T18:28:13+00:00"
 }

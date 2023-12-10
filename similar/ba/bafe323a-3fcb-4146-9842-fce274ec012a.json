@@ -11,7 +11,7 @@
     "en": "Kokenoshima"
    },
    "contentRating": "safe",
-   "score": 0.3437833,
+   "score": 0.3771757,
    "languages": [
     "tr",
     "en"
@@ -23,7 +23,7 @@
     "en": "Evil Eater"
    },
    "contentRating": "safe",
-   "score": 0.26392844,
+   "score": 0.2619335,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "The Beautiful Ones"
    },
    "contentRating": "safe",
-   "score": 0.2509875,
+   "score": 0.24986379,
    "languages": [
     "vi",
     "es",
@@ -46,16 +46,16 @@
    ]
   },
   {
-   "id": "7336ba26-68f6-4b02-8b26-6199562f8033",
+   "id": "f164e097-cf6e-4315-bad3-edde5b141b93",
    "title": {
-    "en": "Shounen Endless"
+    "en": "Amon Game"
    },
    "contentRating": "safe",
-   "score": 0.22291116,
+   "score": 0.22039944,
    "languages": [
+    "id",
     "pt-br",
-    "en",
-    "it"
+    "en"
    ]
   },
   {
@@ -64,7 +64,7 @@
     "en": "Kishibe no Yume"
    },
    "contentRating": "safe",
-   "score": 0.21653825,
+   "score": 0.21335308,
    "languages": [
     "en",
     "es-la",
@@ -72,18 +72,17 @@
    ]
   },
   {
-   "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
    "title": {
-    "en": "At the End of 4 Minutes"
+    "en": "Majo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.21119772,
+   "score": 0.21274872,
    "languages": [
     "vi",
-    "fr",
-    "en",
     "pt-br",
-    "ca"
+    "en",
+    "ru"
    ]
   },
   {
@@ -98,12 +97,40 @@
    ]
   },
   {
+   "id": "7336ba26-68f6-4b02-8b26-6199562f8033",
+   "title": {
+    "en": "Shounen Endless"
+   },
+   "contentRating": "safe",
+   "score": 0.21078049,
+   "languages": [
+    "pt-br",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
+   "title": {
+    "en": "At the End of 4 Minutes"
+   },
+   "contentRating": "safe",
+   "score": 0.21004696,
+   "languages": [
+    "vi",
+    "fr",
+    "en",
+    "pt-br",
+    "ca"
+   ]
+  },
+  {
    "id": "b40792b9-88f2-41a1-9cf4-73c26fa687da",
    "title": {
     "en": "Gedara"
    },
    "contentRating": "safe",
-   "score": 0.20949014,
+   "score": 0.20831703,
    "languages": [
     "en"
    ]
@@ -122,6 +149,17 @@
    ]
   },
   {
+   "id": "dd56399e-6594-4466-ac34-64908b360b98",
+   "title": {
+    "en": "The Tale of That Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.20644996,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d42f00b9-207f-425a-9892-b9169568d2a3",
    "title": {
     "en": "Primo Piatto"
@@ -135,12 +173,12 @@
    ]
   },
   {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
+   "id": "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
    "title": {
-    "en": "The Tale of That Forest"
+    "en": "The Boy Who Collects The Stars"
    },
    "contentRating": "safe",
-   "score": 0.20644996,
+   "score": 0.20368063,
    "languages": [
     "en"
    ]
@@ -159,57 +197,18 @@
    ]
   },
   {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
+   "id": "53af0017-83cb-41e7-97eb-25bba200940d",
    "title": {
-    "en": "Like a Laika"
+    "en": "Last One"
    },
    "contentRating": "safe",
-   "score": 0.19980314,
+   "score": 0.20234425,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
-   "title": {
-    "en": "Mayonaka Sanpo"
-   },
-   "contentRating": "safe",
-   "score": 0.19706586,
-   "languages": [
-    "fa",
-    "ar",
-    "fr",
-    "hu",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "89500eab-0c26-4ae0-be9a-afcc54f9f911",
-   "title": {
-    "en": "Oninagi"
-   },
-   "contentRating": "safe",
-   "score": 0.19706586,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
-   "title": {
-    "en": "Tokyo Ghoul: Redrawn"
-   },
-   "contentRating": "safe",
-   "score": 0.19243102,
-   "languages": [
-    "it",
     "pt-br",
-    "pl",
+    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:28+00:00"
+ "updatedAt": "2023-12-10T18:29:14+00:00"
 }

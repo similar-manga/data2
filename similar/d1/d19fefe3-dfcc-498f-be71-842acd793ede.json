@@ -11,7 +11,7 @@
     "en": "Watashi no Itoshii Kutsu"
    },
    "contentRating": "safe",
-   "score": 0.27995974,
+   "score": 0.28249592,
    "languages": [
     "en",
     "tr"
@@ -23,7 +23,7 @@
     "en": "Kaze ni Chiru Hanabira to Kisu"
    },
    "contentRating": "safe",
-   "score": 0.27165067,
+   "score": 0.27099112,
    "languages": [
     "it",
     "en"
@@ -35,18 +35,7 @@
     "en": "Pokerface"
    },
    "contentRating": "safe",
-   "score": 0.26712373,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "75d0eb7b-19f4-4ff0-a005-4c65e59e0932",
-   "title": {
-    "en": "Akai Kutsu"
-   },
-   "contentRating": "safe",
-   "score": 0.26369056,
+   "score": 0.26702893,
    "languages": [
     "en"
    ]
@@ -57,7 +46,7 @@
     "en": "Koi no Shikata, Oshiete Kudasai"
    },
    "contentRating": "safe",
-   "score": 0.26288,
+   "score": 0.26268193,
    "languages": [
     "en"
    ]
@@ -86,31 +75,31 @@
    ]
   },
   {
+   "id": "75d0eb7b-19f4-4ff0-a005-4c65e59e0932",
+   "title": {
+    "en": "Akai Kutsu"
+   },
+   "contentRating": "safe",
+   "score": 0.25769246,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4119fa2c-8650-46f8-a887-9cc50093023c",
    "title": {
     "en": "The Stubborn Tomboy and The Flower"
    },
    "contentRating": "safe",
-   "score": 0.25616324,
+   "score": 0.25544363,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "da783bb7-8b34-4482-98a5-9bb56ddf254d",
+   "id": "4c1454fe-0443-439c-9cde-76c6c36296a4",
    "title": {
-    "en": "Hitotsu no Hana"
-   },
-   "contentRating": "safe",
-   "score": 0.25080246,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f55a50b0-3300-4438-b6ef-fcc842b54af1",
-   "title": {
-    "en": "Double Snake"
+    "en": "Tsari to Yobareta Otoko"
    },
    "contentRating": "safe",
    "score": 0.25080246,
@@ -132,9 +121,9 @@
    ]
   },
   {
-   "id": "4c1454fe-0443-439c-9cde-76c6c36296a4",
+   "id": "f55a50b0-3300-4438-b6ef-fcc842b54af1",
    "title": {
-    "en": "Tsari to Yobareta Otoko"
+    "en": "Double Snake"
    },
    "contentRating": "safe",
    "score": 0.25080246,
@@ -156,12 +145,23 @@
    ]
   },
   {
+   "id": "da783bb7-8b34-4482-98a5-9bb56ddf254d",
+   "title": {
+    "en": "Hitotsu no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.25080246,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
    "title": {
     "en": "Happy End no Uragawa"
    },
    "contentRating": "safe",
-   "score": 0.2472772,
+   "score": 0.24436101,
    "languages": [
     "pl",
     "en"
@@ -173,7 +173,7 @@
     "en": "Koi no Yami"
    },
    "contentRating": "safe",
-   "score": 0.24423714,
+   "score": 0.24359001,
    "languages": [
     "en"
    ]
@@ -190,5 +190,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:24+00:00"
+ "updatedAt": "2023-12-10T18:31:34+00:00"
 }

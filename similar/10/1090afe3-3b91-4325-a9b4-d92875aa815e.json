@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.33159894,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
    "title": {
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.31857452,
+   "score": 0.31944448,
    "languages": [
     "pt-br",
     "es-la",
@@ -29,25 +43,11 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.3083372,
+   "score": 0.30916378,
    "languages": [
     "en",
     "es-la",
     "fr"
-   ]
-  },
-  {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
-   "title": {
-    "en": "March Comes in Like a Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.28197762,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "vi"
    ]
   },
   {
@@ -56,9 +56,20 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.27476716,
+   "score": 0.2905785,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "title": {
+    "en": "Sunny Sunny Ann!"
+   },
+   "contentRating": "safe",
+   "score": 0.2625147,
+   "languages": [
     "en"
    ]
   },
@@ -68,7 +79,7 @@
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.261798,
+   "score": 0.26226398,
    "languages": [
     "en",
     "pt-br",
@@ -88,7 +99,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.25930026,
+   "score": 0.25870106,
    "languages": [
     "en",
     "pt-br",
@@ -102,14 +113,27 @@
    ]
   },
   {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "id": "ade4a857-7881-4104-9e4c-b004abbcc7fc",
    "title": {
-    "en": "Sunny Sunny Ann!"
+    "en": "Minami Nanami Wishes to Shine"
    },
    "contentRating": "safe",
-   "score": 0.259275,
+   "score": 0.25434113,
    "languages": [
+    "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "eea75459-1e4f-4b16-a461-462595d33e11",
+   "title": {
+    "en": "Love Live! School Idol Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.25344944,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -118,9 +142,54 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.24914473,
+   "score": 0.25082716,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+   "title": {
+    "en": "Skip and Loafer"
+   },
+   "contentRating": "safe",
+   "score": 0.2433845,
+   "languages": [
+    "pt-br",
+    "uk",
+    "en",
+    "vi",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
+   "title": {
+    "en": "Giant Killing"
+   },
+   "contentRating": "safe",
+   "score": 0.24275611,
+   "languages": [
+    "ar",
+    "pt-br",
+    "fr",
+    "en",
+    "pl",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "1591c256-e561-4e4b-a57c-64079ef1958e",
+   "title": {
+    "en": "Mathematics Golden"
+   },
+   "contentRating": "safe",
+   "score": 0.24195169,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -129,10 +198,21 @@
     "en": "Yahari Ore no Seishun Love Come wa Machigatteiru @comic"
    },
    "contentRating": "safe",
-   "score": 0.24183634,
+   "score": 0.24098645,
    "languages": [
     "es-la",
     "ru"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2408649,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -141,85 +221,12 @@
     "en": "Twinkling Stars"
    },
    "contentRating": "safe",
-   "score": 0.23909697,
+   "score": 0.23713006,
    "languages": [
     "vi",
     "en"
    ]
-  },
-  {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.23010987,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "7875d6b9-fcf1-43fd-b28c-2074a5bda715",
-   "title": {
-    "en": "Juukinzoku Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
-   "title": {
-    "en": "Awajima Hyakkei"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c23fdad5-d70d-494f-bd17-3613b91c7386",
-   "title": {
-    "en": "Straight no Chaser"
-   },
-   "contentRating": "safe",
-   "score": 0.22393061,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.22328982,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "53af0017-83cb-41e7-97eb-25bba200940d",
-   "title": {
-    "en": "Last One"
-   },
-   "contentRating": "safe",
-   "score": 0.22114769,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:24+00:00"
+ "updatedAt": "2023-12-10T18:10:06+00:00"
 }

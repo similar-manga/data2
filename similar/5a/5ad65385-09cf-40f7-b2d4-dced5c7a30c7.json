@@ -11,7 +11,7 @@
     "en": "The Boxer"
    },
    "contentRating": "safe",
-   "score": 0.23206486,
+   "score": 0.23193854,
    "languages": [
     "pt-br",
     "it",
@@ -27,7 +27,7 @@
     "en": "Liv"
    },
    "contentRating": "safe",
-   "score": 0.20658815,
+   "score": 0.20554934,
    "languages": [
     "pl",
     "tr",
@@ -46,7 +46,26 @@
     "en": "A Girl's Trial"
    },
    "contentRating": "safe",
-   "score": 0.20557705,
+   "score": 0.2003481,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ecad4d00-966c-43f3-83e6-64154b80cf1f",
+   "title": {
+    "en": "Tokyo Summer of the Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.19176684
+  },
+  {
+   "id": "343711f1-99f7-4f85-86c6-9918956c1ea3",
+   "title": {
+    "en": "Zombie Breakers"
+   },
+   "contentRating": "safe",
+   "score": 0.19113044,
    "languages": [
     "en"
    ]
@@ -57,11 +76,24 @@
     "en": "Post-apocalyptic Dispatch Company"
    },
    "contentRating": "safe",
-   "score": 0.18920146,
+   "score": 0.1879388,
    "languages": [
     "en",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "ae2bdd9a-6879-46e4-a92a-695c17182685",
+   "title": {
+    "en": "PSYCHOPATH HERO"
+   },
+   "contentRating": "safe",
+   "score": 0.18005213,
+   "languages": [
+    "en",
+    "it",
+    "pl"
    ]
   },
   {
@@ -70,20 +102,7 @@
     "en": "BREAK BACK"
    },
    "contentRating": "safe",
-   "score": 0.18132474
-  },
-  {
-   "id": "ae2bdd9a-6879-46e4-a92a-695c17182685",
-   "title": {
-    "en": "PSYCHOPATH HERO"
-   },
-   "contentRating": "safe",
-   "score": 0.1799807,
-   "languages": [
-    "en",
-    "it",
-    "pl"
-   ]
+   "score": 0.179633
   },
   {
    "id": "d05f6901-ed4b-41fb-89ae-e4a44caf16a7",
@@ -115,7 +134,7 @@
     "en": "Deadman"
    },
    "contentRating": "safe",
-   "score": 0.16976759,
+   "score": 0.1692494,
    "languages": [
     "en"
    ]
@@ -126,23 +145,11 @@
     "en": "Franken Fran Frantic"
    },
    "contentRating": "safe",
-   "score": 0.16685298,
+   "score": 0.16495842,
    "languages": [
     "en",
     "ru",
     "de"
-   ]
-  },
-  {
-   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
-   "title": {
-    "en": "How to Colonize Space"
-   },
-   "contentRating": "safe",
-   "score": 0.16224681,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -158,12 +165,24 @@
    ]
   },
   {
+   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
+   "title": {
+    "en": "How to Colonize Space"
+   },
+   "contentRating": "safe",
+   "score": 0.16224681,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "cd4abe42-ebff-42b6-a684-3295b1b39202",
    "title": {
     "en": "Avengers / Zombies Assemble"
    },
    "contentRating": "safe",
-   "score": 0.15984142
+   "score": 0.15988317
   },
   {
    "id": "cb114652-dbaa-49bc-b49a-ac9483967a78",
@@ -177,30 +196,7 @@
     "it",
     "en"
    ]
-  },
-  {
-   "id": "aab46caa-4798-429a-864c-4179d2e0d138",
-   "title": {
-    "en": "World of Law and Order"
-   },
-   "contentRating": "safe",
-   "score": 0.15191597,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3830ab37-e35f-45a7-a977-21e700aa6569",
-   "title": {
-    "en": "Harukaze Mound"
-   },
-   "contentRating": "safe",
-   "score": 0.14858514,
-   "languages": [
-    "en",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:22+00:00"
+ "updatedAt": "2023-12-10T18:18:09+00:00"
 }

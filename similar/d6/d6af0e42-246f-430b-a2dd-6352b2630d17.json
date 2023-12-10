@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b5d1d117-8ffd-4c10-922d-466debfe63a9",
+   "title": {
+    "en": "M. M. G."
+   },
+   "contentRating": "safe",
+   "score": 0.63583416,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "384897a5-38f5-41d0-a97e-d56589c2c02e",
    "title": {
     "en": "The Rebirth of Noble: Revenge"
    },
    "contentRating": "safe",
-   "score": 0.42112684,
+   "score": 0.43171138,
    "languages": [
     "es",
     "en",
@@ -25,7 +38,7 @@
     "en": "The Tale left by that Magician"
    },
    "contentRating": "safe",
-   "score": 0.3049066,
+   "score": 0.29471263,
    "languages": [
     "en"
    ]
@@ -36,7 +49,7 @@
     "en": "Rebirth Begins With Refusal Of Marriage"
    },
    "contentRating": "safe",
-   "score": 0.2862302,
+   "score": 0.28997248,
    "languages": [
     "en"
    ]
@@ -47,7 +60,7 @@
     "en": "County Princess Will Not Marry Four Times"
    },
    "contentRating": "safe",
-   "score": 0.26667622,
+   "score": 0.27134228,
    "languages": [
     "en",
     "fr"
@@ -59,7 +72,7 @@
     "en": "Cultivator From the Future"
    },
    "contentRating": "safe",
-   "score": 0.2598628,
+   "score": 0.2598959,
    "languages": [
     "en",
     "pt-br",
@@ -68,48 +81,53 @@
    ]
   },
   {
-   "id": "c48ba8b2-41da-4a80-ade6-89e53b5d3fd5",
-   "title": {
-    "en": "Mahou de Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.25728834,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "bfbecb6e-8a6f-4b31-a040-5928a7635894",
-   "title": {
-    "en": "Mizu Zokusei no Mahoutsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.2527266,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98f6496b-2fbf-4cbb-af61-cf31e3a29302",
-   "title": {
-    "en": "Maseknam - A Sexy Magician"
-   },
-   "contentRating": "safe",
-   "score": 0.2508172,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "91a7184d-40df-4169-aa58-bf541e11733b",
    "title": {
     "en": "The Regent King Is Too Ferocious"
    },
    "contentRating": "safe",
-   "score": 0.2499638,
+   "score": 0.25620103,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "737c76f8-d09d-4062-85fc-374ff0ddb2e8",
+   "title": {
+    "en": "Hotel Temptation"
+   },
+   "contentRating": "safe",
+   "score": 0.25264296,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "fcfb3ec9-147f-4d43-aaea-3a73f42c8318",
+   "title": {
+    "en": "Hyouken no Majutsushi ga Sekai o Suberu"
+   },
+   "contentRating": "safe",
+   "score": 0.24943335,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "c48ba8b2-41da-4a80-ade6-89e53b5d3fd5",
+   "title": {
+    "en": "Mahou de Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.24922106,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -118,7 +136,29 @@
     "en": "Rebirth of Legendary Doctor"
    },
    "contentRating": "safe",
-   "score": 0.2433894,
+   "score": 0.24837527,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e02c5d6e-6481-4ca0-aa68-151a7095c052",
+   "title": {
+    "en": "The Herbalist Is Hard to Please"
+   },
+   "contentRating": "safe",
+   "score": 0.24795695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bfbecb6e-8a6f-4b31-a040-5928a7635894",
+   "title": {
+    "en": "Mizu Zokusei no Mahoutsukai"
+   },
+   "contentRating": "safe",
+   "score": 0.24515986,
    "languages": [
     "en"
    ]
@@ -129,19 +169,19 @@
     "en": "The Prince in Game Is Hard to Raise"
    },
    "contentRating": "safe",
-   "score": 0.24191533,
+   "score": 0.24429952,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "e02c5d6e-6481-4ca0-aa68-151a7095c052",
+   "id": "98f6496b-2fbf-4cbb-af61-cf31e3a29302",
    "title": {
-    "en": "The Herbalist Is Hard to Please"
+    "en": "Maseknam - A Sexy Magician"
    },
    "contentRating": "safe",
-   "score": 0.23972982,
+   "score": 0.24174298,
    "languages": [
     "en"
    ]
@@ -152,7 +192,7 @@
     "en": "The Rebirth of an 8th Circled Wizard"
    },
    "contentRating": "safe",
-   "score": 0.23548442,
+   "score": 0.2395155,
    "languages": [
     "pt-br",
     "en",
@@ -160,43 +200,7 @@
     "pl",
     "id"
    ]
-  },
-  {
-   "id": "879ce2f1-a8da-47ed-b70b-5483f98f774e",
-   "title": {
-    "en": "Arcana 07 - Wizard / Magician"
-   },
-   "contentRating": "safe",
-   "score": 0.2344641,
-   "languages": [
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "b828bd28-9a19-4cab-81df-ac03d33f33e2",
-   "title": {
-    "en": "I Am the Main Characters' Child"
-   },
-   "contentRating": "safe",
-   "score": 0.23159418,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a72bfe60-1cb9-4f28-b790-3d4f4dbccf6d",
-   "title": {
-    "en": "100-nen Go ni Tensei Shita Watashi, Zense no Joukishi ni Kyuukonsaremashita"
-   },
-   "contentRating": "safe",
-   "score": 0.22742572,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:37+00:00"
+ "updatedAt": "2023-12-10T18:32:06+00:00"
 }

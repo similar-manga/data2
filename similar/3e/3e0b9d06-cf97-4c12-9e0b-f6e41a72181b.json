@@ -11,7 +11,7 @@
     "en": "Cold Rain"
    },
    "contentRating": "safe",
-   "score": 0.41914847,
+   "score": 0.41700786,
    "languages": [
     "en"
    ]
@@ -22,7 +22,18 @@
     "en": "Hakugin no Teiō"
    },
    "contentRating": "safe",
-   "score": 0.3434017,
+   "score": 0.34080273,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2c694b76-5924-4b91-ba1a-4e1319ec9aeb",
+   "title": {
+    "en": "Birth of a Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.3022612,
    "languages": [
     "en"
    ]
@@ -53,7 +64,7 @@
     "en": "Bear Hunter — Fubuki-gō"
    },
    "contentRating": "safe",
-   "score": 0.25323302,
+   "score": 0.2511284,
    "languages": [
     "en"
    ]
@@ -64,7 +75,7 @@
     "en": "Wild Half"
    },
    "contentRating": "safe",
-   "score": 0.24471055,
+   "score": 0.24196285,
    "languages": [
     "en"
    ]
@@ -75,20 +86,8 @@
     "en": "Tokiya"
    },
    "contentRating": "safe",
-   "score": 0.23756711,
+   "score": 0.23724167,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c329dd29-c760-4d53-8871-cc780873d5ee",
-   "title": {
-    "en": "Joze, the Faithful Dog"
-   },
-   "contentRating": "safe",
-   "score": 0.23280936,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -98,19 +97,19 @@
     "en": "Sono Mukou no Mukougawa"
    },
    "contentRating": "safe",
-   "score": 0.23046203,
+   "score": 0.22978778,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
+   "id": "5b585d5a-95ce-427e-bd02-054cab289bdc",
    "title": {
-    "en": "Juuhime - Sincerely Night"
+    "en": "Desert Tribe"
    },
    "contentRating": "safe",
-   "score": 0.22912322,
+   "score": 0.22857143,
    "languages": [
     "en"
    ]
@@ -127,12 +126,35 @@
    ]
   },
   {
-   "id": "5b585d5a-95ce-427e-bd02-054cab289bdc",
+   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
    "title": {
-    "en": "Desert Tribe"
+    "en": "Juuhime - Sincerely Night"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.22686127,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c329dd29-c760-4d53-8871-cc780873d5ee",
+   "title": {
+    "en": "Joze, the Faithful Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.22677077,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
+   "title": {
+    "en": "Mononoke Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.22515672,
    "languages": [
     "en"
    ]
@@ -149,20 +171,6 @@
    ]
   },
   {
-   "id": "4cedd07e-bb0c-4e07-96ba-2ceb7ba55bea",
-   "title": {
-    "en": "Smargs Won't Sing"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "fr",
-    "tr",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "cffdf571-7cf8-4f23-b2b0-423ac51edd3f",
    "title": {
     "en": "Layla to Mayonaka 3-ji no Daibouken"
@@ -175,27 +183,19 @@
    ]
   },
   {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
+   "id": "4cedd07e-bb0c-4e07-96ba-2ceb7ba55bea",
    "title": {
-    "en": "Mononoke Hime"
+    "en": "Smargs Won't Sing"
    },
    "contentRating": "safe",
-   "score": 0.21760865,
+   "score": 0.22131334,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "79192941-5a06-4e23-95d5-88106e639c78",
-   "title": {
-    "en": "Tanteiken Sherdock"
-   },
-   "contentRating": "safe",
-   "score": 0.21641153,
-   "languages": [
-    "en"
+    "fr",
+    "tr",
+    "en",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:08+00:00"
+ "updatedAt": "2023-12-10T18:14:59+00:00"
 }

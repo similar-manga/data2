@@ -11,7 +11,7 @@
     "en": "My First Time"
    },
    "contentRating": "suggestive",
-   "score": 0.21135691,
+   "score": 0.2115549,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Kanojo ni Nekomimi wa Tsukimono Desu!"
    },
    "contentRating": "suggestive",
-   "score": 0.13806346,
+   "score": 0.13770118,
    "languages": [
     "en",
     "vi"
@@ -51,12 +51,24 @@
    ]
   },
   {
+   "id": "b5dcc75d-b8b4-4081-b14d-a883a6122b71",
+   "title": {
+    "en": "Furare Girl"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13768567,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "9afb3424-4a71-4fc9-a3ab-60bb87aa9ed8",
    "title": {
     "en": "Tsurenai Kanojo no Hitorijime"
    },
    "contentRating": "suggestive",
-   "score": 0.115308605,
+   "score": 0.11402115,
    "languages": [
     "pt-br",
     "en"
@@ -68,7 +80,7 @@
     "en": "My Pet Is a Yakuza"
    },
    "contentRating": "suggestive",
-   "score": 0.113158174,
+   "score": 0.112421855,
    "languages": [
     "en"
    ]
@@ -103,18 +115,7 @@
     "en": "Back to High School Life"
    },
    "contentRating": "suggestive",
-   "score": 0.08633473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da4a63e2-04e1-4f63-92a3-34861e6eee37",
-   "title": {
-    "en": "Becoming You"
-   },
-   "contentRating": "suggestive",
-   "score": 0.081154026,
+   "score": 0.08513887,
    "languages": [
     "en"
    ]
@@ -128,6 +129,17 @@
    "score": 0.07949287,
    "languages": [
     "uk",
+    "en"
+   ]
+  },
+  {
+   "id": "da4a63e2-04e1-4f63-92a3-34861e6eee37",
+   "title": {
+    "en": "Becoming You"
+   },
+   "contentRating": "suggestive",
+   "score": 0.07376018,
+   "languages": [
     "en"
    ]
   },
@@ -154,24 +166,12 @@
    ]
   },
   {
-   "id": "b5dcc75d-b8b4-4081-b14d-a883a6122b71",
-   "title": {
-    "en": "Furare Girl"
-   },
-   "contentRating": "suggestive",
-   "score": 0.068842836,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "f2f62d9e-f772-42a9-84c3-6456a31c6155",
    "title": {
     "en": "Tomorrow, I Will Be Someone's Girlfriend"
    },
    "contentRating": "suggestive",
-   "score": 0.06265179,
+   "score": 0.062361434,
    "languages": [
     "en",
     "es-la",
@@ -193,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:50+00:00"
+ "updatedAt": "2023-12-10T18:35:04+00:00"
 }

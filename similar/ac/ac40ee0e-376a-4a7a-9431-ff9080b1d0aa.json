@@ -11,7 +11,7 @@
     "en": "Dadadadaan"
    },
    "contentRating": "safe",
-   "score": 0.24743819,
+   "score": 0.24481156,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Inochi o Odoru"
    },
    "contentRating": "safe",
-   "score": 0.23037456,
+   "score": 0.2355202,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Paper Plane"
    },
    "contentRating": "safe",
-   "score": 0.22750072
+   "score": 0.23273234
   },
   {
    "id": "2036ce4b-46ac-4e88-b0b1-90b3ea3aa1a1",
@@ -41,7 +41,7 @@
     "en": "Nante Nasakenai Bokura da"
    },
    "contentRating": "safe",
-   "score": 0.22077207,
+   "score": 0.21889357,
    "languages": [
     "en",
     "tr",
@@ -56,7 +56,7 @@
     "en": "Coward Cross World"
    },
    "contentRating": "safe",
-   "score": 0.21381904,
+   "score": 0.21605209,
    "languages": [
     "en",
     "fr"
@@ -68,7 +68,7 @@
     "en": "Kanojo wa Itsumo Kagayaiteita"
    },
    "contentRating": "safe",
-   "score": 0.2088524,
+   "score": 0.21336909,
    "languages": [
     "hu",
     "de",
@@ -86,7 +86,7 @@
     "en": "Sense of Justice"
    },
    "contentRating": "safe",
-   "score": 0.20799471
+   "score": 0.21030569
   },
   {
    "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
@@ -94,10 +94,21 @@
     "en": "Anastasia no Shinei Taichou"
    },
    "contentRating": "safe",
-   "score": 0.2060686,
+   "score": 0.20571975,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
+   "title": {
+    "en": "Armados"
+   },
+   "contentRating": "safe",
+   "score": 0.19743055,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -110,25 +121,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
-   "title": {
-    "en": "Armados"
-   },
-   "contentRating": "safe",
-   "score": 0.1948957,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd57bf48-f907-4fe6-b3c8-8e683315c2fc",
-   "title": {
-    "en": "Bushi Gal"
-   },
-   "contentRating": "safe",
-   "score": 0.187941
   },
   {
    "id": "34af10f2-f9ac-43d6-8624-9e0ef77b86a0",
@@ -147,6 +139,37 @@
    "score": 0.187941
   },
   {
+   "id": "323573f7-b28e-4444-aa6e-a0e3dc31056e",
+   "title": {
+    "en": "Tsukumogami Karuta: Cards of the 99 Gods"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "dd57bf48-f907-4fe6-b3c8-8e683315c2fc",
+   "title": {
+    "en": "Bushi Gal"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "40332944-07d9-4698-a7c1-39bbcc4c971d",
+   "title": {
+    "en": "Brother in the Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.18663862,
+   "languages": [
+    "en",
+    "hu",
+    "es-la",
+    "zh-hk",
+    "vi"
+   ]
+  },
+  {
    "id": "bbb996fa-5d34-49ae-bd09-bdae00431eb5",
    "title": {
     "en": "E ni Kaita Mochi wo Kaita Mochi"
@@ -157,34 +180,7 @@
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "315dbbd5-dd49-4b11-9658-df7063db168d",
-   "title": {
-    "en": "My Biggest Regret"
-   },
-   "contentRating": "safe",
-   "score": 0.18487069,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "40332944-07d9-4698-a7c1-39bbcc4c971d",
-   "title": {
-    "en": "Brother in the Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.18292247,
-   "languages": [
-    "en",
-    "hu",
-    "es-la",
-    "zh-hk",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:52+00:00"
+ "updatedAt": "2023-12-10T18:27:34+00:00"
 }

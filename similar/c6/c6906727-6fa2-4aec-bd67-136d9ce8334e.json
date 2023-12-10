@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ed779991-82e0-412e-81a3-5c817319cc30",
+   "title": {
+    "en": "Diary About the Loving Care of High School Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.24093546,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
    "title": {
     "en": "Jinjori Barai"
@@ -16,17 +27,6 @@
     "id",
     "it",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ed779991-82e0-412e-81a3-5c817319cc30",
-   "title": {
-    "en": "Diary About the Loving Care of High School Boys"
-   },
-   "contentRating": "safe",
-   "score": 0.24093546,
-   "languages": [
     "en"
    ]
   },
@@ -42,6 +42,28 @@
     "fr",
     "de",
     "tr"
+   ]
+  },
+  {
+   "id": "29f32930-2edf-4e16-bedf-d6a7eb7b5ad5",
+   "title": {
+    "en": "The Buffet"
+   },
+   "contentRating": "safe",
+   "score": 0.2231563,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "275ed039-5814-447f-bd3d-689074add837",
+   "title": {
+    "en": "Houkago"
+   },
+   "contentRating": "safe",
+   "score": 0.21889324,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -74,9 +96,22 @@
     "en": "A Meek Little Brother Like Me"
    },
    "contentRating": "safe",
-   "score": 0.20583521,
+   "score": 0.20745549,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "19dca456-59dd-466f-8d89-9709984ab10f",
+   "title": {
+    "en": "DOOOOM!"
+   },
+   "contentRating": "safe",
+   "score": 0.20066856,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -86,6 +121,39 @@
    },
    "contentRating": "safe",
    "score": 0.19672297,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cc271ca7-3c81-4d1c-994f-004a9c07169d",
+   "title": {
+    "en": "From a Twisted Mind"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "279caee1-4a5e-46a9-a472-dc250cd05093",
+   "title": {
+    "en": "Wonder House of Horrors"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
+   "title": {
+    "en": "Breakaway"
+   },
+   "contentRating": "safe",
+   "score": 0.1912682,
    "languages": [
     "en"
    ]
@@ -104,9 +172,9 @@
    ]
   },
   {
-   "id": "413ae0d2-9140-4406-a217-a4c2bbf1feec",
+   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
    "title": {
-    "en": "Peculium"
+    "en": "Ringwanderung"
    },
    "contentRating": "safe",
    "score": 0.1912682,
@@ -124,77 +192,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
-   "title": {
-    "en": "Ringwanderung"
-   },
-   "contentRating": "safe",
-   "score": 0.1912682,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
-   "title": {
-    "en": "Breakaway"
-   },
-   "contentRating": "safe",
-   "score": 0.1912682,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
-   "title": {
-    "en": "More Than Human: Spiderman Another Story!!"
-   },
-   "contentRating": "safe",
-   "score": 0.18823081,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "34ccdf7c-6324-4cd9-a649-9c4c437ee4c4",
-   "title": {
-    "en": "The Tree Of Sacrifice"
-   },
-   "contentRating": "safe",
-   "score": 0.18213008,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "fb407ebc-6830-44bf-b1ed-9ea1720b98ca",
-   "title": {
-    "en": "Zanzai Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.18213008,
-   "languages": [
-    "en",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
-   "title": {
-    "en": "Please Eat Me, My Darling"
-   },
-   "contentRating": "safe",
-   "score": 0.18213008,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:57+00:00"
+ "updatedAt": "2023-12-10T18:30:25+00:00"
 }

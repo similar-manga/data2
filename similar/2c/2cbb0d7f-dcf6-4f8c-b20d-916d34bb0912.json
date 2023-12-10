@@ -11,7 +11,7 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.25520757,
+   "score": 0.25467217,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Scavengers Another Sky"
    },
    "contentRating": "safe",
-   "score": 0.23799458,
+   "score": 0.23806493,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
-   "score": 0.22618829,
+   "score": 0.22587202,
    "languages": [
     "en"
    ]
@@ -56,18 +56,7 @@
     "en": "Umihara Kawase Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.20577365,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
-   "title": {
-    "en": "Suzuro's Logfile"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.2050187,
    "languages": [
     "en"
    ]
@@ -84,12 +73,23 @@
    ]
   },
   {
+   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
+   "title": {
+    "en": "Suzuro's Logfile"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
    "title": {
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.20012198,
+   "score": 0.19963379,
    "languages": [
     "en",
     "es"
@@ -112,7 +112,7 @@
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.18818526,
+   "score": 0.18714121,
    "languages": [
     "ru",
     "en"
@@ -124,9 +124,20 @@
     "en": "Kurage no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.18026638,
+   "score": 0.18099959,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "8649f9a9-3b18-44b5-b0d7-12c92edaed2b",
+   "title": {
+    "en": "Placebo"
+   },
+   "contentRating": "safe",
+   "score": 0.18062553,
+   "languages": [
     "en"
    ]
   },
@@ -136,7 +147,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.1784911,
+   "score": 0.17828776,
    "languages": [
     "en"
    ]
@@ -147,18 +158,7 @@
     "en": "Drug It!"
    },
    "contentRating": "safe",
-   "score": 0.177467,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "635f010e-39e6-491b-9e61-a82af671b52c",
-   "title": {
-    "en": "Tales of the World - Radiant Mythology"
-   },
-   "contentRating": "safe",
-   "score": 0.17547506,
+   "score": 0.17693609,
    "languages": [
     "en"
    ]
@@ -169,32 +169,22 @@
     "en": "Moon Edge"
    },
    "contentRating": "safe",
-   "score": 0.17500754,
+   "score": 0.17517623,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b41bef1e-7df9-4255-bd82-ecf570fec566",
+   "id": "635f010e-39e6-491b-9e61-a82af671b52c",
    "title": {
-    "en": "The New Gate"
+    "en": "Tales of the World - Radiant Mythology"
    },
    "contentRating": "safe",
-   "score": 0.17484052,
+   "score": 0.17490898,
    "languages": [
-    "ru",
-    "id",
-    "it",
-    "en",
-    "fr",
-    "ar",
-    "pt-br",
-    "es-la",
-    "zh",
-    "tr",
-    "nl"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:28+00:00"
+ "updatedAt": "2023-12-10T18:13:06+00:00"
 }

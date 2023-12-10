@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1c258c7a-5529-4fde-b6c0-f8028223993b",
+   "title": {
+    "en": "Yu-Gi-Oh! OCG Structures"
+   },
+   "contentRating": "safe",
+   "score": 0.3447972,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
    "title": {
     "en": "Selling Me Softly"
    },
    "contentRating": "safe",
-   "score": 0.28152248,
+   "score": 0.27364624,
    "languages": [
     "en",
     "pl"
@@ -23,7 +37,7 @@
     "en": "Fizon Core"
    },
    "contentRating": "safe",
-   "score": 0.23519531,
+   "score": 0.23000751,
    "languages": [
     "en"
    ]
@@ -44,9 +58,9 @@
    ]
   },
   {
-   "id": "5cc5c71c-311d-42c8-8eef-f306cb92e7ef",
+   "id": "93dd09e2-64b6-4351-905f-66b28ac48558",
    "title": {
-    "en": "Waon Nijuusou"
+    "en": "Victim"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -66,9 +80,9 @@
    ]
   },
   {
-   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
+   "id": "5cc5c71c-311d-42c8-8eef-f306cb92e7ef",
    "title": {
-    "en": "Earthly Paradise"
+    "en": "Waon Nijuusou"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -91,6 +105,29 @@
    ]
   },
   {
+   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
+   "title": {
+    "en": "Earthly Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d242cf4-eead-4a74-87c9-5805a42a2303",
+   "title": {
+    "en": "Tenohira Sousei-ki"
+   },
+   "contentRating": "safe",
+   "score": 0.20868982,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "107dfe51-caf8-4deb-9c60-a73c6fe2d9b6",
    "title": {
     "en": "Maya - Midnight Girl"
@@ -107,7 +144,7 @@
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.20113426,
+   "score": 0.2011282,
    "languages": [
     "en"
    ]
@@ -118,7 +155,7 @@
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.19984071,
+   "score": 0.19970395,
    "languages": [
     "pt-br",
     "id",
@@ -132,7 +169,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.19920535,
+   "score": 0.1989763,
    "languages": [
     "id",
     "ru",
@@ -148,7 +185,7 @@
     "en": "My Godly Watch"
    },
    "contentRating": "safe",
-   "score": 0.19665532,
+   "score": 0.19671811,
    "languages": [
     "en"
    ]
@@ -163,43 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "895c5435-2d38-469f-a3f2-3c990390339d",
-   "title": {
-    "en": "Suzuran is Going Strong!"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "da827d38-9029-4e43-bac5-e6122c92ba3b",
-   "title": {
-    "en": "Mega Man X Giga Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
-   "title": {
-    "en": "Hoshi no Alien ni Doryokushou wo."
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "fr",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:32+00:00"
+ "updatedAt": "2023-12-10T18:23:58+00:00"
 }

@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9c4f1b25-c224-4346-990a-f18c77f4ab9e",
+   "title": {
+    "en": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.2957046,
+   "languages": [
+    "en",
+    "fr",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "24721a66-4ffb-4cd4-abe1-94c796e3154b",
    "title": {
     "en": "Nisekoi Bangai-hen: Ticket"
    },
    "contentRating": "safe",
-   "score": 0.26433584,
+   "score": 0.27834114,
    "languages": [
     "pt-br",
     "en",
@@ -27,7 +41,7 @@
     "en": "Section 459"
    },
    "contentRating": "safe",
-   "score": 0.22992209,
+   "score": 0.23392874,
    "languages": [
     "fr"
    ]
@@ -51,7 +65,7 @@
     "en": "Kochikame x Nisekoi"
    },
    "contentRating": "safe",
-   "score": 0.19374539,
+   "score": 0.20091757,
    "languages": [
     "fr",
     "en"
@@ -76,7 +90,7 @@
     "en": "MookHyang - Dark Lady"
    },
    "contentRating": "safe",
-   "score": 0.18008946,
+   "score": 0.1808705,
    "languages": [
     "ru",
     "en",
@@ -92,7 +106,7 @@
     "en": "Dragon Ball Z: The History of Trunks Anime Comic"
    },
    "contentRating": "safe",
-   "score": 0.17728849,
+   "score": 0.17693847,
    "languages": [
     "fr"
    ]
@@ -103,7 +117,7 @@
     "en": "Mario"
    },
    "contentRating": "safe",
-   "score": 0.17501761,
+   "score": 0.17453517,
    "languages": [
     "pl",
     "id",
@@ -120,7 +134,7 @@
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.16974881,
+   "score": 0.17352012,
    "languages": [
     "en",
     "id",
@@ -138,7 +152,7 @@
     "en": "The West Wind and the Sun: Zephyr and Sol"
    },
    "contentRating": "safe",
-   "score": 0.16901258,
+   "score": 0.17056975,
    "languages": [
     "fr",
     "en",
@@ -153,63 +167,12 @@
     "en": "Mega Man 10 -Extra F-"
    },
    "contentRating": "safe",
-   "score": 0.16820446,
+   "score": 0.17015505,
    "languages": [
     "fr",
     "es-la",
     "en",
     "ar"
-   ]
-  },
-  {
-   "id": "2ecdfa62-f653-41b8-9e05-567181de3b90",
-   "title": {
-    "en": "Child Hazard"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "77e41751-a5d7-47ac-af24-e3463d5dfbd8",
-   "title": {
-    "en": "Justice League Origins: Wonder Woman"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "it",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
-   "title": {
-    "en": "Yo-kai Watch Treasure Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
-   "title": {
-    "en": "SKY CLAW"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "fr",
-    "en"
    ]
   },
   {
@@ -226,7 +189,47 @@
     "vi",
     "en"
    ]
+  },
+  {
+   "id": "2ecdfa62-f653-41b8-9e05-567181de3b90",
+   "title": {
+    "en": "Child Hazard"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
+   "title": {
+    "en": "Hero Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
+   "title": {
+    "en": "Yo-kai Watch Treasure Busters"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "es"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:58+00:00"
+ "updatedAt": "2023-12-10T18:14:28+00:00"
 }

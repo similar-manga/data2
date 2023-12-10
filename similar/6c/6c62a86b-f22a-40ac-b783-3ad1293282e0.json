@@ -28,12 +28,24 @@
    ]
   },
   {
+   "id": "ab648ff6-ccc3-4662-b9fd-1d4624f015fd",
+   "title": {
+    "en": "Golden Guy"
+   },
+   "contentRating": "safe",
+   "score": 0.21123071,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "3f5bc21d-6575-4fe0-b03f-50c8bb88dc6b",
    "title": {
     "en": "Unhinged"
    },
    "contentRating": "safe",
-   "score": 0.20873049,
+   "score": 0.21025099,
    "languages": [
     "en"
    ]
@@ -44,7 +56,7 @@
     "en": "LIFESTEAL"
    },
    "contentRating": "safe",
-   "score": 0.20473081,
+   "score": 0.20477079,
    "languages": [
     "en"
    ]
@@ -62,6 +74,17 @@
    ]
   },
   {
+   "id": "73be335c-bcdf-4668-b757-3730010932e2",
+   "title": {
+    "en": "Jigoku Mushi o Kuu! Oninbo"
+   },
+   "contentRating": "safe",
+   "score": 0.19929099,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
    "title": {
     "en": "Hitogata"
@@ -72,17 +95,6 @@
     "en",
     "es-la",
     "id"
-   ]
-  },
-  {
-   "id": "73be335c-bcdf-4668-b757-3730010932e2",
-   "title": {
-    "en": "Jigoku Mushi o Kuu! Oninbo"
-   },
-   "contentRating": "safe",
-   "score": 0.19929099,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -102,22 +114,22 @@
     "en": "Uncool × Dead"
    },
    "contentRating": "safe",
-   "score": 0.19350286,
+   "score": 0.19247998,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "5b9279e1-dac2-4fa9-809d-c3ee5dad007a",
+   "id": "7fc83445-07dd-4881-a84e-846456632fb5",
    "title": {
-    "en": "Furitsumore Kodoku na Shi yo"
+    "en": "Katagi Modoshi"
    },
    "contentRating": "safe",
-   "score": 0.17652272,
+   "score": 0.17766482,
    "languages": [
-    "en",
-    "ar"
+    "es-la",
+    "en"
    ]
   },
   {
@@ -126,7 +138,7 @@
     "en": "Serial Killer Isekai ni Oritatsu"
    },
    "contentRating": "safe",
-   "score": 0.17584643,
+   "score": 0.17614852,
    "languages": [
     "es-la",
     "fr",
@@ -137,25 +149,15 @@
    ]
   },
   {
-   "id": "5323e619-61b8-4490-8a12-12afe1df1893",
+   "id": "5b9279e1-dac2-4fa9-809d-c3ee5dad007a",
    "title": {
-    "en": "Detective Cat Manga"
+    "en": "Furitsumore Kodoku na Shi yo"
    },
    "contentRating": "safe",
-   "score": 0.17402723,
+   "score": 0.17486721,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
-   "title": {
-    "en": "Outlaw Man"
-   },
-   "contentRating": "safe",
-   "score": 0.17381418,
-   "languages": [
-    "en"
+    "en",
+    "ar"
    ]
   },
   {
@@ -168,6 +170,17 @@
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
+   "title": {
+    "en": "Outlaw Man"
+   },
+   "contentRating": "safe",
+   "score": 0.17234518,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -184,18 +197,7 @@
     "es-la",
     "ru"
    ]
-  },
-  {
-   "id": "197a27f5-835f-49eb-a91a-9751fe73335e",
-   "title": {
-    "en": "Onihei Hankachou"
-   },
-   "contentRating": "safe",
-   "score": 0.17094822,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:03+00:00"
+ "updatedAt": "2023-12-10T18:20:03+00:00"
 }

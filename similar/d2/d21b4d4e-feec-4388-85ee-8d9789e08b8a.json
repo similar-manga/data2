@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0f7ce666-8834-4386-ae7f-e13f560c9425",
+   "title": {
+    "en": "Nyaight of the Living Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191,
+   "languages": [
+    "ru",
+    "vi"
+   ]
+  },
+  {
    "id": "4a0e8517-749c-4f86-b31c-3fbb32ed1c84",
    "title": {
     "en": "Mist no Kaiboroku"
@@ -22,7 +34,7 @@
     "en": "EDEN"
    },
    "contentRating": "safe",
-   "score": 0.19947457,
+   "score": 0.1995087,
    "languages": [
     "en"
    ]
@@ -33,7 +45,7 @@
     "en": "Higurashi no Naku Koro ni Meguri"
    },
    "contentRating": "safe",
-   "score": 0.19126564,
+   "score": 0.19071463,
    "languages": [
     "ru",
     "pt-br",
@@ -43,9 +55,20 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
    "title": {
-    "en": "Watashi wa Kagome"
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.1843,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53b8595f-50ff-4926-a91a-37a7d6f1e10c",
+   "title": {
+    "en": "Diary Mystery"
    },
    "contentRating": "safe",
    "score": 0.18030135,
@@ -67,12 +90,24 @@
    ]
   },
   {
+   "id": "4e53b437-5884-4aa8-9ee1-be1028cba03f",
+   "title": {
+    "en": "Ura Baito: Toubou Kinshi"
+   },
+   "contentRating": "safe",
+   "score": 0.16459186,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
    "id": "981a344e-ad3d-4f99-95b9-72991b7b3034",
    "title": {
     "en": "Became King After Being Bitten"
    },
    "contentRating": "safe",
-   "score": 0.16405183,
+   "score": 0.16323447,
    "languages": [
     "en",
     "id"
@@ -103,6 +138,17 @@
    ]
   },
   {
+   "id": "d0e75cb4-5bfd-4e5b-acb8-fa423a36a0d9",
+   "title": {
+    "en": "The Courier Has Arrived"
+   },
+   "contentRating": "safe",
+   "score": 0.14254074,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4197b707-4866-4e20-b0de-5ca692f41038",
    "title": {
     "en": "Nothing is a Taboo"
@@ -111,6 +157,30 @@
    "score": 0.14254074,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6f70226e-52f1-410f-87dd-c59f5c462fbb",
+   "title": {
+    "en": "The Last Dynasty"
+   },
+   "contentRating": "safe",
+   "score": 0.14254074,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.1343887,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -126,77 +196,7 @@
     "en",
     "it"
    ]
-  },
-  {
-   "id": "79192941-5a06-4e23-95d5-88106e639c78",
-   "title": {
-    "en": "Tanteiken Sherdock"
-   },
-   "contentRating": "safe",
-   "score": 0.13303803,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
-   "title": {
-    "en": "Bible of Black"
-   },
-   "contentRating": "safe",
-   "score": 0.13303803,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "f9a8e813-57ab-4fc9-82dc-06a592ecb656",
-   "title": {
-    "en": "I Was Raised by the Boss"
-   },
-   "contentRating": "safe",
-   "score": 0.12749231,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "bcbf10c8-f75f-4f7c-befd-6459db3b7cfc",
-   "title": {
-    "en": "CHR-47"
-   },
-   "contentRating": "safe",
-   "score": 0.1260984,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "53637470-31a0-433f-b34f-76df55278468",
-   "title": {
-    "en": "Tunnel"
-   },
-   "contentRating": "safe",
-   "score": 0.12414296,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c26656ba-9f0a-47bc-b95b-facfcd86840c",
-   "title": {
-    "en": "Survival of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.12414296,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:26+00:00"
+ "updatedAt": "2023-12-10T18:31:37+00:00"
 }

@@ -6,25 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9bc3ed6a-2f22-466e-a712-c694c07b9064",
-   "title": {
-    "en": "Kamen Rider Revice: My Brother is a Kamen Rider"
-   },
-   "contentRating": "safe",
-   "score": 0.62060654,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "70642969-4090-4e8b-bde7-e8331e25b458",
    "title": {
     "en": "Shin Kamen Rider - Prologue"
    },
    "contentRating": "safe",
-   "score": 0.4121209,
+   "score": 0.40147564,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "9bc3ed6a-2f22-466e-a712-c694c07b9064",
+   "title": {
+    "en": "Kamen Rider Revice: My Brother is a Kamen Rider"
+   },
+   "contentRating": "safe",
+   "score": 0.38822877,
+   "languages": [
     "en"
    ]
   },
@@ -34,7 +34,7 @@
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.22276004,
+   "score": 0.22187176,
    "languages": [
     "pt-br",
     "it",
@@ -58,7 +58,7 @@
     "en": "Gyakushuu no Dragon Rider"
    },
    "contentRating": "safe",
-   "score": 0.21295209,
+   "score": 0.2070091,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Sentai Daishikkaku"
    },
    "contentRating": "safe",
-   "score": 0.20544812,
+   "score": 0.20612995,
    "languages": [
     "pt-br",
     "en",
@@ -87,7 +87,7 @@
     "en": "Geniearth"
    },
    "contentRating": "safe",
-   "score": 0.2006587,
+   "score": 0.20050769,
    "languages": [
     "en"
    ]
@@ -98,9 +98,23 @@
     "en": "One in a Hundred"
    },
    "contentRating": "safe",
-   "score": 0.19877274,
+   "score": 0.19896774,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "38109f1a-6b8c-49e9-a46f-8149967f4a3e",
+   "title": {
+    "en": "Boku no Hero Academia: Team Up Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.19468628,
+   "languages": [
+    "en",
+    "pt-br",
+    "ar",
+    "es-la"
    ]
   },
   {
@@ -109,7 +123,7 @@
     "en": "Dragon Ball Heroes - Victory Mission"
    },
    "contentRating": "safe",
-   "score": 0.1850156,
+   "score": 0.18465683,
    "languages": [
     "en",
     "es"
@@ -127,12 +141,24 @@
    ]
   },
   {
+   "id": "0a7a9e60-9160-4883-8b75-803a12108a0f",
+   "title": {
+    "en": "777"
+   },
+   "contentRating": "safe",
+   "score": 0.1739457,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
    "title": {
     "en": "Jujutsu Kaisen"
    },
    "contentRating": "safe",
-   "score": 0.17508765,
+   "score": 0.17305273,
    "languages": [
     "it",
     "hu",
@@ -158,12 +184,23 @@
    ]
   },
   {
+   "id": "72b5a5e8-9573-423e-b41f-2b75cb193a0f",
+   "title": {
+    "en": "Ultraman: Another Gene"
+   },
+   "contentRating": "safe",
+   "score": 0.17271243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6e7fcbe3-eb73-41b4-90c8-d3f415a1a20a",
    "title": {
     "en": "Ragouden"
    },
    "contentRating": "safe",
-   "score": 0.1728182,
+   "score": 0.17256126,
    "languages": [
     "en"
    ]
@@ -174,7 +211,7 @@
     "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
    },
    "contentRating": "safe",
-   "score": 0.17029496,
+   "score": 0.17012721,
    "languages": [
     "en",
     "es-la",
@@ -193,40 +230,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "819cf49e-8e5b-4f0c-89ac-ca47e4e0bdf9",
-   "title": {
-    "en": "Super Dragon Ball Heroes: AVATARS!!"
-   },
-   "contentRating": "safe",
-   "score": 0.16868046,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "869dbbc9-7330-49e4-a1a2-b2ade4a14f1d",
-   "title": {
-    "en": "Barom-1"
-   },
-   "contentRating": "safe",
-   "score": 0.16783628,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df83fcb3-7ed7-4357-baa1-6043fb42542d",
-   "title": {
-    "en": "Ultraman Blazar"
-   },
-   "contentRating": "safe",
-   "score": 0.16698647,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:15+00:00"
+ "updatedAt": "2023-12-10T18:23:14+00:00"
 }

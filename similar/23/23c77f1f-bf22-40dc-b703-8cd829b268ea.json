@@ -11,7 +11,7 @@
     "en": "Prince of Tennis II"
    },
    "contentRating": "safe",
-   "score": 0.33782476,
+   "score": 0.34103268,
    "languages": [
     "pl",
     "es",
@@ -24,7 +24,7 @@
     "en": "Kami-tachi ni Hirowareta Otoko"
    },
    "contentRating": "safe",
-   "score": 0.30669886,
+   "score": 0.31173632,
    "languages": [
     "es-la",
     "id",
@@ -43,7 +43,18 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.25345722,
+   "score": 0.24956429,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.22515123,
    "languages": [
     "en"
    ]
@@ -54,10 +65,35 @@
     "en": "The Chronicle of Seven (webcomic version)"
    },
    "contentRating": "safe",
-   "score": 0.22590646,
+   "score": 0.22458006,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+   "title": {
+    "en": "Kaoru Hana wa Rin to Saku"
+   },
+   "contentRating": "safe",
+   "score": 0.22064711,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "vi",
+    "id",
+    "es-la",
+    "ar"
+   ]
+  },
+  {
+   "id": "f8edf44e-7fc9-4abd-a970-bc7578deee20",
+   "title": {
+    "en": "Haira no SP - Ryuubatsuchou Chousa Shikkoubu Dai-3-ka"
+   },
+   "contentRating": "safe",
+   "score": 0.2149621
   },
   {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
@@ -86,12 +122,24 @@
    ]
   },
   {
+   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
+   "title": {
+    "en": "Show-ha Shou-ten!"
+   },
+   "contentRating": "safe",
+   "score": 0.21209385,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "bbe605e5-bbe6-4091-bb6b-e8aa8dbf8fe6",
    "title": {
     "en": "Gyakushuu no Dragon Rider"
    },
    "contentRating": "safe",
-   "score": 0.21393467,
+   "score": 0.21207231,
    "languages": [
     "en"
    ]
@@ -115,7 +163,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.21035706,
+   "score": 0.21004486,
    "languages": [
     "ru",
     "vi",
@@ -132,12 +180,20 @@
    ]
   },
   {
-   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
+   "id": "6d41b2fb-029c-42c7-a6e7-9922308c14ea",
    "title": {
-    "en": "Sensou Gekijou"
+    "en": "Goods-ken Hive"
    },
    "contentRating": "safe",
-   "score": 0.20663588,
+   "score": 0.20832102
+  },
+  {
+   "id": "91e2e469-8d67-49d6-b810-c9a465431eba",
+   "title": {
+    "en": "B Group no Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.20750229,
    "languages": [
     "en"
    ]
@@ -154,74 +210,16 @@
    ]
   },
   {
-   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
+   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
    "title": {
-    "en": "Toradora!"
+    "en": "Sensou Gekijou"
    },
    "contentRating": "safe",
-   "score": 0.20422868,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "es",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "b296f8e8-1f16-4ca1-8233-ecffebae0b15",
-   "title": {
-    "en": "Hungry Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.20350356
-  },
-  {
-   "id": "21257695-df39-49a5-b952-d05a152879f5",
-   "title": {
-    "en": "Steel Septum"
-   },
-   "contentRating": "safe",
-   "score": 0.20196058,
+   "score": 0.20663588,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b5ebe9f8-5cca-48de-a7e2-92d5ba592d95",
-   "title": {
-    "en": "Spade J"
-   },
-   "contentRating": "safe",
-   "score": 0.2005792
-  },
-  {
-   "id": "cf19b4e0-3618-4bf4-8035-a265c3bb3fce",
-   "title": {
-    "en": "Our Hero Studies"
-   },
-   "contentRating": "safe",
-   "score": 0.1994263,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "247fe684-e74b-42f9-ae63-0c410a663408",
-   "title": {
-    "en": "Magic Kaito"
-   },
-   "contentRating": "safe",
-   "score": 0.19700731,
-   "languages": [
-    "ca",
-    "en",
-    "pl",
-    "ru",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:08+00:00"
+ "updatedAt": "2023-12-10T18:12:08+00:00"
 }

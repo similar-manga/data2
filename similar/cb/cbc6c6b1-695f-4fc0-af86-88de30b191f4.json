@@ -11,7 +11,7 @@
     "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
    },
    "contentRating": "safe",
-   "score": 0.31401816,
+   "score": 0.3135239,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.26927486
+   "score": 0.26942006
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -30,7 +30,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.24776705,
+   "score": 0.24697609,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Outside of the Universe"
    },
    "contentRating": "safe",
-   "score": 0.2355542,
+   "score": 0.2344551,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.23057364
+   "score": 0.22991353
   },
   {
    "id": "417d2d14-4c31-4af3-8dbd-4d31686cef5a",
@@ -60,9 +60,20 @@
     "en": "Anime Shop Manager"
    },
    "contentRating": "safe",
-   "score": 0.22864565,
+   "score": 0.22915666,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "dc33209f-d9d4-40df-a468-cca047b63979",
+   "title": {
+    "en": "Neon Genesis Evangelion - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.22476591,
+   "languages": [
+    "fr"
    ]
   },
   {
@@ -71,18 +82,7 @@
     "en": "Mobile Suit Gundam 00 - The beginning man."
    },
    "contentRating": "safe",
-   "score": 0.22597994
-  },
-  {
-   "id": "dc33209f-d9d4-40df-a468-cca047b63979",
-   "title": {
-    "en": "Neon Genesis Evangelion - Digital Colored Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.22496618,
-   "languages": [
-    "fr"
-   ]
+   "score": 0.21866612
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -96,36 +96,13 @@
    ]
   },
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.21866612,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
    "title": {
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.21785702,
+   "score": 0.21759737,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b009f62d-7a65-417d-990a-2e671b036069",
-   "title": {
-    "en": "Pokémon: Mewtwo Strikes Back!"
-   },
-   "contentRating": "safe",
-   "score": 0.21646419,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -136,6 +113,18 @@
    },
    "contentRating": "safe",
    "score": 0.21638173
+  },
+  {
+   "id": "b009f62d-7a65-417d-990a-2e671b036069",
+   "title": {
+    "en": "Pokémon: Mewtwo Strikes Back!"
+   },
+   "contentRating": "safe",
+   "score": 0.21579255,
+   "languages": [
+    "pl",
+    "en"
+   ]
   },
   {
    "id": "49c033b0-621b-43bf-b478-45725ea0d47f",
@@ -166,11 +155,22 @@
     "en": "Advance of Zeta Re-Boot: Gundam Inle - Black Rabbit Had a Dream"
    },
    "contentRating": "safe",
-   "score": 0.21187904,
+   "score": 0.21166201,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6ba6ad3d-0d8b-4353-9fd8-c5314b81b71b",
+   "title": {
+    "en": "GUTS"
+   },
+   "contentRating": "safe",
+   "score": 0.21126959,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:10+00:00"
+ "updatedAt": "2023-12-10T18:30:57+00:00"
 }

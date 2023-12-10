@@ -11,7 +11,7 @@
     "en": "Girl's End"
    },
    "contentRating": "safe",
-   "score": 0.29538947,
+   "score": 0.29639915,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Heaven's Little Garden"
    },
    "contentRating": "safe",
-   "score": 0.26611695,
+   "score": 0.26610216,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "F.U.S.S.A"
    },
    "contentRating": "safe",
-   "score": 0.26013482,
+   "score": 0.2604058,
    "languages": [
     "en",
     "de"
@@ -52,31 +52,20 @@
    ]
   },
   {
+   "id": "5adadbe6-5a41-42e6-aa7c-76c2accfca1d",
+   "title": {
+    "en": "The Only Way"
+   },
+   "contentRating": "safe",
+   "score": 0.2519504,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d2f5615f-76af-4835-a2b7-4df87d3f7876",
    "title": {
     "en": "First Love Mint Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e7741540-a024-452c-9f33-ba579af667d9",
-   "title": {
-    "en": "Look My Way"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "95e6e316-f5df-4f45-94f7-ac0a5d0e18a6",
-   "title": {
-    "en": "Bocchi the Rock! - The Starlight Piercing the Darkness of Night (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.25126484,
@@ -96,9 +85,33 @@
    ]
   },
   {
-   "id": "f044f1f2-b96b-4c33-afd9-bed667a02141",
+   "id": "e7741540-a024-452c-9f33-ba579af667d9",
    "title": {
-    "en": "Lens no Mukou"
+    "en": "Look My Way"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
+   "title": {
+    "en": "Chocolate-Covered Almonds"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "tr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "95e6e316-f5df-4f45-94f7-ac0a5d0e18a6",
+   "title": {
+    "en": "Bocchi the Rock! - The Starlight Piercing the Darkness of Night (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.25126484,
@@ -119,15 +132,24 @@
    ]
   },
   {
-   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
+   "id": "f044f1f2-b96b-4c33-afd9-bed667a02141",
    "title": {
-    "en": "Chocolate-Covered Almonds"
+    "en": "Lens no Mukou"
    },
    "contentRating": "safe",
    "score": 0.25126484,
    "languages": [
-    "tr",
-    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "328c75df-3eb5-4880-acc5-a0330f17ed76",
+   "title": {
+    "en": "Girls' Lives"
+   },
+   "contentRating": "safe",
+   "score": 0.24597605,
+   "languages": [
     "en"
    ]
   },
@@ -137,33 +159,11 @@
     "en": "A Silent Greeting"
    },
    "contentRating": "safe",
-   "score": 0.24515548,
+   "score": 0.2444043,
    "languages": [
     "en",
     "pl",
     "ar"
-   ]
-  },
-  {
-   "id": "328c75df-3eb5-4880-acc5-a0330f17ed76",
-   "title": {
-    "en": "Girls' Lives"
-   },
-   "contentRating": "safe",
-   "score": 0.24424651,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8177bdd3-6883-436b-b3a2-afcb5cd4431b",
-   "title": {
-    "en": "Numa, Kurayama, Yoru no Mori"
-   },
-   "contentRating": "safe",
-   "score": 0.24300233,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -172,7 +172,7 @@
     "en": "Lost Girl"
    },
    "contentRating": "safe",
-   "score": 0.24162273,
+   "score": 0.24291822,
    "languages": [
     "ru",
     "pt-br",
@@ -184,19 +184,16 @@
    ]
   },
   {
-   "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
+   "id": "8177bdd3-6883-436b-b3a2-afcb5cd4431b",
    "title": {
-    "en": "Light Again"
+    "en": "Numa, Kurayama, Yoru no Mori"
    },
    "contentRating": "safe",
-   "score": 0.23985073,
+   "score": 0.2420379,
    "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "it"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:45+00:00"
+ "updatedAt": "2023-12-10T18:16:37+00:00"
 }

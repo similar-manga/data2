@@ -6,27 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
-   "title": {
-    "en": "BEASTARS (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.34296188,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "b50c2e40-e8b4-4fa3-ab1f-a49e6f5c78b5",
    "title": {
     "en": "Boy or Girl ???"
    },
    "contentRating": "safe",
-   "score": 0.34262663,
+   "score": 0.34145263,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
+   "title": {
+    "en": "BEASTARS (Fan-Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.33804107,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -35,39 +35,7 @@
     "en": "Donkey High School"
    },
    "contentRating": "safe",
-   "score": 0.33884203
-  },
-  {
-   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
-   "title": {
-    "en": "Life Maker"
-   },
-   "contentRating": "safe",
-   "score": 0.33429033,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "43b0c9a7-004b-40a1-8dfb-b5c29b37085a",
-   "title": {
-    "en": "Koisuru Twintail"
-   },
-   "contentRating": "safe",
-   "score": 0.33298397,
-   "languages": [
-    "id",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "a0ff83d2-1154-4e36-94e4-5b0649e6d4f5",
-   "title": {
-    "en": "Fractale"
-   },
-   "contentRating": "safe",
-   "score": 0.3325342
+   "score": 0.3357661
   },
   {
    "id": "d61c81f7-3b07-4556-8f0f-a21c62c10397",
@@ -75,15 +43,74 @@
     "en": "Login Survival"
    },
    "contentRating": "safe",
-   "score": 0.33241197
+   "score": 0.33103576
   },
   {
-   "id": "b6ba1583-76d5-456a-a9d2-b695c0f13ca9",
+   "id": "41100023-c51c-4b34-bbc0-ec2531db0672",
    "title": {
-    "en": "King of Drama"
+    "en": "Nerawareta Gakuen"
    },
    "contentRating": "safe",
-   "score": 0.33097574
+   "score": 0.3305586
+  },
+  {
+   "id": "43b0c9a7-004b-40a1-8dfb-b5c29b37085a",
+   "title": {
+    "en": "Koisuru Twintail"
+   },
+   "contentRating": "safe",
+   "score": 0.32968962,
+   "languages": [
+    "id",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
+   "title": {
+    "en": "Life Maker"
+   },
+   "contentRating": "safe",
+   "score": 0.32924187,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
+   "title": {
+    "en": "Minecraft: Journey to the World's End"
+   },
+   "contentRating": "safe",
+   "score": 0.32808253,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "80f06ea5-2ff5-4155-bb0d-df4dbf97db40",
+   "title": {
+    "en": "Souei Sousho"
+   },
+   "contentRating": "safe",
+   "score": 0.32797804,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5453fe1-61f9-44bd-bf89-6d6a258341ee",
+   "title": {
+    "en": "Empira's Awakening"
+   },
+   "contentRating": "safe",
+   "score": 0.327949,
+   "languages": [
+    "en",
+    "ru",
+    "id"
+   ]
   },
   {
    "id": "5039789f-8fcb-4996-9788-e68147db360c",
@@ -91,10 +118,18 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.3302392,
+   "score": 0.32782286,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b6ba1583-76d5-456a-a9d2-b695c0f13ca9",
+   "title": {
+    "en": "King of Drama"
+   },
+   "contentRating": "safe",
+   "score": 0.32659176
   },
   {
    "id": "b5b21ce6-06ca-4eba-a33a-30bc77d3b3f6",
@@ -102,7 +137,7 @@
     "en": "The World of That Otome Games is Tough for Us"
    },
    "contentRating": "safe",
-   "score": 0.33009645,
+   "score": 0.32643977,
    "languages": [
     "vi",
     "id",
@@ -110,79 +145,38 @@
    ]
   },
   {
-   "id": "c8ae1a87-fdd9-477f-977f-6d4b2aedcd58",
+   "id": "a14dd3a2-6892-4248-8d59-9736690ac242",
    "title": {
-    "en": "Botsuraku Yotei Nanode, Kajishokunin wo Mezasu"
+    "en": "New Beetle King Mushiking"
    },
    "contentRating": "safe",
-   "score": 0.32686427,
-   "languages": [
-    "ru",
-    "en",
-    "vi",
-    "pt-br",
-    "id"
-   ]
+   "score": 0.3253921
   },
   {
-   "id": "cfe07dda-e895-4a6e-a694-f70318d49446",
+   "id": "f153b6c4-13b0-40bf-b6a3-5194f1bd4dfa",
    "title": {
-    "en": "Boku wa Imasugu Zense no Kioku wo Sutetai. - Akogare no Inaka wa Jingai Makyou deshita"
+    "en": "The Story of a Boy Who Can See Lifespans"
    },
    "contentRating": "safe",
-   "score": 0.32670936,
+   "score": 0.324475,
    "languages": [
+    "uk",
     "en"
    ]
   },
   {
-   "id": "8499d5d0-e558-4853-b0bc-8ae2edbc6978",
+   "id": "ca48703f-4af1-4f66-8dec-3203cf215ec7",
    "title": {
-    "en": "Date A Live - Dead end TOHKA"
+    "en": "Apocalyptic Forecast"
    },
    "contentRating": "safe",
-   "score": 0.32669103
-  },
-  {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
-   "title": {
-    "en": "Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.32601556,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "de",
-    "id",
-    "ru",
-    "it"
-   ]
-  },
-  {
-   "id": "47639108-3f64-4515-843f-6283b86dab3f",
-   "title": {
-    "en": "A Single Aristocrat Enjoys a Different World: The Graceful Life of a Man Who Never Gets Married"
-   },
-   "contentRating": "safe",
-   "score": 0.32508564,
+   "score": 0.32441777,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "cfca1084-51da-4c97-afd2-344691a5665d",
-   "title": {
-    "en": "Isekai Tensei no Boukensha"
-   },
-   "contentRating": "safe",
-   "score": 0.32453352,
-   "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:31+00:00"
+ "updatedAt": "2023-12-10T18:21:20+00:00"
 }

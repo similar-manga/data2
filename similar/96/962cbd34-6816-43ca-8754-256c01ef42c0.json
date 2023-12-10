@@ -11,7 +11,18 @@
     "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.27619603,
+   "score": 0.27498284,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
+   "title": {
+    "en": "Dragon Knights - Search For the Legendary King"
+   },
+   "contentRating": "safe",
+   "score": 0.25982857,
    "languages": [
     "en"
    ]
@@ -34,7 +45,7 @@
     "en": "100 Days Dream"
    },
    "contentRating": "safe",
-   "score": 0.24463837,
+   "score": 0.2438944,
    "languages": [
     "en",
     "pl"
@@ -46,7 +57,7 @@
     "en": "Asura"
    },
    "contentRating": "safe",
-   "score": 0.2245202,
+   "score": 0.22442962,
    "languages": [
     "en"
    ]
@@ -57,9 +68,23 @@
     "en": "My Lovely Master"
    },
    "contentRating": "safe",
-   "score": 0.22139171,
+   "score": 0.2199466,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e36c959b-f739-4b37-a74c-070cc0f0d057",
+   "title": {
+    "en": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.21654956,
+   "languages": [
+    "en",
+    "pl",
+    "tr",
+    "de"
    ]
   },
   {
@@ -69,28 +94,6 @@
    },
    "contentRating": "safe",
    "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
-   "title": {
-    "en": "Kamisama Game"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
-   "title": {
-    "en": "Twinkle Loop☆Story"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -108,6 +111,28 @@
    ]
   },
   {
+   "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
+   "title": {
+    "en": "Twinkle Loop☆Story"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2cb946ee-db33-4521-a208-02a970ce328c",
+   "title": {
+    "en": "Ayakashiou no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
    "title": {
     "en": "Ayakashi Hisen"
@@ -120,72 +145,51 @@
    ]
   },
   {
+   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+   "title": {
+    "en": "Kamisama Game"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9fe65996-bbab-41c4-8553-d677f409c342",
+   "title": {
+    "en": "Trouble G"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0149daa5-89c9-4e05-bf4f-f2440e0d2db7",
+   "title": {
+    "en": "Kimi no Koe"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "it",
+    "id"
+   ]
+  },
+  {
    "id": "3933ea33-0293-4e16-a8d6-9c992ed19fa3",
    "title": {
     "en": "Hajimari no Haru"
    },
    "contentRating": "safe",
-   "score": 0.21124546,
+   "score": 0.21239498,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
-   "title": {
-    "en": "Anne the Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.20994525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
-   "title": {
-    "en": "Junai Rosen"
-   },
-   "contentRating": "safe",
-   "score": 0.20922631,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
-   "title": {
-    "en": "Haru Machi Sakura no Mau Koro ni"
-   },
-   "contentRating": "safe",
-   "score": 0.20891021,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
-   "title": {
-    "en": "Kimi o Matsu -\u003e Akaiito"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23036c3f-4e61-4dd1-8414-58fe14f9ad8b",
-   "title": {
-    "en": "Koi suru 1/4"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "de",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:57+00:00"
+ "updatedAt": "2023-12-10T18:25:01+00:00"
 }

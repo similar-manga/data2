@@ -6,12 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+   "title": {
+    "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
+   },
+   "contentRating": "safe",
+   "score": 0.3573831,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "pl",
+    "ar",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "688795ba-b5aa-4f53-aafc-24466ee8beec",
+   "title": {
+    "en": "Risk Hunters"
+   },
+   "contentRating": "safe",
+   "score": 0.26873592,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb",
    "title": {
     "en": "My Life as a Player"
    },
    "contentRating": "safe",
-   "score": 0.2714007,
+   "score": 0.26822683,
    "languages": [
     "en"
    ]
@@ -22,10 +50,29 @@
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.26563174,
+   "score": 0.26534134,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "e531c6ca-0b07-4878-8ae8-87357375acd9",
+   "title": {
+    "en": "LV999 no Murabito"
+   },
+   "contentRating": "safe",
+   "score": 0.24441981,
+   "languages": [
+    "pt-br",
+    "it",
+    "fr",
+    "pl",
+    "en",
+    "es",
+    "ru",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -34,7 +81,7 @@
     "en": "Hokkaidou no Geneki Hunter ga Isekai ni Hourikoma Rete Mita ~Elf Yome to Meguru Isekai Shuryou Life~"
    },
    "contentRating": "safe",
-   "score": 0.24131308,
+   "score": 0.23867188,
    "languages": [
     "fr",
     "en",
@@ -48,7 +95,7 @@
     "en": "Monster Bar"
    },
    "contentRating": "safe",
-   "score": 0.23728965,
+   "score": 0.23521672,
    "languages": [
     "en",
     "pt-br"
@@ -67,12 +114,34 @@
    ]
   },
   {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.23352566,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
    "title": {
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.23299173,
+   "score": 0.2322778,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6c098026-971d-4f5f-b076-06ebe0fe9a30",
+   "title": {
+    "en": "Evil Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.22947337,
    "languages": [
     "en"
    ]
@@ -83,7 +152,7 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.22741745,
+   "score": 0.22714056,
    "languages": [
     "en"
    ]
@@ -94,7 +163,7 @@
     "en": "The Undefeated Newbie"
    },
    "contentRating": "safe",
-   "score": 0.22500475,
+   "score": 0.2238441,
    "languages": [
     "en",
     "es-la"
@@ -106,7 +175,7 @@
     "en": "Shangri-La Frontier"
    },
    "contentRating": "safe",
-   "score": 0.21780936,
+   "score": 0.21696666,
    "languages": [
     "pt-br",
     "es-la",
@@ -120,7 +189,7 @@
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.21651703,
+   "score": 0.21620582,
    "languages": [
     "en"
    ]
@@ -138,63 +207,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
-   "title": {
-    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
-   },
-   "contentRating": "safe",
-   "score": 0.21503367,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
-   "title": {
-    "en": "Bear Hunter — Fubuki-gō"
-   },
-   "contentRating": "safe",
-   "score": 0.21397822,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
-   "title": {
-    "en": "Mega Man Battle Network Operate Shooting Star VS"
-   },
-   "contentRating": "safe",
-   "score": 0.2132874,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
-   "title": {
-    "en": "Pokémon"
-   },
-   "contentRating": "safe",
-   "score": 0.20350139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45599047-f246-49e9-be3a-48cc70ca675f",
-   "title": {
-    "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
-   },
-   "contentRating": "safe",
-   "score": 0.20154755,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:11:59+00:00"
 }

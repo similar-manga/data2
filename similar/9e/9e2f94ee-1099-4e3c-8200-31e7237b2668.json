@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e833c108-6342-4efa-bb82-738d075f277c",
+   "title": {
+    "en": "Oni ga Warau"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0b02b55c-3f43-42a7-8d0e-cad5432c0307",
    "title": {
     "en": "Elemental"
@@ -29,14 +40,15 @@
    ]
   },
   {
-   "id": "e833c108-6342-4efa-bb82-738d075f277c",
+   "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
    "title": {
-    "en": "Oni ga Warau"
+    "en": "Phantom Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.23215222,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -45,19 +57,19 @@
     "en": "Saigo no Negai ~Last Pray~"
    },
    "contentRating": "safe",
-   "score": 0.22720137,
+   "score": 0.23137534,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
+   "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
    "title": {
-    "en": "Phantom Syndrome"
+    "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.21921505,
+   "score": 0.21568948,
    "languages": [
     "en",
     "pl"
@@ -76,13 +88,14 @@
    ]
   },
   {
-   "id": "06749feb-aa8d-4eb0-a027-120137839eea",
+   "id": "6d717adb-d283-4f9c-bf56-e0b4936fe083",
    "title": {
-    "en": "Ao to Umibe no Nostalgia"
+    "en": "Risou no Kareshitachi"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
+    "tr",
     "pl",
     "en"
    ]
@@ -91,17 +104,6 @@
    "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
    "title": {
     "en": "a cup of..."
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
-   "title": {
-    "en": "Sayonara Limit"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -122,6 +124,17 @@
    ]
   },
   {
+   "id": "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
+   "title": {
+    "en": "Airuika"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c00dda26-4305-432c-9b2b-73ce33f6b79e",
    "title": {
     "en": "Majo wa Kaben wo mi ni Matou"
@@ -131,17 +144,6 @@
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
-   "title": {
-    "en": "Airuika"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -157,28 +159,26 @@
    ]
   },
   {
-   "id": "6d717adb-d283-4f9c-bf56-e0b4936fe083",
+   "id": "06749feb-aa8d-4eb0-a027-120137839eea",
    "title": {
-    "en": "Risou no Kareshitachi"
+    "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "tr",
     "pl",
     "en"
    ]
   },
   {
-   "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
+   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
    "title": {
-    "en": "Birthday Presents"
+    "en": "Sayonara Limit"
    },
    "contentRating": "safe",
-   "score": 0.20769946,
+   "score": 0.21428573,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -187,11 +187,11 @@
     "en": "Without the Sun"
    },
    "contentRating": "safe",
-   "score": 0.20236601,
+   "score": 0.20636046,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:17+00:00"
+ "updatedAt": "2023-12-10T18:25:55+00:00"
 }

@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cc90b8c6-51f1-47fa-a651-89a58b3b4581",
+   "title": {
+    "en": "17+"
+   },
+   "contentRating": "safe",
+   "score": 0.24187961
+  },
+  {
    "id": "921ab62f-b17e-4127-99d7-318eb04f3888",
    "title": {
     "en": "Detroit: Become Human - Tokyo Stories"
    },
    "contentRating": "safe",
-   "score": 0.23394234,
+   "score": 0.23199017,
    "languages": [
     "en",
     "ru",
@@ -20,12 +28,63 @@
    ]
   },
   {
-   "id": "cc90b8c6-51f1-47fa-a651-89a58b3b4581",
+   "id": "fb901f12-49ca-4ddf-b0d8-36ce0354b882",
    "title": {
-    "en": "17+"
+    "en": "Young Carer: Mienai Watashi"
    },
    "contentRating": "safe",
-   "score": 0.23356938
+   "score": 0.20847078
+  },
+  {
+   "id": "d330eea3-3c56-418f-8c54-d7f227152a55",
+   "title": {
+    "en": "Shinitai to Itte Kudasai: Hokenjo Kokoro no Shiengakari"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173
+  },
+  {
+   "id": "b3618d2f-6d0c-424d-b6bd-ad48829ac27e",
+   "title": {
+    "en": "K2"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "89855174-b5bd-4f4d-a1a8-585e0dc224ba",
+   "title": {
+    "ja": "Platanus No Mi"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "68ac03f9-622f-4f01-a830-58d692c4e8f3",
+   "title": {
+    "en": "19-banme no Karte: Tokushige Akira no Monshin"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "fcaff030-0f04-427e-bff7-b1511d3f81fb",
+   "title": {
+    "en": "Nurse Aoi"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "681f0641-3672-42d7-b95b-7c436e2fa9ae",
+   "title": {
+    "en": "Doctor Price"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
   },
   {
    "id": "3cba69be-4227-48fe-b6d7-243f6e36000e",
@@ -36,15 +95,12 @@
    "score": 0.18605211
   },
   {
-   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
+   "id": "5de1f38c-50b6-46f4-88a4-e22b17775fba",
    "title": {
-    "en": "Arcana+ 01 - Boys in Uniform"
+    "en": "Pulang: Sebuah Kompilasi Komik"
    },
    "contentRating": "safe",
-   "score": 0.17973869,
-   "languages": [
-    "en"
-   ]
+   "score": 0.1788723
   },
   {
    "id": "bb949242-a716-4bff-a91d-83e5c0412673",
@@ -52,7 +108,7 @@
     "en": "Comic ☆ Shinichi"
    },
    "contentRating": "safe",
-   "score": 0.17756413,
+   "score": 0.17647065,
    "languages": [
     "es-la",
     "en",
@@ -60,6 +116,14 @@
     "pl",
     "tr"
    ]
+  },
+  {
+   "id": "1ddc2881-c633-45fa-bffe-980d6e4c9604",
+   "title": {
+    "en": "100-nen no Tateito"
+   },
+   "contentRating": "safe",
+   "score": 0.17541161
   },
   {
    "id": "1f4ccc84-ecb8-43b7-a19d-2774597d0e4c",
@@ -84,80 +148,7 @@
    },
    "contentRating": "safe",
    "score": 0.17541161
-  },
-  {
-   "id": "1ddc2881-c633-45fa-bffe-980d6e4c9604",
-   "title": {
-    "en": "100-nen no Tateito"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161
-  },
-  {
-   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
-   "title": {
-    "en": "Succeed"
-   },
-   "contentRating": "safe",
-   "score": 0.17067017,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "283f8818-43c4-4c1d-9b9e-52a2529414f7",
-   "title": {
-    "en": "Galaxy Express 999 Another Story: Ultimate Journey"
-   },
-   "contentRating": "safe",
-   "score": 0.16641006,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "e5040238-08d4-4358-873a-d975bfa72580",
-   "title": {
-    "en": "Beast: Hazard"
-   },
-   "contentRating": "safe",
-   "score": 0.16641006
-  },
-  {
-   "id": "52e56d01-12ef-476c-b4f2-df47d38abbf4",
-   "title": {
-    "en": "Sora ni Mairu"
-   },
-   "contentRating": "safe",
-   "score": 0.16641006,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59af2e53-6c02-4efe-bcd7-48215f875bf8",
-   "title": {
-    "en": "Namima no Kodomo-tachi"
-   },
-   "contentRating": "safe",
-   "score": 0.16597073
-  },
-  {
-   "id": "550f630b-f442-4661-9f53-27ca8a89f034",
-   "title": {
-    "en": "Kagerou Daze Official Anthology Comic -DOWNER-"
-   },
-   "contentRating": "safe",
-   "score": 0.16376974
-  },
-  {
-   "id": "6d77c16a-de7f-44de-ad6b-380cdfde0332",
-   "title": {
-    "en": "Kagerou Daze Official Anthology Comic -UPPER-"
-   },
-   "contentRating": "safe",
-   "score": 0.16304265
   }
  ],
- "updatedAt": "2023-12-10T01:02:46+00:00"
+ "updatedAt": "2023-12-10T18:16:37+00:00"
 }

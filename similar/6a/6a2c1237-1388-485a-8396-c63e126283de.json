@@ -41,23 +41,12 @@
    ]
   },
   {
-   "id": "0c760cc8-24f2-429c-8b16-e72befe4e862",
-   "title": {
-    "en": "Maria Sensei wa Imouto Gachizei!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19186461,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2a4bc9ec-2d70-428a-8b46-27f6218ed267",
    "title": {
     "en": "Don't Toy With Me, Miss Nagatoro!: Comic Anthology"
    },
    "contentRating": "suggestive",
-   "score": 0.19150151,
+   "score": 0.19055977,
    "languages": [
     "pt-br",
     "th",
@@ -67,12 +56,23 @@
    ]
   },
   {
+   "id": "0c760cc8-24f2-429c-8b16-e72befe4e862",
+   "title": {
+    "en": "Maria Sensei wa Imouto Gachizei!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1899078,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "011ecd60-144f-476f-92e9-278905cb4450",
    "title": {
     "en": "Getsuyoubi no Tawawa (Serialization) (Blue) (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.18132676,
+   "score": 0.18025859,
    "languages": [
     "en",
     "ru"
@@ -84,22 +84,24 @@
     "en": "Ane to Muchi"
    },
    "contentRating": "suggestive",
-   "score": 0.1811082,
+   "score": 0.18023148,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
+   "id": "9b78663c-850f-434b-8b33-d88d43cc3151",
    "title": {
-    "en": "How About R15?"
+    "en": "Arakure Ojousama wa Monmon Shiteiru"
    },
    "contentRating": "suggestive",
    "score": 0.1787909,
    "languages": [
-    "en",
     "pt-br",
     "ru",
+    "id",
+    "en",
+    "de",
     "vi"
    ]
   },
@@ -112,6 +114,18 @@
    "score": 0.1787909,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "334fecc8-8bff-4256-834a-9429059c0f72",
+   "title": {
+    "en": "Mikudashi Ibari wa Mikudashitai!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1787909,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -133,30 +147,29 @@
    ]
   },
   {
-   "id": "334fecc8-8bff-4256-834a-9429059c0f72",
+   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
    "title": {
-    "en": "Mikudashi Ibari wa Mikudashitai!"
+    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
    },
    "contentRating": "suggestive",
    "score": 0.1787909,
    "languages": [
+    "id",
     "en",
-    "es-la"
+    "fr"
    ]
   },
   {
-   "id": "9b78663c-850f-434b-8b33-d88d43cc3151",
+   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
    "title": {
-    "en": "Arakure Ojousama wa Monmon Shiteiru"
+    "en": "How About R15?"
    },
    "contentRating": "suggestive",
    "score": 0.1787909,
    "languages": [
+    "en",
     "pt-br",
     "ru",
-    "id",
-    "en",
-    "de",
     "vi"
    ]
   },
@@ -169,19 +182,6 @@
    "score": 0.1787909,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
-   "title": {
-    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1787909,
-   "languages": [
-    "id",
-    "en",
-    "fr"
    ]
   },
   {
@@ -234,5 +234,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:58+00:00"
+ "updatedAt": "2023-12-10T18:19:48+00:00"
 }

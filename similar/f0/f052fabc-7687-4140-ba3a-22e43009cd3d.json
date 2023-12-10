@@ -11,9 +11,21 @@
     "en": "Lighter"
    },
    "contentRating": "safe",
-   "score": 0.29571036,
+   "score": 0.29859957,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.25641683,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -22,7 +34,7 @@
     "en": "Three Months Since You Called Me Mama"
    },
    "contentRating": "safe",
-   "score": 0.24383341,
+   "score": 0.24589884,
    "languages": [
     "en"
    ]
@@ -33,7 +45,7 @@
     "en": "See you soon."
    },
    "contentRating": "safe",
-   "score": 0.24270514,
+   "score": 0.24461336,
    "languages": [
     "hu",
     "en"
@@ -51,6 +63,17 @@
    ]
   },
   {
+   "id": "6f77013d-334c-43cc-a979-629ed4ebbd6d",
+   "title": {
+    "en": "The Long Cavern"
+   },
+   "contentRating": "safe",
+   "score": 0.23128375,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
    "title": {
     "en": "Boy's Summer"
@@ -63,47 +86,24 @@
    ]
   },
   {
-   "id": "1ba43799-8f88-4d96-8a48-8736de5312bf",
-   "title": {
-    "en": "Aria on the Holy String"
-   },
-   "contentRating": "safe",
-   "score": 0.2249233,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f3c58eaa-5fc8-404b-9d95-9e7c24d88718",
    "title": {
     "en": "Kappa Love Story"
    },
    "contentRating": "safe",
-   "score": 0.22402574,
+   "score": 0.22655311,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6f77013d-334c-43cc-a979-629ed4ebbd6d",
+   "id": "1ba43799-8f88-4d96-8a48-8736de5312bf",
    "title": {
-    "en": "The Long Cavern"
+    "en": "Aria on the Holy String"
    },
    "contentRating": "safe",
-   "score": 0.22392611,
+   "score": 0.22630641,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
-   "title": {
-    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
-   },
-   "contentRating": "safe",
-   "score": 0.22140048,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -113,9 +113,21 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.2211132,
+   "score": 0.22424135,
    "languages": [
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "b3ab1d4d-a99e-4260-bdea-c87ec1e8bd62",
+   "title": {
+    "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
+   },
+   "contentRating": "safe",
+   "score": 0.22291686,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -125,7 +137,7 @@
     "en": "Color of the Far East"
    },
    "contentRating": "safe",
-   "score": 0.21947925,
+   "score": 0.22174357,
    "languages": [
     "en",
     "ar"
@@ -137,38 +149,26 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.21165965,
+   "score": 0.21660635,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
    "title": {
-    "en": "Fugitives"
+    "en": "Inspector Daimajin"
    },
    "contentRating": "safe",
-   "score": 0.21073236,
+   "score": 0.20814292,
    "languages": [
-    "en",
-    "it"
+    "en"
    ]
   },
   {
    "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
    "title": {
     "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
-   "title": {
-    "en": "Deep Love - Real"
    },
    "contentRating": "safe",
    "score": 0.2053538,
@@ -189,5 +189,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:44+00:00"
 }

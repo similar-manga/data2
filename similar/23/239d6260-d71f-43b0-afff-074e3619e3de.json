@@ -6,23 +6,59 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
+   "title": {
+    "en": "Shaman King: The Super Star"
+   },
+   "contentRating": "safe",
+   "score": 0.29584435,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
    "title": {
     "en": "Brothers"
    },
    "contentRating": "safe",
-   "score": 0.27246392,
+   "score": 0.26977387,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "a44673b0-3287-469a-a540-8e4457bd68a4",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "Ryuu to Ichigo"
    },
    "contentRating": "safe",
-   "score": 0.25137448,
+   "score": 0.25093648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "82a49c7e-2c95-40e9-bcfe-d58e8ec5dcb6",
+   "title": {
+    "en": "Cardfight!! Vanguard: Turnabout"
+   },
+   "contentRating": "safe",
+   "score": 0.24780713,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "82e06016-c23f-49a5-97d5-f0a535080fec",
+   "title": {
+    "en": "Taiyou Shounen Jango"
+   },
+   "contentRating": "safe",
+   "score": 0.24705653,
    "languages": [
     "en"
    ]
@@ -33,7 +69,7 @@
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.24292438,
+   "score": 0.24111833,
    "languages": [
     "en"
    ]
@@ -51,17 +87,39 @@
    ]
   },
   {
+   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "title": {
+    "en": "Kishin Douji Zenki"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
    "title": {
     "en": "Rakshasa Street"
    },
    "contentRating": "safe",
-   "score": 0.23802026,
+   "score": 0.23451068,
    "languages": [
     "fr",
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "6a111495-7ca1-4667-aac1-d9f515a90b87",
+   "title": {
+    "en": "Brave"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -77,28 +135,14 @@
    ]
   },
   {
-   "id": "ae80041b-73eb-41d1-b870-440c69713b09",
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
    "title": {
-    "en": "Trump!"
+    "en": "Madara"
    },
    "contentRating": "safe",
-   "score": 0.23132573,
+   "score": 0.23313242,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
-   "title": {
-    "en": "Soul Land II - The Peerless Tang Sect"
-   },
-   "contentRating": "safe",
-   "score": 0.23113373,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "it"
    ]
   },
   {
@@ -107,11 +151,22 @@
     "en": "Wonted"
    },
    "contentRating": "safe",
-   "score": 0.23068297,
+   "score": 0.23271088,
    "languages": [
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "ae80041b-73eb-41d1-b870-440c69713b09",
+   "title": {
+    "en": "Trump!"
+   },
+   "contentRating": "safe",
+   "score": 0.23191749,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -120,7 +175,7 @@
     "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.22986427,
+   "score": 0.23149078,
    "languages": [
     "ru",
     "pt-br",
@@ -133,73 +188,19 @@
    ]
   },
   {
-   "id": "bc06172f-8e62-4e92-84ec-2bfbd9dab255",
+   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
    "title": {
-    "en": "Ueki no Housoku"
+    "en": "Soul Land II - The Peerless Tang Sect"
    },
    "contentRating": "safe",
-   "score": 0.22974476,
+   "score": 0.23131792,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
-   "title": {
-    "en": "King Golf"
-   },
-   "contentRating": "safe",
-   "score": 0.22589692,
-   "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3334c53b-69ae-4cfa-9a3b-2b76c17d57b3",
-   "title": {
-    "en": "Bleach: Special One-Shot - Digital Colored Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.2239553,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "13f5054b-045d-48fe-bc5b-fe146c4c9733",
-   "title": {
-    "en": "Yuurei Ryokou Dairiten - Soul Mate Tourist"
-   },
-   "contentRating": "safe",
-   "score": 0.22242472,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1cf26b33-b5ca-4ace-a508-13363fd9ae44",
-   "title": {
-    "en": "Crescent Noise"
-   },
-   "contentRating": "safe",
-   "score": 0.22233057,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06f2469a-b19c-4e22-9efd-9078fe2e58e8",
-   "title": {
-    "en": "A Book of Dreams"
-   },
-   "contentRating": "safe",
-   "score": 0.22142838,
-   "languages": [
-    "en"
+    "fr",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:07+00:00"
+ "updatedAt": "2023-12-10T18:12:07+00:00"
 }

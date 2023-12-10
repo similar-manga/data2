@@ -11,7 +11,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.30947033,
+   "score": 0.3094874,
    "languages": [
     "ru",
     "vi",
@@ -28,12 +28,23 @@
    ]
   },
   {
+   "id": "c8b55f34-21a4-4ca7-8e5d-d58d38fe3203",
+   "title": {
+    "en": "Blue Lock (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.2561938,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "71d07162-16dd-4178-a7ef-003d66360574",
    "title": {
     "en": "Angel Voice"
    },
    "contentRating": "safe",
-   "score": 0.24160708,
+   "score": 0.24139069,
    "languages": [
     "en"
    ]
@@ -44,11 +55,23 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.23436858,
+   "score": 0.233727,
    "languages": [
     "ru",
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "1103f1e8-ff0f-4a71-969e-d11167f76b40",
+   "title": {
+    "en": "I Don't Want to Be Bullied by Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.2299405,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -65,42 +88,63 @@
    ]
   },
   {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
+   "id": "c584b3d8-f3d8-4edf-9a6c-0690494f1e41",
    "title": {
-    "en": "Window Washer Park"
+    "en": "Eleven"
    },
    "contentRating": "safe",
-   "score": 0.22284332,
+   "score": 0.22362788,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
+   "id": "4f1c1d58-ca14-48a7-b421-f01b5900ce28",
    "title": {
-    "en": "Hajime no Ippo"
+    "en": "Sense Life"
    },
    "contentRating": "safe",
-   "score": 0.22063628,
+   "score": 0.2227591,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
+   "title": {
+    "en": "Burning Kabaddi"
+   },
+   "contentRating": "safe",
+   "score": 0.21998118,
    "languages": [
     "en",
-    "ar",
     "fr",
-    "es",
+    "hi",
     "pt-br",
-    "ru",
-    "pl"
+    "es-la"
    ]
   },
   {
-   "id": "23cc261e-687e-4b24-9308-fccc93094b98",
+   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
    "title": {
-    "en": "R the Ultimate Superman"
+    "en": "Fairway no Koe wo Kikasete"
    },
    "contentRating": "safe",
-   "score": 0.2203698,
+   "score": 0.21979643,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
+   "title": {
+    "en": "Yama no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.21979643,
+   "languages": [
+    "es-la",
+    "id",
     "en"
    ]
   },
@@ -122,12 +166,52 @@
    ]
   },
   {
+   "id": "23cc261e-687e-4b24-9308-fccc93094b98",
+   "title": {
+    "en": "R the Ultimate Superman"
+   },
+   "contentRating": "safe",
+   "score": 0.21942788,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
+   "title": {
+    "en": "Hajime no Ippo"
+   },
+   "contentRating": "safe",
+   "score": 0.21762133,
+   "languages": [
+    "en",
+    "ar",
+    "fr",
+    "es",
+    "pt-br",
+    "ru",
+    "pl"
+   ]
+  },
+  {
+   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
+   "title": {
+    "en": "Window Washer Park"
+   },
+   "contentRating": "safe",
+   "score": 0.21556132,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
    "title": {
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.21482877,
+   "score": 0.21453147,
    "languages": [
     "en",
     "fr",
@@ -135,98 +219,7 @@
     "ru",
     "es-la"
    ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.2114724,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "895c5435-2d38-469f-a3f2-3c990390339d",
-   "title": {
-    "en": "Suzuran is Going Strong!"
-   },
-   "contentRating": "safe",
-   "score": 0.21020426,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "cf19b4e0-3618-4bf4-8035-a265c3bb3fce",
-   "title": {
-    "en": "Our Hero Studies"
-   },
-   "contentRating": "safe",
-   "score": 0.20976269,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3805fc64-44f0-46b6-b972-5c14ce7e856c",
-   "title": {
-    "en": "Maple Purple"
-   },
-   "contentRating": "safe",
-   "score": 0.20577356,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
-   "title": {
-    "en": "Kono Oto Tomare!"
-   },
-   "contentRating": "safe",
-   "score": 0.20577356,
-   "languages": [
-    "fr",
-    "vi",
-    "pt-br",
-    "en",
-    "id",
-    "es-la",
-    "ar",
-    "it",
-    "hu"
-   ]
-  },
-  {
-   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
-   "title": {
-    "en": "I'm Teppei"
-   },
-   "contentRating": "safe",
-   "score": 0.20532016,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
-   "title": {
-    "ja": "Macaron"
-   },
-   "contentRating": "safe",
-   "score": 0.19717298,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:36+00:00"
+ "updatedAt": "2023-12-10T18:13:27+00:00"
 }

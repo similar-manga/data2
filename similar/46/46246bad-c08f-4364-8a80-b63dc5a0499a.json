@@ -11,7 +11,7 @@
     "en": "Writer Sung's Life"
    },
    "contentRating": "suggestive",
-   "score": 0.28341478,
+   "score": 0.27927896,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Tsuiraku JK to Haijin Kyoushi (Webtoon)"
    },
    "contentRating": "suggestive",
-   "score": 0.27907625,
+   "score": 0.27776203,
    "languages": [
     "id"
    ]
@@ -34,7 +34,7 @@
     "en": "I Only Make Bad Movies"
    },
    "contentRating": "suggestive",
-   "score": 0.27493548
+   "score": 0.2748059
   },
   {
    "id": "e3ddfe73-b668-420e-95e9-203cd373679c",
@@ -42,7 +42,7 @@
     "en": "Even a Mean Girl Can Be Loved"
    },
    "contentRating": "suggestive",
-   "score": 0.266421
+   "score": 0.26599815
   },
   {
    "id": "9efbfa57-76f7-4690-a8f3-de9188beb335",
@@ -50,7 +50,7 @@
     "en": "Good Girlfriend"
    },
    "contentRating": "suggestive",
-   "score": 0.26337934,
+   "score": 0.2619314,
    "languages": [
     "pl"
    ]
@@ -61,10 +61,18 @@
     "en": "11336"
    },
    "contentRating": "suggestive",
-   "score": 0.2576009,
+   "score": 0.25753915,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "52211ae1-d43d-4a9c-bdd3-db297aedcfa8",
+   "title": {
+    "en": "The Life of an Adult Video Script Writer"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25648567
   },
   {
    "id": "52fd1967-2c5a-43e6-b7bd-977431424434",
@@ -85,7 +93,7 @@
     "en": "Kekkon 3-nenme, Netoraremashita Tsuma ni Koi wo Shita."
    },
    "contentRating": "suggestive",
-   "score": 0.2506608
+   "score": 0.2491342
   },
   {
    "id": "25a0549a-196f-4d33-a567-ddc715696cce",
@@ -93,18 +101,10 @@
     "en": "Pretty Woman"
    },
    "contentRating": "suggestive",
-   "score": 0.24558629,
+   "score": 0.24580556,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c9b13d96-1808-40f3-9233-a08cf9760b32",
-   "title": {
-    "en": "열애 수업"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24541996
   },
   {
    "id": "58671f80-ecb3-482b-ad24-ca12860cd02c",
@@ -116,6 +116,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "c9b13d96-1808-40f3-9233-a08cf9760b32",
+   "title": {
+    "en": "열애 수업"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24541996
   },
   {
    "id": "ff3d509c-21a1-455f-a785-ef394e9dbfb7",
@@ -133,6 +141,20 @@
    ]
   },
   {
+   "id": "1cec4f31-88a7-48c0-987e-9697afc27f67",
+   "title": {
+    "en": "Kiyowa na Kanojo no ◯◯ nengo…"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24311288,
+   "languages": [
+    "en",
+    "id",
+    "es",
+    "tr"
+   ]
+  },
+  {
    "id": "f8bcd6f7-2922-4aea-bfb3-dfb5b8e50b20",
    "title": {
     "en": "Childhood Friend Channel!"
@@ -144,38 +166,22 @@
    ]
   },
   {
-   "id": "ee88c78c-76be-47fe-b52b-3a40988832ce",
+   "id": "66b0511a-528c-43de-b572-a7ff7a30ebd9",
    "title": {
-    "en": "Breathless"
+    "en": "The Cool Classmate ◯◯ Years Later..."
    },
    "contentRating": "suggestive",
-   "score": 0.23971252,
+   "score": 0.24311288,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0681c4e4-a170-4055-92ce-8580ba6be2ef",
-   "title": {
-    "en": "Embrace My Shadow"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23635973,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37c12d0c-f43f-4ed1-9645-17675d941f12",
-   "title": {
-    "en": "The Top Couple Is a Bit Sweet"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23635973,
-   "languages": [
-    "en"
+    "id",
+    "pl",
+    "es",
+    "vi",
+    "en",
+    "pt-br",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:28+00:00"
+ "updatedAt": "2023-12-10T18:15:54+00:00"
 }

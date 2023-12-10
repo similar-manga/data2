@@ -11,7 +11,7 @@
     "en": "Seimei desu ga nani ka?"
    },
    "contentRating": "safe",
-   "score": 0.29387006,
+   "score": 0.29392144,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "God Virgin"
    },
    "contentRating": "safe",
-   "score": 0.26181537,
+   "score": 0.26010343,
    "languages": [
     "en",
     "pt-br",
@@ -35,20 +35,8 @@
     "en": "A Sorcerer Entered into a Contract"
    },
    "contentRating": "safe",
-   "score": 0.25588572,
+   "score": 0.25570786,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
-   "title": {
-    "en": "Boku no Pet"
-   },
-   "contentRating": "safe",
-   "score": 0.24785924,
-   "languages": [
-    "bg",
     "en"
    ]
   },
@@ -61,6 +49,28 @@
    "score": 0.24743582,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4add750e-bdfc-416b-af09-81ee31e5bdea",
+   "title": {
+    "en": "Ojiizoo Quest"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "850fd66f-e9cc-4448-99d3-ae0d3232dffe",
+   "title": {
+    "en": "Hoshifuru Oka no Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "en"
    ]
   },
@@ -79,17 +89,6 @@
    ]
   },
   {
-   "id": "4add750e-bdfc-416b-af09-81ee31e5bdea",
-   "title": {
-    "en": "Ojiizoo Quest"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "37b1909b-3419-41bd-bffd-8b60d4708091",
    "title": {
     "en": "Akuma Yashiki no Kyouikugakari"
@@ -101,12 +100,24 @@
    ]
   },
   {
+   "id": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
+   "title": {
+    "en": "Boku no Pet"
+   },
+   "contentRating": "safe",
+   "score": 0.2473095,
+   "languages": [
+    "bg",
+    "en"
+   ]
+  },
+  {
    "id": "b5420fd6-8a2c-422d-b617-0371ecf5e005",
    "title": {
     "en": "Watashi to Kare to Mou Hitori♡"
    },
    "contentRating": "safe",
-   "score": 0.24244018,
+   "score": 0.24175876,
    "languages": [
     "en"
    ]
@@ -117,22 +128,11 @@
     "en": "Kami-sama Onegai!"
    },
    "contentRating": "safe",
-   "score": 0.23459552,
+   "score": 0.23429088,
    "languages": [
     "fr",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "ad47a46d-abdd-48b5-b460-968ffd1b288b",
-   "title": {
-    "en": "One + One"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -149,9 +149,9 @@
    ]
   },
   {
-   "id": "11b0ab67-6eee-4cdc-8f64-559eb4c10378",
+   "id": "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
    "title": {
-    "en": "Ai-chan"
+    "en": "I Know What He Is"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -171,9 +171,9 @@
    ]
   },
   {
-   "id": "de1a52a0-039f-42f7-8362-dd53f5d60577",
+   "id": "f55d7f38-f328-4cea-b80a-cd3f83fd24cb",
    "title": {
-    "en": "Lunar - Lunatic Parade"
+    "en": "Home for Lost Children"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -182,9 +182,9 @@
    ]
   },
   {
-   "id": "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
+   "id": "ad47a46d-abdd-48b5-b460-968ffd1b288b",
    "title": {
-    "en": "I Know What He Is"
+    "en": "One + One"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -193,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:05+00:00"
+ "updatedAt": "2023-12-10T18:33:16+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.20701168,
+   "score": 0.20995434,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "Space Battleship Silver Seven"
    },
    "contentRating": "safe",
-   "score": 0.20113516,
+   "score": 0.20378585,
    "languages": [
     "fr",
     "es-la",
@@ -37,7 +37,7 @@
     "en": "Galaxy Express 999 Another Story: Ultimate Journey"
    },
    "contentRating": "safe",
-   "score": 0.19844575,
+   "score": 0.20105615,
    "languages": [
     "ru"
    ]
@@ -48,7 +48,7 @@
     "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.19211625,
+   "score": 0.19463494,
    "languages": [
     "ru",
     "pt-br",
@@ -88,7 +88,7 @@
     "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.1789242,
+   "score": 0.17953551,
    "languages": [
     "it",
     "en",
@@ -101,7 +101,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.1782764,
+   "score": 0.17827651,
    "languages": [
     "en",
     "pt-br",
@@ -117,7 +117,7 @@
     "en": "Sekai wa Owattemo Ikirutte Tanoshii"
    },
    "contentRating": "safe",
-   "score": 0.17775905,
+   "score": 0.17764,
    "languages": [
     "ru",
     "en",
@@ -137,6 +137,43 @@
    ]
   },
   {
+   "id": "2056148a-14da-4acb-a27f-bd5aa3c40b44",
+   "title": {
+    "en": "Saint Seiya - Golden Age"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "title": {
+    "en": "Wonted"
+   },
+   "contentRating": "safe",
+   "score": 0.16986728,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e8abb89b-4273-4c3e-af5c-34ca4985826b",
+   "title": {
+    "en": "Kaina of the Great Snow Sea"
+   },
+   "contentRating": "safe",
+   "score": 0.16942991,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
    "title": {
     "en": "Fullmetal Alchemist: The Prototype"
@@ -148,29 +185,15 @@
    ]
   },
   {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "id": "0d242cf4-eead-4a74-87c9-5805a42a2303",
    "title": {
-    "en": "Wonted"
-   },
-   "contentRating": "safe",
-   "score": 0.16674837,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "849bd266-864d-4d46-9381-cb95765b817a",
-   "title": {
-    "en": "Post-apocalyptic Dispatch Company"
+    "en": "Tenohira Sousei-ki"
    },
    "contentRating": "safe",
    "score": 0.16495723,
    "languages": [
-    "en",
-    "pt-br",
-    "fr"
+    "es-la",
+    "en"
    ]
   },
   {
@@ -186,47 +209,7 @@
     "id",
     "ru"
    ]
-  },
-  {
-   "id": "16dcfceb-4382-45f1-adb0-d57fc5ea0d06",
-   "title": {
-    "en": "My Death Flags Show No Sign of Ending"
-   },
-   "contentRating": "safe",
-   "score": 0.16342977,
-   "languages": [
-    "en",
-    "fr",
-    "zh-hk",
-    "es-la"
-   ]
-  },
-  {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
-   "title": {
-    "en": "Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.16053885,
-   "languages": [
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:36+00:00"
+ "updatedAt": "2023-12-10T18:29:34+00:00"
 }

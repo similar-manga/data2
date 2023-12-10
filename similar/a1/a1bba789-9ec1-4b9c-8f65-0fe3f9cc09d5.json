@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d0f286ac-9ecf-4472-a3d7-1009eb0199e2",
+   "title": {
+    "en": "Hirano to Kagiura"
+   },
+   "contentRating": "safe",
+   "score": 0.284093,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
    "id": "11bfa371-f53f-42b7-8213-94b1323b02b6",
    "title": {
     "en": "Yubisaki to Renren"
    },
    "contentRating": "safe",
-   "score": 0.28204972,
+   "score": 0.28383726,
    "languages": [
     "hu",
     "pt-br",
@@ -23,16 +37,71 @@
    ]
   },
   {
+   "id": "b603c211-d1f9-4145-a2ac-04dcd5f06329",
+   "title": {
+    "en": "Sasaki and Miyano"
+   },
+   "contentRating": "safe",
+   "score": 0.2541005,
+   "languages": [
+    "id",
+    "uk",
+    "tr",
+    "en",
+    "fr",
+    "pt-br",
+    "hu"
+   ]
+  },
+  {
    "id": "dffca36b-387f-4131-b99c-f7c834286253",
    "title": {
     "en": "Boku wa Sakana"
    },
    "contentRating": "safe",
-   "score": 0.25510105,
+   "score": 0.25403413,
    "languages": [
     "en",
     "pl",
     "tr"
+   ]
+  },
+  {
+   "id": "df28295a-bf8c-41e3-9d74-b680181cb2be",
+   "title": {
+    "en": "Boku wa Konomama Kaeranai"
+   },
+   "contentRating": "safe",
+   "score": 0.24844502,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "18f16695-0662-4fb2-ac38-c085fc27169f",
+   "title": {
+    "en": "Boys Like!"
+   },
+   "contentRating": "safe",
+   "score": 0.23894541,
+   "languages": [
+    "vi",
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "ceedc13b-3f92-4f92-9e84-40227045383b",
+   "title": {
+    "en": "Shinon"
+   },
+   "contentRating": "safe",
+   "score": 0.23875035,
+   "languages": [
+    "en",
+    "tr",
+    "it"
    ]
   },
   {
@@ -41,8 +110,33 @@
     "en": "Omairi Desu yo"
    },
    "contentRating": "safe",
-   "score": 0.23520623,
+   "score": 0.23467724,
    "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "d4da57af-1c62-4806-a233-fc58b468ec90",
+   "title": {
+    "en": "Heesu in Class 2"
+   },
+   "contentRating": "safe",
+   "score": 0.22123697,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
+   "id": "f6e4853a-5302-49eb-b18a-dc1aa419e45e",
+   "title": {
+    "en": "Cool Girl and a Straightforward Guy"
+   },
+   "contentRating": "safe",
+   "score": 0.22027759,
+   "languages": [
+    "pt-br",
+    "th",
     "tr",
     "en"
    ]
@@ -77,146 +171,54 @@
     "en": "Hanazakari no Niwa"
    },
    "contentRating": "safe",
-   "score": 0.21879613,
+   "score": 0.21774057,
    "languages": [
     "tr"
    ]
   },
   {
-   "id": "1f0f65be-2b3b-4b3e-9275-1c4e088cca04",
+   "id": "6d3fb218-90bf-455f-ae85-114c5a69e231",
    "title": {
-    "en": "Kishi-kun wa Watashi ga Kirai"
+    "en": "Ai ni Dekinai Koi wa iya"
    },
    "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "tr",
-    "it"
-   ]
-  },
-  {
-   "id": "14b692dc-5561-43e4-937a-312ab1f571da",
-   "title": {
-    "en": "Mitsumete Honey"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "7e374a67-53ad-4a41-986c-7f65a020f20b",
-   "title": {
-    "en": "Wish Upon a Glass"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "81ca38c8-a805-4608-9ce8-0c32c685b0da",
-   "title": {
-    "en": "A Pudgy Girl's Love"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "bb2d6941-cf7e-4823-a85b-9c8e3cf96f68",
-   "title": {
-    "en": "Ameiro Paradox"
-   },
-   "contentRating": "safe",
-   "score": 0.19672297,
-   "languages": [
-    "pl",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "5a880fc2-9020-429b-a7f5-240f8ec0daad",
-   "title": {
-    "en": "One Love"
-   },
-   "contentRating": "safe",
-   "score": 0.1963219,
+   "score": 0.21741031,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "321c00bb-3522-4250-ab41-36cf9274c442",
+   "id": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
    "title": {
-    "en": "Escape from High School Girls"
+    "en": "The Girl I Like Forgot Her Glasses"
    },
    "contentRating": "safe",
-   "score": 0.19170642,
+   "score": 0.21613935,
    "languages": [
-    "it",
-    "tr",
-    "hu",
-    "pl",
-    "pt-br",
-    "fr",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
-   "title": {
-    "en": "The Dangers in My Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.18994786,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "tr",
+    "uk",
     "id",
+    "pt-br",
+    "en",
+    "ru",
+    "es-la",
+    "fr",
     "ar",
-    "fr"
+    "tr"
    ]
   },
   {
-   "id": "530163d8-e607-4fec-ba9a-f6e0cf345a59",
+   "id": "8870db94-44ac-49d3-a35c-03092341ceb9",
    "title": {
-    "en": "Junjou Romantica"
+    "en": "I Can't Say No to Him"
    },
    "contentRating": "safe",
-   "score": 0.18959264,
+   "score": 0.21475412,
    "languages": [
     "en",
-    "es",
-    "tr",
-    "pl"
-   ]
-  },
-  {
-   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
-   "title": {
-    "en": "Sora kara Onna no Ko ga!"
-   },
-   "contentRating": "safe",
-   "score": 0.18907684,
-   "languages": [
-    "ru",
-    "tr",
-    "vi",
-    "en"
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:25+00:00"
+ "updatedAt": "2023-12-10T18:26:20+00:00"
 }

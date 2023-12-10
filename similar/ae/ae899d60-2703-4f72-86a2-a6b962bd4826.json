@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "48910afe-3676-4a64-93c1-066b2cce4aa2",
+   "title": {
+    "en": "BLEACH the unforgivens"
+   },
+   "contentRating": "safe",
+   "score": 0.8116581,
+   "languages": [
+    "tr",
+    "it",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
    "title": {
     "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.5640793,
+   "score": 0.5661696,
    "languages": [
     "en",
     "ru",
@@ -26,7 +40,7 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.27618545,
+   "score": 0.27539513,
    "languages": [
     "en"
    ]
@@ -37,7 +51,7 @@
     "en": "Disaster, Old Man and Monster"
    },
    "contentRating": "safe",
-   "score": 0.26870042,
+   "score": 0.27450463,
    "languages": [
     "en"
    ]
@@ -48,7 +62,7 @@
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.26737255,
+   "score": 0.2703276,
    "languages": [
     "en",
     "pl",
@@ -61,9 +75,21 @@
     "en": "Rico"
    },
    "contentRating": "safe",
-   "score": 0.2618966,
+   "score": 0.26405755,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0033cf32-ed14-41fc-9aba-a2bb5946f310",
+   "title": {
+    "en": "Bleach Unmasked"
+   },
+   "contentRating": "safe",
+   "score": 0.26261017,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -84,7 +110,7 @@
     "en": "Blood Type V"
    },
    "contentRating": "safe",
-   "score": 0.24957164,
+   "score": 0.24863029,
    "languages": [
     "it",
     "en",
@@ -93,78 +119,16 @@
    ]
   },
   {
-   "id": "77e41751-a5d7-47ac-af24-e3463d5dfbd8",
+   "id": "23760ab0-68bd-43fb-b811-35b7bf62c257",
    "title": {
-    "en": "Justice League Origins: Wonder Woman"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "it",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "059a37a9-844f-4fe0-8269-974dc9c338cc",
-   "title": {
-    "en": "Fizon Core"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c057a355-5610-4b1c-a792-51461fa34867",
-   "title": {
-    "en": "Wreckage X"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es",
-    "it",
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "3b479acb-2a0a-4a6b-b8a7-1fdbc15bbc89",
-   "title": {
-    "en": "Nemuri Netarou Awararu!!"
+    "en": "Shikigami"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en",
-    "es"
-   ]
-  },
-  {
-   "id": "9036b5ac-80d7-47b9-96cb-8f0ae7cfd5b1",
-   "title": {
-    "en": "Composi!"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
-   "title": {
-    "en": "Yo-kai Watch Treasure Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "es"
+    "vi",
+    "pt-br"
    ]
   },
   {
@@ -181,14 +145,39 @@
    ]
   },
   {
-   "id": "8e88a56f-6ba0-4fd1-890a-5adbb9c76b09",
+   "id": "059a37a9-844f-4fe0-8269-974dc9c338cc",
    "title": {
-    "en": "Sasabunechou Konjaku"
+    "en": "Fizon Core"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
+   "title": {
+    "en": "Monster Cage"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl",
+    "bg"
+   ]
+  },
+  {
+   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
+   "title": {
+    "en": "Blood-Coloured Forbidden Territory"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -201,7 +190,20 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "77e41751-a5d7-47ac-af24-e3463d5dfbd8",
+   "title": {
+    "en": "Justice League Origins: Wonder Woman"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "it",
+    "fr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:57+00:00"
+ "updatedAt": "2023-12-10T18:27:52+00:00"
 }

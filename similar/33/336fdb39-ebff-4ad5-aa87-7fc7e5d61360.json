@@ -11,7 +11,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.29092208,
+   "score": 0.2887296,
    "languages": [
     "en",
     "fr"
@@ -23,7 +23,7 @@
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.2906259,
+   "score": 0.28702968,
    "languages": [
     "de",
     "es-la",
@@ -36,7 +36,7 @@
     "en": "Golden Sun - Dark Dawn"
    },
    "contentRating": "safe",
-   "score": 0.26716146,
+   "score": 0.26407477,
    "languages": [
     "en"
    ]
@@ -81,16 +81,28 @@
     "en": "Haco"
    },
    "contentRating": "safe",
-   "score": 0.22941835,
+   "score": 0.22915734,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
+   "id": "ed296f4d-d1f7-43d9-823d-0462f436825b",
    "title": {
-    "en": "Dr. Dead"
+    "en": "Escape"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
+   "title": {
+    "en": "Nejimaki Shoukougun"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -99,9 +111,9 @@
    ]
   },
   {
-   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
+   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
    "title": {
-    "en": "Nejimaki Shoukougun"
+    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -121,15 +133,14 @@
    ]
   },
   {
-   "id": "ed296f4d-d1f7-43d9-823d-0462f436825b",
+   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
    "title": {
-    "en": "Escape"
+    "en": "Dr. Dead"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "pt-br",
-    "es-la"
+    "en"
    ]
   },
   {
@@ -147,23 +158,12 @@
    ]
   },
   {
-   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
-   "title": {
-    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
    "title": {
     "en": "Terranigma"
    },
    "contentRating": "safe",
-   "score": 0.21029438,
+   "score": 0.20969574,
    "languages": [
     "en"
    ]
@@ -174,7 +174,7 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.20904614,
+   "score": 0.2086846,
    "languages": [
     "fr",
     "pt-br",
@@ -182,18 +182,17 @@
    ]
   },
   {
-   "id": "629c0317-b851-46eb-a0d4-d1bd31ced28b",
+   "id": "27f88fe6-d89b-4f54-b5d8-383564863797",
    "title": {
-    "en": "Beelzebub (Oneshot)"
+    "en": "Doragagaga"
    },
    "contentRating": "safe",
-   "score": 0.20903745,
+   "score": 0.20785291,
    "languages": [
-    "en",
-    "pl",
-    "it"
+    "ru",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:43+00:00"
+ "updatedAt": "2023-12-10T18:13:48+00:00"
 }

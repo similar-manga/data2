@@ -11,7 +11,7 @@
     "en": "Ewokaku Futari"
    },
    "contentRating": "safe",
-   "score": 0.24314143,
+   "score": 0.2455804,
    "languages": [
     "zh-hk"
    ]
@@ -22,7 +22,7 @@
     "en": "True Goddess Reincarnation Card Game Military History: Dante's Gate"
    },
    "contentRating": "safe",
-   "score": 0.2318472
+   "score": 0.2315167
   },
   {
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
@@ -30,7 +30,7 @@
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.21477886,
+   "score": 0.21518782,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "TEAM PHOENIX"
    },
    "contentRating": "safe",
-   "score": 0.20706588
+   "score": 0.20995398
   },
   {
    "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
@@ -57,7 +57,7 @@
     "en": "Super Giants"
    },
    "contentRating": "safe",
-   "score": 0.20322482
+   "score": 0.20329508
   },
   {
    "id": "57bdb07c-9338-4d80-a1e3-8eed6238ada4",
@@ -65,7 +65,7 @@
     "en": "Cyborg 009 (SATO Sugar)"
    },
    "contentRating": "safe",
-   "score": 0.19818021
+   "score": 0.1972636
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -73,10 +73,18 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.19587387,
+   "score": 0.19712284,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "79b5a55c-2b7f-4b0a-b1ee-4a943441efa0",
+   "title": {
+    "en": "Explorer Woman Ray"
+   },
+   "contentRating": "safe",
+   "score": 0.19485715
   },
   {
    "id": "b0b721ff-c388-4486-aa0f-c2b0bb321512",
@@ -99,18 +107,6 @@
    ]
   },
   {
-   "id": "3747dbbb-63ab-41e4-a389-0a66382840e0",
-   "title": {
-    "en": "Sword, Tiara and High Heels"
-   },
-   "contentRating": "safe",
-   "score": 0.19206457,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "ed98157c-9d74-4d82-8318-381b788bd644",
    "title": {
     "en": "AI no Idenshi: Blue Age"
@@ -124,7 +120,31 @@
     "en": "Cyborg 009 (TSUCHIYAMA Yoshiki)"
    },
    "contentRating": "safe",
-   "score": 0.19120851
+   "score": 0.19067252
+  },
+  {
+   "id": "3747dbbb-63ab-41e4-a389-0a66382840e0",
+   "title": {
+    "en": "Sword, Tiara and High Heels"
+   },
+   "contentRating": "safe",
+   "score": 0.18960595,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "a7fdd5d8-5751-40ae-9a39-15f17d6611d2",
+   "title": {
+    "en": "Seven Deadly Sins: Prisoners of the Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.18908778,
+   "languages": [
+    "en",
+    "it"
+   ]
   },
   {
    "id": "fdef5df9-9a1b-4110-8759-904ba0f5bbff",
@@ -135,46 +155,13 @@
    "score": 0.18908778
   },
   {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
+   "id": "5edf437e-1ab1-4c20-843b-41db19836b79",
    "title": {
-    "en": "D.Gray-man"
+    "en": "Skill Ga Nakereba Level wo Ageru ~99 Ga Kansuto No Sekai De Level 800 Man Kara Sutato~"
    },
    "contentRating": "safe",
-   "score": 0.18645237,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
-  },
-  {
-   "id": "031f9b43-eb00-43ce-982b-e8e63bf76152",
-   "title": {
-    "en": "Icarus Rising"
-   },
-   "contentRating": "safe",
-   "score": 0.18308346,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "ff5fe805-3613-4855-be54-31cc24a68d73",
-   "title": {
-    "en": "Second Man"
-   },
-   "contentRating": "safe",
-   "score": 0.18308346
+   "score": 0.18685877
   }
  ],
- "updatedAt": "2023-12-10T00:59:49+00:00"
+ "updatedAt": "2023-12-10T18:08:31+00:00"
 }

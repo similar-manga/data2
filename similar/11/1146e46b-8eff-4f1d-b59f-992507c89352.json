@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e156c7f8-5fa9-490b-98a9-a0696f5e7e3b",
+   "title": {
+    "en": "Tamayomi"
+   },
+   "contentRating": "safe",
+   "score": 0.28388265,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7d20c0f5-5ded-4799-b753-2ef852faee8d",
    "title": {
     "en": "Bakuon!!"
    },
    "contentRating": "safe",
-   "score": 0.26377705,
+   "score": 0.26345736,
    "languages": [
     "en",
     "es-la",
@@ -24,22 +35,24 @@
     "en": "Attack!!"
    },
    "contentRating": "safe",
-   "score": 0.26098534,
+   "score": 0.2607841,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
    "title": {
-    "en": "Ookiku Furikabutte"
+    "en": "Bungo"
    },
    "contentRating": "safe",
-   "score": 0.2519977,
+   "score": 0.2549402,
    "languages": [
     "en",
-    "es-la",
-    "fr"
+    "pt-br",
+    "es",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -59,22 +72,23 @@
     "en": "Super Oresama Love Story"
    },
    "contentRating": "safe",
-   "score": 0.24822101,
+   "score": 0.2478408,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
+   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
    "title": {
-    "en": "Koaka Head"
+    "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.24735342,
+   "score": 0.24652395,
    "languages": [
     "en",
-    "pl"
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -83,10 +97,23 @@
     "en": "Saki: Achiga-hen - episode of side-A"
    },
    "contentRating": "safe",
-   "score": 0.24392638,
+   "score": 0.24348506,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "49c047a5-b5bc-4133-a61b-7598f1fd19b6",
+   "title": {
+    "en": "Katsura's Wig of the Day"
+   },
+   "contentRating": "safe",
+   "score": 0.2400067,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -95,7 +122,7 @@
     "en": "Stopper Busujima"
    },
    "contentRating": "safe",
-   "score": 0.24243592,
+   "score": 0.23971009,
    "languages": [
     "en"
    ]
@@ -112,12 +139,36 @@
    ]
   },
   {
-   "id": "f8e143d8-2c14-4efd-b92a-3170062003a6",
+   "id": "02d88d55-c39b-4301-8141-ab37f662ab73",
    "title": {
-    "en": "LovePlus - Nene Days"
+    "en": "Night Game (YAMAMOTO Kazune)"
    },
    "contentRating": "safe",
-   "score": 0.22941573,
+   "score": 0.23076594,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "553d4b8f-9ab9-4711-8ed2-ef337d8e7923",
+   "title": {
+    "en": "Wandance"
+   },
+   "contentRating": "safe",
+   "score": 0.23070626,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "7bb85929-8554-4fc9-a7f5-57bcc0084865",
+   "title": {
+    "en": "Double Bull"
+   },
+   "contentRating": "safe",
+   "score": 0.22976293,
    "languages": [
     "en"
    ]
@@ -134,67 +185,18 @@
    ]
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
    "title": {
-    "en": "Tenshi-chan to Akuma-kun"
+    "en": "Wakaba-chan wa Wakarasetai"
    },
    "contentRating": "safe",
-   "score": 0.21795799,
+   "score": 0.22941573,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
-   "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
-   },
-   "contentRating": "safe",
-   "score": 0.21543543,
-   "languages": [
-    "th",
+    "id",
     "en",
-    "pt-br",
-    "ru",
-    "es-la",
-    "de"
-   ]
-  },
-  {
-   "id": "db4beb41-c7bc-4720-8f20-518c1a4d6200",
-   "title": {
-    "en": "King"
-   },
-   "contentRating": "safe",
-   "score": 0.21407677,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f556bf5c-1035-47b7-8ef2-416f28cb5e91",
-   "title": {
-    "en": "Marriage Royale"
-   },
-   "contentRating": "safe",
-   "score": 0.20829111,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7a9ea386-c960-4752-9035-7c652c1b97af",
-   "title": {
-    "en": "Shinohayu - The Dawn of Age"
-   },
-   "contentRating": "safe",
-   "score": 0.20313494,
-   "languages": [
-    "pt-br",
-    "en",
-    "he"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:25+00:00"
+ "updatedAt": "2023-12-10T18:10:11+00:00"
 }

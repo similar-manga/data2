@@ -11,7 +11,7 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.23570268
+   "score": 0.2362967
   },
   {
    "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
@@ -20,6 +20,34 @@
    },
    "contentRating": "safe",
    "score": 0.22304118
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21610731,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
+   "id": "6f93357b-2a34-4f5b-b90e-4c5ac4af092b",
+   "title": {
+    "en": "Morimori! Bancho!! Kiyohara-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.21464247
   },
   {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
@@ -38,7 +66,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.20975405,
+   "score": 0.20976874,
    "languages": [
     "en",
     "pt-br",
@@ -143,6 +171,18 @@
    ]
   },
   {
+   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+   "title": {
+    "en": "Cyborg 009"
+   },
+   "contentRating": "safe",
+   "score": 0.19441748,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
    "title": {
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
@@ -152,56 +192,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
-   "title": {
-    "en": "Dragon Ball Super"
-   },
-   "contentRating": "safe",
-   "score": 0.1940272,
-   "languages": [
-    "pt-br",
-    "es",
-    "en",
-    "it",
-    "de",
-    "ar",
-    "ms",
-    "pt",
-    "es-la"
-   ]
-  },
-  {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
-   "title": {
-    "en": "Cyborg 009"
-   },
-   "contentRating": "safe",
-   "score": 0.1939788,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
-   "title": {
-    "en": "The Legend of Dororo and Hyakkimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.19361156,
-   "languages": [
-    "ru",
-    "tr",
-    "pt-br",
-    "es-la",
-    "en",
-    "it",
-    "zh-hk",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:00+00:00"
+ "updatedAt": "2023-12-10T18:11:47+00:00"
 }

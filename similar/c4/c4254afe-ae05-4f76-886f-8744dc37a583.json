@@ -47,7 +47,18 @@
     "en": "One Bowl of Soupy Cheese Gyudon"
    },
    "contentRating": "safe",
-   "score": 0.2737115,
+   "score": 0.27297816,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
+   "title": {
+    "en": "Fuyukoshi-chan no No Pan Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.26639342,
    "languages": [
     "en"
    ]
@@ -58,7 +69,7 @@
     "en": "Shihatsu Densha"
    },
    "contentRating": "safe",
-   "score": 0.26750135,
+   "score": 0.26611698,
    "languages": [
     "en",
     "vi",
@@ -67,23 +78,12 @@
    ]
   },
   {
-   "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
-   "title": {
-    "en": "Fuyukoshi-chan no No Pan Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.26709157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
    "title": {
     "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
-   "score": 0.25778136,
+   "score": 0.2578867,
    "languages": [
     "pl",
     "en"
@@ -95,23 +95,10 @@
     "en": "Sono Shukujo wa Guuzou to Naru (Pre-serialized)"
    },
    "contentRating": "safe",
-   "score": 0.25588503,
+   "score": 0.25534505,
    "languages": [
     "en",
     "zh"
-   ]
-  },
-  {
-   "id": "70cbe9e0-b1d2-4b29-8dfa-205123ae758a",
-   "title": {
-    "en": "Ponytail ni Yureru"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "es-la",
-    "en",
-    "vi"
    ]
   },
   {
@@ -122,18 +109,6 @@
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e778fb58-98a7-4fa1-a57a-9a043306c522",
-   "title": {
-    "en": "Lunchtime Accomplice"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -150,58 +125,82 @@
    ]
   },
   {
-   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
+   "id": "1a23bfac-634f-4be0-9085-4197a4e9610a",
    "title": {
-    "en": "The Strongest Legend"
+    "en": "Please Don't Look, Medusa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "pt-br",
+    "id",
+    "fr",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "442650cc-b442-4f24-a504-a3b35af7c57f",
+   "title": {
+    "en": "Nijou Taka Koukou Rojou Kansatsu-bu"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "title": {
+    "en": "The Misadventures of the Small Anime Club"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
     "it",
     "en",
-    "fr"
+    "pt-br",
+    "id"
    ]
   },
   {
-   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
+   "id": "70cbe9e0-b1d2-4b29-8dfa-205123ae758a",
    "title": {
-    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
+    "en": "Ponytail ni Yureru"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "es",
-    "th",
-    "pt-br",
+    "es-la",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "e778fb58-98a7-4fa1-a57a-9a043306c522",
+   "title": {
+    "en": "Lunchtime Accomplice"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "57cf9f71-f547-43d6-8270-91879a65ee6d",
+   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
    "title": {
-    "en": "You Can't Do That, Sensei~"
+    "en": "I want you to ask me first!"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "1be5941a-4a4a-4f89-b48d-2f32624cd7d8",
-   "title": {
-    "en": "Sukini Nattara, Owari"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "ko",
-    "",
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:51+00:00"
+ "updatedAt": "2023-12-10T18:30:10+00:00"
 }

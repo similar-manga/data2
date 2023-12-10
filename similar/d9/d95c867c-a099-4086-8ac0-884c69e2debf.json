@@ -11,7 +11,7 @@
     "en": "The Tale of That Forest"
    },
    "contentRating": "safe",
-   "score": 0.41408515,
+   "score": 0.4034838,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Kurseong South - The Forest of Black Tea"
    },
    "contentRating": "safe",
-   "score": 0.33697623,
+   "score": 0.32896957,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "A Spring Evening in the Forest of Mystery"
    },
    "contentRating": "safe",
-   "score": 0.31691852,
+   "score": 0.31431657,
    "languages": [
     "es",
     "en"
@@ -45,7 +45,18 @@
     "en": "B-Curse"
    },
    "contentRating": "safe",
-   "score": 0.30119726,
+   "score": 0.29473048,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5c84bc62-151c-4b1e-ab69-d85545689093",
+   "title": {
+    "en": "The Seven Deadly Sins: The Rain Forest Invites the Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.26921177,
    "languages": [
     "en"
    ]
@@ -56,26 +67,15 @@
     "en": "Trick And Treat"
    },
    "contentRating": "safe",
-   "score": 0.271797,
+   "score": 0.2679596,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
+   "id": "f1e1b66e-4b36-446b-a9f4-de71637aada8",
    "title": {
-    "en": "Forest Breeding Farm"
-   },
-   "contentRating": "safe",
-   "score": 0.26626152,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
-   "title": {
-    "en": "Mana Sorcerer"
+    "en": "Tribal Gear - Ghost Tail Ostrakon"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -95,9 +95,9 @@
    ]
   },
   {
-   "id": "f1e1b66e-4b36-446b-a9f4-de71637aada8",
+   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
    "title": {
-    "en": "Tribal Gear - Ghost Tail Ostrakon"
+    "en": "Hane no Ichizoku"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -106,9 +106,9 @@
    ]
   },
   {
-   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
+   "id": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
    "title": {
-    "en": "Hane no Ichizoku"
+    "en": "Mana Sorcerer"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -122,7 +122,7 @@
     "en": "FREAKS"
    },
    "contentRating": "safe",
-   "score": 0.24731357,
+   "score": 0.25049657,
    "languages": [
     "en",
     "ru",
@@ -138,22 +138,10 @@
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.24198785,
+   "score": 0.24470507,
    "languages": [
     "it",
     "en"
-   ]
-  },
-  {
-   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
-   "title": {
-    "en": "Monster and Child"
-   },
-   "contentRating": "safe",
-   "score": 0.24129021,
-   "languages": [
-    "en",
-    "de"
    ]
   },
   {
@@ -162,7 +150,7 @@
     "en": "Kioh x Kioh"
    },
    "contentRating": "safe",
-   "score": 0.24115248,
+   "score": 0.24282469,
    "languages": [
     "en",
     "fr"
@@ -174,7 +162,7 @@
     "en": "Rico"
    },
    "contentRating": "safe",
-   "score": 0.23946209,
+   "score": 0.24191268,
    "languages": [
     "en"
    ]
@@ -185,12 +173,24 @@
     "en": "The Time Milk Wound the Spring"
    },
    "contentRating": "safe",
-   "score": 0.23884006,
+   "score": 0.23873116,
    "languages": [
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
+   "title": {
+    "en": "Monster and Child"
+   },
+   "contentRating": "safe",
+   "score": 0.23837835,
+   "languages": [
+    "en",
+    "de"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:44+00:00"
+ "updatedAt": "2023-12-10T18:32:23+00:00"
 }

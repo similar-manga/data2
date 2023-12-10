@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ec482098-7ce2-4bbb-bb1e-ab64873c36ac",
+   "title": {
+    "en": "Awa Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.27265385,
+   "languages": [
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
    "id": "f934048a-9a6a-46be-95be-52017aaa0ebd",
    "title": {
     "en": "Dekiai Oresama Tailor"
    },
    "contentRating": "safe",
-   "score": 0.24820694,
+   "score": 0.24791534,
    "languages": [
     "pt-br"
    ]
@@ -22,10 +34,25 @@
     "en": "Seishun Location"
    },
    "contentRating": "safe",
-   "score": 0.2454923,
+   "score": 0.24483019,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru"
+   },
+   "contentRating": "safe",
+   "score": 0.23685788,
+   "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -34,10 +61,45 @@
     "en": "Ever Share Color"
    },
    "contentRating": "safe",
-   "score": 0.23887143,
+   "score": 0.23636872,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a2213bd4-45b2-4483-8277-69cdac247f0b",
+   "title": {
+    "en": "Yakkai na Hatsukoi wa... Senpai to"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ec355e43-91e3-4997-813e-e02d19da0546",
+   "title": {
+    "en": "Na no ni, Chigira-kun ga Amasugiru."
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d36f5848-aa0e-47cd-a0b3-316251300c3e",
+   "title": {
+    "en": "Futamebore"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -46,10 +108,60 @@
     "en": "Ongaku no Jikan"
    },
    "contentRating": "safe",
-   "score": 0.22904135,
+   "score": 0.22497933,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "aceae7a9-54ba-4fb5-999f-29528a7e4a2a",
+   "title": {
+    "en": "Bokura no Suki wa Warikirenai"
+   },
+   "contentRating": "safe",
+   "score": 0.22494398,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
+   "title": {
+    "en": "Ima, Koi wo Shite Imasu"
+   },
+   "contentRating": "safe",
+   "score": 0.2247411,
+   "languages": [
+    "en",
+    "hu",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0fb8ef3e-794a-4bdd-9d3c-6566d63a785b",
+   "title": {
+    "en": "Girl Crush"
+   },
+   "contentRating": "safe",
+   "score": 0.22345686,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "24ae4813-89cf-488b-b167-cad70596fc5f",
+   "title": {
+    "en": "Sekihan-chan to Sumomo-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.21915375,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -58,152 +170,38 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.21955575,
+   "score": 0.21894091,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
    "title": {
-    "en": "Shinyuu no Mikami-kun"
+    "en": "Shigatsu no Kimi, Spica."
    },
    "contentRating": "safe",
-   "score": 0.21261512,
+   "score": 0.2140673,
    "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "ebfc705c-aa76-47e8-97dc-11ae33f24b2c",
-   "title": {
-    "en": "Momoten Musume"
-   },
-   "contentRating": "safe",
-   "score": 0.2091074,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9a325d49-0ab8-4d34-a2a2-5ac40d717b6a",
-   "title": {
-    "en": "Daikyou Enmusubi"
-   },
-   "contentRating": "safe",
-   "score": 0.20793143,
-   "languages": [
+    "es-la",
     "pl",
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "0e06ab08-a25d-409a-8927-528dc7efb3e0",
+   "id": "d6ce3650-0e8e-462a-bdae-39c7ff6ec3b2",
    "title": {
-    "en": "Tokubetsu ni Naritai"
+    "en": "Kiss de Okoshite."
    },
    "contentRating": "safe",
-   "score": 0.20759898,
-   "languages": [
-    "en",
-    "th",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e86709a7-ae39-498e-beb1-89fd0a84d2ed",
-   "title": {
-    "en": "Hirahira to Gunjou"
-   },
-   "contentRating": "safe",
-   "score": 0.205459,
-   "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "cd6276b1-b283-4bc9-9194-037fda5bb792",
-   "title": {
-    "en": "Hatsukoi Ryuuseigun"
-   },
-   "contentRating": "safe",
-   "score": 0.20354855,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a6672116-804e-40cf-a1d1-379f6508c65c",
-   "title": {
-    "en": "Sakashita-senpai no Koigokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.20063858,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "a6d12bc7-70fc-44d6-9909-d605f3c41c87",
-   "title": {
-    "en": "Ichihime Ninja"
-   },
-   "contentRating": "safe",
-   "score": 0.2002355,
-   "languages": [
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3486eb06-10ba-4634-9b92-9baada32cd6d",
-   "title": {
-    "en": "Shireba Shiruhodo"
-   },
-   "contentRating": "safe",
-   "score": 0.19955035,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "53693fc4-0841-4a38-9d87-2dc032b156ce",
-   "title": {
-    "en": "Mairunovich"
-   },
-   "contentRating": "safe",
-   "score": 0.19851857,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "ac83e7db-67b3-40b0-92c8-b166bf58e9b9",
-   "title": {
-    "en": "Fetish Berry"
-   },
-   "contentRating": "safe",
-   "score": 0.19840482,
+   "score": 0.21364275,
    "languages": [
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:25+00:00"
+ "updatedAt": "2023-12-10T18:12:57+00:00"
 }

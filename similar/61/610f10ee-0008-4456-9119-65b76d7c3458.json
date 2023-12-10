@@ -11,7 +11,7 @@
     "en": "Firescooter☆"
    },
    "contentRating": "safe",
-   "score": 0.21555428,
+   "score": 0.21410574,
    "languages": [
     "en"
    ]
@@ -22,8 +22,31 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.18798406,
+   "score": 0.18648654,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b888c39-dde4-4050-8e84-a927e2891ed7",
+   "title": {
+    "en": "Beast of East"
+   },
+   "contentRating": "safe",
+   "score": 0.18367404,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "892c7a72-f14c-4a15-9be2-f96230893ac7",
+   "title": {
+    "en": "Yuuki Aru Mono yori Chire"
+   },
+   "contentRating": "safe",
+   "score": 0.18367404,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -33,7 +56,7 @@
     "en": "Human Chair"
    },
    "contentRating": "safe",
-   "score": 0.1825052,
+   "score": 0.18186826,
    "languages": [
     "en",
     "pl",
@@ -41,9 +64,20 @@
    ]
   },
   {
-   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
+   "id": "af2b38df-05bf-44b7-b604-3579072c590d",
    "title": {
-    "en": "Kyosuurei"
+    "en": "Vlad Dracula"
+   },
+   "contentRating": "safe",
+   "score": 0.17988577,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "title": {
+    "en": "Uncanny Brains"
    },
    "contentRating": "safe",
    "score": 0.17734045,
@@ -63,9 +97,9 @@
    ]
   },
   {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
    "title": {
-    "en": "Uncanny Brains"
+    "en": "Kyosuurei"
    },
    "contentRating": "safe",
    "score": 0.17734045,
@@ -86,17 +120,6 @@
     "en",
     "uk",
     "id"
-   ]
-  },
-  {
-   "id": "b46e2e33-b8a6-46cc-9504-b3d4c0ebce35",
-   "title": {
-    "en": "A Country Without Humans"
-   },
-   "contentRating": "safe",
-   "score": 0.16333249,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -124,12 +147,23 @@
    ]
   },
   {
+   "id": "b46e2e33-b8a6-46cc-9504-b3d4c0ebce35",
+   "title": {
+    "en": "A Country Without Humans"
+   },
+   "contentRating": "safe",
+   "score": 0.16075197,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3683f667-c23d-4688-b872-0ade276aaafa",
    "title": {
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.16103162,
+   "score": 0.16028577,
    "languages": [
     "en",
     "pt-br",
@@ -151,54 +185,17 @@
    ]
   },
   {
-   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
+   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
    "title": {
-    "en": "Doraemon"
+    "en": "Black Night Parade"
    },
    "contentRating": "safe",
-   "score": 0.15674828,
-   "languages": [
-    "it",
-    "fr",
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
-   "title": {
-    "en": "Instant Death Cold Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.15627481,
+   "score": 0.1569721,
    "languages": [
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
-   "title": {
-    "en": "Vampir"
-   },
-   "contentRating": "safe",
-   "score": 0.15338531,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.15049285,
-   "languages": [
-    "en"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:37+00:00"
+ "updatedAt": "2023-12-10T18:18:51+00:00"
 }

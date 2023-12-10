@@ -11,7 +11,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.19825223,
+   "score": 0.19710608,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.1937054,
+   "score": 0.19281927,
    "languages": [
     "en"
    ]
@@ -40,12 +40,23 @@
    ]
   },
   {
+   "id": "2443c0cf-e3e1-4305-bf57-b5c7f370781b",
+   "title": {
+    "en": "Yuukoku no Moriarty: The Remains"
+   },
+   "contentRating": "safe",
+   "score": 0.17513531,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
    "title": {
     "en": "Anastasia no Shinei Taichou"
    },
    "contentRating": "safe",
-   "score": 0.17589761,
+   "score": 0.17478313,
    "languages": [
     "en",
     "tr"
@@ -57,9 +68,24 @@
     "en": "Steel Septum"
    },
    "contentRating": "safe",
-   "score": 0.17072535,
+   "score": 0.16998649,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
+   "title": {
+    "en": "Persona 5"
+   },
+   "contentRating": "safe",
+   "score": 0.16465327,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "es"
    ]
   },
   {
@@ -68,7 +94,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.1648633,
+   "score": 0.16376403,
    "languages": [
     "id",
     "en",
@@ -89,27 +115,12 @@
    ]
   },
   {
-   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
-   "title": {
-    "en": "Persona 5"
-   },
-   "contentRating": "safe",
-   "score": 0.16465327,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "id",
-    "es"
-   ]
-  },
-  {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
    "title": {
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.16142225,
+   "score": 0.16291831,
    "languages": [
     "en"
    ]
@@ -131,6 +142,34 @@
     "ms",
     "pt",
     "es-la"
+   ]
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.15700401,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7cb01d3b-3633-4286-b357-1d7691313a07",
+   "title": {
+    "en": "A Silent Voice Special Movie Book"
+   },
+   "contentRating": "safe",
+   "score": 0.15397376,
+   "languages": [
+    "en",
+    "fr",
+    "ru",
+    "de",
+    "pt-br",
+    "uk",
+    "tr"
    ]
   },
   {
@@ -175,71 +214,24 @@
    ]
   },
   {
-   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
    "title": {
-    "en": "Mao"
+    "en": "Yuukoku no Moriarty"
    },
    "contentRating": "safe",
-   "score": 0.14926574,
+   "score": 0.14874722,
    "languages": [
     "en",
-    "pt-br",
-    "zh-hk",
-    "ca",
-    "zh",
-    "pl",
     "ru",
-    "es"
-   ]
-  },
-  {
-   "id": "da7e2b0b-72a9-419c-b667-6a02c2c7c771",
-   "title": {
-    "en": "Isekai Kuimetsu no Same"
-   },
-   "contentRating": "safe",
-   "score": 0.14912686,
-   "languages": [
-    "en",
-    "fr",
-    "vi"
-   ]
-  },
-  {
-   "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
-   "title": {
-    "en": "My Hero Academia"
-   },
-   "contentRating": "safe",
-   "score": 0.1478268,
-   "languages": [
-    "pt-br",
-    "it",
-    "ru",
-    "es",
-    "ar",
     "id",
-    "vi",
-    "en",
+    "pt-br",
+    "uk",
+    "ar",
     "tr",
-    "es-la",
-    "de",
-    "fr",
-    "pl",
-    "th"
-   ]
-  },
-  {
-   "id": "c5c6f53d-5e50-42c6-84cf-08f494ef4c05",
-   "title": {
-    "en": "Toilet ga Hanako-san"
-   },
-   "contentRating": "safe",
-   "score": 0.142552,
-   "languages": [
-    "en"
+    "vi",
+    "hu"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:02+00:00"
+ "updatedAt": "2023-12-10T18:35:36+00:00"
 }

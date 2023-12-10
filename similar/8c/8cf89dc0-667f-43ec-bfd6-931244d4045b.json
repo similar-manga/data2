@@ -22,7 +22,7 @@
     "en": "Boy's Summer"
    },
    "contentRating": "safe",
-   "score": 0.23933195,
+   "score": 0.23910545,
    "languages": [
     "en",
     "pt-br"
@@ -46,7 +46,7 @@
     "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.22891943,
+   "score": 0.23466681,
    "languages": [
     "it",
     "en",
@@ -56,12 +56,25 @@
    ]
   },
   {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.22748788,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
    "title": {
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.22746791,
+   "score": 0.22645886,
    "languages": [
     "en"
    ]
@@ -72,7 +85,7 @@
     "en": "The Monster Rec-chan"
    },
    "contentRating": "safe",
-   "score": 0.2257184,
+   "score": 0.22561131,
    "languages": [
     "en",
     "pl",
@@ -80,17 +93,6 @@
     "fr",
     "id",
     "it"
-   ]
-  },
-  {
-   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
-   "title": {
-    "en": "Vampir"
-   },
-   "contentRating": "safe",
-   "score": 0.21896267,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -106,12 +108,35 @@
    ]
   },
   {
+   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
+   "title": {
+    "en": "Vampir"
+   },
+   "contentRating": "safe",
+   "score": 0.2184383,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f92852b-92a0-49b6-b26c-9526d287bd71",
+   "title": {
+    "en": "Yumenashi-sensei no Shinroshidou"
+   },
+   "contentRating": "safe",
+   "score": 0.21740898,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "c4048cf1-f60f-48a9-abbb-27ab5283f8b7",
    "title": {
     "en": "The School Girl's Glasses"
    },
    "contentRating": "safe",
-   "score": 0.21686746,
+   "score": 0.21734469,
    "languages": [
     "en",
     "es-la"
@@ -129,18 +154,17 @@
    ]
   },
   {
-   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
+   "id": "6b804c1a-2d85-4f09-b6ca-8b109e0191e6",
    "title": {
-    "en": "Doraemon"
+    "en": "Hana wa Saku, Shura no Gotoku"
    },
    "contentRating": "safe",
-   "score": 0.21155317,
+   "score": 0.21256705,
    "languages": [
-    "it",
-    "fr",
-    "pt-br",
     "en",
-    "ar"
+    "th",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -169,52 +193,31 @@
    ]
   },
   {
+   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
+   "title": {
+    "en": "Doraemon"
+   },
+   "contentRating": "safe",
+   "score": 0.21155317,
+   "languages": [
+    "it",
+    "fr",
+    "pt-br",
+    "en",
+    "ar"
+   ]
+  },
+  {
    "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
    "title": {
     "en": "The Message in the Rain Shower"
    },
    "contentRating": "safe",
-   "score": 0.20808691,
+   "score": 0.20719413,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "836d92b9-1a55-4293-b72b-c9803f068aad",
-   "title": {
-    "en": "[Oshi no Ko] (Fan Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.20170803,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.19664207,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
-   "title": {
-    "en": "Assassin's Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.19537707,
-   "languages": [
-    "ro",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:30+00:00"
+ "updatedAt": "2023-12-10T18:23:52+00:00"
 }

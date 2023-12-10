@@ -22,7 +22,7 @@
     "en": "Snow Blind"
    },
    "contentRating": "safe",
-   "score": 0.24729772,
+   "score": 0.24728899,
    "languages": [
     "fr",
     "es-la",
@@ -34,12 +34,23 @@
    ]
   },
   {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.2296387,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
    "title": {
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.22352554,
+   "score": 0.22245723,
    "languages": [
     "en"
    ]
@@ -73,7 +84,7 @@
     "en": "Crown Gear"
    },
    "contentRating": "safe",
-   "score": 0.22048046,
+   "score": 0.21982922,
    "languages": [
     "en",
     "hu"
@@ -85,11 +96,23 @@
     "en": "Lost Man (KUJI Shinnosuke)"
    },
    "contentRating": "safe",
-   "score": 0.21513084,
+   "score": 0.21441336,
    "languages": [
     "pt-br",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
+   "title": {
+    "en": "Tokyo Ghoul (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -98,7 +121,7 @@
     "en": "Merboy"
    },
    "contentRating": "safe",
-   "score": 0.2099266,
+   "score": 0.20932351,
    "languages": [
     "en"
    ]
@@ -134,7 +157,7 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.2052014,
+   "score": 0.206685,
    "languages": [
     "en"
    ]
@@ -145,51 +168,32 @@
     "en": "Flower Heart"
    },
    "contentRating": "safe",
-   "score": 0.19824101,
+   "score": 0.1975583,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1bfa9e48-a4c1-40d0-9008-1ac242e42764",
+   "id": "dbc32ea2-a10b-47dc-9533-917370088872",
    "title": {
-    "en": "Ame no Furu Basho"
+    "en": "The Beautiful Ones"
    },
    "contentRating": "safe",
    "score": 0.19166298,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9d85b738-9c29-4518-bccf-0ca6607abf56",
-   "title": {
-    "en": "Green"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "ar",
-    "it",
+    "vi",
+    "es",
+    "fa",
     "fr",
+    "tr",
+    "pt-br",
     "en"
    ]
   },
   {
-   "id": "c81db64f-3561-48db-8799-2376ffe54f49",
+   "id": "02be54ac-b1bc-496c-a496-bcea5356bcb5",
    "title": {
-    "en": "Yugo"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
-   "title": {
-    "en": "Waltzing at Sanzu River"
+    "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
    },
    "contentRating": "safe",
    "score": 0.19166298,
@@ -198,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:51+00:00"
+ "updatedAt": "2023-12-10T18:24:47+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Gekkou -the lunatic-"
    },
    "contentRating": "safe",
-   "score": 0.26186806,
+   "score": 0.26015466,
    "languages": [
     "zh"
    ]
@@ -30,7 +30,15 @@
     "en": "KAFKA: Fukashigi na Jikenbo"
    },
    "contentRating": "safe",
-   "score": 0.24555498
+   "score": 0.24467371
+  },
+  {
+   "id": "6b295e8c-1907-4509-8e91-f0b5a92c4748",
+   "title": {
+    "en": "Kabushikigaisha Kamikakushi"
+   },
+   "contentRating": "safe",
+   "score": 0.23837201
   },
   {
    "id": "b5ddcf1b-4a87-4019-92e4-8d78560f8cf6",
@@ -38,7 +46,18 @@
     "en": "Happy Marionette"
    },
    "contentRating": "safe",
-   "score": 0.23074074
+   "score": 0.22939114
+  },
+  {
+   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "title": {
+    "en": "Kyoukai no End Feel"
+   },
+   "contentRating": "safe",
+   "score": 0.22567973,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "fc5c1033-19d9-41ad-baf6-67bb7142e470",
@@ -46,7 +65,7 @@
     "en": "Shishosei"
    },
    "contentRating": "safe",
-   "score": 0.21707927
+   "score": 0.21602388
   },
   {
    "id": "8207f0c7-e8ee-4537-9413-75c8a2ba2388",
@@ -91,12 +110,12 @@
    ]
   },
   {
-   "id": "b32e1324-9e5c-4f19-b5d8-9421510ebc3b",
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
    "title": {
-    "en": "Kakeru"
+    "en": "Souzoku Tantei"
    },
    "contentRating": "safe",
-   "score": 0.2129535,
+   "score": 0.21337318,
    "languages": [
     "en"
    ]
@@ -107,10 +126,29 @@
     "en": "Green Box"
    },
    "contentRating": "safe",
-   "score": 0.21235901,
+   "score": 0.212651,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b32e1324-9e5c-4f19-b5d8-9421510ebc3b",
+   "title": {
+    "en": "Kakeru"
+   },
+   "contentRating": "safe",
+   "score": 0.21218438,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "979661c8-4ab5-4cde-83ec-cdce52bdc244",
+   "title": {
+    "en": "All Greens"
+   },
+   "contentRating": "safe",
+   "score": 0.20628269
   },
   {
    "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
@@ -118,55 +156,13 @@
     "en": "Akunin no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.20296721,
+   "score": 0.20225634,
    "languages": [
     "es-la",
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "85e5cb4a-e38a-4f5d-99d4-02c283dc27f5",
-   "title": {
-    "en": "Yakoudou Kitan"
-   },
-   "contentRating": "safe",
-   "score": 0.20183825
-  },
-  {
-   "id": "1c265381-d3df-4624-a6a4-24388e336af6",
-   "title": {
-    "en": "Chou Tantei Jikenbo: Rain Code"
-   },
-   "contentRating": "safe",
-   "score": 0.19997272
-  },
-  {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
-   "title": {
-    "en": "Window"
-   },
-   "contentRating": "safe",
-   "score": 0.19344155,
-   "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
-   ]
-  },
-  {
-   "id": "47add7f5-5625-4808-af49-022ed332492a",
-   "title": {
-    "en": "SNS Tantei Ononoki Tsukasa"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:00+00:00"
+ "updatedAt": "2023-12-10T18:33:04+00:00"
 }

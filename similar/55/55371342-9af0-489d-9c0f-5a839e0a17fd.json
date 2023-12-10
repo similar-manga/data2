@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "301c797b-e198-4f4a-88ca-41b677ca1971",
+   "title": {
+    "en": "Cecil no Joou"
+   },
+   "contentRating": "safe",
+   "score": 0.34192047,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c55672b8-4618-4b85-a84b-739a1f3232de",
    "title": {
     "en": "Milk Cake in the Reflection"
    },
    "contentRating": "safe",
-   "score": 0.29360446,
+   "score": 0.29342857,
    "languages": [
     "en",
     "pt-br",
@@ -24,9 +35,20 @@
     "en": "20-byou Date"
    },
    "contentRating": "safe",
-   "score": 0.28946316,
+   "score": 0.28918642,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "d6aaba3a-2bb5-4b5a-a799-e5c3ff48d654",
+   "title": {
+    "en": "Tonari no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
     "en"
    ]
   },
@@ -40,17 +62,6 @@
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "d6aaba3a-2bb5-4b5a-a799-e5c3ff48d654",
-   "title": {
-    "en": "Tonari no Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -70,7 +81,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.27658278,
+   "score": 0.27579987,
    "languages": [
     "en",
     "id"
@@ -82,7 +93,7 @@
     "en": "Black Coffee"
    },
    "contentRating": "safe",
-   "score": 0.27264428,
+   "score": 0.27214697,
    "languages": [
     "en"
    ]
@@ -93,9 +104,24 @@
     "en": "Kiyomizu Iroha Doesn't Know Love"
    },
    "contentRating": "safe",
-   "score": 0.2560898,
+   "score": 0.2559354,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "010a2e68-b80f-4546-a146-54406544b4dc",
+   "title": {
+    "en": "Yoru no Manimani"
+   },
+   "contentRating": "safe",
+   "score": 0.25348428,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -104,19 +130,43 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.24982412,
+   "score": 0.24961144,
    "languages": [
     "it",
     "en"
    ]
   },
   {
-   "id": "42647c77-390c-41d9-a7fc-4cdfd8882050",
+   "id": "993b2f00-27ec-4bec-8154-22cc01520b5c",
    "title": {
-    "en": "Hakobune no Biosophia"
+    "en": "Baby Cinnamon"
    },
    "contentRating": "safe",
-   "score": 0.24701521,
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2208e0fb-aa4a-4683-a13f-ebd03058baa4",
+   "title": {
+    "en": "Love 0¥"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5ae5d282-bd56-4844-ab9a-8eb8e7970b62",
+   "title": {
+    "en": "Fude to Kizu"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
    "languages": [
     "en"
    ]
@@ -146,53 +196,7 @@
     "pt-br",
     "ru"
    ]
-  },
-  {
-   "id": "993b2f00-27ec-4bec-8154-22cc01520b5c",
-   "title": {
-    "en": "Baby Cinnamon"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5ae5d282-bd56-4844-ab9a-8eb8e7970b62",
-   "title": {
-    "en": "Fude to Kizu"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2208e0fb-aa4a-4683-a13f-ebd03058baa4",
-   "title": {
-    "en": "Love 0¥"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
-   "title": {
-    "en": "Ikiru"
-   },
-   "contentRating": "safe",
-   "score": 0.24143644,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:07+00:00"
+ "updatedAt": "2023-12-10T18:17:31+00:00"
 }

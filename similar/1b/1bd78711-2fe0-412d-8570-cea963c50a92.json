@@ -6,26 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
-   "title": {
-    "en": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru"
-   },
-   "contentRating": "safe",
-   "score": 0.3493168,
-   "languages": [
-    "zh-hk",
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "032f800d-d632-4442-8830-d037d616ead4",
    "title": {
     "en": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru"
    },
    "contentRating": "safe",
-   "score": 0.34491163,
+   "score": 0.3545166,
    "languages": [
     "en",
     "vi",
@@ -34,12 +20,26 @@
    ]
   },
   {
+   "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
+   "title": {
+    "en": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru"
+   },
+   "contentRating": "safe",
+   "score": 0.34633437,
+   "languages": [
+    "zh-hk",
+    "pt-br",
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
    "title": {
     "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
    },
    "contentRating": "safe",
-   "score": 0.32335404,
+   "score": 0.31777677,
    "languages": [
     "pt-br",
     "ru",
@@ -52,7 +52,7 @@
     "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
    },
    "contentRating": "safe",
-   "score": 0.32129815,
+   "score": 0.31454778,
    "languages": [
     "en",
     "fr",
@@ -67,26 +67,11 @@
     "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.3150753,
+   "score": 0.30726236,
    "languages": [
     "fr",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
-   "title": {
-    "en": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life"
-   },
-   "contentRating": "safe",
-   "score": 0.30757153,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "id",
-    "ar"
    ]
   },
   {
@@ -95,7 +80,7 @@
     "en": "Shikkaku Mon no Saikyou Kenja - Sekai Saikyou no Kenja ga Sara ni Tsuyoku naru Tame ni Tensei Shimashita"
    },
    "contentRating": "safe",
-   "score": 0.3069496,
+   "score": 0.30245188,
    "languages": [
     "es-la",
     "ru",
@@ -111,7 +96,7 @@
     "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
    },
    "contentRating": "safe",
-   "score": 0.30474088,
+   "score": 0.30147043,
    "languages": [
     "ru",
     "en",
@@ -121,12 +106,43 @@
    ]
   },
   {
+   "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
+   "title": {
+    "en": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life"
+   },
+   "contentRating": "safe",
+   "score": 0.30131313,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "id",
+    "ar"
+   ]
+  },
+  {
+   "id": "f81026af-1b41-465c-932b-291ce4760c00",
+   "title": {
+    "en": "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~"
+   },
+   "contentRating": "safe",
+   "score": 0.29766122,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru",
+    "id",
+    "fr",
+    "th"
+   ]
+  },
+  {
    "id": "4e46a1b9-8783-494d-8e25-c3dd00cc79d4",
    "title": {
     "en": "Kono Sekai de Ore dake ga \"Level Up\" wo Shitteiru"
    },
    "contentRating": "safe",
-   "score": 0.29823506,
+   "score": 0.29518095,
    "languages": [
     "id"
    ]
@@ -137,7 +153,7 @@
     "en": "Monogatari no Kuromaku ni Tensei Shite"
    },
    "contentRating": "safe",
-   "score": 0.2922481,
+   "score": 0.28982815,
    "languages": [
     "pt-br",
     "fr",
@@ -146,12 +162,57 @@
    ]
   },
   {
+   "id": "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4",
+   "title": {
+    "en": "Saikyou no Shokugyou wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu yo?"
+   },
+   "contentRating": "safe",
+   "score": 0.2827662,
+   "languages": [
+    "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
+   "title": {
+    "en": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?"
+   },
+   "contentRating": "safe",
+   "score": 0.28107497,
+   "languages": [
+    "es-la",
+    "en",
+    "it",
+    "zh-hk",
+    "id",
+    "pt-br",
+    "ru",
+    "fr",
+    "tr",
+    "pl"
+   ]
+  },
+  {
+   "id": "fa92d730-0b5f-4fbf-bbc2-189eff43b3d7",
+   "title": {
+    "ja": "Tsuihou no Kenja, Sekai wo Shiru ~Osanajimi Yuusha no Atsuryoku kara Nigete Jiyuu ni Natta Ore~"
+   },
+   "contentRating": "safe",
+   "score": 0.28036967,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "339a6d49-9cc3-4435-98b6-59ddec3a6c0d",
    "title": {
     "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
    },
    "contentRating": "safe",
-   "score": 0.28365237,
+   "score": 0.27994418,
    "languages": [
     "en",
     "es-la"
@@ -163,68 +224,14 @@
     "en": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
    },
    "contentRating": "safe",
-   "score": 0.28355253,
+   "score": 0.27942964,
    "languages": [
     "es-la",
     "en",
     "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
-   "title": {
-    "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.27186507,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "367f0840-48f5-4925-97fd-fb16d16f3c49",
-   "title": {
-    "en": "Manga wo Yomeru Ore ga Sekai Saikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.27156493,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "f30a2fd3-cf2c-4f77-9910-51a908459a82",
-   "title": {
-    "en": "Otome Game no Heroine de Saikyou Survival"
-   },
-   "contentRating": "safe",
-   "score": 0.26985008,
-   "languages": [
-    "en",
-    "ru",
-    "id"
-   ]
-  },
-  {
-   "id": "9b931daa-e64c-405f-9808-124e38b624aa",
-   "title": {
-    "en": "Doryoku Shisugita Sekai Saikyou no Butouka ha, Mahou Sekai wo Yoyuu de Ikinuku."
-   },
-   "contentRating": "safe",
-   "score": 0.26957202,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "es-la",
     "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:49+00:00"
+ "updatedAt": "2023-12-10T18:11:18+00:00"
 }

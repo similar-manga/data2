@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d7166757-6022-45f7-bab3-ceb92b0f5113",
+   "title": {
+    "en": "Awkward Senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.3174196,
+   "languages": [
+    "en",
+    "id",
+    "vi",
+    "pt-br",
+    "tr",
+    "ru"
+   ]
+  },
+  {
    "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
    "title": {
     "en": "Gimmick"
    },
    "contentRating": "safe",
-   "score": 0.3097519,
+   "score": 0.30771193,
    "languages": [
     "tr",
     "pl",
@@ -24,7 +40,7 @@
     "en": "Call My Name"
    },
    "contentRating": "safe",
-   "score": 0.2834518,
+   "score": 0.28261614,
    "languages": [
     "en"
    ]
@@ -35,7 +51,7 @@
     "en": "Sin for Not Swallowing"
    },
    "contentRating": "safe",
-   "score": 0.28069526,
+   "score": 0.27944034,
    "languages": [
     "en"
    ]
@@ -46,22 +62,10 @@
     "en": "Soshite Watashi wa Kaeru ni Koisuru"
    },
    "contentRating": "safe",
-   "score": 0.27856773,
+   "score": 0.27850306,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "2457f89b-5ca8-4cc3-8e7a-06389293228d",
-   "title": {
-    "en": "Koi no Senryaku Management"
-   },
-   "contentRating": "safe",
-   "score": 0.2730266,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -70,7 +74,7 @@
     "en": "Dare mo ga Aisaretagari no"
    },
    "contentRating": "safe",
-   "score": 0.2692738,
+   "score": 0.26780498,
    "languages": [
     "en"
    ]
@@ -117,10 +121,21 @@
     "en": "One Love"
    },
    "contentRating": "safe",
-   "score": 0.25713128,
+   "score": 0.25587356,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "a72acc6e-2510-43c3-92e4-695c215fdd76",
+   "title": {
+    "en": "This Uncle Likes Cute Things"
+   },
+   "contentRating": "safe",
+   "score": 0.25583437,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -129,33 +144,10 @@
     "en": "Boku wa Pet"
    },
    "contentRating": "safe",
-   "score": 0.2551832,
+   "score": 0.25464964,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "9a7e3c10-beff-4a58-8c67-9430f6ff88d4",
-   "title": {
-    "en": "Noroshi wo Agero!"
-   },
-   "contentRating": "safe",
-   "score": 0.25440118,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
-   "title": {
-    "en": "Unmei no Koi ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.25311884,
-   "languages": [
-    "en",
-    "tr"
    ]
   },
   {
@@ -164,9 +156,32 @@
     "en": "Little Sister"
    },
    "contentRating": "safe",
-   "score": 0.252375,
+   "score": 0.25427678,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9a7e3c10-beff-4a58-8c67-9430f6ff88d4",
+   "title": {
+    "en": "Noroshi wo Agero!"
+   },
+   "contentRating": "safe",
+   "score": 0.25308454,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2457f89b-5ca8-4cc3-8e7a-06389293228d",
+   "title": {
+    "en": "Koi no Senryaku Management"
+   },
+   "contentRating": "safe",
+   "score": 0.25223714,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -179,19 +194,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "fa91b39f-e467-4fc4-a320-8ba87d41ee3e",
-   "title": {
-    "en": "Suyasuya Ofuton"
-   },
-   "contentRating": "safe",
-   "score": 0.24694763,
-   "languages": [
-    "fr",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:29+00:00"
+ "updatedAt": "2023-12-10T18:26:30+00:00"
 }

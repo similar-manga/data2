@@ -23,7 +23,7 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.18845578,
+   "score": 0.1883747,
    "languages": [
     "en",
     "ru"
@@ -46,14 +46,36 @@
    ]
   },
   {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.17128263,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
    "title": {
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.17015061,
+   "score": 0.16970347,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
+   "title": {
+    "en": "Koukou Jihen"
+   },
+   "contentRating": "safe",
+   "score": 0.16716866,
+   "languages": [
     "en"
    ]
   },
@@ -78,20 +100,6 @@
    ]
   },
   {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.16150053,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "39565d0c-7263-4101-a739-19c6bd7d7652",
    "title": {
     "en": "Mirrorman 2D"
@@ -110,6 +118,20 @@
    "contentRating": "safe",
    "score": 0.16150053,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+   "title": {
+    "en": "Cosmos"
+   },
+   "contentRating": "safe",
+   "score": 0.16150053,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
     "en"
    ]
   },
@@ -172,22 +194,6 @@
    ]
   },
   {
-   "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
-   "title": {
-    "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
-   },
-   "contentRating": "safe",
-   "score": 0.15681988,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar",
-    "id",
-    "ru",
-    "fr"
-   ]
-  },
-  {
    "id": "398a26c5-04fa-4076-b921-0b0fb44edb10",
    "title": {
     "en": "Gunka no Baltzar"
@@ -198,22 +204,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
-   "title": {
-    "en": "Tank Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.15661457,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:27+00:00"
+ "updatedAt": "2023-12-10T18:18:23+00:00"
 }

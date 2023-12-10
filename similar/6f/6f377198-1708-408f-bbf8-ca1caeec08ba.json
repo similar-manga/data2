@@ -11,7 +11,7 @@
     "en": "One-Armed Amy"
    },
    "contentRating": "safe",
-   "score": 0.36210036,
+   "score": 0.35249016,
    "languages": [
     "fr",
     "hi",
@@ -27,12 +27,35 @@
    ]
   },
   {
+   "id": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+   "title": {
+    "en": "Charm Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.3175169,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "e453264d-564c-40b1-ba0e-03dedc619893",
    "title": {
     "en": "Gen'ei wo Kakeru Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.24203137
+   "score": 0.24188279
+  },
+  {
+   "id": "691557a3-ca52-4e5a-9dc6-5c32c90fd2f0",
+   "title": {
+    "en": "Ami! Nonstop"
+   },
+   "contentRating": "safe",
+   "score": 0.2406086,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "99f2a43e-1330-47c9-ab22-5f48d3561591",
@@ -48,7 +71,7 @@
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.23501082,
+   "score": 0.23404945,
    "languages": [
     "en"
    ]
@@ -59,7 +82,7 @@
     "en": "Hope You're Happy, Lemon"
    },
    "contentRating": "safe",
-   "score": 0.23338227,
+   "score": 0.23262943,
    "languages": [
     "pt-br",
     "vi",
@@ -67,6 +90,43 @@
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "a954b06a-0a5f-4d68-be8d-dab511a37aec",
+   "title": {
+    "en": "Ichigo to Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.22782038
+  },
+  {
+   "id": "9fb75496-2167-41fc-acdc-749b85f0868e",
+   "title": {
+    "en": "Ososhiki ni J-POP"
+   },
+   "contentRating": "safe",
+   "score": 0.22755206
+  },
+  {
+   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "title": {
+    "en": "Wonted"
+   },
+   "contentRating": "safe",
+   "score": 0.22069882,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e832e150-b6d8-496b-b4f9-4404d5e4e4ed",
+   "title": {
+    "en": "Ultra Cute"
+   },
+   "contentRating": "safe",
+   "score": 0.21502244
   },
   {
    "id": "d94943f6-e25f-4a7a-96b2-ebcdcb727e0e",
@@ -80,16 +140,34 @@
    ]
   },
   {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "id": "0b87de7c-7a98-4484-be9c-d0d5f9463a8b",
    "title": {
-    "en": "Wonted"
+    "en": "Attack on Titan: Kansai Dialect Edition"
    },
    "contentRating": "safe",
-   "score": 0.2140661,
+   "score": 0.21501648
+  },
+  {
+   "id": "089c7fb5-aa32-4f5d-89eb-69d90ea0188d",
+   "title": {
+    "en": "Animal Yokochou"
+   },
+   "contentRating": "safe",
+   "score": 0.2128094,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
+   "title": {
+    "en": "Hatenkou Yuugi"
+   },
+   "contentRating": "safe",
+   "score": 0.21123543,
    "languages": [
     "en",
-    "pl",
-    "pt-br"
+    "pl"
    ]
   },
   {
@@ -98,94 +176,12 @@
     "en": "Gingitsune"
    },
    "contentRating": "safe",
-   "score": 0.21183337,
+   "score": 0.211074,
    "languages": [
     "ru",
     "en"
    ]
-  },
-  {
-   "id": "615ef8ea-443c-468f-a748-67bbce02b877",
-   "title": {
-    "en": "Dangerous Strawberry Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.2118053
-  },
-  {
-   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
-   "title": {
-    "en": "Hatenkou Yuugi"
-   },
-   "contentRating": "safe",
-   "score": 0.2116021,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3c954f95-057a-44b6-8279-9e20a1d9fcdc",
-   "title": {
-    "en": "Today I'm Still Alive"
-   },
-   "contentRating": "safe",
-   "score": 0.21090324,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aa76f898-9453-4e89-9875-dc62277d498e",
-   "title": {
-    "en": "Idol Tensei - Oshi Shi ni Tamafu Koto Nakare"
-   },
-   "contentRating": "safe",
-   "score": 0.21079762
-  },
-  {
-   "id": "f9b0618b-59ae-4b28-984d-b1a784452249",
-   "title": {
-    "en": "Happy Epicurean"
-   },
-   "contentRating": "safe",
-   "score": 0.20792086
-  },
-  {
-   "id": "dcb9341c-ecb1-4086-aad8-c62ac7b9ab7e",
-   "title": {
-    "en": "Trace 2.0"
-   },
-   "contentRating": "safe",
-   "score": 0.2068422,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb152617-57bc-4883-86fe-f9a56049a501",
-   "title": {
-    "en": "Gender Bug ga Hassei Shimashita!?"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
-   "title": {
-    "en": "Birthday Presents"
-   },
-   "contentRating": "safe",
-   "score": 0.20407493,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:11+00:00"
+ "updatedAt": "2023-12-10T18:20:22+00:00"
 }

@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7fc83445-07dd-4881-a84e-846456632fb5",
+   "title": {
+    "en": "Katagi Modoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.23598263,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "0fbcdc4e-c990-40e5-a9b0-4d0816206783",
    "title": {
     "en": "Black Lagoon: Eda Initial stage"
    },
    "contentRating": "safe",
-   "score": 0.20495708,
+   "score": 0.20394145,
    "languages": [
     "vi",
     "en",
@@ -29,6 +41,17 @@
    "score": 0.20377788,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.20357706,
+   "languages": [
     "en"
    ]
   },
@@ -55,18 +78,7 @@
     "en": "Onihei Hankachou"
    },
    "contentRating": "safe",
-   "score": 0.19152765,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
-   "title": {
-    "en": "AGAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.1862061,
+   "score": 0.19061048,
    "languages": [
     "en"
    ]
@@ -77,10 +89,21 @@
     "en": "Biohazard: Death Island"
    },
    "contentRating": "safe",
-   "score": 0.18446016,
+   "score": 0.18420592,
    "languages": [
     "uk",
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "title": {
+    "en": "AGAPE"
+   },
+   "contentRating": "safe",
+   "score": 0.18345456,
+   "languages": [
     "en"
    ]
   },
@@ -90,7 +113,7 @@
     "en": "Zange"
    },
    "contentRating": "safe",
-   "score": 0.17817616,
+   "score": 0.17762035,
    "languages": [
     "en"
    ]
@@ -113,9 +136,29 @@
     "en": "Jigoku Mushi o Kuu! Oninbo"
    },
    "contentRating": "safe",
-   "score": 0.17508656,
+   "score": 0.17478,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.17366454,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -124,7 +167,7 @@
     "en": "Serial Killer Isekai ni Oritatsu"
    },
    "contentRating": "safe",
-   "score": 0.17170286,
+   "score": 0.17157985,
    "languages": [
     "es-la",
     "fr",
@@ -135,28 +178,27 @@
    ]
   },
   {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.16894314,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d4a49028-1aa5-4422-ad5d-729b20d0dc4f",
    "title": {
     "en": "Jigoku Kurayami Hana mo Naki"
    },
    "contentRating": "safe",
-   "score": 0.16876139,
+   "score": 0.16675484,
    "languages": [
     "zh",
     "ru",
     "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
-   "title": {
-    "en": "Ryoko's Case File"
-   },
-   "contentRating": "safe",
-   "score": 0.16292977,
-   "languages": [
-    "ru",
     "en"
    ]
   },
@@ -166,7 +208,7 @@
     "en": "Bungou Stray Dogs"
    },
    "contentRating": "safe",
-   "score": 0.1613899,
+   "score": 0.16082071,
    "languages": [
     "tr",
     "pt-br",
@@ -178,45 +220,7 @@
     "ru",
     "uk"
    ]
-  },
-  {
-   "id": "460e98d7-74ce-4c61-9f38-e248be115829",
-   "title": {
-    "en": "Shuuenchi"
-   },
-   "contentRating": "safe",
-   "score": 0.15803184,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84be43e7-07cf-4562-b08b-e5b248f8f4c1",
-   "title": {
-    "en": "DAMiYAN!"
-   },
-   "contentRating": "safe",
-   "score": 0.15654969,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "8d982591-4ebb-4a48-8e6c-aca543661e06",
-   "title": {
-    "en": "Lupin III Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.15560551,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:53+00:00"
+ "updatedAt": "2023-12-10T18:35:12+00:00"
 }

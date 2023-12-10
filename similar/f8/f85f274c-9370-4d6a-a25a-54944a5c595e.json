@@ -6,12 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "04c892b3-a202-46f5-ad11-0d433e712ab8",
+   "title": {
+    "en": "Mikadono Sanshimai wa Angai, Choroi."
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "vi",
+    "id",
+    "ru",
+    "ar"
+   ]
+  },
+  {
    "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
    "title": {
     "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.25358945,
+   "score": 0.2532679,
    "languages": [
     "pl",
     "en",
@@ -24,7 +41,7 @@
     "en": "Ushiro no Shindere-san"
    },
    "contentRating": "safe",
-   "score": 0.24924009,
+   "score": 0.24924651,
    "languages": [
     "en"
    ]
@@ -35,7 +52,7 @@
     "en": "17-sai Kara Yarinaosu Propose"
    },
    "contentRating": "safe",
-   "score": 0.24597996,
+   "score": 0.24412163,
    "languages": [
     "es-la",
     "en"
@@ -47,9 +64,115 @@
     "en": "Sweety"
    },
    "contentRating": "safe",
-   "score": 0.24209826,
+   "score": 0.24134445,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "822b96aa-e578-4fd6-ac64-8289a2218b7a",
+   "title": {
+    "ja": "Saijo no Osewa Takane no Hana-darakena Meimon-kou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.23778056,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f503098e-bab6-4009-8598-6c8750fe9911",
+   "title": {
+    "en": "Itsumo Baka ni shitekuru Bishoujo-tachi to Zetsuen shitara, Jitsu wa Ore no Koto ga Daisuki Datta you da."
+   },
+   "contentRating": "safe",
+   "score": 0.23758712,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "1cebf72e-d402-4ac3-9341-dd9d1d5f5147",
+   "title": {
+    "en": "I Fell in Love, so I Tried Livestreaming."
+   },
+   "contentRating": "safe",
+   "score": 0.23384233,
+   "languages": [
+    "pt-br",
+    "en",
+    "id",
+    "es-la",
+    "fr",
+    "ru",
+    "vi",
+    "es"
+   ]
+  },
+  {
+   "id": "350524c5-c118-44ab-b398-46ec45bf4e44",
+   "title": {
+    "en": "Rin-chan Wants to Flirt"
+   },
+   "contentRating": "safe",
+   "score": 0.23082896,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4080db42-038f-4f6b-a8ab-0ddc71183e1a",
+   "title": {
+    "en": "Kawaii Kouhai ni Iwasaretai"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "8e904201-718a-45f6-ae44-0e6d7f8c4aa3",
+   "title": {
+    "en": "Motokano Sensei wa, Choppiri Ecchi na Katei Houmon de Kimi to no Ai wo Hagukumitai."
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0a4bdf95-dc11-4011-937e-7bdc4dd6e786",
+   "title": {
+    "en": "Tune In to the Midnight Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.2277939,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
+   "title": {
+    "en": "Kimi to Warui Koto ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.22704907,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -58,18 +181,7 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.22577263,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2490c46b-9bb7-4375-ad8e-dda9d616bcd0",
-   "title": {
-    "en": "Stellar Theater"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
+   "score": 0.22558896,
    "languages": [
     "en"
    ]
@@ -87,110 +199,16 @@
    ]
   },
   {
-   "id": "14f36f94-bd10-4101-99d4-73685ca227be",
+   "id": "2490c46b-9bb7-4375-ad8e-dda9d616bcd0",
    "title": {
-    "en": "ToHeart2 ~colorful note~"
+    "en": "Stellar Theater"
    },
    "contentRating": "safe",
-   "score": 0.21569647,
+   "score": 0.22506468,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
-   "title": {
-    "en": "Hana to Harinezumi"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
-   "title": {
-    "en": "Hadaka no Taiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
-   "title": {
-    "en": "Hageruya!"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
-   "title": {
-    "en": "Houkago☆Idol"
-   },
-   "contentRating": "safe",
-   "score": 0.21102278,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "6f563f31-5336-422d-ade8-5bb458b454e5",
-   "title": {
-    "en": "Nina Jalhae!"
-   },
-   "contentRating": "safe",
-   "score": 0.20874421,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2b034a9-a996-41b8-985e-763b9ce40369",
-   "title": {
-    "en": "Youkai no Oisha-san"
-   },
-   "contentRating": "safe",
-   "score": 0.20254786,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca21d6ea-64af-48cd-ad04-22c0174df350",
-   "title": {
-    "en": "Idejuu!"
-   },
-   "contentRating": "safe",
-   "score": 0.19932865,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "67bcffa9-406d-45c8-a34c-e32b0d11c572",
-   "title": {
-    "en": "Boku no Ushiro ni Majo ga Iru"
-   },
-   "contentRating": "safe",
-   "score": 0.19705877,
-   "languages": [
-    "es",
-    "en",
-    "tr",
-    "pt-br",
-    "it",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:01+00:00"
+ "updatedAt": "2023-12-10T18:35:34+00:00"
 }

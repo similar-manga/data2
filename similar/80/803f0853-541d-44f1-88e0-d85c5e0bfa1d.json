@@ -11,7 +11,7 @@
     "en": "Black Butterfly"
    },
    "contentRating": "safe",
-   "score": 0.25303784,
+   "score": 0.25188005,
    "languages": [
     "ru",
     "fr",
@@ -25,7 +25,7 @@
     "en": "Kon no Ki Konoha"
    },
    "contentRating": "safe",
-   "score": 0.2498649,
+   "score": 0.24422783,
    "languages": [
     "fr",
     "id",
@@ -42,7 +42,7 @@
     "en": "Until You Fall Asleep"
    },
    "contentRating": "safe",
-   "score": 0.23744236,
+   "score": 0.23708709,
    "languages": [
     "en",
     "pl"
@@ -100,61 +100,15 @@
    ]
   },
   {
-   "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
+   "id": "69e7f0e4-b43a-410f-b8a3-e36f69510ad4",
    "title": {
-    "en": "After Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.22354196,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "ec30b6d0-d5cb-4752-8c96-f2a0a6d8d25a",
-   "title": {
-    "en": "The Girl's Winter"
+    "en": "Wasureyuki"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
     "en",
-    "pt-br",
     "pl"
-   ]
-  },
-  {
-   "id": "f4b6f018-f266-4f85-bda5-e2a29bbfe781",
-   "title": {
-    "en": "The Value Beyond and Below 0"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ff299f33-10a6-44c7-a58f-0fb99bf5410f",
-   "title": {
-    "en": "Today Is My Death Day"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "24f5e397-d3b1-4cb8-ae46-c46355e945d2",
-   "title": {
-    "en": "Kizuna Baton"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -169,17 +123,41 @@
    ]
   },
   {
-   "id": "aee51d91-96e6-4f54-b954-cc3fda14f8e8",
+   "id": "f4b6f018-f266-4f85-bda5-e2a29bbfe781",
    "title": {
-    "en": "Yandere's Confession"
+    "en": "The Value Beyond and Below 0"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
+   "title": {
+    "en": "Thank You"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "id",
     "en",
-    "th",
-    "vi"
+    "ru",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "ff299f33-10a6-44c7-a58f-0fb99bf5410f",
+   "title": {
+    "en": "Today Is My Death Day"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -198,33 +176,55 @@
    ]
   },
   {
-   "id": "69e7f0e4-b43a-410f-b8a3-e36f69510ad4",
+   "id": "ec30b6d0-d5cb-4752-8c96-f2a0a6d8d25a",
    "title": {
-    "en": "Wasureyuki"
+    "en": "The Girl's Winter"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
     "en",
+    "pt-br",
     "pl"
    ]
   },
   {
-   "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
+   "id": "aee51d91-96e6-4f54-b954-cc3fda14f8e8",
    "title": {
-    "en": "Thank You"
+    "en": "Yandere's Confession"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "pt-br",
-    "id",
+    "it",
     "en",
-    "ru",
-    "fr",
-    "it"
+    "th",
+    "vi"
+   ]
+  },
+  {
+   "id": "24f5e397-d3b1-4cb8-ae46-c46355e945d2",
+   "title": {
+    "en": "Kizuna Baton"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
+   "title": {
+    "en": "After Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.22110963,
+   "languages": [
+    "pl",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:54+00:00"
+ "updatedAt": "2023-12-10T18:22:22+00:00"
 }

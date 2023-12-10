@@ -11,7 +11,18 @@
     "en": "My Lovely Master"
    },
    "contentRating": "safe",
-   "score": 0.3063403,
+   "score": 0.30575868,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "478b5fb8-4998-459f-b496-e5339a43d9c3",
+   "title": {
+    "en": "Love Me, My Knight"
+   },
+   "contentRating": "safe",
+   "score": 0.2996075,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "I Will Be Cinderella"
    },
    "contentRating": "safe",
-   "score": 0.30014795,
+   "score": 0.2994233,
    "languages": [
     "en",
     "fr"
@@ -34,10 +45,21 @@
     "en": "Big Sister VS Big Brother"
    },
    "contentRating": "safe",
-   "score": 0.29786733,
+   "score": 0.2977225,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "6b13e4c6-13c9-49fc-8a6c-410b48631172",
+   "title": {
+    "en": "She's Kids!"
+   },
+   "contentRating": "safe",
+   "score": 0.2973057,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -46,7 +68,7 @@
     "en": "Sweet Bitter Love"
    },
    "contentRating": "safe",
-   "score": 0.29465726,
+   "score": 0.29454827,
    "languages": [
     "en"
    ]
@@ -57,15 +79,15 @@
     "en": "Want You"
    },
    "contentRating": "safe",
-   "score": 0.2937616,
+   "score": 0.29388148,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
+   "id": "36a96911-c57b-404c-b04d-e681cc3c75e9",
    "title": {
-    "en": "Kyou mo Ashita mo."
+    "en": "Ore to Leo"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -85,14 +107,38 @@
    ]
   },
   {
+   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
+   "title": {
+    "en": "Kyou mo Ashita mo."
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
    "title": {
     "en": "Funny Money Rich Girl"
    },
    "contentRating": "safe",
-   "score": 0.2813589,
+   "score": 0.2809401,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4fba7e2c-a859-436a-b743-4075fb46df4a",
+   "title": {
+    "en": "What He Who Doesn't Believe in Fate Says"
+   },
+   "contentRating": "safe",
+   "score": 0.27914655,
+   "languages": [
+    "en",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -101,7 +147,7 @@
     "en": "Hanameguri Awase"
    },
    "contentRating": "safe",
-   "score": 0.2788916,
+   "score": 0.278268,
    "languages": [
     "en"
    ]
@@ -112,79 +158,34 @@
     "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.27493006,
+   "score": 0.27552795,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4dc16407-9fc9-49f7-8a44-aada787df91c",
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
    "title": {
-    "en": "The Guy Who Will Give a Kiss for ₩ 5000"
+    "en": "Good Luck"
    },
    "contentRating": "safe",
-   "score": 0.27191535,
+   "score": 0.27518752,
    "languages": [
     "en",
-    "fr"
+    "pl"
    ]
   },
   {
-   "id": "ec21f48d-f162-4d8c-885c-ecde3aaa2b6e",
+   "id": "9e7c14e0-7bbe-4665-9a32-30d40d3bc992",
    "title": {
-    "en": "Honey Holic"
+    "en": "Masked Temptation"
    },
    "contentRating": "safe",
-   "score": 0.2669977,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf23d8f0-ea3f-4ced-bfd3-a589ba487bb8",
-   "title": {
-    "en": "Oneichan to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.26688895,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "20c47a70-480f-4ad8-a6cf-cbfd1bb46128",
-   "title": {
-    "en": "1 + 1"
-   },
-   "contentRating": "safe",
-   "score": 0.26671648,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7045de54-8630-403c-af4f-7c0ae6b63225",
-   "title": {
-    "en": "Ojousama wa Oyomesama"
-   },
-   "contentRating": "safe",
-   "score": 0.26629117,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
-   "title": {
-    "en": "Say Love"
-   },
-   "contentRating": "safe",
-   "score": 0.26539928,
+   "score": 0.27459225,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:05+00:00"
+ "updatedAt": "2023-12-10T18:25:19+00:00"
 }

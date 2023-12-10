@@ -19,15 +19,7 @@
     "en": "Yattaman"
    },
    "contentRating": "safe",
-   "score": 0.24393338
-  },
-  {
-   "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
-   "title": {
-    "en": "Turn A Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.24150603
+   "score": 0.231468
   },
   {
    "id": "1f30a77b-233b-496d-b465-771ec7bfbad3",
@@ -38,17 +30,33 @@
    "score": 0.22980437
   },
   {
-   "id": "d222fd9d-0647-4d2c-9a69-e8139ac9ab5b",
+   "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
    "title": {
-    "en": "Galactic Drifter Vifam"
+    "en": "Turn A Gundam"
    },
    "contentRating": "safe",
-   "score": 0.22506468
+   "score": 0.22908816
   },
   {
    "id": "4de5f703-7f8c-4e33-a152-86e3da0a4ed6",
    "title": {
     "en": "Brave Saga 2"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "64a5e3d6-2e16-4832-98c0-de0f7bae5b36",
+   "title": {
+    "en": "Neo-Human Casshan"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "14eb36ed-34a3-4bb7-998a-a53e98dfb0db",
+   "title": {
+    "en": "Raideen the Superior"
    },
    "contentRating": "safe",
    "score": 0.22506468
@@ -65,20 +73,12 @@
    ]
   },
   {
-   "id": "14eb36ed-34a3-4bb7-998a-a53e98dfb0db",
+   "id": "d222fd9d-0647-4d2c-9a69-e8139ac9ab5b",
    "title": {
-    "en": "Raideen the Superior"
+    "en": "Galactic Drifter Vifam"
    },
    "contentRating": "safe",
    "score": 0.22506468
-  },
-  {
-   "id": "6ea6a544-b6fd-4ca4-b1ec-b3050ab6527a",
-   "title": {
-    "en": "New Mobile Report Gundam Wing - Endless Waltz"
-   },
-   "contentRating": "safe",
-   "score": 0.22504464
   },
   {
    "id": "bda45fba-5728-4661-86fe-83734522f301",
@@ -86,7 +86,15 @@
     "en": "Mobile Suit Victory Gundam"
    },
    "contentRating": "safe",
-   "score": 0.22476576
+   "score": 0.22307554
+  },
+  {
+   "id": "6ea6a544-b6fd-4ca4-b1ec-b3050ab6527a",
+   "title": {
+    "en": "New Mobile Report Gundam Wing - Endless Waltz"
+   },
+   "contentRating": "safe",
+   "score": 0.22301443
   },
   {
    "id": "469bb043-6afe-4de4-b705-f35586b4be94",
@@ -94,7 +102,23 @@
     "en": "Casshern Sins"
    },
    "contentRating": "safe",
-   "score": 0.22219613
+   "score": 0.21999606
+  },
+  {
+   "id": "c8942eba-5ef3-4f60-b594-7f6517f6bd20",
+   "title": {
+    "en": "The Ideon"
+   },
+   "contentRating": "safe",
+   "score": 0.21815468
+  },
+  {
+   "id": "2eb51dbb-ac18-451e-b186-650723f2d9f1",
+   "title": {
+    "en": "Mobile Suit Gundam F91"
+   },
+   "contentRating": "safe",
+   "score": 0.21387036
   },
   {
    "id": "affdac0b-b91e-40d5-81bd-642ece74bb0d",
@@ -102,40 +126,7 @@
     "en": "Mobile Suit Gundam: Iron-Blooded Orphans"
    },
    "contentRating": "safe",
-   "score": 0.21494734
-  },
-  {
-   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
-   "title": {
-    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.214799,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9bedcc63-63e5-47c9-97ef-12f5303cb0aa",
-   "title": {
-    "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
-   },
-   "contentRating": "safe",
-   "score": 0.21246448,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
-   "title": {
-    "en": "Microman: The Small Giant + Red Powers"
-   },
-   "contentRating": "safe",
-   "score": 0.20990491,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21204703
   },
   {
    "id": "869e7535-3dd3-44cd-8248-36ee08540807",
@@ -146,5 +137,5 @@
    "score": 0.20978172
   }
  ],
- "updatedAt": "2023-12-10T01:01:17+00:00"
+ "updatedAt": "2023-12-10T18:12:35+00:00"
 }

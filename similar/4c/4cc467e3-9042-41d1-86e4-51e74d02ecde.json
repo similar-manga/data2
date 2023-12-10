@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.24125884,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
    "title": {
     "en": "I Love You, Kyouko-san."
    },
    "contentRating": "safe",
-   "score": 0.23416199,
+   "score": 0.23368885,
    "languages": [
     "en",
     "zh-hk",
@@ -19,6 +32,38 @@
     "it",
     "pt-br"
    ]
+  },
+  {
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "title": {
+    "en": "Steins;Gate 0"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8cb6b378-b2ef-487a-8d2a-9347ce3a41fe",
+   "title": {
+    "en": "Back to the Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b83802b7-cb00-4106-9624-362c63185369",
+   "title": {
+    "en": "Genesis Code"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   },
   {
    "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
@@ -51,7 +96,19 @@
     "en": "Special Butterfly"
    },
    "contentRating": "safe",
-   "score": 0.21993026
+   "score": 0.2196008
+  },
+  {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.21277525,
+   "languages": [
+    "en",
+    "ru"
+   ]
   },
   {
    "id": "ca41dac5-08ca-46a6-8b84-ebdec6baa75d",
@@ -59,7 +116,7 @@
     "en": "Akumu no Elevator"
    },
    "contentRating": "safe",
-   "score": 0.21127616,
+   "score": 0.21100707,
    "languages": [
     "en",
     "pl"
@@ -71,26 +128,31 @@
     "en": "Himawari to Tenbin"
    },
    "contentRating": "safe",
-   "score": 0.21087088
+   "score": 0.21067578
   },
   {
-   "id": "65466967-d516-4936-a14b-8016f9dc40bb",
+   "id": "ca8a5998-86f3-4928-9294-9609b24e2878",
    "title": {
-    "en": "Shinikaeri"
+    "en": "Kokubyaku"
    },
    "contentRating": "safe",
-   "score": 0.20876272
+   "score": 0.20865622
   },
   {
-   "id": "eace40fd-0bcd-4016-9475-24459996302b",
+   "id": "23f862c8-89dd-4e92-a5b9-84ee3877668f",
    "title": {
-    "en": "Reinouryokusha Odagiri Kyouko no Uso"
+    "en": "Heibon Ponch"
    },
    "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20865622
+  },
+  {
+   "id": "7feee5e4-cfd8-40ef-a480-7d23b22f6e78",
+   "title": {
+    "en": "Joukyuu Kokumin Slayer"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622
   },
   {
    "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
@@ -104,91 +166,24 @@
    ]
   },
   {
-   "id": "27d58bfa-6467-4204-972c-b23939f3d932",
+   "id": "eace40fd-0bcd-4016-9475-24459996302b",
    "title": {
-    "en": "Tokyo Alternative"
+    "en": "Reinouryokusha Odagiri Kyouko no Uso"
    },
    "contentRating": "safe",
-   "score": 0.20518887
-  },
-  {
-   "id": "1958cb33-4cd4-4d43-afd9-0cc1c33c89ae",
-   "title": {
-    "en": "Ottori Sousa"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1ace7ef5-adfc-460e-af93-876f3ab6fc45",
+   "id": "a69c9825-e791-469b-a4c6-59314b59bba1",
    "title": {
-    "en": "Cherry"
+    "en": "Neighbor X"
    },
    "contentRating": "safe",
-   "score": 0.20001857,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1f166f50-5e4e-4a4a-8863-4ac4e7e5da50",
-   "title": {
-    "en": "The Day I Became My Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.19563663,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "9f03fd07-8012-4032-ad95-31458704b601",
-   "title": {
-    "en": "The Gourmet"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "7837dd7e-946f-4e8b-b210-fc3c10c410a5",
-   "title": {
-    "en": "Jurassic Academy"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "tr",
-    "en",
-    "it",
-    "es-la",
-    "fr",
-    "ca"
-   ]
-  },
-  {
-   "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
-   "title": {
-    "en": "One Pound Gospel"
-   },
-   "contentRating": "safe",
-   "score": 0.19424725,
-   "languages": [
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "68e0fc95-935e-45c2-b3d7-6249f4e8c115",
-   "title": {
-    "en": "Parallel Leap Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.19266425
+   "score": 0.20865622
   }
  ],
- "updatedAt": "2023-12-10T01:02:45+00:00"
+ "updatedAt": "2023-12-10T18:16:37+00:00"
 }

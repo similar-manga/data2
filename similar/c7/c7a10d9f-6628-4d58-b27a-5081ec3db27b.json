@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "33dd7bb4-6209-4002-b8fb-5c739e0f0308",
+   "title": {
+    "en": "Wake Up, Warrior"
+   },
+   "contentRating": "safe",
+   "score": 0.25963363,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr"
+   ]
+  },
+  {
    "id": "c6bbbeca-f4fd-4595-9d4d-4ba31370d08c",
    "title": {
     "en": "Otome Game no Hametsu Flag shika nai Akuyaku Reijou ni Tensei shite shimatta..."
    },
    "contentRating": "safe",
-   "score": 0.25703898,
+   "score": 0.25164178,
    "languages": [
     "es-la",
     "en",
@@ -26,7 +39,7 @@
     "en": "Rekishi ni Nokoru Akujo ni naru zo"
    },
    "contentRating": "safe",
-   "score": 0.25569028,
+   "score": 0.25110528,
    "languages": [
     "en",
     "pt-br",
@@ -40,9 +53,20 @@
     "ko": "The Essence of a Perfect Marriage"
    },
    "contentRating": "safe",
-   "score": 0.24562393,
+   "score": 0.24127278,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "9290f4f1-3860-4bc2-8194-c3a7271fe398",
+   "title": {
+    "en": "A World Without You."
+   },
+   "contentRating": "safe",
+   "score": 0.2296235,
+   "languages": [
     "en"
    ]
   },
@@ -52,10 +76,35 @@
     "en": "The Most Heretical Last Boss Queen Who Will Become the Source of Tragedy Will Devote Herself for the Sake of the People. ~To The Savior~"
    },
    "contentRating": "safe",
-   "score": 0.22587024,
+   "score": 0.22461894,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "09010421-d57c-4fed-b592-c44136d1722e",
+   "title": {
+    "ja": "Onimotsu to Yobareta Tensei Hime wa, Shoukan Yuusha ni Koi wo Shite Seijo ni Narimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.22275198,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5fe1bd9-3e02-40f9-be4f-8852b69cabf7",
+   "title": {
+    "en": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.21743932,
+   "languages": [
+    "pt-br",
+    "en",
+    "th",
+    "fr"
    ]
   },
   {
@@ -64,7 +113,7 @@
     "en": "I Lost the Leash of the Yandere Male Lead"
    },
    "contentRating": "safe",
-   "score": 0.21846578,
+   "score": 0.21440385,
    "languages": [
     "pl",
     "en"
@@ -76,8 +125,20 @@
     "en": "I Became the Younger Sister of a Regretful Obsessive Male Lead (Pre-serialization)"
    },
    "contentRating": "safe",
-   "score": 0.21664762,
+   "score": 0.21162908,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bcb0ccb8-984b-4a85-9895-57b0b3ad30e3",
+   "title": {
+    "en": "Cheat Shoujo ga Boukun Seiou ni Dekiai saresou desu ga, Ima wa Mahou ni Muchuu nan desu!!!"
+   },
+   "contentRating": "safe",
+   "score": 0.20922418,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -87,10 +148,38 @@
     "en": "The Destroyer Fell in Love with Me"
    },
    "contentRating": "safe",
-   "score": 0.21235603,
+   "score": 0.20737852,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "077d838d-8750-4588-abdb-d62f71963287",
+   "title": {
+    "en": "My Little Sister Stole My Fiancé: The Strongest Dragon Favors Me and Plans to Take Over the Kingdom?"
+   },
+   "contentRating": "safe",
+   "score": 0.20454054,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "2ba04256-b285-481e-a864-78fe40525140",
+   "title": {
+    "en": "Hikikomori Reijou wa Hanashi no Wakaru Seijuuban"
+   },
+   "contentRating": "safe",
+   "score": 0.20296538,
+   "languages": [
+    "en",
+    "es",
+    "pt-br"
    ]
   },
   {
@@ -99,22 +188,9 @@
     "en": "The Unintentionally Ideal Adopted Daughter"
    },
    "contentRating": "safe",
-   "score": 0.20707063,
+   "score": 0.20280789,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b82d55e4-01ba-498e-a9aa-715f7ffb5a1d",
-   "title": {
-    "en": "I Was the Male Lead's Ex"
-   },
-   "contentRating": "safe",
-   "score": 0.20578723,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
    ]
   },
   {
@@ -123,81 +199,12 @@
     "ja": "Gomen Asobase, Tonogata-sama! ~100-nin no Ikemen to no Flag wa Subete Orasete Itadakimasu~"
    },
    "contentRating": "safe",
-   "score": 0.20567192,
+   "score": 0.20247284,
    "languages": [
     "en",
     "id"
    ]
-  },
-  {
-   "id": "79cdea01-85bc-40be-b1a2-ff41004cb7bf",
-   "title": {
-    "en": "I Will Become the Hero's Mother"
-   },
-   "contentRating": "safe",
-   "score": 0.19828613,
-   "languages": [
-    "en",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "e66968c0-c42a-44ef-96d0-52047036352f",
-   "title": {
-    "en": "The Daughter of the Marquis, Who Was Executed Under False Accusation, Wants to Spend a Peaceful Life in the Land Protected by God"
-   },
-   "contentRating": "safe",
-   "score": 0.19710858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d3418314-9389-4ffc-a976-13d9ebba6546",
-   "title": {
-    "en": "Falling Flower, Flowing Water"
-   },
-   "contentRating": "safe",
-   "score": 0.19319661,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "579aa2b9-aba3-4f3f-acb7-c50672d64fe7",
-   "title": {
-    "en": "Akuyaku Reijou (Kari) no Funtou"
-   },
-   "contentRating": "safe",
-   "score": 0.18265699,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c01314a2-31e8-4b49-8483-5d57019bd60a",
-   "title": {
-    "en": "Ouji-sama ni Dekiai Sarete Komattemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.18204674,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "71e83c98-0f07-4e6c-ab0e-0c6c786d8895",
-   "title": {
-    "en": "Your God Sent You"
-   },
-   "contentRating": "safe",
-   "score": 0.18092705,
-   "languages": [
-    "en",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:59+00:00"
+ "updatedAt": "2023-12-10T18:30:31+00:00"
 }

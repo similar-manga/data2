@@ -11,7 +11,7 @@
     "en": "A Hundred Wonders of Eight Clouds"
    },
    "contentRating": "suggestive",
-   "score": 0.24664466
+   "score": 0.24681275
   },
   {
    "id": "ec39b606-1f77-4ade-bd65-cfaa0af93e21",
@@ -38,7 +38,7 @@
     "en": "Wokashi Ayakashi Youkaibun: Youkai Hoikuen no Jikenbo"
    },
    "contentRating": "suggestive",
-   "score": 0.21391585
+   "score": 0.21388471
   },
   {
    "id": "3a1c264a-50b3-491b-ac17-a068a99f3aff",
@@ -59,7 +59,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.19837323,
+   "score": 0.19833933,
    "languages": [
     "id",
     "ru",
@@ -68,14 +68,6 @@
     "es-la",
     "it"
    ]
-  },
-  {
-   "id": "0dc16090-a5ac-4ec1-99a9-a02144907b5f",
-   "title": {
-    "en": "Tarot Maiden Kisara"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723
   },
   {
    "id": "3fc01abd-8b7a-428d-a2ac-15a845296e79",
@@ -101,6 +93,22 @@
    ]
   },
   {
+   "id": "0dc16090-a5ac-4ec1-99a9-a02144907b5f",
+   "title": {
+    "en": "Tarot Maiden Kisara"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723
+  },
+  {
+   "id": "14f1d463-5a6b-4d46-9dbe-3790123b4262",
+   "title": {
+    "en": "Mura Matsuri"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723
+  },
+  {
    "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
    "title": {
     "en": "The Time Leaper Yuki"
@@ -112,20 +120,12 @@
    ]
   },
   {
-   "id": "14f1d463-5a6b-4d46-9dbe-3790123b4262",
-   "title": {
-    "en": "Mura Matsuri"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723
-  },
-  {
    "id": "8b493efc-6b1f-4e0c-b714-10fbaf54f7cd",
    "title": {
     "en": "Cu-Cu-Cute!"
    },
    "contentRating": "suggestive",
-   "score": 0.16130838,
+   "score": 0.16064876,
    "languages": [
     "en"
    ]
@@ -136,7 +136,7 @@
     "en": "Fate/Grand Order -Epic of Remnant- Deep Sea Cyber-Paradise, SE.RA.PH"
    },
    "contentRating": "suggestive",
-   "score": 0.15951088,
+   "score": 0.15897882,
    "languages": [
     "uk",
     "id",
@@ -150,18 +150,6 @@
    ]
   },
   {
-   "id": "4f13b907-06f4-4979-ab86-1838f9d0af68",
-   "title": {
-    "en": "Soukai no Eve"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14754222,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "0f9e7737-a30f-488d-94f1-3cd809eff97a",
    "title": {
     "en": "Shinigami! Tahii-chan"
@@ -170,13 +158,24 @@
    "score": 0.14754222
   },
   {
-   "id": "ad20684e-2c56-456f-95fa-bfcaa7f8711c",
+   "id": "a3105c10-95f9-47f2-a904-d69451b0b6b2",
    "title": {
-    "en": "Aruhi, Shoujo wa Kami to Naru"
+    "en": "Miss Marvel's Fine Business"
    },
    "contentRating": "suggestive",
    "score": 0.14754222
+  },
+  {
+   "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
+   "title": {
+    "en": "Rose × Marie"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14754222,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:02+00:00"
+ "updatedAt": "2023-12-10T18:14:41+00:00"
 }

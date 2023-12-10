@@ -11,7 +11,7 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.30013657,
+   "score": 0.2991655,
    "languages": [
     "en",
     "pt-br",
@@ -36,25 +36,13 @@
     "en": "Arcadia of the Moonlight"
    },
    "contentRating": "safe",
-   "score": 0.26439968,
+   "score": 0.26263922,
    "languages": [
     "en",
     "es-la",
     "ar",
     "fr",
     "ru"
-   ]
-  },
-  {
-   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
-   "title": {
-    "en": "How to Colonize Space"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -72,6 +60,18 @@
    ]
   },
   {
+   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
+   "title": {
+    "en": "How to Colonize Space"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "3d95cdef-ee4b-465d-a263-142efde13397",
    "title": {
     "en": "Phoenix 2772"
@@ -80,39 +80,12 @@
    "score": 0.24743582
   },
   {
-   "id": "8234db2f-6912-49e6-a17f-7353c814e69a",
+   "id": "18cdc34b-e11b-471c-bf71-33f1d7044c9a",
    "title": {
-    "en": "Mama Gomen, Watashi Corona ka ni Hosuto Kayotteru"
+    "en": "Verbellum - Kotoba no Sensou"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "71a08ea8-ec56-49f2-85e5-f94247aafbcb",
-   "title": {
-    "en": "Liliwords"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
-   "title": {
-    "en": "Inochi o Odoru"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23328476
   },
   {
    "id": "077805b7-727f-4771-965f-e3ce5aa8ad0a",
@@ -146,6 +119,41 @@
    ]
   },
   {
+   "id": "8234db2f-6912-49e6-a17f-7353c814e69a",
+   "title": {
+    "en": "Mama Gomen, Watashi Corona ka ni Hosuto Kayotteru"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
+   "title": {
+    "en": "Inochi o Odoru"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "71a08ea8-ec56-49f2-85e5-f94247aafbcb",
+   "title": {
+    "en": "Liliwords"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "14dd7ff1-9265-45bf-a048-af2a5fb745c7",
    "title": {
     "en": "Cyborg 009 - Trump Tower-hen"
@@ -155,14 +163,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "18cdc34b-e11b-471c-bf71-33f1d7044c9a",
-   "title": {
-    "en": "Verbellum - Kotoba no Sensou"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
   },
   {
    "id": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
@@ -187,5 +187,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:44+00:00"
+ "updatedAt": "2023-12-10T18:13:51+00:00"
 }

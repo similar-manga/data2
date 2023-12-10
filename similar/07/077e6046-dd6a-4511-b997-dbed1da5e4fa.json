@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.31010044,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.31110057,
+   "score": 0.30705073,
    "languages": [
     "id",
     "en",
@@ -37,8 +48,24 @@
     "en": "Japanese History Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.267326,
+   "score": 0.25594044,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a92bd70d-a716-4e48-90c6-137682742137",
+   "title": {
+    "en": "Ron Kamonohashi: Deranged Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.23699316,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "th",
+    "id",
+    "ru",
     "en"
    ]
   },
@@ -48,7 +75,7 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.2215947,
+   "score": 0.22035365,
    "languages": [
     "pl",
     "en"
@@ -60,7 +87,7 @@
     "en": "Cyber Blue - Lost Number Children"
    },
    "contentRating": "safe",
-   "score": 0.219478,
+   "score": 0.21991268,
    "languages": [
     "en"
    ]
@@ -71,9 +98,27 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.21588741,
+   "score": 0.21572404,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f5795134-9ac6-411f-8526-11d37230a3e9",
+   "title": {
+    "en": "Arrested Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2139851,
+   "languages": [
+    "vi",
+    "pt-br",
+    "ru",
+    "en",
+    "fa",
+    "pl",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -82,7 +127,7 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.20942329,
+   "score": 0.21242836,
    "languages": [
     "en"
    ]
@@ -104,7 +149,7 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.20780429,
+   "score": 0.2066882,
    "languages": [
     "en"
    ]
@@ -115,7 +160,7 @@
     "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
-   "score": 0.20347743,
+   "score": 0.20439276,
    "languages": [
     "en"
    ]
@@ -154,55 +199,16 @@
    ]
   },
   {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
    "title": {
-    "en": "World Trigger"
+    "en": "Strange Moon"
    },
    "contentRating": "safe",
-   "score": 0.19716412,
+   "score": 0.19704615,
    "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "de",
-    "tr"
-   ]
-  },
-  {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
-   "title": {
-    "en": "Mobile Suit Gundam F90 FF"
-   },
-   "contentRating": "safe",
-   "score": 0.19700187,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.19581512,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4de536ea-295a-42a0-a0aa-3ce506b9ea65",
-   "title": {
-    "en": "Mega Man X2: Get Those Special Weapons!"
-   },
-   "contentRating": "safe",
-   "score": 0.19439915,
-   "languages": [
-    "es",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:03+00:00"
+ "updatedAt": "2023-12-10T18:09:09+00:00"
 }

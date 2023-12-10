@@ -11,9 +11,20 @@
     "en": "It called an Element!"
    },
    "contentRating": "safe",
-   "score": 0.25390363,
+   "score": 0.25140798,
    "languages": [
     "de"
+   ]
+  },
+  {
+   "id": "eeadb168-0efc-4f44-b5be-01649a77988f",
+   "title": {
+    "en": "TransFormer"
+   },
+   "contentRating": "safe",
+   "score": 0.22857203,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -22,7 +33,7 @@
     "en": "Kekkai Sensen Beat 3 Peat"
    },
    "contentRating": "safe",
-   "score": 0.22702877,
+   "score": 0.22443998,
    "languages": [
     "en"
    ]
@@ -33,11 +44,30 @@
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.22179234,
+   "score": 0.22138251,
    "languages": [
     "pt-br",
     "id",
     "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "fdb49def-fb27-4702-91b5-3eff5e375559",
+   "title": {
+    "en": "SPOOKMAN"
+   },
+   "contentRating": "safe",
+   "score": 0.2203596
+  },
+  {
+   "id": "e819be3d-3733-4c5d-9c68-6c135d10aa4b",
+   "title": {
+    "en": "Dream Gold"
+   },
+   "contentRating": "safe",
+   "score": 0.21882047,
+   "languages": [
     "en"
    ]
   },
@@ -47,10 +77,18 @@
     "en": "Dffrnt Strks"
    },
    "contentRating": "safe",
-   "score": 0.21504809,
+   "score": 0.21515976,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "af38dc80-91aa-4e2b-8cd3-06a441b5dd25",
+   "title": {
+    "en": "Monster Rancer ~Secret of the Disk Stone~"
+   },
+   "contentRating": "safe",
+   "score": 0.21263096
   },
   {
    "id": "21688024-f53f-4cb2-9c2e-62973f134975",
@@ -58,7 +96,7 @@
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.2125749,
+   "score": 0.2102591,
    "languages": [
     "en",
     "pl"
@@ -70,7 +108,7 @@
     "en": "The Undefeated Newbie"
    },
    "contentRating": "safe",
-   "score": 0.20909785,
+   "score": 0.20830642,
    "languages": [
     "en",
     "es-la"
@@ -82,18 +120,15 @@
     "en": "Banshou Shaonian"
    },
    "contentRating": "safe",
-   "score": 0.20909245
+   "score": 0.20806986
   },
   {
-   "id": "9cf57bfb-c5ba-4bf0-b3af-eec94e8b6a06",
+   "id": "de7202ad-57d6-4849-9f7d-e3db470929de",
    "title": {
-    "en": "The City of Monsters and Treasure"
+    "en": "Yokai Boy + Green Alien + Perfect Crime Machine"
    },
    "contentRating": "safe",
-   "score": 0.206922,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20797575
   },
   {
    "id": "7ac88949-d623-460b-bf0f-b7e8b0355d5f",
@@ -101,71 +136,35 @@
     "en": "Angel 2"
    },
    "contentRating": "safe",
-   "score": 0.20641425
+   "score": 0.2061683
   },
   {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
+   "id": "9cf57bfb-c5ba-4bf0-b3af-eec94e8b6a06",
    "title": {
-    "en": "Night Bird"
+    "en": "The City of Monsters and Treasure"
    },
    "contentRating": "safe",
-   "score": 0.20619653
-  },
-  {
-   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
-   "title": {
-    "en": "Pokémon"
-   },
-   "contentRating": "safe",
-   "score": 0.20243256,
+   "score": 0.2048618,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "18868868-ef41-45c6-b811-9ca8a17c9041",
+   "id": "e8a09c6c-590d-464e-8252-950557c7ead4",
    "title": {
-    "en": "Spray King"
+    "en": "BORDER END"
    },
    "contentRating": "safe",
-   "score": 0.20219736,
-   "languages": [
-    "pl",
-    "en"
-   ]
+   "score": 0.2045758
   },
   {
-   "id": "624ae414-9e8c-4ec8-9f9b-a1f00e7a43f8",
+   "id": "8e9d65c7-25bc-4bbe-b70b-a49776509161",
    "title": {
-    "en": "Kaitou Shounen Jokers"
+    "en": "Journey to the West Hero GO Kuden!"
    },
    "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "eb55436c-ddda-4154-a559-e6b188f051e1",
-   "title": {
-    "en": "Comic Project A-Ko"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "7f1647e4-e27f-4094-9630-8d4699a4bfda",
-   "title": {
-    "en": "Miracle 1/Sora Poko/Sora Dog Toppi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "7f389dc2-2be1-4231-93f6-eba281050fe3",
-   "title": {
-    "en": "Metal Guardian Faust"
-   },
-   "contentRating": "safe",
-   "score": 0.19810194
+   "score": 0.20307639
   }
  ],
- "updatedAt": "2023-12-10T01:09:18+00:00"
+ "updatedAt": "2023-12-10T18:33:47+00:00"
 }

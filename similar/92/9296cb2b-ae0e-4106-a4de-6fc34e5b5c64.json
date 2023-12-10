@@ -11,7 +11,7 @@
     "en": "Rain or Shine"
    },
    "contentRating": "safe",
-   "score": 0.30355966,
+   "score": 0.3122617,
    "languages": [
     "ar",
     "vi",
@@ -25,10 +25,22 @@
     "en": "X'Mas Heart"
    },
    "contentRating": "safe",
-   "score": 0.2679196,
+   "score": 0.26761007,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "b6430950-89f4-4a55-8a05-ab807f0c708f",
+   "title": {
+    "en": "Skin"
+   },
+   "contentRating": "safe",
+   "score": 0.23681422,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -37,21 +49,10 @@
     "en": "Escape"
    },
    "contentRating": "safe",
-   "score": 0.23099704,
+   "score": 0.23044579,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "f78b871c-fb60-4517-83cb-f150f0e8e763",
-   "title": {
-    "en": "Kago no Uchi"
-   },
-   "contentRating": "safe",
-   "score": 0.22524834,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -60,9 +61,31 @@
     "en": "System of Romance"
    },
    "contentRating": "safe",
-   "score": 0.2232556,
+   "score": 0.2270757,
    "languages": [
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "f78b871c-fb60-4517-83cb-f150f0e8e763",
+   "title": {
+    "en": "Kago no Uchi"
+   },
+   "contentRating": "safe",
+   "score": 0.22426078,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7dc80161-f03b-4261-9804-5cbb3c1e8bf3",
+   "title": {
+    "en": "Daikirai no Saki Kara Miteru"
+   },
+   "contentRating": "safe",
+   "score": 0.22187336,
+   "languages": [
     "en"
    ]
   },
@@ -72,7 +95,7 @@
     "en": "Makeru na Otoko Yo"
    },
    "contentRating": "safe",
-   "score": 0.22288668,
+   "score": 0.22145483,
    "languages": [
     "en"
    ]
@@ -83,7 +106,7 @@
     "en": "Okujou no Bai-Bai"
    },
    "contentRating": "safe",
-   "score": 0.22049917,
+   "score": 0.220111,
    "languages": [
     "it",
     "tr",
@@ -99,31 +122,9 @@
     "en": "Kuchizuke wa Uso no Aji"
    },
    "contentRating": "safe",
-   "score": 0.21782535,
+   "score": 0.21918942,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "da783bb7-8b34-4482-98a5-9bb56ddf254d",
-   "title": {
-    "en": "Hitotsu no Hana"
-   },
-   "contentRating": "safe",
-   "score": 0.21686137,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d98f3f81-9aba-4f48-9764-9ef87e540b67",
-   "title": {
-    "en": "Umi no Mukou, Tsuki no Uragawa"
-   },
-   "contentRating": "safe",
-   "score": 0.21655701,
-   "languages": [
     "en"
    ]
   },
@@ -133,7 +134,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.215052,
+   "score": 0.21728718,
    "languages": [
     "en",
     "pl",
@@ -144,12 +145,46 @@
    ]
   },
   {
+   "id": "931642b0-557e-4583-89bd-22cde31a35d8",
+   "title": {
+    "en": "Missile to Plankton"
+   },
+   "contentRating": "safe",
+   "score": 0.21685198,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "da783bb7-8b34-4482-98a5-9bb56ddf254d",
+   "title": {
+    "en": "Hitotsu no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.21578401,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d98f3f81-9aba-4f48-9764-9ef87e540b67",
+   "title": {
+    "en": "Umi no Mukou, Tsuki no Uragawa"
+   },
+   "contentRating": "safe",
+   "score": 0.21543044,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "77cd186d-0a3f-4f24-9cdd-505c1fa9d245",
    "title": {
     "en": "Your Girlfriend Is About to Do Something Super Amazing"
    },
    "contentRating": "safe",
-   "score": 0.21182679,
+   "score": 0.21026376,
    "languages": [
     "en",
     "es-la",
@@ -166,43 +201,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b6ed7d44-cede-40c3-81e0-3198f4101f71",
-   "title": {
-    "en": "Fancy May Kill or Cure"
-   },
-   "contentRating": "safe",
-   "score": 0.2094895,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "a2fcd958-4fc3-4c1d-943b-f16c8d0114b4",
-   "title": {
-    "en": "Aisatsu ga Shitai Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.2094895,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "281bb6a5-0aee-4cb4-ac39-dbdcd7dbe3fc",
-   "title": {
-    "en": "Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.2094895,
-   "languages": [
-    "en",
-    "tr",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:47+00:00"
+ "updatedAt": "2023-12-10T18:24:35+00:00"
 }

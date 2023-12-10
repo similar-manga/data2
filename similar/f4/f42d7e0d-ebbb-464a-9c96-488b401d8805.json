@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4037090d-0c35-4f83-9fcf-cb126d327fa1",
+   "title": {
+    "en": "Monster Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.29168215,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "4f5d5b1e-fa54-46e4-a4be-70f877491c72",
    "title": {
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.26954558,
+   "score": 0.26598388,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "17dbf20a-8430-4af6-be74-9d9a480e932d",
+   "title": {
+    "en": "Sea of Monsters"
+   },
+   "contentRating": "safe",
+   "score": 0.24900092,
    "languages": [
     "en"
    ]
@@ -22,20 +45,21 @@
     "en": "Player"
    },
    "contentRating": "safe",
-   "score": 0.2494268,
+   "score": 0.24858348,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
+   "id": "3c274507-7ac6-407a-b93e-193173a9cca5",
    "title": {
-    "en": "Monster Kingdom"
+    "en": "Yao Kaifan La!"
    },
    "contentRating": "safe",
-   "score": 0.2446089,
+   "score": 0.24754041,
    "languages": [
-    "en"
+    "en",
+    "tr"
    ]
   },
   {
@@ -44,7 +68,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.24435127,
+   "score": 0.24411127,
    "languages": [
     "zh-hk",
     "en",
@@ -64,12 +88,23 @@
    ]
   },
   {
+   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
+   "title": {
+    "en": "Monster Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.2438862,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c875bebb-8d03-4c8e-89dd-a3235f28df62",
    "title": {
     "en": "Rooster Fighter"
    },
    "contentRating": "safe",
-   "score": 0.24016462,
+   "score": 0.23842461,
    "languages": [
     "id",
     "en",
@@ -88,18 +123,7 @@
     "en": "Unemployed Monster Player"
    },
    "contentRating": "safe",
-   "score": 0.23344874,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9cf57bfb-c5ba-4bf0-b3af-eec94e8b6a06",
-   "title": {
-    "en": "The City of Monsters and Treasure"
-   },
-   "contentRating": "safe",
-   "score": 0.22832422,
+   "score": 0.23157652,
    "languages": [
     "en"
    ]
@@ -110,10 +134,21 @@
     "en": "L.A.G"
    },
    "contentRating": "safe",
-   "score": 0.22733837,
+   "score": 0.22708389,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "9cf57bfb-c5ba-4bf0-b3af-eec94e8b6a06",
+   "title": {
+    "en": "The City of Monsters and Treasure"
+   },
+   "contentRating": "safe",
+   "score": 0.22659856,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -122,11 +157,24 @@
     "en": "Knight Run"
    },
    "contentRating": "safe",
-   "score": 0.2259239,
+   "score": 0.22528766,
    "languages": [
     "en",
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "16a74443-06a2-4fb7-8996-2c45dd829ea5",
+   "title": {
+    "en": "Beginning of the Human Age"
+   },
+   "contentRating": "safe",
+   "score": 0.22503822,
+   "languages": [
+    "es",
+    "en",
+    "id"
    ]
   },
   {
@@ -135,21 +183,21 @@
     "en": "Borderline Bestial Corpse"
    },
    "contentRating": "safe",
-   "score": 0.22477889,
+   "score": 0.22442631,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fbf2a6a4-3798-4a50-b720-6b9d94f7210d",
+   "id": "75f0eea5-1b99-4f96-9f4b-2e6814bb9b8c",
    "title": {
-    "en": "Omnipotent Warrior"
+    "en": "I Kill Zombies in Wasteland"
    },
    "contentRating": "safe",
-   "score": 0.2220642,
+   "score": 0.22336106,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -158,58 +206,11 @@
     "en": "Strange Invasion"
    },
    "contentRating": "safe",
-   "score": 0.22187017,
+   "score": 0.22159521,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
-   "title": {
-    "en": "Tokyo Doragon Naito"
-   },
-   "contentRating": "safe",
-   "score": 0.22100851,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "eb654743-9b3d-4af5-9c8c-1e4882bc76dd",
-   "title": {
-    "en": "Spider Silk"
-   },
-   "contentRating": "safe",
-   "score": 0.21933956,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
-   "title": {
-    "en": "The Game Invades the Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.21695042,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6478cd0d-0756-4dee-a21f-ceb404f762ba",
-   "title": {
-    "en": "CANDALA"
-   },
-   "contentRating": "safe",
-   "score": 0.21603717,
-   "languages": [
-    "ru",
-    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:51+00:00"
+ "updatedAt": "2023-12-10T18:35:08+00:00"
 }

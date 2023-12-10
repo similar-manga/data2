@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7bdf8349-1523-43b0-861a-1eff0c3d32ed",
-   "title": {
-    "en": "Kiss Tokidoki Kiss Tokoro ni Yori Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.33579734,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d2369396-777a-4339-a948-5199c4685ec7",
    "title": {
     "en": "Ever Share Color"
    },
    "contentRating": "safe",
-   "score": 0.33124906,
+   "score": 0.33055207,
    "languages": [
     "en",
     "pt-br"
@@ -34,20 +23,7 @@
     "en": "Kigi no Yukue"
    },
    "contentRating": "safe",
-   "score": 0.32074225
-  },
-  {
-   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
-   "title": {
-    "en": "Candy Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.31938386,
-   "languages": [
-    "fr",
-    "en",
-    "tr"
-   ]
+   "score": 0.3195562
   },
   {
    "id": "b88ac7a0-ae64-4cb2-819a-c762ce6d53a9",
@@ -55,7 +31,7 @@
     "en": "Kimi to Kiss Shite Sono Ato de"
    },
    "contentRating": "safe",
-   "score": 0.3119756,
+   "score": 0.31071207,
    "languages": [
     "it"
    ]
@@ -66,9 +42,33 @@
     "en": "Ongaku no Jikan"
    },
    "contentRating": "safe",
-   "score": 0.3086227,
+   "score": 0.30742678,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
+   "title": {
+    "en": "Candy Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.30653682,
+   "languages": [
+    "fr",
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
+   "title": {
+    "en": "Ouji to Hime to Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.30219156,
+   "languages": [
     "en"
    ]
   },
@@ -78,22 +78,11 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.3039114,
+   "score": 0.30085662,
    "languages": [
     "en",
     "pl",
     "pt-br"
-   ]
-  },
-  {
-   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
-   "title": {
-    "en": "Ouji to Hime to Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.30306068,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -102,7 +91,7 @@
     "en": "Ningyo ga Fuchi"
    },
    "contentRating": "safe",
-   "score": 0.30097574,
+   "score": 0.3006079,
    "languages": [
     "en",
     "hu",
@@ -111,12 +100,24 @@
    ]
   },
   {
+   "id": "2b7db5be-b961-4a59-8d27-2e83aad86695",
+   "title": {
+    "en": "Te to Te to Namida"
+   },
+   "contentRating": "safe",
+   "score": 0.2997902,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "e881f73c-0266-4d21-8e1e-04369f2ce71a",
    "title": {
     "en": "Gikyoudai"
    },
    "contentRating": "safe",
-   "score": 0.29895717
+   "score": 0.29848215
   },
   {
    "id": "840a0607-1f77-4e04-baaf-c0e1dee4e3bb",
@@ -124,18 +125,7 @@
     "en": "Bara to Zirconia"
    },
    "contentRating": "safe",
-   "score": 0.2980276,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "62f4ba4d-3f8a-4441-9f2e-939887455caa",
-   "title": {
-    "en": "Koisuru Futari no Mitsu na Yarikata"
-   },
-   "contentRating": "safe",
-   "score": 0.29705316,
+   "score": 0.29710492,
    "languages": [
     "en"
    ]
@@ -146,7 +136,18 @@
     "en": "Kimi Ochi"
    },
    "contentRating": "safe",
-   "score": 0.29698908,
+   "score": 0.29683298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "62f4ba4d-3f8a-4441-9f2e-939887455caa",
+   "title": {
+    "en": "Koisuru Futari no Mitsu na Yarikata"
+   },
+   "contentRating": "safe",
+   "score": 0.29681298,
    "languages": [
     "en"
    ]
@@ -157,7 +158,7 @@
     "en": "2 Kaime no Hajimete no Koi"
    },
    "contentRating": "safe",
-   "score": 0.29680857,
+   "score": 0.29622597,
    "languages": [
     "pl",
     "pt-br"
@@ -169,7 +170,7 @@
     "en": "Tsuyogari"
    },
    "contentRating": "safe",
-   "score": 0.29489663,
+   "score": 0.29477268,
    "languages": [
     "en",
     "pl"
@@ -181,12 +182,12 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.29480737,
+   "score": 0.29448685,
    "languages": [
     "en",
     "bg"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:17+00:00"
+ "updatedAt": "2023-12-10T18:31:15+00:00"
 }

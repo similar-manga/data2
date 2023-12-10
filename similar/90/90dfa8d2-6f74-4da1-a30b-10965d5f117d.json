@@ -6,27 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "328442dc-4731-4189-9dce-2621bca1a3c6",
-   "title": {
-    "en": "Star Children (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.25073868,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
    "title": {
     "en": "Joreishi Rentaro no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.25028163,
+   "score": 0.24881506,
    "languages": [
     "it",
     "pt-br",
     "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "328442dc-4731-4189-9dce-2621bca1a3c6",
+   "title": {
+    "en": "Star Children (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.24846192,
+   "languages": [
     "en"
    ]
   },
@@ -36,7 +36,7 @@
     "en": "Doragagaga"
    },
    "contentRating": "safe",
-   "score": 0.23772825,
+   "score": 0.23767282,
    "languages": [
     "ru",
     "en"
@@ -48,7 +48,7 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.23698576,
+   "score": 0.23654155,
    "languages": [
     "fr",
     "en",
@@ -62,7 +62,7 @@
     "en": "Rad and Rinpu"
    },
    "contentRating": "safe",
-   "score": 0.23671734,
+   "score": 0.23638661,
    "languages": [
     "pt-br",
     "pl",
@@ -75,9 +75,25 @@
     "en": "Star Ocean - Blue Sphere"
    },
    "contentRating": "safe",
-   "score": 0.23659341,
+   "score": 0.23628344,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6a769300-091e-49ab-8cd3-cc32c360ecc0",
+   "title": {
+    "en": "Isekai Demo Bunan ni Ikitai Shoukougun"
+   },
+   "contentRating": "safe",
+   "score": 0.23484796,
+   "languages": [
+    "en",
+    "es-la",
+    "id",
+    "ru",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -86,10 +102,40 @@
     "en": "SKY CLAW"
    },
    "contentRating": "safe",
-   "score": 0.23534709,
+   "score": 0.23436002,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "c30266a7-cc5c-48fa-b414-689d8c5cd22c",
+   "title": {
+    "en": "Beet the Vandel Buster"
+   },
+   "contentRating": "safe",
+   "score": 0.2310954,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "399f4c2b-8405-4c98-ad48-0b645afe5769",
+   "title": {
+    "en": "DEAD ROCK"
+   },
+   "contentRating": "safe",
+   "score": 0.23052566,
+   "languages": [
+    "it",
+    "fr",
+    "pt-br",
+    "de",
+    "ru",
+    "en",
+    "vi",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -98,9 +144,35 @@
     "en": "Zenei no Archer"
    },
    "contentRating": "safe",
-   "score": 0.23095414,
+   "score": 0.23048678,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.22998862,
+   "languages": [
+    "en",
+    "ar",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
+   "title": {
+    "en": "Zhan Long 2"
+   },
+   "contentRating": "safe",
+   "score": 0.22952609,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -110,48 +182,10 @@
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.22922556,
+   "score": 0.22894481,
    "languages": [
     "it",
     "en"
-   ]
-  },
-  {
-   "id": "1f68439a-24eb-4baa-b48f-184a2f5f07de",
-   "title": {
-    "en": "Ganbare Chrono-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "fr",
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
-   "title": {
-    "en": "Monsters"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
-   "title": {
-    "en": "Naruto: Road to Ninja"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en",
-    "ru",
-    "ro"
    ]
   },
   {
@@ -167,40 +201,18 @@
    ]
   },
   {
-   "id": "5b585d5a-95ce-427e-bd02-054cab289bdc",
+   "id": "1f68439a-24eb-4baa-b48f-184a2f5f07de",
    "title": {
-    "en": "Desert Tribe"
+    "en": "Ganbare Chrono-kun"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37159b31-b6fd-4a4d-9db1-3c9905b740e7",
-   "title": {
-    "en": "The Legend of Zelda Gaiden: Quark and the Fairy Queen"
-   },
-   "contentRating": "safe",
-   "score": 0.22587697,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
-   "title": {
-    "en": "Dragon Ball Minus"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "it",
+    "fr",
     "en",
-    "pt"
+    "de"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:42+00:00"
+ "updatedAt": "2023-12-10T18:24:23+00:00"
 }

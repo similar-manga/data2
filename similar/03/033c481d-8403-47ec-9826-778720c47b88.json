@@ -6,12 +6,32 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b71eb333-f282-4dfc-86c0-8bbdedd0ad47",
+   "title": {
+    "en": "Sangekitou no Mowgli"
+   },
+   "contentRating": "safe",
+   "score": 0.24137144
+  },
+  {
+   "id": "f6969e87-1f94-47cd-91ba-7ebe608303bf",
+   "title": {
+    "en": "Good Hunting"
+   },
+   "contentRating": "safe",
+   "score": 0.2326351,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
    "title": {
     "en": "Pilot Ace"
    },
    "contentRating": "safe",
-   "score": 0.23152314
+   "score": 0.23145168
   },
   {
    "id": "0a410b5c-5e05-4659-9024-e96caa1d3b46",
@@ -19,7 +39,7 @@
     "en": "Gekkou -the lunatic-"
    },
    "contentRating": "safe",
-   "score": 0.23141378,
+   "score": 0.23099527,
    "languages": [
     "zh"
    ]
@@ -30,7 +50,7 @@
     "en": "E.D.D - Eliminate Dangerous Doctors"
    },
    "contentRating": "safe",
-   "score": 0.22960176,
+   "score": 0.22977053,
    "languages": [
     "en",
     "pl"
@@ -42,15 +62,7 @@
     "en": "Ravenend no Hitobito"
    },
    "contentRating": "safe",
-   "score": 0.22944453
-  },
-  {
-   "id": "b5ddcf1b-4a87-4019-92e4-8d78560f8cf6",
-   "title": {
-    "en": "Happy Marionette"
-   },
-   "contentRating": "safe",
-   "score": 0.22291346
+   "score": 0.22902606
   },
   {
    "id": "5430b450-ae25-4201-93ea-b100eb40e5a8",
@@ -58,7 +70,34 @@
     "en": "DeCreate"
    },
    "contentRating": "safe",
-   "score": 0.2226894
+   "score": 0.22240712
+  },
+  {
+   "id": "b5ddcf1b-4a87-4019-92e4-8d78560f8cf6",
+   "title": {
+    "en": "Happy Marionette"
+   },
+   "contentRating": "safe",
+   "score": 0.22237274
+  },
+  {
+   "id": "6c56ecf3-3256-4ada-9ed4-1271f961a155",
+   "title": {
+    "en": "Weiss Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.22145356,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "79b5a55c-2b7f-4b0a-b1ee-4a943441efa0",
+   "title": {
+    "en": "Explorer Woman Ray"
+   },
+   "contentRating": "safe",
+   "score": 0.220474
   },
   {
    "id": "b0ed1f30-7258-4cbc-ac80-01826967ab8d",
@@ -66,7 +105,15 @@
     "en": "Roar: Naraku no Heroine"
    },
    "contentRating": "safe",
-   "score": 0.21912567
+   "score": 0.21880202
+  },
+  {
+   "id": "83e95476-f38c-4f53-96f5-d1ff8015cacd",
+   "title": {
+    "en": "Danzai Lock"
+   },
+   "contentRating": "safe",
+   "score": 0.21646015
   },
   {
    "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
@@ -74,18 +121,34 @@
     "en": "Chaos Rings"
    },
    "contentRating": "safe",
-   "score": 0.21592602,
+   "score": 0.21513112,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "143cf24d-b940-4819-b0c2-5c7e16339be2",
+   "id": "b14dc351-d47d-4fff-9833-baade8458563",
    "title": {
-    "en": "Phantom Thief of the 20th Century"
+    "en": "Hotel Inhumans"
    },
    "contentRating": "safe",
-   "score": 0.21428573
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dba7fa3a-2d13-4e07-b504-2dce265a1387",
+   "title": {
+    "en": "BATMAN and THE JUSTICE LEAGUE"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "fr"
+   ]
   },
   {
    "id": "aa59de3d-54dc-4ec2-a5eb-645284dbd23f",
@@ -97,64 +160,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "21d42cc2-b14b-4687-b925-731ffbebb726",
-   "title": {
-    "en": "Gourmet House"
-   },
-   "contentRating": "safe",
-   "score": 0.21290678
-  },
-  {
-   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
-   "title": {
-    "en": "The Thief of Shanghai"
-   },
-   "contentRating": "safe",
-   "score": 0.21229583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c265381-d3df-4624-a6a4-24388e336af6",
-   "title": {
-    "en": "Chou Tantei Jikenbo: Rain Code"
-   },
-   "contentRating": "safe",
-   "score": 0.21211147
-  },
-  {
-   "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
-   "title": {
-    "en": "Omega Tribe Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.21209764,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69fa1b7b-ecbe-4ebc-a9a4-20d2b5c55262",
-   "title": {
-    "en": "In the Bleak Midwinter"
-   },
-   "contentRating": "safe",
-   "score": 0.20549233,
-   "languages": [
-    "es"
-   ]
-  },
-  {
-   "id": "36c7cc1d-96cf-4e70-93e5-b36b1f9da72c",
-   "title": {
-    "en": "Dorei Yuugi Didi"
-   },
-   "contentRating": "safe",
-   "score": 0.20346175
   }
  ],
- "updatedAt": "2023-12-10T00:59:53+00:00"
+ "updatedAt": "2023-12-10T18:08:42+00:00"
 }

@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "28ee14d0-52ab-402a-a86b-939e6a575574",
+   "title": {
+    "en": "Toppu GP"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "4ef96c2c-25e5-4e1a-bb21-90a36c25096a",
    "title": {
     "en": "Age!"
@@ -28,25 +41,97 @@
    ]
   },
   {
+   "id": "2129ddc8-210b-451b-99f8-fa3e7ff1e018",
+   "title": {
+    "en": "Winning Pass"
+   },
+   "contentRating": "safe",
+   "score": 0.26546752,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "029cec9b-fd34-4efd-a2ac-7bd2891342ce",
    "title": {
     "en": "Go!! Southern Ice Hockey Club"
    },
    "contentRating": "safe",
-   "score": 0.24879023,
+   "score": 0.2482142,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
+   "id": "10930fe6-9cb0-4629-a0fb-cf9c231a67c3",
    "title": {
-    "en": "Sasameke"
+    "en": "B-Trash!!"
+   },
+   "contentRating": "safe",
+   "score": 0.24598567,
+   "languages": [
+    "fr",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "7d6b956b-608e-4a07-9291-2ecdf5ce7051",
+   "title": {
+    "en": "Ashigaru"
+   },
+   "contentRating": "safe",
+   "score": 0.241005,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "856b0c41-b7b5-4804-b01e-5faa7966410e",
+   "title": {
+    "en": "Mr.CB"
+   },
+   "contentRating": "safe",
+   "score": 0.23408933,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "f02c96f1-801c-4436-b7e2-d4e5f8227bf0",
+   "title": {
+    "en": "Start!! Inazuma Eleven 3!"
+   },
+   "contentRating": "safe",
+   "score": 0.23342972,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "743be8be-62ba-4bea-9ebe-bd48a509a576",
+   "title": {
+    "en": "Long Riders!"
    },
    "contentRating": "safe",
    "score": 0.23148328,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9e4fcb47-5f7d-4751-a84d-abd2d5590e30",
+   "title": {
+    "en": "Yowamushi Pedal - Spare Bike"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -66,14 +151,37 @@
    ]
   },
   {
-   "id": "71d07162-16dd-4178-a7ef-003d66360574",
+   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
    "title": {
-    "en": "Angel Voice"
+    "en": "Sasameke"
    },
    "contentRating": "safe",
-   "score": 0.22637998,
+   "score": 0.23148328,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "606c6a60-6415-4746-a5f7-e0b3220a9564",
+   "title": {
+    "en": "Tomato Squash"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9d8ec487-faef-4a92-8765-2ce1841de60c",
+   "title": {
+    "en": "Beyblade Burst"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -86,132 +194,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
-   "title": {
-    "en": "I'm Teppei"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.19915186,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "38f3c5c2-2646-4a3f-88ee-4d92334c539a",
-   "title": {
-    "en": "Go Go! Pudding Empire"
-   },
-   "contentRating": "safe",
-   "score": 0.18662548,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0f270228-7c48-4414-b040-e35a2194804a",
-   "title": {
-    "en": "Welcome to the Competitive Dance Club"
-   },
-   "contentRating": "safe",
-   "score": 0.18348506,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
-   "title": {
-    "en": "Kono Oto Tomare!"
-   },
-   "contentRating": "safe",
-   "score": 0.1806333,
-   "languages": [
-    "fr",
-    "vi",
-    "pt-br",
-    "en",
-    "id",
-    "es-la",
-    "ar",
-    "it",
-    "hu"
-   ]
-  },
-  {
-   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
-   "title": {
-    "en": "Hajime no Ippo"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "en",
-    "ar",
-    "fr",
-    "es",
-    "pt-br",
-    "ru",
-    "pl"
-   ]
-  },
-  {
-   "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
-   "title": {
-    "en": "Hyoujou Fubu"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
-   "title": {
-    "en": "Welcome to the Ballroom"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es",
-    "es-la",
-    "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "d13b7333-b115-4285-979d-663714f8b83d",
-   "title": {
-    "en": "Nisekyuu!!"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:06+00:00"
+ "updatedAt": "2023-12-10T18:20:11+00:00"
 }

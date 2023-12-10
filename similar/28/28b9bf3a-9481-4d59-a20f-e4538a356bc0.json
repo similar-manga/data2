@@ -11,7 +11,7 @@
     "en": "Kingdom Hearts III"
    },
    "contentRating": "safe",
-   "score": 0.5202929,
+   "score": 0.5256266,
    "languages": [
     "it",
     "es-la",
@@ -25,7 +25,7 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.39335537,
+   "score": 0.39384314,
    "languages": [
     "en"
    ]
@@ -36,7 +36,7 @@
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.2766325,
+   "score": 0.27479947,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.24815424,
+   "score": 0.24606909,
    "languages": [
     "en"
    ]
@@ -58,27 +58,12 @@
     "en": "Ahiru no Sora"
    },
    "contentRating": "safe",
-   "score": 0.24328019,
+   "score": 0.24255945,
    "languages": [
     "en",
     "tl",
     "pt-br",
     "es-la"
-   ]
-  },
-  {
-   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
-   "title": {
-    "en": "Persona 5"
-   },
-   "contentRating": "safe",
-   "score": 0.23762791,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "id",
-    "es"
    ]
   },
   {
@@ -93,12 +78,55 @@
    ]
   },
   {
+   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
+   "title": {
+    "en": "Persona 5"
+   },
+   "contentRating": "safe",
+   "score": 0.23593958,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "es"
+   ]
+  },
+  {
+   "id": "c1dbd3fd-2725-4f42-ac88-3f78fba6e524",
+   "title": {
+    "en": "Amefurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.22998765,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.22908106,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
    "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
    "title": {
     "en": "Monster Bar"
    },
    "contentRating": "safe",
-   "score": 0.22296908,
+   "score": 0.2214379,
    "languages": [
     "en",
     "pt-br"
@@ -110,7 +138,7 @@
     "en": "Gyakushuu no Dragon Rider"
    },
    "contentRating": "safe",
-   "score": 0.21780589,
+   "score": 0.21683042,
    "languages": [
     "en"
    ]
@@ -121,7 +149,7 @@
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.21535495,
+   "score": 0.21501511,
    "languages": [
     "pl",
     "en"
@@ -133,7 +161,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.21529917,
+   "score": 0.21490301,
    "languages": [
     "pl",
     "en",
@@ -155,7 +183,7 @@
     "en": "Kintoki"
    },
    "contentRating": "safe",
-   "score": 0.21465757,
+   "score": 0.21398395,
    "languages": [
     "en",
     "pt-br",
@@ -169,46 +197,34 @@
     "en": "The Chronicle of Seven (webcomic version)"
    },
    "contentRating": "safe",
-   "score": 0.21410021,
+   "score": 0.21296881,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f27db797-3d16-40a0-89c6-2741391db7ba",
+   "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
    "title": {
-    "en": "NEO: The World Ends with You"
+    "en": "The Seven Deadly Sins: Four Knights of the Apocalypse"
    },
    "contentRating": "safe",
-   "score": 0.21369839,
+   "score": 0.21287787,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23a29209-2483-4510-af38-46d67fc0d645",
-   "title": {
-    "en": "Kid Icarus: Uprising"
-   },
-   "contentRating": "safe",
-   "score": 0.21178553,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "16d99766-e3ce-48dd-ae64-f46b482476ab",
-   "title": {
-    "en": "The King of Special Forces With a Negative Emotional Quotient Was Reborn on Campus but Was Unexpectedly Welcomed by Girls?!"
-   },
-   "contentRating": "safe",
-   "score": 0.2100996,
-   "languages": [
-    "en",
+    "id",
+    "ru",
     "pt-br",
-    "fr"
+    "pl",
+    "fr",
+    "en",
+    "tr",
+    "es-la",
+    "ar",
+    "es",
+    "mn",
+    "it",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:19+00:00"
+ "updatedAt": "2023-12-10T18:12:41+00:00"
 }

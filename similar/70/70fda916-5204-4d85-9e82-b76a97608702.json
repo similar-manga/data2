@@ -22,7 +22,7 @@
     "en": "Elemental"
    },
    "contentRating": "safe",
-   "score": 0.27359995,
+   "score": 0.27386066,
    "languages": [
     "en",
     "it"
@@ -34,7 +34,7 @@
     "en": "Kikyou"
    },
    "contentRating": "safe",
-   "score": 0.2729663,
+   "score": 0.272222,
    "languages": [
     "en",
     "es"
@@ -46,7 +46,7 @@
     "en": "Maigo Center"
    },
    "contentRating": "safe",
-   "score": 0.27229133,
+   "score": 0.27068323,
    "languages": [
     "en",
     "pt-br",
@@ -60,18 +60,7 @@
     "en": "Petto no Neko ga Shinde Ningen ni Natta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2623614,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0fc048ae-d48c-402f-af6c-3e92325e57c2",
-   "title": {
-    "en": "Shokubutsu Zukan"
-   },
-   "contentRating": "safe",
-   "score": 0.26110765,
+   "score": 0.26188502,
    "languages": [
     "en"
    ]
@@ -82,18 +71,7 @@
     "en": "Kago no Uchi"
    },
    "contentRating": "safe",
-   "score": 0.26059416,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "524b2a0f-4658-4a48-8d25-a69ae68b8c7c",
-   "title": {
-    "en": "Wakaresaseya no Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.25951442,
+   "score": 0.26043907,
    "languages": [
     "en"
    ]
@@ -104,21 +82,19 @@
     "en": "Otokonoko no Koto"
    },
    "contentRating": "safe",
-   "score": 0.2591679,
+   "score": 0.2589131,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "69b2a9ae-5145-4264-99e5-89219132c2da",
+   "id": "524b2a0f-4658-4a48-8d25-a69ae68b8c7c",
    "title": {
-    "en": "April Fool"
+    "en": "Wakaresaseya no Koi"
    },
    "contentRating": "safe",
-   "score": 0.2538638,
+   "score": 0.25886604,
    "languages": [
-    "hu",
-    "pt-br",
     "en"
    ]
   },
@@ -148,12 +124,36 @@
    ]
   },
   {
+   "id": "69b2a9ae-5145-4264-99e5-89219132c2da",
+   "title": {
+    "en": "April Fool"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
+   "languages": [
+    "hu",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "0fc048ae-d48c-402f-af6c-3e92325e57c2",
+   "title": {
+    "en": "Shokubutsu Zukan"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "33c8e5ad-999a-4f0e-8263-192205f888d5",
    "title": {
     "en": "After an Exorcism"
    },
    "contentRating": "safe",
-   "score": 0.25248247,
+   "score": 0.25243965,
    "languages": [
     "pt-br",
     "en",
@@ -162,28 +162,27 @@
    ]
   },
   {
-   "id": "051a71f8-355f-4426-aac1-56b68fb14ddd",
+   "id": "7ab1a39b-702a-459d-9e7d-60ec8b09ae32",
    "title": {
-    "en": "Mimi ni Nokoru Kimi no Koe wa"
+    "en": "Hate, Hate, Hate"
    },
    "contentRating": "safe",
    "score": 0.25126484,
    "languages": [
     "en",
-    "pl",
-    "tr",
-    "fr"
+    "fa"
    ]
   },
   {
-   "id": "a74622a5-3912-416b-b553-67e8599c4478",
+   "id": "ae1b5ff7-965d-4d04-9ad7-6836e1e4a4c1",
    "title": {
-    "en": "Oath of Allegiance"
+    "en": "Hitodenashi to Koi"
    },
    "contentRating": "safe",
    "score": 0.25126484,
    "languages": [
-    "en"
+    "en",
+    "tr"
    ]
   },
   {
@@ -198,5 +197,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:16+00:00"
+ "updatedAt": "2023-12-10T18:20:34+00:00"
 }

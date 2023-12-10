@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "579b778b-bb9d-4f68-a193-4b30118cfbf5",
+   "title": {
+    "en": "Tiempo"
+   },
+   "contentRating": "safe",
+   "score": 0.3906047,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
+   "title": {
+    "en": "Captain Tsubasa (Weekly Shonen Jump 40th Anniversary)"
+   },
+   "contentRating": "safe",
+   "score": 0.33111683,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
    "title": {
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.31492418,
+   "score": 0.3178351,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +46,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.30822492,
+   "score": 0.3091455,
    "languages": [
     "en",
     "pt-br",
@@ -40,31 +63,34 @@
     "en": "Mega Man's Soccer"
    },
    "contentRating": "safe",
-   "score": 0.30355895,
+   "score": 0.29705083,
    "languages": [
     "es"
    ]
   },
   {
-   "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
+   "id": "22de2d21-57af-412d-a9dc-43b13675a0d1",
    "title": {
-    "en": "Captain Tsubasa (Weekly Shonen Jump 40th Anniversary)"
+    "en": "Whistle! W"
    },
    "contentRating": "safe",
-   "score": 0.29300547,
+   "score": 0.2923158,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
+   "id": "cfd6471f-15b9-44da-9280-13439742969b",
    "title": {
-    "en": "Fisherboy Sanpei"
+    "en": "Build Up"
    },
    "contentRating": "safe",
-   "score": 0.2825147,
+   "score": 0.2893082,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "ru",
+    "ar"
    ]
   },
   {
@@ -73,7 +99,7 @@
     "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.28024918,
+   "score": 0.28758258,
    "languages": [
     "pt-br",
     "en",
@@ -85,12 +111,23 @@
    ]
   },
   {
+   "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
+   "title": {
+    "en": "Fisherboy Sanpei"
+   },
+   "contentRating": "safe",
+   "score": 0.28597924,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
    "title": {
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.27941656,
+   "score": 0.28157806,
    "languages": [
     "en",
     "fr",
@@ -100,12 +137,12 @@
    ]
   },
   {
-   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
+   "id": "4c6993b4-5438-4ea6-a4fb-2480f40313f2",
    "title": {
-    "en": "Sasameke"
+    "en": "Bullet 6mm"
    },
    "contentRating": "safe",
-   "score": 0.27191183,
+   "score": 0.27919984,
    "languages": [
     "en"
    ]
@@ -116,7 +153,7 @@
     "en": "The Kabocha Wine"
    },
    "contentRating": "safe",
-   "score": 0.26745018,
+   "score": 0.27016294,
    "languages": [
     "en"
    ]
@@ -127,7 +164,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.26383978,
+   "score": 0.26800388,
    "languages": [
     "ru",
     "vi",
@@ -144,90 +181,38 @@
    ]
   },
   {
-   "id": "f51761b7-7fb6-49bf-9ec3-36fa579120ea",
+   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
    "title": {
-    "en": "Osomatsu-kun"
+    "en": "Sasameke"
    },
    "contentRating": "safe",
-   "score": 0.25421545,
+   "score": 0.26715237,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
+   "id": "ebcff7c1-aaf9-46ea-8d8b-2f4ea7e8f02b",
    "title": {
-    "en": "Yotsuba\u0026!"
+    "en": "Kenta Yarimasu!"
    },
    "contentRating": "safe",
-   "score": 0.25302994,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "zh-hk",
-    "tr",
-    "es-la",
-    "uk",
-    "vi",
-    "es"
-   ]
-  },
-  {
-   "id": "cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37",
-   "title": {
-    "en": "Ane Pani"
-   },
-   "contentRating": "safe",
-   "score": 0.24272332,
+   "score": 0.2630828,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
+   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
    "title": {
-    "en": "Ahiru no Sora"
+    "en": "Fairway no Koe wo Kikasete"
    },
    "contentRating": "safe",
-   "score": 0.24002846,
+   "score": 0.262938,
    "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
-   "title": {
-    "en": "I'm Teppei"
-   },
-   "contentRating": "safe",
-   "score": 0.23989382,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
-   "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
-   },
-   "contentRating": "safe",
-   "score": 0.23871179,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "it",
-    "es"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:37+00:00"
+ "updatedAt": "2023-12-10T18:18:49+00:00"
 }

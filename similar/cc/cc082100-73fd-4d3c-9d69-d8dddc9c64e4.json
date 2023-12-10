@@ -6,20 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "9eb8bc8b-f60e-48a4-8e9f-5871e2146bdb",
-   "title": {
-    "en": "Boku to Mimoza no 75-nichi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3802349
-  },
-  {
    "id": "97c903e3-9ba0-445e-9ba3-c59034964048",
    "title": {
     "en": "Spoiler Wars"
    },
    "contentRating": "suggestive",
-   "score": 0.37887788,
+   "score": 0.37620285,
    "languages": [
     "es-la",
     "fr",
@@ -27,12 +19,20 @@
    ]
   },
   {
+   "id": "9eb8bc8b-f60e-48a4-8e9f-5871e2146bdb",
+   "title": {
+    "en": "Boku to Mimoza no 75-nichi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.37233132
+  },
+  {
    "id": "463842f6-6776-4949-8ea6-be7029ccc13a",
    "title": {
     "en": "Don't Call Me a Naked Hero in Another World"
    },
    "contentRating": "suggestive",
-   "score": 0.35019934,
+   "score": 0.35593948,
    "languages": [
     "en"
    ]
@@ -43,7 +43,7 @@
     "en": "Boku wa Ayashii Kimi no Mono"
    },
    "contentRating": "suggestive",
-   "score": 0.34135094,
+   "score": 0.34544078,
    "languages": [
     "es-la",
     "en",
@@ -53,12 +53,23 @@
    ]
   },
   {
+   "id": "5e859450-e78a-457a-a8d0-cfe12cb66b31",
+   "title": {
+    "en": "The Night of Chijyo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.33583084,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
    "title": {
     "en": "The Shiunji Family Children"
    },
    "contentRating": "suggestive",
-   "score": 0.33572182,
+   "score": 0.32949564,
    "languages": [
     "pt-br",
     "fr",
@@ -71,34 +82,23 @@
    ]
   },
   {
-   "id": "5e859450-e78a-457a-a8d0-cfe12cb66b31",
-   "title": {
-    "en": "The Night of Chijyo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3332488,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "aad496ed-7aa9-47bc-9ea3-35e5bfd6982e",
    "title": {
     "en": "Ghost Writer"
    },
    "contentRating": "suggestive",
-   "score": 0.3286415,
+   "score": 0.3268192,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8cb2b7a2-669b-402f-98ba-c4f493aaeb54",
+   "id": "affca348-5460-4fb9-8421-befe8910822d",
    "title": {
-    "en": "Sumirenchi"
+    "en": "Nikkan Tachibana"
    },
    "contentRating": "suggestive",
-   "score": 0.32536918
+   "score": 0.3234764
   },
   {
    "id": "edf40435-a8e4-44d8-ba62-b99138cc83f5",
@@ -106,7 +106,7 @@
     "en": "Kouiu no Gaii"
    },
    "contentRating": "suggestive",
-   "score": 0.32515138,
+   "score": 0.32325438,
    "languages": [
     "pt-br",
     "en"
@@ -118,7 +118,7 @@
     "en": "There's a Demon Lord on the Floor"
    },
    "contentRating": "suggestive",
-   "score": 0.32432374,
+   "score": 0.32300705,
    "languages": [
     "pt-br",
     "fr",
@@ -127,12 +127,12 @@
    ]
   },
   {
-   "id": "affca348-5460-4fb9-8421-befe8910822d",
+   "id": "8cb2b7a2-669b-402f-98ba-c4f493aaeb54",
    "title": {
-    "en": "Nikkan Tachibana"
+    "en": "Sumirenchi"
    },
    "contentRating": "suggestive",
-   "score": 0.324274
+   "score": 0.3215616
   },
   {
    "id": "0d9e3e83-f3eb-4899-9e35-93d571a5959c",
@@ -140,7 +140,7 @@
     "en": "My Lovely Kitsune Wife and Son"
    },
    "contentRating": "suggestive",
-   "score": 0.3227029
+   "score": 0.31841037
   },
   {
    "id": "563bc2f2-e7bc-4689-a812-a6fb3f231e1d",
@@ -148,7 +148,7 @@
     "en": "Kouryu no Mimi"
    },
    "contentRating": "suggestive",
-   "score": 0.32230046,
+   "score": 0.31839466,
    "languages": [
     "en"
    ]
@@ -159,11 +159,22 @@
     "en": "she is beautiful"
    },
    "contentRating": "suggestive",
-   "score": 0.32113516,
+   "score": 0.31808925,
    "languages": [
     "en",
     "es-la",
     "ru"
+   ]
+  },
+  {
+   "id": "cf4a2e0a-b78c-4a46-80a2-110332e0c6d4",
+   "title": {
+    "en": "Ookiku Nacchaukei Joshi no Chiisana Tatakai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3161895,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -172,22 +183,11 @@
     "en": "Bachi Atari na Imouto"
    },
    "contentRating": "suggestive",
-   "score": 0.31997132,
+   "score": 0.31605774,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "97b19647-b6d4-4ff9-b5c2-d08373e74bcc",
-   "title": {
-    "en": "RIKON SHINAI OTOKO CASE２"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3191474,
-   "languages": [
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:10+00:00"
+ "updatedAt": "2023-12-10T18:30:59+00:00"
 }

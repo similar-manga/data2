@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8af96059-f7f2-4607-b077-ad26a2ec3366",
-   "title": {
-    "en": "The Male Lead Is Mine"
-   },
-   "contentRating": "safe",
-   "score": 0.3582566
-  },
-  {
    "id": "fc450607-0657-4abd-9ec0-b19e536fb287",
    "title": {
     "en": "I Failed to Divorce My Husband"
    },
    "contentRating": "safe",
-   "score": 0.3504509,
+   "score": 0.35868177,
    "languages": [
     "en",
     "id",
@@ -28,12 +20,20 @@
    ]
   },
   {
+   "id": "8af96059-f7f2-4607-b077-ad26a2ec3366",
+   "title": {
+    "en": "The Male Lead Is Mine"
+   },
+   "contentRating": "safe",
+   "score": 0.35532364
+  },
+  {
    "id": "30114873-36d9-448e-a6b2-928a9607a17c",
    "title": {
     "en": "The Villainess Wants to Die Gracefully"
    },
    "contentRating": "safe",
-   "score": 0.34861717,
+   "score": 0.34709057,
    "languages": [
     "pl",
     "en"
@@ -45,7 +45,7 @@
     "en": "I Became the Mother of the Bloody Male Lead"
    },
    "contentRating": "safe",
-   "score": 0.3436126,
+   "score": 0.34315515,
    "languages": [
     "en"
    ]
@@ -56,18 +56,18 @@
     "en": "I Became the Male Lead's Female Friend"
    },
    "contentRating": "safe",
-   "score": 0.33662823
+   "score": 0.33619136
   },
   {
-   "id": "a98c5ebe-5df2-4878-ab3e-52a56cf68313",
+   "id": "4f049c4d-14e9-4f74-901a-ec16b1977650",
    "title": {
-    "en": "Love Quest for a Servant Girl"
+    "en": "When the Third Wheel Strikes Back"
    },
    "contentRating": "safe",
-   "score": 0.3193859,
+   "score": 0.32861608,
    "languages": [
-    "en",
-    "pt-br"
+    "id",
+    "en"
    ]
   },
   {
@@ -76,7 +76,19 @@
     "en": "I Will Seduce the Male Lead for My Older Brother"
    },
    "contentRating": "safe",
-   "score": 0.31937733
+   "score": 0.31936222
+  },
+  {
+   "id": "a98c5ebe-5df2-4878-ab3e-52a56cf68313",
+   "title": {
+    "en": "Love Quest for a Servant Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.31791738,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "161e8bde-914f-4464-a009-071ad6d981ac",
@@ -84,7 +96,7 @@
     "en": "The Viridescent Tiara"
    },
    "contentRating": "safe",
-   "score": 0.31644946,
+   "score": 0.31506425,
    "languages": [
     "ru",
     "en",
@@ -95,24 +107,12 @@
    ]
   },
   {
-   "id": "b828bd28-9a19-4cab-81df-ac03d33f33e2",
-   "title": {
-    "en": "I Am the Main Characters' Child"
-   },
-   "contentRating": "safe",
-   "score": 0.30889156,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "e03ca79d-21eb-4342-a621-8ac7bf2a05b3",
    "title": {
     "en": "The Duke's Darling Daughter-in-Law"
    },
    "contentRating": "safe",
-   "score": 0.30878893,
+   "score": 0.3090991,
    "languages": [
     "en",
     "uk"
@@ -124,10 +124,22 @@
     "en": "For a Fairytale Ending"
    },
    "contentRating": "safe",
-   "score": 0.30822968,
+   "score": 0.3083968,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "b828bd28-9a19-4cab-81df-ac03d33f33e2",
+   "title": {
+    "en": "I Am the Main Characters' Child"
+   },
+   "contentRating": "safe",
+   "score": 0.30793816,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -136,19 +148,7 @@
     "en": "The Second Male Lead Is Actually a Girl"
    },
    "contentRating": "safe",
-   "score": 0.30292425
-  },
-  {
-   "id": "eb19debb-37ef-4a20-8c55-5132e576048a",
-   "title": {
-    "en": "I Accidentally Saved the Male Lead's Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.30102703,
-   "languages": [
-    "en",
-    "pl"
-   ]
+   "score": 0.30179176
   },
   {
    "id": "484b457f-aad9-40f1-80db-074bc3670eaa",
@@ -156,22 +156,23 @@
     "en": "The Male Lead's Nephew Loves Me So Much"
    },
    "contentRating": "safe",
-   "score": 0.30082902,
+   "score": 0.30015612,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "84aecc41-06f1-4003-8492-5c84f8731601",
+   "id": "b82d55e4-01ba-498e-a9aa-715f7ffb5a1d",
    "title": {
-    "en": "I Became the Younger Sister of a Regretful Obsessive Male Lead"
+    "en": "I Was the Male Lead's Ex"
    },
    "contentRating": "safe",
-   "score": 0.30050394,
+   "score": 0.29997042,
    "languages": [
     "en",
-    "pl"
+    "fr",
+    "pt-br"
    ]
   },
   {
@@ -180,8 +181,8 @@
     "en": "The Blackened Second Male Lead's Wife"
    },
    "contentRating": "safe",
-   "score": 0.30038995
+   "score": 0.29988787
   }
  ],
- "updatedAt": "2023-12-10T01:04:01+00:00"
+ "updatedAt": "2023-12-10T18:19:55+00:00"
 }

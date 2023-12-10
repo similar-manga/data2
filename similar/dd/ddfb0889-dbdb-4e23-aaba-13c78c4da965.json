@@ -6,16 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "77e6e73d-2819-4525-b030-1a2169031291",
+   "title": {
+    "en": "U-31"
+   },
+   "contentRating": "safe",
+   "score": 0.31472608
+  },
+  {
    "id": "e2ff6606-4391-4286-93db-78f78297305f",
    "title": {
     "en": "Captain Tsubasa - Rising Sun"
    },
    "contentRating": "safe",
-   "score": 0.288557,
+   "score": 0.28638726,
    "languages": [
     "en",
     "tr"
    ]
+  },
+  {
+   "id": "b17da0f5-4535-4d37-83a1-ed5f269cc807",
+   "title": {
+    "en": "Face Off!!"
+   },
+   "contentRating": "safe",
+   "score": 0.27817187
+  },
+  {
+   "id": "c3a50e1d-7572-4cac-82c0-d3d8da4993be",
+   "title": {
+    "en": "Bukuro Kicks"
+   },
+   "contentRating": "safe",
+   "score": 0.274261
   },
   {
    "id": "970cf604-b773-47fb-8cf1-75b8f1513b19",
@@ -23,9 +47,26 @@
     "en": "Riman Gambler Mouse"
    },
    "contentRating": "safe",
-   "score": 0.24953812,
+   "score": 0.25013566,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
+   "title": {
+    "en": "Giant Killing"
+   },
+   "contentRating": "safe",
+   "score": 0.24854574,
+   "languages": [
+    "ar",
+    "pt-br",
+    "fr",
+    "en",
+    "pl",
+    "es-la",
+    "id"
    ]
   },
   {
@@ -34,7 +75,7 @@
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.24296838,
+   "score": 0.24197975,
    "languages": [
     "en",
     "pt-br",
@@ -49,29 +90,28 @@
    ]
   },
   {
-   "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
-   "title": {
-    "en": "Giant Killing"
-   },
-   "contentRating": "safe",
-   "score": 0.24140646,
-   "languages": [
-    "ar",
-    "pt-br",
-    "fr",
-    "en",
-    "pl",
-    "es-la",
-    "id"
-   ]
-  },
-  {
    "id": "ccb80916-89e6-4037-8278-04edc98c496c",
    "title": {
     "en": "Without Loss, Even in the Rain"
    },
    "contentRating": "safe",
-   "score": 0.2301798
+   "score": 0.23763838
+  },
+  {
+   "id": "969f46c7-ab88-4ad4-b8d1-cabb45247c5f",
+   "title": {
+    "en": "All the Marbles!"
+   },
+   "contentRating": "safe",
+   "score": 0.23529455
+  },
+  {
+   "id": "a767a392-eee6-42ad-85a2-48669beca9ea",
+   "title": {
+    "en": "Ekiden Danshi Project"
+   },
+   "contentRating": "safe",
+   "score": 0.21768306
   },
   {
    "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
@@ -79,11 +119,27 @@
     "en": "One Pound Gospel"
    },
    "contentRating": "safe",
-   "score": 0.2175266,
+   "score": 0.21746027,
    "languages": [
     "fr",
     "pt-br"
    ]
+  },
+  {
+   "id": "f5201527-a4c6-4f2a-bcce-9fd104e409db",
+   "title": {
+    "en": "Moshidora"
+   },
+   "contentRating": "safe",
+   "score": 0.2136863
+  },
+  {
+   "id": "daaea40e-f79f-4cc8-8e81-5dbf098a0ee0",
+   "title": {
+    "en": "Konjou no Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.20975198
   },
   {
    "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
@@ -91,7 +147,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.20873277,
+   "score": 0.20862609,
    "languages": [
     "en",
     "pt-br",
@@ -105,94 +161,21 @@
    ]
   },
   {
+   "id": "876944c8-8085-4de6-8ad1-4dc71df5924e",
+   "title": {
+    "en": "4 Gun-kun (Kari)"
+   },
+   "contentRating": "safe",
+   "score": 0.20380753
+  },
+  {
    "id": "433de6a2-10ca-4f63-a5f8-dbe844f564a3",
    "title": {
     "en": "Conde Koma"
    },
    "contentRating": "safe",
-   "score": 0.20332198
-  },
-  {
-   "id": "624907a9-9aac-4998-8f1e-bed15ab26d71",
-   "title": {
-    "en": "The Magnificent Grand Scene"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "fea614e7-a24d-4352-a755-905fa2c63dbe",
-   "title": {
-    "en": "Comic Master J"
-   },
-   "contentRating": "safe",
-   "score": 0.19837151,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a43c03e2-9f78-4e13-a41d-1c2620c20a89",
-   "title": {
-    "en": "Carefree Matsutaro"
-   },
-   "contentRating": "safe",
-   "score": 0.19629799
-  },
-  {
-   "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
-   "title": {
-    "en": "Howling Pen RRR"
-   },
-   "contentRating": "safe",
-   "score": 0.19567479
-  },
-  {
-   "id": "5a9153e4-ec0d-41a8-a3f2-6d0ff4be74a4",
-   "title": {
-    "en": "Like Shooting Stars in the Twilight"
-   },
-   "contentRating": "safe",
-   "score": 0.19446348
-  },
-  {
-   "id": "ec0d8a40-f503-44ce-922f-a9b7620f0288",
-   "title": {
-    "en": "Hataraki Man"
-   },
-   "contentRating": "safe",
-   "score": 0.19104683,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "943fad77-2f37-4b5d-a306-fbd0bae00f61",
-   "title": {
-    "en": "Tokuni Maketemo Kamawanai"
-   },
-   "contentRating": "safe",
-   "score": 0.19062226,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
-   "title": {
-    "en": "The Sorrows of Young Werther (Variety Art Works)"
-   },
-   "contentRating": "safe",
-   "score": 0.18766417,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20329897
   }
  ],
- "updatedAt": "2023-12-10T01:08:55+00:00"
+ "updatedAt": "2023-12-10T18:32:52+00:00"
 }

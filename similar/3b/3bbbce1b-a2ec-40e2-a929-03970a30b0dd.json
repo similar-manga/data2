@@ -11,7 +11,7 @@
     "en": "100-nen Go ni Tensei Shita Watashi, Zense no Joukishi ni Kyuukonsaremashita"
    },
    "contentRating": "safe",
-   "score": 0.3652385,
+   "score": 0.36918628,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Zense Watashi ni Kyoumi ga Nakatta Otto, Chara Hen shite Dekiai shite Kite mo Taiou ni Komarimasu!"
    },
    "contentRating": "safe",
-   "score": 0.35366893
+   "score": 0.35562393
   },
   {
    "id": "b88b338a-cd19-460e-b148-8c7ed31155ff",
@@ -30,18 +30,15 @@
     "en": "Hyakkakyu no Osoujigakari"
    },
    "contentRating": "safe",
-   "score": 0.33469647
+   "score": 0.33031547
   },
   {
-   "id": "2632dd4b-4005-44f9-8a5f-5e1b752e3e42",
+   "id": "5c61de44-f35a-4c73-a47f-cf94528923df",
    "title": {
-    "en": "The Struggle of Being Reincarnated as the Marquess's Daughter: I'll Deal with What’s Coming to Me!"
+    "en": "Koukyuu mo Nidome nara"
    },
    "contentRating": "safe",
-   "score": 0.32249177,
-   "languages": [
-    "en"
-   ]
+   "score": 0.3264515
   },
   {
    "id": "7a597289-bc4b-4b9d-a080-97066a827c37",
@@ -49,7 +46,18 @@
     "en": "Sannin no Rival Reijou no Uchi \"Hazure Reijou\" ni Tensei Shita you desu"
    },
    "contentRating": "safe",
-   "score": 0.31980598
+   "score": 0.32306576
+  },
+  {
+   "id": "2632dd4b-4005-44f9-8a5f-5e1b752e3e42",
+   "title": {
+    "en": "The Struggle of Being Reincarnated as the Marquess's Daughter: I'll Deal with What’s Coming to Me!"
+   },
+   "contentRating": "safe",
+   "score": 0.32196808,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "77a92f95-7fe2-45e4-a449-72080ed4e3e3",
@@ -57,7 +65,7 @@
     "en": "Shiganai Tensei Reijou wa Heion ni Kurashitai"
    },
    "contentRating": "safe",
-   "score": 0.3133332,
+   "score": 0.3142992,
    "languages": [
     "en"
    ]
@@ -68,10 +76,18 @@
     "en": "Tensei Oujo wa Osananajimi no Dekiai Houimou kara Nigedashitai - Zense de Furareta no wa Watashi yo ne!?"
    },
    "contentRating": "safe",
-   "score": 0.31019142,
+   "score": 0.31293055,
    "languages": [
     "zh-hk"
    ]
+  },
+  {
+   "id": "2efeefd8-5c3f-4801-9d8f-c5d7bf35c6b9",
+   "title": {
+    "en": "Outaishi Denka wa Koukyuu ni Uranaishi wo Goshomou desu"
+   },
+   "contentRating": "safe",
+   "score": 0.31262994
   },
   {
    "id": "94a1737f-7b61-4f7b-8e1a-0ed3379d447f",
@@ -79,19 +95,43 @@
     "en": "I Reincarnated as a Faint Hearted Countess"
    },
    "contentRating": "safe",
-   "score": 0.3095945,
+   "score": 0.31212524,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "067d6381-48ec-442e-9b9a-99bf174fc70b",
+   "id": "8576a9f8-8945-4aef-8b7d-30f930fac6d7",
    "title": {
-    "en": "8-dome no Jinsei, Kirawarete Itahazu no Outaishi Denka no Dekiai Route ni Hamarimashita"
+    "en": "Watashi to Heika no Koukyuu Seizon Senryaku"
    },
    "contentRating": "safe",
-   "score": 0.295661
+   "score": 0.31156003
+  },
+  {
+   "id": "d646e30b-61dd-4068-a199-24a31582a86a",
+   "title": {
+    "en": "Koukyuu Ichiban no Akujo"
+   },
+   "contentRating": "safe",
+   "score": 0.30866215
+  },
+  {
+   "id": "4ad74001-7d81-43bc-82b8-32cd0fd28040",
+   "title": {
+    "en": "Yake wo Okoshita Koushaku Reijou wa Sugata wo Kuramashi Jiyuu wo Tanoshimu"
+   },
+   "contentRating": "safe",
+   "score": 0.30504656
+  },
+  {
+   "id": "092d3f7d-9f85-432b-badb-ea18f0a56e4f",
+   "title": {
+    "en": "Koukyuu no Dokuka"
+   },
+   "contentRating": "safe",
+   "score": 0.29705906
   },
   {
    "id": "65a3175d-e5ac-4c1e-84b8-249ab7cbaaae",
@@ -99,68 +139,16 @@
     "en": "Kodomo ni Natsukaretara Kaseifu ni Narimashita. - Are? Kishi-sama ni mo Dekiaisareteru you desu!?"
    },
    "contentRating": "safe",
-   "score": 0.29477638
+   "score": 0.29536718
   },
   {
-   "id": "36deeea5-f5cb-4f07-9906-f217256f10c2",
+   "id": "067d6381-48ec-442e-9b9a-99bf174fc70b",
    "title": {
-    "en": "Reikoku Ouji to Kiraware Majo no Shiawase na Jinsei Keikaku - Tsumibukaki Maju wa Zense no Toga wo Riyou suru"
+    "en": "8-dome no Jinsei, Kirawarete Itahazu no Outaishi Denka no Dekiai Route ni Hamarimashita"
    },
    "contentRating": "safe",
-   "score": 0.29156554
-  },
-  {
-   "id": "57f64981-c341-4c8a-9994-7723d688a2f7",
-   "title": {
-    "en": "Bad End Mokuzen no Heroine ni Tensei shita Watashi, Konse de wa Renai suru Tsumori ga Cheat na Ani ga Hanashite kuremasen!?"
-   },
-   "contentRating": "safe",
-   "score": 0.28907785,
-   "languages": [
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "cd27b59e-13c7-408a-8022-e0cafbd8c2fb",
-   "title": {
-    "en": "Tensei shitara Zense no Otoko Tomodachi ni Kyuukonsaremashita"
-   },
-   "contentRating": "safe",
-   "score": 0.28695777,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "01ea7299-112c-41f4-b2a0-6d28c272deef",
-   "title": {
-    "en": "Aku no Kadou wo Ikimashou"
-   },
-   "contentRating": "safe",
-   "score": 0.28517792,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1dfd0cca-a925-480b-bb2b-81b5b4f7a612",
-   "title": {
-    "en": "Wakiyaku Tensei shita Otome wa Shinitakunai - Shibou Flag wo Orutabi ni Renai Flag ga Tatsu Sekai de Ganbatte imasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.28363478
-  },
-  {
-   "id": "f885eaba-50ef-403a-868c-8315e2ebc315",
-   "title": {
-    "en": "In My Previous Life, I Was A Saint, But Now I Want To Cut Corners"
-   },
-   "contentRating": "safe",
-   "score": 0.28359464,
-   "languages": [
-    "en"
-   ]
+   "score": 0.29405972
   }
  ],
- "updatedAt": "2023-12-10T01:02:03+00:00"
+ "updatedAt": "2023-12-10T18:14:43+00:00"
 }

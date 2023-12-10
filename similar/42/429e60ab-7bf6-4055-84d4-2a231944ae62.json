@@ -11,22 +11,9 @@
     "ja": "Eigyou Desukara"
    },
    "contentRating": "suggestive",
-   "score": 0.30155662,
+   "score": 0.3011959,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "fee84e14-a6e8-46e1-a93c-e50a76edb9e6",
-   "title": {
-    "en": "Haru no Mizu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28350797,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -53,14 +40,16 @@
    ]
   },
   {
-   "id": "c0a0a727-c381-4c35-afe0-8152317c6fb4",
+   "id": "fee84e14-a6e8-46e1-a93c-e50a76edb9e6",
    "title": {
-    "en": "Kitayama-kun to Minamiya-kun"
+    "en": "Haru no Mizu"
    },
    "contentRating": "suggestive",
-   "score": 0.2539436,
+   "score": 0.28350797,
    "languages": [
-    "en"
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -69,7 +58,18 @@
     "en": "Tsukiattenai Noni Fuufu Yattemasu"
    },
    "contentRating": "suggestive",
-   "score": 0.25386032,
+   "score": 0.25326604,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c0a0a727-c381-4c35-afe0-8152317c6fb4",
+   "title": {
+    "en": "Kitayama-kun to Minamiya-kun"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25293073,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "Otome Yankee wa Unmei no Hito wo Matsu."
    },
    "contentRating": "suggestive",
-   "score": 0.2498437,
+   "score": 0.24952361,
    "languages": [
     "en"
    ]
@@ -91,7 +91,7 @@
     "en": "My Agent Is Too Hard to Tease"
    },
    "contentRating": "suggestive",
-   "score": 0.2449924,
+   "score": 0.24423341,
    "languages": [
     "en"
    ]
@@ -102,7 +102,7 @@
     "en": "Seventeen Syrups"
    },
    "contentRating": "suggestive",
-   "score": 0.24420343,
+   "score": 0.24376318,
    "languages": [
     "en",
     "es-la"
@@ -114,7 +114,7 @@
     "en": "Juliet wo Ute"
    },
    "contentRating": "suggestive",
-   "score": 0.24145912,
+   "score": 0.24150528,
    "languages": [
     "en"
    ]
@@ -125,7 +125,7 @@
     "en": "Hoeru Inu to Kubittake"
    },
    "contentRating": "suggestive",
-   "score": 0.24044463,
+   "score": 0.2404404,
    "languages": [
     "en"
    ]
@@ -143,9 +143,20 @@
    ]
   },
   {
-   "id": "5917e33c-b252-4011-a056-51aed835a282",
+   "id": "e10b6538-900e-457c-a7b2-cd511a0dcccc",
    "title": {
-    "en": "Kyrie -Norowareta Hebi-"
+    "en": "Deriheru Danshi!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "66226696-7c9c-4dbc-bb25-fdb22aa7545d",
+   "title": {
+    "en": "Sayonara no, Sono Toki Made"
    },
    "contentRating": "suggestive",
    "score": 0.23148328,
@@ -166,17 +177,6 @@
    ]
   },
   {
-   "id": "e10b6538-900e-457c-a7b2-cd511a0dcccc",
-   "title": {
-    "en": "Deriheru Danshi!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23148328,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4067d8f8-8b18-4a1e-a39b-4be66ae6e6cc",
    "title": {
     "en": "Lethal Dose of Love"
@@ -188,5 +188,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:19+00:00"
+ "updatedAt": "2023-12-10T18:15:31+00:00"
 }

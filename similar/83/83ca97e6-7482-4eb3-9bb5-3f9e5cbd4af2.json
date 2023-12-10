@@ -6,13 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5b43d484-e97a-4e43-8483-5ca9cdc71dc1",
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
    "title": {
-    "en": "Viva Love You"
+    "en": "1-ko Shita kara, Kiss Sasete."
    },
    "contentRating": "safe",
-   "score": 0.34122255,
+   "score": 0.41046846,
    "languages": [
+    "vi",
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "47b0f667-c70b-4f83-ae78-4c5f69552fd8",
+   "title": {
+    "en": "Sakura wa Watashi o Sukisugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.3659716,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -22,18 +36,18 @@
     "en": "Dakara Koi to Yobanaide"
    },
    "contentRating": "safe",
-   "score": 0.34005696,
+   "score": 0.34188193,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "de945f1f-d73d-4160-b2ef-0af000affec2",
+   "id": "5b43d484-e97a-4e43-8483-5ca9cdc71dc1",
    "title": {
-    "en": "My Beast"
+    "en": "Viva Love You"
    },
    "contentRating": "safe",
-   "score": 0.32719514,
+   "score": 0.3400441,
    "languages": [
     "en"
    ]
@@ -44,9 +58,32 @@
     "en": "Sensei no Koto Ga Suki nan Desu"
    },
    "contentRating": "safe",
-   "score": 0.3239021,
+   "score": 0.32527852,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "de945f1f-d73d-4160-b2ef-0af000affec2",
+   "title": {
+    "en": "My Beast"
+   },
+   "contentRating": "safe",
+   "score": 0.32457662,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec482098-7ce2-4bbb-bb1e-ab64873c36ac",
+   "title": {
+    "en": "Awa Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.3227626,
+   "languages": [
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -55,9 +92,20 @@
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.31962314,
+   "score": 0.3189228,
    "languages": [
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "a3f5b651-8b31-404b-990e-703ed78bffcc",
+   "title": {
+    "en": "Kojin Jugyou"
+   },
+   "contentRating": "safe",
+   "score": 0.3169545,
+   "languages": [
     "en"
    ]
   },
@@ -67,7 +115,7 @@
     "en": "Kiss Me on the Apple of My Eye"
    },
    "contentRating": "safe",
-   "score": 0.31835413,
+   "score": 0.3167887,
    "languages": [
     "en"
    ]
@@ -78,7 +126,7 @@
     "en": "Hitotsu no Shigusa mo"
    },
    "contentRating": "safe",
-   "score": 0.31286806,
+   "score": 0.31283134,
    "languages": [
     "en"
    ]
@@ -89,103 +137,55 @@
     "en": "Pink de Ikou!"
    },
    "contentRating": "safe",
-   "score": 0.3116787,
+   "score": 0.31115872,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "95f466af-2585-42ba-b2e1-699e3fc5c8b9",
+   "id": "50cafa6c-da59-4ef9-8677-1c6a22149e51",
    "title": {
-    "en": "Seishun Location"
+    "en": "Naisho no Kawai Ko-chan"
    },
    "contentRating": "safe",
-   "score": 0.3063586,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "19adf26d-e8f9-490f-b230-e3d2eda4f3f0",
-   "title": {
-    "en": "My Darling Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.30555576,
+   "score": 0.31059486,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "628c364b-4389-41ab-abb9-5b9e4f0238cd",
+   "id": "6f525ed6-3e62-4dc8-99de-9363c72ae4bd",
    "title": {
-    "en": "Kanpeki Kareshi Kanojo"
+    "en": "Rabu Yome"
    },
    "contentRating": "safe",
-   "score": 0.30525032,
+   "score": 0.30825487,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2de048a9-9aa8-4d68-9dbd-6b0dc0d43cab",
+   "id": "73272842-5702-4858-b1bb-dfbdb6563665",
    "title": {
-    "en": "Kare no 1-Ban ni Naru Houhou"
+    "en": "Read and fall in love"
    },
    "contentRating": "safe",
-   "score": 0.3027253,
+   "score": 0.30806723,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "52d33a2d-1a4b-4b2e-9383-66bbcd7ac348",
+   "id": "060f34d5-adb3-4242-b39f-e67e15a7e3a8",
    "title": {
-    "en": "Primo Prima!"
+    "en": "16-sai nanode Kekkon Shimasu!!"
    },
    "contentRating": "safe",
-   "score": 0.30160797,
+   "score": 0.30756253,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0dccb0f4-b0da-49fe-9606-5b0fd2ecf7c6",
-   "title": {
-    "en": "Kimi Dake ni Ai wo."
-   },
-   "contentRating": "safe",
-   "score": 0.30146974,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "042b4389-a26d-4505-b96b-e9d5fd731f9c",
-   "title": {
-    "en": "Koisuru Mitsuba"
-   },
-   "contentRating": "safe",
-   "score": 0.30121613,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "df3d74de-4524-4753-aa35-c186d5357480",
-   "title": {
-    "en": "Rare Ji"
-   },
-   "contentRating": "safe",
-   "score": 0.300092,
-   "languages": [
-    "en",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:04+00:00"
+ "updatedAt": "2023-12-10T18:22:46+00:00"
 }

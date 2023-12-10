@@ -11,7 +11,7 @@
     "en": "Harp of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.2584284
+   "score": 0.25913057
   },
   {
    "id": "5310fa94-bea5-48b8-b7bd-d3087e821e25",
@@ -27,7 +27,7 @@
     "en": "Princess Alice and the King"
    },
    "contentRating": "safe",
-   "score": 0.22324203,
+   "score": 0.22342457,
    "languages": [
     "hu"
    ]
@@ -38,7 +38,7 @@
     "en": "El Halcón -The Hawk-"
    },
    "contentRating": "safe",
-   "score": 0.2160893,
+   "score": 0.21538277,
    "languages": [
     "en"
    ]
@@ -49,7 +49,15 @@
     "en": "Cologne Policeman Odo"
    },
    "contentRating": "safe",
-   "score": 0.21291289
+   "score": 0.21334268
+  },
+  {
+   "id": "971a924a-3200-4d01-b939-89a6c61d0ebe",
+   "title": {
+    "en": "Gone with the Wind (TSUKUMO Mutsumi)"
+   },
+   "contentRating": "safe",
+   "score": 0.21019512
   },
   {
    "id": "99c55b76-dee9-4758-a0c9-ed1a70d4edca",
@@ -60,6 +68,18 @@
    "score": 0.20566288
   },
   {
+   "id": "fa2f5315-0f69-43ee-b663-655946a5f8cb",
+   "title": {
+    "en": "Boku no Lily"
+   },
+   "contentRating": "safe",
+   "score": 0.1996101,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "2bbf1d99-b9b7-4c88-92b4-cbc09dd3eec2",
    "title": {
     "en": "Honey Honey's Wonderful Adventures"
@@ -68,16 +88,12 @@
    "score": 0.1994086
   },
   {
-   "id": "fa2f5315-0f69-43ee-b663-655946a5f8cb",
+   "id": "7182a3a3-b292-4fdb-ab21-87bb9c4bcbd8",
    "title": {
-    "en": "Boku no Lily"
+    "en": "Shotoku Taishi"
    },
    "contentRating": "safe",
-   "score": 0.19764963,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
+   "score": 0.19872206
   },
   {
    "id": "775acdb5-bfe2-4558-9bac-32de7117ee0d",
@@ -88,12 +104,12 @@
    "score": 0.1963665
   },
   {
-   "id": "9339a063-04ac-4562-8ddf-ea3ca0777e3a",
+   "id": "9b7d94cb-d0aa-4c39-9fb9-490d793083b5",
    "title": {
-    "en": "Umi no Kishidan"
+    "en": "Sleeping Beauty Age"
    },
    "contentRating": "safe",
-   "score": 0.19634846,
+   "score": 0.19556631,
    "languages": [
     "en"
    ]
@@ -112,6 +128,14 @@
    ]
   },
   {
+   "id": "cf8c065e-66a7-4ec2-8fb6-ad3afae8077d",
+   "title": {
+    "en": "Tenjou Renka: Kin no Oujo to Hi no Kusushi"
+   },
+   "contentRating": "safe",
+   "score": 0.19438542
+  },
+  {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
    "title": {
     "en": "Niji no Ikusa"
@@ -123,56 +147,16 @@
    ]
   },
   {
-   "id": "84b81252-6061-4e9b-b0de-d6823405ffa2",
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
    "title": {
-    "en": "Knights of Alfheim"
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
    },
    "contentRating": "safe",
-   "score": 0.18925734,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
-   "title": {
-    "en": "Snow White with the Red Hair"
-   },
-   "contentRating": "safe",
-   "score": 0.18915716,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "it",
-    "bg",
-    "ar"
-   ]
-  },
-  {
-   "id": "a264ed75-7ef6-4ec4-be3f-f1f9c8695cc7",
-   "title": {
-    "en": "Spirit of the Ocean"
-   },
-   "contentRating": "safe",
-   "score": 0.18474007,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "0aba9c27-58df-4b3e-8967-302535775907",
-   "title": {
-    "en": "I Became the Housekeeper of the Bachelors' Barracks of the Kingdom's Knights"
-   },
-   "contentRating": "safe",
-   "score": 0.18283719,
+   "score": 0.19367698,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:48+00:00"
+ "updatedAt": "2023-12-10T18:11:14+00:00"
 }

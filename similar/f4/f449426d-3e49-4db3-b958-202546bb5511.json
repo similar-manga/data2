@@ -22,7 +22,7 @@
     "en": "Shikabane Hime"
    },
    "contentRating": "suggestive",
-   "score": 0.19836257,
+   "score": 0.19950952,
    "languages": [
     "en",
     "pl"
@@ -46,7 +46,7 @@
     "en": "Kakutou Bijin Wulong"
    },
    "contentRating": "suggestive",
-   "score": 0.1688522,
+   "score": 0.1685871,
    "languages": [
     "en"
    ]
@@ -57,18 +57,7 @@
     "en": "Anima Cal Lives"
    },
    "contentRating": "suggestive",
-   "score": 0.1645755,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
-   "title": {
-    "en": "Patora to Tetsujuuji"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16455169,
+   "score": 0.16449997,
    "languages": [
     "en"
    ]
@@ -79,7 +68,18 @@
     "en": "Kerberos in the Silver Rain"
    },
    "contentRating": "suggestive",
-   "score": 0.16423546,
+   "score": 0.16356863,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
+   "title": {
+    "en": "Patora to Tetsujuuji"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16327348,
    "languages": [
     "en"
    ]
@@ -108,24 +108,6 @@
    "score": 0.14814815,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "60773286-5af5-4ebe-98ae-5495bfcc1fcb",
-   "title": {
-    "en": "Magika Swordsman and Summoner"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14599141,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br",
-    "id",
-    "fr",
-    "vi",
-    "es",
-    "tr"
    ]
   },
   {
@@ -164,26 +146,52 @@
    ]
   },
   {
+   "id": "60773286-5af5-4ebe-98ae-5495bfcc1fcb",
+   "title": {
+    "en": "Magika Swordsman and Summoner"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13879094,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "id",
+    "fr",
+    "vi",
+    "es",
+    "tr"
+   ]
+  },
+  {
    "id": "5c151924-f2b6-4d3e-8dba-3a64adc8e205",
    "title": {
     "en": "\"Sekai Saikyou no Shitsuji\" Black Shokuba wo Tsuihousareta Ore, Koori no Reijou ni Hirowareru"
    },
    "contentRating": "suggestive",
-   "score": 0.13101746,
+   "score": 0.13050196,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "4a5af789-a2da-482b-85ab-ac0d856d7792",
+   "id": "df59c687-346f-45fa-b351-ee8dc09f752f",
    "title": {
-    "en": "Benny's Knuckle"
+    "en": "Tales of Wedding Rings"
    },
    "contentRating": "suggestive",
-   "score": 0.12830007,
+   "score": 0.12873219,
    "languages": [
-    "en"
+    "pt-br",
+    "ru",
+    "it",
+    "es",
+    "ar",
+    "id",
+    "fr",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -198,5 +206,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:52+00:00"
+ "updatedAt": "2023-12-10T18:35:09+00:00"
 }

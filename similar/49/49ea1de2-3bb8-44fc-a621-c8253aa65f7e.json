@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fb569d12-1e00-47e3-86cd-793b4eae715c",
+   "title": {
+    "en": "Komi Can't Communicate (Fan-Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.37365007,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
    "title": {
     "en": "Komi-san wa Komyushou Desu."
    },
    "contentRating": "safe",
-   "score": 0.3743842,
+   "score": 0.37116385,
    "languages": [
     "pt-br",
     "id",
@@ -38,12 +50,45 @@
    ]
   },
   {
+   "id": "cf50c737-4683-4363-a847-0d142b0780b1",
+   "title": {
+    "en": "Kobayashi Shounen to Futei no Kaijin"
+   },
+   "contentRating": "safe",
+   "score": 0.35910255
+  },
+  {
    "id": "57a6d746-f523-4a39-afa6-16492b0e12c4",
    "title": {
     "en": "I Teach Kendo in Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.3572781
+   "score": 0.35463905
+  },
+  {
+   "id": "08b1cd4f-475c-4a72-9973-ba737e5d70f5",
+   "title": {
+    "en": "Shiraishi-kun's Classmates"
+   },
+   "contentRating": "safe",
+   "score": 0.3524928,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5af94331-0002-4178-ac27-e8f254517c45",
+   "title": {
+    "en": "Sword Art Online - Kiss and Fly"
+   },
+   "contentRating": "safe",
+   "score": 0.34778532,
+   "languages": [
+    "en",
+    "ru",
+    "pl",
+    "pt-br"
+   ]
   },
   {
    "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
@@ -51,10 +96,18 @@
     "en": "Metamorcode"
    },
    "contentRating": "safe",
-   "score": 0.34467763,
+   "score": 0.34538162,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "22526d9e-ff45-4a53-8c09-bca6f7e7add9",
+   "title": {
+    "en": "Horror Lingerie Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.34221774
   },
   {
    "id": "d47d0436-d9f0-416a-80d1-ed6500f4d52e",
@@ -62,7 +115,7 @@
     "en": "I Am Not the Demon Lord"
    },
    "contentRating": "safe",
-   "score": 0.34144315,
+   "score": 0.3392788,
    "languages": [
     "en",
     "pt-br",
@@ -71,12 +124,46 @@
    ]
   },
   {
+   "id": "fb35ddc5-d2eb-49cc-b963-e70260c0d0ca",
+   "title": {
+    "en": "Hello Microcomputer"
+   },
+   "contentRating": "safe",
+   "score": 0.33841124
+  },
+  {
+   "id": "cee67a25-1e84-49db-8a4e-be5ce6492559",
+   "title": {
+    "en": "The Villainess’s Guide to (Not) Falling in Love"
+   },
+   "contentRating": "safe",
+   "score": 0.33815333,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "8e74e420-b05e-4975-9844-676c7156bd63",
+   "title": {
+    "en": "Destiny Unchain Online ~Kyuuketsu-ki Shoujo to natte, Yagate『 Aka no Maou』to Yobareru You ni Narimashita~"
+   },
+   "contentRating": "safe",
+   "score": 0.33553413,
+   "languages": [
+    "en",
+    "id",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
    "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
    "title": {
     "en": "Asaoka High School Baseball Team Journal - Over Fence"
    },
    "contentRating": "safe",
-   "score": 0.33796358,
+   "score": 0.3355234,
    "languages": [
     "it",
     "en"
@@ -88,7 +175,7 @@
     "en": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.33778447,
+   "score": 0.33528763,
    "languages": [
     "en",
     "ru",
@@ -98,118 +185,32 @@
    ]
   },
   {
-   "id": "8e74e420-b05e-4975-9844-676c7156bd63",
+   "id": "fee55571-fe89-4a0b-acf1-e913c393b18e",
    "title": {
-    "en": "Destiny Unchain Online ~Kyuuketsu-ki Shoujo to natte, Yagate『 Aka no Maou』to Yobareru You ni Narimashita~"
+    "en": "Sword Art Online - Material Edition: Remix"
    },
    "contentRating": "safe",
-   "score": 0.33699542,
+   "score": 0.33495894,
    "languages": [
-    "en",
-    "id",
-    "vi",
-    "es-la"
+    "en"
    ]
   },
   {
-   "id": "fb35ddc5-d2eb-49cc-b963-e70260c0d0ca",
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
    "title": {
-    "en": "Hello Microcomputer"
+    "en": "Aishiteru Game wo Owarasetai"
    },
    "contentRating": "safe",
-   "score": 0.33651775
-  },
-  {
-   "id": "958350bf-1b92-47ef-87bd-e207dc1e3fb5",
-   "title": {
-    "en": "Ken to Mahou to Gakureki Shakai"
-   },
-   "contentRating": "safe",
-   "score": 0.33590487
-  },
-  {
-   "id": "f6919c25-e19a-4943-ab10-dfcbe18de240",
-   "title": {
-    "en": "Dead Zone"
-   },
-   "contentRating": "safe",
-   "score": 0.33242017
-  },
-  {
-   "id": "add5e886-ec4b-4383-bbe6-881b5142e84e",
-   "title": {
-    "en": "Campus Flower Guard"
-   },
-   "contentRating": "safe",
-   "score": 0.33221024,
+   "score": 0.33484986,
    "languages": [
-    "en",
     "fr",
-    "id"
-   ]
-  },
-  {
-   "id": "d5065166-27f0-47ce-b19f-71826da6608f",
-   "title": {
-    "en": "Jun and Kaoru (Webcomic)"
-   },
-   "contentRating": "safe",
-   "score": 0.33198115,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
-   "title": {
-    "en": "I want you to ask me first!"
-   },
-   "contentRating": "safe",
-   "score": 0.33156395,
-   "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
-   "title": {
-    "en": "Dou ka Ore wo Houtte Oitekure"
-   },
-   "contentRating": "safe",
-   "score": 0.33136955,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "932158c8-1f78-4f8d-be23-b205c479fe80",
-   "title": {
-    "en": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.33098188,
-   "languages": [
-    "es-la",
-    "it",
-    "en",
-    "de",
-    "id",
     "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "7727a283-4dca-4372-b1b5-de3e1c60723b",
-   "title": {
-    "en": "The Third: Aoi Hitomi no Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.3305539,
-   "languages": [
-    "de"
+    "uk",
+    "ru",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:37+00:00"
+ "updatedAt": "2023-12-10T18:16:18+00:00"
 }

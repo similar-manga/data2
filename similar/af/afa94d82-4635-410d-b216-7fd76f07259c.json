@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "75043a3f-daec-4ced-943c-65805e837c68",
+   "title": {
+    "en": "A Middle-aged Man Who Returned From Another World Becomes Unrivaled In The Apocalyptic World"
+   },
+   "contentRating": "safe",
+   "score": 0.29866737,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "d7a9dd46-4e6e-4477-8b93-8aebcd342de4",
    "title": {
     "en": "The Zombie Maria"
    },
    "contentRating": "safe",
-   "score": 0.29573527,
+   "score": 0.29435822,
    "languages": [
     "de",
     "fr",
@@ -39,12 +51,26 @@
    ]
   },
   {
+   "id": "74258dd0-a0fe-4979-b4f7-a0a7a044d951",
+   "title": {
+    "en": "Zombie Land SAGA"
+   },
+   "contentRating": "safe",
+   "score": 0.21777506,
+   "languages": [
+    "en",
+    "ru",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
    "id": "26101e7c-6ac9-47f1-8aaa-db28604177c2",
    "title": {
     "en": "Jalapeño"
    },
    "contentRating": "safe",
-   "score": 0.20635018,
+   "score": 0.2040696,
    "languages": [
     "en"
    ]
@@ -63,15 +89,44 @@
    ]
   },
   {
+   "id": "d4b99a69-f4ac-460a-910a-b578ba17cf17",
+   "title": {
+    "en": "Jank Runk Family"
+   },
+   "contentRating": "safe",
+   "score": 0.19245009,
+   "languages": [
+    "fr",
+    "en",
+    "id",
+    "it",
+    "ar"
+   ]
+  },
+  {
    "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
    "title": {
     "en": "Instant Death Cold Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.16915338,
+   "score": 0.16878346,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
+   "title": {
+    "en": "Fasting"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "es",
+    "pt-br",
+    "pl",
+    "en"
    ]
   },
   {
@@ -82,6 +137,18 @@
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b39d206-977b-4a9c-8844-7f85c5dac2ca",
+   "title": {
+    "en": "HUVAHH"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "uk",
     "en"
    ]
   },
@@ -112,28 +179,13 @@
    ]
   },
   {
-   "id": "2b39d206-977b-4a9c-8844-7f85c5dac2ca",
+   "id": "8649f9a9-3b18-44b5-b0d7-12c92edaed2b",
    "title": {
-    "en": "HUVAHH"
+    "en": "Placebo"
    },
    "contentRating": "safe",
-   "score": 0.16835876,
+   "score": 0.16572727,
    "languages": [
-    "uk",
-    "en"
-   ]
-  },
-  {
-   "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
-   "title": {
-    "en": "Fasting"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "es",
-    "pt-br",
-    "pl",
     "en"
    ]
   },
@@ -143,20 +195,8 @@
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.1650008,
+   "score": 0.16209781,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
-   "title": {
-    "en": "Peephole"
-   },
-   "contentRating": "safe",
-   "score": 0.16051778,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -166,7 +206,7 @@
     "en": "At the End of 4 Minutes"
    },
    "contentRating": "safe",
-   "score": 0.16017213,
+   "score": 0.15958512,
    "languages": [
     "vi",
     "fr",
@@ -174,42 +214,7 @@
     "pt-br",
     "ca"
    ]
-  },
-  {
-   "id": "4c909df0-09c3-4462-8e88-614cdf52018c",
-   "title": {
-    "en": "The Looming Figure"
-   },
-   "contentRating": "safe",
-   "score": 0.15475143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
-   "title": {
-    "en": "The Tale of That Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.15000789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d97fe2cf-6a94-4a2a-ab54-8ede4501172f",
-   "title": {
-    "en": "Dorachuu"
-   },
-   "contentRating": "safe",
-   "score": 0.14993966,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:00+00:00"
+ "updatedAt": "2023-12-10T18:28:00+00:00"
 }

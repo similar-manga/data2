@@ -6,12 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c538a02d-4903-4f0e-8c01-c1918f805470",
+   "title": {
+    "en": "A Heart for the Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.27682307,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1efb119d-e262-48a6-bc9b-592a116d1b6f",
+   "title": {
+    "en": "Light of the Dawn"
+   },
+   "contentRating": "safe",
+   "score": 0.26386437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "491b3873-fc61-4a6d-acc0-0ee6c8f30434",
    "title": {
     "en": "The Emperor's Mask"
    },
    "contentRating": "safe",
-   "score": 0.26200283
+   "score": 0.26100475
+  },
+  {
+   "id": "9534bbe3-b788-4d93-a1a9-71c1fd91b510",
+   "title": {
+    "en": "The Star of a Supreme Ruler"
+   },
+   "contentRating": "safe",
+   "score": 0.2577529,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "138bec6a-f95b-48b9-8c55-fe5a254ac819",
@@ -19,7 +52,7 @@
     "en": "What It Means to Be You"
    },
    "contentRating": "safe",
-   "score": 0.2479631,
+   "score": 0.24966988,
    "languages": [
     "en",
     "tr",
@@ -29,12 +62,26 @@
    ]
   },
   {
-   "id": "eae897f2-7912-417f-8904-3fa85fcec734",
+   "id": "f36ff411-90b2-4754-9d54-4cb140ec40d9",
    "title": {
-    "en": "Kill the Emperor"
+    "en": "One Morning I Woke Up"
    },
    "contentRating": "safe",
-   "score": 0.24303892,
+   "score": 0.24812709,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3e9144c9-be03-48f3-b06a-5297dbf6e87e",
+   "title": {
+    "en": "Stop This Marriage!"
+   },
+   "contentRating": "safe",
+   "score": 0.24710579,
    "languages": [
     "en"
    ]
@@ -45,10 +92,72 @@
     "en": "Marriage Alliance for Revenge"
    },
    "contentRating": "safe",
-   "score": 0.24138583,
+   "score": 0.24248275,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "c30817b7-77a0-44ce-a94b-16734adeac06",
+   "title": {
+    "en": "Tremble At My Power"
+   },
+   "contentRating": "safe",
+   "score": 0.2417754
+  },
+  {
+   "id": "6bf0a939-47ad-4888-ad17-7488ff55c07c",
+   "title": {
+    "en": "I Don't Love You Anymore"
+   },
+   "contentRating": "safe",
+   "score": 0.2402973,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "0e066ea4-14a9-4e91-b806-c072d14297a3",
+   "title": {
+    "en": "How to Survive Sleeping With the Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.23982756,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eae897f2-7912-417f-8904-3fa85fcec734",
+   "title": {
+    "en": "Kill the Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.23896469,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52766a43-5fbf-4f73-9939-6f857ccfd94b",
+   "title": {
+    "en": "The Gentle Tyrant"
+   },
+   "contentRating": "safe",
+   "score": 0.23557459
+  },
+  {
+   "id": "ecd6f09a-ecf2-4cb2-b30d-2d23dce7f4ce",
+   "title": {
+    "en": "For Snow White"
+   },
+   "contentRating": "safe",
+   "score": 0.23489504,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -57,7 +166,7 @@
     "en": "Xyrin Empire"
    },
    "contentRating": "safe",
-   "score": 0.23967731,
+   "score": 0.23454586,
    "languages": [
     "en",
     "fr",
@@ -65,122 +174,16 @@
    ]
   },
   {
-   "id": "f36ff411-90b2-4754-9d54-4cb140ec40d9",
+   "id": "dd35dd2c-0603-49f4-9710-7c0da1784219",
    "title": {
-    "en": "One Morning I Woke Up"
+    "en": "I Raised a Sickly Prince"
    },
    "contentRating": "safe",
-   "score": 0.23715414,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "ecd6f09a-ecf2-4cb2-b30d-2d23dce7f4ce",
-   "title": {
-    "en": "For Snow White"
-   },
-   "contentRating": "safe",
-   "score": 0.23655875,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "07032c61-c950-4d3b-a4e2-501353689faa",
-   "title": {
-    "en": "Race to Steal the Emperor's Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.23382092
-  },
-  {
-   "id": "45d0f9b3-5cf8-4cc9-9b74-7db6a44cdd37",
-   "title": {
-    "en": "Love Me, Su Dongpo"
-   },
-   "contentRating": "safe",
-   "score": 0.22284406,
+   "score": 0.2326329,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b145fa37-e63a-4c1c-a1b8-dc2d3e2ef351",
-   "title": {
-    "en": "Circle Zero's Otherworldly Hero Business: Reboot"
-   },
-   "contentRating": "safe",
-   "score": 0.22279088,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "3b2e458c-0e0d-4d7f-a9dd-35a17e56e7fe",
-   "title": {
-    "en": "Baby Dragon Tames the Crazy Guys"
-   },
-   "contentRating": "safe",
-   "score": 0.2165747,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "140b6ed1-c7b0-458f-b92d-ac19829e3926",
-   "title": {
-    "en": "I Want To Be The Emperor"
-   },
-   "contentRating": "safe",
-   "score": 0.21582906,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d08e05bf-0b18-49f5-9469-78d72c72b920",
-   "title": {
-    "en": "Second Life"
-   },
-   "contentRating": "safe",
-   "score": 0.21549463,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "66ee6022-406c-4827-b31e-14d4f208e968",
-   "title": {
-    "en": "She No Longer Wields Her Sword"
-   },
-   "contentRating": "safe",
-   "score": 0.21477261
-  },
-  {
-   "id": "9f80707a-e2ef-4c47-96ae-afd5e2d86799",
-   "title": {
-    "en": "Time Roulette"
-   },
-   "contentRating": "safe",
-   "score": 0.2137927
-  },
-  {
-   "id": "46c7e11d-9103-47c1-91d2-ba5db06f9b69",
-   "title": {
-    "en": "My Memories About You"
-   },
-   "contentRating": "safe",
-   "score": 0.21197636
   }
  ],
- "updatedAt": "2023-12-10T01:03:06+00:00"
+ "updatedAt": "2023-12-10T18:17:31+00:00"
 }

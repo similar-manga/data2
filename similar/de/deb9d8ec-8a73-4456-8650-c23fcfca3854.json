@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "07e7f841-eea2-4eb4-9b92-8eaa4cfdd19c",
+   "title": {
+    "en": "Tales of the Prehistoric Animal Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.23181245,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "417d2d14-4c31-4af3-8dbd-4d31686cef5a",
    "title": {
     "en": "Anime Shop Manager"
    },
    "contentRating": "safe",
-   "score": 0.21769144,
+   "score": 0.21627876,
    "languages": [
     "en"
    ]
@@ -22,7 +33,31 @@
     "en": "Mirai no Musuko - Koibito Inai Reki 10-nen no Watashi ni Musuko ga Futtekita!"
    },
    "contentRating": "safe",
-   "score": 0.21359676
+   "score": 0.21094742
+  },
+  {
+   "id": "9e1d1218-de3e-446a-9fd9-094dd751b3ab",
+   "title": {
+    "en": "Oide yo Doubutsu Byouin!"
+   },
+   "contentRating": "safe",
+   "score": 0.20666684
+  },
+  {
+   "id": "7d6c2d86-6a2e-427a-a8fa-147e91d970c4",
+   "title": {
+    "en": "Nitobe Inazou"
+   },
+   "contentRating": "safe",
+   "score": 0.20644996
+  },
+  {
+   "id": "9d87b3c1-3345-42fa-9290-c727e2666614",
+   "title": {
+    "en": "Shippo ga Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.20071545
   },
   {
    "id": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
@@ -30,7 +65,7 @@
     "en": "Boku no Tsuma wa Kanjou ga Nai"
    },
    "contentRating": "safe",
-   "score": 0.200244,
+   "score": 0.20067625,
    "languages": [
     "en",
     "vi",
@@ -39,12 +74,23 @@
    ]
   },
   {
+   "id": "6f5a0267-56eb-458d-9daf-f3315af47dae",
+   "title": {
+    "en": "The Star of the Sea - I'm Clever!"
+   },
+   "contentRating": "safe",
+   "score": 0.19485022,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
    "title": {
     "en": "Snow White with the Red Hair"
    },
    "contentRating": "safe",
-   "score": 0.19432585,
+   "score": 0.1936322,
    "languages": [
     "en",
     "pt-br",
@@ -55,31 +101,12 @@
    ]
   },
   {
-   "id": "b5a6d8e3-b38d-4f44-b1e0-e890681bda85",
-   "title": {
-    "en": "Denkyu"
-   },
-   "contentRating": "safe",
-   "score": 0.19302338
-  },
-  {
    "id": "6130f038-0c1c-479c-a9f0-9d3cb453ceb1",
    "title": {
     "en": "Kawaisugi Crisis"
    },
    "contentRating": "safe",
-   "score": 0.192901,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b3d1a2d-ee92-4283-9380-b1d40cf4d155",
-   "title": {
-    "en": "Shipwrecked!"
-   },
-   "contentRating": "safe",
-   "score": 0.19271086,
+   "score": 0.19300862,
    "languages": [
     "en"
    ]
@@ -90,7 +117,7 @@
     "en": "Hinadori Girl"
    },
    "contentRating": "safe",
-   "score": 0.19192654
+   "score": 0.19246437
   },
   {
    "id": "58f807bd-1f51-4d80-972f-2cc89a844a79",
@@ -98,79 +125,40 @@
     "en": "Osamu Tezuka Mother's Once Upon a Time"
    },
    "contentRating": "safe",
-   "score": 0.19134946
+   "score": 0.19079658
   },
   {
-   "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
+   "id": "b5a6d8e3-b38d-4f44-b1e0-e890681bda85",
    "title": {
-    "en": "BEASTARS (Fan-Colored)"
+    "en": "Denkyu"
    },
    "contentRating": "safe",
-   "score": 0.19116901,
-   "languages": [
-    "fr",
-    "en"
-   ]
+   "score": 0.19024883
   },
   {
-   "id": "2bbf1d99-b9b7-4c88-92b4-cbc09dd3eec2",
+   "id": "3dd457b0-baf2-4d7c-a3b9-65cced3158e4",
    "title": {
-    "en": "Honey Honey's Wonderful Adventures"
+    "en": "Ougishima Saijiki"
    },
    "contentRating": "safe",
-   "score": 0.18995072
+   "score": 0.19017546
   },
   {
-   "id": "eb6dee39-20ab-4546-bca9-ba6debd7a1a9",
+   "id": "cf8c065e-66a7-4ec2-8fb6-ad3afae8077d",
    "title": {
-    "en": "Manabiya Ouji"
+    "en": "Tenjou Renka: Kin no Oujo to Hi no Kusushi"
    },
    "contentRating": "safe",
-   "score": 0.18965083,
-   "languages": [
-    "en"
-   ]
+   "score": 0.19017546
   },
   {
-   "id": "774d7f24-bb07-4d45-be66-6b74ef0e7e6b",
+   "id": "79f6a0aa-422f-444c-b2e1-1c78450d0831",
    "title": {
-    "en": "Mojako"
+    "en": "Shouwa Fanfare"
    },
    "contentRating": "safe",
-   "score": 0.18904422
-  },
-  {
-   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
-   "title": {
-    "en": "Miraizer Vam"
-   },
-   "contentRating": "safe",
-   "score": 0.18821198
-  },
-  {
-   "id": "73cc2493-418a-47b8-8d15-182b46cfa37e",
-   "title": {
-    "en": "10,000 Light-Year Binoculars"
-   },
-   "contentRating": "safe",
-   "score": 0.18752433,
-   "languages": [
-    "vi",
-    "fr",
-    "id",
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "1d88fc5f-617d-477b-9cff-55f3ac653878",
-   "title": {
-    "en": "Scylla"
-   },
-   "contentRating": "safe",
-   "score": 0.18724819
+   "score": 0.19017546
   }
  ],
- "updatedAt": "2023-12-10T01:08:56+00:00"
+ "updatedAt": "2023-12-10T18:32:56+00:00"
 }

@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
-   "title": {
-    "en": "Nyan Koi!"
-   },
-   "contentRating": "safe",
-   "score": 0.29266816,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "e1585639-caf3-4c0b-b03a-918362d3d5dc",
    "title": {
     "en": "Yokuwakaru Gendai Mahou"
@@ -30,12 +17,25 @@
    ]
   },
   {
+   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
+   "title": {
+    "en": "Nyan Koi!"
+   },
+   "contentRating": "safe",
+   "score": 0.28181916,
+   "languages": [
+    "pl",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "84947b8a-71fa-47f7-bfd7-6ee0f45228e3",
    "title": {
     "en": "Wild Half"
    },
    "contentRating": "safe",
-   "score": 0.25414276,
+   "score": 0.25232133,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Paradise Rule"
    },
    "contentRating": "safe",
-   "score": 0.23604627,
+   "score": 0.23693089,
    "languages": [
     "en"
    ]
@@ -89,12 +89,57 @@
    ]
   },
   {
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
+   "title": {
+    "en": "Surviving Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.2206373,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fd379676-def6-4e1c-8062-9959b062e2b8",
+   "title": {
+    "en": "SCARS"
+   },
+   "contentRating": "safe",
+   "score": 0.21730776,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
+   "title": {
+    "en": "Meteo Emblem"
+   },
+   "contentRating": "safe",
+   "score": 0.21690431,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9f87f85d-06ea-49f8-b4e2-decb48315854",
+   "title": {
+    "en": "The Legend of the Ancient Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.21175261,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "2f250080-875e-42cd-bd7b-d67ca8bd1f51",
    "title": {
     "en": "Albaroze no Neko"
    },
    "contentRating": "safe",
-   "score": 0.21318766,
+   "score": 0.20640898,
    "languages": [
     "en"
    ]
@@ -105,21 +150,23 @@
     "en": "Pandora's Cube"
    },
    "contentRating": "safe",
-   "score": 0.20480193,
+   "score": 0.20381726,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
+   "id": "1b0673c7-f4e9-4e3a-bfbd-46835ab22819",
    "title": {
-    "en": "GOD EATER - Kyuuseishu no Kikan"
+    "en": "Edomae Elf"
    },
    "contentRating": "safe",
-   "score": 0.20231262,
+   "score": 0.20203052,
    "languages": [
-    "es",
-    "en"
+    "pt-br",
+    "en",
+    "th",
+    "es-la"
    ]
   },
   {
@@ -135,62 +182,17 @@
    ]
   },
   {
-   "id": "ba129667-91ae-414d-bca8-0d316e53b113",
+   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
    "title": {
-    "en": "Demon Accessory"
+    "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.20175882,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ef2bf2ee-265d-461c-a30c-a3ec1782e2f0",
-   "title": {
-    "en": "It to Lily"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "899ac405-c941-4333-83f6-48bc0193e516",
-   "title": {
-    "en": "Meteor Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "20418bf4-4724-449a-aa74-aee73ccc44d2",
-   "title": {
-    "en": "Tozasareta Nergal"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf081d30-5fb3-4cee-b3cc-05ee89f4fcbc",
-   "title": {
-    "en": "City Hall"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
+    "es",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:56+00:00"
+ "updatedAt": "2023-12-10T18:27:47+00:00"
 }

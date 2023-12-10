@@ -11,7 +11,7 @@
     "en": "See you soon."
    },
    "contentRating": "safe",
-   "score": 0.25920552,
+   "score": 0.25883105,
    "languages": [
     "hu",
     "en"
@@ -23,7 +23,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.25819278,
+   "score": 0.25769246,
    "languages": [
     "pt-br",
     "ru",
@@ -33,14 +33,25 @@
    ]
   },
   {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
+   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
    "title": {
-    "en": "Olga A Yiri"
+    "en": "Dodoitsu"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
-    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
+   "title": {
+    "en": "F.P. Ageha"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
     "en"
    ]
   },
@@ -69,18 +80,6 @@
    ]
   },
   {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
-   "title": {
-    "en": "Dodoitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
    "title": {
     "en": "Kanai-kun"
@@ -97,13 +96,14 @@
    ]
   },
   {
-   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
+   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
    "title": {
-    "en": "F.P. Ageha"
+    "en": "Olga A Yiri"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -129,7 +129,7 @@
     "en": "Three Months Since You Called Me Mama"
    },
    "contentRating": "safe",
-   "score": 0.23847617,
+   "score": 0.2414913,
    "languages": [
     "en"
    ]
@@ -140,10 +140,21 @@
     "en": "Shouni Ryouri"
    },
    "contentRating": "safe",
-   "score": 0.2380111,
+   "score": 0.237507,
    "languages": [
     "es-la",
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "683117b1-e326-4bc8-b189-e4f17940bf56",
+   "title": {
+    "en": "Chiisai Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.23314376,
+   "languages": [
     "en"
    ]
   },
@@ -153,7 +164,7 @@
     "en": "Green"
    },
    "contentRating": "safe",
-   "score": 0.231914,
+   "score": 0.23201022,
    "languages": [
     "ar",
     "it",
@@ -167,7 +178,7 @@
     "en": "Years"
    },
    "contentRating": "safe",
-   "score": 0.2227808,
+   "score": 0.22245574,
    "languages": [
     "es",
     "en",
@@ -177,38 +188,27 @@
    ]
   },
   {
+   "id": "e9134507-1631-4c68-bce1-3cfa7f78eb3e",
+   "title": {
+    "en": "Uraura Hikaru: Shinshin ni Mitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.22213702,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
    "title": {
     "en": "Black Coffee"
    },
    "contentRating": "safe",
-   "score": 0.22046201,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "42647c77-390c-41d9-a7fc-4cdfd8882050",
-   "title": {
-    "en": "Hakobune no Biosophia"
-   },
-   "contentRating": "safe",
-   "score": 0.21986026,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "abcad188-1350-4844-be42-d69633a5bf27",
-   "title": {
-    "en": "Potechi"
-   },
-   "contentRating": "safe",
-   "score": 0.21708722,
+   "score": 0.22070143,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:08+00:00"
+ "updatedAt": "2023-12-10T18:09:23+00:00"
 }

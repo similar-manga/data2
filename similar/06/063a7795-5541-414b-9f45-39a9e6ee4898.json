@@ -11,7 +11,7 @@
     "en": "4 Cut Hero"
    },
    "contentRating": "suggestive",
-   "score": 0.28195864,
+   "score": 0.2763416,
    "languages": [
     "ru",
     "en",
@@ -26,7 +26,7 @@
     "en": "The Bourgeoisie Hero"
    },
    "contentRating": "suggestive",
-   "score": 0.24798675,
+   "score": 0.24565502,
    "languages": [
     "en",
     "ru"
@@ -38,7 +38,7 @@
     "en": "Maou no Mama ni Narundayo"
    },
    "contentRating": "suggestive",
-   "score": 0.24633044,
+   "score": 0.24179691,
    "languages": [
     "ru",
     "en"
@@ -50,24 +50,11 @@
     "en": "There's a Demon Lord on the Floor"
    },
    "contentRating": "suggestive",
-   "score": 0.23977964,
+   "score": 0.23372728,
    "languages": [
     "pt-br",
     "fr",
     "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "2436b0ca-e68f-49b1-babe-3e41910b81c2",
-   "title": {
-    "en": "From Leveling Up the Hero to Leveling Up a Nation"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2132301,
-   "languages": [
-    "en",
-    "pt-br",
     "es-la"
    ]
   },
@@ -77,7 +64,7 @@
     "en": "Modern MoGal"
    },
    "contentRating": "suggestive",
-   "score": 0.20981061,
+   "score": 0.2115331,
    "languages": [
     "fr",
     "en",
@@ -88,12 +75,36 @@
    ]
   },
   {
+   "id": "2436b0ca-e68f-49b1-babe-3e41910b81c2",
+   "title": {
+    "en": "From Leveling Up the Hero to Leveling Up a Nation"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21009101,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "f121443c-b9f9-4e7a-ae3c-1a009bed5e62",
    "title": {
     "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.20945452,
+   "score": 0.20624404,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "124cd435-083e-41fa-9854-46ede72f30f4",
+   "title": {
+    "en": "I Am the Undying God"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20327632,
    "languages": [
     "en"
    ]
@@ -104,7 +115,7 @@
     "en": "Hero-kun Won't Set Out!"
    },
    "contentRating": "suggestive",
-   "score": 0.20480263,
+   "score": 0.20293777,
    "languages": [
     "it",
     "pt-br",
@@ -114,23 +125,12 @@
    ]
   },
   {
-   "id": "124cd435-083e-41fa-9854-46ede72f30f4",
-   "title": {
-    "en": "I Am the Undying God"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20379414,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f6e7ce00-e09c-4ed2-b806-eb2fdc7a5f60",
    "title": {
     "en": "I, the Strongest Demon, Have Regained My Youth?!"
    },
    "contentRating": "suggestive",
-   "score": 0.20160758,
+   "score": 0.19975148,
    "languages": [
     "en",
     "ru",
@@ -138,19 +138,6 @@
     "pt-br",
     "fr",
     "pl"
-   ]
-  },
-  {
-   "id": "bd805543-fbb8-47dc-bd2d-0d13c4675c2f",
-   "title": {
-    "en": "Sperman"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19320974,
-   "languages": [
-    "en",
-    "fr",
-    "id"
    ]
   },
   {
@@ -188,17 +175,6 @@
    ]
   },
   {
-   "id": "cf4a2e0a-b78c-4a46-80a2-110332e0c6d4",
-   "title": {
-    "en": "Ookiku Nacchaukei Joshi no Chiisana Tatakai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4bc0e60d-1ea3-47fe-ab08-8f3553b9dd5f",
    "title": {
     "en": "Blinding Flower"
@@ -210,7 +186,31 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "cf4a2e0a-b78c-4a46-80a2-110332e0c6d4",
+   "title": {
+    "en": "Ookiku Nacchaukei Joshi no Chiisana Tatakai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19166298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bd805543-fbb8-47dc-bd2d-0d13c4675c2f",
+   "title": {
+    "en": "Sperman"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19111897,
+   "languages": [
+    "en",
+    "fr",
+    "id"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:00+00:00"
+ "updatedAt": "2023-12-10T18:09:01+00:00"
 }

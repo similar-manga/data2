@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ebdcb990-a71b-4259-979c-fa65abe0c24a",
+   "title": {
+    "en": "Zanmu"
+   },
+   "contentRating": "safe",
+   "score": 0.15795207,
+   "languages": [
+    "vi",
+    "fr",
+    "ru"
+   ]
+  },
+  {
    "id": "0fbcdc4e-c990-40e5-a9b0-4d0816206783",
    "title": {
     "en": "Black Lagoon: Eda Initial stage"
@@ -26,7 +39,7 @@
     "en": "Serial Killer Isekai ni Oritatsu"
    },
    "contentRating": "safe",
-   "score": 0.15195952,
+   "score": 0.1514641,
    "languages": [
     "es-la",
     "fr",
@@ -42,7 +55,7 @@
     "en": "Tank Chair"
    },
    "contentRating": "safe",
-   "score": 0.14836569,
+   "score": 0.14866191,
    "languages": [
     "vi",
     "en",
@@ -52,12 +65,23 @@
    ]
   },
   {
+   "id": "bb44c651-8b6c-4977-aa63-cab6ad478f2b",
+   "title": {
+    "en": "Haikaisha"
+   },
+   "contentRating": "safe",
+   "score": 0.14681897,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
    "title": {
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.14264664,
+   "score": 0.14158516,
    "languages": [
     "en",
     "it",
@@ -81,7 +105,7 @@
     "en": "Choujin X"
    },
    "contentRating": "safe",
-   "score": 0.13170658,
+   "score": 0.13096987,
    "languages": [
     "pt-br",
     "ar",
@@ -110,6 +134,18 @@
     "pt-br",
     "es",
     "vi"
+   ]
+  },
+  {
+   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
+   "title": {
+    "en": "Usagi ga Nihiki"
+   },
+   "contentRating": "safe",
+   "score": 0.12865125,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -166,103 +202,59 @@
    ]
   },
   {
-   "id": "f546580d-2bf5-4738-a2d9-420f6e56970b",
+   "id": "fbd2ccea-7121-468f-b46f-cd5b3b918bcf",
    "title": {
-    "en": "Doraemon (Hino Hideshi)"
+    "en": "Mononobe Koshoten Kaikitan"
    },
    "contentRating": "safe",
-   "score": 0.10595746,
+   "score": 0.11747459,
    "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "0f5b5af4-15e7-41bd-9e33-d0e8e0934599",
-   "title": {
-    "en": "Noroi no Video no Tadashii Kanshou Style"
-   },
-   "contentRating": "safe",
-   "score": 0.09746692,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "d773c8be-8e82-4ff1-a4e9-46171395319b",
-   "title": {
-    "en": "The Saga of Tanya the Evil"
-   },
-   "contentRating": "safe",
-   "score": 0.09403941,
-   "languages": [
-    "hu",
-    "pt-br",
-    "ru",
     "en",
     "vi",
-    "id",
-    "uk",
-    "es-la",
-    "es",
-    "pl"
+    "es-la"
    ]
   },
   {
-   "id": "3683f667-c23d-4688-b872-0ade276aaafa",
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
    "title": {
-    "en": "Rekkyou Sensen"
+    "en": "Majo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.0923991,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "f052fabc-7687-4140-ba3a-22e43009cd3d",
-   "title": {
-    "en": "Oni (KANNO Osamu)"
-   },
-   "contentRating": "safe",
-   "score": 0.09202033,
+   "score": 0.11747459,
    "languages": [
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "1481bb8c-e782-4f95-b638-bf2b449551a1",
-   "title": {
-    "en": "Jigoku no Ashita"
-   },
-   "contentRating": "safe",
-   "score": 0.09179165,
-   "languages": [
+    "pt-br",
     "en",
-    "vi"
+    "ru"
    ]
   },
   {
-   "id": "f89d8d7e-5ca0-4de1-90e2-bdff506a92c4",
+   "id": "7a27b83a-002c-41f3-96a6-e57b6cc9a222",
    "title": {
-    "en": "The Love and Lies of a..."
+    "en": "Satsudou"
    },
    "contentRating": "safe",
-   "score": 0.08651391,
+   "score": 0.10772381,
    "languages": [
+    "vi",
     "fr",
     "en",
-    "vi",
-    "pl"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3e36f4b5-37f3-4413-8aa4-67dd80275972",
+   "title": {
+    "en": "Zashisu"
+   },
+   "contentRating": "safe",
+   "score": 0.10733975,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:22+00:00"
+ "updatedAt": "2023-12-10T18:18:09+00:00"
 }

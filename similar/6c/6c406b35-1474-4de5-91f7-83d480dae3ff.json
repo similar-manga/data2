@@ -22,7 +22,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.20512848,
+   "score": 0.20423456,
    "languages": [
     "zh-hk",
     "en",
@@ -47,7 +47,7 @@
     "en": "Dai Dark"
    },
    "contentRating": "safe",
-   "score": 0.2048085,
+   "score": 0.202488,
    "languages": [
     "ru",
     "pt-br",
@@ -67,7 +67,7 @@
     "en": "Choujin X"
    },
    "contentRating": "safe",
-   "score": 0.20448191,
+   "score": 0.20171581,
    "languages": [
     "pt-br",
     "ar",
@@ -87,7 +87,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.19914998,
+   "score": 0.19804691,
    "languages": [
     "ru",
     "en",
@@ -126,7 +126,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.19703642,
+   "score": 0.19606079,
    "languages": [
     "pt-br",
     "ru",
@@ -156,21 +156,10 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.19285142,
+   "score": 0.19180556,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
-   "title": {
-    "ja": "Raid on Tokyo"
-   },
-   "contentRating": "safe",
-   "score": 0.1903367,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -197,12 +186,34 @@
    ]
   },
   {
+   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
+   "title": {
+    "ja": "Raid on Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.18980095,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.18756329,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3683f667-c23d-4688-b872-0ade276aaafa",
    "title": {
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.18843281,
+   "score": 0.1872905,
    "languages": [
     "en",
     "pt-br",
@@ -229,20 +240,7 @@
     "es",
     "it"
    ]
-  },
-  {
-   "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
-   "title": {
-    "en": "Dogs / Bullets \u0026 Carnage"
-   },
-   "contentRating": "safe",
-   "score": 0.18473308,
-   "languages": [
-    "en",
-    "bg",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:03+00:00"
+ "updatedAt": "2023-12-10T18:20:02+00:00"
 }

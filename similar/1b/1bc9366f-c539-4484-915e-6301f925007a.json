@@ -11,7 +11,7 @@
     "en": "Himitsu Sentai Gorenger Pretend"
    },
    "contentRating": "suggestive",
-   "score": 0.34782764
+   "score": 0.34043464
   },
   {
    "id": "454aee04-16cb-454d-8950-f2fbae64f0b0",
@@ -41,14 +41,6 @@
    "score": 0.19440396
   },
   {
-   "id": "39ed2cb6-af58-4a38-a9a1-162334c13c69",
-   "title": {
-    "en": "Lock Warrior Keymaster"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19440396
-  },
-  {
    "id": "76ee4f54-e2a0-4e0e-b2ce-68fcc99c9769",
    "title": {
     "en": "Brave Police J-Decker"
@@ -57,17 +49,28 @@
    "score": 0.19440396
   },
   {
+   "id": "39ed2cb6-af58-4a38-a9a1-162334c13c69",
+   "title": {
+    "en": "Lock Warrior Keymaster"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19440396
+  },
+  {
+   "id": "94afe8d8-8be0-4597-bd5e-b624546d6044",
+   "title": {
+    "en": "Kami wa Saikoro o Furanai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18215448,
+   "languages": [
+    "es"
+   ]
+  },
+  {
    "id": "bd2fa91a-d921-439b-9eb8-db71af5dac49",
    "title": {
     "en": "Pettonton"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18144369
-  },
-  {
-   "id": "c0fca6ee-d59a-4a27-8921-a7edfb58ce96",
-   "title": {
-    "en": "Best Parodius"
    },
    "contentRating": "suggestive",
    "score": 0.18144369
@@ -84,15 +87,12 @@
    ]
   },
   {
-   "id": "94afe8d8-8be0-4597-bd5e-b624546d6044",
+   "id": "c0fca6ee-d59a-4a27-8921-a7edfb58ce96",
    "title": {
-    "en": "Kami wa Saikoro o Furanai"
+    "en": "Best Parodius"
    },
    "contentRating": "suggestive",
-   "score": 0.18087187,
-   "languages": [
-    "es"
-   ]
+   "score": 0.18144369
   },
   {
    "id": "dd805023-6f85-4a02-b1cc-ee478435f509",
@@ -108,7 +108,7 @@
     "en": "Omega Gender ~Songs Sung by Angels at Dawn~"
    },
    "contentRating": "suggestive",
-   "score": 0.17604236
+   "score": 0.17912711
   },
   {
    "id": "12f590c8-e6d4-49ef-a222-3b44eac90388",
@@ -127,26 +127,28 @@
    "score": 0.16835876
   },
   {
-   "id": "3a6977cb-3494-4f93-a2e7-48853dfe3325",
+   "id": "c3ee8fdf-a64a-47fd-bbf1-b01cdf9a021b",
    "title": {
-    "ja": "\"Oppai Momitai\" tte Sakendara, Imouto no Tomodachi to Tsukiau Koto ni Narimashita."
+    "en": "Oh! Gatti-Man"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15713485
+  },
+  {
+   "id": "68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+   "title": {
+    "ja": "Kamiyama-san No Kamibukuro No Naka Ni wa"
    },
    "contentRating": "suggestive",
    "score": 0.15713485,
    "languages": [
     "en",
-    "id",
-    "es-la"
+    "pt-br",
+    "es-la",
+    "fr",
+    "id"
    ]
-  },
-  {
-   "id": "229bbccc-5a9d-45c4-864d-a9ea953811ea",
-   "title": {
-    "en": "Is it Really Good?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15713485
   }
  ],
- "updatedAt": "2023-12-10T01:00:49+00:00"
+ "updatedAt": "2023-12-10T18:11:18+00:00"
 }

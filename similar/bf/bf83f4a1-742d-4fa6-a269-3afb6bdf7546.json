@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0d3eb2fd-15aa-41f2-8276-557fa4a01931",
+   "title": {
+    "en": "Aoki Shinwa Mars"
+   },
+   "contentRating": "safe",
+   "score": 0.28836516
+  },
+  {
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
    "title": {
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.2661663,
+   "score": 0.26546454,
    "languages": [
     "en"
    ]
@@ -22,7 +30,15 @@
     "en": "Super Jetter"
    },
    "contentRating": "safe",
-   "score": 0.25906584
+   "score": 0.25639755
+  },
+  {
+   "id": "372774de-b310-47b3-a21b-b42d9644c7ce",
+   "title": {
+    "en": "Groizer X"
+   },
+   "contentRating": "safe",
+   "score": 0.24561495
   },
   {
    "id": "356d88fb-687b-42e7-a516-b95250156708",
@@ -42,7 +58,7 @@
     "en": "Rockman-chan"
    },
    "contentRating": "safe",
-   "score": 0.24135822,
+   "score": 0.23888509,
    "languages": [
     "es",
     "en",
@@ -55,19 +71,11 @@
     "en": "Mega Man: The Deadly Struggle on Mu Arc"
    },
    "contentRating": "safe",
-   "score": 0.23717521,
+   "score": 0.23595229,
    "languages": [
     "en",
     "es"
    ]
-  },
-  {
-   "id": "372774de-b310-47b3-a21b-b42d9644c7ce",
-   "title": {
-    "en": "Groizer X"
-   },
-   "contentRating": "safe",
-   "score": 0.23479204
   },
   {
    "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
@@ -75,8 +83,20 @@
     "en": "Cyber Blue - Lost Number Children"
    },
    "contentRating": "safe",
-   "score": 0.23372743,
+   "score": 0.2341101,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cec577bc-7795-400e-a656-59eca3f7556c",
+   "title": {
+    "en": "Super Robot Taisen - Original Generation SAGA"
+   },
+   "contentRating": "safe",
+   "score": 0.233083,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -100,7 +120,7 @@
     "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
    },
    "contentRating": "safe",
-   "score": 0.22766699,
+   "score": 0.22728978,
    "languages": [
     "en"
    ]
@@ -111,7 +131,27 @@
     "en": "Pirates of the Desert! Captain Kuupa"
    },
    "contentRating": "safe",
-   "score": 0.22713749
+   "score": 0.22634211
+  },
+  {
+   "id": "20a10c57-e2cb-480b-85ee-42a2cc8e1005",
+   "title": {
+    "en": "Robot Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.22615626
+  },
+  {
+   "id": "a12bbc1f-06f7-4793-9538-7bf4da66ba0f",
+   "title": {
+    "en": "Rockman world 5"
+   },
+   "contentRating": "safe",
+   "score": 0.2228397,
+   "languages": [
+    "es",
+    "en"
+   ]
   },
   {
    "id": "3c19a0b4-17d9-4524-a5be-beac7dbb5ff6",
@@ -119,61 +159,20 @@
     "en": "Planetary Mask"
    },
    "contentRating": "safe",
-   "score": 0.22303656
+   "score": 0.22240333
   },
   {
-   "id": "c1493cba-5027-41cf-a1c3-15bef296b0be",
+   "id": "a3b75737-7783-4967-969a-278161c78b09",
    "title": {
-    "en": "Mega Man X - Team X, Move Out!!"
+    "en": "Dogs and Heroes Don't Dress Up"
    },
    "contentRating": "safe",
-   "score": 0.22193067,
+   "score": 0.2223404,
    "languages": [
-    "es"
-   ]
-  },
-  {
-   "id": "8fdd44fc-d9d0-4988-afa8-91e697648d7d",
-   "title": {
-    "en": "Rockman"
-   },
-   "contentRating": "safe",
-   "score": 0.22193067,
-   "languages": [
-    "es"
-   ]
-  },
-  {
-   "id": "5a7699cc-bbe9-4a46-a41b-30c2debcd671",
-   "title": {
-    "en": "Inazuman VS Kikaider"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681
-  },
-  {
-   "id": "7da1a192-9d4d-451a-a954-15ee5acf0f51",
-   "title": {
-    "en": "Kikaider 02"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681
-  },
-  {
-   "id": "7a560dbe-40cb-4fba-8c63-b7888b1fede4",
-   "title": {
-    "en": "Mega Man 11"
-   },
-   "contentRating": "safe",
-   "score": 0.21867777,
-   "languages": [
-    "ar",
-    "es",
-    "fr",
-    "vi",
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:39+00:00"
+ "updatedAt": "2023-12-10T18:29:41+00:00"
 }

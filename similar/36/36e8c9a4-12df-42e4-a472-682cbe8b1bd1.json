@@ -11,7 +11,7 @@
     "en": "Footballman Taka"
    },
    "contentRating": "safe",
-   "score": 0.41690627
+   "score": 0.41646418
   },
   {
    "id": "71d07162-16dd-4178-a7ef-003d66360574",
@@ -19,7 +19,7 @@
     "en": "Angel Voice"
    },
    "contentRating": "safe",
-   "score": 0.3624819,
+   "score": 0.36185026,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Kickoff to Tomorrow"
    },
    "contentRating": "safe",
-   "score": 0.33679795
+   "score": 0.337399
   },
   {
    "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
@@ -38,7 +38,7 @@
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.33310643,
+   "score": 0.33020085,
    "languages": [
     "fr",
     "vi",
@@ -57,7 +57,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.31175128,
+   "score": 0.3131896,
    "languages": [
     "ru",
     "vi",
@@ -79,7 +79,7 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.2923698,
+   "score": 0.28803167,
    "languages": [
     "ru",
     "en",
@@ -87,32 +87,12 @@
    ]
   },
   {
-   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
-   "title": {
-    "en": "Play Ball"
-   },
-   "contentRating": "safe",
-   "score": 0.2877192
-  },
-  {
    "id": "db8050ed-2e69-4616-85b5-f615b74d2c80",
    "title": {
     "en": "Ucchare! Goshogawara"
    },
    "contentRating": "safe",
-   "score": 0.28568146
-  },
-  {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
-   "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
-   },
-   "contentRating": "safe",
-   "score": 0.27652964,
-   "languages": [
-    "it",
-    "en"
-   ]
+   "score": 0.28367132
   },
   {
    "id": "ff483bb4-416c-4bfa-934b-11407da72530",
@@ -120,9 +100,21 @@
     "en": "Captain Tsubasa Special Arc: Dream of a Pro-Debut in Brazil"
    },
    "contentRating": "safe",
-   "score": 0.2680083,
+   "score": 0.2689725,
    "languages": [
     "it"
+   ]
+  },
+  {
+   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "title": {
+    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+   },
+   "contentRating": "safe",
+   "score": 0.2677687,
+   "languages": [
+    "it",
+    "en"
    ]
   },
   {
@@ -131,36 +123,29 @@
     "en": "Hungry Heart"
    },
    "contentRating": "safe",
-   "score": 0.2617983
+   "score": 0.25984776
   },
   {
-   "id": "a9bf14be-fcff-4eea-9c45-ba3e40d399fa",
+   "id": "44daaf9c-53ea-4a06-9a8b-9a695885fa5a",
    "title": {
-    "en": "Musashi (KAWASAKI Noboru)"
+    "en": "Devil Football Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.23965968
+   "score": 0.258935
   },
   {
-   "id": "64cd0472-db8b-4686-b039-c1b8ffb44cb0",
+   "id": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
    "title": {
-    "en": "Yamato Takeru (WATSUKI Nobuhiro)"
+    "en": "Burning Kabaddi"
    },
    "contentRating": "safe",
-   "score": 0.2375632,
+   "score": 0.25773367,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca21d6ea-64af-48cd-ad04-22c0174df350",
-   "title": {
-    "en": "Idejuu!"
-   },
-   "contentRating": "safe",
-   "score": 0.23556614,
-   "languages": [
-    "en"
+    "en",
+    "fr",
+    "hi",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -169,39 +154,38 @@
     "en": "Animal 1"
    },
    "contentRating": "safe",
-   "score": 0.23517649
+   "score": 0.25506157
   },
   {
-   "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
+   "id": "c8b55f34-21a4-4ca7-8e5d-d58d38fe3203",
    "title": {
-    "en": "Jujutsu Kaisen"
+    "en": "Blue Lock (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.23220472,
+   "score": 0.2538107,
    "languages": [
-    "it",
-    "hu",
-    "pt-br",
-    "ru",
-    "en",
-    "es-la",
-    "ar",
-    "fr",
-    "vi",
-    "uk",
-    "he",
-    "id",
-    "zh-hk",
-    "es",
-    "de",
-    "",
-    "sr",
-    "th",
-    "mn",
-    "ms",
-    "tr"
+    "en"
    ]
+  },
+  {
+   "id": "7f854d21-0d00-4f24-a835-b28834daacc9",
+   "title": {
+    "en": "Hachigatsu no Cinderella Nine S"
+   },
+   "contentRating": "safe",
+   "score": 0.2530486,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f5e5bd3-a357-48d7-8373-1408c046cf5c",
+   "title": {
+    "en": "Do Your Best, Shonen Giants"
+   },
+   "contentRating": "safe",
+   "score": 0.24808976
   }
  ],
- "updatedAt": "2023-12-10T01:01:52+00:00"
+ "updatedAt": "2023-12-10T18:14:11+00:00"
 }

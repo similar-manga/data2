@@ -23,7 +23,7 @@
     "en": "Napoleon - Age of the Lion"
    },
    "contentRating": "safe",
-   "score": 0.22789165,
+   "score": 0.22712497,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.22609426,
+   "score": 0.22555296,
    "languages": [
     "en",
     "it",
@@ -58,9 +58,32 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.22357254,
+   "score": 0.22268687,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.22080752,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.22065431,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -69,7 +92,7 @@
     "en": "Kingdom (fan-colored)"
    },
    "contentRating": "safe",
-   "score": 0.21118914,
+   "score": 0.21039326,
    "languages": [
     "en"
    ]
@@ -80,7 +103,7 @@
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.20846881,
+   "score": 0.20797342,
    "languages": [
     "tr",
     "en",
@@ -96,7 +119,7 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.20258486,
+   "score": 0.20118678,
    "languages": [
     "ru",
     "en"
@@ -108,7 +131,7 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.19527125,
+   "score": 0.19472334,
    "languages": [
     "en",
     "ru",
@@ -121,7 +144,7 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.19143353,
+   "score": 0.19102553,
    "languages": [
     "en",
     "ru"
@@ -133,7 +156,7 @@
     "en": "Dien Bien Phu"
    },
    "contentRating": "safe",
-   "score": 0.18574749,
+   "score": 0.18571313,
    "languages": [
     "en"
    ]
@@ -144,7 +167,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.18529354,
+   "score": 0.18501672,
    "languages": [
     "es-la",
     "en",
@@ -160,46 +183,12 @@
    ]
   },
   {
-   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
-   "title": {
-    "en": "Cat Shit One' 80"
-   },
-   "contentRating": "safe",
-   "score": 0.18165722,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.17987628,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
-   "title": {
-    "ja": "Raid on Tokyo"
-   },
-   "contentRating": "safe",
-   "score": 0.17896096,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "04598a65-4f1f-4807-a419-d79ca7f67457",
    "title": {
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.1786819,
+   "score": 0.18465582,
    "languages": [
     "en",
     "es-la",
@@ -210,16 +199,28 @@
    ]
   },
   {
-   "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
+   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
    "title": {
-    "en": "Kirisuke and Johnny, The Slaying of 499"
+    "en": "Usagi ga Nihiki"
    },
    "contentRating": "safe",
-   "score": 0.17728272,
+   "score": 0.1823833,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
+   "title": {
+    "en": "Cat Shit One' 80"
+   },
+   "contentRating": "safe",
+   "score": 0.18165722,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:27+00:00"
+ "updatedAt": "2023-12-10T18:13:02+00:00"
 }

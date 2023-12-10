@@ -6,18 +6,6 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "d780f773-caa4-4343-8edb-df695480da4a",
-   "title": {
-    "en": "Plug - Full Metal Idol"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1888357,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "69dec187-4b12-4f70-94e3-029c22ee96aa",
    "title": {
     "en": "Mesugaki no Iru Kissaten"
@@ -29,32 +17,28 @@
    ]
   },
   {
+   "id": "d780f773-caa4-4343-8edb-df695480da4a",
+   "title": {
+    "en": "Plug - Full Metal Idol"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18139477,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "eee5dcec-edf9-454e-a683-1fe6e6519d80",
    "title": {
     "en": "Boku no Idol"
    },
    "contentRating": "suggestive",
-   "score": 0.18017416,
+   "score": 0.17065348,
    "languages": [
     "pl",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "d2213279-1b4e-4699-8d6b-334d718b7474",
-   "title": {
-    "en": "Netoge no Yome ga Ninki Idol datta ken: Cool-kei no kanojo wa genjitsu demo yome no tsumori de iru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17097534,
-   "languages": [
-    "vi",
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "ru"
    ]
   },
   {
@@ -63,11 +47,27 @@
     "ja": "Toaru Kagaku no Mental Out"
    },
    "contentRating": "suggestive",
-   "score": 0.16315025,
+   "score": 0.16299427,
    "languages": [
     "es-la",
     "zh",
     "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "d2213279-1b4e-4699-8d6b-334d718b7474",
+   "title": {
+    "en": "Netoge no Yome ga Ninki Idol datta ken: Cool-kei no kanojo wa genjitsu demo yome no tsumori de iru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15877399,
+   "languages": [
+    "vi",
+    "id",
+    "en",
+    "pl",
     "pt-br",
     "ru"
    ]
@@ -116,7 +116,7 @@
     "en": "Peach"
    },
    "contentRating": "suggestive",
-   "score": 0.14451656,
+   "score": 0.14923352,
    "languages": [
     "en"
    ]
@@ -135,18 +135,6 @@
    ]
   },
   {
-   "id": "c824574c-ea15-470f-bee4-515a4f13f1c0",
-   "title": {
-    "en": "Yoo Ah Dok-Jon"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13716121,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "c55b2e3f-066b-4584-84fe-98c596943953",
    "title": {
     "en": "Super Sonico SoniKoma"
@@ -155,19 +143,6 @@
    "score": 0.13605443,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "ef63deb7-88bc-4942-85bb-2f32cfc72ea5",
-   "title": {
-    "en": "Debby the Corsifa wa Makezugirai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13385986,
-   "languages": [
-    "en",
-    "th",
-    "pt-br"
    ]
   },
   {
@@ -186,14 +161,16 @@
    ]
   },
   {
-   "id": "6f9b1267-b709-42a9-a14c-c7709293867a",
+   "id": "ef63deb7-88bc-4942-85bb-2f32cfc72ea5",
    "title": {
-    "en": "Rulia-nya!!"
+    "en": "Debby the Corsifa wa Makezugirai"
    },
    "contentRating": "suggestive",
-   "score": 0.1335368,
+   "score": 0.13385986,
    "languages": [
-    "en"
+    "en",
+    "th",
+    "pt-br"
    ]
   },
   {
@@ -206,7 +183,31 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "6f9b1267-b709-42a9-a14c-c7709293867a",
+   "title": {
+    "en": "Rulia-nya!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1335368,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "281b5601-ee56-4ea6-be87-396538219d33",
+   "title": {
+    "en": "Vierca-san VS"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13330556,
+   "languages": [
+    "es-la",
+    "en",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:04+00:00"
+ "updatedAt": "2023-12-10T18:20:04+00:00"
 }

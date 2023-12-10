@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6a9f201b-7f91-4596-baf7-505ab198476c",
+   "id": "ae531f1b-d281-4c0b-9a5b-bdb64707d7fa",
    "title": {
-    "en": "Love x Joint"
+    "en": "Koi wo Futasaji"
    },
    "contentRating": "safe",
-   "score": 0.31162414,
+   "score": 0.35777447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6b98b66-ff0b-46c1-95c7-fdda5a3ea2ca",
+   "title": {
+    "en": "Love Spice"
+   },
+   "contentRating": "safe",
+   "score": 0.3428496,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "The Lady of Udon"
    },
    "contentRating": "safe",
-   "score": 0.30828652,
+   "score": 0.30832803,
    "languages": [
     "es-la",
     "pl",
@@ -30,12 +41,47 @@
    ]
   },
   {
-   "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
+   "id": "b788a5ca-21ae-4043-b66e-0d1c92ade234",
    "title": {
-    "en": "Café Velomano"
+    "en": "Teihen na Bokura no Jijou"
    },
    "contentRating": "safe",
-   "score": 0.29884666,
+   "score": 0.3081147,
+   "languages": [
+    "en",
+    "ru",
+    "vi"
+   ]
+  },
+  {
+   "id": "6a9f201b-7f91-4596-baf7-505ab198476c",
+   "title": {
+    "en": "Love x Joint"
+   },
+   "contentRating": "safe",
+   "score": 0.3047443,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f29a681a-38bf-4c96-9fb2-54e6c5bdbc3e",
+   "title": {
+    "en": "No Access NO!"
+   },
+   "contentRating": "safe",
+   "score": 0.3040465,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "778c9e41-505c-44cc-9d6d-aafde03398ce",
+   "title": {
+    "en": "Gokigenyou, Koharu-san"
+   },
+   "contentRating": "safe",
+   "score": 0.29987758,
    "languages": [
     "en"
    ]
@@ -46,7 +92,7 @@
     "en": "Catch! Love"
    },
    "contentRating": "safe",
-   "score": 0.29824057,
+   "score": 0.29747188,
    "languages": [
     "en"
    ]
@@ -57,7 +103,29 @@
     "en": "Kurashi no Izumi"
    },
    "contentRating": "safe",
-   "score": 0.29782823,
+   "score": 0.29706544,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fa05d7a1-27dd-46e8-9f58-63668955d7f6",
+   "title": {
+    "en": "Tamaki and Amane"
+   },
+   "contentRating": "safe",
+   "score": 0.29631656,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
+   "title": {
+    "en": "Café Velomano"
+   },
+   "contentRating": "safe",
+   "score": 0.29561946,
    "languages": [
     "en"
    ]
@@ -68,127 +136,59 @@
     "en": "Chibisan Date"
    },
    "contentRating": "safe",
-   "score": 0.2956902,
+   "score": 0.2949479,
    "languages": [
     "en",
     "hu"
    ]
   },
   {
-   "id": "1d6d98f8-57fb-4608-b127-b365a50760af",
+   "id": "dc7bccb5-aac9-46b0-85af-11c493ccfe82",
    "title": {
-    "en": "Yowamushi Meikyuu"
+    "en": "Nekura SE Danshi ga Omiai 100-kai Shite Kekkonshita Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.28508148,
+   "score": 0.291248,
    "languages": [
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "8424b171-ec06-432c-bfda-5439244826f7",
-   "title": {
-    "en": "Cinderella Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
+    "es",
     "en"
    ]
   },
   {
-   "id": "a3fab004-1fe5-4cbf-be8f-1a1f538d09d7",
+   "id": "bda927f7-df67-4842-b830-19c931159e41",
    "title": {
-    "en": "Do Not Fight"
+    "en": "Itonami Itonamezu"
    },
    "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "db7402a8-547a-451c-ab0c-fe0d395640b8",
-   "title": {
-    "en": "Room"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b41db6b-025f-44e3-8983-81d7b84626cb",
-   "title": {
-    "en": "Satsujin Puzzle"
-   },
-   "contentRating": "safe",
-   "score": 0.28143218,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0237e46f-07a8-4446-8359-6ffe97777a58",
-   "title": {
-    "en": "The Girl on the Other Side of the Glass"
-   },
-   "contentRating": "safe",
-   "score": 0.27252522,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "b5c843ee-ae77-41ea-9de7-985b1740bc9f",
-   "title": {
-    "en": "Furachi na Yuuwaku"
-   },
-   "contentRating": "safe",
-   "score": 0.2624098,
+   "score": 0.2905657,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "5b409f07-8569-41a7-9abf-fd27b31e575c",
+   "id": "5d5e50e1-c04a-4cd4-9920-7544d5be2b45",
    "title": {
-    "en": "Sakaki Mirei no Tame nara Boku wa...!!"
+    "en": "Dihao Laogong Tai Kuangre"
    },
    "contentRating": "safe",
-   "score": 0.2603182,
+   "score": 0.28508148,
    "languages": [
+    "es",
     "en"
    ]
   },
   {
-   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
+   "id": "6e98dfc5-b279-4156-9909-6658fd18ad8f",
    "title": {
-    "en": "Nocturne"
+    "en": "To Start"
    },
    "contentRating": "safe",
-   "score": 0.25913197,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "b31eab48-cb2a-44ad-83d8-e403e8c504ca",
-   "title": {
-    "en": "Suppli"
-   },
-   "contentRating": "safe",
-   "score": 0.2584175,
+   "score": 0.28508148,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:24+00:00"
+ "updatedAt": "2023-12-10T18:29:04+00:00"
 }

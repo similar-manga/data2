@@ -6,14 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0684e98a-fda0-4039-8b6d-3bf3400ddf77",
+   "title": {
+    "en": "Righteous Evil"
+   },
+   "contentRating": "safe",
+   "score": 0.37075198,
+   "languages": [
+    "en",
+    "ar"
+   ]
+  },
+  {
    "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
    "title": {
     "en": "Tales of Destiny 2"
    },
    "contentRating": "safe",
-   "score": 0.34028587,
+   "score": 0.34198803,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
+   "title": {
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.30200684,
+   "languages": [
+    "id",
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -22,7 +48,18 @@
     "en": "Jukokuin no Tensei Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.3016344,
+   "score": 0.2965729,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a84b419-e466-4532-bd0b-a5d880436f3d",
+   "title": {
+    "en": "Jiyuujin Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.29479495,
    "languages": [
     "en"
    ]
@@ -33,7 +70,7 @@
     "en": "Star Ocean - Blue Sphere"
    },
    "contentRating": "safe",
-   "score": 0.29368106,
+   "score": 0.2927911,
    "languages": [
     "en"
    ]
@@ -44,7 +81,7 @@
     "en": "Level 0 no Maou-sama, Isekai de Boukensha wo Hajimemasu"
    },
    "contentRating": "safe",
-   "score": 0.2848887,
+   "score": 0.28369528,
    "languages": [
     "ru",
     "en",
@@ -59,7 +96,7 @@
     "en": "Yuusha Goikkou no Kaerimichi"
    },
    "contentRating": "safe",
-   "score": 0.28134006,
+   "score": 0.27861303,
    "languages": [
     "en",
     "es-la",
@@ -74,14 +111,28 @@
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "933add13-9433-46d5-a444-7b177330fb4c",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "Kono Hi, \"Itsuwari no Yuusha\" de Aru Ore wa \"Shin no Yuusha\" de Aru Kare wo Party kara Tsuihou shita"
    },
    "contentRating": "safe",
-   "score": 0.28030664,
+   "score": 0.2777395,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "11c172c6-dd5d-46d8-9794-1aa60d6e77d3",
+   "title": {
+    "en": "Brunhild the Dragonslayer"
+   },
+   "contentRating": "safe",
+   "score": 0.27724138,
+   "languages": [
+    "id",
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -90,7 +141,18 @@
     "en": "Desert Tribe"
    },
    "contentRating": "safe",
-   "score": 0.2727497,
+   "score": 0.27207667,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
+   "title": {
+    "en": "Final Re:Quest"
+   },
+   "contentRating": "safe",
+   "score": 0.27179003,
    "languages": [
     "en"
    ]
@@ -101,106 +163,48 @@
     "en": "Tales of Vesperia ~Flynn Seinaru Hakugin no Kishi~"
    },
    "contentRating": "safe",
-   "score": 0.2725422,
+   "score": 0.27154967,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
+   "id": "f9a7035e-917b-4fcd-9d01-ad6b14423f85",
    "title": {
-    "en": "Joou Kishi Monogatari"
+    "en": "The Hero Girl and the Green Magician"
    },
    "contentRating": "safe",
-   "score": 0.2646958,
+   "score": 0.2684486,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
+   "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
    "title": {
-    "en": "Hero Killer"
+    "en": "Zhan Long 2"
    },
    "contentRating": "safe",
-   "score": 0.26260075,
+   "score": 0.26804617,
    "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.26795557,
+   "languages": [
+    "en",
+    "ar",
     "fr",
-    "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
-   "title": {
-    "en": "GOD EATER - the spiral fate"
-   },
-   "contentRating": "safe",
-   "score": 0.25610694,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "fbfe07a9-4b54-4a4f-a43c-da39eba8bd14",
-   "title": {
-    "en": "Wizardry Zeo"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "051ecde7-f728-4e4f-ab4d-5589a1f07d45",
-   "title": {
-    "en": "Suyojeon"
-   },
-   "contentRating": "safe",
-   "score": 0.24766333,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "861e8b24-e8b0-4fec-91d0-d81b84135a3b",
-   "title": {
-    "en": "Gensou Suikoden II - Hiki Sakareshi Shukusei"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
-   "title": {
-    "en": "Juuhime - Sincerely Night"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
-   "title": {
-    "en": "Rakshasa Street"
-   },
-   "contentRating": "safe",
-   "score": 0.24571104,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:02+00:00"
+ "updatedAt": "2023-12-10T18:14:41+00:00"
 }

@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f55d7f38-f328-4cea-b80a-cd3f83fd24cb",
+   "title": {
+    "en": "Home for Lost Children"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "11b0ab67-6eee-4cdc-8f64-559eb4c10378",
    "title": {
     "en": "Ai-chan"
@@ -28,13 +39,14 @@
    ]
   },
   {
-   "id": "f55d7f38-f328-4cea-b80a-cd3f83fd24cb",
+   "id": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
    "title": {
-    "en": "Home for Lost Children"
+    "en": "Boku no Pet"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "bg",
     "en"
    ]
   },
@@ -49,6 +61,17 @@
     "it",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "de1a52a0-039f-42f7-8362-dd53f5d60577",
+   "title": {
+    "en": "Lunar - Lunatic Parade"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -74,35 +97,12 @@
    ]
   },
   {
-   "id": "de1a52a0-039f-42f7-8362-dd53f5d60577",
-   "title": {
-    "en": "Lunar - Lunatic Parade"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
-   "title": {
-    "en": "Boku no Pet"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "bg",
-    "en"
-   ]
-  },
-  {
    "id": "2adcfd01-6b04-4b33-858d-4c0353fc5861",
    "title": {
     "en": "Shonen Linda"
    },
    "contentRating": "safe",
-   "score": 0.26698887,
+   "score": 0.26774374,
    "languages": [
     "en"
    ]
@@ -113,7 +113,7 @@
     "en": "Kawaii Oresama"
    },
    "contentRating": "safe",
-   "score": 0.25933138,
+   "score": 0.2596135,
    "languages": [
     "en",
     "bg",
@@ -126,7 +126,7 @@
     "en": "Living with an Incubus"
    },
    "contentRating": "safe",
-   "score": 0.25701994,
+   "score": 0.25677034,
    "languages": [
     "fr",
     "en",
@@ -139,7 +139,7 @@
     "en": "Lovely Banchou"
    },
    "contentRating": "safe",
-   "score": 0.25098786,
+   "score": 0.25139368,
    "languages": [
     "en"
    ]
@@ -150,7 +150,7 @@
     "en": "Girl's☆Complex"
    },
    "contentRating": "safe",
-   "score": 0.24838611,
+   "score": 0.24932991,
    "languages": [
     "en"
    ]
@@ -161,7 +161,7 @@
     "en": "Loving a Player"
    },
    "contentRating": "safe",
-   "score": 0.24647939,
+   "score": 0.24771371,
    "languages": [
     "en"
    ]
@@ -172,7 +172,7 @@
     "en": "Aitsu o Koroshite Uchi mo Shinu"
    },
    "contentRating": "safe",
-   "score": 0.24563457,
+   "score": 0.24564807,
    "languages": [
     "en"
    ]
@@ -183,11 +183,11 @@
     "en": "I Will Grant You Three Wishes"
    },
    "contentRating": "safe",
-   "score": 0.24388486,
+   "score": 0.24463037,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:54+00:00"
+ "updatedAt": "2023-12-10T18:27:42+00:00"
 }

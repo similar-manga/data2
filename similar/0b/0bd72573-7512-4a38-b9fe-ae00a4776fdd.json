@@ -6,12 +6,50 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1541a23e-fad4-4432-8662-5a013a1530d6",
+   "title": {
+    "en": "Doumo, Yuusha no Chichi desu. 〜Kono Tabi wa Gusoku ga Gomeiwaku wo Kakete, Moushiwake Arimasen〜"
+   },
+   "contentRating": "safe",
+   "score": 0.3200933,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d567dca-7c8c-43a7-ab26-a8efb051fea7",
+   "title": {
+    "en": "Isekai Teni, Jirai Tsuki."
+   },
+   "contentRating": "safe",
+   "score": 0.31161636,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c6db0d4c-a0e0-401a-8503-3c84ce30e346",
+   "title": {
+    "en": "Is This Hero for Real?"
+   },
+   "contentRating": "safe",
+   "score": 0.30896056,
+   "languages": [
+    "uk",
+    "en",
+    "pt-br",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "f0933b14-091a-4540-a395-287e38f74260",
    "title": {
     "en": "Murabito Tensei: Saikyou no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.30305547,
+   "score": 0.29943153,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +61,7 @@
     "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
    },
    "contentRating": "safe",
-   "score": 0.2945164,
+   "score": 0.2915911,
    "languages": [
     "id",
     "pt-br",
@@ -37,9 +75,23 @@
     "en": "The Reincarnated Prince Becomes an Alchemist and Brings Prosperity to His Country"
    },
    "contentRating": "safe",
-   "score": 0.29407194,
+   "score": 0.29033107,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "37346398-d9ff-40e8-bc14-6c9847d559e5",
+   "title": {
+    "en": "Tensei Shichattayo (Iya, Gomen)"
+   },
+   "contentRating": "safe",
+   "score": 0.28960595,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "id"
    ]
   },
   {
@@ -48,7 +100,7 @@
     "en": "Tensei Shite Inaka de Slowlife wo Okuritai"
    },
    "contentRating": "safe",
-   "score": 0.29234403,
+   "score": 0.2882894,
    "languages": [
     "tr",
     "en",
@@ -62,7 +114,7 @@
     "en": "Rekishi ni Nokoru Akujo ni naru zo"
    },
    "contentRating": "safe",
-   "score": 0.29085165,
+   "score": 0.28709254,
    "languages": [
     "en",
     "pt-br",
@@ -71,26 +123,12 @@
    ]
   },
   {
-   "id": "37346398-d9ff-40e8-bc14-6c9847d559e5",
-   "title": {
-    "en": "Tensei Shichattayo (Iya, Gomen)"
-   },
-   "contentRating": "safe",
-   "score": 0.290037,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "id"
-   ]
-  },
-  {
    "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
    "title": {
     "en": "Maseki Gurume: Mamono no Chikara wo Tabeta Ore wa Saikyou!"
    },
    "contentRating": "safe",
-   "score": 0.28854963,
+   "score": 0.28679383,
    "languages": [
     "es-la",
     "en",
@@ -106,9 +144,21 @@
     "en": "Doshomin no Watashi, Jitsu wa Tenseisha deshita"
    },
    "contentRating": "safe",
-   "score": 0.28801638,
+   "score": 0.28583777,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ed3131fd-0d45-4e6d-a9e1-a1947b24e3d9",
+   "title": {
+    "en": "Mofumofu to Isekai Slow Life o Mezashimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.28551066,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -117,7 +167,7 @@
     "en": "Virus Tensei kara Hajimaru Isekai Kansen Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.28544304,
+   "score": 0.28291738,
    "languages": [
     "pt-br",
     "id",
@@ -126,12 +176,23 @@
    ]
   },
   {
+   "id": "ea30a000-c9f4-4f62-b510-4c15752c8771",
+   "title": {
+    "en": "This Life, the Way I Want"
+   },
+   "contentRating": "safe",
+   "score": 0.2828612,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
    "title": {
     "en": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.28047618,
+   "score": 0.27766526,
    "languages": [
     "en",
     "ru",
@@ -141,77 +202,17 @@
    ]
   },
   {
-   "id": "71f7425b-ac0d-4b85-8beb-5b59ed8675a7",
+   "id": "ce9fe2e2-8804-496a-90a5-03fb3063188b",
    "title": {
-    "en": "Tensei Shitara Kozakana datta kedo Ryuu ni Nareru Rashii node Ganbarimasu"
+    "en": "Isekai no Senshi toshite Kuni ni Manekareta kedo, Kotowatte Heishi kara Hajimeru Koto ni Shita"
    },
    "contentRating": "safe",
-   "score": 0.2749775,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f90e7e5-16b4-41f5-b717-137cf9783b5b",
-   "title": {
-    "en": "Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole"
-   },
-   "contentRating": "safe",
-   "score": 0.27496096,
+   "score": 0.2755796,
    "languages": [
     "en",
-    "id",
-    "th"
-   ]
-  },
-  {
-   "id": "c01314a2-31e8-4b49-8483-5d57019bd60a",
-   "title": {
-    "en": "Ouji-sama ni Dekiai Sarete Komattemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.274358,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
-   "title": {
-    "en": "Monogatari no Kuromaku ni Tensei Shite"
-   },
-   "contentRating": "safe",
-   "score": 0.27376312,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "1531650d-fb48-4e9f-bb98-180d3f4f3cfa",
-   "title": {
-    "en": "The Black Pig Prince Recalls His Previous Life and Becomes the Strongest"
-   },
-   "contentRating": "safe",
-   "score": 0.27355793,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5af60d6c-8b8e-4ca3-bc10-3046543c1614",
-   "title": {
-    "en": "The Small Village of the Young Lady Without Blessing"
-   },
-   "contentRating": "safe",
-   "score": 0.27343854,
-   "languages": [
-    "id",
-    "en"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:13+00:00"
+ "updatedAt": "2023-12-10T18:09:37+00:00"
 }

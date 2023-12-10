@@ -6,12 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
+   "title": {
+    "en": "Dragon Ball Super"
+   },
+   "contentRating": "safe",
+   "score": 0.24012454,
+   "languages": [
+    "pt-br",
+    "es",
+    "en",
+    "it",
+    "de",
+    "ar",
+    "ms",
+    "pt",
+    "es-la"
+   ]
+  },
+  {
    "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
    "title": {
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.24090025,
+   "score": 0.23862809,
    "languages": [
     "pt-br",
     "it",
@@ -30,31 +49,12 @@
    ]
   },
   {
-   "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
-   "title": {
-    "en": "Dragon Ball Super"
-   },
-   "contentRating": "safe",
-   "score": 0.23923509,
-   "languages": [
-    "pt-br",
-    "es",
-    "en",
-    "it",
-    "de",
-    "ar",
-    "ms",
-    "pt",
-    "es-la"
-   ]
-  },
-  {
    "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
    "title": {
     "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.22840077,
+   "score": 0.2186549,
    "languages": [
     "pl",
     "en",
@@ -67,7 +67,7 @@
     "en": "Evil Heart"
    },
    "contentRating": "safe",
-   "score": 0.21059309,
+   "score": 0.21335232,
    "languages": [
     "en"
    ]
@@ -78,10 +78,32 @@
     "en": "Tatari"
    },
    "contentRating": "safe",
-   "score": 0.1994341,
+   "score": 0.19632909,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "a5ba5e1c-4886-48d8-a331-e2e4193cf6f5",
+   "title": {
+    "en": "Neko Gurashi no Gamer-san"
+   },
+   "contentRating": "safe",
+   "score": 0.19273722,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
+   "title": {
+    "en": "Lion Books"
+   },
+   "contentRating": "safe",
+   "score": 0.18990703,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -103,26 +125,15 @@
    ]
   },
   {
-   "id": "0424a8a4-500d-4ba1-b7cf-214ae7792136",
+   "id": "94d60d12-452d-49f0-8d0f-5af785e561a8",
    "title": {
-    "en": "with CAT"
+    "en": "Ramen Aka Neko"
    },
    "contentRating": "safe",
-   "score": 0.18922329,
+   "score": 0.18950437,
    "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.18890932,
-   "languages": [
-    "en"
+    "en",
+    "th"
    ]
   },
   {
@@ -131,7 +142,18 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.18699591,
+   "score": 0.18727614,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
+   "title": {
+    "en": "Ultra Marriage Galaxy"
+   },
+   "contentRating": "safe",
+   "score": 0.18495852,
    "languages": [
     "en"
    ]
@@ -142,7 +164,7 @@
     "en": "Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.18494657,
+   "score": 0.18478131,
    "languages": [
     "en",
     "pl",
@@ -170,7 +192,7 @@
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.18449777,
+   "score": 0.18387303,
    "languages": [
     "en",
     "zh",
@@ -184,12 +206,23 @@
    ]
   },
   {
+   "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
+   "title": {
+    "ja": "Macaron"
+   },
+   "contentRating": "safe",
+   "score": 0.1835243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.18435368,
+   "score": 0.18335336,
    "languages": [
     "en",
     "pt-br",
@@ -200,41 +233,7 @@
     "ru",
     "es"
    ]
-  },
-  {
-   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
-   "title": {
-    "en": "Ultra Marriage Galaxy"
-   },
-   "contentRating": "safe",
-   "score": 0.18309462,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
-   "title": {
-    "ja": "Macaron"
-   },
-   "contentRating": "safe",
-   "score": 0.18255363,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
-   "title": {
-    "en": "Window Washer Park"
-   },
-   "contentRating": "safe",
-   "score": 0.18224998,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:37+00:00"
+ "updatedAt": "2023-12-10T18:13:30+00:00"
 }

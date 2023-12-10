@@ -11,7 +11,18 @@
     "en": "Survival of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.24468482,
+   "score": 0.24461764,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "498e95c9-292f-4c19-994d-7281b2253a02",
+   "title": {
+    "en": "Ivory Dark"
+   },
+   "contentRating": "safe",
+   "score": 0.24235347,
    "languages": [
     "en"
    ]
@@ -46,21 +57,20 @@
     "en": "Metamorcode"
    },
    "contentRating": "safe",
-   "score": 0.20117603,
+   "score": 0.20061563,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "53b8595f-50ff-4926-a91a-37a7d6f1e10c",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Diary Mystery"
    },
    "contentRating": "safe",
-   "score": 0.18837188,
+   "score": 0.19186148,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -72,6 +82,18 @@
    "score": 0.18814418,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "17b910e5-7fd1-4aef-8904-c0bd3820ae04",
+   "title": {
+    "en": "Guyver"
+   },
+   "contentRating": "safe",
+   "score": 0.18030135,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -90,26 +112,16 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
    "title": {
-    "en": "Watashi wa Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17b910e5-7fd1-4aef-8904-c0bd3820ae04",
-   "title": {
-    "en": "Guyver"
+    "en": "Sensei no Yasashii Koroshikata"
    },
    "contentRating": "safe",
    "score": 0.18030135,
    "languages": [
     "en",
-    "it"
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -118,7 +130,7 @@
     "en": "Mirai Nikki Redial"
    },
    "contentRating": "safe",
-   "score": 0.18014243,
+   "score": 0.17969117,
    "languages": [
     "en"
    ]
@@ -129,11 +141,22 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.17285335,
+   "score": 0.17407651,
    "languages": [
     "it",
     "pl",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "35731f33-27fa-4794-b6ee-3b60da8b994d",
+   "title": {
+    "en": "Jujutsu Kaisen (Official Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.1664034,
+   "languages": [
     "en"
    ]
   },
@@ -143,58 +166,34 @@
     "en": "Tokyo Jungle"
    },
    "contentRating": "safe",
-   "score": 0.16634443,
+   "score": 0.1657821,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "107dfe51-caf8-4deb-9c60-a73c6fe2d9b6",
+   "id": "4e53b437-5884-4aa8-9ee1-be1028cba03f",
    "title": {
-    "en": "Maya - Midnight Girl"
+    "en": "Ura Baito: Toubou Kinshi"
+   },
+   "contentRating": "safe",
+   "score": 0.16459186,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "a7f19ca5-77db-4f88-94a2-b60c72890a45",
+   "title": {
+    "en": "The Exorcism Expert"
    },
    "contentRating": "safe",
    "score": 0.16459186,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3de7d8ae-6411-4d3f-8181-d2baefe04516",
-   "title": {
-    "en": "Shingeki no Kyojin (Fan Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.15074964,
-   "languages": [
-    "fr",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "7f1e4e1c-9c9d-47f9-acc0-2ce700f8eb2b",
-   "title": {
-    "en": "Anemone"
-   },
-   "contentRating": "safe",
-   "score": 0.14254074,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "d916b2dd-0061-4817-9184-673ad75596d2",
-   "title": {
-    "en": "THE iDOLM@STER Splash Red for Dearly Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.14232053,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:55+00:00"
+ "updatedAt": "2023-12-10T18:30:21+00:00"
 }

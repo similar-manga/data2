@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5db8e259-6583-4d8b-b33e-534ebdc286eb",
+   "title": {
+    "en": "Ghost School"
+   },
+   "contentRating": "safe",
+   "score": 0.22995168
+  },
+  {
    "id": "2c29d657-1a4f-43bb-ba61-c62e54051b89",
    "title": {
     "en": "Shinreigari - Another Side"
    },
    "contentRating": "safe",
-   "score": 0.20676628
+   "score": 0.20518929
   },
   {
    "id": "433ab7c2-9785-49f6-bde2-94a46f9cd385",
@@ -19,7 +27,31 @@
     "en": "Cursed Kyosuke PSI Ghost Investigation Room"
    },
    "contentRating": "safe",
-   "score": 0.20342547
+   "score": 0.20242338
+  },
+  {
+   "id": "fea2cd57-51b9-46bb-8383-fdc85e4e19c7",
+   "title": {
+    "en": "Matinee to Soiree"
+   },
+   "contentRating": "safe",
+   "score": 0.20019123
+  },
+  {
+   "id": "d64b0768-bebe-433c-b923-99870503c0a3",
+   "title": {
+    "en": "Dark Gathering"
+   },
+   "contentRating": "safe",
+   "score": 0.19679534,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "es",
+    "es-la",
+    "zh-hk"
+   ]
   },
   {
    "id": "fb407ebc-6830-44bf-b1ed-9ea1720b98ca",
@@ -35,15 +67,64 @@
    ]
   },
   {
+   "id": "b5fe36a6-a45b-48a9-baff-1fef19012abf",
+   "title": {
+    "en": "Harahara Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.19371772,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
    "title": {
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.19343778,
+   "score": 0.19258085,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Yuukoku no Moriarty"
+   },
+   "contentRating": "safe",
+   "score": 0.19104975,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "uk",
+    "ar",
+    "tr",
+    "vi",
+    "hu"
+   ]
+  },
+  {
+   "id": "594da5f8-a665-4199-be91-365b8ff1992f",
+   "title": {
+    "en": "Jinrou Game: Lost Eden"
+   },
+   "contentRating": "safe",
+   "score": 0.19085158
+  },
+  {
+   "id": "9aa7047e-186f-4a26-b623-0197ea5cfa56",
+   "title": {
+    "en": "Reset Game"
+   },
+   "contentRating": "safe",
+   "score": 0.19061431,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -55,12 +136,31 @@
    "score": 0.18998168
   },
   {
-   "id": "9aa7047e-186f-4a26-b623-0197ea5cfa56",
+   "id": "5b21ae0e-966e-43be-9f96-ee08ebfde5d0",
    "title": {
-    "en": "Reset Game"
+    "en": "The Call of Animals"
    },
    "contentRating": "safe",
-   "score": 0.1899647,
+   "score": 0.18677196,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8449a8da-389f-4370-8c24-96b21915e48d",
+   "title": {
+    "en": "Tsukimonogakari"
+   },
+   "contentRating": "safe",
+   "score": 0.1863658
+  },
+  {
+   "id": "28591273-88bf-4a4d-afbe-95c3c3430117",
+   "title": {
+    "en": "Shibuya Kingyo"
+   },
+   "contentRating": "safe",
+   "score": 0.18594114,
    "languages": [
     "en"
    ]
@@ -71,135 +171,12 @@
     "en": "Garaku"
    },
    "contentRating": "safe",
-   "score": 0.18422142,
+   "score": 0.183057,
    "languages": [
     "en",
     "it"
    ]
-  },
-  {
-   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
-   "title": {
-    "en": "Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.1808685,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "1ee20ba6-881f-44f3-b3f3-7870f9513637",
-   "title": {
-    "en": "Ghost Sweeper Arai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.17889056,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d82c15b0-2a81-45bf-add2-1a79905ac419",
-   "title": {
-    "en": "Detective Conan - Zero the Enforcer"
-   },
-   "contentRating": "safe",
-   "score": 0.17731625,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.17689481,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
-   "title": {
-    "en": "Pilot Ace"
-   },
-   "contentRating": "safe",
-   "score": 0.1766112
-  },
-  {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
-   "title": {
-    "en": "Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.17648193,
-   "languages": [
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
-   ]
-  },
-  {
-   "id": "18b1d68a-3396-4063-949d-f399439ebad7",
-   "title": {
-    "en": "Hokuriku Ghost Story"
-   },
-   "contentRating": "safe",
-   "score": 0.17576133,
-   "languages": [
-    "hu"
-   ]
-  },
-  {
-   "id": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
-   "title": {
-    "en": "Munou na Nana"
-   },
-   "contentRating": "safe",
-   "score": 0.17355718,
-   "languages": [
-    "it",
-    "id",
-    "es-la",
-    "pt-br",
-    "en",
-    "he"
-   ]
-  },
-  {
-   "id": "d9612742-4d61-4f25-9de7-8e341e66e18c",
-   "title": {
-    "en": "Higurashi no Naku Koro ni Meguri"
-   },
-   "contentRating": "safe",
-   "score": 0.1731459,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "it",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:00+00:00"
+ "updatedAt": "2023-12-10T18:09:03+00:00"
 }

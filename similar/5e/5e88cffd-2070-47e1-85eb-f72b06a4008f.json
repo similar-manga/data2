@@ -11,7 +11,7 @@
     "en": "Kiba no Tabishounin - The Arms Peddler"
    },
    "contentRating": "safe",
-   "score": 0.22131535,
+   "score": 0.22011061,
    "languages": [
     "pt-br",
     "en",
@@ -26,7 +26,7 @@
     "en": "A Genius' Isekai Overlord Legend - Fist of the North Star: Amiba Gaiden - Even if I Go to Another World, I Am a Genius!! Huh? Was I Mistaken..."
    },
    "contentRating": "safe",
-   "score": 0.20366322,
+   "score": 0.20237842,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.195655,
+   "score": 0.19403595,
    "languages": [
     "zh-hk",
     "en",
@@ -82,10 +82,21 @@
     "en": "Star Wars - The Mandalorian"
    },
    "contentRating": "safe",
-   "score": 0.19462511,
+   "score": 0.19403535,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "40c4d38c-cae3-45e3-b984-a7a4569dd4ed",
+   "title": {
+    "en": "Teppen Gurarin - Nippon Mukashi Banashi Hanzai Sousa"
+   },
+   "contentRating": "safe",
+   "score": 0.19064203,
+   "languages": [
+    "zh-hk"
    ]
   },
   {
@@ -94,18 +105,7 @@
     "en": "Shuuenchi"
    },
    "contentRating": "safe",
-   "score": 0.1915493,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
-   "title": {
-    "en": "Godzilla vs. Destroyah Red"
-   },
-   "contentRating": "safe",
-   "score": 0.19127692,
+   "score": 0.19038826,
    "languages": [
     "en"
    ]
@@ -128,7 +128,7 @@
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.19007365,
+   "score": 0.18945375,
    "languages": [
     "en"
    ]
@@ -151,12 +151,65 @@
    ]
   },
   {
+   "id": "6e11edac-eb6c-46d5-9cd4-04e1e817e1ba",
+   "title": {
+    "en": "Ousama Game - Rinjou"
+   },
+   "contentRating": "safe",
+   "score": 0.18794635,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.18735407,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.18735407,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.18735407,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
    "title": {
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.18793511,
+   "score": 0.18733144,
    "languages": [
     "pt-br",
     "ru",
@@ -171,7 +224,7 @@
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.18499061,
+   "score": 0.1848236,
    "languages": [
     "en",
     "es-la",
@@ -180,67 +233,7 @@
     "pt-br",
     "fr"
    ]
-  },
-  {
-   "id": "5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
-   "title": {
-    "en": "Ultraman (SHIMIZU Eiichi)"
-   },
-   "contentRating": "safe",
-   "score": 0.18353364,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.18056712,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
-   "title": {
-    "en": "Vinland Saga"
-   },
-   "contentRating": "safe",
-   "score": 0.17706083,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "ru",
-    "ar",
-    "cs",
-    "uk",
-    "tr",
-    "ro",
-    "es",
-    "it"
-   ]
-  },
-  {
-   "id": "97666c13-2c14-4f7b-b2dd-904424466ea8",
-   "title": {
-    "en": "Biohazard: Death Island"
-   },
-   "contentRating": "safe",
-   "score": 0.17385666,
-   "languages": [
-    "uk",
-    "id",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:31+00:00"
+ "updatedAt": "2023-12-10T18:18:34+00:00"
 }

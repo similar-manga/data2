@@ -11,7 +11,7 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.21622549,
+   "score": 0.21388988,
    "languages": [
     "en"
    ]
@@ -36,20 +36,8 @@
     "en": "Tiger \u0026 Bunny 2: The Comic"
    },
    "contentRating": "safe",
-   "score": 0.18292363,
+   "score": 0.1842603,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.17044015,
-   "languages": [
-    "ru",
     "en"
    ]
   },
@@ -61,6 +49,18 @@
    "contentRating": "safe",
    "score": 0.17036709,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
+   "title": {
+    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
+   },
+   "contentRating": "safe",
+   "score": 0.16997015,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -78,6 +78,29 @@
    ]
   },
   {
+   "id": "5516b38e-c9f8-4ce3-acd2-3b332fe114fa",
+   "title": {
+    "en": "Nomiya Keibuho wa Yurusanai"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "333f5f0b-473b-4184-aa72-23af3c8a3a90",
    "title": {
     "en": "Moonlight Mile"
@@ -88,6 +111,30 @@
     "it",
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.16271646,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -126,28 +173,6 @@
    ]
   },
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.15848577,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f20fd674-d661-4736-9b2d-b07b51841923",
-   "title": {
-    "en": "Gamera Vs. Barugon"
-   },
-   "contentRating": "safe",
-   "score": 0.15552315,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d36d2563-d963-48a7-83f5-5f5584dae80b",
    "title": {
     "en": "Daikaiju Gaea-Tima"
@@ -161,39 +186,16 @@
    ]
   },
   {
-   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
+   "id": "f20fd674-d661-4736-9b2d-b07b51841923",
    "title": {
-    "en": "Ghost Heights Management Association"
+    "en": "Gamera Vs. Barugon"
    },
    "contentRating": "safe",
-   "score": 0.15058886,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfa29246-675f-481f-9870-392d2fb23ba0",
-   "title": {
-    "en": "Butterfly"
-   },
-   "contentRating": "safe",
-   "score": 0.14565814,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
-   "title": {
-    "en": "The Far East Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.14398646,
+   "score": 0.15552315,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:48+00:00"
+ "updatedAt": "2023-12-10T18:32:35+00:00"
 }

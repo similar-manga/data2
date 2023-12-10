@@ -11,7 +11,7 @@
     "en": "Calling (Hori Mai)"
    },
    "contentRating": "safe",
-   "score": 0.33638927,
+   "score": 0.33338928,
    "languages": [
     "en"
    ]
@@ -22,32 +22,8 @@
     "en": "bit by bit"
    },
    "contentRating": "safe",
-   "score": 0.32722148,
+   "score": 0.3257543,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1a41b4b-459e-4211-ac93-4e1096cd7f9b",
-   "title": {
-    "en": "Koiseyo Moyashi - Timid Boy Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.3160072,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
-   "title": {
-    "en": "Namae mo Shiranai"
-   },
-   "contentRating": "safe",
-   "score": 0.3138112,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -57,7 +33,7 @@
     "en": "Anata no Uta ni Koishite Mita"
    },
    "contentRating": "safe",
-   "score": 0.31322464,
+   "score": 0.3140238,
    "languages": [
     "fr",
     "en"
@@ -69,10 +45,34 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.3129818,
+   "score": 0.31249464,
    "languages": [
     "en",
     "tl"
+   ]
+  },
+  {
+   "id": "c1a41b4b-459e-4211-ac93-4e1096cd7f9b",
+   "title": {
+    "en": "Koiseyo Moyashi - Timid Boy Blues"
+   },
+   "contentRating": "safe",
+   "score": 0.31220618,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
+   "title": {
+    "en": "Namae mo Shiranai"
+   },
+   "contentRating": "safe",
+   "score": 0.3119324,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -81,7 +81,18 @@
     "en": "Story of a Girl Growing Vines on her Body"
    },
    "contentRating": "safe",
-   "score": 0.30994895,
+   "score": 0.31025472,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3c2b0184-3bba-474e-9156-75a41440635e",
+   "title": {
+    "en": "Hatsukoi no Tsuzuki wa Danshiryou de"
+   },
+   "contentRating": "safe",
+   "score": 0.30001906,
    "languages": [
     "en"
    ]
@@ -92,7 +103,7 @@
     "en": "A Pudgy Girl's Love"
    },
    "contentRating": "safe",
-   "score": 0.2986276,
+   "score": 0.2987292,
    "languages": [
     "tr",
     "en"
@@ -104,7 +115,7 @@
     "en": "The Sound of Something New"
    },
    "contentRating": "safe",
-   "score": 0.2961806,
+   "score": 0.2966506,
    "languages": [
     "id",
     "fr",
@@ -115,39 +126,17 @@
    ]
   },
   {
-   "id": "4621892c-4b3e-4064-b033-5700f5f63b41",
+   "id": "fb6af183-14a9-4fbb-ac14-991e3e616ca9",
    "title": {
-    "en": "Renai Kyoutei"
-   },
-   "contentRating": "safe",
-   "score": 0.29025343,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "6e9d61d5-5c3b-4d8d-9b2a-30c24b21c0fc",
-   "title": {
-    "en": "Ovally Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.2874373,
-   "languages": [
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "49ce762f-9bbb-4876-926b-07ee23183fec",
-   "title": {
-    "en": "Kuji no Hito"
+    "en": "00 Day of Summer Holiday"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "pl",
-    "en"
+    "bg",
+    "en",
+    "fr"
    ]
   },
   {
@@ -162,17 +151,28 @@
    ]
   },
   {
-   "id": "9955c05d-3c17-4374-9c41-fd6b4cd69e97",
+   "id": "d374a70a-79ee-47b2-a3ed-6c83749ff30e",
    "title": {
-    "en": "38cm"
+    "en": "Tsukiyo ni Sasowarete"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "pt-br",
     "en",
-    "pl",
-    "it"
+    "fr"
+   ]
+  },
+  {
+   "id": "bd418078-db94-4f80-abaa-7d578f626c83",
+   "title": {
+    "en": "Miniature Garden Escape"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
    ]
   },
   {
@@ -189,18 +189,17 @@
    ]
   },
   {
-   "id": "bd418078-db94-4f80-abaa-7d578f626c83",
+   "id": "a97d50f1-eaa6-4dca-be7e-5b583bdc6434",
    "title": {
-    "en": "Miniature Garden Escape"
+    "en": "It Was Almost As If"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "ru",
-    "en",
-    "vi"
+    "pt-br",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:29+00:00"
+ "updatedAt": "2023-12-10T18:10:20+00:00"
 }

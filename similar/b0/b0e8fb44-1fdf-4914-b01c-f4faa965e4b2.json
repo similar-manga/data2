@@ -11,7 +11,7 @@
     "en": "Drifters"
    },
    "contentRating": "suggestive",
-   "score": 0.26589113,
+   "score": 0.2640622,
    "languages": [
     "en",
     "pt-br",
@@ -26,7 +26,7 @@
     "en": "Ikusa no Ko"
    },
    "contentRating": "suggestive",
-   "score": 0.25387353,
+   "score": 0.25322846,
    "languages": [
     "en"
    ]
@@ -37,7 +37,7 @@
     "en": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen"
    },
    "contentRating": "suggestive",
-   "score": 0.24971335,
+   "score": 0.24995685,
    "languages": [
     "en",
     "es-la",
@@ -97,14 +97,6 @@
    ]
   },
   {
-   "id": "6e340dc6-a6a2-49b1-b661-53d9168ab408",
-   "title": {
-    "en": "Fatal Fury - A New Battle"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18004704
-  },
-  {
    "id": "9852bb17-5fb5-40a0-82a0-357d9bcb5286",
    "title": {
     "en": "Bukyousouha"
@@ -117,20 +109,20 @@
    ]
   },
   {
+   "id": "6e340dc6-a6a2-49b1-b661-53d9168ab408",
+   "title": {
+    "en": "Fatal Fury - A New Battle"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18004704
+  },
+  {
    "id": "9f19eb2f-6684-4214-a9af-747333fc9cab",
    "title": {
     "en": "Shin Ikkitousen"
    },
    "contentRating": "suggestive",
-   "score": 0.1721653
-  },
-  {
-   "id": "7200c2af-329e-4b6b-9a0c-8303e96199ba",
-   "title": {
-    "en": "Oda Nobunaga"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17071871
+   "score": 0.17094076
   },
   {
    "id": "19be058b-ff68-4e50-a1f4-d7ff202ea62f",
@@ -146,28 +138,9 @@
     "en": "Basilisk: Ouka Ninpou-chou"
    },
    "contentRating": "suggestive",
-   "score": 0.16714497,
+   "score": 0.16566743,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "6da0b34b-db19-491a-b85c-6e31e0986f15",
-   "title": {
-    "en": "Black Lagoon"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16317146,
-   "languages": [
-    "it",
-    "ru",
-    "pt-br",
-    "vi",
-    "en",
-    "es",
-    "fr",
-    "uk",
-    "tr"
    ]
   },
   {
@@ -177,7 +150,27 @@
    },
    "contentRating": "suggestive",
    "score": 0.16103896
+  },
+  {
+   "id": "4294a016-684b-4a86-8c6f-cc0e8bb2a669",
+   "title": {
+    "en": "Baki Gaiden: Hana No Chiharu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16095515,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d3fb4551-c6ee-4003-8193-9da29c39e7c4",
+   "title": {
+    "en": "The Dragon in Rabylinth"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16095515
   }
  ],
- "updatedAt": "2023-12-10T01:07:03+00:00"
+ "updatedAt": "2023-12-10T18:28:08+00:00"
 }

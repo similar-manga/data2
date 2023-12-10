@@ -6,12 +6,98 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d4fb9792-ae3c-439b-98de-233c054edbda",
+   "title": {
+    "en": "One More Time"
+   },
+   "contentRating": "safe",
+   "score": 0.2621575
+  },
+  {
+   "id": "b6fb3a1d-a2cb-425b-ae6f-cb0892644853",
+   "title": {
+    "en": "Kousaka Shachou wa Gaman dekinai"
+   },
+   "contentRating": "safe",
+   "score": 0.25786963
+  },
+  {
+   "id": "89cb83e4-8b4e-419c-81a0-c37a74832e0b",
+   "title": {
+    "en": "Tonari no Binetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24658276,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b79d134c-cfe2-440d-adb2-a6d5b1235924",
+   "title": {
+    "en": "Koi ni Tsuite Hanasou ka"
+   },
+   "contentRating": "safe",
+   "score": 0.2413751
+  },
+  {
+   "id": "239371c0-33d0-4308-996d-a3da9a98be09",
+   "title": {
+    "en": "Kazane-sensei wa Hida-kun ga Wakaranai"
+   },
+   "contentRating": "safe",
+   "score": 0.2333573
+  },
+  {
+   "id": "cdaad5a8-8cd3-4095-b666-b6b7f1bf0742",
+   "title": {
+    "en": "Seiryaku Kekkon wa Otakoi no Hajimari"
+   },
+   "contentRating": "safe",
+   "score": 0.23051256,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "38e181cd-d999-4041-b38c-45af706a1af5",
+   "title": {
+    "en": "Iyashi no Otonari san ni wa Himitsu Ga Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.22836779,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
+   "title": {
+    "en": "Koisuru Hotaru to Kurashiteru"
+   },
+   "contentRating": "safe",
+   "score": 0.22734742,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "f5304fea-e3dd-4e60-a8f6-c4319d734e40",
+   "title": {
+    "en": "Saboten no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.22706735
+  },
+  {
    "id": "759ff0b8-ca93-4bc8-8dfe-9481d9a167d6",
    "title": {
     "en": "Nekojarashi"
    },
    "contentRating": "safe",
-   "score": 0.22510642
+   "score": 0.22304754
   },
   {
    "id": "bbab80f4-1460-42ac-9201-7f520f6ee25c",
@@ -19,7 +105,15 @@
     "en": "Yume kara Samete mo Koi Shiteru"
    },
    "contentRating": "safe",
-   "score": 0.22315933
+   "score": 0.22033978
+  },
+  {
+   "id": "95e85214-9f74-46da-a5b2-961c4a7c5367",
+   "title": {
+    "en": "Kou 2 no Koi no Wasurekata"
+   },
+   "contentRating": "safe",
+   "score": 0.22025824
   },
   {
    "id": "c994ae64-8cf9-45fd-8375-43b4d8e218b0",
@@ -27,7 +121,7 @@
     "en": "Wisteria-Colored Sky Apartment"
    },
    "contentRating": "safe",
-   "score": 0.21828927,
+   "score": 0.21753699,
    "languages": [
     "tr",
     "en"
@@ -39,7 +133,7 @@
     "en": "Akari of the Forest Bookshop"
    },
    "contentRating": "safe",
-   "score": 0.21773058,
+   "score": 0.2164785,
    "languages": [
     "en"
    ]
@@ -50,120 +144,16 @@
     "en": "1001 keys"
    },
    "contentRating": "safe",
-   "score": 0.21590748
+   "score": 0.21604642
   },
   {
-   "id": "791d2e5a-6088-41a4-bb7d-1484fe8cc484",
+   "id": "d3eb3b44-cfd1-4c4f-8033-98295381644d",
    "title": {
-    "en": "Gourmet Detective Goro Akechi"
+    "en": "Oishii Kaori wa Kimi kara"
    },
    "contentRating": "safe",
-   "score": 0.20920426
-  },
-  {
-   "id": "7980ff2e-0e78-4830-bf9e-f18fc2d15600",
-   "title": {
-    "en": "Our Time of Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.20460446,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "a9328d48-4534-4612-af45-62b5b9477d14",
-   "title": {
-    "en": "Goshujinsama ni Amai Ringo no Okashi"
-   },
-   "contentRating": "safe",
-   "score": 0.20458396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e0dcfbc-501c-487a-b08b-9d6150196d63",
-   "title": {
-    "en": "Clover"
-   },
-   "contentRating": "safe",
-   "score": 0.19558264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a3330cdc-3983-4ec0-9df1-e70354a7db95",
-   "title": {
-    "en": "Manga Masterpiece Opera"
-   },
-   "contentRating": "safe",
-   "score": 0.19458605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "40a2f7ce-723b-4270-82c0-03d7b5c98ef1",
-   "title": {
-    "en": "Toribako House"
-   },
-   "contentRating": "safe",
-   "score": 0.19212443,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "c52a0a3b-386d-4064-8401-2d8e60efc351",
-   "title": {
-    "en": "Solo Festival"
-   },
-   "contentRating": "safe",
-   "score": 0.18643244
-  },
-  {
-   "id": "0697a7ca-c6d1-4704-8630-73503301c316",
-   "title": {
-    "en": "Nomino"
-   },
-   "contentRating": "safe",
-   "score": 0.18612033,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
-   "title": {
-    "en": "Café Velomano"
-   },
-   "contentRating": "safe",
-   "score": 0.18435472,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4e78cb24-b235-420b-9f44-fc28ce2976e7",
-   "title": {
-    "en": "Bubble Ring Rendezvous"
-   },
-   "contentRating": "safe",
-   "score": 0.18345746
-  },
-  {
-   "id": "4049c69b-f1b2-4c85-a105-9d3934fab31a",
-   "title": {
-    "en": "Wanted By Her Lost Love"
-   },
-   "contentRating": "safe",
-   "score": 0.18297604
+   "score": 0.21432437
   }
  ],
- "updatedAt": "2023-12-10T01:00:06+00:00"
+ "updatedAt": "2023-12-10T18:09:18+00:00"
 }

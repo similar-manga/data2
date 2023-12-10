@@ -11,7 +11,7 @@
     "en": "The Locked-up Maiden"
    },
    "contentRating": "safe",
-   "score": 0.31153312,
+   "score": 0.31107074,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tale of Felluah"
    },
    "contentRating": "safe",
-   "score": 0.27490517,
+   "score": 0.27393758,
    "languages": [
     "en"
    ]
@@ -33,15 +33,15 @@
     "en": "Komorebi Neko"
    },
    "contentRating": "safe",
-   "score": 0.26341644,
+   "score": 0.2617739,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "addb1af5-aac3-4232-8456-2647ba3c549d",
+   "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
    "title": {
-    "en": "Akujin no Oboshimeshi"
+    "en": "Shoku no Hana"
    },
    "contentRating": "safe",
    "score": 0.2604187,
@@ -63,23 +63,12 @@
    ]
   },
   {
-   "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
+   "id": "addb1af5-aac3-4232-8456-2647ba3c549d",
    "title": {
-    "en": "Shoku no Hana"
+    "en": "Akujin no Oboshimeshi"
    },
    "contentRating": "safe",
    "score": 0.2604187,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4119fa2c-8650-46f8-a887-9cc50093023c",
-   "title": {
-    "en": "The Stubborn Tomboy and The Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
    "languages": [
     "en"
    ]
@@ -96,31 +85,14 @@
    ]
   },
   {
-   "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
+   "id": "4119fa2c-8650-46f8-a887-9cc50093023c",
    "title": {
-    "en": "Soleil"
+    "en": "The Stubborn Tomboy and The Flower"
    },
    "contentRating": "safe",
-   "score": 0.24849544,
+   "score": 0.2569291,
    "languages": [
-    "en",
-    "bg",
-    "pl"
-   ]
-  },
-  {
-   "id": "32f77abb-96d4-4e6a-b257-5cf029e0c79e",
-   "title": {
-    "en": "Winter Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.24806947,
-   "languages": [
-    "en",
-    "pl",
-    "ro",
-    "fr",
-    "es-la"
+    "en"
    ]
   },
   {
@@ -146,53 +118,77 @@
    ]
   },
   {
+   "id": "32f77abb-96d4-4e6a-b257-5cf029e0c79e",
+   "title": {
+    "en": "Winter Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.24806947,
+   "languages": [
+    "en",
+    "pl",
+    "ro",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
+   "title": {
+    "en": "Soleil"
+   },
+   "contentRating": "safe",
+   "score": 0.24761133,
+   "languages": [
+    "en",
+    "bg",
+    "pl"
+   ]
+  },
+  {
+   "id": "7b6059de-9920-4a22-973f-44f7b64e3655",
+   "title": {
+    "en": "Glimmer"
+   },
+   "contentRating": "safe",
+   "score": 0.2444214,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "142bb857-5434-4579-ade1-db51efed1660",
+   "title": {
+    "en": "Tenzan no Miko Sonin - Ochikobore no Miko ga Oukyuu ni Haitte Kuni wo Sukutta Ue ni Oujitachi ni Aisaretemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.24077648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c163b669-3a27-4bcf-943a-fd1eebebd4ec",
+   "title": {
+    "en": "Oujo-sama wa Uso ga Osuki"
+   },
+   "contentRating": "safe",
+   "score": 0.23777221,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d99c7d70-1c52-4699-adde-c07043565951",
    "title": {
     "en": "Sarasah"
    },
    "contentRating": "safe",
-   "score": 0.23514606,
+   "score": 0.2344493,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
-   "title": {
-    "en": "Hanamuko no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.23480056,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
-   "title": {
-    "en": "HELP!!"
-   },
-   "contentRating": "safe",
-   "score": 0.23041336,
-   "languages": [
-    "bg",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
-   "title": {
-    "en": "Shisei"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "uk",
-    "en",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:09+00:00"
+ "updatedAt": "2023-12-10T18:25:31+00:00"
 }

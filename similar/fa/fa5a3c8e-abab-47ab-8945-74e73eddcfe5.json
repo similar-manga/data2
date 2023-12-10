@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f5ea9d14-2b30-4e06-b453-ca13f32e1152",
+   "title": {
+    "en": "Sweet Bitter"
+   },
+   "contentRating": "safe",
+   "score": 0.4221943,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "34af5093-d70f-4bcc-b577-1b559822e3f8",
    "title": {
     "en": "Himitsu no Sakana-pan"
    },
    "contentRating": "safe",
-   "score": 0.3451022,
+   "score": 0.33993778,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "Narukou Shiikubu"
    },
    "contentRating": "safe",
-   "score": 0.30739486,
+   "score": 0.30518147,
    "languages": [
     "en"
    ]
@@ -33,7 +45,7 @@
     "en": "Doyou Wide Club e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.29440367,
+   "score": 0.29366702,
    "languages": [
     "en"
    ]
@@ -73,9 +85,9 @@
    ]
   },
   {
-   "id": "cf67aa7f-0bcc-4bdf-97fa-ec4e82616647",
+   "id": "c168b9a3-9656-42c1-b4fb-178788306cd2",
    "title": {
-    "en": "Wrong Appeal"
+    "en": "Fukuda Ayano Monogatari"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -84,9 +96,9 @@
    ]
   },
   {
-   "id": "c168b9a3-9656-42c1-b4fb-178788306cd2",
+   "id": "cf67aa7f-0bcc-4bdf-97fa-ec4e82616647",
    "title": {
-    "en": "Fukuda Ayano Monogatari"
+    "en": "Wrong Appeal"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -107,23 +119,23 @@
    ]
   },
   {
-   "id": "29bf265f-cf22-4be8-8bad-28b36f191d50",
-   "title": {
-    "en": "Dansui!"
-   },
-   "contentRating": "safe",
-   "score": 0.2711549,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c9a96eab-fdc5-4bae-a78c-84a80dc98208",
    "title": {
     "en": "Hoshi ni Memai wo"
    },
    "contentRating": "safe",
-   "score": 0.26957807,
+   "score": 0.26887518,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "29bf265f-cf22-4be8-8bad-28b36f191d50",
+   "title": {
+    "en": "Dansui!"
+   },
+   "contentRating": "safe",
+   "score": 0.2687518,
    "languages": [
     "en"
    ]
@@ -134,8 +146,20 @@
     "en": "Hapi Nabi!"
    },
    "contentRating": "safe",
-   "score": 0.26760492,
+   "score": 0.26711422,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
+   "title": {
+    "en": "Junketsu Diablos"
+   },
+   "contentRating": "safe",
+   "score": 0.2600963,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -145,7 +169,7 @@
     "en": "Hadaka Muffler"
    },
    "contentRating": "safe",
-   "score": 0.25494584,
+   "score": 0.2547591,
    "languages": [
     "de",
     "en"
@@ -157,7 +181,7 @@
     "en": "Dekiai Robot"
    },
    "contentRating": "safe",
-   "score": 0.2520444,
+   "score": 0.25148216,
    "languages": [
     "tr",
     "pl",
@@ -165,31 +189,7 @@
     "fr",
     "mn"
    ]
-  },
-  {
-   "id": "3c2c7391-3849-4626-adac-c33f4da348ca",
-   "title": {
-    "en": "Nijikuro Gakuen no Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
-   "title": {
-    "en": "First Love"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:06+00:00"
+ "updatedAt": "2023-12-10T18:35:46+00:00"
 }

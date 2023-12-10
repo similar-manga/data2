@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a034cfc5-bcb9-44a6-adf1-87b3b08a1efc",
+   "title": {
+    "en": "Honoo no Mirage"
+   },
+   "contentRating": "safe",
+   "score": 0.2390243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "af454a9c-5006-456b-b6f6-d23e8f84a8e7",
    "title": {
     "en": "Yami ni Naku Oni"
@@ -17,12 +28,34 @@
    ]
   },
   {
+   "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
+   "title": {
+    "en": "Princess Ai Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.2293474,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "05e41447-5317-4e3b-8e86-77206306d4b0",
    "title": {
     "en": "Ransetsuki"
    },
    "contentRating": "safe",
-   "score": 0.206579,
+   "score": 0.2060173,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6c56ecf3-3256-4ada-9ed4-1271f961a155",
+   "title": {
+    "en": "Weiss Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.20169243,
    "languages": [
     "en"
    ]
@@ -62,6 +95,29 @@
    ]
   },
   {
+   "id": "d251868c-a0ee-4e06-903e-b38e436f4528",
+   "title": {
+    "en": "Gekka Kajin"
+   },
+   "contentRating": "safe",
+   "score": 0.19462892,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5bef1d5d-bf40-44dc-b9a9-c3dd4bc76204",
+   "title": {
+    "en": "Gundog"
+   },
+   "contentRating": "safe",
+   "score": 0.18796216,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "83adb474-b5b7-43ea-8d51-b2ce41dbc1fd",
    "title": {
     "en": "Andromalius"
@@ -89,7 +145,7 @@
     "en": "Kuro Tenkousei"
    },
    "contentRating": "safe",
-   "score": 0.18053262,
+   "score": 0.18361843,
    "languages": [
     "pl",
     "en"
@@ -101,90 +157,34 @@
     "en": "My Beloved Devil"
    },
    "contentRating": "safe",
-   "score": 0.17853671,
+   "score": 0.17910536,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cf6a6afe-c79a-424c-97ac-aabb0e9562ec",
+   "id": "38221d4a-687d-49bc-a2f4-44ce42fab8d9",
    "title": {
-    "en": "Seikimatsu★Darling"
+    "en": "Vampire Knight Memories"
    },
    "contentRating": "safe",
-   "score": 0.17806216,
+   "score": 0.17841375,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ce90ae7e-6be5-4b27-b142-81d9b12ebabe",
+   "id": "27642b7f-d0be-45bb-97c3-9f7f4668d44f",
    "title": {
-    "en": "Red Fang"
-   },
-   "contentRating": "safe",
-   "score": 0.17770466,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3e070544-2ea0-45ea-867d-5e8547a202d9",
-   "title": {
-    "en": "Life x 01"
+    "en": "Inferno"
    },
    "contentRating": "safe",
    "score": 0.17770466,
    "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a7d1232c-caad-4aca-99f3-e8a309cb9494",
-   "title": {
-    "en": "Replica"
-   },
-   "contentRating": "safe",
-   "score": 0.16881718,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "37b1909b-3419-41bd-bffd-8b60d4708091",
-   "title": {
-    "en": "Akuma Yashiki no Kyouikugakari"
-   },
-   "contentRating": "safe",
-   "score": 0.16380659,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "307d8752-c0db-4c5a-a679-7872921c15e8",
-   "title": {
-    "en": "Yowaito Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.16222142,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5bb51c1e-d9c5-4897-89ac-f79ff6b12763",
-   "title": {
-    "en": "Ritsuka to Sousetsu no Kamui"
-   },
-   "contentRating": "safe",
-   "score": 0.16222142,
-   "languages": [
-    "en"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:16+00:00"
+ "updatedAt": "2023-12-10T18:33:43+00:00"
 }

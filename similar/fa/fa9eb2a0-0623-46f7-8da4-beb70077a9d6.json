@@ -11,7 +11,7 @@
     "en": "Tako to Ika wa Isogashii"
    },
    "contentRating": "safe",
-   "score": 0.21491538
+   "score": 0.22053674
   },
   {
    "id": "1dbbb0c2-2fa7-4140-828e-2f8ffcd3326d",
@@ -30,7 +30,7 @@
     "en": "Ooku: The Inner Chambers"
    },
    "contentRating": "safe",
-   "score": 0.18968798
+   "score": 0.19309157
   },
   {
    "id": "b564f264-d2d4-405d-993b-f9fd0c14d1ff",
@@ -38,12 +38,20 @@
     "en": "Visukiisu no Akai Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.18436465,
+   "score": 0.18609245,
    "languages": [
     "en",
     "pl",
     "pt-br"
    ]
+  },
+  {
+   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "title": {
+    "en": "Harp of the Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.18329209
   },
   {
    "id": "96848047-b5f8-4e1e-a20f-c1593da6919e",
@@ -57,20 +65,34 @@
    ]
   },
   {
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
+   "title": {
+    "en": "Zekkyou Gakkyuu Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.18249586,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b904d62a-ec59-4a3b-a5e7-dac29285d88a",
    "title": {
     "en": "White Snake Girl"
    },
    "contentRating": "safe",
-   "score": 0.18225685
+   "score": 0.18185735
   },
   {
-   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "id": "cbf544de-2df4-4f5d-ae82-61c18d298c66",
    "title": {
-    "en": "Harp of the Stars"
+    "en": "Dokebi Bride"
    },
    "contentRating": "safe",
-   "score": 0.18188025
+   "score": 0.18134019,
+   "languages": [
+    "ru"
+   ]
   },
   {
    "id": "22ca98dd-5e07-4fa7-9e8e-67f9a38b8106",
@@ -78,7 +100,7 @@
     "en": "Dakini"
    },
    "contentRating": "safe",
-   "score": 0.18078181,
+   "score": 0.17975977,
    "languages": [
     "en"
    ]
@@ -89,10 +111,26 @@
     "en": "The Glacier of No Return"
    },
    "contentRating": "safe",
-   "score": 0.17788267,
+   "score": 0.17762922,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "513f60a4-9c3d-4f87-8a1e-a60cc614e56a",
+   "title": {
+    "en": "Eru"
+   },
+   "contentRating": "safe",
+   "score": 0.17298573
+  },
+  {
+   "id": "4fae8dcf-1488-4851-9751-a628e2a1b757",
+   "title": {
+    "en": "The Venomous Spotted Spider"
+   },
+   "contentRating": "safe",
+   "score": 0.17037278
   },
   {
    "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
@@ -100,64 +138,27 @@
     "en": "Lady Lizard"
    },
    "contentRating": "safe",
-   "score": 0.16877662
+   "score": 0.16909762
   },
   {
-   "id": "775acdb5-bfe2-4558-9bac-32de7117ee0d",
+   "id": "5e24807e-4ceb-4ac5-8198-eef6dbf02d35",
    "title": {
-    "en": "Attack on Titan: No Regrets Complete Color Edition"
+    "en": "Magamagashiki Kemono no Yuku Hate wa"
    },
    "contentRating": "safe",
-   "score": 0.16528036
+   "score": 0.16788839
   },
   {
-   "id": "7dad2def-bf82-49b3-a4f0-beb6a3c2bf79",
+   "id": "10d0b77d-bf00-4669-b052-29d2a320f712",
    "title": {
-    "en": "Hakkenden: Touhou Hakken Ibun"
+    "en": "Shinohara Chie Kessakushuu"
    },
    "contentRating": "safe",
-   "score": 0.16333199,
+   "score": 0.16722101,
    "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "fe19351b-d34c-4047-88f5-0ae3700e5200",
-   "title": {
-    "en": "Kyuukou, Escape, Mermaid."
-   },
-   "contentRating": "safe",
-   "score": 0.16333199,
-   "languages": [
-    "fr",
     "en"
    ]
-  },
-  {
-   "id": "1b0be165-80d3-428c-8697-27074ac9d1cf",
-   "title": {
-    "en": "Ten o Mitsumete Chi no Soko de"
-   },
-   "contentRating": "safe",
-   "score": 0.16069743
-  },
-  {
-   "id": "2f93d698-a6df-49e9-8fc3-43c637b73613",
-   "title": {
-    "en": "Karura Dance!"
-   },
-   "contentRating": "safe",
-   "score": 0.16054933
-  },
-  {
-   "id": "7e5e72a5-9c42-4c9b-861c-ab17274d0f88",
-   "title": {
-    "en": "White Snake Manor"
-   },
-   "contentRating": "safe",
-   "score": 0.16033551
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:48+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Ikusa no Ko"
    },
    "contentRating": "suggestive",
-   "score": 0.20206107,
+   "score": 0.20151654,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Bukyousouha"
    },
    "contentRating": "suggestive",
-   "score": 0.20039001,
+   "score": 0.19927864,
    "languages": [
     "zh-hk",
     "en"
@@ -34,7 +34,7 @@
     "en": "Dog Soldier"
    },
    "contentRating": "suggestive",
-   "score": 0.19443977,
+   "score": 0.1938573,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Manchuria Opium Squad"
    },
    "contentRating": "suggestive",
-   "score": 0.19018148,
+   "score": 0.19020374,
    "languages": [
     "ru",
     "en",
@@ -57,12 +57,27 @@
    ]
   },
   {
+   "id": "7cdafb87-bde5-4025-aba0-36efd9432a61",
+   "title": {
+    "en": "Drifters"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17744404,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "hu",
+    "es"
+   ]
+  },
+  {
    "id": "6da0b34b-db19-491a-b85c-6e31e0986f15",
    "title": {
     "en": "Black Lagoon"
    },
    "contentRating": "suggestive",
-   "score": 0.17820936,
+   "score": 0.1773192,
    "languages": [
     "it",
     "ru",
@@ -73,21 +88,6 @@
     "fr",
     "uk",
     "tr"
-   ]
-  },
-  {
-   "id": "7cdafb87-bde5-4025-aba0-36efd9432a61",
-   "title": {
-    "en": "Drifters"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17809463,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "hu",
-    "es"
    ]
   },
   {
@@ -107,7 +107,7 @@
     "en": "Maria no Danzai"
    },
    "contentRating": "suggestive",
-   "score": 0.16724262,
+   "score": 0.16683997,
    "languages": [
     "ru",
     "fr",
@@ -176,7 +176,7 @@
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.16197672,
+   "score": 0.16138172,
    "languages": [
     "fr",
     "pt-br",
@@ -215,17 +215,6 @@
    ]
   },
   {
-   "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
-   "title": {
-    "en": "TOKYO TRIBE"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15728703,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e9cda134-9c53-4dd2-8ce0-f9b0171afb39",
    "title": {
     "en": "Goblin Slayer Gaiden: Year One"
@@ -241,7 +230,18 @@
     "id",
     "en"
    ]
+  },
+  {
+   "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
+   "title": {
+    "en": "TOKYO TRIBE"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15693845,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:55+00:00"
+ "updatedAt": "2023-12-10T18:17:03+00:00"
 }

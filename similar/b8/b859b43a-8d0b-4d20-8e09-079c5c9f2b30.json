@@ -11,7 +11,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.3494063,
+   "score": 0.34557238,
    "languages": [
     "en",
     "pt-br",
@@ -27,7 +27,7 @@
     "en": "Yuusha Goikkou no Kaerimichi"
    },
    "contentRating": "safe",
-   "score": 0.22256747,
+   "score": 0.22230381,
    "languages": [
     "en",
     "es-la",
@@ -42,6 +42,18 @@
    ]
   },
   {
+   "id": "ab13d94c-1e51-4f2c-909c-258ecbdfd3a1",
+   "title": {
+    "en": "Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei"
+   },
+   "contentRating": "safe",
+   "score": 0.22174716,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "3eaf2fe0-ec49-4f97-8611-5e1b76dc41f5",
    "title": {
     "en": "After Darkness"
@@ -51,32 +63,6 @@
    "languages": [
     "fr",
     "ru"
-   ]
-  },
-  {
-   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
-   "title": {
-    "en": "Arcadia of the Moonlight"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "es-la",
-    "ar",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "122ff8f1-2ac0-4df6-ba00-986af47d4d40",
-   "title": {
-    "en": "Carpe diem"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -94,28 +80,29 @@
    ]
   },
   {
-   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
+   "id": "122ff8f1-2ac0-4df6-ba00-986af47d4d40",
    "title": {
-    "en": "Earthly Paradise"
+    "en": "Carpe diem"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
+   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
    "title": {
-    "en": "Light Again"
+    "en": "Arcadia of the Moonlight"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
     "en",
-    "pt-br",
-    "ru",
-    "it"
+    "es-la",
+    "ar",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -144,12 +131,51 @@
    ]
   },
   {
+   "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
+   "title": {
+    "en": "Light Again"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru",
+    "it"
+   ]
+  },
+  {
+   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
+   "title": {
+    "en": "Earthly Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "043a10f5-c16d-4402-bf82-0f3e8a33de29",
+   "title": {
+    "en": "Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.19752331,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "af07500f-099c-4c9f-88be-bd6051ecf307",
    "title": {
     "en": "Deep Blue Ice"
    },
    "contentRating": "safe",
-   "score": 0.20020711,
+   "score": 0.1972026,
    "languages": [
     "en"
    ]
@@ -160,7 +186,7 @@
     "en": "Sol Trigger"
    },
    "contentRating": "safe",
-   "score": 0.19967352,
+   "score": 0.19637585,
    "languages": [
     "en"
    ]
@@ -191,33 +217,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
-   "title": {
-    "en": "Nee Nee, Nene-san."
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "f88747f3-e9d3-4238-8941-ec815dcefd98",
-   "title": {
-    "en": "Ability Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "pl",
-    "en",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:22+00:00"
+ "updatedAt": "2023-12-10T18:28:58+00:00"
 }

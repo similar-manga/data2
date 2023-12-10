@@ -6,27 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
-   "title": {
-    "en": "Candy Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.28580418,
-   "languages": [
-    "fr",
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "4c9d9138-1e6d-4e6d-b079-29f629ce73f0",
    "title": {
     "en": "Ningyou Saisei Koujou"
    },
    "contentRating": "safe",
-   "score": 0.2832551,
+   "score": 0.2862945,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
+   "title": {
+    "en": "Candy Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.2728505,
+   "languages": [
+    "fr",
+    "en",
+    "tr"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Red Road"
    },
    "contentRating": "safe",
-   "score": 0.2577868,
+   "score": 0.25621778,
    "languages": [
     "pl",
     "en",
@@ -48,7 +48,7 @@
     "en": "Toshi Densetsu"
    },
    "contentRating": "safe",
-   "score": 0.2518216,
+   "score": 0.25147265,
    "languages": [
     "pt-br",
     "en"
@@ -63,17 +63,6 @@
    "score": 0.23567893,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "4607f958-9c77-446d-b78c-16d5f634a9fd",
-   "title": {
-    "en": "Tomo no Kowai Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
     "en"
    ]
   },
@@ -101,12 +90,23 @@
    ]
   },
   {
+   "id": "4607f958-9c77-446d-b78c-16d5f634a9fd",
+   "title": {
+    "en": "Tomo no Kowai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
    "title": {
     "en": "Red House"
    },
    "contentRating": "safe",
-   "score": 0.22935714,
+   "score": 0.22840798,
    "languages": [
     "fr",
     "ro",
@@ -126,28 +126,6 @@
    "languages": [
     "tr",
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
-   "title": {
-    "en": "Airuika"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
-   "title": {
-    "en": "Dana's Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
     "en"
    ]
   },
@@ -178,17 +156,25 @@
    ]
   },
   {
-   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
+   "id": "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
    "title": {
-    "en": "Akai Ito"
+    "en": "Airuika"
    },
    "contentRating": "safe",
-   "score": 0.2176968,
+   "score": 0.22755206,
    "languages": [
-    "pt-br",
-    "en",
-    "hu",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "title": {
+    "en": "Dana's Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.22755206,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -197,11 +183,22 @@
     "en": "Red Girl"
    },
    "contentRating": "safe",
-   "score": 0.21701255,
+   "score": 0.21999218,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
+   "title": {
+    "en": "Daruma no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.2183279,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:14+00:00"
+ "updatedAt": "2023-12-10T18:28:39+00:00"
 }

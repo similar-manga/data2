@@ -6,12 +6,83 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.26306143,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "title": {
+    "en": "Steins;Gate 0"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
    "title": {
     "en": "Atrocious Fairy Tales for Adults"
    },
    "contentRating": "safe",
    "score": 0.22857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
+   "title": {
+    "en": "Under the Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
@@ -26,21 +97,6 @@
    "languages": [
     "en",
     "it"
-   ]
-  },
-  {
-   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
-   "title": {
-    "en": "I Love You, Kyouko-san."
-   },
-   "contentRating": "safe",
-   "score": 0.20225811,
-   "languages": [
-    "en",
-    "zh-hk",
-    "id",
-    "it",
-    "pt-br"
    ]
   },
   {
@@ -84,12 +140,50 @@
    ]
   },
   {
+   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
+   "title": {
+    "en": "I Love You, Kyouko-san."
+   },
+   "contentRating": "safe",
+   "score": 0.20185556,
+   "languages": [
+    "en",
+    "zh-hk",
+    "id",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
+   "title": {
+    "en": "Yorukumo"
+   },
+   "contentRating": "safe",
+   "score": 0.20030613,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "9ecda053-6809-433a-a558-238357ac8ed3",
+   "title": {
+    "en": "Waraenu Douji - 108 no Gou"
+   },
+   "contentRating": "safe",
+   "score": 0.19993508,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
    "title": {
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.20033656,
+   "score": 0.1999013,
    "languages": [
     "en"
    ]
@@ -100,21 +194,10 @@
     "en": "He Was My Brother"
    },
    "contentRating": "safe",
-   "score": 0.19891584,
+   "score": 0.1978559,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "9df240b5-b551-4220-80db-6dd9de413e26",
-   "title": {
-    "en": "Horobi no Mae no Shangri-La"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -128,90 +211,7 @@
     "zh-hk",
     "en"
    ]
-  },
-  {
-   "id": "dc22c201-a2a8-40aa-a23f-69852b0c8d0f",
-   "title": {
-    "en": "Kowloon Generic Romance"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "zh-hk",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
-   "title": {
-    "en": "AGAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "02be54ac-b1bc-496c-a496-bcea5356bcb5",
-   "title": {
-    "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
-   "title": {
-    "en": "Kokushi no Shima"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
-   "title": {
-    "en": "Sherlock"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:08+00:00"
+ "updatedAt": "2023-12-10T18:35:51+00:00"
 }

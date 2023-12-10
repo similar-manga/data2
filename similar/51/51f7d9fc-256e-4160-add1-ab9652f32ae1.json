@@ -6,12 +6,43 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
+   "title": {
+    "en": "Shaman King: The Super Star"
+   },
+   "contentRating": "safe",
+   "score": 0.25373563,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+   "title": {
+    "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
+   },
+   "contentRating": "safe",
+   "score": 0.24599531,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "pl",
+    "ar",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
     "en": "Tiger \u0026 Bunny"
    },
    "contentRating": "safe",
-   "score": 0.24387296,
+   "score": 0.24006137,
    "languages": [
     "ru",
     "en"
@@ -23,7 +54,7 @@
     "en": "Rakshasa Street"
    },
    "contentRating": "safe",
-   "score": 0.23938148,
+   "score": 0.2371921,
    "languages": [
     "fr",
     "en",
@@ -48,14 +79,14 @@
    ]
   },
   {
-   "id": "76eb5273-5869-4f5a-8b43-853f55efd6cd",
+   "id": "82e06016-c23f-49a5-97d5-f0a535080fec",
    "title": {
-    "en": "SPY×FAMILY - Digital Colored Comics"
+    "en": "Taiyou Shounen Jango"
    },
    "contentRating": "safe",
-   "score": 0.22212237,
+   "score": 0.22462763,
    "languages": [
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -64,10 +95,21 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.21971576,
+   "score": 0.22011036,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "76eb5273-5869-4f5a-8b43-853f55efd6cd",
+   "title": {
+    "en": "SPY×FAMILY - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.22008711,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -76,7 +118,7 @@
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.2170579,
+   "score": 0.21575221,
    "languages": [
     "en"
    ]
@@ -87,19 +129,31 @@
     "en": "Spray King"
    },
    "contentRating": "safe",
-   "score": 0.21632294,
+   "score": 0.2156014,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "Mu Wu's Forest"
    },
    "contentRating": "safe",
-   "score": 0.21444733,
+   "score": 0.21466906,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "c29fb8fd-f053-4f33-90ee-331b3e112133",
+   "title": {
+    "en": "Jitsuryokuha Elite Jin"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -116,14 +170,20 @@
    ]
   },
   {
-   "id": "c29fb8fd-f053-4f33-90ee-331b3e112133",
+   "id": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
    "title": {
-    "en": "Jitsuryokuha Elite Jin"
+    "en": "Vanitas no Carte"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "en"
+    "pt-br",
+    "es",
+    "ru",
+    "hu",
+    "es-la",
+    "it",
+    "fr"
    ]
   },
   {
@@ -132,7 +192,7 @@
     "en": "Strobo"
    },
    "contentRating": "safe",
-   "score": 0.21343979,
+   "score": 0.21283785,
    "languages": [
     "en"
    ]
@@ -143,60 +203,13 @@
     "en": "Undead Unluck - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.21206632,
+   "score": 0.2113368,
    "languages": [
     "vi",
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
-   "title": {
-    "en": "Brothers"
-   },
-   "contentRating": "safe",
-   "score": 0.20993927,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "28153424-d86d-4629-8661-e0232acb525d",
-   "title": {
-    "en": "Hameln no Violin Hiki - Shchelkunchik"
-   },
-   "contentRating": "safe",
-   "score": 0.20927928,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
-   "title": {
-    "en": "Shirasunamura"
-   },
-   "contentRating": "safe",
-   "score": 0.2086528,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "e9d5052d-6fc2-4a14-b08e-1ed36e3c647a",
-   "title": {
-    "en": "The Day Naruto Became Hokage"
-   },
-   "contentRating": "safe",
-   "score": 0.20619653,
-   "languages": [
-    "en",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:58+00:00"
+ "updatedAt": "2023-12-10T18:17:10+00:00"
 }

@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fb30d2e3-20d1-45c8-b9e1-40b8cfe6a1d3",
+   "title": {
+    "en": "Oinarisama no Honey Bunny"
+   },
+   "contentRating": "safe",
+   "score": 0.23736377,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e2b779fd-b395-4faf-beb1-1a406b403d55",
    "title": {
     "en": "Oujisama Lv1"
@@ -17,9 +28,9 @@
    ]
   },
   {
-   "id": "fb30d2e3-20d1-45c8-b9e1-40b8cfe6a1d3",
+   "id": "5d04bd23-8022-4b6f-8b1a-dc3f5c68abc6",
    "title": {
-    "en": "Oinarisama no Honey Bunny"
+    "en": "Ryuu no Yuigon"
    },
    "contentRating": "safe",
    "score": 0.23736377,
@@ -40,12 +51,34 @@
    ]
   },
   {
-   "id": "5d04bd23-8022-4b6f-8b1a-dc3f5c68abc6",
+   "id": "3809e8de-d432-4e1c-81e3-e06f47082c9a",
    "title": {
-    "en": "Ryuu no Yuigon"
+    "en": "Unmei no Hana"
    },
    "contentRating": "safe",
    "score": 0.23736377,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "276e8d27-2814-4d32-9cae-c900cee2517e",
+   "title": {
+    "en": "Elysium no Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.2318243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7eda8216-257e-471b-9d50-dc79b7536d1e",
+   "title": {
+    "en": "Beast of Blood"
+   },
+   "contentRating": "safe",
+   "score": 0.230446,
    "languages": [
     "en"
    ]
@@ -56,15 +89,48 @@
     "en": "Saiyuki RELOAD BLAST"
    },
    "contentRating": "safe",
-   "score": 0.22963184,
+   "score": 0.22993693,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "85c7da77-81a3-4164-a84e-30e0799554e7",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "Graduated From You"
+   },
+   "contentRating": "safe",
+   "score": 0.22985786,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
+   "title": {
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
+   },
+   "contentRating": "safe",
+   "score": 0.22610782,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
+   "title": {
+    "en": "Dragon Knights - Search For the Legendary King"
+   },
+   "contentRating": "safe",
+   "score": 0.22610782,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "06a61440-6cb4-412f-93f2-5a4b96b86216",
+   "title": {
+    "en": "Let Love Rule"
    },
    "contentRating": "safe",
    "score": 0.22610782,
@@ -97,95 +163,27 @@
    ]
   },
   {
-   "id": "25456ec3-0dba-42c6-99eb-05e77fda7223",
+   "id": "82a49c7e-2c95-40e9-bcfe-d58e8ec5dcb6",
    "title": {
-    "en": "Fairial Garden"
+    "en": "Cardfight!! Vanguard: Turnabout"
    },
    "contentRating": "safe",
-   "score": 0.22153951,
+   "score": 0.22610782,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fe386ee2-9a8d-4569-b7da-6cec9f73b064",
+   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
    "title": {
-    "en": "Renai Plus α"
+    "en": "Kishin Douji Zenki"
    },
    "contentRating": "safe",
-   "score": 0.21537788,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "64979dc3-8f25-4ce3-aa1e-66c83a362773",
-   "title": {
-    "en": "Horror Collector"
-   },
-   "contentRating": "safe",
-   "score": 0.21230459,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "606e05a6-bc23-44f8-b9db-48393e852a2b",
-   "title": {
-    "en": "Bamford Koushakuke no Shitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.21230459,
-   "languages": [
-    "en",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
-   "title": {
-    "en": "Joou Kishi Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.21058664,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ca79290-c012-4de3-85f7-a3562fa81773",
-   "title": {
-    "en": "105 Goushitsuji no Inu"
-   },
-   "contentRating": "safe",
-   "score": 0.21013111,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b046bcc7-7494-45cc-bdeb-887219d73d50",
-   "title": {
-    "en": "Egoism"
-   },
-   "contentRating": "safe",
-   "score": 0.21013111,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "351a75ea-ca0d-403d-9cfc-53d7ec6d1c16",
-   "title": {
-    "en": "Saka no Ue no Mahoutsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.21013111,
+   "score": 0.22610782,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:51+00:00"
+ "updatedAt": "2023-12-10T18:35:08+00:00"
 }

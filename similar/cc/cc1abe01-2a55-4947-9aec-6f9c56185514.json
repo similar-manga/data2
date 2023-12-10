@@ -6,14 +6,61 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e4da84f7-3e88-474e-9c85-9851c6c38cc3",
+   "title": {
+    "en": "Deadman 31"
+   },
+   "contentRating": "safe",
+   "score": 0.3564654,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5b333576-66a1-4c4e-9c55-5297c6cfb349",
    "title": {
     "en": "Deadman"
    },
    "contentRating": "safe",
-   "score": 0.31868303,
+   "score": 0.31901398,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8d9d32fa-ff8f-4aec-a63d-6090f9220105",
+   "title": {
+    "en": "The King of Zombie"
+   },
+   "contentRating": "safe",
+   "score": 0.30835617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c89c91dc-e92a-4a21-a3b3-58c8ed388ba4",
+   "title": {
+    "en": "Mr. Zombie"
+   },
+   "contentRating": "safe",
+   "score": 0.30407718,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "d9ea56d5-4be5-4fbc-89f1-5fa02084b45b",
+   "title": {
+    "en": "Eschaton Game"
+   },
+   "contentRating": "safe",
+   "score": 0.28821748,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -22,7 +69,7 @@
     "en": "No Country for Zombie"
    },
    "contentRating": "safe",
-   "score": 0.27863133,
+   "score": 0.27824056,
    "languages": [
     "en"
    ]
@@ -33,7 +80,7 @@
     "en": "Liv"
    },
    "contentRating": "safe",
-   "score": 0.27792954,
+   "score": 0.27597094,
    "languages": [
     "pl",
     "tr",
@@ -47,16 +94,39 @@
    ]
   },
   {
+   "id": "6c767d66-7d68-4e83-97b4-6ce230a38bdc",
+   "title": {
+    "en": "Noman's Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.27415937,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ae2bdd9a-6879-46e4-a92a-695c17182685",
    "title": {
     "en": "PSYCHOPATH HERO"
    },
    "contentRating": "safe",
-   "score": 0.2748323,
+   "score": 0.2736642,
    "languages": [
     "en",
     "it",
     "pl"
+   ]
+  },
+  {
+   "id": "a4111573-03ec-4e00-8550-cb8b788ad0e2",
+   "title": {
+    "en": "Taming Spiritual Pets: My Spiritual Pet is a Female Zombie"
+   },
+   "contentRating": "safe",
+   "score": 0.2725819,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -65,10 +135,21 @@
     "en": "Savior"
    },
    "contentRating": "safe",
-   "score": 0.27348724,
+   "score": 0.27212083,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "efdf2e6a-3752-49b3-9013-56bba614a2ef",
+   "title": {
+    "en": "My Cultivator Girlfriend"
+   },
+   "contentRating": "safe",
+   "score": 0.2713063,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -77,20 +158,24 @@
     "en": "Fantasy World Survival"
    },
    "contentRating": "safe",
-   "score": 0.26931745,
+   "score": 0.26832652,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fbb44f4b-f36b-4252-bbbb-9b393d1ce0c7",
+   "id": "4f86b5dc-2d70-4edb-b9cd-0463ee6095ee",
    "title": {
-    "en": "The Hero is a Girl?!"
+    "en": "Tale of Otaku and Demons"
    },
    "contentRating": "safe",
-   "score": 0.26426592,
+   "score": 0.26566625,
    "languages": [
-    "en"
+    "pt-br",
+    "tr",
+    "en",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -99,115 +184,23 @@
     "en": "Hatenkou Yuugi"
    },
    "contentRating": "safe",
-   "score": 0.26343757,
+   "score": 0.26270565,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "f6730e73-7424-43c5-ac2c-a1cbe2c9d424",
+   "id": "fbb44f4b-f36b-4252-bbbb-9b393d1ce0c7",
    "title": {
-    "en": "Nweho (Best Challenge Version)"
+    "en": "The Hero is a Girl?!"
    },
    "contentRating": "safe",
-   "score": 0.26145807,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
-   "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
-   },
-   "contentRating": "safe",
-   "score": 0.26136318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8477d4e3-fab7-422b-b6fe-c699ec5f5789",
-   "title": {
-    "en": "Arata Kangatari"
-   },
-   "contentRating": "safe",
-   "score": 0.25809938,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "80d288be-bdb9-4637-804e-02b2f89ad2d8",
-   "title": {
-    "en": "Jungle Juice"
-   },
-   "contentRating": "safe",
-   "score": 0.24836524,
-   "languages": [
-    "fa",
-    "en",
-    "pl",
-    "pt-br",
-    "fr",
-    "id",
-    "tr",
-    "hu"
-   ]
-  },
-  {
-   "id": "76ac6b53-df49-4ace-85a2-b27970830ef2",
-   "title": {
-    "en": "Kubera"
-   },
-   "contentRating": "safe",
-   "score": 0.24517609,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "it",
-    "ar",
-    "fr",
-    "de",
-    "fa"
-   ]
-  },
-  {
-   "id": "4c6a9e5b-df17-4e48-98a8-a9f81eff8e4b",
-   "title": {
-    "en": "Comic Maplestory Offline RPG"
-   },
-   "contentRating": "safe",
-   "score": 0.24432981,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "abca96a7-c85d-4c59-a75d-3828473eacfc",
-   "title": {
-    "en": "I'm a Mom"
-   },
-   "contentRating": "safe",
-   "score": 0.24304831,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
-   "title": {
-    "en": "Super God System"
-   },
-   "contentRating": "safe",
-   "score": 0.2412454,
+   "score": 0.26177955,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:11+00:00"
+ "updatedAt": "2023-12-10T18:30:59+00:00"
 }

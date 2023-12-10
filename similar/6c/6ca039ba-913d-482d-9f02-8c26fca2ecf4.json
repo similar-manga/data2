@@ -6,6 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c3d3d5b6-7a44-4f12-a625-8af3f716d815",
+   "title": {
+    "en": "Kare ni Irai Shite wa Ikemasen"
+   },
+   "contentRating": "safe",
+   "score": 0.30301368,
+   "languages": [
+    "en",
+    "es",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.3001561,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
    "title": {
     "en": "Bible of Black"
@@ -23,7 +48,18 @@
     "en": "Second Coming"
    },
    "contentRating": "safe",
-   "score": 0.26257342,
+   "score": 0.2652489,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4fc1b635-dbf4-44e9-af7c-4a76b63d8ba8",
+   "title": {
+    "en": "Lost Lovers"
+   },
+   "contentRating": "safe",
+   "score": 0.262899,
    "languages": [
     "en"
    ]
@@ -34,7 +70,7 @@
     "en": "Tajikarao"
    },
    "contentRating": "safe",
-   "score": 0.24954799,
+   "score": 0.24951416,
    "languages": [
     "en"
    ]
@@ -45,7 +81,64 @@
     "en": "Shikigami Twilight Days"
    },
    "contentRating": "safe",
-   "score": 0.24533907,
+   "score": 0.24557082,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c2956332-08f8-4adc-9208-c279c2f51c7e",
+   "title": {
+    "en": "The Globe"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "2a3fff79-557b-4008-8fc3-c5abdde5573e",
+   "title": {
+    "en": "Telepathy Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
+   "title": {
+    "en": "Red Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
+   "title": {
+    "en": "Ryoko's Case File"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "ff507ebe-8480-4f09-8ff8-cf648cd67313",
+   "title": {
+    "en": "Hitori No Shita: The Outcast"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
@@ -63,30 +156,6 @@
    ]
   },
   {
-   "id": "c2956332-08f8-4adc-9208-c279c2f51c7e",
-   "title": {
-    "en": "The Globe"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
-   "title": {
-    "en": "Ryoko's Case File"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "7418eb16-22e0-412d-b9e6-b16719ce7155",
    "title": {
     "en": "Matsuri Night"
@@ -99,9 +168,9 @@
    ]
   },
   {
-   "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
+   "id": "6e5c0ebf-86ee-4a60-83e4-fbdbe68a126e",
    "title": {
-    "en": "Red Garden"
+    "en": "Kyouka Ayakashi Hichou Kanzenban"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -110,88 +179,16 @@
    ]
   },
   {
-   "id": "2a3fff79-557b-4008-8fc3-c5abdde5573e",
+   "id": "759c4b10-af8f-4e0a-ae1d-1be33a34080f",
    "title": {
-    "en": "Telepathy Shoujo"
+    "en": "Fly - Tondemo Teleport Girl Yumi"
    },
    "contentRating": "safe",
    "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5515114e-079e-473d-a702-09dcad91da07",
-   "title": {
-    "en": "Arborist"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
-   "title": {
-    "en": "Nightmare Game"
-   },
-   "contentRating": "safe",
-   "score": 0.22427122,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "fb23dd32-296d-4463-8d44-8630c5e42c44",
-   "title": {
-    "en": "Zodiac Game"
-   },
-   "contentRating": "safe",
-   "score": 0.22364774,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
-   "title": {
-    "en": "Torikago Gakkyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.21301755,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "c1f8d193-8d13-4a63-9838-863e76e2d922",
-   "title": {
-    "en": "Graineliers"
-   },
-   "contentRating": "safe",
-   "score": 0.20948817,
-   "languages": [
-    "vi",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f7808a85-3c51-4973-b850-78962729bc0a",
-   "title": {
-    "en": "UnLeong"
-   },
-   "contentRating": "safe",
-   "score": 0.20250528,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:04+00:00"
+ "updatedAt": "2023-12-10T18:20:04+00:00"
 }

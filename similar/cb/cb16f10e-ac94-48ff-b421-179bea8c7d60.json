@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
+   "id": "498e95c9-292f-4c19-994d-7281b2253a02",
    "title": {
-    "en": "Metamorcode"
+    "en": "Ivory Dark"
    },
    "contentRating": "safe",
-   "score": 0.25182933,
+   "score": 0.2851258,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
    "title": {
-    "en": "Watashi wa Kagome"
+    "en": "Metamorcode"
    },
    "contentRating": "safe",
-   "score": 0.2208575,
+   "score": 0.25035208,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "2 x Bone"
    },
    "contentRating": "safe",
-   "score": 0.21368991,
+   "score": 0.21283844,
    "languages": [
     "en"
    ]
@@ -44,20 +44,8 @@
     "en": "Mirai Nikki Redial"
    },
    "contentRating": "safe",
-   "score": 0.21366958,
+   "score": 0.21281777,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84a9b1ee-26ac-48df-9d9c-532b140a0324",
-   "title": {
-    "en": "GARDEN"
-   },
-   "contentRating": "safe",
-   "score": 0.20221944,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -74,13 +62,14 @@
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "84a9b1ee-26ac-48df-9d9c-532b140a0324",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "GARDEN"
    },
    "contentRating": "safe",
-   "score": 0.19844009,
+   "score": 0.20044768,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -90,7 +79,7 @@
     "en": "A Lantern's Light"
    },
    "contentRating": "safe",
-   "score": 0.19714107,
+   "score": 0.19655082,
    "languages": [
     "en"
    ]
@@ -101,11 +90,22 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.19506712,
+   "score": 0.19469403,
    "languages": [
     "it",
     "pl",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "22cc151f-63f7-4342-b224-1223f43007ec",
+   "title": {
+    "en": "Kurenai no Senkan"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
     "en"
    ]
   },
@@ -121,12 +121,48 @@
    ]
   },
   {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "fbb62d28-a83c-4ea5-8546-d6877ab533c6",
+   "title": {
+    "en": "Mahou Tsukai ni Taisetsu na Koto"
+   },
+   "contentRating": "safe",
+   "score": 0.1943297,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53b8595f-50ff-4926-a91a-37a7d6f1e10c",
+   "title": {
+    "en": "Diary Mystery"
+   },
+   "contentRating": "safe",
+   "score": 0.1929058,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3de7d8ae-6411-4d3f-8181-d2baefe04516",
    "title": {
     "en": "Shingeki no Kyojin (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.19282277,
+   "score": 0.19233787,
    "languages": [
     "fr",
     "en",
@@ -134,25 +170,18 @@
    ]
   },
   {
-   "id": "8787958d-a3f1-4d48-8220-fad148c7c28e",
+   "id": "3148a516-751b-4e42-95e3-caaea40ad3f0",
    "title": {
-    "en": "Fragment"
+    "en": "MamaYuyu"
    },
    "contentRating": "safe",
-   "score": 0.19026,
+   "score": 0.19126791,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b333576-66a1-4c4e-9c55-5297c6cfb349",
-   "title": {
-    "en": "Deadman"
-   },
-   "contentRating": "safe",
-   "score": 0.18989155,
-   "languages": [
-    "en"
+    "tr",
+    "pt-br",
+    "en",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -161,37 +190,12 @@
     "en": "Kousaten Chindouchuu"
    },
    "contentRating": "safe",
-   "score": 0.18973543,
+   "score": 0.18894397,
    "languages": [
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "18a5117e-1cc1-406b-820a-417503886de7",
-   "title": {
-    "en": "Aphorism"
-   },
-   "contentRating": "safe",
-   "score": 0.18857102,
-   "languages": [
-    "pl",
-    "en",
-    "de",
-    "es"
-   ]
-  },
-  {
-   "id": "5f397c12-c83e-4c59-8ab8-33634c1cd2eb",
-   "title": {
-    "en": "Tsukigui Youma Taijishi"
-   },
-   "contentRating": "safe",
-   "score": 0.18144369,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:08+00:00"
+ "updatedAt": "2023-12-10T18:30:53+00:00"
 }

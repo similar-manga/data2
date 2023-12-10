@@ -11,7 +11,7 @@
     "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.2512856,
+   "score": 0.25375295,
    "languages": [
     "it",
     "en",
@@ -26,18 +26,7 @@
     "en": "D"
    },
    "contentRating": "safe",
-   "score": 0.24721791,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
-   "title": {
-    "en": "Waltzing at Sanzu River"
-   },
-   "contentRating": "safe",
-   "score": 0.23575316,
+   "score": 0.24682164,
    "languages": [
     "en"
    ]
@@ -54,12 +43,23 @@
    ]
   },
   {
+   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
+   "title": {
+    "en": "Waltzing at Sanzu River"
+   },
+   "contentRating": "safe",
+   "score": 0.23524144,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
    "title": {
     "en": "Poison"
    },
    "contentRating": "safe",
-   "score": 0.23562099,
+   "score": 0.23523591,
    "languages": [
     "en"
    ]
@@ -70,7 +70,7 @@
     "en": "Black Coffee"
    },
    "contentRating": "safe",
-   "score": 0.23174627,
+   "score": 0.23110269,
    "languages": [
     "en"
    ]
@@ -81,7 +81,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.22559226,
+   "score": 0.2252068,
    "languages": [
     "pt-br",
     "ru",
@@ -96,7 +96,7 @@
     "en": "Awajima Hyakkei"
    },
    "contentRating": "safe",
-   "score": 0.22472362,
+   "score": 0.22417384,
    "languages": [
     "en"
    ]
@@ -107,7 +107,7 @@
     "en": "Kyosuurei"
    },
    "contentRating": "safe",
-   "score": 0.22053976,
+   "score": 0.21984886,
    "languages": [
     "en"
    ]
@@ -118,7 +118,7 @@
     "en": "Ijimerarekko ga Kuru!"
    },
    "contentRating": "safe",
-   "score": 0.21542281,
+   "score": 0.215031,
    "languages": [
     "en"
    ]
@@ -129,7 +129,7 @@
     "en": "The Negatibrain"
    },
    "contentRating": "safe",
-   "score": 0.21218875,
+   "score": 0.21165161,
    "languages": [
     "pl",
     "fr",
@@ -160,6 +160,29 @@
    ]
   },
   {
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
+   "title": {
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.20644996,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
+   "title": {
+    "en": "Death"
+   },
+   "contentRating": "safe",
+   "score": 0.20644996,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
    "title": {
     "en": "Fukugaeru"
@@ -172,30 +195,7 @@
     "pl",
     "de"
    ]
-  },
-  {
-   "id": "111aece9-5206-4245-b4db-56b805d6e63f",
-   "title": {
-    "en": "The Pool That Night"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
-   "title": {
-    "en": "Dodoitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20644996,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:48+00:00"
+ "updatedAt": "2023-12-10T18:30:04+00:00"
 }

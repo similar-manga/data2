@@ -6,29 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
-   "title": {
-    "en": "Kaiju No. 8"
-   },
-   "contentRating": "safe",
-   "score": 0.23205845,
-   "languages": [
-    "ar",
-    "uk",
-    "pt-br",
-    "it",
-    "id",
-    "ru",
-    "fr",
-    "tr",
-    "pl",
-    "fa",
-    "es-la",
-    "en",
-    "th"
-   ]
-  },
-  {
    "id": "328442dc-4731-4189-9dce-2621bca1a3c6",
    "title": {
     "en": "Star Children (Oneshot)"
@@ -57,6 +34,17 @@
    },
    "contentRating": "safe",
    "score": 0.20619653,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b8fbb0f-e422-4ff4-91bf-408a94c16f0d",
+   "title": {
+    "en": "A Story about a Giant Hero Having Trouble with Money"
+   },
+   "contentRating": "safe",
+   "score": 0.20521758,
    "languages": [
     "en"
    ]
@@ -96,6 +84,28 @@
    ]
   },
   {
+   "id": "86b4a817-4c42-401c-b7c7-ed0c0f80bc60",
+   "title": {
+    "en": "31 Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "72b5a5e8-9573-423e-b41f-2b75cb193a0f",
+   "title": {
+    "en": "Ultraman: Another Gene"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
    "title": {
     "en": "Rairairai"
@@ -107,14 +117,26 @@
    ]
   },
   {
-   "id": "86b4a817-4c42-401c-b7c7-ed0c0f80bc60",
+   "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
    "title": {
-    "en": "31 Heroes"
+    "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.18442778,
    "languages": [
-    "en"
+    "ar",
+    "uk",
+    "pt-br",
+    "it",
+    "id",
+    "ru",
+    "fr",
+    "tr",
+    "pl",
+    "fa",
+    "es-la",
+    "en",
+    "th"
    ]
   },
   {
@@ -166,7 +188,7 @@
     "en": "Blue Archive: Problem Solver 68 Business Diary"
    },
    "contentRating": "safe",
-   "score": 0.18371429,
+   "score": 0.1835984,
    "languages": [
     "en",
     "vi",
@@ -181,33 +203,11 @@
     "en": "Version"
    },
    "contentRating": "safe",
-   "score": 0.1836411,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8d8ac2b6-9fbf-4df9-b022-c6890e6ef222",
-   "title": {
-    "en": "Perman"
-   },
-   "contentRating": "safe",
-   "score": 0.182278,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "869dbbc9-7330-49e4-a1a2-b2ade4a14f1d",
-   "title": {
-    "en": "Barom-1"
-   },
-   "contentRating": "safe",
-   "score": 0.17691235,
+   "score": 0.17959653,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:27+00:00"
+ "updatedAt": "2023-12-10T18:29:11+00:00"
 }

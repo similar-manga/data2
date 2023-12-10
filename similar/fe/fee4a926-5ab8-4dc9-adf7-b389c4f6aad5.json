@@ -18,12 +18,24 @@
    ]
   },
   {
+   "id": "dbd45ff2-2731-48e7-9304-0aa24739b5ac",
+   "title": {
+    "en": "Katakoi"
+   },
+   "contentRating": "safe",
+   "score": 0.19706586,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "bb949242-a716-4bff-a91d-83e5c0412673",
    "title": {
     "en": "Comic ☆ Shinichi"
    },
    "contentRating": "safe",
-   "score": 0.18251012,
+   "score": 0.1835055,
    "languages": [
     "es-la",
     "en",
@@ -38,7 +50,7 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.17878735,
+   "score": 0.17864063,
    "languages": [
     "pl",
     "en",
@@ -77,7 +89,7 @@
     "en": "One Day"
    },
    "contentRating": "safe",
-   "score": 0.16691296,
+   "score": 0.1657785,
    "languages": [
     "en",
     "pl"
@@ -89,7 +101,7 @@
     "en": "Divine Melody"
    },
    "contentRating": "safe",
-   "score": 0.16565125,
+   "score": 0.16465935,
    "languages": [
     "hu",
     "pl"
@@ -101,13 +113,36 @@
     "en": "The Nightmare of Fabrication"
    },
    "contentRating": "safe",
-   "score": 0.1629054,
+   "score": 0.16228925,
    "languages": [
     "tr",
     "it",
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "9e273b8f-f394-462f-892f-f163a5ca6445",
+   "title": {
+    "en": "The Other Side Of The Mirror"
+   },
+   "contentRating": "safe",
+   "score": 0.1609036,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "bae119f6-977f-406a-b443-c3bb380edd2d",
+   "title": {
+    "en": "Mamacolle"
+   },
+   "contentRating": "safe",
+   "score": 0.1609036,
+   "languages": [
+    "pl",
+    "fr"
    ]
   },
   {
@@ -134,18 +169,6 @@
    ]
   },
   {
-   "id": "bae119f6-977f-406a-b443-c3bb380edd2d",
-   "title": {
-    "en": "Mamacolle"
-   },
-   "contentRating": "safe",
-   "score": 0.1609036,
-   "languages": [
-    "pl",
-    "fr"
-   ]
-  },
-  {
    "id": "babe48ea-f0d1-481c-a285-8bb13166ba0d",
    "title": {
     "en": "Beyond the Sky"
@@ -155,32 +178,6 @@
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "1fd108dc-df83-40ba-8fb3-f673cdd2099f",
-   "title": {
-    "en": "Rokuyoku"
-   },
-   "contentRating": "safe",
-   "score": 0.15264656,
-   "languages": [
-    "pl",
-    "ro",
-    "en"
-   ]
-  },
-  {
-   "id": "e47322f1-f3c6-4005-9a8a-fd8a6902e0f2",
-   "title": {
-    "en": "A Fish's Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.15264656,
-   "languages": [
-    "pl",
-    "en",
-    "it"
    ]
   },
   {
@@ -196,22 +193,18 @@
    ]
   },
   {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
+   "id": "e47322f1-f3c6-4005-9a8a-fd8a6902e0f2",
    "title": {
-    "en": "Nichijou"
+    "en": "A Fish's Dream"
    },
    "contentRating": "safe",
-   "score": 0.14905643,
+   "score": 0.15264656,
    "languages": [
-    "en",
     "pl",
-    "pt-br",
-    "de",
-    "id",
-    "ru",
+    "en",
     "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:20+00:00"
+ "updatedAt": "2023-12-10T18:36:16+00:00"
 }

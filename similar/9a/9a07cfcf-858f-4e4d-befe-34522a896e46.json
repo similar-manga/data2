@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "31c8a16b-43ff-4869-8768-ce8a1d252a78",
+   "title": {
+    "en": "Ashita Aozora"
+   },
+   "contentRating": "safe",
+   "score": 0.26904938,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
    "title": {
     "en": "Hajime no Ippo"
    },
    "contentRating": "safe",
-   "score": 0.25670162,
+   "score": 0.25595486,
    "languages": [
     "en",
     "ar",
@@ -28,7 +39,7 @@
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.25656897,
+   "score": 0.25466573,
    "languages": [
     "fr",
     "vi",
@@ -42,12 +53,64 @@
    ]
   },
   {
+   "id": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
+   "title": {
+    "en": "Burning Kabaddi"
+   },
+   "contentRating": "safe",
+   "score": 0.24536917,
+   "languages": [
+    "en",
+    "fr",
+    "hi",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+   "title": {
+    "en": "Red Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.24413669,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9d2bccba-33b3-4c95-a4bf-8cdea584a32a",
+   "title": {
+    "en": "TSUYOSHI"
+   },
+   "contentRating": "safe",
+   "score": 0.24413669,
+   "languages": [
+    "es-la",
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ebcff7c1-aaf9-46ea-8d8b-2f4ea7e8f02b",
+   "title": {
+    "en": "Kenta Yarimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.23352964,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
    "title": {
     "en": "Hana to Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.23580971,
+   "score": 0.23309954,
    "languages": [
     "en"
    ]
@@ -58,9 +121,22 @@
     "en": "Go!! Southern Ice Hockey Club"
    },
    "contentRating": "safe",
-   "score": 0.22800843,
+   "score": 0.22799312,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
+   "title": {
+    "en": "Haikyuu-bu!!"
+   },
+   "contentRating": "safe",
+   "score": 0.22179474,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -76,144 +152,67 @@
    ]
   },
   {
+   "id": "6ef9234c-703d-4c8a-97e2-c1fb197ec476",
+   "title": {
+    "en": "Asumi Kakeru"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "895c5435-2d38-469f-a3f2-3c990390339d",
    "title": {
     "en": "Suzuran is Going Strong!"
    },
    "contentRating": "safe",
-   "score": 0.21815547,
+   "score": 0.21710198,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "0c60a44d-c793-4a7d-8269-66afbdb2c517",
+   "id": "81013efd-f9ab-4e97-bc94-cf0ed451dcda",
    "title": {
-    "en": "Ultimate Legend - Kang Hae Hyo"
+    "en": "An Extremely Attractive Gorilla"
    },
    "contentRating": "safe",
-   "score": 0.21193379,
+   "score": 0.21607055,
    "languages": [
     "en",
-    "ro",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "ca21d6ea-64af-48cd-ad04-22c0174df350",
-   "title": {
-    "en": "Idejuu!"
-   },
-   "contentRating": "safe",
-   "score": 0.20992093,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
-   "title": {
-    "en": "Welcome to the Ballroom"
-   },
-   "contentRating": "safe",
-   "score": 0.20627269,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es",
-    "es-la",
     "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "3ffc6b64-bab5-48bb-b566-a6e6e4e13339",
-   "title": {
-    "en": "Baki Gaiden: SCARFACE"
-   },
-   "contentRating": "safe",
-   "score": 0.20612879,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.20052055,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
-   "title": {
-    "en": "GATE 7"
-   },
-   "contentRating": "safe",
-   "score": 0.19953413,
-   "languages": [
     "pt-br",
-    "en",
-    "pl"
+    "hi"
    ]
   },
   {
-   "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
+   "id": "7d6b956b-608e-4a07-9291-2ecdf5ce7051",
    "title": {
-    "en": "Prince of Tennis II"
+    "en": "Ashigaru"
    },
    "contentRating": "safe",
-   "score": 0.19657679,
-   "languages": [
-    "pl",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "1328bda7-65ef-4c6a-8774-767ea19597ff",
-   "title": {
-    "en": "Doonggule Tea!"
-   },
-   "contentRating": "safe",
-   "score": 0.19518001,
+   "score": 0.2119479,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
+   "id": "579b778b-bb9d-4f68-a193-4b30118cfbf5",
    "title": {
-    "en": "Ahiru no Sora"
+    "en": "Tiempo"
    },
    "contentRating": "safe",
-   "score": 0.19320473,
+   "score": 0.21191904,
    "languages": [
     "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
-   "title": {
-    "en": "Gakuen Utopia Manabi Straight!"
-   },
-   "contentRating": "safe",
-   "score": 0.19281183,
-   "languages": [
-    "en"
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:07+00:00"
+ "updatedAt": "2023-12-10T18:25:27+00:00"
 }

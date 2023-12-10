@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3f8a0f21-5ee8-4dcc-9b49-5aaf402a1617",
+   "title": {
+    "en": "Demonic Sect Imposter"
+   },
+   "contentRating": "safe",
+   "score": 0.436925,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "f0f62b75-5989-4f32-9b59-ab56abe35fc1",
    "title": {
     "en": "Return of the Blossoming Blade"
    },
    "contentRating": "safe",
-   "score": 0.45370606,
+   "score": 0.4350472,
    "languages": [
     "it",
     "pt-br",
@@ -21,28 +33,80 @@
    ]
   },
   {
-   "id": "3f8a0f21-5ee8-4dcc-9b49-5aaf402a1617",
-   "title": {
-    "en": "Demonic Sect Imposter"
-   },
-   "contentRating": "safe",
-   "score": 0.45362917,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "327dea47-e3c0-4fca-ad68-78bc906fdb2b",
    "title": {
     "en": "Keep a Low Profile, Sect Leader"
    },
    "contentRating": "safe",
-   "score": 0.45254698,
+   "score": 0.43381768,
    "languages": [
     "en",
     "id",
     "tr"
+   ]
+  },
+  {
+   "id": "8332417b-d7f1-4888-b5ea-9b807e5ca37f",
+   "title": {
+    "en": "My Sect's Senior Disciple Has a Hole in His Brain"
+   },
+   "contentRating": "safe",
+   "score": 0.40649757,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9ed16bc9-f570-4e71-8dda-aebc098b683b",
+   "title": {
+    "en": "The Legend of the Northern Blade"
+   },
+   "contentRating": "safe",
+   "score": 0.36904562,
+   "languages": [
+    "pt-br",
+    "it",
+    "fr",
+    "pl",
+    "en",
+    "id",
+    "uk"
+   ]
+  },
+  {
+   "id": "121125de-ed0c-44ab-8fde-72bd233ca766",
+   "title": {
+    "en": "The Sect Headmaster is Only Eight"
+   },
+   "contentRating": "safe",
+   "score": 0.3675068,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "917da4bb-f809-484c-934e-ab2b53087182",
+   "title": {
+    "en": "The Way of Domination"
+   },
+   "contentRating": "safe",
+   "score": 0.35553655,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "43848429-00b1-4215-bb0c-31973fe705cf",
+   "title": {
+    "en": "Absolute Master of the Senate"
+   },
+   "contentRating": "safe",
+   "score": 0.348575,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -51,9 +115,22 @@
     "en": "Xinhun Zhang Men Gao Jijian"
    },
    "contentRating": "safe",
-   "score": 0.34293938,
+   "score": 0.3275336,
    "languages": [
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "3dc41d88-ad01-406c-8663-1b5bd099839d",
+   "title": {
+    "en": "My Disciples Are Super Gods"
+   },
+   "contentRating": "safe",
+   "score": 0.32329234,
+   "languages": [
+    "pt-br",
+    "fr",
     "en"
    ]
   },
@@ -63,7 +140,7 @@
     "en": "In Our Sect, I'm the Only One That's Trash"
    },
    "contentRating": "safe",
-   "score": 0.33956504,
+   "score": 0.32060823,
    "languages": [
     "en"
    ]
@@ -74,133 +151,57 @@
     "en": "A Martial Master Wakes Up as a Concubine"
    },
    "contentRating": "safe",
-   "score": 0.32712072,
+   "score": 0.3163693,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
+   "id": "6d80e8c8-216a-4307-8cb2-4ed76730960f",
    "title": {
-    "en": "Soul Land II - The Peerless Tang Sect"
+    "en": "Awaken Grandmaster"
    },
    "contentRating": "safe",
-   "score": 0.30734497,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "df1e3bc8-0cbf-4ba6-ab21-6e472ae902e7",
-   "title": {
-    "en": "A World-Class Walkthrough"
-   },
-   "contentRating": "safe",
-   "score": 0.2747282,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "abf5d327-b4b7-41a6-8341-5df72bae3064",
-   "title": {
-    "en": "The Strongest Fate System"
-   },
-   "contentRating": "safe",
-   "score": 0.2679771,
+   "score": 0.31095228,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "32f67a09-b80f-41e3-a0e7-dd2e22a0e7ec",
+   "id": "971df4bd-35ee-4f17-8c68-f1638529678f",
    "title": {
-    "en": "Urban Castaway"
+    "en": "My Cultivation Simulator"
    },
    "contentRating": "safe",
-   "score": 0.2668902,
+   "score": 0.30699718,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f5fd2e11-f3b4-49cd-ac9e-d92742db086a",
+   "id": "8dd5509c-fc64-46ac-9fd5-db4b2f6ee80c",
    "title": {
-    "en": "I Just Want to Be Killed"
+    "en": "Sign In The Mystery Box To Dominate The World Of Cultivation"
    },
    "contentRating": "safe",
-   "score": 0.26435998,
+   "score": 0.30521023,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b90f2953-d492-44cd-aee4-a7e4ab357b45",
+   "title": {
+    "en": "Life and Death: The Awakening"
+   },
+   "contentRating": "safe",
+   "score": 0.30407363,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "2df6c4e8-9554-4810-bf6a-c8382c3375f2",
-   "title": {
-    "en": "Ancestor’s Foolish Disciple"
-   },
-   "contentRating": "safe",
-   "score": 0.2599932,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3f14383c-de77-4b9f-94ba-28421c2ea419",
-   "title": {
-    "en": "The Transmigrated Mage Life in Another World, Becoming the Strongest in the World with the Knowledge of the Original Story"
-   },
-   "contentRating": "safe",
-   "score": 0.25667524,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eec73453-1711-4320-8bed-dce88a1a3b1d",
-   "title": {
-    "en": "Brother is Not the Villain"
-   },
-   "contentRating": "safe",
-   "score": 0.2566482,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "de471fb4-80d0-406f-a5e3-1bfa88a15136",
-   "title": {
-    "en": "Meng Shi Zai Shang"
-   },
-   "contentRating": "safe",
-   "score": 0.25414065,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "id"
-   ]
-  },
-  {
-   "id": "6969d512-7cb2-465c-a53f-39df0d927035",
-   "title": {
-    "en": "Daoist Magician From Another World"
-   },
-   "contentRating": "safe",
-   "score": 0.25013056,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:34+00:00"
+ "updatedAt": "2023-12-10T18:26:45+00:00"
 }

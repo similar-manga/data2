@@ -6,22 +6,84 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e835d636-8f3d-4cc2-bfb9-849c906cdbff",
+   "title": {
+    "en": "Café de Romance"
+   },
+   "contentRating": "safe",
+   "score": 0.33573002
+  },
+  {
+   "id": "a985f6c8-e021-41c8-91b9-b3bbd2f60502",
+   "title": {
+    "en": "My Idol Came to My House!"
+   },
+   "contentRating": "safe",
+   "score": 0.32064113,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "d5220246-c98b-4aa5-943a-b1a0fc78c1da",
+   "title": {
+    "en": "Kore wa Fumona Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.31642145
+  },
+  {
+   "id": "a17497dc-0640-4e64-9b37-75f18e084fab",
+   "title": {
+    "en": "Queen"
+   },
+   "contentRating": "safe",
+   "score": 0.31566834
+  },
+  {
+   "id": "31d95a90-9d3e-466c-b76a-967e36921eca",
+   "title": {
+    "en": "Go Go Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.31393448
+  },
+  {
    "id": "01593760-623b-49b9-a9cc-a6bd4bbe19ce",
    "title": {
     "en": "Himegoto wa Hanazono"
    },
    "contentRating": "safe",
-   "score": 0.31150073
+   "score": 0.3102782
   },
   {
-   "id": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+   "id": "76b49d4c-e7f8-4db0-9468-cda97d1c9abe",
    "title": {
-    "en": "Otome Holic"
+    "en": "Kore ga Ryoute ni Hana desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.29822385,
+   "score": 0.30499744
+  },
+  {
+   "id": "0ec5b637-826e-4f90-b4bf-1dc8889596fe",
+   "title": {
+    "en": "I Love You de Moyashite Misete"
+   },
+   "contentRating": "safe",
+   "score": 0.30321023,
    "languages": [
-    "fr",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "cf4e99ba-3156-4c1d-99ab-e7c4c0c40173",
+   "title": {
+    "en": "Sekai de Ichiban Daikirai"
+   },
+   "contentRating": "safe",
+   "score": 0.30143607,
+   "languages": [
     "en"
    ]
   },
@@ -31,139 +93,66 @@
     "en": "Funky Yobikou"
    },
    "contentRating": "safe",
-   "score": 0.29799005,
+   "score": 0.29863697,
    "languages": [
     "ro"
    ]
   },
   {
-   "id": "799c6f51-f932-4498-ad2c-0f8973c114ef",
+   "id": "1a4f2e47-8ec6-45f8-9ace-5bc1e694d47e",
    "title": {
-    "en": "Tama Tama! Kingyosou"
+    "en": "Fujoshissu!"
    },
    "contentRating": "safe",
-   "score": 0.2934531
+   "score": 0.2979983
   },
   {
-   "id": "a3431853-9d5e-4e6e-a2ad-427de76e5247",
+   "id": "65d4cd87-572d-4022-8904-da485416d5a5",
    "title": {
-    "en": "Zoku Shishunki Miman Okotowari"
+    "en": "Maruta no Koi"
    },
    "contentRating": "safe",
-   "score": 0.29337758,
+   "score": 0.2975456
+  },
+  {
+   "id": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+   "title": {
+    "en": "Otome Holic"
+   },
+   "contentRating": "safe",
+   "score": 0.29725844,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "3fde823a-f26c-44ff-ace6-5fba6411ca40",
+   "title": {
+    "en": "Sakura ga Koi ni Ochirutoki"
+   },
+   "contentRating": "safe",
+   "score": 0.29652253
+  },
+  {
+   "id": "d1d6a10e-e1b3-441e-ba23-5a0559232535",
+   "title": {
+    "en": "Dekiai-kun wa Te wo Dasenai"
+   },
+   "contentRating": "safe",
+   "score": 0.294431,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9b05da2e-d4cd-4b33-b668-f358ae12a3a5",
+   "id": "32381aff-0b30-4ac1-bd4b-7aa0ff6035be",
    "title": {
-    "en": "Aquamarine (HA Sung-Hyun)"
+    "en": "Wake Atte Oji-san ga Watashi no Koi o Ouen Shite Imasu (Nounai)"
    },
    "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "a47e7c2e-7e4b-4236-a137-215b76110197",
-   "title": {
-    "en": "Afternoon Lavendar"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c442d1ad-47ea-43d8-bc91-731baf160ca4",
-   "title": {
-    "en": "Otome no Omocha"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "hu"
-   ]
-  },
-  {
-   "id": "16da0502-dfbf-46e5-829f-93aa45615e8b",
-   "title": {
-    "en": "Sensei Addict"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "4cd03ffa-a9cb-4d45-8218-1f50dcf26367",
-   "title": {
-    "en": "You Are My Everything"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "584dc44c-62af-4ab2-adb6-efcf7eee77da",
-   "title": {
-    "en": "Café Café"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a46b7ba2-4b1b-4976-8b6a-07eee7f42ac6",
-   "title": {
-    "en": "Konya, Kimi ni Ai ni Iku"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "56e9cf0b-4ae4-4b77-8b22-5b51ae70a239",
-   "title": {
-    "en": "Suspicious Scandal"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "hu"
-   ]
-  },
-  {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
-   "title": {
-    "en": "Funny Money Rich Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b385d196-8184-4d54-a7a0-541d799c7fba",
-   "title": {
-    "en": "Beautiful Guy"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "4fd64191-bce0-4ccb-936e-596d03be0da9",
-   "title": {
-    "en": "Shout!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.29413992
   }
  ],
- "updatedAt": "2023-12-10T01:04:58+00:00"
+ "updatedAt": "2023-12-10T18:22:31+00:00"
 }

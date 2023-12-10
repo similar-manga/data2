@@ -11,7 +11,7 @@
     "en": "Celeste Blue"
    },
    "contentRating": "safe",
-   "score": 0.30994895,
+   "score": 0.31025472,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "The Sound of Something New"
    },
    "contentRating": "safe",
-   "score": 0.29995286,
+   "score": 0.30006772,
    "languages": [
     "id",
     "fr",
@@ -39,7 +39,18 @@
     "en": "Calling (Hori Mai)"
    },
    "contentRating": "safe",
-   "score": 0.29958135,
+   "score": 0.29954243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "370c7884-6f7d-4f4a-8c9b-cf66aca9f53a",
+   "title": {
+    "ja": "Risou no Kareshi no Hazunanoni"
+   },
+   "contentRating": "safe",
+   "score": 0.29923883,
    "languages": [
     "en"
    ]
@@ -50,7 +61,7 @@
     "en": "Joyful Days?"
    },
    "contentRating": "safe",
-   "score": 0.29849398,
+   "score": 0.2982115,
    "languages": [
     "en"
    ]
@@ -61,7 +72,7 @@
     "en": "A Pudgy Girl's Love"
    },
    "contentRating": "safe",
-   "score": 0.29687053,
+   "score": 0.2970161,
    "languages": [
     "tr",
     "en"
@@ -73,7 +84,7 @@
     "en": "It Was Almost As If"
    },
    "contentRating": "safe",
-   "score": 0.29564983,
+   "score": 0.2954955,
    "languages": [
     "pt-br",
     "en"
@@ -85,7 +96,7 @@
     "en": "38cm"
    },
    "contentRating": "safe",
-   "score": 0.2933243,
+   "score": 0.29322985,
    "languages": [
     "pt-br",
     "en",
@@ -99,9 +110,21 @@
     "en": "bit by bit"
    },
    "contentRating": "safe",
-   "score": 0.28527766,
+   "score": 0.2856945,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d374a70a-79ee-47b2-a3ed-6c83749ff30e",
+   "title": {
+    "en": "Tsukiyo ni Sasowarete"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -113,31 +136,6 @@
    "score": 0.28520605,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "bd418078-db94-4f80-abaa-7d578f626c83",
-   "title": {
-    "en": "Miniature Garden Escape"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "ru",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "7e374a67-53ad-4a41-986c-7f65a020f20b",
-   "title": {
-    "en": "Wish Upon a Glass"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "tr",
     "en"
    ]
   },
@@ -155,15 +153,28 @@
    ]
   },
   {
-   "id": "d374a70a-79ee-47b2-a3ed-6c83749ff30e",
+   "id": "7e374a67-53ad-4a41-986c-7f65a020f20b",
    "title": {
-    "en": "Tsukiyo ni Sasowarete"
+    "en": "Wish Upon a Glass"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "bd418078-db94-4f80-abaa-7d578f626c83",
+   "title": {
+    "en": "Miniature Garden Escape"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "ru",
     "en",
-    "fr"
+    "vi"
    ]
   },
   {
@@ -186,24 +197,12 @@
     "en": "Guys After Marriage"
    },
    "contentRating": "safe",
-   "score": 0.277886,
+   "score": 0.27874118,
    "languages": [
     "ro",
     "en"
    ]
-  },
-  {
-   "id": "ef4d5e51-f22c-4b1e-a6c7-e012b9717cb4",
-   "title": {
-    "en": "Fumikiri, Kimi no te, Sakuramichi"
-   },
-   "contentRating": "safe",
-   "score": 0.27590534,
-   "languages": [
-    "en",
-    "ar"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:45+00:00"
 }

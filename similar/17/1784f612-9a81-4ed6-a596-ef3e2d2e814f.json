@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
+   "title": {
+    "en": "Saint Seiya - Another Story of Hades: Dark Wing"
+   },
+   "contentRating": "safe",
+   "score": 0.42544216,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "2106b7de-7820-4ead-a2d4-62418fee2573",
+   "title": {
+    "en": "Saint Seiya - 25th Years Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.39375857,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "4a97afea-bca8-47cc-bdc7-ff344187a847",
    "title": {
     "en": "Saint Seiya - Saintia Sho"
    },
    "contentRating": "safe",
-   "score": 0.38585275,
+   "score": 0.37661135,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +46,7 @@
     "en": "Saint Seiya - Next Dimension"
    },
    "contentRating": "safe",
-   "score": 0.35500038,
+   "score": 0.3450189,
    "languages": [
     "pt-br",
     "es",
@@ -32,17 +55,25 @@
    ]
   },
   {
-   "id": "a9a125c7-7090-4a1e-8a87-9b63227b651f",
+   "id": "2056148a-14da-4acb-a27f-bd5aa3c40b44",
    "title": {
-    "en": "Tenseishita Daiseijo wa, Seijo Dearu Koto wo Hitakakusu: A Tale of The Great Saint"
+    "en": "Saint Seiya - Golden Age"
    },
    "contentRating": "safe",
-   "score": 0.31014198,
+   "score": 0.31464463,
    "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "ru"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "26dcd966-82ea-4317-9074-7ec5730f1ea4",
+   "title": {
+    "en": "Saint Seiya - Taizen Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.30790916,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -51,7 +82,7 @@
     "en": "A Book of Dreams"
    },
    "contentRating": "safe",
-   "score": 0.3090153,
+   "score": 0.30366725,
    "languages": [
     "en"
    ]
@@ -62,33 +93,24 @@
     "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.30009878,
+   "score": 0.29836714,
    "languages": [
     "es",
     "en"
    ]
   },
   {
-   "id": "3a2c5a51-7fab-4427-bd3f-46cd0aa6350d",
+   "id": "a9a125c7-7090-4a1e-8a87-9b63227b651f",
    "title": {
-    "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
+    "en": "Tenseishita Daiseijo wa, Seijo Dearu Koto wo Hitakakusu: A Tale of The Great Saint"
    },
    "contentRating": "safe",
-   "score": 0.2931778,
+   "score": 0.2972065,
    "languages": [
+    "en",
+    "fr",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "69feb00e-c706-4367-adf3-b79e07286373",
-   "title": {
-    "en": "Yi Bi Zhi Ming"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
+    "ru"
    ]
   },
   {
@@ -104,14 +126,38 @@
    ]
   },
   {
-   "id": "5126cf3d-7d9b-470d-85c4-67158d5d06be",
+   "id": "69feb00e-c706-4367-adf3-b79e07286373",
    "title": {
-    "en": "Saint Seiya - Tenkai-hen Joso Overture"
+    "en": "Yi Bi Zhi Ming"
    },
    "contentRating": "safe",
-   "score": 0.27902052,
+   "score": 0.2857143,
    "languages": [
-    "pt-br"
+    "en"
+   ]
+  },
+  {
+   "id": "3a2c5a51-7fab-4427-bd3f-46cd0aa6350d",
+   "title": {
+    "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
+   },
+   "contentRating": "safe",
+   "score": 0.2810141,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
+   "title": {
+    "en": "GOD EATER - the spiral fate"
+   },
+   "contentRating": "safe",
+   "score": 0.27574983,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -120,7 +166,7 @@
     "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
    },
    "contentRating": "safe",
-   "score": 0.2782281,
+   "score": 0.27059346,
    "languages": [
     "en",
     "fr",
@@ -130,15 +176,14 @@
    ]
   },
   {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
+   "id": "5126cf3d-7d9b-470d-85c4-67158d5d06be",
    "title": {
-    "en": "GOD EATER - the spiral fate"
+    "en": "Saint Seiya - Tenkai-hen Joso Overture"
    },
    "contentRating": "safe",
-   "score": 0.27761513,
+   "score": 0.26967576,
    "languages": [
-    "en",
-    "tr"
+    "pt-br"
    ]
   },
   {
@@ -147,57 +192,13 @@
     "en": "Noragami - Clash, O Ye Gods of Calamity"
    },
    "contentRating": "safe",
-   "score": 0.2709569,
+   "score": 0.2696581,
    "languages": [
     "ar",
     "it",
     "en"
    ]
-  },
-  {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
-   "title": {
-    "en": "Juuhime - Sincerely Night"
-   },
-   "contentRating": "safe",
-   "score": 0.2641318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9e7fc7da-6edf-4eb6-9009-427e46e57d05",
-   "title": {
-    "en": "Tiger x Crane"
-   },
-   "contentRating": "safe",
-   "score": 0.2639037,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
-   "title": {
-    "en": "Star Ocean - Blue Sphere"
-   },
-   "contentRating": "safe",
-   "score": 0.2587044,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
-   "title": {
-    "en": "Sol Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.25827062,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:40+00:00"
+ "updatedAt": "2023-12-10T18:10:51+00:00"
 }

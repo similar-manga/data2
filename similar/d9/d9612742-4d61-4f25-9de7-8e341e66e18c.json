@@ -11,9 +11,20 @@
     "en": "Fullmetal Alchemist: The Prototype"
    },
    "contentRating": "safe",
-   "score": 0.20800659,
+   "score": 0.20664269,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "53b8595f-50ff-4926-a91a-37a7d6f1e10c",
+   "title": {
+    "en": "Diary Mystery"
+   },
+   "contentRating": "safe",
+   "score": 0.1955961,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -22,7 +33,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.17715223,
+   "score": 0.17726359,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "The Killer Lives Next Door"
    },
    "contentRating": "safe",
-   "score": 0.17399178,
+   "score": 0.17378308,
    "languages": [
     "en",
     "uk"
@@ -52,25 +63,21 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
    "title": {
-    "en": "Watashi wa Kagome"
+    "en": "Beast Complex"
    },
    "contentRating": "safe",
-   "score": 0.1695131,
+   "score": 0.16345073,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e244c4f-7468-4b06-8fa8-0ed53fba1214",
-   "title": {
-    "en": "81 Fatal Questions"
-   },
-   "contentRating": "safe",
-   "score": 0.16934413,
-   "languages": [
+    "ru",
+    "vi",
     "en",
+    "it",
+    "zh-hk",
+    "pt-br",
+    "es-la",
+    "id",
     "fr"
    ]
   },
@@ -86,16 +93,29 @@
    ]
   },
   {
-   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
+   "id": "6b8ab373-d2cc-4f01-b37a-7f142ac2f16c",
    "title": {
-    "en": "Nee Nee, Nene-san."
+    "en": "Gokumane!"
+   },
+   "contentRating": "safe",
+   "score": 0.1596134,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "85c4540f-c43d-4438-bcc6-778581c091e7",
+   "title": {
+    "en": "Kodomo no Kamisama"
    },
    "contentRating": "safe",
    "score": 0.1547436,
    "languages": [
     "ru",
-    "pt-br",
-    "en"
+    "fr",
+    "en",
+    "id"
    ]
   },
   {
@@ -113,6 +133,31 @@
     "es-la",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
+   "title": {
+    "en": "Nee Nee, Nene-san."
+   },
+   "contentRating": "safe",
+   "score": 0.1547436,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4e53b437-5884-4aa8-9ee1-be1028cba03f",
+   "title": {
+    "en": "Ura Baito: Toubou Kinshi"
+   },
+   "contentRating": "safe",
+   "score": 0.1547436,
+   "languages": [
+    "en",
+    "zh"
    ]
   },
   {
@@ -136,34 +181,21 @@
    ]
   },
   {
-   "id": "85c4540f-c43d-4438-bcc6-778581c091e7",
+   "id": "0f7ce666-8834-4386-ae7f-e13f560c9425",
    "title": {
-    "en": "Kodomo no Kamisama"
+    "en": "Nyaight of the Living Cat"
    },
    "contentRating": "safe",
-   "score": 0.1547436,
+   "score": 0.15465929,
    "languages": [
     "ru",
-    "fr",
-    "en",
-    "id"
+    "vi"
    ]
   },
   {
-   "id": "c26656ba-9f0a-47bc-b95b-facfcd86840c",
+   "id": "7a952d3e-436b-44cf-a44e-1b773e3b51b1",
    "title": {
-    "en": "Survival of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.14920941,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2a3fff79-557b-4008-8fc3-c5abdde5573e",
-   "title": {
-    "en": "Telepathy Shoujo"
+    "en": "Inspector Nishikida Likes The Thief"
    },
    "contentRating": "safe",
    "score": 0.14920941,
@@ -182,29 +214,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "95dd56d7-da37-4139-a4f6-7662aef3678b",
-   "title": {
-    "en": "Majime na Papa ni wa Ura ga aru"
-   },
-   "contentRating": "safe",
-   "score": 0.14920941,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
-   "title": {
-    "en": "Succeed"
-   },
-   "contentRating": "safe",
-   "score": 0.14879677,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:44+00:00"
+ "updatedAt": "2023-12-10T18:32:24+00:00"
 }

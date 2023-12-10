@@ -11,7 +11,7 @@
     "en": "Kakugo no Susume - Oujou no Susume"
    },
    "contentRating": "safe",
-   "score": 0.74618185,
+   "score": 0.75156385,
    "languages": [
     "en"
    ]
@@ -34,33 +34,10 @@
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.19212896,
+   "score": 0.19104613,
    "languages": [
     "it",
     "en"
-   ]
-  },
-  {
-   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
-   "title": {
-    "en": "Alien Nine Special"
-   },
-   "contentRating": "safe",
-   "score": 0.18517616,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
-   "title": {
-    "en": "Minds"
-   },
-   "contentRating": "safe",
-   "score": 0.17996852,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -77,15 +54,13 @@
    ]
   },
   {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
    "title": {
-    "en": "Little War"
+    "en": "Ryuudan Shounen"
    },
    "contentRating": "safe",
    "score": 0.17996852,
    "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   },
@@ -101,13 +76,51 @@
    ]
   },
   {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
    "title": {
-    "en": "Ryuudan Shounen"
+    "en": "Little War"
    },
    "contentRating": "safe",
    "score": 0.17996852,
    "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "title": {
+    "en": "Minds"
+   },
+   "contentRating": "safe",
+   "score": 0.17996852,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
+   "title": {
+    "en": "Alien Nine Special"
+   },
+   "contentRating": "safe",
+   "score": 0.1793533,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec576f96-c206-4b53-8cda-021a309b35fe",
+   "title": {
+    "en": "Danzai no Majutsugari"
+   },
+   "contentRating": "safe",
+   "score": 0.1784316,
+   "languages": [
+    "pt-br",
+    "es-la",
     "en"
    ]
   },
@@ -130,23 +143,9 @@
     "en": "Matohazure Q-doubu"
    },
    "contentRating": "safe",
-   "score": 0.16700457,
+   "score": 0.15792902,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "87b75b3a-a875-4adb-aff2-81243a7ba06b",
-   "title": {
-    "en": "The Wolf Brothers and Little Red Riding Hood"
-   },
-   "contentRating": "safe",
-   "score": 0.15842663,
-   "languages": [
-    "hu",
-    "pl",
-    "en",
-    "it"
    ]
   },
   {
@@ -161,42 +160,42 @@
    ]
   },
   {
-   "id": "24581c3d-9f33-4f08-bd55-ad6468206a0d",
+   "id": "87b75b3a-a875-4adb-aff2-81243a7ba06b",
    "title": {
-    "ja": "Saikyo Kyonshi"
+    "en": "The Wolf Brothers and Little Red Riding Hood"
    },
    "contentRating": "safe",
-   "score": 0.15425873,
+   "score": 0.15583332,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a409e872-2916-45ea-90e2-784bd62cbeb2",
-   "title": {
-    "en": "Gachikoi Slayer and the Army of Gachikoi Fans"
-   },
-   "contentRating": "safe",
-   "score": 0.15425873,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a68e9253-66e9-4eba-a958-2e3620adbeff",
-   "title": {
-    "en": "The cat and I"
-   },
-   "contentRating": "safe",
-   "score": 0.15425873,
-   "languages": [
+    "hu",
+    "pl",
     "en",
+    "it"
+   ]
+  },
+  {
+   "id": "d3b9df08-b980-48d4-835e-6437f7deea31",
+   "title": {
+    "en": "Dead Flag"
+   },
+   "contentRating": "safe",
+   "score": 0.1545263,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fe9b4485-550a-4823-84eb-8680283b5d9f",
+   "title": {
+    "en": "Yuenchi – Baki Gaiden Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.1545263,
+   "languages": [
     "ru",
-    "vi",
-    "pt-br",
-    "fr"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:44+00:00"
+ "updatedAt": "2023-12-10T18:34:51+00:00"
 }

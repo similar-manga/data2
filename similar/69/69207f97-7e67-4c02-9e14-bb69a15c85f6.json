@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
+   "title": {
+    "en": "Brothers"
+   },
+   "contentRating": "safe",
+   "score": 0.26047677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f61e1d39-43c0-4e7d-86e9-063a9c2f2245",
    "title": {
     "en": "Grim Reaper, Kill Me Please!"
@@ -16,6 +27,42 @@
     "id",
     "vi",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "95aa6275-3a71-460b-af9f-33ee9b93bebc",
+   "title": {
+    "en": "Nue no Onmyouji"
+   },
+   "contentRating": "safe",
+   "score": 0.25542197,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "5f397c12-c83e-4c59-8ab8-33634c1cd2eb",
+   "title": {
+    "en": "Tsukigui Youma Taijishi"
+   },
+   "contentRating": "safe",
+   "score": 0.23526955,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
+   "title": {
+    "en": "Yuuyami Tokkoutai"
+   },
+   "contentRating": "safe",
+   "score": 0.23306666,
+   "languages": [
     "en"
    ]
   },
@@ -45,26 +92,27 @@
    ]
   },
   {
-   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
+   "id": "0c6ad667-d786-4d5f-a354-d4014f318b4f",
    "title": {
-    "en": "Smile Death Match"
+    "en": "Mikoto Hako"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22357728,
    "languages": [
+    "es-la",
     "en",
-    "ru"
+    "vi"
    ]
   },
   {
-   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
+   "id": "86a05b25-e031-4039-8659-83cc4d9bfbdd",
    "title": {
-    "en": "V no Akuma"
+    "en": "Salaryman Exorcist - Okumura Yukio no Aishuu"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22258295,
    "languages": [
-    "fr",
+    "es",
     "en"
    ]
   },
@@ -81,55 +129,6 @@
    ]
   },
   {
-   "id": "7b568fa0-42d3-4c20-860f-ca202a79728f",
-   "title": {
-    "en": "The Results of Awakening to Over-Strong Power"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "vi",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
-   "title": {
-    "en": "Death of a Highschool"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pt-br",
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "7312c0fa-2a2c-4333-b48f-c11ca7864177",
-   "title": {
-    "en": "Ah knew in mah head, but..."
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7a14a386-a068-452a-b395-73908a7f74b5",
-   "title": {
-    "en": "Yoru to Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
    "title": {
     "en": "Peach Pluck"
@@ -138,6 +137,18 @@
    "score": 0.22131334,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
+   "title": {
+    "en": "V no Akuma"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -156,53 +167,41 @@
    ]
   },
   {
-   "id": "31e117d5-e2dc-4333-b07b-fba7d48a2dfe",
+   "id": "7a14a386-a068-452a-b395-73908a7f74b5",
    "title": {
-    "en": "First Time at Starbucks"
+    "en": "Yoru to Yakusoku"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "en",
-    "it",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "0eb6e9df-eb84-495b-a4d5-59b0d7dd427e",
+   "id": "7312c0fa-2a2c-4333-b48f-c11ca7864177",
    "title": {
-    "en": "Kinniku Jorei"
+    "en": "Ah knew in mah head, but..."
    },
    "contentRating": "safe",
-   "score": 0.21771415,
+   "score": 0.22131334,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
+   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
    "title": {
-    "en": "Tsukumono"
+    "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.21718326,
+   "score": 0.22131334,
    "languages": [
-    "en",
+    "pt-br",
+    "tr",
     "pl",
-    "th"
-   ]
-  },
-  {
-   "id": "ab9f56a8-b3f8-4485-afea-fb83b6795a84",
-   "title": {
-    "en": "Arata no Tsukumogami"
-   },
-   "contentRating": "safe",
-   "score": 0.20957245,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:55+00:00"
+ "updatedAt": "2023-12-10T18:19:41+00:00"
 }

@@ -11,29 +11,7 @@
     "en": "Bokura no VR"
    },
    "contentRating": "safe",
-   "score": 0.3120131,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
-   "title": {
-    "en": "Nagisa Round"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
-   "title": {
-    "en": "Tasukete! Hinaemon"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
+   "score": 0.31291655,
    "languages": [
     "en"
    ]
@@ -51,12 +29,34 @@
    ]
   },
   {
+   "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
+   "title": {
+    "en": "Tasukete! Hinaemon"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
+   "title": {
+    "en": "Nagisa Round"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
    "title": {
     "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
    },
    "contentRating": "safe",
-   "score": 0.27588496,
+   "score": 0.27642047,
    "languages": [
     "es",
     "th",
@@ -66,26 +66,26 @@
    ]
   },
   {
-   "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
-   "title": {
-    "en": "Fuyukoshi-chan no No Pan Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.26181993,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a77b83dd-16d4-4d0f-b01b-86e98c67c243",
    "title": {
     "en": "Tomoe Koga’s Birthday | 2020"
    },
    "contentRating": "safe",
-   "score": 0.2617193,
+   "score": 0.2639882,
    "languages": [
     "ru",
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
+   "title": {
+    "en": "Fuyukoshi-chan no No Pan Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.2610444,
+   "languages": [
     "en"
    ]
   },
@@ -95,7 +95,7 @@
     "en": "Sono Shukujo wa Guuzou to Naru (Pre-serialized)"
    },
    "contentRating": "safe",
-   "score": 0.26126295,
+   "score": 0.26081106,
    "languages": [
     "en",
     "zh"
@@ -107,9 +107,21 @@
     "en": "Nijou Taka Koukou Rojou Kansatsu-bu"
    },
    "contentRating": "safe",
-   "score": 0.2567891,
+   "score": 0.2567031,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0dc2b20c-ff76-4d0b-8923-b24173f2c10e",
+   "title": {
+    "en": "Gareki!: After School of Modeler Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.24706483,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -126,14 +138,28 @@
    ]
   },
   {
-   "id": "09bde10b-2bdb-46bd-9ea2-00861eea7365",
+   "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
    "title": {
-    "en": "One Bowl of Soupy Cheese Gyudon"
+    "en": "Esora Hikouki"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "title": {
+    "en": "The Misadventures of the Small Anime Club"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "it",
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -148,54 +174,28 @@
    ]
   },
   {
-   "id": "57cf9f71-f547-43d6-8270-91879a65ee6d",
+   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
    "title": {
-    "en": "You Can't Do That, Sensei~"
+    "en": "I want you to ask me first!"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
     "en",
-    "it"
+    "pt-br"
    ]
   },
   {
-   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
+   "id": "09bde10b-2bdb-46bd-9ea2-00861eea7365",
    "title": {
-    "en": "The Strongest Legend"
+    "en": "One Bowl of Soupy Cheese Gyudon"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "it",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
-   "title": {
-    "en": "Koto no Ha"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
-   "title": {
-    "en": "Hoshi no Alien ni Doryokushou wo."
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:18+00:00"
+ "updatedAt": "2023-12-10T18:15:29+00:00"
 }

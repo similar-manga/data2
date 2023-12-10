@@ -11,10 +11,21 @@
     "en": "Sukaraiti"
    },
    "contentRating": "safe",
-   "score": 0.25554594,
+   "score": 0.26009288,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "685d41b3-6619-422b-85cf-0b9112d4727f",
+   "title": {
+    "en": "Sight of 133 Centimeters Tall"
+   },
+   "contentRating": "safe",
+   "score": 0.23262526,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,7 +45,7 @@
     "en": "Black Coffee"
    },
    "contentRating": "safe",
-   "score": 0.21584138,
+   "score": 0.21572007,
    "languages": [
     "en"
    ]
@@ -52,17 +63,6 @@
    ]
   },
   {
-   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
-   "title": {
-    "en": "Kyosuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.20553027,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
    "title": {
     "en": "Boku no Tsuma wa Kanjou ga Nai"
@@ -77,12 +77,23 @@
    ]
   },
   {
+   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
+   "title": {
+    "en": "Kyosuurei"
+   },
+   "contentRating": "safe",
+   "score": 0.20520884,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
    "title": {
     "en": "Atrocious Fairy Tales for Adults"
    },
    "contentRating": "safe",
-   "score": 0.20449162,
+   "score": 0.20453411,
    "languages": [
     "en"
    ]
@@ -93,9 +104,22 @@
     "en": "Hataraki Man"
    },
    "contentRating": "safe",
-   "score": 0.20040427,
+   "score": 0.19946818,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.198442,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -110,87 +134,65 @@
    ]
   },
   {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.19584092,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.19584092,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "509f4ad8-85b7-4f73-96e9-f2fdbf9d2b8d",
    "title": {
     "en": "20-byou Date"
    },
    "contentRating": "safe",
-   "score": 0.19494168,
+   "score": 0.1957687,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+   "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
    "title": {
-    "en": "Sunny"
+    "en": "Under the Rose"
    },
    "contentRating": "safe",
-   "score": 0.19180173,
+   "score": 0.19462793,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
+   "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
    "title": {
-    "en": "Mu-kai"
+    "en": "Rumic Theater"
    },
    "contentRating": "safe",
-   "score": 0.18908778,
+   "score": 0.19348015,
    "languages": [
     "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "970cf604-b773-47fb-8cf1-75b8f1513b19",
-   "title": {
-    "en": "Riman Gambler Mouse"
-   },
-   "contentRating": "safe",
-   "score": 0.18727879,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
-   "title": {
-    "en": "Sekai de Ichiban, Ore ga ◯◯"
-   },
-   "contentRating": "safe",
-   "score": 0.1819787,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ace7ef5-adfc-460e-af93-876f3ab6fc45",
-   "title": {
-    "en": "Cherry"
-   },
-   "contentRating": "safe",
-   "score": 0.18181239,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
-   "title": {
-    "en": "Akunin no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.17990786,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
+    "pl",
+    "bg",
+    "zh-hk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:50+00:00"
+ "updatedAt": "2023-12-10T18:32:41+00:00"
 }

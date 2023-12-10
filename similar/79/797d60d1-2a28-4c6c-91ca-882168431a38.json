@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0d315c35-4d15-4d54-a5e2-317a7bfc9250",
+   "title": {
+    "en": "Sunday Scandal"
+   },
+   "contentRating": "safe",
+   "score": 0.30768302,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a7998eb4-27f5-4bcb-b0cb-4c37e5b79653",
    "title": {
     "en": "Angel Time"
    },
    "contentRating": "safe",
-   "score": 0.30494976,
+   "score": 0.30373418,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +34,7 @@
     "en": "Midnight Coin Laundry"
    },
    "contentRating": "safe",
-   "score": 0.30040264,
+   "score": 0.30018422,
    "languages": [
     "en"
    ]
@@ -34,7 +45,7 @@
     "en": "The Sound of Something New"
    },
    "contentRating": "safe",
-   "score": 0.2945814,
+   "score": 0.29239786,
    "languages": [
     "id",
     "fr",
@@ -45,27 +56,27 @@
    ]
   },
   {
-   "id": "57bd31ed-ff14-4ec6-9151-49d77e1d78cf",
-   "title": {
-    "en": "M.G. Darling"
-   },
-   "contentRating": "safe",
-   "score": 0.28746706,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5d2603d3-d4cc-45e4-b1e7-28f013e0e6c8",
    "title": {
     "en": "Shitteru Kimochi, Shiranai Karada"
    },
    "contentRating": "safe",
-   "score": 0.2869904,
+   "score": 0.28780538,
    "languages": [
     "es-la",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "57bd31ed-ff14-4ec6-9151-49d77e1d78cf",
+   "title": {
+    "en": "M.G. Darling"
+   },
+   "contentRating": "safe",
+   "score": 0.2866426,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -74,7 +85,7 @@
     "en": "First Love"
    },
    "contentRating": "safe",
-   "score": 0.2863493,
+   "score": 0.28491,
    "languages": [
     "pt-br",
     "en"
@@ -86,7 +97,7 @@
     "en": "Manabiya Ouji"
    },
    "contentRating": "safe",
-   "score": 0.2847206,
+   "score": 0.28431237,
    "languages": [
     "en"
    ]
@@ -97,7 +108,7 @@
     "en": "Love Log"
    },
    "contentRating": "safe",
-   "score": 0.2826354,
+   "score": 0.28202072,
    "languages": [
     "en",
     "pl"
@@ -109,7 +120,18 @@
     "en": "Hyougara Sanka"
    },
    "contentRating": "safe",
-   "score": 0.28037047,
+   "score": 0.279734,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3de833a5-c673-4f1c-90fa-98003a11b486",
+   "title": {
+    "en": "Let’s Keep This Love a Secret from Everyone"
+   },
+   "contentRating": "safe",
+   "score": 0.27893373,
    "languages": [
     "en"
    ]
@@ -120,7 +142,7 @@
     "en": "Wolf-kun and goat-chan"
    },
    "contentRating": "safe",
-   "score": 0.27885565,
+   "score": 0.27888224,
    "languages": [
     "ru",
     "fr",
@@ -133,45 +155,8 @@
     "en": "Kataomoi Couple"
    },
    "contentRating": "safe",
-   "score": 0.27867973,
+   "score": 0.2773532,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
-   "title": {
-    "en": "Yuki-doke no Netsu"
-   },
-   "contentRating": "safe",
-   "score": 0.27524215,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "161e924c-6184-4b7f-8ac3-8c02e753e316",
-   "title": {
-    "en": "I Will Grant You Three Wishes"
-   },
-   "contentRating": "safe",
-   "score": 0.275023,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "65c96c31-90d7-4c8d-bd3f-99156dce81dc",
-   "title": {
-    "en": "Majo to Yajuu"
-   },
-   "contentRating": "safe",
-   "score": 0.2744887,
-   "languages": [
-    "pl",
-    "pt-br",
     "en"
    ]
   },
@@ -181,23 +166,35 @@
     "en": "Mayonaka ni Binetsu"
    },
    "contentRating": "safe",
-   "score": 0.27412766,
+   "score": 0.27566782,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "59156bc0-42c8-4570-a496-242847e9680d",
+   "id": "057dda2a-268a-44eb-8e73-cee6a54cbdc4",
    "title": {
-    "en": "Otouto wo Kareshi ni Suru Houhou"
+    "en": "Mayonaka no Stellarium"
    },
    "contentRating": "safe",
-   "score": 0.2733346,
+   "score": 0.27527326,
    "languages": [
-    "pl"
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "161e924c-6184-4b7f-8ac3-8c02e753e316",
+   "title": {
+    "en": "I Will Grant You Three Wishes"
+   },
+   "contentRating": "safe",
+   "score": 0.27522933,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:37+00:00"
+ "updatedAt": "2023-12-10T18:21:35+00:00"
 }

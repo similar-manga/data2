@@ -6,12 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5c2eb121-0734-409e-9007-f6a3c689acfd",
+   "title": {
+    "en": "Koi Koi Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.42028517
+  },
+  {
    "id": "01593760-623b-49b9-a9cc-a6bd4bbe19ce",
    "title": {
     "en": "Himegoto wa Hanazono"
    },
    "contentRating": "safe",
-   "score": 0.39849088
+   "score": 0.39949587
+  },
+  {
+   "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
+   "title": {
+    "en": "Princess Ai Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.38795906,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "fc918b1f-70f5-4399-b681-d7bb333a266d",
@@ -19,7 +38,7 @@
     "en": "Christmas Shimasho"
    },
    "contentRating": "safe",
-   "score": 0.37845522,
+   "score": 0.38325885,
    "languages": [
     "de",
     "pl"
@@ -31,7 +50,7 @@
     "en": "Ai Container"
    },
    "contentRating": "safe",
-   "score": 0.37433118,
+   "score": 0.37455192,
    "languages": [
     "en"
    ]
@@ -42,7 +61,7 @@
     "en": "Yuki, Tokidoki Suki"
    },
    "contentRating": "safe",
-   "score": 0.36977527,
+   "score": 0.3742985,
    "languages": [
     "pl"
    ]
@@ -53,7 +72,7 @@
     "en": "My Beloved Devil"
    },
    "contentRating": "safe",
-   "score": 0.36870039,
+   "score": 0.36971468,
    "languages": [
     "en"
    ]
@@ -64,10 +83,37 @@
     "en": "Koi"
    },
    "contentRating": "safe",
-   "score": 0.3656282,
+   "score": 0.3646969,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "0ee9d5af-6fbb-4bb5-a80a-e2b1dcc7426d",
+   "title": {
+    "en": "Mijuku Kajitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.3643641,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1e19c26f-20f8-47af-bdbf-df4bcc160b8e",
+   "title": {
+    "en": "Koi Koi Country Road"
+   },
+   "contentRating": "safe",
+   "score": 0.35832703
+  },
+  {
+   "id": "1dda1eec-90de-4da0-afc0-06ecc5e09f9f",
+   "title": {
+    "en": "Manatsu no Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.3582547
   },
   {
    "id": "eb720ad1-f8ea-40a4-a911-3ffb6d541c88",
@@ -75,31 +121,19 @@
     "en": "Hime Koi"
    },
    "contentRating": "safe",
-   "score": 0.35709405,
+   "score": 0.3552866,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "90d4c5a1-a52e-4193-8bad-1c616b3c35ba",
+   "id": "12999fc5-325e-46d1-8406-ff8b63237d2e",
    "title": {
-    "en": "Matataki suru Tabi, Koi o Suru"
+    "en": "Doubt!!"
    },
    "contentRating": "safe",
-   "score": 0.35041746
-  },
-  {
-   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
-   "title": {
-    "en": "Happy End no Uragawa"
-   },
-   "contentRating": "safe",
-   "score": 0.348258,
-   "languages": [
-    "pl",
-    "en"
-   ]
+   "score": 0.35470527
   },
   {
    "id": "eaa170e8-95b3-40bf-a928-c537377d7019",
@@ -107,89 +141,28 @@
     "en": "And twinkle"
    },
    "contentRating": "safe",
-   "score": 0.34800482,
+   "score": 0.3529427,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "1bb5448d-fb00-4346-8b38-b9d739d40e1b",
+   "id": "44e0407d-af60-4065-bce1-cf46ead9ab57",
    "title": {
-    "en": "Christmas ni Omoi o Nosete"
+    "en": "Koi wo suru nara Kyoushitsu de"
    },
    "contentRating": "safe",
-   "score": 0.34383264,
-   "languages": [
-    "pt-br",
-    "it",
-    "es-la",
-    "de",
-    "pl",
-    "tr",
-    "hu",
-    "en"
-   ]
+   "score": 0.35212207
   },
   {
-   "id": "d0c8e130-5b93-4645-b000-55b3096f496c",
+   "id": "90d4c5a1-a52e-4193-8bad-1c616b3c35ba",
    "title": {
-    "en": "Holy Night"
+    "en": "Matataki suru Tabi, Koi o Suru"
    },
    "contentRating": "safe",
-   "score": 0.3435456,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
-   "title": {
-    "en": "Ai wo Hamu Akuma"
-   },
-   "contentRating": "safe",
-   "score": 0.34237748,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "ca3f0bb8-0603-4908-8db8-eaedd78bc72f",
-   "title": {
-    "en": "Koi no Ichibyougo"
-   },
-   "contentRating": "safe",
-   "score": 0.3385621
-  },
-  {
-   "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
-   "title": {
-    "en": "HELP!!"
-   },
-   "contentRating": "safe",
-   "score": 0.33837205,
-   "languages": [
-    "bg",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cffa51b0-e218-47c3-a96a-f3eda9d2e7d4",
-   "title": {
-    "en": "Ame Tokidoki Koi Moyou"
-   },
-   "contentRating": "safe",
-   "score": 0.33800897,
-   "languages": [
-    "en",
-    "hu",
-    "id"
-   ]
+   "score": 0.34923705
   }
  ],
- "updatedAt": "2023-12-10T01:04:44+00:00"
+ "updatedAt": "2023-12-10T18:21:54+00:00"
 }

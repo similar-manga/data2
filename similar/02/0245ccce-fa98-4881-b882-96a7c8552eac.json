@@ -11,25 +11,10 @@
     "en": "Peephole"
    },
    "contentRating": "safe",
-   "score": 0.29255524,
+   "score": 0.29258555,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "984b53d5-bd03-474a-aa41-ffae063e058a",
-   "title": {
-    "en": "The Enigma of Amigara Fault"
-   },
-   "contentRating": "safe",
-   "score": 0.28674987,
-   "languages": [
-    "ca",
-    "it",
-    "en",
-    "fr",
-    "pt-br"
    ]
   },
   {
@@ -44,15 +29,32 @@
    ]
   },
   {
-   "id": "a0474971-5fcf-4a02-b948-23b0b13e3030",
+   "id": "984b53d5-bd03-474a-aa41-ffae063e058a",
    "title": {
-    "en": "I Am a Wolf After All"
+    "en": "The Enigma of Amigara Fault"
    },
    "contentRating": "safe",
-   "score": 0.2739636,
+   "score": 0.2848269,
    "languages": [
+    "ca",
+    "it",
     "en",
+    "fr",
     "pt-br"
+   ]
+  },
+  {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.27349633,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -61,11 +63,23 @@
     "en": "Kokoro Rental"
    },
    "contentRating": "safe",
-   "score": 0.27322245,
+   "score": 0.27316633,
    "languages": [
     "pl",
     "en",
     "de"
+   ]
+  },
+  {
+   "id": "a0474971-5fcf-4a02-b948-23b0b13e3030",
+   "title": {
+    "en": "I Am a Wolf After All"
+   },
+   "contentRating": "safe",
+   "score": 0.2727303,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -74,7 +88,7 @@
     "en": "Ibitsu Renaikan"
    },
    "contentRating": "safe",
-   "score": 0.2674722,
+   "score": 0.26630464,
    "languages": [
     "fr",
     "en",
@@ -87,7 +101,7 @@
     "en": "Killer Dream"
    },
    "contentRating": "safe",
-   "score": 0.26518238,
+   "score": 0.26470345,
    "languages": [
     "fr",
     "ar",
@@ -103,21 +117,9 @@
     "en": "Ringwanderung"
    },
    "contentRating": "safe",
-   "score": 0.26513812,
+   "score": 0.26407698,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
-   "title": {
-    "en": "Semi-Eternal Happy End"
-   },
-   "contentRating": "safe",
-   "score": 0.2623523,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -126,7 +128,7 @@
     "en": "Voice"
    },
    "contentRating": "safe",
-   "score": 0.25664824,
+   "score": 0.25556177,
    "languages": [
     "en"
    ]
@@ -154,20 +156,6 @@
    ]
   },
   {
-   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
-   "title": {
-    "en": "Continue"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl",
-    "bg"
-   ]
-  },
-  {
    "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
    "title": {
     "en": "Red House"
@@ -180,6 +168,18 @@
     "pt-br",
     "en",
     "de",
+    "pl"
+   ]
+  },
+  {
+   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
+   "title": {
+    "en": "Semi-Eternal Happy End"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "en",
     "pl"
    ]
   },
@@ -197,18 +197,19 @@
    ]
   },
   {
-   "id": "d90ddc7b-8dc9-41fa-a15a-c36b14cb14e5",
+   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
    "title": {
-    "en": "The Negatibrain"
+    "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.25383008,
+   "score": 0.25509605,
    "languages": [
+    "pt-br",
+    "en",
     "pl",
-    "fr",
-    "en"
+    "bg"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:51+00:00"
+ "updatedAt": "2023-12-10T18:08:36+00:00"
 }

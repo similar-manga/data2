@@ -6,24 +6,60 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4c9f2d2e-c0db-4591-85a8-31fb5f8f0958",
+   "title": {
+    "en": "Suisai"
+   },
+   "contentRating": "safe",
+   "score": 0.49042648
+  },
+  {
+   "id": "cf240580-48bc-466f-84e8-b172f670595b",
+   "title": {
+    "en": "Phantom Cognition"
+   },
+   "contentRating": "safe",
+   "score": 0.39511502
+  },
+  {
+   "id": "14852205-af8b-44bb-9dc1-86fdce029acc",
+   "title": {
+    "en": "Become the Wind!"
+   },
+   "contentRating": "safe",
+   "score": 0.38922727
+  },
+  {
    "id": "8bc5c35e-38b2-4dc1-a926-584bd7b25a21",
    "title": {
     "en": "Tokyo Photograph"
    },
    "contentRating": "safe",
-   "score": 0.38881013,
+   "score": 0.386189,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "9d624f02-e2cc-4bb4-94d7-a6e4195fc753",
+   "id": "67afd887-0605-41be-b3bf-18a8018baeaf",
    "title": {
-    "en": "Look at me"
+    "en": "Chocolate Vampire"
    },
    "contentRating": "safe",
-   "score": 0.3802757
+   "score": 0.38555512,
+   "languages": [
+    "es",
+    "es-la"
+   ]
+  },
+  {
+   "id": "dab182f2-a574-4bf4-84e0-c77f7d73d634",
+   "title": {
+    "en": "Neko ni wa Neko no Neko Gohan."
+   },
+   "contentRating": "safe",
+   "score": 0.38085526
   },
   {
    "id": "11bfa371-f53f-42b7-8213-94b1323b02b6",
@@ -31,7 +67,7 @@
     "en": "Yubisaki to Renren"
    },
    "contentRating": "safe",
-   "score": 0.37868127,
+   "score": 0.38059697,
    "languages": [
     "hu",
     "pt-br",
@@ -43,16 +79,44 @@
    ]
   },
   {
-   "id": "28f0134f-d1f8-4caa-9d34-23527c6a677d",
+   "id": "9d624f02-e2cc-4bb4-94d7-a6e4195fc753",
    "title": {
-    "en": "Mayonaka ni Binetsu"
+    "en": "Look at me"
    },
    "contentRating": "safe",
-   "score": 0.3635662,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
+   "score": 0.37942937
+  },
+  {
+   "id": "683c110a-9e5e-4f78-907d-97d56b33620e",
+   "title": {
+    "en": "Sleeping Beauty"
+   },
+   "contentRating": "safe",
+   "score": 0.3781537
+  },
+  {
+   "id": "ed175e0f-580b-41f2-a6fa-fba6b47c5b44",
+   "title": {
+    "en": "Lovesick"
+   },
+   "contentRating": "safe",
+   "score": 0.37647644
+  },
+  {
+   "id": "3eb54c13-0695-4d42-8f44-b21fd3f511ff",
+   "title": {
+    "en": "Magician"
+   },
+   "contentRating": "safe",
+   "score": 0.37044054
+  },
+  {
+   "id": "9c256491-1a54-40d9-8bf5-0300edd8c6aa",
+   "title": {
+    "en": "Natsu ni, Yuki ga Furu You ni"
+   },
+   "contentRating": "safe",
+   "score": 0.36995658
   },
   {
    "id": "8114e8f7-159d-490a-858b-eba765a20f93",
@@ -60,8 +124,20 @@
     "en": "Yuki no Koi"
    },
    "contentRating": "safe",
-   "score": 0.36247906,
+   "score": 0.36520928,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28f0134f-d1f8-4caa-9d34-23527c6a677d",
+   "title": {
+    "en": "Mayonaka ni Binetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.36512673,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -71,123 +147,19 @@
     "en": "Konya, Kimi ni Ai ni Iku"
    },
    "contentRating": "safe",
-   "score": 0.3571808,
+   "score": 0.35829058,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0bdf14ea-5f5e-46a2-b248-93e0ceba8496",
+   "id": "1f6d6775-3e3c-4240-b1e8-64daeb8ae952",
    "title": {
-    "en": "Mizu no Naka"
+    "en": "Tokyo Doukyo Kyokakyoku"
    },
    "contentRating": "safe",
-   "score": 0.35138756,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b994300-333d-4b07-a0b5-c7a20ab7f55b",
-   "title": {
-    "en": "Yuki, Tokidoki Suki"
-   },
-   "contentRating": "safe",
-   "score": 0.34865278,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "e407d217-13e4-47a7-a4fe-ef5a9e1f570c",
-   "title": {
-    "en": "Sakura Zensen"
-   },
-   "contentRating": "safe",
-   "score": 0.34734774
-  },
-  {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.34678242,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
-   "title": {
-    "en": "bit by bit"
-   },
-   "contentRating": "safe",
-   "score": 0.34032065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f6c214e-8afb-4fdd-9a7e-a215747b936d",
-   "title": {
-    "en": "Snow Maidens"
-   },
-   "contentRating": "safe",
-   "score": 0.34001565,
-   "languages": [
-    "fr",
-    "ar",
-    "en"
-   ]
-  },
-  {
-   "id": "4f1450d6-1aae-4831-bd2e-a021b1f3285d",
-   "title": {
-    "en": "Akuyaku Reijou ni Tensei shita to Omottara, Cinderella no Gishi Deshita - Cinderella Otaku no Isekai Tensei"
-   },
-   "contentRating": "safe",
-   "score": 0.33638236
-  },
-  {
-   "id": "a3431853-9d5e-4e6e-a2ad-427de76e5247",
-   "title": {
-    "en": "Zoku Shishunki Miman Okotowari"
-   },
-   "contentRating": "safe",
-   "score": 0.33321178,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5f88271f-07fd-4da9-9c00-e88d06bbe570",
-   "title": {
-    "en": "My Childhood Friends Are Trying to Kill Me"
-   },
-   "contentRating": "safe",
-   "score": 0.3318329,
-   "languages": [
-    "en",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "37d47947-4403-4230-8d4a-0497f09d5ddf",
-   "title": {
-    "en": "Inshin no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.33146384,
-   "languages": [
-    "en",
-    "it",
-    "fa",
-    "th"
-   ]
+   "score": 0.3570812
   }
  ],
- "updatedAt": "2023-12-10T01:04:17+00:00"
+ "updatedAt": "2023-12-10T18:20:39+00:00"
 }

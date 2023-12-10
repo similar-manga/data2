@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5d82a9b4-e918-4a18-b583-2baf0132976d",
+   "title": {
+    "en": "Ani ga Kareshi de, Gomen"
+   },
+   "contentRating": "safe",
+   "score": 0.31759125,
+   "languages": [
+    "vi",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
    "title": {
     "en": "Cream"
    },
    "contentRating": "safe",
-   "score": 0.31854585,
+   "score": 0.31712046,
    "languages": [
     "en"
    ]
@@ -22,7 +35,7 @@
     "en": "Crab Kiss"
    },
    "contentRating": "safe",
-   "score": 0.31187543,
+   "score": 0.30993643,
    "languages": [
     "en"
    ]
@@ -33,7 +46,7 @@
     "en": "1 + 1"
    },
    "contentRating": "safe",
-   "score": 0.30259347,
+   "score": 0.30197856,
    "languages": [
     "en"
    ]
@@ -44,7 +57,7 @@
     "en": "Gakkou no Ojikan"
    },
    "contentRating": "safe",
-   "score": 0.29905874,
+   "score": 0.29881787,
    "languages": [
     "pl",
     "en"
@@ -56,7 +69,7 @@
     "en": "Honey Holic"
    },
    "contentRating": "safe",
-   "score": 0.29835376,
+   "score": 0.29782635,
    "languages": [
     "en"
    ]
@@ -67,7 +80,7 @@
     "en": "Aozora Pop"
    },
    "contentRating": "safe",
-   "score": 0.29790738,
+   "score": 0.29723853,
    "languages": [
     "en",
     "pl"
@@ -79,7 +92,18 @@
     "en": "Invincible Yeonbyeongeol"
    },
    "contentRating": "safe",
-   "score": 0.29721832,
+   "score": 0.29652202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "503de5b7-ddf3-4a84-b9d7-30468e518444",
+   "title": {
+    "en": "Koi Yori Kiss Yori Daikirai!!"
+   },
+   "contentRating": "safe",
+   "score": 0.29632455,
    "languages": [
     "en"
    ]
@@ -90,26 +114,27 @@
     "en": "Renjou Sparkle"
    },
    "contentRating": "safe",
-   "score": 0.2952898,
+   "score": 0.29503232,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
+   "id": "399028d9-bfb2-446c-98d0-c91fc81089cf",
    "title": {
-    "en": "Anesan Countdown!"
+    "en": "Hoshigami-kun wa douka shite iru"
    },
    "contentRating": "safe",
-   "score": 0.2928644,
+   "score": 0.2857143,
    "languages": [
+    "vi",
     "en"
    ]
   },
   {
-   "id": "1d471302-deae-4554-a699-c26ae18c8740",
+   "id": "2f5a0f7f-d120-482a-9322-9463a73cedcd",
    "title": {
-    "en": "She's Scary"
+    "en": "Spring Has Come"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -118,42 +143,21 @@
    ]
   },
   {
-   "id": "c9f3a8d3-0405-4654-8872-00dcb89676ff",
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
    "title": {
-    "en": "Shinai Virus"
+    "en": "Good Luck"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
-   "id": "538b974c-1ea7-4b39-ad7f-bb23a211f0c7",
+   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
    "title": {
-    "en": "Moknanahui Honeymoon Diary"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
-   "title": {
-    "en": "Lovely"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17ec48a1-5930-444e-a1f4-8b5453b1d101",
-   "title": {
-    "en": "Orera Kourin! Ai toka Koi toka Sekai toka"
+    "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -174,9 +178,9 @@
    ]
   },
   {
-   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
+   "id": "c9f3a8d3-0405-4654-8872-00dcb89676ff",
    "title": {
-    "en": "Binetsu Shoujo"
+    "en": "Shinai Virus"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -185,5 +189,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:21+00:00"
+ "updatedAt": "2023-12-10T18:20:51+00:00"
 }

@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.22693622
+  },
+  {
    "id": "a9bf14be-fcff-4eea-9c45-ba3e40d399fa",
    "title": {
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.22543181
+   "score": 0.22629562
   },
   {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
@@ -19,7 +27,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.21592814
+   "score": 0.2165098
   },
   {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
@@ -27,7 +35,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.21289562,
+   "score": 0.21337862,
    "languages": [
     "en",
     "pt-br",
@@ -40,12 +48,24 @@
    ]
   },
   {
+   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+   "title": {
+    "en": "Cyborg 009"
+   },
+   "contentRating": "safe",
+   "score": 0.2033912,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
    "title": {
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.20439751,
+   "score": 0.20300691,
    "languages": [
     "es-la",
     "pt-br",
@@ -55,15 +75,23 @@
    ]
   },
   {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
    "title": {
-    "en": "Cyborg 009"
+    "en": "Hunter x Hunter"
    },
    "contentRating": "safe",
-   "score": 0.20378228,
+   "score": 0.20013893,
    "languages": [
+    "pl",
     "en",
-    "pt-br"
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -72,7 +100,18 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.2003439,
+   "score": 0.19939269,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "186adafd-675a-47d5-86a7-025beccdfd5e",
+   "title": {
+    "en": "The Millennium Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.19679639,
    "languages": [
     "en"
    ]
@@ -83,24 +122,9 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.1958758,
+   "score": 0.19563447,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
-   "title": {
-    "en": "The Elusive Samurai"
-   },
-   "contentRating": "safe",
-   "score": 0.19540246,
-   "languages": [
-    "en",
-    "fr",
-    "ru",
-    "vi",
-    "es-la"
    ]
   },
   {
@@ -109,7 +133,7 @@
     "en": "Shin Hyataro of the Ushiro"
    },
    "contentRating": "safe",
-   "score": 0.19525294
+   "score": 0.1949771
   },
   {
    "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
@@ -128,10 +152,18 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.19334252,
+   "score": 0.19220193,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
+   "title": {
+    "en": "Miraizer Vam"
+   },
+   "contentRating": "safe",
+   "score": 0.1920399
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -139,7 +171,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.19261792,
+   "score": 0.19178206,
    "languages": [
     "ru",
     "tr",
@@ -152,43 +184,13 @@
    ]
   },
   {
-   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
+   "id": "0b89bddf-3cc4-406a-a69f-470f5cf851d7",
    "title": {
-    "en": "Miraizer Vam"
+    "en": "Playback Tokiwaso"
    },
    "contentRating": "safe",
-   "score": 0.19203238
-  },
-  {
-   "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
-   "title": {
-    "en": "Queen Emeraldas"
-   },
-   "contentRating": "safe",
-   "score": 0.18878709,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.18437678,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
-   "title": {
-    "en": "Tuberculose"
-   },
-   "contentRating": "safe",
-   "score": 0.18400235
+   "score": 0.19082698
   }
  ],
- "updatedAt": "2023-12-10T01:04:09+00:00"
+ "updatedAt": "2023-12-10T18:20:17+00:00"
 }

@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6cd5a844-b5df-42bd-ad94-d05725a60e92",
-   "title": {
-    "en": "Koroshiya Akazukin"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
    "id": "2a8c872a-f981-4450-a43a-f7f02ab8da02",
    "title": {
     "en": "Snow White's Secret"
@@ -27,6 +15,18 @@
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "6cd5a844-b5df-42bd-ad94-d05725a60e92",
+   "title": {
+    "en": "Koroshiya Akazukin"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "hu"
    ]
   },
   {
@@ -41,9 +41,22 @@
    ]
   },
   {
-   "id": "36cc6ade-0220-4dc4-b0b3-7a9ffd78105d",
+   "id": "e6589819-48c9-4877-a12f-c733864b676d",
    "title": {
-    "en": "Okaeri Kudasai Yuushasama!"
+    "en": "The Flustered Shabby Santa Claus"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "1526cde0-a109-44c6-b2e0-5de3b7ee58e8",
+   "title": {
+    "en": "Watashi no Ouji-sama"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -55,18 +68,6 @@
    "id": "39b39a9e-3fa2-4e28-ad09-79ecd88dd04c",
    "title": {
     "en": "Blanc Marie"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "40d2c692-2eeb-4e0e-b79f-5112bd37fb8a",
-   "title": {
-    "en": "Souichi Possessed"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -88,9 +89,9 @@
    ]
   },
   {
-   "id": "1526cde0-a109-44c6-b2e0-5de3b7ee58e8",
+   "id": "36cc6ade-0220-4dc4-b0b3-7a9ffd78105d",
    "title": {
-    "en": "Watashi no Ouji-sama"
+    "en": "Okaeri Kudasai Yuushasama!"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -99,16 +100,15 @@
    ]
   },
   {
-   "id": "e6589819-48c9-4877-a12f-c733864b676d",
+   "id": "40d2c692-2eeb-4e0e-b79f-5112bd37fb8a",
    "title": {
-    "en": "The Flustered Shabby Santa Claus"
+    "en": "Souichi Possessed"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "pl",
-    "tr",
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -117,7 +117,7 @@
     "en": "1 Nen C Gumi Yoshida Kakari"
    },
    "contentRating": "safe",
-   "score": 0.21081306,
+   "score": 0.2108591,
    "languages": [
     "en",
     "es-la",
@@ -125,39 +125,16 @@
    ]
   },
   {
-   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
+   "id": "1c676e15-ac73-4c3c-89aa-a8d499f8e64b",
    "title": {
-    "en": "Shoujikimono ga Baka wo Miru"
+    "en": "Katou Kyouju no Iutori"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
     "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "05953f79-61b7-4ffb-bd45-28d668912675",
-   "title": {
-    "en": "Roe"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8298a00f-4634-4ff8-baf9-794addbbe7a7",
-   "title": {
-    "en": "Shiba to Ran"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
+    "ru",
+    "vi"
    ]
   },
   {
@@ -177,31 +154,52 @@
    ]
   },
   {
-   "id": "5b08ade2-4eab-486d-80a3-023acb1d24a2",
+   "id": "8298a00f-4634-4ff8-baf9-794addbbe7a7",
    "title": {
-    "en": "Orthoros"
+    "en": "Shiba to Ran"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "ru",
-    "hu",
     "en"
    ]
   },
   {
-   "id": "d773959c-583e-4e0b-9ce3-6039d3f97f07",
+   "id": "05953f79-61b7-4ffb-bd45-28d668912675",
    "title": {
-    "en": "Jijou Ari Undead"
+    "en": "Roe"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
+   "title": {
+    "en": "Shoujikimono ga Baka wo Miru"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
     "en",
-    "it"
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
+   "title": {
+    "en": "Sweet Spot"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:52+00:00"
+ "updatedAt": "2023-12-10T18:35:09+00:00"
 }

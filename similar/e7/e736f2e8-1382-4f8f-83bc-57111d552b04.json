@@ -11,7 +11,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.21102616,
+   "score": 0.20856138,
    "languages": [
     "pt-br",
     "fr",
@@ -30,7 +30,7 @@
     "en": "Shingeki no Kyojin (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.19379146,
+   "score": 0.19333772,
    "languages": [
     "fr",
     "en",
@@ -54,10 +54,21 @@
     "en": "Dino Crisis"
    },
    "contentRating": "safe",
-   "score": 0.18702799,
+   "score": 0.1855225,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "28591273-88bf-4a4d-afbe-95c3c3430117",
+   "title": {
+    "en": "Shibuya Kingyo"
+   },
+   "contentRating": "safe",
+   "score": 0.17761065,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -95,6 +106,17 @@
    ]
   },
   {
+   "id": "9b5ee561-dbca-4eac-bda4-5fbdeb9ae490",
+   "title": {
+    "en": "Fuji no Yamai wa Fushi no Yamai"
+   },
+   "contentRating": "safe",
+   "score": 0.17104745,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
    "title": {
     "en": "Onikirimaru"
@@ -106,12 +128,27 @@
    ]
   },
   {
+   "id": "39ead81d-d12f-4eb6-9f0f-0a16b58698d5",
+   "title": {
+    "en": "Isekai Nihon"
+   },
+   "contentRating": "safe",
+   "score": 0.16494678,
+   "languages": [
+    "id",
+    "en",
+    "pl",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
    "id": "da7e2b0b-72a9-419c-b667-6a02c2c7c771",
    "title": {
     "en": "Isekai Kuimetsu no Same"
    },
    "contentRating": "safe",
-   "score": 0.16559592,
+   "score": 0.1649133,
    "languages": [
     "en",
     "fr",
@@ -172,76 +209,16 @@
    ]
   },
   {
-   "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+   "id": "6a7d0f70-e41c-4385-bb1c-3868f53144d8",
    "title": {
-    "en": "The Legend of Dororo and Hyakkimaru"
+    "en": "Brave Bell"
    },
    "contentRating": "safe",
-   "score": 0.15355165,
-   "languages": [
-    "ru",
-    "tr",
-    "pt-br",
-    "es-la",
-    "en",
-    "it",
-    "zh-hk",
-    "id"
-   ]
-  },
-  {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
-   "title": {
-    "en": "Metamorcode"
-   },
-   "contentRating": "safe",
-   "score": 0.15246218,
+   "score": 0.15873261,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7032ad8e-79d7-4270-b32a-3675495b318e",
-   "title": {
-    "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
-   },
-   "contentRating": "safe",
-   "score": 0.15221192,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
-   "title": {
-    "en": "Jujutsu Kaisen"
-   },
-   "contentRating": "safe",
-   "score": 0.15207778,
-   "languages": [
-    "it",
-    "hu",
-    "pt-br",
-    "ru",
-    "en",
-    "es-la",
-    "ar",
-    "fr",
-    "vi",
-    "uk",
-    "he",
-    "id",
-    "zh-hk",
-    "es",
-    "de",
-    "",
-    "sr",
-    "th",
-    "mn",
-    "ms",
-    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:18+00:00"
+ "updatedAt": "2023-12-10T18:33:47+00:00"
 }

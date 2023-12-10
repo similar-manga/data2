@@ -11,7 +11,7 @@
     "en": "And twinkle"
    },
    "contentRating": "safe",
-   "score": 0.40877447,
+   "score": 0.4141023,
    "languages": [
     "pl",
     "en"
@@ -23,21 +23,22 @@
     "en": "Yuki, Tokidoki Suki"
    },
    "contentRating": "safe",
-   "score": 0.33133405,
+   "score": 0.33669293,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
+   "id": "b30e3471-582c-4446-a94b-422c2d7650c4",
    "title": {
-    "en": "Hoshi ni Negau"
+    "en": "Christmas no Mahou"
    },
    "contentRating": "safe",
-   "score": 0.3071474,
+   "score": 0.31715626,
    "languages": [
     "pt-br",
     "en",
+    "de",
     "pl"
    ]
   },
@@ -47,7 +48,7 @@
     "en": "Christmas ni Omoi o Nosete"
    },
    "contentRating": "safe",
-   "score": 0.30523068,
+   "score": 0.30894205,
    "languages": [
     "pt-br",
     "it",
@@ -60,12 +61,25 @@
    ]
   },
   {
+   "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
+   "title": {
+    "en": "Hoshi ni Negau"
+   },
+   "contentRating": "safe",
+   "score": 0.3067421,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "64267016-79f3-46c4-a2d6-77bda8c1c47d",
    "title": {
     "en": "Hana, Saita."
    },
    "contentRating": "safe",
-   "score": 0.29916096,
+   "score": 0.29824418,
    "languages": [
     "en",
     "pl"
@@ -77,7 +91,7 @@
     "en": "Little Lovers"
    },
    "contentRating": "safe",
-   "score": 0.29508865,
+   "score": 0.29797977,
    "languages": [
     "fr",
     "en",
@@ -91,7 +105,7 @@
     "en": "A Holy Night to the Lost Lamb"
    },
    "contentRating": "safe",
-   "score": 0.29313868,
+   "score": 0.29307973,
    "languages": [
     "en",
     "pl",
@@ -107,6 +121,30 @@
    "score": 0.2857143,
    "languages": [
     "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "6ad37caf-c11b-4e1d-83a3-ca61abc9f7a5",
+   "title": {
+    "en": "White Day"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "bg",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "327a66e0-f10d-4264-94a7-5ba00b468142",
+   "title": {
+    "en": "Go Isshou ni Heart mo Atatamemasuka?"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
     "pl"
    ]
   },
@@ -136,38 +174,14 @@
    ]
   },
   {
-   "id": "327a66e0-f10d-4264-94a7-5ba00b468142",
+   "id": "db12d3fc-9863-488a-a432-fe0664f964e3",
    "title": {
-    "en": "Go Isshou ni Heart mo Atatamemasuka?"
+    "en": "I Love My Sister's Boyfriend"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "pl"
-   ]
-  },
-  {
-   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
-   "title": {
-    "en": "Liar Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "5b5cd8e5-46a6-41be-9774-d90d4add4a0a",
-   "title": {
-    "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "pt-br"
    ]
   },
   {
@@ -193,18 +207,7 @@
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "db12d3fc-9863-488a-a432-fe0664f964e3",
-   "title": {
-    "en": "I Love My Sister's Boyfriend"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:22+00:00"
+ "updatedAt": "2023-12-10T18:20:53+00:00"
 }

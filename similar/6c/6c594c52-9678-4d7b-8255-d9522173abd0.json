@@ -11,7 +11,7 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.24022003,
+   "score": 0.23993437,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Hataraku Saibou BABY"
    },
    "contentRating": "safe",
-   "score": 0.23901626,
+   "score": 0.23569995,
    "languages": [
     "en",
     "ru",
@@ -37,22 +37,10 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.23166446,
+   "score": 0.231488,
    "languages": [
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.22167556,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -71,12 +59,24 @@
    ]
   },
   {
+   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
+   "title": {
+    "en": "Dragon Ball Heroes - Victory Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.22167556,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "c0cb5556-6a2f-4063-a014-eeb5295c2caa",
    "title": {
     "en": "Bruce Of The Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.21983507,
+   "score": 0.21829242,
    "languages": [
     "en",
     "fr"
@@ -88,7 +88,7 @@
     "en": "The Code to the Evolutionary Spiral"
    },
    "contentRating": "safe",
-   "score": 0.21539624,
+   "score": 0.21500397,
    "languages": [
     "en"
    ]
@@ -99,7 +99,7 @@
     "en": "Jumbor"
    },
    "contentRating": "safe",
-   "score": 0.2145344,
+   "score": 0.21411881,
    "languages": [
     "pl",
     "en"
@@ -111,7 +111,18 @@
     "en": "Knight Run - Father's Day"
    },
    "contentRating": "safe",
-   "score": 0.2133471,
+   "score": 0.212889,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3a9ba770-ff15-44bd-9174-e58d51ebe201",
+   "title": {
+    "en": "Demon's Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.20949243,
    "languages": [
     "en"
    ]
@@ -122,7 +133,7 @@
     "en": "Cyber Blue - Lost Number Children"
    },
    "contentRating": "safe",
-   "score": 0.20446116,
+   "score": 0.20374545,
    "languages": [
     "en"
    ]
@@ -144,7 +155,7 @@
     "en": "God Pretender"
    },
    "contentRating": "safe",
-   "score": 0.2001261,
+   "score": 0.19995227,
    "languages": [
     "en"
    ]
@@ -161,39 +172,27 @@
    ]
   },
   {
+   "id": "64fa680d-2432-4dd0-9d17-4c2c1b37bf27",
+   "title": {
+    "en": "War Angels"
+   },
+   "contentRating": "safe",
+   "score": 0.19699284,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
    "title": {
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.19643083,
+   "score": 0.19545585,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0d4e738b-b3ed-4a19-be4c-80fb78e3ab31",
-   "title": {
-    "en": "Armagedon"
-   },
-   "contentRating": "safe",
-   "score": 0.19481921,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2b0a68a4-36e8-4724-b9cd-84fe48ab4dd1",
-   "title": {
-    "en": "Medabot Reloaded"
-   },
-   "contentRating": "safe",
-   "score": 0.19454837,
-   "languages": [
-    "en",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:03+00:00"
+ "updatedAt": "2023-12-10T18:20:03+00:00"
 }

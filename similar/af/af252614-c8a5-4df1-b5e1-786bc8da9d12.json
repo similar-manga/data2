@@ -11,7 +11,7 @@
     "en": "Mugen no Skill Getter!"
    },
    "contentRating": "suggestive",
-   "score": 0.2601273,
+   "score": 0.2525683,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Seirei-tachi no Rakuen to Risou no Isekai Seikatsu"
    },
    "contentRating": "suggestive",
-   "score": 0.23583123,
+   "score": 0.23329362,
    "languages": [
     "en",
     "ru",
@@ -35,7 +35,7 @@
     "en": "Monster Musume no Oishasan"
    },
    "contentRating": "suggestive",
-   "score": 0.223118,
+   "score": 0.22155273,
    "languages": [
     "en",
     "de",
@@ -50,7 +50,7 @@
     "en": "Sekai no Owari no Encore"
    },
    "contentRating": "suggestive",
-   "score": 0.2210535,
+   "score": 0.22065763,
    "languages": [
     "pt-br",
     "fr",
@@ -63,26 +63,12 @@
    ]
   },
   {
-   "id": "d1781652-404b-4ba9-83cf-b53a8dcd9dbd",
-   "title": {
-    "en": "Ouritsu Mahou Gakuen no Saikasei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21604969,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "b6e677ad-6d0e-4521-a9de-0da842e2ee5a",
    "title": {
     "en": "Nishuume Cheat no Tensei Madoushi 〜Saikyou ga 1000-nengo ni Tensei Shitara, Jinsei Yoyū Sugimashita〜"
    },
    "contentRating": "suggestive",
-   "score": 0.21569018,
+   "score": 0.21470083,
    "languages": [
     "en",
     "fr",
@@ -96,11 +82,25 @@
     "en": "Yuusha Densetsu no Uragawa de Ore wa Eiyuu Densetsu o Tsukurimasu: Oudou Goroshi no Eiyuutan~"
    },
    "contentRating": "suggestive",
-   "score": 0.21499047,
+   "score": 0.21409097,
    "languages": [
     "en",
     "vi",
     "id"
+   ]
+  },
+  {
+   "id": "d1781652-404b-4ba9-83cf-b53a8dcd9dbd",
+   "title": {
+    "en": "Ouritsu Mahou Gakuen no Saikasei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21315503,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -109,7 +109,7 @@
     "en": "Magika Swordsman and Summoner"
    },
    "contentRating": "suggestive",
-   "score": 0.20788933,
+   "score": 0.2065891,
    "languages": [
     "en",
     "es-la",
@@ -127,7 +127,7 @@
     "en": "NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta"
    },
    "contentRating": "suggestive",
-   "score": 0.20401466,
+   "score": 0.20346099,
    "languages": [
     "fr",
     "en",
@@ -135,20 +135,6 @@
     "pt-br",
     "es-la",
     "es"
-   ]
-  },
-  {
-   "id": "18f5549a-9d1a-44a2-a8ca-aed2448e37c0",
-   "title": {
-    "en": "Arafoo Otoko no Isekai Tsuhan Seikatsu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20155682,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "ru"
    ]
   },
   {
@@ -165,33 +151,17 @@
    ]
   },
   {
-   "id": "cbce49c7-6311-4955-8b10-1005775d5cee",
+   "id": "18f5549a-9d1a-44a2-a8ca-aed2448e37c0",
    "title": {
-    "en": "The Strongest Dull Prince's Secret Battle for the Throne"
+    "en": "Arafoo Otoko no Isekai Tsuhan Seikatsu"
    },
    "contentRating": "suggestive",
-   "score": 0.18829338,
+   "score": 0.20107596,
    "languages": [
-    "en",
-    "th",
     "id",
-    "fr",
-    "zh-hk",
-    "es-la",
-    "it"
-   ]
-  },
-  {
-   "id": "e881168f-ef99-41ff-88cf-1cf21c152635",
-   "title": {
-    "en": "Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18829338,
-   "languages": [
-    "en",
     "pt-br",
-    "id"
+    "en",
+    "ru"
    ]
   },
   {
@@ -212,12 +182,58 @@
    ]
   },
   {
+   "id": "e881168f-ef99-41ff-88cf-1cf21c152635",
+   "title": {
+    "en": "Seichou Cheat de Nandemo Dekiru you ni Natta ga, Mushoku dake wa Yamerarenai you desu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18829338,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "cbce49c7-6311-4955-8b10-1005775d5cee",
+   "title": {
+    "en": "The Strongest Dull Prince's Secret Battle for the Throne"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18829338,
+   "languages": [
+    "en",
+    "th",
+    "id",
+    "fr",
+    "zh-hk",
+    "es-la",
+    "it"
+   ]
+  },
+  {
+   "id": "136a8c13-cf72-427a-8d76-23f1bf070c0e",
+   "title": {
+    "en": "S-Rank Monster no Behemoth Dakedo, Neko to Machigawarete Erufu Musume no Kishi (Pet) Toshite Kurashitemasu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18366466,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "fa",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
    "title": {
     "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
    },
    "contentRating": "suggestive",
-   "score": 0.18438464,
+   "score": 0.18360093,
    "languages": [
     "pt-br",
     "en",
@@ -233,23 +249,7 @@
     "fr",
     "hu"
    ]
-  },
-  {
-   "id": "136a8c13-cf72-427a-8d76-23f1bf070c0e",
-   "title": {
-    "en": "S-Rank Monster no Behemoth Dakedo, Neko to Machigawarete Erufu Musume no Kishi (Pet) Toshite Kurashitemasu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18397236,
-   "languages": [
-    "ru",
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:59+00:00"
+ "updatedAt": "2023-12-10T18:27:56+00:00"
 }

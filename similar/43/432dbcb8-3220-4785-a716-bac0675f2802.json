@@ -11,7 +11,7 @@
     "en": "Microman: The Small Giant + Red Powers"
    },
    "contentRating": "safe",
-   "score": 0.21945561,
+   "score": 0.2175708,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "13 Sentinels: Aegis Rim Anthology Comic STAR"
    },
    "contentRating": "safe",
-   "score": 0.21039091,
+   "score": 0.2077569,
    "languages": [
     "en"
    ]
@@ -33,20 +33,33 @@
     "en": "13 Sentinels: Aegis Rim Official Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.2102355,
+   "score": 0.20762119,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4745cf5d-6340-4ab1-bc37-737aaca30d7c",
+   "id": "882e338e-0105-4305-a380-655bc303036b",
    "title": {
-    "en": "GunBuster Next Generation"
+    "en": "Fate/Grand Order Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.19544564,
+   "score": 0.20470671,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.20165318,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -67,26 +80,34 @@
     "en": "Orefeti"
    },
    "contentRating": "safe",
-   "score": 0.19215642,
+   "score": 0.19097093,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
+   "id": "66381aec-a89d-4b33-982b-cca9e87a1e9e",
    "title": {
-    "en": "Nichijou"
+    "en": "She Looks Especially Cute to Me"
    },
    "contentRating": "safe",
-   "score": 0.18669277,
+   "score": 0.18879253,
    "languages": [
     "en",
-    "pl",
-    "pt-br",
-    "de",
     "id",
-    "ru",
-    "it"
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "4745cf5d-6340-4ab1-bc37-737aaca30d7c",
+   "title": {
+    "en": "GunBuster Next Generation"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -102,12 +123,29 @@
    ]
   },
   {
+   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
+   "title": {
+    "en": "Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.18571873,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br",
+    "de",
+    "id",
+    "ru",
+    "it"
+   ]
+  },
+  {
    "id": "d33faee4-ef05-4108-bb0e-b5a82897add0",
    "title": {
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.18522158,
+   "score": 0.18360049,
    "languages": [
     "en"
    ]
@@ -118,7 +156,7 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.17807643,
+   "score": 0.17712675,
    "languages": [
     "en"
    ]
@@ -129,15 +167,15 @@
     "en": "Gensou Suikoden V - Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.17601545,
+   "score": 0.17644118,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "26610f8a-eefd-450b-82f9-94a52c35189b",
+   "id": "dcced45f-98bd-45c4-bbc8-bc3b496be4b6",
    "title": {
-    "en": "CRIMSONS Gaiden - River Side Story"
+    "en": "Totsu-nee!"
    },
    "contentRating": "safe",
    "score": 0.17541161,
@@ -146,50 +184,16 @@
    ]
   },
   {
-   "id": "59d73e0d-9a87-4f67-b6e6-6e92f31768a5",
+   "id": "51b6b7c4-0123-4eed-b224-a8c1dbd1fff3",
    "title": {
-    "en": "Susume!! Seigaku Dennou Kenkyuubu"
+    "en": "Yagami-kun's Family Affairs"
    },
    "contentRating": "safe",
    "score": 0.17541161,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8d890fa8-a4c2-4f57-ab24-a107fafdfdaf",
-   "title": {
-    "en": "Rangeman"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "71a51df3-d0e6-4cfa-915f-977bf305fd29",
-   "title": {
-    "en": "Otome Hatsuden"
-   },
-   "contentRating": "safe",
-   "score": 0.17519763,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2b0a68a4-36e8-4724-b9cd-84fe48ab4dd1",
-   "title": {
-    "en": "Medabot Reloaded"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:21+00:00"
+ "updatedAt": "2023-12-10T18:15:35+00:00"
 }

@@ -6,6 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
+   "title": {
+    "en": "The Seven Deadly Sins: Four Knights of the Apocalypse"
+   },
+   "contentRating": "safe",
+   "score": 0.24634664,
+   "languages": [
+    "id",
+    "ru",
+    "pt-br",
+    "pl",
+    "fr",
+    "en",
+    "tr",
+    "es-la",
+    "ar",
+    "es",
+    "mn",
+    "it",
+    "vi"
+   ]
+  },
+  {
    "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
    "title": {
     "en": "Cafe Occult"
@@ -22,7 +45,7 @@
     "en": "Rebirth Knight"
    },
    "contentRating": "safe",
-   "score": 0.23965068,
+   "score": 0.23437981,
    "languages": [
     "en",
     "fr"
@@ -40,12 +63,12 @@
    ]
   },
   {
-   "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
+   "id": "727bda2a-d15f-456b-b34e-4daa43ab653c",
    "title": {
-    "en": "Radiata Stories - The Song of Ridley"
+    "en": "Nanatsu no Taizai (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.2235397,
+   "score": 0.2247413,
    "languages": [
     "en"
    ]
@@ -68,7 +91,18 @@
     "en": "Gao Neng Strikes"
    },
    "contentRating": "safe",
-   "score": 0.21107349,
+   "score": 0.210018,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92e0e745-7615-4f2d-be28-97a302d141e7",
+   "title": {
+    "en": "Kin to Tetsu"
+   },
+   "contentRating": "safe",
+   "score": 0.207569,
    "languages": [
     "en"
    ]
@@ -113,12 +147,12 @@
    ]
   },
   {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
+   "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
    "title": {
-    "en": "Joou Kishi Monogatari"
+    "en": "Radiata Stories - The Song of Ridley"
    },
    "contentRating": "safe",
-   "score": 0.20137526,
+   "score": 0.2000434,
    "languages": [
     "en"
    ]
@@ -129,20 +163,19 @@
     "en": "Nyan-Nyan Oratorio"
    },
    "contentRating": "safe",
-   "score": 0.19899298,
+   "score": 0.1997285,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a9143fef-9747-4e5e-80cb-42433a841a49",
+   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
    "title": {
-    "en": "Namida wo Yurushita Jigoku no Shisha"
+    "en": "Joou Kishi Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.1967429,
    "languages": [
-    "fr",
     "en"
    ]
   },
@@ -167,36 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
-   "title": {
-    "en": "To Your Eternity"
-   },
-   "contentRating": "safe",
-   "score": 0.1919166,
-   "languages": [
-    "ru",
-    "pt-br",
-    "es",
-    "en",
-    "es-la",
-    "tr",
-    "mn",
-    "uk"
-   ]
-  },
-  {
-   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
-   "title": {
-    "en": "Strobo"
-   },
-   "contentRating": "safe",
-   "score": 0.18804689,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:46+00:00"
+ "updatedAt": "2023-12-10T18:21:59+00:00"
 }

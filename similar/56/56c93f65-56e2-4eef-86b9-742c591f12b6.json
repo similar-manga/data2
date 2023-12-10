@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.2640587,
+   "score": 0.26573992,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.23889923,
+   "score": 0.23924564,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.23714136,
+   "score": 0.23601203,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.22709364,
+   "score": 0.22697006,
    "languages": [
     "en"
    ]
@@ -66,18 +66,7 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.22016351,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
-   "title": {
-    "en": "Mobile Suit MOON Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.21794765,
+   "score": 0.22071832,
    "languages": [
     "en"
    ]
@@ -94,23 +83,23 @@
    ]
   },
   {
-   "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
    "title": {
-    "en": "Mobile Suit Gundam - École du Ciel"
+    "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.21508537,
+   "score": 0.21725751,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "daacd330-0267-4503-b05e-04925ddeef85",
+   "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
    "title": {
-    "en": "Star Fox: Farewell, Beloved Falco"
+    "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.20721161,
+   "score": 0.2148206,
    "languages": [
     "en"
    ]
@@ -128,12 +117,12 @@
    ]
   },
   {
-   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
+   "id": "daacd330-0267-4503-b05e-04925ddeef85",
    "title": {
-    "en": "The Thief of Shanghai"
+    "en": "Star Fox: Farewell, Beloved Falco"
    },
    "contentRating": "safe",
-   "score": 0.2036276,
+   "score": 0.20721161,
    "languages": [
     "en"
    ]
@@ -150,12 +139,23 @@
    ]
   },
   {
+   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
+   "title": {
+    "en": "The Thief of Shanghai"
+   },
+   "contentRating": "safe",
+   "score": 0.2036276,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9e668e5d-d046-4ffd-bfe3-eea1050a06d9",
    "title": {
     "en": "Mobile Suit Gundam NT (NARRATIVE)"
    },
    "contentRating": "safe",
-   "score": 0.20046234,
+   "score": 0.1997301,
    "languages": [
     "en"
    ]
@@ -187,5 +187,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:11+00:00"
+ "updatedAt": "2023-12-10T18:17:42+00:00"
 }

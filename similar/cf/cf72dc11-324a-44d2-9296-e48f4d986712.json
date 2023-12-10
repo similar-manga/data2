@@ -11,7 +11,7 @@
     "en": "Café Café"
    },
    "contentRating": "safe",
-   "score": 0.33600876,
+   "score": 0.33149335,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Oh, My Romantic Kumiho"
    },
    "contentRating": "safe",
-   "score": 0.2995016,
+   "score": 0.29945952,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Hatsukoi Succubus"
    },
    "contentRating": "safe",
-   "score": 0.29016033,
+   "score": 0.2866099,
    "languages": [
     "en",
     "fr"
@@ -45,7 +45,7 @@
     "en": "Magical JxR"
    },
    "contentRating": "safe",
-   "score": 0.2888435,
+   "score": 0.28620943,
    "languages": [
     "en"
    ]
@@ -73,68 +73,23 @@
    ]
   },
   {
+   "id": "67fca05f-56eb-452c-b325-4402ab8fd544",
+   "title": {
+    "en": "Dragon and the Phoenix"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
    "title": {
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.28147548,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "048a257f-9c44-40f3-b6fc-5cbe2042c31d",
-   "title": {
-    "en": "Vampire Master"
-   },
-   "contentRating": "safe",
-   "score": 0.26651016,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6c894f65-57eb-4ea0-9aeb-eda31322238d",
-   "title": {
-    "en": "5 Cats"
-   },
-   "contentRating": "safe",
-   "score": 0.2646666,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "0e4c009e-5bf1-4a0e-b110-d09eaf3a7cc9",
-   "title": {
-    "en": "Milk Crown Lovers"
-   },
-   "contentRating": "safe",
-   "score": 0.2581178,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78f4b50f-b2e2-4125-b6fc-a34f39b481c3",
-   "title": {
-    "en": "Shiro no Keiyaku"
-   },
-   "contentRating": "safe",
-   "score": 0.2566927,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0cd2268e-1c75-419e-8e6a-31a7339d72c9",
-   "title": {
-    "en": "Strange Pension"
-   },
-   "contentRating": "safe",
-   "score": 0.25600162,
+   "score": 0.28025198,
    "languages": [
     "en"
    ]
@@ -145,46 +100,93 @@
     "en": "Akuma to Dolce"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.278959,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "89875740-e284-45d2-adf4-88e4fde127b4",
+   "id": "06a61440-6cb4-412f-93f2-5a4b96b86216",
    "title": {
-    "en": "Binbougami Irimasen ka?"
+    "en": "Let Love Rule"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.27678978,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
+   "id": "69337aff-1505-4457-810e-7f085a2a4adc",
    "title": {
-    "en": "Birthday Presents"
+    "en": "Black Feather Love Song"
    },
    "contentRating": "safe",
-   "score": 0.2528934,
+   "score": 0.27034447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f27df280-0309-43a3-80c1-0b6b43aefe83",
+   "title": {
+    "en": "Merit Egyptian God"
+   },
+   "contentRating": "safe",
+   "score": 0.26794,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
+   "title": {
+    "en": "Mermaid Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.26752156,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
+   "title": {
+    "en": "Meow! Please Help, Manager!"
+   },
+   "contentRating": "safe",
+   "score": 0.26729774,
    "languages": [
     "en",
-    "pl"
+    "pt-br"
    ]
   },
   {
-   "id": "1818c4f7-cad3-4fa7-a3d4-fb258bc7d30f",
+   "id": "048a257f-9c44-40f3-b6fc-5cbe2042c31d",
    "title": {
-    "en": "A Sorcerer Entered into a Contract"
+    "en": "Vampire Master"
    },
    "contentRating": "safe",
-   "score": 0.25015786,
+   "score": 0.26649344,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6c894f65-57eb-4ea0-9aeb-eda31322238d",
+   "title": {
+    "en": "5 Cats"
+   },
+   "contentRating": "safe",
+   "score": 0.2617505,
+   "languages": [
+    "en",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:19+00:00"
+ "updatedAt": "2023-12-10T18:31:20+00:00"
 }

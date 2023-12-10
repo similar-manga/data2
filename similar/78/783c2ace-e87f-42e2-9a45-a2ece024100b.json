@@ -6,12 +6,69 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "af2b38df-05bf-44b7-b604-3579072c590d",
+   "title": {
+    "en": "Vlad Dracula"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
    "title": {
     "en": "Hanzai Koushounin Minegishi Eitarou"
    },
    "contentRating": "safe",
    "score": 0.22222224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.21028474,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "47859811-7fd7-488a-963d-bd10c081142e",
+   "title": {
+    "en": "Shiki"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "301c797b-e198-4f4a-88ca-41b677ca1971",
+   "title": {
+    "en": "Cecil no Joou"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
    "languages": [
     "en"
    ]
@@ -41,6 +98,40 @@
    ]
   },
   {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92a46ccf-cf75-41dd-8a69-7016e4521102",
+   "title": {
+    "en": "Yamima no Mamiya"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
    "title": {
     "en": "Snow Blind"
@@ -58,138 +149,50 @@
    ]
   },
   {
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
+   "title": {
+    "en": "JUMBO MAX"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
+   "title": {
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5bee9323-5fc1-4a83-acfb-ec532079e9a0",
+   "title": {
+    "en": "Mukashi no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.17958267,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
    "title": {
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.17851529,
+   "score": 0.17876291,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "610f10ee-0008-4456-9119-65b76d7c3458",
-   "title": {
-    "en": "Boukyou Tarou"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9d6bbd43-926b-4999-a281-ac4a389cbadc",
-   "title": {
-    "en": "Sirocco"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
-   "title": {
-    "en": "The Sorrows of Young Werther (Variety Art Works)"
-   },
-   "contentRating": "safe",
-   "score": 0.16461745,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
-   "title": {
-    "en": "Kokushi no Shima"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
-   "title": {
-    "en": "Waltzing at Sanzu River"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
-   "title": {
-    "en": "Deep Love - Real"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "02be54ac-b1bc-496c-a496-bcea5356bcb5",
-   "title": {
-    "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
-   "title": {
-    "en": "AGAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b07ea7a-0aa6-4fa3-bd05-4d78c67b0c99",
-   "title": {
-    "en": "Blood in the Field"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5679da5-8790-429a-b20b-fbb4c869a36d",
-   "title": {
-    "en": "Wasureru"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:33+00:00"
+ "updatedAt": "2023-12-10T18:21:26+00:00"
 }

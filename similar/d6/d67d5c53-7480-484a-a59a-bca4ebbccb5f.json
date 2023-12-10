@@ -11,7 +11,7 @@
     "en": "Kamishiro  Sōsa"
    },
    "contentRating": "safe",
-   "score": 0.27072504,
+   "score": 0.2691785,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tokyo Depato Sensou Taikenki"
    },
    "contentRating": "safe",
-   "score": 0.26804885,
+   "score": 0.26482207,
    "languages": [
     "en",
     "pl",
@@ -35,7 +35,7 @@
     "en": "Black Milk"
    },
    "contentRating": "safe",
-   "score": 0.2597237,
+   "score": 0.26001355,
    "languages": [
     "pt-br",
     "en"
@@ -47,7 +47,7 @@
     "en": "Fantasies"
    },
    "contentRating": "safe",
-   "score": 0.25129032,
+   "score": 0.2535149,
    "languages": [
     "en",
     "de"
@@ -67,12 +67,23 @@
    ]
   },
   {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.22377774,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
    "title": {
     "en": "Monster Cage"
    },
    "contentRating": "safe",
-   "score": 0.19909708,
+   "score": 0.19816406,
    "languages": [
     "en",
     "pl",
@@ -85,12 +96,26 @@
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.19663143,
+   "score": 0.19632928,
    "languages": [
     "pt-br",
     "id",
     "zh-hk",
     "en"
+   ]
+  },
+  {
+   "id": "ea47525d-99df-45b5-9103-dd853f49f8c3",
+   "title": {
+    "en": "Mairimashita! Iruma-kun Mafia AU"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en",
+    "es-la",
+    "id",
+    "vi"
    ]
   },
   {
@@ -102,6 +127,29 @@
    "score": 0.19166298,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "b14dc351-d47d-4fff-9833-baade8458563",
+   "title": {
+    "en": "Hotel Inhumans"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "title": {
+    "en": "Ryuudan Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
     "en"
    ]
   },
@@ -122,17 +170,6 @@
    "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
     "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
-   "title": {
-    "en": "Ryuudan Shounen"
    },
    "contentRating": "safe",
    "score": 0.18070157,
@@ -164,49 +201,7 @@
     "pl",
     "it"
    ]
-  },
-  {
-   "id": "3843d4d1-ddde-430e-91d7-7f9a322b1116",
-   "title": {
-    "en": "Tokyo Aliens"
-   },
-   "contentRating": "safe",
-   "score": 0.17567722,
-   "languages": [
-    "es-la",
-    "fa",
-    "en",
-    "fr",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
-   "title": {
-    "en": "No.9"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "cc444f09-9f6d-4f54-bb3e-7a85e1399158",
-   "title": {
-    "en": "Bad Tripper"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "pt-br",
-    "id",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:36+00:00"
+ "updatedAt": "2023-12-10T18:32:05+00:00"
 }

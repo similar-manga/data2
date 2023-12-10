@@ -6,27 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
-   "title": {
-    "en": "Fushigi na Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.21353416,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
    "title": {
     "en": "Star Wars - The Mandalorian"
    },
    "contentRating": "safe",
-   "score": 0.21337767,
+   "score": 0.21432985,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
+   "title": {
+    "en": "Fushigi na Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.21376891,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.2067013,
+   "score": 0.20454071,
    "languages": [
     "en",
     "it"
@@ -47,7 +47,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.20257692,
+   "score": 0.20147105,
    "languages": [
     "zh-hk",
     "en",
@@ -72,18 +72,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20015123,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
-   "title": {
-    "en": "The Far East Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.19051518,
+   "score": 0.19873783,
    "languages": [
     "en"
    ]
@@ -100,63 +89,14 @@
    ]
   },
   {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
+   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
    "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
+    "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.18972893,
+   "score": 0.19024216,
    "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6e56522f-7c12-4f65-941d-27297dbe1092",
-   "title": {
-    "en": "86 -Eighty Six- Run Through the Battlefront"
-   },
-   "contentRating": "safe",
-   "score": 0.18931247,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.18917437,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "84703c86-eb83-45ec-8fc5-f34a25115893",
-   "title": {
-    "en": "Dai Dark"
-   },
-   "contentRating": "safe",
-   "score": 0.18887916,
-   "languages": [
-    "ru",
-    "pt-br",
-    "es-la",
-    "en",
-    "uk",
-    "fa",
-    "tr",
-    "ar",
-    "zh-hk",
-    "it"
+    "en"
    ]
   },
   {
@@ -175,14 +115,43 @@
    ]
   },
   {
-   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
+   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
    "title": {
-    "en": "Jungle Boy"
+    "en": "Kiba no Tabishounin - The Arms Peddler"
    },
    "contentRating": "safe",
-   "score": 0.18653412,
+   "score": 0.1884244,
    "languages": [
-    "en"
+    "pt-br",
+    "en",
+    "es",
+    "pl",
+    "es-la"
+   ]
+  },
+  {
+   "id": "6e56522f-7c12-4f65-941d-27297dbe1092",
+   "title": {
+    "en": "86 -Eighty Six- Run Through the Battlefront"
+   },
+   "contentRating": "safe",
+   "score": 0.18841873,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
+   "title": {
+    "en": "Legend of the Galactic Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.1861316,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -191,7 +160,7 @@
     "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.18639822,
+   "score": 0.18586716,
    "languages": [
     "en",
     "ru"
@@ -210,17 +179,40 @@
    ]
   },
   {
+   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
+   "title": {
+    "en": "Jungle Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.18474768,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
+   "title": {
+    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
+   },
+   "contentRating": "safe",
+   "score": 0.18228412,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "75532241-da34-4afb-a7df-a227b269ed20",
    "title": {
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.18280889,
+   "score": 0.18181007,
    "languages": [
     "en",
     "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:03+00:00"
+ "updatedAt": "2023-12-10T18:09:09+00:00"
 }

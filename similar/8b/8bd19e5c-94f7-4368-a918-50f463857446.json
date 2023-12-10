@@ -29,7 +29,7 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.19707526,
+   "score": 0.19679724,
    "languages": [
     "en"
    ]
@@ -40,7 +40,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.1938603,
+   "score": 0.19284008,
    "languages": [
     "pl",
     "en",
@@ -80,7 +80,7 @@
     "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem"
    },
    "contentRating": "safe",
-   "score": 0.18282314,
+   "score": 0.18220657,
    "languages": [
     "es-la",
     "es",
@@ -88,6 +88,24 @@
     "ru",
     "vi",
     "en"
+   ]
+  },
+  {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.1814485,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
    ]
   },
   {
@@ -109,12 +127,29 @@
    ]
   },
   {
+   "id": "edf170db-288b-4773-90df-1c542c69d4e9",
+   "title": {
+    "en": "Kemono Jihen"
+   },
+   "contentRating": "safe",
+   "score": 0.17578264,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "ru",
+    "tr",
+    "lt",
+    "hu"
+   ]
+  },
+  {
    "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.17521933,
+   "score": 0.17526977,
    "languages": [
     "en"
    ]
@@ -125,7 +160,7 @@
     "en": "Shingeki no Kyojin (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.17440563,
+   "score": 0.17524941,
    "languages": [
     "fr",
     "en",
@@ -139,6 +174,17 @@
    },
    "contentRating": "safe",
    "score": 0.17370296,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28591273-88bf-4a4d-afbe-95c3c3430117",
+   "title": {
+    "en": "Shibuya Kingyo"
+   },
+   "contentRating": "safe",
+   "score": 0.17326261,
    "languages": [
     "en"
    ]
@@ -174,12 +220,23 @@
    ]
   },
   {
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
+   "title": {
+    "en": "Rewrite: SIDE-TERRA"
+   },
+   "contentRating": "safe",
+   "score": 0.16630201,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
    "title": {
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.16569431,
+   "score": 0.16513613,
    "languages": [
     "en",
     "zh",
@@ -191,55 +248,7 @@
     "pl",
     "fr"
    ]
-  },
-  {
-   "id": "16e91911-3f2d-4653-a466-08e8756e3f46",
-   "title": {
-    "en": "L∞P"
-   },
-   "contentRating": "safe",
-   "score": 0.16374627,
-   "languages": [
-    "it",
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.16338444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21b18592-8925-466b-b909-071b52676a38",
-   "title": {
-    "en": "Teiden Shoujo to Hanemushi no Orchestra"
-   },
-   "contentRating": "safe",
-   "score": 0.16298771,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
-   "title": {
-    "en": "Tokyo Doragon Naito"
-   },
-   "contentRating": "safe",
-   "score": 0.16212127,
-   "languages": [
-    "es-la",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:26+00:00"
+ "updatedAt": "2023-12-10T18:23:44+00:00"
 }

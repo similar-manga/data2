@@ -11,7 +11,7 @@
     "en": "Body Yori Soul"
    },
    "contentRating": "safe",
-   "score": 0.37268966,
+   "score": 0.36755955,
    "languages": [
     "pl",
     "tr",
@@ -24,7 +24,7 @@
     "en": "Something Happening"
    },
    "contentRating": "safe",
-   "score": 0.3004961,
+   "score": 0.29839835,
    "languages": [
     "en"
    ]
@@ -35,18 +35,7 @@
     "en": "Takumi-kun Series"
    },
    "contentRating": "safe",
-   "score": 0.28170088,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f9d3b7d4-434c-4eb1-8d03-9b6285cbe6e2",
-   "title": {
-    "en": "Imperial Soul"
-   },
-   "contentRating": "safe",
-   "score": 0.27312765,
+   "score": 0.28042522,
    "languages": [
     "en"
    ]
@@ -57,7 +46,18 @@
     "en": "Secret Dance"
    },
    "contentRating": "safe",
-   "score": 0.26894173,
+   "score": 0.26726505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f9d3b7d4-434c-4eb1-8d03-9b6285cbe6e2",
+   "title": {
+    "en": "Imperial Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.26563627,
    "languages": [
     "en"
    ]
@@ -78,16 +78,15 @@
    ]
   },
   {
-   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
+   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
    "title": {
-    "en": "Gimmick"
+    "en": "Tokubetsu na Nichijou"
    },
    "contentRating": "safe",
    "score": 0.25916255,
    "languages": [
-    "tr",
-    "pl",
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
@@ -138,15 +137,39 @@
    ]
   },
   {
-   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
+   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
    "title": {
-    "en": "Tokubetsu na Nichijou"
+    "en": "Gimmick"
    },
    "contentRating": "safe",
    "score": 0.25916255,
    "languages": [
+    "tr",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "c4a38bcf-9dbd-42ae-a6dc-a8ab8cb08ba5",
+   "title": {
+    "en": "Igarashi-kun to Nakahara-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.25817984,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3aab49d2-004c-4fb5-a4a3-e0e980321d0a",
+   "title": {
+    "en": "Kiyoku, Yamashiku, Modokashiku."
+   },
+   "contentRating": "safe",
+   "score": 0.25574532,
+   "languages": [
     "en",
-    "fr"
+    "pt-br"
    ]
   },
   {
@@ -155,7 +178,7 @@
     "en": "Otonaninattara Bijinninaruko-chan"
    },
    "contentRating": "safe",
-   "score": 0.25225285,
+   "score": 0.2522312,
    "languages": [
     "en",
     "pt-br"
@@ -171,32 +194,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d2014b2e-a7ef-4b87-beca-cca865cd00d8",
-   "title": {
-    "en": "Kurayami no Shutter Speed"
-   },
-   "contentRating": "safe",
-   "score": 0.24836907,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
-   "title": {
-    "en": "My Girlfriend will be a Mangaka"
-   },
-   "contentRating": "safe",
-   "score": 0.24773091,
-   "languages": [
-    "id",
-    "vi",
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:02+00:00"
+ "updatedAt": "2023-12-10T18:25:12+00:00"
 }

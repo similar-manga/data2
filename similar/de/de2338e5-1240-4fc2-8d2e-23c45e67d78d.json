@@ -11,7 +11,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.26059926,
+   "score": 0.26086327,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.25650436,
+   "score": 0.25593144,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.23923068,
+   "score": 0.23887183,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Kuusou Kagaku Edison"
    },
    "contentRating": "safe",
-   "score": 0.22881359,
+   "score": 0.22757567,
    "languages": [
     "en"
    ]
@@ -66,22 +66,10 @@
     "en": "Magical Record Lyrical Nanoha Force"
    },
    "contentRating": "safe",
-   "score": 0.22726104,
+   "score": 0.22725666,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "1b5c4010-1f1d-4122-b9e6-66cdd8c80664",
-   "title": {
-    "en": "Jumbor"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -97,12 +85,24 @@
    ]
   },
   {
+   "id": "1b5c4010-1f1d-4122-b9e6-66cdd8c80664",
+   "title": {
+    "en": "Jumbor"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "9d4311a4-7ad0-4fce-bf80-6c19ba37fb47",
    "title": {
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.21166044,
+   "score": 0.21039277,
    "languages": [
     "en",
     "id",
@@ -115,7 +115,7 @@
     "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
-   "score": 0.20865391,
+   "score": 0.2078631,
    "languages": [
     "en"
    ]
@@ -126,7 +126,7 @@
     "en": "Scavengers Another Sky"
    },
    "contentRating": "safe",
-   "score": 0.20500326,
+   "score": 0.20441149,
    "languages": [
     "en"
    ]
@@ -137,7 +137,7 @@
     "en": "Frame Saber"
    },
    "contentRating": "safe",
-   "score": 0.20497903,
+   "score": 0.20433415,
    "languages": [
     "en"
    ]
@@ -148,7 +148,7 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.2039711,
+   "score": 0.20331219,
    "languages": [
     "en",
     "es"
@@ -160,18 +160,7 @@
     "en": "Eirun Last Code"
    },
    "contentRating": "safe",
-   "score": 0.20249248,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "927c73d9-fe7c-4e21-af99-894b86801c39",
-   "title": {
-    "en": "Jinrui Sonbou Cockpit Girls"
-   },
-   "contentRating": "safe",
-   "score": 0.18713433,
+   "score": 0.20115225,
    "languages": [
     "en"
    ]
@@ -182,12 +171,23 @@
     "en": "The Unwavering Planets"
    },
    "contentRating": "safe",
-   "score": 0.18648009,
+   "score": 0.18820564,
    "languages": [
     "es-la",
     "en"
    ]
+  },
+  {
+   "id": "927c73d9-fe7c-4e21-af99-894b86801c39",
+   "title": {
+    "en": "Jinrui Sonbou Cockpit Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.18652423,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:55+00:00"
+ "updatedAt": "2023-12-10T18:32:52+00:00"
 }

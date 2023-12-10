@@ -11,10 +11,18 @@
     "en": "Succeed"
    },
    "contentRating": "safe",
-   "score": 0.29568824,
+   "score": 0.29582527,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b6a611ef-9b15-4bf8-98cf-74cc6e3a2c64",
+   "title": {
+    "en": "Governments"
+   },
+   "contentRating": "safe",
+   "score": 0.23925106
   },
   {
    "id": "18cdc34b-e11b-471c-bf71-33f1d7044c9a",
@@ -23,6 +31,14 @@
    },
    "contentRating": "safe",
    "score": 0.23328476
+  },
+  {
+   "id": "c307ed94-24eb-4aab-84b3-59229b240401",
+   "title": {
+    "en": "DIGITAL DEVIL SAGA: Avatar Tuner: Magic Tower of the Abyss"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334
   },
   {
    "id": "07bb19d8-7ea3-47b1-b998-3f5a5b0389e1",
@@ -36,20 +52,31 @@
    ]
   },
   {
-   "id": "c307ed94-24eb-4aab-84b3-59229b240401",
-   "title": {
-    "en": "DIGITAL DEVIL SAGA: Avatar Tuner: Magic Tower of the Abyss"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334
-  },
-  {
    "id": "33d89e31-1e52-478d-bf8a-c442a0fe94c2",
    "title": {
     "en": "Heishi to Burikiya"
    },
    "contentRating": "safe",
-   "score": 0.2050475
+   "score": 0.20512982
+  },
+  {
+   "id": "b5fe36a6-a45b-48a9-baff-1fef19012abf",
+   "title": {
+    "en": "Harahara Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.204832,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
+   "id": "fea2cd57-51b9-46bb-8383-fdc85e4e19c7",
+   "title": {
+    "en": "Matinee to Soiree"
+   },
+   "contentRating": "safe",
+   "score": 0.20469615
   },
   {
    "id": "aafc0d9b-0c47-4167-9f36-be059472586a",
@@ -57,15 +84,15 @@
     "en": "Kawari's Great Laugh!"
    },
    "contentRating": "safe",
-   "score": 0.20353192
+   "score": 0.20282894
   },
   {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
+   "id": "f4bbb127-3951-44af-8c31-2d7aecc5c086",
    "title": {
-    "en": "Night Bird"
+    "en": "Who Killed Sho Okudera?"
    },
    "contentRating": "safe",
-   "score": 0.20203052
+   "score": 0.20105638
   },
   {
    "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
@@ -73,18 +100,18 @@
     "en": "Segregated World"
    },
    "contentRating": "safe",
-   "score": 0.19874975,
+   "score": 0.19883461,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ed98157c-9d74-4d82-8318-381b788bd644",
+   "id": "594da5f8-a665-4199-be91-365b8ff1992f",
    "title": {
-    "en": "AI no Idenshi: Blue Age"
+    "en": "Jinrou Game: Lost Eden"
    },
    "contentRating": "safe",
-   "score": 0.19047621
+   "score": 0.19831179
   },
   {
    "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
@@ -112,39 +139,15 @@
    ]
   },
   {
-   "id": "13c194eb-4a65-4905-8dec-01b46d4f3f24",
+   "id": "e8748409-955b-4e6f-a288-e8f8fd2d22cd",
    "title": {
-    "en": "Oshi ga Shinda no de Time Leap shite Seizon Route Kakuho shimasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621
-  },
-  {
-   "id": "9f96f17b-1e79-48c1-8028-6d119ca2c16a",
-   "title": {
-    "en": "Crusher Joe"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621
-  },
-  {
-   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
-   "title": {
-    "en": "Earthly Paradise"
+    "en": "Joshikousei Joreishi Akane!"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "be0b843d-ec6a-4339-9ba2-19cb30066408",
-   "title": {
-    "en": "Doraemon Latest Secret Encyclopedia"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621
   },
   {
    "id": "ff5fe805-3613-4855-be54-31cc24a68d73",
@@ -155,5 +158,5 @@
    "score": 0.19047621
   }
  ],
- "updatedAt": "2023-12-10T01:06:56+00:00"
+ "updatedAt": "2023-12-10T18:27:47+00:00"
 }

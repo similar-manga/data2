@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "10bf25d0-9cbb-45c1-afe8-006e8863715d",
+   "title": {
+    "en": "Golden Raspberry"
+   },
+   "contentRating": "safe",
+   "score": 0.31471914,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "fc8d0eed-fedd-472f-b503-12d0ab5fc792",
    "title": {
     "en": "Bonko-chan"
    },
    "contentRating": "safe",
-   "score": 0.24418756
+   "score": 0.2504266
   },
   {
    "id": "0b2beaa6-08df-44e5-a404-ecee109744fc",
@@ -19,7 +30,7 @@
     "en": "Candy Candy"
    },
    "contentRating": "safe",
-   "score": 0.21670519,
+   "score": 0.21970443,
    "languages": [
     "pt-br",
     "en",
@@ -32,7 +43,7 @@
     "en": "My Heaven"
    },
    "contentRating": "safe",
-   "score": 0.21345079,
+   "score": 0.21907315,
    "languages": [
     "en"
    ]
@@ -43,7 +54,7 @@
     "en": "Star Red"
    },
    "contentRating": "safe",
-   "score": 0.21092005
+   "score": 0.21779753
   },
   {
    "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
@@ -51,10 +62,18 @@
     "en": "Glass Mask"
    },
    "contentRating": "safe",
-   "score": 0.21081421,
+   "score": 0.21380655,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "c442d007-1349-43b8-b893-6a9ce710ba3c",
+   "title": {
+    "en": "Onna no Mado"
+   },
+   "contentRating": "safe",
+   "score": 0.20976867
   },
   {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
@@ -62,26 +81,18 @@
     "en": "Niji no Ikusa"
    },
    "contentRating": "safe",
-   "score": 0.20504051,
+   "score": 0.2041735,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d15267de-2481-4a74-bb3c-7b7504f245d9",
+   "id": "39b0c047-bd3f-4b2e-a42f-96d1cce09de1",
    "title": {
-    "en": "Fire!"
+    "en": "Let's Go Straight Ahead"
    },
    "contentRating": "safe",
-   "score": 0.18725733
-  },
-  {
-   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
-   "title": {
-    "en": "Harp of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.18676321
+   "score": 0.20307441
   },
   {
    "id": "a264330d-14bc-4ad5-b3c6-8ee4f7dce551",
@@ -89,7 +100,47 @@
     "en": "Asari-chan"
    },
    "contentRating": "safe",
-   "score": 0.18662155
+   "score": 0.19677241
+  },
+  {
+   "id": "d6150164-59a0-41de-927d-12138b0f15fd",
+   "title": {
+    "en": "Eien no Nohara"
+   },
+   "contentRating": "safe",
+   "score": 0.19383684
+  },
+  {
+   "id": "d15267de-2481-4a74-bb3c-7b7504f245d9",
+   "title": {
+    "en": "Fire!"
+   },
+   "contentRating": "safe",
+   "score": 0.19304357
+  },
+  {
+   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "title": {
+    "en": "Harp of the Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.18706954
+  },
+  {
+   "id": "7182a3a3-b292-4fdb-ab21-87bb9c4bcbd8",
+   "title": {
+    "en": "Shotoku Taishi"
+   },
+   "contentRating": "safe",
+   "score": 0.18555741
+  },
+  {
+   "id": "cefc1e41-f2b2-43c1-a851-0e30ba5f3a47",
+   "title": {
+    "en": "Medetaku Kou"
+   },
+   "contentRating": "safe",
+   "score": 0.18514875
   },
   {
    "id": "f7909519-3a62-40b7-b2cf-51ec3b64de7d",
@@ -97,71 +148,8 @@
     "en": "Lady Love"
    },
    "contentRating": "safe",
-   "score": 0.17929803
-  },
-  {
-   "id": "775acdb5-bfe2-4558-9bac-32de7117ee0d",
-   "title": {
-    "en": "Attack on Titan: No Regrets Complete Color Edition"
-   },
-   "contentRating": "safe",
-   "score": 0.17711243
-  },
-  {
-   "id": "643561e6-5c27-4382-95d3-8e84894a3fb6",
-   "title": {
-    "en": "Yamada-kun to Lv999 no Koi wo Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.17276968,
-   "languages": [
-    "id",
-    "fr",
-    "en",
-    "es-la",
-    "pt-br",
-    "uk",
-    "vi"
-   ]
-  },
-  {
-   "id": "458af4f4-527a-4ddf-9699-2a8106b7c943",
-   "title": {
-    "en": "Attention All Students!"
-   },
-   "contentRating": "safe",
-   "score": 0.17258139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5310fa94-bea5-48b8-b7bd-d3087e821e25",
-   "title": {
-    "en": "Étoile de La Seine"
-   },
-   "contentRating": "safe",
-   "score": 0.17216703
-  },
-  {
-   "id": "8a0df4df-fd0c-49b2-84c4-44275205c571",
-   "title": {
-    "en": "Hustle Yu-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.16841693
-  },
-  {
-   "id": "e6d41077-a921-43d8-a353-1bfdfb331ba7",
-   "title": {
-    "en": "The Glacier of No Return"
-   },
-   "contentRating": "safe",
-   "score": 0.16788839,
-   "languages": [
-    "en"
-   ]
+   "score": 0.18212731
   }
  ],
- "updatedAt": "2023-12-10T01:06:07+00:00"
+ "updatedAt": "2023-12-10T18:25:25+00:00"
 }

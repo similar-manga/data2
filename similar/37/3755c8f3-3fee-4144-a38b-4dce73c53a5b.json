@@ -6,15 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8b07ea7a-0aa6-4fa3-bd05-4d78c67b0c99",
+   "id": "e1e9e826-96b3-4e1c-baf2-7f33a69f598b",
    "title": {
-    "en": "Blood in the Field"
+    "en": "The Chef"
    },
    "contentRating": "safe",
-   "score": 0.36185908,
+   "score": 0.37840903,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5a00f8ae-b2e9-490f-b5f8-b94552845d8d",
+   "title": {
+    "en": "Shaman"
+   },
+   "contentRating": "safe",
+   "score": 0.3774961
+  },
+  {
+   "id": "28f620a5-986d-4e2c-ad1e-5010afc27450",
+   "title": {
+    "en": "The Chef - Shinsho"
+   },
+   "contentRating": "safe",
+   "score": 0.36584404
   },
   {
    "id": "e281daf5-5fe4-4388-8378-42414f71f37d",
@@ -22,7 +38,29 @@
     "en": "Mekuri Mekuru"
    },
    "contentRating": "safe",
-   "score": 0.36132196
+   "score": 0.36442575
+  },
+  {
+   "id": "8b07ea7a-0aa6-4fa3-bd05-4d78c67b0c99",
+   "title": {
+    "en": "Blood in the Field"
+   },
+   "contentRating": "safe",
+   "score": 0.35982388,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "title": {
+    "en": "Kyoukai no End Feel"
+   },
+   "contentRating": "safe",
+   "score": 0.35498664,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "d42f00b9-207f-425a-9892-b9169568d2a3",
@@ -30,7 +68,7 @@
     "en": "Primo Piatto"
    },
    "contentRating": "safe",
-   "score": 0.35921988,
+   "score": 0.35434386,
    "languages": [
     "tr",
     "vi",
@@ -38,12 +76,50 @@
    ]
   },
   {
+   "id": "a77539cb-ead9-44a4-aef5-a4c07301c8d4",
+   "title": {
+    "en": "High School Jingi"
+   },
+   "contentRating": "safe",
+   "score": 0.35174116
+  },
+  {
+   "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
+   "title": {
+    "en": "Artiste"
+   },
+   "contentRating": "safe",
+   "score": 0.3499414,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53f2e71c-286c-437e-bb68-b84787da74e0",
+   "title": {
+    "en": "Ikoku Memoires"
+   },
+   "contentRating": "safe",
+   "score": 0.34438992,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "b6d91f58-a38f-4107-b9ec-ed2cfd61db41",
+   "title": {
+    "en": "Meshitaki Onna ni Yakuza no Ai wa Omosugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.34387255
+  },
+  {
    "id": "f5bb8210-1000-4d9a-a59d-a6fde0061baf",
    "title": {
     "en": "Shiawase Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.3478036,
+   "score": 0.3422819,
    "languages": [
     "en"
    ]
@@ -54,19 +130,23 @@
     "en": "He drove a sky blue car"
    },
    "contentRating": "safe",
-   "score": 0.34208065
+   "score": 0.34053212
   },
   {
-   "id": "25707e09-1afb-48da-a04e-36b4daa7cce6",
+   "id": "65417a30-164f-4cd2-8a56-fa4e0e3c1272",
    "title": {
-    "en": "Nobunaga no Chef"
+    "en": "Kokoro ga Danshi Shougakusei."
    },
    "contentRating": "safe",
-   "score": 0.33843312,
-   "languages": [
-    "en",
-    "ru"
-   ]
+   "score": 0.3378837
+  },
+  {
+   "id": "94f17572-7840-4dc8-98f7-6ac634650ab1",
+   "title": {
+    "en": "Rude Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.33698565
   },
   {
    "id": "eedef72e-a9a4-42d2-a1bb-d0127e1efd9d",
@@ -74,119 +154,8 @@
     "en": "The Third Wave"
    },
    "contentRating": "safe",
-   "score": 0.33827698
-  },
-  {
-   "id": "79950e7f-d2e1-4cea-abec-85a2d57d27a3",
-   "title": {
-    "en": "Ryuukei no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.33554494,
-   "languages": [
-    "fr",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "ee3eab23-d65e-43d3-b153-8e6e6d4906f1",
-   "title": {
-    "en": "Reversible"
-   },
-   "contentRating": "safe",
-   "score": 0.33377606
-  },
-  {
-   "id": "2ef7710f-5cd1-4d68-ac7b-f9802df830ff",
-   "title": {
-    "en": "Locker Room"
-   },
-   "contentRating": "safe",
-   "score": 0.33218172,
-   "languages": [
-    "id",
-    "es-la",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
-   "title": {
-    "en": "Laika in Space"
-   },
-   "contentRating": "safe",
-   "score": 0.33153245,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3cce206d-5c98-4552-b8ae-e06a55c568f5",
-   "title": {
-    "en": "The Metamorphosis"
-   },
-   "contentRating": "safe",
-   "score": 0.33132097
-  },
-  {
-   "id": "c23fdad5-d70d-494f-bd17-3613b91c7386",
-   "title": {
-    "en": "Straight no Chaser"
-   },
-   "contentRating": "safe",
-   "score": 0.33003566,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f0684186-5955-40a4-a85b-05520057d171",
-   "title": {
-    "en": "Kaijuu no Tail"
-   },
-   "contentRating": "safe",
-   "score": 0.32980394,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.32670477,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.32441086,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
+   "score": 0.3367149
   }
  ],
- "updatedAt": "2023-12-10T01:01:53+00:00"
+ "updatedAt": "2023-12-10T18:14:14+00:00"
 }

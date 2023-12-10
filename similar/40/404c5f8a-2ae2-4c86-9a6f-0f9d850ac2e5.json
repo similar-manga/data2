@@ -6,23 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
-   "title": {
-    "en": "Koigokoro Senpukuchuu"
-   },
-   "contentRating": "safe",
-   "score": 0.2634443,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
    "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
    "title": {
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.26331055,
+   "score": 0.275209,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
+   "title": {
+    "en": "Koigokoro Senpukuchuu"
+   },
+   "contentRating": "safe",
+   "score": 0.2622856,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "e8b28147-a921-495e-b9b7-4d1c517675aa",
+   "title": {
+    "en": "The Astrometry"
+   },
+   "contentRating": "safe",
+   "score": 0.26141158,
    "languages": [
     "pl",
     "en"
@@ -34,9 +46,33 @@
     "en": "Love \u0026 Noise!"
    },
    "contentRating": "safe",
-   "score": 0.2553128,
+   "score": 0.25497916,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "aef1cc5c-2506-4afa-96ca-b20dbf643466",
+   "title": {
+    "en": "Sokkuri Mate"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e58beabb-c2fd-4d2e-adac-a7ecb2c4d049",
+   "title": {
+    "en": "Ramune Bannouyaku"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -53,15 +89,14 @@
    ]
   },
   {
-   "id": "e58beabb-c2fd-4d2e-adac-a7ecb2c4d049",
+   "id": "5a2da084-5c0b-4e8c-8b9b-2fd2032c791e",
    "title": {
-    "en": "Ramune Bannouyaku"
+    "en": "Return"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "pl",
-    "en"
+    "pl"
    ]
   },
   {
@@ -70,7 +105,7 @@
     "en": "Gakkou no Ojikan"
    },
    "contentRating": "safe",
-   "score": 0.2453337,
+   "score": 0.24540934,
    "languages": [
     "pl",
     "en"
@@ -82,7 +117,7 @@
     "en": "Ookami Lover"
    },
    "contentRating": "safe",
-   "score": 0.24086736,
+   "score": 0.24057373,
    "languages": [
     "pl",
     "en"
@@ -94,7 +129,7 @@
     "en": "Yuki-doke no Netsu"
    },
    "contentRating": "safe",
-   "score": 0.24025324,
+   "score": 0.23874192,
    "languages": [
     "pt-br",
     "en",
@@ -107,7 +142,7 @@
     "en": "Motenai Riyuu ga Oosugiru!!!!!"
    },
    "contentRating": "safe",
-   "score": 0.23570448,
+   "score": 0.23502617,
    "languages": [
     "pl"
    ]
@@ -118,7 +153,7 @@
     "en": "Mikami-kun no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.2339143,
+   "score": 0.23315686,
    "languages": [
     "pl",
     "en"
@@ -130,7 +165,7 @@
     "en": "Megane Ouji"
    },
    "contentRating": "safe",
-   "score": 0.23332739,
+   "score": 0.2322616,
    "languages": [
     "pl"
    ]
@@ -141,7 +176,7 @@
     "en": "Mamotte! Lollipop"
    },
    "contentRating": "safe",
-   "score": 0.22957422,
+   "score": 0.22892848,
    "languages": [
     "pl"
    ]
@@ -152,47 +187,12 @@
     "en": "Ore to Atashi no Kareshi-sama"
    },
    "contentRating": "safe",
-   "score": 0.22486438,
+   "score": 0.22436969,
    "languages": [
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "7d080778-75c5-4b5b-a66e-b9e6a776daa7",
-   "title": {
-    "en": "Himitsu no Sono Ato"
-   },
-   "contentRating": "safe",
-   "score": 0.22448781,
-   "languages": [
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "b59e0553-38b7-4d3c-b2f5-1176af60939f",
-   "title": {
-    "en": "Koikokoro Koushinchuu"
-   },
-   "contentRating": "safe",
-   "score": 0.22365554,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "a6d12bc7-70fc-44d6-9909-d605f3c41c87",
-   "title": {
-    "en": "Ichihime Ninja"
-   },
-   "contentRating": "safe",
-   "score": 0.2224391,
-   "languages": [
-    "pl",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:13+00:00"
+ "updatedAt": "2023-12-10T18:15:15+00:00"
 }

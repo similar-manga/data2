@@ -6,12 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b3fc95b0-55c3-41c6-8cbe-466858371717",
+   "title": {
+    "en": "Wild Arms Advanced 3rd Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.2516457,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c124df0-828c-4f2c-9374-fcfa187d689c",
+   "title": {
+    "en": "Bungou Stray Dogs Official Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.24791011,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2032a0d6-e9f8-4f48-955e-8e5e7f6668c7",
+   "title": {
+    "en": "Fate/Grand Order: Dengeki Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.2475971,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
    "title": {
     "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.2396364,
+   "score": 0.23917268,
    "languages": [
     "en",
     "ru",
@@ -21,12 +55,27 @@
    ]
   },
   {
+   "id": "904e6834-e9d6-45d2-a1ff-f37d29584c0c",
+   "title": {
+    "en": "Tengen Eiyuu Taisen"
+   },
+   "contentRating": "safe",
+   "score": 0.23905757,
+   "languages": [
+    "id",
+    "pt-br",
+    "es-la",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
    "title": {
     "en": "Dragon Ball Heroes - Victory Mission"
    },
    "contentRating": "safe",
-   "score": 0.23789085,
+   "score": 0.23652963,
    "languages": [
     "en",
     "es"
@@ -38,7 +87,7 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.2352246,
+   "score": 0.23286004,
    "languages": [
     "fr",
     "en",
@@ -52,19 +101,20 @@
     "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.23142867,
+   "score": 0.23100592,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d7776c9a-fd42-4d38-9f9f-e649829ed36e",
+   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
    "title": {
-    "en": "Clown"
+    "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.22922046,
+   "score": 0.22857143,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -81,15 +131,16 @@
    ]
   },
   {
-   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
+   "id": "c60708de-bb4a-4baf-8a80-7713e4551909",
    "title": {
-    "en": "Monsters"
+    "en": "Yu Ling Shi"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.2270457,
    "languages": [
-    "pt-br",
-    "en"
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -98,20 +149,33 @@
     "en": "Tenko"
    },
    "contentRating": "safe",
-   "score": 0.22559762,
+   "score": 0.22451733,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "2f410254-75ea-42f4-826e-60921d498c3a",
+   "id": "d7776c9a-fd42-4d38-9f9f-e649829ed36e",
    "title": {
-    "en": "Dangan Tenshi Fan Club"
+    "en": "Clown"
    },
    "contentRating": "safe",
-   "score": 0.22350758,
+   "score": 0.22274657,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a6a6fe8c-340b-428c-9220-8cd307b47475",
+   "title": {
+    "en": "Ore no Saenai Osananajimi ga S-Rank Yuusha ni Natteita Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.2222378,
+   "languages": [
+    "pt-br",
+    "es-la",
     "en"
    ]
   },
@@ -121,86 +185,22 @@
     "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.22327472,
+   "score": 0.22139762,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
+   "id": "f31cae03-d1ee-4f38-bd9e-45f910775ca4",
    "title": {
-    "en": "Continue"
-   },
-   "contentRating": "safe",
-   "score": 0.22183383,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl",
-    "bg"
-   ]
-  },
-  {
-   "id": "cabe9efe-af2e-45a6-acfb-a129950a2d7c",
-   "title": {
-    "en": "Shinba Shounen to Nemuru Kyojin"
+    "en": "Drug It!"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c057a355-5610-4b1c-a792-51461fa34867",
-   "title": {
-    "en": "Wreckage X"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "es",
-    "it",
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "dae4fe08-40b7-4f00-9f38-796cc688e82f",
-   "title": {
-    "en": "Dandelion"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b479acb-2a0a-4a6b-b8a7-1fdbc15bbc89",
-   "title": {
-    "en": "Nemuri Netarou Awararu!!"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
-   "title": {
-    "en": "Monster Cage"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pl",
-    "bg"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:19+00:00"
+ "updatedAt": "2023-12-10T18:28:51+00:00"
 }

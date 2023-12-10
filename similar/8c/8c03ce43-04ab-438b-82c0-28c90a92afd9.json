@@ -6,12 +6,82 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1b5d349c-443b-40ee-ae0e-6b73b808f5d6",
+   "title": {
+    "en": "Dam of the Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.2734209,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "09f9ce2b-736a-4ade-910f-6a2b2e87b4fb",
+   "title": {
+    "en": "From Morning to Night"
+   },
+   "contentRating": "safe",
+   "score": 0.26499063,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "404ad205-4e07-438f-9a43-c74574a44b3c",
+   "title": {
+    "en": "Reverse Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.26121157,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0ab7ae56-2800-4426-819d-0cda91aad12a",
    "title": {
     "en": "The Blood Knight’s Villains"
    },
    "contentRating": "safe",
-   "score": 0.24680357,
+   "score": 0.24717514,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0c8152e9-3dab-4605-846e-152b6a4dd9ed",
+   "title": {
+    "en": "SSS-Class Painter Summoner"
+   },
+   "contentRating": "safe",
+   "score": 0.24549668,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "9e7b453b-5e77-4fd8-8947-f6ce6bec23ce",
+   "title": {
+    "en": "Above the Heavens"
+   },
+   "contentRating": "safe",
+   "score": 0.24224941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "19396a46-135f-450c-96a1-aef8a2c0182d",
+   "title": {
+    "en": "My Nights Shine Brighter Than Your Days"
+   },
+   "contentRating": "safe",
+   "score": 0.24173814,
    "languages": [
     "en"
    ]
@@ -22,9 +92,36 @@
     "en": "Tower of God"
    },
    "contentRating": "safe",
-   "score": 0.24186264,
+   "score": 0.2415885,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a9630bbe-6b68-437f-8624-bdb89fd61aa7",
+   "title": {
+    "en": "Helmut: The Forsaken Child"
+   },
+   "contentRating": "safe",
+   "score": 0.24011198,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "8953c4fe-54fe-41df-93cf-c8ddb9307684",
+   "title": {
+    "en": "Psycho Revenge"
+   },
+   "contentRating": "safe",
+   "score": 0.23775959,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr"
    ]
   },
   {
@@ -33,162 +130,71 @@
     "en": "Dark Blood Age"
    },
    "contentRating": "safe",
-   "score": 0.23530383,
+   "score": 0.23582795,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
+   "id": "328c7464-9fd4-4b30-83ce-6d4e35acbe21",
    "title": {
-    "en": "Ex vs. Stalker"
+    "en": "Psycho Face"
    },
    "contentRating": "safe",
-   "score": 0.22983797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "792b02f2-0dcc-4f65-85aa-28403ba846e1",
-   "title": {
-    "en": "Disaster Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.22972293,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d6bc49c3-b3d5-4723-a9a5-11337513606c",
-   "title": {
-    "en": "Doomsday Summoning Frenzy"
-   },
-   "contentRating": "safe",
-   "score": 0.22956446,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1d8ce85-ac83-4604-afea-390757564115",
-   "title": {
-    "en": "Logging in as a Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.22792116,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "87ee91f5-144d-4112-9e80-940f4b473c21",
-   "title": {
-    "en": "It's Mine"
-   },
-   "contentRating": "safe",
-   "score": 0.22792116,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "52a572bc-41cc-4922-a650-0de582376f87",
-   "title": {
-    "en": "No Rose Without Thorns"
-   },
-   "contentRating": "safe",
-   "score": 0.22410887,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1116821f-0141-45ef-b91d-a8131343dd87",
-   "title": {
-    "en": "The Mask of Truth"
-   },
-   "contentRating": "safe",
-   "score": 0.22381413,
+   "score": 0.23480582,
    "languages": [
     "pt-br",
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "ff2f35ff-2641-4a1b-8477-df933efd4eba",
+   "id": "cef75183-cfdd-43ef-a890-89e41afa8368",
    "title": {
-    "en": "Movies Are Real"
+    "en": "I Must Be the Empress"
    },
    "contentRating": "safe",
-   "score": 0.22381413,
+   "score": 0.23427907,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "825eb50f-7331-4455-bb0e-c0d58fa9976a",
+   "id": "c4f2ac7b-b49c-42fa-a3b4-a5888d852e63",
    "title": {
-    "en": "Absolute Sword Sense"
+    "en": "I Am the Older Sister of the Possessed Female Lead"
    },
    "contentRating": "safe",
-   "score": 0.22306441,
+   "score": 0.2339869,
    "languages": [
     "en",
-    "pt-br",
-    "fr",
+    "pl",
     "id"
    ]
   },
   {
-   "id": "0fa8d765-e2ca-4286-9523-b16ffcbb1724",
+   "id": "07c2a5fa-7dcb-47bc-87ce-6285a0688f68",
    "title": {
-    "en": "UnderCity"
+    "en": "I Don't Trust My Twin Sister"
    },
    "contentRating": "safe",
-   "score": 0.22240296,
+   "score": 0.23323739,
    "languages": [
+    "pl",
     "en"
    ]
   },
   {
-   "id": "f87ef97f-2c89-4525-9f25-d53f848ad85b",
+   "id": "c427b45a-86f2-4d3c-b576-f8be38154d16",
    "title": {
-    "en": "Stop The World"
+    "en": "Shackles - Story of Brother and Sister"
    },
    "contentRating": "safe",
-   "score": 0.2218366,
+   "score": 0.23318619,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "01fe322e-dc36-4c91-a63e-31933684dd15",
-   "title": {
-    "en": "The Descent into the Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.22134145,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f79104d6-a3b5-46a4-914e-85a988949298",
-   "title": {
-    "en": "Sister War"
-   },
-   "contentRating": "safe",
-   "score": 0.2198538,
-   "languages": [
+    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:27+00:00"
+ "updatedAt": "2023-12-10T18:23:45+00:00"
 }

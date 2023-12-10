@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
+   "title": {
+    "en": "The Dress"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "pl",
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
    "title": {
     "en": "Red House"
@@ -22,27 +35,51 @@
    ]
   },
   {
-   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
-   "title": {
-    "en": "The Dress"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "pl",
-    "it",
-    "en"
-   ]
-  },
-  {
    "id": "c180dadf-469a-489d-8316-b7394f0a2f8b",
    "title": {
     "en": "Kuma-san to Issho"
    },
    "contentRating": "safe",
-   "score": 0.22569789,
+   "score": 0.22681329,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
+   "title": {
+    "en": "Zekkyou Gakkyuu Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.21263097,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "10d0b77d-bf00-4669-b052-29d2a320f712",
+   "title": {
+    "en": "Shinohara Chie Kessakushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
+   "title": {
+    "en": "Satsuriku no Tenshi: Episode.0"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "es",
+    "pl"
    ]
   },
   {
@@ -51,18 +88,7 @@
     "en": "Yousei Hakase to Hana no Tsuru"
    },
    "contentRating": "safe",
-   "score": 0.18675542,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
-   "title": {
-    "en": "Replay"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
+   "score": 0.18796283,
    "languages": [
     "en"
    ]
@@ -80,19 +106,6 @@
    ]
   },
   {
-   "id": "ef7f8823-56f1-4482-816b-ab476537647c",
-   "title": {
-    "en": "Anata wa Watashi no Taisetsuna Okaa-san"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "ru",
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
    "title": {
     "en": "Mimi ga Kieta Hi"
@@ -106,38 +119,50 @@
    ]
   },
   {
+   "id": "709b3b8c-f4ea-4bc1-9cc8-f4349e625d6e",
+   "title": {
+    "en": "Kuchisake Nee-san"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
+   "title": {
+    "en": "Replay"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ef7f8823-56f1-4482-816b-ab476537647c",
+   "title": {
+    "en": "Anata wa Watashi no Taisetsuna Okaa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
+   "languages": [
+    "ru",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "1dbbb0c2-2fa7-4140-828e-2f8ffcd3326d",
    "title": {
     "en": "The Psychic Business Corporation"
    },
    "contentRating": "safe",
-   "score": 0.16129033,
+   "score": 0.16054569,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
-   "title": {
-    "en": "Kaeremasen."
-   },
-   "contentRating": "safe",
-   "score": 0.159237,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8a38a197-949e-4f83-90cd-5ee6b9ed36d3",
-   "title": {
-    "en": "I Reincarnated as the Little Sister of a Death Game Manga's Murder Mastermind and Failed"
-   },
-   "contentRating": "safe",
-   "score": 0.15914476,
-   "languages": [
-    "en",
-    "es-la",
-    "vi"
    ]
   },
   {
@@ -154,51 +179,29 @@
    ]
   },
   {
-   "id": "2b3d5b2a-5f66-4888-a1cb-bd3cee98bb72",
+   "id": "8a38a197-949e-4f83-90cd-5ee6b9ed36d3",
    "title": {
-    "en": "Ibitsu Renaikan"
+    "en": "I Reincarnated as the Little Sister of a Death Game Manga's Murder Mastermind and Failed"
    },
    "contentRating": "safe",
-   "score": 0.15345319,
+   "score": 0.15914476,
    "languages": [
-    "fr",
     "en",
-    "tr"
+    "es-la",
+    "vi"
    ]
   },
   {
-   "id": "6c26e9f6-5339-4d55-b10a-0c3278f12904",
+   "id": "27fb3c3d-88ec-4189-9557-b2b3041c10e2",
    "title": {
-    "en": "Chocolat no Mahou"
+    "en": "Code Name: Charmer"
    },
    "contentRating": "safe",
-   "score": 0.14733942,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c9d9138-1e6d-4e6d-b079-29f629ce73f0",
-   "title": {
-    "en": "Ningyou Saisei Koujou"
-   },
-   "contentRating": "safe",
-   "score": 0.14733942,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e833c108-6342-4efa-bb82-738d075f277c",
-   "title": {
-    "en": "Oni ga Warau"
-   },
-   "contentRating": "safe",
-   "score": 0.14322299,
+   "score": 0.15914476,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:39+00:00"
+ "updatedAt": "2023-12-10T18:24:15+00:00"
 }

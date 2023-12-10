@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ba017bf1-1c81-4bfd-b1e1-0b81f8741109",
+   "title": {
+    "en": "Material Puzzle - Zero Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.3046772,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f34f2b36-4a30-4ac9-bee1-630b3a37d7d9",
    "title": {
     "en": "Fate/hollow ataraxia"
    },
    "contentRating": "safe",
-   "score": 0.29823613,
+   "score": 0.2979551,
    "languages": [
     "en",
     "fr",
@@ -24,7 +35,41 @@
     "en": "Assobot Goku"
    },
    "contentRating": "safe",
-   "score": 0.29732692,
+   "score": 0.29711488,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5c1da05c-5632-4eca-89ae-d9cf0b2d5fae",
+   "title": {
+    "en": "Zao Saga"
+   },
+   "contentRating": "safe",
+   "score": 0.2933137,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "28a7017e-cfd8-4d58-a717-4e6b16a91f97",
+   "title": {
+    "en": "EQUITES"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "16547f0a-4408-42d6-80a7-fd688f7cd45e",
+   "title": {
+    "en": "Deltora Quest"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -41,15 +86,40 @@
    ]
   },
   {
+   "id": "a86c862f-3b06-48ed-a009-f73afdcce284",
+   "title": {
+    "en": "Da Yuan Shen"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
    "title": {
     "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.2555205,
+   "score": 0.25417548,
    "languages": [
     "es",
     "en"
+   ]
+  },
+  {
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
+   "title": {
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.24905153,
+   "languages": [
+    "id",
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -58,9 +128,20 @@
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.24693765,
+   "score": 0.2465273,
    "languages": [
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "bb1792a0-5887-4dcf-abc4-a733934f6eb1",
+   "title": {
+    "en": "Fire Emblem - Thracia 776"
+   },
+   "contentRating": "safe",
+   "score": 0.24484932,
+   "languages": [
     "en"
    ]
   },
@@ -70,130 +151,48 @@
     "en": "GOD EATER - the spiral fate"
    },
    "contentRating": "safe",
-   "score": 0.24564056,
+   "score": 0.24478762,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "8e2f613f-56c0-4315-bef9-0eb88dc158ba",
+   "id": "04274aef-2b83-4425-89f9-a1028fe58138",
    "title": {
-    "en": "Area of Z"
+    "en": "Goldfisch"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24449448,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
    "title": {
-    "en": "Juuhime - Sincerely Night"
+    "en": "Junk the Black Shadow"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24432595,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
-   "title": {
-    "en": "Joreishi Rentaro no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "it",
-    "pt-br",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
-   "title": {
-    "en": "Sol Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "534ba0eb-8d04-4047-8aef-c965ec2ce5c9",
-   "title": {
-    "en": "Colossus Order"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "4e13a83b-274d-49e2-9b59-6c87e05b13aa",
-   "title": {
-    "en": "Tales of Vesperia ~Flynn Seinaru Hakugin no Kishi~"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
-   "title": {
-    "en": "Hero Killer"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr",
     "en",
-    "pl",
-    "tr"
+    "id",
+    "pt-br",
+    "it"
    ]
   },
   {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
+   "id": "0f1be926-bb01-4f44-8ec4-abdd76f45c85",
    "title": {
-    "en": "Star Ocean - Blue Sphere"
+    "en": "Welcome to the \"Outcasts' Guild\""
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
-   "title": {
-    "en": "Tales of Destiny 2"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
-   "title": {
-    "en": "SKY CLAW"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:09+00:00"
+ "updatedAt": "2023-12-10T18:09:27+00:00"
 }

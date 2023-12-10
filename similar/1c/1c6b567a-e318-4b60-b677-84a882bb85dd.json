@@ -30,27 +30,12 @@
    ]
   },
   {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
-   "title": {
-    "en": "Window"
-   },
-   "contentRating": "safe",
-   "score": 0.28343093,
-   "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
-   ]
-  },
-  {
    "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
    "title": {
     "en": "Fushigi na Shounen"
    },
    "contentRating": "safe",
-   "score": 0.27575943,
+   "score": 0.27377155,
    "languages": [
     "en",
     "pl"
@@ -62,20 +47,24 @@
     "en": "Poison"
    },
    "contentRating": "safe",
-   "score": 0.26373363,
+   "score": 0.26343217,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
+   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
    "title": {
-    "en": "Waltzing at Sanzu River"
+    "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.25486973,
+   "score": 0.2519032,
    "languages": [
-    "en"
+    "it",
+    "en",
+    "pl",
+    "bg",
+    "fr"
    ]
   },
   {
@@ -95,6 +84,17 @@
    ]
   },
   {
+   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
+   "title": {
+    "en": "Waltzing at Sanzu River"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
    "title": {
     "en": "Peephole"
@@ -103,20 +103,6 @@
    "score": 0.24743582,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "dc0f2dc3-ac5a-4f2b-a1e6-7c7367412a65",
-   "title": {
-    "en": "A Life"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "it",
-    "ru",
     "en"
    ]
   },
@@ -145,6 +131,20 @@
    ]
   },
   {
+   "id": "dc0f2dc3-ac5a-4f2b-a1e6-7c7367412a65",
+   "title": {
+    "en": "A Life"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "it",
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "18bb84ad-9e31-4bad-8008-a05fc9238450",
    "title": {
     "en": "Little Red's Fluffy Bed"
@@ -157,19 +157,14 @@
    ]
   },
   {
-   "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
+   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
    "title": {
-    "en": "Snow Blind"
+    "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.22132714,
+   "score": 0.22131334,
    "languages": [
-    "fr",
-    "es-la",
-    "it",
     "en",
-    "uk",
-    "vi",
     "pl"
    ]
   },
@@ -190,31 +185,36 @@
    ]
   },
   {
-   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
+   "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
    "title": {
-    "en": "Semi-Eternal Happy End"
+    "en": "Snow Blind"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22043045,
    "languages": [
+    "fr",
+    "es-la",
+    "it",
     "en",
+    "uk",
+    "vi",
     "pl"
    ]
   },
   {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
+   "id": "61d97b29-2681-4ab4-84cd-e2513dbde814",
    "title": {
-    "en": "Fukugaeru"
+    "en": "Ryu to Hidari Te"
    },
    "contentRating": "safe",
-   "score": 0.21012317,
+   "score": 0.2197291,
    "languages": [
-    "bg",
+    "fr",
     "en",
-    "pl",
-    "de"
+    "it",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:51+00:00"
+ "updatedAt": "2023-12-10T18:11:22+00:00"
 }

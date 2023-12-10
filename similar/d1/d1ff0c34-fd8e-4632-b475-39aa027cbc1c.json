@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.22664867,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
    "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
    "title": {
     "en": "Gensou Suikoden V - Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.21305837,
+   "score": 0.21555707,
    "languages": [
     "en"
    ]
@@ -22,9 +35,34 @@
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.21120127,
+   "score": 0.20930637,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f04cab9b-b75b-46d7-8fe7-52f10d6d63e1",
+   "title": {
+    "en": "Usotsuki Nacchan"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b1b5cc9-1889-4ebc-b613-f7e2142ff2fe",
+   "title": {
+    "en": "Bocchi The Rock! Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.17044647,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -33,7 +71,18 @@
     "en": "Kimi to Picopico (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.16986153,
+   "score": 0.1694713,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "882e338e-0105-4305-a380-655bc303036b",
+   "title": {
+    "en": "Fate/Grand Order Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.16233346,
    "languages": [
     "en"
    ]
@@ -44,9 +93,20 @@
     "en": "The World of Otome Games Kindergarten is Tough for Mobs"
    },
    "contentRating": "safe",
-   "score": 0.16332917,
+   "score": 0.16136378,
    "languages": [
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
+   "title": {
+    "en": "Minecraft: Journey to the World's End"
+   },
+   "contentRating": "safe",
+   "score": 0.15909989,
+   "languages": [
     "en"
    ]
   },
@@ -56,7 +116,7 @@
     "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.15990554,
+   "score": 0.15872854,
    "languages": [
     "en"
    ]
@@ -74,137 +134,69 @@
    ]
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "ac2c3e48-b7ef-4a58-9a14-42d7f9adfe18",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Gotou-san wa Furimukasetai! (Pre-serialization)"
    },
    "contentRating": "safe",
-   "score": 0.15253691,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
-   "title": {
-    "en": "Aisupe @"
-   },
-   "contentRating": "safe",
-   "score": 0.14989565,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
-   "title": {
-    "en": "Ultra Marriage Galaxy"
-   },
-   "contentRating": "safe",
-   "score": 0.14733942,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9fe74929-fc7c-442a-bef2-93059db87cc2",
-   "title": {
-    "en": "Infinite Dendrogram"
-   },
-   "contentRating": "safe",
-   "score": 0.14284289,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9964ea10-6a8c-49d5-9a2b-12d72747e721",
-   "title": {
-    "en": "A Story About Spending a Little More Time With an Eccentric Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.1423079,
+   "score": 0.15345319,
    "languages": [
     "fr",
-    "id",
-    "en",
-    "vi",
-    "ms",
-    "pt-br",
-    "ru",
-    "th",
-    "ro"
+    "en"
    ]
   },
   {
-   "id": "f9e6a8ea-9585-40c8-8c86-622836e9759b",
+   "id": "a56f518a-a1a6-4aaf-a8a8-dae96d636451",
    "title": {
-    "en": "Ichigeki Sacchu!! Hoihoi-san"
+    "en": "Heiquan"
    },
    "contentRating": "safe",
-   "score": 0.14217193,
+   "score": 0.15345319,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
+   "id": "8d186d3b-1076-40a7-b61b-86a3a00d43b5",
    "title": {
-    "en": "Nichijou"
+    "en": "Boku to Shishou no Himitsu Koubou"
    },
    "contentRating": "safe",
-   "score": 0.13655166,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "de",
-    "id",
-    "ru",
-    "it"
-   ]
-  },
-  {
-   "id": "17727b0f-c9f2-4ab5-a0b1-b7b0cf6c1fc8",
-   "title": {
-    "en": "The Nationally Famous Idol, Who Turned out to Be My Childhood Friend, Is Now My Neighbour"
-   },
-   "contentRating": "safe",
-   "score": 0.13423203,
+   "score": 0.15345319,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "69aa984a-f5c0-4505-a11f-fe50e5fd16c9",
+   "id": "9422a147-c0c8-400d-9106-57cb8ece3dba",
    "title": {
-    "en": "Toaru Anbu no ITEM"
+    "en": "Kimi wa Meido-sama"
    },
    "contentRating": "safe",
-   "score": 0.13289435,
+   "score": 0.15345319,
    "languages": [
-    "zh",
-    "ru",
     "vi",
+    "ru",
+    "id",
     "en",
-    "fr",
-    "es-la"
+    "pt-br",
+    "tr",
+    "fr"
    ]
   },
   {
-   "id": "f730a35b-61f9-475f-b48d-7225cad36dd3",
+   "id": "d4dfdb52-ecb4-4f1b-9978-980ac8b2cff3",
    "title": {
-    "en": "Tonari no Koitsu"
+    "en": "One Week Friends Afterwards"
    },
    "contentRating": "safe",
-   "score": 0.13289435,
+   "score": 0.15345319,
    "languages": [
     "en",
-    "vi"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:25+00:00"
+ "updatedAt": "2023-12-10T18:31:36+00:00"
 }

@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "212d086e-0fb4-4513-aeb3-e8f82bc7c576",
+   "title": {
+    "en": "Legendary Kang Do-Young"
+   },
+   "contentRating": "safe",
+   "score": 0.28957337
+  },
+  {
    "id": "becbacfb-708b-4f81-a6d3-ee43dd67d300",
    "title": {
     "en": "Tonari no Obake-san"
@@ -14,12 +22,23 @@
    "score": 0.2857143
   },
   {
+   "id": "6b13e4c6-13c9-49fc-8a6c-410b48631172",
+   "title": {
+    "en": "She's Kids!"
+   },
+   "contentRating": "safe",
+   "score": 0.28155622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "71cc967d-5755-41c9-89a9-4f3e14884b1b",
    "title": {
     "en": "Sweet Bitter Love"
    },
    "contentRating": "safe",
-   "score": 0.28064212,
+   "score": 0.27969536,
    "languages": [
     "en"
    ]
@@ -30,21 +49,18 @@
     "en": "Hissing"
    },
    "contentRating": "safe",
-   "score": 0.27973032,
+   "score": 0.27753952,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
+   "id": "ec9b07bd-a09d-44f2-b736-45a3f0411b73",
    "title": {
-    "en": "Lovely"
+    "en": "♂♀ Ikinokori Game"
    },
    "contentRating": "safe",
-   "score": 0.2749875,
-   "languages": [
-    "en"
-   ]
+   "score": 0.27571392
   },
   {
    "id": "b34f86ca-c64a-4cf2-8663-8792bee2a3f9",
@@ -52,7 +68,30 @@
     "en": "Cynical Orange"
    },
    "contentRating": "safe",
-   "score": 0.274426
+   "score": 0.27355048
+  },
+  {
+   "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
+   "title": {
+    "en": "Lovely"
+   },
+   "contentRating": "safe",
+   "score": 0.26783127,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "76f1313c-d847-4555-833a-7ca9f8e7aaa8",
+   "title": {
+    "en": "Snow White '94"
+   },
+   "contentRating": "safe",
+   "score": 0.26442003,
+   "languages": [
+    "pl",
+    "en"
+   ]
   },
   {
    "id": "e407d217-13e4-47a7-a4fe-ef5a9e1f570c",
@@ -60,7 +99,7 @@
     "en": "Sakura Zensen"
    },
    "contentRating": "safe",
-   "score": 0.26352456
+   "score": 0.2633541
   },
   {
    "id": "d3759bc8-864c-4b09-ae29-d1bfac5b5df6",
@@ -68,7 +107,7 @@
     "en": "Honey Moon"
    },
    "contentRating": "safe",
-   "score": 0.26047245
+   "score": 0.2600276
   },
   {
    "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
@@ -76,7 +115,7 @@
     "en": "Insomnia"
    },
    "contentRating": "safe",
-   "score": 0.2590478,
+   "score": 0.2577619,
    "languages": [
     "en"
    ]
@@ -87,10 +126,18 @@
     "en": "Kyou mo Ashita mo."
    },
    "contentRating": "safe",
-   "score": 0.25776288,
+   "score": 0.25739473,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ef38bfd7-edc2-406f-aa52-f9d825dc5677",
+   "title": {
+    "en": "I Accept You"
+   },
+   "contentRating": "safe",
+   "score": 0.25674146
   },
   {
    "id": "25800c1a-0a5c-41d5-8eaa-2dcb7ac6bddb",
@@ -98,73 +145,16 @@
     "en": "Chocolat (SHIN Ji-Sang)"
    },
    "contentRating": "safe",
-   "score": 0.25736046
+   "score": 0.2567201
   },
   {
-   "id": "e0c8f6b3-3d98-4a1a-b251-b4c465a0a678",
+   "id": "b58b3299-784d-4474-a5b8-07c74773be7e",
    "title": {
-    "en": "Want You"
+    "en": "Sekai no Chuushin de, Ai wo Sakebu"
    },
    "contentRating": "safe",
-   "score": 0.25603384,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd2fd269-4294-466c-8346-31fecf49e286",
-   "title": {
-    "en": "18 Years Old, We Got Married"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
-   "title": {
-    "en": "Butterfly in the Air"
-   },
-   "contentRating": "safe",
-   "score": 0.25500324,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1730bcd5-dfca-48f4-aba7-d06fe95b16c0",
-   "title": {
-    "en": "ItaKiss"
-   },
-   "contentRating": "safe",
-   "score": 0.24996315,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "707964c5-602c-4297-b0cd-81833b482ddc",
-   "title": {
-    "en": "I Like a Beautiful Guy"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "5bc8917e-2d26-479c-95fc-4a145bb9729a",
-   "title": {
-    "en": "Re Re Honey ~S.O.S Daisakusen~"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "pt-br"
-   ]
+   "score": 0.256482
   }
  ],
- "updatedAt": "2023-12-10T01:09:51+00:00"
+ "updatedAt": "2023-12-10T18:35:08+00:00"
 }

@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "35731f33-27fa-4794-b6ee-3b60da8b994d",
+   "title": {
+    "en": "Jujutsu Kaisen (Official Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.39403588,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
    "title": {
     "en": "Onikirimaru"
@@ -40,7 +51,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.22907607,
+   "score": 0.2283216,
    "languages": [
     "en",
     "pt-br",
@@ -76,7 +87,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.22194453,
+   "score": 0.2200146,
    "languages": [
     "pl",
     "en",
@@ -104,6 +115,26 @@
    ]
   },
   {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21161489,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
    "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
    "title": {
     "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
@@ -120,7 +151,7 @@
     "en": "Nikai Bongai Barabarujura"
    },
    "contentRating": "safe",
-   "score": 0.21088013,
+   "score": 0.20757914,
    "languages": [
     "ru",
     "vi",
@@ -135,7 +166,7 @@
     "en": "Ao no Exorcist"
    },
    "contentRating": "safe",
-   "score": 0.20232955,
+   "score": 0.20146969,
    "languages": [
     "pt-br",
     "es-la",
@@ -153,7 +184,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.20004302,
+   "score": 0.19939317,
    "languages": [
     "it",
     "id",
@@ -164,23 +195,19 @@
    ]
   },
   {
-   "id": "c9926df8-a200-40ba-8c05-0f5b375180c9",
+   "id": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
    "title": {
-    "en": "Sayonara Eri"
+    "en": "Wistoria: Wand and Sword"
    },
    "contentRating": "safe",
-   "score": 0.19802211,
+   "score": 0.19219299,
    "languages": [
-    "uk",
-    "pl",
+    "id",
+    "en",
     "ru",
     "pt-br",
     "fr",
-    "hi",
-    "el",
-    "ar",
-    "id",
-    "bg"
+    "es-la"
    ]
   },
   {
@@ -189,7 +216,7 @@
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.19207346,
+   "score": 0.19143993,
    "languages": [
     "pt-br",
     "it",
@@ -208,15 +235,23 @@
    ]
   },
   {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
+   "id": "c9926df8-a200-40ba-8c05-0f5b375180c9",
    "title": {
-    "en": "Tokyo Doragon Naito"
+    "en": "Sayonara Eri"
    },
    "contentRating": "safe",
-   "score": 0.19037652,
+   "score": 0.19097763,
    "languages": [
-    "es-la",
-    "en"
+    "uk",
+    "pl",
+    "ru",
+    "pt-br",
+    "fr",
+    "hi",
+    "el",
+    "ar",
+    "id",
+    "bg"
    ]
   },
   {
@@ -229,45 +264,7 @@
    "languages": [
     "pt-br"
    ]
-  },
-  {
-   "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
-   "title": {
-    "en": "Dragon Ball Super"
-   },
-   "contentRating": "safe",
-   "score": 0.18807226,
-   "languages": [
-    "pt-br",
-    "es",
-    "en",
-    "it",
-    "de",
-    "ar",
-    "ms",
-    "pt",
-    "es-la"
-   ]
-  },
-  {
-   "id": "a4b39b6e-a448-4644-a540-64ceff1d8305",
-   "title": {
-    "en": "Toilet-bound Hanako-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.18756121,
-   "languages": [
-    "vi",
-    "ru",
-    "fr",
-    "pt-br",
-    "id",
-    "th",
-    "es-la",
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:25+00:00"
+ "updatedAt": "2023-12-10T18:23:41+00:00"
 }

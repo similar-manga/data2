@@ -11,7 +11,7 @@
     "en": "Sakanaya Champion"
    },
    "contentRating": "safe",
-   "score": 0.35378322
+   "score": 0.36576456
   },
   {
    "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
@@ -19,7 +19,15 @@
     "en": "Star of the Giants"
    },
    "contentRating": "safe",
-   "score": 0.25234535
+   "score": 0.25677568
+  },
+  {
+   "id": "1f1f43b4-9a72-4d5e-817e-44883a375fb9",
+   "title": {
+    "en": "Dai Koshien - Dokaben Part 2"
+   },
+   "contentRating": "safe",
+   "score": 0.25588605
   },
   {
    "id": "015a8a99-4368-4859-8437-bf903d3aa9a1",
@@ -27,7 +35,7 @@
     "en": "Footballman Taka"
    },
    "contentRating": "safe",
-   "score": 0.25055867
+   "score": 0.25380668
   },
   {
    "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
@@ -35,7 +43,7 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.23548427,
+   "score": 0.23941763,
    "languages": [
     "en",
     "pt-br"
@@ -47,7 +55,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.22065312,
+   "score": 0.22592016,
    "languages": [
     "ru",
     "vi",
@@ -64,12 +72,15 @@
    ]
   },
   {
-   "id": "4f9a83e2-d037-4cea-9327-ae4fe676d71e",
+   "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
    "title": {
-    "en": "Otoko do Ahou Koushien"
+    "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.21450205
+   "score": 0.21781002,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "3ba413e9-52bc-4ca9-b5f0-f55335e2f880",
@@ -84,14 +95,30 @@
    ]
   },
   {
-   "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
+   "id": "4f9a83e2-d037-4cea-9327-ae4fe676d71e",
    "title": {
-    "en": "Fisherboy Sanpei"
+    "en": "Otoko do Ahou Koushien"
    },
    "contentRating": "safe",
-   "score": 0.2141849,
+   "score": 0.21450205
+  },
+  {
+   "id": "4828f817-801d-42ec-999b-36f3f120643f",
+   "title": {
+    "en": "The Promised Pitch"
+   },
+   "contentRating": "safe",
+   "score": 0.21439041
+  },
+  {
+   "id": "4e701a20-50f8-4e8f-bfae-b46bec01d520",
+   "title": {
+    "en": "Fantasista Stella"
+   },
+   "contentRating": "safe",
+   "score": 0.21439041,
    "languages": [
-    "en"
+    "id"
    ]
   },
   {
@@ -100,7 +127,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.20812093,
+   "score": 0.21075326,
    "languages": [
     "en",
     "pt-br",
@@ -112,20 +139,12 @@
    ]
   },
   {
-   "id": "56e48399-1ae7-4a6f-a064-1f5c26c6f96b",
-   "title": {
-    "en": "ECHOES"
-   },
-   "contentRating": "safe",
-   "score": 0.2054575
-  },
-  {
    "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
    "title": {
     "en": "Yotsuba\u0026!"
    },
    "contentRating": "safe",
-   "score": 0.20215571,
+   "score": 0.20584072,
    "languages": [
     "pt-br",
     "ru",
@@ -139,65 +158,29 @@
    ]
   },
   {
-   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
+   "id": "56e48399-1ae7-4a6f-a064-1f5c26c6f96b",
    "title": {
-    "en": "Play Ball"
+    "en": "ECHOES"
    },
    "contentRating": "safe",
-   "score": 0.20165429
+   "score": 0.2054575
   },
   {
-   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
+   "id": "86bd13d6-6786-4e0f-9488-e1cbe5d506ae",
    "title": {
-    "en": "Yowamushi Pedal"
+    "en": "Gate In!"
    },
    "contentRating": "safe",
-   "score": 0.1951217,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "ru",
-    "es-la"
-   ]
+   "score": 0.20230645
   },
   {
-   "id": "db8050ed-2e69-4616-85b5-f615b74d2c80",
+   "id": "7f57c3a7-b59a-4cf8-b45e-aff0d8643452",
    "title": {
-    "en": "Ucchare! Goshogawara"
+    "en": "Method"
    },
    "contentRating": "safe",
-   "score": 0.1929452
-  },
-  {
-   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
-   "title": {
-    "en": "To Your Eternity"
-   },
-   "contentRating": "safe",
-   "score": 0.19074096,
-   "languages": [
-    "ru",
-    "pt-br",
-    "es",
-    "en",
-    "es-la",
-    "tr",
-    "mn",
-    "uk"
-   ]
-  },
-  {
-   "id": "23cc261e-687e-4b24-9308-fccc93094b98",
-   "title": {
-    "en": "R the Ultimate Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.18614581,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20035712
   }
  ],
- "updatedAt": "2023-12-10T01:08:30+00:00"
+ "updatedAt": "2023-12-10T18:31:48+00:00"
 }

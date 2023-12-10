@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.25910538,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
    "title": {
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
    "score": 0.250588,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
+   "title": {
+    "en": "Pokémon Diamond and Pearl"
+   },
+   "contentRating": "safe",
+   "score": 0.24532282,
    "languages": [
     "en"
    ]
@@ -29,12 +51,23 @@
    ]
   },
   {
-   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
+   "id": "cdfa03bf-ae04-48b3-835c-997ee981ecb9",
    "title": {
-    "en": "Pokémon Diamond and Pearl"
+    "en": "The Strongest and Fastest Unlimited Level Up: With the Skills [1000x Exp] and [Level Free], I Broke the Upper Level Limit and Rose to the Top!"
    },
    "contentRating": "safe",
-   "score": 0.24503255,
+   "score": 0.23904572,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0cfe2eb8-8334-4531-90a0-e0887d505411",
+   "title": {
+    "en": "Hinekure Ryoushu no Koufukutan"
+   },
+   "contentRating": "safe",
+   "score": 0.23904572,
    "languages": [
     "en"
    ]
@@ -68,7 +101,7 @@
     "en": "Mega Man: The Deadly Struggle on Mu Arc"
    },
    "contentRating": "safe",
-   "score": 0.22746597,
+   "score": 0.2275345,
    "languages": [
     "en",
     "es"
@@ -91,7 +124,7 @@
     "en": "Noisy! Wario"
    },
    "contentRating": "safe",
-   "score": 0.22533157,
+   "score": 0.22548974,
    "languages": [
     "en"
    ]
@@ -102,7 +135,7 @@
     "en": "Soul Land II - The Peerless Tang Sect"
    },
    "contentRating": "safe",
-   "score": 0.22412051,
+   "score": 0.22526245,
    "languages": [
     "pt-br",
     "en",
@@ -111,91 +144,52 @@
    ]
   },
   {
+   "id": "aa8b06df-f622-4d84-851a-2dd6a06cbfe0",
+   "title": {
+    "en": "Granblue Fantasy Side Story: Memories of Arshivelle"
+   },
+   "contentRating": "safe",
+   "score": 0.2238588,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0855e750-6ada-4c22-bfc5-fa63b1118bda",
+   "title": {
+    "en": "Isekai ni Tobasareta Ossan wa Doko e Iku?"
+   },
+   "contentRating": "safe",
+   "score": 0.22360681,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "45599047-f246-49e9-be3a-48cc70ca675f",
    "title": {
     "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
    },
    "contentRating": "safe",
-   "score": 0.22137757,
+   "score": 0.22249214,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f4904da8-2250-461b-bb29-3ec177c40bb9",
+   "id": "0142cd5c-c0ea-49c6-a81c-2379587d114b",
    "title": {
-    "en": "Splatoon"
+    "en": "Koryuu Nara Sude de Taosemasu Kedo, Kore tte Joushiki Janain Desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.2200057,
+   "score": 0.22131334,
    "languages": [
     "en",
-    "it",
-    "es-la",
-    "pt-br",
-    "ru",
-    "fr",
-    "uk"
-   ]
-  },
-  {
-   "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
-   "title": {
-    "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.21793433,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
-   "title": {
-    "en": "Valkyrie Profile - The Dark Alchemist"
-   },
-   "contentRating": "safe",
-   "score": 0.21732539,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17364102-554c-4dba-804e-b47be457e600",
-   "title": {
-    "en": "Star Ocean - To the Far Side of Time"
-   },
-   "contentRating": "safe",
-   "score": 0.21725778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
-   "title": {
-    "en": "The Legend of Heroes VI: Trails of Cold Steel"
-   },
-   "contentRating": "safe",
-   "score": 0.20995626,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a21eab2d-781d-40b2-a666-7b2d72551927",
-   "title": {
-    "en": "Akuninzura shita B-kyuu Boukensha"
-   },
-   "contentRating": "safe",
-   "score": 0.20899841,
-   "languages": [
-    "it",
-    "pt-br",
-    "id",
-    "en"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:18+00:00"
+ "updatedAt": "2023-12-10T18:28:48+00:00"
 }

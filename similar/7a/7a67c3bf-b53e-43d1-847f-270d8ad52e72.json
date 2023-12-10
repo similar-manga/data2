@@ -6,12 +6,70 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "43c2069b-a072-4ae2-9dec-6bfa47382c2a",
+   "title": {
+    "en": "Love Letter"
+   },
+   "contentRating": "safe",
+   "score": 0.32029203,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "89853067-1056-4ae3-9775-4d2b9522107e",
+   "title": {
+    "en": "Cromartie High School: Staff Room"
+   },
+   "contentRating": "safe",
+   "score": 0.3197315,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5cc03ccb-df43-4bb7-9c0c-c0d9a1dccdff",
+   "title": {
+    "en": "Koukou no Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.31960827,
+   "languages": [
+    "es-la",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "7e19c079-3a9d-4f61-88e7-b9c72eb69705",
+   "title": {
+    "en": "Kimetsu Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.31451225,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "5f2448b3-5ead-4cd5-8289-fd2ac164fae1",
    "title": {
     "en": "Hana no Android Gakuen"
    },
    "contentRating": "safe",
-   "score": 0.30872336,
+   "score": 0.30752134,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5e3c435f-bd7f-4534-a0da-8f15d41ece9e",
+   "title": {
+    "en": "Ultimate Special High School"
+   },
+   "contentRating": "safe",
+   "score": 0.3028762,
    "languages": [
     "en"
    ]
@@ -22,7 +80,29 @@
     "en": "Misaki Number One!!"
    },
    "contentRating": "safe",
-   "score": 0.3034701,
+   "score": 0.3025328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0ed98d11-2fd9-4aae-b06f-6f8882cdc492",
+   "title": {
+    "en": "Shiba Inuko-san"
+   },
+   "contentRating": "safe",
+   "score": 0.29581723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "370aa750-474f-4832-a877-147fe71890bb",
+   "title": {
+    "en": "Kyoaku Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.2948338,
    "languages": [
     "en"
    ]
@@ -33,15 +113,15 @@
     "en": "Hapi Nabi!"
    },
    "contentRating": "safe",
-   "score": 0.29428014,
+   "score": 0.29379216,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fb4fc264-6b23-43be-ba58-723961e02646",
+   "id": "d1355d4f-5877-45ce-9478-95d312c30e05",
    "title": {
-    "en": "Magical Marine Pixel Maritan"
+    "en": "Cinema Complex"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -61,129 +141,50 @@
    ]
   },
   {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
+   "id": "fb4fc264-6b23-43be-ba58-723961e02646",
    "title": {
-    "en": "Like to Be Ordinary!"
+    "en": "Magical Marine Pixel Maritan"
    },
    "contentRating": "safe",
-   "score": 0.2783119,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
+   "id": "10241f98-6251-4134-9860-2a8677e53c72",
    "title": {
-    "en": "Strange Orange"
+    "en": "Noumen Joshi no Hanako-san"
    },
    "contentRating": "safe",
-   "score": 0.27370015,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "id": "cdc4fc09-d071-4826-af96-9c04d32c659b",
    "title": {
-    "en": "Hana ni Kedamono"
+    "en": "Delicious Seasons"
    },
    "contentRating": "safe",
-   "score": 0.2735675,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "66297109-c52d-41fa-82f1-506092dc00b9",
-   "title": {
-    "en": "17-sai Kara Yarinaosu Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.26727563,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "9b364fcd-224c-403d-8a3c-c999e8c3a849",
-   "title": {
-    "en": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu"
-   },
-   "contentRating": "safe",
-   "score": 0.2632048,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e9292fd2-26f0-4847-a88a-0d3e345d58e4",
+   "id": "19138796-45e0-46f6-9548-264eb61774f6",
    "title": {
-    "en": "Donmai Princess"
+    "en": "Aikatsu!"
    },
    "contentRating": "safe",
-   "score": 0.26198155,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "26887056-fef7-49cf-9e43-215435634731",
-   "title": {
-    "en": "Gakuen Rule Kaikaku"
-   },
-   "contentRating": "safe",
-   "score": 0.26188144,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9d9f196d-760e-47d5-ace0-49313798dac1",
-   "title": {
-    "en": "Oh! my Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.26172993,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
-   "title": {
-    "en": "Beshari-Gurashi"
-   },
-   "contentRating": "safe",
-   "score": 0.25859076,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97fd314f-a608-4152-9ab3-35d75ea72ad1",
-   "title": {
-    "en": "Hokkenshitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.2578329,
+   "score": 0.2857143,
    "languages": [
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "c5e55d8c-f8df-42e8-8bcc-8ad336a09904",
-   "title": {
-    "en": "Idol Clubs"
-   },
-   "contentRating": "safe",
-   "score": 0.2550791,
-   "languages": [
-    "en"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:39+00:00"
+ "updatedAt": "2023-12-10T18:21:41+00:00"
 }

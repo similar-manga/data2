@@ -6,16 +6,41 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0149daa5-89c9-4e05-bf4f-f2440e0d2db7",
+   "title": {
+    "en": "Kimi no Koe"
+   },
+   "contentRating": "safe",
+   "score": 0.35305202,
+   "languages": [
+    "en",
+    "it",
+    "id"
+   ]
+  },
+  {
    "id": "3375e927-2365-457a-81a8-dce99e90a583",
    "title": {
     "en": "Red Road"
    },
    "contentRating": "safe",
-   "score": 0.27184272,
+   "score": 0.2708775,
    "languages": [
     "pl",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "5cd03b52-4816-4697-9da3-5adf873a65c3",
+   "title": {
+    "en": "Hana to Shokutaku"
+   },
+   "contentRating": "safe",
+   "score": 0.265322,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -24,7 +49,7 @@
     "en": "Boukyaku no Cradle"
    },
    "contentRating": "safe",
-   "score": 0.2645705,
+   "score": 0.26464683,
    "languages": [
     "en"
    ]
@@ -35,10 +60,32 @@
     "en": "Phantom Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.26101813,
+   "score": 0.26134175,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "4d409efb-c7a0-4ba5-bdb8-ab658c5f2215",
+   "title": {
+    "en": "Princess Nazotoki is a Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.26130682,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "38221d4a-687d-49bc-a2f4-44ce42fab8d9",
+   "title": {
+    "en": "Vampire Knight Memories"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -47,7 +94,18 @@
     "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.25252318,
+   "score": 0.25165713,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2da17e6d-5ddf-4dcf-a31f-11e2da9df38c",
+   "title": {
+    "en": "What Do You Need?"
+   },
+   "contentRating": "safe",
+   "score": 0.25037846,
    "languages": [
     "en"
    ]
@@ -58,7 +116,29 @@
     "en": "Bokura no Hana no Saku Koro no"
    },
    "contentRating": "safe",
-   "score": 0.2502974,
+   "score": 0.2495184,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b713d3bf-27ae-4a96-a52a-ee80e22c667c",
+   "title": {
+    "en": "Shinigami ni Totsugu Hi"
+   },
+   "contentRating": "safe",
+   "score": 0.24401559,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9fe65996-bbab-41c4-8553-d677f409c342",
+   "title": {
+    "en": "Trouble G"
+   },
+   "contentRating": "safe",
+   "score": 0.24022529,
    "languages": [
     "en"
    ]
@@ -69,7 +149,7 @@
     "en": "Akai Ito"
    },
    "contentRating": "safe",
-   "score": 0.2320885,
+   "score": 0.23184583,
    "languages": [
     "pt-br",
     "en",
@@ -83,7 +163,7 @@
     "en": "Usurai ni Saku"
    },
    "contentRating": "safe",
-   "score": 0.23121928,
+   "score": 0.22948696,
    "languages": [
     "en"
    ]
@@ -94,101 +174,23 @@
     "en": "Ningyou Saisei Koujou"
    },
    "contentRating": "safe",
-   "score": 0.22901027,
+   "score": 0.22902523,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
+   "id": "75732fed-087c-4fa0-bae8-7eec7286ba08",
    "title": {
-    "en": "Kimi o Matsu -\u003e Akaiito"
+    "en": "Studio Cabana"
    },
    "contentRating": "safe",
-   "score": 0.22886708,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b71d0862-c9fb-461c-b173-14104667e8fb",
-   "title": {
-    "en": "Aru Hi Bijin ni Nattara"
-   },
-   "contentRating": "safe",
-   "score": 0.2270004,
+   "score": 0.22887915,
    "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "44ffd2b4-cffd-4e08-94b4-5e9b348f3650",
-   "title": {
-    "en": "Twinkle Loop☆Story"
-   },
-   "contentRating": "safe",
-   "score": 0.22445093,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
-   "title": {
-    "en": "Kamisama Game"
-   },
-   "contentRating": "safe",
-   "score": 0.22364993,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06749feb-aa8d-4eb0-a027-120137839eea",
-   "title": {
-    "en": "Ao to Umibe no Nostalgia"
-   },
-   "contentRating": "safe",
-   "score": 0.22296752,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "50de54db-2c69-4953-96f9-30b038001ac3",
-   "title": {
-    "en": "Ai no Kotoba"
-   },
-   "contentRating": "safe",
-   "score": 0.21693288,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
-   "title": {
-    "en": "Sayonara Limit"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1cac584-a556-4a3e-94ec-3778675e23ff",
-   "title": {
-    "en": "Chang'an Fantastic Night"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:31+00:00"
+ "updatedAt": "2023-12-10T18:31:51+00:00"
 }

@@ -11,9 +11,27 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.32061592,
+   "score": 0.3243165,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
+   "title": {
+    "en": "Thus Spoke Rohan Kishibe"
+   },
+   "contentRating": "safe",
+   "score": 0.2589827,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "it",
+    "pt-br",
+    "id",
+    "ru",
+    "zh"
    ]
   },
   {
@@ -22,7 +40,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.237472,
+   "score": 0.2371843,
    "languages": [
     "en",
     "pt-br",
@@ -54,30 +72,12 @@
    ]
   },
   {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
-   "title": {
-    "en": "Thus Spoke Rohan Kishibe"
-   },
-   "contentRating": "safe",
-   "score": 0.22352372,
-   "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "it",
-    "pt-br",
-    "id",
-    "ru",
-    "zh"
-   ]
-  },
-  {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
    "title": {
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.21200919,
+   "score": 0.21349847,
    "languages": [
     "ru",
     "tr",
@@ -95,7 +95,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.20379807,
+   "score": 0.20349398,
    "languages": [
     "es-la",
     "pt-br",
@@ -116,14 +116,42 @@
    ]
   },
   {
+   "id": "c5bd7460-644e-40c6-aa66-40d1efaddb58",
+   "title": {
+    "en": "Zatch Bell! 2"
+   },
+   "contentRating": "safe",
+   "score": 0.19924827,
+   "languages": [
+    "en",
+    "es",
+    "it",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
    "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.19756877,
+   "score": 0.19803683,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "72dc237c-249f-4f21-850e-3dbe4a01dfe4",
+   "title": {
+    "ja": "Umbrella Maker"
+   },
+   "contentRating": "safe",
+   "score": 0.18939398,
+   "languages": [
+    "en",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -132,7 +160,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.18993855,
+   "score": 0.18935291,
    "languages": [
     "en"
    ]
@@ -154,18 +182,7 @@
     "en": "Records of Nothingness"
    },
    "contentRating": "safe",
-   "score": 0.18757682,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
-   "title": {
-    "en": "Barefoot Gen"
-   },
-   "contentRating": "safe",
-   "score": 0.18682304,
+   "score": 0.18705636,
    "languages": [
     "en"
    ]
@@ -176,7 +193,7 @@
     "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.1866884,
+   "score": 0.18690874,
    "languages": [
     "en"
    ]
@@ -201,35 +218,16 @@
    ]
   },
   {
-   "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
+   "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
    "title": {
-    "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
+    "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.18490238,
+   "score": 0.18614101,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "17ce37ea-1cda-4429-b062-c4b627814225",
-   "title": {
-    "en": "Owari no Seraph"
-   },
-   "contentRating": "safe",
-   "score": 0.18438517,
-   "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "ru",
-    "hu",
-    "en",
-    "tr",
-    "id",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:01+00:00"
+ "updatedAt": "2023-12-10T18:09:05+00:00"
 }

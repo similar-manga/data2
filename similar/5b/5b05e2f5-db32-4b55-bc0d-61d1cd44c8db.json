@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d0a49ab6-3172-4e10-bc38-a6c88c76c432",
+   "title": {
+    "en": "Dramatic Irony"
+   },
+   "contentRating": "safe",
+   "score": 0.3501599,
+   "languages": [
+    "fr",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "fec54be1-17e7-44c7-8a3e-8825dbefe4a7",
    "title": {
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.3478778,
+   "score": 0.3468503,
    "languages": [
     "en",
     "bg"
@@ -23,7 +36,7 @@
     "en": "Spring One Year Later"
    },
    "contentRating": "safe",
-   "score": 0.34205887,
+   "score": 0.34008375,
    "languages": [
     "en"
    ]
@@ -34,7 +47,7 @@
     "en": "Everybody Loves Somebody"
    },
    "contentRating": "safe",
-   "score": 0.31956384,
+   "score": 0.31948382,
    "languages": [
     "it",
     "en"
@@ -46,7 +59,7 @@
     "en": "\"Hajimete\" Ageru!"
    },
    "contentRating": "safe",
-   "score": 0.31828123,
+   "score": 0.31489566,
    "languages": [
     "pl",
     "en",
@@ -59,7 +72,7 @@
     "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.31331864,
+   "score": 0.3118704,
    "languages": [
     "en"
    ]
@@ -70,7 +83,7 @@
     "en": "Hadaka no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.3099326,
+   "score": 0.3094392,
    "languages": [
     "fr",
     "en"
@@ -82,7 +95,7 @@
     "en": "Bara to Zirconia"
    },
    "contentRating": "safe",
-   "score": 0.30852747,
+   "score": 0.3090376,
    "languages": [
     "en"
    ]
@@ -93,7 +106,18 @@
     "en": "Without the Sun"
    },
    "contentRating": "safe",
-   "score": 0.30574545,
+   "score": 0.3059481,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
+   "title": {
+    "en": "Ouji to Hime to Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.30367693,
    "languages": [
     "en"
    ]
@@ -104,7 +128,7 @@
     "en": "Koigokoro Telepathy"
    },
    "contentRating": "safe",
-   "score": 0.3030364,
+   "score": 0.30173248,
    "languages": [
     "en",
     "pl"
@@ -116,21 +140,10 @@
     "en": "Until You Fall Asleep"
    },
    "contentRating": "safe",
-   "score": 0.30291468,
+   "score": 0.3002216,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
-   "title": {
-    "en": "Ouji to Hime to Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.302778,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -139,18 +152,7 @@
     "en": "Ko no Ren ni Namidasuru!"
    },
    "contentRating": "safe",
-   "score": 0.30016974,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc37df14-150f-4745-8867-6359d64f10af",
-   "title": {
-    "en": "Ano Ko ni Kubittake"
-   },
-   "contentRating": "safe",
-   "score": 0.2996364,
+   "score": 0.2990028,
    "languages": [
     "en"
    ]
@@ -161,7 +163,18 @@
     "en": "Kare no Iinari"
    },
    "contentRating": "safe",
-   "score": 0.29772878,
+   "score": 0.29766688,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cc37df14-150f-4745-8867-6359d64f10af",
+   "title": {
+    "en": "Ano Ko ni Kubittake"
+   },
+   "contentRating": "safe",
+   "score": 0.29672748,
    "languages": [
     "en"
    ]
@@ -172,23 +185,12 @@
     "en": "Ever Share Color"
    },
    "contentRating": "safe",
-   "score": 0.29576603,
+   "score": 0.29626805,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "b0e44d2c-4f15-4230-9ad3-214f7f68b4df",
-   "title": {
-    "en": "Merry Go Round In Wonderland"
-   },
-   "contentRating": "safe",
-   "score": 0.2957382,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:22+00:00"
+ "updatedAt": "2023-12-10T18:18:11+00:00"
 }

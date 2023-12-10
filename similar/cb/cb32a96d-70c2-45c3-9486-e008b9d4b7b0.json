@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b713d3bf-27ae-4a96-a52a-ee80e22c667c",
+   "title": {
+    "en": "Shinigami ni Totsugu Hi"
+   },
+   "contentRating": "safe",
+   "score": 0.44870695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
     "en": "Nageku Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.4300714,
+   "score": 0.42595443,
    "languages": [
     "en",
     "pl"
@@ -23,7 +34,7 @@
     "en": "Shinigami no Aria"
    },
    "contentRating": "safe",
-   "score": 0.33102605,
+   "score": 0.3303535,
    "languages": [
     "en"
    ]
@@ -34,10 +45,21 @@
     "en": "Kyoukai no Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.30722964,
+   "score": 0.30600974,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
+   "title": {
+    "en": "Hajimari no Kotoba"
+   },
+   "contentRating": "safe",
+   "score": 0.2801096,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -46,7 +68,7 @@
     "en": "18 Years Old, We Got Married"
    },
    "contentRating": "safe",
-   "score": 0.26960027,
+   "score": 0.27018717,
    "languages": [
     "pl",
     "fr"
@@ -58,7 +80,18 @@
     "en": "Yami no Matsuei"
    },
    "contentRating": "safe",
-   "score": 0.2562679,
+   "score": 0.25686857,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "title": {
+    "en": "Without the Sun"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
@@ -87,31 +120,38 @@
    ]
   },
   {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
    "title": {
-    "en": "Without the Sun"
+    "en": "Good-bye, My 19 year Old Self"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
+   "title": {
+    "en": "Butterfly in the Air"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
+   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
    "title": {
-    "en": "Kon no Ki Konoha"
+    "en": "Insomnia"
    },
    "contentRating": "safe",
-   "score": 0.25168872,
+   "score": 0.24743582,
    "languages": [
-    "fr",
-    "id",
-    "pt-br",
-    "en",
-    "pl",
-    "ca",
-    "uk"
+    "en"
    ]
   },
   {
@@ -127,25 +167,16 @@
    ]
   },
   {
-   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
+   "id": "3454b242-7275-4819-b3df-d183d0403310",
    "title": {
-    "en": "Insomnia"
+    "en": "Vampire to Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.23644426,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
-   "title": {
-    "en": "Butterfly in the Air"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -154,49 +185,11 @@
     "en": "Death's Love Ballad"
    },
    "contentRating": "safe",
-   "score": 0.23848572,
+   "score": 0.23566954,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3454b242-7275-4819-b3df-d183d0403310",
-   "title": {
-    "en": "Vampire to Shinigami"
-   },
-   "contentRating": "safe",
-   "score": 0.2365369,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
-   "title": {
-    "en": "World End Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
-   "title": {
-    "en": "Winter Flowers"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:08+00:00"
+ "updatedAt": "2023-12-10T18:30:53+00:00"
 }

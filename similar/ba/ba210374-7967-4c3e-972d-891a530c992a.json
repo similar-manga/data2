@@ -6,12 +6,30 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7350be91-b5e1-467d-89df-a089d014d20b",
+   "title": {
+    "en": "Seijo no Maryoku wa Bannou desu"
+   },
+   "contentRating": "safe",
+   "score": 0.37281582,
+   "languages": [
+    "ru",
+    "en",
+    "fr",
+    "pl",
+    "it",
+    "es-la",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "20d72207-e32f-4d20-94e1-86417b54b9da",
    "title": {
     "en": "Heroine? Saint? No, I'm an All-Works Maid (Proud)!"
    },
    "contentRating": "safe",
-   "score": 0.32252058,
+   "score": 0.31825578,
    "languages": [
     "en",
     "id",
@@ -19,14 +37,17 @@
    ]
   },
   {
-   "id": "1a6e2402-576b-4f32-9157-db3d74510c53",
+   "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
    "title": {
-    "en": "The Hidden Saintess"
+    "en": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu"
    },
    "contentRating": "safe",
-   "score": 0.29399586,
+   "score": 0.29975015,
    "languages": [
-    "en"
+    "ru",
+    "en",
+    "id",
+    "fr"
    ]
   },
   {
@@ -35,21 +56,21 @@
     "en": "Doshomin no Watashi, Jitsu wa Tenseisha deshita"
    },
    "contentRating": "safe",
-   "score": 0.28438514,
+   "score": 0.28419083,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
+   "id": "3b001f9b-47bf-4b5e-8476-80d9b193e373",
    "title": {
-    "en": "Seijo ni naru no de Nidoume no Jinsei wa Katte ni sasete moraimasu ~Outaishi wa, Zensei de Watashi wo Futta Koibito deshita~"
+    "en": "Seijo no Maryoku wa Bannou desu: Mou Hitori no Seijo"
    },
    "contentRating": "safe",
-   "score": 0.28295314,
+   "score": 0.28221956,
    "languages": [
-    "es-la",
-    "en"
+    "en",
+    "id"
    ]
   },
   {
@@ -58,7 +79,7 @@
     "en": "I Was Summoned to Be a Saint, but Was Robbed of the Position"
    },
    "contentRating": "safe",
-   "score": 0.2824558,
+   "score": 0.27968463,
    "languages": [
     "en"
    ]
@@ -69,10 +90,22 @@
     "en": "Maid kara Haha ni Narimashita"
    },
    "contentRating": "safe",
-   "score": 0.2794076,
+   "score": 0.27964696,
    "languages": [
     "pl",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
+   "title": {
+    "en": "Seijo ni naru no de Nidoume no Jinsei wa Katte ni sasete moraimasu ~Outaishi wa, Zensei de Watashi wo Futta Koibito deshita~"
+   },
+   "contentRating": "safe",
+   "score": 0.27904,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -82,7 +115,7 @@
     "en": "The Small Village of the Young Lady Without Blessing"
    },
    "contentRating": "safe",
-   "score": 0.27900338,
+   "score": 0.27874058,
    "languages": [
     "id",
     "en"
@@ -94,7 +127,7 @@
     "en": "Boukensha no Fuku, Tsukurimasu! ~Isekai de Hajimeru Designer Seikatsu~"
    },
    "contentRating": "safe",
-   "score": 0.27002704,
+   "score": 0.26914927,
    "languages": [
     "en"
    ]
@@ -111,17 +144,49 @@
    ]
   },
   {
-   "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
+   "id": "3901bbfd-9142-4a41-a800-c952044a5111",
    "title": {
-    "en": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu"
+    "en": "I Was Reincarnated, and Now I'm a Maid!"
    },
    "contentRating": "safe",
-   "score": 0.26526612,
+   "score": 0.2666186,
    "languages": [
-    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "979997f6-dee6-4ff5-a580-ab390ac9fdc0",
+   "title": {
+    "en": "Since I Became a Commoner, My Engagement Was Broken!"
+   },
+   "contentRating": "safe",
+   "score": 0.26540545,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b88ba0fd-9332-4207-b3d9-5dd8e21f966b",
+   "title": {
+    "en": "Yokubari na Bokura"
+   },
+   "contentRating": "safe",
+   "score": 0.26239482,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fd9caf16-9b4b-452b-b753-3d9bd1269fe4",
+   "title": {
+    "en": "Seijo ja nakatta no de, Oukyuu de nonbiri Gohan wo Tsukuru koto ni shimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.26170415,
+   "languages": [
     "en",
-    "id",
-    "fr"
+    "ru",
+    "es-la"
    ]
   },
   {
@@ -130,70 +195,12 @@
     "en": "Toaru Chiisana Mura no Cheat na Kajiya-san"
    },
    "contentRating": "safe",
-   "score": 0.26171267,
+   "score": 0.26125258,
    "languages": [
     "th",
     "en"
    ]
-  },
-  {
-   "id": "2f41372f-9203-415c-83a9-714c74b19c9e",
-   "title": {
-    "en": "Mahoutsukai no Konyakusha ~Eternally Yours~"
-   },
-   "contentRating": "safe",
-   "score": 0.26162758,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9f73124c-ecfa-49f7-b4e4-0c699cc65957",
-   "title": {
-    "en": "Jishou Akuyaku Reijou na Tsuma no Kansatsu Kiroku"
-   },
-   "contentRating": "safe",
-   "score": 0.2590131,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
-   "title": {
-    "en": "Tenseisaki ga Shoujo Manga no Shirobuta Reijou datta reBoooot!"
-   },
-   "contentRating": "safe",
-   "score": 0.25799227,
-   "languages": [
-    "ru",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "9f3a257e-bc82-4d35-bf3e-80fdb7785e78",
-   "title": {
-    "en": "Rebirth of the Grandeur Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.25575796,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "951af052-3529-4e33-b3b6-0a97ea9726a4",
-   "title": {
-    "en": "Isekai Kara Seijo ga Kuru You Nanode, Jamamono wa Kieyou to Omoimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.255357,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:26+00:00"
+ "updatedAt": "2023-12-10T18:29:08+00:00"
 }

@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c3c0cf23-aa7b-477f-a3df-31b27b0a01b9",
+   "title": {
+    "en": "Moira"
+   },
+   "contentRating": "safe",
+   "score": 0.30999553,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "80497ef8-3967-452d-ab6a-2c5ec2d4ebcb",
+   "title": {
+    "en": "Alkaloid no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "229eb307-021e-4062-8d39-94422da2671e",
    "title": {
     "en": "Tail Star"
@@ -17,6 +39,19 @@
     "en",
     "es",
     "pt-br"
+   ]
+  },
+  {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -32,12 +67,49 @@
    ]
   },
   {
+   "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
+   "title": {
+    "en": "Fushi no Sougishi"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "vi",
+    "en",
+    "id",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Snow and Ink"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
    "title": {
     "en": "Nineteen"
    },
    "contentRating": "safe",
-   "score": 0.21121213,
+   "score": 0.21094337,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "518faa34-1e7c-4424-b93e-66203d85f00b",
+   "title": {
+    "en": "Pact"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -65,23 +137,12 @@
    ]
   },
   {
-   "id": "518faa34-1e7c-4424-b93e-66203d85f00b",
-   "title": {
-    "en": "Pact"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
    "title": {
     "en": "Zero no Shiniki"
    },
    "contentRating": "safe",
-   "score": 0.20049343,
+   "score": 0.20013973,
    "languages": [
     "en",
     "fr"
@@ -93,33 +154,21 @@
     "en": "Doku Doku Mori Mori"
    },
    "contentRating": "safe",
-   "score": 0.19924079,
+   "score": 0.19902098,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
+   "id": "8a66908a-40aa-4e57-adcb-885c54d90029",
    "title": {
-    "en": "Sorairo Square."
+    "en": "Nanatsuiro Drops"
    },
    "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.19198243,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "82c6b4cd-9137-44cf-ad80-32fae40ca499",
-   "title": {
-    "en": "Renri no Eda"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -135,71 +184,17 @@
    ]
   },
   {
-   "id": "f0954799-3cbd-4be0-805e-29161edfa312",
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
    "title": {
-    "en": "Death Edge"
+    "en": "Unmapped Place"
    },
    "contentRating": "safe",
-   "score": 0.18097307,
+   "score": 0.19166298,
    "languages": [
-    "pl",
+    "zh-hk",
     "en"
-   ]
-  },
-  {
-   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
-   "title": {
-    "en": "Tales of the Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "vi",
-    "en",
-    "pl",
-    "it",
-    "ru"
-   ]
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.17815484,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
-   "title": {
-    "en": "She’s Coming Tonight"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
-   "title": {
-    "en": "Kara no Kyoukai - The Garden of Sinners"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "ru",
-    "en",
-    "fr",
-    "es-la",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:15+00:00"
+ "updatedAt": "2023-12-10T18:23:12+00:00"
 }

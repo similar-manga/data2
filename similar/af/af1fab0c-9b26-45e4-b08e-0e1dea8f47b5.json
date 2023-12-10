@@ -6,15 +6,64 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ea30a000-c9f4-4f62-b510-4c15752c8771",
+   "title": {
+    "en": "This Life, the Way I Want"
+   },
+   "contentRating": "safe",
+   "score": 0.35053727,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
+   "title": {
+    "en": "Genius of the Unique Lineage"
+   },
+   "contentRating": "safe",
+   "score": 0.33644238,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "3faa91a8-795c-4625-b9d2-1ce516d56cfc",
    "title": {
     "en": "The Game That I Came From"
    },
    "contentRating": "safe",
-   "score": 0.30589762,
+   "score": 0.30177712,
    "languages": [
     "id",
     "en"
+   ]
+  },
+  {
+   "id": "edefb2df-dd28-4f66-a660-7185ef6c4f05",
+   "title": {
+    "en": "My Way Of Killing Gods In Another World"
+   },
+   "contentRating": "safe",
+   "score": 0.29424322,
+   "languages": [
+    "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "8ed5fd58-a170-4fc3-b903-04113e6d3e70",
+   "title": {
+    "en": "Path of the Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.29411072,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -23,7 +72,7 @@
     "en": "My Life as a Player"
    },
    "contentRating": "safe",
-   "score": 0.29801965,
+   "score": 0.29376295,
    "languages": [
     "en"
    ]
@@ -34,9 +83,61 @@
     "en": "I Regressed to My Ruined Family"
    },
    "contentRating": "safe",
-   "score": 0.29209772,
+   "score": 0.29108283,
    "languages": [
     "it",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e0966537-58a1-421b-8ea9-3e7f02d703c4",
+   "title": {
+    "en": "The Hero Returns"
+   },
+   "contentRating": "safe",
+   "score": 0.2881347,
+   "languages": [
+    "pt-br",
+    "en",
+    "id",
+    "fr",
+    "it",
+    "pl"
+   ]
+  },
+  {
+   "id": "9cfa0ad8-5c01-4d03-823d-117470f540d7",
+   "title": {
+    "en": "Wind Spirit"
+   },
+   "contentRating": "safe",
+   "score": 0.2875444,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9c004064-f202-4f15-a278-4b68043b9ed4",
+   "title": {
+    "en": "The Top Player Returns"
+   },
+   "contentRating": "safe",
+   "score": 0.2845725,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "57e687fd-f64c-44c2-a6c0-c923d1bab11b",
+   "title": {
+    "en": "Level Up With Skills"
+   },
+   "contentRating": "safe",
+   "score": 0.28290537,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -46,37 +147,21 @@
     "en": "Resurgence of the Solo Beta Player"
    },
    "contentRating": "safe",
-   "score": 0.28748614,
+   "score": 0.28236848,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e0966537-58a1-421b-8ea9-3e7f02d703c4",
+   "id": "43547c04-8fa2-49ce-84b4-b0424dd98bd6",
    "title": {
-    "en": "The Hero Returns"
+    "en": "Legendary Youngest Son of the Marquis House"
    },
    "contentRating": "safe",
-   "score": 0.28707469,
+   "score": 0.28088441,
    "languages": [
     "pt-br",
-    "en",
-    "id",
-    "fr",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "57e687fd-f64c-44c2-a6c0-c923d1bab11b",
-   "title": {
-    "en": "Level Up With Skills"
-   },
-   "contentRating": "safe",
-   "score": 0.2857155,
-   "languages": [
-    "en",
-    "pt-br"
+    "fr"
    ]
   },
   {
@@ -85,7 +170,7 @@
     "en": "Return to Player"
    },
    "contentRating": "safe",
-   "score": 0.2850134,
+   "score": 0.2796658,
    "languages": [
     "id",
     "fr",
@@ -95,24 +180,12 @@
    ]
   },
   {
-   "id": "43547c04-8fa2-49ce-84b4-b0424dd98bd6",
+   "id": "5bd09c61-837b-4091-b38d-1f8cab67ecc8",
    "title": {
-    "en": "Legendary Youngest Son of the Marquis House"
+    "en": "Fakes Don't Want to Be Real"
    },
    "contentRating": "safe",
-   "score": 0.28361943,
-   "languages": [
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "b99cfe41-e70c-4f4a-9722-bf386b17c86b",
-   "title": {
-    "en": "Unemployed Monster Player"
-   },
-   "contentRating": "safe",
-   "score": 0.27886477,
+   "score": 0.27924025,
    "languages": [
     "en"
    ]
@@ -123,94 +196,12 @@
     "en": "Reincarnated Escort Warrior"
    },
    "contentRating": "safe",
-   "score": 0.27825916,
+   "score": 0.27698925,
    "languages": [
     "pt-br",
     "fr"
    ]
-  },
-  {
-   "id": "ce008353-5128-4f04-80d1-7f0be0086d0e",
-   "title": {
-    "en": "Heavenly Martial God"
-   },
-   "contentRating": "safe",
-   "score": 0.27796564,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "194b6647-6f74-4783-b262-9815502f0c9f",
-   "title": {
-    "en": "For My Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.277331,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "es"
-   ]
-  },
-  {
-   "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
-   "title": {
-    "en": "I Shall Master This Family"
-   },
-   "contentRating": "safe",
-   "score": 0.27580705,
-   "languages": [
-    "pl",
-    "fr",
-    "pt-br",
-    "uk",
-    "cs",
-    "en",
-    "id",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "60508e0a-46eb-413e-b5c0-94da6b785fce",
-   "title": {
-    "en": "The Return of the Prodigious Swordmaster"
-   },
-   "contentRating": "safe",
-   "score": 0.27196264,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3f53fb25-b1b7-4fa6-92f8-2fc438a1ae65",
-   "title": {
-    "en": "My S-Class Hunters"
-   },
-   "contentRating": "safe",
-   "score": 0.26825723,
-   "languages": [
-    "pt-br",
-    "id",
-    "pl",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "d87c0ba8-de4b-4e71-a278-816d6a1c5805",
-   "title": {
-    "en": "Life, Once Again!"
-   },
-   "contentRating": "safe",
-   "score": 0.26526335,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:59+00:00"
+ "updatedAt": "2023-12-10T18:27:56+00:00"
 }

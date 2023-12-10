@@ -11,7 +11,7 @@
     "en": "Ikusa no Ko"
    },
    "contentRating": "suggestive",
-   "score": 0.23114893,
+   "score": 0.23096658,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen"
    },
    "contentRating": "suggestive",
-   "score": 0.21244223,
+   "score": 0.21216984,
    "languages": [
     "en",
     "es-la",
@@ -36,17 +36,9 @@
    ]
   },
   {
-   "id": "9addd749-b115-4615-b290-2799734ce192",
+   "id": "2e67bbda-9998-46f7-bfde-cd186470ca74",
    "title": {
-    "en": "Shameless Ronin"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20764354
-  },
-  {
-   "id": "9fbf3c17-a0e2-4e14-a43f-f41e25244698",
-   "title": {
-    "en": "Female Chivalry Mujuku"
+    "en": "Hunter Dragon"
    },
    "contentRating": "suggestive",
    "score": 0.20764354
@@ -60,9 +52,17 @@
    "score": 0.20764354
   },
   {
-   "id": "2e67bbda-9998-46f7-bfde-cd186470ca74",
+   "id": "9fbf3c17-a0e2-4e14-a43f-f41e25244698",
    "title": {
-    "en": "Hunter Dragon"
+    "en": "Female Chivalry Mujuku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20764354
+  },
+  {
+   "id": "9addd749-b115-4615-b290-2799734ce192",
+   "title": {
+    "en": "Shameless Ronin"
    },
    "contentRating": "suggestive",
    "score": 0.20764354
@@ -89,7 +89,7 @@
     "en": "Fist of the Blue Sky: Regenesis"
    },
    "contentRating": "suggestive",
-   "score": 0.1645381,
+   "score": 0.16411081,
    "languages": [
     "en"
    ]
@@ -100,7 +100,7 @@
     "en": "Drifters"
    },
    "contentRating": "suggestive",
-   "score": 0.14054587,
+   "score": 0.1396488,
    "languages": [
     "en",
     "pt-br",
@@ -108,14 +108,6 @@
     "hu",
     "es"
    ]
-  },
-  {
-   "id": "3090ded3-3230-43b3-b4e3-f34bec59ca41",
-   "title": {
-    "en": "Umi no Mukou kara Kita Otoko"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13859756
   },
   {
    "id": "0bfd9934-e738-44c0-adcf-dc7962f7d76c",
@@ -140,16 +132,14 @@
    ]
   },
   {
-   "id": "b5e18e87-8d85-44c2-af8a-a281edc99acb",
+   "id": "e515668b-6f5f-4aba-9209-4807adcb6c7b",
    "title": {
-    "en": "Billiards Room"
+    "en": "Mugen Shinshi: Ouma-hen"
    },
    "contentRating": "suggestive",
-   "score": 0.13553111,
+   "score": 0.13318817,
    "languages": [
-    "en",
-    "id",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -161,16 +151,26 @@
    "score": 0.13318817
   },
   {
-   "id": "e515668b-6f5f-4aba-9209-4807adcb6c7b",
+   "id": "3090ded3-3230-43b3-b4e3-f34bec59ca41",
    "title": {
-    "en": "Mugen Shinshi: Ouma-hen"
+    "en": "Umi no Mukou kara Kita Otoko"
    },
    "contentRating": "suggestive",
-   "score": 0.13318817,
+   "score": 0.13300867
+  },
+  {
+   "id": "b5e18e87-8d85-44c2-af8a-a281edc99acb",
+   "title": {
+    "en": "Billiards Room"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13227291,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:59+00:00"
+ "updatedAt": "2023-12-10T18:22:34+00:00"
 }

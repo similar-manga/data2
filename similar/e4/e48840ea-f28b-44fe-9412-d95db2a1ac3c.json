@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6aa049b7-a8b8-4b42-a831-a3e8267b39ad",
+   "title": {
+    "en": "Legend of the Galactic Heroes - Portraits of Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.3653999,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
    "title": {
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.25220385,
+   "score": 0.25205967,
    "languages": [
     "en"
    ]
@@ -22,20 +33,9 @@
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.24214073,
+   "score": 0.23985241,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.22032902,
-   "languages": [
     "en"
    ]
   },
@@ -45,9 +45,23 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.2187145,
+   "score": 0.21787727,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
+   "title": {
+    "en": "Kage no Eiyuu no Nichijou-tan"
+   },
+   "contentRating": "safe",
+   "score": 0.21474898,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -56,7 +70,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.21452084,
+   "score": 0.21427779,
    "languages": [
     "en"
    ]
@@ -67,7 +81,7 @@
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.20612055,
+   "score": 0.20541608,
    "languages": [
     "en",
     "id",
@@ -80,7 +94,7 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.20275258,
+   "score": 0.20122407,
    "languages": [
     "en"
    ]
@@ -109,12 +123,23 @@
    ]
   },
   {
+   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
+   "title": {
+    "en": "TC-225"
+   },
+   "contentRating": "safe",
+   "score": 0.19427493,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
    "title": {
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.19347636,
+   "score": 0.19307442,
    "languages": [
     "ru",
     "en",
@@ -123,15 +148,20 @@
    ]
   },
   {
-   "id": "1b9afd60-3b9f-4aa5-9f44-ad3cfb0f8343",
+   "id": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
    "title": {
-    "en": "Sousei no Tenken Tsukai"
+    "en": "Isekai Meikyuu no Saishinbu o Mezasou"
    },
    "contentRating": "safe",
-   "score": 0.19126484,
+   "score": 0.19047621,
    "languages": [
+    "ru",
     "en",
-    "es-la"
+    "id",
+    "es-la",
+    "fr",
+    "pt-br",
+    "es"
    ]
   },
   {
@@ -146,62 +176,39 @@
    ]
   },
   {
-   "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
+   "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
    "title": {
-    "en": "The Sorrows of Young Werther (Variety Art Works)"
+    "en": "Yugo (2004)"
    },
    "contentRating": "safe",
-   "score": 0.18949437,
+   "score": 0.19047621,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7ae6d689-18d0-40d9-a3bc-a769d194a877",
+   "id": "1b9afd60-3b9f-4aa5-9f44-ad3cfb0f8343",
    "title": {
-    "en": "Outside of the Universe"
+    "en": "Sousei no Tenken Tsukai"
    },
    "contentRating": "safe",
-   "score": 0.18882458,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
-   "title": {
-    "en": "Nightmare Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.18833114,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.1849395,
+   "score": 0.18958557,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
+   "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
    "title": {
-    "en": "Godzilla vs. Destroyah Red"
+    "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.18490006,
+   "score": 0.18916859,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:11+00:00"
+ "updatedAt": "2023-12-10T18:33:31+00:00"
 }

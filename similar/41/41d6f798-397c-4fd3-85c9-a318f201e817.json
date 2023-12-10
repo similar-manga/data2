@@ -6,12 +6,43 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "03c994de-ee9d-465d-bd32-d8a8c3b4cb4f",
+   "title": {
+    "en": "Hush"
+   },
+   "contentRating": "safe",
+   "score": 0.39732018,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e4a74a90-04d3-4193-8b37-e507d4aae54a",
+   "title": {
+    "en": "Osananajimi to, Kiss shitakunakunai."
+   },
+   "contentRating": "safe",
+   "score": 0.39629716,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "275b5836-7e49-43ab-8427-5a162ddc8ccf",
+   "title": {
+    "en": "Ooedo Shitamachi Komoridou"
+   },
+   "contentRating": "safe",
+   "score": 0.30899492
+  },
+  {
    "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
    "title": {
     "en": "Unbeatable Youth"
    },
    "contentRating": "safe",
-   "score": 0.30829266,
+   "score": 0.30739334,
    "languages": [
     "en"
    ]
@@ -22,10 +53,18 @@
     "en": "100 Ways of an Exorcist"
    },
    "contentRating": "safe",
-   "score": 0.30213526,
+   "score": 0.30093172,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "6931c228-5846-4a50-a2e4-94f915d3b48b",
+   "title": {
+    "en": "Ribbon no Enmusubi"
+   },
+   "contentRating": "safe",
+   "score": 0.29738835
   },
   {
    "id": "96e5efad-f762-492d-9370-be9e6119d1f3",
@@ -33,48 +72,15 @@
     "en": "Sweetheart Devil"
    },
    "contentRating": "safe",
-   "score": 0.29518712,
+   "score": 0.29503894,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "29b150d1-ca2f-4344-aede-89375e2c62f0",
+   "id": "0a8ce8ab-c4ca-4e53-983b-eb607eea2202",
    "title": {
-    "en": "Lover Puzzle"
-   },
-   "contentRating": "safe",
-   "score": 0.29298282,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
-   "title": {
-    "en": "Like to Be Ordinary!"
-   },
-   "contentRating": "safe",
-   "score": 0.2870897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dbc54fff-e34a-4965-8944-fed9d0eab402",
-   "title": {
-    "en": "Mayonaka Lolita"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "caea25a6-4931-49b6-b48f-2d806ee66190",
-   "title": {
-    "en": "Love Fantasy"
+    "en": "Konna Mirai wa Kiitenai!!"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -88,6 +94,36 @@
    "score": 0.2857143
   },
   {
+   "id": "c971facf-3d03-4613-af06-ed58643e1cd7",
+   "title": {
+    "en": "Mietemasu!? - Mikuriya-san no Senboku Kitan"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "6fa9ed94-a8ae-4814-9d9e-7d57f4c2c7e4",
+   "title": {
+    "en": "Ooma ga Toki!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "51dc5684-ec31-4911-ad6b-83f2e2f6f84e",
+   "title": {
+    "en": "Para-Dice"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "49d931d7-d9ac-4cc9-8440-7de4514bb985",
    "title": {
     "en": "Maria-ppoino!"
@@ -96,81 +132,32 @@
    "score": 0.2857143
   },
   {
-   "id": "5c077420-b065-4699-95c2-4df0d398cd5f",
+   "id": "29b150d1-ca2f-4344-aede-89375e2c62f0",
    "title": {
-    "en": "Mahochu!"
+    "en": "Lover Puzzle"
    },
    "contentRating": "safe",
-   "score": 0.27345952,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f953bd89-5456-4756-8a41-ca65aa25e2aa",
-   "title": {
-    "en": "Going to the Troll's Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.27170038,
+   "score": 0.2857143,
    "languages": [
     "fr"
    ]
   },
   {
-   "id": "e9292fd2-26f0-4847-a88a-0d3e345d58e4",
+   "id": "caea25a6-4931-49b6-b48f-2d806ee66190",
    "title": {
-    "en": "Donmai Princess"
+    "en": "Love Fantasy"
    },
    "contentRating": "safe",
-   "score": 0.27164814,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2857143
   },
   {
-   "id": "9de06c13-0ac1-4029-a2e2-6e3b849edba8",
+   "id": "4c72ce65-4fd5-423b-9153-8b577b8ebb8e",
    "title": {
-    "en": "Mamotte! Lollipop"
+    "en": "Mousou Shisugite Real ni Natta Mitai desu."
    },
    "contentRating": "safe",
-   "score": 0.26921502,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "c450b61f-0bca-4bf9-b802-c84a524a6557",
-   "title": {
-    "en": "Hot Guys Have Something Special"
-   },
-   "contentRating": "safe",
-   "score": 0.26417446
-  },
-  {
-   "id": "760be47f-12d0-476d-bed3-f1a9384d33c3",
-   "title": {
-    "en": "Kimi ga Suki Toka Arienai"
-   },
-   "contentRating": "safe",
-   "score": 0.26350576,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1055dced-6eb0-42a8-8f82-cd9f52b4de36",
-   "title": {
-    "en": "Kami-sama Onegai!"
-   },
-   "contentRating": "safe",
-   "score": 0.26324815,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
-   ]
+   "score": 0.2857143
   }
  ],
- "updatedAt": "2023-12-10T01:02:17+00:00"
+ "updatedAt": "2023-12-10T18:15:26+00:00"
 }

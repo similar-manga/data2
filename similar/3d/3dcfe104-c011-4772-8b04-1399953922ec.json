@@ -11,7 +11,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.33735752,
+   "score": 0.32937652,
    "languages": [
     "en",
     "id"
@@ -23,7 +23,7 @@
     "en": "Color of the Far East"
    },
    "contentRating": "safe",
-   "score": 0.3041456,
+   "score": 0.30607006,
    "languages": [
     "en",
     "ar"
@@ -59,9 +59,21 @@
     "en": "Manatsu no Blue"
    },
    "contentRating": "safe",
-   "score": 0.27816293,
+   "score": 0.27810684,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
+   "title": {
+    "en": "Chissai Shitsuren"
+   },
+   "contentRating": "safe",
+   "score": 0.27553967,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -70,7 +82,7 @@
     "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
-   "score": 0.2728053,
+   "score": 0.27439338,
    "languages": [
     "pl",
     "en"
@@ -82,23 +94,11 @@
     "en": "Happy Every Day"
    },
    "contentRating": "safe",
-   "score": 0.27017704,
+   "score": 0.26990867,
    "languages": [
     "pl",
     "tr",
     "en"
-   ]
-  },
-  {
-   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
-   "title": {
-    "en": "Chissai Shitsuren"
-   },
-   "contentRating": "safe",
-   "score": 0.26510283,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -107,7 +107,7 @@
     "en": "Milk Cake in the Reflection"
    },
    "contentRating": "safe",
-   "score": 0.25945902,
+   "score": 0.25948,
    "languages": [
     "en",
     "pt-br",
@@ -120,7 +120,7 @@
     "en": "Cecile's Feelings"
    },
    "contentRating": "safe",
-   "score": 0.2575199,
+   "score": 0.25732753,
    "languages": [
     "en",
     "pl"
@@ -132,7 +132,7 @@
     "en": "Furachi na Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.25714564,
+   "score": 0.25699764,
    "languages": [
     "en",
     "pt-br"
@@ -157,52 +157,50 @@
    ]
   },
   {
-   "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
+   "id": "bfb719c3-de6a-426c-af7a-e01680f9b8d7",
    "title": {
-    "en": "White of Dawn"
+    "en": "White Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473
+  },
+  {
+   "id": "dfe99792-a27b-407f-bbb1-8857b51c4969",
+   "title": {
+    "en": "Negaigoto 300000 km/s"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
+    "pl",
     "en"
    ]
   },
   {
-   "id": "c5d40754-cf6a-41ef-a858-71c53e716130",
+   "id": "6ec2bb05-5ad8-4e86-8143-6370879f7114",
    "title": {
-    "en": "Candy Apple"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "969de1c5-046e-44c2-8ed9-d171656ba3a3",
-   "title": {
-    "en": "Kawaii Neko no Gazou wo Saisyo ni Okutirai Hito"
+    "en": "Koi wa Isogaba Maware Migi"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
     "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "e65c4964-668c-4fed-833a-638581ec65a1",
-   "title": {
-    "en": "Canon"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "es-la",
-    "en",
+    "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "4621892c-4b3e-4064-b033-5700f5f63b41",
+   "title": {
+    "en": "Renai Kyoutei"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "fr",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:56+00:00"
 }

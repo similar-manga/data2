@@ -11,7 +11,7 @@
     "en": "Boy's Abyss"
    },
    "contentRating": "suggestive",
-   "score": 0.23337747,
+   "score": 0.23341277,
    "languages": [
     "es-la",
     "fr",
@@ -33,7 +33,7 @@
     "en": "Issho ni Kurashite ii desu ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.17414655,
+   "score": 0.17333688,
    "languages": [
     "fr",
     "pt-br",
@@ -50,7 +50,7 @@
     "en": "Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru?"
    },
    "contentRating": "suggestive",
-   "score": 0.16764939,
+   "score": 0.16594794,
    "languages": [
     "en",
     "id",
@@ -65,7 +65,7 @@
     "en": "Henjo - Hen na Joshi Kousei Amaguri Senko"
    },
    "contentRating": "suggestive",
-   "score": 0.16522135,
+   "score": 0.16480276,
    "languages": [
     "en",
     "fr",
@@ -81,25 +81,11 @@
     "en": "Imada Nakunatte Inai Hito"
    },
    "contentRating": "suggestive",
-   "score": 0.16331826,
+   "score": 0.16160007,
    "languages": [
     "pt-br",
     "es-la",
     "vi"
-   ]
-  },
-  {
-   "id": "ff360116-6df6-4bd3-817c-795f651c5b75",
-   "title": {
-    "en": "Prison!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15728758,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "vi",
-    "en"
    ]
   },
   {
@@ -110,6 +96,20 @@
    "contentRating": "suggestive",
    "score": 0.15714753,
    "languages": [
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "ff360116-6df6-4bd3-817c-795f651c5b75",
+   "title": {
+    "en": "Prison!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15591724,
+   "languages": [
+    "es-la",
     "pt-br",
     "vi",
     "en"
@@ -144,7 +144,7 @@
     "en": "How About R15?"
    },
    "contentRating": "suggestive",
-   "score": 0.14924811,
+   "score": 0.1485614,
    "languages": [
     "en",
     "pt-br",
@@ -172,12 +172,27 @@
    ]
   },
   {
+   "id": "68262507-c506-4918-967a-25f1a8390dbb",
+   "title": {
+    "en": "White Beard and Boyne"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14540382,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "it",
+    "vi"
+   ]
+  },
+  {
    "id": "ced1a3f9-9a34-4ada-a3b7-ca773e5af0b8",
    "title": {
     "en": "Piccolina"
    },
    "contentRating": "suggestive",
-   "score": 0.14509244,
+   "score": 0.14441566,
    "languages": [
     "vi",
     "pt-br",
@@ -222,7 +237,7 @@
     "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands"
    },
    "contentRating": "suggestive",
-   "score": 0.14338702,
+   "score": 0.14301482,
    "languages": [
     "es",
     "vi",
@@ -245,30 +260,7 @@
     "tr",
     "kk"
    ]
-  },
-  {
-   "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
-   "title": {
-    "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14329308,
-   "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "pl",
-    "es-la",
-    "ru",
-    "tr",
-    "ar",
-    "id",
-    "vi",
-    "uk",
-    "fr",
-    "hu"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:29+00:00"
+ "updatedAt": "2023-12-10T18:15:57+00:00"
 }

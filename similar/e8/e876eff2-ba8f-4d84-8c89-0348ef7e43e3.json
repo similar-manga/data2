@@ -6,12 +6,60 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d37ee149-e0cf-401e-829d-394f459753e1",
+   "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
    "title": {
-    "en": "Melange!"
+    "en": "Anagura Amelie"
    },
    "contentRating": "safe",
-   "score": 0.30991215,
+   "score": 0.31401452,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
+   "title": {
+    "en": "Shigatsu no Kimi, Spica."
+   },
+   "contentRating": "safe",
+   "score": 0.31239963,
+   "languages": [
+    "es-la",
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
+   "title": {
+    "en": "Kimi no Yokogao wo Miteita"
+   },
+   "contentRating": "safe",
+   "score": 0.30801502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "93425f9a-991a-477b-bd3a-3a64463bce32",
+   "title": {
+    "en": "Gekiai ~Motto Motometai"
+   },
+   "contentRating": "safe",
+   "score": 0.30714026,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e3a3859d-90e4-4d3d-8ac5-282f75401567",
+   "title": {
+    "en": "Eien no Omoi wo Kimi ni"
+   },
+   "contentRating": "safe",
+   "score": 0.30561832,
    "languages": [
     "en"
    ]
@@ -22,9 +70,56 @@
     "en": "Ko no Ren ni Namidasuru!"
    },
    "contentRating": "safe",
-   "score": 0.3052189,
+   "score": 0.3049248,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e736596b-c8b1-4797-8f30-6c8137b3628f",
+   "title": {
+    "en": "17-sai no Real"
+   },
+   "contentRating": "safe",
+   "score": 0.3044668,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d0a49ab6-3172-4e10-bc38-a6c88c76c432",
+   "title": {
+    "en": "Dramatic Irony"
+   },
+   "contentRating": "safe",
+   "score": 0.30421123,
+   "languages": [
+    "fr",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "d37ee149-e0cf-401e-829d-394f459753e1",
+   "title": {
+    "en": "Melange!"
+   },
+   "contentRating": "safe",
+   "score": 0.30380708,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aceae7a9-54ba-4fb5-999f-29528a7e4a2a",
+   "title": {
+    "en": "Bokura no Suki wa Warikirenai"
+   },
+   "contentRating": "safe",
+   "score": 0.30247024,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -33,7 +128,18 @@
     "en": "Honey Holic"
    },
    "contentRating": "safe",
-   "score": 0.30355424,
+   "score": 0.30182272,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1d95229d-2056-4006-8f56-eb27928297ae",
+   "title": {
+    "en": "Kiss, Zekkou, Kiss Bokura no Baai"
+   },
+   "contentRating": "safe",
+   "score": 0.29705286,
    "languages": [
     "en"
    ]
@@ -44,42 +150,19 @@
     "en": "Hadaka no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.29878303,
+   "score": 0.29661706,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "cb7b76f7-fdab-40b8-ad23-e50665db47ae",
+   "id": "e668e628-9d4d-44d2-b95b-edf87a369712",
    "title": {
-    "en": "Cinderella Syndrome"
+    "en": "Flower"
    },
    "contentRating": "safe",
-   "score": 0.2974103,
-   "languages": [
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1d95229d-2056-4006-8f56-eb27928297ae",
-   "title": {
-    "en": "Kiss, Zekkou, Kiss Bokura no Baai"
-   },
-   "contentRating": "safe",
-   "score": 0.2973511,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
-   "title": {
-    "en": "Kazekou Engekibu!"
-   },
-   "contentRating": "safe",
-   "score": 0.29608887,
+   "score": 0.2965868,
    "languages": [
     "en"
    ]
@@ -90,100 +173,23 @@
     "en": "Kare Made Love ♥ km"
    },
    "contentRating": "safe",
-   "score": 0.29573056,
+   "score": 0.2957136,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "50de54db-2c69-4953-96f9-30b038001ac3",
+   "id": "cb7b76f7-fdab-40b8-ad23-e50665db47ae",
    "title": {
-    "en": "Ai no Kotoba"
+    "en": "Cinderella Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.29441002,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
-   "title": {
-    "en": "Cream"
-   },
-   "contentRating": "safe",
-   "score": 0.29063812,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
-   "title": {
-    "en": "Ouji to Hime to Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.29014564,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
-   "title": {
-    "en": "Usotsuki na Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a110e7d0-e6b8-4f9d-859a-0863e4bdad62",
-   "title": {
-    "en": "Goshimei! Host Kyoushi J"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
-   "title": {
-    "en": "Koi*Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
-   "title": {
-    "en": "Happy End no Uragawa"
-   },
-   "contentRating": "safe",
-   "score": 0.28241473,
+   "score": 0.2950003,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "66f05752-e27f-4c3e-a2c3-deb5c4d1406d",
-   "title": {
-    "en": "Kimi Ochi"
-   },
-   "contentRating": "safe",
-   "score": 0.28073317,
-   "languages": [
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:22+00:00"
+ "updatedAt": "2023-12-10T18:33:56+00:00"
 }

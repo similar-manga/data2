@@ -11,7 +11,7 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.27279526,
+   "score": 0.27272817,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.25481266,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
@@ -61,7 +61,7 @@
     "en": "The White Witch and the Snow-Viewing Tea Party"
    },
    "contentRating": "safe",
-   "score": 0.24361692,
+   "score": 0.24417137,
    "languages": [
     "en",
     "pl",
@@ -75,7 +75,7 @@
     "en": "The Tale of That Forest"
    },
    "contentRating": "safe",
-   "score": 0.2370626,
+   "score": 0.23758687,
    "languages": [
     "en"
    ]
@@ -86,7 +86,7 @@
     "en": "Bloody Little Circus"
    },
    "contentRating": "safe",
-   "score": 0.2370619,
+   "score": 0.23635665,
    "languages": [
     "en",
     "pl"
@@ -106,6 +106,18 @@
    ]
   },
   {
+   "id": "1a58c498-a6fd-411a-bbda-67c611298c3c",
+   "title": {
+    "en": "I am here for you"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "82fbdc9b-412f-46ea-8929-ea8a18d8b9a2",
    "title": {
     "en": "Kumabachi no Koto"
@@ -119,14 +131,28 @@
    ]
   },
   {
-   "id": "1a58c498-a6fd-411a-bbda-67c611298c3c",
+   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
    "title": {
-    "en": "I am here for you"
+    "en": "Window"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.22831592,
    "languages": [
-    "ru",
+    "it",
+    "en",
+    "pl",
+    "bg",
+    "fr"
+   ]
+  },
+  {
+   "id": "9ab08282-039c-400e-8298-6d246f002594",
+   "title": {
+    "en": "Oyozure Gojou"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
     "en"
    ]
   },
@@ -156,17 +182,6 @@
    ]
   },
   {
-   "id": "9ab08282-039c-400e-8298-6d246f002594",
-   "title": {
-    "en": "Oyozure Gojou"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e8d7f941-ea6a-47d3-9ef8-a2bf857f578c",
    "title": {
     "en": "Where is the Seven-Colored Star?"
@@ -178,35 +193,16 @@
    ]
   },
   {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
+   "id": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
    "title": {
-    "en": "Window"
+    "en": "Nanja Monja"
    },
    "contentRating": "safe",
-   "score": 0.21951549,
+   "score": 0.21891369,
    "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
-   ]
-  },
-  {
-   "id": "2ef7710f-5cd1-4d68-ac7b-f9802df830ff",
-   "title": {
-    "en": "Locker Room"
-   },
-   "contentRating": "safe",
-   "score": 0.21573566,
-   "languages": [
-    "id",
-    "es-la",
-    "en",
-    "fr",
-    "it"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:57+00:00"
+ "updatedAt": "2023-12-10T18:25:00+00:00"
 }

@@ -11,15 +11,15 @@
     "en": "Frame Saber"
    },
    "contentRating": "safe",
-   "score": 0.2997278,
+   "score": 0.30096722,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
+   "id": "a2e59283-eee1-4fb3-8ee3-fffa701d31d0",
    "title": {
-    "en": "Suzuro's Logfile"
+    "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -39,9 +39,9 @@
    ]
   },
   {
-   "id": "a2e59283-eee1-4fb3-8ee3-fffa701d31d0",
+   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
    "title": {
-    "en": "Yoake Mae ni Shinu"
+    "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -50,26 +50,41 @@
    ]
   },
   {
+   "id": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
+   "title": {
+    "en": "MF Ghost"
+   },
+   "contentRating": "safe",
+   "score": 0.28487003,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "ru",
+    "it",
+    "ms"
+   ]
+  },
+  {
    "id": "8890b470-44c8-41ce-b514-6182bf363c36",
    "title": {
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.2662607,
+   "score": 0.2636326,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
+   "id": "8d2a7bad-f34f-4e9b-9159-e08c8f996c29",
    "title": {
-    "en": "Snowball Earth"
+    "en": "Astronauts"
    },
    "contentRating": "safe",
-   "score": 0.23368055,
+   "score": 0.23328476,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -95,14 +110,30 @@
    ]
   },
   {
-   "id": "8d2a7bad-f34f-4e9b-9159-e08c8f996c29",
+   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
    "title": {
-    "en": "Astronauts"
+    "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23312588,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dfdd79ad-eae8-489f-8843-bfae7e08e74b",
+   "title": {
+    "en": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita"
+   },
+   "contentRating": "safe",
+   "score": 0.22019142,
+   "languages": [
+    "es-la",
+    "id",
+    "en",
+    "ru",
+    "vi"
    ]
   },
   {
@@ -111,7 +142,7 @@
     "en": "Kuusou Kagaku Edison"
    },
    "contentRating": "safe",
-   "score": 0.21322657,
+   "score": 0.21282926,
    "languages": [
     "en"
    ]
@@ -122,7 +153,18 @@
     "en": "Kuudanshi"
    },
    "contentRating": "safe",
-   "score": 0.20982394,
+   "score": 0.2095426,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "366d164c-d2a4-46b0-876f-933ae69bc1d0",
+   "title": {
+    "en": "Roppen"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -131,39 +173,6 @@
    "id": "7d0c9a8d-19f4-401c-b296-5d882c056b96",
    "title": {
     "en": "Urthotics"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
-   "title": {
-    "en": "Bone Crusher"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cda25787-5154-4a96-ba3c-4e7a4e6a9385",
-   "title": {
-    "en": "Kyouran Kazoku Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "30e8e05f-1450-41e5-b8f4-922ff4799c19",
-   "title": {
-    "en": "Ninja Papa"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -183,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:47+00:00"
 }

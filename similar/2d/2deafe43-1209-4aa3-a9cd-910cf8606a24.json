@@ -11,7 +11,7 @@
     "en": "Kamisama ga Yadoru Kotoba"
    },
    "contentRating": "suggestive",
-   "score": 0.29664177,
+   "score": 0.29394898,
    "languages": [
     "tr",
     "en"
@@ -30,14 +30,16 @@
    ]
   },
   {
-   "id": "a2f287c4-0671-4f05-a9de-9a71fc6e1002",
+   "id": "fee84e14-a6e8-46e1-a93c-e50a76edb9e6",
    "title": {
-    "ja": "Eigyou Desukara"
+    "en": "Haru no Mizu"
    },
    "contentRating": "suggestive",
    "score": 0.28350797,
    "languages": [
-    "en"
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -63,16 +65,14 @@
    ]
   },
   {
-   "id": "fee84e14-a6e8-46e1-a93c-e50a76edb9e6",
+   "id": "a2f287c4-0671-4f05-a9de-9a71fc6e1002",
    "title": {
-    "en": "Haru no Mizu"
+    "ja": "Eigyou Desukara"
    },
    "contentRating": "suggestive",
    "score": 0.28350797,
    "languages": [
-    "es-la",
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -81,7 +81,7 @@
     "en": "Chasing the Wave"
    },
    "contentRating": "suggestive",
-   "score": 0.25349477,
+   "score": 0.25276062,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Kitayama-kun to Minamiya-kun"
    },
    "contentRating": "suggestive",
-   "score": 0.24948795,
+   "score": 0.24896897,
    "languages": [
     "en"
    ]
@@ -103,7 +103,7 @@
     "en": "Seventeen Syrups"
    },
    "contentRating": "suggestive",
-   "score": 0.24940236,
+   "score": 0.24887139,
    "languages": [
     "en",
     "es-la"
@@ -113,28 +113,6 @@
    "id": "eccd189b-3b10-4c03-8fbd-f9f078786d3d",
    "title": {
     "en": "Tsukiattenai Noni Fuufu Yattemasu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23886938,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fbc07684-3023-4baa-a371-f45ebdec3de9",
-   "title": {
-    "en": "Hoeru Inu to Kubittake"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23883753,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "66226696-7c9c-4dbc-bb25-fdb22aa7545d",
-   "title": {
-    "en": "Sayonara no, Sono Toki Made"
    },
    "contentRating": "suggestive",
    "score": 0.23148328,
@@ -154,14 +132,13 @@
    ]
   },
   {
-   "id": "3e6911b1-7294-4cfe-bff0-81e9ca0be8b6",
+   "id": "fbc07684-3023-4baa-a371-f45ebdec3de9",
    "title": {
-    "en": "Daraku Kazokuron"
+    "en": "Hoeru Inu to Kubittake"
    },
    "contentRating": "suggestive",
    "score": 0.23148328,
    "languages": [
-    "vi",
     "en"
    ]
   },
@@ -186,7 +163,30 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e10b6538-900e-457c-a7b2-cd511a0dcccc",
+   "title": {
+    "en": "Deriheru Danshi!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3e6911b1-7294-4cfe-bff0-81e9ca0be8b6",
+   "title": {
+    "en": "Daraku Kazokuron"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23148328,
+   "languages": [
+    "vi",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:31+00:00"
+ "updatedAt": "2023-12-10T18:13:14+00:00"
 }

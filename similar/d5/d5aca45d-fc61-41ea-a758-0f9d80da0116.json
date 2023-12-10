@@ -11,7 +11,7 @@
     "en": "Brothers"
    },
    "contentRating": "safe",
-   "score": 0.2559793,
+   "score": 0.2553115,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tiger x Crane"
    },
    "contentRating": "safe",
-   "score": 0.25180137,
+   "score": 0.25152496,
    "languages": [
     "en"
    ]
@@ -33,18 +33,7 @@
     "en": "Yuuyami Tokkoutai"
    },
    "contentRating": "safe",
-   "score": 0.25166503,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
-   "title": {
-    "en": "Sol Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.24258886,
+   "score": 0.2501317,
    "languages": [
     "en"
    ]
@@ -55,7 +44,18 @@
     "en": "Rental Magica from SOLOMON"
    },
    "contentRating": "safe",
-   "score": 0.24233608,
+   "score": 0.24310596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
+   "title": {
+    "en": "Sol Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.23757388,
    "languages": [
     "en"
    ]
@@ -74,24 +74,25 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "f9a7035e-917b-4fcd-9d01-ad6b14423f85",
    "title": {
-    "en": "Watashi wa Kagome"
+    "en": "The Hero Girl and the Green Magician"
    },
    "contentRating": "safe",
-   "score": 0.2295191,
+   "score": 0.23635973,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "618f543e-f561-42d7-a5ae-274429ca46cf",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "Egregor"
    },
    "contentRating": "safe",
-   "score": 0.22414677,
+   "score": 0.23493923,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -101,21 +102,20 @@
     "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
    },
    "contentRating": "safe",
-   "score": 0.22271638,
+   "score": 0.22221783,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ced8a7bd-e531-442a-acfd-eea268ebef10",
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
    "title": {
-    "en": "Jeep and Wagon"
+    "en": "Strange Moon"
    },
    "contentRating": "safe",
    "score": 0.22193067,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -132,6 +132,29 @@
    ]
   },
   {
+   "id": "ced8a7bd-e531-442a-acfd-eea268ebef10",
+   "title": {
+    "en": "Jeep and Wagon"
+   },
+   "contentRating": "safe",
+   "score": 0.22193067,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "82e06016-c23f-49a5-97d5-f0a535080fec",
+   "title": {
+    "en": "Taiyou Shounen Jango"
+   },
+   "contentRating": "safe",
+   "score": 0.22147971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "06f2469a-b19c-4e22-9efd-9078fe2e58e8",
    "title": {
     "en": "A Book of Dreams"
@@ -143,50 +166,28 @@
    ]
   },
   {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
+   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
    "title": {
-    "en": "GOD EATER - the spiral fate"
+    "en": "Kishin Douji Zenki"
    },
    "contentRating": "safe",
-   "score": 0.21506129,
+   "score": 0.21576592,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "74bada5e-5cf6-4ef5-8cd8-7d1b5fe6eef9",
+   "title": {
+    "en": "Black Clover (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.21576592,
    "languages": [
     "en",
     "tr"
    ]
-  },
-  {
-   "id": "69feb00e-c706-4367-adf3-b79e07286373",
-   "title": {
-    "en": "Yi Bi Zhi Ming"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
-   "title": {
-    "en": "Strobo"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cad1c68e-ece3-4453-9135-aff3918421a3",
-   "title": {
-    "en": "A-kun (17) no Sensou - I, the Tycoon?"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:34+00:00"
+ "updatedAt": "2023-12-10T18:32:00+00:00"
 }

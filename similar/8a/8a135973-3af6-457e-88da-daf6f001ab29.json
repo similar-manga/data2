@@ -6,12 +6,44 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a722feb3-c28f-4414-9b74-4ac07c667fea",
+   "title": {
+    "en": "Osanajimi Ja Dame Desu Ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.37922403,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
+   "title": {
+    "en": "Defense Bakari no Koi ja dame!!"
+   },
+   "contentRating": "safe",
+   "score": 0.3746689,
+   "languages": [
+    "en",
+    "tr",
+    "pl"
+   ]
+  },
+  {
+   "id": "db2443ec-fb7d-4634-adc2-c827edbaa572",
+   "title": {
+    "en": "Sakurai-kun, Kawaii no wa Ishou desu ka? Watashi desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.35397717
+  },
+  {
    "id": "b1dcf8e3-d3fe-4794-8f49-42304e9c86fe",
    "title": {
     "en": "Suki Nande Ja Wakaranai"
    },
    "contentRating": "safe",
-   "score": 0.3410275
+   "score": 0.3426375
   },
   {
    "id": "d0a108e6-cf37-4269-a1b3-69009bae743f",
@@ -19,7 +51,7 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.3345174,
+   "score": 0.33614632,
    "languages": [
     "en",
     "pt-br"
@@ -31,7 +63,7 @@
     "en": "Suki Nan Desu"
    },
    "contentRating": "safe",
-   "score": 0.33366397,
+   "score": 0.330349,
    "languages": [
     "pl"
    ]
@@ -42,23 +74,10 @@
     "en": "Kono Mama ja Dame Mitai desu"
    },
    "contentRating": "safe",
-   "score": 0.31847438,
+   "score": 0.31762314,
    "languages": [
     "en",
     "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
-   "title": {
-    "en": "Defense Bakari no Koi ja dame!!"
-   },
-   "contentRating": "safe",
-   "score": 0.30213934,
-   "languages": [
-    "en",
-    "tr",
     "pl"
    ]
   },
@@ -68,18 +87,34 @@
     "en": "Konyaku 0-Nichi Kon wa Dou desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.30015102
+   "score": 0.30196205
   },
   {
-   "id": "3d5d1a55-f8f8-4b06-8d1e-b61147f56d27",
+   "id": "c52a70dc-6434-41a0-bbb7-fd9acfc66ca7",
    "title": {
-    "en": "A situation where a boyish girl is turned into a feminine girl."
+    "en": "Generic Kareshi ja Dame desu ka? - Motokare no Otouto to Doukyo Hajimemashita"
+   },
+   "contentRating": "safe",
+   "score": 0.29507425
+  },
+  {
+   "id": "4b5823ba-1cfe-4536-99ac-4f216cf3d52b",
+   "title": {
+    "en": "Together During Summer, Too"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ccad19b9-76c6-4535-9a84-deabd25cfd5e",
+   "title": {
+    "en": "Chorokute Kawaii"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "fa4456d4-fe24-426f-b111-a163199028f4",
@@ -93,29 +128,9 @@
    ]
   },
   {
-   "id": "843a0d94-a91d-4f2c-a0a7-0191d2bc19f2",
+   "id": "3549518f-c5b3-4932-89f0-73bcc1088d74",
    "title": {
-    "en": "24 Jikan Renaichuu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "b2ee1964-3f27-4c57-a39f-6839c8bd6cd7",
-   "title": {
-    "en": "Idol ga Maiban Heya ni Shinnyuu Shitekuru"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "bb3f0691-6bd8-4f8d-a3c8-fc27d32a794a",
-   "title": {
-    "en": "Love is Sky Blue"
+    "en": "Beside the One Next to You"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -124,56 +139,33 @@
    ]
   },
   {
-   "id": "17337413-b0dd-4c17-bba7-9a0c724a89cd",
+   "id": "0fc02112-a542-4067-a885-ae9dd0503b08",
    "title": {
-    "en": "Dream Tour"
+    "en": "Hello, Mr. Rabbit"
    },
    "contentRating": "safe",
    "score": 0.2857143
   },
   {
-   "id": "a5da08f4-344e-4250-8cec-9f7c99dc59b8",
+   "id": "167689d9-f80e-4ffe-8f59-44d0b41a5f4f",
    "title": {
-    "en": "Chekera!"
+    "en": "Hand-in-Hand Lovers"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en",
-    "pl",
-    "pt-br"
+    "pl"
    ]
   },
   {
-   "id": "6e805b06-e507-4b57-9c53-8c3a31edc60f",
+   "id": "a33e4c8b-cb45-4521-aa47-649d64c5ae9a",
    "title": {
-    "en": "Madokana Tsuki to Encore"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c850441-04d9-4b21-9eb8-ecf8936fe357",
-   "title": {
-    "en": "Ouji na Kare wa Yasashikute Ijiwaru"
+    "en": "Yawarakana Yubisaki"
    },
    "contentRating": "safe",
    "score": 0.2857143
-  },
-  {
-   "id": "a7f59aa1-588e-4f86-bf81-40c3dce279e6",
-   "title": {
-    "en": "Imokenpi wa Koi wo Yobu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:22+00:00"
+ "updatedAt": "2023-12-10T18:23:31+00:00"
 }

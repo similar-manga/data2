@@ -6,28 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9f5fdd4b-26ca-4d9e-a4ff-b781f4681bc4",
+   "title": {
+    "en": "Katatsumuri-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.23959167,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8b9906d2-19fb-4575-ac75-0b2e2e02fdd8",
    "title": {
     "en": "Re-Kan!"
    },
    "contentRating": "safe",
-   "score": 0.21545638,
+   "score": 0.21537045,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "5043289e-596b-4734-8a5d-37943fe515c7",
+   "id": "4304a738-21c2-497a-8952-16deabc87fa1",
    "title": {
-    "en": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku"
+    "en": "Joukamachi no Dandelion"
    },
    "contentRating": "safe",
-   "score": 0.2101707,
+   "score": 0.210704,
    "languages": [
-    "en",
-    "vi",
-    "de"
+    "en"
    ]
   },
   {
@@ -36,7 +45,7 @@
     "en": "Caramel Kitsch Yuugekitai"
    },
    "contentRating": "safe",
-   "score": 0.20802566,
+   "score": 0.20705634,
    "languages": [
     "en"
    ]
@@ -47,7 +56,7 @@
     "en": "Wonderful Days"
    },
    "contentRating": "safe",
-   "score": 0.20675528,
+   "score": 0.20683645,
    "languages": [
     "en",
     "pt-br"
@@ -65,18 +74,15 @@
    ]
   },
   {
-   "id": "d68ce67b-38f3-454a-854f-118323b6ff4b",
+   "id": "ad1cd3ef-ec52-4cde-8595-a036af482099",
    "title": {
-    "en": "Angel Beats! Tabisuru Tenshi-chan"
+    "en": "Hayabusa-chan Can Fly!"
    },
    "contentRating": "safe",
-   "score": 0.19973734,
+   "score": 0.20134681,
    "languages": [
     "en",
-    "vi",
-    "es-la",
-    "es",
-    "id"
+    "es"
    ]
   },
   {
@@ -114,12 +120,38 @@
    ]
   },
   {
+   "id": "1f005653-3b2b-4f8b-bb89-746bd8f16b01",
+   "title": {
+    "en": "Oshigoto Biyori!"
+   },
+   "contentRating": "safe",
+   "score": 0.19881502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d68ce67b-38f3-454a-854f-118323b6ff4b",
+   "title": {
+    "en": "Angel Beats! Tabisuru Tenshi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.19814004,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "es",
+    "id"
+   ]
+  },
+  {
    "id": "c02343b3-74e4-4057-b34a-90e08d93f95a",
    "title": {
     "en": "Gochuumon wa Usagi desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.19420095,
+   "score": 0.19479722,
    "languages": [
     "en",
     "pt-br",
@@ -128,74 +160,38 @@
    ]
   },
   {
+   "id": "4698a5f0-e853-48d4-a58e-0161b31ebd78",
+   "title": {
+    "en": "Fate/mahjong night - Seihai Sensou"
+   },
+   "contentRating": "safe",
+   "score": 0.19458026,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1a5b3399-3d4b-4803-8eaa-289c5e5edb86",
+   "title": {
+    "en": "Hitorigurashi no Shougakusei"
+   },
+   "contentRating": "safe",
+   "score": 0.1938422,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "73c7a021-9484-42a4-ab38-baabbea27842",
    "title": {
     "en": "Choco Parfait"
    },
    "contentRating": "safe",
-   "score": 0.19310355,
+   "score": 0.19358943,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4c64f461-8562-44f3-a13f-aea2a0382d63",
-   "title": {
-    "en": "Null Meta"
-   },
-   "contentRating": "safe",
-   "score": 0.187432,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
-   "title": {
-    "en": "Tena on S-String"
-   },
-   "contentRating": "safe",
-   "score": 0.18480231,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "99ecc886-a9e8-4dd7-9979-bac2f5bd68c6",
-   "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Ensemble!"
-   },
-   "contentRating": "safe",
-   "score": 0.18344602,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f0684186-5955-40a4-a85b-05520057d171",
-   "title": {
-    "en": "Kaijuu no Tail"
-   },
-   "contentRating": "safe",
-   "score": 0.18277362,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f02bac7a-a84c-4686-88d8-c8beca7c5eb8",
-   "title": {
-    "en": "Angel Beats! Original Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.18201317,
-   "languages": [
-    "vi",
-    "fr",
-    "en",
-    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:25+00:00"
+ "updatedAt": "2023-12-10T18:23:42+00:00"
 }

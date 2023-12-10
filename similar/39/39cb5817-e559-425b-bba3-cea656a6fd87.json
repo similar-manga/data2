@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "41dae5dc-603b-4842-895e-f7b176d108b2",
+   "title": {
+    "en": "Yurayura Q"
+   },
+   "contentRating": "safe",
+   "score": 0.2546939,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "2d4c05a1-8fc2-4dbd-955a-1c8a6bd5fa03",
    "title": {
     "en": "Secret Dance"
    },
    "contentRating": "safe",
-   "score": 0.24977191,
+   "score": 0.25100163,
    "languages": [
     "en"
    ]
@@ -33,7 +45,7 @@
     "en": "Tsumi to Bachi"
    },
    "contentRating": "safe",
-   "score": 0.24532536,
+   "score": 0.23809525,
    "languages": [
     "en"
    ]
@@ -50,16 +62,39 @@
    ]
   },
   {
+   "id": "c23accf2-46ac-4e03-96d2-a98176d62b48",
+   "title": {
+    "en": "Himitsu no Otsukiai wo Shiteimasu."
+   },
+   "contentRating": "safe",
+   "score": 0.21809976,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f8a82dd6-88a0-4e61-b09d-47be1e6b6ee7",
    "title": {
     "en": "Take Off"
    },
    "contentRating": "safe",
-   "score": 0.21035548,
+   "score": 0.20941871,
    "languages": [
     "pt-br",
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "05d5d608-11f8-4c07-b5ad-523d807214c8",
+   "title": {
+    "en": "The Boy Out Of My Reach"
+   },
+   "contentRating": "safe",
+   "score": 0.2078669,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -68,7 +103,7 @@
     "en": "Jane and Harlequin"
    },
    "contentRating": "safe",
-   "score": 0.20819306,
+   "score": 0.20652512,
    "languages": [
     "en"
    ]
@@ -79,7 +114,18 @@
     "en": "Twink Twink"
    },
    "contentRating": "safe",
-   "score": 0.207393,
+   "score": 0.20651542,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3c2b0184-3bba-474e-9156-75a41440635e",
+   "title": {
+    "en": "Hatsukoi no Tsuzuki wa Danshiryou de"
+   },
+   "contentRating": "safe",
+   "score": 0.205082,
    "languages": [
     "en"
    ]
@@ -90,22 +136,36 @@
     "en": "Chibi Maruko-chan"
    },
    "contentRating": "safe",
-   "score": 0.20507137,
+   "score": 0.20494153,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
+   "id": "de95e689-eb64-4e3a-b19f-2488976ce396",
    "title": {
-    "en": "Hana-kun to Koisuru Watashi"
+    "en": "Sentimental Kiss"
    },
    "contentRating": "safe",
-   "score": 0.2027055,
+   "score": 0.20237501,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "6a7defd1-33d3-4af5-9fb3-394cfc9ad6da",
+   "title": {
+    "en": "The Girl Who Always Wears Gloves"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
    "languages": [
     "pt-br",
-    "pl",
-    "en"
+    "fr",
+    "vi",
+    "en",
+    "ru"
    ]
   },
   {
@@ -121,74 +181,16 @@
    ]
   },
   {
-   "id": "e96064cb-0f58-40ae-a19c-d70deca1fa77",
+   "id": "afd04f19-5f13-4699-afe5-9e431283e214",
    "title": {
-    "en": "Mikami-kun no Himitsu"
+    "en": "Aoharu-sou e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.19838668,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "eaa718b1-af3b-4b36-aa8a-77d5852ba0b7",
-   "title": {
-    "en": "The Microcosm Among Us Is Much Further Ahead"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dbc280ae-48b9-43d5-acbb-a0ec5abd2fa4",
-   "title": {
-    "en": "Bye Bye, Ame."
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "aeed5d3a-094b-4422-a03c-b136aeb0d2ad",
-   "title": {
-    "en": "Tenkousei, Ridatsu Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cd37dec0-2a85-48d2-b7a5-a092161965b6",
-   "title": {
-    "en": "Nekomori-kun no Himitsu no Tobira"
-   },
-   "contentRating": "safe",
-   "score": 0.19019142,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b5594eff-90e2-4e66-b328-c5c78ddd0637",
-   "title": {
-    "en": "Kagehinata"
-   },
-   "contentRating": "safe",
-   "score": 0.18437073,
+   "score": 0.20160659,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:58+00:00"
+ "updatedAt": "2023-12-10T18:14:30+00:00"
 }

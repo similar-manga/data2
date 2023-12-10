@@ -11,7 +11,7 @@
     "en": "Rooster Fighter"
    },
    "contentRating": "safe",
-   "score": 0.22727,
+   "score": 0.22573793,
    "languages": [
     "id",
     "en",
@@ -43,7 +43,7 @@
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.18852998,
+   "score": 0.18848322,
    "languages": [
     "es-la",
     "en"
@@ -55,10 +55,23 @@
     "en": "The Hollow Regalia"
    },
    "contentRating": "safe",
-   "score": 0.18523803,
+   "score": 0.1850375,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "ec576f96-c206-4b53-8cda-021a309b35fe",
+   "title": {
+    "en": "Danzai no Majutsugari"
+   },
+   "contentRating": "safe",
+   "score": 0.18471438,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
    ]
   },
   {
@@ -67,7 +80,7 @@
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.18501382,
+   "score": 0.18362279,
    "languages": [
     "en",
     "zh",
@@ -104,12 +117,52 @@
    ]
   },
   {
+   "id": "7ae7fcbc-0aee-417d-9262-be4d5beac3ca",
+   "title": {
+    "en": "Wild Strawberry"
+   },
+   "contentRating": "safe",
+   "score": 0.17690632,
+   "languages": [
+    "pt-br",
+    "vi",
+    "id",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "1c258c7a-5529-4fde-b6c0-f8028223993b",
+   "title": {
+    "en": "Yu-Gi-Oh! OCG Structures"
+   },
+   "contentRating": "safe",
+   "score": 0.1712888,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "28591273-88bf-4a4d-afbe-95c3c3430117",
+   "title": {
+    "en": "Shibuya Kingyo"
+   },
+   "contentRating": "safe",
+   "score": 0.17056502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1ee20ba6-881f-44f3-b3f3-7870f9513637",
    "title": {
     "en": "Ghost Sweeper Arai-kun"
    },
    "contentRating": "safe",
-   "score": 0.17019397,
+   "score": 0.16996469,
    "languages": [
     "en",
     "ru",
@@ -122,7 +175,7 @@
     "en": "Records of Nothingness"
    },
    "contentRating": "safe",
-   "score": 0.16834046,
+   "score": 0.16638759,
    "languages": [
     "en"
    ]
@@ -139,12 +192,23 @@
    ]
   },
   {
+   "id": "b5d7c99f-d885-45eb-9431-071dd60d0a54",
+   "title": {
+    "en": "Battle"
+   },
+   "contentRating": "safe",
+   "score": 0.16149263,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
    "title": {
     "en": "VERSUS"
    },
    "contentRating": "safe",
-   "score": 0.16206114,
+   "score": 0.16072316,
    "languages": [
     "uk",
     "pt-br",
@@ -158,84 +222,7 @@
     "de",
     "cs"
    ]
-  },
-  {
-   "id": "b5d7c99f-d885-45eb-9431-071dd60d0a54",
-   "title": {
-    "en": "Battle"
-   },
-   "contentRating": "safe",
-   "score": 0.16149263,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "10a65ac1-3203-4f9d-a17b-17c08652f89f",
-   "title": {
-    "en": "The Undefeated Newbie"
-   },
-   "contentRating": "safe",
-   "score": 0.15686943,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
-   "title": {
-    "en": "My Hero Academia"
-   },
-   "contentRating": "safe",
-   "score": 0.1548197,
-   "languages": [
-    "pt-br",
-    "it",
-    "ru",
-    "es",
-    "ar",
-    "id",
-    "vi",
-    "en",
-    "tr",
-    "es-la",
-    "de",
-    "fr",
-    "pl",
-    "th"
-   ]
-  },
-  {
-   "id": "a0c85a92-94f8-4ccb-b08d-096980aebac9",
-   "title": {
-    "en": "Mobile Suit Gundam 0080 - War in the Pocket"
-   },
-   "contentRating": "safe",
-   "score": 0.15163398,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17ce37ea-1cda-4429-b062-c4b627814225",
-   "title": {
-    "en": "Owari no Seraph"
-   },
-   "contentRating": "safe",
-   "score": 0.14984648,
-   "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "ru",
-    "hu",
-    "en",
-    "tr",
-    "id",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:35+00:00"
+ "updatedAt": "2023-12-10T18:26:47+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.25025943,
+   "score": 0.24975623,
    "languages": [
     "en",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Black Lagoon"
    },
    "contentRating": "suggestive",
-   "score": 0.20824425,
+   "score": 0.207509,
    "languages": [
     "it",
     "ru",
@@ -43,7 +43,7 @@
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.19980694,
+   "score": 0.20261829,
    "languages": [
     "fr",
     "pt-br",
@@ -74,22 +74,6 @@
    ]
   },
   {
-   "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
-   "title": {
-    "en": "Cockroach Buster"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1888583,
-   "languages": [
-    "en",
-    "pl",
-    "it",
-    "pt-br",
-    "hu",
-    "fr"
-   ]
-  },
-  {
    "id": "50ced036-edd9-43e6-aff9-14a691071456",
    "title": {
     "en": "Kamen Rider Kuuga"
@@ -101,6 +85,22 @@
     "en",
     "pt-br",
     "id"
+   ]
+  },
+  {
+   "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
+   "title": {
+    "en": "Cockroach Buster"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18832336,
+   "languages": [
+    "en",
+    "pl",
+    "it",
+    "pt-br",
+    "hu",
+    "fr"
    ]
   },
   {
@@ -127,22 +127,11 @@
     "en": "Robot"
    },
    "contentRating": "suggestive",
-   "score": 0.17638855,
+   "score": 0.17594641,
    "languages": [
     "en",
     "bg",
     "fr"
-   ]
-  },
-  {
-   "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
-   "title": {
-    "en": "Soldier"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16966546,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -163,12 +152,23 @@
    ]
   },
   {
+   "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
+   "title": {
+    "en": "Soldier"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1692955,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c102d588-8e84-442d-acd3-3883e1ebad75",
    "title": {
     "en": "Apple Lip-tan"
    },
    "contentRating": "suggestive",
-   "score": 0.16752423,
+   "score": 0.16650581,
    "languages": [
     "en",
     "pt-br"
@@ -187,22 +187,6 @@
    ]
   },
   {
-   "id": "ef473f14-8c4d-435e-9015-b714512e69eb",
-   "title": {
-    "en": "Summoned Japan"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16250932,
-   "languages": [
-    "en",
-    "id",
-    "fr",
-    "ar",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
    "id": "33ee2df9-0085-47e6-8851-14eefcbd255f",
    "title": {
     "en": "Camgoroshi"
@@ -211,6 +195,22 @@
    "score": 0.16169694,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ef473f14-8c4d-435e-9015-b714512e69eb",
+   "title": {
+    "en": "Summoned Japan"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16168952,
+   "languages": [
+    "en",
+    "id",
+    "fr",
+    "ar",
+    "ru",
+    "es-la"
    ]
   },
   {
@@ -229,23 +229,21 @@
    ]
   },
   {
-   "id": "835feda4-2db0-4753-8249-4575a3ceffe2",
+   "id": "67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6",
    "title": {
-    "en": "Kenja no Mago"
+    "en": "Goblin Slayer"
    },
    "contentRating": "suggestive",
-   "score": 0.16085641,
+   "score": 0.16070391,
    "languages": [
-    "es-la",
     "pt-br",
-    "pl",
-    "es",
-    "it",
-    "fr",
-    "en",
-    "uk"
+    "ar",
+    "id",
+    "es-la",
+    "ru",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:47+00:00"
+ "updatedAt": "2023-12-10T18:24:36+00:00"
 }

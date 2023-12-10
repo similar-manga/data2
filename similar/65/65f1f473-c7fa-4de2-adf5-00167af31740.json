@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "480f2660-be46-4868-bf70-d06655d9089e",
+   "title": {
+    "en": "Higurashi no Naku Koro ni Oni"
+   },
+   "contentRating": "safe",
+   "score": 0.70092213,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
    "title": {
     "en": "Akunin no Jouken"
@@ -42,15 +55,40 @@
    ]
   },
   {
-   "id": "38ce723f-6069-4fd7-89c8-b3c6242d96b8",
+   "id": "60309abd-3552-4824-bab6-20086eade196",
    "title": {
-    "en": "Doku Doku Mori Mori"
+    "en": "Kono Yo wa Tatakau Kachi ga Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "609ccb17-fd83-4126-876a-5bf8c037b065",
+   "title": {
+    "en": "Sonna Kazoku nara Sutechaeba?"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "dbdffb51-7817-40af-a090-e6c68f42d7e3",
+   "title": {
+    "en": "Ichizu Bitch-Chan (Pre-Serialization)"
    },
    "contentRating": "safe",
    "score": 0.14754222,
    "languages": [
+    "en",
     "pt-br",
-    "en"
+    "id",
+    "es-la"
    ]
   },
   {
@@ -92,6 +130,41 @@
    ]
   },
   {
+   "id": "a532122f-565b-4cf9-93bd-486aebf54ef1",
+   "title": {
+    "en": "Asahina-san no Bentou Tabetai"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "38ce723f-6069-4fd7-89c8-b3c6242d96b8",
+   "title": {
+    "en": "Doku Doku Mori Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "9dca479b-0a9a-4128-9b88-509ff418762d",
+   "title": {
+    "en": "Greenfingers no Hakoniwa"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "f20fd674-d661-4736-9b2d-b07b51841923",
    "title": {
     "en": "Gamera Vs. Barugon"
@@ -100,18 +173,6 @@
    "score": 0.134687,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
-   "title": {
-    "en": "Fugitives"
-   },
-   "contentRating": "safe",
-   "score": 0.134687,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -134,79 +195,17 @@
    ]
   },
   {
-   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
+   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
    "title": {
-    "en": "I Love You, Kyouko-san."
+    "en": "Fugitives"
    },
    "contentRating": "safe",
-   "score": 0.12469594,
+   "score": 0.134687,
    "languages": [
     "en",
-    "zh-hk",
-    "id",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
-   "title": {
-    "en": "He Was My Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "dc935f08-da21-44a6-ba57-ddfade8216d0",
-   "title": {
-    "en": "Task Force for Paranormal Disaster Management"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
-   "title": {
-    "en": "Shadowman"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "pt-br",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "b6984507-b2de-4a2a-8a78-4172969a4918",
-   "title": {
-    "en": "Flower Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4aad47c9-5a57-4f60-b38d-e22e2c884317",
-   "title": {
-    "en": "Three Months Since You Called Me Mama"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "en"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:48+00:00"
+ "updatedAt": "2023-12-10T18:19:20+00:00"
 }

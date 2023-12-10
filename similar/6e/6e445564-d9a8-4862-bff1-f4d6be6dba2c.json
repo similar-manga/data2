@@ -11,7 +11,7 @@
     "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.30735195,
+   "score": 0.31149408,
    "languages": [
     "pt-br",
     "en",
@@ -28,7 +28,7 @@
     "en": "Osomatsu-kun"
    },
    "contentRating": "safe",
-   "score": 0.30423835,
+   "score": 0.30729043,
    "languages": [
     "en"
    ]
@@ -39,7 +39,7 @@
     "en": "The Kabocha Wine"
    },
    "contentRating": "safe",
-   "score": 0.304001,
+   "score": 0.30466494,
    "languages": [
     "en"
    ]
@@ -50,10 +50,53 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.30012286,
+   "score": 0.30141413,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
+   "title": {
+    "en": "One Piece in Love"
+   },
+   "contentRating": "safe",
+   "score": 0.27693754,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
+   "title": {
+    "en": "Too Many Losing Heroines! @comic"
+   },
+   "contentRating": "safe",
+   "score": 0.26576853,
+   "languages": [
+    "vi",
+    "en",
+    "ru",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+   "title": {
+    "en": "Kaoru Hana wa Rin to Saku"
+   },
+   "contentRating": "safe",
+   "score": 0.2616798,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "vi",
+    "id",
+    "es-la",
+    "ar"
    ]
   },
   {
@@ -89,12 +132,24 @@
    ]
   },
   {
+   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
+   "title": {
+    "en": "Show-ha Shou-ten!"
+   },
+   "contentRating": "safe",
+   "score": 0.2616798,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
    "title": {
     "en": "Yotsuba\u0026!"
    },
    "contentRating": "safe",
-   "score": 0.25617936,
+   "score": 0.25778264,
    "languages": [
     "pt-br",
     "ru",
@@ -108,53 +163,78 @@
    ]
   },
   {
-   "id": "a60cf591-8c20-4f71-be4c-d2995e63292a",
-   "title": {
-    "en": "Illuminating Emotions"
-   },
-   "contentRating": "safe",
-   "score": 0.25526118,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "17727b0f-c9f2-4ab5-a0b1-b7b0cf6c1fc8",
    "title": {
     "en": "The Nationally Famous Idol, Who Turned out to Be My Childhood Friend, Is Now My Neighbour"
    },
    "contentRating": "safe",
-   "score": 0.25083852,
+   "score": 0.25272638,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "bc600082-5fac-4146-be78-8db50af0a680",
+   "id": "a60cf591-8c20-4f71-be4c-d2995e63292a",
    "title": {
-    "en": "Kuroi-san After School"
+    "en": "Illuminating Emotions"
    },
    "contentRating": "safe",
-   "score": 0.2462464,
+   "score": 0.24897154,
    "languages": [
-    "de",
     "vi",
-    "pt-br",
-    "en",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "9aeff83f-2917-4440-b0c3-2d1ae863aa90",
+   "id": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
    "title": {
-    "en": "Setogiwa ni Todoroku"
+    "en": "The Girl I Like Forgot Her Glasses"
+   },
+   "contentRating": "safe",
+   "score": 0.2453871,
+   "languages": [
+    "uk",
+    "id",
+    "pt-br",
+    "en",
+    "ru",
+    "es-la",
+    "fr",
+    "ar",
+    "tr"
+   ]
+  },
+  {
+   "id": "4413d794-e0da-4a6e-b61a-afd5758914e6",
+   "title": {
+    "en": "Hanninmae no Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.24372467,
+   "languages": [
+    "th",
+    "fr",
+    "vi",
+    "pt-br",
+    "it",
+    "bg",
+    "en"
+   ]
+  },
+  {
+   "id": "38179337-1640-4927-8851-9bedd8d19e82",
+   "title": {
+    "en": "Shiotaiou no Sato-san ga Ore ni dake Amai"
    },
    "contentRating": "safe",
    "score": 0.2388799,
    "languages": [
-    "id"
+    "id",
+    "en",
+    "pt-br",
+    "vi",
+    "ar"
    ]
   },
   {
@@ -172,79 +252,7 @@
     "ru",
     "es-la"
    ]
-  },
-  {
-   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
-   "title": {
-    "en": "Welcome to the Ballroom"
-   },
-   "contentRating": "safe",
-   "score": 0.23772398,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es",
-    "es-la",
-    "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
-   "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "it",
-    "es"
-   ]
-  },
-  {
-   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
-   "title": {
-    "en": "Aisupe @"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
-   "title": {
-    "en": "Yowamushi Pedal"
-   },
-   "contentRating": "safe",
-   "score": 0.23175868,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "a9b60197-aaa8-4c2c-b6c2-ec39f0b819c9",
-   "title": {
-    "en": "Fisherboy Sanpei"
-   },
-   "contentRating": "safe",
-   "score": 0.22736895,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:08+00:00"
+ "updatedAt": "2023-12-10T18:20:15+00:00"
 }

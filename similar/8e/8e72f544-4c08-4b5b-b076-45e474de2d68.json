@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a3f5b651-8b31-404b-990e-703ed78bffcc",
+   "title": {
+    "en": "Kojin Jugyou"
+   },
+   "contentRating": "safe",
+   "score": 0.43565947,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "82ac1f34-45a9-4e34-911d-2c6344b69a4c",
    "title": {
     "en": "A story about a ridiculous secret of a classmate"
    },
    "contentRating": "safe",
-   "score": 0.38897622,
+   "score": 0.3892926,
    "languages": [
     "pt-br",
     "id",
@@ -24,9 +35,43 @@
     "en": "Boku no Suki na Otokonoko"
    },
    "contentRating": "safe",
-   "score": 0.3800847,
+   "score": 0.37998345,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8eff593c-e769-4005-8382-0951aa4443e7",
+   "title": {
+    "en": "Shinda Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.36433846
+  },
+  {
+   "id": "3de833a5-c673-4f1c-90fa-98003a11b486",
+   "title": {
+    "en": "Let’s Keep This Love a Secret from Everyone"
+   },
+   "contentRating": "safe",
+   "score": 0.35992205,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "51a0cd0c-3254-47f0-a7fd-4b9bb178f813",
+   "title": {
+    "en": "True Beauty"
+   },
+   "contentRating": "safe",
+   "score": 0.35824692,
+   "languages": [
+    "ru",
+    "es-la",
+    "fr",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -35,7 +80,23 @@
     "en": "My Girlfriend Is a He"
    },
    "contentRating": "safe",
-   "score": 0.35041448
+   "score": 0.34997454
+  },
+  {
+   "id": "f5dc68a1-1a36-4eab-861e-b5f47b4d31f6",
+   "title": {
+    "en": "S Size!"
+   },
+   "contentRating": "safe",
+   "score": 0.34875548
+  },
+  {
+   "id": "a16d0d40-4f49-49ae-88e9-e4bad47e75a3",
+   "title": {
+    "en": "The Young Singer in my Class"
+   },
+   "contentRating": "safe",
+   "score": 0.3460235
   },
   {
    "id": "e161f886-ec1a-44ff-8769-0831f2348e06",
@@ -43,7 +104,38 @@
     "en": "Don't Believe Her"
    },
    "contentRating": "safe",
-   "score": 0.3478636,
+   "score": 0.34531617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a4c80964-bd6f-4cf2-b1f2-0cbcd94442d6",
+   "title": {
+    "en": "N to S"
+   },
+   "contentRating": "safe",
+   "score": 0.34435406,
+   "languages": [
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "9bd47f75-e0e9-4201-967c-e2e0b6a3fe1e",
+   "title": {
+    "en": "Choro na to Senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.3409302
+  },
+  {
+   "id": "3bbe3a31-99ad-4644-b90b-987294db6b42",
+   "title": {
+    "en": "Ocean Of Secrets"
+   },
+   "contentRating": "safe",
+   "score": 0.34028983,
    "languages": [
     "en"
    ]
@@ -54,7 +146,7 @@
     "en": "Lover Puzzle"
    },
    "contentRating": "safe",
-   "score": 0.3391682,
+   "score": 0.33780098,
    "languages": [
     "fr"
    ]
@@ -65,7 +157,7 @@
     "en": "Shiro Bara Gakuen Vampire Rose"
    },
    "contentRating": "safe",
-   "score": 0.33839977,
+   "score": 0.33754697,
    "languages": [
     "en",
     "pt-br",
@@ -78,98 +170,8 @@
     "en": "Nadeshiko Club"
    },
    "contentRating": "safe",
-   "score": 0.33806464
-  },
-  {
-   "id": "342a8173-2f34-46f6-bb96-62ec796bc601",
-   "title": {
-    "en": "Girl (Jeon Young Hui)"
-   },
-   "contentRating": "safe",
-   "score": 0.33218864
-  },
-  {
-   "id": "722a8e72-bc43-4a5c-b5f6-96413bd3a7b4",
-   "title": {
-    "en": "Good Person"
-   },
-   "contentRating": "safe",
-   "score": 0.32662782,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "c0755a50-d25e-4d47-a018-0c88c12fb12f",
-   "title": {
-    "en": "Tako to Ika wa Isogashii"
-   },
-   "contentRating": "safe",
-   "score": 0.32661211
-  },
-  {
-   "id": "9fe42d7e-28ca-4e92-bd5b-96e95727e94b",
-   "title": {
-    "en": "Battle Girl Ai"
-   },
-   "contentRating": "safe",
-   "score": 0.3259172
-  },
-  {
-   "id": "2b7db5be-b961-4a59-8d27-2e83aad86695",
-   "title": {
-    "en": "Te to Te to Namida"
-   },
-   "contentRating": "safe",
-   "score": 0.32431173,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "5024b327-33b9-4f5a-923f-d07bf84d59e3",
-   "title": {
-    "en": "A Love Guard"
-   },
-   "contentRating": "safe",
-   "score": 0.32225335,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "12c3f735-5280-48a3-8ace-9ef4281e487e",
-   "title": {
-    "en": "Celeste Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.32038268,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d02eb450-a48e-4e95-87ff-bd314befee6c",
-   "title": {
-    "en": "S-Kei Kareshi Zukan!"
-   },
-   "contentRating": "safe",
-   "score": 0.32019055
-  },
-  {
-   "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
-   "title": {
-    "en": "Tsumi to Bachi"
-   },
-   "contentRating": "safe",
-   "score": 0.31969044,
-   "languages": [
-    "en"
-   ]
+   "score": 0.33743152
   }
  ],
- "updatedAt": "2023-12-10T01:05:34+00:00"
+ "updatedAt": "2023-12-10T18:24:04+00:00"
 }

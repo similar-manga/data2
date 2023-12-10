@@ -6,27 +6,27 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "c98fb1ae-a702-4207-bb84-9f26b58a680a",
-   "title": {
-    "en": "The Last Summoner"
-   },
-   "contentRating": "suggestive",
-   "score": 0.268414,
-   "languages": [
-    "en",
-    "fr",
-    "id"
-   ]
-  },
-  {
    "id": "b5745bef-8ea8-4cd2-81a4-2e9b8f0e8e88",
    "title": {
     "en": "A Very Delightful Tale of Revenge"
    },
    "contentRating": "suggestive",
-   "score": 0.26813424,
+   "score": 0.26477957,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c98fb1ae-a702-4207-bb84-9f26b58a680a",
+   "title": {
+    "en": "The Last Summoner"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26454073,
+   "languages": [
+    "en",
+    "fr",
+    "id"
    ]
   },
   {
@@ -35,21 +35,10 @@
     "en": "These Players Think I'm One Of Them"
    },
    "contentRating": "suggestive",
-   "score": 0.25201452,
+   "score": 0.2484576,
    "languages": [
     "ru",
     "pt-br"
-   ]
-  },
-  {
-   "id": "821d9612-bef9-4ea4-b71e-47333f2dcebe",
-   "title": {
-    "en": "Yuusha Party wo Tsuihou sareta node, Maou wo Torikaeshi ga Tsukanai hodo Tsuyoku Sodatetemita"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2392802,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -58,10 +47,21 @@
     "en": "Lady Saint, please stop your weird tricks!"
    },
    "contentRating": "suggestive",
-   "score": 0.23758571,
+   "score": 0.23500855,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "821d9612-bef9-4ea4-b71e-47333f2dcebe",
+   "title": {
+    "en": "Yuusha Party wo Tsuihou sareta node, Maou wo Torikaeshi ga Tsukanai hodo Tsuyoku Sodatetemita"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23309432,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -70,7 +70,7 @@
     "en": "Killing Ghosts"
    },
    "contentRating": "suggestive",
-   "score": 0.2341699,
+   "score": 0.22975165,
    "languages": [
     "ru",
     "en"
@@ -82,7 +82,7 @@
     "en": "Summoned to Another World... Again?!"
    },
    "contentRating": "suggestive",
-   "score": 0.23024628,
+   "score": 0.22512056,
    "languages": [
     "en",
     "fr",
@@ -93,12 +93,23 @@
    ]
   },
   {
+   "id": "35bc50e1-085a-40c7-913b-75b6ead0cea1",
+   "title": {
+    "en": "Chang An Demon Song"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22382535,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "940aa8da-e313-4084-afea-efbca397b5cf",
    "title": {
     "en": "Kanojo Shoukan Shimashita!?"
    },
    "contentRating": "suggestive",
-   "score": 0.22847433,
+   "score": 0.22256307,
    "languages": [
     "fr",
     "es-la",
@@ -108,38 +119,12 @@
    ]
   },
   {
-   "id": "35bc50e1-085a-40c7-913b-75b6ead0cea1",
-   "title": {
-    "en": "Chang An Demon Song"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22631928,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d3608ab4-fed0-4f65-856e-55466c931ebe",
-   "title": {
-    "en": "Maou no Musume, Sugoku Choroi."
-   },
-   "contentRating": "suggestive",
-   "score": 0.22353362,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "zh",
-    "id"
-   ]
-  },
-  {
    "id": "71a621f8-c2bc-496e-aa34-f4b91e9874ac",
    "title": {
     "en": "Demon Spirit Seed Manual"
    },
    "contentRating": "suggestive",
-   "score": 0.22341767,
+   "score": 0.22125138,
    "languages": [
     "ru",
     "en",
@@ -152,12 +137,27 @@
    ]
   },
   {
+   "id": "d3608ab4-fed0-4f65-856e-55466c931ebe",
+   "title": {
+    "en": "Maou no Musume, Sugoku Choroi."
+   },
+   "contentRating": "suggestive",
+   "score": 0.22043385,
+   "languages": [
+    "es-la",
+    "en",
+    "vi",
+    "zh",
+    "id"
+   ]
+  },
+  {
    "id": "13e0a7a7-ed1f-4e1f-8ed0-00443f7c134a",
    "title": {
     "en": "Mowang Yu Yongzhe Yu Sheng Jian Shendian"
    },
    "contentRating": "suggestive",
-   "score": 0.21936946,
+   "score": 0.21459275,
    "languages": [
     "en"
    ]
@@ -168,7 +168,7 @@
     "en": "Stop Summoning Me!"
    },
    "contentRating": "suggestive",
-   "score": 0.21503387,
+   "score": 0.21253742,
    "languages": [
     "en"
    ]
@@ -179,7 +179,7 @@
     "en": "I Can Summon God"
    },
    "contentRating": "suggestive",
-   "score": 0.2103187,
+   "score": 0.20768969,
    "languages": [
     "en"
    ]
@@ -190,7 +190,7 @@
     "en": "Zatsuyo Gakari Ken Shien Jutsu Shi Ha Party Tsuiho Ni Akogareru ~ Seken Ha Tsuiho Boomnanoni, Ore Wo Kadai Hyoka Suru Party Member Tachi Ga Kesshite Tebanaso to Shitekurenai"
    },
    "contentRating": "suggestive",
-   "score": 0.20941788,
+   "score": 0.20720817,
    "languages": [
     "en"
    ]
@@ -201,7 +201,7 @@
     "en": "Immortal Swordsman In The Reverse World"
    },
    "contentRating": "suggestive",
-   "score": 0.20903066,
+   "score": 0.20552246,
    "languages": [
     "en",
     "pt-br",
@@ -214,5 +214,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:56+00:00"
+ "updatedAt": "2023-12-10T18:11:34+00:00"
 }

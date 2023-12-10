@@ -6,14 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3c05b90c-7685-4f25-aca4-61ac825984e4",
+   "title": {
+    "en": "My Three Tyrant Brothers"
+   },
+   "contentRating": "safe",
+   "score": 0.6482751,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b16e91ea-9e0a-4f36-9e7f-4565c7005ee9",
+   "title": {
+    "en": "Can We Become a Family?"
+   },
+   "contentRating": "safe",
+   "score": 0.64433837,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "8f884297-28e4-49d8-a298-8367666a4076",
    "title": {
     "en": "Please Don't Come to the Villainess' Stationery Store!"
    },
    "contentRating": "safe",
-   "score": 0.6403735,
+   "score": 0.64187974,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9a3fbd77-6e6f-4386-8e29-32c3d6577b53",
+   "title": {
+    "en": "Why the King Needs a Secretary"
+   },
+   "contentRating": "safe",
+   "score": 0.6400966,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "it",
+    "tr"
    ]
   },
   {
@@ -22,7 +60,7 @@
     "en": "Don't Hire My Brother, Your Highness!"
    },
    "contentRating": "safe",
-   "score": 0.6361268,
+   "score": 0.63751316,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +72,7 @@
     "en": "The Perfect Ending for the Villainess of a Fairy Tale"
    },
    "contentRating": "safe",
-   "score": 0.6329676,
+   "score": 0.6345237,
    "languages": [
     "en",
     "pl"
@@ -46,7 +84,7 @@
     "en": "Daisy: How to Become the Duke's Fiancée"
    },
    "contentRating": "safe",
-   "score": 0.63216937,
+   "score": 0.6341852,
    "languages": [
     "en",
     "ru",
@@ -56,12 +94,23 @@
    ]
   },
   {
+   "id": "ea2e8598-c9f9-4555-aedc-285d0fe920dc",
+   "title": {
+    "en": "The Villain's Beloved Daughter"
+   },
+   "contentRating": "safe",
+   "score": 0.62678957,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
    "id": "f3b20d87-847d-4c51-84e5-ce9886693c85",
    "title": {
     "en": "I Tamed a Tyrant and Ran Away"
    },
    "contentRating": "safe",
-   "score": 0.625392,
+   "score": 0.62677366,
    "languages": [
     "pl",
     "en",
@@ -77,7 +126,7 @@
     "en": "Living as the Tyrant's Older Sister"
    },
    "contentRating": "safe",
-   "score": 0.62298346,
+   "score": 0.6242825,
    "languages": [
     "en",
     "pt-br",
@@ -91,22 +140,10 @@
     "en": "Born as the Daughter of a Wicked Woman"
    },
    "contentRating": "safe",
-   "score": 0.6221033,
+   "score": 0.62352586,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "c839a78e-9df2-43ee-b2b7-47116839b330",
-   "title": {
-    "en": "The Little Landlady"
-   },
-   "contentRating": "safe",
-   "score": 0.6179919,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -115,7 +152,7 @@
     "en": "The Invincible Princess Is Bored Again Today"
    },
    "contentRating": "safe",
-   "score": 0.61787415,
+   "score": 0.6199905,
    "languages": [
     "en",
     "hu",
@@ -130,22 +167,34 @@
     "en": "I Became the Secretary of the Tyrant"
    },
    "contentRating": "safe",
-   "score": 0.61714613,
+   "score": 0.6196473,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "2dfedaa6-d9d0-4fd1-9e6c-6a3229311e63",
+   "id": "c839a78e-9df2-43ee-b2b7-47116839b330",
    "title": {
-    "en": "The Tyrant's Tranquilizer"
+    "en": "The Little Landlady"
    },
    "contentRating": "safe",
-   "score": 0.6097191,
+   "score": 0.6195033,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "bd74543a-c9b2-487b-9d29-c0393549fe33",
+   "title": {
+    "en": "Saving My Sweetheart"
+   },
+   "contentRating": "safe",
+   "score": 0.6161507,
    "languages": [
     "en",
-    "pt-br"
+    "pl"
    ]
   },
   {
@@ -154,7 +203,7 @@
     "en": "I Woke up as the Ugly Duckling"
    },
    "contentRating": "safe",
-   "score": 0.6094184,
+   "score": 0.61121607,
    "languages": [
     "en",
     "pt-br",
@@ -162,66 +211,7 @@
     "fr",
     "pl"
    ]
-  },
-  {
-   "id": "6cfc0541-41e2-4f77-8340-971fdc15bacc",
-   "title": {
-    "en": "Into the Light, Once Again"
-   },
-   "contentRating": "safe",
-   "score": 0.42598307,
-   "languages": [
-    "en",
-    "uk",
-    "it",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "256c04c1-3575-44c9-9b02-e9d593a6b86d",
-   "title": {
-    "en": "The Tyrant's Guardian Is an Evil Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.42166182,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "id",
-    "pl",
-    "tr",
-    "it"
-   ]
-  },
-  {
-   "id": "d80322ff-3923-48ee-b823-0e9dda3aa8c2",
-   "title": {
-    "en": "Caught by the Villain"
-   },
-   "contentRating": "safe",
-   "score": 0.3940729,
-   "languages": [
-    "en",
-    "tr",
-    "id",
-    "pl",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
-   "id": "a7ecd60e-24d3-4e26-9e7a-0c5792b92a67",
-   "title": {
-    "en": "A Transmigrator's Privilege"
-   },
-   "contentRating": "safe",
-   "score": 0.3907118,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:34+00:00"
+ "updatedAt": "2023-12-10T18:10:36+00:00"
 }

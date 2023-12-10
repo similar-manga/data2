@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "19138796-45e0-46f6-9548-264eb61774f6",
+   "title": {
+    "en": "Aikatsu!"
+   },
+   "contentRating": "safe",
+   "score": 0.6581558,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "bed2ef5e-99b1-4809-8f65-5866391f839b",
    "title": {
     "en": "The Gender of Mona Lisa"
    },
    "contentRating": "safe",
-   "score": 0.34095708,
+   "score": 0.3500024,
    "languages": [
     "es-la",
     "en",
@@ -24,18 +36,18 @@
     "en": "Anime Shop Manager"
    },
    "contentRating": "safe",
-   "score": 0.3251399,
+   "score": 0.32551232,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "aefabfc4-523a-4f6a-a396-5077eeafbae6",
+   "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
    "title": {
-    "en": "Aquarion EVOL"
+    "en": "My Heaven"
    },
    "contentRating": "safe",
-   "score": 0.28272894,
+   "score": 0.28929052,
    "languages": [
     "en"
    ]
@@ -46,7 +58,7 @@
     "en": "Amon Game"
    },
    "contentRating": "safe",
-   "score": 0.282443,
+   "score": 0.28893468,
    "languages": [
     "id",
     "pt-br",
@@ -54,23 +66,12 @@
    ]
   },
   {
-   "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
+   "id": "aefabfc4-523a-4f6a-a396-5077eeafbae6",
    "title": {
-    "en": "My Heaven"
+    "en": "Aquarion EVOL"
    },
    "contentRating": "safe",
-   "score": 0.28224206,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
-   "title": {
-    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.24152647,
+   "score": 0.28580752,
    "languages": [
     "en"
    ]
@@ -81,52 +82,7 @@
     "en": "Red Fang"
    },
    "contentRating": "safe",
-   "score": 0.24089639,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "55be8e16-fdd9-4f19-b32f-f0d1c313e8b9",
-   "title": {
-    "en": "Code Geass: Lelouch of the Re;surrection"
-   },
-   "contentRating": "safe",
-   "score": 0.24078876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8d949788-03db-4303-973e-296878160a03",
-   "title": {
-    "en": "Sea Tiger"
-   },
-   "contentRating": "safe",
-   "score": 0.23374407,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1dcba628-0f6c-4030-a476-18f48028d243",
-   "title": {
-    "en": "Nine Lives Man"
-   },
-   "contentRating": "safe",
-   "score": 0.23331724,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
-   "title": {
-    "en": "Cyber Blue - Lost Number Children"
-   },
-   "contentRating": "safe",
-   "score": 0.2327276,
+   "score": 0.2455924,
    "languages": [
     "en"
    ]
@@ -137,7 +93,63 @@
     "en": "Kyousogiga"
    },
    "contentRating": "safe",
-   "score": 0.23097786,
+   "score": 0.23808487,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
+   "title": {
+    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.23661365,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "55be8e16-fdd9-4f19-b32f-f0d1c313e8b9",
+   "title": {
+    "en": "Code Geass: Lelouch of the Re;surrection"
+   },
+   "contentRating": "safe",
+   "score": 0.23614708,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1dcba628-0f6c-4030-a476-18f48028d243",
+   "title": {
+    "en": "Nine Lives Man"
+   },
+   "contentRating": "safe",
+   "score": 0.23328032,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "8d949788-03db-4303-973e-296878160a03",
+   "title": {
+    "en": "Sea Tiger"
+   },
+   "contentRating": "safe",
+   "score": 0.23089617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
+   "title": {
+    "en": "Cyber Blue - Lost Number Children"
+   },
+   "contentRating": "safe",
+   "score": 0.22895846,
    "languages": [
     "en"
    ]
@@ -148,7 +160,18 @@
     "en": "9 Banme no Musashi - Mission Blue"
    },
    "contentRating": "safe",
-   "score": 0.22733325,
+   "score": 0.2231989,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "42a3033e-2dd4-4591-a153-9201bccf313f",
+   "title": {
+    "en": "Aoki Ao no Atopos"
+   },
+   "contentRating": "safe",
+   "score": 0.22013977,
    "languages": [
     "en"
    ]
@@ -164,36 +187,7 @@
     "it",
     "en"
    ]
-  },
-  {
-   "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
-   "title": {
-    "en": "Kon no Ki Konoha"
-   },
-   "contentRating": "safe",
-   "score": 0.21312897,
-   "languages": [
-    "fr",
-    "id",
-    "pt-br",
-    "en",
-    "pl",
-    "ca",
-    "uk"
-   ]
-  },
-  {
-   "id": "babe48ea-f0d1-481c-a285-8bb13166ba0d",
-   "title": {
-    "en": "Beyond the Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.21046115,
-   "languages": [
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:27+00:00"
+ "updatedAt": "2023-12-10T18:29:11+00:00"
 }

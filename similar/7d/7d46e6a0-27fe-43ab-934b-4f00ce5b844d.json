@@ -6,27 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b64c9fe9-6009-43f7-a4f7-d7fac2afab61",
+   "title": {
+    "en": "Ningyo Hime to Ouji-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.37082782,
+   "languages": [
+    "fr",
+    "tr"
+   ]
+  },
+  {
    "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
    "title": {
     "en": "Liar Kiss"
    },
    "contentRating": "safe",
-   "score": 0.35815704,
+   "score": 0.35992658,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "b64c9fe9-6009-43f7-a4f7-d7fac2afab61",
+   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
    "title": {
-    "en": "Ningyo Hime to Ouji-sama"
+    "en": "bit by bit"
    },
    "contentRating": "safe",
-   "score": 0.35367063,
+   "score": 0.33368778,
    "languages": [
-    "fr",
-    "tr"
+    "en"
    ]
   },
   {
@@ -35,7 +46,7 @@
     "en": "Ouji-sama Sama no Jijou."
    },
    "contentRating": "safe",
-   "score": 0.34065253,
+   "score": 0.33271164,
    "languages": [
     "tr",
     "en"
@@ -47,18 +58,7 @@
     "en": "Tonari no Hoshi no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.3398524,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
-   "title": {
-    "en": "bit by bit"
-   },
-   "contentRating": "safe",
-   "score": 0.3396601,
+   "score": 0.32862303,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Kimi ni Hana o"
    },
    "contentRating": "safe",
-   "score": 0.33090457,
+   "score": 0.3265144,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "Tokubetsu ni Naritai"
    },
    "contentRating": "safe",
-   "score": 0.3280114,
+   "score": 0.32269552,
    "languages": [
     "en",
     "th",
@@ -88,12 +88,12 @@
    ]
   },
   {
-   "id": "22db1172-b57c-4726-8211-2e93d191ef41",
+   "id": "7bdf8349-1523-43b0-861a-1eff0c3d32ed",
    "title": {
-    "en": "Seitoshidoushitsu no Ouji-sama"
+    "en": "Kiss Tokidoki Kiss Tokoro ni Yori Kiss"
    },
    "contentRating": "safe",
-   "score": 0.32662416,
+   "score": 0.32148495,
    "languages": [
     "en"
    ]
@@ -104,9 +104,32 @@
     "en": "Ama Iro Omoi"
    },
    "contentRating": "safe",
-   "score": 0.32639915,
+   "score": 0.32147622,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "22db1172-b57c-4726-8211-2e93d191ef41",
+   "title": {
+    "en": "Seitoshidoushitsu no Ouji-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.32050142,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2a0536d0-eb91-4e22-9c03-66b8221214b8",
+   "title": {
+    "en": "Ougon Honey ♡"
+   },
+   "contentRating": "safe",
+   "score": 0.31914994,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -116,7 +139,7 @@
     "en": "Hoshi ni Memai wo"
    },
    "contentRating": "safe",
-   "score": 0.32291323,
+   "score": 0.3186066,
    "languages": [
     "en"
    ]
@@ -127,7 +150,7 @@
     "en": "Futsu Hyakkei"
    },
    "contentRating": "safe",
-   "score": 0.32206613,
+   "score": 0.31710532,
    "languages": [
     "en"
    ]
@@ -138,7 +161,18 @@
     "en": "Love for Sale"
    },
    "contentRating": "safe",
-   "score": 0.32085258,
+   "score": 0.31657326,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
+   "title": {
+    "en": "Ouji to Hime to Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.31592587,
    "languages": [
     "en"
    ]
@@ -149,44 +183,11 @@
     "en": "Dokuhebi-san ni go-chuui wo"
    },
    "contentRating": "safe",
-   "score": 0.319922,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c529510-e68f-4f89-8dd0-00912aadd7bf",
-   "title": {
-    "en": "Love and Terrarium"
-   },
-   "contentRating": "safe",
-   "score": 0.31696996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f6420ddc-35a0-4fbe-b743-da86a2310004",
-   "title": {
-    "en": "Shisen no Saki ni"
-   },
-   "contentRating": "safe",
-   "score": 0.31661665,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "60b94129-c7a3-494a-9d15-be8cc320f7e5",
-   "title": {
-    "en": "Uwasa no Kanojo to Sono Kareshi"
-   },
-   "contentRating": "safe",
-   "score": 0.3154225,
+   "score": 0.31541297,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:47+00:00"
+ "updatedAt": "2023-12-10T18:22:03+00:00"
 }

@@ -39,7 +39,7 @@
     "en": "Sekishin"
    },
    "contentRating": "safe",
-   "score": 0.24547498,
+   "score": 0.24601588,
    "languages": [
     "en"
    ]
@@ -50,18 +50,7 @@
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.23425105,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2ce30c28-220b-4d44-91c1-3239e7a737a6",
-   "title": {
-    "en": "Curry Cook: The Holy Man Of Love And Fury"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23520027,
    "languages": [
     "en"
    ]
@@ -82,25 +71,38 @@
    ]
   },
   {
+   "id": "2ce30c28-220b-4d44-91c1-3239e7a737a6",
+   "title": {
+    "en": "Curry Cook: The Holy Man Of Love And Fury"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
    "title": {
     "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.23082949,
+   "score": 0.232407,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "id": "24c75b6c-fd19-4938-b829-7bd883154e42",
    "title": {
-    "en": "Chingiri"
+    "en": "BLACK999"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21466541,
    "languages": [
+    "id",
+    "es-la",
     "en"
    ]
   },
@@ -113,48 +115,6 @@
    "score": 0.21428573,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
-   "title": {
-    "en": "Hello Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "ca",
-    "en",
-    "hu",
-    "pl",
-    "ro",
-    "de"
-   ]
-  },
-  {
-   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
-   "title": {
-    "en": "Monster and Child"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "693e5619-fdcb-4a2c-b65b-083d9c431318",
-   "title": {
-    "en": "Urooboe Uroboros!"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pl",
-    "ca",
-    "id",
     "en"
    ]
   },
@@ -174,12 +134,54 @@
    ]
   },
   {
-   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
+   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
    "title": {
-    "en": "Parasite B"
+    "en": "Monster and Child"
    },
    "contentRating": "safe",
-   "score": 0.2040926,
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
+   "title": {
+    "en": "Hello Baby"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "ca",
+    "en",
+    "hu",
+    "pl",
+    "ro",
+    "de"
+   ]
+  },
+  {
+   "id": "693e5619-fdcb-4a2c-b65b-083d9c431318",
+   "title": {
+    "en": "Urooboe Uroboros!"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pl",
+    "ca",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "title": {
+    "en": "Chingiri"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -190,7 +192,7 @@
     "en": "KILLER PARENT"
    },
    "contentRating": "safe",
-   "score": 0.20231862,
+   "score": 0.20741259,
    "languages": [
     "tr",
     "en",
@@ -198,18 +200,16 @@
    ]
   },
   {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
    "title": {
-    "en": "Little War"
+    "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20515226,
    "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:02+00:00"
+ "updatedAt": "2023-12-10T18:25:13+00:00"
 }

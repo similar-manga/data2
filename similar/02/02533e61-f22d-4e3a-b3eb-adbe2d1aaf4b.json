@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "63e4d8ea-a244-43ee-a3bf-b989b25bf67f",
+   "title": {
+    "en": "Satomu Fallin' Love"
+   },
+   "contentRating": "safe",
+   "score": 0.25117305
+  },
+  {
    "id": "5b446430-9acd-4493-bb80-02f4381ad48e",
    "title": {
     "en": "Angelmois Please"
    },
    "contentRating": "safe",
-   "score": 0.2499914,
+   "score": 0.24872236,
    "languages": [
     "en"
    ]
@@ -22,7 +30,7 @@
     "en": "Neon Genesis Evangelion - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.24676959,
+   "score": 0.24530345,
    "languages": [
     "fr"
    ]
@@ -33,7 +41,7 @@
     "en": "Majikaru Musou Tenshi Tsuki Irase!! Ryofuko-chan"
    },
    "contentRating": "safe",
-   "score": 0.22640872,
+   "score": 0.22491021,
    "languages": [
     "en"
    ]
@@ -47,12 +55,33 @@
    "score": 0.22426754
   },
   {
+   "id": "8283a222-48df-4474-b52a-938444368fb3",
+   "title": {
+    "en": "False Child"
+   },
+   "contentRating": "safe",
+   "score": 0.22108623,
+   "languages": [
+    "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "b1f52122-d6fe-45e3-9c9f-7adae1a09571",
+   "title": {
+    "en": "Chikyuu Bouchou"
+   },
+   "contentRating": "safe",
+   "score": 0.22044197
+  },
+  {
    "id": "7ac88949-d623-460b-bf0f-b7e8b0355d5f",
    "title": {
     "en": "Angel 2"
    },
    "contentRating": "safe",
-   "score": 0.21803284
+   "score": 0.2195458
   },
   {
    "id": "77bb1a8f-611d-418b-91bf-bb35fd775a3c",
@@ -60,7 +89,7 @@
     "en": "Final Fantasy Type-0 Gaiden - The Ice Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.21677215
+   "score": 0.21616621
   },
   {
    "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
@@ -100,12 +129,23 @@
    ]
   },
   {
+   "id": "fd379676-def6-4e1c-8062-9959b062e2b8",
+   "title": {
+    "en": "SCARS"
+   },
+   "contentRating": "safe",
+   "score": 0.2120556,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "899acb87-147f-44d8-ad17-699a64c0dd48",
    "title": {
     "en": "The Time of Cherry Blossoms"
    },
    "contentRating": "safe",
-   "score": 0.21171151,
+   "score": 0.211112,
    "languages": [
     "en"
    ]
@@ -116,67 +156,16 @@
     "en": "Final Fantasy Type-0"
    },
    "contentRating": "safe",
-   "score": 0.20652744
+   "score": 0.20643044
   },
   {
-   "id": "4c41af7f-8bde-4d97-a8d2-45d7bcc0bfaf",
+   "id": "0bbd2af0-39ff-4d67-a85a-deb75b34886c",
    "title": {
-    "en": "Nephilim John"
+    "en": "Kami-sama no Susume"
    },
    "contentRating": "safe",
-   "score": 0.20109369,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
-   "title": {
-    "en": "Valkyrie Profile - The Dark Alchemist"
-   },
-   "contentRating": "safe",
-   "score": 0.19777964,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
-   "title": {
-    "en": "Sensou Gekijou"
-   },
-   "contentRating": "safe",
-   "score": 0.19417006,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f94ad59c-6bc5-46eb-9349-2b2fa10e9b97",
-   "title": {
-    "en": "Atelier Rorona - My Treasure"
-   },
-   "contentRating": "safe",
-   "score": 0.19343066,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
-   "title": {
-    "en": "Rakshasa Street"
-   },
-   "contentRating": "safe",
-   "score": 0.19269808,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
-   ]
+   "score": 0.20390637
   }
  ],
- "updatedAt": "2023-12-10T00:59:51+00:00"
+ "updatedAt": "2023-12-10T18:08:36+00:00"
 }

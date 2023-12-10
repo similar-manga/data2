@@ -11,7 +11,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.24192683,
+   "score": 0.23823434,
    "languages": [
     "es-la",
     "en",
@@ -32,7 +32,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.2344123,
+   "score": 0.2340479,
    "languages": [
     "pt-br",
     "en",
@@ -42,12 +42,24 @@
    ]
   },
   {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.22612451,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
    "title": {
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.21994281,
+   "score": 0.21855915,
    "languages": [
     "en"
    ]
@@ -58,7 +70,18 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.21812116,
+   "score": 0.21486819,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.21475437,
    "languages": [
     "en"
    ]
@@ -69,7 +92,7 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.20246938,
+   "score": 0.20213711,
    "languages": [
     "en",
     "it"
@@ -81,7 +104,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.20220517,
+   "score": 0.2018454,
    "languages": [
     "en"
    ]
@@ -92,7 +115,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.19597574,
+   "score": 0.19547935,
    "languages": [
     "en"
    ]
@@ -103,7 +126,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.19421814,
+   "score": 0.19418308,
    "languages": [
     "en",
     "it",
@@ -138,26 +161,10 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.1882866,
+   "score": 0.18773362,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
-   "title": {
-    "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
-   },
-   "contentRating": "safe",
-   "score": 0.18562526,
-   "languages": [
-    "pt-br",
-    "en",
-    "ar",
-    "id",
-    "ru",
-    "fr"
    ]
   },
   {
@@ -174,6 +181,22 @@
     "fr",
     "it",
     "id"
+   ]
+  },
+  {
+   "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
+   "title": {
+    "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
+   },
+   "contentRating": "safe",
+   "score": 0.18476515,
+   "languages": [
+    "pt-br",
+    "en",
+    "ar",
+    "id",
+    "ru",
+    "fr"
    ]
   },
   {
@@ -195,47 +218,11 @@
     "en": "Kirisuke and Johnny, The Slaying of 499"
    },
    "contentRating": "safe",
-   "score": 0.18233642,
+   "score": 0.18172531,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c81db64f-3561-48db-8799-2376ffe54f49",
-   "title": {
-    "en": "Yugo"
-   },
-   "contentRating": "safe",
-   "score": 0.18033391,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
-   "title": {
-    "en": "Record of Ragnarok"
-   },
-   "contentRating": "safe",
-   "score": 0.17912869,
-   "languages": [
-    "zh-hk",
-    "en",
-    "fr",
-    "tr",
-    "es-la",
-    "ru",
-    "pt-br",
-    "bg",
-    "uk",
-    "id",
-    "it",
-    "vi",
-    "fa",
-    "ar",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:25+00:00"
+ "updatedAt": "2023-12-10T18:18:19+00:00"
 }

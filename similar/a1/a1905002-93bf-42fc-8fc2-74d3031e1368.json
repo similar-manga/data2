@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.25974995,
+   "score": 0.2640662,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.24413678,
+   "score": 0.24246939,
    "languages": [
     "en"
    ]
@@ -33,10 +33,21 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.22135447,
+   "score": 0.22055785,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.21781364,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -45,7 +56,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.20557183,
+   "score": 0.20512979,
    "languages": [
     "id",
     "en",
@@ -71,7 +82,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.20530336,
+   "score": 0.20453076,
    "languages": [
     "es-la",
     "pt-br",
@@ -86,7 +97,7 @@
     "en": "Amanusya"
    },
    "contentRating": "safe",
-   "score": 0.18460771,
+   "score": 0.18243581,
    "languages": [
     "pl",
     "en"
@@ -109,7 +120,18 @@
     "en": "Dokugan Ryuukai"
    },
    "contentRating": "safe",
-   "score": 0.17862964,
+   "score": 0.17857952,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
+   "title": {
+    "en": "Sarutobi"
+   },
+   "contentRating": "safe",
+   "score": 0.17788517,
    "languages": [
     "en"
    ]
@@ -120,7 +142,7 @@
     "en": "The Chronicle of Seven (webcomic version)"
    },
    "contentRating": "safe",
-   "score": 0.17749238,
+   "score": 0.17692567,
    "languages": [
     "en"
    ]
@@ -153,7 +175,7 @@
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.17389572,
+   "score": 0.17261705,
    "languages": [
     "en"
    ]
@@ -164,7 +186,7 @@
     "en": "Mononoke Hime"
    },
    "contentRating": "safe",
-   "score": 0.17138474,
+   "score": 0.17200872,
    "languages": [
     "en"
    ]
@@ -175,7 +197,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.17017566,
+   "score": 0.17197914,
    "languages": [
     "ru",
     "tr",
@@ -186,34 +208,7 @@
     "zh-hk",
     "id"
    ]
-  },
-  {
-   "id": "b04582e8-d98b-4f6e-b605-c300f3a5e3bd",
-   "title": {
-    "en": "Sanda"
-   },
-   "contentRating": "safe",
-   "score": 0.16529769,
-   "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a8dbdba7-6904-46cb-b03b-cf869b11110b",
-   "title": {
-    "en": "The Heroic Legend of Arslan"
-   },
-   "contentRating": "safe",
-   "score": 0.16453797,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:25+00:00"
+ "updatedAt": "2023-12-10T18:26:19+00:00"
 }

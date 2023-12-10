@@ -6,14 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "18f16695-0662-4fb2-ac38-c085fc27169f",
+   "title": {
+    "en": "Boys Like!"
+   },
+   "contentRating": "safe",
+   "score": 0.22645022,
+   "languages": [
+    "vi",
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
    "title": {
     "en": "Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.2039123,
+   "score": 0.20388757,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "15d68f86-ae23-4ca4-92b0-327c7a2f7cb4",
+   "title": {
+    "en": "Kigatsuitara Boku Wa Kare Wo..."
+   },
+   "contentRating": "safe",
+   "score": 0.20064197,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -22,7 +47,18 @@
     "en": "Arina no Tane"
    },
    "contentRating": "safe",
-   "score": 0.1974911,
+   "score": 0.1972866,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7e6f686-ee66-4142-ae6d-814a7040c6c7",
+   "title": {
+    "en": "Spring-Fallen Classroom And Two Fools"
+   },
+   "contentRating": "safe",
+   "score": 0.18742244,
    "languages": [
     "en"
    ]
@@ -41,12 +77,39 @@
    ]
   },
   {
+   "id": "5705813a-91fc-4f5a-af0d-b4f2c2a194f4",
+   "title": {
+    "en": "I Fell for My Friend's Older Sister"
+   },
+   "contentRating": "safe",
+   "score": 0.17959262,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "pt",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "3c59e55e-c8cf-451e-a91f-36d83cce717e",
+   "title": {
+    "en": "Mistake"
+   },
+   "contentRating": "safe",
+   "score": 0.17921478,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f8a82dd6-88a0-4e61-b09d-47be1e6b6ee7",
    "title": {
     "en": "Take Off"
    },
    "contentRating": "safe",
-   "score": 0.17929871,
+   "score": 0.17787546,
    "languages": [
     "pt-br",
     "pl",
@@ -106,7 +169,18 @@
     "en": "Watashi no Kishi-sama wa Minaraichuu!"
    },
    "contentRating": "safe",
-   "score": 0.17534983,
+   "score": 0.1732293,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4fc1b635-dbf4-44e9-af7c-4a76b63d8ba8",
+   "title": {
+    "en": "Lost Lovers"
+   },
+   "contentRating": "safe",
+   "score": 0.17235647,
    "languages": [
     "en"
    ]
@@ -122,76 +196,7 @@
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "7c34a56c-c8c1-4ac3-859d-1702dacca46f",
-   "title": {
-    "en": "Aurora Borealis"
-   },
-   "contentRating": "safe",
-   "score": 0.16450466,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b8ed112b-b98f-4e41-a4bb-ad1973744345",
-   "title": {
-    "en": "Manpuku niku Tarō no TS"
-   },
-   "contentRating": "safe",
-   "score": 0.16359618,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "4d1df9c3-8d46-468e-bc95-bff6fae0195e",
-   "title": {
-    "en": "Calling (Hori Mai)"
-   },
-   "contentRating": "safe",
-   "score": 0.16287005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f029d5a-27b5-44c6-a4e2-224f381369d3",
-   "title": {
-    "en": "Manin Densha to Watashi to Kare"
-   },
-   "contentRating": "safe",
-   "score": 0.15695381,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae57a642-d589-4a0c-aa40-6b3d4498db40",
-   "title": {
-    "en": "Happy Every Day"
-   },
-   "contentRating": "safe",
-   "score": 0.15639313,
-   "languages": [
-    "pl",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "d7311c68-83f1-4b6b-a713-9ed00700e838",
-   "title": {
-    "en": "Manatsu no Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.15615395,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:01+00:00"
+ "updatedAt": "2023-12-10T18:09:03+00:00"
 }

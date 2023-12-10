@@ -11,7 +11,7 @@
     "en": "Kaze ni Chiru Hanabira to Kisu"
    },
    "contentRating": "safe",
-   "score": 0.32233602,
+   "score": 0.32696223,
    "languages": [
     "it",
     "en"
@@ -23,7 +23,18 @@
     "en": "Hizumi no Dual"
    },
    "contentRating": "safe",
-   "score": 0.27882478,
+   "score": 0.28387555,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ff3c410e-9bfe-471c-ad2a-328c15d71d09",
+   "title": {
+    "en": "Ani no Yuujin"
+   },
+   "contentRating": "safe",
+   "score": 0.27599466,
    "languages": [
     "en"
    ]
@@ -45,29 +56,7 @@
     "en": "Kokui no Mure"
    },
    "contentRating": "safe",
-   "score": 0.26305825,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c13e9af1-e301-40d7-b246-277432407886",
-   "title": {
-    "en": "Close Your Eyes"
-   },
-   "contentRating": "safe",
-   "score": 0.249866,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6fb8103f-0889-4496-8086-9bc09d08cb16",
-   "title": {
-    "en": "Nidome no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.249866,
+   "score": 0.26263544,
    "languages": [
     "en"
    ]
@@ -81,6 +70,17 @@
    "score": 0.249866,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "6fb8103f-0889-4496-8086-9bc09d08cb16",
+   "title": {
+    "en": "Nidome no Yakusoku"
+   },
+   "contentRating": "safe",
+   "score": 0.249866,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -109,15 +109,38 @@
    ]
   },
   {
+   "id": "c13e9af1-e301-40d7-b246-277432407886",
+   "title": {
+    "en": "Close Your Eyes"
+   },
+   "contentRating": "safe",
+   "score": 0.249866,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
    "title": {
     "en": "After Friend"
    },
    "contentRating": "safe",
-   "score": 0.24821033,
+   "score": 0.24957587,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "5db47a11-9db5-4675-a3f8-2b4b8b83fa95",
+   "title": {
+    "en": "Futari no Tokubetsu Jugyou"
+   },
+   "contentRating": "safe",
+   "score": 0.24732623,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -126,7 +149,7 @@
     "en": "Ganjigarame"
    },
    "contentRating": "safe",
-   "score": 0.24583751,
+   "score": 0.2449346,
    "languages": [
     "en"
    ]
@@ -137,30 +160,18 @@
     "en": "Kokyuu no Aida ni Koi ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.23853579,
+   "score": 0.23903067,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "feb05ef8-e842-44a8-ba05-5a9bea9e69f7",
+   "id": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
    "title": {
-    "en": "Flying Bunny"
+    "en": "Hello Again"
    },
    "contentRating": "safe",
-   "score": 0.23482953,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0c5389cb-df84-400d-a29a-f2fdbbc9d26b",
-   "title": {
-    "en": "Koi no Shikata, Oshiete Kudasai"
-   },
-   "contentRating": "safe",
-   "score": 0.23409922,
+   "score": 0.23639302,
    "languages": [
     "en"
    ]
@@ -171,24 +182,12 @@
     "en": "Stay Gold"
    },
    "contentRating": "safe",
-   "score": 0.23384307,
+   "score": 0.23336396,
    "languages": [
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "8d5d91af-d0e1-490a-b7a4-eebe35af0b3c",
-   "title": {
-    "en": "Cousin From a Distant Country"
-   },
-   "contentRating": "safe",
-   "score": 0.22877534,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:38+00:00"
+ "updatedAt": "2023-12-10T18:21:39+00:00"
 }

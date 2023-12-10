@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
+   "title": {
+    "en": "JUMBO MAX"
+   },
+   "contentRating": "safe",
+   "score": 0.20812893,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
    "title": {
     "en": "We'll Go See the Ocean."
    },
    "contentRating": "safe",
-   "score": 0.20482698,
+   "score": 0.20450193,
    "languages": [
     "en"
    ]
@@ -42,12 +54,12 @@
    ]
   },
   {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "id": "60309abd-3552-4824-bab6-20086eade196",
    "title": {
-    "en": "Kuusou Kagaku Edison"
+    "en": "Kono Yo wa Tatakau Kachi ga Aru"
    },
    "contentRating": "safe",
-   "score": 0.17679903,
+   "score": 0.18191642,
    "languages": [
     "en"
    ]
@@ -58,11 +70,22 @@
     "en": "Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.1741925,
+   "score": 0.1763809,
    "languages": [
     "es",
     "fr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "title": {
+    "en": "Kuusou Kagaku Edison"
+   },
+   "contentRating": "safe",
+   "score": 0.1759089,
+   "languages": [
     "en"
    ]
   },
@@ -72,30 +95,7 @@
     "en": "Assembler OX"
    },
    "contentRating": "safe",
-   "score": 0.17321555,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.17233275,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
-   "title": {
-    "en": "Taisho Detective"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
+   "score": 0.17276257,
    "languages": [
     "en"
    ]
@@ -113,6 +113,28 @@
    ]
   },
   {
+   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
+   "title": {
+    "en": "Taisho Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "title": {
+    "en": "Kyoukai no End Feel"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7bf8351e-4190-4ec6-be39-bbd8489ec8ad",
    "title": {
     "en": "Seikai Suru Kado"
@@ -121,6 +143,18 @@
    "score": 0.16495723,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "title": {
+    "en": "Ultra Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -135,70 +169,31 @@
    ]
   },
   {
+   "id": "609ccb17-fd83-4126-876a-5bf8c037b065",
+   "title": {
+    "en": "Sonna Kazoku nara Sutechaeba?"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
    "title": {
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.16287145,
+   "score": 0.16199346,
    "languages": [
     "ru",
     "en",
     "zh-hk",
     "pt-br"
    ]
-  },
-  {
-   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
-   "title": {
-    "en": "Mu-kai"
-   },
-   "contentRating": "safe",
-   "score": 0.16153155,
-   "languages": [
-    "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "3683f667-c23d-4688-b872-0ade276aaafa",
-   "title": {
-    "en": "Rekkyou Sensen"
-   },
-   "contentRating": "safe",
-   "score": 0.16149214,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.15724586,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "6e9c271e-6c3c-42c2-b163-85bbc4b2c6ea",
-   "title": {
-    "en": "Prima Doll: New Order"
-   },
-   "contentRating": "safe",
-   "score": 0.15670969,
-   "languages": [
-    "vi",
-    "zh-hk",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:00+00:00"
+ "updatedAt": "2023-12-10T18:33:05+00:00"
 }

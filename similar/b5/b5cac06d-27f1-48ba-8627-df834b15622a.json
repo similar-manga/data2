@@ -11,15 +11,15 @@
     "en": "Suite Precure"
    },
    "contentRating": "safe",
-   "score": 0.22436257,
+   "score": 0.22623335,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1f272f8d-8073-4204-99c6-db1d12bff538",
+   "id": "38ec9c6f-c7c0-4a77-a206-f64a6a59e434",
    "title": {
-    "en": "Spam Mail Hunter"
+    "en": "Clay Lord"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -39,12 +39,35 @@
    ]
   },
   {
-   "id": "38ec9c6f-c7c0-4a77-a206-f64a6a59e434",
+   "id": "1f272f8d-8073-4204-99c6-db1d12bff538",
    "title": {
-    "en": "Clay Lord"
+    "en": "Spam Mail Hunter"
    },
    "contentRating": "safe",
    "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6c894f65-57eb-4ea0-9aeb-eda31322238d",
+   "title": {
+    "en": "5 Cats"
+   },
+   "contentRating": "safe",
+   "score": 0.18230234,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "0b1a1df5-0b20-4088-9f77-2ed0824de7ca",
+   "title": {
+    "en": "Densetsu no Kokuou wo Sagase!!"
+   },
+   "contentRating": "safe",
+   "score": 0.18017645,
    "languages": [
     "en"
    ]
@@ -55,7 +78,7 @@
     "en": "Muni-Kiss"
    },
    "contentRating": "safe",
-   "score": 0.18239117,
+   "score": 0.17422467,
    "languages": [
     "es",
     "tr",
@@ -64,24 +87,23 @@
    ]
   },
   {
-   "id": "6c894f65-57eb-4ea0-9aeb-eda31322238d",
-   "title": {
-    "en": "5 Cats"
-   },
-   "contentRating": "safe",
-   "score": 0.18217671,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "ccc78ad7-7b11-4fdb-a830-01c944546f79",
    "title": {
     "en": "Momogumi Plus Senki"
    },
    "contentRating": "safe",
-   "score": 0.17244734,
+   "score": 0.17392017,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d9b938d9-ec59-4050-b402-ec5ad3ba0d22",
+   "title": {
+    "en": "Diorama Toy Box"
+   },
+   "contentRating": "safe",
+   "score": 0.17280605,
    "languages": [
     "en"
    ]
@@ -92,35 +114,9 @@
     "en": "Moon-Ah"
    },
    "contentRating": "safe",
-   "score": 0.16881278,
+   "score": 0.16611429,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a414f5fd-8e16-45ae-997a-f1d938ee03d4",
-   "title": {
-    "en": "3 Hearts"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "pt-br",
-    "en",
-    "ro",
-    "pl"
-   ]
-  },
-  {
-   "id": "20246e83-d904-4484-b3cd-c594f1860981",
-   "title": {
-    "en": "The Cruelest and Most Beautiful Grimm's Fairy Tales in the World"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -135,31 +131,9 @@
    ]
   },
   {
-   "id": "404e766f-0a63-4aa9-b1d4-e2b3b75cf7e9",
+   "id": "4520b5e2-2cd9-481f-8254-8fd821c805a0",
    "title": {
-    "en": "Ten☆kai☆Riku☆jou!"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "83acbf4e-78dc-49c9-818d-5affb3e03535",
-   "title": {
-    "en": "Dark Walker"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06c7f4a9-a577-4953-8bd3-dd3d9e5ddfb7",
-   "title": {
-    "en": "Ryu Seiki - Dragon Century"
+    "en": "Scarlet Soul"
    },
    "contentRating": "safe",
    "score": 0.16495723,
@@ -189,7 +163,29 @@
     "it",
     "en"
    ]
+  },
+  {
+   "id": "404e766f-0a63-4aa9-b1d4-e2b3b75cf7e9",
+   "title": {
+    "en": "Ten☆kai☆Riku☆jou!"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "06c7f4a9-a577-4953-8bd3-dd3d9e5ddfb7",
+   "title": {
+    "en": "Ryu Seiki - Dragon Century"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:15+00:00"
+ "updatedAt": "2023-12-10T18:28:41+00:00"
 }

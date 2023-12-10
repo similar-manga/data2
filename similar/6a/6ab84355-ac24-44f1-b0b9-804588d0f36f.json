@@ -11,7 +11,7 @@
     "en": "Koorihime Kitan"
    },
    "contentRating": "safe",
-   "score": 0.31038588,
+   "score": 0.30534816,
    "languages": [
     "it",
     "fr",
@@ -25,7 +25,7 @@
     "en": "Ghost Logic"
    },
    "contentRating": "safe",
-   "score": 0.30032626,
+   "score": 0.29612046,
    "languages": [
     "de",
     "fr",
@@ -38,7 +38,35 @@
     "en": "Oh!! Bake"
    },
    "contentRating": "safe",
-   "score": 0.29534358
+   "score": 0.29128063
+  },
+  {
+   "id": "f4a41c9a-2d72-492a-863d-3b9d1fb1a16d",
+   "title": {
+    "en": "Yajin"
+   },
+   "contentRating": "safe",
+   "score": 0.27305293,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ea0957d9-1c31-49c7-973a-34a9ef6459d1",
+   "title": {
+    "en": "Shachiku-san wa Youjo Yuurei ni Iyasaretai."
+   },
+   "contentRating": "safe",
+   "score": 0.26326302,
+   "languages": [
+    "en",
+    "ru",
+    "tr",
+    "id",
+    "pt-br"
+   ]
   },
   {
    "id": "300bf25a-8bfd-4f9f-82df-188113e1d691",
@@ -57,7 +85,7 @@
     "en": "Mikoto Hako"
    },
    "contentRating": "safe",
-   "score": 0.24436522,
+   "score": 0.24220908,
    "languages": [
     "es-la",
     "en",
@@ -70,9 +98,21 @@
     "en": "Hokuriku Ghost Story"
    },
    "contentRating": "safe",
-   "score": 0.24415389,
+   "score": 0.23959388,
    "languages": [
     "hu"
+   ]
+  },
+  {
+   "id": "bcffb5d4-05c6-4f2f-92c4-25ddda595805",
+   "title": {
+    "en": "Ghost and Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.2362888,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -106,7 +146,7 @@
     "en": "Permanent God"
    },
    "contentRating": "safe",
-   "score": 0.22650369,
+   "score": 0.2260613,
    "languages": [
     "pt-br",
     "bg",
@@ -123,21 +163,9 @@
     "en": "Suspicious Secret Counseling Unit"
    },
    "contentRating": "safe",
-   "score": 0.22521183,
+   "score": 0.22029091,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
-   "title": {
-    "en": "Blood-Coloured Forbidden Territory"
-   },
-   "contentRating": "safe",
-   "score": 0.21634866,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -146,22 +174,22 @@
     "en": "Ashita no Kimi ga Suki"
    },
    "contentRating": "safe",
-   "score": 0.2155944,
+   "score": 0.21484452,
    "languages": [
     "vi",
     "fr"
    ]
   },
   {
-   "id": "d31dce5c-59a7-4134-b744-b07b28c211d7",
+   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
    "title": {
-    "en": "Shugoi ne Shugorei-san"
+    "en": "Blood-Coloured Forbidden Territory"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21435964,
    "languages": [
     "en",
-    "id"
+    "pl"
    ]
   },
   {
@@ -175,26 +203,7 @@
     "zh",
     "en"
    ]
-  },
-  {
-   "id": "ab0421f3-a97b-4d76-8dbe-3bb4c294ef6f",
-   "title": {
-    "en": "Change Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2a00fb0-aaf8-466a-ba7b-4c7073959504",
-   "title": {
-    "en": "Joubutsu Challenge!"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
   }
  ],
- "updatedAt": "2023-12-10T01:03:59+00:00"
+ "updatedAt": "2023-12-10T18:19:52+00:00"
 }

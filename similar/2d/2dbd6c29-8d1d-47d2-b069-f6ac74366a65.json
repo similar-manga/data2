@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.27484706,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
    "title": {
     "en": "Hatsu Haru"
    },
    "contentRating": "safe",
-   "score": 0.25280142,
+   "score": 0.25206956,
    "languages": [
     "pl"
    ]
@@ -29,6 +41,17 @@
    ]
   },
   {
+   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
+   "title": {
+    "en": "Megane Ouji"
+   },
+   "contentRating": "safe",
+   "score": 0.24806947,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
    "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
    "title": {
     "en": "Aozora Pop"
@@ -41,23 +64,12 @@
    ]
   },
   {
-   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
-   "title": {
-    "en": "Megane Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.24806947,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
    "id": "53693fc4-0841-4a38-9d87-2dc032b156ce",
    "title": {
     "en": "Mairunovich"
    },
    "contentRating": "safe",
-   "score": 0.24381268,
+   "score": 0.24253006,
    "languages": [
     "en",
     "pt-br",
@@ -70,7 +82,7 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.23905753,
+   "score": 0.2383438,
    "languages": [
     "pl",
     "en"
@@ -82,7 +94,18 @@
     "en": "Hissing"
    },
    "contentRating": "safe",
-   "score": 0.23774877,
+   "score": 0.23734528,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "5a2da084-5c0b-4e8c-8b9b-2fd2032c791e",
+   "title": {
+    "en": "Return"
+   },
+   "contentRating": "safe",
+   "score": 0.23545676,
    "languages": [
     "pl"
    ]
@@ -93,7 +116,7 @@
     "en": "Mamotte! Lollipop"
    },
    "contentRating": "safe",
-   "score": 0.23634203,
+   "score": 0.23544355,
    "languages": [
     "pl"
    ]
@@ -104,7 +127,7 @@
     "en": "Suki Nan Desu"
    },
    "contentRating": "safe",
-   "score": 0.23470047,
+   "score": 0.23463416,
    "languages": [
     "pl"
    ]
@@ -115,7 +138,7 @@
     "en": "After Friend"
    },
    "contentRating": "safe",
-   "score": 0.23195468,
+   "score": 0.23148869,
    "languages": [
     "pl",
     "en"
@@ -134,19 +157,6 @@
    ]
   },
   {
-   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
-   "title": {
-    "en": "Dramatic Love Album"
-   },
-   "contentRating": "safe",
-   "score": 0.22188008,
-   "languages": [
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "4980a6ec-f87e-4a95-90c0-3942b9d6fd63",
    "title": {
     "en": "Mei-chan no Shitsuji"
@@ -159,47 +169,32 @@
    ]
   },
   {
-   "id": "728d4529-24ec-4326-9558-7da5cfafa62f",
+   "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
    "title": {
-    "en": "By Hero"
+    "en": "Queen's Quality"
    },
    "contentRating": "safe",
    "score": 0.22188008,
    "languages": [
-    "vi",
-    "ro",
     "hu",
-    "pl",
     "en",
-    "bg"
+    "pl",
+    "ar"
    ]
   },
   {
-   "id": "e7e159d9-dffb-4aa6-8cba-cd9507ba5f45",
+   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
    "title": {
-    "en": "99% Love"
+    "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
    "score": 0.22188008,
    "languages": [
-    "en",
-    "bg",
     "pl",
-    "ro"
-   ]
-  },
-  {
-   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
-   "title": {
-    "en": "Winter Flowers"
-   },
-   "contentRating": "safe",
-   "score": 0.2175197,
-   "languages": [
-    "pl",
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:31+00:00"
+ "updatedAt": "2023-12-10T18:13:13+00:00"
 }

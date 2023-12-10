@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
+   "title": {
+    "en": "Memory Lost"
+   },
+   "contentRating": "safe",
+   "score": 0.3341314,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "1c21b0bb-644f-4c13-94db-7149b5f7b17d",
+   "title": {
+    "en": "Ryuujin-sama to Kurashitara"
+   },
+   "contentRating": "safe",
+   "score": 0.32593238,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "02fd4de6-deaa-46c1-8344-6c3d280e6844",
    "title": {
     "en": "Corseltel no Ryuujitsushi - Koryuu Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.31670403,
+   "score": 0.31595787,
    "languages": [
     "en"
    ]
@@ -22,7 +45,7 @@
     "en": "Onna no Sono no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.31362325,
+   "score": 0.3129646,
    "languages": [
     "en",
     "zh-hk",
@@ -35,7 +58,40 @@
     "en": "Leave"
    },
    "contentRating": "safe",
-   "score": 0.3107681,
+   "score": 0.30930537,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "67dbc048-d040-4672-8e7e-61953d64bdae",
+   "title": {
+    "en": "Takabisha Koujo wa Damattenai"
+   },
+   "contentRating": "safe",
+   "score": 0.29859862,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "99061fd7-c0cc-4a6a-ad28-f2bfa9434f07",
+   "title": {
+    "en": "Koi Monogatari Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.29820877,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "36fe1fe9-f1c5-40f4-ad00-26f32c6d763f",
+   "title": {
+    "en": "My Boss Can't Sleep Without Me"
+   },
+   "contentRating": "safe",
+   "score": 0.29677492,
    "languages": [
     "en"
    ]
@@ -46,23 +102,10 @@
     "en": "The Tale of Samjang"
    },
    "contentRating": "safe",
-   "score": 0.29678118,
+   "score": 0.29659173,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "1c676e15-ac73-4c3c-89aa-a8d499f8e64b",
-   "title": {
-    "en": "Katou Kyouju no Iutori"
-   },
-   "contentRating": "safe",
-   "score": 0.2965076,
-   "languages": [
-    "en",
-    "ru",
-    "vi"
    ]
   },
   {
@@ -71,22 +114,58 @@
     "en": "Love Hawk"
    },
    "contentRating": "safe",
-   "score": 0.29634124,
+   "score": 0.2962779,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "8eb0ff3d-d0db-44d1-b6df-6fa363c73f21",
+   "id": "5c591e16-75a7-4f4f-b899-514c1e688f2f",
    "title": {
-    "en": "Jimi de Medatanai Watashi wa, Kyou de Owari ni shimasu."
+    "en": "Another's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.2963031,
+   "score": 0.29619908,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "189e5117-5e4d-403e-b315-3d500f44ee5d",
+   "title": {
+    "en": "Full Marks, Hidden Marriage"
+   },
+   "contentRating": "safe",
+   "score": 0.2959898,
    "languages": [
     "en",
-    "es-la"
+    "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "48ba72c5-5d2c-4f9a-9fec-6c1351eba689",
+   "title": {
+    "en": "Aria of the Withered Branch"
+   },
+   "contentRating": "safe",
+   "score": 0.29593107,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c676e15-ac73-4c3c-89aa-a8d499f8e64b",
+   "title": {
+    "en": "Katou Kyouju no Iutori"
+   },
+   "contentRating": "safe",
+   "score": 0.29583868,
+   "languages": [
+    "en",
+    "ru",
+    "vi"
    ]
   },
   {
@@ -95,105 +174,24 @@
     "en": "Zenith"
    },
    "contentRating": "safe",
-   "score": 0.29621077,
+   "score": 0.29565296,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "16fa59cd-f198-4fd0-801c-8d5c5ee53070",
+   "id": "8eb0ff3d-d0db-44d1-b6df-6fa363c73f21",
    "title": {
-    "en": "Watashi wo Suki Sugiru Yuusha-sama wo Riyou shite, Konse koso Nagaiki suru Tsumoridattanoni (Tabun, Mata Shippaishita)"
+    "en": "Jimi de Medatanai Watashi wa, Kyou de Owari ni shimasu."
    },
    "contentRating": "safe",
-   "score": 0.29386488,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "18380f96-a6bb-4b3a-8f04-9e169e71bbaa",
-   "title": {
-    "en": "Haikyo Circle"
-   },
-   "contentRating": "safe",
-   "score": 0.29360542,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "01f5d236-58d7-4db0-8860-5045b0e5f52e",
-   "title": {
-    "en": "Xenosaga Episode I - Der Wille zur Macht"
-   },
-   "contentRating": "safe",
-   "score": 0.2932573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09aa712c-1457-4779-b2a0-877099a4c0e2",
-   "title": {
-    "en": "Saiyuki RELOAD BLAST"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09e6e501-b38b-410e-9856-f4e5b1b61481",
-   "title": {
-    "en": "The Little Princess and Her Monster Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29562032,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f",
-   "title": {
-    "en": "Moto Ansatsusha, Tensei Shite Kizoku no Reijou ni Narimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0bca50c1-e3ac-4a2e-bc9b-9d8984c81dd3",
-   "title": {
-    "en": "I Lost the Leash of the Yandere Male Lead"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "12e69ced-43f6-4204-8fb1-4207022c28d6",
-   "title": {
-    "en": "Hizumi no Dual"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:50+00:00"
+ "updatedAt": "2023-12-10T18:32:40+00:00"
 }

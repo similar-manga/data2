@@ -6,12 +6,104 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "008c1aec-fbd9-41b6-ac9f-34cc44c04700",
+   "title": {
+    "en": "Sweet Pain (Minatsuki Tsunami)"
+   },
+   "contentRating": "safe",
+   "score": 0.3153308,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "169bf23d-5438-4ffa-8e6a-e627563b2377",
+   "title": {
+    "en": "Ichibanboshi Kirari"
+   },
+   "contentRating": "safe",
+   "score": 0.31046635,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "a6102956-324e-4bdd-8018-25f35c3e8450",
    "title": {
     "en": "Love or Die"
    },
    "contentRating": "safe",
-   "score": 0.31104255
+   "score": 0.3103633
+  },
+  {
+   "id": "b12ff4f0-e300-4ca4-82cc-44c0f545205e",
+   "title": {
+    "en": "Boku no Itoshii Kairiki Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.3096763
+  },
+  {
+   "id": "d33b16ed-4e92-4df5-b820-2ad69b736d4d",
+   "title": {
+    "en": "Kisse~s"
+   },
+   "contentRating": "safe",
+   "score": 0.30869836
+  },
+  {
+   "id": "e8389656-9267-4f3b-8495-c0324b3debbb",
+   "title": {
+    "ja": "Houkago, Kare to Kekkon Shimasu."
+   },
+   "contentRating": "safe",
+   "score": 0.30614194,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "51714821-1bdb-4763-8ec0-7bced8416137",
+   "title": {
+    "en": "Anesan wa Iinchou"
+   },
+   "contentRating": "safe",
+   "score": 0.30573097
+  },
+  {
+   "id": "829d9d9f-579f-4e0a-b24d-aec0b2fb5051",
+   "title": {
+    "en": "Mint Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.30496678,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aa1beaf2-ef04-4216-a6d8-edacb3e717fe",
+   "title": {
+    "en": "Shujinkou Nikki"
+   },
+   "contentRating": "safe",
+   "score": 0.304606,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eb9fa04b-425c-4a44-a76e-5c7fec2c97b1",
+   "title": {
+    "en": "1/3 Sanbun no Ichi"
+   },
+   "contentRating": "safe",
+   "score": 0.30460218,
+   "languages": [
+    "it",
+    "es-la"
+   ]
   },
   {
    "id": "e161f886-ec1a-44ff-8769-0831f2348e06",
@@ -19,10 +111,18 @@
     "en": "Don't Believe Her"
    },
    "contentRating": "safe",
-   "score": 0.3053191,
+   "score": 0.3042486,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "bc2266bf-0355-40df-9e50-103a4d3c2137",
+   "title": {
+    "en": "Heavy x Heavy"
+   },
+   "contentRating": "safe",
+   "score": 0.30280837
   },
   {
    "id": "cadcd3c6-6518-4ebe-b8a6-33adf8edab2b",
@@ -30,53 +130,15 @@
     "en": "Strange Traditional Academy"
    },
    "contentRating": "safe",
-   "score": 0.30346435
+   "score": 0.3024931
   },
   {
-   "id": "703cfdfd-9406-4865-8aa9-6d469585f90b",
+   "id": "fd3bdc69-86bb-441f-9dc8-e178f30e31ba",
    "title": {
-    "en": "Love Pop"
+    "en": "Ore-sama Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.29851812
-  },
-  {
-   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
-   "title": {
-    "en": "Strange Orange"
-   },
-   "contentRating": "safe",
-   "score": 0.29787686,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f7c88b9-7f0c-435f-8dfc-da86d906514d",
-   "title": {
-    "en": "Chikuchiku Kichiku."
-   },
-   "contentRating": "safe",
-   "score": 0.2967927
-  },
-  {
-   "id": "eda7ada1-5f8d-4b85-bf89-73add83e8458",
-   "title": {
-    "en": "Goshimei Arigatou Gozaimasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.2965728,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "550d20da-0a74-41c2-8dfe-f8e6014b5b43",
-   "title": {
-    "en": "Never Cry"
-   },
-   "contentRating": "safe",
-   "score": 0.29597333
+   "score": 0.30122277
   },
   {
    "id": "760be47f-12d0-476d-bed3-f1a9384d33c3",
@@ -84,79 +146,19 @@
     "en": "Kimi ga Suki Toka Arienai"
    },
    "contentRating": "safe",
-   "score": 0.2947419,
+   "score": 0.3011164,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1d97a7a9-b066-4765-90bc-4751f86ffc00",
+   "id": "ffd80bf7-a4d2-4ac0-9e47-b55652e9a548",
    "title": {
-    "en": "Love Fighter!"
+    "en": "Haru wo Irodoru High Tone"
    },
    "contentRating": "safe",
-   "score": 0.29446274
-  },
-  {
-   "id": "e43f128a-9514-4e50-bb9f-3abae4ffa4d8",
-   "title": {
-    "en": "Romanticist Egoist"
-   },
-   "contentRating": "safe",
-   "score": 0.2934267,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c450b61f-0bca-4bf9-b802-c84a524a6557",
-   "title": {
-    "en": "Hot Guys Have Something Special"
-   },
-   "contentRating": "safe",
-   "score": 0.29305187
-  },
-  {
-   "id": "6884aad3-efb1-4145-b8e7-553d0f6ebb02",
-   "title": {
-    "en": "Last Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.29303113,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59156bc0-42c8-4570-a496-242847e9680d",
-   "title": {
-    "en": "Otouto wo Kareshi ni Suru Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.28780687,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "1ecc0caf-f625-485d-b9a5-5cf020f51c83",
-   "title": {
-    "en": "Try Me Boy!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "6e6fef93-a671-498b-b101-84cbad321371",
-   "title": {
-    "en": "Kikenchitai Danshi - Kedamono Black \u0026 White"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
+   "score": 0.299871
   }
  ],
- "updatedAt": "2023-12-10T01:00:04+00:00"
+ "updatedAt": "2023-12-10T18:09:13+00:00"
 }

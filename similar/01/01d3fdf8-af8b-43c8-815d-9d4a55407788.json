@@ -11,7 +11,7 @@
     "en": "New Model Android"
    },
    "contentRating": "safe",
-   "score": 0.3196921,
+   "score": 0.33198854,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Detroit: Become Human - Tokyo Stories"
    },
    "contentRating": "safe",
-   "score": 0.27509323,
+   "score": 0.28685835,
    "languages": [
     "en",
     "ru",
@@ -31,12 +31,47 @@
    ]
   },
   {
+   "id": "ba2903e3-0417-4344-840c-3320926b916a",
+   "title": {
+    "en": "Couples (Twitter)"
+   },
+   "contentRating": "safe",
+   "score": 0.26599267,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5baf4d30-a736-4904-8354-27ddcbef8360",
+   "title": {
+    "en": "Fatal Code"
+   },
+   "contentRating": "safe",
+   "score": 0.24192873,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "500e6e54-b34d-45a2-9e70-d37e0fc15eed",
+   "title": {
+    "en": "Ruling a planet"
+   },
+   "contentRating": "safe",
+   "score": 0.2415454,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "7e8535f8-b460-4fa9-ae84-6d6899fa0636",
    "title": {
     "en": "Kyougi Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.25960153,
+   "score": 0.23919205,
    "languages": [
     "en"
    ]
@@ -47,7 +82,7 @@
     "en": "Yukiwaribana"
    },
    "contentRating": "safe",
-   "score": 0.23328364,
+   "score": 0.23189549,
    "languages": [
     "en"
    ]
@@ -58,7 +93,7 @@
     "en": "Chuan Yue Xi Yuan 3000 Hou"
    },
    "contentRating": "safe",
-   "score": 0.221361,
+   "score": 0.22615902,
    "languages": [
     "en",
     "ru",
@@ -72,9 +107,21 @@
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.21811023,
+   "score": 0.22080863,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ff965654-6783-430e-91bb-27307d88109c",
+   "title": {
+    "en": "Impermanence Resonating: An Attempt at a SF Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.21696652,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -111,44 +158,16 @@
    ]
   },
   {
-   "id": "ff965654-6783-430e-91bb-27307d88109c",
-   "title": {
-    "en": "Impermanence Resonating: An Attempt at a SF Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.21487336,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "a1d8ce85-ac83-4604-afea-390757564115",
    "title": {
     "en": "Logging in as a Monster"
    },
    "contentRating": "safe",
-   "score": 0.2135017,
+   "score": 0.21421365,
    "languages": [
     "en",
     "fr",
     "pt-br"
-   ]
-  },
-  {
-   "id": "ad59c8bb-e645-41d2-bc16-65b1b94cafd6",
-   "title": {
-    "en": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life"
-   },
-   "contentRating": "safe",
-   "score": 0.20743366,
-   "languages": [
-    "es-la",
-    "en",
-    "es",
-    "fr",
-    "pt-br",
-    "id"
    ]
   },
   {
@@ -157,49 +176,27 @@
     "en": "Return"
    },
    "contentRating": "safe",
-   "score": 0.2074309,
+   "score": 0.21369466,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c0cf3736-adab-4276-b01f-910cb8aa93c9",
+   "id": "ad59c8bb-e645-41d2-bc16-65b1b94cafd6",
    "title": {
-    "en": "Star Wars Leia, Princess of Alderaan"
+    "en": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20801334,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77349489-e362-4f69-8be1-597f2258b404",
-   "title": {
-    "en": "Shivers: Symphony"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "73cc2493-418a-47b8-8d15-182b46cfa37e",
-   "title": {
-    "en": "10,000 Light-Year Binoculars"
-   },
-   "contentRating": "safe",
-   "score": 0.20195693,
-   "languages": [
-    "vi",
+    "es-la",
+    "en",
+    "es",
     "fr",
-    "id",
     "pt-br",
-    "ru",
-    "en"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:50+00:00"
+ "updatedAt": "2023-12-10T18:08:33+00:00"
 }

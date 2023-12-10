@@ -11,7 +11,7 @@
     "en": "Kyousogiga"
    },
    "contentRating": "safe",
-   "score": 0.3222394,
+   "score": 0.32912692,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Amon Game"
    },
    "contentRating": "safe",
-   "score": 0.28863472,
+   "score": 0.3003755,
    "languages": [
     "id",
     "pt-br",
@@ -35,7 +35,7 @@
     "en": "Asagiri no Miko"
    },
    "contentRating": "safe",
-   "score": 0.28764805,
+   "score": 0.29405686,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "D-Frag!"
    },
    "contentRating": "safe",
-   "score": 0.2562836,
+   "score": 0.26103306,
    "languages": [
     "en",
     "ru",
@@ -57,12 +57,26 @@
    ]
   },
   {
+   "id": "7e45964e-87d0-43bd-90c1-51d5165f371c",
+   "title": {
+    "en": "Tonari no Seki-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.23860404,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "pl"
+   ]
+  },
+  {
    "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
    "title": {
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.23493037,
+   "score": 0.23560773,
    "languages": [
     "my",
     "es-la",
@@ -71,20 +85,6 @@
     "ru",
     "it",
     "fa"
-   ]
-  },
-  {
-   "id": "7e45964e-87d0-43bd-90c1-51d5165f371c",
-   "title": {
-    "en": "Tonari no Seki-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.23463622,
-   "languages": [
-    "en",
-    "pt-br",
-    "it",
-    "pl"
    ]
   },
   {
@@ -99,12 +99,54 @@
    ]
   },
   {
+   "id": "66fdcfe1-639c-457c-a5b2-97a0efcb3613",
+   "title": {
+    "en": "Odoru Respawn"
+   },
+   "contentRating": "safe",
+   "score": 0.22896914,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cbcf5051-74a0-4b93-b99c-1a6975f1bef9",
+   "title": {
+    "en": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
+   },
+   "contentRating": "safe",
+   "score": 0.22584124,
+   "languages": [
+    "th",
+    "en",
+    "ru",
+    "uk",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "2b5c2f34-6de4-4a81-8671-bca8c9409f79",
+   "title": {
+    "en": "Yuukyuu no Gusha Asley no, Kenja no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.21930441,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "348966d0-c807-45cf-9260-8adf006a9da6",
    "title": {
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.21689697,
+   "score": 0.21663308,
    "languages": [
     "th",
     "en",
@@ -115,105 +157,72 @@
    ]
   },
   {
-   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
+   "id": "01a2c59e-1eac-4788-a699-9039c08f2955",
    "title": {
-    "en": "Rewrite: SIDE-R"
+    "en": "Oshite Dame nara Oshite miro!"
    },
    "contentRating": "safe",
-   "score": 0.20890489,
+   "score": 0.21541059,
    "languages": [
     "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "8d242e4c-0b6e-416f-abca-a08e7a3cea60",
-   "title": {
-    "en": "Gingitsune"
-   },
-   "contentRating": "safe",
-   "score": 0.2042361,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "7336ba26-68f6-4b02-8b26-6199562f8033",
-   "title": {
-    "en": "Shounen Endless"
-   },
-   "contentRating": "safe",
-   "score": 0.19939148,
-   "languages": [
-    "pt-br",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "724c84bd-803d-4999-b05b-8e88ad13a411",
-   "title": {
-    "en": "Kamisama Kazoku"
-   },
-   "contentRating": "safe",
-   "score": 0.1991397,
-   "languages": [
-    "en",
+    "es-la",
     "pt-br"
    ]
   },
   {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
    "title": {
-    "en": "Ookiku Furikabutte"
+    "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.19798322,
+   "score": 0.21422325,
    "languages": [
     "en",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
+   "title": {
+    "en": "Kimi no Love o Misetekure!"
+   },
+   "contentRating": "safe",
+   "score": 0.21130456,
+   "languages": [
     "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.19443719,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
+    "ru",
+    "vi",
     "en"
    ]
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
    "title": {
-    "en": "Tenshi-chan to Akuma-kun"
+    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
    },
    "contentRating": "safe",
-   "score": 0.19400705,
+   "score": 0.20955923,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
-   "title": {
-    "en": "xxxHOLiC Rei"
-   },
-   "contentRating": "safe",
-   "score": 0.19339807,
-   "languages": [
-    "pt-br",
     "en",
-    "ru"
+    "ru",
+    "id",
+    "pt-br",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "99587372-42e8-4fa3-af38-7182e618fab3",
+   "title": {
+    "en": "Yakui yo! Alakshmi"
+   },
+   "contentRating": "safe",
+   "score": 0.20636612,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:25+00:00"
+ "updatedAt": "2023-12-10T18:29:05+00:00"
 }

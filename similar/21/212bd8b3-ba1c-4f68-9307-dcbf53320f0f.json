@@ -11,7 +11,7 @@
     "en": "Honogurai Mizu no Soko kara"
    },
    "contentRating": "safe",
-   "score": 0.57415897,
+   "score": 0.5654031,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mizu Zokusei no Mahoutsukai"
    },
    "contentRating": "safe",
-   "score": 0.498204,
+   "score": 0.49081302,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.45812398,
+   "score": 0.47453573,
    "languages": [
     "en",
     "id"
@@ -45,10 +45,35 @@
     "en": "See you soon."
    },
    "contentRating": "safe",
-   "score": 0.4476552,
+   "score": 0.46493134,
    "languages": [
     "hu",
     "en"
+   ]
+  },
+  {
+   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
+   "title": {
+    "en": "Chissai Shitsuren"
+   },
+   "contentRating": "safe",
+   "score": 0.40840384,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "77c4966f-ead7-45bb-87e0-9ac618b11e8e",
+   "title": {
+    "en": "Kunon The Sorcerer Can See Through"
+   },
+   "contentRating": "safe",
+   "score": 0.4037958,
+   "languages": [
+    "en",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -57,7 +82,7 @@
     "en": "Water Cube"
    },
    "contentRating": "safe",
-   "score": 0.39697966,
+   "score": 0.38886195,
    "languages": [
     "en"
    ]
@@ -68,34 +93,9 @@
     "en": "Love is Sky Blue"
    },
    "contentRating": "safe",
-   "score": 0.38750777,
+   "score": 0.38344255,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
-   "title": {
-    "en": "Myctophids"
-   },
-   "contentRating": "safe",
-   "score": 0.37835228,
-   "languages": [
-    "fr",
-    "en",
-    "hi"
-   ]
-  },
-  {
-   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
-   "title": {
-    "en": "Chissai Shitsuren"
-   },
-   "contentRating": "safe",
-   "score": 0.37355074,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -104,21 +104,23 @@
     "en": "School Kill"
    },
    "contentRating": "safe",
-   "score": 0.37280795,
+   "score": 0.38232407,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "0eb1c1ac-34cd-42d3-b88d-e780d54eed8b",
+   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
    "title": {
-    "en": "Satellite Coin Laundry"
+    "en": "Myctophids"
    },
    "contentRating": "safe",
-   "score": 0.36909938,
+   "score": 0.37477085,
    "languages": [
-    "en"
+    "fr",
+    "en",
+    "hi"
    ]
   },
   {
@@ -127,7 +129,29 @@
     "en": "Comic Master J"
    },
    "contentRating": "safe",
-   "score": 0.36792448,
+   "score": 0.36543286,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0eb1c1ac-34cd-42d3-b88d-e780d54eed8b",
+   "title": {
+    "en": "Satellite Coin Laundry"
+   },
+   "contentRating": "safe",
+   "score": 0.36531505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8649f9a9-3b18-44b5-b0d7-12c92edaed2b",
+   "title": {
+    "en": "Placebo"
+   },
+   "contentRating": "safe",
+   "score": 0.35364512,
    "languages": [
     "en"
    ]
@@ -138,7 +162,7 @@
     "en": "Gallery Fake"
    },
    "contentRating": "safe",
-   "score": 0.3447619,
+   "score": 0.34335798,
    "languages": [
     "en"
    ]
@@ -149,7 +173,7 @@
     "en": "Murabito Tensei: Saikyou no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.33923525,
+   "score": 0.3367548,
    "languages": [
     "en",
     "es-la"
@@ -161,36 +185,12 @@
     "en": "Schizanthus"
    },
    "contentRating": "safe",
-   "score": 0.33913082,
+   "score": 0.3366015,
    "languages": [
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "85b93023-8d5a-44ad-887a-51060aed0303",
-   "title": {
-    "en": "Goodbye Mr. Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.33580777,
-   "languages": [
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
-   "title": {
-    "en": "Black Coffee"
-   },
-   "contentRating": "safe",
-   "score": 0.3346343,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:01+00:00"
+ "updatedAt": "2023-12-10T18:11:51+00:00"
 }

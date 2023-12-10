@@ -11,9 +11,46 @@
     "en": "The Dream I Had When I Died"
    },
    "contentRating": "safe",
-   "score": 0.2699658,
+   "score": 0.2713274,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "bedd7713-355e-411e-b45a-487635a1443a",
+   "title": {
+    "en": "Shiyakusho"
+   },
+   "contentRating": "safe",
+   "score": 0.24468961,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
+   "title": {
+    "en": "Usagi ga Nihiki"
+   },
+   "contentRating": "safe",
+   "score": 0.22985148,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.22779618,
+   "languages": [
+    "ru",
+    "tr",
     "en"
    ]
   },
@@ -30,12 +67,23 @@
    ]
   },
   {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.2206159,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ba7908db-5c9e-4f78-9fc1-3b3581f752e9",
    "title": {
     "en": "Look Back"
    },
    "contentRating": "safe",
-   "score": 0.20806111,
+   "score": 0.20723172,
    "languages": [
     "sr",
     "ru",
@@ -72,6 +120,26 @@
    ]
   },
   {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
    "title": {
     "en": "Please Eat Me, My Darling"
@@ -83,13 +151,14 @@
    ]
   },
   {
-   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
+   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
    "title": {
-    "en": "Vampir"
+    "en": "Ankoku Jiten"
    },
    "contentRating": "safe",
-   "score": 0.18337402,
+   "score": 0.1831502,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -107,14 +176,13 @@
    ]
   },
   {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
+   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
    "title": {
-    "en": "Ankoku Jiten"
+    "en": "Vampir"
    },
    "contentRating": "safe",
-   "score": 0.1831502,
+   "score": 0.18201868,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -141,74 +209,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
-   "title": {
-    "en": "Kurosagi Shitai Takuhaibin"
-   },
-   "contentRating": "safe",
-   "score": 0.18008903,
-   "languages": [
-    "en",
-    "zh"
-   ]
-  },
-  {
-   "id": "8211bac6-a392-4e37-b3b6-dac0f4512d24",
-   "title": {
-    "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou"
-   },
-   "contentRating": "safe",
-   "score": 0.1794498,
-   "languages": [
-    "ru",
-    "it",
-    "en",
-    "id",
-    "pt-br",
-    "es",
-    "vi"
-   ]
-  },
-  {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.1759906,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
-   "title": {
-    "en": "Fool Night"
-   },
-   "contentRating": "safe",
-   "score": 0.17596501,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "460e98d7-74ce-4c61-9f38-e248be115829",
-   "title": {
-    "en": "Shuuenchi"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:27+00:00"
+ "updatedAt": "2023-12-10T18:31:40+00:00"
 }

@@ -11,7 +11,18 @@
     "en": "The Black and Red Staircase"
    },
    "contentRating": "suggestive",
-   "score": 0.20855814
+   "score": 0.20881087
+  },
+  {
+   "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
+   "title": {
+    "en": "Rose × Marie"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18070157,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "5495d18b-e228-4744-8d03-a55e9709a0ae",
@@ -49,13 +60,17 @@
    ]
   },
   {
-   "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
+   "id": "68262507-c506-4918-967a-25f1a8390dbb",
    "title": {
-    "en": "\"Boku wa Nannin Koroshimashita ka?\""
+    "en": "White Beard and Boyne"
    },
    "contentRating": "suggestive",
-   "score": 0.16495723,
+   "score": 0.16835876,
    "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "it",
     "vi"
    ]
   },
@@ -84,12 +99,23 @@
    "score": 0.16495723
   },
   {
+   "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
+   "title": {
+    "en": "\"Boku wa Nannin Koroshimashita ka?\""
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
    "title": {
     "en": "Legend of the Holy Common Man"
    },
    "contentRating": "suggestive",
-   "score": 0.15779756
+   "score": 0.15746844
   },
   {
    "id": "51de1d21-e940-41a6-aa1d-4a6993eb3a77",
@@ -111,18 +137,6 @@
    ]
   },
   {
-   "id": "3fc01abd-8b7a-428d-a2ac-15a845296e79",
-   "title": {
-    "en": "Emeth Meth"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15152289,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "0cbe40b5-5c88-4b7f-bb14-ab30c2376b10",
    "title": {
     "en": "Six Singing Women"
@@ -139,21 +153,16 @@
    "score": 0.15152289
   },
   {
-   "id": "14f1d463-5a6b-4d46-9dbe-3790123b4262",
+   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
    "title": {
-    "en": "Mura Matsuri"
+    "en": "The Time Leaper Yuki"
    },
    "contentRating": "suggestive",
-   "score": 0.15152289
-  },
-  {
-   "id": "56cfd6ab-c76a-40df-931e-1997f390056c",
-   "title": {
-    "en": "Gas-tou Norainu Tanteidan"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15152289
+   "score": 0.15152289,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:09+00:00"
+ "updatedAt": "2023-12-10T18:28:25+00:00"
 }

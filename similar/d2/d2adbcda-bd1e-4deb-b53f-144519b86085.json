@@ -11,7 +11,7 @@
     "en": "Love Hunter Akazukin"
    },
    "contentRating": "safe",
-   "score": 0.70247364,
+   "score": 0.70532936,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "The Wolf Brothers and Little Red Riding Hood"
    },
    "contentRating": "safe",
-   "score": 0.6848871,
+   "score": 0.6852163,
    "languages": [
     "hu",
     "pl",
@@ -38,7 +38,7 @@
     "en": "Red Hood (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.32893512,
+   "score": 0.32482228,
    "languages": [
     "pt-br",
     "fr",
@@ -51,7 +51,7 @@
     "en": "Until You Fall Asleep"
    },
    "contentRating": "safe",
-   "score": 0.2659612,
+   "score": 0.26604152,
    "languages": [
     "en",
     "pl"
@@ -63,7 +63,7 @@
     "en": "Neko to Ookami"
    },
    "contentRating": "safe",
-   "score": 0.26457468,
+   "score": 0.2657131,
    "languages": [
     "pl",
     "it",
@@ -110,25 +110,11 @@
     "en": "Happy Happy Birthday"
    },
    "contentRating": "safe",
-   "score": 0.25078028,
+   "score": 0.2512034,
    "languages": [
     "it",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
-   "title": {
-    "en": "We Can Fly!"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "it"
    ]
   },
   {
@@ -146,18 +132,6 @@
    ]
   },
   {
-   "id": "529d28c3-cd3e-44dd-b265-6366f86438a0",
-   "title": {
-    "en": "Cut the Angel with a Scythe"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "bg"
-   ]
-  },
-  {
    "id": "3947f8b6-c0b8-4443-ba8c-39e2ed377d91",
    "title": {
     "en": "Thank You"
@@ -171,6 +145,33 @@
     "ru",
     "fr",
     "it"
+   ]
+  },
+  {
+   "id": "529d28c3-cd3e-44dd-b265-6366f86438a0",
+   "title": {
+    "en": "Cut the Angel with a Scythe"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "bg"
+   ]
+  },
+  {
+   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
+   "title": {
+    "en": "In the Rose Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "ru",
+    "vi",
+    "pt-br",
+    "fr",
+    "en"
    ]
   },
   {
@@ -201,31 +202,33 @@
    ]
   },
   {
+   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+   "title": {
+    "en": "We Can Fly!"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "it"
+   ]
+  },
+  {
    "id": "6ee3f7c1-ada3-4dc2-a773-a25e39d9ce88",
    "title": {
     "en": "Arcana 16 - Fairy Tales / Nursery Tales"
    },
    "contentRating": "safe",
-   "score": 0.24690862,
+   "score": 0.24631488,
    "languages": [
     "en",
     "hu",
     "fr",
     "it"
    ]
-  },
-  {
-   "id": "e3bb753a-a262-4fea-8836-74bc7fa961f4",
-   "title": {
-    "en": "Akai Sato no Tengu"
-   },
-   "contentRating": "safe",
-   "score": 0.24284974,
-   "languages": [
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:27+00:00"
+ "updatedAt": "2023-12-10T18:31:41+00:00"
 }

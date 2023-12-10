@@ -11,7 +11,7 @@
     "en": "Fate/Grand Order Comic a la carte PLUS!"
    },
    "contentRating": "safe",
-   "score": 0.63752776,
+   "score": 0.6280316,
    "languages": [
     "en"
    ]
@@ -22,9 +22,22 @@
     "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.27563688,
+   "score": 0.27279213,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.2697992,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -36,6 +49,18 @@
    "score": 0.21941362,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e0c81b70-dce4-4a61-9a7e-0aa927c654fe",
+   "title": {
+    "en": "Shinigami Ramen"
+   },
+   "contentRating": "safe",
+   "score": 0.2123158,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -55,8 +80,33 @@
     "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
    },
    "contentRating": "safe",
-   "score": 0.20688309,
+   "score": 0.20671114,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "438a42fa-2fe4-45f3-9996-eea8f50c7382",
+   "title": {
+    "en": "Rascal Does Not Dream of a Dreaming Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.20351408,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "9646132b-4683-4339-9f81-4f149b71c8fb",
+   "title": {
+    "en": "Rascal Does Not Dream of a Sister Home Alone"
+   },
+   "contentRating": "safe",
+   "score": 0.20351408,
+   "languages": [
+    "ru",
+    "it",
     "en"
    ]
   },
@@ -66,29 +116,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.20113075,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "419d8511-f0af-448b-b24c-125ae013f0bc",
-   "title": {
-    "en": "13 Sentinels: Aegis Rim Anthology Comic STAR"
-   },
-   "contentRating": "safe",
-   "score": 0.1993802,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d1ff0c34-fd8e-4632-b475-39aa027cbc1c",
-   "title": {
-    "en": "13 Sentinels: Aegis Rim Official Comic Anthology"
-   },
-   "contentRating": "safe",
-   "score": 0.19911288,
+   "score": 0.20090024,
    "languages": [
     "en"
    ]
@@ -113,6 +141,39 @@
    ]
   },
   {
+   "id": "419d8511-f0af-448b-b24c-125ae013f0bc",
+   "title": {
+    "en": "13 Sentinels: Aegis Rim Anthology Comic STAR"
+   },
+   "contentRating": "safe",
+   "score": 0.19762595,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1ff0c34-fd8e-4632-b475-39aa027cbc1c",
+   "title": {
+    "en": "13 Sentinels: Aegis Rim Official Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.19738336,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
+   "title": {
+    "en": "Gensou Suikoden V - Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.19720016,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a025d065-ec7f-4962-a874-45903f5dc618",
    "title": {
     "en": "Valkyrie Profile - The Dark Alchemist"
@@ -124,74 +185,16 @@
    ]
   },
   {
-   "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
+   "id": "882e338e-0105-4305-a380-655bc303036b",
    "title": {
-    "en": "Kingdom Hearts III"
+    "en": "Fate/Grand Order Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.1933198,
-   "languages": [
-    "it",
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
-   "title": {
-    "en": "Gensou Suikoden V - Anthology Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.19288653,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21257695-df39-49a5-b952-d05a152879f5",
-   "title": {
-    "en": "Steel Septum"
-   },
-   "contentRating": "safe",
-   "score": 0.19224967,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.19005369,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6ef63fa1-e394-4255-8183-bf25aa7a3e25",
-   "title": {
-    "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.18887687,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d33faee4-ef05-4108-bb0e-b5a82897add0",
-   "title": {
-    "en": "Mitsuru Adachi's Early Complete Works"
-   },
-   "contentRating": "safe",
-   "score": 0.18863986,
+   "score": 0.19365974,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:10+00:00"
+ "updatedAt": "2023-12-10T18:09:29+00:00"
 }

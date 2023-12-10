@@ -11,7 +11,7 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.24182963
+   "score": 0.2422133
   },
   {
    "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
@@ -19,7 +19,7 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.23817077,
+   "score": 0.23804589,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.23642305
+   "score": 0.23617436
   },
   {
    "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
@@ -38,7 +38,7 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.23367712,
+   "score": 0.23384593,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Mobile Suit Zeta Gundam Define"
    },
    "contentRating": "safe",
-   "score": 0.23334457,
+   "score": 0.2327762,
    "languages": [
     "en"
    ]
@@ -60,9 +60,21 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.23117481,
+   "score": 0.2313597,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3f27338e-3966-4c39-83e9-af5864526ed9",
+   "title": {
+    "en": "Pumpkin Scissors"
+   },
+   "contentRating": "safe",
+   "score": 0.22577058,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -71,7 +83,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.22397469,
+   "score": 0.2237208,
    "languages": [
     "en"
    ]
@@ -82,7 +94,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.22382079,
+   "score": 0.22365564,
    "languages": [
     "en",
     "fr",
@@ -125,29 +137,6 @@
    ]
   },
   {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.21766731,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f27338e-3966-4c39-83e9-af5864526ed9",
-   "title": {
-    "en": "Pumpkin Scissors"
-   },
-   "contentRating": "safe",
-   "score": 0.21719013,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
     "en": "Mobile Suit Gundam F90 FF"
@@ -159,12 +148,23 @@
    ]
   },
   {
+   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "title": {
+    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+   },
+   "contentRating": "safe",
+   "score": 0.21717161,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dc33209f-d9d4-40df-a468-cca047b63979",
    "title": {
     "en": "Neon Genesis Evangelion - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.21404515,
+   "score": 0.21406183,
    "languages": [
     "fr"
    ]
@@ -183,5 +183,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:22+00:00"
+ "updatedAt": "2023-12-10T18:26:09+00:00"
 }

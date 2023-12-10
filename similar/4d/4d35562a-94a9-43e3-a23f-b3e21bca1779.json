@@ -11,7 +11,7 @@
     "en": "Desk War"
    },
    "contentRating": "safe",
-   "score": 0.27547246,
+   "score": 0.27740985,
    "languages": [
     "tr",
     "en",
@@ -25,7 +25,7 @@
     "en": "The Class President's Circumstances"
    },
    "contentRating": "safe",
-   "score": 0.26690325,
+   "score": 0.26577955,
    "languages": [
     "en"
    ]
@@ -36,7 +36,7 @@
     "en": "School Kill"
    },
    "contentRating": "safe",
-   "score": 0.25985476,
+   "score": 0.26203308,
    "languages": [
     "en",
     "vi"
@@ -67,9 +67,22 @@
    ]
   },
   {
-   "id": "649a2780-ca82-442d-8b23-5088b9c9d5c7",
+   "id": "7dbc53e8-6571-48ef-8817-231c64e294d0",
    "title": {
-    "en": "This Is My Justice"
+    "en": "Delicious Desires"
+   },
+   "contentRating": "safe",
+   "score": 0.24940327,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ed4ab458-442d-497d-b044-cbf2ca836a60",
+   "title": {
+    "en": "Moee-chan wa Ki ni Shinai"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -101,12 +114,34 @@
    ]
   },
   {
+   "id": "649a2780-ca82-442d-8b23-5088b9c9d5c7",
+   "title": {
+    "en": "This Is My Justice"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
+   "title": {
+    "en": "Yoka-san ga Nameru"
+   },
+   "contentRating": "safe",
+   "score": 0.24318191,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
    "title": {
     "en": "Ghost Heights Management Association"
    },
    "contentRating": "safe",
-   "score": 0.23288919,
+   "score": 0.23609185,
    "languages": [
     "en"
    ]
@@ -117,7 +152,7 @@
     "en": "Otonaninattara Bijinninaruko-chan"
    },
    "contentRating": "safe",
-   "score": 0.23275574,
+   "score": 0.23569329,
    "languages": [
     "en",
     "pt-br"
@@ -129,7 +164,18 @@
     "en": "Misaki Number One!!"
    },
    "contentRating": "safe",
-   "score": 0.2301691,
+   "score": 0.23037715,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "370aa750-474f-4832-a877-147fe71890bb",
+   "title": {
+    "en": "Kyoaku Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.22953789,
    "languages": [
     "en"
    ]
@@ -140,60 +186,12 @@
     "en": "Kamisama Kazoku"
    },
    "contentRating": "safe",
-   "score": 0.22636245,
+   "score": 0.22638758,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "16674a04-fb1f-41ac-aed1-f3e71a87d3fb",
-   "title": {
-    "en": "Ore Nante Galge?"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a4430215-86ef-43e8-963d-787f6f8193ae",
-   "title": {
-    "en": "Queen of the Apartment Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf5033f2-0a27-45be-95da-876971af682f",
-   "title": {
-    "en": "Sitting Down"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b27cf20-2770-4c25-bf13-7db8349cd0d3",
-   "title": {
-    "en": "My First Planet"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "tr",
-    "it",
-    "pt-br",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:46+00:00"
+ "updatedAt": "2023-12-10T18:16:39+00:00"
 }

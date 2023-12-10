@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "45d7ddc2-81b8-43c6-8ff2-358a19f37098",
+   "title": {
+    "en": "Lycanthrope Bouken Hoken"
+   },
+   "contentRating": "safe",
+   "score": 0.3115845,
+   "languages": [
+    "en",
+    "es-la",
+    "es"
+   ]
+  },
+  {
    "id": "73cc2493-418a-47b8-8d15-182b46cfa37e",
    "title": {
     "en": "10,000 Light-Year Binoculars"
    },
    "contentRating": "safe",
-   "score": 0.2830955,
+   "score": 0.28206694,
    "languages": [
     "vi",
     "fr",
@@ -27,7 +40,7 @@
     "en": "The Girl Who Could See Emotions"
    },
    "contentRating": "safe",
-   "score": 0.26775497,
+   "score": 0.2656339,
    "languages": [
     "en",
     "es-la",
@@ -36,17 +49,14 @@
    ]
   },
   {
-   "id": "b8216b8e-f3e2-42a5-bc04-53397b632f47",
+   "id": "8651042f-c2d2-422d-a672-9f13b8cb0f1f",
    "title": {
-    "en": "Person who Tends to be Spoiled"
+    "en": "A Story About a Girl Who Doesn't Hide Her Love and a Boy Who Doesn't Notice"
    },
    "contentRating": "safe",
-   "score": 0.24184227,
+   "score": 0.24260992,
    "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "id"
+    "en"
    ]
   },
   {
@@ -55,10 +65,24 @@
     "en": "We were Childhood Friends"
    },
    "contentRating": "safe",
-   "score": 0.24099359,
+   "score": 0.24115103,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "b8216b8e-f3e2-42a5-bc04-53397b632f47",
+   "title": {
+    "en": "Person who Tends to be Spoiled"
+   },
+   "contentRating": "safe",
+   "score": 0.24101242,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -67,7 +91,7 @@
     "en": "Aru Roufuufu no Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.2390169,
+   "score": 0.23853256,
    "languages": [
     "en",
     "es-la"
@@ -79,7 +103,7 @@
     "en": "ELEMENTS: Users Of The Universe"
    },
    "contentRating": "safe",
-   "score": 0.2346618,
+   "score": 0.23354886,
    "languages": [
     "en"
    ]
@@ -90,7 +114,7 @@
     "en": "The Ribbon Wearing Female MC is Too Pure"
    },
    "contentRating": "safe",
-   "score": 0.23346293,
+   "score": 0.23201956,
    "languages": [
     "fr",
     "vi",
@@ -111,13 +135,36 @@
    ]
   },
   {
+   "id": "ba2903e3-0417-4344-840c-3320926b916a",
+   "title": {
+    "en": "Couples (Twitter)"
+   },
+   "contentRating": "safe",
+   "score": 0.22952233,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fa126a5d-dd02-4f85-8342-a2699fa22d56",
    "title": {
     "en": "Universe's Strongest First Love"
    },
    "contentRating": "safe",
-   "score": 0.22987077,
+   "score": 0.2287853,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "90425fa4-2d14-4e50-a775-b4bc163d4426",
+   "title": {
+    "en": "My childhood friend is a bit forgetful"
+   },
+   "contentRating": "safe",
+   "score": 0.22800915,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -130,44 +177,6 @@
    "score": 0.22800915,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "f42e75aa-2395-4ebc-b6ec-921044505eae",
-   "title": {
-    "en": "Growing up with My Cute Neighbour"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
-    "vi",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "aefff461-ce0f-4db2-b160-3eeb1b03f48e",
-   "title": {
-    "en": "Merry Christmas"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
-    "it",
-    "en",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "7c34a56c-c8c1-4ac3-859d-1702dacca46f",
-   "title": {
-    "en": "Aurora Borealis"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
     "en"
    ]
   },
@@ -188,29 +197,16 @@
    ]
   },
   {
-   "id": "72850e6d-20ac-4f93-ba60-06928e4671b4",
+   "id": "7c34a56c-c8c1-4ac3-859d-1702dacca46f",
    "title": {
-    "en": "You're the One Who Taught Me"
+    "en": "Aurora Borealis"
    },
    "contentRating": "safe",
    "score": 0.22800915,
    "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "90425fa4-2d14-4e50-a775-b4bc163d4426",
-   "title": {
-    "en": "My childhood friend is a bit forgetful"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
-    "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:45+00:00"
+ "updatedAt": "2023-12-10T18:27:18+00:00"
 }

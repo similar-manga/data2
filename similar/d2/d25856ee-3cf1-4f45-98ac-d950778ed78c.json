@@ -11,7 +11,7 @@
     "en": "Nineteen"
    },
    "contentRating": "safe",
-   "score": 0.26641712,
+   "score": 0.26623097,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "White Lover"
    },
    "contentRating": "safe",
-   "score": 0.25685892,
+   "score": 0.2622497,
    "languages": [
     "pl",
     "en",
@@ -36,7 +36,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.2513327,
+   "score": 0.2512299,
    "languages": [
     "en",
     "id"
@@ -48,7 +48,7 @@
     "en": "Kamisama to"
    },
    "contentRating": "safe",
-   "score": 0.24271223,
+   "score": 0.24262498,
    "languages": [
     "en",
     "pt-br"
@@ -60,7 +60,7 @@
     "en": "Owatte miru no mo Warukunai"
    },
    "contentRating": "safe",
-   "score": 0.24174033,
+   "score": 0.24218945,
    "languages": [
     "en",
     "pt-br"
@@ -84,7 +84,7 @@
     "en": "Mu-kai"
    },
    "contentRating": "safe",
-   "score": 0.22978048,
+   "score": 0.23144567,
    "languages": [
     "en",
     "it",
@@ -97,20 +97,9 @@
     "en": "The Day I Became My Sister"
    },
    "contentRating": "safe",
-   "score": 0.22219627,
+   "score": 0.2206678,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "a215e6c7-6d44-40a5-98b4-a78f606c3d07",
-   "title": {
-    "en": "Obaa-chan no Poi"
-   },
-   "contentRating": "safe",
-   "score": 0.20781095,
-   "languages": [
     "en"
    ]
   },
@@ -120,11 +109,22 @@
     "en": "Happy Happy Birthday"
    },
    "contentRating": "safe",
-   "score": 0.20775238,
+   "score": 0.21071474,
    "languages": [
     "it",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a215e6c7-6d44-40a5-98b4-a78f606c3d07",
+   "title": {
+    "en": "Obaa-chan no Poi"
+   },
+   "contentRating": "safe",
+   "score": 0.20809425,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -167,24 +167,12 @@
    ]
   },
   {
-   "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
-   "title": {
-    "en": "Koaka Head"
-   },
-   "contentRating": "safe",
-   "score": 0.206377,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "bb3f0691-6bd8-4f8d-a3c8-fc27d32a794a",
    "title": {
     "en": "Love is Sky Blue"
    },
    "contentRating": "safe",
-   "score": 0.20413019,
+   "score": 0.20369063,
    "languages": [
     "en"
    ]
@@ -195,13 +183,27 @@
     "en": "The Love That Binds Us to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.19920081,
+   "score": 0.19893634,
    "languages": [
     "en",
     "ru",
     "tr"
    ]
+  },
+  {
+   "id": "eda814c4-e6f5-4d38-a64a-7929251a7303",
+   "title": {
+    "en": "The Goldfish Osushi"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695,
+   "languages": [
+    "ru",
+    "pt-br",
+    "tr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:26+00:00"
+ "updatedAt": "2023-12-10T18:31:38+00:00"
 }

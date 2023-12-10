@@ -6,28 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ebcff7c1-aaf9-46ea-8d8b-2f4ea7e8f02b",
+   "title": {
+    "en": "Kenta Yarimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.2923216,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "436730b8-282a-4f1f-b02c-b9c534b2ee66",
+   "title": {
+    "en": "Irregulars"
+   },
+   "contentRating": "safe",
+   "score": 0.27282292,
+   "languages": [
+    "vi",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
    "title": {
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.25541416,
+   "score": 0.25089562,
    "languages": [
     "ru",
     "en",
     "es"
-   ]
-  },
-  {
-   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
-   "title": {
-    "en": "I'm Teppei"
-   },
-   "contentRating": "safe",
-   "score": 0.24782728,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -36,7 +48,7 @@
     "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.24599873,
+   "score": 0.25013265,
    "languages": [
     "pt-br",
     "en",
@@ -48,14 +60,29 @@
    ]
   },
   {
-   "id": "d91023f0-d7ea-464d-9f29-fae3063465ee",
+   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
    "title": {
-    "en": "The Kabocha Wine"
+    "en": "I'm Teppei"
    },
    "contentRating": "safe",
-   "score": 0.24358268,
+   "score": 0.24736513,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "6341b809-53e3-4461-ab3b-160514964685",
+   "title": {
+    "en": "Chiisai Boku no Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.24615793,
+   "languages": [
+    "id",
+    "en",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -64,7 +91,29 @@
     "en": "Osomatsu-kun"
    },
    "contentRating": "safe",
-   "score": 0.24237476,
+   "score": 0.24592935,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d91023f0-d7ea-464d-9f29-fae3063465ee",
+   "title": {
+    "en": "The Kabocha Wine"
+   },
+   "contentRating": "safe",
+   "score": 0.24457683,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bcebd42-d47e-418a-901c-e18ae48269ee",
+   "title": {
+    "en": "Stripe Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.24391605,
    "languages": [
     "en"
    ]
@@ -75,10 +124,22 @@
     "en": "Asaoka High School Baseball Team Journal - Over Fence"
    },
    "contentRating": "safe",
-   "score": 0.23499767,
+   "score": 0.23492698,
    "languages": [
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
+   "title": {
+    "en": "Kore Kaite Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.23293972,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -87,7 +148,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.2315007,
+   "score": 0.23229244,
    "languages": [
     "en",
     "pt-br",
@@ -99,24 +160,12 @@
    ]
   },
   {
-   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
-   "title": {
-    "en": "Kore Kaite Shine"
-   },
-   "contentRating": "safe",
-   "score": 0.23128276,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
    "title": {
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.2274025,
+   "score": 0.22801387,
    "languages": [
     "en",
     "fr",
@@ -131,7 +180,7 @@
     "en": "One Summer's Kids Game"
    },
    "contentRating": "safe",
-   "score": 0.22637177,
+   "score": 0.22773205,
    "languages": [
     "en",
     "pt-br"
@@ -143,98 +192,22 @@
     "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.22408399,
+   "score": 0.22530837,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
+   "id": "bbbc095a-4131-4ca7-9491-2964b2dcc038",
    "title": {
-    "en": "Komi-san wa Komyushou Desu."
+    "en": "Renchi na Himoto"
    },
    "contentRating": "safe",
-   "score": 0.21526043,
-   "languages": [
-    "pt-br",
-    "id",
-    "vi",
-    "cs",
-    "ru",
-    "es-la",
-    "ar",
-    "fa",
-    "tr",
-    "en",
-    "fr",
-    "pl",
-    "mn",
-    "it",
-    "de",
-    "uk",
-    "ms",
-    "hi",
-    "tl",
-    "hu",
-    "nl",
-    ""
-   ]
-  },
-  {
-   "id": "029cec9b-fd34-4efd-a2ac-7bd2891342ce",
-   "title": {
-    "en": "Go!! Southern Ice Hockey Club"
-   },
-   "contentRating": "safe",
-   "score": 0.21013111,
+   "score": 0.22153951,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
-   "title": {
-    "en": "Hadaka no Taiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.20738973,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
-   "title": {
-    "en": "Kono Oto Tomare!"
-   },
-   "contentRating": "safe",
-   "score": 0.20700455,
-   "languages": [
-    "fr",
-    "vi",
-    "pt-br",
-    "en",
-    "id",
-    "es-la",
-    "ar",
-    "it",
-    "hu"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.20435338,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:35+00:00"
+ "updatedAt": "2023-12-10T18:16:13+00:00"
 }

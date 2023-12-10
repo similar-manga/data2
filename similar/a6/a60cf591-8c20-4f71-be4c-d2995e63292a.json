@@ -11,7 +11,7 @@
     "en": "Kowareta Bokura no Senryaku Ren'ai"
    },
    "contentRating": "safe",
-   "score": 0.28146538,
+   "score": 0.28125906,
    "languages": [
     "vi",
     "en",
@@ -25,7 +25,7 @@
     "en": "Ikiteru Kimi ni Hanataba wo"
    },
    "contentRating": "safe",
-   "score": 0.27229404,
+   "score": 0.27233997,
    "languages": [
     "en",
     "fr"
@@ -37,7 +37,7 @@
     "en": "Yokoshima Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.26458636,
+   "score": 0.26474515,
    "languages": [
     "en",
     "vi"
@@ -49,7 +49,18 @@
     "en": "Naruto Gaiden: Michita Tsuki ga Terasu Michi"
    },
    "contentRating": "safe",
-   "score": 0.25800478,
+   "score": 0.2617835,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c6f0ecb-0c39-4d4b-9e5f-5170fce12523",
+   "title": {
+    "en": "Karasuma Suite"
+   },
+   "contentRating": "safe",
+   "score": 0.25586128,
    "languages": [
     "en"
    ]
@@ -89,17 +100,6 @@
    ]
   },
   {
-   "id": "9c6f0ecb-0c39-4d4b-9e5f-5170fce12523",
-   "title": {
-    "en": "Karasuma Suite"
-   },
-   "contentRating": "safe",
-   "score": 0.25553373,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "88000462-085e-45ff-80bd-6d5117387431",
    "title": {
     "en": "Amata"
@@ -117,12 +117,24 @@
     "en": "One Morning I Woke Up"
    },
    "contentRating": "safe",
-   "score": 0.23837982,
+   "score": 0.23835942,
    "languages": [
     "fr",
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0026052c-9091-4dc7-915c-dffce9559234",
+   "title": {
+    "en": "Shinigami no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.23775452,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -144,7 +156,7 @@
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.23079492,
+   "score": 0.23064364,
    "languages": [
     "en",
     "id",
@@ -157,23 +169,12 @@
    ]
   },
   {
-   "id": "84d5742f-f5cd-408b-8f15-23e2c799f292",
-   "title": {
-    "en": "Hanseishite Kameda-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.23031491,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
    "title": {
     "en": "Parasol Alliance"
    },
    "contentRating": "safe",
-   "score": 0.22960791,
+   "score": 0.22962758,
    "languages": [
     "es-la",
     "pt-br",
@@ -184,15 +185,14 @@
    ]
   },
   {
-   "id": "b50c2e40-e8b4-4fa3-ab1f-a49e6f5c78b5",
+   "id": "84d5742f-f5cd-408b-8f15-23e2c799f292",
    "title": {
-    "en": "Boy or Girl ???"
+    "en": "Hanseishite Kameda-kun"
    },
    "contentRating": "safe",
-   "score": 0.22949003,
+   "score": 0.22925162,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -201,12 +201,12 @@
     "en": "Koto no Ha"
    },
    "contentRating": "safe",
-   "score": 0.22868387,
+   "score": 0.22898115,
    "languages": [
     "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:36+00:00"
+ "updatedAt": "2023-12-10T18:26:51+00:00"
 }

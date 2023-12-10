@@ -22,7 +22,7 @@
     "en": "How About R15?"
    },
    "contentRating": "suggestive",
-   "score": 0.22906053,
+   "score": 0.2370208,
    "languages": [
     "en",
     "pt-br",
@@ -47,22 +47,8 @@
     "en": "Battleship Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.21047026,
+   "score": 0.2102592,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "12830613-3ca6-45d7-8ba6-dad7e0e0bc40",
-   "title": {
-    "en": "Captain Momo's Secret Base"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
-    "zh-hk",
-    "ru",
     "en"
    ]
   },
@@ -89,13 +75,16 @@
    ]
   },
   {
-   "id": "c3ebdd8c-65b9-4bd7-b8a5-b378cfc83748",
+   "id": "12830613-3ca6-45d7-8ba6-dad7e0e0bc40",
    "title": {
-    "en": "Jenny of the Morning Star"
+    "en": "Captain Momo's Secret Base"
    },
    "contentRating": "suggestive",
-   "score": 0.19166298,
+   "score": 0.20203052,
    "languages": [
+    "pt-br",
+    "zh-hk",
+    "ru",
     "en"
    ]
   },
@@ -111,25 +100,24 @@
    ]
   },
   {
-   "id": "307849b2-b348-4712-8256-9849aaf69c83",
+   "id": "c3ebdd8c-65b9-4bd7-b8a5-b378cfc83748",
    "title": {
-    "en": "Unreal Sundown"
+    "en": "Jenny of the Morning Star"
    },
    "contentRating": "suggestive",
-   "score": 0.17589399,
+   "score": 0.19166298,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d3d7aaad-1d28-44e1-b809-6b5bb1df0f3a",
+   "id": "307849b2-b348-4712-8256-9849aaf69c83",
    "title": {
-    "en": "Shizuru's Notebook"
+    "en": "Unreal Sundown"
    },
    "contentRating": "suggestive",
-   "score": 0.17560992,
+   "score": 0.17504984,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -145,21 +133,33 @@
    ]
   },
   {
+   "id": "d3d7aaad-1d28-44e1-b809-6b5bb1df0f3a",
+   "title": {
+    "en": "Shizuru's Notebook"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1748636,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "fedb11d4-66c7-4c5f-a941-a611735c034b",
    "title": {
     "en": "Super Cartesian Theater"
    },
    "contentRating": "suggestive",
-   "score": 0.17300527,
+   "score": 0.17255434,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "3c157222-4425-46d4-a7e7-321bc0bb61de",
+   "id": "9642865e-2d4a-4322-9c59-ac8dea333256",
    "title": {
-    "en": "Kinnikuman Lady"
+    "en": "Bakunetsu Sentouki"
    },
    "contentRating": "suggestive",
    "score": 0.16495723,
@@ -168,18 +168,14 @@
    ]
   },
   {
-   "id": "d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5",
+   "id": "f55bcceb-9b78-4456-aae1-b5771fd0e7d2",
    "title": {
-    "en": "Fuuto PI"
+    "en": "Shiroi Gekkou"
    },
    "contentRating": "suggestive",
    "score": 0.16495723,
    "languages": [
-    "id",
-    "en",
-    "es",
-    "pt-br",
-    "es-la"
+    "en"
    ]
   },
   {
@@ -194,5 +190,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:42+00:00"
+ "updatedAt": "2023-12-10T18:13:46+00:00"
 }

@@ -23,12 +23,31 @@
    ]
   },
   {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Yuukoku no Moriarty"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "uk",
+    "ar",
+    "tr",
+    "vi",
+    "hu"
+   ]
+  },
+  {
    "id": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
    "title": {
     "en": "Noragami"
    },
    "contentRating": "safe",
-   "score": 0.15992695,
+   "score": 0.15881915,
    "languages": [
     "it",
     "pt-br",
@@ -48,12 +67,29 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.15533772,
+   "score": 0.15473907,
    "languages": [
     "en",
     "pl",
     "ru",
     "hu",
+    "it",
+    "fr"
+   ]
+  },
+  {
+   "id": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
+   "title": {
+    "en": "Vanitas no Carte"
+   },
+   "contentRating": "safe",
+   "score": 0.1355262,
+   "languages": [
+    "pt-br",
+    "es",
+    "ru",
+    "hu",
+    "es-la",
     "it",
     "fr"
    ]
@@ -103,11 +139,54 @@
     "en": "Seiryuu no Magoi"
    },
    "contentRating": "safe",
-   "score": 0.12518768,
+   "score": 0.12442911,
    "languages": [
     "vi",
     "hu",
     "en"
+   ]
+  },
+  {
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
+   "title": {
+    "en": "Black Clover"
+   },
+   "contentRating": "safe",
+   "score": 0.115577124,
+   "languages": [
+    "es",
+    "pt-br",
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
+   ]
+  },
+  {
+   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
+   "title": {
+    "en": "FREAKS"
+   },
+   "contentRating": "safe",
+   "score": 0.114285715,
+   "languages": [
+    "en",
+    "ru",
+    "it",
+    "th",
+    "hu",
+    "fr"
    ]
   },
   {
@@ -129,28 +208,12 @@
    ]
   },
   {
-   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
-   "title": {
-    "en": "FREAKS"
-   },
-   "contentRating": "safe",
-   "score": 0.114285715,
-   "languages": [
-    "en",
-    "ru",
-    "it",
-    "th",
-    "hu",
-    "fr"
-   ]
-  },
-  {
    "id": "40332944-07d9-4698-a7c1-39bbcc4c971d",
    "title": {
     "en": "Brother in the Doll"
    },
    "contentRating": "safe",
-   "score": 0.11331783,
+   "score": 0.112675615,
    "languages": [
     "en",
     "hu",
@@ -173,6 +236,22 @@
     "pt-br",
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "7c0dbcc2-f990-4d15-b084-4853050f02d3",
+   "title": {
+    "en": "After-School Boy Hanako-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "hu",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -210,68 +289,7 @@
     "hu",
     "de"
    ]
-  },
-  {
-   "id": "195023bf-cf9a-4772-94ef-09dd6eddea84",
-   "title": {
-    "en": "The Ancient Magus' Bride"
-   },
-   "contentRating": "safe",
-   "score": 0.0808122,
-   "languages": [
-    "es",
-    "en",
-    "ru",
-    "tr",
-    "hu",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
-   "title": {
-    "en": "Jump Super Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.07377111,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en",
-    "it",
-    "hu"
-   ]
-  },
-  {
-   "id": "9a247f6f-09f0-4310-ac19-b186147042f8",
-   "title": {
-    "en": "HOT"
-   },
-   "contentRating": "safe",
-   "score": 0.07377111,
-   "languages": [
-    "hu",
-    "zh-hk",
-    "de",
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "26ab64be-4b23-4f9c-b2f6-93b3f207325f",
-   "title": {
-    "en": "I Want to See You"
-   },
-   "contentRating": "safe",
-   "score": 0.06388766,
-   "languages": [
-    "pt-br",
-    "hu",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:42+00:00"
+ "updatedAt": "2023-12-10T18:10:58+00:00"
 }

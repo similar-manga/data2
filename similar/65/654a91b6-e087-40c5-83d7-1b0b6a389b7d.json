@@ -11,7 +11,7 @@
     "en": "Undead Unluck"
    },
    "contentRating": "safe",
-   "score": 0.35952088,
+   "score": 0.34818706,
    "languages": [
     "ru",
     "fr",
@@ -38,6 +38,22 @@
    ]
   },
   {
+   "id": "e61725ac-2f53-4038-b887-a1e852f81a5f",
+   "title": {
+    "en": "Enma Gavel"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "id",
+    "ru",
+    "en",
+    "es-la",
+    "ca",
+    "pl"
+   ]
+  },
+  {
    "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
    "title": {
     "en": "Naruto: Road to Ninja"
@@ -48,6 +64,20 @@
     "en",
     "ru",
     "ro"
+   ]
+  },
+  {
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
+   "title": {
+    "en": "Shaman King: The Super Star"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -63,19 +93,20 @@
    ]
   },
   {
-   "id": "e61725ac-2f53-4038-b887-a1e852f81a5f",
+   "id": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
    "title": {
-    "en": "Enma Gavel"
+    "en": "Vanitas no Carte"
    },
    "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.19090089,
    "languages": [
-    "id",
+    "pt-br",
+    "es",
     "ru",
-    "en",
+    "hu",
     "es-la",
-    "ca",
-    "pl"
+    "it",
+    "fr"
    ]
   },
   {
@@ -118,9 +149,9 @@
    ]
   },
   {
-   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
+   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
    "title": {
-    "en": "Zenei no Archer"
+    "en": "Mu Wu's Forest"
    },
    "contentRating": "safe",
    "score": 0.17634669,
@@ -141,6 +172,45 @@
     "en",
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
+   "title": {
+    "en": "Zenei no Archer"
+   },
+   "contentRating": "safe",
+   "score": 0.17634669,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
+   "title": {
+    "en": "Black Clover"
+   },
+   "contentRating": "safe",
+   "score": 0.16280083,
+   "languages": [
+    "es",
+    "pt-br",
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
    ]
   },
   {
@@ -170,67 +240,22 @@
    ]
   },
   {
-   "id": "545ea920-12fc-423a-afe9-70415b9954ae",
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
    "title": {
-    "en": "Tokyo Hell Heavens"
+    "en": "Wandering Witch: The Journey of Elaina"
    },
    "contentRating": "safe",
    "score": 0.16198477,
    "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
-   "title": {
-    "en": "PutOn"
-   },
-   "contentRating": "safe",
-   "score": 0.16198477,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "daddf22b-4b41-4fc0-9a7b-94b1bf97fadb",
-   "title": {
-    "en": "The spirit that comes out! Mataro-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.16198477,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "28153424-d86d-4629-8661-e0232acb525d",
-   "title": {
-    "en": "Hameln no Violin Hiki - Shchelkunchik"
-   },
-   "contentRating": "safe",
-   "score": 0.16198477,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "f898761d-a6b0-4ac9-b78b-50021eb93205",
-   "title": {
-    "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.15832844,
-   "languages": [
-    "en",
-    "fr",
     "id",
-    "vi",
-    "pt-br",
-    "ru"
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:46+00:00"
+ "updatedAt": "2023-12-10T18:19:16+00:00"
 }

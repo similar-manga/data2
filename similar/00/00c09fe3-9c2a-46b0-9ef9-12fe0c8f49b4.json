@@ -11,7 +11,7 @@
     "en": "Everyday I am Human"
    },
    "contentRating": "suggestive",
-   "score": 0.22253285
+   "score": 0.22057438
   },
   {
    "id": "3458e951-e513-4478-8e7c-92e03cee6c74",
@@ -19,7 +19,7 @@
     "en": "Lupin III H"
    },
    "contentRating": "suggestive",
-   "score": 0.21805802
+   "score": 0.21908098
   },
   {
    "id": "1efa3802-8525-44e1-9db9-d5cacad34f31",
@@ -27,7 +27,7 @@
     "en": "The Golf Isao Aoki Speaks Of"
    },
    "contentRating": "suggestive",
-   "score": 0.21217713
+   "score": 0.21184514
   },
   {
    "id": "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d",
@@ -35,19 +35,11 @@
     "en": "Kine-san no 1-ri de Cinema"
    },
    "contentRating": "suggestive",
-   "score": 0.20912005,
+   "score": 0.20882957,
    "languages": [
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "bbab5d57-24fe-4fa7-a9b0-72fd9a3563e3",
-   "title": {
-    "en": "Today Is My Unlucky Day, Again"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20475839
   },
   {
    "id": "1fc1056a-5e2b-40e1-b55e-7de27ba45d87",
@@ -58,12 +50,31 @@
    "score": 0.20167112
   },
   {
+   "id": "bbab5d57-24fe-4fa7-a9b0-72fd9a3563e3",
+   "title": {
+    "en": "Today Is My Unlucky Day, Again"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20140857
+  },
+  {
    "id": "c4d0c41b-5f1a-4f72-909c-c4d67278bf78",
    "title": {
     "en": "Showa Phantoms - Those Unforgettable Guys"
    },
    "contentRating": "suggestive",
-   "score": 0.20072754
+   "score": 0.19776349
+  },
+  {
+   "id": "22b68c71-2478-4484-a00f-cbb056db587d",
+   "title": {
+    "en": "Roses - The Firebird"
+   },
+   "contentRating": "suggestive",
+   "score": 0.197353,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "6b27cbd8-4cc6-40ca-b010-928da4540be8",
@@ -71,7 +82,7 @@
     "en": "Getsuyoubi no Tawawa"
    },
    "contentRating": "suggestive",
-   "score": 0.19888231,
+   "score": 0.19534452,
    "languages": [
     "ru",
     "pt-br",
@@ -83,15 +94,12 @@
    ]
   },
   {
-   "id": "22b68c71-2478-4484-a00f-cbb056db587d",
+   "id": "125ee433-6c56-4bc6-afcc-a321adc9f89d",
    "title": {
-    "en": "Roses - The Firebird"
+    "en": "Stand by Me: Kakuemon"
    },
    "contentRating": "suggestive",
-   "score": 0.19525672,
-   "languages": [
-    "en"
-   ]
+   "score": 0.1926741
   },
   {
    "id": "039a17cf-d9fe-4faf-b54d-bef9a23ef213",
@@ -99,23 +107,7 @@
     "en": "Superwoman Haruko"
    },
    "contentRating": "suggestive",
-   "score": 0.1917891
-  },
-  {
-   "id": "125ee433-6c56-4bc6-afcc-a321adc9f89d",
-   "title": {
-    "en": "Stand by Me: Kakuemon"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18898733
-  },
-  {
-   "id": "90f2f5ac-b914-42fb-9d8a-0171961f12f5",
-   "title": {
-    "en": "The Black and Red Staircase"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18642198
+   "score": 0.19174108
   },
   {
    "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
@@ -123,19 +115,15 @@
     "en": "Legend of the Holy Common Man"
    },
    "contentRating": "suggestive",
-   "score": 0.18638392
+   "score": 0.1856238
   },
   {
-   "id": "011ecd60-144f-476f-92e9-278905cb4450",
+   "id": "90f2f5ac-b914-42fb-9d8a-0171961f12f5",
    "title": {
-    "en": "Getsuyoubi no Tawawa (Serialization) (Blue) (Fan Colored)"
+    "en": "The Black and Red Staircase"
    },
    "contentRating": "suggestive",
-   "score": 0.18474679,
-   "languages": [
-    "en",
-    "ru"
-   ]
+   "score": 0.18553966
   },
   {
    "id": "7be0a107-24a8-48eb-8016-e487847dabfe",
@@ -151,8 +139,21 @@
     "en": "1O8"
    },
    "contentRating": "suggestive",
-   "score": 0.18357575
+   "score": 0.1834907
+  },
+  {
+   "id": "f61c1375-ba28-4ec8-888b-08c7cc2b8470",
+   "title": {
+    "en": "Lupin III Part 3: Ore Ryuuha Nashi...!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18140623,
+   "languages": [
+    "pt-br",
+    "it",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:47+00:00"
+ "updatedAt": "2023-12-10T18:08:26+00:00"
 }

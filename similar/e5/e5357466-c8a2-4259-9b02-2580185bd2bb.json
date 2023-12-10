@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "af2b38df-05bf-44b7-b604-3579072c590d",
+   "title": {
+    "en": "Vlad Dracula"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eace40fd-0bcd-4016-9475-24459996302b",
    "title": {
     "en": "Reinouryokusha Odagiri Kyouko no Uso"
@@ -22,7 +44,7 @@
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.2196371,
+   "score": 0.21904469,
    "languages": [
     "en"
    ]
@@ -33,10 +55,21 @@
     "en": "Revenge Doll"
    },
    "contentRating": "safe",
-   "score": 0.21784191,
+   "score": 0.2153724,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "6e5c0ebf-86ee-4a60-83e4-fbdbe68a126e",
+   "title": {
+    "en": "Kyouka Ayakashi Hichou Kanzenban"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -51,12 +84,23 @@
    ]
   },
   {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f3cbfbf0-a6f2-49f8-b73f-a34c69362e0c",
    "title": {
     "en": "Skip! Yamada-kun"
    },
    "contentRating": "safe",
-   "score": 0.20397957,
+   "score": 0.20428096,
    "languages": [
     "ru",
     "de",
@@ -80,28 +124,25 @@
    ]
   },
   {
-   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
    "title": {
-    "en": "Shadowman"
+    "en": "Souzoku Tantei"
    },
    "contentRating": "safe",
-   "score": 0.1947781,
+   "score": 0.19582444,
    "languages": [
-    "pt-br",
-    "es",
     "en"
    ]
   },
   {
-   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
+   "id": "c65caf85-b120-4d9d-9003-a1f2ad726be6",
    "title": {
-    "en": "Dorobou Night Trick"
+    "en": "Yoiko no Shouzou"
    },
    "contentRating": "safe",
-   "score": 0.19435757,
+   "score": 0.19422014,
    "languages": [
-    "en",
-    "es"
+    "en"
    ]
   },
   {
@@ -116,85 +157,44 @@
    ]
   },
   {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "id": "fbd2ccea-7121-468f-b46f-cd5b3b918bcf",
    "title": {
-    "en": "Ultra Heaven"
+    "en": "Mononobe Koshoten Kaikitan"
    },
    "contentRating": "safe",
-   "score": 0.18605211,
+   "score": 0.19422014,
    "languages": [
     "en",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b397efc4-e5e0-40e3-99b9-65b2838650ed",
+   "title": {
+    "en": "Bungo Stray Dogs Gaiden - Ayatsuji Yukito VS. Kyougoku Natsuhiko"
+   },
+   "contentRating": "safe",
+   "score": 0.19420215,
+   "languages": [
+    "ru",
+    "en",
+    "uk",
     "pt-br"
    ]
   },
   {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
+   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
    "title": {
-    "en": "Cloud"
+    "en": "Dorobou Night Trick"
    },
    "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
-   "title": {
-    "en": "Fushigi na Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
+   "score": 0.193742,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
-   "title": {
-    "en": "Poison"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
-   "title": {
-    "en": "Kokushi no Shima"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f356e5c2-c847-47f1-9631-6bd59686f473",
-   "title": {
-    "en": "Waltzing at Sanzu River"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
-   "title": {
-    "en": "Sherlock"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en",
-    "tr"
+    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:13+00:00"
+ "updatedAt": "2023-12-10T18:33:36+00:00"
 }

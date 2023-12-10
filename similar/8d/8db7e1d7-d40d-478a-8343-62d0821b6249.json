@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
    "title": {
     "en": "Levius/est"
@@ -23,7 +35,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.17917792,
+   "score": 0.17856869,
    "languages": [
     "ru",
     "en",
@@ -37,7 +49,7 @@
     "en": "Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.16860984,
+   "score": 0.17008318,
    "languages": [
     "es",
     "fr",
@@ -61,12 +73,25 @@
    ]
   },
   {
+   "id": "b1a5751e-fd75-4df1-b8c8-77d8b7b92e9a",
+   "title": {
+    "en": "Please Give Me Your Blood, I Will Serve You in Gratitude"
+   },
+   "contentRating": "safe",
+   "score": 0.16639966,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "3683f667-c23d-4688-b872-0ade276aaafa",
    "title": {
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.16582431,
+   "score": 0.16432245,
    "languages": [
     "en",
     "pt-br",
@@ -79,11 +104,23 @@
     "en": "Doll-Kara"
    },
    "contentRating": "safe",
-   "score": 0.16079713,
+   "score": 0.16026212,
    "languages": [
     "en",
     "ru",
     "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dd353902-14d5-4c76-a3e9-28acebea2356",
+   "title": {
+    "en": "Dotsuki Manzai"
+   },
+   "contentRating": "safe",
+   "score": 0.15914476,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -93,11 +130,29 @@
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.15962519,
+   "score": 0.15724625,
    "languages": [
     "en",
     "id",
     "pt-br"
+   ]
+  },
+  {
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
+   "title": {
+    "en": "Hirayasumi"
+   },
+   "contentRating": "safe",
+   "score": 0.15530987,
+   "languages": [
+    "ar",
+    "uk",
+    "en",
+    "tr",
+    "it",
+    "pt-br",
+    "vi",
+    "ru"
    ]
   },
   {
@@ -106,10 +161,35 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.14721374,
+   "score": 0.14672977,
    "languages": [
     "en",
     "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+   "title": {
+    "en": "Madoromi Barmaid"
+   },
+   "contentRating": "safe",
+   "score": 0.14322299,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "c5b2a1ce-051e-4e8e-a2fa-6a2866b1784a",
+   "title": {
+    "en": "Batman: Justice Buster"
+   },
+   "contentRating": "safe",
+   "score": 0.14322299,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -119,26 +199,10 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.14391796,
+   "score": 0.14259742,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "a437129d-18e9-48d7-9484-9fb9b9073ddd",
-   "title": {
-    "en": "Uchuu Kyoudai"
-   },
-   "contentRating": "safe",
-   "score": 0.14064218,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "id",
-    "ru"
    ]
   },
   {
@@ -154,79 +218,7 @@
     "ru",
     "pt-br"
    ]
-  },
-  {
-   "id": "f1522b1b-4b5a-4c09-bb39-8b092f4b7edd",
-   "title": {
-    "en": "Shoukan sareta Kenja wa Isekai wo Yuku"
-   },
-   "contentRating": "safe",
-   "score": 0.14025469,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "d97fe2cf-6a94-4a2a-ab54-8ede4501172f",
-   "title": {
-    "en": "Dorachuu"
-   },
-   "contentRating": "safe",
-   "score": 0.13957812,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
-   "title": {
-    "en": "New Normal"
-   },
-   "contentRating": "safe",
-   "score": 0.13895641,
-   "languages": [
-    "tr",
-    "en",
-    "ru",
-    "pt-br",
-    "pl",
-    "fr",
-    "th",
-    "es-la",
-    "it",
-    "tl"
-   ]
-  },
-  {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
-   "title": {
-    "en": "Snowball Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.13844717,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9b69c59b-e9e4-4038-baf1-275bf9e9c131",
-   "title": {
-    "en": "Astro"
-   },
-   "contentRating": "safe",
-   "score": 0.13617016,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:32+00:00"
+ "updatedAt": "2023-12-10T18:23:58+00:00"
 }

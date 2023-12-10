@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d1899b8d-b3a7-460d-8e79-8ff2e524de46",
+   "title": {
+    "en": "Please Slay The Demon! Young Master!"
+   },
+   "contentRating": "safe",
+   "score": 0.38660038,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5336bd04-aa45-4eb3-8a8e-4520dddb781e",
    "title": {
     "en": "I Took Over the Demonic Sect Master"
    },
    "contentRating": "safe",
-   "score": 0.36831737,
+   "score": 0.36080837,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "The Strongest Sect of All Times"
    },
    "contentRating": "safe",
-   "score": 0.35125253,
+   "score": 0.34296924,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "I Work Nine to Five in the Immortal Cultivation World"
    },
    "contentRating": "safe",
-   "score": 0.3432494,
+   "score": 0.33485848,
    "languages": [
     "id",
     "en"
@@ -45,35 +56,9 @@
     "en": "Crazy, A Three-Year-Old Sect Master?!"
    },
    "contentRating": "safe",
-   "score": 0.32052374,
+   "score": 0.31617868,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b22561f9-81f1-45f6-b2c0-f5b53cfaee19",
-   "title": {
-    "en": "All Hail the Sect Leader"
-   },
-   "contentRating": "safe",
-   "score": 0.3187405,
-   "languages": [
-    "en",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
-   "id": "327dea47-e3c0-4fca-ad68-78bc906fdb2b",
-   "title": {
-    "en": "Keep a Low Profile, Sect Leader"
-   },
-   "contentRating": "safe",
-   "score": 0.31756294,
-   "languages": [
-    "en",
-    "id",
-    "tr"
    ]
   },
   {
@@ -82,10 +67,47 @@
     "en": "I Am The Immortal"
    },
    "contentRating": "safe",
-   "score": 0.31719092,
+   "score": 0.31337908,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "989a59da-2fbb-40c3-9ec3-8c51da123ad7",
+   "title": {
+    "en": "Stuck by the Demoness’s Side"
+   },
+   "contentRating": "safe",
+   "score": 0.31091607,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "327dea47-e3c0-4fca-ad68-78bc906fdb2b",
+   "title": {
+    "en": "Keep a Low Profile, Sect Leader"
+   },
+   "contentRating": "safe",
+   "score": 0.3109053,
+   "languages": [
+    "en",
+    "id",
+    "tr"
+   ]
+  },
+  {
+   "id": "b22561f9-81f1-45f6-b2c0-f5b53cfaee19",
+   "title": {
+    "en": "All Hail the Sect Leader"
+   },
+   "contentRating": "safe",
+   "score": 0.30817947,
+   "languages": [
+    "en",
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -94,20 +116,9 @@
     "en": "The Golden Lion King"
    },
    "contentRating": "safe",
-   "score": 0.30522847,
+   "score": 0.307216,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "02c78c1d-e2bc-48ab-a981-9779f6ad3fe7",
-   "title": {
-    "en": "World Dominator"
-   },
-   "contentRating": "safe",
-   "score": 0.30288905,
-   "languages": [
     "en"
    ]
   },
@@ -117,22 +128,57 @@
     "en": "Sword Intent"
    },
    "contentRating": "safe",
-   "score": 0.30201483,
+   "score": 0.30341262,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "a525c171-d42f-4dd3-9c36-ed00a8dab234",
+   "id": "811fb35d-8a0c-46ee-a50d-c9ad22e6a6ce",
    "title": {
-    "en": "Your Ancestor Is Online"
+    "en": "Indestructible Body of Vajra of the Village Leader"
    },
    "contentRating": "safe",
-   "score": 0.2998109,
+   "score": 0.30240265,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "02c78c1d-e2bc-48ab-a981-9779f6ad3fe7",
+   "title": {
+    "en": "World Dominator"
+   },
+   "contentRating": "safe",
+   "score": 0.30001295,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "009bd26f-23b2-4f6e-9ed9-ba49391c49e8",
+   "title": {
+    "en": "Almighty Master"
+   },
+   "contentRating": "safe",
+   "score": 0.29846025,
+   "languages": [
+    "pt-br",
+    "fr",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "f794d51b-72cf-40ef-8c24-b863d6a3c729",
+   "title": {
+    "en": "My Disciples Cultivate, While I Slack Off!"
+   },
+   "contentRating": "safe",
+   "score": 0.29782325,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -141,66 +187,12 @@
     "en": "Rebirth of the Urban Mad Immortal"
    },
    "contentRating": "safe",
-   "score": 0.297345,
+   "score": 0.29741585,
    "languages": [
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "931fd4fd-6c22-485e-b717-2dce335500b1",
-   "title": {
-    "en": "God of Martial Arts"
-   },
-   "contentRating": "safe",
-   "score": 0.29443586,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "fr",
-    "it",
-    "es-la",
-    "id",
-    "pl",
-    "th",
-    "ar"
-   ]
-  },
-  {
-   "id": "7c471acd-55f1-4ead-84a3-9cc4a8a02c3f",
-   "title": {
-    "en": "I Look Too Much Like The Boss And The World Actually Believes It"
-   },
-   "contentRating": "safe",
-   "score": 0.2944165,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78c9d7d9-8283-4984-9d15-4248f34708f8",
-   "title": {
-    "en": "The White Lotus's Character Cannot Be Collapsed"
-   },
-   "contentRating": "safe",
-   "score": 0.293077,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b27afbd-33f3-4eb0-896c-1f30b4b51786",
-   "title": {
-    "en": "Level Up in the Mirror"
-   },
-   "contentRating": "safe",
-   "score": 0.2850124,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:23+00:00"
+ "updatedAt": "2023-12-10T18:10:04+00:00"
 }

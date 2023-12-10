@@ -6,15 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "93667e0c-bbb5-405e-8698-3539a3c994fc",
+   "id": "dbc0b51a-e696-4e37-83f7-0efa4782a9a2",
    "title": {
-    "en": "The Saviour's Time"
+    "en": "Secret Friend"
    },
    "contentRating": "safe",
-   "score": 0.31344485,
+   "score": 0.33087462,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12d08397-4227-4a8b-97ca-718c587f1185",
+   "title": {
+    "en": "Closed Room Mafia"
+   },
+   "contentRating": "safe",
+   "score": 0.32223707,
    "languages": [
     "en",
-    "ru",
     "pt-br"
    ]
   },
@@ -24,9 +34,22 @@
     "en": "Room 303"
    },
    "contentRating": "safe",
-   "score": 0.30970296,
+   "score": 0.32198068,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "93667e0c-bbb5-405e-8698-3539a3c994fc",
+   "title": {
+    "en": "The Saviour's Time"
+   },
+   "contentRating": "safe",
+   "score": 0.31480923,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -35,140 +58,7 @@
     "en": "Room"
    },
    "contentRating": "safe",
-   "score": 0.29748106,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "42e52068-1434-4c51-b786-70bdf28004f5",
-   "title": {
-    "en": "The Reclusive Hero: Journey from Seclusion to City"
-   },
-   "contentRating": "safe",
-   "score": 0.28795087,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2da06be0-e6a9-4523-8e7a-b72b83785150",
-   "title": {
-    "en": "Trapped"
-   },
-   "contentRating": "safe",
-   "score": 0.2852466,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "ac09cc98-2129-4c1e-aadc-899b26909e03",
-   "title": {
-    "en": "The God Room"
-   },
-   "contentRating": "safe",
-   "score": 0.28301537,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "52a572bc-41cc-4922-a650-0de582376f87",
-   "title": {
-    "en": "No Rose Without Thorns"
-   },
-   "contentRating": "safe",
-   "score": 0.26603836,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "79a67764-312a-40af-835a-622a9741bffa",
-   "title": {
-    "en": "If AI Ruled the World"
-   },
-   "contentRating": "safe",
-   "score": 0.2545194,
-   "languages": [
-    "en",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "8ac40b72-01ba-4ac4-8341-349c828d60f7",
-   "title": {
-    "en": "Dear X"
-   },
-   "contentRating": "safe",
-   "score": 0.2519763,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6bc4380-f6b3-439a-a4ac-74874927bdce",
-   "title": {
-    "en": "One Room"
-   },
-   "contentRating": "safe",
-   "score": 0.25090423,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f79104d6-a3b5-46a4-914e-85a988949298",
-   "title": {
-    "en": "Sister War"
-   },
-   "contentRating": "safe",
-   "score": 0.24637409,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
-   "title": {
-    "en": "Akunin no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.24204054,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "8c6e0eb8-fb94-44a3-9bf4-fa72dee36775",
-   "title": {
-    "en": "Your Throne"
-   },
-   "contentRating": "safe",
-   "score": 0.23772866,
-   "languages": [
-    "en",
-    "vi",
-    "pl",
-    "pt-br",
-    "tr",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "b7770b97-3aa6-4f9c-abff-b878ee24c971",
-   "title": {
-    "en": "Checkpoint"
-   },
-   "contentRating": "safe",
-   "score": 0.23570228,
+   "score": 0.30117577,
    "languages": [
     "en"
    ]
@@ -179,24 +69,127 @@
     "en": "Nightmare Game"
    },
    "contentRating": "safe",
-   "score": 0.23476273,
+   "score": 0.2891217,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "6a917cca-6df2-4f00-bd09-5e71c2006098",
+   "id": "ac09cc98-2129-4c1e-aadc-899b26909e03",
    "title": {
-    "en": "Seven Years Later"
+    "en": "The God Room"
    },
    "contentRating": "safe",
-   "score": 0.23356257,
+   "score": 0.28590503,
    "languages": [
     "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "2da06be0-e6a9-4523-8e7a-b72b83785150",
+   "title": {
+    "en": "Trapped"
+   },
+   "contentRating": "safe",
+   "score": 0.28418532,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "42e52068-1434-4c51-b786-70bdf28004f5",
+   "title": {
+    "en": "The Reclusive Hero: Journey from Seclusion to City"
+   },
+   "contentRating": "safe",
+   "score": 0.28270704,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6d5cf126-9845-4f3a-b10d-2f27455ad296",
+   "title": {
+    "en": "Love Me Now, My Husband"
+   },
+   "contentRating": "safe",
+   "score": 0.28080028,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d772eaf6-2a41-4485-b144-782782eed0df",
+   "title": {
+    "en": "What Do You Do If the Heroine Escapes From Your Novel"
+   },
+   "contentRating": "safe",
+   "score": 0.27902403,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "cab9406e-7bf8-4f8c-a789-93dbe0cb11f5",
+   "title": {
+    "en": "The Masked Devil's Love Contract"
+   },
+   "contentRating": "safe",
+   "score": 0.27134424,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7a648de8-44ef-4c68-98a8-2e09a8cd0dc6",
+   "title": {
+    "en": "Unpredictable"
+   },
+   "contentRating": "safe",
+   "score": 0.269374,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52a572bc-41cc-4922-a650-0de582376f87",
+   "title": {
+    "en": "No Rose Without Thorns"
+   },
+   "contentRating": "safe",
+   "score": 0.2658027,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2030caba-1b69-4fed-8d65-be4268c549dd",
+   "title": {
+    "en": "Mr Mo's Secret"
+   },
+   "contentRating": "safe",
+   "score": 0.26129758,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "79a67764-312a-40af-835a-622a9741bffa",
+   "title": {
+    "en": "If AI Ruled the World"
+   },
+   "contentRating": "safe",
+   "score": 0.2553594,
+   "languages": [
+    "en",
+    "ru",
     "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:49+00:00"
+ "updatedAt": "2023-12-10T18:30:04+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.22444242,
+   "score": 0.2228698,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.20565967,
+   "score": 0.2025573,
    "languages": [
     "en",
     "ca",
@@ -60,7 +60,7 @@
     "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.19940253,
+   "score": 0.19853476,
    "languages": [
     "ca",
     "en",
@@ -76,18 +76,7 @@
     "en": "NEO: The World Ends with You"
    },
    "contentRating": "safe",
-   "score": 0.19703235,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e3c4933c-3e8b-4e86-9472-5e666079843c",
-   "title": {
-    "en": "Shape of Happiness"
-   },
-   "contentRating": "safe",
-   "score": 0.19359827,
+   "score": 0.19333377,
    "languages": [
     "en"
    ]
@@ -104,26 +93,37 @@
    ]
   },
   {
-   "id": "78cbfb65-2681-48a4-92ca-8c7dd63737a7",
+   "id": "e3c4933c-3e8b-4e86-9472-5e666079843c",
    "title": {
-    "en": "Tokyo Jungle"
+    "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.19150724,
+   "score": 0.19171943,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
+   "id": "78cbfb65-2681-48a4-92ca-8c7dd63737a7",
    "title": {
-    "en": "Mega Man Battle Network Operate Shooting Star VS"
+    "en": "Tokyo Jungle"
    },
    "contentRating": "safe",
-   "score": 0.1907501,
+   "score": 0.19078125,
    "languages": [
-    "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
+   "title": {
+    "en": "Mega Man: The Deadly Struggle on Mu Arc"
+   },
+   "contentRating": "safe",
+   "score": 0.19069253,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -150,15 +150,26 @@
    ]
   },
   {
-   "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
+   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
    "title": {
-    "en": "Mega Man: The Deadly Struggle on Mu Arc"
+    "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.19069253,
+   "score": 0.19002719,
    "languages": [
-    "en",
-    "es"
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.1898382,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -167,18 +178,7 @@
     "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.18607228,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17364102-554c-4dba-804e-b47be457e600",
-   "title": {
-    "en": "Star Ocean - To the Far Side of Time"
-   },
-   "contentRating": "safe",
-   "score": 0.18356675,
+   "score": 0.18519972,
    "languages": [
     "en"
    ]
@@ -196,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:05+00:00"
+ "updatedAt": "2023-12-10T18:14:51+00:00"
 }

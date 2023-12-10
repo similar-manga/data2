@@ -11,7 +11,7 @@
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.41016272,
+   "score": 0.40872663,
    "languages": [
     "my",
     "es-la",
@@ -28,7 +28,7 @@
     "en": "Boushiya Ellipsis"
    },
    "contentRating": "safe",
-   "score": 0.40342417,
+   "score": 0.39737055,
    "languages": [
     "en"
    ]
@@ -39,10 +39,22 @@
     "en": "The Straw Hat and the Carp"
    },
    "contentRating": "safe",
-   "score": 0.3725797,
+   "score": 0.37956336,
    "languages": [
     "en",
     "hu"
+   ]
+  },
+  {
+   "id": "77566ea5-33a0-43e2-ba5b-ff7af8c397c9",
+   "title": {
+    "en": "Witch Hat Atelier Kitchen"
+   },
+   "contentRating": "safe",
+   "score": 0.35118076,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -51,18 +63,18 @@
     "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.34167752,
+   "score": 0.34530145,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "02870682-0b44-4f4a-812e-d61fd89cf73e",
+   "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
    "title": {
-    "en": "Angel Busters"
+    "en": "Hopeless Kacchan's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.33950645,
+   "score": 0.34134597,
    "languages": [
     "en"
    ]
@@ -73,7 +85,7 @@
     "en": "GALAXIAS"
    },
    "contentRating": "safe",
-   "score": 0.33862454,
+   "score": 0.34046933,
    "languages": [
     "fa",
     "es-la",
@@ -89,41 +101,7 @@
     "en": "Witch of the Old World"
    },
    "contentRating": "safe",
-   "score": 0.33755383,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
-   "title": {
-    "en": "Hopeless Kacchan's Love Story"
-   },
-   "contentRating": "safe",
-   "score": 0.3369586,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78b0f504-e83d-4f56-a574-efc6c7469b8e",
-   "title": {
-    "en": "Getsu in no Onmyouji"
-   },
-   "contentRating": "safe",
-   "score": 0.33484098,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
-   "title": {
-    "en": "Armados"
-   },
-   "contentRating": "safe",
-   "score": 0.3323428,
+   "score": 0.3401212,
    "languages": [
     "en"
    ]
@@ -134,29 +112,65 @@
     "en": "Mononoke Hime"
    },
    "contentRating": "safe",
-   "score": 0.33222532,
+   "score": 0.3386859,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1db2dbca-46b3-48c2-ae61-86986a56a6f1",
+   "id": "c558fd54-8352-4f83-a0fb-2ca83967b91a",
    "title": {
-    "en": "Komorebi Neko"
+    "en": "Story of a \"Jobless\" Champion and a Princess Who Together Find Their Happiness"
    },
    "contentRating": "safe",
-   "score": 0.33212042,
+   "score": 0.33812487,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br",
+    "th"
+   ]
+  },
+  {
+   "id": "c97d8626-8ae1-472c-bef7-d963555c02fd",
+   "title": {
+    "en": "Punch!"
+   },
+   "contentRating": "safe",
+   "score": 0.33787486,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ac5aaa5f-db79-4e09-8a80-a7c5398b44b9",
+   "id": "3747392b-e78a-4ab1-8be2-7bfa4be56c5a",
    "title": {
-    "en": "The Princess Back From Hell"
+    "en": "Ultimate Fighting Champion"
    },
    "contentRating": "safe",
-   "score": 0.33209932,
+   "score": 0.33746615,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "02870682-0b44-4f4a-812e-d61fd89cf73e",
+   "title": {
+    "en": "Angel Busters"
+   },
+   "contentRating": "safe",
+   "score": 0.3371681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
+   "title": {
+    "en": "Armados"
+   },
+   "contentRating": "safe",
+   "score": 0.33446184,
    "languages": [
     "en"
    ]
@@ -167,33 +181,22 @@
     "en": "Cure Aida"
    },
    "contentRating": "safe",
-   "score": 0.33112428,
+   "score": 0.33424664,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "14bc9c44-299e-4c90-80a2-43748096f3fb",
+   "id": "1db2dbca-46b3-48c2-ae61-86986a56a6f1",
    "title": {
-    "en": "City of Blood"
+    "en": "Komorebi Neko"
    },
    "contentRating": "safe",
-   "score": 0.33106092,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
-   "title": {
-    "en": "Inochi o Odoru"
-   },
-   "contentRating": "safe",
-   "score": 0.32966977,
+   "score": 0.33404475,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:35+00:00"
+ "updatedAt": "2023-12-10T18:24:06+00:00"
 }

@@ -11,18 +11,22 @@
     "en": "Agent Boo"
    },
    "contentRating": "safe",
-   "score": 0.25180167,
+   "score": 0.25108272,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b68b9cfa-9bf4-4f2e-9d68-380dac9f3a8e",
+   "id": "2073b267-9e9e-4895-bb7d-6877bf7fa8df",
    "title": {
-    "en": "Hi-Fi Cluster"
+    "en": "Witch Enforcer"
    },
    "contentRating": "safe",
-   "score": 0.2210642
+   "score": 0.22027615,
+   "languages": [
+    "pt-br",
+    "id"
+   ]
   },
   {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
@@ -30,7 +34,7 @@
     "en": "Evil Eater"
    },
    "contentRating": "safe",
-   "score": 0.2148064,
+   "score": 0.2152646,
    "languages": [
     "en"
    ]
@@ -41,11 +45,30 @@
     "en": "Psycho Party"
    },
    "contentRating": "safe",
-   "score": 0.21348083,
+   "score": 0.21278614,
    "languages": [
     "en",
     "es-la"
    ]
+  },
+  {
+   "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
+   "title": {
+    "en": "Meteo Emblem"
+   },
+   "contentRating": "safe",
+   "score": 0.20623133,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b68b9cfa-9bf4-4f2e-9d68-380dac9f3a8e",
+   "title": {
+    "en": "Hi-Fi Cluster"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
   },
   {
    "id": "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
@@ -53,11 +76,30 @@
     "en": "Toudoku ni Ita"
    },
    "contentRating": "safe",
-   "score": 0.1936882,
+   "score": 0.19201586,
    "languages": [
     "en",
     "es",
     "de"
+   ]
+  },
+  {
+   "id": "c4f82430-8f6d-4a71-932a-ea4349091b2f",
+   "title": {
+    "en": "Scientific Methodology of Being Superhero"
+   },
+   "contentRating": "safe",
+   "score": 0.19170958
+  },
+  {
+   "id": "4c753863-854e-47ea-b83b-c94803d41e36",
+   "title": {
+    "en": "NotEvil!"
+   },
+   "contentRating": "safe",
+   "score": 0.19152343,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -66,7 +108,7 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.19286686,
+   "score": 0.19132677,
    "languages": [
     "en"
    ]
@@ -77,20 +119,9 @@
     "en": "Black Milk"
    },
    "contentRating": "safe",
-   "score": 0.19066358,
+   "score": 0.18984038,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "2deb435b-d9e6-410a-89ee-560e85068fa3",
-   "title": {
-    "en": "Take the Crown, I Want to Be a King"
-   },
-   "contentRating": "safe",
-   "score": 0.18946007,
-   "languages": [
     "en"
    ]
   },
@@ -100,15 +131,23 @@
     "en": "Full Metal Panic! 0"
    },
    "contentRating": "safe",
-   "score": 0.18935879
+   "score": 0.1893511
   },
   {
-   "id": "daacd330-0267-4503-b05e-04925ddeef85",
+   "id": "cf240580-48bc-466f-84e8-b172f670595b",
    "title": {
-    "en": "Star Fox: Farewell, Beloved Falco"
+    "en": "Phantom Cognition"
    },
    "contentRating": "safe",
-   "score": 0.18463735,
+   "score": 0.18894781
+  },
+  {
+   "id": "25e708bd-e33d-4120-bd3f-8e9fca8c10d9",
+   "title": {
+    "en": "Keishichou Sword Division"
+   },
+   "contentRating": "safe",
+   "score": 0.18530428,
    "languages": [
     "en"
    ]
@@ -119,7 +158,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.18444036,
+   "score": 0.18445243,
    "languages": [
     "ru",
     "en",
@@ -128,55 +167,16 @@
    ]
   },
   {
-   "id": "1a110b1c-0a07-4867-9559-e6c8fe74262c",
+   "id": "daacd330-0267-4503-b05e-04925ddeef85",
    "title": {
-    "en": "Steam World"
+    "en": "Star Fox: Farewell, Beloved Falco"
    },
    "contentRating": "safe",
-   "score": 0.18339813,
+   "score": 0.18418884,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "07c5f812-4b10-4849-b14d-b9ff458275d9",
-   "title": {
-    "en": "I'm the Grim Reaper"
-   },
-   "contentRating": "safe",
-   "score": 0.18337171
-  },
-  {
-   "id": "02681f18-056b-4b76-90a4-580e36aaeb18",
-   "title": {
-    "en": "Dark Blood Age"
-   },
-   "contentRating": "safe",
-   "score": 0.18282047,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
-   "title": {
-    "en": "GOD EATER - Kyuuseishu no Kikan"
-   },
-   "contentRating": "safe",
-   "score": 0.18161589,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
-   "title": {
-    "en": "The Zero Zero Directive"
-   },
-   "contentRating": "safe",
-   "score": 0.18090545
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:38+00:00"
 }

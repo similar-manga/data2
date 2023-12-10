@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
    "title": {
-    "en": "#Wasurete Shimau Watashitachi"
+    "en": "Rising Sun R"
    },
    "contentRating": "safe",
-   "score": 0.2263214,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
+   "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
    "title": {
-    "en": "Chaos Rings"
+    "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.21913998,
+   "score": 0.22850448,
    "languages": [
     "en"
    ]
@@ -33,10 +33,21 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.21680847,
+   "score": 0.21794058,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
+   "title": {
+    "en": "Chaos Rings"
+   },
+   "contentRating": "safe",
+   "score": 0.21785247,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -45,7 +56,7 @@
     "en": "Omega Tribe Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2122818,
+   "score": 0.21173227,
    "languages": [
     "en"
    ]
@@ -56,7 +67,7 @@
     "en": "Kokenoshima"
    },
    "contentRating": "safe",
-   "score": 0.21065693,
+   "score": 0.20941216,
    "languages": [
     "tr",
     "en"
@@ -68,9 +79,34 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.20240821,
+   "score": 0.2081874,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.20059447,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "title": {
+    "en": "Sunny Sunny Ann!"
+   },
+   "contentRating": "safe",
+   "score": 0.19614284,
+   "languages": [
     "en"
    ]
   },
@@ -80,7 +116,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.19923198,
+   "score": 0.19166298,
    "languages": [
     "ru",
     "en",
@@ -89,27 +125,15 @@
    ]
   },
   {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
    "title": {
-    "en": "Sunny Sunny Ann!"
+    "en": "Tokyo Ghoul (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.1926424,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.18529311,
+   "score": 0.18460695,
    "languages": [
     "en",
-    "ru",
-    "pt-br"
+    "it"
    ]
   },
   {
@@ -118,7 +142,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.18134257,
+   "score": 0.18443455,
    "languages": [
     "pt-br",
     "es-la",
@@ -136,50 +160,11 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.18081959,
+   "score": 0.18392766,
    "languages": [
     "en",
     "es-la",
     "fr"
-   ]
-  },
-  {
-   "id": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
-   "title": {
-    "en": "Medalist"
-   },
-   "contentRating": "safe",
-   "score": 0.17757282,
-   "languages": [
-    "zh",
-    "en",
-    "ru",
-    "pt-br",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
-   "title": {
-    "en": "Fragile - Byourii Kishi Keiichirou no Shoken"
-   },
-   "contentRating": "safe",
-   "score": 0.17725272,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3683f667-c23d-4688-b872-0ade276aaafa",
-   "title": {
-    "en": "Rekkyou Sensen"
-   },
-   "contentRating": "safe",
-   "score": 0.17582794,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
    ]
   },
   {
@@ -188,7 +173,7 @@
     "en": "Giant Killing"
    },
    "contentRating": "safe",
-   "score": 0.17529875,
+   "score": 0.18042351,
    "languages": [
     "ar",
     "pt-br",
@@ -200,19 +185,29 @@
    ]
   },
   {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
    "title": {
-    "en": "March Comes in Like a Lion"
+    "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.17435028,
+   "score": 0.17949313,
    "languages": [
     "en",
-    "pt-br",
-    "es-la",
-    "vi"
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
+   "title": {
+    "en": "Fragile - Byourii Kishi Keiichirou no Shoken"
+   },
+   "contentRating": "safe",
+   "score": 0.1791277,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:38+00:00"
+ "updatedAt": "2023-12-10T18:34:36+00:00"
 }

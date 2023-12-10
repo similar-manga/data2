@@ -11,7 +11,7 @@
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.29928875,
+   "score": 0.2989666,
    "languages": [
     "fr",
     "en",
@@ -20,14 +20,16 @@
    ]
   },
   {
-   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
    "title": {
-    "en": "Butterfly in the Air"
+    "en": "Good-bye, My 19 year Old Self"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
+    "fr",
+    "en",
+    "it"
    ]
   },
   {
@@ -42,25 +44,39 @@
    ]
   },
   {
-   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
+   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
    "title": {
-    "en": "Anne the Lover"
+    "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.263555,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
    "title": {
-    "en": "Dana's Garden"
+    "en": "Anne the Lover"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.263279,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b30e3471-582c-4446-a94b-422c2d7650c4",
+   "title": {
+    "en": "Christmas no Mahou"
+   },
+   "contentRating": "safe",
+   "score": 0.24927783,
+   "languages": [
+    "pt-br",
+    "en",
+    "de",
+    "pl"
    ]
   },
   {
@@ -72,6 +88,17 @@
    "score": 0.24743582,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "title": {
+    "en": "Dana's Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "en"
    ]
   },
@@ -92,64 +119,29 @@
     "en": "A House in Venice"
    },
    "contentRating": "safe",
-   "score": 0.24170215,
+   "score": 0.241265,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
+   "id": "dac61fbb-f32b-4f53-917a-1e33c11b16d9",
    "title": {
-    "en": "Haru Machi Sakura no Mau Koro ni"
+    "en": "Ex-husband, Please Go Away!"
    },
    "contentRating": "safe",
-   "score": 0.23346464,
+   "score": 0.24089612,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "23036c3f-4e61-4dd1-8414-58fe14f9ad8b",
+   "id": "93f0ba33-f510-4061-a01c-2049fa2ffdd8",
    "title": {
-    "en": "Koi suru 1/4"
+    "en": "16 Engage"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
-   "title": {
-    "en": "Kimi o Matsu -\u003e Akaiito"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "722a8e72-bc43-4a5c-b5f6-96413bd3a7b4",
-   "title": {
-    "en": "Good Person"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "21f71c14-ebb8-40bf-8e85-48b642d961fe",
-   "title": {
-    "en": "Sayonara Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.2404404,
    "languages": [
     "en"
    ]
@@ -158,6 +150,17 @@
    "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
    "title": {
     "en": "Junai Rosen"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "55209647-164a-4bf8-b2d8-6503125c24a0",
+   "title": {
+    "en": "The Fishes"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -177,9 +180,9 @@
    ]
   },
   {
-   "id": "36320572-a99d-4f8f-904e-630312cc963c",
+   "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
    "title": {
-    "en": "12 Months"
+    "en": "Kimi o Matsu -\u003e Akaiito"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -188,5 +191,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:34+00:00"
+ "updatedAt": "2023-12-10T18:29:28+00:00"
 }

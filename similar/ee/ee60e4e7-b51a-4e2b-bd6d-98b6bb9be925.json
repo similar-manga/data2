@@ -6,15 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ba3fd589-e12c-4b66-b713-c31ea86222ca",
+   "title": {
+    "en": "Aohare Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.32545304
+  },
+  {
    "id": "c36e8268-7a3c-487c-9586-77956adb0816",
    "title": {
     "en": "Yurayura, Yureru"
    },
    "contentRating": "safe",
-   "score": 0.32381734,
+   "score": 0.32371226,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7478f085-2c27-4bdb-9ea0-bf21495257eb",
+   "title": {
+    "en": "Champagne Shower"
+   },
+   "contentRating": "safe",
+   "score": 0.30606866
   },
   {
    "id": "e713ae1f-9992-408e-8e29-df38251ae4c5",
@@ -22,10 +38,29 @@
     "en": "Nine Ten!"
    },
    "contentRating": "safe",
-   "score": 0.29750836,
+   "score": 0.2969399,
    "languages": [
     "pt-br"
    ]
+  },
+  {
+   "id": "ac78abaa-a9ba-4db0-b09a-eb54d8708310",
+   "title": {
+    "en": "Gothic Sports"
+   },
+   "contentRating": "safe",
+   "score": 0.29427162,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9f36b6ec-9c7d-43ff-bfac-d31daa0064ff",
+   "title": {
+    "en": "Aoi Koto Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.2873669
   },
   {
    "id": "c960f305-6ee9-45c0-8b9d-626322d6df08",
@@ -62,20 +97,28 @@
    ]
   },
   {
-   "id": "ff683a1a-81cb-4ff1-a749-9b41ba7d53d4",
-   "title": {
-    "en": "B.B. Paradise"
-   },
-   "contentRating": "safe",
-   "score": 0.27450734
-  },
-  {
    "id": "12afb5b7-13b9-4685-8246-a3ffecea2571",
    "title": {
     "en": "Atashi o mamotte mi nasai!!"
    },
    "contentRating": "safe",
-   "score": 0.27345526
+   "score": 0.27808753
+  },
+  {
+   "id": "ff683a1a-81cb-4ff1-a749-9b41ba7d53d4",
+   "title": {
+    "en": "B.B. Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.27124262
+  },
+  {
+   "id": "32b22996-8256-4e6d-bf0a-66d39f7b4c9d",
+   "title": {
+    "en": "One More Jump"
+   },
+   "contentRating": "safe",
+   "score": 0.2710858
   },
   {
    "id": "f23468a0-78b0-403b-aa8b-0a95db55762b",
@@ -83,18 +126,15 @@
     "en": "Junai Junkie"
    },
    "contentRating": "safe",
-   "score": 0.2640414
+   "score": 0.26354802
   },
   {
-   "id": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
+   "id": "38efa154-d5b5-4670-914a-2ea6792ea57d",
    "title": {
-    "en": "Hajimete..."
+    "en": "Retry Juliet!"
    },
    "contentRating": "safe",
-   "score": 0.25735173,
-   "languages": [
-    "en"
-   ]
+   "score": 0.25778794
   },
   {
    "id": "30a2e745-e9b9-421d-a622-41e60494b5e9",
@@ -102,62 +142,22 @@
     "en": "Himegimi no Aikon"
    },
    "contentRating": "safe",
-   "score": 0.25710207,
+   "score": 0.25685635,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a2096034-4bb4-406d-bb9c-054610d52b88",
+   "id": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
    "title": {
-    "en": "Kare wa, Watashi no Koto ga Suki Mitai Desu."
+    "en": "Hajimete..."
    },
    "contentRating": "safe",
-   "score": 0.25421944
-  },
-  {
-   "id": "36527ed8-def6-488e-98a2-6766a4a9c69d",
-   "title": {
-    "en": "Koisuru Sha Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
+   "score": 0.25658476,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "448546fa-fac7-48a9-8ce5-a4eaace6ebcc",
-   "title": {
-    "en": "Nemureru Mori no Etoile"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583
-  },
-  {
-   "id": "cac52e47-1e15-4fa5-86b5-e6561f6f1dff",
-   "title": {
-    "en": "Diamond ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.2439998
-  },
-  {
-   "id": "94babebd-0ab5-4f95-bbd7-8348880701ba",
-   "title": {
-    "en": "Koisuru Kyuukyuubako"
-   },
-   "contentRating": "safe",
-   "score": 0.24386087
-  },
-  {
-   "id": "a5c28c6d-8e9f-4dc9-95c3-39572490fbcd",
-   "title": {
-    "en": "Give the Winning Shuffle to This Hand!"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752
   }
  ],
- "updatedAt": "2023-12-10T01:09:36+00:00"
+ "updatedAt": "2023-12-10T18:34:32+00:00"
 }

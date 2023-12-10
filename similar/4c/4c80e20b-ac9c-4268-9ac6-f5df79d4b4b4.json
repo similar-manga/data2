@@ -6,15 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
+   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
    "title": {
-    "en": "CROSS"
+    "en": "29 de Bukiyou de"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6c583845-8276-4f80-b90b-902959b5d240",
+   "title": {
+    "en": "Tokyo Depato Sensou Taikenki"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en",
-    "de"
+    "pl",
+    "tr"
    ]
   },
   {
@@ -33,30 +45,6 @@
    ]
   },
   {
-   "id": "6c583845-8276-4f80-b90b-902959b5d240",
-   "title": {
-    "en": "Tokyo Depato Sensou Taikenki"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
-   "title": {
-    "en": "29 de Bukiyou de"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
    "title": {
     "en": "Otter No.11"
@@ -69,14 +57,15 @@
    ]
   },
   {
-   "id": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
+   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
    "title": {
-    "en": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!"
+    "en": "CROSS"
    },
    "contentRating": "safe",
-   "score": 0.28152248,
+   "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "de"
    ]
   },
   {
@@ -85,10 +74,21 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.27855504,
+   "score": 0.27670938,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
+   "title": {
+    "en": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!"
+   },
+   "contentRating": "safe",
+   "score": 0.27364624,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -97,18 +97,7 @@
     "en": "Ane Pani"
    },
    "contentRating": "safe",
-   "score": 0.27264154,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
-   "title": {
-    "en": "Love Attack"
-   },
-   "contentRating": "safe",
-   "score": 0.2561534,
+   "score": 0.27196756,
    "languages": [
     "en"
    ]
@@ -119,7 +108,7 @@
     "en": "Kami-sama ni Rocket Punch!!"
    },
    "contentRating": "safe",
-   "score": 0.25565854,
+   "score": 0.25576022,
    "languages": [
     "en"
    ]
@@ -130,53 +119,31 @@
     "en": "Shunkan Heroism"
    },
    "contentRating": "safe",
-   "score": 0.25522017,
+   "score": 0.2547453,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8711f722-4b87-4967-a472-6515309875fc",
+   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
    "title": {
-    "en": "Nuenchi"
+    "en": "Love Attack"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.25460646,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8bae52fd-be5e-4157-844a-77a0f1bc63f4",
+   "id": "69489ecb-cb30-49bc-9d5f-fc47de896a86",
    "title": {
-    "en": "Shimatsuya K"
+    "en": "Boruto: Road to \"B\""
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21988ab7-7268-4d07-a9d1-083b0c1453a6",
-   "title": {
-    "en": "Trump Card! Nazuna-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c",
-   "title": {
-    "en": "Murahagane"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
+    "es",
     "en"
    ]
   },
@@ -190,7 +157,47 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
+   "title": {
+    "en": "The West Wind and the Sun: Zephyr and Sol"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "ca",
+    "id",
+    "pl"
+   ]
+  },
+  {
+   "id": "67e38fec-4bf7-4838-8aa3-66961a34389d",
+   "title": {
+    "en": "Rojiura no Mahou Tantei Jimusho"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
+   "title": {
+    "en": "Blust!"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "ca",
+    "it",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:45+00:00"
+ "updatedAt": "2023-12-10T18:16:35+00:00"
 }

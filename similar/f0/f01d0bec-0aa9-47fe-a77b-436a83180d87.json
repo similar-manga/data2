@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "62bd38f6-0b10-4c6f-a1b3-677b7e364348",
+   "title": {
+    "en": "Shaman"
+   },
+   "contentRating": "safe",
+   "score": 0.25095034,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "46414120-3303-4471-9197-782985312a58",
    "title": {
     "en": "Märchen - The Embodiment of Tales"
    },
    "contentRating": "safe",
-   "score": 0.24177143,
+   "score": 0.24114299,
    "languages": [
     "pt-br",
     "en",
@@ -32,6 +43,41 @@
    ]
   },
   {
+   "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
+   "title": {
+    "en": "The Seven Deadly Sins: Four Knights of the Apocalypse"
+   },
+   "contentRating": "safe",
+   "score": 0.21917744,
+   "languages": [
+    "id",
+    "ru",
+    "pt-br",
+    "pl",
+    "fr",
+    "en",
+    "tr",
+    "es-la",
+    "ar",
+    "es",
+    "mn",
+    "it",
+    "vi"
+   ]
+  },
+  {
+   "id": "6c767d66-7d68-4e83-97b4-6ce230a38bdc",
+   "title": {
+    "en": "Noman's Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.21901265,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
    "title": {
     "en": "GATE 7"
@@ -45,17 +91,18 @@
    ]
   },
   {
-   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "id": "3dde62d3-d641-4869-b1cf-dba0da5cd2a7",
    "title": {
-    "en": "Death of a Highschool"
+    "en": "Nine Sun God King"
    },
    "contentRating": "safe",
-   "score": 0.21548393,
+   "score": 0.21597971,
    "languages": [
+    "es-la",
+    "fr",
     "pt-br",
-    "tr",
-    "pl",
-    "en"
+    "en",
+    "id"
    ]
   },
   {
@@ -71,12 +118,92 @@
    ]
   },
   {
+   "id": "a15ff3b1-cca6-435a-90ec-8516fc16e958",
+   "title": {
+    "en": "Light vs Shadow"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "fr",
+    "pt-br",
+    "pl",
+    "ru"
+   ]
+  },
+  {
+   "id": "3e636c96-b98a-410a-a00d-2f2f530d0309",
+   "title": {
+    "en": "Magic Domain Mercenary"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "title": {
+    "en": "Death of a Highschool"
+   },
+   "contentRating": "safe",
+   "score": 0.21246304,
+   "languages": [
+    "pt-br",
+    "tr",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
+   "title": {
+    "en": "Saint Seiya - Another Story of Hades: Dark Wing"
+   },
+   "contentRating": "safe",
+   "score": 0.20839745,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "78fa40bc-59eb-499f-a485-774f0bf5d446",
+   "title": {
+    "en": "Naka no Hito Genome [Jikkyouchuu]"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "id",
+    "fa",
+    "pt-br",
+    "en",
+    "pl",
+    "es"
+   ]
+  },
+  {
+   "id": "9fa25c0d-487c-445e-8890-287871e47d04",
+   "title": {
+    "en": "Lord of the Abyss"
+   },
+   "contentRating": "safe",
+   "score": 0.19770159,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "29b7cf38-367e-4785-a7a0-3e92e57b09ef",
    "title": {
     "en": "Virus Tensei kara Hajimaru Isekai Kansen Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.19865617,
+   "score": 0.19659545,
    "languages": [
     "pt-br",
     "id",
@@ -90,7 +217,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.19582067,
+   "score": 0.19504207,
    "languages": [
     "id",
     "en",
@@ -109,137 +236,7 @@
     "bg",
     "uk"
    ]
-  },
-  {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
-   "title": {
-    "en": "Wonted"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
-   "title": {
-    "en": "Noragami"
-   },
-   "contentRating": "safe",
-   "score": 0.19245009,
-   "languages": [
-    "it",
-    "pt-br",
-    "en",
-    "es",
-    "tr",
-    "uk",
-    "hu",
-    "ro",
-    "ar",
-    "fr"
-   ]
-  },
-  {
-   "id": "98df5987-adac-4232-be58-8718b43aa5e8",
-   "title": {
-    "en": "Kintoki"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "it"
-   ]
-  },
-  {
-   "id": "16d99766-e3ce-48dd-ae64-f46b482476ab",
-   "title": {
-    "en": "The King of Special Forces With a Negative Emotional Quotient Was Reborn on Campus but Was Unexpectedly Welcomed by Girls?!"
-   },
-   "contentRating": "safe",
-   "score": 0.18942162,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
-   "title": {
-    "en": "Rad and Rinpu"
-   },
-   "contentRating": "safe",
-   "score": 0.18097088,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "893a6989-50af-42be-a5bd-0acdf78824ef",
-   "title": {
-    "en": "Kokodake no Himitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.17998308,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
-   "title": {
-    "en": "Rakshasa Street"
-   },
-   "contentRating": "safe",
-   "score": 0.17998308,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f2cb9465-c314-46a3-97fd-05210d3af0a7",
-   "title": {
-    "en": "The Scholar's Reincarnation"
-   },
-   "contentRating": "safe",
-   "score": 0.1722922,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru",
-    "pl",
-    "fr",
-    "id",
-    "it"
-   ]
-  },
-  {
-   "id": "bc06172f-8e62-4e92-84ec-2bfbd9dab255",
-   "title": {
-    "en": "Ueki no Housoku"
-   },
-   "contentRating": "safe",
-   "score": 0.17036709,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:43+00:00"
 }

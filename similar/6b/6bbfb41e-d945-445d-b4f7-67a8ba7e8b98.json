@@ -11,7 +11,7 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.3272484,
+   "score": 0.32241455,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.30523744,
+   "score": 0.30479363,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Monster Cage"
    },
    "contentRating": "safe",
-   "score": 0.29741398,
+   "score": 0.29352334,
    "languages": [
     "en",
     "pl",
@@ -47,7 +47,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.28376254,
+   "score": 0.28177828,
    "languages": [
     "en",
     "fr"
@@ -59,7 +59,7 @@
     "en": "Desert Tribe"
    },
    "contentRating": "safe",
-   "score": 0.27597776,
+   "score": 0.27517435,
    "languages": [
     "en"
    ]
@@ -70,7 +70,7 @@
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.27138767,
+   "score": 0.26903492,
    "languages": [
     "it",
     "en"
@@ -82,7 +82,7 @@
     "en": "SKY CLAW"
    },
    "contentRating": "safe",
-   "score": 0.2620027,
+   "score": 0.26147777,
    "languages": [
     "fr",
     "en"
@@ -105,45 +105,17 @@
    ]
   },
   {
-   "id": "2f86d265-fc88-41db-929e-5dab9ac74352",
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
    "title": {
-    "en": "Mario"
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24793018,
    "languages": [
-    "pl",
     "id",
-    "th",
     "en",
-    "uk",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
-   "title": {
-    "en": "Hero Killer"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
-   "title": {
-    "en": "Onihime"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -161,14 +133,68 @@
    ]
   },
   {
+   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
+   "title": {
+    "en": "Hero Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "2f86d265-fc88-41db-929e-5dab9ac74352",
+   "title": {
+    "en": "Mario"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pl",
+    "id",
+    "th",
+    "en",
+    "uk",
+    "it",
+    "fr"
+   ]
+  },
+  {
+   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
+   "title": {
+    "en": "Onihime"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "534a81df-c941-4583-87cd-471140b5d3b7",
    "title": {
     "en": "Kitan Jojishi Mother Goose"
    },
    "contentRating": "safe",
-   "score": 0.24222606,
+   "score": 0.2402661,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
+   "title": {
+    "en": "Zhan Long 2"
+   },
+   "contentRating": "safe",
+   "score": 0.24013637,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -186,29 +212,7 @@
     "zh-hk",
     "vi"
    ]
-  },
-  {
-   "id": "2ce30c28-220b-4d44-91c1-3239e7a737a6",
-   "title": {
-    "en": "Curry Cook: The Holy Man Of Love And Fury"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
-   "title": {
-    "en": "Mana Sorcerer"
-   },
-   "contentRating": "safe",
-   "score": 0.22602554,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:02+00:00"
+ "updatedAt": "2023-12-10T18:19:58+00:00"
 }

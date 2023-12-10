@@ -11,7 +11,7 @@
     "en": "Blue Blazes"
    },
    "contentRating": "suggestive",
-   "score": 0.32361096,
+   "score": 0.32346505,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "First Rate Master"
    },
    "contentRating": "suggestive",
-   "score": 0.3216319,
+   "score": 0.32224098,
    "languages": [
     "en",
     "ru",
@@ -37,7 +37,7 @@
     "en": "Be Wild Yuu"
    },
    "contentRating": "suggestive",
-   "score": 0.31808648
+   "score": 0.31911805
   },
   {
    "id": "d5c825d9-2770-4a7e-8bc8-902191ee40bf",
@@ -45,7 +45,7 @@
     "en": "Bougyoryoku Zero no Haha"
    },
    "contentRating": "suggestive",
-   "score": 0.31490767
+   "score": 0.31604713
   },
   {
    "id": "c824574c-ea15-470f-bee4-515a4f13f1c0",
@@ -53,7 +53,7 @@
     "en": "Yoo Ah Dok-Jon"
    },
    "contentRating": "suggestive",
-   "score": 0.31231824,
+   "score": 0.31241578,
    "languages": [
     "pl",
     "en"
@@ -65,7 +65,7 @@
     "en": "Isekai ni Kita Boku wa Kiyoubinbode Subayasa Tayorina Tabi wo Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.3097443,
+   "score": 0.3098735,
    "languages": [
     "id",
     "en",
@@ -78,7 +78,7 @@
     "en": "After Tormenting the Devil, I Did Not Want to Stand Out, So I Became a Guild Master"
    },
    "contentRating": "suggestive",
-   "score": 0.30912638,
+   "score": 0.30941978,
    "languages": [
     "ru",
     "en",
@@ -92,41 +92,9 @@
     "en": "One Piece (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.30857402,
+   "score": 0.30932215,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "215cc0e1-17c6-4d56-ac4e-d190af3e70cc",
-   "title": {
-    "en": "Romance is the Sparkle of the Sword 2 Plus"
-   },
-   "contentRating": "suggestive",
-   "score": 0.30850676
-  },
-  {
-   "id": "f10c0c6d-da82-49cf-930d-f389f2c15546",
-   "title": {
-    "en": "Bee-Be-Beat It!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.30768535,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2d227b2-5805-408f-bc88-6f894ecf5c05",
-   "title": {
-    "en": "Good Disciple, Have Pity on Your Master!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3076267,
-   "languages": [
-    "en",
-    "ru",
-    "fr"
    ]
   },
   {
@@ -135,7 +103,7 @@
     "en": "One Piece - Digital Colored Comics"
    },
    "contentRating": "suggestive",
-   "score": 0.30713087,
+   "score": 0.30781487,
    "languages": [
     "it",
     "uk",
@@ -149,12 +117,44 @@
    ]
   },
   {
+   "id": "215cc0e1-17c6-4d56-ac4e-d190af3e70cc",
+   "title": {
+    "en": "Romance is the Sparkle of the Sword 2 Plus"
+   },
+   "contentRating": "suggestive",
+   "score": 0.30777138
+  },
+  {
+   "id": "f2d227b2-5805-408f-bc88-6f894ecf5c05",
+   "title": {
+    "en": "Good Disciple, Have Pity on Your Master!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.30767187,
+   "languages": [
+    "en",
+    "ru",
+    "fr"
+   ]
+  },
+  {
+   "id": "f10c0c6d-da82-49cf-930d-f389f2c15546",
+   "title": {
+    "en": "Bee-Be-Beat It!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3076095,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e5043488-bd4e-4ea7-a5b4-ed26131dd2db",
    "title": {
     "en": "Kanna"
    },
    "contentRating": "suggestive",
-   "score": 0.3069081,
+   "score": 0.30749127,
    "languages": [
     "en"
    ]
@@ -165,7 +165,7 @@
     "en": "Orient"
    },
    "contentRating": "suggestive",
-   "score": 0.3063436,
+   "score": 0.30738455,
    "languages": [
     "pt-br",
     "en",
@@ -185,23 +185,29 @@
     "en": "Kami-sama wa do Binbou"
    },
    "contentRating": "suggestive",
-   "score": 0.30610037,
+   "score": 0.30608356,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "720466f8-2eee-43a5-893b-67f9190c04ae",
+   "id": "b35f67b6-bfb9-4cbd-86f0-621f37e6cb41",
    "title": {
-    "en": "Isekaigaeri no Moto Yuusha Desuga, Death Game ni Makikomare Mashita"
+    "en": "Tomodachi Game"
    },
    "contentRating": "suggestive",
-   "score": 0.30508137,
+   "score": 0.30501434,
    "languages": [
+    "pt-br",
+    "fr",
     "en",
-    "pt-br"
+    "hu",
+    "tr",
+    "fa",
+    "ar",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:38+00:00"
+ "updatedAt": "2023-12-10T18:32:09+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Cinderella Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.32113203,
+   "score": 0.31763268,
    "languages": [
     "pl",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Mikami-kun no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.30430093,
+   "score": 0.3031339,
    "languages": [
     "pl",
     "en"
@@ -35,12 +35,25 @@
     "en": "99% Love"
    },
    "contentRating": "safe",
-   "score": 0.29988083,
+   "score": 0.29968572,
    "languages": [
     "en",
     "bg",
     "pl",
     "ro"
+   ]
+  },
+  {
+   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
+   "title": {
+    "en": "Dramatic Love Album"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -72,36 +85,12 @@
    ]
   },
   {
-   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
-   "title": {
-    "en": "Dramatic Love Album"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "7b994300-333d-4b07-a0b5-c7a20ab7f55b",
    "title": {
     "en": "Yuki, Tokidoki Suki"
    },
    "contentRating": "safe",
-   "score": 0.28148067,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
-   "title": {
-    "en": "Megane Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.27230406,
+   "score": 0.28286138,
    "languages": [
     "pl"
    ]
@@ -112,9 +101,20 @@
     "en": "Himitsu no Sono Ato"
    },
    "contentRating": "safe",
-   "score": 0.2722063,
+   "score": 0.27173126,
    "languages": [
     "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
+   "title": {
+    "en": "Megane Ouji"
+   },
+   "contentRating": "safe",
+   "score": 0.2708729,
+   "languages": [
     "pl"
    ]
   },
@@ -124,7 +124,7 @@
     "en": "Koi Gokoro Gekokujou"
    },
    "contentRating": "safe",
-   "score": 0.270763,
+   "score": 0.26986992,
    "languages": [
     "en",
     "fr",
@@ -137,58 +137,57 @@
     "en": "Dr. Rabbit"
    },
    "contentRating": "safe",
-   "score": 0.26528707,
+   "score": 0.2652318,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "a7fb9fb3-d67e-4b54-9e98-29428293f93f",
+   "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
    "title": {
-    "en": "Gakkou no Ojikan"
-   },
-   "contentRating": "safe",
-   "score": 0.2630033,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "bed659b3-6cdc-41de-a274-cc1846ae5978",
-   "title": {
-    "en": "Ookami Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.26270756,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
-   "title": {
-    "en": "Defense Bakari no Koi ja dame!!"
+    "en": "Aozora Pop"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
     "en",
-    "tr",
     "pl"
    ]
   },
   {
-   "id": "aed16a84-b4cf-431d-898f-2809c422522f",
+   "id": "043fb287-26b7-4089-87e8-5d72e8ea6c8f",
    "title": {
-    "en": "Tsuyogari"
+    "en": "Love Log"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
     "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "1a945050-9a18-4e5f-bfbc-1fc70d3ee427",
+   "title": {
+    "en": "Bitter Trap"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "bg",
+    "pl"
+   ]
+  },
+  {
+   "id": "13925333-33b4-41eb-ae92-a4847d54cab8",
+   "title": {
+    "en": "Motenai Riyuu ga Oosugiru!!!!!"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
     "pl"
    ]
   },
@@ -204,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:00+00:00"
+ "updatedAt": "2023-12-10T18:09:01+00:00"
 }

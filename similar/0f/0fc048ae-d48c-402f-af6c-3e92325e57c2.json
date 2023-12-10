@@ -11,21 +11,10 @@
     "en": "Kikyou"
    },
    "contentRating": "safe",
-   "score": 0.2586018,
+   "score": 0.25778604,
    "languages": [
     "en",
     "es"
-   ]
-  },
-  {
-   "id": "70fda916-5204-4d85-9e82-b76a97608702",
-   "title": {
-    "en": "Tobari"
-   },
-   "contentRating": "safe",
-   "score": 0.25804633,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -40,12 +29,23 @@
    ]
   },
   {
+   "id": "70fda916-5204-4d85-9e82-b76a97608702",
+   "title": {
+    "en": "Tobari"
+   },
+   "contentRating": "safe",
+   "score": 0.25080246,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dd56399e-6594-4466-ac34-64908b360b98",
    "title": {
     "en": "The Tale of That Forest"
    },
    "contentRating": "safe",
-   "score": 0.24898404,
+   "score": 0.24820948,
    "languages": [
     "en"
    ]
@@ -56,18 +56,7 @@
     "en": "Horror Collector"
    },
    "contentRating": "safe",
-   "score": 0.2396743,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5c00adc1-15da-4d11-bb0f-f5eb043e1789",
-   "title": {
-    "en": "Song of Heaven and Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.2322251,
+   "score": 0.23956442,
    "languages": [
     "en"
    ]
@@ -78,7 +67,7 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.23149647,
+   "score": 0.23112734,
    "languages": [
     "en",
     "pl",
@@ -87,23 +76,23 @@
    ]
   },
   {
-   "id": "c87ff310-6275-4bce-b91a-b5a39d0de9f0",
+   "id": "5c00adc1-15da-4d11-bb0f-f5eb043e1789",
    "title": {
-    "en": "no title"
+    "en": "Song of Heaven and Earth"
    },
    "contentRating": "safe",
-   "score": 0.23029818,
+   "score": 0.23082349,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "26ed4f9a-5a4e-43dd-a0cc-ca3db9baf591",
+   "id": "78a72c7b-b19d-4c05-a0b7-176e3ecf7441",
    "title": {
-    "en": "Petto no Neko ga Shinde Ningen ni Natta Hanashi"
+    "en": "Dark Metro"
    },
    "contentRating": "safe",
-   "score": 0.2294579,
+   "score": 0.22963904,
    "languages": [
     "en"
    ]
@@ -114,10 +103,21 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.22919455,
+   "score": 0.22861332,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "c87ff310-6275-4bce-b91a-b5a39d0de9f0",
+   "title": {
+    "en": "no title"
+   },
+   "contentRating": "safe",
+   "score": 0.22832061,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -126,21 +126,9 @@
     "en": "The Man From the Past"
    },
    "contentRating": "safe",
-   "score": 0.2271969,
+   "score": 0.22704281,
    "languages": [
     "ca",
-    "en"
-   ]
-  },
-  {
-   "id": "d519209d-92f7-4888-8a6a-14b47006ed2e",
-   "title": {
-    "en": "Yume no Naka no Tomodachi"
-   },
-   "contentRating": "safe",
-   "score": 0.22432454,
-   "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -158,6 +146,18 @@
    ]
   },
   {
+   "id": "d519209d-92f7-4888-8a6a-14b47006ed2e",
+   "title": {
+    "en": "Yume no Naka no Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.22432454,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "69b2a9ae-5145-4264-99e5-89219132c2da",
    "title": {
     "en": "April Fool"
@@ -171,29 +171,28 @@
    ]
   },
   {
-   "id": "c1aa560c-1d60-4c4b-b688-a3bdf8d84bd6",
+   "id": "7b1fb395-4690-46e2-a857-187d10003144",
    "title": {
-    "en": "Hidari Te"
-   },
-   "contentRating": "safe",
-   "score": 0.22226606,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "a74622a5-3912-416b-b553-67e8599c4478",
-   "title": {
-    "en": "Oath of Allegiance"
+    "en": "Matenrou Maybe?"
    },
    "contentRating": "safe",
    "score": 0.222028,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7ab1a39b-702a-459d-9e7d-60ec8b09ae32",
+   "title": {
+    "en": "Hate, Hate, Hate"
+   },
+   "contentRating": "safe",
+   "score": 0.222028,
+   "languages": [
+    "en",
+    "fa"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:22+00:00"
+ "updatedAt": "2023-12-10T18:10:02+00:00"
 }

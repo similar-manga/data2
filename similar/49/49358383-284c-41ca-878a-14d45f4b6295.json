@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "38221d4a-687d-49bc-a2f4-44ce42fab8d9",
+   "title": {
+    "en": "Vampire Knight Memories"
+   },
+   "contentRating": "safe",
+   "score": 0.26413792,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "47f42174-e68c-462d-a37a-7eead32858c6",
    "title": {
     "en": "Asura"
    },
    "contentRating": "safe",
-   "score": 0.25644696,
+   "score": 0.25594673,
    "languages": [
     "en"
    ]
@@ -26,6 +37,18 @@
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "dbd45ff2-2731-48e7-9304-0aa24739b5ac",
+   "title": {
+    "en": "Katakoi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -46,21 +69,31 @@
     "en": "Angel Hunt"
    },
    "contentRating": "safe",
-   "score": 0.2410908,
+   "score": 0.24092321,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f903065a-0031-4356-a699-17dec02c5759",
+   "id": "6d8acd0a-aa9a-4d8e-8275-e8a10d0ffce8",
    "title": {
-    "en": "Miunohri to Swan"
+    "en": "Kin no Angel"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23636733,
    "languages": [
-    "en",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "e15631f0-dd96-4a0c-934d-9f6c3b4d2e6e",
+   "title": {
+    "en": "Ren Ai Tan"
+   },
+   "contentRating": "safe",
+   "score": 0.23488775,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -69,7 +102,7 @@
     "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.232414,
+   "score": 0.23223251,
    "languages": [
     "en"
    ]
@@ -80,7 +113,32 @@
     "en": "Kiss de Mezame Sasete"
    },
    "contentRating": "safe",
-   "score": 0.22995867,
+   "score": 0.23035504,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "0149daa5-89c9-4e05-bf4f-f2440e0d2db7",
+   "title": {
+    "en": "Kimi no Koe"
+   },
+   "contentRating": "safe",
+   "score": 0.22883141,
+   "languages": [
+    "en",
+    "it",
+    "id"
+   ]
+  },
+  {
+   "id": "9e2f94ee-1099-4e3c-8200-31e7237b2668",
+   "title": {
+    "en": "Genei Realism"
+   },
+   "contentRating": "safe",
+   "score": 0.22699071,
    "languages": [
     "pl",
     "en"
@@ -92,23 +150,9 @@
     "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.22783555,
+   "score": 0.22595201,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
-   "title": {
-    "en": "Akai Ito"
-   },
-   "contentRating": "safe",
-   "score": 0.22638,
-   "languages": [
-    "pt-br",
-    "en",
-    "hu",
     "pl"
    ]
   },
@@ -118,7 +162,7 @@
     "en": "Majo wa Kaben wo mi ni Matou"
    },
    "contentRating": "safe",
-   "score": 0.22528,
+   "score": 0.22513829,
    "languages": [
     "en",
     "pl"
@@ -130,70 +174,25 @@
     "en": "Kimi ga Hikari"
    },
    "contentRating": "safe",
-   "score": 0.2247835,
+   "score": 0.22483729,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9e2f94ee-1099-4e3c-8200-31e7237b2668",
+   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
    "title": {
-    "en": "Genei Realism"
+    "en": "Akai Ito"
    },
    "contentRating": "safe",
-   "score": 0.22457178,
+   "score": 0.22334197,
    "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "dbf64ac6-e4c0-4a47-b414-9b847925e3f7",
-   "title": {
-    "en": "Akuma ni Itsukushimi no Te o"
-   },
-   "contentRating": "safe",
-   "score": 0.22295639,
-   "languages": [
-    "pl",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
-   "title": {
-    "en": "Orgel Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.22260743,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7fc10359-6015-43c8-b1b4-c7c4ade4d2e0",
-   "title": {
-    "en": "Airuika"
-   },
-   "contentRating": "safe",
-   "score": 0.22246468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1994a996-069e-41b9-a54b-417f566b3f0b",
-   "title": {
-    "en": "A Love in 100 Days"
-   },
-   "contentRating": "safe",
-   "score": 0.21708591,
-   "languages": [
     "en",
-    "fr"
+    "hu",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:36+00:00"
+ "updatedAt": "2023-12-10T18:16:14+00:00"
 }

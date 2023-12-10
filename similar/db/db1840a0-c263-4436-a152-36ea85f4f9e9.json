@@ -11,7 +11,7 @@
     "en": "Boku to Kimi wa"
    },
    "contentRating": "safe",
-   "score": 0.32845122,
+   "score": 0.32818514,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Natsu no Ashiato"
    },
    "contentRating": "safe",
-   "score": 0.2960312,
+   "score": 0.29579583,
    "languages": [
     "pt-br"
    ]
@@ -34,7 +34,7 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.29460397,
+   "score": 0.29398838,
    "languages": [
     "en",
     "pl",
@@ -42,15 +42,27 @@
    ]
   },
   {
-   "id": "8305911a-7aa9-4537-9d5d-74bc299bf8f0",
+   "id": "17db0011-4667-493f-936f-fe4ba1e7d6f7",
    "title": {
-    "en": "Otome ni Nante Naremasen"
+    "en": "Hairstyle Amanojaku Shiyou"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5b5cd8e5-46a6-41be-9774-d90d4add4a0a",
+   "title": {
+    "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -67,14 +79,13 @@
    ]
   },
   {
-   "id": "4b85991b-ee4e-4f72-9016-b9ccca09d1a7",
+   "id": "97db0b9d-b9dd-4b47-acb2-812fbe01030f",
    "title": {
-    "en": "No Use Crying Over Spilt Milk"
+    "en": "Himitsu no Danna-sama"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
     "pt-br"
    ]
   },
@@ -91,21 +102,22 @@
    ]
   },
   {
-   "id": "17db0011-4667-493f-936f-fe4ba1e7d6f7",
+   "id": "49cd9c08-9a2a-4290-9936-a4522b23bff4",
    "title": {
-    "en": "Hairstyle Amanojaku Shiyou"
+    "en": "Oazuke Shitsuji"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "pt-br",
     "en",
-    "pt-br"
+    "fr"
    ]
   },
   {
-   "id": "2648461f-41c8-4648-89a1-de7dc9378c8c",
+   "id": "4b85991b-ee4e-4f72-9016-b9ccca09d1a7",
    "title": {
-    "en": "Yajuu to Hanayome"
+    "en": "No Use Crying Over Spilt Milk"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -127,26 +139,25 @@
    ]
   },
   {
-   "id": "49cd9c08-9a2a-4290-9936-a4522b23bff4",
+   "id": "e8460c97-fe19-4bae-b610-968eb85c4715",
    "title": {
-    "en": "Oazuke Shitsuji"
+    "en": "Ore Dake no Nakimushi-chan"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pt-br",
-    "en",
-    "fr"
+    "pt-br"
    ]
   },
   {
-   "id": "97db0b9d-b9dd-4b47-acb2-812fbe01030f",
+   "id": "2648461f-41c8-4648-89a1-de7dc9378c8c",
    "title": {
-    "en": "Himitsu no Danna-sama"
+    "en": "Yajuu to Hanayome"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -175,18 +186,6 @@
    ]
   },
   {
-   "id": "5b5cd8e5-46a6-41be-9774-d90d4add4a0a",
-   "title": {
-    "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
    "id": "bbe3d360-dc89-41d2-8b40-a6f02a4b1a00",
    "title": {
     "en": "Ichinen no Koi wa Gantan ni Ari"
@@ -198,5 +197,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:48+00:00"
+ "updatedAt": "2023-12-10T18:32:34+00:00"
 }

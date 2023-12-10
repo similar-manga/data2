@@ -6,14 +6,6 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "5f074ed3-ef8d-4b65-a1b0-a9b82402a44a",
-   "title": {
-    "en": "Aisei Warui Futari desu ga Unmei desu. - Watashi kara Hatsujou shite mo Ii desu ka?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2027836
-  },
-  {
    "id": "1ab19cfb-4b41-4f99-9088-64fa3d1d1170",
    "title": {
     "en": "Oshiri Ai - Shinsatsuchuu"
@@ -30,12 +22,20 @@
    "score": 0.20203052
   },
   {
+   "id": "5f074ed3-ef8d-4b65-a1b0-a9b82402a44a",
+   "title": {
+    "en": "Aisei Warui Futari desu ga Unmei desu. - Watashi kara Hatsujou shite mo Ii desu ka?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20125583
+  },
+  {
    "id": "1fbef606-145c-410a-ab2e-43609c115cc8",
    "title": {
     "en": "Practice Makes Perfect"
    },
    "contentRating": "suggestive",
-   "score": 0.1737509
+   "score": 0.17579447
   },
   {
    "id": "14d8b82e-20cd-4f19-81b8-68c2c44efca2",
@@ -43,7 +43,7 @@
     "en": "Arafoo OL, Toshishita Danshi ni Dekiaisaretemasu"
    },
    "contentRating": "suggestive",
-   "score": 0.16926955
+   "score": 0.16834545
   },
   {
    "id": "76e1d9dc-060f-4874-93db-7d01d354e141",
@@ -51,20 +51,20 @@
     "en": "Sannengo Rikon suru Hazu ga, Naze ka Dekiaisaretemasu"
    },
    "contentRating": "suggestive",
-   "score": 0.16829851
-  },
-  {
-   "id": "394b7bfa-0764-4725-8e06-ab9e93591c95",
-   "title": {
-    "en": "In-House Romance Nervous Breakdown"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723
+   "score": 0.16796482
   },
   {
    "id": "e5b17991-75f4-4929-ad18-4c1369668590",
    "title": {
     "en": "Omawari-san to Akujo-chan"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723
+  },
+  {
+   "id": "394b7bfa-0764-4725-8e06-ab9e93591c95",
+   "title": {
+    "en": "In-House Romance Nervous Breakdown"
    },
    "contentRating": "suggestive",
    "score": 0.16495723
@@ -79,6 +79,17 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "332c6437-c449-434e-ae28-6a69bb921d5a",
+   "title": {
+    "en": "Killing Line"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -98,23 +109,12 @@
    "score": 0.16495723
   },
   {
-   "id": "332c6437-c449-434e-ae28-6a69bb921d5a",
-   "title": {
-    "en": "Killing Line"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4b9e501f-a09c-44b9-af68-c480384bc808",
    "title": {
     "en": "Thank You, My Mistakes."
    },
    "contentRating": "suggestive",
-   "score": 0.15462388
+   "score": 0.15370002
   },
   {
    "id": "ebcd4eb3-b857-479c-8dbd-eb944bafe4b4",
@@ -122,18 +122,7 @@
     "en": "Love's Affairs"
    },
    "contentRating": "suggestive",
-   "score": 0.15379009
-  },
-  {
-   "id": "40a8b38b-466f-4f7f-a780-9b09c900923a",
-   "title": {
-    "en": "Dekinai Futari"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15173285,
-   "languages": [
-    "en"
-   ]
+   "score": 0.15323132
   },
   {
    "id": "018ef821-4143-474a-80e4-8a9d07308eb0",
@@ -141,8 +130,19 @@
     "en": "Unexpected Engagement (TADATSU Youko)"
    },
    "contentRating": "suggestive",
-   "score": 0.14963576
+   "score": 0.14887233
+  },
+  {
+   "id": "919af845-098a-4713-94ec-c1e5dc3b8c10",
+   "title": {
+    "en": "Yonezawa-san Is Done Being Human"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14285715,
+   "languages": [
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:27+00:00"
+ "updatedAt": "2023-12-10T18:13:03+00:00"
 }

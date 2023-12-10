@@ -11,7 +11,7 @@
     "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
    },
    "contentRating": "safe",
-   "score": 0.28048015
+   "score": 0.2836782
   },
   {
    "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
@@ -19,7 +19,7 @@
     "en": "Tuberculose"
    },
    "contentRating": "safe",
-   "score": 0.26163962
+   "score": 0.2609026
   },
   {
    "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
@@ -38,7 +38,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.25257465,
+   "score": 0.25234133,
    "languages": [
     "es-la",
     "pt-br",
@@ -53,18 +53,10 @@
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.24908344,
+   "score": 0.24879822,
    "languages": [
     "es-la"
    ]
-  },
-  {
-   "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
-   "title": {
-    "en": "The Devil Garon"
-   },
-   "contentRating": "safe",
-   "score": 0.23899092
   },
   {
    "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
@@ -72,7 +64,15 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.23888741
+   "score": 0.2396124
+  },
+  {
+   "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
+   "title": {
+    "en": "The Devil Garon"
+   },
+   "contentRating": "safe",
+   "score": 0.23906136
   },
   {
    "id": "da6fc5c2-c9ab-42f8-9671-ef2bfcc16ee4",
@@ -88,7 +88,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.22692405,
+   "score": 0.22708063,
    "languages": [
     "en"
    ]
@@ -110,7 +110,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.22492021,
+   "score": 0.22525136,
    "languages": [
     "en",
     "pt-br"
@@ -122,7 +122,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.2231197,
+   "score": 0.22366384,
    "languages": [
     "en"
    ]
@@ -133,7 +133,7 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.22078618
+   "score": 0.22106338
   },
   {
    "id": "553f2052-6320-4657-a5f1-ef5713d73be2",
@@ -141,18 +141,7 @@
     "en": "21st Century Adventure"
    },
    "contentRating": "safe",
-   "score": 0.21950509
-  },
-  {
-   "id": "64cd0472-db8b-4686-b039-c1b8ffb44cb0",
-   "title": {
-    "en": "Yamato Takeru (WATSUKI Nobuhiro)"
-   },
-   "contentRating": "safe",
-   "score": 0.21602064,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21840566
   },
   {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
@@ -164,7 +153,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "64cd0472-db8b-4686-b039-c1b8ffb44cb0",
+   "title": {
+    "en": "Yamato Takeru (WATSUKI Nobuhiro)"
+   },
+   "contentRating": "safe",
+   "score": 0.21394715,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:10+00:00"
+ "updatedAt": "2023-12-10T18:17:41+00:00"
 }

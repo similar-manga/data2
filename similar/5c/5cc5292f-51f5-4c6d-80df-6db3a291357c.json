@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "74eb3db8-84c9-4e6f-99a3-647bde6d1d68",
+   "title": {
+    "en": "Fist of the North Star Gaiden - Garuda of the Golden Wing - Prehistory of the Nanto Goshasei"
+   },
+   "contentRating": "safe",
+   "score": 0.25687253,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "83a2eae0-f952-4c7f-a3a3-be6d092146df",
    "title": {
     "en": "Xenopet"
    },
    "contentRating": "safe",
-   "score": 0.25377002
+   "score": 0.24675243
   },
   {
    "id": "f75715d2-084e-454a-81a0-269abe875cbe",
@@ -22,12 +33,31 @@
    "score": 0.23570228
   },
   {
+   "id": "ae42f649-9615-48d5-8855-58382bfd9f21",
+   "title": {
+    "en": "Crimson Challenger"
+   },
+   "contentRating": "safe",
+   "score": 0.23087877
+  },
+  {
    "id": "fc91df19-601c-40cb-aa4b-4da9dae5bda9",
    "title": {
     "en": "Janisaris"
    },
    "contentRating": "safe",
-   "score": 0.2300843
+   "score": 0.22984366
+  },
+  {
+   "id": "5a7a0d75-9438-4c0b-a399-0f3a9f1d27bc",
+   "title": {
+    "en": "Zebraman"
+   },
+   "contentRating": "safe",
+   "score": 0.22631897,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "fa126a5d-dd02-4f85-8342-a2699fa22d56",
@@ -35,7 +65,7 @@
     "en": "Universe's Strongest First Love"
    },
    "contentRating": "safe",
-   "score": 0.21599084,
+   "score": 0.22095862,
    "languages": [
     "en"
    ]
@@ -46,7 +76,7 @@
     "en": "Volt"
    },
    "contentRating": "safe",
-   "score": 0.21452104
+   "score": 0.21435227
   },
   {
    "id": "b6a8560d-e9de-451d-a1eb-a5fb87a7286f",
@@ -62,21 +92,13 @@
     "en": "Uglyhood"
    },
    "contentRating": "safe",
-   "score": 0.20574339,
+   "score": 0.20996968,
    "languages": [
     "en",
     "es",
     "pt-br",
     "id"
    ]
-  },
-  {
-   "id": "d18f3b08-2bb0-4faa-8b6e-7760de951b37",
-   "title": {
-    "en": "The Rise of Ultraman"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
   },
   {
    "id": "8080871a-5de7-4e77-9357-8f08b9bea21b",
@@ -91,12 +113,20 @@
    ]
   },
   {
+   "id": "d18f3b08-2bb0-4faa-8b6e-7760de951b37",
+   "title": {
+    "en": "The Rise of Ultraman"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
    "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
    "title": {
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.20033665,
+   "score": 0.20016447,
    "languages": [
     "ar",
     "uk",
@@ -114,12 +144,23 @@
    ]
   },
   {
-   "id": "3a0df47e-d961-4692-a2d9-763bff3e64d4",
+   "id": "a9ca1b29-c89c-4d19-95c1-5211208fc2b9",
    "title": {
-    "en": "Crayon Shin-chan: Invasion!! Alien Shiriri"
+    "en": "Garoro Q"
    },
    "contentRating": "safe",
-   "score": 0.19988859
+   "score": 0.19517674
+  },
+  {
+   "id": "c0d13849-a6bc-4204-ae61-cc12ed86a881",
+   "title": {
+    "en": "Strongest King"
+   },
+   "contentRating": "safe",
+   "score": 0.19498561,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "4f5d5b1e-fa54-46e4-a4be-70f877491c72",
@@ -127,49 +168,11 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.19587024,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "adb158ad-2bec-48a4-8e52-1b95d7b77b5b",
-   "title": {
-    "en": "Let's go! GIGA GREEN"
-   },
-   "contentRating": "safe",
-   "score": 0.19504039
-  },
-  {
-   "id": "a9ca1b29-c89c-4d19-95c1-5211208fc2b9",
-   "title": {
-    "en": "Garoro Q"
-   },
-   "contentRating": "safe",
-   "score": 0.19484486
-  },
-  {
-   "id": "39565d0c-7263-4101-a739-19c6bd7d7652",
-   "title": {
-    "en": "Mirrorman 2D"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de5c2320-0f47-4249-80e8-7bc78da12e5e",
-   "title": {
-    "en": "The Revolution of Gene X"
-   },
-   "contentRating": "safe",
-   "score": 0.19288217,
+   "score": 0.19479184,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:26+00:00"
+ "updatedAt": "2023-12-10T18:18:22+00:00"
 }

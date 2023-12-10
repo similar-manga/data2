@@ -11,9 +11,21 @@
     "en": "Happiness!"
    },
    "contentRating": "suggestive",
-   "score": 0.22889319,
+   "score": 0.227497,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
+   "title": {
+    "en": "Crimson Grave"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19551814,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -33,21 +45,10 @@
     "en": "Liver Diver Lover"
    },
    "contentRating": "suggestive",
-   "score": 0.17573732,
+   "score": 0.1753342,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "8ec115ea-7b61-4d28-b954-a4f36ab93f8a",
-   "title": {
-    "en": "You Are Mine"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -63,6 +64,17 @@
    ]
   },
   {
+   "id": "8ec115ea-7b61-4d28-b954-a4f36ab93f8a",
+   "title": {
+    "en": "You Are Mine"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "10ea7852-418e-4945-bfd3-5c1c58a17b38",
    "title": {
     "en": "Ishigami Senki"
@@ -74,24 +86,12 @@
    ]
   },
   {
-   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
-   "title": {
-    "en": "Crimson Grave"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16366467,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "940aa8da-e313-4084-afea-efbca397b5cf",
    "title": {
     "en": "Kanojo Shoukan Shimashita!?"
    },
    "contentRating": "suggestive",
-   "score": 0.16061765,
+   "score": 0.16007738,
    "languages": [
     "fr",
     "es-la",
@@ -101,12 +101,28 @@
    ]
   },
   {
+   "id": "4d4db0c2-3c43-45c8-aac1-af2af63e85ff",
+   "title": {
+    "en": "NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1518045,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "pt-br",
+    "es-la",
+    "es"
+   ]
+  },
+  {
    "id": "d8f1d7da-8bb1-407b-8be3-10ac2894d3c6",
    "title": {
     "en": "Isekai Ojisan"
    },
    "contentRating": "suggestive",
-   "score": 0.1534589,
+   "score": 0.1515961,
    "languages": [
     "en",
     "it",
@@ -118,28 +134,12 @@
    ]
   },
   {
-   "id": "4d4db0c2-3c43-45c8-aac1-af2af63e85ff",
-   "title": {
-    "en": "NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15337127,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "pt-br",
-    "es-la",
-    "es"
-   ]
-  },
-  {
    "id": "8c701f22-8ef9-4b0d-ae4e-0e17ac3cd074",
    "title": {
     "en": "Nanjou-san wa Boku ni Dakaretai"
    },
    "contentRating": "suggestive",
-   "score": 0.15168889,
+   "score": 0.14808273,
    "languages": [
     "en",
     "vi",
@@ -161,24 +161,15 @@
    ]
   },
   {
-   "id": "8b493efc-6b1f-4e0c-b714-10fbaf54f7cd",
+   "id": "ded54f3d-99bc-406a-bca1-4a1d4d618730",
    "title": {
-    "en": "Cu-Cu-Cute!"
+    "en": "Yomega Kiss"
    },
    "contentRating": "suggestive",
    "score": 0.14754222,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0dbd17b8-3778-4759-b056-5f31815d91b2",
-   "title": {
-    "en": "Choice of Error Hero"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14754222,
-   "languages": [
+    "id",
+    "vi",
     "en"
    ]
   },
@@ -195,18 +186,27 @@
    ]
   },
   {
-   "id": "ded54f3d-99bc-406a-bca1-4a1d4d618730",
+   "id": "0dbd17b8-3778-4759-b056-5f31815d91b2",
    "title": {
-    "en": "Yomega Kiss"
+    "en": "Choice of Error Hero"
    },
    "contentRating": "suggestive",
    "score": 0.14754222,
    "languages": [
-    "id",
-    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "8b493efc-6b1f-4e0c-b714-10fbaf54f7cd",
+   "title": {
+    "en": "Cu-Cu-Cute!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14754222,
+   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:29+00:00"
+ "updatedAt": "2023-12-10T18:23:51+00:00"
 }

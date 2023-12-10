@@ -11,7 +11,7 @@
     "en": "Tsurenai Kanojo no Hitorijime"
    },
    "contentRating": "suggestive",
-   "score": 0.36528,
+   "score": 0.36229363,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Boku Dake o Mite Kure"
    },
    "contentRating": "suggestive",
-   "score": 0.30580503,
+   "score": 0.30496514,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Gunjou Other Half"
    },
    "contentRating": "suggestive",
-   "score": 0.2934898,
+   "score": 0.29301745,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Seventeen Syrups"
    },
    "contentRating": "suggestive",
-   "score": 0.26979795,
+   "score": 0.2687127,
    "languages": [
     "en",
     "es-la"
@@ -68,7 +68,18 @@
     "en": "Saikyou Kyoushi"
    },
    "contentRating": "suggestive",
-   "score": 0.26816016,
+   "score": 0.26802495,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b4a74e62-30c7-48b2-8dad-e18e1100efef",
+   "title": {
+    "en": "Dousei Ai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26430026,
    "languages": [
     "en"
    ]
@@ -79,20 +90,9 @@
     "en": "Gakuran no Nakamade Sawatte Hoshii"
    },
    "contentRating": "suggestive",
-   "score": 0.26489577,
+   "score": 0.26404166,
    "languages": [
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "b4a74e62-30c7-48b2-8dad-e18e1100efef",
-   "title": {
-    "en": "Dousei Ai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.26475757,
-   "languages": [
     "en"
    ]
   },
@@ -124,31 +124,19 @@
     "en": "Sekai de Ichiban Tooi Koi"
    },
    "contentRating": "suggestive",
-   "score": 0.24126592,
+   "score": 0.24090365,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ad9feb8d-4c82-49c2-8e66-e249afbfb0ba",
+   "id": "1233042e-6008-43fe-addf-0238a800e64c",
    "title": {
-    "en": "Name."
+    "en": "Soshite Akuma wa Seigi wo Kataru"
    },
    "contentRating": "suggestive",
-   "score": 0.23981972,
+   "score": 0.23841962,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9b92394-e563-4957-a44c-af92626d42e0",
-   "title": {
-    "en": "Harenai Sekai de Kimi Dake Mieru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23890187,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -158,7 +146,7 @@
     "en": "Osananajimi Kanojo no Morahara ga Hidoin de Zetsuen Sengen shite Yatta"
    },
    "contentRating": "suggestive",
-   "score": 0.23850599,
+   "score": 0.23802117,
    "languages": [
     "es-la",
     "vi",
@@ -168,12 +156,24 @@
    ]
   },
   {
+   "id": "e9b92394-e563-4957-a44c-af92626d42e0",
+   "title": {
+    "en": "Harenai Sekai de Kimi Dake Mieru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23771623,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "c4f748f5-9711-4860-9383-ca93b01fc6d0",
    "title": {
     "en": "Netsuai"
    },
    "contentRating": "suggestive",
-   "score": 0.2384049,
+   "score": 0.23453693,
    "languages": [
     "en"
    ]
@@ -190,5 +190,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:12+00:00"
+ "updatedAt": "2023-12-10T18:28:32+00:00"
 }

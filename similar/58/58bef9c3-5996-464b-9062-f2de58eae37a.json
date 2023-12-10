@@ -6,6 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "67a021af-30c8-4f1e-a914-169097c5f34b",
+   "title": {
+    "en": "Ni Luo Ya - Niraya"
+   },
+   "contentRating": "safe",
+   "score": 0.30161938,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "9842df90-53a8-4a26-8696-2b47a6a52cf9",
+   "title": {
+    "en": "Mononoke no Ran"
+   },
+   "contentRating": "safe",
+   "score": 0.29496646,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fb45bda2-a387-475a-b0d6-18eeed806391",
    "title": {
     "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
@@ -14,17 +37,6 @@
    "score": 0.2857143,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "1cf26b33-b5ca-4ace-a508-13363fd9ae44",
-   "title": {
-    "en": "Crescent Noise"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
     "en"
    ]
   },
@@ -40,12 +52,23 @@
    ]
   },
   {
+   "id": "1cf26b33-b5ca-4ace-a508-13363fd9ae44",
+   "title": {
+    "en": "Crescent Noise"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
    "title": {
     "en": "2 x Bone"
    },
    "contentRating": "safe",
-   "score": 0.27687913,
+   "score": 0.27489805,
    "languages": [
     "en"
    ]
@@ -56,7 +79,7 @@
     "en": "Black Warriors"
    },
    "contentRating": "safe",
-   "score": 0.26577964,
+   "score": 0.2660743,
    "languages": [
     "en"
    ]
@@ -67,22 +90,11 @@
     "en": "Monster Cage"
    },
    "contentRating": "safe",
-   "score": 0.26552904,
+   "score": 0.2644225,
    "languages": [
     "en",
     "pl",
     "bg"
-   ]
-  },
-  {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
-   "title": {
-    "en": "E's"
-   },
-   "contentRating": "safe",
-   "score": 0.24979243,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -91,21 +103,31 @@
     "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.24822357,
+   "score": 0.24778686,
    "languages": [
     "es",
     "en"
    ]
   },
   {
-   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
+   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
    "title": {
-    "en": "Monsters"
+    "en": "E's"
    },
    "contentRating": "safe",
-   "score": 0.24483006,
+   "score": 0.24626547,
    "languages": [
-    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
+   "title": {
+    "en": "Rico"
+   },
+   "contentRating": "safe",
+   "score": 0.24396597,
+   "languages": [
     "en"
    ]
   },
@@ -115,20 +137,21 @@
     "en": "Blood-Coloured Forbidden Territory"
    },
    "contentRating": "safe",
-   "score": 0.24442233,
+   "score": 0.24389374,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
+   "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
    "title": {
-    "en": "Rico"
+    "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.2438487,
+   "score": 0.243618,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -138,7 +161,7 @@
     "en": "Dandelion"
    },
    "contentRating": "safe",
-   "score": 0.24383615,
+   "score": 0.24351712,
    "languages": [
     "en"
    ]
@@ -149,7 +172,7 @@
     "en": "Sasabunechou Konjaku"
    },
    "contentRating": "safe",
-   "score": 0.24360661,
+   "score": 0.24320458,
    "languages": [
     "en"
    ]
@@ -160,34 +183,12 @@
     "en": "DCD Diamond Cut Diamond"
    },
    "contentRating": "safe",
-   "score": 0.24344905,
+   "score": 0.24280466,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "9fea5778-9884-4d27-90b4-ea982d6097e1",
-   "title": {
-    "en": "Shiki Tsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.24156822,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9036b5ac-80d7-47b9-96cb-8f0ae7cfd5b1",
-   "title": {
-    "en": "Composi!"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:16+00:00"
+ "updatedAt": "2023-12-10T18:17:56+00:00"
 }

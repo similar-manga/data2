@@ -6,24 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "566a584f-edc5-41fd-a37e-14c3f1a25fb7",
-   "title": {
-    "en": "Takane-san and Arashi-chan"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2841444,
-   "languages": [
-    "ko",
-    "en"
-   ]
-  },
-  {
    "id": "d4d43c50-ce1a-4751-b474-e239cf862f2a",
    "title": {
     "en": "Virgins' Empire"
    },
    "contentRating": "suggestive",
-   "score": 0.27095985,
+   "score": 0.27009916,
    "languages": [
     "en"
    ]
@@ -58,7 +46,7 @@
     "en": "Uzaki-chan wa Asobitai!"
    },
    "contentRating": "suggestive",
-   "score": 0.25656524,
+   "score": 0.25602084,
    "languages": [
     "es-la",
     "it",
@@ -69,16 +57,17 @@
    ]
   },
   {
-   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
+   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
    "title": {
-    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
+    "en": "How About R15?"
    },
    "contentRating": "suggestive",
    "score": 0.24244238,
    "languages": [
-    "id",
     "en",
-    "fr"
+    "pt-br",
+    "ru",
+    "vi"
    ]
   },
   {
@@ -98,57 +87,42 @@
    ]
   },
   {
-   "id": "334fecc8-8bff-4256-834a-9429059c0f72",
+   "id": "388f639e-7cd1-4493-8242-ae480647479a",
    "title": {
-    "en": "Mikudashi Ibari wa Mikudashitai!"
+    "en": "SM Kanojo"
    },
    "contentRating": "suggestive",
    "score": 0.24244238,
    "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
-   "title": {
-    "en": "How About R15?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24244238,
-   "languages": [
-    "en",
     "pt-br",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "eb48c615-1c00-4726-b839-850d01d774b0",
-   "title": {
-    "en": "Omae Imouto ja Nakute Iinazuke datta no kayo!?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24244238,
-   "languages": [
     "en",
-    "id",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "77122bdd-1cbc-42a6-8eea-8167d6d3bb39",
-   "title": {
-    "en": "Shuukan Brick"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24244238,
-   "languages": [
-    "en",
-    "id",
-    "tr",
     "es-la"
+   ]
+  },
+  {
+   "id": "b5dcc75d-b8b4-4081-b14d-a883a6122b71",
+   "title": {
+    "en": "Furare Girl"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24244238,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a",
+   "title": {
+    "en": "Yowa Yowa Sensei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24244238,
+   "languages": [
+    "vi",
+    "en",
+    "fr",
+    "id"
    ]
   },
   {
@@ -170,30 +144,56 @@
    ]
   },
   {
-   "id": "388f639e-7cd1-4493-8242-ae480647479a",
+   "id": "77122bdd-1cbc-42a6-8eea-8167d6d3bb39",
    "title": {
-    "en": "SM Kanojo"
+    "en": "Shuukan Brick"
    },
    "contentRating": "suggestive",
    "score": 0.24244238,
    "languages": [
-    "pt-br",
+    "en",
+    "id",
+    "tr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
+   "title": {
+    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24244238,
+   "languages": [
+    "id",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "334fecc8-8bff-4256-834a-9429059c0f72",
+   "title": {
+    "en": "Mikudashi Ibari wa Mikudashitai!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24244238,
+   "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a",
+   "id": "eb48c615-1c00-4726-b839-850d01d774b0",
    "title": {
-    "en": "Yowa Yowa Sensei"
+    "en": "Omae Imouto ja Nakute Iinazuke datta no kayo!?"
    },
    "contentRating": "suggestive",
    "score": 0.24244238,
    "languages": [
-    "vi",
     "en",
-    "fr",
-    "id"
+    "id",
+    "vi",
+    "ru"
    ]
   },
   {
@@ -216,20 +216,21 @@
    ]
   },
   {
-   "id": "770c61b9-0ef2-460b-8c25-c10ab23349ce",
+   "id": "df805b8c-0c05-40f2-8f92-0f096ca346e4",
    "title": {
-    "en": "Akebi-chan no Sailor Fuku"
+    "en": "Ienai Himitsu No Aishikata (Magazine)"
    },
    "contentRating": "suggestive",
-   "score": 0.23926878,
+   "score": 0.2324102,
    "languages": [
-    "pt-br",
+    "id",
     "en",
+    "pt-br",
+    "ko",
     "es-la",
-    "ru",
-    "fr"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:37+00:00"
+ "updatedAt": "2023-12-10T18:21:37+00:00"
 }

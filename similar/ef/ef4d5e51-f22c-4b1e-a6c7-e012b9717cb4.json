@@ -11,7 +11,7 @@
     "en": "Hana Sakasu Te"
    },
    "contentRating": "safe",
-   "score": 0.34039274,
+   "score": 0.34091902,
    "languages": [
     "bg",
     "pl",
@@ -24,7 +24,7 @@
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.33851576,
+   "score": 0.33652928,
    "languages": [
     "es",
     "en"
@@ -36,7 +36,7 @@
     "en": "bit by bit"
    },
    "contentRating": "safe",
-   "score": 0.330369,
+   "score": 0.33010852,
    "languages": [
     "en"
    ]
@@ -47,8 +47,20 @@
     "en": "Kimi ni Hana o"
    },
    "contentRating": "safe",
-   "score": 0.32545778,
+   "score": 0.32633403,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b7db5be-b961-4a59-8d27-2e83aad86695",
+   "title": {
+    "en": "Te to Te to Namida"
+   },
+   "contentRating": "safe",
+   "score": 0.32289836,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -58,7 +70,7 @@
     "en": "Enren Lover"
    },
    "contentRating": "safe",
-   "score": 0.31879073,
+   "score": 0.31739527,
    "languages": [
     "pl",
     "ca",
@@ -72,7 +84,7 @@
     "en": "Navy Blue no Hoshizora"
    },
    "contentRating": "safe",
-   "score": 0.3166773,
+   "score": 0.31617573,
    "languages": [
     "en"
    ]
@@ -83,79 +95,7 @@
     "en": "Spring One Year Later"
    },
    "contentRating": "safe",
-   "score": 0.3106038,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9735a025-e603-4346-bfd0-abcf2a6d3a2e",
-   "title": {
-    "en": "Giant Cinderella"
-   },
-   "contentRating": "safe",
-   "score": 0.31025025,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
-   "title": {
-    "en": "Shinyuu no Mikami-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.30841514,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "77787964-532e-4d27-b03c-15c512d81611",
-   "title": {
-    "en": "Trouble in the Classroom"
-   },
-   "contentRating": "safe",
-   "score": 0.30788323,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7d46e6a0-27fe-43ab-934b-4f00ce5b844d",
-   "title": {
-    "en": "Ouji-sama ni Nemuri Hime no Kiss wo"
-   },
-   "contentRating": "safe",
-   "score": 0.30768123,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
-   "title": {
-    "en": "Namae mo Shiranai"
-   },
-   "contentRating": "safe",
-   "score": 0.3072916,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "3d7c6186-75d7-44bf-91d2-e111b7258f43",
-   "title": {
-    "en": "Latent Heat"
-   },
-   "contentRating": "safe",
-   "score": 0.30724365,
+   "score": 0.3101872,
    "languages": [
     "en"
    ]
@@ -166,8 +106,57 @@
     "en": "Land Escape"
    },
    "contentRating": "safe",
-   "score": 0.30684704,
+   "score": 0.30733505,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77787964-532e-4d27-b03c-15c512d81611",
+   "title": {
+    "en": "Trouble in the Classroom"
+   },
+   "contentRating": "safe",
+   "score": 0.30699012,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
+   "title": {
+    "en": "Shinyuu no Mikami-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.3069861,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "it",
+    "pl"
+   ]
+  },
+  {
+   "id": "3d7c6186-75d7-44bf-91d2-e111b7258f43",
+   "title": {
+    "en": "Latent Heat"
+   },
+   "contentRating": "safe",
+   "score": 0.30697504,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
+   "title": {
+    "en": "Namae mo Shiranai"
+   },
+   "contentRating": "safe",
+   "score": 0.30685472,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -177,24 +166,35 @@
     "en": "Kuraku naru Made Matte"
    },
    "contentRating": "safe",
-   "score": 0.30676398,
+   "score": 0.30596575,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "71eecef1-fa3c-4cfb-9d20-7101ffc4194e",
+   "id": "8b41fe56-f1ae-4277-b3b6-4f5db2c0f565",
    "title": {
-    "en": "Aka no Yuuwaku"
+    "en": "Hard Luck Woman"
    },
    "contentRating": "safe",
-   "score": 0.3056958,
+   "score": 0.3056648,
    "languages": [
     "en",
-    "tl"
+    "pl"
+   ]
+  },
+  {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.30557543,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:38+00:00"
+ "updatedAt": "2023-12-10T18:34:38+00:00"
 }

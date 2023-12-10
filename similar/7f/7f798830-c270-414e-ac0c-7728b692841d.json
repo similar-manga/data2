@@ -11,7 +11,7 @@
     "en": "Mega Man Maniax"
    },
    "contentRating": "safe",
-   "score": 0.31316227,
+   "score": 0.3094429,
    "languages": [
     "es",
     "en"
@@ -23,20 +23,8 @@
     "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.29348454,
+   "score": 0.2993579,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
-   "title": {
-    "en": "Mega Man Battle Network Operate Shooting Star VS"
-   },
-   "contentRating": "safe",
-   "score": 0.24469349,
-   "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -46,21 +34,32 @@
     "en": "Mega Man: The Deadly Struggle on Mu Arc"
    },
    "contentRating": "safe",
-   "score": 0.24398707,
+   "score": 0.24174333,
    "languages": [
     "en",
     "es"
    ]
   },
   {
-   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
+   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
    "title": {
-    "en": "The Birth of Mega Man"
+    "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.22851278,
+   "score": 0.24171332,
    "languages": [
-    "es",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "3d18dd68-2cdf-4296-a9bd-6fbc15d391ef",
+   "title": {
+    "en": "Pikmin (Nintendo DREAM vol. 89)"
+   },
+   "contentRating": "safe",
+   "score": 0.23340777,
+   "languages": [
     "en"
    ]
   },
@@ -73,6 +72,18 @@
    "score": 0.22826108,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
+   "title": {
+    "en": "The Birth of Mega Man"
+   },
+   "contentRating": "safe",
+   "score": 0.22366852,
+   "languages": [
+    "es",
     "en"
    ]
   },
@@ -93,7 +104,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.21656144,
+   "score": 0.21442577,
    "languages": [
     "en"
    ]
@@ -111,23 +122,12 @@
    ]
   },
   {
-   "id": "3d18dd68-2cdf-4296-a9bd-6fbc15d391ef",
-   "title": {
-    "en": "Pikmin (Nintendo DREAM vol. 89)"
-   },
-   "contentRating": "safe",
-   "score": 0.21230845,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
    "title": {
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.2105324,
+   "score": 0.2101025,
    "languages": [
     "en"
    ]
@@ -148,14 +148,15 @@
    ]
   },
   {
-   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
+   "id": "eca3a5ae-d611-4055-b1c7-af2d5911085c",
    "title": {
-    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
+    "en": "Mega Man X3: Stop Doppler's Army!"
    },
    "contentRating": "safe",
-   "score": 0.20012651,
+   "score": 0.19991364,
    "languages": [
-    "en"
+    "en",
+    "es"
    ]
   },
   {
@@ -171,15 +172,14 @@
    ]
   },
   {
-   "id": "eca3a5ae-d611-4055-b1c7-af2d5911085c",
+   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
    "title": {
-    "en": "Mega Man X3: Stop Doppler's Army!"
+    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.19991364,
+   "score": 0.1979929,
    "languages": [
-    "en",
-    "es"
+    "en"
    ]
   },
   {
@@ -194,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:52+00:00"
+ "updatedAt": "2023-12-10T18:22:17+00:00"
 }

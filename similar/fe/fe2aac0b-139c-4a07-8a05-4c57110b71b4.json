@@ -6,15 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
+   "title": {
+    "en": "Good-bye, My 19 year Old Self"
+   },
+   "contentRating": "safe",
+   "score": 0.31447807,
+   "languages": [
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
    "title": {
     "en": "Insomnia"
    },
    "contentRating": "safe",
-   "score": 0.3067727,
+   "score": 0.30434158,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b58b3299-784d-4474-a5b8-07c74773be7e",
+   "title": {
+    "en": "Sekai no Chuushin de, Ai wo Sakebu"
+   },
+   "contentRating": "safe",
+   "score": 0.30020165
   },
   {
    "id": "d3759bc8-864c-4b09-ae29-d1bfac5b5df6",
@@ -22,7 +43,7 @@
     "en": "Honey Moon"
    },
    "contentRating": "safe",
-   "score": 0.29838055
+   "score": 0.29761583
   },
   {
    "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
@@ -30,10 +51,45 @@
     "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.29478934,
+   "score": 0.29433504,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a1537852-054c-4362-87bd-be22438ab7e9",
+   "title": {
+    "en": "Kare no Ondo"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "ec1c3190-7457-40d1-83a0-42ea4cdb1738",
+   "title": {
+    "en": "Hoshi no Oujo"
+   },
+   "contentRating": "safe",
+   "score": 0.2711108
+  },
+  {
+   "id": "faed40ed-defb-46fd-8afd-c606420ebc7f",
+   "title": {
+    "en": "Sekai no Hate wa Shinai"
+   },
+   "contentRating": "safe",
+   "score": 0.26994747,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "676a6cbe-1508-4210-8bfb-90a0c4fe50d1",
+   "title": {
+    "en": "Hakoniwa no Nushi to Saigo no Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.26595607
   },
   {
    "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
@@ -41,7 +97,7 @@
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.25603646,
+   "score": 0.25599062,
    "languages": [
     "fr",
     "en",
@@ -55,7 +111,7 @@
     "en": "Kono Te o Hanasanai"
    },
    "contentRating": "safe",
-   "score": 0.25355145
+   "score": 0.25216928
   },
   {
    "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
@@ -63,8 +119,28 @@
     "en": "Junai Rosen"
    },
    "contentRating": "safe",
-   "score": 0.2513074,
+   "score": 0.24994086,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5dbdc12-9f84-4a4a-96c9-a9633c96d178",
+   "title": {
+    "en": "Oh! My Darling"
+   },
+   "contentRating": "safe",
+   "score": 0.24960305
+  },
+  {
+   "id": "722a8e72-bc43-4a5c-b5f6-96413bd3a7b4",
+   "title": {
+    "en": "Good Person"
+   },
+   "contentRating": "safe",
+   "score": 0.24932155,
+   "languages": [
+    "es",
     "en"
    ]
   },
@@ -74,97 +150,19 @@
     "en": "Kimi o Matsu -\u003e Akaiito"
    },
    "contentRating": "safe",
-   "score": 0.25068355,
+   "score": 0.24910174,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "722a8e72-bc43-4a5c-b5f6-96413bd3a7b4",
+   "id": "2605dc02-f196-44b2-8857-2383c1f61783",
    "title": {
-    "en": "Good Person"
+    "en": "Nidome no Koi wa Saiai"
    },
    "contentRating": "safe",
-   "score": 0.25007015,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "913b21dc-1aa0-47a3-a551-462209fa7da9",
-   "title": {
-    "en": "Houyou"
-   },
-   "contentRating": "safe",
-   "score": 0.2483551
-  },
-  {
-   "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
-   "title": {
-    "en": "My Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "becbacfb-708b-4f81-a6d3-ee43dd67d300",
-   "title": {
-    "en": "Tonari no Obake-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "04d3680f-0cad-4009-a394-33fedf5ee31d",
-   "title": {
-    "en": "Kare wa Hanazono de Yume wo Miru"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
-   "title": {
-    "en": "Dana's Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23f1d1b1-5828-472d-964d-6e55c528f74b",
-   "title": {
-    "en": "Yume Kurai"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "0d697325-ddba-4c03-811e-67293ae3f024",
-   "title": {
-    "en": "Kigi no Yukue"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "f445252b-99a0-4174-bd3a-87a8ffc94902",
-   "title": {
-    "en": "Will It Snow for Christmas?"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
+   "score": 0.24897173
   }
  ],
- "updatedAt": "2023-12-10T01:10:17+00:00"
+ "updatedAt": "2023-12-10T18:36:11+00:00"
 }

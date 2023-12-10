@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
+   "id": "05dcdc0c-7b79-49c9-b67a-f3a132ac6055",
    "title": {
-    "en": "Love Attack"
+    "en": "Madness Combat x Ninja Slayer"
    },
    "contentRating": "safe",
-   "score": 0.19628857,
+   "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "64fa680d-2432-4dd0-9d17-4c2c1b37bf27",
+   "title": {
+    "en": "War Angels"
+   },
+   "contentRating": "safe",
+   "score": 0.20226929,
    "languages": [
     "en"
    ]
@@ -22,10 +33,22 @@
     "en": "Harvester"
    },
    "contentRating": "safe",
-   "score": 0.19582386,
+   "score": 0.19755892,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "3b645cd8-49e2-4559-89ba-aaa34b8d3465",
+   "title": {
+    "en": "One True Love (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.1958216,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -42,32 +65,45 @@
    ]
   },
   {
+   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
+   "title": {
+    "en": "Love Attack"
+   },
+   "contentRating": "safe",
+   "score": 0.19297673,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "02870682-0b44-4f4a-812e-d61fd89cf73e",
    "title": {
     "en": "Angel Busters"
    },
    "contentRating": "safe",
-   "score": 0.18986309,
+   "score": 0.18821447,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3b645cd8-49e2-4559-89ba-aaa34b8d3465",
+   "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
    "title": {
-    "en": "One True Love (Oneshot)"
+    "en": "Space Battleship Silver Seven"
    },
    "contentRating": "safe",
-   "score": 0.18936165,
+   "score": 0.18793681,
    "languages": [
+    "fr",
+    "es-la",
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
+   "id": "80fd5260-0a6b-4bc6-a8d6-d918482a80b4",
    "title": {
-    "en": "Parasite B"
+    "en": "Key X Contractor"
    },
    "contentRating": "safe",
    "score": 0.1870439,
@@ -79,17 +115,6 @@
    "id": "8d2a7bad-f34f-4e9b-9159-e08c8f996c29",
    "title": {
     "en": "Astronauts"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "32ad1932-5502-4abf-8c6b-91bf3b0feda4",
-   "title": {
-    "en": "AI07"
    },
    "contentRating": "safe",
    "score": 0.1870439,
@@ -110,28 +135,24 @@
    ]
   },
   {
-   "id": "59efdb98-4c3c-491c-91d8-ed0e0a69b522",
+   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
    "title": {
-    "en": "Boss Battle"
+    "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.18616135,
+   "score": 0.1870439,
    "languages": [
-    "it",
     "en"
    ]
   },
   {
-   "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
+   "id": "32ad1932-5502-4abf-8c6b-91bf3b0feda4",
    "title": {
-    "en": "Space Battleship Silver Seven"
+    "en": "AI07"
    },
    "contentRating": "safe",
-   "score": 0.18570517,
+   "score": 0.1870439,
    "languages": [
-    "fr",
-    "es-la",
-    "pt-br",
     "en"
    ]
   },
@@ -141,31 +162,20 @@
     "en": "Another Vanguard - Vanguard Frontier"
    },
    "contentRating": "safe",
-   "score": 0.18547241,
+   "score": 0.18398613,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "96a105c5-48ed-47aa-8220-bef33b79791c",
+   "id": "59efdb98-4c3c-491c-91d8-ed0e0a69b522",
    "title": {
-    "en": "Samurai POUPAN !"
+    "en": "Boss Battle"
    },
    "contentRating": "safe",
-   "score": 0.17970598,
+   "score": 0.18270424,
    "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "0add8691-66aa-45cd-b476-22207f22b16c",
-   "title": {
-    "en": "The Reveal"
-   },
-   "contentRating": "safe",
-   "score": 0.17847112,
-   "languages": [
+    "it",
     "en"
    ]
   },
@@ -175,7 +185,7 @@
     "en": "World's End Sabotage"
    },
    "contentRating": "safe",
-   "score": 0.17810324,
+   "score": 0.1809072,
    "languages": [
     "vi",
     "fr",
@@ -184,19 +194,7 @@
     "pl",
     "pt-br"
    ]
-  },
-  {
-   "id": "16a00f1a-d3d8-4777-bcea-d89e7578da16",
-   "title": {
-    "en": "Umarekawattara Mata,"
-   },
-   "contentRating": "safe",
-   "score": 0.17740287,
-   "languages": [
-    "vi",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:05+00:00"
+ "updatedAt": "2023-12-10T18:12:02+00:00"
 }

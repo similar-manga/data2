@@ -11,7 +11,7 @@
     "en": "Snow White's Secret"
    },
    "contentRating": "safe",
-   "score": 0.32488313,
+   "score": 0.32193857,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "White Day"
    },
    "contentRating": "safe",
-   "score": 0.31677786,
+   "score": 0.3114099,
    "languages": [
     "bg",
     "pl",
@@ -36,10 +36,21 @@
     "en": "The Story of a White Mouse"
    },
    "contentRating": "safe",
-   "score": 0.28572363,
+   "score": 0.28147647,
    "languages": [
     "en",
     "de"
+   ]
+  },
+  {
+   "id": "ca8bd8e8-7f56-4fd7-a945-782fc076c0f4",
+   "title": {
+    "en": "Anata Dake wo Matteru"
+   },
+   "contentRating": "safe",
+   "score": 0.2765001,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -48,23 +59,9 @@
     "en": "White of Dawn"
    },
    "contentRating": "safe",
-   "score": 0.27891642,
+   "score": 0.27624908,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
-   "title": {
-    "en": "White Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.2540294,
-   "languages": [
-    "pl",
-    "en",
-    "ru",
-    "pt-br"
    ]
   },
   {
@@ -73,7 +70,7 @@
     "en": "Back Alley Romance"
    },
    "contentRating": "safe",
-   "score": 0.25380653,
+   "score": 0.25456727,
    "languages": [
     "en"
    ]
@@ -84,7 +81,7 @@
     "en": "Mousou Otoko"
    },
    "contentRating": "safe",
-   "score": 0.2494344,
+   "score": 0.24833314,
    "languages": [
     "en",
     "tr"
@@ -96,34 +93,48 @@
     "en": "Poolside"
    },
    "contentRating": "safe",
-   "score": 0.2460626,
+   "score": 0.24751736,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "598cb13f-fd04-4363-93f4-1754f992cd71",
+   "id": "17c68f3f-be90-4705-a816-d75a2c189b9b",
    "title": {
-    "en": "Men Men Musubi"
+    "en": "Sakuta and Shouko's Birthday | 2020"
    },
    "contentRating": "safe",
-   "score": 0.24603176,
+   "score": 0.24657078,
    "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "b621ea46-3a3e-423d-9c06-3449706c97ce",
-   "title": {
-    "en": "Kodomo ga Neta Ato de"
-   },
-   "contentRating": "safe",
-   "score": 0.24603176,
-   "languages": [
-    "pl",
+    "id",
+    "ru",
     "en",
-    "tr"
+    "it"
+   ]
+  },
+  {
+   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
+   "title": {
+    "en": "Tokubetsu na Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.24603176,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
+   "title": {
+    "en": "Gimmick"
+   },
+   "contentRating": "safe",
+   "score": 0.24603176,
+   "languages": [
+    "tr",
+    "pl",
+    "en"
    ]
   },
   {
@@ -138,15 +149,16 @@
    ]
   },
   {
-   "id": "4de1470f-51a2-447d-8646-98b54b3192ae",
+   "id": "b621ea46-3a3e-423d-9c06-3449706c97ce",
    "title": {
-    "en": "Tokubetsu na Nichijou"
+    "en": "Kodomo ga Neta Ato de"
    },
    "contentRating": "safe",
    "score": 0.24603176,
    "languages": [
+    "pl",
     "en",
-    "fr"
+    "tr"
    ]
   },
   {
@@ -173,19 +185,6 @@
    ]
   },
   {
-   "id": "ca6dc715-b56c-46a0-869d-f15a81ed7471",
-   "title": {
-    "en": "Gimmick"
-   },
-   "contentRating": "safe",
-   "score": 0.24603176,
-   "languages": [
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "2957c478-f9fa-46ba-be19-7238d8a39f4e",
    "title": {
     "en": "TakuLez Meet-Up Report"
@@ -197,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:29+00:00"
+ "updatedAt": "2023-12-10T18:31:46+00:00"
 }

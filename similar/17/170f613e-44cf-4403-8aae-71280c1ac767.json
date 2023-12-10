@@ -11,7 +11,7 @@
     "en": "The Devil Grants a Girl's Last Wish"
    },
    "contentRating": "safe",
-   "score": 0.32606974,
+   "score": 0.3274662,
    "languages": [
     "en",
     "id"
@@ -23,7 +23,7 @@
     "en": "The Story of a Demon Girl and an Uncle"
    },
    "contentRating": "safe",
-   "score": 0.2932216,
+   "score": 0.28972343,
    "languages": [
     "en",
     "de",
@@ -37,7 +37,7 @@
     "en": "Watashi no Maou-sama"
    },
    "contentRating": "safe",
-   "score": 0.28587875,
+   "score": 0.28364947,
    "languages": [
     "ru",
     "es-la",
@@ -47,12 +47,24 @@
    ]
   },
   {
+   "id": "8e5f7fcf-18d8-4da8-ae6c-f771cbd274b1",
+   "title": {
+    "en": "Sunny \u0026 Rainy"
+   },
+   "contentRating": "safe",
+   "score": 0.27770445,
+   "languages": [
+    "bg",
+    "en"
+   ]
+  },
+  {
    "id": "2a69cf2a-5952-446c-9210-4f3a355f9604",
    "title": {
     "en": "I Wanted to Summon a Demon, but All I Got Was a Mummy"
    },
    "contentRating": "safe",
-   "score": 0.2815299,
+   "score": 0.27478448,
    "languages": [
     "en"
    ]
@@ -63,21 +75,9 @@
     "en": "Has the Rain Stopped?"
    },
    "contentRating": "safe",
-   "score": 0.2697586,
+   "score": 0.26895896,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "8e5f7fcf-18d8-4da8-ae6c-f771cbd274b1",
-   "title": {
-    "en": "Sunny \u0026 Rainy"
-   },
-   "contentRating": "safe",
-   "score": 0.25917736,
-   "languages": [
-    "bg",
     "en"
    ]
   },
@@ -87,7 +87,7 @@
     "en": "Maigo Center"
    },
    "contentRating": "safe",
-   "score": 0.25680655,
+   "score": 0.2577806,
    "languages": [
     "en",
     "pt-br",
@@ -101,7 +101,7 @@
     "en": "Anata no Kage wo Ou"
    },
    "contentRating": "safe",
-   "score": 0.25255087,
+   "score": 0.25345892,
    "languages": [
     "it",
     "ru",
@@ -115,23 +115,12 @@
    ]
   },
   {
-   "id": "135763ce-c3c2-4e6a-98aa-79c8482032a7",
-   "title": {
-    "en": "Summoning The Demon Lord"
-   },
-   "contentRating": "safe",
-   "score": 0.25049177,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "699f8a24-aaf9-4a2d-b54b-670d697716b1",
    "title": {
     "en": "Shiawase wo Anata ni"
    },
    "contentRating": "safe",
-   "score": 0.24975492,
+   "score": 0.25064903,
    "languages": [
     "uk",
     "pl",
@@ -145,41 +134,30 @@
    ]
   },
   {
+   "id": "207de333-db1e-41bd-a0c9-6546655cf292",
+   "title": {
+    "en": "Hittoman to Nanashi no Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.2495765,
+   "languages": [
+    "pl",
+    "en",
+    "it",
+    "vi"
+   ]
+  },
+  {
    "id": "5ce85dc3-5686-436d-a66b-55bc5f7f5dd8",
    "title": {
     "en": "A Rainy Town - Challenge"
    },
    "contentRating": "safe",
-   "score": 0.24821603,
+   "score": 0.24921112,
    "languages": [
     "en",
     "ru",
     "tr"
-   ]
-  },
-  {
-   "id": "1a5c5e7e-ffdc-4eb3-9c81-a8d7f02a1e3c",
-   "title": {
-    "en": "A Story About Picking Up a God"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "it",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "cb6372ab-c1af-43f0-8706-0f04bf29cd52",
-   "title": {
-    "en": "Hardcore Santa and the Spirit's Wail"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -196,32 +174,52 @@
    ]
   },
   {
-   "id": "207de333-db1e-41bd-a0c9-6546655cf292",
+   "id": "cb6372ab-c1af-43f0-8706-0f04bf29cd52",
    "title": {
-    "en": "Hittoman to Nanashi no Shoujo"
+    "en": "Hardcore Santa and the Spirit's Wail"
    },
    "contentRating": "safe",
-   "score": 0.24726476,
+   "score": 0.24743582,
    "languages": [
-    "pl",
     "en",
-    "it",
-    "vi"
+    "pt-br"
    ]
   },
   {
-   "id": "a96d22d1-e577-4f2a-a865-64c42f37e767",
+   "id": "1a5c5e7e-ffdc-4eb3-9c81-a8d7f02a1e3c",
    "title": {
-    "en": "Demon Lord and the Hero"
+    "en": "A Story About Picking Up a God"
    },
    "contentRating": "safe",
-   "score": 0.24637197,
+   "score": 0.24743582,
    "languages": [
-    "en",
-    "vi",
-    "pt-br"
+    "it",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "135763ce-c3c2-4e6a-98aa-79c8482032a7",
+   "title": {
+    "en": "Summoning The Demon Lord"
+   },
+   "contentRating": "safe",
+   "score": 0.24431004,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e3591745-43ad-4db1-bc25-9d9d260e0215",
+   "title": {
+    "en": "The Solitary Travels of a Mermaid Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.24413659,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:38+00:00"
+ "updatedAt": "2023-12-10T18:10:48+00:00"
 }

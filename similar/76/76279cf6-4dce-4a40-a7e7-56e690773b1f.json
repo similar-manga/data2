@@ -11,7 +11,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.21260081,
+   "score": 0.21636172,
    "languages": [
     "en",
     "pt-br",
@@ -44,7 +44,7 @@
     "en": "Fate/type Redline"
    },
    "contentRating": "safe",
-   "score": 0.19582121,
+   "score": 0.19513376,
    "languages": [
     "ru",
     "it",
@@ -63,7 +63,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.19115433,
+   "score": 0.1893717,
    "languages": [
     "it",
     "id",
@@ -90,7 +90,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.18634278,
+   "score": 0.18864185,
    "languages": [
     "pt-br",
     "es",
@@ -104,21 +104,36 @@
    ]
   },
   {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
    "title": {
-    "en": "Thus Spoke Rohan Kishibe"
+    "en": "Hunter x Hunter"
    },
    "contentRating": "safe",
-   "score": 0.18117183,
+   "score": 0.18597956,
    "languages": [
-    "fr",
+    "pl",
     "en",
+    "pt-br",
+    "ru",
     "es-la",
     "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
+   "id": "a8dbdba7-6904-46cb-b03b-cf869b11110b",
+   "title": {
+    "en": "The Heroic Legend of Arslan"
+   },
+   "contentRating": "safe",
+   "score": 0.18310711,
+   "languages": [
     "pt-br",
-    "id",
-    "ru",
-    "zh"
+    "pl",
+    "en"
    ]
   },
   {
@@ -152,12 +167,30 @@
    ]
   },
   {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.17999281,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
+  },
+  {
    "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
    "title": {
     "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.17996895,
+   "score": 0.17858486,
    "languages": [
     "it",
     "en",
@@ -170,10 +203,29 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.17829049,
+   "score": 0.17840745,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "e531c6ca-0b07-4878-8ae8-87357375acd9",
+   "title": {
+    "en": "LV999 no Murabito"
+   },
+   "contentRating": "safe",
+   "score": 0.1765242,
+   "languages": [
+    "pt-br",
+    "it",
+    "fr",
+    "pl",
+    "en",
+    "es",
+    "ru",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -196,78 +248,23 @@
    ]
   },
   {
-   "id": "a8dbdba7-6904-46cb-b03b-cf869b11110b",
+   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
    "title": {
-    "en": "The Heroic Legend of Arslan"
+    "en": "Thus Spoke Rohan Kishibe"
    },
    "contentRating": "safe",
-   "score": 0.1709846,
+   "score": 0.17273675,
    "languages": [
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.16920763,
-   "languages": [
-    "pl",
+    "fr",
     "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
+    "es-la",
     "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
-  },
-  {
-   "id": "8bd19e5c-94f7-4368-a918-50f463857446",
-   "title": {
-    "en": "Kuroshitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.1686656,
-   "languages": [
-    "en",
     "pt-br",
-    "hu",
-    "tr",
-    "es-la",
-    "bg",
-    "fr",
-    "it",
-    "uk"
-   ]
-  },
-  {
-   "id": "17ce37ea-1cda-4429-b062-c4b627814225",
-   "title": {
-    "en": "Owari no Seraph"
-   },
-   "contentRating": "safe",
-   "score": 0.16838689,
-   "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "ru",
-    "hu",
-    "en",
-    "tr",
     "id",
-    "it"
+    "ru",
+    "zh"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:28+00:00"
+ "updatedAt": "2023-12-10T18:21:10+00:00"
 }

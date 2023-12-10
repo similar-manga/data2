@@ -11,7 +11,7 @@
     "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
-   "score": 0.22432789,
+   "score": 0.22385551,
    "languages": [
     "ro",
     "pl",
@@ -24,7 +24,7 @@
     "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.22123396,
+   "score": 0.21986261,
    "languages": [
     "en"
    ]
@@ -38,19 +38,6 @@
    "score": 0.21880233,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0fe91d96-738a-4fec-b518-d00c20e85a89",
-   "title": {
-    "en": "Rockman-san"
-   },
-   "contentRating": "safe",
-   "score": 0.21607989,
-   "languages": [
-    "en",
-    "es",
-    "ar"
    ]
   },
   {
@@ -69,14 +56,16 @@
    ]
   },
   {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
+   "id": "0fe91d96-738a-4fec-b518-d00c20e85a89",
    "title": {
-    "en": "Godzilla vs. Destroyah Red"
+    "en": "Rockman-san"
    },
    "contentRating": "safe",
-   "score": 0.21353449,
+   "score": 0.21135269,
    "languages": [
-    "en"
+    "en",
+    "es",
+    "ar"
    ]
   },
   {
@@ -116,12 +105,23 @@
    ]
   },
   {
+   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
+   "title": {
+    "en": "Godzilla vs. Destroyah Red"
+   },
+   "contentRating": "safe",
+   "score": 0.19010602,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fe18fe91-fa82-441c-9d87-66414d59a622",
    "title": {
     "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
    },
    "contentRating": "safe",
-   "score": 0.18872638,
+   "score": 0.18837114,
    "languages": [
     "pt-br",
     "en",
@@ -144,18 +144,6 @@
    ]
   },
   {
-   "id": "7e176426-0928-4fe0-b4b9-5f4e5ca994a1",
-   "title": {
-    "en": "Mega Man X5 IF"
-   },
-   "contentRating": "safe",
-   "score": 0.18466909,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
    "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
    "title": {
     "en": "Shadowman"
@@ -169,14 +157,15 @@
    ]
   },
   {
-   "id": "c180dadf-469a-489d-8316-b7394f0a2f8b",
+   "id": "7e176426-0928-4fe0-b4b9-5f4e5ca994a1",
    "title": {
-    "en": "Kuma-san to Issho"
+    "en": "Mega Man X5 IF"
    },
    "contentRating": "safe",
-   "score": 0.18227558,
+   "score": 0.1844545,
    "languages": [
-    "en"
+    "en",
+    "es"
    ]
   },
   {
@@ -185,7 +174,7 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.18204619,
+   "score": 0.18182087,
    "languages": [
     "ru",
     "en"
@@ -201,7 +190,19 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.1813583,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:28+00:00"
+ "updatedAt": "2023-12-10T18:31:43+00:00"
 }

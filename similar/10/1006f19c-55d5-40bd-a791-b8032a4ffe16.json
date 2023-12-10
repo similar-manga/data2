@@ -6,16 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
-    "en": "Ookiku Furikabutte"
+    "en": "Skip and Loafer"
    },
    "contentRating": "safe",
-   "score": 0.28530514,
+   "score": 0.29981148,
    "languages": [
+    "pt-br",
+    "uk",
     "en",
+    "vi",
     "es-la",
-    "fr"
+    "ru"
    ]
   },
   {
@@ -24,11 +27,24 @@
     "en": "Last One"
    },
    "contentRating": "safe",
-   "score": 0.28439862,
+   "score": 0.2903067,
    "languages": [
     "pt-br",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "title": {
+    "en": "Ookiku Furikabutte"
+   },
+   "contentRating": "safe",
+   "score": 0.28715795,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -37,7 +53,7 @@
     "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.27751443,
+   "score": 0.28715053,
    "languages": [
     "en"
    ]
@@ -48,9 +64,34 @@
     "en": "Hopeless Kacchan's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.27014685,
+   "score": 0.28230292,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.28074592,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.27515292,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -59,7 +100,7 @@
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.2632269,
+   "score": 0.26642954,
    "languages": [
     "en",
     "pt-br",
@@ -79,7 +120,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.25977963,
+   "score": 0.26463515,
    "languages": [
     "pt-br",
     "es-la",
@@ -97,7 +138,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.25096038,
+   "score": 0.25266254,
    "languages": [
     "th",
     "en",
@@ -108,17 +149,40 @@
    ]
   },
   {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "id": "c8c44a2b-45a0-4d5f-bc9a-c052807f55cf",
    "title": {
-    "en": "March Comes in Like a Lion"
+    "en": "Muta no Aru Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.24949062,
+   "score": 0.2492845,
    "languages": [
-    "en",
-    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
+   "title": {
+    "en": "Kimi no Love o Misetekure!"
+   },
+   "contentRating": "safe",
+   "score": 0.2492322,
+   "languages": [
     "es-la",
-    "vi"
+    "ru",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "ade4a857-7881-4104-9e4c-b004abbcc7fc",
+   "title": {
+    "en": "Minami Nanami Wishes to Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.24913613,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -127,49 +191,7 @@
     "en": "Cooking Papa"
    },
    "contentRating": "safe",
-   "score": 0.24381168,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.24134481,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "0296dc0b-7635-4154-927a-33c2244c4503",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru.: Monologue"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "6f16cf7e-0865-4c98-8709-1fbcdb74591e",
-   "title": {
-    "en": "Kingdom of Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
+   "score": 0.24882002,
    "languages": [
     "en"
    ]
@@ -180,51 +202,25 @@
     "en": "Shinya Shokudou"
    },
    "contentRating": "safe",
-   "score": 0.23800412,
+   "score": 0.24598636,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
    "title": {
-    "en": "Tenshi-chan to Akuma-kun"
+    "en": "Iris Zero"
    },
    "contentRating": "safe",
-   "score": 0.23567893,
+   "score": 0.24092196,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
-   "title": {
-    "en": "Witch Hat Atelier"
-   },
-   "contentRating": "safe",
-   "score": 0.23517925,
-   "languages": [
-    "my",
-    "es-la",
-    "pt-br",
-    "en",
-    "ru",
+    "pl",
     "it",
-    "fa"
-   ]
-  },
-  {
-   "id": "927a1b0a-9e74-4066-b4da-bd538b4413f2",
-   "title": {
-    "en": "Untouchable Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.23238574,
-   "languages": [
-    "en",
-    "pt-br"
+    "pt-br",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:22+00:00"
+ "updatedAt": "2023-12-10T18:10:03+00:00"
 }

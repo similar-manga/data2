@@ -11,7 +11,7 @@
     "en": "DOLLMASTER: Crybaby Bota and PAL"
    },
    "contentRating": "safe",
-   "score": 0.50964934
+   "score": 0.5173963
   },
   {
    "id": "d62bea2a-1148-48d5-ac9b-70048964bc9e",
@@ -19,7 +19,7 @@
     "en": "Mobile Suit Gundam SEED Re:"
    },
    "contentRating": "safe",
-   "score": 0.37939027
+   "score": 0.38831532
   },
   {
    "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
@@ -27,7 +27,18 @@
     "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
    },
    "contentRating": "safe",
-   "score": 0.33485144,
+   "score": 0.33678782,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
+   "title": {
+    "en": "Mobile Suit Gundam SEED MSV - The Blooming of Housenka on the Battlefield"
+   },
+   "contentRating": "safe",
+   "score": 0.31690416,
    "languages": [
     "en"
    ]
@@ -38,18 +49,7 @@
     "en": "New Mobile Report Gundam Wing - Endless Waltz"
    },
    "contentRating": "safe",
-   "score": 0.31018764
-  },
-  {
-   "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
-   "title": {
-    "en": "Mobile Suit Gundam SEED MSV - The Blooming of Housenka on the Battlefield"
-   },
-   "contentRating": "safe",
-   "score": 0.3099817,
-   "languages": [
-    "en"
-   ]
+   "score": 0.31615633
   },
   {
    "id": "f7c8b9ed-56c6-43cb-9847-80d2fe34ce67",
@@ -57,7 +57,7 @@
     "en": "The Last Chase"
    },
    "contentRating": "safe",
-   "score": 0.30925265
+   "score": 0.31144205
   },
   {
    "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
@@ -65,7 +65,15 @@
     "en": "Turn A Gundam"
    },
    "contentRating": "safe",
-   "score": 0.28607276
+   "score": 0.29279506
+  },
+  {
+   "id": "bda45fba-5728-4661-86fe-83734522f301",
+   "title": {
+    "en": "Mobile Suit Victory Gundam"
+   },
+   "contentRating": "safe",
+   "score": 0.2863883
   },
   {
    "id": "eab73b06-aa7e-497f-a571-b1d7b5b74a79",
@@ -76,12 +84,12 @@
    "score": 0.2851258
   },
   {
-   "id": "bda45fba-5728-4661-86fe-83734522f301",
+   "id": "56e91ed0-99cc-43af-b154-062357d89c54",
    "title": {
-    "en": "Mobile Suit Victory Gundam"
+    "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.27997413
+   "score": 0.27430585
   },
   {
    "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
@@ -89,18 +97,10 @@
     "en": "Microman: The Small Giant + Red Powers"
    },
    "contentRating": "safe",
-   "score": 0.2738616,
+   "score": 0.27287474,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "56e91ed0-99cc-43af-b154-062357d89c54",
-   "title": {
-    "en": "Mobile Suit Gundam 0080: War in the Pocket"
-   },
-   "contentRating": "safe",
-   "score": 0.26889786
   },
   {
    "id": "edeaa692-d882-4957-bf0a-26dcbc3bb6ab",
@@ -108,7 +108,7 @@
     "en": "SD Gundam Sangokuden War God Duel"
    },
    "contentRating": "safe",
-   "score": 0.2633973
+   "score": 0.26872635
   },
   {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
@@ -116,7 +116,18 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.2629471,
+   "score": 0.2679207,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
+   "title": {
+    "en": "Mobile Suit Gundam N-Extreme"
+   },
+   "contentRating": "safe",
+   "score": 0.26595384,
    "languages": [
     "en"
    ]
@@ -127,18 +138,7 @@
     "en": "Tamaroid Super C Gundam"
    },
    "contentRating": "safe",
-   "score": 0.26196262
-  },
-  {
-   "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
-   "title": {
-    "en": "Mobile Suit Gundam N-Extreme"
-   },
-   "contentRating": "safe",
-   "score": 0.25898105,
-   "languages": [
-    "en"
-   ]
+   "score": 0.26437113
   },
   {
    "id": "2eb51dbb-ac18-451e-b186-650723f2d9f1",
@@ -146,8 +146,8 @@
     "en": "Mobile Suit Gundam F91"
    },
    "contentRating": "safe",
-   "score": 0.25393626
+   "score": 0.25863144
   }
  ],
- "updatedAt": "2023-12-10T01:02:05+00:00"
+ "updatedAt": "2023-12-10T18:14:50+00:00"
 }

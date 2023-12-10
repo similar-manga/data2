@@ -11,7 +11,7 @@
     "en": "Snow Gift"
    },
    "contentRating": "safe",
-   "score": 0.32599193,
+   "score": 0.3284056,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "Daruma no Kokoro"
    },
    "contentRating": "safe",
-   "score": 0.30405292,
+   "score": 0.30363014,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.28882074,
+   "score": 0.28796715,
    "languages": [
     "en",
     "pl",
@@ -42,16 +42,29 @@
    ]
   },
   {
-   "id": "96821763-73df-4e71-a267-8439069a25e4",
+   "id": "062e3b7a-b53f-46cb-935f-36774729d389",
    "title": {
-    "en": "Machiko wa Oborekake"
+    "en": "Sapphire Blue"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "fr",
     "pt-br",
-    "pl",
     "en"
+   ]
+  },
+  {
+   "id": "948029e8-6dfa-478b-8ba5-6e2c3c42d77c",
+   "title": {
+    "en": "Itsuka Zero ni naru"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -66,31 +79,9 @@
    ]
   },
   {
-   "id": "e101b87b-b6da-4f08-9c51-7fde7198f34d",
+   "id": "33e57c44-1980-44fc-a346-f5bfe5702322",
    "title": {
-    "ja": "Caramel Millefeuille"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "492b376c-a18d-4250-9fe6-9d57b1d22afd",
-   "title": {
-    "en": "Irotoridori no"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a7c9ba0-61c2-427f-bb8d-3a1807256ef7",
-   "title": {
-    "en": "Braids: Case of the Braid Killer"
+    "en": "Jugyouchuu Game wo Shikaketekuru Onnanoko"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -113,9 +104,22 @@
    ]
   },
   {
-   "id": "33e57c44-1980-44fc-a346-f5bfe5702322",
+   "id": "96821763-73df-4e71-a267-8439069a25e4",
    "title": {
-    "en": "Jugyouchuu Game wo Shikaketekuru Onnanoko"
+    "en": "Machiko wa Oborekake"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "5a7c9ba0-61c2-427f-bb8d-3a1807256ef7",
+   "title": {
+    "en": "Braids: Case of the Braid Killer"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -124,28 +128,24 @@
    ]
   },
   {
-   "id": "948029e8-6dfa-478b-8ba5-6e2c3c42d77c",
+   "id": "492b376c-a18d-4250-9fe6-9d57b1d22afd",
    "title": {
-    "en": "Itsuka Zero ni naru"
+    "en": "Irotoridori no"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "fr",
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "062e3b7a-b53f-46cb-935f-36774729d389",
+   "id": "e101b87b-b6da-4f08-9c51-7fde7198f34d",
    "title": {
-    "en": "Sapphire Blue"
+    "ja": "Caramel Millefeuille"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   },
@@ -155,7 +155,7 @@
     "en": "Future Photography"
    },
    "contentRating": "safe",
-   "score": 0.27950424,
+   "score": 0.28108513,
    "languages": [
     "en"
    ]
@@ -166,7 +166,7 @@
     "en": "Trouble in the Classroom"
    },
    "contentRating": "safe",
-   "score": 0.2702347,
+   "score": 0.26804125,
    "languages": [
     "en"
    ]
@@ -177,7 +177,7 @@
     "en": "Spring One Year Later"
    },
    "contentRating": "safe",
-   "score": 0.2631731,
+   "score": 0.26243192,
    "languages": [
     "en"
    ]
@@ -188,11 +188,11 @@
     "en": "Navy Blue no Hoshizora"
    },
    "contentRating": "safe",
-   "score": 0.26080653,
+   "score": 0.2597435,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:58+00:00"
+ "updatedAt": "2023-12-10T18:27:53+00:00"
 }

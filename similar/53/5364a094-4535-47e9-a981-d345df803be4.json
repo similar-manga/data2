@@ -11,7 +11,7 @@
     "en": "An Inquiry Concerning A Mechanistic Worldview of the Pituitary Gland"
    },
    "contentRating": "safe",
-   "score": 0.2273389,
+   "score": 0.22589453,
    "languages": [
     "en"
    ]
@@ -25,6 +25,17 @@
    "score": 0.22222224,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "3af112b9-2e75-4aff-8f0a-e84bca481a7d",
+   "title": {
+    "en": "Horror Banchi"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
     "en"
    ]
   },
@@ -69,36 +80,40 @@
    ]
   },
   {
+   "id": "0c178bca-9b98-4896-8ecd-2f8e15a17ad6",
+   "title": {
+    "en": "Yuuan no Kanata"
+   },
+   "contentRating": "safe",
+   "score": 0.17958267,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cda25787-5154-4a96-ba3c-4e7a4e6a9385",
    "title": {
     "en": "Kyouran Kazoku Nikki"
    },
    "contentRating": "safe",
-   "score": 0.17969652,
+   "score": 0.1794889,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "94f1f92e-1a45-4e62-af09-3f3d31f46b8e",
+   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
    "title": {
-    "en": "Rabbit Horns"
+    "en": "The Nightmare of Fabrication"
    },
    "contentRating": "safe",
-   "score": 0.16835876,
+   "score": 0.16860779,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53906ed4-8c67-46f8-8738-d41bfd44ecab",
-   "title": {
-    "en": "Umezu-sensei and I"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en"
+    "tr",
+    "it",
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -117,9 +132,9 @@
    ]
   },
   {
-   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
+   "id": "53906ed4-8c67-46f8-8738-d41bfd44ecab",
    "title": {
-    "en": "Ghost Heights Management Association"
+    "en": "Umezu-sensei and I"
    },
    "contentRating": "safe",
    "score": 0.16835876,
@@ -139,57 +154,43 @@
    ]
   },
   {
-   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
+   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
    "title": {
-    "en": "The Nightmare of Fabrication"
+    "en": "Ghost Heights Management Association"
    },
    "contentRating": "safe",
-   "score": 0.16125958,
+   "score": 0.16835876,
    "languages": [
-    "tr",
-    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "94f1f92e-1a45-4e62-af09-3f3d31f46b8e",
+   "title": {
+    "en": "Rabbit Horns"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd93c380-1882-436c-8667-22070736da5d",
+   "title": {
+    "en": "Everyone's Loose Screw"
+   },
+   "contentRating": "safe",
+   "score": 0.16395195,
+   "languages": [
     "en",
-    "pl",
     "pt-br"
    ]
   },
   {
-   "id": "0eb1c1ac-34cd-42d3-b88d-e780d54eed8b",
+   "id": "918fbd19-8973-49de-bb86-96596960375e",
    "title": {
-    "en": "Satellite Coin Laundry"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "22e1c260-6e61-4a39-ae9f-caa60ba3c02d",
-   "title": {
-    "en": "Space Family Carlvinson"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
-   "title": {
-    "en": "Bone Crusher"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3512d948-2886-4a9a-b0dc-44e02bb67c87",
-   "title": {
-    "en": "Kagaku Chop"
+    "en": "Animeta!"
    },
    "contentRating": "safe",
    "score": 0.15713485,
@@ -198,5 +199,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:02+00:00"
+ "updatedAt": "2023-12-10T18:17:20+00:00"
 }

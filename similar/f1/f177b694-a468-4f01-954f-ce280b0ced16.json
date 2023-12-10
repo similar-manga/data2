@@ -6,28 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
-   "title": {
-    "en": "Arcana 12 - Demons"
-   },
-   "contentRating": "safe",
-   "score": 0.20763506,
-   "languages": [
-    "fr",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "2459aa07-0897-47e3-b12f-8b8f229223b0",
    "title": {
     "en": "Herscherik R  - The Epic of the Reincarnated Prince"
    },
    "contentRating": "safe",
-   "score": 0.20724186,
+   "score": 0.21173441,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
+   "title": {
+    "en": "Arcana 12 - Demons"
+   },
+   "contentRating": "safe",
+   "score": 0.20100309,
+   "languages": [
+    "fr",
+    "en",
+    "it"
    ]
   },
   {
@@ -36,7 +36,7 @@
     "en": "Tensei Oujo wa Ai yori Ryouchi ga Hoshii no de Seiryaku Kekkon wo Kibou shimasu!"
    },
    "contentRating": "safe",
-   "score": 0.19468524,
+   "score": 0.19995663,
    "languages": [
     "zh-hk",
     "en"
@@ -48,7 +48,7 @@
     "en": "We Swore to Meet in the Next Life and That’s When Things Got Weird!"
    },
    "contentRating": "safe",
-   "score": 0.18535613,
+   "score": 0.18994941,
    "languages": [
     "en",
     "vi",
@@ -61,7 +61,7 @@
     "en": "Rekishi ni Nokoru Akujo ni naru zo"
    },
    "contentRating": "safe",
-   "score": 0.17925467,
+   "score": 0.1793613,
    "languages": [
     "en",
     "pt-br",
@@ -75,7 +75,18 @@
     "en": "Maou no Niwa no Shiroi Hana"
    },
    "contentRating": "safe",
-   "score": 0.1783467,
+   "score": 0.17336904,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c01314a2-31e8-4b49-8483-5d57019bd60a",
+   "title": {
+    "en": "Ouji-sama ni Dekiai Sarete Komattemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.1726029,
    "languages": [
     "en"
    ]
@@ -97,18 +108,7 @@
     "en": "Hakoniwa‌ ‌no‌ ‌Yakujutsushi‌: Kamisama ni Aisare Joshi no Isekai Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.17155622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c01314a2-31e8-4b49-8483-5d57019bd60a",
-   "title": {
-    "en": "Ouji-sama ni Dekiai Sarete Komattemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.17148559,
+   "score": 0.17178226,
    "languages": [
     "en"
    ]
@@ -119,7 +119,7 @@
     "en": "Akuyaku Reijou (Kari) no Funtou"
    },
    "contentRating": "safe",
-   "score": 0.1691972,
+   "score": 0.17156674,
    "languages": [
     "en"
    ]
@@ -130,7 +130,7 @@
     "en": "The Most Heretical Last Boss Queen Who Will Become the Source of Tragedy Will Devote Herself for the Sake of the People. ~To The Savior~"
    },
    "contentRating": "safe",
-   "score": 0.16624987,
+   "score": 0.16660592,
    "languages": [
     "fr",
     "en"
@@ -142,7 +142,7 @@
     "ja": "Gomen Asobase, Tonogata-sama! ~100-nin no Ikemen to no Flag wa Subete Orasete Itadakimasu~"
    },
    "contentRating": "safe",
-   "score": 0.16297485,
+   "score": 0.16349545,
    "languages": [
     "en",
     "id"
@@ -154,29 +154,7 @@
     "en": "Yasashii Kazoku to, Takusan no Mofumofu ni Kakomarete"
    },
    "contentRating": "safe",
-   "score": 0.16010138,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "acb29589-1369-4982-9756-60450a66b645",
-   "title": {
-    "en": "The Unintentionally Ideal Adopted Daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.15900442,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a3fb67c-a339-4ec0-aa7d-32c2794a6b7f",
-   "title": {
-    "en": "Cain"
-   },
-   "contentRating": "safe",
-   "score": 0.15829305,
+   "score": 0.16169947,
    "languages": [
     "en"
    ]
@@ -187,14 +165,36 @@
     "en": "At the Northern Fort"
    },
    "contentRating": "safe",
-   "score": 0.15692751,
+   "score": 0.15841025,
    "languages": [
     "ru",
     "en",
     "tr",
     "id"
    ]
+  },
+  {
+   "id": "acb29589-1369-4982-9756-60450a66b645",
+   "title": {
+    "en": "The Unintentionally Ideal Adopted Daughter"
+   },
+   "contentRating": "safe",
+   "score": 0.15825939,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "88337b40-bd6b-4d94-9a68-32379cf823da",
+   "title": {
+    "en": "I Led the Male Lead and Antagonist Astray"
+   },
+   "contentRating": "safe",
+   "score": 0.15682042,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:44+00:00"
+ "updatedAt": "2023-12-10T18:34:51+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Toradora!"
    },
    "contentRating": "safe",
-   "score": 0.24039292,
+   "score": 0.24083798,
    "languages": [
     "en",
     "pt-br",
@@ -27,7 +27,7 @@
     "en": "Prince of Tennis II"
    },
    "contentRating": "safe",
-   "score": 0.20520906,
+   "score": 0.20434235,
    "languages": [
     "pl",
     "es",
@@ -57,11 +57,26 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.16603392,
+   "score": 0.16464412,
    "languages": [
     "ru",
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+   "title": {
+    "en": "Major 2nd"
+   },
+   "contentRating": "safe",
+   "score": 0.15099949,
+   "languages": [
+    "es",
+    "ru",
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -81,12 +96,49 @@
    ]
   },
   {
-   "id": "da81dcf0-8204-4a82-aa2e-3ba4f44f4b6e",
+   "id": "bdb64c74-cfc5-4a78-98ee-4dfcfd3f3343",
    "title": {
-    "en": "Mega Man's Soccer"
+    "en": "Detective Conan: The Culprit Hanzawa-san"
    },
    "contentRating": "safe",
-   "score": 0.11687312,
+   "score": 0.123794444,
+   "languages": [
+    "ru",
+    "es",
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
+   "title": {
+    "en": "Tonikaku Kawaii"
+   },
+   "contentRating": "safe",
+   "score": 0.122601606,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "es-la",
+    "it",
+    "id",
+    "ru",
+    "fr",
+    "uk",
+    "de",
+    "pl",
+    "es"
+   ]
+  },
+  {
+   "id": "1fbb3f29-23d3-43a2-bdb0-41d7a4800471",
+   "title": {
+    "en": "Watari Tori to Katatsumuri"
+   },
+   "contentRating": "safe",
+   "score": 0.116900176,
    "languages": [
     "es"
    ]
@@ -97,7 +149,7 @@
     "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
    },
    "contentRating": "safe",
-   "score": 0.11620257,
+   "score": 0.11507539,
    "languages": [
     "en",
     "pt-br",
@@ -110,12 +162,23 @@
    ]
   },
   {
+   "id": "da81dcf0-8204-4a82-aa2e-3ba4f44f4b6e",
+   "title": {
+    "en": "Mega Man's Soccer"
+   },
+   "contentRating": "safe",
+   "score": 0.113058336,
+   "languages": [
+    "es"
+   ]
+  },
+  {
    "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
    "title": {
     "en": "Hajime no Ippo"
    },
    "contentRating": "safe",
-   "score": 0.11174119,
+   "score": 0.11074905,
    "languages": [
     "en",
     "ar",
@@ -132,7 +195,7 @@
     "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
    },
    "contentRating": "safe",
-   "score": 0.10956115,
+   "score": 0.10860924,
    "languages": [
     "es",
     "th",
@@ -180,18 +243,6 @@
    ]
   },
   {
-   "id": "c01baaf3-5088-4ab7-b95a-917f70e5b3bd",
-   "title": {
-    "en": "Piercing (INOUE Takehiko)"
-   },
-   "contentRating": "safe",
-   "score": 0.094909124,
-   "languages": [
-    "es",
-    "pt-br"
-   ]
-  },
-  {
    "id": "b4101937-158d-496d-95c7-03c540032ed5",
    "title": {
     "en": "All Around Type-Moon"
@@ -203,49 +254,7 @@
     "pt-br",
     "es"
    ]
-  },
-  {
-   "id": "0909e25d-c463-4ba4-b9fd-95fc7e738fcb",
-   "title": {
-    "en": "Valkyria Engine"
-   },
-   "contentRating": "safe",
-   "score": 0.0848893,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
-   "title": {
-    "en": "His Killing Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.07433764,
-   "languages": [
-    "fr",
-    "es",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "ad59c8bb-e645-41d2-bc16-65b1b94cafd6",
-   "title": {
-    "en": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life"
-   },
-   "contentRating": "safe",
-   "score": 0.07309261,
-   "languages": [
-    "es-la",
-    "en",
-    "es",
-    "fr",
-    "pt-br",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:01+00:00"
+ "updatedAt": "2023-12-10T18:19:55+00:00"
 }

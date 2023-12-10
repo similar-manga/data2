@@ -6,12 +6,58 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.2576546,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "8cb6b378-b2ef-487a-8d2a-9347ce3a41fe",
+   "title": {
+    "en": "Back to the Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Snow and Ink"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
    "title": {
     "en": "Nineteen"
    },
    "contentRating": "safe",
-   "score": 0.24286713,
+   "score": 0.24313365,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
+   "title": {
+    "en": "Souzoku Tantei"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
@@ -39,15 +85,29 @@
    ]
   },
   {
-   "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
+   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
    "title": {
-    "en": "She’s Coming Tonight"
+    "en": "I Love You, Kyouko-san."
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20786786,
    "languages": [
     "en",
-    "it"
+    "zh-hk",
+    "id",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
+   "title": {
+    "en": "The Song of the Voiceless Bird"
+   },
+   "contentRating": "safe",
+   "score": 0.2030517,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -63,139 +123,78 @@
    ]
   },
   {
-   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
+   "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
    "title": {
-    "en": "I Love You, Kyouko-san."
+    "en": "She’s Coming Tonight"
    },
    "contentRating": "safe",
-   "score": 0.20178331,
-   "languages": [
-    "en",
-    "zh-hk",
-    "id",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
-   "title": {
-    "en": "The Song of the Voiceless Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.19925244,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.19560292,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1958cb33-4cd4-4d43-afd9-0cc1c33c89ae",
-   "title": {
-    "en": "Ottori Sousa"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ecd5276-fa48-46a2-98aa-07ee00a0d927",
-   "title": {
-    "en": "A Train at the End of Summer"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b245e178-31f8-4c9a-9b75-8bd49ae671e2",
-   "title": {
-    "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.20203052,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
+   "id": "cabaab27-e76f-4737-807b-7dc948fca35a",
    "title": {
-    "en": "Red Garden"
+    "en": "Tantei wa Mou, Shindeiru"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "it",
+    "tr"
+   ]
+  },
+  {
+   "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
+   "title": {
+    "en": "Under the Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "dc22c201-a2a8-40aa-a23f-69852b0c8d0f",
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
    "title": {
-    "en": "Kowloon Generic Romance"
+    "en": "Mattaku Saikin no Tantei to Kitara"
    },
    "contentRating": "safe",
-   "score": 0.1870439,
+   "score": 0.20203052,
    "languages": [
-    "pt-br",
-    "es-la",
-    "zh-hk",
     "en",
     "ru"
    ]
   },
   {
-   "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
    "title": {
-    "en": "Arashi no Hana Murakumo no Uta"
+    "en": "Kono Ko Shirimasenka?"
    },
    "contentRating": "safe",
-   "score": 0.1870439,
+   "score": 0.19823541,
    "languages": [
+    "vi",
     "en"
    ]
   },
   {
-   "id": "3e0a8f2d-488a-452d-8166-c42a9fa21dac",
+   "id": "6e5c0ebf-86ee-4a60-83e4-fbdbe68a126e",
    "title": {
-    "en": "Kyousogiga"
+    "en": "Kyouka Ayakashi Hichou Kanzenban"
    },
    "contentRating": "safe",
-   "score": 0.1870439,
+   "score": 0.19802067,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:26+00:00"
+ "updatedAt": "2023-12-10T18:26:23+00:00"
 }

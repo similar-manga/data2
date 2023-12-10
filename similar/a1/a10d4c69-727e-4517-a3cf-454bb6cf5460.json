@@ -11,7 +11,7 @@
     "en": "Change Boy"
    },
    "contentRating": "safe",
-   "score": 0.26728413,
+   "score": 0.26671305,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Boku no Ushiro ni Majo ga Iru"
    },
    "contentRating": "safe",
-   "score": 0.2666633,
+   "score": 0.26583612,
    "languages": [
     "es",
     "en",
@@ -38,7 +38,7 @@
     "en": "Kuzumoto-san Chi no Yonkyoudai"
    },
    "contentRating": "safe",
-   "score": 0.26614133,
+   "score": 0.26450834,
    "languages": [
     "en"
    ]
@@ -49,9 +49,24 @@
     "en": "Ushiro no Shindere-san"
    },
    "contentRating": "safe",
-   "score": 0.25826076,
+   "score": 0.25674206,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "94bfc769-f5e5-4f88-838c-4f69e7a663c2",
+   "title": {
+    "en": "Kuchi ga Saketemo Kimi Ni Wa"
+   },
+   "contentRating": "safe",
+   "score": 0.25607142,
+   "languages": [
+    "es-la",
+    "en",
+    "fr",
+    "pt-br",
+    "es"
    ]
   },
   {
@@ -60,35 +75,42 @@
     "en": "Yoru wa Mijikashi Arukeyo Otome"
    },
    "contentRating": "safe",
-   "score": 0.2563289
+   "score": 0.25552058
   },
   {
-   "id": "d31dce5c-59a7-4134-b744-b07b28c211d7",
+   "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
    "title": {
-    "en": "Shugoi ne Shugorei-san"
+    "en": "That Girl Is Cute... But Dangerous?"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.2507967,
+   "languages": [
+    "vi",
+    "es-la",
+    "en",
+    "fr",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "66381aec-a89d-4b33-982b-cca9e87a1e9e",
+   "title": {
+    "en": "She Looks Especially Cute to Me"
+   },
+   "contentRating": "safe",
+   "score": 0.24828692,
    "languages": [
     "en",
-    "id"
+    "id",
+    "es-la",
+    "vi"
    ]
   },
   {
    "id": "f0379ab7-1fba-46a4-b4e1-f7781d45095d",
    "title": {
     "en": "Higajo no Mon"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f4321109-53df-4ab1-b7ac-81c5364dde64",
-   "title": {
-    "en": "Omae no Gohoushi wa Sono Teido ka?"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -109,26 +131,57 @@
    ]
   },
   {
-   "id": "8d890fa8-a4c2-4f57-ab24-a107fafdfdaf",
+   "id": "d31dce5c-59a7-4134-b744-b07b28c211d7",
    "title": {
-    "en": "Rangeman"
+    "en": "Shugoi ne Shugorei-san"
    },
    "contentRating": "safe",
-   "score": 0.2462054,
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "50165dc6-d7d8-4d66-811f-bb079641d772",
+   "title": {
+    "en": "Kiitarou Shounen no Youkai Enikki"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eb32e78d-3a38-47f1-935a-3007c17e8d43",
+   "id": "f4321109-53df-4ab1-b7ac-81c5364dde64",
    "title": {
-    "en": "Ashita no Familia"
+    "en": "Omae no Gohoushi wa Sono Teido ka?"
    },
    "contentRating": "safe",
-   "score": 0.24105926,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8d890fa8-a4c2-4f57-ab24-a107fafdfdaf",
+   "title": {
+    "en": "Rangeman"
+   },
+   "contentRating": "safe",
+   "score": 0.24553423,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0fac2ac-88d6-4998-b203-b041e31fe1ee",
+   "title": {
+    "en": "Tsuruko Returns the Favor"
+   },
+   "contentRating": "safe",
+   "score": 0.2430714
   },
   {
    "id": "cc757f42-773d-43e1-abb3-8a3bdbd14213",
@@ -136,56 +189,11 @@
     "en": "Majikaru Musou Tenshi Tsuki Irase!! Ryofuko-chan"
    },
    "contentRating": "safe",
-   "score": 0.24092251,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca6261ee-82c1-464f-b8b8-0f15c315f805",
-   "title": {
-    "en": "DCD Diamond Cut Diamond"
-   },
-   "contentRating": "safe",
-   "score": 0.2350219,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
-   "title": {
-    "en": "Hyoujou Fubu"
-   },
-   "contentRating": "safe",
-   "score": 0.23459458,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59d73e0d-9a87-4f67-b6e6-6e92f31768a5",
-   "title": {
-    "en": "Susume!! Seigaku Dennou Kenkyuubu"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "26610f8a-eefd-450b-82f9-94a52c35189b",
-   "title": {
-    "en": "CRIMSONS Gaiden - River Side Story"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24050891,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:24+00:00"
+ "updatedAt": "2023-12-10T18:26:15+00:00"
 }

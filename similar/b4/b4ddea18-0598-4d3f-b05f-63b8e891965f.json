@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
     "en": "The Tiger of Omertà"
@@ -18,17 +30,21 @@
    ]
   },
   {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
    "title": {
-    "en": "White Lover"
+    "en": "Hirayasumi"
    },
    "contentRating": "safe",
-   "score": 0.22260956,
+   "score": 0.21767281,
    "languages": [
-    "pl",
+    "ar",
+    "uk",
     "en",
-    "ru",
-    "pt-br"
+    "tr",
+    "it",
+    "pt-br",
+    "vi",
+    "ru"
    ]
   },
   {
@@ -38,6 +54,17 @@
    },
    "contentRating": "safe",
    "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
+   "title": {
+    "en": "Tokyo X Day"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -54,6 +81,30 @@
    ]
   },
   {
+   "id": "9d6bbd43-926b-4999-a281-ac4a389cbadc",
+   "title": {
+    "en": "Sirocco"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d754b8d8-cba3-4928-a602-c0fcec60495f",
+   "title": {
+    "en": "Special Compliance"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "cf5033f2-0a27-45be-95da-876971af682f",
    "title": {
     "en": "Sitting Down"
@@ -65,9 +116,23 @@
    ]
   },
   {
-   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
+   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
    "title": {
-    "en": "Tokyo X Day"
+    "en": "White Lover"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pl",
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "170fe881-65a4-444d-b8bc-654eb59dd032",
+   "title": {
+    "en": "Monbushou Chokuzoku no Satsuriku Heiki"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -91,17 +156,6 @@
    ]
   },
   {
-   "id": "9d6bbd43-926b-4999-a281-ac4a389cbadc",
-   "title": {
-    "en": "Sirocco"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "54fb8f06-bb6d-4339-a6fb-da4062c471dc",
    "title": {
     "en": "Jijii 100%"
@@ -113,47 +167,12 @@
    ]
   },
   {
-   "id": "170fe881-65a4-444d-b8bc-654eb59dd032",
-   "title": {
-    "en": "Monbushou Chokuzoku no Satsuriku Heiki"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d754b8d8-cba3-4928-a602-c0fcec60495f",
-   "title": {
-    "en": "Special Compliance"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "54597bb4-f0c8-4669-9c73-bd958ecf8bad",
-   "title": {
-    "en": "Iigakari Neesan"
-   },
-   "contentRating": "safe",
-   "score": 0.20928381,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2bad3b59-078c-4ff0-a64e-3db5a38bcc69",
    "title": {
     "en": "Happy Happy Birthday"
    },
    "contentRating": "safe",
-   "score": 0.20657007,
+   "score": 0.20662911,
    "languages": [
     "it",
     "en",
@@ -166,23 +185,9 @@
     "en": "Eiyuu Densetsu - Sora no Kiseki"
    },
    "contentRating": "safe",
-   "score": 0.20421216,
+   "score": 0.20388274,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c2856898-2989-4f05-95f3-3dc100d641ec",
-   "title": {
-    "en": "Prisoner"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "vi"
    ]
   },
   {
@@ -197,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:13+00:00"
+ "updatedAt": "2023-12-10T18:28:35+00:00"
 }

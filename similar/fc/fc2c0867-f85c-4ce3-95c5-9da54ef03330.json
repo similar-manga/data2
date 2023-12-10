@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c09971b9-0a6c-47cf-a566-41f3c6fe575f",
-   "title": {
-    "en": "Atashin'chi"
-   },
-   "contentRating": "safe",
-   "score": 0.23225129,
-   "languages": [
-    "de",
-    "en",
-    "ar"
-   ]
-  },
-  {
    "id": "12e69ced-43f6-4204-8fb1-4207022c28d6",
    "title": {
     "en": "Hizumi no Dual"
    },
    "contentRating": "safe",
-   "score": 0.23063396,
+   "score": 0.22987728,
    "languages": [
     "en"
    ]
@@ -41,12 +28,83 @@
    ]
   },
   {
+   "id": "1b6f9358-64ef-4000-bb02-5a2fb9f1b81e",
+   "title": {
+    "en": "Henjin Tantei Emu"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c09971b9-0a6c-47cf-a566-41f3c6fe575f",
+   "title": {
+    "en": "Atashin'chi"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "de",
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "7fe751f9-1568-4b60-a113-4f3a8772d869",
+   "title": {
+    "en": "Matcha Made in Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.22068769,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "80d447df-8e2c-4714-970b-2666b205731c",
+   "title": {
+    "en": "Nee Isshiki-kun, Watashi no Koto Suki deshou?"
+   },
+   "contentRating": "safe",
+   "score": 0.21494323,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "140e8eef-2f6f-42e8-a7f7-965534ab142d",
+   "title": {
+    "en": "Omae, Tanuki ni Naranee ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
     "en": "Café Velomano"
    },
    "contentRating": "safe",
-   "score": 0.21020117,
+   "score": 0.20949447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5d4c731f-0886-4d32-820c-3a59e042e82c",
+   "title": {
+    "en": "Good Morning, Rakuen-kun (Tentatively Named)"
+   },
+   "contentRating": "safe",
+   "score": 0.2086766,
    "languages": [
     "en"
    ]
@@ -57,7 +115,7 @@
     "en": "Goshujinsama ni Amai Ringo no Okashi"
    },
    "contentRating": "safe",
-   "score": 0.20749383,
+   "score": 0.20724007,
    "languages": [
     "en"
    ]
@@ -68,7 +126,7 @@
     "en": "Momokan"
    },
    "contentRating": "safe",
-   "score": 0.19908775,
+   "score": 0.19910836,
    "languages": [
     "en"
    ]
@@ -79,18 +137,7 @@
     "en": "Saiyuki RELOAD BLAST"
    },
    "contentRating": "safe",
-   "score": 0.1957374,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e0dcfbc-501c-487a-b08b-9d6150196d63",
-   "title": {
-    "en": "Clover"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
+   "score": 0.19520698,
    "languages": [
     "en"
    ]
@@ -108,93 +155,40 @@
    ]
   },
   {
-   "id": "4ad70bf0-369a-4720-8d06-7bf53f0c7d22",
+   "id": "eca409ba-505f-4f44-a756-0e1411d5d620",
    "title": {
-    "en": "The Willow Tree"
+    "ja": "Musashino Rondo"
    },
    "contentRating": "safe",
    "score": 0.19491173,
    "languages": [
-    "en",
-    "hi",
-    "ar",
-    "pt-br",
-    "tr",
-    "hu"
-   ]
-  },
-  {
-   "id": "f09f5515-dec7-434f-b38e-dc3bba107efb",
-   "title": {
-    "en": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita"
-   },
-   "contentRating": "safe",
-   "score": 0.187941,
-   "languages": [
     "en"
    ]
   },
   {
-   "id": "1745e525-7d06-4ed5-b6a5-11c350976049",
+   "id": "0a6da361-ba58-4146-b5ac-3e32794a03cd",
    "title": {
-    "en": "Tsukikage Cafe"
+    "en": "Kon'ya, Shousetsuka Sensei to Naisho de"
    },
    "contentRating": "safe",
-   "score": 0.187941,
+   "score": 0.19491173,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "7889434b-d9a5-454c-8ea1-8c7a4509fc51",
-   "title": {
-    "en": "Servamp"
-   },
-   "contentRating": "safe",
-   "score": 0.1875229,
-   "languages": [
-    "es",
-    "en",
-    "hu",
-    "ru"
-   ]
-  },
-  {
-   "id": "f5d9ebc1-2271-413b-9500-b03ae1934f0c",
-   "title": {
-    "en": "Absorb; Ability"
-   },
-   "contentRating": "safe",
-   "score": 0.1864402,
-   "languages": [
+    "es-la",
     "en"
    ]
   },
   {
-   "id": "d070b3f4-edb5-4064-bdcc-f70269e122e7",
+   "id": "dcce40f4-deb2-4be0-9888-835be0b3f3d7",
    "title": {
-    "en": "Battle Rabbits"
+    "en": "Chijou no Seppun"
    },
    "contentRating": "safe",
-   "score": 0.18605211,
+   "score": 0.19491173,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b08ade2-4eab-486d-80a3-023acb1d24a2",
-   "title": {
-    "en": "Orthoros"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "ru",
-    "hu",
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:12+00:00"
+ "updatedAt": "2023-12-10T18:35:58+00:00"
 }

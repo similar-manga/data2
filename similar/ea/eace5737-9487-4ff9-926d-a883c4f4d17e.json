@@ -11,7 +11,7 @@
     "en": "Fuminshou"
    },
    "contentRating": "safe",
-   "score": 0.2967689,
+   "score": 0.29601493,
    "languages": [
     "it",
     "en"
@@ -48,6 +48,23 @@
    ]
   },
   {
+   "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
+   "title": {
+    "en": "Snow Blind"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr",
+    "es-la",
+    "it",
+    "en",
+    "uk",
+    "vi",
+    "pl"
+   ]
+  },
+  {
    "id": "e3cdc7e8-5d92-4433-ba21-e188b7171967",
    "title": {
     "en": "Light Trap"
@@ -75,20 +92,16 @@
    ]
   },
   {
-   "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
+   "id": "0245ccce-fa98-4881-b882-96a7c8552eac",
    "title": {
-    "en": "Snow Blind"
+    "en": "Fork in the Road"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.22270359,
    "languages": [
-    "fr",
-    "es-la",
     "it",
-    "en",
-    "uk",
-    "vi",
-    "pl"
+    "pl",
+    "en"
    ]
   },
   {
@@ -97,22 +110,9 @@
     "en": "Zuutto Issho ne?"
    },
    "contentRating": "safe",
-   "score": 0.23050371,
+   "score": 0.22254075,
    "languages": [
     "it"
-   ]
-  },
-  {
-   "id": "0245ccce-fa98-4881-b882-96a7c8552eac",
-   "title": {
-    "en": "Fork in the Road"
-   },
-   "contentRating": "safe",
-   "score": 0.2244705,
-   "languages": [
-    "it",
-    "pl",
-    "en"
    ]
   },
   {
@@ -121,7 +121,7 @@
     "en": "The Watchman"
    },
    "contentRating": "safe",
-   "score": 0.21901412,
+   "score": 0.21826449,
    "languages": [
     "en",
     "it"
@@ -133,67 +133,9 @@
     "en": "Bookhead"
    },
    "contentRating": "safe",
-   "score": 0.21291205,
+   "score": 0.21229151,
    "languages": [
     "it"
-   ]
-  },
-  {
-   "id": "984b53d5-bd03-474a-aa41-ffae063e058a",
-   "title": {
-    "en": "The Enigma of Amigara Fault"
-   },
-   "contentRating": "safe",
-   "score": 0.20320125,
-   "languages": [
-    "ca",
-    "it",
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed",
-   "title": {
-    "en": "City in the Sea"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "it",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
-   "title": {
-    "en": "I Have a Happy Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "tl",
-    "fr",
-    "id",
-    "it",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "5e861e11-27bf-4594-8824-72dc2ff72a69",
-   "title": {
-    "en": "Sho Nuff I Do"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "fr",
-    "it",
-    "en"
    ]
   },
   {
@@ -223,7 +165,62 @@
     "en",
     "es-la"
    ]
+  },
+  {
+   "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
+   "title": {
+    "en": "I Have a Happy Dream"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "tl",
+    "fr",
+    "id",
+    "it",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "8ff7a0c0-9b3d-4735-a7bb-9d16dd8dc0ed",
+   "title": {
+    "en": "City in the Sea"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "it",
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "5e861e11-27bf-4594-8824-72dc2ff72a69",
+   "title": {
+    "en": "Sho Nuff I Do"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "fr",
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "6627de7b-fd40-42b1-92f7-1456ed185f2f",
+   "title": {
+    "en": "Bugs"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "it",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:28+00:00"
+ "updatedAt": "2023-12-10T18:34:11+00:00"
 }

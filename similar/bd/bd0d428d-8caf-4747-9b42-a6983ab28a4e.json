@@ -11,7 +11,7 @@
     "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.25732693,
+   "score": 0.25686216,
    "languages": [
     "en",
     "pl"
@@ -23,10 +23,21 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.24787295,
+   "score": 0.25477612,
    "languages": [
     "fr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "ab9f56a8-b3f8-4485-afea-fb83b6795a84",
+   "title": {
+    "en": "Arata no Tsukumogami"
+   },
+   "contentRating": "safe",
+   "score": 0.2490268,
+   "languages": [
     "en"
    ]
   },
@@ -45,31 +56,31 @@
    ]
   },
   {
-   "id": "ab9f56a8-b3f8-4485-afea-fb83b6795a84",
-   "title": {
-    "en": "Arata no Tsukumogami"
-   },
-   "contentRating": "safe",
-   "score": 0.24741165,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
    "title": {
     "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.24225359,
+   "score": 0.24574883,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
+   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
    "title": {
-    "en": "Chou Kasoku Ningen Leo"
+    "en": "Ultra Marriage Galaxy"
+   },
+   "contentRating": "safe",
+   "score": 0.23938651,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "title": {
+    "en": "Ryuudan Shounen"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -89,16 +100,14 @@
    ]
   },
   {
-   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
-    "en": "Karakuri"
+    "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
-    "pl",
-    "it"
+    "en"
    ]
   },
   {
@@ -113,23 +122,25 @@
    ]
   },
   {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
-    "en": "Ryuudan Shounen"
+    "en": "Karakuri"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
+    "en",
+    "pl",
+    "it"
    ]
   },
   {
-   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
+   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
    "title": {
-    "en": "Ultra Marriage Galaxy"
+    "en": "Foo Fighter Fuji"
    },
    "contentRating": "safe",
-   "score": 0.23297797,
+   "score": 0.22854425,
    "languages": [
     "en"
    ]
@@ -140,20 +151,22 @@
     "en": "31 Heroes"
    },
    "contentRating": "safe",
-   "score": 0.22383703,
+   "score": 0.22572501,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
+   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
    "title": {
-    "en": "Foo Fighter Fuji"
+    "en": "Dragon Ball Minus"
    },
    "contentRating": "safe",
-   "score": 0.22291698,
+   "score": 0.2221937,
    "languages": [
-    "en"
+    "it",
+    "en",
+    "pt"
    ]
   },
   {
@@ -162,22 +175,10 @@
     "en": "CROSS"
    },
    "contentRating": "safe",
-   "score": 0.21436185,
+   "score": 0.21507932,
    "languages": [
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "3b479acb-2a0a-4a6b-b8a7-1fdbc15bbc89",
-   "title": {
-    "en": "Nemuri Netarou Awararu!!"
-   },
-   "contentRating": "safe",
-   "score": 0.21253094,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -186,11 +187,11 @@
     "en": "Star Children (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.21177967,
+   "score": 0.21381983,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:33+00:00"
+ "updatedAt": "2023-12-10T18:29:26+00:00"
 }

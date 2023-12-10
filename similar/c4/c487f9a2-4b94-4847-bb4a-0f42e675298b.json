@@ -11,9 +11,26 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.36781746,
+   "score": 0.36742327,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.26778606,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -22,7 +39,7 @@
     "en": "Persona 5"
    },
    "contentRating": "safe",
-   "score": 0.26847196,
+   "score": 0.26410192,
    "languages": [
     "pt-br",
     "ru",
@@ -37,7 +54,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.26079842,
+   "score": 0.2569055,
    "languages": [
     "en"
    ]
@@ -48,7 +65,7 @@
     "en": "Ahiru no Sora"
    },
    "contentRating": "safe",
-   "score": 0.25064668,
+   "score": 0.24889444,
    "languages": [
     "en",
     "tl",
@@ -73,7 +90,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.22681914,
+   "score": 0.22688712,
    "languages": [
     "pl",
     "en",
@@ -125,12 +142,12 @@
    ]
   },
   {
-   "id": "f94ad59c-6bc5-46eb-9349-2b2fa10e9b97",
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
    "title": {
-    "en": "Atelier Rorona - My Treasure"
+    "en": "Dragon Quest: Tale of Heaven"
    },
    "contentRating": "safe",
-   "score": 0.2153712,
+   "score": 0.21563403,
    "languages": [
     "en"
    ]
@@ -141,7 +158,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.2151833,
+   "score": 0.21537587,
    "languages": [
     "en"
    ]
@@ -158,62 +175,56 @@
    ]
   },
   {
-   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
+   "id": "f94ad59c-6bc5-46eb-9349-2b2fa10e9b97",
    "title": {
-    "en": "The Legend of Zelda (Ran Maru)"
+    "en": "Atelier Rorona - My Treasure"
    },
    "contentRating": "safe",
-   "score": 0.2120837,
+   "score": 0.21410629,
    "languages": [
-    "ru",
     "en"
    ]
   },
   {
-   "id": "e3d88382-a2c4-4958-8311-f8bd9a3f1e21",
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
    "title": {
-    "en": "Konjiki no Word Master - Yuusha Yonin ni Makikomareta Unique Cheat"
+    "en": "Black Clover"
    },
    "contentRating": "safe",
-   "score": 0.21101303,
-   "languages": [
-    "en",
-    "fr",
-    "pl",
-    "es-la",
-    "it",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
-   "title": {
-    "en": "Monster Bar"
-   },
-   "contentRating": "safe",
-   "score": 0.20859177,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
-   "title": {
-    "en": "Fate/Grand Order -turas réalta-"
-   },
-   "contentRating": "safe",
-   "score": 0.20761593,
+   "score": 0.2133341,
    "languages": [
     "es",
-    "vi",
-    "en",
-    "ar",
     "pt-br",
-    "fr"
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
+   ]
+  },
+  {
+   "id": "263deeff-c010-4ac7-bc01-6341f3e698ac",
+   "title": {
+    "en": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire"
+   },
+   "contentRating": "safe",
+   "score": 0.21195814,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:52+00:00"
+ "updatedAt": "2023-12-10T18:30:12+00:00"
 }

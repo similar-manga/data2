@@ -11,7 +11,7 @@
     "en": "We have no female managers"
    },
    "contentRating": "safe",
-   "score": 0.21842732,
+   "score": 0.21877968,
    "languages": [
     "es-la",
     "en"
@@ -35,7 +35,7 @@
     "en": "FC Barcelona Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.20808418,
+   "score": 0.20798583,
    "languages": [
     "ca",
     "en",
@@ -48,7 +48,7 @@
     "en": "Shoujo Jump"
    },
    "contentRating": "safe",
-   "score": 0.20303208,
+   "score": 0.20258953,
    "languages": [
     "en"
    ]
@@ -67,6 +67,18 @@
    ]
   },
   {
+   "id": "6574402f-dc43-4c6d-addf-d80d5aec47df",
+   "title": {
+    "en": "Natsu no Owari"
+   },
+   "contentRating": "safe",
+   "score": 0.19422139,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "561b2ced-8dfc-4577-ab2d-21c9a834a9e8",
    "title": {
     "en": "Catenaccio (Oneshot)"
@@ -78,14 +90,13 @@
    ]
   },
   {
-   "id": "6574402f-dc43-4c6d-addf-d80d5aec47df",
+   "id": "bbb6d2c1-05ee-4588-8525-befabef12b14",
    "title": {
-    "en": "Natsu no Owari"
+    "en": "Kuromori Climb"
    },
    "contentRating": "safe",
    "score": 0.19422139,
    "languages": [
-    "it",
     "en"
    ]
   },
@@ -102,23 +113,12 @@
    ]
   },
   {
-   "id": "bbb6d2c1-05ee-4588-8525-befabef12b14",
-   "title": {
-    "en": "Kuromori Climb"
-   },
-   "contentRating": "safe",
-   "score": 0.19422139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
    "title": {
     "en": "Hyoujou Fubu"
    },
    "contentRating": "safe",
-   "score": 0.18874629,
+   "score": 0.186178,
    "languages": [
     "en"
    ]
@@ -129,7 +129,7 @@
     "en": "Karakuri"
    },
    "contentRating": "safe",
-   "score": 0.18411937,
+   "score": 0.18373117,
    "languages": [
     "en",
     "pl",
@@ -142,8 +142,31 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.18283854,
+   "score": 0.18246804,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22108eaa-ed56-4344-aa17-a9f28f29ca22",
+   "title": {
+    "en": "PikaPika"
+   },
+   "contentRating": "safe",
+   "score": 0.18106689,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f9df789-2372-4cf8-bd54-021de9d757ef",
+   "title": {
+    "en": "Kokenoshima"
+   },
+   "contentRating": "safe",
+   "score": 0.18089561,
+   "languages": [
+    "tr",
     "en"
    ]
   },
@@ -159,17 +182,6 @@
    ]
   },
   {
-   "id": "22108eaa-ed56-4344-aa17-a9f28f29ca22",
-   "title": {
-    "en": "PikaPika"
-   },
-   "contentRating": "safe",
-   "score": 0.17914434,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
    "title": {
     "en": "King Golf"
@@ -180,20 +192,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "ea875336-eaad-42c0-ad62-c0986af975ad",
-   "title": {
-    "en": "Asahinagu"
-   },
-   "contentRating": "safe",
-   "score": 0.17427799,
-   "languages": [
-    "ru",
-    "es",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:58+00:00"
+ "updatedAt": "2023-12-10T18:32:59+00:00"
 }

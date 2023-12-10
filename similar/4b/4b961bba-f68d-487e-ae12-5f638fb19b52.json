@@ -6,12 +6,53 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+   "title": {
+    "en": "Replica Datte, Koi wo suru."
+   },
+   "contentRating": "safe",
+   "score": 0.17259695,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.1706599,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "cabaab27-e76f-4737-807b-7dc948fca35a",
+   "title": {
+    "en": "Tantei wa Mou, Shindeiru"
+   },
+   "contentRating": "safe",
+   "score": 0.16664433,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "it",
+    "tr"
+   ]
+  },
+  {
    "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
    "title": {
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.1655883,
+   "score": 0.16477077,
    "languages": [
     "ru",
     "en"
@@ -34,7 +75,7 @@
     "en": "Ottori Sousa"
    },
    "contentRating": "safe",
-   "score": 0.15997013,
+   "score": 0.15911485,
    "languages": [
     "en"
    ]
@@ -45,7 +86,7 @@
     "en": "Moon Edge"
    },
    "contentRating": "safe",
-   "score": 0.15584286,
+   "score": 0.15532653,
    "languages": [
     "en"
    ]
@@ -56,11 +97,36 @@
     "en": "The Long Summer on August 31"
    },
    "contentRating": "safe",
-   "score": 0.15048435,
+   "score": 0.14879897,
    "languages": [
     "vi",
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "af7b5b97-f630-4586-8e39-a395870ccaef",
+   "title": {
+    "en": "My Dear Detective: Mitsuko’s Case Files"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "6b71c43c-dacb-46a1-b1a4-d35b1b42ea40",
+   "title": {
+    "en": "Marchioness Emilia's Butler Jack Is Deep in Debt"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -75,16 +141,16 @@
    ]
   },
   {
-   "id": "6de510fb-cb39-45e9-8548-b211cdb0b771",
+   "id": "b8249e7e-cd20-43f3-b961-f47ad1070ab0",
    "title": {
-    "en": "Dantalian no Shoka"
+    "en": "Dame Ningen no Aishikata"
    },
    "contentRating": "safe",
-   "score": 0.14488359,
+   "score": 0.14488953,
    "languages": [
-    "es",
-    "es-la",
-    "en"
+    "en",
+    "vi",
+    "pt-br"
    ]
   },
   {
@@ -103,12 +169,25 @@
    ]
   },
   {
+   "id": "6de510fb-cb39-45e9-8548-b211cdb0b771",
+   "title": {
+    "en": "Dantalian no Shoka"
+   },
+   "contentRating": "safe",
+   "score": 0.14488359,
+   "languages": [
+    "es",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "3617aaec-946c-4957-83a1-599c559669b4",
    "title": {
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.1448078,
+   "score": 0.1440838,
    "languages": [
     "en",
     "pt-br"
@@ -120,83 +199,13 @@
     "en": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou"
    },
    "contentRating": "safe",
-   "score": 0.140605,
+   "score": 0.14031701,
    "languages": [
     "id",
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "509f4ad8-85b7-4f73-96e9-f2fdbf9d2b8d",
-   "title": {
-    "en": "20-byou Date"
-   },
-   "contentRating": "safe",
-   "score": 0.14036213,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "9a83c4fb-467a-4636-b367-7100d170c10e",
-   "title": {
-    "en": "Assembler OX"
-   },
-   "contentRating": "safe",
-   "score": 0.13870935,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6258fbe3-6732-49eb-84d2-daab7bdd1416",
-   "title": {
-    "en": "Double Marriage"
-   },
-   "contentRating": "safe",
-   "score": 0.1374595,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
-   "title": {
-    "en": "Sekai de Ichiban, Ore ga ◯◯"
-   },
-   "contentRating": "safe",
-   "score": 0.13533022,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5dfe9757-34c9-4c34-9f0e-b3a5d382317c",
-   "title": {
-    "en": "Meitantei no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.13501965,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e5e63aa-ba2b-4d3f-b075-6d1c47bf1bb2",
-   "title": {
-    "en": "The Piano Tuner"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:42+00:00"
+ "updatedAt": "2023-12-10T18:16:29+00:00"
 }

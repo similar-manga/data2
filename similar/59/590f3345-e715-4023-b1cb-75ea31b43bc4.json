@@ -11,7 +11,7 @@
     "en": "Kuzumoto-san Chi no Yonkyoudai"
    },
    "contentRating": "safe",
-   "score": 0.2732142,
+   "score": 0.27012664,
    "languages": [
     "en"
    ]
@@ -22,10 +22,25 @@
     "en": "DCD Diamond Cut Diamond"
    },
    "contentRating": "safe",
-   "score": 0.26841262,
+   "score": 0.2674588,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "568e2624-cf7b-4c94-a6a3-803838a1836e",
+   "title": {
+    "en": "Inkya de Wotaku de Binbou Dakedo Bijin Ojou-sama ni Osaretemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.2614369,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "vi",
+    "id"
    ]
   },
   {
@@ -34,7 +49,7 @@
     "en": "Hameln no Violin Hiki - Shchelkunchik"
    },
    "contentRating": "safe",
-   "score": 0.25947195,
+   "score": 0.2575332,
    "languages": [
     "en",
     "ru"
@@ -46,7 +61,7 @@
     "en": "Gwisin Byeolgok"
    },
    "contentRating": "safe",
-   "score": 0.25430283,
+   "score": 0.25352672,
    "languages": [
     "en"
    ]
@@ -57,7 +72,7 @@
     "en": "Ana no Mujina"
    },
    "contentRating": "safe",
-   "score": 0.24032287,
+   "score": 0.23919462,
    "languages": [
     "en",
     "it",
@@ -71,7 +86,7 @@
     "en": "Parabellum"
    },
    "contentRating": "safe",
-   "score": 0.23847838,
+   "score": 0.2375,
    "languages": [
     "en"
    ]
@@ -88,24 +103,41 @@
    ]
   },
   {
+   "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
+   "title": {
+    "en": "Battle in 5 Seconds After Meeting"
+   },
+   "contentRating": "safe",
+   "score": 0.22494905,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "ru",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
    "id": "9fea5778-9884-4d27-90b4-ea982d6097e1",
    "title": {
     "en": "Shiki Tsukai"
    },
    "contentRating": "safe",
-   "score": 0.22438142,
+   "score": 0.22386962,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
+   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Brothers"
+    "en": "Tiger \u0026 Bunny"
    },
    "contentRating": "safe",
-   "score": 0.22202812,
+   "score": 0.22124001,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -132,14 +164,24 @@
    ]
   },
   {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
+   "id": "ab371a0b-7f3b-49be-bb21-fede23f405e8",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Brothers"
    },
    "contentRating": "safe",
-   "score": 0.21837585,
+   "score": 0.21927391,
    "languages": [
-    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
+   "title": {
+    "en": "Rewrite: SIDE-TERRA"
+   },
+   "contentRating": "safe",
+   "score": 0.21679887,
+   "languages": [
     "en"
    ]
   },
@@ -154,47 +196,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
-   "title": {
-    "en": "World Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.20971982,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "de",
-    "tr"
-   ]
-  },
-  {
-   "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
-   "title": {
-    "en": "Gazer"
-   },
-   "contentRating": "safe",
-   "score": 0.20848264,
-   "languages": [
-    "pt-br",
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "5362dd4e-e178-4bdc-b56a-5eb9b6cda90c",
-   "title": {
-    "en": "G-School"
-   },
-   "contentRating": "safe",
-   "score": 0.20325714,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:17+00:00"
+ "updatedAt": "2023-12-10T18:17:58+00:00"
 }

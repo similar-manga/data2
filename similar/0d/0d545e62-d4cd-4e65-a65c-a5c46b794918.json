@@ -11,7 +11,7 @@
     "en": "Thus Spoke Rohan Kishibe"
    },
    "contentRating": "safe",
-   "score": 0.26468268,
+   "score": 0.25937575,
    "languages": [
     "fr",
     "en",
@@ -29,7 +29,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.25208354,
+   "score": 0.25173557,
    "languages": [
     "en",
     "pt-br",
@@ -47,7 +47,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.23724139,
+   "score": 0.23666774,
    "languages": [
     "ru",
     "tr",
@@ -65,7 +65,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.23560452,
+   "score": 0.23528996,
    "languages": [
     "en"
    ]
@@ -87,25 +87,10 @@
     "en": "Sand Land Full Color"
    },
    "contentRating": "safe",
-   "score": 0.21492769,
+   "score": 0.21383652,
    "languages": [
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
-   "title": {
-    "en": "Persona 5"
-   },
-   "contentRating": "safe",
-   "score": 0.20495415,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "id",
-    "es"
    ]
   },
   {
@@ -128,12 +113,47 @@
    ]
   },
   {
+   "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
+   "title": {
+    "en": "Persona 5"
+   },
+   "contentRating": "safe",
+   "score": 0.20453113,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "es"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.20285378,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
    "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
    "title": {
     "en": "Jujutsu Kaisen"
    },
    "contentRating": "safe",
-   "score": 0.20295087,
+   "score": 0.20197862,
    "languages": [
     "it",
     "hu",
@@ -167,6 +187,22 @@
    "score": 0.200739,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d64b0768-bebe-433c-b923-99870503c0a3",
+   "title": {
+    "en": "Dark Gathering"
+   },
+   "contentRating": "safe",
+   "score": 0.19993559,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "es",
+    "es-la",
+    "zh-hk"
    ]
   },
   {
@@ -227,35 +263,11 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.19233826,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da7e2b0b-72a9-419c-b667-6a02c2c7c771",
-   "title": {
-    "en": "Isekai Kuimetsu no Same"
-   },
-   "contentRating": "safe",
-   "score": 0.19061261,
-   "languages": [
-    "en",
-    "fr",
-    "vi"
-   ]
-  },
-  {
-   "id": "7032ad8e-79d7-4270-b32a-3675495b318e",
-   "title": {
-    "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
-   },
-   "contentRating": "safe",
-   "score": 0.18981534,
+   "score": 0.19218141,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:16+00:00"
+ "updatedAt": "2023-12-10T18:09:47+00:00"
 }

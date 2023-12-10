@@ -11,7 +11,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.3174275,
+   "score": 0.3177341,
    "languages": [
     "pl",
     "en",
@@ -33,7 +33,7 @@
     "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.27734357,
+   "score": 0.2777221,
    "languages": [
     "es",
     "en"
@@ -45,7 +45,7 @@
     "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.2531847,
+   "score": 0.2488438,
    "languages": [
     "ru",
     "pt-br",
@@ -72,12 +72,37 @@
    ]
   },
   {
+   "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
+   "title": {
+    "en": "Meteo Emblem"
+   },
+   "contentRating": "safe",
+   "score": 0.24126488,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1a04156-400d-4032-b885-007c29a8a3c0",
+   "title": {
+    "en": "Return From the World of Immortals"
+   },
+   "contentRating": "safe",
+   "score": 0.23983966,
+   "languages": [
+    "ru",
+    "id",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
    "title": {
     "en": "FREAKS"
    },
    "contentRating": "safe",
-   "score": 0.23945831,
+   "score": 0.23948003,
    "languages": [
     "en",
     "ru",
@@ -93,7 +118,7 @@
     "en": "Sol Trigger"
    },
    "contentRating": "safe",
-   "score": 0.23689419,
+   "score": 0.23700908,
    "languages": [
     "en"
    ]
@@ -104,7 +129,7 @@
     "en": "Shingeki no Kyojin (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.23530497,
+   "score": 0.23493855,
    "languages": [
     "fr",
     "en",
@@ -117,10 +142,45 @@
     "en": "Colossus Order"
    },
    "contentRating": "safe",
-   "score": 0.23397653,
+   "score": 0.23302817,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "4ece5274-501e-45f0-ab4d-243f60692960",
+   "title": {
+    "en": "Skeleton Double"
+   },
+   "contentRating": "safe",
+   "score": 0.23180644,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "ru",
+    "th"
+   ]
+  },
+  {
+   "id": "192aa767-2479-42c1-9780-8d65a2efd36a",
+   "title": {
+    "en": "Gachiakuta"
+   },
+   "contentRating": "safe",
+   "score": 0.23053168,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "ru",
+    "vi",
+    "id",
+    "es-la",
+    "fa",
+    "es",
+    "hi"
    ]
   },
   {
@@ -141,7 +201,7 @@
     "en": "Ana no Mujina"
    },
    "contentRating": "safe",
-   "score": 0.22603743,
+   "score": 0.22555454,
    "languages": [
     "en",
     "it",
@@ -155,68 +215,26 @@
     "en": "The Revolution of Gene X"
    },
    "contentRating": "safe",
-   "score": 0.22359431,
+   "score": 0.22270101,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
+   "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
    "title": {
-    "en": "Monster and Child"
+    "en": "Dragon and Chameleon"
    },
    "contentRating": "safe",
-   "score": 0.22149695,
+   "score": 0.22131334,
    "languages": [
+    "vi",
     "en",
-    "de"
-   ]
-  },
-  {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
-   "title": {
-    "en": "Kishin Douji Zenki"
-   },
-   "contentRating": "safe",
-   "score": 0.22007401,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49e785f7-4213-4266-8b86-146bb55674be",
-   "title": {
-    "en": "Bloodline - Fantasy Day"
-   },
-   "contentRating": "safe",
-   "score": 0.2187679,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8477d4e3-fab7-422b-b6fe-c699ec5f5789",
-   "title": {
-    "en": "Arata Kangatari"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.21288107,
-   "languages": [
-    "en"
+    "ru",
+    "pt-br",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:23+00:00"
+ "updatedAt": "2023-12-10T18:10:04+00:00"
 }

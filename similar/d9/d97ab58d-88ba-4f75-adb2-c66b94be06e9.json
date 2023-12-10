@@ -6,15 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c7693794-9d96-43b5-9284-9b02e4baafb0",
+   "title": {
+    "en": "Demon's Ear"
+   },
+   "contentRating": "safe",
+   "score": 0.310214,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f2b941b2-74f6-43ad-ad70-669e4c71b4b3",
    "title": {
     "en": "The Right-Eyed World"
    },
    "contentRating": "safe",
-   "score": 0.24411502,
+   "score": 0.24635418,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "50d2b46b-4d37-46bc-99aa-da223d874391",
+   "title": {
+    "en": "Small"
+   },
+   "contentRating": "safe",
+   "score": 0.24074446,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -23,11 +45,26 @@
     "en": "The Mask of Truth"
    },
    "contentRating": "safe",
-   "score": 0.2394472,
+   "score": 0.23913242,
    "languages": [
     "pt-br",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "cea99594-b963-4431-bc93-7a4adeba9c54",
+   "title": {
+    "en": "Disease"
+   },
+   "contentRating": "safe",
+   "score": 0.23118271,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "fa",
+    "id"
    ]
   },
   {
@@ -36,7 +73,7 @@
     "en": "Take Me Out Season 2"
    },
    "contentRating": "safe",
-   "score": 0.2308879,
+   "score": 0.22955853,
    "languages": [
     "en"
    ]
@@ -53,12 +90,25 @@
    ]
   },
   {
+   "id": "97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
+   "title": {
+    "en": "Gangnam Dokkaebi"
+   },
+   "contentRating": "safe",
+   "score": 0.22566204,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "05fecbc0-e8f2-4faa-9e56-21d55352fe31",
    "title": {
     "en": "Dark Hole: Another Survivor"
    },
    "contentRating": "safe",
-   "score": 0.22575594,
+   "score": 0.22509743,
    "languages": [
     "en"
    ]
@@ -69,7 +119,7 @@
     "en": "The Reborn"
    },
    "contentRating": "safe",
-   "score": 0.22218905,
+   "score": 0.22412397,
    "languages": [
     "pt-br",
     "en",
@@ -77,13 +127,50 @@
    ]
   },
   {
-   "id": "338fd64d-37c5-410a-929a-938cda8234e2",
+   "id": "3055b213-aaee-469c-a233-b97a8eff9494",
    "title": {
-    "en": "The End Of A Relationship"
+    "en": "No Longer a Heroine!"
    },
    "contentRating": "safe",
-   "score": 0.2169736,
+   "score": 0.22243555,
    "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
+   "title": {
+    "en": "Nightmare Game"
+   },
+   "contentRating": "safe",
+   "score": 0.21914625,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "d21c9c1d-21ec-4a15-bc82-73d97458a1d3",
+   "title": {
+    "en": "Killing Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.21836403,
+   "languages": [
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
+   "title": {
+    "en": "Memory Lost"
+   },
+   "contentRating": "safe",
+   "score": 0.21735384,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -99,96 +186,16 @@
    ]
   },
   {
-   "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
+   "id": "338fd64d-37c5-410a-929a-938cda8234e2",
    "title": {
-    "en": "Ex vs. Stalker"
+    "en": "The End Of A Relationship"
    },
    "contentRating": "safe",
-   "score": 0.21618828,
+   "score": 0.2162693,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e6ae7e70-fbdf-4ee5-a1b8-75267e7f17fe",
-   "title": {
-    "en": "Division 8's Record of Secrets"
-   },
-   "contentRating": "safe",
-   "score": 0.21610032,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2da06be0-e6a9-4523-8e7a-b72b83785150",
-   "title": {
-    "en": "Trapped"
-   },
-   "contentRating": "safe",
-   "score": 0.21272376,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f79104d6-a3b5-46a4-914e-85a988949298",
-   "title": {
-    "en": "Sister War"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6886171f-d424-4249-be09-62cc12ed0d1f",
-   "title": {
-    "en": "Delusional Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.21073341,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "238fa850-3c09-4ee4-bcfa-ab67dc91cf38",
-   "title": {
-    "en": "Master of the Fox Bead"
-   },
-   "contentRating": "safe",
-   "score": 0.21026264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b333576-66a1-4c4e-9c55-5297c6cfb349",
-   "title": {
-    "en": "Deadman"
-   },
-   "contentRating": "safe",
-   "score": 0.20840137,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1402a692-737a-418a-ad92-e48a65084f93",
-   "title": {
-    "en": "GremoryLand"
-   },
-   "contentRating": "safe",
-   "score": 0.20604357,
-   "languages": [
-    "ru",
-    "it",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:44+00:00"
+ "updatedAt": "2023-12-10T18:32:24+00:00"
 }

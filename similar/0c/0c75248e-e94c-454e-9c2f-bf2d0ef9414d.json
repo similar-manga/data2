@@ -11,7 +11,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.27553937,
+   "score": 0.27705508,
    "languages": [
     "pt-br",
     "es",
@@ -30,7 +30,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.24089932,
+   "score": 0.24031276,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.21102889,
+   "score": 0.21223414,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.21013692,
+   "score": 0.20912166,
    "languages": [
     "en"
    ]
@@ -63,7 +63,7 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.2076265,
+   "score": 0.20726192,
    "languages": [
     "en"
    ]
@@ -74,7 +74,7 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.19951844,
+   "score": 0.1990921,
    "languages": [
     "en"
    ]
@@ -97,7 +97,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.19594613,
+   "score": 0.19606008,
    "languages": [
     "en"
    ]
@@ -108,7 +108,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.19519249,
+   "score": 0.19475009,
    "languages": [
     "en",
     "pt-br",
@@ -126,7 +126,7 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.19468123,
+   "score": 0.19371781,
    "languages": [
     "en"
    ]
@@ -137,7 +137,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.19311279,
+   "score": 0.1935709,
    "languages": [
     "en",
     "pt-br",
@@ -148,23 +148,12 @@
    ]
   },
   {
-   "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Define"
-   },
-   "contentRating": "safe",
-   "score": 0.19161074,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
    "title": {
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.19147147,
+   "score": 0.19119024,
    "languages": [
     "pt-br",
     "it",
@@ -183,12 +172,42 @@
    ]
   },
   {
+   "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam Define"
+   },
+   "contentRating": "safe",
+   "score": 0.19107617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "17ce37ea-1cda-4429-b062-c4b627814225",
+   "title": {
+    "en": "Owari no Seraph"
+   },
+   "contentRating": "safe",
+   "score": 0.19087183,
+   "languages": [
+    "pt-br",
+    "fr",
+    "es-la",
+    "ru",
+    "hu",
+    "en",
+    "tr",
+    "id",
+    "it"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.19088013,
+   "score": 0.19045107,
    "languages": [
     "id",
     "en",
@@ -209,25 +228,6 @@
    ]
   },
   {
-   "id": "17ce37ea-1cda-4429-b062-c4b627814225",
-   "title": {
-    "en": "Owari no Seraph"
-   },
-   "contentRating": "safe",
-   "score": 0.19047603,
-   "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "ru",
-    "hu",
-    "en",
-    "tr",
-    "id",
-    "it"
-   ]
-  },
-  {
    "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
    "title": {
     "en": "NOA"
@@ -243,5 +243,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:14+00:00"
+ "updatedAt": "2023-12-10T18:09:41+00:00"
 }

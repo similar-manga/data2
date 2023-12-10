@@ -11,7 +11,7 @@
     "en": "Stand by Me: Kakuemon"
    },
    "contentRating": "suggestive",
-   "score": 0.35179844
+   "score": 0.3572402
   },
   {
    "id": "ee6264df-0a88-46a8-bb64-5bc64446813c",
@@ -19,7 +19,7 @@
     "en": "La La La"
    },
    "contentRating": "suggestive",
-   "score": 0.34827623,
+   "score": 0.35017505,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Tamori ha Taru's questionnaire"
    },
    "contentRating": "suggestive",
-   "score": 0.3360027
+   "score": 0.33252037
   },
   {
    "id": "2f310ec7-b797-4b2b-a059-1f542958f308",
@@ -38,7 +38,7 @@
     "en": "Reader"
    },
    "contentRating": "suggestive",
-   "score": 0.3341296,
+   "score": 0.33205745,
    "languages": [
     "en"
    ]
@@ -49,25 +49,11 @@
     "en": "A Cliche Story with a Childhood Friend Onee-san."
    },
    "contentRating": "suggestive",
-   "score": 0.32731968,
+   "score": 0.3259817,
    "languages": [
     "fr",
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "c81b78ce-b6d8-4100-8a4b-cccc253e7eb1",
-   "title": {
-    "en": "Nana Shimazaki@Looking for Work"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3253724,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru",
-    "id"
    ]
   },
   {
@@ -76,7 +62,21 @@
     "en": "To the Sky of Monaco 2 ALAS ~ Shining Wings ~"
    },
    "contentRating": "suggestive",
-   "score": 0.32485902
+   "score": 0.3255224
+  },
+  {
+   "id": "c81b78ce-b6d8-4100-8a4b-cccc253e7eb1",
+   "title": {
+    "en": "Nana Shimazaki@Looking for Work"
+   },
+   "contentRating": "suggestive",
+   "score": 0.32420596,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru",
+    "id"
+   ]
   },
   {
    "id": "dec0cba3-2a29-409c-bb2b-fc30e7fcc4be",
@@ -84,7 +84,7 @@
     "en": "Pierrot Man"
    },
    "contentRating": "suggestive",
-   "score": 0.3202758
+   "score": 0.31897616
   },
   {
    "id": "166ef546-179c-4ec0-87fe-1f378d5d5d90",
@@ -92,7 +92,7 @@
     "en": "Kasuchi Kei - Shin Tamura Golden Deluxe"
    },
    "contentRating": "suggestive",
-   "score": 0.31840205
+   "score": 0.3171452
   },
   {
    "id": "356de811-ae92-48f1-b93b-cfdf0f8d02e4",
@@ -100,7 +100,7 @@
     "en": "Now That We Draw"
    },
    "contentRating": "suggestive",
-   "score": 0.31719717,
+   "score": 0.3162991,
    "languages": [
     "pt-br",
     "id",
@@ -115,19 +115,7 @@
     "en": "Asahi Ojo-sama and Kashima-kun"
    },
    "contentRating": "suggestive",
-   "score": 0.31665954
-  },
-  {
-   "id": "fedb11d4-66c7-4c5f-a941-a611735c034b",
-   "title": {
-    "en": "Super Cartesian Theater"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3156529,
-   "languages": [
-    "en",
-    "es-la"
-   ]
+   "score": 0.3158049
   },
   {
    "id": "6558d34f-f0b2-40ec-9705-88042d4aa2eb",
@@ -135,15 +123,7 @@
     "en": "Daughter of the Tiger"
    },
    "contentRating": "suggestive",
-   "score": 0.3135635
-  },
-  {
-   "id": "7780d5f2-de1d-495a-8a33-e4d47859bbe5",
-   "title": {
-    "en": "Aidore! Green Rhapsody"
-   },
-   "contentRating": "suggestive",
-   "score": 0.31232646
+   "score": 0.31426612
   },
   {
    "id": "34ef2d69-2a7e-4d11-815e-986043556f55",
@@ -151,10 +131,30 @@
     "en": "Mugen no Skill Getter!"
    },
    "contentRating": "suggestive",
-   "score": 0.31178388,
+   "score": 0.31378776,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "fedb11d4-66c7-4c5f-a941-a611735c034b",
+   "title": {
+    "en": "Super Cartesian Theater"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3131653,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "7780d5f2-de1d-495a-8a33-e4d47859bbe5",
+   "title": {
+    "en": "Aidore! Green Rhapsody"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3116201
   },
   {
    "id": "a2225df7-0cbf-46a6-9b96-56adba090e6b",
@@ -162,7 +162,7 @@
     "en": "Robot"
    },
    "contentRating": "suggestive",
-   "score": 0.3115536,
+   "score": 0.31072223,
    "languages": [
     "en",
     "bg",
@@ -170,5 +170,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:11+00:00"
+ "updatedAt": "2023-12-10T18:28:30+00:00"
 }

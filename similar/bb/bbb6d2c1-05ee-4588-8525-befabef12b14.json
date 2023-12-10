@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2719aaba-4e1c-4904-a2b2-8b3cc2280648",
+   "title": {
+    "en": "FC Barcelona Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "ca",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "1b849639-8f17-4bed-b149-f7cec7f9538e",
    "title": {
     "en": "Golf no Kyuutarou"
@@ -31,25 +44,12 @@
    ]
   },
   {
-   "id": "2719aaba-4e1c-4904-a2b2-8b3cc2280648",
-   "title": {
-    "en": "FC Barcelona Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "ca",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
    "title": {
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.25430608,
+   "score": 0.25674596,
    "languages": [
     "en",
     "id",
@@ -62,25 +62,48 @@
    ]
   },
   {
-   "id": "f64d5362-3418-4604-a27f-a380c2fdb5d3",
+   "id": "c584b3d8-f3d8-4edf-9a6c-0690494f1e41",
    "title": {
-    "en": "Ushiro no Pleiades"
+    "en": "Eleven"
    },
    "contentRating": "safe",
-   "score": 0.24016453,
+   "score": 0.2469296,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fc4616eb-b4e4-49ab-a3cb-e05a0563b375",
+   "id": "f64d5362-3418-4604-a27f-a380c2fdb5d3",
    "title": {
-    "en": "Bull Sight"
+    "en": "Ushiro no Pleiades"
    },
    "contentRating": "safe",
-   "score": 0.23148328,
+   "score": 0.23944382,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f02c96f1-801c-4436-b7e2-d4e5f8227bf0",
+   "title": {
+    "en": "Start!! Inazuma Eleven 3!"
+   },
+   "contentRating": "safe",
+   "score": 0.23496597,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "856b0c41-b7b5-4804-b01e-5faa7966410e",
+   "title": {
+    "en": "Mr.CB"
+   },
+   "contentRating": "safe",
+   "score": 0.23298945,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -112,12 +135,23 @@
    ]
   },
   {
+   "id": "fc4616eb-b4e4-49ab-a3cb-e05a0563b375",
+   "title": {
+    "en": "Bull Sight"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
    "title": {
     "en": "Hyoujou Fubu"
    },
    "contentRating": "safe",
-   "score": 0.23130089,
+   "score": 0.23109871,
    "languages": [
     "en"
    ]
@@ -134,82 +168,41 @@
    ]
   },
   {
-   "id": "6936894a-d42c-4e7f-a363-c54ac91ac435",
+   "id": "10930fe6-9cb0-4629-a0fb-cf9c231a67c3",
    "title": {
-    "en": "Toriko (2002) (Pre-serialization)"
+    "en": "B-Trash!!"
    },
    "contentRating": "safe",
-   "score": 0.2120287,
+   "score": 0.22552921,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca97a619-be08-4688-93aa-fe32cb5aef1e",
-   "title": {
-    "en": "Balance Days"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
-   "title": {
-    "en": "Captain Tsubasa (Weekly Shonen Jump 40th Anniversary)"
-   },
-   "contentRating": "safe",
-   "score": 0.19973308,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "357edf8c-a728-462f-817c-33ee12e785c3",
-   "title": {
-    "en": "Anne-chan Tarou"
-   },
-   "contentRating": "safe",
-   "score": 0.18729264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d13b7333-b115-4285-979d-663714f8b83d",
-   "title": {
-    "en": "Nisekyuu!!"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "e8799d88-d2ac-4b7d-93cd-48afb025d147",
-   "title": {
-    "en": "Henshin Ganbo"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
     "fr",
-    "pl",
-    "es",
-    "hu",
-    "kk",
-    "it"
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "606c6a60-6415-4746-a5f7-e0b3220a9564",
+   "title": {
+    "en": "Tomato Squash"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9d8ec487-faef-4a92-8765-2ce1841de60c",
+   "title": {
+    "en": "Beyblade Burst"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:30+00:00"
+ "updatedAt": "2023-12-10T18:29:19+00:00"
 }

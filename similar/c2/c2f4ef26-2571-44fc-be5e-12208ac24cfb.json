@@ -6,12 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "title": {
+    "en": "My Cat Is a Bit Different"
+   },
+   "contentRating": "safe",
+   "score": 0.37055105,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9dbf5d66-5922-41b7-a24b-7ee21eb1a7f3",
+   "title": {
+    "en": "Love My Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.36078137,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
+   "title": {
+    "en": "Travel To The Cats' Territory"
+   },
+   "contentRating": "safe",
+   "score": 0.36055943,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
    "title": {
     "en": "Neko Hiroimashita"
    },
    "contentRating": "safe",
-   "score": 0.36589307,
+   "score": 0.3588391,
    "languages": [
     "en"
    ]
@@ -22,18 +56,40 @@
     "en": "The Cat Lives"
    },
    "contentRating": "safe",
-   "score": 0.36452124
+   "score": 0.35825652
   },
   {
-   "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
+   "id": "8131dd4d-a43d-4619-9266-1bf4504ebae2",
    "title": {
-    "en": "Travel To The Cats' Territory"
+    "en": "Meow Meow"
    },
    "contentRating": "safe",
-   "score": 0.3639845,
+   "score": 0.35729852,
    "languages": [
-    "en",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "4c19a8ea-c19c-408d-a94e-bc3e70c5e5cf",
+   "title": {
+    "en": "The Cat's Gratitude"
+   },
+   "contentRating": "safe",
+   "score": 0.3567656,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "0c13667c-74de-4ab9-8f97-f5c3d87b8f6c",
+   "title": {
+    "en": "Saphie: The One-Eyed Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.35210174,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -42,7 +98,7 @@
     "en": "Nekomahime"
    },
    "contentRating": "safe",
-   "score": 0.33953315,
+   "score": 0.32844228,
    "languages": [
     "en",
     "tr",
@@ -56,23 +112,21 @@
     "en": "Attemo Nakutemo Neko no Shippo"
    },
    "contentRating": "safe",
-   "score": 0.33119577,
+   "score": 0.32152733,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
+   "id": "5a7520ae-fad6-487c-ad87-350ba0d23604",
    "title": {
-    "en": "Nyan Koi!"
+    "en": "Nyanderful"
    },
    "contentRating": "safe",
-   "score": 0.31875232,
+   "score": 0.3116903,
    "languages": [
-    "pl",
-    "en",
-    "fr"
+    "en"
    ]
   },
   {
@@ -81,7 +135,7 @@
     "en": "Cat Gravity"
    },
    "contentRating": "safe",
-   "score": 0.3176081,
+   "score": 0.30831927,
    "languages": [
     "en",
     "vi",
@@ -93,14 +147,16 @@
    ]
   },
   {
-   "id": "5a7520ae-fad6-487c-ad87-350ba0d23604",
+   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
    "title": {
-    "en": "Nyanderful"
+    "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.31520006,
+   "score": 0.3065147,
    "languages": [
-    "en"
+    "pl",
+    "en",
+    "fr"
    ]
   },
   {
@@ -109,18 +165,10 @@
     "en": "Miss Korai and the Cat God"
    },
    "contentRating": "safe",
-   "score": 0.3139647,
+   "score": 0.30247745,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "dbac87fb-da12-4d29-ae0c-f88aed08f305",
-   "title": {
-    "en": "Kremlin"
-   },
-   "contentRating": "safe",
-   "score": 0.30934298
   },
   {
    "id": "8febc255-5147-4d52-80b0-997544bae506",
@@ -128,7 +176,7 @@
     "en": "CHAIN"
    },
    "contentRating": "safe",
-   "score": 0.30548906,
+   "score": 0.30217123,
    "languages": [
     "en"
    ]
@@ -139,63 +187,13 @@
     "en": "Tonari no Ninja"
    },
    "contentRating": "safe",
-   "score": 0.30531263,
+   "score": 0.30158395,
    "languages": [
     "fr",
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "59b5c599-2bf6-4337-9dd0-2110abda8425",
-   "title": {
-    "en": "Tsuttsukumon!"
-   },
-   "contentRating": "safe",
-   "score": 0.3045936,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0c38550d-e7a0-479c-9acb-78a1d7d507b3",
-   "title": {
-    "en": "A Cat-Like Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.29974204,
-   "languages": [
-    "pt-br",
-    "en",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "0424a8a4-500d-4ba1-b7cf-214ae7792136",
-   "title": {
-    "en": "with CAT"
-   },
-   "contentRating": "safe",
-   "score": 0.29750285,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "4fb83ee0-e9c5-483b-882b-099389f648ba",
-   "title": {
-    "en": "The Cat Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.29057637,
-   "languages": [
-    "es-la",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:47+00:00"
+ "updatedAt": "2023-12-10T18:30:02+00:00"
 }

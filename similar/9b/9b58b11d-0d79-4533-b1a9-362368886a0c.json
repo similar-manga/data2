@@ -11,7 +11,7 @@
     "en": "Classmate no Josou o Tetsudattara Kawai Sugite Furue ga Tomaranai Ken"
    },
    "contentRating": "suggestive",
-   "score": 0.25599685,
+   "score": 0.254845,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Mikudashi Ibari wa Mikudashitai!"
    },
    "contentRating": "suggestive",
-   "score": 0.2443909,
+   "score": 0.24268919,
    "languages": [
     "en",
     "es-la"
@@ -45,7 +45,7 @@
     "en": "Zenbu Kimi no Sei"
    },
    "contentRating": "suggestive",
-   "score": 0.23719974,
+   "score": 0.23614724,
    "languages": [
     "en",
     "fr"
@@ -57,7 +57,7 @@
     "en": "Grand Blue"
    },
    "contentRating": "suggestive",
-   "score": 0.23581974,
+   "score": 0.23495787,
    "languages": [
     "pt-br",
     "en",
@@ -68,17 +68,6 @@
     "es",
     "id",
     "fr"
-   ]
-  },
-  {
-   "id": "86798356-a6c6-47af-bdec-d10177c7250a",
-   "title": {
-    "en": "Joushi no Atsu ga Tsuyo Sugite Koi ga Dekinai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23107427,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -104,25 +93,13 @@
    ]
   },
   {
-   "id": "243795f3-555f-4aeb-b44d-45c27f620fa8",
+   "id": "86798356-a6c6-47af-bdec-d10177c7250a",
    "title": {
-    "en": "You're Full of Surprises, Yamada-san!!"
+    "en": "Joushi no Atsu ga Tsuyo Sugite Koi ga Dekinai"
    },
    "contentRating": "suggestive",
-   "score": 0.22451776,
+   "score": 0.22840418,
    "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e67caa3f-a4c4-4555-8c0e-84c67e76148b",
-   "title": {
-    "en": "It's Not What It Looks Like"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22437567,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -132,9 +109,32 @@
     "en": "Yukemuri Otokonoko"
    },
    "contentRating": "suggestive",
-   "score": 0.22343566,
+   "score": 0.2240756,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e67caa3f-a4c4-4555-8c0e-84c67e76148b",
+   "title": {
+    "en": "It's Not What It Looks Like"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22247598,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "243795f3-555f-4aeb-b44d-45c27f620fa8",
+   "title": {
+    "en": "You're Full of Surprises, Yamada-san!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22204061,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -143,50 +143,10 @@
     "en": "Shoujo Nyuumon"
    },
    "contentRating": "suggestive",
-   "score": 0.22337645,
+   "score": 0.21989505,
    "languages": [
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
-   "title": {
-    "en": "Hijiri-kun wa Kiyoku Ikitai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22049744,
-   "languages": [
-    "es-la",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
-   "title": {
-    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.219571,
-   "languages": [
-    "id",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
-   "title": {
-    "en": "How About R15?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.219571,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "vi"
    ]
   },
   {
@@ -222,7 +182,47 @@
     "ru",
     "es"
    ]
+  },
+  {
+   "id": "7b3eacca-6f5a-48ce-8c8f-0ecaa78368b5",
+   "title": {
+    "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.219571,
+   "languages": [
+    "id",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
+   "title": {
+    "en": "How About R15?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.219571,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru",
+    "vi"
+   ]
+  },
+  {
+   "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
+   "title": {
+    "en": "Hijiri-kun wa Kiyoku Ikitai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2185263,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:11+00:00"
+ "updatedAt": "2023-12-10T18:25:36+00:00"
 }

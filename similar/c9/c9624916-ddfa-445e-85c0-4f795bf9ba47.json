@@ -11,7 +11,7 @@
     "en": "Ladies versus Butlers!"
    },
    "contentRating": "suggestive",
-   "score": 0.30253762,
+   "score": 0.3036924,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Union!"
    },
    "contentRating": "suggestive",
-   "score": 0.29546028,
+   "score": 0.2942226,
    "languages": [
     "en",
     "it"
@@ -57,7 +57,7 @@
     "en": "Love Yume Mix"
    },
    "contentRating": "suggestive",
-   "score": 0.27992424,
+   "score": 0.28035668,
    "languages": [
     "en"
    ]
@@ -68,26 +68,13 @@
     "en": "Boku wa Ayashii Kimi no Mono"
    },
    "contentRating": "suggestive",
-   "score": 0.2681392,
+   "score": 0.26713133,
    "languages": [
     "es-la",
     "en",
     "pt-br",
     "id",
     "ru"
-   ]
-  },
-  {
-   "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
-   "title": {
-    "en": "Hijiri-kun wa Kiyoku Ikitai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25509605,
-   "languages": [
-    "es-la",
-    "id",
-    "en"
    ]
   },
   {
@@ -121,6 +108,19 @@
    ]
   },
   {
+   "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
+   "title": {
+    "en": "Hijiri-kun wa Kiyoku Ikitai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25509605,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "aad496ed-7aa9-47bc-9ea3-35e5bfd6982e",
    "title": {
     "en": "Ghost Writer"
@@ -137,7 +137,7 @@
     "en": "Boku no Suki na Hito ga Suki na Hito"
    },
    "contentRating": "suggestive",
-   "score": 0.24568193,
+   "score": 0.24585624,
    "languages": [
     "es-la",
     "pt-br",
@@ -159,17 +159,6 @@
     "es-la",
     "ru",
     "vi"
-   ]
-  },
-  {
-   "id": "fc78e153-e70a-4179-9f35-ff159643b6ac",
-   "title": {
-    "en": "Senren * Banka"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23290876,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -195,12 +184,23 @@
    ]
   },
   {
+   "id": "fc78e153-e70a-4179-9f35-ff159643b6ac",
+   "title": {
+    "en": "Senren * Banka"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23240335,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "efb4278c-a761-406b-9d69-19603c5e4c8b",
    "title": {
     "en": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
    },
    "contentRating": "suggestive",
-   "score": 0.22811517,
+   "score": 0.22806312,
    "languages": [
     "pt-br",
     "tr",
@@ -212,5 +212,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:03+00:00"
+ "updatedAt": "2023-12-10T18:30:42+00:00"
 }

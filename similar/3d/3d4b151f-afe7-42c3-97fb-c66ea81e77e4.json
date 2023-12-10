@@ -11,7 +11,7 @@
     "en": "Let's Return to the Forest"
    },
    "contentRating": "safe",
-   "score": 0.35676107,
+   "score": 0.34795058,
    "languages": [
     "tr",
     "en",
@@ -24,7 +24,7 @@
     "en": "The Tale of That Forest"
    },
    "contentRating": "safe",
-   "score": 0.30877864,
+   "score": 0.30029497,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "Nightmare Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.2645168,
+   "score": 0.26532775,
    "languages": [
     "it",
     "en"
@@ -67,6 +67,17 @@
    ]
   },
   {
+   "id": "ff293731-8540-4aa6-bbf2-9108c55f8d93",
+   "title": {
+    "en": "The Story of a Person Who Grew a Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a635b25f-1987-4f83-a957-e217a0529567",
    "title": {
     "en": "Angel's Smile For Those Who Wish to Die"
@@ -79,23 +90,12 @@
    ]
   },
   {
-   "id": "ff293731-8540-4aa6-bbf2-9108c55f8d93",
-   "title": {
-    "en": "The Story of a Person Who Grew a Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a40c3a8d-689f-4329-8557-11e754806430",
    "title": {
     "en": "Scarlet Flower"
    },
    "contentRating": "safe",
-   "score": 0.24528706,
+   "score": 0.2451527,
    "languages": [
     "en",
     "fr"
@@ -107,7 +107,7 @@
     "en": "Ibitsu Renaikan"
    },
    "contentRating": "safe",
-   "score": 0.24317993,
+   "score": 0.24335864,
    "languages": [
     "fr",
     "en",
@@ -120,18 +120,7 @@
     "en": "Kurseong South - The Forest of Black Tea"
    },
    "contentRating": "safe",
-   "score": 0.24227324,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "caaf78e0-98be-4630-abfa-745f9b557d51",
-   "title": {
-    "en": "B-Curse"
-   },
-   "contentRating": "safe",
-   "score": 0.23635586,
+   "score": 0.23569757,
    "languages": [
     "en"
    ]
@@ -142,7 +131,7 @@
     "en": "Girl's End"
    },
    "contentRating": "safe",
-   "score": 0.23311894,
+   "score": 0.23402306,
    "languages": [
     "en"
    ]
@@ -160,25 +149,25 @@
    ]
   },
   {
+   "id": "caaf78e0-98be-4630-abfa-745f9b557d51",
+   "title": {
+    "en": "B-Curse"
+   },
+   "contentRating": "safe",
+   "score": 0.23098595,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
    "title": {
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.2308379,
+   "score": 0.22930905,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
-   "title": {
-    "en": "Forest Breeding Farm"
-   },
-   "contentRating": "safe",
-   "score": 0.22990021,
-   "languages": [
     "en"
    ]
   },
@@ -188,13 +177,25 @@
     "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
-   "score": 0.2282813,
+   "score": 0.22827752,
    "languages": [
     "ro",
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "fc699793-4d3b-47a0-8306-ede8cce6aba5",
+   "title": {
+    "en": "Suck Me Vampire"
+   },
+   "contentRating": "safe",
+   "score": 0.22763345,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:06+00:00"
+ "updatedAt": "2023-12-10T18:14:52+00:00"
 }

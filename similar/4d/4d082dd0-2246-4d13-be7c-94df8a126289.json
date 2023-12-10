@@ -11,7 +11,7 @@
     "en": "S.I.D. - Supernatural Investigation Department"
    },
    "contentRating": "safe",
-   "score": 0.27680936,
+   "score": 0.27599275,
    "languages": [
     "en",
     "pt-br"
@@ -23,11 +23,23 @@
     "en": "Wonted"
    },
    "contentRating": "safe",
-   "score": 0.27127802,
+   "score": 0.26760405,
    "languages": [
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
+   "title": {
+    "en": "Mu Wu's Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.26352695,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -59,22 +71,47 @@
     "en": "DCD Diamond Cut Diamond"
    },
    "contentRating": "safe",
-   "score": 0.25741068,
+   "score": 0.256957,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
+   "id": "0499fc91-fc19-434b-8e66-7dc2fd93a2d7",
    "title": {
-    "en": "Hatenkou Yuugi"
+    "en": "Epic of Gilgamesh"
    },
    "contentRating": "safe",
-   "score": 0.25121957,
+   "score": 0.25484166,
    "languages": [
     "en",
-    "pl"
+    "it",
+    "fr",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "2c1f49cb-232e-4fb2-9c09-78bd9cdc15ba",
+   "title": {
+    "en": "Perfect World"
+   },
+   "contentRating": "safe",
+   "score": 0.25355318,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c1b5d570-4783-43a7-86e3-8bfcd35532c3",
+   "title": {
+    "en": "Age of the Awakened"
+   },
+   "contentRating": "safe",
+   "score": 0.25216198,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -83,7 +120,7 @@
     "en": "Arashi no Hana Murakumo no Uta"
    },
    "contentRating": "safe",
-   "score": 0.2502171,
+   "score": 0.24969667,
    "languages": [
     "en"
    ]
@@ -94,7 +131,7 @@
     "en": "Kubera"
    },
    "contentRating": "safe",
-   "score": 0.2492295,
+   "score": 0.24921022,
    "languages": [
     "pl",
     "en",
@@ -112,7 +149,7 @@
     "en": "Fantasy World Survival"
    },
    "contentRating": "safe",
-   "score": 0.24875948,
+   "score": 0.24832004,
    "languages": [
     "en"
    ]
@@ -123,24 +160,12 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.24759497,
+   "score": 0.24620257,
    "languages": [
     "pl",
     "en",
     "es",
     "pt-br"
-   ]
-  },
-  {
-   "id": "438f90f2-ddd0-4dc0-8be0-2c7e385ac69a",
-   "title": {
-    "en": "Traces of Memory"
-   },
-   "contentRating": "safe",
-   "score": 0.24640384,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -155,51 +180,32 @@
    ]
   },
   {
-   "id": "c92c0ff2-f076-4258-a4f5-002a84574890",
+   "id": "6854b343-ccf9-45af-a64c-caf5a0898b8c",
    "title": {
-    "en": "The Legend of Genghis"
+    "en": "Dragon Claw"
    },
    "contentRating": "safe",
-   "score": 0.24260107,
+   "score": 0.24415293,
    "languages": [
-    "pl",
-    "fr",
-    "en"
+    "en",
+    "pt-br",
+    "es-la",
+    "it",
+    "fr"
    ]
   },
   {
-   "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
+   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
    "title": {
-    "en": "Star Ocean - The Second Story"
+    "en": "Hatenkou Yuugi"
    },
    "contentRating": "safe",
-   "score": 0.24246643,
+   "score": 0.24365796,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "096db829-206b-49e0-8aef-020f4177b998",
-   "title": {
-    "en": "LOST"
-   },
-   "contentRating": "safe",
-   "score": 0.242161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
-   "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
-   },
-   "contentRating": "safe",
-   "score": 0.24019095,
-   "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:46+00:00"
+ "updatedAt": "2023-12-10T18:16:38+00:00"
 }

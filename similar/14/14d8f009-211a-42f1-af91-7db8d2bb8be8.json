@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "565f9056-f7aa-419a-9f73-db0a8f057339",
-   "title": {
-    "en": "Kavukizumu"
-   },
-   "contentRating": "safe",
-   "score": 0.24174416,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
    "title": {
     "en": "Warabe no Kusa"
    },
    "contentRating": "safe",
-   "score": 0.2403184,
+   "score": 0.24002823,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "565f9056-f7aa-419a-9f73-db0a8f057339",
+   "title": {
+    "en": "Kavukizumu"
+   },
+   "contentRating": "safe",
+   "score": 0.23964494,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -52,31 +52,92 @@
    ]
   },
   {
+   "id": "5b78b883-2de4-4b79-be67-2d37041413a8",
+   "title": {
+    "en": "Soukai Kessen"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f4b813d-1d59-435a-9c0d-d759023e1c87",
+   "title": {
+    "en": "Mutsu Enmei Ryuu Gaiden - Shura no Toki"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e26cef28-dae7-4f4c-a5fc-14097dd38856",
+   "title": {
+    "en": "Howling"
+   },
+   "contentRating": "safe",
+   "score": 0.23104025,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4674a871-c6e7-4e7e-a304-38586c03bcb1",
+   "title": {
+    "en": "Jiangshi X"
+   },
+   "contentRating": "safe",
+   "score": 0.22892027,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "ms",
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "4ac57875-68fc-4666-927c-9a2e7f34cf1f",
    "title": {
     "en": "Peace Maker Kurogane"
    },
    "contentRating": "safe",
-   "score": 0.21780108,
+   "score": 0.2169364,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f3ef175b-fc55-4811-81bf-a0ba581e1fc5",
+   "title": {
+    "en": "The Warrior Demigods, Champions of Sparta"
+   },
+   "contentRating": "safe",
+   "score": 0.21177429,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "76e472fe-f815-4176-aad1-8297925511bb",
+   "title": {
+    "en": "Magatsuhi"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "pl",
+    "en",
+    "bg"
    ]
   },
   {
    "id": "4e850d21-f74a-4c6b-a07e-ffbc1d51dba9",
    "title": {
     "en": "Rurouni Kenshin - Tokuhitsuban"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
-   "title": {
-    "en": "Sengoku Basara 3 -Roar of Dragon-"
    },
    "contentRating": "safe",
    "score": 0.20158304,
@@ -96,16 +157,25 @@
    ]
   },
   {
-   "id": "76e472fe-f815-4176-aad1-8297925511bb",
+   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
    "title": {
-    "en": "Magatsuhi"
+    "en": "Sengoku Basara 3 -Roar of Dragon-"
    },
    "contentRating": "safe",
    "score": 0.20158304,
    "languages": [
-    "pl",
-    "en",
-    "bg"
+    "en"
+   ]
+  },
+  {
+   "id": "f5fe1552-61e5-488f-b5f8-9929e44be6c8",
+   "title": {
+    "en": "Teriyaki Western"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -118,75 +188,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "8640fe03-5f28-416c-9ed1-a98a3f793626",
-   "title": {
-    "en": "Kill No More"
-   },
-   "contentRating": "safe",
-   "score": 0.19520022,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.19224146,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "389dfa1a-d6fb-46d4-96fb-bc4bd6d7559a",
-   "title": {
-    "en": "Oguna - Opera Susanoh Sword of the Devil"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "be84db84-0eec-4748-b539-ee6c3897a254",
-   "title": {
-    "en": "Chaosic Rune ES"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ada4b443-7a2a-4974-862e-c66f1127413b",
-   "title": {
-    "en": "Rurouni Kenshin: Haru ni Sakura"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "it",
-    "pt",
-    "en"
-   ]
-  },
-  {
-   "id": "18fd28b5-5187-47aa-8bb7-9da42eeaf8bd",
-   "title": {
-    "en": "Uso to Makoto"
-   },
-   "contentRating": "safe",
-   "score": 0.18030135,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:34+00:00"
+ "updatedAt": "2023-12-10T18:10:34+00:00"
 }

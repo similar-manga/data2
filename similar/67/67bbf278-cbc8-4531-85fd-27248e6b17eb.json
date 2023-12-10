@@ -11,7 +11,7 @@
     "en": "Fragment"
    },
    "contentRating": "safe",
-   "score": 0.310066,
+   "score": 0.30931962,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.25743923,
+   "score": 0.25772578,
    "languages": [
     "en",
     "pt-br",
@@ -31,17 +31,17 @@
    ]
   },
   {
-   "id": "da3f3549-3a9c-4313-aecd-916e4beec796",
+   "id": "33d89e31-1e52-478d-bf8a-c442a0fe94c2",
    "title": {
-    "en": "The Martian Raid"
+    "en": "Heishi to Burikiya"
    },
    "contentRating": "safe",
    "score": 0.24743582
   },
   {
-   "id": "33d89e31-1e52-478d-bf8a-c442a0fe94c2",
+   "id": "da3f3549-3a9c-4313-aecd-916e4beec796",
    "title": {
-    "en": "Heishi to Burikiya"
+    "en": "The Martian Raid"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -63,7 +63,7 @@
     "en": "Ah! A Star is Born"
    },
    "contentRating": "safe",
-   "score": 0.23760977
+   "score": 0.23691584
   },
   {
    "id": "e2f4142b-7609-4c92-a588-150edd214305",
@@ -71,15 +71,7 @@
     "en": "Hachi-chan of Mars"
    },
    "contentRating": "safe",
-   "score": 0.22203425
-  },
-  {
-   "id": "8b9e5cda-c961-498c-b70c-3a3885be5283",
-   "title": {
-    "en": "Friendship Mountains"
-   },
-   "contentRating": "safe",
-   "score": 0.21563742
+   "score": 0.22251372
   },
   {
    "id": "a8969b45-c121-4ecc-9e03-7fe7790fda93",
@@ -87,23 +79,19 @@
     "en": "Darius = Sagaia"
    },
    "contentRating": "safe",
-   "score": 0.2150705
+   "score": 0.21813685
   },
   {
-   "id": "3d95cdef-ee4b-465d-a263-142efde13397",
+   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
    "title": {
-    "en": "Phoenix 2772"
+    "en": "How to Colonize Space"
    },
    "contentRating": "safe",
-   "score": 0.21428573
-  },
-  {
-   "id": "5c9d0105-3671-44fc-95eb-83add7368bfa",
-   "title": {
-    "en": "Tekkaman"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   },
   {
    "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
@@ -134,16 +122,12 @@
    ]
   },
   {
-   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
+   "id": "3d95cdef-ee4b-465d-a263-142efde13397",
    "title": {
-    "en": "How to Colonize Space"
+    "en": "Phoenix 2772"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
+   "score": 0.21428573
   },
   {
    "id": "556be871-c9b4-4bcf-82bb-b1074e9f2cbb",
@@ -151,7 +135,7 @@
     "en": "Siren Senki"
    },
    "contentRating": "safe",
-   "score": 0.21306683
+   "score": 0.21284841
   },
   {
    "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
@@ -159,11 +143,31 @@
     "en": "Ultra Marriage Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.2101934,
+   "score": 0.21277124,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b9e5cda-c961-498c-b70c-3a3885be5283",
+   "title": {
+    "en": "Friendship Mountains"
+   },
+   "contentRating": "safe",
+   "score": 0.2118128
+  },
+  {
+   "id": "9f503bc8-6c7a-491d-be26-af40fdfb0026",
+   "title": {
+    "en": "Thunder 3"
+   },
+   "contentRating": "safe",
+   "score": 0.20735714,
+   "languages": [
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:52+00:00"
+ "updatedAt": "2023-12-10T18:19:31+00:00"
 }

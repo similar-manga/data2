@@ -6,6 +6,17 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "3d2ee4f2-a511-4c40-ae2a-5787552d1fa3",
+   "title": {
+    "en": "Sokoni Osuwari!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.29298407,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5328b7f4-0698-4cec-94a4-a558ec5dedb7",
    "title": {
     "en": "Cos-Chu"
@@ -17,13 +28,15 @@
    ]
   },
   {
-   "id": "3d2ee4f2-a511-4c40-ae2a-5787552d1fa3",
+   "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
    "title": {
-    "en": "Sokoni Osuwari!"
+    "en": "Hijiri-kun wa Kiyoku Ikitai"
    },
    "contentRating": "suggestive",
-   "score": 0.28520605,
+   "score": 0.27745423,
    "languages": [
+    "es-la",
+    "id",
     "en"
    ]
   },
@@ -33,7 +46,7 @@
     "en": "Boku wa Ayashii Kimi no Mono"
    },
    "contentRating": "suggestive",
-   "score": 0.26785207,
+   "score": 0.26807266,
    "languages": [
     "es-la",
     "en",
@@ -43,25 +56,12 @@
    ]
   },
   {
-   "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
-   "title": {
-    "en": "Hijiri-kun wa Kiyoku Ikitai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2675518,
-   "languages": [
-    "es-la",
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "9584c446-4c65-4028-aaa1-b02f1ab91afa",
    "title": {
     "en": "Love Yume Mix"
    },
    "contentRating": "suggestive",
-   "score": 0.26590016,
+   "score": 0.26697233,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Union!"
    },
    "contentRating": "suggestive",
-   "score": 0.26522815,
+   "score": 0.26568136,
    "languages": [
     "en",
     "it"
@@ -84,7 +84,7 @@
     "en": "Ghost Writer"
    },
    "contentRating": "suggestive",
-   "score": 0.26115504,
+   "score": 0.26102614,
    "languages": [
     "en"
    ]
@@ -125,7 +125,7 @@
     "en": "Boku no Suki na Hito ga Suki na Hito"
    },
    "contentRating": "suggestive",
-   "score": 0.24850656,
+   "score": 0.2491245,
    "languages": [
     "es-la",
     "pt-br",
@@ -136,12 +136,23 @@
    ]
   },
   {
+   "id": "ca4cd385-404d-49bc-b99b-4c9ed17620b8",
+   "title": {
+    "en": "Akuma no Ikenie"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2448664,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fffbfac3-b7ad-41ee-9581-b4d90ecec941",
    "title": {
     "en": "Grand Blue"
    },
    "contentRating": "suggestive",
-   "score": 0.24241173,
+   "score": 0.24388675,
    "languages": [
     "pt-br",
     "en",
@@ -155,14 +166,30 @@
    ]
   },
   {
-   "id": "ca4cd385-404d-49bc-b99b-4c9ed17620b8",
+   "id": "210db11b-a050-4dcb-aa5e-1cd49bf0c339",
    "title": {
-    "en": "Akuma no Ikenie"
+    "en": "Tadaima Shinryakuchuu!"
    },
    "contentRating": "suggestive",
-   "score": 0.24113853,
+   "score": 0.24046347,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9b78663c-850f-434b-8b33-d88d43cc3151",
+   "title": {
+    "en": "Arakure Ojousama wa Monmon Shiteiru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23953661,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "de",
+    "vi"
    ]
   },
   {
@@ -180,44 +207,16 @@
    ]
   },
   {
-   "id": "210db11b-a050-4dcb-aa5e-1cd49bf0c339",
+   "id": "72e0cfc5-1163-448f-bd56-9313dd313447",
    "title": {
-    "en": "Tadaima Shinryakuchuu!"
+    "en": "Kujibiki Unbalance"
    },
    "contentRating": "suggestive",
-   "score": 0.23286977,
+   "score": 0.23226757,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9b78663c-850f-434b-8b33-d88d43cc3151",
-   "title": {
-    "en": "Arakure Ojousama wa Monmon Shiteiru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23284833,
-   "languages": [
-    "pt-br",
-    "ru",
-    "id",
-    "en",
-    "de",
-    "vi"
-   ]
-  },
-  {
-   "id": "334fecc8-8bff-4256-834a-9429059c0f72",
-   "title": {
-    "en": "Mikudashi Ibari wa Mikudashitai!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22395764,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:13+00:00"
+ "updatedAt": "2023-12-10T18:36:01+00:00"
 }

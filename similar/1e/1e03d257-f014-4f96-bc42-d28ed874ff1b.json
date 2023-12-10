@@ -6,15 +6,43 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "70ba8db6-8a91-4f87-9e6f-63e8eeff13ce",
+   "title": {
+    "en": "Furuki Okite no Mahou Kishi"
+   },
+   "contentRating": "safe",
+   "score": 0.34898987,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "5e856938-7ca8-40b5-8186-fc344258a612",
    "title": {
     "en": "A Villainess? No, a Heinous Young Lady"
    },
    "contentRating": "safe",
-   "score": 0.27051127,
+   "score": 0.26671147,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "5137687f-a925-4b18-a474-b143f9e3ec01",
+   "title": {
+    "en": "Magan to Dangan o Tsukatte Isekai o Buchinuku!"
+   },
+   "contentRating": "safe",
+   "score": 0.26019108,
+   "languages": [
+    "vi",
+    "en",
+    "fr",
+    "pt-br",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -23,21 +51,24 @@
     "en": "The Inferior Grade Strongest Sage ~From the Lowest Villager to the World's Strongest With Ease~"
    },
    "contentRating": "safe",
-   "score": 0.25717387,
+   "score": 0.256652,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8ca097bf-8680-4295-902d-69ebc36841b1",
+   "id": "2b5c2f34-6de4-4a81-8671-bca8c9409f79",
    "title": {
-    "en": "Madougushi Dahliya wa Utsumukanai ~Dahliya Wilts No More~"
+    "en": "Yuukyuu no Gusha Asley no, Kenja no Susume"
    },
    "contentRating": "safe",
-   "score": 0.25235853,
+   "score": 0.25252983,
    "languages": [
     "en",
-    "ru"
+    "ru",
+    "pt-br",
+    "fr",
+    "id"
    ]
   },
   {
@@ -46,11 +77,23 @@
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.2505893,
+   "score": 0.2508554,
    "languages": [
     "en",
     "id",
     "pt-br"
+   ]
+  },
+  {
+   "id": "8ca097bf-8680-4295-902d-69ebc36841b1",
+   "title": {
+    "en": "Madougushi Dahliya wa Utsumukanai ~Dahliya Wilts No More~"
+   },
+   "contentRating": "safe",
+   "score": 0.24891445,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -59,7 +102,7 @@
     "en": "Kizoku Tensei ~Megumareta Umare kara Saikyou no Chikara wo Eru~"
    },
    "contentRating": "safe",
-   "score": 0.24483089,
+   "score": 0.2461474,
    "languages": [
     "en",
     "fr",
@@ -73,9 +116,36 @@
     "en": "Mizu Zokusei no Mahoutsukai"
    },
    "contentRating": "safe",
-   "score": 0.24216565,
+   "score": 0.24212176,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "54202943-b55d-45a1-830f-44c9a8a691f0",
+   "title": {
+    "jp": "Sasaki to pii-chan, Isekai de Slow Life wo tanishimou to shitara, gendai de inou battle ni makikomareta ken ~ Mahou shoujo ga Up wo hajimeta you desu ~"
+   },
+   "contentRating": "safe",
+   "score": 0.23428215,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "7e64a45c-c6b2-4983-9694-7d13509a5751",
+   "title": {
+    "en": "Henkyou no Roukishi - Bard Loen"
+   },
+   "contentRating": "safe",
+   "score": 0.22583015,
+   "languages": [
+    "es",
+    "ru",
+    "en",
+    "fr",
+    "tr"
    ]
   },
   {
@@ -84,7 +154,7 @@
     "en": "Tensei Shitara Kozakana datta kedo Ryuu ni Nareru Rashii node Ganbarimasu"
    },
    "contentRating": "safe",
-   "score": 0.22390354,
+   "score": 0.22418453,
    "languages": [
     "en"
    ]
@@ -95,24 +165,9 @@
     "en": "Isekai De Uwamae Hanete Ikiteiku ~Saisei Mahotsukai No Yuru Fuwa Jinzai Haken Seikatsu~"
    },
    "contentRating": "safe",
-   "score": 0.2235233,
+   "score": 0.2218291,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f1522b1b-4b5a-4c09-bb39-8b092f4b7edd",
-   "title": {
-    "en": "Shoukan sareta Kenja wa Isekai wo Yuku"
-   },
-   "contentRating": "safe",
-   "score": 0.22062637,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "es-la",
-    "id"
    ]
   },
   {
@@ -121,7 +176,7 @@
     "en": "Kumo Desu ga, Nani ka?"
    },
    "contentRating": "safe",
-   "score": 0.21879572,
+   "score": 0.22071907,
    "languages": [
     "pt-br",
     "en",
@@ -136,89 +191,33 @@
    ]
   },
   {
-   "id": "3b999f4a-0b7f-4aef-a849-cd86e31c4b57",
+   "id": "f1522b1b-4b5a-4c09-bb39-8b092f4b7edd",
    "title": {
-    "en": "Kyuuseishu ≪MESHIA≫~Isekai wo Sukutta Moto Yuusha ga Mamono no Afureru Genjitsu Sekai wo Musou Suru~"
+    "en": "Shoukan sareta Kenja wa Isekai wo Yuku"
    },
    "contentRating": "safe",
-   "score": 0.21774091,
+   "score": 0.21937542,
    "languages": [
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "7a47c571-7567-471d-bc65-ff942e3186f8",
-   "title": {
-    "en": "Sekai ni Hitori, Zenzokusei Mahou no Tsukaite"
-   },
-   "contentRating": "safe",
-   "score": 0.2158467,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "0f237a5f-07ad-4e43-bbd9-2a320694434d",
-   "title": {
-    "en": "The Rising of the Shield Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.21098681,
-   "languages": [
-    "pl",
-    "es-la",
-    "hu",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "uk",
-    "ar",
-    "it",
-    "id"
-   ]
-  },
-  {
-   "id": "5f64d517-c4ea-40c0-a463-fcc069d39d3b",
-   "title": {
-    "en": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou"
-   },
-   "contentRating": "safe",
-   "score": 0.2073402,
-   "languages": [
-    "id",
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "1aad07fb-3ec1-4acf-8c5b-d8f5f5929a5d",
-   "title": {
-    "en": "Koudo ni Hattatsu Shita Igaku wa Mahou to Kubetsu ga Tsukanai"
-   },
-   "contentRating": "safe",
-   "score": 0.20541638,
-   "languages": [
-    "id",
+    "pt-br",
     "en",
     "es-la",
-    "pt-br"
+    "id"
    ]
   },
   {
-   "id": "6e9e4d13-1138-4631-9483-860787a9bbad",
+   "id": "b3a9c1f8-93d2-49ba-96e2-84727c1031a6",
    "title": {
-    "en": "Tanaka ke, Tensei Suru."
+    "en": "Isekai ni Otosareta… Jouka wa Kihon!"
    },
    "contentRating": "safe",
-   "score": 0.20187981,
+   "score": 0.21811941,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:55+00:00"
+ "updatedAt": "2023-12-10T18:11:32+00:00"
 }

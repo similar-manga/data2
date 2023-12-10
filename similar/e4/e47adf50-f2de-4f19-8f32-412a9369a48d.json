@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "80497ef8-3967-452d-ab6a-2c5ec2d4ebcb",
+   "title": {
+    "en": "Alkaloid no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0110603c-92ec-463e-8d13-7651211e492e",
    "title": {
     "en": "Kirikagohime to Mahoutsukai"
@@ -20,14 +31,36 @@
    ]
   },
   {
+   "id": "8a66908a-40aa-4e57-adcb-885c54d90029",
+   "title": {
+    "en": "Nanatsuiro Drops"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3cdc35ec-4146-415b-925f-20b8082d4c01",
    "title": {
     "en": "Alice to Zouroku"
    },
    "contentRating": "safe",
-   "score": 0.23053025,
+   "score": 0.23017307,
    "languages": [
     "es-la"
+   ]
+  },
+  {
+   "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
+   "title": {
+    "en": "Ai to Ao no Kyoukai"
+   },
+   "contentRating": "safe",
+   "score": 0.22847772,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -36,7 +69,7 @@
     "en": "The Long Summer on August 31"
    },
    "contentRating": "safe",
-   "score": 0.2233304,
+   "score": 0.22291328,
    "languages": [
     "vi",
     "en",
@@ -49,7 +82,7 @@
     "en": "Schizanthus"
    },
    "contentRating": "safe",
-   "score": 0.22192374,
+   "score": 0.22151336,
    "languages": [
     "en",
     "ru"
@@ -61,7 +94,7 @@
     "en": "Nineteen"
    },
    "contentRating": "safe",
-   "score": 0.22070001,
+   "score": 0.2198929,
    "languages": [
     "en"
    ]
@@ -78,35 +111,9 @@
    ]
   },
   {
-   "id": "6e2cdf44-68ec-467d-95ee-11e55de84671",
-   "title": {
-    "en": "Ana Akibukuro ha Wasuregachi"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "mn",
-    "pl",
-    "id",
-    "fr"
-   ]
-  },
-  {
    "id": "9a83c4fb-467a-4636-b367-7100d170c10e",
    "title": {
     "en": "Assembler OX"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
-   "title": {
-    "en": "Tena on S-String"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -129,75 +136,65 @@
    ]
   },
   {
-   "id": "98953a35-3b22-4281-81d7-d537f76ba76f",
+   "id": "479ada4b-2fa6-4465-97ef-734bc3c7d254",
    "title": {
-    "en": "Caramel Kitsch Yuugekitai"
+    "en": "Gachi Koi Maou-sama"
    },
    "contentRating": "safe",
-   "score": 0.20964164,
+   "score": 0.21428573,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "447f141d-84e4-4db8-ab12-dfe9f0be5508",
-   "title": {
-    "en": "No no Kagi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203526,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
-   "title": {
-    "en": "Jouou"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bccb44f7-818e-4000-9b63-837077ae7f20",
-   "title": {
-    "en": "Ramen Tenshi Pretty Menma"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2970916f-3710-4344-a236-b67ccc50a965",
-   "title": {
-    "en": "Bengo!"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
-   "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.19191834,
-   "languages": [
-    "pl",
     "en",
-    "es",
+    "vi",
     "pt-br"
+   ]
+  },
+  {
+   "id": "5948a236-8a5e-44ff-b890-d3bfa72f29be",
+   "title": {
+    "en": "Shinigami Oujo no Kekkon"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "8cb6b378-b2ef-487a-8d2a-9347ce3a41fe",
+   "title": {
+    "en": "Back to the Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d0b31614-5690-4d25-86bc-5d506aeedf55",
+   "title": {
+    "en": "Why Can’t We Stay as Children?"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "4db25702-e695-4b86-8bda-e74a7266f4db",
+   "title": {
+    "en": "Dullahan-chan is Head Over Heels"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:11+00:00"
+ "updatedAt": "2023-12-10T18:33:31+00:00"
 }

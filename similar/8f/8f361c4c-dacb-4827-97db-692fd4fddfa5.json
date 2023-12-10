@@ -11,10 +11,18 @@
     "en": "Street Fighter II"
    },
    "contentRating": "safe",
-   "score": 0.40799248,
+   "score": 0.4052195,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a29ed509-e341-4730-86e5-df79e8fa3919",
+   "title": {
+    "en": "Go for it! Dodgeball Fighters"
+   },
+   "contentRating": "safe",
+   "score": 0.31437236
   },
   {
    "id": "a8844ad8-5ee9-45b6-a583-0b4b3a008070",
@@ -22,10 +30,18 @@
     "en": "Virtua Fighter"
    },
    "contentRating": "safe",
-   "score": 0.31557307,
+   "score": 0.31196398,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8f06878c-a4fe-4aa6-9c06-fccd59002fad",
+   "title": {
+    "en": "I Am Not Jordan!"
+   },
+   "contentRating": "safe",
+   "score": 0.2709599
   },
   {
    "id": "ef598a74-006e-44ed-a469-561013213932",
@@ -33,18 +49,7 @@
     "en": "Lightning Boy Spark Dan"
    },
    "contentRating": "safe",
-   "score": 0.25393882
-  },
-  {
-   "id": "af0ecd8f-6563-4e33-a65c-4ced92be0e2e",
-   "title": {
-    "en": "Ssen Nom"
-   },
-   "contentRating": "safe",
-   "score": 0.24226949,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2546638
   },
   {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
@@ -52,7 +57,18 @@
     "en": "Pilot Ace"
    },
    "contentRating": "safe",
-   "score": 0.23741011
+   "score": 0.23840505
+  },
+  {
+   "id": "af0ecd8f-6563-4e33-a65c-4ced92be0e2e",
+   "title": {
+    "en": "Ssen Nom"
+   },
+   "contentRating": "safe",
+   "score": 0.2349011,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
@@ -60,7 +76,39 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.22176422
+   "score": 0.22386067
+  },
+  {
+   "id": "56f2ce45-292c-4f65-a769-ef2d2339aad9",
+   "title": {
+    "en": "Kami-sama wa Racket o Furanai"
+   },
+   "contentRating": "safe",
+   "score": 0.22286528,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "f1845adf-270b-4405-9438-0c56b1b9576c",
+   "title": {
+    "en": "Beyblade X"
+   },
+   "contentRating": "safe",
+   "score": 0.22263117,
+   "languages": [
+    "es-la",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "0878d601-a505-4669-b1fc-93ddbcdc90c2",
+   "title": {
+    "en": "Circuit no Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334
   },
   {
    "id": "f4904da8-2250-461b-bb29-3ec177c40bb9",
@@ -80,108 +128,48 @@
    ]
   },
   {
+   "id": "a30c13d6-fc57-4bf4-8c7b-55ffc2d7248e",
+   "title": {
+    "en": "My Neighbor Fighting King"
+   },
+   "contentRating": "safe",
+   "score": 0.21106444
+  },
+  {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.20633343,
+   "score": 0.20628373,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
+   "id": "2355a333-d58e-454f-9f21-5bc07323f57d",
    "title": {
-    "en": "King Golf"
+    "en": "Naruto (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.19794866,
+   "score": 0.20391616,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
-   "title": {
-    "en": "Hajime no Ippo"
-   },
-   "contentRating": "safe",
-   "score": 0.19794866,
-   "languages": [
-    "en",
     "ar",
-    "fr",
-    "es",
     "pt-br",
-    "ru",
-    "pl"
-   ]
-  },
-  {
-   "id": "bbe605e5-bbe6-4091-bb6b-e8aa8dbf8fe6",
-   "title": {
-    "en": "Gyakushuu no Dragon Rider"
-   },
-   "contentRating": "safe",
-   "score": 0.19767825,
-   "languages": [
     "en"
    ]
   },
   {
-   "id": "7c7158c3-e60f-4970-a5c9-912ae2e818ec",
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
    "title": {
-    "en": "The Dashing Harimau"
+    "en": "Madara"
    },
    "contentRating": "safe",
-   "score": 0.1959592
-  },
-  {
-   "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
-   "title": {
-    "en": "Prince of Tennis II"
-   },
-   "contentRating": "safe",
-   "score": 0.19593555,
+   "score": 0.20190808,
    "languages": [
-    "pl",
-    "es",
     "en"
    ]
-  },
-  {
-   "id": "da81dcf0-8204-4a82-aa2e-3ba4f44f4b6e",
-   "title": {
-    "en": "Mega Man's Soccer"
-   },
-   "contentRating": "safe",
-   "score": 0.19573689,
-   "languages": [
-    "es"
-   ]
-  },
-  {
-   "id": "3805fc64-44f0-46b6-b972-5c14ce7e856c",
-   "title": {
-    "en": "Maple Purple"
-   },
-   "contentRating": "safe",
-   "score": 0.19300699,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9b78b2e6-3284-492d-88ec-bcb713e75b78",
-   "title": {
-    "en": "s.CRY.ed"
-   },
-   "contentRating": "safe",
-   "score": 0.19109826
   }
  ],
- "updatedAt": "2023-12-10T01:05:37+00:00"
+ "updatedAt": "2023-12-10T18:24:10+00:00"
 }

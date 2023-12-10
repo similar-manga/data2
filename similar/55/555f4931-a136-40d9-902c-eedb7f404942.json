@@ -11,9 +11,23 @@
     "en": "Bara wo Karasu Te de Boku wo Dake"
    },
    "contentRating": "safe",
-   "score": 0.23410259,
+   "score": 0.23809274,
    "languages": [
     "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "0621ecc9-c098-4660-ab53-4816a2cadd29",
+   "title": {
+    "en": "Tendou-ke Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.20650427,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
     "hu"
    ]
   },
@@ -23,7 +37,7 @@
     "en": "Akai Ito"
    },
    "contentRating": "safe",
-   "score": 0.1779304,
+   "score": 0.17720246,
    "languages": [
     "pt-br",
     "en",
@@ -37,9 +51,21 @@
     "en": "Akuma no Hanazono"
    },
    "contentRating": "safe",
-   "score": 0.14458539,
+   "score": 0.14431255,
    "languages": [
     "pt-br",
+    "hu",
+    "pl"
+   ]
+  },
+  {
+   "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
+   "title": {
+    "en": "Ayakashi Hisen"
+   },
+   "contentRating": "safe",
+   "score": 0.13349825,
+   "languages": [
     "hu",
     "pl"
    ]
@@ -59,24 +85,12 @@
    ]
   },
   {
-   "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
-   "title": {
-    "en": "Ayakashi Hisen"
-   },
-   "contentRating": "safe",
-   "score": 0.13349825,
-   "languages": [
-    "hu",
-    "pl"
-   ]
-  },
-  {
    "id": "728d4529-24ec-4326-9558-7da5cfafa62f",
    "title": {
     "en": "By Hero"
    },
    "contentRating": "safe",
-   "score": 0.12966137,
+   "score": 0.12962776,
    "languages": [
     "vi",
     "ro",
@@ -87,12 +101,38 @@
    ]
   },
   {
+   "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
+   "title": {
+    "en": "Queen's Quality"
+   },
+   "contentRating": "safe",
+   "score": 0.119404465,
+   "languages": [
+    "hu",
+    "en",
+    "pl",
+    "ar"
+   ]
+  },
+  {
+   "id": "805c67ad-7508-4aff-a216-011abd86b06c",
+   "title": {
+    "en": "Douse, Koishite Shimaunda."
+   },
+   "contentRating": "safe",
+   "score": 0.11340991,
+   "languages": [
+    "en",
+    "hu"
+   ]
+  },
+  {
    "id": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
    "title": {
     "en": "Akatsuki no Yona"
    },
    "contentRating": "safe",
-   "score": 0.106902756,
+   "score": 0.106044486,
    "languages": [
     "en",
     "bg",
@@ -111,9 +151,21 @@
     "en": "Shinobi denai to!"
    },
    "contentRating": "safe",
-   "score": 0.10576125,
+   "score": 0.105594665,
    "languages": [
     "pl",
+    "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "f2259673-b904-4f14-92f3-b8fc20a82ae1",
+   "title": {
+    "en": "A Most Virtuous Villain"
+   },
+   "contentRating": "safe",
+   "score": 0.105398364,
+   "languages": [
     "en",
     "hu"
    ]
@@ -128,36 +180,6 @@
    "languages": [
     "hu",
     "pl"
-   ]
-  },
-  {
-   "id": "1bb5448d-fb00-4346-8b38-b9d739d40e1b",
-   "title": {
-    "en": "Christmas ni Omoi o Nosete"
-   },
-   "contentRating": "safe",
-   "score": 0.102767,
-   "languages": [
-    "pt-br",
-    "it",
-    "es-la",
-    "de",
-    "pl",
-    "tr",
-    "hu",
-    "en"
-   ]
-  },
-  {
-   "id": "4797ccc1-5bfc-48d7-9d2e-e57aebcaf9d7",
-   "title": {
-    "en": "The Straw Hat and the Carp"
-   },
-   "contentRating": "safe",
-   "score": 0.102767,
-   "languages": [
-    "en",
-    "hu"
    ]
   },
   {
@@ -196,33 +218,7 @@
     "tr",
     "en"
    ]
-  },
-  {
-   "id": "cffa51b0-e218-47c3-a96a-f3eda9d2e7d4",
-   "title": {
-    "en": "Ame Tokidoki Koi Moyou"
-   },
-   "contentRating": "safe",
-   "score": 0.102767,
-   "languages": [
-    "en",
-    "hu",
-    "id"
-   ]
-  },
-  {
-   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
-   "title": {
-    "en": "Hyakkiyakou Juliet"
-   },
-   "contentRating": "safe",
-   "score": 0.100915186,
-   "languages": [
-    "hu",
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:07+00:00"
+ "updatedAt": "2023-12-10T18:17:33+00:00"
 }

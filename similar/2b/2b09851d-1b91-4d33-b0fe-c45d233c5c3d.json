@@ -11,7 +11,7 @@
     "en": "Bukyousouha"
    },
    "contentRating": "suggestive",
-   "score": 0.20361234,
+   "score": 0.20236105,
    "languages": [
     "zh-hk",
     "en"
@@ -23,7 +23,7 @@
     "en": "Tales of Wedding Rings"
    },
    "contentRating": "suggestive",
-   "score": 0.18276754,
+   "score": 0.18265514,
    "languages": [
     "pt-br",
     "ru",
@@ -37,18 +37,14 @@
    ]
   },
   {
-   "id": "e7e950c1-bbc3-4579-a659-ac9ffacc4ab2",
+   "id": "a50b4227-e65e-465a-8aaa-3a4975fdb446",
    "title": {
-    "en": "Bijo to Kenja to Majin no Ken"
+    "en": "Dead Maximum"
    },
    "contentRating": "suggestive",
-   "score": 0.17562339,
+   "score": 0.17480178,
    "languages": [
-    "en",
-    "fr",
-    "ru",
-    "es-la",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -63,14 +59,18 @@
    ]
   },
   {
-   "id": "a50b4227-e65e-465a-8aaa-3a4975fdb446",
+   "id": "e7e950c1-bbc3-4579-a659-ac9ffacc4ab2",
    "title": {
-    "en": "Dead Maximum"
+    "en": "Bijo to Kenja to Majin no Ken"
    },
    "contentRating": "suggestive",
-   "score": 0.17480178,
+   "score": 0.17366281,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "ru",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -103,29 +103,12 @@
     "en": "Chi to Hai no Joou"
    },
    "contentRating": "suggestive",
-   "score": 0.16686092,
+   "score": 0.16628136,
    "languages": [
     "en",
     "pt-br",
     "ru",
     "es"
-   ]
-  },
-  {
-   "id": "03438804-f9b7-4748-be58-d120d5ffb8e6",
-   "title": {
-    "en": "Mujina in to The Deep"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16568446,
-   "languages": [
-    "uk",
-    "en",
-    "es-la",
-    "ru",
-    "pt-br",
-    "fr",
-    "tr"
    ]
   },
   {
@@ -143,12 +126,29 @@
    ]
   },
   {
+   "id": "03438804-f9b7-4748-be58-d120d5ffb8e6",
+   "title": {
+    "en": "Mujina in to The Deep"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16482367,
+   "languages": [
+    "uk",
+    "en",
+    "es-la",
+    "ru",
+    "pt-br",
+    "fr",
+    "tr"
+   ]
+  },
+  {
    "id": "21bbbfbd-0cdb-4dab-a2ae-1cae47afcb63",
    "title": {
     "en": "Reversibleman"
    },
    "contentRating": "suggestive",
-   "score": 0.16351546,
+   "score": 0.16298534,
    "languages": [
     "en"
    ]
@@ -159,7 +159,7 @@
     "en": "One-Punch Man"
    },
    "contentRating": "suggestive",
-   "score": 0.16246559,
+   "score": 0.16199555,
    "languages": [
     "es",
     "hu",
@@ -189,7 +189,7 @@
     "en": "Vaia'n Maiden"
    },
    "contentRating": "suggestive",
-   "score": 0.15928783,
+   "score": 0.15844236,
    "languages": [
     "en"
    ]
@@ -231,5 +231,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:25+00:00"
+ "updatedAt": "2023-12-10T18:12:56+00:00"
 }

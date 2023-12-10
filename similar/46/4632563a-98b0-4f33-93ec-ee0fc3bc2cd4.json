@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7f5e5bd3-a357-48d7-8373-1408c046cf5c",
+   "title": {
+    "en": "Do Your Best, Shonen Giants"
+   },
+   "contentRating": "safe",
+   "score": 0.3799075
+  },
+  {
+   "id": "3b3e42ba-f97d-49e6-a6cb-5ffff5f1a52f",
+   "title": {
+    "en": "Samurai Giants"
+   },
+   "contentRating": "safe",
+   "score": 0.3374402
+  },
+  {
    "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
    "title": {
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.33009964,
+   "score": 0.32158828,
    "languages": [
     "ru",
     "en",
@@ -19,23 +35,48 @@
    ]
   },
   {
-   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
+   "id": "b06a0002-c27b-4cbe-8c4a-a8e61a4bc37c",
    "title": {
-    "en": "Play Ball"
+    "en": "Song of Baseball Fans"
    },
    "contentRating": "safe",
-   "score": 0.3103846
+   "score": 0.31233686
   },
   {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "id": "3d663521-feb5-4f61-ad5c-1187688c3013",
    "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+    "en": "The Ace's Condition"
    },
    "contentRating": "safe",
-   "score": 0.2641513,
+   "score": 0.28830606
+  },
+  {
+   "id": "c9684ff2-709a-4135-9a88-f47f206f7e05",
+   "title": {
+    "en": "Dokaben - Dokaben Part 1"
+   },
+   "contentRating": "safe",
+   "score": 0.28435653
+  },
+  {
+   "id": "d71bb5fd-5d09-4397-aa42-b2753050f2c0",
+   "title": {
+    "en": "Pro Baseball Arc - Dokaben Part 3"
+   },
+   "contentRating": "safe",
+   "score": 0.26338792
+  },
+  {
+   "id": "436730b8-282a-4f1f-b02c-b9c534b2ee66",
+   "title": {
+    "en": "Irregulars"
+   },
+   "contentRating": "safe",
+   "score": 0.26281705,
    "languages": [
-    "it",
-    "en"
+    "vi",
+    "en",
+    "ru"
    ]
   },
   {
@@ -44,7 +85,31 @@
     "en": "Star of the Giants"
    },
    "contentRating": "safe",
-   "score": 0.25985223
+   "score": 0.2599227
+  },
+  {
+   "id": "85b3c17d-68fb-4c70-8641-0ced19ca9006",
+   "title": {
+    "en": "Boukyaku Battery"
+   },
+   "contentRating": "safe",
+   "score": 0.25562978,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "98b1d0ec-a7e4-4064-84a5-de2fb9595ff5",
+   "title": {
+    "en": "Bench"
+   },
+   "contentRating": "safe",
+   "score": 0.2499239,
+   "languages": [
+    "ca",
+    "en"
+   ]
   },
   {
    "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
@@ -52,7 +117,27 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.24774332
+   "score": 0.24815196
+  },
+  {
+   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "title": {
+    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+   },
+   "contentRating": "safe",
+   "score": 0.24777222,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
+   "title": {
+    "en": "Play Ball"
+   },
+   "contentRating": "safe",
+   "score": 0.240856
   },
   {
    "id": "db8050ed-2e69-4616-85b5-f615b74d2c80",
@@ -60,7 +145,7 @@
     "en": "Ucchare! Goshogawara"
    },
    "contentRating": "safe",
-   "score": 0.2412341
+   "score": 0.240563
   },
   {
    "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
@@ -68,114 +153,13 @@
     "en": "Prince of Tennis II"
    },
    "contentRating": "safe",
-   "score": 0.23680398,
+   "score": 0.23692581,
    "languages": [
     "pl",
     "es",
-    "en"
-   ]
-  },
-  {
-   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
-   "title": {
-    "en": "Kore Kaite Shine"
-   },
-   "contentRating": "safe",
-   "score": 0.22847462,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.22781892,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "b296f8e8-1f16-4ca1-8233-ecffebae0b15",
-   "title": {
-    "en": "Hungry Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.22576901
-  },
-  {
-   "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
-   "title": {
-    "en": "Kickoff to Tomorrow"
-   },
-   "contentRating": "safe",
-   "score": 0.22562785
-  },
-  {
-   "id": "015a8a99-4368-4859-8437-bf903d3aa9a1",
-   "title": {
-    "en": "Footballman Taka"
-   },
-   "contentRating": "safe",
-   "score": 0.2196455
-  },
-  {
-   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
-   "title": {
-    "en": "Yowamushi Pedal"
-   },
-   "contentRating": "safe",
-   "score": 0.21937545,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4f9a83e2-d037-4cea-9327-ae4fe676d71e",
-   "title": {
-    "en": "Otoko do Ahou Koushien"
-   },
-   "contentRating": "safe",
-   "score": 0.20662557
-  },
-  {
-   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
-   "title": {
-    "en": "Welcome to the Ballroom"
-   },
-   "contentRating": "safe",
-   "score": 0.20507464,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es",
-    "es-la",
-    "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "21257695-df39-49a5-b952-d05a152879f5",
-   "title": {
-    "en": "Steel Septum"
-   },
-   "contentRating": "safe",
-   "score": 0.20043342,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:28+00:00"
+ "updatedAt": "2023-12-10T18:15:54+00:00"
 }

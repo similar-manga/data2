@@ -11,7 +11,7 @@
     "en": "Traces of Memory"
    },
    "contentRating": "safe",
-   "score": 0.23531789,
+   "score": 0.23378919,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.22569095,
+   "score": 0.22309653,
    "languages": [
     "en"
    ]
@@ -40,22 +40,6 @@
    ]
   },
   {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
-   "title": {
-    "en": "World Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.20741302,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "de",
-    "tr"
-   ]
-  },
-  {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
    "title": {
     "en": "Fullmetal Alchemist: The Prototype"
@@ -67,12 +51,28 @@
    ]
   },
   {
+   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "title": {
+    "en": "World Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.20642851,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "es-la",
+    "de",
+    "tr"
+   ]
+  },
+  {
    "id": "21688024-f53f-4cb2-9c2e-62973f134975",
    "title": {
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.20259656,
+   "score": 0.20232418,
    "languages": [
     "en",
     "pl"
@@ -84,18 +84,10 @@
     "en": "The Time of Cherry Blossoms"
    },
    "contentRating": "safe",
-   "score": 0.20215267,
+   "score": 0.20170046,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "da5d0c55-26f5-4796-8e4d-feac69698d94",
-   "title": {
-    "en": "Marude Dameo"
-   },
-   "contentRating": "safe",
-   "score": 0.20143408
   },
   {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
@@ -103,7 +95,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.2003898
+   "score": 0.20070203
   },
   {
    "id": "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a",
@@ -120,12 +112,12 @@
    ]
   },
   {
-   "id": "c7665fcd-6e62-4283-8651-5e5b0aed9d73",
+   "id": "da5d0c55-26f5-4796-8e4d-feac69698d94",
    "title": {
-    "en": "Z Gundam - Side Story"
+    "en": "Marude Dameo"
    },
    "contentRating": "safe",
-   "score": 0.19645587
+   "score": 0.19939855
   },
   {
    "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
@@ -150,23 +142,34 @@
    ]
   },
   {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "id": "c7665fcd-6e62-4283-8651-5e5b0aed9d73",
    "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+    "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.19097127,
+   "score": 0.19645587
+  },
+  {
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
+   "title": {
+    "en": "Madara"
+   },
+   "contentRating": "safe",
+   "score": 0.19642988,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a87492c1-855b-4b48-a706-e1675f6d7798",
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
-    "en": "Jikangae"
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.19020328
+   "score": 0.1902825,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
@@ -180,5 +183,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:24+00:00"
+ "updatedAt": "2023-12-10T18:18:16+00:00"
 }

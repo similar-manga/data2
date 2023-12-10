@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.2659582,
+   "score": 0.2652656,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Mimi ga Kieta Hi"
    },
    "contentRating": "safe",
-   "score": 0.2649426,
+   "score": 0.26051843,
    "languages": [
     "en",
     "fr",
@@ -30,9 +41,57 @@
    ]
   },
   {
+   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "title": {
+    "en": "Ultra Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
    "title": {
     "en": "Cloud"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c2800f4-8836-4912-a267-c185bbfe4bc7",
+   "title": {
+    "en": "Deaddie Du Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "title": {
+    "en": "Steins;Gate 0"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -64,24 +123,12 @@
    ]
   },
   {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "9aa7047e-186f-4a26-b623-0197ea5cfa56",
    "title": {
     "en": "Reset Game"
    },
    "contentRating": "safe",
-   "score": 0.24433385,
+   "score": 0.24401952,
    "languages": [
     "en"
    ]
@@ -98,48 +145,23 @@
    ]
   },
   {
-   "id": "d39db645-0a95-4d70-80e0-775dc9a6ad89",
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
    "title": {
-    "en": "Metronome"
+    "en": "Souzoku Tantei"
    },
    "contentRating": "safe",
-   "score": 0.2216952,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
-   "title": {
-    "en": "Akunin no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "f062be82-3d8f-4441-885a-0d0bf7771196",
-   "title": {
-    "en": "Hiruko"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
+   "id": "85d26607-a882-4fd7-af70-987eccef6803",
    "title": {
-    "en": "Zero"
+    "en": "The Death of Baron Werther"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22287834,
    "languages": [
     "en"
    ]
@@ -156,31 +178,9 @@
    ]
   },
   {
-   "id": "c360c97b-1dc2-43ef-a966-40b908e8371f",
+   "id": "f062be82-3d8f-4441-885a-0d0bf7771196",
    "title": {
-    "en": "70"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eace40fd-0bcd-4016-9475-24459996302b",
-   "title": {
-    "en": "Reinouryokusha Odagiri Kyouko no Uso"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
-   "title": {
-    "en": "Atrocious Fairy Tales for Adults"
+    "en": "Hiruko"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -189,5 +189,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:36+00:00"
+ "updatedAt": "2023-12-10T18:26:52+00:00"
 }

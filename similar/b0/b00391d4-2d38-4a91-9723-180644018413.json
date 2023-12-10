@@ -11,18 +11,18 @@
     "en": "The Metabaron"
    },
    "contentRating": "safe",
-   "score": 0.9956582,
+   "score": 0.8034434,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
+   "id": "424590e8-6b92-4afc-853e-f44b84fffd78",
    "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
+    "en": "The Magical Twins"
    },
    "contentRating": "safe",
-   "score": 0.24236186,
+   "score": 0.2431492,
    "languages": [
     "en"
    ]
@@ -54,6 +54,17 @@
    ]
   },
   {
+   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
+   "title": {
+    "en": "Ghost in the Shell: Global Neural Network"
+   },
+   "contentRating": "safe",
+   "score": 0.23085631,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
    "title": {
     "en": "Tank Chair"
@@ -66,39 +77,6 @@
     "pt-br",
     "id",
     "es-la"
-   ]
-  },
-  {
-   "id": "0d4e738b-b3ed-4a19-be4c-80fb78e3ab31",
-   "title": {
-    "en": "Armagedon"
-   },
-   "contentRating": "safe",
-   "score": 0.2147223,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d6ac40ec-622d-4f27-ad17-270e7e41ace3",
-   "title": {
-    "en": "Earthlight"
-   },
-   "contentRating": "safe",
-   "score": 0.21056493,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "20f25d58-2591-4bf4-8e54-9fdb07ace044",
-   "title": {
-    "en": "Eat Chicken and Save the World"
-   },
-   "contentRating": "safe",
-   "score": 0.21035288,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -116,12 +94,12 @@
    ]
   },
   {
-   "id": "a1d3139d-e0ac-45af-b5c5-4878340dc67a",
+   "id": "20f25d58-2591-4bf4-8e54-9fdb07ace044",
    "title": {
-    "en": "Path a Way"
+    "en": "Eat Chicken and Save the World"
    },
    "contentRating": "safe",
-   "score": 0.20979802,
+   "score": 0.21035288,
    "languages": [
     "en"
    ]
@@ -149,9 +127,20 @@
    ]
   },
   {
-   "id": "7de6a119-8228-44e6-940a-4a8718ab577c",
+   "id": "5f5104f5-c5e9-4077-ac9c-6c1ec0d51072",
    "title": {
-    "en": "Virtual Hero"
+    "en": "Saitei Rank no Boukensha, Yuusha Shoujo wo Sodateru Orette"
+   },
+   "contentRating": "safe",
+   "score": 0.20223156,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d4e738b-b3ed-4a19-be4c-80fb78e3ab31",
+   "title": {
+    "en": "Armagedon"
    },
    "contentRating": "safe",
    "score": 0.20134681,
@@ -171,27 +160,38 @@
    ]
   },
   {
-   "id": "292677c4-d994-47f9-b451-303ef836af79",
+   "id": "d6ac40ec-622d-4f27-ad17-270e7e41ace3",
    "title": {
-    "en": "Kakugo no Susume - Oujou no Susume"
+    "en": "Earthlight"
    },
    "contentRating": "safe",
-   "score": 0.19928166,
+   "score": 0.20134681,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f18a36d8-0225-4187-bbc2-c603ae6140bf",
+   "id": "a1d3139d-e0ac-45af-b5c5-4878340dc67a",
    "title": {
-    "en": "Kakugo no Susume - Voltex"
+    "en": "Path a Way"
    },
    "contentRating": "safe",
-   "score": 0.19928166,
+   "score": 0.20134681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7de6a119-8228-44e6-940a-4a8718ab577c",
+   "title": {
+    "en": "Virtual Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.20134681,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:01+00:00"
+ "updatedAt": "2023-12-10T18:28:02+00:00"
 }

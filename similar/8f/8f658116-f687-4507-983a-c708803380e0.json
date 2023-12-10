@@ -23,7 +23,30 @@
     "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.23359168,
+   "score": 0.23928447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f870a08-b87a-471e-ab96-df551d70f902",
+   "title": {
+    "en": "Rhapsody in Red"
+   },
+   "contentRating": "safe",
+   "score": 0.23607503,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
+   "title": {
+    "en": "Yamamoto's Ear Cleaning Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.2333482,
    "languages": [
     "en"
    ]
@@ -34,7 +57,7 @@
     "en": "Kaisha ni Utsu no Shindansho Dashite Kanojo ni wa Chouki Shucchou to Usotsuite Ikkagetsu no Tabi ni Deta"
    },
    "contentRating": "safe",
-   "score": 0.22575115,
+   "score": 0.22716689,
    "languages": [
     "vi",
     "en"
@@ -46,7 +69,7 @@
     "en": "Straight no Chaser"
    },
    "contentRating": "safe",
-   "score": 0.22542982,
+   "score": 0.2241421,
    "languages": [
     "en",
     "pt-br"
@@ -58,20 +81,9 @@
     "en": "Under the Bridge"
    },
    "contentRating": "safe",
-   "score": 0.21963723,
+   "score": 0.2213677,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
-   "title": {
-    "en": "Yamamoto's Ear Cleaning Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.2180154,
-   "languages": [
     "en"
    ]
   },
@@ -81,7 +93,18 @@
     "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.21693762,
+   "score": 0.22114673,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
+   "title": {
+    "en": "Shinya Shokudou"
+   },
+   "contentRating": "safe",
+   "score": 0.21952006,
    "languages": [
     "en"
    ]
@@ -92,8 +115,33 @@
     "en": "A Compulsory Holiday"
    },
    "contentRating": "safe",
-   "score": 0.21649982,
+   "score": 0.2177073,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "abcad188-1350-4844-be42-d69633a5bf27",
+   "title": {
+    "en": "Potechi"
+   },
+   "contentRating": "safe",
+   "score": 0.21728559,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9d85b738-9c29-4518-bccf-0ca6607abf56",
+   "title": {
+    "en": "Green"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "ar",
+    "it",
+    "fr",
     "en"
    ]
   },
@@ -122,48 +170,12 @@
    ]
   },
   {
-   "id": "9d85b738-9c29-4518-bccf-0ca6607abf56",
-   "title": {
-    "en": "Green"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "ar",
-    "it",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "abcad188-1350-4844-be42-d69633a5bf27",
-   "title": {
-    "en": "Potechi"
-   },
-   "contentRating": "safe",
-   "score": 0.21603294,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
-   "title": {
-    "en": "Shinya Shokudou"
-   },
-   "contentRating": "safe",
-   "score": 0.2145337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a87dd7ce-c93a-4e32-97b7-a865ef4092a5",
    "title": {
     "en": "Gun"
    },
    "contentRating": "safe",
-   "score": 0.21086648,
+   "score": 0.2108895,
    "languages": [
     "en",
     "ru"
@@ -179,18 +191,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "42647c77-390c-41d9-a7fc-4cdfd8882050",
-   "title": {
-    "en": "Hakobune no Biosophia"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:37+00:00"
+ "updatedAt": "2023-12-10T18:24:11+00:00"
 }

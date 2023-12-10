@@ -6,6 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.283007,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "1860fa21-5e26-49d1-a0ac-09aa959f4fbc",
    "title": {
     "en": "Shokujin Shokuyuujou"
@@ -23,8 +43,54 @@
     "en": "Please Eat Me, My Darling"
    },
    "contentRating": "safe",
-   "score": 0.22345735,
+   "score": 0.22246076,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.21750057,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.20825042,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e11edac-eb6c-46d5-9cd4-04e1e817e1ba",
+   "title": {
+    "en": "Ousama Game - Rinjou"
+   },
+   "contentRating": "safe",
+   "score": 0.20217864,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.19223116,
+   "languages": [
+    "ru",
+    "tr",
     "en"
    ]
   },
@@ -34,7 +100,7 @@
     "en": "Koukai no Naraku"
    },
    "contentRating": "safe",
-   "score": 0.18881851,
+   "score": 0.18827592,
    "languages": [
     "en",
     "pl"
@@ -53,6 +119,17 @@
     "es",
     "pl",
     "es-la"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.17879541,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -84,6 +161,17 @@
    ]
   },
   {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.1712888,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
    "title": {
     "en": "Jungle Boy"
@@ -111,111 +199,22 @@
    ]
   },
   {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
    "title": {
-    "en": "Atrocious Fairy Tales for Adults"
+    "en": "Out"
    },
    "contentRating": "safe",
-   "score": 0.16782649,
+   "score": 0.16953196,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "87a7705f-fa93-4353-867f-dde9a26799af",
-   "title": {
-    "en": "Zanuff the Butcher"
-   },
-   "contentRating": "safe",
-   "score": 0.16726023,
-   "languages": [
-    "en",
-    "es-la",
     "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
-   "title": {
-    "en": "Tokyo Ghoul: Redrawn"
-   },
-   "contentRating": "safe",
-   "score": 0.16726023,
-   "languages": [
-    "it",
     "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "864a7dba-6985-46d5-a88b-9d0c192af1b0",
-   "title": {
-    "en": "Be for the Beast"
-   },
-   "contentRating": "safe",
-   "score": 0.1662803,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
-   "title": {
-    "en": "Vinland Saga"
-   },
-   "contentRating": "safe",
-   "score": 0.16246812,
-   "languages": [
     "es-la",
     "en",
-    "pt-br",
-    "ru",
-    "ar",
-    "cs",
-    "uk",
     "tr",
-    "ro",
-    "es",
-    "it"
-   ]
-  },
-  {
-   "id": "96045bc1-004e-42df-8d4f-f4ffd7ec317a",
-   "title": {
-    "en": "The Dream I Had When I Died"
-   },
-   "contentRating": "safe",
-   "score": 0.16167171,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "95716c73-f20f-4ac9-96b9-22adfbd0c563",
-   "title": {
-    "en": "Honogurai Mizu no Soko kara"
-   },
-   "contentRating": "safe",
-   "score": 0.15874007,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "660f39e6-a52b-440b-b412-d14d96e435dc",
-   "title": {
-    "en": "Kan no Mushi"
-   },
-   "contentRating": "safe",
-   "score": 0.15795207,
-   "languages": [
-    "en",
-    "pt-br"
+    "ru",
+    "fa"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:08+00:00"
+ "updatedAt": "2023-12-10T18:17:34+00:00"
 }

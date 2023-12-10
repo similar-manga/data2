@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4fa874aa-e7dc-4fb8-b0cd-c7fde3d7bf34",
+   "title": {
+    "en": "My Girlfriend Is a Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.6271838,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "2fc07ee2-7f4d-4359-ac19-e31102f7bc68",
    "title": {
     "en": "Princess Wars"
    },
    "contentRating": "safe",
-   "score": 0.36659855,
+   "score": 0.36379376,
    "languages": [
     "uk",
     "ru",
@@ -26,9 +38,21 @@
     "en": "A Tale of Two Loners"
    },
    "contentRating": "safe",
-   "score": 0.3499277,
+   "score": 0.34273016,
    "languages": [
     "th",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "6905f8f3-152e-4fb5-85db-7ef02d363c15",
+   "title": {
+    "en": "The Cursed Princess and The Ghost Knight"
+   },
+   "contentRating": "safe",
+   "score": 0.33404288,
+   "languages": [
     "en",
     "id"
    ]
@@ -39,7 +63,7 @@
     "en": "Ryuu no Eigakan"
    },
    "contentRating": "safe",
-   "score": 0.33942205,
+   "score": 0.3293308,
    "languages": [
     "id",
     "vi",
@@ -53,7 +77,7 @@
     "en": "Risou no Ouji no Tsukurikata"
    },
    "contentRating": "safe",
-   "score": 0.3366004,
+   "score": 0.32798684,
    "languages": [
     "tr",
     "en"
@@ -65,35 +89,10 @@
     "en": "Start Raising Dragons From Today"
    },
    "contentRating": "safe",
-   "score": 0.33607024,
+   "score": 0.32685867,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "6905f8f3-152e-4fb5-85db-7ef02d363c15",
-   "title": {
-    "en": "The Cursed Princess and The Ghost Knight"
-   },
-   "contentRating": "safe",
-   "score": 0.33135694,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "7a2f9107-65ba-4d18-9d26-be9f62538fa5",
-   "title": {
-    "en": "I'm Pretty Good at Mimicking Tien from Dragon Ball"
-   },
-   "contentRating": "safe",
-   "score": 0.2950858,
-   "languages": [
-    "pt-br",
-    "id",
-    "en"
    ]
   },
   {
@@ -102,7 +101,7 @@
     "en": "The Story of a Demon Girl and an Uncle"
    },
    "contentRating": "safe",
-   "score": 0.2934212,
+   "score": 0.29359192,
    "languages": [
     "en",
     "de",
@@ -116,10 +115,81 @@
     "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.29008737,
+   "score": 0.2915832,
    "languages": [
     "ru",
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7a2f9107-65ba-4d18-9d26-be9f62538fa5",
+   "title": {
+    "en": "I'm Pretty Good at Mimicking Tien from Dragon Ball"
+   },
+   "contentRating": "safe",
+   "score": 0.28956395,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "8e93e814-cc28-441a-8171-ff6ec7adfd62",
+   "title": {
+    "en": "Can I Get Back Into Love With the Crown Prince?"
+   },
+   "contentRating": "safe",
+   "score": 0.28925768,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "75613995-92dc-4db3-ba34-8caaebf42357",
+   "title": {
+    "en": "I Have the Heart of a Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.28793657,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "87eafb4e-f5ba-4833-b5dc-ed0489fd85c1",
+   "title": {
+    "en": "Sunny With a Chance of Dragons!"
+   },
+   "contentRating": "safe",
+   "score": 0.28615877,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "154ca29c-ea72-4526-856d-1b4ce9f1ee60",
+   "title": {
+    "en": "Kioku Soushitsu No Ore O Sukina Kouhai Ga Chotto Kowai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "8d20907d-9f42-4a41-bdf1-8681b9224903",
+   "title": {
+    "en": "Kyou Kore"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
     "pt-br"
    ]
   },
@@ -134,75 +204,7 @@
     "id",
     "en"
    ]
-  },
-  {
-   "id": "270f39b2-ab4a-4900-93fd-6df5da534a34",
-   "title": {
-    "en": "Office Lady Who's Bad With Kids and a Quiet Grade Schooler"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "id",
-    "ru",
-    "fr",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "46e1bf64-c9e9-4a3b-9339-624218a24ca8",
-   "title": {
-    "en": "Drawn Girl Two, Electric Boogaloo"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "bcccdec9-f273-4f0a-b9d0-05add10bc991",
-   "title": {
-    "en": "Abigail to Lavinia matome"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "7dceca14-04c0-4020-94ef-9be65f7be3fe",
-   "title": {
-    "en": "Mellow"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0a930594-378b-49e9-80c9-bc85b32d79c0",
-   "title": {
-    "en": "BOLT"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "ec0ebb8d-b68b-4732-9b62-028c8f0afcaf",
-   "title": {
-    "en": "Kuuseki"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en",
-    "id",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:12+00:00"
+ "updatedAt": "2023-12-10T18:17:46+00:00"
 }

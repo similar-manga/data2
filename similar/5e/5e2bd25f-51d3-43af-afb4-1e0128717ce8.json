@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d14112fb-08bf-4682-906b-f2ea454da41c",
+   "title": {
+    "en": "Legend of Hikari"
+   },
+   "contentRating": "safe",
+   "score": 0.278576,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "38ed695c-dd88-42c7-a24e-8d99ade2c83c",
    "title": {
     "en": "Say Hello to Iruka-chan"
    },
    "contentRating": "safe",
-   "score": 0.25800747,
+   "score": 0.26227853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "768c1cab-fe43-4997-9b3c-544c760608dd",
+   "title": {
+    "en": "Tumbling"
+   },
+   "contentRating": "safe",
+   "score": 0.2594515,
    "languages": [
     "en"
    ]
@@ -28,6 +50,20 @@
    ]
   },
   {
+   "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
+   "title": {
+    "en": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.1603324,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "65bcd45a-b38c-4f89-bb49-be4430a5c534",
    "title": {
     "en": "The MVP Won't Hand it Over!"
@@ -39,26 +75,12 @@
    ]
   },
   {
-   "id": "a8aebcd5-3e85-4983-ac65-162f601abca9",
-   "title": {
-    "en": "Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita no de, Chougoushi ni Job Change Shimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.15576507,
-   "languages": [
-    "ru",
-    "en",
-    "id",
-    "fr"
-   ]
-  },
-  {
    "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
    "title": {
     "en": "This Isn't the Time for the Villainess to Be Bullying the Heroine"
    },
    "contentRating": "safe",
-   "score": 0.15335266,
+   "score": 0.15783216,
    "languages": [
     "en"
    ]
@@ -69,13 +91,24 @@
     "en": "Beating the Heroine at Her Own Game"
    },
    "contentRating": "safe",
-   "score": 0.14330247,
+   "score": 0.14766993,
    "languages": [
     "en",
     "es-la",
     "ru",
     "vi",
     "th"
+   ]
+  },
+  {
+   "id": "b18446fd-24bb-41bd-88c7-c9bd4746d0d2",
+   "title": {
+    "en": "Kyle's Final Fantasy"
+   },
+   "contentRating": "safe",
+   "score": 0.13875847,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -90,9 +123,20 @@
    ]
   },
   {
-   "id": "29bf265f-cf22-4be8-8bad-28b36f191d50",
+   "id": "6418b33a-4274-4ee8-82f0-cbb0011d7921",
    "title": {
-    "en": "Dansui!"
+    "en": "Bremen 5"
+   },
+   "contentRating": "safe",
+   "score": 0.13773245,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d2cb3dc6-0070-49be-a6d7-0cf30e186635",
+   "title": {
+    "en": "Pretty Haru"
    },
    "contentRating": "safe",
    "score": 0.13733527,
@@ -114,12 +158,12 @@
    ]
   },
   {
-   "id": "6418b33a-4274-4ee8-82f0-cbb0011d7921",
+   "id": "29bf265f-cf22-4be8-8bad-28b36f191d50",
    "title": {
-    "en": "Bremen 5"
+    "en": "Dansui!"
    },
    "contentRating": "safe",
-   "score": 0.13724394,
+   "score": 0.13733527,
    "languages": [
     "en"
    ]
@@ -139,65 +183,16 @@
    ]
   },
   {
-   "id": "fe031387-81aa-4ecd-acaf-fb214347f3a6",
+   "id": "01b012fe-95b4-48fc-b071-c5bc90bfc5a5",
    "title": {
-    "en": "Gokurakuchou Dead End"
+    "en": "Gokuraku Doumei"
    },
    "contentRating": "safe",
-   "score": 0.12782383,
+   "score": 0.13471413,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0ac9b207-992b-4baf-8725-164dddbe1450",
-   "title": {
-    "en": "Ice no Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.12692454,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "734c48e9-3ade-4426-82a8-845ddac16df8",
-   "title": {
-    "en": "Cash Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.12639719,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ab2522a-bb08-419a-b272-1c799207fbc0",
-   "title": {
-    "en": "I'm the Ex-Girlfriend of a Soldier"
-   },
-   "contentRating": "safe",
-   "score": 0.124688715,
-   "languages": [
-    "th",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "7aed6cca-0bc6-4733-a73b-1e56ba1526c4",
-   "title": {
-    "en": "Omae Watashi no Koto Suki daro?"
-   },
-   "contentRating": "safe",
-   "score": 0.12415963,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:30+00:00"
+ "updatedAt": "2023-12-10T18:18:32+00:00"
 }

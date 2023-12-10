@@ -11,7 +11,7 @@
     "en": "The Man in the ATM"
    },
    "contentRating": "suggestive",
-   "score": 0.19132952,
+   "score": 0.19170056,
    "languages": [
     "id",
     "en"
@@ -23,7 +23,7 @@
     "en": "Betrayal Will Condemn You to the End"
    },
    "contentRating": "suggestive",
-   "score": 0.17299365,
+   "score": 0.1729385,
    "languages": [
     "en"
    ]
@@ -53,7 +53,7 @@
     "en": "Tsurenai Hodo Aokute Azatoi Kurai ni Akai"
    },
    "contentRating": "suggestive",
-   "score": 0.15507798,
+   "score": 0.15418856,
    "languages": [
     "ru",
     "es-la",
@@ -63,15 +63,14 @@
    ]
   },
   {
-   "id": "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d",
+   "id": "b6b406de-6789-41cf-aa88-a97a63273268",
    "title": {
-    "en": "Kine-san no 1-ri de Cinema"
+    "en": "X Saibou wa Fukaku Iki o Suru - Energy"
    },
    "contentRating": "suggestive",
    "score": 0.14285715,
    "languages": [
-    "en",
-    "ru"
+    "en"
    ]
   },
   {
@@ -91,14 +90,15 @@
    ]
   },
   {
-   "id": "b6b406de-6789-41cf-aa88-a97a63273268",
+   "id": "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d",
    "title": {
-    "en": "X Saibou wa Fukaku Iki o Suru - Energy"
+    "en": "Kine-san no 1-ri de Cinema"
    },
    "contentRating": "suggestive",
    "score": 0.14285715,
    "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -107,50 +107,11 @@
     "en": "37 Year Old Kindaichi Case Files"
    },
    "contentRating": "suggestive",
-   "score": 0.13764946,
+   "score": 0.13748907,
    "languages": [
     "en",
     "es",
     "id"
-   ]
-  },
-  {
-   "id": "90af37cc-76f4-4c90-bfe0-1e3b85a42da2",
-   "title": {
-    "en": "Kamatte Shinsotsu-chan ga Maikai Sasottekuru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12802228,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "id"
-   ]
-  },
-  {
-   "id": "a9a664d6-4ea7-4f3b-b96b-4861673c8e5d",
-   "title": {
-    "en": "Misato-san wa Amasugi Joushi ni Chotto Kibishii"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12777533,
-   "languages": [
-    "pt-br",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "056915a8-4320-4d57-9c48-9ec6abf7aec9",
-   "title": {
-    "en": "Wolf Girl Laura"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12777533,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -167,6 +128,19 @@
    ]
   },
   {
+   "id": "a9a664d6-4ea7-4f3b-b96b-4861673c8e5d",
+   "title": {
+    "en": "Misato-san wa Amasugi Joushi ni Chotto Kibishii"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12777533,
+   "languages": [
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "047a9427-dfcb-4bb6-a6d7-f762479f22ea",
    "title": {
     "en": "Kagerou Meikyuu"
@@ -176,6 +150,29 @@
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "056915a8-4320-4d57-9c48-9ec6abf7aec9",
+   "title": {
+    "en": "Wolf Girl Laura"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12777533,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "84278d95-6fad-46a8-8151-2a21a4a894b3",
+   "title": {
+    "en": "Diestrammena"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12777533,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -194,14 +191,17 @@
    ]
   },
   {
-   "id": "84278d95-6fad-46a8-8151-2a21a4a894b3",
+   "id": "90af37cc-76f4-4c90-bfe0-1e3b85a42da2",
    "title": {
-    "en": "Diestrammena"
+    "en": "Kamatte Shinsotsu-chan ga Maikai Sasottekuru"
    },
    "contentRating": "suggestive",
-   "score": 0.12777533,
+   "score": 0.12726483,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "ru",
+    "id"
    ]
   },
   {
@@ -210,11 +210,11 @@
     "en": "Million Yen Women"
    },
    "contentRating": "suggestive",
-   "score": 0.12609783,
+   "score": 0.12579565,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:22+00:00"
+ "updatedAt": "2023-12-10T18:28:58+00:00"
 }

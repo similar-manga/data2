@@ -11,9 +11,21 @@
     "en": "Red Colored Elegy"
    },
    "contentRating": "safe",
-   "score": 0.23275036,
+   "score": 0.23175448,
    "languages": [
     "ar",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.22295493,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -23,7 +35,7 @@
     "en": "Shojo Manga"
    },
    "contentRating": "safe",
-   "score": 0.21937813,
+   "score": 0.21861869,
    "languages": [
     "it",
     "tr",
@@ -59,7 +71,7 @@
     "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.21176696,
+   "score": 0.21145849,
    "languages": [
     "en"
    ]
@@ -87,20 +99,21 @@
     "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.2005209,
+   "score": 0.19955371,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
    "title": {
-    "en": "Please Eat Me, My Darling"
+    "en": "341 Sentoudan"
    },
    "contentRating": "safe",
-   "score": 0.19145532,
+   "score": 0.19262853,
    "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -109,10 +122,35 @@
     "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
    },
    "contentRating": "safe",
-   "score": 0.191321,
+   "score": 0.19153287,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "e0876e06-d116-4d04-b93c-0768c19f4f20",
+   "title": {
+    "en": "Please Eat Me, My Darling"
+   },
+   "contentRating": "safe",
+   "score": 0.19050682,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
+   "title": {
+    "en": "Rumic Theater"
+   },
+   "contentRating": "safe",
+   "score": 0.1837787,
+   "languages": [
+    "en",
+    "pl",
+    "bg",
+    "zh-hk"
    ]
   },
   {
@@ -121,7 +159,7 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.1833778,
+   "score": 0.18250722,
    "languages": [
     "es-la",
     "en",
@@ -134,7 +172,18 @@
     "en": "Hataraki Man"
    },
    "contentRating": "safe",
-   "score": 0.1799933,
+   "score": 0.17760336,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "90d36666-d091-4920-9bbe-c2fc8334969c",
+   "title": {
+    "en": "Watashi no Oniichan"
+   },
+   "contentRating": "safe",
+   "score": 0.17563495,
    "languages": [
     "en"
    ]
@@ -155,68 +204,18 @@
    ]
   },
   {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
+   "id": "8fc4ca0a-3346-4e99-a6f1-63747029c109",
    "title": {
-    "ja": "Raid on Tokyo"
+    "en": "Smoke \u0026 Honey"
    },
    "contentRating": "safe",
-   "score": 0.17334065,
+   "score": 0.17300859,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e6109f9b-c393-4c71-84f8-10e978265cae",
-   "title": {
-    "en": "Battle Angel Alita: Mars Chronicle"
-   },
-   "contentRating": "safe",
-   "score": 0.17286135,
-   "languages": [
-    "zh-hk",
+    "es-la",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "90d36666-d091-4920-9bbe-c2fc8334969c",
-   "title": {
-    "en": "Watashi no Oniichan"
-   },
-   "contentRating": "safe",
-   "score": 0.170263,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "03c9078a-0730-4637-bb3f-339a226ae3ac",
-   "title": {
-    "en": "Kaiji Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.17026117,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
-   "title": {
-    "en": "Issak"
-   },
-   "contentRating": "safe",
-   "score": 0.1701552,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "ru",
-    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:44+00:00"
+ "updatedAt": "2023-12-10T18:11:03+00:00"
 }

@@ -11,10 +11,21 @@
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.25724623,
+   "score": 0.255886,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
+   "title": {
+    "en": "Shikigami Twilight Days"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -27,17 +38,6 @@
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
-   "title": {
-    "en": "Shikigami Twilight Days"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -100,12 +100,23 @@
    ]
   },
   {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.2047871,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
    "title": {
     "en": "Bible of Black"
    },
    "contentRating": "safe",
-   "score": 0.20440549,
+   "score": 0.20399503,
    "languages": [
     "en",
     "ru"
@@ -117,7 +128,7 @@
     "en": "Mahou Shounen X"
    },
    "contentRating": "safe",
-   "score": 0.20150948,
+   "score": 0.20075846,
    "languages": [
     "en",
     "ru"
@@ -129,7 +140,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.19690864,
+   "score": 0.19543335,
    "languages": [
     "en",
     "fr"
@@ -147,39 +158,31 @@
    ]
   },
   {
-   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
+   "id": "08e503f6-2ec1-488d-bc25-3b3222524296",
    "title": {
-    "en": "Continue"
+    "en": "Killer Dream"
    },
    "contentRating": "safe",
    "score": 0.19352116,
    "languages": [
-    "pt-br",
+    "fr",
+    "ar",
+    "vi",
     "en",
-    "pl",
-    "bg"
+    "tr",
+    "id"
    ]
   },
   {
-   "id": "818222b7-44c9-4d88-a22c-9c7a9efb4a68",
+   "id": "811a001d-a10c-4c71-95c1-628da16396f2",
    "title": {
-    "en": "Gengenji"
+    "en": "Classroom"
    },
    "contentRating": "safe",
    "score": 0.19352116,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15331b78-1801-4a45-8678-c48a9161c92e",
-   "title": {
-    "en": "Mob Psycho 100×Hito Kui"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -195,5 +198,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:38+00:00"
+ "updatedAt": "2023-12-10T18:16:18+00:00"
 }

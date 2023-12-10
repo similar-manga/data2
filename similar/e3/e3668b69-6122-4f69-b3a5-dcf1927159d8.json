@@ -6,14 +6,51 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
+   "title": {
+    "en": "Higan no Orca"
+   },
+   "contentRating": "safe",
+   "score": 0.3134,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
    "title": {
     "en": "AGAPE"
    },
    "contentRating": "safe",
-   "score": 0.30263916,
+   "score": 0.30094975,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
+   "title": {
+    "en": "Souzoku Tantei"
+   },
+   "contentRating": "safe",
+   "score": 0.27155167,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b397efc4-e5e0-40e3-99b9-65b2838650ed",
+   "title": {
+    "en": "Bungo Stray Dogs Gaiden - Ayatsuji Yukito VS. Kyougoku Natsuhiko"
+   },
+   "contentRating": "safe",
+   "score": 0.26318726,
+   "languages": [
+    "ru",
+    "en",
+    "uk",
+    "pt-br"
    ]
   },
   {
@@ -22,7 +59,7 @@
     "en": "Ice Blade: The Lost File"
    },
    "contentRating": "safe",
-   "score": 0.26041177,
+   "score": 0.25878084,
    "languages": [
     "pt-br",
     "en"
@@ -34,7 +71,7 @@
     "en": "Ryoko's Case File"
    },
    "contentRating": "safe",
-   "score": 0.25942123,
+   "score": 0.2575114,
    "languages": [
     "ru",
     "en"
@@ -46,8 +83,31 @@
     "en": "Chaos Rings"
    },
    "contentRating": "safe",
-   "score": 0.25025225,
+   "score": 0.2490041,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d18c567-426e-4c11-8c49-6ec843f53cef",
+   "title": {
+    "en": "Ikigami Sairin"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+   "title": {
+    "en": "RDB"
+   },
+   "contentRating": "safe",
+   "score": 0.23390381,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -63,15 +123,15 @@
    ]
   },
   {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
    "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+    "en": "Mattaku Saikin no Tantei to Kitara"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.2258637,
    "languages": [
-    "ru",
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -84,21 +144,6 @@
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
-   "title": {
-    "en": "Tsugumi Project"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "es-la",
-    "ru"
    ]
   },
   {
@@ -115,105 +160,40 @@
    ]
   },
   {
-   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+   "id": "95264f28-3ccf-4dea-ad15-5323e4766b4c",
    "title": {
-    "en": "Bungou Stray Dogs"
+    "en": "Houseki No Kuni (Colored)"
    },
    "contentRating": "safe",
-   "score": 0.21107371,
+   "score": 0.22131334,
    "languages": [
-    "tr",
-    "pt-br",
-    "en",
-    "pl",
-    "fr",
-    "id",
-    "es-la",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.2102235,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "cade38b7-64c4-4a29-8e3c-8c283291d6c6",
+   "id": "37bf7574-641e-4665-b992-f2ba8d4652b8",
    "title": {
-    "en": "Land of the Lustrous"
+    "en": "Houseki no Kuni (Minimalist Color)"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.22131334,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "title": {
+    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
    "languages": [
     "ru",
-    "en",
-    "es-la",
-    "id",
-    "tr",
-    "fr",
-    "fa",
-    "uk",
-    "pt-br",
-    "ar",
-    "vi",
-    "pl",
-    "az"
-   ]
-  },
-  {
-   "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
-   "title": {
-    "en": "Red Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.19833878,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
-   "title": {
-    "en": "Taisho Detective"
-   },
-   "contentRating": "safe",
-   "score": 0.19475895,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9cc7955-69a8-438e-ad27-9343003506dd",
-   "title": {
-    "en": "ABLE"
-   },
-   "contentRating": "safe",
-   "score": 0.19208272,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
-   "title": {
-    "en": "Moon Edge"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:08+00:00"
+ "updatedAt": "2023-12-10T18:33:24+00:00"
 }

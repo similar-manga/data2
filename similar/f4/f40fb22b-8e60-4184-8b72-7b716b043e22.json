@@ -6,12 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8cf89dc0-667f-43ec-bfd6-931244d4045b",
+   "id": "0cc2aa24-5a33-4cfc-b277-9443ad2bc3f0",
    "title": {
-    "en": "Tell Me a Lie"
+    "en": "Fish"
    },
    "contentRating": "safe",
-   "score": 0.23814324,
+   "score": 0.25555065,
+   "languages": [
+    "es-la",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "9ecda053-6809-433a-a558-238357ac8ed3",
+   "title": {
+    "en": "Waraenu Douji - 108 no Gou"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "title": {
+    "en": "Steins;Gate 0"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "47859811-7fd7-488a-963d-bd10c081142e",
+   "title": {
+    "en": "Shiki"
+   },
+   "contentRating": "safe",
+   "score": 0.25550956,
    "languages": [
     "en"
    ]
@@ -22,7 +59,18 @@
     "en": "Vampir"
    },
    "contentRating": "safe",
-   "score": 0.23803964,
+   "score": 0.23835842,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8cf89dc0-667f-43ec-bfd6-931244d4045b",
+   "title": {
+    "en": "Tell Me a Lie"
+   },
+   "contentRating": "safe",
+   "score": 0.23723088,
    "languages": [
     "en"
    ]
@@ -39,16 +87,49 @@
    ]
   },
   {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.22790505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5e9e50a7-39cc-447c-a5b3-a459bebd7f62",
    "title": {
     "en": "Human Chair"
    },
    "contentRating": "safe",
-   "score": 0.22273019,
+   "score": 0.22284079,
    "languages": [
     "en",
     "pl",
     "uk"
+   ]
+  },
+  {
+   "id": "6e5c0ebf-86ee-4a60-83e4-fbdbe68a126e",
+   "title": {
+    "en": "Kyouka Ayakashi Hichou Kanzenban"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -63,13 +144,37 @@
    ]
   },
   {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.21490364,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "aceaec3f-1b2a-4266-b187-99e13055b15f",
    "title": {
     "en": "Poison"
    },
    "contentRating": "safe",
-   "score": 0.214867,
+   "score": 0.21475379,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+   "title": {
+    "en": "RDB"
+   },
+   "contentRating": "safe",
+   "score": 0.21366541,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -84,130 +189,7 @@
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
-   "title": {
-    "en": "AGAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.20941633,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e19a9bff-bc35-48c4-8b73-cfecb4f250c9",
-   "title": {
-    "en": "Change Mark"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
-   "title": {
-    "en": "【Oshi no Ko】"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
-   "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
-   "title": {
-    "en": "Akunin no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.19951442,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
-   "title": {
-    "en": "Snow Blind"
-   },
-   "contentRating": "safe",
-   "score": 0.19455716,
-   "languages": [
-    "fr",
-    "es-la",
-    "it",
-    "en",
-    "uk",
-    "vi",
-    "pl"
-   ]
-  },
-  {
-   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
-   "title": {
-    "en": "Semi-Eternal Happy End"
-   },
-   "contentRating": "safe",
-   "score": 0.194069,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
-   "title": {
-    "en": "Nightmare Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "9df240b5-b551-4220-80db-6dd9de413e26",
-   "title": {
-    "en": "Horobi no Mae no Shangri-La"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
-   "title": {
-    "en": "Second Coming"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:51+00:00"
+ "updatedAt": "2023-12-10T18:35:07+00:00"
 }

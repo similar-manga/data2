@@ -6,23 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
-   "title": {
-    "en": "Night Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.23127045
-  },
-  {
    "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
    "title": {
     "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.22923905,
+   "score": 0.22975042,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "42c50755-da1e-43b3-b630-2c294ea70f12",
+   "title": {
+    "en": "The Devil Ring"
+   },
+   "contentRating": "safe",
+   "score": 0.22720943
+  },
+  {
+   "id": "f09e85d9-4ae7-41ed-ab22-3383a09e83aa",
+   "title": {
+    "en": "Muryeong"
+   },
+   "contentRating": "safe",
+   "score": 0.223778
+  },
+  {
+   "id": "cf50c737-4683-4363-a847-0d142b0780b1",
+   "title": {
+    "en": "Kobayashi Shounen to Futei no Kaijin"
+   },
+   "contentRating": "safe",
+   "score": 0.22320548
   },
   {
    "id": "2948a561-5f8d-4689-a83c-88c467c32658",
@@ -30,7 +46,7 @@
     "en": "Kamidori"
    },
    "contentRating": "safe",
-   "score": 0.21063735,
+   "score": 0.21217749,
    "languages": [
     "pt-br",
     "en",
@@ -39,23 +55,23 @@
    ]
   },
   {
+   "id": "972c33fa-d85f-444f-8170-dcffb95a7a3a",
+   "title": {
+    "en": "Put it All in the Ring! - Fire Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.21140859
+  },
+  {
    "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
    "title": {
     "en": "Version"
    },
    "contentRating": "safe",
-   "score": 0.20930763,
+   "score": 0.20864531,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "84b9050c-009c-47c8-8049-3edac3b2bcd6",
-   "title": {
-    "en": "Elite"
-   },
-   "contentRating": "safe",
-   "score": 0.20732033
   },
   {
    "id": "37561c94-4903-45ee-ac89-d1b69fd11a23",
@@ -63,7 +79,15 @@
     "en": "Missileman Mummy"
    },
    "contentRating": "safe",
-   "score": 0.20729858
+   "score": 0.20711757
+  },
+  {
+   "id": "84b9050c-009c-47c8-8049-3edac3b2bcd6",
+   "title": {
+    "en": "Elite"
+   },
+   "contentRating": "safe",
+   "score": 0.20667323
   },
   {
    "id": "d5144250-b44a-4fa3-b608-30b63772909d",
@@ -71,10 +95,18 @@
     "en": "Gekitotsu no Hexennacht"
    },
    "contentRating": "safe",
-   "score": 0.20658106,
+   "score": 0.20598124,
    "languages": [
     "es-la"
    ]
+  },
+  {
+   "id": "b05b17cd-63af-47ff-994d-e2cf6974a440",
+   "title": {
+    "en": "Tenma Tenpei"
+   },
+   "contentRating": "safe",
+   "score": 0.20554657
   },
   {
    "id": "90f6cad1-7294-4856-b8c8-bd4471f34db3",
@@ -82,7 +114,7 @@
     "en": "Tokyo Jikan"
    },
    "contentRating": "safe",
-   "score": 0.19966103
+   "score": 0.19932258
   },
   {
    "id": "cc0d97d7-1ad0-4922-8442-267f5d425505",
@@ -90,31 +122,15 @@
     "en": "EDEN"
    },
    "contentRating": "safe",
-   "score": 0.19588406,
+   "score": 0.19615702,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eca1efd3-69e4-4001-9d40-f455782ba1a8",
-   "title": {
-    "en": "Crisis Buster"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695
-  },
-  {
    "id": "be8bc8c0-544c-454e-adfa-0eb28fb4661e",
    "title": {
     "en": "Biscuit～ビスケット～"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695
-  },
-  {
-   "id": "56e35328-66b3-424d-bb5a-66bc6bd80505",
-   "title": {
-    "en": "Gall Force 2: Planet of the Ark"
    },
    "contentRating": "safe",
    "score": 0.19471695
@@ -128,37 +144,13 @@
    "score": 0.19471695
   },
   {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
+   "id": "eca1efd3-69e4-4001-9d40-f455782ba1a8",
    "title": {
-    "en": "Astral Walker"
+    "en": "Crisis Buster"
    },
    "contentRating": "safe",
-   "score": 0.19471695,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a0ff83d2-1154-4e36-94e4-5b0649e6d4f5",
-   "title": {
-    "en": "Fractale"
-   },
-   "contentRating": "safe",
-   "score": 0.19470255
-  },
-  {
-   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
-   "title": {
-    "en": "Galaxy Gangs"
-   },
-   "contentRating": "safe",
-   "score": 0.19161284,
-   "languages": [
-    "de",
-    "es-la",
-    "en"
-   ]
+   "score": 0.19471695
   }
  ],
- "updatedAt": "2023-12-10T01:09:14+00:00"
+ "updatedAt": "2023-12-10T18:33:39+00:00"
 }

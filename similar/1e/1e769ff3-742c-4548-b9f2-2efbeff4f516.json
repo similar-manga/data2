@@ -11,7 +11,7 @@
     "en": "Nogizaka Asuka no Himitsu"
    },
    "contentRating": "suggestive",
-   "score": 0.2649997,
+   "score": 0.2644271,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Osananajimi to wa Romcom ni Naranai"
    },
    "contentRating": "suggestive",
-   "score": 0.23054215,
+   "score": 0.22993724,
    "languages": [
     "ru",
     "en",
@@ -42,7 +42,7 @@
     "en": "Ojousama no Shimobe"
    },
    "contentRating": "suggestive",
-   "score": 0.22590765,
+   "score": 0.22508502,
    "languages": [
     "en",
     "pt-br",
@@ -57,7 +57,7 @@
     "en": "Yowa Yowa Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.21814767,
+   "score": 0.21707594,
    "languages": [
     "vi",
     "en",
@@ -66,16 +66,14 @@
    ]
   },
   {
-   "id": "ee03b8cd-29f9-4340-8e9b-8e8db57c3393",
+   "id": "cddddb40-9285-4d83-b2ff-045ee0229b9a",
    "title": {
-    "en": "Osabori Jouzuna Komukai-san wa Ore wo Nogasanai!!"
+    "en": "Seitokai no Nichijou"
    },
    "contentRating": "suggestive",
-   "score": 0.215972,
+   "score": 0.21445222,
    "languages": [
-    "en",
-    "id",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -114,12 +112,25 @@
    ]
   },
   {
+   "id": "ee03b8cd-29f9-4340-8e9b-8e8db57c3393",
+   "title": {
+    "en": "Osabori Jouzuna Komukai-san wa Ore wo Nogasanai!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20865622,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4",
    "title": {
     "en": "Rent-A-Girlfriend"
    },
    "contentRating": "suggestive",
-   "score": 0.2038595,
+   "score": 0.20351598,
    "languages": [
     "en",
     "vi",
@@ -142,7 +153,7 @@
     "en": "Yankee JK KuzuHana-chan"
    },
    "contentRating": "suggestive",
-   "score": 0.20218591,
+   "score": 0.2014451,
    "languages": [
     "fr",
     "th",
@@ -159,72 +170,9 @@
     "en": "Ru~mu! Room No.1301"
    },
    "contentRating": "suggestive",
-   "score": 0.19638605,
+   "score": 0.20091206,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5231bb90-12bd-4791-bb2c-ce4e76506ff1",
-   "title": {
-    "en": "Zokusei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19614391,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
-   "title": {
-    "en": "Uzaki-chan wa Asobitai!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19595979,
-   "languages": [
-    "es-la",
-    "it",
-    "en",
-    "pt-br",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "de975111-c6fe-4a5a-b5f5-9fd7418caacd",
-   "title": {
-    "en": "The Boy in the All-Girls School"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19576843,
-   "languages": [
-    "pt-br",
-    "ru",
-    "tr",
-    "es-la",
-    "fr",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "b0d3d73c-afc9-4d5e-b610-d0e97dc76db6",
-   "title": {
-    "en": "Hajimete no Gal"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19576721,
-   "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "ru",
-    "fr",
-    "vi",
-    "id",
-    "it",
-    "pt-br"
    ]
   },
   {
@@ -254,7 +202,54 @@
     "vi",
     "fr"
    ]
+  },
+  {
+   "id": "b0d3d73c-afc9-4d5e-b610-d0e97dc76db6",
+   "title": {
+    "en": "Hajimete no Gal"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19576721,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "ru",
+    "fr",
+    "vi",
+    "id",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7bf163e3-123a-41c1-b2bc-8254dbe5a09b",
+   "title": {
+    "en": "2.5 Dimensional Seduction"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19576721,
+   "languages": [
+    "pt-br",
+    "th",
+    "fr",
+    "es-la",
+    "en",
+    "zh",
+    "id"
+   ]
+  },
+  {
+   "id": "5231bb90-12bd-4791-bb2c-ce4e76506ff1",
+   "title": {
+    "en": "Zokusei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19548629,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:56+00:00"
+ "updatedAt": "2023-12-10T18:11:35+00:00"
 }

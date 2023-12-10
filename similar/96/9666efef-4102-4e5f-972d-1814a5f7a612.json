@@ -11,7 +11,7 @@
     "en": "Damekko Mi-chan"
    },
    "contentRating": "safe",
-   "score": 0.34532955,
+   "score": 0.35611224,
    "languages": [
     "en"
    ]
@@ -28,38 +28,27 @@
    ]
   },
   {
-   "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
-   "title": {
-    "en": "Obake Life"
-   },
-   "contentRating": "safe",
-   "score": 0.22529903,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "ccb03ab9-94e3-4a81-8bb8-44398edf51e0",
    "title": {
     "en": "Mokume Neko no Ie"
    },
    "contentRating": "safe",
-   "score": 0.22404175,
+   "score": 0.22326328,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "9a1f5dd0-3c01-4fc1-9643-c07502673ec2",
+   "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
    "title": {
-    "en": "Roommate"
+    "en": "Obake Life"
    },
    "contentRating": "safe",
-   "score": 0.2174548,
+   "score": 0.22305071,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -72,6 +61,17 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "9a1f5dd0-3c01-4fc1-9643-c07502673ec2",
+   "title": {
+    "en": "Roommate"
+   },
+   "contentRating": "safe",
+   "score": 0.2174548,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -105,7 +105,7 @@
     "en": "Akuryou"
    },
    "contentRating": "safe",
-   "score": 0.21365777,
+   "score": 0.21180227,
    "languages": [
     "es-la",
     "pt-br",
@@ -129,44 +129,6 @@
     "fr",
     "id",
     "it"
-   ]
-  },
-  {
-   "id": "5f397c12-c83e-4c59-8ab8-33634c1cd2eb",
-   "title": {
-    "en": "Tsukigui Youma Taijishi"
-   },
-   "contentRating": "safe",
-   "score": 0.20728499,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c22c5f46-71e1-4d63-87b4-be556905e452",
-   "title": {
-    "en": "The Hot Guy and the Solitary Tiger"
-   },
-   "contentRating": "safe",
-   "score": 0.2068315,
-   "languages": [
-    "pt-br",
-    "vi",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "4ab03773-02a6-46f1-8ad5-603b755272d7",
-   "title": {
-    "en": "Exorcist and Spirit"
-   },
-   "contentRating": "safe",
-   "score": 0.20484328,
-   "languages": [
-    "id",
-    "en",
-    "vi"
    ]
   },
   {
@@ -196,16 +158,56 @@
    ]
   },
   {
-   "id": "1dbbb0c2-2fa7-4140-828e-2f8ffcd3326d",
+   "id": "c22c5f46-71e1-4d63-87b4-be556905e452",
    "title": {
-    "en": "The Psychic Business Corporation"
+    "en": "The Hot Guy and the Solitary Tiger"
    },
    "contentRating": "safe",
-   "score": 0.19811054,
+   "score": 0.20173855,
+   "languages": [
+    "pt-br",
+    "vi",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "4ab03773-02a6-46f1-8ad5-603b755272d7",
+   "title": {
+    "en": "Exorcist and Spirit"
+   },
+   "contentRating": "safe",
+   "score": 0.20040552,
+   "languages": [
+    "id",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "5f397c12-c83e-4c59-8ab8-33634c1cd2eb",
+   "title": {
+    "en": "Tsukigui Youma Taijishi"
+   },
+   "contentRating": "safe",
+   "score": 0.20009924,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "396a8b01-109e-4dd8-8e37-7d535d7712fe",
+   "title": {
+    "en": "Kokoro Rental"
+   },
+   "contentRating": "safe",
+   "score": 0.19664207,
+   "languages": [
+    "pl",
+    "en",
+    "de"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:57+00:00"
+ "updatedAt": "2023-12-10T18:25:02+00:00"
 }

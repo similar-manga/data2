@@ -11,7 +11,7 @@
     "en": "My Two Mommies"
    },
    "contentRating": "safe",
-   "score": 0.22490564,
+   "score": 0.21904507,
    "languages": [
     "en"
    ]
@@ -22,7 +22,18 @@
     "en": "Hikimori-san Won't Leave Her Room No Matter What!!"
    },
    "contentRating": "safe",
-   "score": 0.21751934,
+   "score": 0.21618478,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5ba5e1c-4886-48d8-a331-e2e4193cf6f5",
+   "title": {
+    "en": "Neko Gurashi no Gamer-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2131464,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Mangaka no Neko de Aru"
    },
    "contentRating": "safe",
-   "score": 0.21113057,
+   "score": 0.20561057,
    "languages": [
     "es-la",
     "en"
@@ -45,20 +56,8 @@
     "en": "Noritama"
    },
    "contentRating": "safe",
-   "score": 0.20797788,
+   "score": 0.20301877,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0424a8a4-500d-4ba1-b7cf-214ae7792136",
-   "title": {
-    "en": "with CAT"
-   },
-   "contentRating": "safe",
-   "score": 0.20511794,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -68,7 +67,7 @@
     "en": "Watashi no Maou-sama"
    },
    "contentRating": "safe",
-   "score": 0.20349443,
+   "score": 0.20097056,
    "languages": [
     "ru",
     "es-la",
@@ -78,20 +77,16 @@
    ]
   },
   {
-   "id": "8cc979c5-9c2d-4c16-9e83-e0a30dbcc6c7",
+   "id": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
    "title": {
-    "en": "Ojisama to Neko"
+    "en": "Maou no Jinji"
    },
    "contentRating": "safe",
-   "score": 0.20322226,
+   "score": 0.20030144,
    "languages": [
-    "ru",
-    "pt-br",
-    "fr",
-    "tr",
     "es-la",
-    "en",
-    "ar"
+    "id",
+    "en"
    ]
   },
   {
@@ -100,7 +95,7 @@
     "en": "Maou no Kyoushitsu"
    },
    "contentRating": "safe",
-   "score": 0.20046656,
+   "score": 0.19946297,
    "languages": [
     "fr",
     "en",
@@ -114,9 +109,33 @@
     "en": "A Foolish Avenger"
    },
    "contentRating": "safe",
-   "score": 0.19981432,
+   "score": 0.19771506,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0424a8a4-500d-4ba1-b7cf-214ae7792136",
+   "title": {
+    "en": "with CAT"
+   },
+   "contentRating": "safe",
+   "score": 0.19599809,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "94d60d12-452d-49f0-8d0f-5af785e561a8",
+   "title": {
+    "en": "Ramen Aka Neko"
+   },
+   "contentRating": "safe",
+   "score": 0.19531402,
+   "languages": [
+    "en",
+    "th"
    ]
   },
   {
@@ -125,34 +144,27 @@
     "en": "Meteor Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.19376673,
+   "score": 0.19311845,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "2f250080-875e-42cd-bd7b-d67ca8bd1f51",
+   "id": "8cc979c5-9c2d-4c16-9e83-e0a30dbcc6c7",
    "title": {
-    "en": "Albaroze no Neko"
+    "en": "Ojisama to Neko"
    },
    "contentRating": "safe",
-   "score": 0.19110951,
+   "score": 0.19170745,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
-   "title": {
-    "en": "Nyan Koi!"
-   },
-   "contentRating": "safe",
-   "score": 0.19110887,
-   "languages": [
-    "pl",
+    "ru",
+    "pt-br",
+    "fr",
+    "tr",
+    "es-la",
     "en",
-    "fr"
+    "ar"
    ]
   },
   {
@@ -167,27 +179,18 @@
    ]
   },
   {
-   "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
+   "id": "1a23bfac-634f-4be0-9085-4197a4e9610a",
    "title": {
-    "en": "Yoru Naku Suzume"
+    "en": "Please Don't Look, Medusa-san"
    },
    "contentRating": "safe",
    "score": 0.18952142,
    "languages": [
+    "pt-br",
+    "id",
+    "fr",
+    "tr",
     "en"
-   ]
-  },
-  {
-   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
-   "title": {
-    "en": "Tengoku no Honya"
-   },
-   "contentRating": "safe",
-   "score": 0.18952142,
-   "languages": [
-    "de",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -203,5 +206,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:40+00:00"
+ "updatedAt": "2023-12-10T18:29:42+00:00"
 }

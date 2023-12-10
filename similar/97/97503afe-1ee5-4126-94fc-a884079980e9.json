@@ -6,12 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bffa8db1-9a6a-4523-a9b3-a1818d84248a",
+   "id": "d62b8cb9-ae9e-408c-b850-5933f7e0caab",
    "title": {
-    "en": "Storm Lover"
+    "en": "Brothers Conflict Anthology - Beloved Blue"
    },
    "contentRating": "safe",
-   "score": 0.2569291
+   "score": 0.30973828
   },
   {
    "id": "fb6af183-14a9-4fbb-ac14-991e3e616ca9",
@@ -19,7 +19,7 @@
     "en": "00 Day of Summer Holiday"
    },
    "contentRating": "safe",
-   "score": 0.24951516,
+   "score": 0.25848043,
    "languages": [
     "pl",
     "bg",
@@ -28,12 +28,20 @@
    ]
   },
   {
+   "id": "bffa8db1-9a6a-4523-a9b3-a1818d84248a",
+   "title": {
+    "en": "Storm Lover"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
+  },
+  {
    "id": "c9898cf2-4f29-46e5-a00c-34de97c6b030",
    "title": {
     "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.24868497,
+   "score": 0.25453869,
    "languages": [
     "en"
    ]
@@ -44,10 +52,26 @@
     "en": "Together During Summer, Too"
    },
    "contentRating": "safe",
-   "score": 0.24374752,
+   "score": 0.252962,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9c256491-1a54-40d9-8bf5-0300edd8c6aa",
+   "title": {
+    "en": "Natsu ni, Yuki ga Furu You ni"
+   },
+   "contentRating": "safe",
+   "score": 0.24905854
+  },
+  {
+   "id": "9bfc9560-1f52-4cbe-a279-02a8c0e5f0ac",
+   "title": {
+    "en": "Kimi wa Boku no Kagayakeru Hoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.23599619
   },
   {
    "id": "01d12ee3-2524-43d6-87cf-5216f0d36a87",
@@ -55,15 +79,15 @@
     "en": "Perfect Rose"
    },
    "contentRating": "safe",
-   "score": 0.23480684
+   "score": 0.23478992
   },
   {
-   "id": "75428168-b454-4cdf-a7f0-4d4bcd69c15e",
+   "id": "53398c4d-5412-4eac-ada8-ac14d22f16fc",
    "title": {
-    "en": "Renai Otogibanashi ~Toy Box~ (Anthology)"
+    "en": "Seito Kaichou-sama no Okiniiri"
    },
    "contentRating": "safe",
-   "score": 0.22980437
+   "score": 0.23387858
   },
   {
    "id": "c4b409eb-6dda-44c3-9538-24dc479e918f",
@@ -78,99 +102,66 @@
    ]
   },
   {
+   "id": "75428168-b454-4cdf-a7f0-4d4bcd69c15e",
+   "title": {
+    "en": "Renai Otogibanashi ~Toy Box~ (Anthology)"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
+  },
+  {
+   "id": "738e5841-7034-4f5e-bd0d-b662316e27fb",
+   "title": {
+    "en": "The Student Council's Circumstances"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "bf48e745-2369-4d91-980d-d24f4beeb0f4",
    "title": {
     "en": "That Summer"
    },
    "contentRating": "safe",
-   "score": 0.21958116,
+   "score": 0.22735335,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "52d33a2d-1a4b-4b2e-9383-66bbcd7ac348",
+   "id": "155d9c8d-3329-4f05-9c01-5f03c6cb57f6",
    "title": {
-    "en": "Primo Prima!"
+    "en": "Mirai no Danna-sama"
    },
    "contentRating": "safe",
-   "score": 0.21593137,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c733b54b-91c0-4be4-ac91-270943e85929",
-   "title": {
-    "en": "Natsumeki!!"
-   },
-   "contentRating": "safe",
-   "score": 0.21168654,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d777e508-8115-4541-b898-dbfdca3142b6",
-   "title": {
-    "en": "Love Master A"
-   },
-   "contentRating": "safe",
-   "score": 0.2104199,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f7b3ea3c-3e24-4181-b32c-33133f3c3302",
-   "title": {
-    "en": "Kuusou Spin Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.21034369
-  },
-  {
-   "id": "75ff5dac-5a0b-45eb-92e5-56dc5ec54952",
-   "title": {
-    "en": "Otometeki Koi Kakumei Love Revo!!"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172
-  },
-  {
-   "id": "aab5e811-58c3-4a85-a27b-26797f7a7cf7",
-   "title": {
-    "en": "Uta no☆Prince-sama♪"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
+   "score": 0.22506468,
    "languages": [
     "en",
-    "pl"
+    "es-la"
    ]
   },
   {
-   "id": "36527ed8-def6-488e-98a2-6766a4a9c69d",
+   "id": "72a1ab07-5734-4695-b71b-87c7a1857452",
    "title": {
-    "en": "Koisuru Sha Girl"
+    "en": "Akarui Kazoku Keikaku"
    },
    "contentRating": "safe",
-   "score": 0.20926996,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22506468
   },
   {
-   "id": "7b4935f3-c0e3-4988-8b2b-6ae715e9e9ab",
+   "id": "b86bef92-0a1c-4b23-93d2-a05e286fa17b",
    "title": {
-    "en": "Kiss Me Host-Gumi"
+    "en": "Azusa Kasasagi and the Seven Enemies"
    },
    "contentRating": "safe",
-   "score": 0.20891878,
+   "score": 0.22294934,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:00+00:00"
+ "updatedAt": "2023-12-10T18:25:09+00:00"
 }

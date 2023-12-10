@@ -11,13 +11,24 @@
     "en": "Into the Net!"
    },
    "contentRating": "suggestive",
-   "score": 0.27515048,
+   "score": 0.2749657,
    "languages": [
     "fr",
     "ru",
     "en",
     "id",
     "pt-br"
+   ]
+  },
+  {
+   "id": "aac380f1-6a3b-48b9-8c25-850b7286165e",
+   "title": {
+    "en": "The First Times' Lady"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22274067,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -36,23 +47,12 @@
    ]
   },
   {
-   "id": "aac380f1-6a3b-48b9-8c25-850b7286165e",
-   "title": {
-    "en": "The First Times' Lady"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22178595,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4cec1ecc-5edd-4ec2-ad55-9effcfefa593",
    "title": {
     "en": "Orange Delivery"
    },
    "contentRating": "suggestive",
-   "score": 0.21889104,
+   "score": 0.2192271,
    "languages": [
     "en"
    ]
@@ -74,7 +74,7 @@
     "ja": "Sawaranaide Kotesashi-kun"
    },
    "contentRating": "suggestive",
-   "score": 0.20667413,
+   "score": 0.20659353,
    "languages": [
     "en",
     "pt-br"
@@ -93,24 +93,20 @@
    ]
   },
   {
+   "id": "52edbb11-8257-4723-939b-7dd65d6a561b",
+   "title": {
+    "en": "Koi ga Saku Koro Sakura Doki -Graceful Blue-"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20066321
+  },
+  {
    "id": "c9f3a393-b96c-4bb5-a17b-73bf1fc42b20",
    "title": {
     "en": "Crane Game wa yamerarenai!"
    },
    "contentRating": "suggestive",
    "score": 0.20066321
-  },
-  {
-   "id": "bcbeb855-1400-48b1-ae00-36f510c7aa18",
-   "title": {
-    "en": "Nan demo Shite Ageru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20066321,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   },
   {
    "id": "e477578d-db2f-47df-ba81-607f2bdafa65",
@@ -125,6 +121,18 @@
    ]
   },
   {
+   "id": "bcbeb855-1400-48b1-ae00-36f510c7aa18",
+   "title": {
+    "en": "Nan demo Shite Ageru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20066321,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "259e095f-8304-469d-bdba-8db1144826de",
    "title": {
     "en": "A, Sore Pon Desu!"
@@ -135,14 +143,6 @@
     "id",
     "en"
    ]
-  },
-  {
-   "id": "52edbb11-8257-4723-939b-7dd65d6a561b",
-   "title": {
-    "en": "Koi ga Saku Koro Sakura Doki -Graceful Blue-"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20066321
   },
   {
    "id": "6a0ecbba-c8d5-4d1e-ab08-c24f303cc80a",
@@ -164,7 +164,7 @@
     "en": "Kyouhaku DOG's -Another Secret-"
    },
    "contentRating": "suggestive",
-   "score": 0.19412994,
+   "score": 0.1941831,
    "languages": [
     "en"
    ]
@@ -175,7 +175,7 @@
     "en": "2.5 Dimensional Seduction"
    },
    "contentRating": "suggestive",
-   "score": 0.19230741,
+   "score": 0.19217774,
    "languages": [
     "pt-br",
     "th",
@@ -192,7 +192,7 @@
     "en": "Uzaki-chan wa Asobitai!"
    },
    "contentRating": "suggestive",
-   "score": 0.19027199,
+   "score": 0.1908563,
    "languages": [
     "es-la",
     "it",
@@ -203,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:55+00:00"
+ "updatedAt": "2023-12-10T18:35:17+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Park"
    },
    "contentRating": "safe",
-   "score": 0.33725163,
+   "score": 0.34122083,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Sunny"
    },
    "contentRating": "safe",
-   "score": 0.28858283,
+   "score": 0.2894233,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "D"
    },
    "contentRating": "safe",
-   "score": 0.28116435,
+   "score": 0.28002104,
    "languages": [
     "en"
    ]
@@ -44,10 +44,32 @@
     "en": "School Zone"
    },
    "contentRating": "safe",
-   "score": 0.27284017,
+   "score": 0.2733632,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "6a1f72e3-a2bf-4716-9724-a9c12a5489f6",
+   "title": {
+    "en": "Nagomi Club"
+   },
+   "contentRating": "safe",
+   "score": 0.27228242,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
+   "title": {
+    "en": "THE IDOLM@STER Million Live! Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.2619217,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -56,20 +78,49 @@
     "en": "Yamamoto's Ear Cleaning Shop"
    },
    "contentRating": "safe",
-   "score": 0.26290736,
+   "score": 0.26093563,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
    "title": {
-    "en": "Ikiru"
+    "en": "Olga A Yiri"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
+    "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
+   "title": {
+    "en": "Kanai-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "pl",
+    "ru",
+    "ar",
+    "en",
+    "pt-br",
+    "tr"
+   ]
+  },
+  {
+   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
+   "title": {
+    "en": "Dodoitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -115,34 +166,6 @@
    ]
   },
   {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
-   "title": {
-    "en": "Olga A Yiri"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
-   "title": {
-    "en": "Kanai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "pl",
-    "ru",
-    "ar",
-    "en",
-    "pt-br",
-    "tr"
-   ]
-  },
-  {
    "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
    "title": {
     "en": "Sayonara Bye-Bye"
@@ -156,15 +179,14 @@
    ]
   },
   {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
+   "id": "d41b265a-c8be-4011-aead-65527bab1620",
    "title": {
-    "en": "Dodoitsu"
+    "en": "Ikiru"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
-    "en",
-    "ru"
+    "en"
    ]
   },
   {
@@ -173,38 +195,13 @@
     "en": "Samayoeru Shinzou - Ninomiya Hikaru Sakuhinshuu 2"
    },
    "contentRating": "safe",
-   "score": 0.2477146,
+   "score": 0.24818614,
    "languages": [
     "tr",
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Fukugaeru"
-   },
-   "contentRating": "safe",
-   "score": 0.23662427,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de"
-   ]
-  },
-  {
-   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
-   "title": {
-    "en": "Black Humor Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.23546617,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:02+00:00"
+ "updatedAt": "2023-12-10T18:25:14+00:00"
 }

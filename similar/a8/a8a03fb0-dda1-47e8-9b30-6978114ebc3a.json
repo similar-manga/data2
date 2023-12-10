@@ -11,7 +11,7 @@
     "en": "Korisu Ballet"
    },
    "contentRating": "safe",
-   "score": 0.3783923,
+   "score": 0.38347712,
    "languages": [
     "en",
     "fr",
@@ -20,24 +20,35 @@
    ]
   },
   {
+   "id": "8ea7875c-8a88-4f6d-8f1a-340bd8b10897",
+   "title": {
+    "en": "Toe Shoes"
+   },
+   "contentRating": "safe",
+   "score": 0.33148283,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f903065a-0031-4356-a699-17dec02c5759",
    "title": {
     "en": "Miunohri to Swan"
    },
    "contentRating": "safe",
-   "score": 0.32904938,
+   "score": 0.2930067,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "8ea7875c-8a88-4f6d-8f1a-340bd8b10897",
+   "id": "d14112fb-08bf-4682-906b-f2ea454da41c",
    "title": {
-    "en": "Toe Shoes"
+    "en": "Legend of Hikari"
    },
    "contentRating": "safe",
-   "score": 0.32748678,
+   "score": 0.29005525,
    "languages": [
     "en"
    ]
@@ -48,7 +59,7 @@
     "en": "ItaKiss"
    },
    "contentRating": "safe",
-   "score": 0.25996602,
+   "score": 0.25928617,
    "languages": [
     "en"
    ]
@@ -68,15 +79,37 @@
    ]
   },
   {
+   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
+   "title": {
+    "en": "Dress-up Yuka-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.25316274,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0e26a551-4ea8-44f5-8175-e355a61f5368",
    "title": {
     "en": "I Became the Black Swan Mother of the White Swan Princess"
    },
    "contentRating": "safe",
-   "score": 0.24673696,
+   "score": 0.25086936,
    "languages": [
     "tr",
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "fc25ce20-c979-4838-8674-b0a0718a3c0f",
+   "title": {
+    "en": "Aim for the Ace!"
+   },
+   "contentRating": "safe",
+   "score": 0.25070214,
+   "languages": [
     "en"
    ]
   },
@@ -86,7 +119,18 @@
     "en": "Attack No.1"
    },
    "contentRating": "safe",
-   "score": 0.2455594,
+   "score": 0.24474894,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f65e76c4-e4fb-40be-bc9b-bf6285d72d0b",
+   "title": {
+    "en": "Love Battle Manual"
+   },
+   "contentRating": "safe",
+   "score": 0.2428231,
    "languages": [
     "en"
    ]
@@ -110,7 +154,7 @@
     "en": "Shoujo Shounen Gakkyuudan"
    },
    "contentRating": "safe",
-   "score": 0.23945047,
+   "score": 0.23984678,
    "languages": [
     "en"
    ]
@@ -121,7 +165,7 @@
     "en": "Ardour"
    },
    "contentRating": "safe",
-   "score": 0.23929352,
+   "score": 0.23835987,
    "languages": [
     "en",
     "ru"
@@ -133,70 +177,25 @@
     "en": "H³ School!"
    },
    "contentRating": "safe",
-   "score": 0.23815168,
+   "score": 0.23734774,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
+   "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
    "title": {
-    "en": "Say Love"
+    "en": "Ima, Koi wo Shite Imasu"
    },
    "contentRating": "safe",
-   "score": 0.23438968,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f25d83c-eaac-4ddb-ba04-96e933e1d7e8",
-   "title": {
-    "en": "Chibi to Pocchari de Renai Shimasu kedo, Nani ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.23193334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
-   "title": {
-    "en": "Glass Mask"
-   },
-   "contentRating": "safe",
-   "score": 0.2312451,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
-   "title": {
-    "en": "Skip Beat!"
-   },
-   "contentRating": "safe",
-   "score": 0.2208066,
+   "score": 0.23395328,
    "languages": [
     "en",
-    "pl",
-    "ar",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "ef24ac2a-b28e-4f51-a219-ab8478defe33",
-   "title": {
-    "en": "Princess Army"
-   },
-   "contentRating": "safe",
-   "score": 0.22050822,
-   "languages": [
-    "en"
+    "hu",
+    "es-la",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:42+00:00"
+ "updatedAt": "2023-12-10T18:27:08+00:00"
 }

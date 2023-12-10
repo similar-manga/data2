@@ -11,7 +11,7 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.2980971,
+   "score": 0.29508087,
    "languages": [
     "en"
    ]
@@ -22,10 +22,26 @@
     "en": "The Undefeated Newbie"
    },
    "contentRating": "safe",
-   "score": 0.2871657,
+   "score": 0.28467962,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "53c4d807-660f-4b10-9e45-726925b41dcd",
+   "title": {
+    "en": "Kill The Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.2779865,
+   "languages": [
+    "fa",
+    "id",
+    "pl",
+    "it",
+    "fr",
+    "en"
    ]
   },
   {
@@ -34,7 +50,7 @@
     "en": "Trigger"
    },
    "contentRating": "safe",
-   "score": 0.28005442,
+   "score": 0.27726784,
    "languages": [
     "en"
    ]
@@ -45,10 +61,46 @@
     "en": "Housekeeper"
    },
    "contentRating": "safe",
-   "score": 0.27424446,
+   "score": 0.27303985,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "16a74443-06a2-4fb7-8996-2c45dd829ea5",
+   "title": {
+    "en": "Beginning of the Human Age"
+   },
+   "contentRating": "safe",
+   "score": 0.2617711,
+   "languages": [
+    "es",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "1ffe4df3-08dd-4fae-9158-faa82377bddd",
+   "title": {
+    "en": "Tomorrow’s Disaster"
+   },
+   "contentRating": "safe",
+   "score": 0.26121667,
+   "languages": [
+    "id"
+   ]
+  },
+  {
+   "id": "c89c91dc-e92a-4a21-a3b3-58c8ed388ba4",
+   "title": {
+    "en": "Mr. Zombie"
+   },
+   "contentRating": "safe",
+   "score": 0.2580836,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -57,9 +109,20 @@
     "en": "Machine Era"
    },
    "contentRating": "safe",
-   "score": 0.25743535,
+   "score": 0.25751463,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "17dbf20a-8430-4af6-be74-9d9a480e932d",
+   "title": {
+    "en": "Sea of Monsters"
+   },
+   "contentRating": "safe",
+   "score": 0.25453207,
+   "languages": [
     "en"
    ]
   },
@@ -69,7 +132,7 @@
     "en": "Strange Invasion"
    },
    "contentRating": "safe",
-   "score": 0.25338587,
+   "score": 0.25221795,
    "languages": [
     "en"
    ]
@@ -80,109 +143,56 @@
     "en": "Deadman"
    },
    "contentRating": "safe",
-   "score": 0.24758054,
+   "score": 0.24579126,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "92477248-006e-46b5-b0cb-2aa84e565626",
+   "id": "b75b76c2-1b2e-4f32-aef5-77294ccbba94",
    "title": {
-    "en": "The Legend of New World’s Boss"
+    "en": "5 Evils"
    },
    "contentRating": "safe",
-   "score": 0.24360149,
+   "score": 0.24492952,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4e7cbb61-230a-486c-9473-92fdefb59fc0",
+   "id": "6bd03343-8f79-45d5-90e5-af05b377d27b",
    "title": {
-    "en": "Apocalyptic Super System"
+    "en": "The Great Monster War"
    },
    "contentRating": "safe",
-   "score": 0.24327084,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "85f141a4-0b63-434a-99a6-b8cdb23e7459",
-   "title": {
-    "en": "Metro Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.24264161
-  },
-  {
-   "id": "017928fe-96c5-4865-9b7f-1f7bc1b22824",
-   "title": {
-    "en": "I Used to Be a Boss"
-   },
-   "contentRating": "safe",
-   "score": 0.24036501,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "72326fce-30af-4452-9404-afca5bd13c0d",
-   "title": {
-    "en": "Midwood"
-   },
-   "contentRating": "safe",
-   "score": 0.23822138,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b08ae7dd-947a-4275-be6c-efce64a1f305",
-   "title": {
-    "en": "The Evolution"
-   },
-   "contentRating": "safe",
-   "score": 0.23766933,
+   "score": 0.24453677,
    "languages": [
     "fr",
-    "es",
-    "ar"
+    "en"
    ]
   },
   {
-   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
+   "id": "1599490a-e2fe-4d79-9c77-d88657210d13",
    "title": {
-    "en": "Monster Kingdom"
+    "en": "Goblin Hunter"
    },
    "contentRating": "safe",
-   "score": 0.2375526,
+   "score": 0.24325599,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "accc086b-2673-487d-8e06-a48c1d7c5a52",
+   "id": "265da069-ca97-434a-ba54-d118ed9b6e7f",
    "title": {
-    "en": "Poison Candy"
+    "en": "I Have 999 Abilities"
    },
    "contentRating": "safe",
-   "score": 0.23580168,
+   "score": 0.24322255,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c0263506-e3f3-44c0-822f-9a3ee6f529d9",
-   "title": {
-    "en": "Apocalypse Shelter Supervisor"
-   },
-   "contentRating": "safe",
-   "score": 0.23572661
   }
  ],
- "updatedAt": "2023-12-10T01:08:20+00:00"
+ "updatedAt": "2023-12-10T18:31:23+00:00"
 }

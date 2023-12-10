@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5cc956f2-5033-41f9-8e0d-91e2cfe3a733",
+   "title": {
+    "en": "Princess to the Rescue!"
+   },
+   "contentRating": "safe",
+   "score": 0.27687424,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "6e3d18c6-3ff0-4ed7-8eaa-793f8859e918",
    "title": {
     "en": "Shinyuu Ouji to Koshiginchaku"
    },
    "contentRating": "safe",
-   "score": 0.26296964,
+   "score": 0.2572657,
    "languages": [
     "id",
     "en",
@@ -20,15 +32,39 @@
    ]
   },
   {
+   "id": "0a0269f7-085a-4933-a848-0b9fa6d68635",
+   "title": {
+    "en": "Pangaea/Ezel"
+   },
+   "contentRating": "safe",
+   "score": 0.25623366
+  },
+  {
    "id": "f183b2f5-987c-400e-8156-8e497eab0082",
    "title": {
     "en": "One Thousand and One Nights in Wonder Land"
    },
    "contentRating": "safe",
-   "score": 0.24980317,
+   "score": 0.24647285,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "35abbb72-80c1-40d0-835a-b93970511890",
+   "title": {
+    "en": "Tajjii Majjii"
+   },
+   "contentRating": "safe",
+   "score": 0.23992726
+  },
+  {
+   "id": "d37258b7-d381-4697-9640-4e737e62304a",
+   "title": {
+    "en": "Tenryuu"
+   },
+   "contentRating": "safe",
+   "score": 0.237185
   },
   {
    "id": "4be1a897-d03d-46ce-9860-7af22d434c30",
@@ -36,10 +72,18 @@
     "en": "Ouji to Majou to Himegimi to"
    },
    "contentRating": "safe",
-   "score": 0.23573242,
+   "score": 0.23428251,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "cacc31f9-721f-4d30-bb97-6d1fd8488612",
+   "title": {
+    "en": "Kojirase Outaishi to Yakusoku no Himegimi"
+   },
+   "contentRating": "safe",
+   "score": 0.22984456
   },
   {
    "id": "4b3a79b2-64ba-452e-b014-94b5a3e1e4e9",
@@ -47,7 +91,7 @@
     "en": "Himegimi no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.2288207,
+   "score": 0.22863318,
    "languages": [
     "en"
    ]
@@ -58,7 +102,7 @@
     "en": "Kaizoku Hime ~Captain Rose no Bouken~"
    },
    "contentRating": "safe",
-   "score": 0.22743955,
+   "score": 0.22721742,
    "languages": [
     "en"
    ]
@@ -76,17 +120,22 @@
    ]
   },
   {
-   "id": "80e639bf-72aa-4909-beff-2e2e4a8d31f1",
+   "id": "77a26641-5e3d-44f4-91ac-56eb78326204",
    "title": {
-    "en": "Princess Coda and the Cursed Collar"
+    "en": "Why Would The Princess Be Mischievous"
    },
    "contentRating": "safe",
-   "score": 0.22283718,
+   "score": 0.22492711
+  },
+  {
+   "id": "b18446fd-24bb-41bd-88c7-c9bd4746d0d2",
+   "title": {
+    "en": "Kyle's Final Fantasy"
+   },
+   "contentRating": "safe",
+   "score": 0.22411017,
    "languages": [
-    "ru",
-    "en",
-    "ca",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -98,88 +147,27 @@
    "score": 0.22188008
   },
   {
+   "id": "80e639bf-72aa-4909-beff-2e2e4a8d31f1",
+   "title": {
+    "en": "Princess Coda and the Cursed Collar"
+   },
+   "contentRating": "safe",
+   "score": 0.22045293,
+   "languages": [
+    "ru",
+    "en",
+    "ca",
+    "pt-br"
+   ]
+  },
+  {
    "id": "9312be6c-9dac-4697-8860-156e49c13e6e",
    "title": {
     "en": "Root W.P.B."
    },
    "contentRating": "safe",
-   "score": 0.21739243
-  },
-  {
-   "id": "53c0f7cf-6caf-4d87-a3dc-a26dda5b7086",
-   "title": {
-    "en": "Erementar Gerad -Aozora no Senki-"
-   },
-   "contentRating": "safe",
-   "score": 0.21575242,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "38ec9c6f-c7c0-4a77-a206-f64a6a59e434",
-   "title": {
-    "en": "Clay Lord"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c3161e4a-3f7b-4b60-8ef6-325dc1185f6c",
-   "title": {
-    "en": "Akuochi Hime to Yasashisugiru Maou-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.21198447
-  },
-  {
-   "id": "2fc07ee2-7f4d-4359-ac19-e31102f7bc68",
-   "title": {
-    "en": "Princess Wars"
-   },
-   "contentRating": "safe",
-   "score": 0.20968366,
-   "languages": [
-    "uk",
-    "ru",
-    "pt-br",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "a5671a47-5bc2-44a7-9d22-68599d75226c",
-   "title": {
-    "en": "What Kind Of Newbie Are You?! They Said That “Summoner” Is A Terrible Job, Yet They Call Her The Last Boss"
-   },
-   "contentRating": "safe",
-   "score": 0.20963478
-  },
-  {
-   "id": "f885eaba-50ef-403a-868c-8315e2ebc315",
-   "title": {
-    "en": "In My Previous Life, I Was A Saint, But Now I Want To Cut Corners"
-   },
-   "contentRating": "safe",
-   "score": 0.20797724,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59da7146-c5b4-4365-8e9e-4d2442384e25",
-   "title": {
-    "en": "Ore Alice - Danjo Gyakuten"
-   },
-   "contentRating": "safe",
-   "score": 0.2062655,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2157234
   }
  ],
- "updatedAt": "2023-12-10T01:05:33+00:00"
+ "updatedAt": "2023-12-10T18:24:02+00:00"
 }

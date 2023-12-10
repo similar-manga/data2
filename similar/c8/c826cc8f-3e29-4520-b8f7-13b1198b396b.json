@@ -11,7 +11,7 @@
     "en": "Darius = Sagaia"
    },
    "contentRating": "safe",
-   "score": 0.30966187
+   "score": 0.31632432
   },
   {
    "id": "831ace7f-9828-4926-9068-40e2513c758b",
@@ -19,7 +19,7 @@
     "en": "Superman Barom 1"
    },
    "contentRating": "safe",
-   "score": 0.24640876
+   "score": 0.2465735
   },
   {
    "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
@@ -27,16 +27,16 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.23557253,
+   "score": 0.24265255,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "67f032fc-1475-4e17-851b-cd30bdd19e71",
+   "id": "d12545b2-4506-44a1-b63c-697a89a1fcc9",
    "title": {
-    "en": "Welcome to the Space Show"
+    "en": "Meteor Human Zone"
    },
    "contentRating": "safe",
    "score": 0.23328476
@@ -50,20 +50,25 @@
    "score": 0.23328476
   },
   {
-   "id": "d12545b2-4506-44a1-b63c-697a89a1fcc9",
+   "id": "67f032fc-1475-4e17-851b-cd30bdd19e71",
    "title": {
-    "en": "Meteor Human Zone"
+    "en": "Welcome to the Space Show"
    },
    "contentRating": "safe",
    "score": 0.23328476
   },
   {
-   "id": "3c19a0b4-17d9-4524-a5be-beac7dbb5ff6",
+   "id": "775979ab-feb9-4f86-a574-3492efb995f4",
    "title": {
-    "en": "Planetary Mask"
+    "en": "Lupin III: Neighbor World Princess"
    },
    "contentRating": "safe",
-   "score": 0.21159418
+   "score": 0.21626507,
+   "languages": [
+    "en",
+    "ru",
+    "es"
+   ]
   },
   {
    "id": "32e6167d-9ab6-4ac1-b1ef-dded40ddd986",
@@ -71,7 +76,15 @@
     "en": "Development Planet C-9"
    },
    "contentRating": "safe",
-   "score": 0.20963612
+   "score": 0.21447499
+  },
+  {
+   "id": "3c19a0b4-17d9-4524-a5be-beac7dbb5ff6",
+   "title": {
+    "en": "Planetary Mask"
+   },
+   "contentRating": "safe",
+   "score": 0.21419503
   },
   {
    "id": "2825dff7-608f-437d-9e6a-4fbda5c4984b",
@@ -79,15 +92,7 @@
     "en": "Planet Boy Pappy"
    },
    "contentRating": "safe",
-   "score": 0.20637248
-  },
-  {
-   "id": "f6919c25-e19a-4943-ab10-dfcbe18de240",
-   "title": {
-    "en": "Dead Zone"
-   },
-   "contentRating": "safe",
-   "score": 0.2038927
+   "score": 0.20881537
   },
   {
    "id": "fe118f30-bff8-4f52-b5c4-2143d26a0fb4",
@@ -95,15 +100,15 @@
     "en": "Super Electromagnetic War Victory Five"
    },
    "contentRating": "safe",
-   "score": 0.19965644
+   "score": 0.20507711
   },
   {
-   "id": "c51c347b-8e7f-42ab-88ee-0d72ffee73e4",
+   "id": "f6919c25-e19a-4943-ab10-dfcbe18de240",
    "title": {
-    "en": "Space Pit"
+    "en": "Dead Zone"
    },
    "contentRating": "safe",
-   "score": 0.19856735
+   "score": 0.20365594
   },
   {
    "id": "556be871-c9b4-4bcf-82bb-b1074e9f2cbb",
@@ -111,7 +116,15 @@
     "en": "Siren Senki"
    },
    "contentRating": "safe",
-   "score": 0.19435242
+   "score": 0.19801669
+  },
+  {
+   "id": "c51c347b-8e7f-42ab-88ee-0d72ffee73e4",
+   "title": {
+    "en": "Space Pit"
+   },
+   "contentRating": "safe",
+   "score": 0.19775197
   },
   {
    "id": "17364102-554c-4dba-804e-b47be457e600",
@@ -119,27 +132,19 @@
     "en": "Star Ocean - To the Far Side of Time"
    },
    "contentRating": "safe",
-   "score": 0.1923788,
+   "score": 0.19118193,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "424df4c3-ba2c-4998-b8a8-def02ac84a86",
+   "id": "24c7f730-6896-41d4-84e6-dc138dc010bd",
    "title": {
-    "en": "Super Electron Bioman"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621
-  },
-  {
-   "id": "b7856042-9bf3-4ad3-82e3-fbf442185561",
-   "title": {
-    "en": "Super Star Force"
+    "en": "Star Fox (Bon Bon)"
    },
    "contentRating": "safe",
    "score": 0.19047621
   }
  ],
- "updatedAt": "2023-12-10T01:08:00+00:00"
+ "updatedAt": "2023-12-10T18:30:34+00:00"
 }

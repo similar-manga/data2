@@ -11,7 +11,7 @@
     "en": "Matohazure Q-doubu"
    },
    "contentRating": "safe",
-   "score": 0.29927674,
+   "score": 0.29382876,
    "languages": [
     "en"
    ]
@@ -22,7 +22,31 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.24062836,
+   "score": 0.2416614,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "title": {
+    "en": "Little War"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "title": {
+    "en": "Ryuudan Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
@@ -53,36 +77,12 @@
    ]
   },
   {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
-   "title": {
-    "en": "Little War"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
-   "title": {
-    "en": "Ryuudan Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "baa0c2b8-c4ae-4951-bb4d-4f44e311c934",
    "title": {
     "en": "Izanaeru"
    },
    "contentRating": "safe",
-   "score": 0.22930065,
+   "score": 0.22877274,
    "languages": [
     "en"
    ]
@@ -101,27 +101,27 @@
    ]
   },
   {
-   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
-   "title": {
-    "en": "Meikai no Pendulum"
-   },
-   "contentRating": "safe",
-   "score": 0.20338246,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
    "title": {
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.20311137,
+   "score": 0.20438471,
    "languages": [
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
+   "title": {
+    "en": "Meikai no Pendulum"
+   },
+   "contentRating": "safe",
+   "score": 0.20222305,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -130,7 +130,7 @@
     "en": "Rico"
    },
    "contentRating": "safe",
-   "score": 0.19977047,
+   "score": 0.20062788,
    "languages": [
     "en"
    ]
@@ -141,7 +141,7 @@
     "en": "Arborist"
    },
    "contentRating": "safe",
-   "score": 0.19841282,
+   "score": 0.19777656,
    "languages": [
     "en",
     "fr"
@@ -153,7 +153,7 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.19787408,
+   "score": 0.19768253,
    "languages": [
     "fr",
     "en",
@@ -162,38 +162,39 @@
    ]
   },
   {
-   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
+   "id": "2f86d265-fc88-41db-929e-5dab9ac74352",
    "title": {
-    "en": "Blood-Coloured Forbidden Territory"
+    "en": "Mario"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
+    "pl",
+    "id",
+    "th",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "bd0d428d-8caf-4747-9b42-a6983ab28a4e",
-   "title": {
-    "en": "The Scum of the Galaxy"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "ru",
+    "uk",
     "it",
-    "fr",
-    "pt-br",
-    "en",
-    "tr",
-    "de"
+    "fr"
    ]
   },
   {
-   "id": "8e88a56f-6ba0-4fd1-890a-5adbb9c76b09",
+   "id": "6c583845-8276-4f80-b90b-902959b5d240",
    "title": {
-    "en": "Sasabunechou Konjaku"
+    "en": "Tokyo Depato Sensou Taikenki"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
+   "title": {
+    "en": "29 de Bukiyou de"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -202,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:31+00:00"
+ "updatedAt": "2023-12-10T18:31:52+00:00"
 }

@@ -6,26 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "684d282e-5422-49ea-ac5d-3e7b4190a924",
+   "id": "5df61121-3e7b-4383-89ae-387c4930b987",
    "title": {
-    "en": "Kimi ga Hikari"
+    "en": "Houkago - Kindan no Lesson"
    },
    "contentRating": "safe",
-   "score": 0.2756079,
+   "score": 0.34595785,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3e070544-2ea0-45ea-867d-5e8547a202d9",
+   "id": "684d282e-5422-49ea-ac5d-3e7b4190a924",
    "title": {
-    "en": "Life x 01"
+    "en": "Kimi ga Hikari"
    },
    "contentRating": "safe",
-   "score": 0.20739752,
+   "score": 0.27984405,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -40,23 +39,35 @@
    ]
   },
   {
+   "id": "3e070544-2ea0-45ea-867d-5e8547a202d9",
+   "title": {
+    "en": "Life x 01"
+   },
+   "contentRating": "safe",
+   "score": 0.20662047,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "1acf9ab1-cee1-486a-b71e-70a8b2a508ee",
    "title": {
     "en": "MISS"
    },
    "contentRating": "safe",
-   "score": 0.20007892,
+   "score": 0.2000387,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
+   "id": "d0292d00-1dd7-4fba-80f6-e5c9345258b2",
    "title": {
-    "en": "Unbeatable Youth"
+    "en": "Gekki"
    },
    "contentRating": "safe",
-   "score": 0.1873676,
+   "score": 0.19829254,
    "languages": [
     "en"
    ]
@@ -75,6 +86,32 @@
    ]
   },
   {
+   "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
+   "title": {
+    "en": "Unbeatable Youth"
+   },
+   "contentRating": "safe",
+   "score": 0.18672948,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
+   "title": {
+    "en": "Satsuriku no Tenshi: Episode.0"
+   },
+   "contentRating": "safe",
+   "score": 0.18435472,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "es",
+    "pl"
+   ]
+  },
+  {
    "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
    "title": {
     "en": "Deguchi Zero"
@@ -86,26 +123,47 @@
    ]
   },
   {
-   "id": "cea391ad-be50-4a38-92b8-81b3f21bcd9a",
+   "id": "461dc6ac-f2d4-4893-a7e5-b6c8f0c1c19a",
    "title": {
-    "en": "Shoujo Shounen Gakkyuudan"
+    "en": "Parham Itan: Tales From Beyond"
    },
    "contentRating": "safe",
-   "score": 0.18196134,
+   "score": 0.18435472,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f903065a-0031-4356-a699-17dec02c5759",
+   "id": "2da17e6d-5ddf-4dcf-a31f-11e2da9df38c",
    "title": {
-    "en": "Miunohri to Swan"
+    "en": "What Do You Need?"
    },
    "contentRating": "safe",
-   "score": 0.1816681,
+   "score": 0.18197893,
    "languages": [
-    "en",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "cea391ad-be50-4a38-92b8-81b3f21bcd9a",
+   "title": {
+    "en": "Shoujo Shounen Gakkyuudan"
+   },
+   "contentRating": "safe",
+   "score": 0.18170717,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+   "title": {
+    "en": "Kamisama Game"
+   },
+   "contentRating": "safe",
+   "score": 0.17799766,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -129,66 +187,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
-   "title": {
-    "en": "Kamisama Game"
-   },
-   "contentRating": "safe",
-   "score": 0.17799766,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
-   "title": {
-    "en": "Mane of the Wind"
-   },
-   "contentRating": "safe",
-   "score": 0.17299747,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a110e7d0-e6b8-4f9d-859a-0863e4bdad62",
-   "title": {
-    "en": "Goshimei! Host Kyoushi J"
-   },
-   "contentRating": "safe",
-   "score": 0.17179279,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b321e05c-c1e4-4837-8e61-d6e450f6c319",
-   "title": {
-    "en": "Ko no Ren ni Namidasuru!"
-   },
-   "contentRating": "safe",
-   "score": 0.17080206,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d110834c-0280-42fe-95d9-4f79e939ca0a",
-   "title": {
-    "en": "Hananoi-kun to Koi no Yamai"
-   },
-   "contentRating": "safe",
-   "score": 0.16991284,
-   "languages": [
-    "hu",
-    "en",
-    "it",
-    "es-la",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:48+00:00"
 }

@@ -11,10 +11,22 @@
     "en": "Start Raising Dragons From Today"
    },
    "contentRating": "safe",
-   "score": 0.25095826,
+   "score": 0.24233872,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "f270c4dc-74b8-4ef6-bcd9-29eb3ca4709a",
+   "title": {
+    "en": "Dragon of the Lake"
+   },
+   "contentRating": "safe",
+   "score": 0.2418458,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -23,7 +35,7 @@
     "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
    },
    "contentRating": "safe",
-   "score": 0.23967306,
+   "score": 0.23366126,
    "languages": [
     "ru",
     "en",
@@ -33,16 +45,42 @@
    ]
   },
   {
-   "id": "b055038b-fb73-4d1d-b2fa-57fbf28d1e1d",
+   "id": "b632dd7f-f166-45f5-b141-71f0d8b14efe",
    "title": {
-    "en": "The Heroine of Drayfox"
+    "en": "Wizard of Arsenia"
    },
    "contentRating": "safe",
-   "score": 0.22816241,
+   "score": 0.23257352,
    "languages": [
-    "es",
+    "pt-br",
+    "fr",
     "en",
-    "fr"
+    "id",
+    "it",
+    "th"
+   ]
+  },
+  {
+   "id": "87eafb4e-f5ba-4833-b5dc-ed0489fd85c1",
+   "title": {
+    "en": "Sunny With a Chance of Dragons!"
+   },
+   "contentRating": "safe",
+   "score": 0.23006772,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf327014-2ad7-40ec-8914-996a69a76348",
+   "title": {
+    "en": "My Dragon System"
+   },
+   "contentRating": "safe",
+   "score": 0.22617076,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -51,41 +89,7 @@
     "en": "A Magical Feeling"
    },
    "contentRating": "safe",
-   "score": 0.2235031
-  },
-  {
-   "id": "3d32e623-10f8-4435-aeab-469b29a8c91c",
-   "title": {
-    "en": "Seijo wa Ryuukishi-sama ni Mamorarete"
-   },
-   "contentRating": "safe",
-   "score": 0.22345681
-  },
-  {
-   "id": "4017de66-fe69-4e46-baa8-787c399de6d2",
-   "title": {
-    "en": "Magic Level 99990000 All-Attribute Great Sage"
-   },
-   "contentRating": "safe",
-   "score": 0.22005416,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "a52fde59-7cd3-433b-8a44-3b2ec46dd87f",
-   "title": {
-    "en": "That Time Only Akari Got Reincarnated as a Slime"
-   },
-   "contentRating": "safe",
-   "score": 0.21916538,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru"
-   ]
+   "score": 0.2216516
   },
   {
    "id": "8554c408-024a-431f-be01-d245da366943",
@@ -93,7 +97,7 @@
     "en": "Both of Them Were Reincarnated into Another World"
    },
    "contentRating": "safe",
-   "score": 0.21882102,
+   "score": 0.2208278,
    "languages": [
     "id",
     "es-la",
@@ -102,87 +106,92 @@
    ]
   },
   {
+   "id": "3d32e623-10f8-4435-aeab-469b29a8c91c",
+   "title": {
+    "en": "Seijo wa Ryuukishi-sama ni Mamorarete"
+   },
+   "contentRating": "safe",
+   "score": 0.22077005
+  },
+  {
+   "id": "a52fde59-7cd3-433b-8a44-3b2ec46dd87f",
+   "title": {
+    "en": "That Time Only Akari Got Reincarnated as a Slime"
+   },
+   "contentRating": "safe",
+   "score": 0.22037342,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "4017de66-fe69-4e46-baa8-787c399de6d2",
+   "title": {
+    "en": "Magic Level 99990000 All-Attribute Great Sage"
+   },
+   "contentRating": "safe",
+   "score": 0.21973625,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "88e3dc96-30c2-40e5-bb59-6b8f003e22b3",
+   "title": {
+    "en": "Glacias"
+   },
+   "contentRating": "safe",
+   "score": 0.21370192
+  },
+  {
+   "id": "4fa874aa-e7dc-4fb8-b0cd-c7fde3d7bf34",
+   "title": {
+    "en": "My Girlfriend Is a Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.21359304,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "e73f50c5-e8a6-4475-a6ac-f932c54f5333",
+   "title": {
+    "en": "City of Souls"
+   },
+   "contentRating": "safe",
+   "score": 0.21052502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ce23a09-6dd6-4fdc-bd18-a7d5f440480a",
+   "title": {
+    "en": "The Daughter of Evil and Miss Devil"
+   },
+   "contentRating": "safe",
+   "score": 0.20833428,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "23c0e89e-3a9c-421e-9e46-c800f84a657f",
    "title": {
     "en": "The Heroine Wants Me as Her Sister-in-Law"
    },
    "contentRating": "safe",
-   "score": 0.20973149,
+   "score": 0.20820285,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "37a1d8d4-774d-481e-a7ab-49c7735ff2c2",
-   "title": {
-    "en": "Don't Be My Darling"
-   },
-   "contentRating": "safe",
-   "score": 0.20504843
-  },
-  {
-   "id": "d3d86139-3c1f-4c29-8b5c-eb6573eea39a",
-   "title": {
-    "en": "Akuyaku Reijou, Godome no Jinsei wo Jaryuu to Ikiru"
-   },
-   "contentRating": "safe",
-   "score": 0.20385082,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "9dc9430e-e6c1-4af3-a684-6445062cb634",
-   "title": {
-    "en": "I Became a Dragon in the Sorceress's Hand"
-   },
-   "contentRating": "safe",
-   "score": 0.20367765,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d0e46cc6-d837-4794-a10b-bcc47b9e0fd8",
-   "title": {
-    "en": "The Reincarnated Noble Who Was Exiled, Uses a Useless Skill to Rule Over Domestic Affairs~ Was Supposed to Run the Territory Freely, but Thanks to the Skill \"Gacha\", Ended Up Creating the Strongest Territory~"
-   },
-   "contentRating": "safe",
-   "score": 0.20305093
-  },
-  {
-   "id": "99121e02-dc49-4a46-9b52-592e51aa55fd",
-   "title": {
-    "en": "Reincarnated Princess Loved by Scum"
-   },
-   "contentRating": "safe",
-   "score": 0.20288984,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7d0711e6-abd3-470b-98b1-8d9895f06e7f",
-   "title": {
-    "en": "The Northern Duke Needs a Warm Hug"
-   },
-   "contentRating": "safe",
-   "score": 0.20261149
-  },
-  {
-   "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
-   "title": {
-    "en": "Monster Bar"
-   },
-   "contentRating": "safe",
-   "score": 0.20197931,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:34+00:00"
+ "updatedAt": "2023-12-10T18:18:42+00:00"
 }

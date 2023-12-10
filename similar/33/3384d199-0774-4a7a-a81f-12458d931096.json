@@ -18,6 +18,21 @@
    ]
   },
   {
+   "id": "336fdb39-ebff-4ad5-aa87-7fc7e5d61360",
+   "title": {
+    "en": "Apollo"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "ru",
+    "zh-hk",
+    "ar",
+    "en"
+   ]
+  },
+  {
    "id": "b4275939-e5bd-49d5-84c8-bf6d1cbc8b66",
    "title": {
     "en": "Rabbit Foot"
@@ -40,21 +55,6 @@
    ]
   },
   {
-   "id": "336fdb39-ebff-4ad5-aa87-7fc7e5d61360",
-   "title": {
-    "en": "Apollo"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "ru",
-    "zh-hk",
-    "ar",
-    "en"
-   ]
-  },
-  {
    "id": "1a7b1cda-c622-4184-9a77-df6ac9fe50c8",
    "title": {
     "en": "Golden Sun - Dark Dawn"
@@ -71,7 +71,7 @@
     "en": "Tenkyuugi"
    },
    "contentRating": "safe",
-   "score": 0.24524975,
+   "score": 0.24501605,
    "languages": [
     "en"
    ]
@@ -82,7 +82,7 @@
     "en": "Noël la neige"
    },
    "contentRating": "safe",
-   "score": 0.24366353,
+   "score": 0.24361263,
    "languages": [
     "de",
     "fr",
@@ -98,7 +98,7 @@
     "en": "Ignite"
    },
    "contentRating": "safe",
-   "score": 0.24211544,
+   "score": 0.24196246,
    "languages": [
     "en"
    ]
@@ -109,7 +109,7 @@
     "en": "Doragagaga"
    },
    "contentRating": "safe",
-   "score": 0.24022776,
+   "score": 0.2399603,
    "languages": [
     "ru",
     "en"
@@ -121,7 +121,7 @@
     "en": "Stray Dog"
    },
    "contentRating": "safe",
-   "score": 0.23756711,
+   "score": 0.23724167,
    "languages": [
     "en",
     "it",
@@ -135,41 +135,16 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.23578121,
+   "score": 0.23515591,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
+   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
    "title": {
-    "en": "Zenei no Archer"
-   },
-   "contentRating": "safe",
-   "score": 0.23366712,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "90b4ac2b-77ea-4a61-a97d-3f6417bd7dfa",
-   "title": {
-    "en": "DRUMP"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "de",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "a175d275-1413-486f-9378-46a87b2789dc",
-   "title": {
-    "en": "Tales of the World - Radiant Mythology 3: Hajimari no Kiseki"
+    "en": "Final Re:Quest"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -189,17 +164,41 @@
    ]
   },
   {
-   "id": "3d314469-87cd-4a31-923f-f0fe14ccd0e8",
+   "id": "b32a84d0-bf75-4d9c-a4bb-17c74f83416f",
    "title": {
-    "en": "Fuseikai no Shiro Madoushi"
+    "en": "Crown"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "19e75e0a-13e8-44b9-8510-c348bae6fc7c",
+   "title": {
+    "en": "Chaos Theory"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "90b4ac2b-77ea-4a61-a97d-3f6417bd7dfa",
+   "title": {
+    "en": "DRUMP"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "de",
+    "es",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:43+00:00"
+ "updatedAt": "2023-12-10T18:13:49+00:00"
 }

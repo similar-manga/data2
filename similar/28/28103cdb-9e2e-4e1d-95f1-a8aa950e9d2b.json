@@ -6,12 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
+   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
    "title": {
-    "en": "ism/i"
+    "en": "Niki."
    },
    "contentRating": "safe",
-   "score": 0.2404581,
+   "score": 0.25770497,
    "languages": [
     "en"
    ]
@@ -22,7 +22,29 @@
     "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
    },
    "contentRating": "safe",
-   "score": 0.24002753,
+   "score": 0.24080603,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
+   "title": {
+    "en": "ism/i"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1daf1350-4b1f-4e33-bf1d-996f4089e4a9",
+   "title": {
+    "en": "Tsuihousareta Meika no Chounan – Baka ni Sareta Hazure Skill de Saikyou e to Nobori Tsumeru"
+   },
+   "contentRating": "safe",
+   "score": 0.22517222,
    "languages": [
     "en"
    ]
@@ -33,7 +55,7 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.22386938,
+   "score": 0.22299716,
    "languages": [
     "en",
     "es"
@@ -45,7 +67,7 @@
     "en": "Tales of the World - Radiant Mythology"
    },
    "contentRating": "safe",
-   "score": 0.22075132,
+   "score": 0.22103071,
    "languages": [
     "en"
    ]
@@ -62,28 +84,29 @@
    ]
   },
   {
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+   "title": {
+    "en": "RDB"
+   },
+   "contentRating": "safe",
+   "score": 0.218001,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "229eb307-021e-4062-8d39-94422da2671e",
    "title": {
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.2109747,
+   "score": 0.20957117,
    "languages": [
     "pl",
     "en",
     "es",
     "pt-br"
-   ]
-  },
-  {
-   "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
-   "title": {
-    "en": "Eiyuu Densetsu - Sora no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -99,6 +122,17 @@
    ]
   },
   {
+   "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
+   "title": {
+    "en": "Eiyuu Densetsu - Sora no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7f9df789-2372-4cf8-bd54-021de9d757ef",
    "title": {
     "en": "Kokenoshima"
@@ -111,9 +145,32 @@
    ]
   },
   {
-   "id": "f1d65976-1ed7-4843-bb03-fa7a5cbe0715",
+   "id": "95264f28-3ccf-4dea-ad15-5323e4766b4c",
    "title": {
-    "en": "Grandeek ReeL"
+    "en": "Houseki No Kuni (Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37bf7574-641e-4665-b992-f2ba8d4652b8",
+   "title": {
+    "en": "Houseki no Kuni (Minimalist Color)"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "dcd8a042-eaab-4692-952b-5c9e178f7ee7",
+   "title": {
+    "en": "Shiro Hina no Bouken"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -122,88 +179,17 @@
    ]
   },
   {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
    "title": {
-    "en": "Kara no Kyoukai - The Garden of Sinners"
+    "en": "Higan no Orca"
    },
    "contentRating": "safe",
-   "score": 0.19911776,
-   "languages": [
-    "ru",
-    "en",
-    "fr",
-    "es-la",
-    "pl"
-   ]
-  },
-  {
-   "id": "3e0a8f2d-488a-452d-8166-c42a9fa21dac",
-   "title": {
-    "en": "Kyousogiga"
-   },
-   "contentRating": "safe",
-   "score": 0.19309059,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
-   "title": {
-    "en": "The Planet of Sutakola"
-   },
-   "contentRating": "safe",
-   "score": 0.19113201,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cade38b7-64c4-4a29-8e3c-8c283291d6c6",
-   "title": {
-    "en": "Land of the Lustrous"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "ru",
-    "en",
-    "es-la",
-    "id",
-    "tr",
-    "fr",
-    "fa",
-    "uk",
-    "pt-br",
-    "ar",
-    "vi",
-    "pl",
-    "az"
-   ]
-  },
-  {
-   "id": "ce4c29b4-dd3f-46ef-b7a3-f68c59596344",
-   "title": {
-    "en": "Magical Record Lyrical Nanoha Force"
-   },
-   "contentRating": "safe",
-   "score": 0.18719652,
+   "score": 0.20203052,
    "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
-   "title": {
-    "en": "The Far East Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.1835208,
-   "languages": [
-    "en"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:18+00:00"
+ "updatedAt": "2023-12-10T18:12:37+00:00"
 }

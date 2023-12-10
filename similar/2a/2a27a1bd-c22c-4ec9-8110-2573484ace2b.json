@@ -11,7 +11,7 @@
     "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.32429087,
+   "score": 0.32433093,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Yume Kurai"
    },
    "contentRating": "safe",
-   "score": 0.29607397,
+   "score": 0.29595187,
    "languages": [
     "pl",
     "en"
@@ -34,7 +34,7 @@
     "en": "Tarou-kun wa Yuganderu"
    },
    "contentRating": "safe",
-   "score": 0.26707876,
+   "score": 0.2664352,
    "languages": [
     "pl",
     "en"
@@ -46,11 +46,24 @@
     "en": "High School Debut"
    },
    "contentRating": "safe",
-   "score": 0.25609326,
+   "score": 0.25319275,
    "languages": [
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
+   "title": {
+    "en": "Good-bye, My 19 year Old Self"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "it"
    ]
   },
   {
@@ -65,12 +78,35 @@
    ]
   },
   {
+   "id": "dbd45ff2-2731-48e7-9304-0aa24739b5ac",
+   "title": {
+    "en": "Katakoi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "96b0f185-d209-49c6-aabf-57873e8ed17f",
+   "title": {
+    "en": "Sweet Revenge"
+   },
+   "contentRating": "safe",
+   "score": 0.24353696,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f64c9f3b-9722-4bab-88d7-5270bb909b10",
    "title": {
     "en": "Long-Distance Love Debut"
    },
    "contentRating": "safe",
-   "score": 0.23529692,
+   "score": 0.2340538,
    "languages": [
     "en"
    ]
@@ -105,9 +141,20 @@
     "en": "Koi suru 1/4"
    },
    "contentRating": "safe",
-   "score": 0.231384,
+   "score": 0.2310626,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
+   "title": {
+    "en": "Hajimari no Kotoba"
+   },
+   "contentRating": "safe",
+   "score": 0.2307567,
+   "languages": [
     "en"
    ]
   },
@@ -117,7 +164,7 @@
     "en": "Anne the Lover"
    },
    "contentRating": "safe",
-   "score": 0.22672056,
+   "score": 0.2260196,
    "languages": [
     "en"
    ]
@@ -128,70 +175,24 @@
     "en": "Good Person"
    },
    "contentRating": "safe",
-   "score": 0.22520874,
+   "score": 0.22470064,
    "languages": [
     "es",
     "en"
    ]
   },
   {
-   "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
+   "id": "2ccfd010-280d-41b4-98ed-9b217ff80881",
    "title": {
-    "en": "Pretty"
+    "en": "Ringo no Asobikata"
    },
    "contentRating": "safe",
-   "score": 0.21854444,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "d94943f6-e25f-4a7a-96b2-ebcdcb727e0e",
-   "title": {
-    "en": "Angel Hunt"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
+   "score": 0.21852641,
    "languages": [
     "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
-   "title": {
-    "en": "My Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1acf9ab1-cee1-486a-b71e-70a8b2a508ee",
-   "title": {
-    "en": "MISS"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:23+00:00"
+ "updatedAt": "2023-12-10T18:12:51+00:00"
 }

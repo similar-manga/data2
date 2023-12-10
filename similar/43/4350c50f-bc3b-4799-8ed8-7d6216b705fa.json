@@ -39,14 +39,6 @@
    ]
   },
   {
-   "id": "8577a79b-fa3b-4197-b536-59a088e85058",
-   "title": {
-    "en": "Fairy Musketeers"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22188008
-  },
-  {
    "id": "e8853450-bac4-45df-bea5-5b4c116f3a61",
    "title": {
     "en": "Adventurer's Guild Universal Advisor"
@@ -56,29 +48,6 @@
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "9dbd08c3-a4ed-4fa3-82e2-18a400f80627",
-   "title": {
-    "en": "Nimotsu Mochi no Nousuji Musou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22188008,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
-   "title": {
-    "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22188008,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -97,12 +66,43 @@
    ]
   },
   {
+   "id": "9dbd08c3-a4ed-4fa3-82e2-18a400f80627",
+   "title": {
+    "en": "Nimotsu Mochi no Nousuji Musou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22188008,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "8577a79b-fa3b-4197-b536-59a088e85058",
+   "title": {
+    "en": "Fairy Musketeers"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22188008
+  },
+  {
+   "id": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
+   "title": {
+    "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22188008,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d577918a-076d-4db7-9ce6-24a8c275a03e",
    "title": {
     "en": "Ippanjin Enpou Yori Kaeru. Mata Hatara Kaneba!"
    },
    "contentRating": "suggestive",
-   "score": 0.21988982,
+   "score": 0.2197415,
    "languages": [
     "en",
     "id"
@@ -114,7 +114,7 @@
     "en": "Uchi no Deshi ga Itsu no Manika Jinrui Saikyou ni Natte-ite, Nan no Sainou Monai Shishou no Ore ga, Sore wo Koeru Uchuu Saikyou ni Go Nintei Sareteiru Kudan ni Tsuite"
    },
    "contentRating": "suggestive",
-   "score": 0.21906771
+   "score": 0.21973301
   },
   {
    "id": "6aa2db55-bd72-4fad-90fa-44406d44d40f",
@@ -128,20 +128,6 @@
     "zh",
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "8d616f29-6d51-401c-b783-dc6d7c168b94",
-   "title": {
-    "en": "After Tormenting the Devil, I Did Not Want to Stand Out, So I Became a Guild Master"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20254786,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "es-la"
    ]
   },
   {
@@ -182,12 +168,26 @@
    ]
   },
   {
+   "id": "8d616f29-6d51-401c-b783-dc6d7c168b94",
+   "title": {
+    "en": "After Tormenting the Devil, I Did Not Want to Stand Out, So I Became a Guild Master"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20254786,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "5896ba9b-7bf0-42a3-94eb-15dcb70fafba",
    "title": {
     "en": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero"
    },
    "contentRating": "suggestive",
-   "score": 0.20178214,
+   "score": 0.20175913,
    "languages": [
     "en",
     "es-la",
@@ -198,5 +198,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:21+00:00"
+ "updatedAt": "2023-12-10T18:15:36+00:00"
 }

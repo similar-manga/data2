@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.2471649,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
    "title": {
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.24613549,
+   "score": 0.24534413,
    "languages": [
     "en"
    ]
@@ -22,30 +34,9 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.22618282,
+   "score": 0.22586314,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
-   "title": {
-    "en": "Vinland Saga"
-   },
-   "contentRating": "safe",
-   "score": 0.22163126,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "ru",
-    "ar",
-    "cs",
-    "uk",
-    "tr",
-    "ro",
-    "es",
-    "it"
    ]
   },
   {
@@ -58,6 +49,27 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
+   "title": {
+    "en": "Vinland Saga"
+   },
+   "contentRating": "safe",
+   "score": 0.22026254,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "ru",
+    "ar",
+    "cs",
+    "uk",
+    "tr",
+    "ro",
+    "es",
+    "it"
    ]
   },
   {
@@ -77,7 +89,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.20958747,
+   "score": 0.20895891,
    "languages": [
     "zh-hk",
     "en",
@@ -102,10 +114,21 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.20674475,
+   "score": 0.20598151,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.20494936,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -114,7 +137,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.20376562,
+   "score": 0.20302482,
    "languages": [
     "en",
     "it",
@@ -130,6 +153,17 @@
     "es-la",
     "fr",
     "de"
+   ]
+  },
+  {
+   "id": "831eef36-be1c-43eb-bedb-48b207e4a975",
+   "title": {
+    "en": "Burazamurai"
+   },
+   "contentRating": "safe",
+   "score": 0.20302428,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -149,7 +183,7 @@
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.20034054,
+   "score": 0.19966005,
    "languages": [
     "tr",
     "en",
@@ -165,7 +199,7 @@
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.19882604,
+   "score": 0.19856645,
    "languages": [
     "en"
    ]
@@ -182,61 +216,16 @@
    ]
   },
   {
-   "id": "62952d0b-52e5-4c5c-bb57-4bda60e27356",
+   "id": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
    "title": {
-    "en": "Kingdom (fan-colored)"
+    "en": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
    },
    "contentRating": "safe",
-   "score": 0.19200408,
+   "score": 0.19207397,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fe18fe91-fa82-441c-9d87-66414d59a622",
-   "title": {
-    "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
-   },
-   "contentRating": "safe",
-   "score": 0.19129413,
-   "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "d773c8be-8e82-4ff1-a4e9-46171395319b",
-   "title": {
-    "en": "The Saga of Tanya the Evil"
-   },
-   "contentRating": "safe",
-   "score": 0.1865229,
-   "languages": [
-    "hu",
-    "pt-br",
-    "ru",
-    "en",
-    "vi",
-    "id",
-    "uk",
-    "es-la",
-    "es",
-    "pl"
-   ]
-  },
-  {
-   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
-   "title": {
-    "en": "Cat Shit One' 80"
-   },
-   "contentRating": "safe",
-   "score": 0.18389231,
-   "languages": [
-    "en"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:53+00:00"
+ "updatedAt": "2023-12-10T18:19:34+00:00"
 }

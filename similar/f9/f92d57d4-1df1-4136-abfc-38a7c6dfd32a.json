@@ -6,12 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f88913ab-8866-4bd9-81f6-ee88d6f969ac",
+   "title": {
+    "en": "Propose wa Rakuen de"
+   },
+   "contentRating": "safe",
+   "score": 0.3073142
+  },
+  {
+   "id": "3719bf54-3d58-4c47-8f73-e74ce4ff427e",
+   "title": {
+    "en": "Kimi wa Kyoukon"
+   },
+   "contentRating": "safe",
+   "score": 0.30342466,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "15654c77-7412-41f4-ac70-98d68be87010",
    "title": {
     "en": "Wakasugita Hakushaku Fujin"
    },
    "contentRating": "safe",
-   "score": 0.29718733
+   "score": 0.2961503
   },
   {
    "id": "dc63b164-3ddc-4fa7-9320-b6a95c1e3860",
@@ -19,10 +38,50 @@
     "en": "Lady e no Kaidan - Kekkon Kirai no Sankyoudai III"
    },
    "contentRating": "safe",
-   "score": 0.2969114,
+   "score": 0.29594225,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "f87c535b-5bbd-4228-89e7-c944a023fa88",
+   "title": {
+    "en": "Yomei Ichinen, Otoko wo Kau"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "8baa6217-757b-483d-bdae-debabf2e295a",
+   "title": {
+    "en": "Koori no Dai Fugou Barairo no Yume"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "a1d84805-5080-48bb-8a51-21941d575a7c",
+   "title": {
+    "en": "Kohakushoku no Otome to Gin no Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "c3834957-2cf4-4bba-8340-86696e65fd46",
+   "title": {
+    "en": "Shukumei no Deai"
+   },
+   "contentRating": "safe",
+   "score": 0.27202624
+  },
+  {
+   "id": "ed74334f-dc90-43f4-b8f9-ba6dc594e273",
+   "title": {
+    "en": "30-sai Toshiue Koushaku no Gosai no Hazu ga Sono Musuko ni Dekiaisareru"
+   },
+   "contentRating": "safe",
+   "score": 0.26595396
   },
   {
    "id": "e52f04aa-b1db-4dac-a6d1-1fd46d0eb2b8",
@@ -30,125 +89,59 @@
     "en": "Propose no Riyuu"
    },
    "contentRating": "safe",
-   "score": 0.2655313
+   "score": 0.26205915
   },
   {
-   "id": "da9d84cd-8083-4755-823e-1e38a94dda48",
+   "id": "3b222c0f-06e6-4726-a309-680233d0e24a",
    "title": {
-    "en": "Hisho no Jouken"
+    "en": "Roman Holiday"
    },
    "contentRating": "safe",
-   "score": 0.23330131
-  },
-  {
-   "id": "e776bf28-e13a-4fc7-b6d0-a61b1e6990e9",
-   "title": {
-    "en": "A Royal Proposition"
-   },
-   "contentRating": "safe",
-   "score": 0.23035327
-  },
-  {
-   "id": "4ed1215b-57b2-49f8-bdbf-78c1c9a1510e",
-   "title": {
-    "en": "Mahou ga Toketa Asa ni"
-   },
-   "contentRating": "safe",
-   "score": 0.22616012
-  },
-  {
-   "id": "16fa59cd-f198-4fd0-801c-8d5c5ee53070",
-   "title": {
-    "en": "Watashi wo Suki Sugiru Yuusha-sama wo Riyou shite, Konse koso Nagaiki suru Tsumoridattanoni (Tabun, Mata Shippaishita)"
-   },
-   "contentRating": "safe",
-   "score": 0.22347908,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "65e0220d-98ec-4e21-a483-ba1963e134b1",
-   "title": {
-    "en": "La Vie En Rose"
-   },
-   "contentRating": "safe",
-   "score": 0.21450885,
+   "score": 0.26155695,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c56e6e5d-cb8c-4122-82e8-59092d889da6",
+   "id": "5edbd9fa-700c-467e-930a-d2574e6d9b7a",
    "title": {
-    "en": "Suna no Meiro"
+    "en": "Muku na Koushaku Fujin"
    },
    "contentRating": "safe",
-   "score": 0.21358454
+   "score": 0.2598743
   },
   {
-   "id": "c2cedf12-e0a7-47cc-8765-2793ebf6276a",
+   "id": "89d2f583-db99-4fee-aa40-7475f9ce315b",
    "title": {
-    "en": "Mister X o Sagase"
+    "en": "Oshikake Kon - Elite Onzoushi-sama, Metotte Kudasai"
    },
    "contentRating": "safe",
-   "score": 0.21171744
+   "score": 0.25833827
   },
   {
-   "id": "cd492b10-1810-4ec3-9516-7de8e60a1833",
+   "id": "6bc012c4-9c37-4a3e-97f9-a095b8330ca0",
    "title": {
-    "en": "Usotsuki Naito"
+    "en": "Haha demo Koishite Ii desu ka"
    },
    "contentRating": "safe",
-   "score": 0.21105611
+   "score": 0.25800532
   },
   {
-   "id": "0cd0a323-c9e9-421e-beb1-08c989ac269b",
+   "id": "7a6f16e9-e77b-43c4-bf0c-6cf3a8766105",
    "title": {
-    "en": "Umi to Dolittle"
+    "en": "Kamen Fuufu ~Onzoushi wa Konya mo Tsuma wo Aisenai~"
    },
    "contentRating": "safe",
-   "score": 0.20203052
+   "score": 0.25480476
   },
   {
-   "id": "cb6e0cf7-db28-4653-bf0b-286f0ffa5550",
+   "id": "5f108eff-8982-4e39-9431-70629a44f1b7",
    "title": {
-    "en": "Playboy no Hatsukoi"
+    "en": "Enren Kon - Onzoushi to Seiryaku Kekkon Itashimasu"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da21abc2-6b20-49e5-8c89-0ca0beb0996b",
-   "title": {
-    "en": "Manatsu no Eden"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5834fdd5-61a2-4b73-b884-05a08ffb418d",
-   "title": {
-    "en": "Kuchibiru kara Toketeiku"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "27c8d1d5-e8a6-4bc6-a3e5-5fe02848d6f9",
-   "title": {
-    "en": "Outaishi-hi ni Nante Naritakunai!! Konyakusha-hen"
-   },
-   "contentRating": "safe",
-   "score": 0.20127465
+   "score": 0.2526312
   }
  ],
- "updatedAt": "2023-12-10T01:10:04+00:00"
+ "updatedAt": "2023-12-10T18:35:39+00:00"
 }

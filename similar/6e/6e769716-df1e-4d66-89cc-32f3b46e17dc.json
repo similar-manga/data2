@@ -11,7 +11,7 @@
     "en": "Standard of Reincarnation"
    },
    "contentRating": "safe",
-   "score": 0.35577622,
+   "score": 0.36163428,
    "languages": [
     "ru",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "The 10th Class Lout of the Knight Family"
    },
    "contentRating": "safe",
-   "score": 0.32805374,
+   "score": 0.32586497,
    "languages": [
     "en",
     "pt-br",
@@ -36,7 +36,7 @@
     "en": "The Heavenly Demon Can't Live a Normal Life"
    },
    "contentRating": "safe",
-   "score": 0.31679994,
+   "score": 0.32130054,
    "languages": [
     "pt-br",
     "fr",
@@ -50,10 +50,23 @@
     "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
    },
    "contentRating": "safe",
-   "score": 0.31516707,
+   "score": 0.31846738,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "ebe32bf7-56e8-40d6-b1e7-22e87c8b3b42",
+   "title": {
+    "en": "The Book of Lagier"
+   },
+   "contentRating": "safe",
+   "score": 0.3110614,
+   "languages": [
+    "fr",
+    "en",
+    "de"
    ]
   },
   {
@@ -62,7 +75,7 @@
     "en": "Demonic Emperor"
    },
    "contentRating": "safe",
-   "score": 0.3121981,
+   "score": 0.30877602,
    "languages": [
     "en",
     "fr",
@@ -75,12 +88,23 @@
    ]
   },
   {
+   "id": "8ac933f6-3b4f-474d-a163-f641936fcc84",
+   "title": {
+    "en": "Hero x Demon King x Villain"
+   },
+   "contentRating": "safe",
+   "score": 0.30706173,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "adfe3bc0-4663-43c8-b1c4-f806ee969348",
    "title": {
     "en": "My Daughter Is the Demon King When I Was Reincarnated"
    },
    "contentRating": "safe",
-   "score": 0.30988994,
+   "score": 0.30696815,
    "languages": [
     "en"
    ]
@@ -91,7 +115,7 @@
     "en": "Kamigoroshi no Maou, Saijyaku Shuzoku ni Tensei shi Shijyou Saikyou ni naru"
    },
    "contentRating": "safe",
-   "score": 0.30445108,
+   "score": 0.29832464,
    "languages": [
     "en",
     "fr",
@@ -100,67 +124,17 @@
    ]
   },
   {
-   "id": "c0d16b08-8bd3-4292-8958-370619e48996",
+   "id": "1ad0d86e-3ee6-4cf2-81a8-fe713701d001",
    "title": {
-    "en": "My Civil Servant Life Reborn in the Strange World"
+    "en": "The Demon Queen Has a Death Wish"
    },
    "contentRating": "safe",
-   "score": 0.29377896,
-   "languages": [
-    "en",
-    "fr",
-    "uk"
-   ]
-  },
-  {
-   "id": "fcb7f53f-fd9d-4dfe-a764-20b12d61391a",
-   "title": {
-    "en": "Demon Evolution"
-   },
-   "contentRating": "safe",
-   "score": 0.29377013,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "e23e9bc7-8495-4d9b-9320-0c4bfb68b14c",
-   "title": {
-    "en": "The Betrayed Hero Who Was Reincarnated as the Strongest Demon Lord"
-   },
-   "contentRating": "safe",
-   "score": 0.293541,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cafd8f00-32c4-4fd2-b44f-0e25b9ff024b",
-   "title": {
-    "en": "The Dark Magician Transmigrates After 66666 Years"
-   },
-   "contentRating": "safe",
-   "score": 0.29352328,
+   "score": 0.29740614,
    "languages": [
     "fr",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
-   "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
-   "title": {
-    "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.29141682,
-   "languages": [
-    "id",
-    "pt-br",
     "en",
-    "fr"
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -169,8 +143,60 @@
     "en": "Jukokuin no Tensei Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.29023245,
+   "score": 0.2963293,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
+   "title": {
+    "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.29593837,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "cafd8f00-32c4-4fd2-b44f-0e25b9ff024b",
+   "title": {
+    "en": "The Dark Magician Transmigrates After 66666 Years"
+   },
+   "contentRating": "safe",
+   "score": 0.29578173,
+   "languages": [
+    "fr",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "c0d16b08-8bd3-4292-8958-370619e48996",
+   "title": {
+    "en": "My Civil Servant Life Reborn in the Strange World"
+   },
+   "contentRating": "safe",
+   "score": 0.29546338,
+   "languages": [
+    "en",
+    "fr",
+    "uk"
+   ]
+  },
+  {
+   "id": "9b376931-9b88-4205-a43c-112084d33ff9",
+   "title": {
+    "en": "The Confession of the Demon King"
+   },
+   "contentRating": "safe",
+   "score": 0.29490304,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -180,37 +206,11 @@
     "en": "Majutsu Guild Sousui ~Umarekawatte Imasara Yarinaosu Nidome no  Gakuin Seikatsu~"
    },
    "contentRating": "safe",
-   "score": 0.28968424,
+   "score": 0.29267213,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
-   "title": {
-    "en": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru"
-   },
-   "contentRating": "safe",
-   "score": 0.2838055,
-   "languages": [
-    "zh-hk",
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "55d4dec1-60db-4560-b1ce-b6d9e94aa370",
-   "title": {
-    "en": "I Became a Renowned Family’s Sword Prodigy"
-   },
-   "contentRating": "safe",
-   "score": 0.28023538,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:09+00:00"
+ "updatedAt": "2023-12-10T18:20:16+00:00"
 }

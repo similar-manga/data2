@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.33802238,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
    "title": {
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.31255585,
+   "score": 0.30815816,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "Inui and Tatsumi: Secret History of the Siberian Intervention"
    },
    "contentRating": "safe",
-   "score": 0.27942654
+   "score": 0.279515
   },
   {
    "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
@@ -30,7 +42,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.26314205,
+   "score": 0.26223496,
    "languages": [
     "pt-br",
     "en",
@@ -45,7 +57,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.2617487,
+   "score": 0.26045573,
    "languages": [
     "es-la",
     "en",
@@ -66,7 +78,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.25636396,
+   "score": 0.25563812,
    "languages": [
     "zh-hk",
     "en",
@@ -91,7 +103,7 @@
     "en": "Africa Army Corps"
    },
    "contentRating": "safe",
-   "score": 0.24281302
+   "score": 0.24284664
   },
   {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
@@ -99,10 +111,18 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.24122335,
+   "score": 0.24165043,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e7dda8bf-e252-401b-ac36-3a737f6c85b4",
+   "title": {
+    "en": "A Biography of Day-Break"
+   },
+   "contentRating": "safe",
+   "score": 0.23286703
   },
   {
    "id": "e6109f9b-c393-4c71-84f8-10e978265cae",
@@ -110,7 +130,7 @@
     "en": "Battle Angel Alita: Mars Chronicle"
    },
    "contentRating": "safe",
-   "score": 0.23155737,
+   "score": 0.23084624,
    "languages": [
     "zh-hk",
     "en",
@@ -123,10 +143,18 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.225165,
+   "score": 0.22578591,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.22506195
   },
   {
    "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
@@ -134,7 +162,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.22475505,
+   "score": 0.22491853,
    "languages": [
     "en",
     "it",
@@ -158,7 +186,7 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.22400007,
+   "score": 0.22077759,
    "languages": [
     "en",
     "it"
@@ -178,41 +206,8 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.21243404
-  },
-  {
-   "id": "832cce77-102a-4f3c-80ca-ea4b082592a8",
-   "title": {
-    "en": "The World, Foreseen by a Master of the Manga World"
-   },
-   "contentRating": "safe",
-   "score": 0.21008988
-  },
-  {
-   "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
-   "title": {
-    "en": "Star Wars - The Mandalorian"
-   },
-   "contentRating": "safe",
-   "score": 0.21001706,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.2072577,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
+   "score": 0.21256882
   }
  ],
- "updatedAt": "2023-12-10T01:06:05+00:00"
+ "updatedAt": "2023-12-10T18:25:22+00:00"
 }

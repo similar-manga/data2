@@ -11,7 +11,7 @@
     "en": "Kakugo no Susume - Voltex"
    },
    "contentRating": "safe",
-   "score": 0.74618185,
+   "score": 0.75156385,
    "languages": [
     "en"
    ]
@@ -29,23 +29,23 @@
    ]
   },
   {
-   "id": "c24c7dd9-13d5-4887-abe0-65eff0badd5a",
-   "title": {
-    "en": "Kinnikuman Jump"
-   },
-   "contentRating": "safe",
-   "score": 0.19691549,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.1951511,
+   "score": 0.19487329,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c24c7dd9-13d5-4887-abe0-65eff0badd5a",
+   "title": {
+    "en": "Kinnikuman Jump"
+   },
+   "contentRating": "safe",
+   "score": 0.19444503,
    "languages": [
     "en"
    ]
@@ -64,16 +64,15 @@
    ]
   },
   {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
    "title": {
-    "en": "Little War"
+    "en": "Minds"
    },
    "contentRating": "safe",
    "score": 0.17996852,
    "languages": [
-    "fr",
-    "pt-br",
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -88,15 +87,29 @@
    ]
   },
   {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
    "title": {
-    "en": "Minds"
+    "en": "Little War"
    },
    "contentRating": "safe",
    "score": 0.17996852,
    "languages": [
-    "en",
-    "pl"
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "ec576f96-c206-4b53-8cda-021a309b35fe",
+   "title": {
+    "en": "Danzai no Majutsugari"
+   },
+   "contentRating": "safe",
+   "score": 0.1784316,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
    ]
   },
   {
@@ -113,23 +126,12 @@
    ]
   },
   {
-   "id": "c6384450-abc7-46ba-abc9-89805f00d104",
-   "title": {
-    "en": "Matohazure Q-doubu"
-   },
-   "contentRating": "safe",
-   "score": 0.17246024,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "136e2b50-bce7-4f8a-b4e1-fbe091f69dc6",
    "title": {
     "en": "SWOT (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.17208771,
+   "score": 0.1686287,
    "languages": [
     "pl",
     "en"
@@ -141,10 +143,21 @@
     "en": "No.9"
    },
    "contentRating": "safe",
-   "score": 0.16273792,
+   "score": 0.16158192,
    "languages": [
     "fr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "c6384450-abc7-46ba-abc9-89805f00d104",
+   "title": {
+    "en": "Matohazure Q-doubu"
+   },
+   "contentRating": "safe",
+   "score": 0.16134489,
+   "languages": [
     "en"
    ]
   },
@@ -160,42 +173,28 @@
    ]
   },
   {
-   "id": "6c1f17de-58d7-4d13-8ac9-c1f2be0d056c",
+   "id": "fe9b4485-550a-4823-84eb-8680283b5d9f",
    "title": {
-    "en": "SNOW SMILE"
+    "en": "Yuenchi – Baki Gaiden Manga"
    },
    "contentRating": "safe",
-   "score": 0.15427537,
+   "score": 0.1545263,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a409e872-2916-45ea-90e2-784bd62cbeb2",
-   "title": {
-    "en": "Gachikoi Slayer and the Army of Gachikoi Fans"
-   },
-   "contentRating": "safe",
-   "score": 0.15425873,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a68e9253-66e9-4eba-a958-2e3620adbeff",
-   "title": {
-    "en": "The cat and I"
-   },
-   "contentRating": "safe",
-   "score": 0.15425873,
-   "languages": [
-    "en",
     "ru",
-    "vi",
-    "pt-br",
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "d3b9df08-b980-48d4-835e-6437f7deea31",
+   "title": {
+    "en": "Dead Flag"
+   },
+   "contentRating": "safe",
+   "score": 0.1545263,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:20+00:00"
+ "updatedAt": "2023-12-10T18:12:44+00:00"
 }

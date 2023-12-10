@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "da36a727-7686-4e92-8fac-94bc292b8e91",
+   "title": {
+    "en": "Magus of the Library"
+   },
+   "contentRating": "safe",
+   "score": 0.24477485,
+   "languages": [
+    "id",
+    "ar",
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
    "title": {
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.22990578,
+   "score": 0.2313493,
    "languages": [
     "my",
     "es-la",
@@ -28,24 +42,34 @@
     "en": "Gallery Fake"
    },
    "contentRating": "safe",
-   "score": 0.22644523,
+   "score": 0.22729877,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
+   "id": "8c697de6-a142-4cec-ae1f-9b31a07f04cb",
    "title": {
-    "en": "Window"
+    "en": "Shadows House (Monochrome)"
    },
    "contentRating": "safe",
-   "score": 0.21059404,
+   "score": 0.22032525,
    "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
+    "es-la",
+    "fr",
+    "uk"
+   ]
+  },
+  {
+   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "title": {
+    "en": "Double"
+   },
+   "contentRating": "safe",
+   "score": 0.214812,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -54,7 +78,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.20941684,
+   "score": 0.21313737,
    "languages": [
     "pt-br",
     "es-la",
@@ -67,14 +91,49 @@
    ]
   },
   {
-   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "id": "a3b70d4f-2efa-4eca-9f81-61ab057ac9f1",
    "title": {
-    "en": "Double"
+    "en": "Saru"
    },
    "contentRating": "safe",
-   "score": 0.20558888,
+   "score": 0.21276796,
    "languages": [
-    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "948de3b7-9059-4215-946c-2028667918af",
+   "title": {
+    "en": "Op: Yoake Itaru no Iro no Nai Hibi"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "21da6414-c849-46e8-9750-350f5f6dcd54",
+   "title": {
+    "en": "Suzume no Tojimari"
+   },
+   "contentRating": "safe",
+   "score": 0.20299341,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "title": {
+    "en": "Sunny Sunny Ann!"
+   },
+   "contentRating": "safe",
+   "score": 0.2029122,
+   "languages": [
     "en"
    ]
   },
@@ -84,7 +143,7 @@
     "en": "Red Garden"
    },
    "contentRating": "safe",
-   "score": 0.20234483,
+   "score": 0.2018668,
    "languages": [
     "en"
    ]
@@ -95,19 +154,21 @@
     "en": "Arashi no Hana Murakumo no Uta"
    },
    "contentRating": "safe",
-   "score": 0.20219976,
+   "score": 0.20181663,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
    "title": {
-    "en": "Sunny Sunny Ann!"
+    "en": "Heaven's Design Team"
    },
    "contentRating": "safe",
-   "score": 0.19915515,
+   "score": 0.20030646,
    "languages": [
+    "pt-br",
+    "ru",
     "en"
    ]
   },
@@ -117,7 +178,7 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.19789927,
+   "score": 0.19951741,
    "languages": [
     "en",
     "es-la"
@@ -129,7 +190,7 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.193651,
+   "score": 0.19829425,
    "languages": [
     "en",
     "es-la",
@@ -137,81 +198,16 @@
    ]
   },
   {
-   "id": "fd2334d7-c610-4e79-9471-c4efe3a7c16c",
+   "id": "53f2e71c-286c-437e-bb68-b84787da74e0",
    "title": {
-    "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
+    "en": "Ikoku Memoires"
    },
    "contentRating": "safe",
-   "score": 0.19257645,
+   "score": 0.197834,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.19101943,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "691a2ec7-8f2a-4c23-b9d4-4cb042d2c9f6",
-   "title": {
-    "en": "The Boy Who Collects The Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.19071425,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "81a56f27-14dd-485e-b56f-ef950f504653",
-   "title": {
-    "en": "Rewrite: SIDE-B"
-   },
-   "contentRating": "safe",
-   "score": 0.18760256,
-   "languages": [
-    "vi",
-    "es-la"
-   ]
-  },
-  {
-   "id": "9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
-   "title": {
-    "en": "Bug Ego"
-   },
-   "contentRating": "safe",
-   "score": 0.18411858,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "77c7d3eb-16e9-4ef2-81f0-4d3876a037c5",
-   "title": {
-    "en": "Star Tripper: Planetarium Ghost Travel"
-   },
-   "contentRating": "safe",
-   "score": 0.18207265,
-   "languages": [
-    "en"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:02+00:00"
+ "updatedAt": "2023-12-10T18:09:08+00:00"
 }

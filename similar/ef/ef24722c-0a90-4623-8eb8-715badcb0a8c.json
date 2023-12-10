@@ -11,7 +11,7 @@
     "en": "Blackberry"
    },
    "contentRating": "safe",
-   "score": 0.30597788,
+   "score": 0.30557653,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Omae Watashi no Koto Suki daro?"
    },
    "contentRating": "safe",
-   "score": 0.3036287,
+   "score": 0.3032292,
    "languages": [
     "pt-br",
     "en",
@@ -35,7 +35,18 @@
     "en": "Koi Wakaba"
    },
    "contentRating": "safe",
-   "score": 0.28408942,
+   "score": 0.28261575,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dcb56596-414a-4782-920b-82fec48d69fc",
+   "title": {
+    "en": "MabuSasa"
+   },
+   "contentRating": "safe",
+   "score": 0.28117058,
    "languages": [
     "en"
    ]
@@ -46,7 +57,7 @@
     "en": "First Love"
    },
    "contentRating": "safe",
-   "score": 0.281992,
+   "score": 0.2806322,
    "languages": [
     "pt-br",
     "en"
@@ -58,18 +69,7 @@
     "en": "Tonari no Hoshi no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.28051504,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bc950afa-8417-4146-9298-29f63ad5b04c",
-   "title": {
-    "en": "Toretate Crazy!"
-   },
-   "contentRating": "safe",
-   "score": 0.27642933,
+   "score": 0.27902898,
    "languages": [
     "en"
    ]
@@ -80,22 +80,20 @@
     "en": "After Friend"
    },
    "contentRating": "safe",
-   "score": 0.2759273,
+   "score": 0.2756183,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "3f91f110-a015-401b-b919-c9ac7a6cc519",
+   "id": "bc950afa-8417-4146-9298-29f63ad5b04c",
    "title": {
-    "en": "Christmas Romance"
+    "en": "Toretate Crazy!"
    },
    "contentRating": "safe",
-   "score": 0.2716822,
+   "score": 0.273163,
    "languages": [
-    "fr",
-    "it",
     "en"
    ]
   },
@@ -105,8 +103,21 @@
     "en": "Senpai no Pocket"
    },
    "contentRating": "safe",
-   "score": 0.2706809,
+   "score": 0.27004173,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3f91f110-a015-401b-b919-c9ac7a6cc519",
+   "title": {
+    "en": "Christmas Romance"
+   },
+   "contentRating": "safe",
+   "score": 0.2680653,
+   "languages": [
+    "fr",
+    "it",
     "en"
    ]
   },
@@ -116,7 +127,7 @@
     "en": "Gamushapa Heart B"
    },
    "contentRating": "safe",
-   "score": 0.2682704,
+   "score": 0.26729313,
    "languages": [
     "en"
    ]
@@ -127,7 +138,7 @@
     "en": "Yuan Wei Cu Ji"
    },
    "contentRating": "safe",
-   "score": 0.2665179,
+   "score": 0.2659245,
    "languages": [
     "en"
    ]
@@ -138,7 +149,7 @@
     "en": "Rensou Mode"
    },
    "contentRating": "safe",
-   "score": 0.26551518,
+   "score": 0.2651637,
    "languages": [
     "en",
     "it"
@@ -150,7 +161,7 @@
     "en": "Muyu He Benxiaozhu"
    },
    "contentRating": "safe",
-   "score": 0.2654498,
+   "score": 0.26511046,
    "languages": [
     "en"
    ]
@@ -161,18 +172,7 @@
     "en": "Melange!"
    },
    "contentRating": "safe",
-   "score": 0.26538277,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9292fd2-26f0-4847-a88a-0d3e345d58e4",
-   "title": {
-    "en": "Donmai Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.2650981,
+   "score": 0.26509556,
    "languages": [
     "en"
    ]
@@ -183,7 +183,7 @@
     "en": "Yuki-doke no Netsu"
    },
    "contentRating": "safe",
-   "score": 0.2642606,
+   "score": 0.2639406,
    "languages": [
     "pt-br",
     "en",
@@ -191,5 +191,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:38+00:00"
+ "updatedAt": "2023-12-10T18:34:36+00:00"
 }

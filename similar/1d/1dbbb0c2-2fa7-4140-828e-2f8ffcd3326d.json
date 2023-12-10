@@ -6,37 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fbc69c0f-13cc-4b90-907f-01604752e2b3",
+   "id": "77bf1385-f4a9-4e91-8932-98de4301234a",
    "title": {
-    "en": "Yuki to Sumi"
+    "en": "Yumemi na Psychic!"
    },
    "contentRating": "safe",
-   "score": 0.19229616,
+   "score": 0.19986098,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
+   "id": "fbc69c0f-13cc-4b90-907f-01604752e2b3",
    "title": {
-    "en": "Natsume Yuujinchou"
+    "en": "Yuki to Sumi"
    },
    "contentRating": "safe",
-   "score": 0.1806948,
+   "score": 0.1938019,
    "languages": [
-    "en",
-    "pt-br",
-    "hu",
-    "tr"
+    "en"
    ]
   },
   {
-   "id": "ce90ae7e-6be5-4b27-b142-81d9b12ebabe",
+   "id": "48e93eeb-297f-429a-b7c8-c6f418751772",
    "title": {
-    "en": "Red Fang"
+    "en": "Taste"
    },
    "contentRating": "safe",
-   "score": 0.17844887,
+   "score": 0.17933685,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "27fb3c3d-88ec-4189-9557-b2b3041c10e2",
+   "title": {
+    "en": "Code Name: Charmer"
+   },
+   "contentRating": "safe",
+   "score": 0.17848375,
    "languages": [
     "en"
    ]
@@ -54,15 +62,49 @@
    ]
   },
   {
-   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
+   "id": "ce90ae7e-6be5-4b27-b142-81d9b12ebabe",
    "title": {
-    "en": "Hyakkiyakou Juliet"
+    "en": "Red Fang"
    },
    "contentRating": "safe",
-   "score": 0.17567782,
+   "score": 0.17827614,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
+   "title": {
+    "en": "Zekkyou Gakkyuu Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.17737076,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
+   "title": {
+    "en": "Natsume Yuujinchou"
+   },
+   "contentRating": "safe",
+   "score": 0.17701112,
+   "languages": [
+    "en",
+    "pt-br",
     "hu",
-    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "2da17e6d-5ddf-4dcf-a31f-11e2da9df38c",
+   "title": {
+    "en": "What Do You Need?"
+   },
+   "contentRating": "safe",
+   "score": 0.17601314,
+   "languages": [
     "en"
    ]
   },
@@ -78,13 +120,15 @@
    ]
   },
   {
-   "id": "7dc29262-9e02-4544-86d8-4aa8273a86d0",
+   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
    "title": {
-    "en": "Yami no Matsuei"
+    "en": "Hyakkiyakou Juliet"
    },
    "contentRating": "safe",
-   "score": 0.16541399,
+   "score": 0.17098086,
    "languages": [
+    "hu",
+    "pl",
     "en"
    ]
   },
@@ -101,12 +145,23 @@
    ]
   },
   {
+   "id": "7dc29262-9e02-4544-86d8-4aa8273a86d0",
+   "title": {
+    "en": "Yami no Matsuei"
+   },
+   "contentRating": "safe",
+   "score": 0.16493048,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
    "title": {
     "en": "Dress-up Yuka-chan"
    },
    "contentRating": "safe",
-   "score": 0.1611704,
+   "score": 0.16033646,
    "languages": [
     "en"
    ]
@@ -117,85 +172,23 @@
     "en": "Tokimeki Tonight"
    },
    "contentRating": "safe",
-   "score": 0.16049802,
+   "score": 0.16020952,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ababc3e5-b56a-44b1-96c6-d434f141f2ab",
+   "id": "5b870988-d838-409b-8df3-c5c20b638414",
    "title": {
-    "en": "Kimi ni Todoke: From Me to You x Blue Sky Yell - 45° Eyebrows"
+    "en": "Sakashima"
    },
    "contentRating": "safe",
-   "score": 0.15496257,
+   "score": 0.15743093,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "18ef6f62-d72f-4d8b-b734-efc8ee8d52d2",
-   "title": {
-    "en": "Twink Twink"
-   },
-   "contentRating": "safe",
-   "score": 0.15418394,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39cb5817-e559-425b-bba3-cea656a6fd87",
-   "title": {
-    "en": "Otome wa Inoru - Himitsu no Dormitory"
-   },
-   "contentRating": "safe",
-   "score": 0.15418394,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bb949242-a716-4bff-a91d-83e5c0412673",
-   "title": {
-    "en": "Comic ☆ Shinichi"
-   },
-   "contentRating": "safe",
-   "score": 0.15200227,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "d4ed655b-5f8f-4cac-9147-8dade26fb4ff",
-   "title": {
-    "en": "Futsutsuka na Oyako de wa Arimasu ga"
-   },
-   "contentRating": "safe",
-   "score": 0.14900476,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "9f80722b-56cb-4c6d-b77a-56d5123a531b",
-   "title": {
-    "en": "My Love Ride!!"
-   },
-   "contentRating": "safe",
-   "score": 0.14566605,
-   "languages": [
-    "tr",
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:54+00:00"
+ "updatedAt": "2023-12-10T18:11:30+00:00"
 }

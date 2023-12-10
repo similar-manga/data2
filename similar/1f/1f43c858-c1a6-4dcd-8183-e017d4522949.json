@@ -11,7 +11,7 @@
     "en": "Kingdom Hearts III"
    },
    "contentRating": "safe",
-   "score": 0.3081099,
+   "score": 0.30030537,
    "languages": [
     "it",
     "es-la",
@@ -25,7 +25,7 @@
     "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.2645676,
+   "score": 0.26116034,
    "languages": [
     "ru",
     "en"
@@ -37,7 +37,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.23945697,
+   "score": 0.24283382,
    "languages": [
     "ru",
     "vi",
@@ -59,7 +59,7 @@
     "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
-   "score": 0.23503923,
+   "score": 0.23438904,
    "languages": [
     "en"
    ]
@@ -80,23 +80,12 @@
    ]
   },
   {
-   "id": "9419ddb3-7c92-4737-a5fa-cee2e00973c8",
-   "title": {
-    "en": "The Grand Legend Ramayana"
-   },
-   "contentRating": "safe",
-   "score": 0.21715903,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7e176426-0928-4fe0-b4b9-5f4e5ca994a1",
    "title": {
     "en": "Mega Man X5 IF"
    },
    "contentRating": "safe",
-   "score": 0.21671502,
+   "score": 0.21638437,
    "languages": [
     "en",
     "es"
@@ -108,30 +97,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.21601647,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89bcfe0b-caa3-4d1b-9679-139b44a0b505",
-   "title": {
-    "en": "The Conqueror From a Dying Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.21436799,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.21014218,
+   "score": 0.21137226,
    "languages": [
     "en"
    ]
@@ -148,12 +114,34 @@
    ]
   },
   {
+   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.21014218,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
    "title": {
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
    "score": 0.21014218,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9419ddb3-7c92-4737-a5fa-cee2e00973c8",
+   "title": {
+    "en": "The Grand Legend Ramayana"
+   },
+   "contentRating": "safe",
+   "score": 0.20903373,
    "languages": [
     "en"
    ]
@@ -186,7 +174,7 @@
     "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.20461717,
+   "score": 0.2060328,
    "languages": [
     "it",
     "en",
@@ -194,16 +182,29 @@
    ]
   },
   {
-   "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
+   "id": "89bcfe0b-caa3-4d1b-9679-139b44a0b505",
    "title": {
-    "en": "The Legend of Heroes VI: Trails of Cold Steel"
+    "en": "The Conqueror From a Dying Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.20280644,
+   "score": 0.20517454,
    "languages": [
-    "en"
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
+   "title": {
+    "en": "Kore Kaite Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.20506907,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:58+00:00"
+ "updatedAt": "2023-12-10T18:11:40+00:00"
 }

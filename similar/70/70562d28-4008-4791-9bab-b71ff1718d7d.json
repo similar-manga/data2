@@ -6,16 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "06338c21-dfd9-4ab0-a0c6-1d973821b992",
+   "title": {
+    "en": "Bad Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.30071324,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "07500447-533b-4d64-93e3-4fbb8458a42d",
    "title": {
     "en": "A-Channel"
    },
    "contentRating": "safe",
-   "score": 0.28545535,
+   "score": 0.28322762,
    "languages": [
     "en",
     "es",
     "id"
+   ]
+  },
+  {
+   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
+   "title": {
+    "en": "Hyper Ultra Girlish"
+   },
+   "contentRating": "safe",
+   "score": 0.26958075,
+   "languages": [
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -24,7 +48,7 @@
     "en": "Gu-Pan!"
    },
    "contentRating": "safe",
-   "score": 0.26655596,
+   "score": 0.26513726,
    "languages": [
     "en",
     "ru"
@@ -36,7 +60,7 @@
     "en": "Chitose Get You!!"
    },
    "contentRating": "safe",
-   "score": 0.25822318,
+   "score": 0.25812304,
    "languages": [
     "en"
    ]
@@ -47,22 +71,9 @@
     "en": "Morita-san wa Mukuchi"
    },
    "contentRating": "safe",
-   "score": 0.25746417,
+   "score": 0.2565542,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b93212ef-5d8f-4814-9e10-9237720a4057",
-   "title": {
-    "en": "Hidamari Sketch"
-   },
-   "contentRating": "safe",
-   "score": 0.25717434,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru"
    ]
   },
   {
@@ -71,10 +82,34 @@
     "en": "Kiniro Mosaic"
    },
    "contentRating": "safe",
-   "score": 0.25499594,
+   "score": 0.25480932,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "e1d41734-f7c9-4887-a82c-d095c436dfd1",
+   "title": {
+    "en": "Stella no Mahou"
+   },
+   "contentRating": "safe",
+   "score": 0.2539332,
+   "languages": [
+    "en",
+    "ru",
+    "es-la"
+   ]
+  },
+  {
+   "id": "be4148c6-0f0f-4415-95a9-a1ad56f6e0a7",
+   "title": {
+    "en": "Poison Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.25362933,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -83,11 +118,24 @@
     "en": "Kill Me Baby"
    },
    "contentRating": "safe",
-   "score": 0.25340474,
+   "score": 0.252894,
    "languages": [
     "fr",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b93212ef-5d8f-4814-9e10-9237720a4057",
+   "title": {
+    "en": "Hidamari Sketch"
+   },
+   "contentRating": "safe",
+   "score": 0.2525228,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -96,7 +144,40 @@
     "en": "Yuyushiki"
    },
    "contentRating": "safe",
-   "score": 0.25208738,
+   "score": 0.25205866,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "408e2919-4c44-4245-8783-57ef612bc8ef",
+   "title": {
+    "en": "BanG Dream!"
+   },
+   "contentRating": "safe",
+   "score": 0.25034845,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5848edd9-7c08-40f5-b07c-638c22e851ba",
+   "title": {
+    "en": "Ajisai*Planet"
+   },
+   "contentRating": "safe",
+   "score": 0.24917224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4af7c4b1-262c-426f-b86a-051c99b9f503",
+   "title": {
+    "en": "Mio's Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.24471025,
    "languages": [
     "en"
    ]
@@ -112,95 +193,7 @@
     "en",
     "vi"
    ]
-  },
-  {
-   "id": "0025e816-e52c-47da-88fe-fdd5a5170299",
-   "title": {
-    "en": "Komori-san wa Kotowarenai!"
-   },
-   "contentRating": "safe",
-   "score": 0.24470004,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "c02343b3-74e4-4057-b34a-90e08d93f95a",
-   "title": {
-    "en": "Gochuumon wa Usagi desu ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.23820071,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4c64f461-8562-44f3-a13f-aea2a0382d63",
-   "title": {
-    "en": "Null Meta"
-   },
-   "contentRating": "safe",
-   "score": 0.23569255,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4665f772-9fea-4137-966c-b0ceb0162666",
-   "title": {
-    "en": "Yo-Jo Life!"
-   },
-   "contentRating": "safe",
-   "score": 0.23205872,
-   "languages": [
-    "id",
-    "en",
-    "ru",
-    "pl",
-    "vi"
-   ]
-  },
-  {
-   "id": "ca98fe66-7b88-49a8-83b0-511fca029237",
-   "title": {
-    "en": "Love Lab"
-   },
-   "contentRating": "safe",
-   "score": 0.23020814,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "717b10f2-f55f-4b58-be4f-dc20565489b0",
-   "title": {
-    "en": "Boku Koi Conductor"
-   },
-   "contentRating": "safe",
-   "score": 0.22552356,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "99ecc886-a9e8-4dd7-9979-bac2f5bd68c6",
-   "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Ensemble!"
-   },
-   "contentRating": "safe",
-   "score": 0.2146933,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:14+00:00"
+ "updatedAt": "2023-12-10T18:20:29+00:00"
 }

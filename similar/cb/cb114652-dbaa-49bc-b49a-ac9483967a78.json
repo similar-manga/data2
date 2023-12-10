@@ -11,7 +11,7 @@
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.20441218,
+   "score": 0.20289958,
    "languages": [
     "en",
     "zh",
@@ -42,7 +42,7 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.19786824,
+   "score": 0.19595973,
    "languages": [
     "en",
     "pt-br",
@@ -56,7 +56,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.17141378,
+   "score": 0.1711771,
    "languages": [
     "it",
     "id",
@@ -72,23 +72,12 @@
     "en": "Sanda"
    },
    "contentRating": "safe",
-   "score": 0.16586143,
+   "score": 0.16498226,
    "languages": [
     "fr",
     "en",
     "es-la",
     "pt-br"
-   ]
-  },
-  {
-   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
-   "title": {
-    "en": "Earthly Paradise"
-   },
-   "contentRating": "safe",
-   "score": 0.16412199,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -103,12 +92,23 @@
    ]
   },
   {
+   "id": "ec9ebab2-1691-486e-b27f-bb252e332a3e",
+   "title": {
+    "en": "Earthly Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.16412199,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
    "title": {
     "en": "Life Maker"
    },
    "contentRating": "safe",
-   "score": 0.16237769,
+   "score": 0.16228588,
    "languages": [
     "en"
    ]
@@ -119,20 +119,19 @@
     "en": "World Record of the Holy Mother"
    },
    "contentRating": "safe",
-   "score": 0.15742838,
+   "score": 0.15605217,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
+   "id": "6a7d0f70-e41c-4385-bb1c-3868f53144d8",
    "title": {
-    "en": "Tokyo Doragon Naito"
+    "en": "Brave Bell"
    },
    "contentRating": "safe",
-   "score": 0.1570345,
+   "score": 0.15492201,
    "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -161,23 +160,12 @@
    ]
   },
   {
-   "id": "fa2363d3-318a-45e7-a597-cea5543aaaf2",
-   "title": {
-    "en": "THE iDOLM@STER Innocent Blue for Dearly Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.14970896,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c875bebb-8d03-4c8e-89dd-a3235f28df62",
    "title": {
     "en": "Rooster Fighter"
    },
    "contentRating": "safe",
-   "score": 0.14814167,
+   "score": 0.1475728,
    "languages": [
     "id",
     "en",
@@ -202,17 +190,33 @@
    ]
   },
   {
-   "id": "7a4cd771-cb11-4c6f-bff5-1ff951c4bee0",
+   "id": "21e80bd8-cabf-4c49-86da-72f92255f248",
    "title": {
-    "en": "How to Colonize Space"
+    "en": "Shin Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.14213382,
+   "score": 0.1463524,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "d64b0768-bebe-433c-b923-99870503c0a3",
+   "title": {
+    "en": "Dark Gathering"
+   },
+   "contentRating": "safe",
+   "score": 0.14285293,
    "languages": [
     "pt-br",
-    "en"
+    "en",
+    "vi",
+    "es",
+    "es-la",
+    "zh-hk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:08+00:00"
+ "updatedAt": "2023-12-10T18:30:52+00:00"
 }

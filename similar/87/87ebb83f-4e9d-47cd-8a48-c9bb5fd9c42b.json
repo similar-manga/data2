@@ -6,28 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "30f3cef1-00f7-42e8-b39a-1a73c01d99e4",
-   "title": {
-    "en": "The girl I started dating won't walk next to me"
-   },
-   "contentRating": "safe",
-   "score": 0.3213699,
-   "languages": [
-    "vi",
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
    "title": {
     "en": "I want you to ask me first!"
    },
    "contentRating": "safe",
-   "score": 0.30688244,
+   "score": 0.36677876,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "30f3cef1-00f7-42e8-b39a-1a73c01d99e4",
+   "title": {
+    "en": "The girl I started dating won't walk next to me"
+   },
+   "contentRating": "safe",
+   "score": 0.31937638,
+   "languages": [
+    "vi",
+    "en",
+    "id"
    ]
   },
   {
@@ -36,7 +36,7 @@
     "en": "Koto no Ha"
    },
    "contentRating": "safe",
-   "score": 0.2996436,
+   "score": 0.3007227,
    "languages": [
     "vi",
     "en"
@@ -48,7 +48,7 @@
     "en": "Kuroi-san After School"
    },
    "contentRating": "safe",
-   "score": 0.29963475,
+   "score": 0.29992515,
    "languages": [
     "de",
     "vi",
@@ -63,7 +63,7 @@
     "en": "A Story about A Quiet Gyaru Who Got Confessed by an Extremely Straight-Forward Boy"
    },
    "contentRating": "safe",
-   "score": 0.2916469,
+   "score": 0.29427743,
    "languages": [
     "en",
     "vi",
@@ -72,14 +72,38 @@
    ]
   },
   {
+   "id": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
+   "title": {
+    "en": "Kimi to Warui Koto ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.2926133,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "e881d0e9-cc1d-4b25-846c-db5a56cbe562",
    "title": {
     "en": "Inu Mitai na Ko to Neko Mitai na Ko"
    },
    "contentRating": "safe",
-   "score": 0.29080698,
+   "score": 0.29190528,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "09599e3b-527a-47e3-b847-65c4d609ee7a",
+   "title": {
+    "en": "100 Things I Didn’t Know About My Senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.28778088,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -88,7 +112,7 @@
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.28800666,
+   "score": 0.28682747,
    "languages": [
     "en",
     "vi"
@@ -106,6 +130,31 @@
    ]
   },
   {
+   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
+   "title": {
+    "en": "Nande Nanda-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "fr",
+    "vi",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
+   "title": {
+    "en": "Itsuka, Kimi wo"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9088a076-744b-4773-a83e-8e3f1748f387",
    "title": {
     "en": "Ren'ai Saibaihou"
@@ -113,6 +162,18 @@
    "contentRating": "safe",
    "score": 0.2852744,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "title": {
+    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "it",
     "en"
    ]
   },
@@ -139,74 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
-   "title": {
-    "en": "Itsuka, Kimi wo"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
-   "title": {
-    "en": "Nande Nanda-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "fr",
-    "vi",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
-   "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "9964ea10-6a8c-49d5-9a2b-12d72747e721",
-   "title": {
-    "en": "A Story About Spending a Little More Time With an Eccentric Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.2814993,
-   "languages": [
-    "fr",
-    "id",
-    "en",
-    "vi",
-    "ms",
-    "pt-br",
-    "ru",
-    "th",
-    "ro"
-   ]
-  },
-  {
-   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
-   "title": {
-    "en": "Hageruya!"
-   },
-   "contentRating": "safe",
-   "score": 0.27965507,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:16+00:00"
+ "updatedAt": "2023-12-10T18:23:15+00:00"
 }

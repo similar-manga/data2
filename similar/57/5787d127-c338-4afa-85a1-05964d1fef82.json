@@ -11,7 +11,7 @@
     "en": "Tiger x Crane"
    },
    "contentRating": "safe",
-   "score": 0.34068274,
+   "score": 0.3404971,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tiger \u0026 Bunny"
    },
    "contentRating": "safe",
-   "score": 0.23485917,
+   "score": 0.2549116,
    "languages": [
     "ru",
     "en"
@@ -34,7 +34,7 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.22038424,
+   "score": 0.22042556,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "BLADE KID"
    },
    "contentRating": "safe",
-   "score": 0.20791288,
+   "score": 0.20294341,
    "languages": [
     "en"
    ]
@@ -56,9 +56,20 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.20191446,
+   "score": 0.20192772,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
+   "title": {
+    "en": "Locke the Superman"
+   },
+   "contentRating": "safe",
+   "score": 0.20180951,
+   "languages": [
     "en"
    ]
   },
@@ -78,12 +89,12 @@
    ]
   },
   {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
+   "id": "6a7d0f70-e41c-4385-bb1c-3868f53144d8",
    "title": {
-    "en": "Locke the Superman"
+    "en": "Brave Bell"
    },
    "contentRating": "safe",
-   "score": 0.20180951,
+   "score": 0.20121548,
    "languages": [
     "en"
    ]
@@ -98,6 +109,17 @@
    "languages": [
     "pl",
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "ec19b836-df48-43ba-b62f-0864d801a1ca",
+   "title": {
+    "en": "Salaryman no Fushigi na Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.18865444,
+   "languages": [
     "en"
    ]
   },
@@ -119,7 +141,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.1873352,
+   "score": 0.18742657,
    "languages": [
     "pt-br",
     "es",
@@ -149,7 +171,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.18100786,
+   "score": 0.18069163,
    "languages": [
     "ru",
     "tr",
@@ -167,7 +189,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.18015403,
+   "score": 0.18000264,
    "languages": [
     "en",
     "fr",
@@ -193,32 +215,7 @@
     "ru",
     "zh"
    ]
-  },
-  {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
-   "title": {
-    "en": "Window Washer Park"
-   },
-   "contentRating": "safe",
-   "score": 0.17914969,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
-   "title": {
-    "en": "Mix"
-   },
-   "contentRating": "safe",
-   "score": 0.17687075,
-   "languages": [
-    "ru",
-    "en",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:12+00:00"
+ "updatedAt": "2023-12-10T18:17:47+00:00"
 }

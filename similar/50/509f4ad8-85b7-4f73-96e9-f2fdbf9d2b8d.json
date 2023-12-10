@@ -11,7 +11,7 @@
     "en": "Cecile's Feelings"
    },
    "contentRating": "safe",
-   "score": 0.2923717,
+   "score": 0.29209495,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Until I Turn Around the Corner"
    },
    "contentRating": "safe",
-   "score": 0.26565528,
+   "score": 0.2658831,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Milk Cake in the Reflection"
    },
    "contentRating": "safe",
-   "score": 0.26528844,
+   "score": 0.26550606,
    "languages": [
     "en",
     "pt-br",
@@ -47,21 +47,10 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.25388137,
+   "score": 0.25361657,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "d6aaba3a-2bb5-4b5a-a799-e5c3ff48d654",
-   "title": {
-    "en": "Tonari no Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -77,12 +66,23 @@
    ]
   },
   {
+   "id": "d6aaba3a-2bb5-4b5a-a799-e5c3ff48d654",
+   "title": {
+    "en": "Tonari no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2208e0fb-aa4a-4683-a13f-ebd03058baa4",
    "title": {
     "en": "Love 0¥"
    },
    "contentRating": "safe",
-   "score": 0.24714723,
+   "score": 0.24447426,
    "languages": [
     "en",
     "vi",
@@ -95,7 +95,7 @@
     "en": "49th Confession"
    },
    "contentRating": "safe",
-   "score": 0.24325381,
+   "score": 0.24297692,
    "languages": [
     "th",
     "pt-br",
@@ -105,26 +105,26 @@
    ]
   },
   {
-   "id": "d4d5aa20-9ba8-4e5d-ae9f-e560c1428b06",
-   "title": {
-    "en": "Color of the Far East"
-   },
-   "contentRating": "safe",
-   "score": 0.23766614,
-   "languages": [
-    "en",
-    "ar"
-   ]
-  },
-  {
    "id": "a215e6c7-6d44-40a5-98b4-a78f606c3d07",
    "title": {
     "en": "Obaa-chan no Poi"
    },
    "contentRating": "safe",
-   "score": 0.23747112,
+   "score": 0.23851082,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d4d5aa20-9ba8-4e5d-ae9f-e560c1428b06",
+   "title": {
+    "en": "Color of the Far East"
+   },
+   "contentRating": "safe",
+   "score": 0.23757845,
+   "languages": [
+    "en",
+    "ar"
    ]
   },
   {
@@ -133,7 +133,7 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.23000309,
+   "score": 0.23036191,
    "languages": [
     "it",
     "en"
@@ -145,7 +145,7 @@
     "en": "Straight no Chaser"
    },
    "contentRating": "safe",
-   "score": 0.2275639,
+   "score": 0.22770926,
    "languages": [
     "en",
     "pt-br"
@@ -157,29 +157,7 @@
     "en": "Hakobune no Biosophia"
    },
    "contentRating": "safe",
-   "score": 0.22488336,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e8542dd-43e0-42bb-b740-dcf5464897d0",
-   "title": {
-    "en": "Sanbanme no Tsuki"
-   },
-   "contentRating": "safe",
-   "score": 0.22247319,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
-   "title": {
-    "en": "Black Coffee"
-   },
-   "contentRating": "safe",
-   "score": 0.22201496,
+   "score": 0.22477064,
    "languages": [
     "en"
    ]
@@ -190,12 +168,38 @@
     "en": "Akumu no Elevator"
    },
    "contentRating": "safe",
-   "score": 0.21819006,
+   "score": 0.2240253,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "010a2e68-b80f-4546-a146-54406544b4dc",
+   "title": {
+    "en": "Yoru no Manimani"
+   },
+   "contentRating": "safe",
+   "score": 0.22191878,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "7e8542dd-43e0-42bb-b740-dcf5464897d0",
+   "title": {
+    "en": "Sanbanme no Tsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.22133721,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:55+00:00"
+ "updatedAt": "2023-12-10T18:17:00+00:00"
 }

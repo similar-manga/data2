@@ -11,7 +11,7 @@
     "en": "Violence Jack - Legend of the Sengoku Majin"
    },
    "contentRating": "safe",
-   "score": 0.24257615,
+   "score": 0.243995,
    "languages": [
     "en"
    ]
@@ -44,6 +44,17 @@
     "fr",
     "es-la",
     "ru"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.20524849,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -85,15 +96,31 @@
    ]
   },
   {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
+   "id": "831eef36-be1c-43eb-bedb-48b207e4a975",
    "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
+    "en": "Burazamurai"
    },
    "contentRating": "safe",
-   "score": 0.1942089,
+   "score": 0.19480346,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.19456415,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
     "en",
-    "es-la"
+    "tr",
+    "ru",
+    "fa"
    ]
   },
   {
@@ -106,6 +133,18 @@
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "81e9cf75-908b-489e-906d-c7f001673274",
+   "title": {
+    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
+   },
+   "contentRating": "safe",
+   "score": 0.19288619,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -178,54 +217,7 @@
     "it",
     "en"
    ]
-  },
-  {
-   "id": "a1de21f0-3007-4cde-b45a-d71462b70e8e",
-   "title": {
-    "en": "Napoleon - Age of the Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.17875701,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
-   "title": {
-    "en": "Record of Ragnarok"
-   },
-   "contentRating": "safe",
-   "score": 0.17643374,
-   "languages": [
-    "zh-hk",
-    "en",
-    "fr",
-    "tr",
-    "es-la",
-    "ru",
-    "pt-br",
-    "bg",
-    "uk",
-    "id",
-    "it",
-    "vi",
-    "fa",
-    "ar",
-    "pl"
-   ]
-  },
-  {
-   "id": "1edab9a2-41b0-4873-a3cc-7aa0b68db194",
-   "title": {
-    "en": "The Judgement Day - Fist of the North Star: Ryuken Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.17616963,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:55+00:00"
+ "updatedAt": "2023-12-10T18:17:01+00:00"
 }

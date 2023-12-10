@@ -19,6 +19,18 @@
    ]
   },
   {
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
+   "title": {
+    "en": "Balemount"
+   },
+   "contentRating": "safe",
+   "score": 0.18343964,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "8d48cdcc-606c-4142-9547-288c77e12df2",
    "title": {
     "en": "Jisatsu Yuugi"
@@ -63,7 +75,29 @@
     "en": "Rabbit Horns"
    },
    "contentRating": "safe",
-   "score": 0.17067564,
+   "score": 0.16972639,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
+   "title": {
+    "en": "Koukou Jihen"
+   },
+   "contentRating": "safe",
+   "score": 0.1647774,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
+   "title": {
+    "en": "Zange"
+   },
+   "contentRating": "safe",
+   "score": 0.1588634,
    "languages": [
     "en"
    ]
@@ -81,20 +115,6 @@
    ]
   },
   {
-   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
-   "title": {
-    "en": "Jinjori Barai"
-   },
-   "contentRating": "safe",
-   "score": 0.1588634,
-   "languages": [
-    "id",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "288a9b95-fead-43e2-99e8-ac0e85802e59",
    "title": {
     "en": "Kono Ko ja Nai!"
@@ -109,24 +129,16 @@
    ]
   },
   {
-   "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
+   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
    "title": {
-    "en": "Zange"
+    "en": "Jinjori Barai"
    },
    "contentRating": "safe",
    "score": 0.1588634,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "460e98d7-74ce-4c61-9f38-e248be115829",
-   "title": {
-    "en": "Shuuenchi"
-   },
-   "contentRating": "safe",
-   "score": 0.15601858,
-   "languages": [
+    "id",
+    "it",
+    "pt-br",
     "en"
    ]
   },
@@ -143,12 +155,34 @@
    ]
   },
   {
+   "id": "460e98d7-74ce-4c61-9f38-e248be115829",
+   "title": {
+    "en": "Shuuenchi"
+   },
+   "contentRating": "safe",
+   "score": 0.15601858,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1a40552b-6f07-4817-978a-180996e98221",
    "title": {
     "en": "An Inquiry Concerning A Mechanistic Worldview of the Pituitary Gland"
    },
    "contentRating": "safe",
    "score": 0.15286636,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d885957b-617d-4609-a892-4ad4b2e256d6",
+   "title": {
+    "en": "77 Billion Disasters"
+   },
+   "contentRating": "safe",
+   "score": 0.15113059,
    "languages": [
     "en"
    ]
@@ -163,44 +197,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d25973ae-bcc3-4b88-a069-1cebab3f3099",
-   "title": {
-    "en": "Uchuujin no Kakushigoto"
-   },
-   "contentRating": "safe",
-   "score": 0.14977784,
-   "languages": [
-    "es-la",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "f2e355b4-18c1-4fa8-a21e-b2ec8963892d",
-   "title": {
-    "en": "Gestation of Kalavinka"
-   },
-   "contentRating": "safe",
-   "score": 0.14814234,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97666c13-2c14-4f7b-b2dd-904424466ea8",
-   "title": {
-    "en": "Biohazard: Death Island"
-   },
-   "contentRating": "safe",
-   "score": 0.14709572,
-   "languages": [
-    "uk",
-    "id",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:37+00:00"
+ "updatedAt": "2023-12-10T18:24:09+00:00"
 }

@@ -6,14 +6,42 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b72c457b-7966-4e7b-9ae7-7bdb0992a5fb",
+   "title": {
+    "en": "Sensei wa Warui Ko"
+   },
+   "contentRating": "safe",
+   "score": 0.3721342
+  },
+  {
+   "id": "9c256491-1a54-40d9-8bf5-0300edd8c6aa",
+   "title": {
+    "en": "Natsu ni, Yuki ga Furu You ni"
+   },
+   "contentRating": "safe",
+   "score": 0.35739103
+  },
+  {
    "id": "108ab831-0ddd-472f-9e15-3093d94924a3",
    "title": {
     "en": "Dakara Koi to Yobanaide"
    },
    "contentRating": "safe",
-   "score": 0.3432189,
+   "score": 0.34883174,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e7f43b28-0b5d-40ff-8481-7e0f6f7384d7",
+   "title": {
+    "en": "Sensei 〆Shimekiri made Matte!"
+   },
+   "contentRating": "safe",
+   "score": 0.32950032,
+   "languages": [
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -22,7 +50,7 @@
     "en": "Sensei no Koto Ga Suki nan Desu"
    },
    "contentRating": "safe",
-   "score": 0.32250568,
+   "score": 0.32691664,
    "languages": [
     "en"
    ]
@@ -33,7 +61,7 @@
     "en": "Sensei no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.3205779,
+   "score": 0.32314852,
    "languages": [
     "it"
    ]
@@ -44,7 +72,7 @@
     "en": "Chiyahoya Shite Yo!"
    },
    "contentRating": "safe",
-   "score": 0.3129091,
+   "score": 0.31408828,
    "languages": [
     "fr",
     "tr"
@@ -56,29 +84,26 @@
     "en": "Unbeatable Youth"
    },
    "contentRating": "safe",
-   "score": 0.30891505,
+   "score": 0.30884352,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "dbc54fff-e34a-4965-8944-fed9d0eab402",
+   "id": "c5d2622d-74c8-455a-9267-9b0a467d8d0a",
    "title": {
-    "en": "Mayonaka Lolita"
+    "en": "Sensei to, Watashi wa"
    },
    "contentRating": "safe",
-   "score": 0.30059814,
-   "languages": [
-    "it"
-   ]
+   "score": 0.30788097
   },
   {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
+   "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
    "title": {
-    "en": "Like to Be Ordinary!"
+    "en": "Hey Miss, Don't You Know?"
    },
    "contentRating": "safe",
-   "score": 0.3005811,
+   "score": 0.3053194,
    "languages": [
     "en"
    ]
@@ -89,15 +114,29 @@
     "en": "Sensei Addict"
    },
    "contentRating": "safe",
-   "score": 0.29891905
+   "score": 0.30234474
   },
   {
-   "id": "baa80279-642b-4cca-a6e0-55a6725cd0d3",
+   "id": "dbc54fff-e34a-4965-8944-fed9d0eab402",
    "title": {
-    "en": "Sfumare"
+    "en": "Mayonaka Lolita"
    },
    "contentRating": "safe",
-   "score": 0.29834127
+   "score": 0.29980996,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
+   "title": {
+    "en": "Like to Be Ordinary!"
+   },
+   "contentRating": "safe",
+   "score": 0.29905137,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "49d931d7-d9ac-4cc9-8440-7de4514bb985",
@@ -105,65 +144,24 @@
     "en": "Maria-ppoino!"
    },
    "contentRating": "safe",
-   "score": 0.29819143
+   "score": 0.29749086
   },
   {
-   "id": "caea25a6-4931-49b6-b48f-2d806ee66190",
+   "id": "baa80279-642b-4cca-a6e0-55a6725cd0d3",
    "title": {
-    "en": "Love Fantasy"
+    "en": "Sfumare"
    },
    "contentRating": "safe",
-   "score": 0.2945318
+   "score": 0.29739717
   },
   {
-   "id": "2d472879-0d7c-4bad-bf76-605246ff99b7",
+   "id": "275b5836-7e49-43ab-8427-5a162ddc8ccf",
    "title": {
-    "en": "100 Ways of an Exorcist"
+    "en": "Ooedo Shitamachi Komoridou"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41d6f798-397c-4fd3-85c9-a318f201e817",
-   "title": {
-    "en": "Gyu Gyutto Mamotte!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "96e5efad-f762-492d-9370-be9e6119d1f3",
-   "title": {
-    "en": "Sweetheart Devil"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "29b150d1-ca2f-4344-aede-89375e2c62f0",
-   "title": {
-    "en": "Lover Puzzle"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "12106f2c-fc8e-4939-8157-61dbefb21762",
-   "title": {
-    "en": "Prism Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.28237474
+   "score": 0.29661593
   }
  ],
- "updatedAt": "2023-12-10T01:03:02+00:00"
+ "updatedAt": "2023-12-10T18:17:19+00:00"
 }

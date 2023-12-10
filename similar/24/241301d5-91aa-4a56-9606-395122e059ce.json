@@ -11,7 +11,7 @@
     "en": "Defense Bakari no Koi ja dame!!"
    },
    "contentRating": "safe",
-   "score": 0.31212282,
+   "score": 0.30909097,
    "languages": [
     "en",
     "tr",
@@ -24,7 +24,7 @@
     "en": "First Love"
    },
    "contentRating": "safe",
-   "score": 0.30937064,
+   "score": 0.30880243,
    "languages": [
     "pt-br",
     "en"
@@ -36,7 +36,7 @@
     "en": "Koi Wakaba"
    },
    "contentRating": "safe",
-   "score": 0.30209312,
+   "score": 0.30137387,
    "languages": [
     "en"
    ]
@@ -47,19 +47,19 @@
     "en": "Nijikuro Gakuen no Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.29757333,
+   "score": 0.29896846,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "36729c7a-2a12-46a6-b17c-26696fbab7c5",
+   "id": "3de833a5-c673-4f1c-90fa-98003a11b486",
    "title": {
-    "en": "The Junior Ace Wants Me"
+    "en": "Let’s Keep This Love a Secret from Everyone"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29345593,
    "languages": [
     "en"
    ]
@@ -68,51 +68,6 @@
    "id": "0d315c35-4d15-4d54-a5e2-317a7bfc9250",
    "title": {
     "en": "Sunday Scandal"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d8761207-d87c-4ea2-a244-b827f3c0f23c",
-   "title": {
-    "en": "Oishii Kimi List"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "eeaceee6-71c5-43a0-a8a9-640d302015f0",
-   "title": {
-    "en": "Hokori"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d29e845e-69e5-4066-8799-6835886286b5",
-   "title": {
-    "en": "Haruiro Stalker"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0bdf14ea-5f5e-46a2-b248-93e0ceba8496",
-   "title": {
-    "en": "Mizu no Naka"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -132,28 +87,47 @@
    ]
   },
   {
-   "id": "c5d1359b-a9ac-4f44-84c7-e8ca192c65f0",
+   "id": "36729c7a-2a12-46a6-b17c-26696fbab7c5",
    "title": {
-    "en": "Jippu Jippu Byuun!"
+    "en": "The Junior Ace Wants Me"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
-    "bg"
+    "en"
    ]
   },
   {
-   "id": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
+   "id": "0bdf14ea-5f5e-46a2-b248-93e0ceba8496",
    "title": {
-    "en": "Yuki-doke no Netsu"
+    "en": "Mizu no Naka"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pt-br",
-    "en",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "bfa3d285-3b94-455a-a9aa-5aaacd1fdcb3",
+   "title": {
+    "en": "Watashi no Mahoutsukai-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2c2443dd-0797-480a-9deb-0a550441ee99",
+   "title": {
+    "en": "Uwasa no Kanojo"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -170,13 +144,27 @@
    ]
   },
   {
-   "id": "d37ee149-e0cf-401e-829d-394f459753e1",
+   "id": "89e9cf30-7cef-485f-89af-99ea0b86b8ec",
    "title": {
-    "en": "Melange!"
+    "en": "Yuki-doke no Netsu"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "d8761207-d87c-4ea2-a244-b827f3c0f23c",
+   "title": {
+    "en": "Oishii Kimi List"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -191,7 +179,18 @@
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "d29e845e-69e5-4066-8799-6835886286b5",
+   "title": {
+    "en": "Haruiro Stalker"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:08+00:00"
+ "updatedAt": "2023-12-10T18:12:11+00:00"
 }

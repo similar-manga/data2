@@ -11,7 +11,7 @@
     "en": "My Dear Deadman"
    },
    "contentRating": "safe",
-   "score": 0.26605344,
+   "score": 0.26497227,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Petto no Neko ga Shinde Ningen ni Natta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2632842,
+   "score": 0.2633728,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Gimmick"
    },
    "contentRating": "safe",
-   "score": 0.25867206,
+   "score": 0.25786102,
    "languages": [
     "tr",
     "pl",
@@ -46,7 +46,7 @@
     "en": "Sayonara Limit"
    },
    "contentRating": "safe",
-   "score": 0.25517395,
+   "score": 0.25609893,
    "languages": [
     "en"
    ]
@@ -57,29 +57,18 @@
     "en": "Death Trap"
    },
    "contentRating": "safe",
-   "score": 0.2530472,
+   "score": 0.25269902,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c13e9af1-e301-40d7-b246-277432407886",
+   "id": "472a93c1-209b-4978-bc7c-300bcaa23af4",
    "title": {
-    "en": "Close Your Eyes"
+    "en": "Amai Kao wa Misenaide"
    },
    "contentRating": "safe",
-   "score": 0.25198427,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4aae6db2-e828-4775-9bda-6b48639508f8",
-   "title": {
-    "en": "Drug \u0026 Drop"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
+   "score": 0.25161844,
    "languages": [
     "en"
    ]
@@ -88,6 +77,17 @@
    "id": "a74622a5-3912-416b-b553-67e8599c4478",
    "title": {
     "en": "Oath of Allegiance"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4aae6db2-e828-4775-9bda-6b48639508f8",
+   "title": {
+    "en": "Drug \u0026 Drop"
    },
    "contentRating": "safe",
    "score": 0.25126484,
@@ -107,12 +107,35 @@
    ]
   },
   {
+   "id": "c13e9af1-e301-40d7-b246-277432407886",
+   "title": {
+    "en": "Close Your Eyes"
+   },
+   "contentRating": "safe",
+   "score": 0.24957225,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
+   "title": {
+    "en": "Unmei no Koi ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.24878804,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
    "title": {
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.2425244,
+   "score": 0.2419787,
    "languages": [
     "en",
     "ru"
@@ -124,7 +147,7 @@
     "en": "Toxic"
    },
    "contentRating": "safe",
-   "score": 0.2379836,
+   "score": 0.23818068,
    "languages": [
     "pl"
    ]
@@ -135,7 +158,7 @@
     "en": "Kachuu no Ou"
    },
    "contentRating": "safe",
-   "score": 0.23791486,
+   "score": 0.23731455,
    "languages": [
     "pt-br",
     "en"
@@ -147,7 +170,7 @@
     "en": "Tsukigime Lunatic"
    },
    "contentRating": "safe",
-   "score": 0.23474406,
+   "score": 0.23476012,
    "languages": [
     "en"
    ]
@@ -158,37 +181,14 @@
     "en": "The Fox Lover"
    },
    "contentRating": "safe",
-   "score": 0.23296759,
+   "score": 0.23412167,
    "languages": [
     "pt-br",
     "en",
     "it",
     "pl"
    ]
-  },
-  {
-   "id": "d0904b4c-69ba-40d7-8321-43e5562aa62d",
-   "title": {
-    "en": "Constant Thinking [ONESHOT]"
-   },
-   "contentRating": "safe",
-   "score": 0.2327972,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
-   "title": {
-    "en": "Unmei no Koi ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.23008081,
-   "languages": [
-    "en",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:34+00:00"
+ "updatedAt": "2023-12-10T18:26:46+00:00"
 }

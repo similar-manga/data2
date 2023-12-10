@@ -11,7 +11,7 @@
     "en": "Chi ga Tsunagatte Inai Koto ga Hakkaku Shita Kyoudai no LoveCome"
    },
    "contentRating": "safe",
-   "score": 0.26902914,
+   "score": 0.27610904,
    "languages": [
     "pt-br",
     "en",
@@ -31,25 +31,12 @@
    ]
   },
   {
-   "id": "3f669ddf-aad1-4bc9-9ae2-0dd54ce5ed5b",
-   "title": {
-    "en": "Tsurai toki mo 'daijoubudayo' to kimi ni wa itte shimau hanashi."
-   },
-   "contentRating": "safe",
-   "score": 0.25156754,
-   "languages": [
-    "id",
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "39e06332-937e-4a5c-afe0-ab903550027d",
    "title": {
     "en": "Oretachi ga Osananajimi Janaku Natta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.25112835,
+   "score": 0.2499783,
    "languages": [
     "id"
    ]
@@ -60,11 +47,24 @@
     "en": "Mirai ga Mieru Sumaho no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.25078607,
+   "score": 0.24977233,
    "languages": [
     "vi",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "3f669ddf-aad1-4bc9-9ae2-0dd54ce5ed5b",
+   "title": {
+    "en": "Tsurai toki mo 'daijoubudayo' to kimi ni wa itte shimau hanashi."
+   },
+   "contentRating": "safe",
+   "score": 0.24969168,
+   "languages": [
+    "id",
+    "ru",
+    "en"
    ]
   },
   {
@@ -73,22 +73,11 @@
     "en": "Okitara Onnanoko no Karada ni Natteta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.24745373,
+   "score": 0.24952117,
    "languages": [
     "en",
     "id",
     "ru"
-   ]
-  },
-  {
-   "id": "7c550a22-111e-4315-9967-ab11160faca9",
-   "title": {
-    "en": "Tonari no Kumazawa-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -101,20 +90,6 @@
    "languages": [
     "ru",
     "en"
-   ]
-  },
-  {
-   "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
-   "title": {
-    "en": "Light Again"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "it"
    ]
   },
   {
@@ -142,6 +117,19 @@
    ]
   },
   {
+   "id": "d38d62c7-b600-462d-ab7f-29d8177f3470",
+   "title": {
+    "en": "Always, Ever Since That Day"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "id",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "90c4af80-c231-44fd-881a-1c01d783e06e",
    "title": {
     "en": "Touta"
@@ -156,15 +144,13 @@
    ]
   },
   {
-   "id": "d38d62c7-b600-462d-ab7f-29d8177f3470",
+   "id": "7c550a22-111e-4315-9967-ab11160faca9",
    "title": {
-    "en": "Always, Ever Since That Day"
+    "en": "Tonari no Kumazawa-kun"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "id",
-    "vi",
     "en"
    ]
   },
@@ -177,6 +163,20 @@
    "score": 0.24743582,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
+   "title": {
+    "en": "Light Again"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru",
+    "it"
    ]
   },
   {
@@ -203,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:58+00:00"
+ "updatedAt": "2023-12-10T18:14:28+00:00"
 }

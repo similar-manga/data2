@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a0c6b355-6e51-481c-a45f-5ae5bad5ac8f",
+   "title": {
+    "en": "Water Polo"
+   },
+   "contentRating": "safe",
+   "score": 0.6688664
+  },
+  {
    "id": "ca97a619-be08-4688-93aa-fe32cb5aef1e",
    "title": {
     "en": "Balance Days"
    },
    "contentRating": "safe",
-   "score": 0.25395226,
+   "score": 0.25401932,
    "languages": [
     "pt-br",
     "en"
@@ -23,15 +31,26 @@
     "en": "Allez!!"
    },
    "contentRating": "safe",
-   "score": 0.24993218
+   "score": 0.2490909
   },
   {
-   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
+   "id": "f91db61f-5a94-4fe3-bf7e-ea541942ad12",
    "title": {
-    "en": "Play Ball"
+    "en": "Sunny Birdie"
    },
    "contentRating": "safe",
-   "score": 0.24025077
+   "score": 0.23982058,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "72ff7504-dd77-439c-bd5a-5c9da017e302",
+   "title": {
+    "en": "Magnum Lily"
+   },
+   "contentRating": "safe",
+   "score": 0.23982058
   },
   {
    "id": "eccca788-db66-44cb-8f8d-c85c51605449",
@@ -39,7 +58,7 @@
     "en": "The Strongest Legend"
    },
    "contentRating": "safe",
-   "score": 0.23769869,
+   "score": 0.23712511,
    "languages": [
     "it",
     "en",
@@ -52,20 +71,19 @@
     "en": "Nijou Taka Koukou Rojou Kansatsu-bu"
    },
    "contentRating": "safe",
-   "score": 0.2334613,
+   "score": 0.2331968,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "id": "aaae6694-d9a0-44c2-abed-53141168e3d8",
    "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+    "en": "e×COM Haruoka Gakuen Game Joshi-bu"
    },
    "contentRating": "safe",
-   "score": 0.23251751,
+   "score": 0.23272836,
    "languages": [
-    "it",
     "en"
    ]
   },
@@ -76,6 +94,42 @@
    },
    "contentRating": "safe",
    "score": 0.23208444
+  },
+  {
+   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "title": {
+    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+   },
+   "contentRating": "safe",
+   "score": 0.23150842,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
+   "title": {
+    "en": "Yama no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.2280176,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "7f854d21-0d00-4f24-a835-b28834daacc9",
+   "title": {
+    "en": "Hachigatsu no Cinderella Nine S"
+   },
+   "contentRating": "safe",
+   "score": 0.22741003,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "e881d0e9-cc1d-4b25-846c-db5a56cbe562",
@@ -89,14 +143,6 @@
    ]
   },
   {
-   "id": "c1802f22-22a3-426a-ac1d-56b7863b6161",
-   "title": {
-    "en": "Shirosugi! Akunososhiki"
-   },
-   "contentRating": "safe",
-   "score": 0.22434829
-  },
-  {
    "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
    "title": {
     "en": "Fuyukoshi-chan no No Pan Biyori"
@@ -108,71 +154,21 @@
    ]
   },
   {
-   "id": "b1848175-b00b-48f6-8628-5608ad56b13d",
+   "id": "f01dd5b8-a7aa-4777-8004-b64e60a771f0",
    "title": {
-    "en": "Bokura no VR"
+    "en": "Bushizawa Receive"
    },
    "contentRating": "safe",
-   "score": 0.22434829,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22434829
   },
   {
-   "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
+   "id": "c1802f22-22a3-426a-ac1d-56b7863b6161",
    "title": {
-    "ja": "Macaron"
+    "en": "Shirosugi! Akunososhiki"
    },
    "contentRating": "safe",
-   "score": 0.22306894,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17639b24-bfa6-4b82-beda-665806f0abee",
-   "title": {
-    "en": "Summer Doodle"
-   },
-   "contentRating": "safe",
-   "score": 0.22222318,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
-   "id": "029cec9b-fd34-4efd-a2ac-7bd2891342ce",
-   "title": {
-    "en": "Go!! Southern Ice Hockey Club"
-   },
-   "contentRating": "safe",
-   "score": 0.22045551,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76e7504b-8461-49ab-82d8-253ede464058",
-   "title": {
-    "en": "Karaoke no Hi"
-   },
-   "contentRating": "safe",
-   "score": 0.2203603,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dbf137a7-e858-452b-8a49-8bd4766fe0e8",
-   "title": {
-    "en": "Danjite! Boys"
-   },
-   "contentRating": "safe",
-   "score": 0.21661215
+   "score": 0.22434829
   }
  ],
- "updatedAt": "2023-12-10T01:02:33+00:00"
+ "updatedAt": "2023-12-10T18:16:08+00:00"
 }

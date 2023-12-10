@@ -6,6 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8b0145b1-947c-4f72-936e-be87b3d72b5d",
+   "title": {
+    "en": "The Unwavering Planets"
+   },
+   "contentRating": "safe",
+   "score": 0.2479896,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
+   "title": {
+    "en": "Halloween Night"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "ro",
+    "vi",
+    "pl",
+    "en",
+    "fr",
+    "it"
+   ]
+  },
+  {
    "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
     "en": "The Tiger of Omertà"
@@ -29,34 +57,6 @@
    ]
   },
   {
-   "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
-   "title": {
-    "en": "Halloween Night"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "ro",
-    "vi",
-    "pl",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "8b0145b1-947c-4f72-936e-be87b3d72b5d",
-   "title": {
-    "en": "The Unwavering Planets"
-   },
-   "contentRating": "safe",
-   "score": 0.24586509,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "6259f21b-1572-4bf6-9797-d44789b3355c",
    "title": {
     "en": "OPM × Dangan Tenshi Fanclub"
@@ -73,10 +73,21 @@
     "en": "Planet (MIZUKI Shigeru)"
    },
    "contentRating": "safe",
-   "score": 0.22808,
+   "score": 0.23133402,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "7f7a9625-2a5a-42a9-b3d0-a3bd625cecaa",
+   "title": {
+    "en": "Joukamachi no Dandelion"
+   },
+   "contentRating": "safe",
+   "score": 0.21754085,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -85,7 +96,7 @@
     "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
-   "score": 0.21810155,
+   "score": 0.21740888,
    "languages": [
     "en"
    ]
@@ -102,43 +113,20 @@
    ]
   },
   {
-   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
+   "id": "cf5033f2-0a27-45be-95da-876971af682f",
    "title": {
-    "en": "Crown Gear"
+    "en": "Sitting Down"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "en",
-    "hu"
+    "en"
    ]
   },
   {
    "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
    "title": {
     "en": "Bone Crusher"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cda25787-5154-4a96-ba3c-4e7a4e6a9385",
-   "title": {
-    "en": "Kyouran Kazoku Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf5033f2-0a27-45be-95da-876971af682f",
-   "title": {
-    "en": "Sitting Down"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -160,16 +148,26 @@
    ]
   },
   {
-   "id": "85cf1777-d504-4627-abb0-20416e5a4e00",
+   "id": "cda25787-5154-4a96-ba3c-4e7a4e6a9385",
    "title": {
-    "en": "Murikuri"
+    "en": "Kyouran Kazoku Nikki"
    },
    "contentRating": "safe",
-   "score": 0.21070316,
+   "score": 0.21428573,
    "languages": [
-    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
+   "title": {
+    "en": "Crown Gear"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
     "en",
-    "pt-br"
+    "hu"
    ]
   },
   {
@@ -178,23 +176,24 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.21047774,
+   "score": 0.21080999,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ff965654-6783-430e-91bb-27307d88109c",
+   "id": "85cf1777-d504-4627-abb0-20416e5a4e00",
    "title": {
-    "en": "Impermanence Resonating: An Attempt at a SF Manga"
+    "en": "Murikuri"
    },
    "contentRating": "safe",
-   "score": 0.20291525,
+   "score": 0.21014312,
    "languages": [
+    "pl",
     "en",
-    "it"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:46+00:00"
+ "updatedAt": "2023-12-10T18:19:15+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.37437606,
+   "score": 0.37208346,
    "languages": [
     "en",
     "id"
@@ -23,7 +23,7 @@
     "en": "Mukashi no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.35448346,
+   "score": 0.3534257,
    "languages": [
     "en"
    ]
@@ -34,10 +34,21 @@
     "en": "Chissai Shitsuren"
    },
    "contentRating": "safe",
-   "score": 0.29672053,
+   "score": 0.31149986,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "8649f9a9-3b18-44b5-b0d7-12c92edaed2b",
+   "title": {
+    "en": "Placebo"
+   },
+   "contentRating": "safe",
+   "score": 0.28764063,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -46,7 +57,7 @@
     "en": "Obaa-chan no Poi"
    },
    "contentRating": "safe",
-   "score": 0.28590333,
+   "score": 0.28575394,
    "languages": [
     "en"
    ]
@@ -57,21 +68,29 @@
     "en": "The Witch's Closet"
    },
    "contentRating": "safe",
-   "score": 0.2733961,
+   "score": 0.2712467,
    "languages": [
     "en",
     "ar"
    ]
   },
   {
-   "id": "212bd8b3-ba1c-4f68-9307-dcbf53320f0f",
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
    "title": {
-    "en": "Water Crisis"
+    "en": "Hitomi-chan wa Hitomishiri"
    },
    "contentRating": "safe",
-   "score": 0.26022512,
+   "score": 0.26283404,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
+    "ar",
+    "id",
+    "hi",
+    "vi"
    ]
   },
   {
@@ -80,7 +99,18 @@
     "en": "Oui Oui Days"
    },
    "contentRating": "safe",
-   "score": 0.25718972,
+   "score": 0.25880396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "212bd8b3-ba1c-4f68-9307-dcbf53320f0f",
+   "title": {
+    "en": "Water Crisis"
+   },
+   "contentRating": "safe",
+   "score": 0.25857142,
    "languages": [
     "en"
    ]
@@ -98,17 +128,6 @@
    ]
   },
   {
-   "id": "94a0a8c9-75e5-4a69-b8aa-ebac7a0a4578",
-   "title": {
-    "en": "Kiyomizu Iroha Doesn't Know Love"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
    "title": {
     "en": "Owatte miru no mo Warukunai"
@@ -118,6 +137,17 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "94a0a8c9-75e5-4a69-b8aa-ebac7a0a4578",
+   "title": {
+    "en": "Kiyomizu Iroha Doesn't Know Love"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -169,32 +199,7 @@
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "0f0e17dc-8818-46df-97f2-4f68a84100b0",
-   "title": {
-    "en": "Tonari no Gyaru ga Miyabi Sugiru!?"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "fec00b5e-b479-4dd4-becf-4532b4d727a8",
-   "title": {
-    "en": "Zoo to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:58+00:00"
+ "updatedAt": "2023-12-10T18:19:46+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Ichigeki Sacchu!! Hoihoi-san"
    },
    "contentRating": "safe",
-   "score": 0.31384593,
+   "score": 0.31580776,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Hinadori Girl"
    },
    "contentRating": "safe",
-   "score": 0.30756322
+   "score": 0.30903125
   },
   {
    "id": "248807b9-f596-4f87-820c-407b175fe8cc",
@@ -42,7 +42,7 @@
     "en": "Ichigo Mashimaro"
    },
    "contentRating": "safe",
-   "score": 0.26540765,
+   "score": 0.26281515,
    "languages": [
     "pl",
     "en",
@@ -57,10 +57,49 @@
     "en": "Ewokaku Futari"
    },
    "contentRating": "safe",
-   "score": 0.258021,
+   "score": 0.25777516,
    "languages": [
     "zh-hk"
    ]
+  },
+  {
+   "id": "231a5d96-583b-4c58-97fd-5ac1396be737",
+   "title": {
+    "en": "Oyaji to Nyankichi"
+   },
+   "contentRating": "safe",
+   "score": 0.25465453,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d1b3a74b-071c-4a24-8ae1-994c9e031061",
+   "title": {
+    "en": "Bon Bon"
+   },
+   "contentRating": "safe",
+   "score": 0.2501773
+  },
+  {
+   "id": "e0c81b70-dce4-4a61-9a7e-0aa927c654fe",
+   "title": {
+    "en": "Shinigami Ramen"
+   },
+   "contentRating": "safe",
+   "score": 0.24884908,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "c5358827-9c36-47ee-98b7-6f88e8fd886b",
+   "title": {
+    "en": "New Kiteretsu Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
   },
   {
    "id": "da5d0c55-26f5-4796-8e4d-feac69698d94",
@@ -68,7 +107,7 @@
     "en": "Marude Dameo"
    },
    "contentRating": "safe",
-   "score": 0.25449172
+   "score": 0.24692619
   },
   {
    "id": "489888be-8d95-4dae-bf93-f8e3edb58b48",
@@ -82,12 +121,17 @@
    ]
   },
   {
-   "id": "c5358827-9c36-47ee-98b7-6f88e8fd886b",
+   "id": "a43509ba-f5a9-4a41-b693-0674e7709dc6",
    "title": {
-    "en": "New Kiteretsu Encyclopedia"
+    "en": "Non-Special Day"
    },
    "contentRating": "safe",
-   "score": 0.24692619
+   "score": 0.24666363,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
+   ]
   },
   {
    "id": "7f389dc2-2be1-4231-93f6-eba281050fe3",
@@ -95,33 +139,15 @@
     "en": "Metal Guardian Faust"
    },
    "contentRating": "safe",
-   "score": 0.24142827
+   "score": 0.24420673
   },
   {
-   "id": "e242133d-3fef-4d68-a3cc-fbb198170863",
+   "id": "63957b54-1531-43a4-b04f-1e27f4eeffab",
    "title": {
-    "en": "Aka Pro!!! - Akarui Sanshimai Project"
+    "en": "Makuhari"
    },
    "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "uk"
-   ]
-  },
-  {
-   "id": "df5821b1-4000-4d5f-a444-f1c1f6e7abf6",
-   "title": {
-    "en": "Try! Try! Try!"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "tr"
-   ]
+   "score": 0.23809525
   },
   {
    "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
@@ -137,44 +163,17 @@
    ]
   },
   {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
+   "id": "a72aa29f-62b6-4e67-8895-ab3bf9bb11d2",
    "title": {
-    "en": "Window Washer Park"
+    "en": "Ofu-kai Shitara Tondemonai Yatsu ga Kita Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.23716587,
+   "score": 0.23809525,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "6130f038-0c1c-479c-a9f0-9d3cb453ceb1",
-   "title": {
-    "en": "Kawaisugi Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.23643747,
-   "languages": [
+    "zh",
     "en"
    ]
-  },
-  {
-   "id": "33969706-2e69-4dbc-a8b5-110fac2719e4",
-   "title": {
-    "en": "Do Your Best!! Robocon"
-   },
-   "contentRating": "safe",
-   "score": 0.22257724
-  },
-  {
-   "id": "d7800fc7-1015-4742-9c74-c7879f11f82d",
-   "title": {
-    "en": "Marude Dameo (Comic BONBON)"
-   },
-   "contentRating": "safe",
-   "score": 0.22222224
   }
  ],
- "updatedAt": "2023-12-10T01:04:20+00:00"
+ "updatedAt": "2023-12-10T18:20:47+00:00"
 }

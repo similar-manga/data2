@@ -11,7 +11,7 @@
     "en": "Dog Soldier"
    },
    "contentRating": "suggestive",
-   "score": 0.20899232,
+   "score": 0.20889917,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Murder Murder"
    },
    "contentRating": "suggestive",
-   "score": 0.20756476,
+   "score": 0.2073645,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Happy Vaas Day"
    },
    "contentRating": "suggestive",
-   "score": 0.20083599
+   "score": 0.19973813
   },
   {
    "id": "8b7a697e-c203-4bbb-b8d0-3f2d3c578b75",
@@ -56,12 +56,20 @@
    "score": 0.19685024
   },
   {
+   "id": "ce7699ff-8570-44e6-8edc-813525c6980d",
+   "title": {
+    "en": "Asyl"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19456494
+  },
+  {
    "id": "936765df-fd02-4659-9158-c1cefbbf4c51",
    "title": {
     "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
    },
    "contentRating": "suggestive",
-   "score": 0.19444935,
+   "score": 0.19417305,
    "languages": [
     "ru",
     "en",
@@ -75,7 +83,7 @@
     "en": "Gekiman! - Mazinger Z Chapter"
    },
    "contentRating": "suggestive",
-   "score": 0.18780644
+   "score": 0.18787393
   },
   {
    "id": "273933f5-7db4-463b-a704-29da253c517e",
@@ -87,14 +95,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
-   "title": {
-    "en": "Koroshiya no Oshi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18671592
   },
   {
    "id": "5eb514bc-bb37-4f37-a2e9-def530b08c29",
@@ -109,12 +109,20 @@
    ]
   },
   {
+   "id": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
+   "title": {
+    "en": "Koroshiya no Oshi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18630344
+  },
+  {
    "id": "889bd43f-9dd3-4ec9-aa20-2a09b0aa6d12",
    "title": {
     "en": "Wild 7 R"
    },
    "contentRating": "suggestive",
-   "score": 0.1839824
+   "score": 0.18373796
   },
   {
    "id": "efd02206-1cd8-4823-b497-02bb8b8d09ca",
@@ -122,7 +130,7 @@
     "en": "Zom 100 ~100 Things I Want to do Before I Become a Zombie~"
    },
    "contentRating": "suggestive",
-   "score": 0.18316391,
+   "score": 0.18275425,
    "languages": [
     "ru",
     "en",
@@ -145,14 +153,6 @@
    ]
   },
   {
-   "id": "fac49afc-b81f-4ad6-be07-0bd4c84b3cf9",
-   "title": {
-    "en": "Houtei Yuugi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18130943
-  },
-  {
    "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
    "title": {
     "en": "\"Boku wa Nannin Koroshimashita ka?\""
@@ -164,13 +164,13 @@
    ]
   },
   {
-   "id": "c3e1a1e4-bbd2-471d-b74a-bc4bd689c400",
+   "id": "fac49afc-b81f-4ad6-be07-0bd4c84b3cf9",
    "title": {
-    "en": "Metropolitan International Incidents Division - Hime Deka"
+    "en": "Houtei Yuugi"
    },
    "contentRating": "suggestive",
-   "score": 0.17775461
+   "score": 0.18130943
   }
  ],
- "updatedAt": "2023-12-10T01:05:31+00:00"
+ "updatedAt": "2023-12-10T18:23:55+00:00"
 }

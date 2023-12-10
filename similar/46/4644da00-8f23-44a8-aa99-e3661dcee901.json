@@ -6,23 +6,59 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
+   "title": {
+    "en": "S. Flight"
+   },
+   "contentRating": "safe",
+   "score": 0.27367052,
+   "languages": [
+    "zh",
+    "en"
+   ]
+  },
+  {
    "id": "70f068b7-3afa-46ce-be2a-1b818740c7a6",
    "title": {
     "en": "Tiger \u0026 Bunny 2: The Comic"
    },
    "contentRating": "safe",
-   "score": 0.21880928,
+   "score": 0.21804868,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
+   "id": "2a7b7509-1803-4815-8e59-8178a1dc7545",
    "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
+    "en": "Daisaiyuuki Bokuhi Seiden - The Story of a Very Handsome Man"
    },
    "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.21597971,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
+   "title": {
+    "en": "Black Night Parade"
+   },
+   "contentRating": "safe",
+   "score": 0.20629588,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "47607aaf-54e2-4aa0-b281-ac943370261c",
+   "title": {
+    "en": "Nana-Hon no Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.20472135,
    "languages": [
     "en"
    ]
@@ -40,42 +76,9 @@
    ]
   },
   {
-   "id": "52e56d01-12ef-476c-b4f2-df47d38abbf4",
-   "title": {
-    "en": "Sora ni Mairu"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
-   "title": {
-    "en": "Saber Cats"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
    "title": {
     "en": "Eiyuu Densetsu - Sora no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1f6b847c-d1ba-4a1b-a5f8-b1891c4ba470",
-   "title": {
-    "en": "Vivarium de Choushoku wo"
    },
    "contentRating": "safe",
    "score": 0.19317813,
@@ -95,14 +98,91 @@
    ]
   },
   {
-   "id": "1b5c4010-1f1d-4122-b9e6-66cdd8c80664",
+   "id": "52e56d01-12ef-476c-b4f2-df47d38abbf4",
    "title": {
-    "en": "Jumbor"
+    "en": "Sora ni Mairu"
    },
    "contentRating": "safe",
-   "score": 0.1879621,
+   "score": 0.19317813,
    "languages": [
-    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
+   "title": {
+    "en": "Arthur Pyuty wa Yoru no Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
+   "title": {
+    "en": "Saber Cats"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1f6b847c-d1ba-4a1b-a5f8-b1891c4ba470",
+   "title": {
+    "en": "Vivarium de Choushoku wo"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
+   "title": {
+    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
+   },
+   "contentRating": "safe",
+   "score": 0.19018814,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
+   "title": {
+    "en": "Witch Hat Atelier"
+   },
+   "contentRating": "safe",
+   "score": 0.1874416,
+   "languages": [
+    "my",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru",
+    "it",
+    "fa"
+   ]
+  },
+  {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -118,84 +198,7 @@
     "ru",
     "en"
    ]
-  },
-  {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
-   "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fd2334d7-c610-4e79-9471-c4efe3a7c16c",
-   "title": {
-    "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.18126275,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
-   "title": {
-    "en": "Witch Hat Atelier"
-   },
-   "contentRating": "safe",
-   "score": 0.17998308,
-   "languages": [
-    "my",
-    "es-la",
-    "pt-br",
-    "en",
-    "ru",
-    "it",
-    "fa"
-   ]
-  },
-  {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
-   "title": {
-    "en": "Crest of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "52725394-b8b1-4a9b-b264-8f3c038eb892",
-   "title": {
-    "en": "Tokoshie x Bullet: Kaijuu Gakuen"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "b3d1b2e6-6a61-4263-b300-d9e367134010",
-   "title": {
-    "en": "Doll-Kara"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "en",
-    "ru",
-    "fr",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:28+00:00"
+ "updatedAt": "2023-12-10T18:15:55+00:00"
 }

@@ -6,12 +6,57 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "51e2113a-6d92-4922-858f-352b11224fe5",
+   "title": {
+    "en": "The Disappearing Classroom"
+   },
+   "contentRating": "safe",
+   "score": 0.4134142,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "00293f4b-8ccc-4f65-95ef-b1a0c32d5ac8",
+   "title": {
+    "en": "Kizu darake no Akuma"
+   },
+   "contentRating": "safe",
+   "score": 0.37325498,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5ef73828-b822-45f1-83d1-22ca87121fb1",
    "title": {
     "en": "Pyramid Game"
    },
    "contentRating": "safe",
-   "score": 0.28698927,
+   "score": 0.28723034,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5dfb7e20-dd51-4442-93f6-7e69e5542781",
+   "title": {
+    "en": "Born Perfect"
+   },
+   "contentRating": "safe",
+   "score": 0.28709418,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "a9aaf379-67af-4cbe-a5c0-48b9ded003b8",
+   "title": {
+    "en": "Perfect Mine"
+   },
+   "contentRating": "safe",
+   "score": 0.27926147,
    "languages": [
     "en"
    ]
@@ -22,7 +67,7 @@
     "en": "The Girl From The Class Next Door Looks At Me Every Time She Changes Classrooms"
    },
    "contentRating": "safe",
-   "score": 0.26974514,
+   "score": 0.27013063,
    "languages": [
     "ru",
     "en",
@@ -36,11 +81,22 @@
     "en": "The Saviour's Time"
    },
    "contentRating": "safe",
-   "score": 0.26450232,
+   "score": 0.26514512,
    "languages": [
     "en",
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "dbc0b51a-e696-4e37-83f7-0efa4782a9a2",
+   "title": {
+    "en": "Secret Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.2576549,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -49,7 +105,51 @@
     "en": "Perfect Family"
    },
    "contentRating": "safe",
-   "score": 0.2544525,
+   "score": 0.2552345,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "78bea02e-d2ee-4008-96bf-780946b7c41b",
+   "title": {
+    "en": "The Chest"
+   },
+   "contentRating": "safe",
+   "score": 0.2528544,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c597253-e57e-4f44-97ce-b21a7cc0356c",
+   "title": {
+    "en": "A Life Changing Turn"
+   },
+   "contentRating": "safe",
+   "score": 0.24779731,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d0a472e-94fb-4bab-8dd7-81a875fd6839",
+   "title": {
+    "en": "Perfect Relationship"
+   },
+   "contentRating": "safe",
+   "score": 0.24408846,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "33c7e6ac-4e23-46f5-b0f5-331e97972f50",
+   "title": {
+    "en": "The Blob"
+   },
+   "contentRating": "safe",
+   "score": 0.24167036,
    "languages": [
     "en"
    ]
@@ -60,136 +160,35 @@
     "en": "A Girl's Trial"
    },
    "contentRating": "safe",
-   "score": 0.23910968,
+   "score": 0.24113922,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ddefbe42-dc9c-4429-8ba8-d31b8311f93e",
+   "id": "68ef6131-1c8f-4ed7-8bc5-01eff0f8dff9",
    "title": {
-    "en": "Devil Returns to School Days"
+    "en": "The Making of a Princess"
    },
    "contentRating": "safe",
-   "score": 0.23447365,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52a572bc-41cc-4922-a650-0de582376f87",
-   "title": {
-    "en": "No Rose Without Thorns"
-   },
-   "contentRating": "safe",
-   "score": 0.22299662,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
-   "title": {
-    "en": "Ex vs. Stalker"
-   },
-   "contentRating": "safe",
-   "score": 0.22299662,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2da06be0-e6a9-4523-8e7a-b72b83785150",
-   "title": {
-    "en": "Trapped"
-   },
-   "contentRating": "safe",
-   "score": 0.21919444,
+   "score": 0.23962133,
    "languages": [
     "en",
-    "pl"
+    "es",
+    "fr"
    ]
   },
   {
-   "id": "338fd64d-37c5-410a-929a-938cda8234e2",
+   "id": "6976ebe1-e9c0-4fc5-9a04-4e932d5512ab",
    "title": {
-    "en": "The End Of A Relationship"
+    "en": "Blood-sucking Husband"
    },
    "contentRating": "safe",
-   "score": 0.2174548,
+   "score": 0.23931469,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0ee660b-f9f2-45c3-8068-5123ff53f84a",
-   "title": {
-    "en": "Tower of God"
-   },
-   "contentRating": "safe",
-   "score": 0.2126026,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2b941b2-74f6-43ad-ad70-669e4c71b4b3",
-   "title": {
-    "en": "The Right-Eyed World"
-   },
-   "contentRating": "safe",
-   "score": 0.21239771,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f79104d6-a3b5-46a4-914e-85a988949298",
-   "title": {
-    "en": "Sister War"
-   },
-   "contentRating": "safe",
-   "score": 0.2113314,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0f8aafc-6338-4f97-a988-4400bf0e5f0c",
-   "title": {
-    "ko": "The Essence of a Perfect Marriage"
-   },
-   "contentRating": "safe",
-   "score": 0.20634125,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "e2db6a03-6be4-4867-8239-f0539eaa0450",
-   "title": {
-    "en": "Tale of the Nameless Children — NoNameD"
-   },
-   "contentRating": "safe",
-   "score": 0.20492151,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
-   "title": {
-    "en": "Torikago Gakkyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.20444967,
-   "languages": [
-    "de",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:49+00:00"
+ "updatedAt": "2023-12-10T18:35:02+00:00"
 }

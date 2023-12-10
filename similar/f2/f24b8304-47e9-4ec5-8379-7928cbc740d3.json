@@ -11,7 +11,7 @@
     "en": "Ibitsu Renaikan"
    },
    "contentRating": "safe",
-   "score": 0.26067266,
+   "score": 0.25985977,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Ringwanderung"
    },
    "contentRating": "safe",
-   "score": 0.2592384,
+   "score": 0.25850382,
    "languages": [
     "en"
    ]
@@ -42,17 +42,6 @@
    ]
   },
   {
-   "id": "413ae0d2-9140-4406-a217-a4c2bbf1feec",
-   "title": {
-    "en": "Peculium"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b3c3d089-3cf0-48f3-93a8-5dba09d521da",
    "title": {
     "en": "Oni Yashiki"
@@ -62,17 +51,6 @@
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "9cb0528a-daf1-47c0-b779-d82fe8980fc6",
-   "title": {
-    "en": "Slaying the Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -98,39 +76,36 @@
    ]
   },
   {
-   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
+   "id": "9cb0528a-daf1-47c0-b779-d82fe8980fc6",
    "title": {
-    "en": "Ghost Heights Management Association"
+    "en": "Slaying the Monster"
    },
    "contentRating": "safe",
-   "score": 0.23836179,
+   "score": 0.24983473,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b0a0e190-0c2d-413a-9782-f28020584837",
+   "id": "413ae0d2-9140-4406-a217-a4c2bbf1feec",
    "title": {
-    "en": "Miyuki no Ori"
+    "en": "Peculium"
    },
    "contentRating": "safe",
-   "score": 0.23286977,
+   "score": 0.24983473,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "7277195b-e2bc-440c-9266-6dd7b7caa787",
+   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
    "title": {
-    "en": "Curry Utopia"
+    "en": "Ghost Heights Management Association"
    },
    "contentRating": "safe",
-   "score": 0.23286977,
+   "score": 0.23626986,
    "languages": [
-    "en",
-    "it",
-    "pl"
+    "en"
    ]
   },
   {
@@ -147,12 +122,37 @@
    ]
   },
   {
+   "id": "7277195b-e2bc-440c-9266-6dd7b7caa787",
+   "title": {
+    "en": "Curry Utopia"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
+   "languages": [
+    "en",
+    "it",
+    "pl"
+   ]
+  },
+  {
+   "id": "b0a0e190-0c2d-413a-9782-f28020584837",
+   "title": {
+    "en": "Miyuki no Ori"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "95716c73-f20f-4ac9-96b9-22adfbd0c563",
    "title": {
     "en": "Honogurai Mizu no Soko kara"
    },
    "contentRating": "safe",
-   "score": 0.23089099,
+   "score": 0.23061995,
    "languages": [
     "en"
    ]
@@ -163,24 +163,11 @@
     "en": "Alice in Underground"
    },
    "contentRating": "safe",
-   "score": 0.22489525,
+   "score": 0.2249571,
    "languages": [
     "pl",
     "en",
     "bg"
-   ]
-  },
-  {
-   "id": "0245ccce-fa98-4881-b882-96a7c8552eac",
-   "title": {
-    "en": "Fork in the Road"
-   },
-   "contentRating": "safe",
-   "score": 0.2237594,
-   "languages": [
-    "it",
-    "pl",
-    "en"
    ]
   },
   {
@@ -189,8 +176,21 @@
     "en": "The Man Who Saw Hell"
    },
    "contentRating": "safe",
-   "score": 0.22137865
+   "score": 0.22118412
+  },
+  {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.21810427,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:47+00:00"
+ "updatedAt": "2023-12-10T18:34:57+00:00"
 }

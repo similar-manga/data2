@@ -11,7 +11,7 @@
     "en": "Dance in the Vampire Bund A.S.O."
    },
    "contentRating": "suggestive",
-   "score": 0.20775083,
+   "score": 0.20545074,
    "languages": [
     "en",
     "es-la",
@@ -24,7 +24,7 @@
     "en": "Saikyou no Maou ni Kitaerareta Yuusha Isekai Kikanshatachi no Gakuen de Musou Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.20620644,
+   "score": 0.20339507,
    "languages": [
     "pt-br",
     "en",
@@ -39,28 +39,10 @@
     "en": "Great Wise Man's Beloved Pupil"
    },
    "contentRating": "suggestive",
-   "score": 0.18666658,
+   "score": 0.18640906,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
-   "title": {
-    "en": "Sekai no Owari no Encore"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17772382,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "es-la",
-    "id",
-    "ru",
-    "pl",
-    "es"
    ]
   },
   {
@@ -77,6 +59,24 @@
     "it",
     "es-la",
     "ru"
+   ]
+  },
+  {
+   "id": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
+   "title": {
+    "en": "Sekai no Owari no Encore"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17521363,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "es-la",
+    "id",
+    "ru",
+    "pl",
+    "es"
    ]
   },
   {
@@ -98,7 +98,7 @@
     "en": "Kujibiki Unbalance"
    },
    "contentRating": "suggestive",
-   "score": 0.16807587,
+   "score": 0.16750234,
    "languages": [
     "en"
    ]
@@ -109,7 +109,7 @@
     "en": "Bijo to Kenja to Majin no Ken"
    },
    "contentRating": "suggestive",
-   "score": 0.16709623,
+   "score": 0.1650042,
    "languages": [
     "en",
     "fr",
@@ -119,12 +119,26 @@
    ]
   },
   {
+   "id": "18f5549a-9d1a-44a2-a8ca-aed2448e37c0",
+   "title": {
+    "en": "Arafoo Otoko no Isekai Tsuhan Seikatsu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16148268,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "91503d4c-16d6-4962-9eca-93557667066c",
    "title": {
     "ja-ro": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.16476023,
+   "score": 0.16129795,
    "languages": [
     "en",
     "ru",
@@ -132,20 +146,6 @@
     "pt-br",
     "tr",
     "id"
-   ]
-  },
-  {
-   "id": "18f5549a-9d1a-44a2-a8ca-aed2448e37c0",
-   "title": {
-    "en": "Arafoo Otoko no Isekai Tsuhan Seikatsu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16262102,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "ru"
    ]
   },
   {
@@ -161,17 +161,6 @@
    ]
   },
   {
-   "id": "53e62391-74b7-4f7e-80f3-9ed8985a33d1",
-   "title": {
-    "en": "The Kicked Out S-Rank Appraiser Creates the Strongest Guild"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15980835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b03cddef-748a-4c6e-9ebe-2579ac9d19b4",
    "title": {
     "en": "Erotical Wizard to 12-nin no Hanayome"
@@ -182,6 +171,17 @@
     "id",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "53e62391-74b7-4f7e-80f3-9ed8985a33d1",
+   "title": {
+    "en": "The Kicked Out S-Rank Appraiser Creates the Strongest Guild"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15980835,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -222,7 +222,7 @@
     "en": "Realist Maou Niyoru Seiiki Naki Isekai Kaikaku"
    },
    "contentRating": "suggestive",
-   "score": 0.1588894,
+   "score": 0.15795614,
    "languages": [
     "en",
     "fr",
@@ -232,5 +232,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:14+00:00"
+ "updatedAt": "2023-12-10T18:31:07+00:00"
 }

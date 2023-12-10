@@ -11,7 +11,7 @@
     "en": "Reversibleman"
    },
    "contentRating": "suggestive",
-   "score": 0.21428743,
+   "score": 0.21357054,
    "languages": [
     "en"
    ]
@@ -52,14 +52,6 @@
    ]
   },
   {
-   "id": "e192a7a7-b2fa-4e0b-8c43-8ed75ff29f3a",
-   "title": {
-    "en": "Madraí"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18375832
-  },
-  {
    "id": "efd02206-1cd8-4823-b497-02bb8b8d09ca",
    "title": {
     "en": "Zom 100 ~100 Things I Want to do Before I Become a Zombie~"
@@ -72,6 +64,14 @@
     "es-la",
     "pt-br"
    ]
+  },
+  {
+   "id": "e192a7a7-b2fa-4e0b-8c43-8ed75ff29f3a",
+   "title": {
+    "en": "Madraí"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18214653
   },
   {
    "id": "e6a2b11b-1fa1-454c-ad54-3922476cff54",
@@ -106,18 +106,10 @@
     "en": "Mugen Shinshi: Ouma-hen"
    },
    "contentRating": "suggestive",
-   "score": 0.17015103,
+   "score": 0.16923237,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "fa1bd3aa-ec00-4d3e-aede-20e46a143d5e",
-   "title": {
-    "en": "Tokyo Densetsu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16836959
   },
   {
    "id": "cbda0c1c-fd7c-4d90-8fe9-08d1bbf2fb45",
@@ -131,12 +123,31 @@
    ]
   },
   {
+   "id": "fa1bd3aa-ec00-4d3e-aede-20e46a143d5e",
+   "title": {
+    "en": "Tokyo Densetsu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16836959
+  },
+  {
+   "id": "18d53ae1-88a8-4882-96c7-92432cbbf95c",
+   "title": {
+    "en": "My Roommate Isn't From This World"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16656825,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1d0fa942-e78f-4b6e-8c81-85ec23fabc3a",
    "title": {
     "en": "Chi to Hai no Joou"
    },
    "contentRating": "suggestive",
-   "score": 0.1659589,
+   "score": 0.16541778,
    "languages": [
     "en",
     "pt-br",
@@ -162,15 +173,7 @@
    },
    "contentRating": "suggestive",
    "score": 0.1603854
-  },
-  {
-   "id": "e7945623-2742-47fb-8890-1ae22dc2797d",
-   "title": {
-    "en": "Reirei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1603854
   }
  ],
- "updatedAt": "2023-12-10T01:01:05+00:00"
+ "updatedAt": "2023-12-10T18:12:01+00:00"
 }

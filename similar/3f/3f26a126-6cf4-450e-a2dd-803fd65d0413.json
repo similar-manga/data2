@@ -33,7 +33,7 @@
     "en": "Hundred - Radiant Red Rose"
    },
    "contentRating": "suggestive",
-   "score": 0.24595875
+   "score": 0.24499829
   },
   {
    "id": "e8853450-bac4-45df-bea5-5b4c116f3a61",
@@ -41,7 +41,7 @@
     "en": "Adventurer's Guild Universal Advisor"
    },
    "contentRating": "suggestive",
-   "score": 0.23582467,
+   "score": 0.2346296,
    "languages": [
     "en",
     "pt-br"
@@ -53,7 +53,7 @@
     "en": "Yuusha Rin no Densetsu"
    },
    "contentRating": "suggestive",
-   "score": 0.23506024
+   "score": 0.23129041
   },
   {
    "id": "f121443c-b9f9-4e7a-ae3c-1a009bed5e62",
@@ -61,52 +61,10 @@
     "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.22897601,
+   "score": 0.22484022,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "805ff299-b5ed-4887-90ef-bece73d182e5",
-   "title": {
-    "en": "Isekai Battle Royale"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22334366,
-   "languages": [
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
-   "title": {
-    "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
-   "title": {
-    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fcf7c729-1c14-4e8d-b0e8-bf6b4e18c061",
-   "title": {
-    "en": "Little Mafia"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22131334
   },
   {
    "id": "a61914e3-db9c-4dbd-835d-a4a1a1194c6b",
@@ -129,12 +87,54 @@
    ]
   },
   {
+   "id": "d1b05488-32d2-44c3-98de-e301d770f314",
+   "title": {
+    "en": "TiN-So: Kimi ga Te ni Suru Ore no Ex Machina"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fcf7c729-1c14-4e8d-b0e8-bf6b4e18c061",
+   "title": {
+    "en": "Little Mafia"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22131334
+  },
+  {
+   "id": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
+   "title": {
+    "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "805ff299-b5ed-4887-90ef-bece73d182e5",
+   "title": {
+    "en": "Isekai Battle Royale"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2209013,
+   "languages": [
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
    "id": "c996b6ee-d950-4b71-b27e-32ff909e7361",
    "title": {
     "en": "Uchi no Deshi ga Itsu no Manika Jinrui Saikyou ni Natte-ite, Nan no Sainou Monai Shishou no Ore ga, Sore wo Koeru Uchuu Saikyou ni Go Nintei Sareteiru Kudan ni Tsuite"
    },
    "contentRating": "suggestive",
-   "score": 0.21908128
+   "score": 0.21711566
   },
   {
    "id": "e1ed28ec-f7f0-44b8-b7c9-c7e71ac57597",
@@ -142,7 +142,7 @@
     "en": "Moldiver"
    },
    "contentRating": "suggestive",
-   "score": 0.21287619
+   "score": 0.2118437
   },
   {
    "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
@@ -150,7 +150,7 @@
     "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
    },
    "contentRating": "suggestive",
-   "score": 0.20969406,
+   "score": 0.209339,
    "languages": [
     "en",
     "es-la"
@@ -162,8 +162,8 @@
     "en": "Killer! Shizuma-kun"
    },
    "contentRating": "suggestive",
-   "score": 0.20877029
+   "score": 0.203609
   }
  ],
- "updatedAt": "2023-12-10T01:02:10+00:00"
+ "updatedAt": "2023-12-10T18:15:07+00:00"
 }

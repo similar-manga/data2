@@ -11,7 +11,7 @@
     "en": "High Energy Core"
    },
    "contentRating": "safe",
-   "score": 0.28169924,
+   "score": 0.2855691,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.23605607,
+   "score": 0.23567893,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Perman"
    },
    "contentRating": "safe",
-   "score": 0.22303648,
+   "score": 0.22446375,
    "languages": [
     "en"
    ]
@@ -45,9 +45,20 @@
     "en": "Galaxy Express 999 Another Story: Ultimate Journey"
    },
    "contentRating": "safe",
-   "score": 0.20883435,
+   "score": 0.21071081,
    "languages": [
     "ru"
+   ]
+  },
+  {
+   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
+   "title": {
+    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -61,29 +72,6 @@
     "pt-br",
     "id",
     "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "ed296f4d-d1f7-43d9-823d-0462f436825b",
-   "title": {
-    "en": "Escape"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
-   "title": {
-    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
     "en"
    ]
   },
@@ -115,12 +103,24 @@
    ]
   },
   {
+   "id": "ed296f4d-d1f7-43d9-823d-0462f436825b",
+   "title": {
+    "en": "Escape"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "e54a7615-ee0a-4af0-979b-d8b8c50332cc",
    "title": {
     "en": "Boundary Apocalypse - Starfall"
    },
    "contentRating": "safe",
-   "score": 0.19987929,
+   "score": 0.19925728,
    "languages": [
     "pt-br",
     "en"
@@ -132,7 +132,7 @@
     "en": "The Witch at the End of the World"
    },
    "contentRating": "safe",
-   "score": 0.18729052,
+   "score": 0.18945083,
    "languages": [
     "en"
    ]
@@ -143,7 +143,7 @@
     "en": "Star Ocean - Blue Sphere"
    },
    "contentRating": "safe",
-   "score": 0.18186721,
+   "score": 0.18374944,
    "languages": [
     "en"
    ]
@@ -154,7 +154,18 @@
     "en": "Super God System"
    },
    "contentRating": "safe",
-   "score": 0.18177184,
+   "score": 0.18255505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "05a04e0b-43fa-46a5-a9bf-673b20f692a3",
+   "title": {
+    "en": "Cat's World"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
    "languages": [
     "en"
    ]
@@ -172,20 +183,9 @@
    ]
   },
   {
-   "id": "c42bbaab-17c6-4d83-ad23-4bb8e414bbe8",
+   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
    "title": {
-    "en": "Cyber Blue - Lost Number Children"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "05a04e0b-43fa-46a5-a9bf-673b20f692a3",
-   "title": {
-    "en": "Cat's World"
+    "en": "Western Shotgun"
    },
    "contentRating": "safe",
    "score": 0.18070157,
@@ -194,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:19+00:00"
+ "updatedAt": "2023-12-10T18:23:24+00:00"
 }

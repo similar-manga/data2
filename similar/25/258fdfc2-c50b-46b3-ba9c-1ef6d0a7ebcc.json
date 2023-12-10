@@ -11,7 +11,7 @@
     "en": "Orthoros"
    },
    "contentRating": "safe",
-   "score": 0.32157892,
+   "score": 0.31795463,
    "languages": [
     "ru",
     "hu",
@@ -38,7 +38,7 @@
     "en": "Kavukizumu"
    },
    "contentRating": "safe",
-   "score": 0.281967,
+   "score": 0.28076676,
    "languages": [
     "en",
     "it"
@@ -50,7 +50,7 @@
     "en": "Shimatsuya K"
    },
    "contentRating": "safe",
-   "score": 0.27118266,
+   "score": 0.2702444,
    "languages": [
     "en"
    ]
@@ -61,7 +61,7 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.2682574,
+   "score": 0.26593834,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "The God Who Can't Clean Up"
    },
    "contentRating": "safe",
-   "score": 0.26437947,
+   "score": 0.26251128,
    "languages": [
     "es-la",
     "en"
@@ -84,7 +84,18 @@
     "en": "Kami-sama ni Rocket Punch!!"
    },
    "contentRating": "safe",
-   "score": 0.26284838,
+   "score": 0.2622138,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a596544-e971-463e-a7e6-94e5fc901cd6",
+   "title": {
+    "en": "X-Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.2620212,
    "languages": [
     "en"
    ]
@@ -95,7 +106,7 @@
     "en": "Ghostrong"
    },
    "contentRating": "safe",
-   "score": 0.26214978,
+   "score": 0.26063654,
    "languages": [
     "en"
    ]
@@ -106,7 +117,7 @@
     "en": "Muni-Kiss"
    },
    "contentRating": "safe",
-   "score": 0.2598854,
+   "score": 0.2538256,
    "languages": [
     "es",
     "tr",
@@ -115,26 +126,12 @@
    ]
   },
   {
-   "id": "486a558b-8d3e-4d59-b017-8edcd9b52f53",
-   "title": {
-    "en": "BOZE"
-   },
-   "contentRating": "safe",
-   "score": 0.25584522,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
    "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
    "title": {
     "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.25544626,
+   "score": 0.2535314,
    "languages": [
     "en",
     "ru",
@@ -144,24 +141,47 @@
    ]
   },
   {
-   "id": "be25beb6-d11e-45bb-8795-85eb96032f5a",
+   "id": "37b1909b-3419-41bd-bffd-8b60d4708091",
    "title": {
-    "en": "Watashi no Maou-sama"
+    "en": "Akuma Yashiki no Kyouikugakari"
    },
    "contentRating": "safe",
-   "score": 0.25132337,
+   "score": 0.24806947,
    "languages": [
-    "ru",
-    "es-la",
-    "tr",
-    "ar",
     "en"
    ]
   },
   {
-   "id": "37b1909b-3419-41bd-bffd-8b60d4708091",
+   "id": "486a558b-8d3e-4d59-b017-8edcd9b52f53",
    "title": {
-    "en": "Akuma Yashiki no Kyouikugakari"
+    "en": "BOZE"
+   },
+   "contentRating": "safe",
+   "score": 0.24806947,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
+   "title": {
+    "en": "Tsukumono"
+   },
+   "contentRating": "safe",
+   "score": 0.24806947,
+   "languages": [
+    "en",
+    "pl",
+    "th"
+   ]
+  },
+  {
+   "id": "8711f722-4b87-4967-a472-6515309875fc",
+   "title": {
+    "en": "Nuenchi"
    },
    "contentRating": "safe",
    "score": 0.24806947,
@@ -182,31 +202,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
-   "title": {
-    "en": "Tsukumono"
-   },
-   "contentRating": "safe",
-   "score": 0.24806947,
-   "languages": [
-    "en",
-    "pl",
-    "th"
-   ]
-  },
-  {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.24806947,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:12+00:00"
+ "updatedAt": "2023-12-10T18:12:20+00:00"
 }

@@ -6,15 +6,84 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fee55571-fe89-4a0b-acf1-e913c393b18e",
+   "title": {
+    "en": "Sword Art Online - Material Edition: Remix"
+   },
+   "contentRating": "safe",
+   "score": 0.29616502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
+   "title": {
+    "en": "Minecraft: Journey to the World's End"
+   },
+   "contentRating": "safe",
+   "score": 0.2851691,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "512cd78f-cbb8-460a-bafd-e8840c0f7c31",
+   "title": {
+    "en": "Sword Art Online Unital Ring"
+   },
+   "contentRating": "safe",
+   "score": 0.27997366,
+   "languages": [
+    "vi",
+    "es-la",
+    "ru",
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "a8115232-9377-47e1-9e67-247f54c52f60",
+   "title": {
+    "en": "Life Cry"
+   },
+   "contentRating": "safe",
+   "score": 0.2632429,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
    "title": {
     "en": "Online - The Comic"
    },
    "contentRating": "safe",
-   "score": 0.27499992,
+   "score": 0.258384,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "958e98b6-c63c-4309-b912-d91a0c9f12e1",
+   "title": {
+    "en": "Manuke na FPS Player ga Isekai e Ochita Baai"
+   },
+   "contentRating": "safe",
+   "score": 0.2501493,
+   "languages": [
+    "en",
+    "tr",
+    "id",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
+    "de"
    ]
   },
   {
@@ -23,11 +92,24 @@
     "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.25290716,
+   "score": 0.24792849,
    "languages": [
     "fr",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "acaf9991-d55c-4d8d-8f26-f98d769f4e32",
+   "title": {
+    "en": "Living in This World With Cut \u0026 Paste"
+   },
+   "contentRating": "safe",
+   "score": 0.24712431,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -36,7 +118,7 @@
     "en": "Segregated World"
    },
    "contentRating": "safe",
-   "score": 0.24742189,
+   "score": 0.24558276,
    "languages": [
     "en"
    ]
@@ -47,7 +129,7 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.24501492,
+   "score": 0.24243662,
    "languages": [
     "en",
     "ca",
@@ -60,146 +142,81 @@
     "en": "Infinite Dendrogram"
    },
    "contentRating": "safe",
-   "score": 0.24486485,
+   "score": 0.24151716,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
+   "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "Radiata Stories - The Song of Ridley"
+    "en": "Senken no Majutsushi to Yobareta Kenshi"
    },
    "contentRating": "safe",
-   "score": 0.23095061,
+   "score": 0.23238473,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e74e420-b05e-4975-9844-676c7156bd63",
-   "title": {
-    "en": "Destiny Unchain Online ~Kyuuketsu-ki Shoujo to natte, Yagate『 Aka no Maou』to Yobareru You ni Narimashita~"
-   },
-   "contentRating": "safe",
-   "score": 0.2290992,
-   "languages": [
+    "pt-br",
+    "zh-hk",
     "en",
-    "id",
-    "vi",
-    "es-la"
-   ]
-  },
-  {
-   "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
-   "title": {
-    "en": "Star Ocean - The Second Story"
-   },
-   "contentRating": "safe",
-   "score": 0.21966924,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1f68439a-24eb-4baa-b48f-184a2f5f07de",
-   "title": {
-    "en": "Ganbare Chrono-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.21870264,
-   "languages": [
-    "fr",
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "26e25ef7-57fc-4543-9765-162691a9995f",
-   "title": {
-    "en": "Godly Mobile Game"
-   },
-   "contentRating": "safe",
-   "score": 0.21842325,
-   "languages": [
-    "en",
+    "es",
+    "es-la",
+    "ru",
     "fr",
     "id"
    ]
   },
   {
-   "id": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
+   "id": "ee4bf782-9fe9-42a6-be7f-3809293818c2",
    "title": {
-    "en": "Monogatari no Kuromaku ni Tensei Shite"
+    "en": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru"
    },
    "contentRating": "safe",
-   "score": 0.21675582,
+   "score": 0.23086414,
    "languages": [
-    "pt-br",
     "fr",
+    "pt-br",
     "en",
-    "id"
+    "ru"
    ]
   },
   {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
+   "id": "a12bbc1f-06f7-4793-9538-7bf4da66ba0f",
    "title": {
-    "en": "The Game Invades the Earth"
+    "en": "Rockman world 5"
    },
    "contentRating": "safe",
-   "score": 0.216163,
+   "score": 0.22847514,
    "languages": [
+    "es",
     "en"
    ]
   },
   {
-   "id": "1bd78711-2fe0-412d-8570-cea963c50a92",
+   "id": "adce0aea-3f6d-4fd2-9902-1107f59f94da",
    "title": {
-    "en": "Toki Majutsushi no Tsuyokute New Game ~Kako ni Modotte Sekai Saikyou kara Yarinaosu~"
+    "en": "The Diary of a Middle-Aged Teacher's Carefree Life in Another World"
    },
    "contentRating": "safe",
-   "score": 0.21589498,
+   "score": 0.22766301,
    "languages": [
     "en",
     "pt-br",
-    "id"
+    "ru",
+    "fr"
    ]
   },
   {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
+   "id": "80634258-6fe5-4190-9add-e08c78eccd19",
    "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
+    "en": "We’ve Started a New Game."
    },
    "contentRating": "safe",
-   "score": 0.21576592,
+   "score": 0.22750661,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
-   "title": {
-    "en": "GATE 7"
-   },
-   "contentRating": "safe",
-   "score": 0.21379401,
-   "languages": [
-    "pt-br",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
-   "title": {
-    "en": "Valkyrie Profile 2"
-   },
-   "contentRating": "safe",
-   "score": 0.21042277,
-   "languages": [
-    "en"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:56+00:00"
 }

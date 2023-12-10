@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.35874394,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1199738b-af3a-42ea-ab6a-ca4f796ae04c",
    "title": {
     "en": "Spring One Year Later"
    },
    "contentRating": "safe",
-   "score": 0.35244644,
+   "score": 0.3538578,
    "languages": [
     "en"
    ]
@@ -22,18 +33,7 @@
     "en": "Okitsune no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.34840456,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
-   "title": {
-    "en": "My Wonderful Sweets"
-   },
-   "contentRating": "safe",
-   "score": 0.33744922,
+   "score": 0.34822187,
    "languages": [
     "en"
    ]
@@ -44,23 +44,11 @@
     "en": "Koi Gokoro Gekokujou"
    },
    "contentRating": "safe",
-   "score": 0.32912588,
+   "score": 0.33451444,
    "languages": [
     "en",
     "fr",
     "pl"
-   ]
-  },
-  {
-   "id": "97b61693-e07d-4f15-94d0-385bc21f7bea",
-   "title": {
-    "en": "Koi Koinegau"
-   },
-   "contentRating": "safe",
-   "score": 0.32440642,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -69,9 +57,21 @@
     "en": "Haruiro Stalker"
    },
    "contentRating": "safe",
-   "score": 0.323383,
+   "score": 0.32774386,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "97b61693-e07d-4f15-94d0-385bc21f7bea",
+   "title": {
+    "en": "Koi Koinegau"
+   },
+   "contentRating": "safe",
+   "score": 0.32362014,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -80,20 +80,9 @@
     "en": "Ama Iro Omoi"
    },
    "contentRating": "safe",
-   "score": 0.32245293,
+   "score": 0.32221857,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "015996c5-423e-47c6-8759-9c2bdf8c8e3d",
-   "title": {
-    "en": "Cinderella Lesson"
-   },
-   "contentRating": "safe",
-   "score": 0.3207745,
-   "languages": [
     "en"
    ]
   },
@@ -103,7 +92,7 @@
     "en": "Sunshine After"
    },
    "contentRating": "safe",
-   "score": 0.32018173,
+   "score": 0.3194195,
    "languages": [
     "en"
    ]
@@ -114,7 +103,7 @@
     "en": "Natsu no Nioi, Fuwari"
    },
    "contentRating": "safe",
-   "score": 0.3200867
+   "score": 0.3192263
   },
   {
    "id": "76bd239e-0651-40e6-b6be-72896af6c077",
@@ -122,7 +111,7 @@
     "en": "Haru no Ongaeshi"
    },
    "contentRating": "safe",
-   "score": 0.31714132,
+   "score": 0.31776768,
    "languages": [
     "en",
     "id",
@@ -138,7 +127,7 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.3169888,
+   "score": 0.31595033,
    "languages": [
     "en",
     "tl"
@@ -150,7 +139,7 @@
     "en": "Senaka no Otoko"
    },
    "contentRating": "safe",
-   "score": 0.31466746,
+   "score": 0.31367415,
    "languages": [
     "en"
    ]
@@ -161,7 +150,7 @@
     "en": "Anata no Uta ni Koishite Mita"
    },
    "contentRating": "safe",
-   "score": 0.31387815,
+   "score": 0.3133322,
    "languages": [
     "fr",
     "en"
@@ -173,7 +162,7 @@
     "en": "Hachimaki Love Letter"
    },
    "contentRating": "safe",
-   "score": 0.31377903,
+   "score": 0.31312346,
    "languages": [
     "pt-br",
     "it",
@@ -186,8 +175,19 @@
     "en": "Toaru Neko Kaburi Shounen no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.3126551
+   "score": 0.31175148
+  },
+  {
+   "id": "0e94bc2b-d174-4e6c-8d0d-50ed5546a08f",
+   "title": {
+    "en": "Kare no Iinari"
+   },
+   "contentRating": "safe",
+   "score": 0.31145576,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:36+00:00"
+ "updatedAt": "2023-12-10T18:34:31+00:00"
 }

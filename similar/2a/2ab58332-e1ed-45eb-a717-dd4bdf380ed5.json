@@ -6,23 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3ed72a42-147d-4a57-a078-9e3632db4ab9",
+   "title": {
+    "en": "Virtua Fighter 2: Ten Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.72339934,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "a8844ad8-5ee9-45b6-a583-0b4b3a008070",
    "title": {
     "en": "Virtua Fighter"
    },
    "contentRating": "safe",
-   "score": 0.3484768,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bab07bb6-7d4f-4244-bc34-27631e171633",
-   "title": {
-    "en": "Touhou - Here No More"
-   },
-   "contentRating": "safe",
-   "score": 0.19982848,
+   "score": 0.61900955,
    "languages": [
     "en"
    ]
@@ -39,23 +40,46 @@
    ]
   },
   {
-   "id": "9216a467-b6c0-40e1-9e39-877b3c7b0f1c",
+   "id": "bab07bb6-7d4f-4244-bc34-27631e171633",
    "title": {
-    "en": "Get Pokémon!"
+    "en": "Touhou - Here No More"
    },
    "contentRating": "safe",
-   "score": 0.18150836,
+   "score": 0.19982848,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
+   "id": "cfa2ee85-79e5-4c54-851b-3b4ed77c3e75",
    "title": {
-    "en": "Pokémon Diamond and Pearl"
+    "en": "Pokemon: The World Champion Season"
    },
    "contentRating": "safe",
-   "score": 0.16409974,
+   "score": 0.19394681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "85a0a92e-1711-4adc-9acd-29e057865b35",
+   "title": {
+    "en": "Red Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.18842755,
+   "languages": [
+    "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "f5a4a33a-392c-4ff3-92e5-8e3f42d534fb",
+   "title": {
+    "en": "Street Fighter II"
+   },
+   "contentRating": "safe",
+   "score": 0.17332654,
    "languages": [
     "en"
    ]
@@ -66,8 +90,34 @@
     "en": "Love Live! - Isn't This Gonna Cause a Misunderstanding...? (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.16404381,
+   "score": 0.17218693,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
+   "title": {
+    "en": "Pokémon Diamond and Pearl"
+   },
+   "contentRating": "safe",
+   "score": 0.17105605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ff327450-be88-4f41-a780-df4d2387e2e6",
+   "title": {
+    "en": "Monster of Earth"
+   },
+   "contentRating": "safe",
+   "score": 0.16920337,
+   "languages": [
+    "pt-br",
+    "vi",
+    "ru",
+    "fr",
     "en"
    ]
   },
@@ -77,7 +127,7 @@
     "en": "Pokémon HeartGold SoulSilver: Go! Go! Pokéathlon"
    },
    "contentRating": "safe",
-   "score": 0.1637886,
+   "score": 0.16708136,
    "languages": [
     "pt-br",
     "en",
@@ -85,17 +135,26 @@
    ]
   },
   {
-   "id": "ff327450-be88-4f41-a780-df4d2387e2e6",
+   "id": "65c96c31-90d7-4c8d-bd3f-99156dce81dc",
    "title": {
-    "en": "Monster of Earth"
+    "en": "Majo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.1634146,
+   "score": 0.1662806,
    "languages": [
+    "pl",
     "pt-br",
-    "vi",
-    "ru",
-    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
+   "title": {
+    "en": "Pokémon"
+   },
+   "contentRating": "safe",
+   "score": 0.1647582,
+   "languages": [
     "en"
    ]
   },
@@ -113,84 +172,30 @@
    ]
   },
   {
-   "id": "65c96c31-90d7-4c8d-bd3f-99156dce81dc",
+   "id": "2c4b353f-d968-461b-be49-4f2599189a79",
    "title": {
-    "en": "Majo to Yajuu"
+    "en": "Pokemon - Festival of Champions (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.15845215,
+   "score": 0.16285287,
    "languages": [
-    "pl",
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f5f9c2f1-bc44-40cd-bb79-710819ac0a91",
+   "title": {
+    "en": "Fate/stay night x Mahou Shoujo Lyrical Nanoha"
+   },
+   "contentRating": "safe",
+   "score": 0.16254897,
+   "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "f5a4a33a-392c-4ff3-92e5-8e3f42d534fb",
-   "title": {
-    "en": "Street Fighter II"
-   },
-   "contentRating": "safe",
-   "score": 0.1579778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ef231aa-cb37-4d58-9a93-c113d8388707",
-   "title": {
-    "en": "Pokémon PiPiPi☆Adventures"
-   },
-   "contentRating": "safe",
-   "score": 0.15623766,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e298dc5b-bc6f-415b-9998-438a05cad73f",
-   "title": {
-    "en": "Touhou - Spring Flower's Vision (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.15617377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06c6a12d-4a15-4d90-842a-e49be3510ca5",
-   "title": {
-    "en": "Touhou - Akyuu, Kamareru (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.15617377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2c159d0-bf38-49e7-a0ae-3cbd779a9401",
-   "title": {
-    "en": "Boku no Hero Academia - Distant Sea (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.15617377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e4b053ce-2d16-4bbd-b723-4a46aca30785",
-   "title": {
-    "en": "Touhou - The Frog God. (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.15617377,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:24+00:00"
+ "updatedAt": "2023-12-10T18:12:55+00:00"
 }

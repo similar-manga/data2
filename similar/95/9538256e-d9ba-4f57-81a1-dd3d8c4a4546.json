@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.21405253,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "418be4a0-a376-4a7e-aa34-51576b2e6fa7",
    "title": {
     "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
    },
    "contentRating": "safe",
-   "score": 0.2141397,
+   "score": 0.21215095,
    "languages": [
     "pt-br",
     "en",
@@ -27,7 +38,7 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.20402534,
+   "score": 0.20300174,
    "languages": [
     "ru",
     "en"
@@ -47,25 +58,26 @@
    ]
   },
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.19914095,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
    "title": {
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.19006053,
+   "score": 0.18946458,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.18856514,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -96,6 +108,31 @@
    ]
   },
   {
+   "id": "bedd7713-355e-411e-b45a-487635a1443a",
+   "title": {
+    "en": "Shiyakusho"
+   },
+   "contentRating": "safe",
+   "score": 0.18037139,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.18007074,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
    "title": {
     "en": "Kyosuurei"
@@ -107,12 +144,24 @@
    ]
   },
   {
+   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
+   "title": {
+    "en": "Usagi ga Nihiki"
+   },
+   "contentRating": "safe",
+   "score": 0.17587653,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "title": {
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.17590624,
+   "score": 0.17498916,
    "languages": [
     "zh-hk",
     "en",
@@ -159,57 +208,11 @@
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.17435296,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8cf89dc0-667f-43ec-bfd6-931244d4045b",
-   "title": {
-    "en": "Tell Me a Lie"
-   },
-   "contentRating": "safe",
-   "score": 0.17403278,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
-   "title": {
-    "en": "Uncanny Brains"
-   },
-   "contentRating": "safe",
-   "score": 0.17290276,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.17255919,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
-   "title": {
-    "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.1690068,
+   "score": 0.17372592,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:54+00:00"
+ "updatedAt": "2023-12-10T18:24:53+00:00"
 }

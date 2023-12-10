@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.278775,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
    "title": {
     "en": "Aozora Pop"
    },
    "contentRating": "safe",
-   "score": 0.2702821,
+   "score": 0.2693073,
    "languages": [
     "en",
     "pl"
@@ -23,18 +35,7 @@
     "en": "Hissing"
    },
    "contentRating": "safe",
-   "score": 0.2647182,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
-   "title": {
-    "en": "Megane Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.2629947,
    "languages": [
     "pl"
    ]
@@ -52,12 +53,72 @@
    ]
   },
   {
+   "id": "1406c519-16c2-4110-8b7b-a032ea9e517f",
+   "title": {
+    "en": "Megane Ouji"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
    "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
    "title": {
     "en": "After Friend"
    },
    "contentRating": "safe",
-   "score": 0.24695382,
+   "score": 0.24649578,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
+   "title": {
+    "en": "Queen's Quality"
+   },
+   "contentRating": "safe",
+   "score": 0.24540752,
+   "languages": [
+    "hu",
+    "en",
+    "pl",
+    "ar"
+   ]
+  },
+  {
+   "id": "82b69e6e-538f-41d8-abd7-aa0158fa86f3",
+   "title": {
+    "en": "Him and Me, and Her"
+   },
+   "contentRating": "safe",
+   "score": 0.24387363,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
+   "title": {
+    "en": "Hatsu Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.23999973,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "e8b28147-a921-495e-b9b7-4d1c517675aa",
+   "title": {
+    "en": "The Astrometry"
+   },
+   "contentRating": "safe",
+   "score": 0.2346624,
    "languages": [
     "pl",
     "en"
@@ -69,33 +130,49 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.24164505,
+   "score": 0.23089133,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
+   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
    "title": {
-    "en": "Hatsu Haru"
+    "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.24020924,
+   "score": 0.22857143,
    "languages": [
+    "pl",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4980a6ec-f87e-4a95-90c0-3942b9d6fd63",
+   "title": {
+    "en": "Mei-chan no Shitsuji"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en",
     "pl"
    ]
   },
   {
-   "id": "bed659b3-6cdc-41de-a274-cc1846ae5978",
+   "id": "e7e159d9-dffb-4aa6-8cba-cd9507ba5f45",
    "title": {
-    "en": "Ookami Lover"
+    "en": "99% Love"
    },
    "contentRating": "safe",
-   "score": 0.2296011,
+   "score": 0.22857143,
    "languages": [
+    "en",
+    "bg",
     "pl",
-    "en"
+    "ro"
    ]
   },
   {
@@ -115,18 +192,6 @@
    ]
   },
   {
-   "id": "4980a6ec-f87e-4a95-90c0-3942b9d6fd63",
-   "title": {
-    "en": "Mei-chan no Shitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "0663dec2-f555-4e4e-b2e9-e340e980034a",
    "title": {
     "en": "Suki Nan Desu"
@@ -136,69 +201,7 @@
    "languages": [
     "pl"
    ]
-  },
-  {
-   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
-   "title": {
-    "en": "Dramatic Love Album"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "e7e159d9-dffb-4aa6-8cba-cd9507ba5f45",
-   "title": {
-    "en": "99% Love"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en",
-    "bg",
-    "pl",
-    "ro"
-   ]
-  },
-  {
-   "id": "13925333-33b4-41eb-ae92-a4847d54cab8",
-   "title": {
-    "en": "Motenai Riyuu ga Oosugiru!!!!!"
-   },
-   "contentRating": "safe",
-   "score": 0.22336513,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "53693fc4-0841-4a38-9d87-2dc032b156ce",
-   "title": {
-    "en": "Mairunovich"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
-   "title": {
-    "en": "Koigokoro Senpukuchuu"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:11:58+00:00"
 }

@@ -6,21 +6,80 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3e4468df-c9bd-474d-bae3-ad455c3d9571",
+   "title": {
+    "en": "The Resurging Flame"
+   },
+   "contentRating": "safe",
+   "score": 0.2739596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
+   "title": {
+    "en": "Madara"
+   },
+   "contentRating": "safe",
+   "score": 0.26452002,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "48910afe-3676-4a64-93c1-066b2cce4aa2",
+   "title": {
+    "en": "BLEACH the unforgivens"
+   },
+   "contentRating": "safe",
+   "score": 0.25692603,
+   "languages": [
+    "tr",
+    "it",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "af57b297-91c3-41c0-82c9-0ba56296f188",
    "title": {
     "en": "Durarara!! - Re; Dollars Hen"
    },
    "contentRating": "safe",
-   "score": 0.24598557
+   "score": 0.25150067
   },
   {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
+   "id": "73289295-c1b8-469c-a165-8b78e98fd3ef",
    "title": {
-    "en": "Scrapped Princess"
+    "en": "Trump Victory Continues With Magic: The Gathering"
    },
    "contentRating": "safe",
-   "score": 0.23809525,
+   "score": 0.24599396
+  },
+  {
+   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
+   "title": {
+    "en": "Soul Land II - The Peerless Tang Sect"
+   },
+   "contentRating": "safe",
+   "score": 0.24017616,
    "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "9d39efab-9ab7-4a4d-9f89-9b81e3796fc3",
+   "title": {
+    "en": "Shikkaku kara Hajimeru Nariagari Madou Shidou!"
+   },
+   "contentRating": "safe",
+   "score": 0.23912627,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -33,9 +92,31 @@
    "score": 0.23809525
   },
   {
+   "id": "82a49c7e-2c95-40e9-bcfe-d58e8ec5dcb6",
+   "title": {
+    "en": "Cardfight!! Vanguard: Turnabout"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "93d98bf7-9dbc-4ee1-9d93-d5dafd1035c8",
    "title": {
     "en": "Bliss~End Of Gods"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
+   "title": {
+    "en": "Scrapped Princess"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -60,20 +141,18 @@
     "en": "True Goddess Reincarnation Card Game Military History: Dante's Gate"
    },
    "contentRating": "safe",
-   "score": 0.23744835
+   "score": 0.23662888
   },
   {
-   "id": "523ac7ed-0b24-4598-b440-814d8bdcf540",
+   "id": "f203c952-84f0-466d-aa68-9287448ec34b",
    "title": {
-    "en": "Soul Land II - The Peerless Tang Sect"
+    "en": "Saint Seiya - Episode G Requiem"
    },
    "contentRating": "safe",
-   "score": 0.23651052,
+   "score": 0.23365247,
    "languages": [
-    "pt-br",
     "en",
-    "fr",
-    "it"
+    "pt-br"
    ]
   },
   {
@@ -85,87 +164,13 @@
    "score": 0.23328476
   },
   {
-   "id": "ed207a55-0487-4eee-9de8-2bf58d529b65",
-   "title": {
-    "en": "Transmission Man Barubar"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
    "id": "22540ed5-3961-416f-81da-c22ba7cc13ec",
    "title": {
     "en": "Masked Rider Ryuuki - 13 Riders the Comic"
    },
    "contentRating": "safe",
    "score": 0.23328476
-  },
-  {
-   "id": "4c41af7f-8bde-4d97-a8d2-45d7bcc0bfaf",
-   "title": {
-    "en": "Nephilim John"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
-   "title": {
-    "en": "Super God System"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
-   "title": {
-    "en": "TEAM PHOENIX"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "69feb00e-c706-4367-adf3-b79e07286373",
-   "title": {
-    "en": "Yi Bi Zhi Ming"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.23087014,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "9d39efab-9ab7-4a4d-9f89-9b81e3796fc3",
-   "title": {
-    "en": "Shikkaku kara Hajimeru Nariagari Madou Shidou!"
-   },
-   "contentRating": "safe",
-   "score": 0.23009901,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:40+00:00"
+ "updatedAt": "2023-12-10T18:13:38+00:00"
 }

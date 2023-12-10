@@ -6,23 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "4bc76b48-d9c2-4f58-9f6d-d0eb4db71b2b",
-   "title": {
-    "en": "Fushi to Batsu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2937179,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d0d8cb68-5b53-47ab-92ce-d53e5bd44148",
    "title": {
     "en": "Lady Justice (Pre-Serialization)"
    },
    "contentRating": "suggestive",
-   "score": 0.25190595,
+   "score": 0.2580829,
    "languages": [
     "en"
    ]
@@ -33,19 +22,20 @@
     "en": "Ultra Positive Energy Demon King"
    },
    "contentRating": "suggestive",
-   "score": 0.24584913,
+   "score": 0.2368966,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f267da6a-f2c2-4245-b766-82f7bae9bed9",
+   "id": "83563a31-a843-4c7c-b0be-7ac359a447a0",
    "title": {
-    "en": "Upotte!!"
+    "en": "Oninaki no Curse Holder"
    },
    "contentRating": "suggestive",
-   "score": 0.22935922,
+   "score": 0.22857143,
    "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -61,14 +51,13 @@
    ]
   },
   {
-   "id": "83563a31-a843-4c7c-b0be-7ac359a447a0",
+   "id": "f267da6a-f2c2-4245-b766-82f7bae9bed9",
    "title": {
-    "en": "Oninaki no Curse Holder"
+    "en": "Upotte!!"
    },
    "contentRating": "suggestive",
-   "score": 0.22857143,
+   "score": 0.22846061,
    "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -100,7 +89,7 @@
     "en": "Futagami Double"
    },
    "contentRating": "suggestive",
-   "score": 0.2208073,
+   "score": 0.21925801,
    "languages": [
     "pl",
     "fr",
@@ -113,7 +102,7 @@
     "en": "Fate/EXTRA CCC FoxTail"
    },
    "contentRating": "suggestive",
-   "score": 0.21913417,
+   "score": 0.21632342,
    "languages": [
     "en",
     "vi",
@@ -123,12 +112,23 @@
    ]
   },
   {
+   "id": "4bc76b48-d9c2-4f58-9f6d-d0eb4db71b2b",
+   "title": {
+    "en": "Fushi to Batsu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20974092,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6ed1b9d2-0482-4bfd-af52-790dd340a137",
    "title": {
     "en": "Harapeko Ouji-sama"
    },
    "contentRating": "suggestive",
-   "score": 0.21221332,
+   "score": 0.20878592,
    "languages": [
     "en"
    ]
@@ -145,12 +145,12 @@
    ]
   },
   {
-   "id": "f121443c-b9f9-4e7a-ae3c-1a009bed5e62",
+   "id": "533057c0-ea97-4353-a7dd-189d3a022baf",
    "title": {
-    "en": "Maousama no Yuusha Toubatsuki"
+    "en": "Momoiro Sabbath"
    },
    "contentRating": "suggestive",
-   "score": 0.20856111,
+   "score": 0.2042001,
    "languages": [
     "en"
    ]
@@ -161,7 +161,7 @@
     "en": "7th Garden"
    },
    "contentRating": "suggestive",
-   "score": 0.20741493,
+   "score": 0.20327449,
    "languages": [
     "es",
     "id",
@@ -169,12 +169,12 @@
    ]
   },
   {
-   "id": "533057c0-ea97-4353-a7dd-189d3a022baf",
+   "id": "f121443c-b9f9-4e7a-ae3c-1a009bed5e62",
    "title": {
-    "en": "Momoiro Sabbath"
+    "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.20660284,
+   "score": 0.19863921,
    "languages": [
     "en"
    ]
@@ -185,7 +185,7 @@
     "en": "Hidan no Aria"
    },
    "contentRating": "suggestive",
-   "score": 0.19508216,
+   "score": 0.19347315,
    "languages": [
     "en",
     "pt-br",
@@ -193,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:17+00:00"
+ "updatedAt": "2023-12-10T18:28:45+00:00"
 }

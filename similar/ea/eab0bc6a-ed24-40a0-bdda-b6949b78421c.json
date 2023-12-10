@@ -11,7 +11,15 @@
     "en": "Lightning Boy Spark Dan"
    },
    "contentRating": "safe",
-   "score": 0.24969138
+   "score": 0.25125346
+  },
+  {
+   "id": "a5d0fbbc-88ad-4340-b6d6-e486505c70f2",
+   "title": {
+    "en": "Dawn Combat Squad: Suicide Attack Story"
+   },
+   "contentRating": "safe",
+   "score": 0.24311288
   },
   {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
@@ -19,18 +27,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.2399018
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.2248365,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24028547
   },
   {
    "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
@@ -38,18 +35,21 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.2240902,
+   "score": 0.22570823,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a34bfd45-33b2-4358-bff8-e8ed40eca46c",
+   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
    "title": {
-    "en": "Kagerou Nostalgia"
+    "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.22182114
+   "score": 0.22409777,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
@@ -57,7 +57,15 @@
     "en": "Pilot Ace"
    },
    "contentRating": "safe",
-   "score": 0.21819209
+   "score": 0.2235743
+  },
+  {
+   "id": "a34bfd45-33b2-4358-bff8-e8ed40eca46c",
+   "title": {
+    "en": "Kagerou Nostalgia"
+   },
+   "contentRating": "safe",
+   "score": 0.22105101
   },
   {
    "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
@@ -73,6 +81,25 @@
     "vi",
     "es-la"
    ]
+  },
+  {
+   "id": "539aaad5-1663-4fba-8d03-ea9c4d0c8525",
+   "title": {
+    "ja": "Woll"
+   },
+   "contentRating": "safe",
+   "score": 0.21770814,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4e91856f-7fbe-4ca0-809a-9da234c020ec",
+   "title": {
+    "en": "Raika"
+   },
+   "contentRating": "safe",
+   "score": 0.21355222
   },
   {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
@@ -91,7 +118,7 @@
     "en": "Yamato Takeru (WATSUKI Nobuhiro)"
    },
    "contentRating": "safe",
-   "score": 0.20929022,
+   "score": 0.20903163,
    "languages": [
     "en"
    ]
@@ -109,12 +136,20 @@
    ]
   },
   {
+   "id": "a8d53854-a512-413b-9f6a-7395c6c65d18",
+   "title": {
+    "en": "Kaze Densetsu Hikoza"
+   },
+   "contentRating": "safe",
+   "score": 0.20424354
+  },
+  {
    "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
    "title": {
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.20243847,
+   "score": 0.20214744,
    "languages": [
     "en"
    ]
@@ -125,52 +160,11 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.20199238,
+   "score": 0.201378,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b2240452-09ac-4d03-919d-a2660925dbd9",
-   "title": {
-    "en": "Microman (MORITOU Yoshihiro)"
-   },
-   "contentRating": "safe",
-   "score": 0.20055789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.20055789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.20055789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "224db38f-3582-4f1f-b211-66929b9cdb7a",
-   "title": {
-    "en": "Final Fantasy Type-0"
-   },
-   "contentRating": "safe",
-   "score": 0.19857924
   }
  ],
- "updatedAt": "2023-12-10T01:09:28+00:00"
+ "updatedAt": "2023-12-10T18:34:10+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Love Diner"
    },
    "contentRating": "safe",
-   "score": 0.25861976,
+   "score": 0.25749522,
    "languages": [
     "en"
    ]
@@ -28,23 +28,12 @@
    ]
   },
   {
-   "id": "db4cb0fc-05ca-4d66-b6b3-3755041aa65d",
-   "title": {
-    "en": "Three Stars Magic Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.21436496,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5abf36e6-b42e-4840-896b-b4b22b17fcd7",
    "title": {
     "en": "Kamisama, Kisama wo Koroshitai."
    },
    "contentRating": "safe",
-   "score": 0.2074077,
+   "score": 0.20719454,
    "languages": [
     "en"
    ]
@@ -55,7 +44,18 @@
     "en": "Zange"
    },
    "contentRating": "safe",
-   "score": 0.20611638,
+   "score": 0.20589386,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "db4cb0fc-05ca-4d66-b6b3-3755041aa65d",
+   "title": {
+    "en": "Three Stars Magic Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.20507394,
    "languages": [
     "en"
    ]
@@ -66,25 +66,51 @@
     "en": "Shiawase Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.19527985,
+   "score": 0.18822764,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
+   "id": "275c3ee8-bdeb-4070-a333-6add23a8415a",
    "title": {
-    "en": "Serial Killer Isekai ni Oritatsu"
+    "en": "Renge to Naruto!"
    },
    "contentRating": "safe",
-   "score": 0.18021351,
+   "score": 0.18113713,
    "languages": [
-    "es-la",
-    "fr",
-    "en",
     "vi",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.18113117,
+   "languages": [
+    "fr",
     "pt-br",
-    "ar"
+    "es-la",
+    "en",
+    "tr",
+    "ru",
+    "fa"
+   ]
+  },
+  {
+   "id": "5356ad15-1012-4867-af98-70478eb8d643",
+   "title": {
+    "en": "Bouncer"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -96,6 +122,22 @@
    "score": 0.17978664,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
+   "title": {
+    "en": "Serial Killer Isekai ni Oritatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.17903289,
+   "languages": [
+    "es-la",
+    "fr",
+    "en",
+    "vi",
+    "pt-br",
+    "ar"
    ]
   },
   {
@@ -126,7 +168,7 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.1665838,
+   "score": 0.1661564,
    "languages": [
     "en"
    ]
@@ -137,7 +179,7 @@
     "en": "Hitogata"
    },
    "contentRating": "safe",
-   "score": 0.16391775,
+   "score": 0.16347377,
    "languages": [
     "en",
     "es-la",
@@ -155,45 +197,7 @@
     "es",
     "it"
    ]
-  },
-  {
-   "id": "75532241-da34-4afb-a7df-a227b269ed20",
-   "title": {
-    "en": "Pineapple Army"
-   },
-   "contentRating": "safe",
-   "score": 0.15983741,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
-   "title": {
-    "en": "Issak"
-   },
-   "contentRating": "safe",
-   "score": 0.15971914,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "ru",
-    "tr"
-   ]
-  },
-  {
-   "id": "197a27f5-835f-49eb-a91a-9751fe73335e",
-   "title": {
-    "en": "Onihei Hankachou"
-   },
-   "contentRating": "safe",
-   "score": 0.15971914,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:41+00:00"
+ "updatedAt": "2023-12-10T18:19:02+00:00"
 }

@@ -6,9 +6,42 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ee4a891d-a8a5-4d40-8e36-34e0122bc591",
+   "title": {
+    "en": "Weiss Side B"
+   },
+   "contentRating": "safe",
+   "score": 0.17383318,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8ac0855f-5f95-41cb-a1cc-7ac6714980b7",
+   "title": {
+    "en": "Dark Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.16489188,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f062be82-3d8f-4441-885a-0d0bf7771196",
    "title": {
     "en": "Hiruko"
+   },
+   "contentRating": "safe",
+   "score": 0.16489188,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "60d05f87-f4a2-4ff1-b553-ecd3b7112ebc",
+   "title": {
+    "en": "The Phantom of the Opera"
    },
    "contentRating": "safe",
    "score": 0.16489188,
@@ -22,7 +55,7 @@
     "en": "Kiri no Mori Hotel"
    },
    "contentRating": "safe",
-   "score": 0.16387776,
+   "score": 0.16327414,
    "languages": [
     "en"
    ]
@@ -33,19 +66,22 @@
     "en": "My Hubby Is Too Cute!"
    },
    "contentRating": "safe",
-   "score": 0.15976197,
+   "score": 0.1594877,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3499e772-395c-4fc6-91a4-fc6761d99775",
+   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
    "title": {
-    "en": "Fuyu no Ou to Haru no Hime"
+    "en": "Watashi-tachi wa Douka shiteiru"
    },
    "contentRating": "safe",
-   "score": 0.15773857,
+   "score": 0.15920596,
    "languages": [
+    "pt-br",
+    "ru",
+    "es-la",
     "en"
    ]
   },
@@ -72,12 +108,23 @@
    ]
   },
   {
+   "id": "3499e772-395c-4fc6-91a4-fc6761d99775",
+   "title": {
+    "en": "Fuyu no Ou to Haru no Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.1534088,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d070b3f4-edb5-4064-bdcc-f70269e122e7",
    "title": {
     "en": "Battle Rabbits"
    },
    "contentRating": "safe",
-   "score": 0.15020132,
+   "score": 0.15045984,
    "languages": [
     "en"
    ]
@@ -99,9 +146,22 @@
     "en": "Hyakki Yakoushou"
    },
    "contentRating": "safe",
-   "score": 0.14715959,
+   "score": 0.14662205,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ee45e72c-3c25-4fce-8934-08e91458c858",
+   "title": {
+    "en": "Solitary Lady"
+   },
+   "contentRating": "safe",
+   "score": 0.14576654,
+   "languages": [
+    "en",
+    "pl",
+    "ru"
    ]
   },
   {
@@ -116,76 +176,16 @@
    ]
   },
   {
-   "id": "d579c665-7cdb-4c5f-9370-942231fd35bc",
+   "id": "fd823893-8680-4c0c-bd1f-218ee3b742e0",
    "title": {
-    "en": "Sanju Mariko"
+    "en": "Sweet Seduction"
    },
    "contentRating": "safe",
-   "score": 0.14227897,
+   "score": 0.14453226,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
-   "title": {
-    "en": "inGrid"
-   },
-   "contentRating": "safe",
-   "score": 0.14218523,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "18380f96-a6bb-4b3a-8f04-9e169e71bbaa",
-   "title": {
-    "en": "Haikyo Circle"
-   },
-   "contentRating": "safe",
-   "score": 0.14182754,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0bca50c1-e3ac-4a2e-bc9b-9d8984c81dd3",
-   "title": {
-    "en": "I Lost the Leash of the Yandere Male Lead"
-   },
-   "contentRating": "safe",
-   "score": 0.14071952,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "abf7336b-3c0e-4e82-a530-978a7c7d9daa",
-   "title": {
-    "en": "Treasure Chest"
-   },
-   "contentRating": "safe",
-   "score": 0.13985531,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf69e2fd-9833-4f89-9cad-f470a280a256",
-   "title": {
-    "en": "How to Win My Husband Over"
-   },
-   "contentRating": "safe",
-   "score": 0.13621356,
-   "languages": [
-    "uk",
-    "pt-br",
-    "pl",
-    "en",
-    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:16+00:00"
+ "updatedAt": "2023-12-10T18:31:13+00:00"
 }

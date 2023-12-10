@@ -11,7 +11,7 @@
     "en": "Psychometrer"
    },
    "contentRating": "suggestive",
-   "score": 0.2555693,
+   "score": 0.25492442,
    "languages": [
     "en"
    ]
@@ -22,18 +22,7 @@
     "en": "Battleship Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.22442482,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2080de4-f335-4680-a16c-4ed10cde514d",
-   "title": {
-    "en": "Asobi ni Iku yo!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22339426,
+   "score": 0.2236266,
    "languages": [
     "en"
    ]
@@ -44,7 +33,18 @@
     "en": "Bakunetsu Sentouki"
    },
    "contentRating": "suggestive",
-   "score": 0.21863012,
+   "score": 0.21696739,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f2080de4-f335-4680-a16c-4ed10cde514d",
+   "title": {
+    "en": "Asobi ni Iku yo!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21559551,
    "languages": [
     "en"
    ]
@@ -55,18 +55,7 @@
     "en": "Mobile Suit Gundam: The battle tales of Flanagan Boone"
    },
    "contentRating": "suggestive",
-   "score": 0.20186159,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de84eb83-3bbb-4dbf-a93a-9678580393af",
-   "title": {
-    "en": "Choumukiryoku Sentai Japafive"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19471695,
+   "score": 0.20079055,
    "languages": [
     "en"
    ]
@@ -83,12 +72,12 @@
    ]
   },
   {
-   "id": "c3ebdd8c-65b9-4bd7-b8a5-b378cfc83748",
+   "id": "de84eb83-3bbb-4dbf-a93a-9678580393af",
    "title": {
-    "en": "Jenny of the Morning Star"
+    "en": "Choumukiryoku Sentai Japafive"
    },
    "contentRating": "suggestive",
-   "score": 0.18472472,
+   "score": 0.19471695,
    "languages": [
     "en"
    ]
@@ -107,12 +96,23 @@
    ]
   },
   {
-   "id": "8d26140f-1eba-4386-a9ea-59a109bf23a9",
+   "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
    "title": {
-    "en": "Usagi-chan de Cue!!"
+    "en": "Rose × Marie"
    },
    "contentRating": "suggestive",
-   "score": 0.17209214,
+   "score": 0.18472472,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c3ebdd8c-65b9-4bd7-b8a5-b378cfc83748",
+   "title": {
+    "en": "Jenny of the Morning Star"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18472472,
    "languages": [
     "en"
    ]
@@ -134,6 +134,17 @@
    ]
   },
   {
+   "id": "8d26140f-1eba-4386-a9ea-59a109bf23a9",
+   "title": {
+    "en": "Usagi-chan de Cue!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17128202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4abc9504-d465-40b3-a7c5-47b60c51c03b",
    "title": {
     "en": "Space Hero Story"
@@ -145,44 +156,32 @@
    ]
   },
   {
-   "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
-   "title": {
-    "en": "Patora to Tetsujuuji"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16633642,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
    "title": {
     "en": "Mobile Suit Gundam Thunderbolt"
    },
    "contentRating": "suggestive",
-   "score": 0.16575268,
+   "score": 0.16648164,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "d3d7aaad-1d28-44e1-b809-6b5bb1df0f3a",
+   "id": "25ffcab7-79e3-4a86-8fb5-0c7de8882bfb",
    "title": {
-    "en": "Shizuru's Notebook"
+    "en": "Patora to Tetsujuuji"
    },
    "contentRating": "suggestive",
-   "score": 0.15898573,
+   "score": 0.16606203,
    "languages": [
-    "ru",
     "en"
    ]
   },
   {
-   "id": "8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac",
+   "id": "f55bcceb-9b78-4456-aae1-b5771fd0e7d2",
    "title": {
-    "en": "Onimushi"
+    "en": "Shiroi Gekkou"
    },
    "contentRating": "suggestive",
    "score": 0.15898573,
@@ -191,5 +190,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:08+00:00"
+ "updatedAt": "2023-12-10T18:17:35+00:00"
 }

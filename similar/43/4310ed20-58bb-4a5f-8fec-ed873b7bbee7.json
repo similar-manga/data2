@@ -11,7 +11,7 @@
     "en": "Triangle"
    },
    "contentRating": "safe",
-   "score": 0.30663097,
+   "score": 0.30641174,
    "languages": [
     "pl",
     "en"
@@ -46,7 +46,18 @@
     "en": "Impatiens"
    },
    "contentRating": "safe",
-   "score": 0.26364428,
+   "score": 0.26252183,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d46b1ee-88b9-455d-a2b4-f9d68e86c24e",
+   "title": {
+    "en": "Uno-ke no Hitobito"
+   },
+   "contentRating": "safe",
+   "score": 0.2616496,
    "languages": [
     "en"
    ]
@@ -57,7 +68,7 @@
     "en": "Uno x Uno"
    },
    "contentRating": "safe",
-   "score": 0.25740066,
+   "score": 0.25690493,
    "languages": [
     "en"
    ]
@@ -68,7 +79,7 @@
     "en": "Nakanai Tori no Kaeru Ki wa"
    },
    "contentRating": "safe",
-   "score": 0.25526306,
+   "score": 0.25592905,
    "languages": [
     "en"
    ]
@@ -79,7 +90,7 @@
     "en": "Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.25385058,
+   "score": 0.2536773,
    "languages": [
     "en"
    ]
@@ -90,7 +101,7 @@
     "en": "Korisu Ballet"
    },
    "contentRating": "safe",
-   "score": 0.25161397,
+   "score": 0.2515348,
    "languages": [
     "en",
     "fr",
@@ -99,13 +110,16 @@
    ]
   },
   {
-   "id": "2124b898-a137-4592-9431-2a9e1ab3ab00",
+   "id": "799febb7-6298-409f-853c-9c3181a43055",
    "title": {
-    "en": "Jane and Harlequin"
+    "en": "Kimi wa Boku no Taiyou"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "uk",
+    "bg",
+    "pl",
     "en"
    ]
   },
@@ -133,20 +147,6 @@
    ]
   },
   {
-   "id": "799febb7-6298-409f-853c-9c3181a43055",
-   "title": {
-    "en": "Kimi wa Boku no Taiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "uk",
-    "bg",
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "1fc70f6f-e9cd-4d09-8e02-1209f51a6dee",
    "title": {
     "en": "1-Day Idol"
@@ -170,27 +170,27 @@
    ]
   },
   {
-   "id": "36dbe86b-f7a4-40cf-bafd-e7fe1642993d",
+   "id": "2124b898-a137-4592-9431-2a9e1ab3ab00",
    "title": {
-    "en": "A Time of Blooming"
+    "en": "Jane and Harlequin"
    },
    "contentRating": "safe",
-   "score": 0.23982938,
+   "score": 0.24692619,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1275ee99-f2d2-43a2-b6e4-bec46f7a37a7",
+   "id": "36dbe86b-f7a4-40cf-bafd-e7fe1642993d",
    "title": {
-    "en": "Happy Summer Dream"
+    "en": "A Time of Blooming"
    },
    "contentRating": "safe",
-   "score": 0.23809525,
+   "score": 0.23876508,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:20+00:00"
+ "updatedAt": "2023-12-10T18:15:34+00:00"
 }

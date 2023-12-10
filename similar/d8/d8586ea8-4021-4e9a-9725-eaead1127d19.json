@@ -11,7 +11,7 @@
     "en": "The Zombie Maria"
    },
    "contentRating": "safe",
-   "score": 0.31682914,
+   "score": 0.3218188,
    "languages": [
     "de",
     "fr",
@@ -30,7 +30,7 @@
     "en": "See you soon."
    },
    "contentRating": "safe",
-   "score": 0.31085777,
+   "score": 0.30596888,
    "languages": [
     "hu",
     "en"
@@ -42,7 +42,7 @@
     "en": "Nyan-Nyan Oratorio"
    },
    "contentRating": "safe",
-   "score": 0.2978179,
+   "score": 0.29716355,
    "languages": [
     "en"
    ]
@@ -53,7 +53,18 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.291632,
+   "score": 0.29055172,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "title": {
+    "en": "Dana's Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -72,18 +83,6 @@
    ]
   },
   {
-   "id": "4dad0a2d-d968-4b3c-b02b-649a21d88e89",
-   "title": {
-    "en": "Happiness Rabbit"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
    "title": {
     "en": "Tsuki no Kanon"
@@ -98,14 +97,15 @@
    ]
   },
   {
-   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "id": "4dad0a2d-d968-4b3c-b02b-649a21d88e89",
    "title": {
-    "en": "Dana's Garden"
+    "en": "Happiness Rabbit"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
@@ -125,7 +125,7 @@
     "en": "Leave"
    },
    "contentRating": "safe",
-   "score": 0.27762783,
+   "score": 0.27491224,
    "languages": [
     "en"
    ]
@@ -136,7 +136,7 @@
     "en": "Toki Doki"
    },
    "contentRating": "safe",
-   "score": 0.27534822,
+   "score": 0.27426752,
    "languages": [
     "ca",
     "hi",
@@ -159,7 +159,7 @@
     "en": "Kon no Ki Konoha"
    },
    "contentRating": "safe",
-   "score": 0.27521423,
+   "score": 0.27318472,
    "languages": [
     "fr",
     "id",
@@ -176,7 +176,7 @@
     "en": "The Girl's Winter"
    },
    "contentRating": "safe",
-   "score": 0.26639715,
+   "score": 0.26694047,
    "languages": [
     "en",
     "pt-br",
@@ -189,10 +189,23 @@
     "en": "The Boys You Knew during Childhood Were Girls the Entire Time"
    },
    "contentRating": "safe",
-   "score": 0.26543003,
+   "score": 0.2664043,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
+   "title": {
+    "en": "Good-bye, My 19 year Old Self"
+   },
+   "contentRating": "safe",
+   "score": 0.26386184,
+   "languages": [
+    "fr",
+    "en",
+    "it"
    ]
   },
   {
@@ -201,24 +214,11 @@
     "en": "Without the Sun"
    },
    "contentRating": "safe",
-   "score": 0.26298138,
+   "score": 0.2634193,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
-   "title": {
-    "en": "World End Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.2615691,
-   "languages": [
-    "en",
-    "fr",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:41+00:00"
+ "updatedAt": "2023-12-10T18:32:17+00:00"
 }

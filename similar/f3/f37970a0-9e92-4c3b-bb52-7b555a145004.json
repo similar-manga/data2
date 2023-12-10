@@ -11,7 +11,7 @@
     "en": "Shuumatsu no Majo to Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.28623906
+   "score": 0.2864865
   },
   {
    "id": "ff42bb0e-87f1-4341-9d31-0b43136f5de7",
@@ -19,7 +19,7 @@
     "en": "Get truth Fang of the Sun Dougram"
    },
    "contentRating": "safe",
-   "score": 0.25926244
+   "score": 0.26007217
   },
   {
    "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
@@ -27,7 +27,7 @@
     "en": "Tetsuzin"
    },
    "contentRating": "safe",
-   "score": 0.24681877
+   "score": 0.24910241
   },
   {
    "id": "5ee080e0-feb5-4de8-9cb1-98a70f9ad4e4",
@@ -46,22 +46,6 @@
    "score": 0.22980437
   },
   {
-   "id": "87e55d7a-226f-45b0-8666-dfd881ebf124",
-   "title": {
-    "en": "Cronos Haze (2014)"
-   },
-   "contentRating": "safe",
-   "score": 0.22506493
-  },
-  {
-   "id": "c937be5c-43ba-477d-9b64-56e2f2125eef",
-   "title": {
-    "en": "Over Gloss"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468
-  },
-  {
    "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
    "title": {
     "en": "Guilty Crown: Dancing Endlaves"
@@ -73,12 +57,28 @@
    ]
   },
   {
+   "id": "c937be5c-43ba-477d-9b64-56e2f2125eef",
+   "title": {
+    "en": "Over Gloss"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "87e55d7a-226f-45b0-8666-dfd881ebf124",
+   "title": {
+    "en": "Cronos Haze (2014)"
+   },
+   "contentRating": "safe",
+   "score": 0.2250256
+  },
+  {
    "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
    "title": {
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.22269465,
+   "score": 0.22358018,
    "languages": [
     "en"
    ]
@@ -89,7 +89,7 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.2149982,
+   "score": 0.21560922,
    "languages": [
     "en",
     "pt-br"
@@ -120,33 +120,29 @@
    "score": 0.20978172
   },
   {
-   "id": "817eb6f8-6b2e-4aaa-bb39-c6e74206f02e",
-   "title": {
-    "en": "Battle Ground Workers"
-   },
-   "contentRating": "safe",
-   "score": 0.20916782
-  },
-  {
    "id": "3192d4a4-c18e-4723-8885-3d5c6a869f93",
    "title": {
     "en": "XENON-199X・R-"
    },
    "contentRating": "safe",
-   "score": 0.20436461
+   "score": 0.20413373
   },
   {
-   "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
+   "id": "817eb6f8-6b2e-4aaa-bb39-c6e74206f02e",
    "title": {
-    "en": "Levius/est"
+    "en": "Battle Ground Workers"
    },
    "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "pt-br",
-    "ru"
-   ]
+   "score": 0.20171945
+  },
+  {
+   "id": "14527d83-cfac-4a0b-95ea-7561acbeff13",
+   "title": {
+    "en": "Invincible Bancho Bakuraiga"
+   },
+   "contentRating": "safe",
+   "score": 0.20141774
   }
  ],
- "updatedAt": "2023-12-10T01:09:50+00:00"
+ "updatedAt": "2023-12-10T18:35:04+00:00"
 }

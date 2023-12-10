@@ -35,7 +35,7 @@
     "en": "Sono Hen No Akuta"
    },
    "contentRating": "safe",
-   "score": 0.23433262
+   "score": 0.23363225
   },
   {
    "id": "f20fd674-d661-4736-9b2d-b07b51841923",
@@ -54,7 +54,21 @@
     "en": "Tetsuzin"
    },
    "contentRating": "safe",
-   "score": 0.23109023
+   "score": 0.23083787
+  },
+  {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.22244804,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
+   ]
   },
   {
    "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
@@ -62,7 +76,7 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.22209911,
+   "score": 0.22033806,
    "languages": [
     "en",
     "es"
@@ -74,10 +88,18 @@
     "en": "Chaos Rings"
    },
    "contentRating": "safe",
-   "score": 0.22026952,
+   "score": 0.21930093,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "83e95476-f38c-4f53-96f5-d1ff8015cacd",
+   "title": {
+    "en": "Danzai Lock"
+   },
+   "contentRating": "safe",
+   "score": 0.21891657
   },
   {
    "id": "58761a40-3058-423f-91db-13426db8937b",
@@ -85,22 +107,7 @@
     "en": "Tsuzure no leghorn"
    },
    "contentRating": "safe",
-   "score": 0.21764636
-  },
-  {
-   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
-   "title": {
-    "en": "Tsugumi Project"
-   },
-   "contentRating": "safe",
-   "score": 0.21754521,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "es-la",
-    "ru"
-   ]
+   "score": 0.2164549
   },
   {
    "id": "84ccd143-9772-47a3-96f5-f8f16c69015b",
@@ -111,28 +118,24 @@
    "score": 0.21597971
   },
   {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
    "title": {
-    "en": "Kuusou Kagaku Edison"
+    "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21561378,
    "languages": [
-    "en"
+    "pt-br",
+    "en",
+    "vi",
+    "es-la",
+    "ru"
    ]
   },
   {
-   "id": "219fee10-cc76-4efe-b961-3b52b7c298a7",
+   "id": "7817a799-7376-413b-afd7-7f7bc4f90199",
    "title": {
-    "en": "Kodai Senshi Haniwatt"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
-  },
-  {
-   "id": "e287772e-0d2b-4d96-8040-98a8741b71eb",
-   "title": {
-    "en": "Space Combat Forward"
+    "en": "God Eater - Side by Side"
    },
    "contentRating": "safe",
    "score": 0.21428573
@@ -150,13 +153,13 @@
    ]
   },
   {
-   "id": "7817a799-7376-413b-afd7-7f7bc4f90199",
+   "id": "219fee10-cc76-4efe-b961-3b52b7c298a7",
    "title": {
-    "en": "God Eater - Side by Side"
+    "en": "Kodai Senshi Haniwatt"
    },
    "contentRating": "safe",
    "score": 0.21428573
   }
  ],
- "updatedAt": "2023-12-10T01:01:17+00:00"
+ "updatedAt": "2023-12-10T18:12:34+00:00"
 }

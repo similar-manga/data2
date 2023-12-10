@@ -11,7 +11,7 @@
     "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
-   "score": 0.22071414,
+   "score": 0.22055167,
    "languages": [
     "en"
    ]
@@ -29,12 +29,12 @@
    ]
   },
   {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "id": "8ebc5141-8b54-47c0-97a0-908b566061a7",
    "title": {
-    "en": "Mobile Suit MOON Gundam"
+    "en": "Evil Heart"
    },
    "contentRating": "safe",
-   "score": 0.2059114,
+   "score": 0.20591281,
    "languages": [
     "en"
    ]
@@ -64,12 +64,34 @@
    ]
   },
   {
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "title": {
+    "en": "Mobile Suit MOON Gundam"
+   },
+   "contentRating": "safe",
+   "score": 0.20514089,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
    "title": {
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.20344968,
+   "score": 0.20292304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "title": {
+    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+   },
+   "contentRating": "safe",
+   "score": 0.20267479,
    "languages": [
     "en"
    ]
@@ -97,24 +119,16 @@
    ]
   },
   {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "id": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
    "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+    "en": "Me \u0026 Roboco"
    },
    "contentRating": "safe",
-   "score": 0.20267479,
+   "score": 0.19485372,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8ebc5141-8b54-47c0-97a0-908b566061a7",
-   "title": {
-    "en": "Evil Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.20023592,
-   "languages": [
+    "fr",
+    "pt-br",
+    "zh-hk",
     "en"
    ]
   },
@@ -124,30 +138,16 @@
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.19480014,
+   "score": 0.19452009,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
+   "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
    "title": {
-    "en": "Me \u0026 Roboco"
-   },
-   "contentRating": "safe",
-   "score": 0.19471039,
-   "languages": [
-    "fr",
-    "pt-br",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
+    "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
    "score": 0.19324283,
@@ -156,9 +156,9 @@
    ]
   },
   {
-   "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
+   "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
    "title": {
-    "en": "Mobile Suit Gundam - École du Ciel"
+    "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
    "score": 0.19324283,
@@ -184,12 +184,12 @@
     "en": "Mega Man X5 IF"
    },
    "contentRating": "safe",
-   "score": 0.19323392,
+   "score": 0.19300814,
    "languages": [
     "en",
     "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:49+00:00"
+ "updatedAt": "2023-12-10T18:22:09+00:00"
 }

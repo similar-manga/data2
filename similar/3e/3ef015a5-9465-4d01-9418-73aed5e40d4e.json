@@ -6,14 +6,69 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e531c6ca-0b07-4878-8ae8-87357375acd9",
+   "title": {
+    "en": "LV999 no Murabito"
+   },
+   "contentRating": "safe",
+   "score": 0.36197782,
+   "languages": [
+    "pt-br",
+    "it",
+    "fr",
+    "pl",
+    "en",
+    "es",
+    "ru",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ee6befbc-715d-47c2-a09a-16f5bc7cb8d9",
+   "title": {
+    "en": "Taiyou no Senshi Pokapoka"
+   },
+   "contentRating": "safe",
+   "score": 0.33843517
+  },
+  {
+   "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+   "title": {
+    "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
+   },
+   "contentRating": "safe",
+   "score": 0.321633,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "pl",
+    "ar",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "b009f62d-7a65-417d-990a-2e671b036069",
    "title": {
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.27160624,
+   "score": 0.2710334,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "f9b26533-a516-499b-b2ca-8d095ac5174a",
+   "title": {
+    "en": "Pokémon HGSS"
+   },
+   "contentRating": "safe",
+   "score": 0.2593957,
+   "languages": [
     "en"
    ]
   },
@@ -30,15 +85,54 @@
    ]
   },
   {
+   "id": "c0c46de8-d6b3-4bfb-9783-e29028b05f55",
+   "title": {
+    "en": "Monster Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.24401195
+  },
+  {
    "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
    "title": {
     "en": "Monster Bar"
    },
    "contentRating": "safe",
-   "score": 0.2449514,
+   "score": 0.24242963,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24169171,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "af38dc80-91aa-4e2b-8cd3-06a441b5dd25",
+   "title": {
+    "en": "Monster Rancer ~Secret of the Disk Stone~"
+   },
+   "contentRating": "safe",
+   "score": 0.23913437
+  },
+  {
+   "id": "44298fae-b331-4553-859c-106d664e5f33",
+   "title": {
+    "en": "City Hunter Double Edge"
+   },
+   "contentRating": "safe",
+   "score": 0.23912364,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -47,7 +141,7 @@
     "en": "Pokémon Card GB The Comix"
    },
    "contentRating": "safe",
-   "score": 0.23849937,
+   "score": 0.23784827,
    "languages": [
     "en"
    ]
@@ -69,15 +163,15 @@
     "en": "Dragon Quest VI - Land of Illusion"
    },
    "contentRating": "safe",
-   "score": 0.23321891
+   "score": 0.23237045
   },
   {
-   "id": "6e2aa3b0-c8c4-4ecb-8e54-dcf87a958a24",
+   "id": "716932db-8f7e-4d7a-82b6-e87e07e66792",
    "title": {
-    "en": "Pokémon Mezastar Mezase! Tag master"
+    "en": "Village of Eight Graves"
    },
    "contentRating": "safe",
-   "score": 0.2291184
+   "score": 0.23140682
   },
   {
    "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
@@ -89,98 +183,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
-   "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.22688611,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
-   "title": {
-    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
-   },
-   "contentRating": "safe",
-   "score": 0.2258914,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "532e3f94-7a07-4dee-8e3e-665fc7ee72b8",
-   "title": {
-    "en": "Hokkaidou no Geneki Hunter ga Isekai ni Hourikoma Rete Mita ~Elf Yome to Meguru Isekai Shuryou Life~"
-   },
-   "contentRating": "safe",
-   "score": 0.22427075,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "th"
-   ]
-  },
-  {
-   "id": "e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb",
-   "title": {
-    "en": "My Life as a Player"
-   },
-   "contentRating": "safe",
-   "score": 0.22401789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9afe47ee-5c8b-4572-b7c0-efa4f83da432",
-   "title": {
-    "en": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
-   },
-   "contentRating": "safe",
-   "score": 0.22078413,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "29ab6984-7c1d-4d45-b925-25aa082b492e",
-   "title": {
-    "en": "Shangri-La Frontier"
-   },
-   "contentRating": "safe",
-   "score": 0.21832281,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
-   "title": {
-    "en": "Bear Hunter — Fubuki-gō"
-   },
-   "contentRating": "safe",
-   "score": 0.2182198,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
-   "title": {
-    "en": "Countryside General"
-   },
-   "contentRating": "safe",
-   "score": 0.21760607
   }
  ],
- "updatedAt": "2023-12-10T01:02:10+00:00"
+ "updatedAt": "2023-12-10T18:15:05+00:00"
 }

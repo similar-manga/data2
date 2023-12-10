@@ -11,7 +11,7 @@
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.27746585,
+   "score": 0.28021124,
    "languages": [
     "pt-br",
     "id",
@@ -35,7 +35,7 @@
     "en": "Mist no Kaiboroku"
    },
    "contentRating": "safe",
-   "score": 0.25101686,
+   "score": 0.24937762,
    "languages": [
     "en"
    ]
@@ -68,18 +68,7 @@
     "en": "Gochuumon wa Usagi desu ka? \u0026 Kin-iro Mosaic - Pyonpyon Parade (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.20091134,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3070be78-046a-4d56-81f4-c053906122c3",
-   "title": {
-    "en": "Ookami to Hitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.2001481,
    "languages": [
     "en"
    ]
@@ -88,6 +77,17 @@
    "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
    "title": {
     "en": "Tasogare Schrödinger"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3070be78-046a-4d56-81f4-c053906122c3",
+   "title": {
+    "en": "Ookami to Hitsuji"
    },
    "contentRating": "safe",
    "score": 0.19317813,
@@ -119,45 +119,6 @@
    ]
   },
   {
-   "id": "7b568fa0-42d3-4c20-860f-ca202a79728f",
-   "title": {
-    "en": "The Results of Awakening to Over-Strong Power"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "vi",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "84a2945e-0018-4301-9a54-f305971477a9",
-   "title": {
-    "en": "Birthday"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "9969028a-c459-4239-98a0-bcc90fbfbc12",
-   "title": {
-    "en": "Ijousha"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "vi",
-    "en",
-    "ru",
-    "id"
-   ]
-  },
-  {
    "id": "5f397c12-c83e-4c59-8ab8-33634c1cd2eb",
    "title": {
     "en": "Tsukigui Youma Taijishi"
@@ -180,17 +141,27 @@
    ]
   },
   {
-   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
    "title": {
-    "en": "Death of a Highschool"
+    "en": "Peach Pluck"
    },
    "contentRating": "safe",
    "score": 0.1870439,
    "languages": [
     "pt-br",
-    "tr",
-    "pl",
     "en"
+   ]
+  },
+  {
+   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
+   "title": {
+    "en": "Smile Death Match"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -208,16 +179,43 @@
    ]
   },
   {
-   "id": "b211df18-36f0-40eb-9838-5afdd29cca19",
+   "id": "84a2945e-0018-4301-9a54-f305971477a9",
    "title": {
-    "en": "A Lantern's Light"
+    "en": "Birthday"
    },
    "contentRating": "safe",
    "score": 0.1870439,
    "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "title": {
+    "en": "Death of a Highschool"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "pt-br",
+    "tr",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
+   "title": {
+    "en": "V no Akuma"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:31+00:00"
+ "updatedAt": "2023-12-10T18:23:55+00:00"
 }

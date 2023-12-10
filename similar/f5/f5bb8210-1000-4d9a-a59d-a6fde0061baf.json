@@ -11,7 +11,29 @@
     "en": "Three Stars Magic Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.5513176,
+   "score": 0.5350549,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e1e9e826-96b3-4e1c-baf2-7f33a69f598b",
+   "title": {
+    "en": "The Chef"
+   },
+   "contentRating": "safe",
+   "score": 0.49777618,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b273994-10ec-45cd-a333-b5ea0e894e19",
+   "title": {
+    "en": "Saigo no Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.4764562,
    "languages": [
     "en"
    ]
@@ -22,11 +44,24 @@
     "en": "Primo Piatto"
    },
    "contentRating": "safe",
-   "score": 0.46928266,
+   "score": 0.45404613,
    "languages": [
     "tr",
     "vi",
     "en"
+   ]
+  },
+  {
+   "id": "275c3ee8-bdeb-4070-a333-6add23a8415a",
+   "title": {
+    "en": "Renge to Naruto!"
+   },
+   "contentRating": "safe",
+   "score": 0.41683063,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -35,10 +70,21 @@
     "en": "Nobunaga no Chef"
    },
    "contentRating": "safe",
-   "score": 0.40873235,
+   "score": 0.39849707,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
+   "title": {
+    "en": "Artiste"
+   },
+   "contentRating": "safe",
+   "score": 0.37671933,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -47,22 +93,11 @@
     "en": "xxxHOLiC Rei"
    },
    "contentRating": "safe",
-   "score": 0.35071912,
+   "score": 0.3499341,
    "languages": [
     "pt-br",
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
-   "title": {
-    "en": "Cooking Papa"
-   },
-   "contentRating": "safe",
-   "score": 0.35024807,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -71,7 +106,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.3431677,
+   "score": 0.3430656,
    "languages": [
     "pt-br",
     "ru",
@@ -81,122 +116,86 @@
    ]
   },
   {
-   "id": "f556bf5c-1035-47b7-8ef2-416f28cb5e91",
+   "id": "102b2da5-e06b-4b29-97d1-67c5599fdbcc",
    "title": {
-    "en": "Marriage Royale"
+    "en": "Yonagi-san no Yonayona Gyoza"
    },
    "contentRating": "safe",
-   "score": 0.32163662,
+   "score": 0.33309484,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9ef6e461-033b-4976-b222-943856c94a97",
+   "id": "1541a23e-fad4-4432-8662-5a013a1530d6",
    "title": {
-    "en": "Smiley"
+    "en": "Doumo, Yuusha no Chichi desu. 〜Kono Tabi wa Gusoku ga Gomeiwaku wo Kakete, Moushiwake Arimasen〜"
    },
    "contentRating": "safe",
-   "score": 0.3213418,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "28d7c180-f25f-4d78-9fa5-fe8f38b869e6",
-   "title": {
-    "en": "Onee-chan no Imouto"
-   },
-   "contentRating": "safe",
-   "score": 0.31928828,
+   "score": 0.3327115,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
+   "id": "1150f04f-1630-4067-b1a6-53d944be12d6",
    "title": {
-    "en": "Dogs / Bullets \u0026 Carnage"
+    "en": "Ohitoyoshi Shokunin no Burari Isekai Tabi"
    },
    "contentRating": "safe",
-   "score": 0.31789494,
+   "score": 0.33105364,
    "languages": [
-    "en",
-    "bg",
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "1b9afd60-3b9f-4aa5-9f44-ad3cfb0f8343",
+   "id": "5cc2520e-3f8a-4d58-ba61-c19eee1c9a96",
    "title": {
-    "en": "Sousei no Tenken Tsukai"
+    "en": "Osen"
    },
    "contentRating": "safe",
-   "score": 0.3171375,
+   "score": 0.3290425,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "54e9d914-3c14-4a75-9650-e305291830c7",
+   "title": {
+    "en": "Waves, Listen to me!"
+   },
+   "contentRating": "safe",
+   "score": 0.32706535,
+   "languages": [
+    "zh",
     "en",
+    "pt-br",
     "es-la"
    ]
   },
   {
-   "id": "32dfa93d-cee2-47c2-8d48-7c0ba57fb75d",
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
    "title": {
-    "en": "Merry-chan to Hitsuji"
+    "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.31354365,
+   "score": 0.32378298,
    "languages": [
+    "ru",
     "en"
    ]
   },
   {
-   "id": "96045bc1-004e-42df-8d4f-f4ffd7ec317a",
+   "id": "a57235a9-2e1a-4afe-9720-bb7f60cb109d",
    "title": {
-    "en": "The Dream I Had When I Died"
+    "en": "Izakaya Bottakuri"
    },
    "contentRating": "safe",
-   "score": 0.31307015,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
-   "title": {
-    "en": "Laika in Space"
-   },
-   "contentRating": "safe",
-   "score": 0.31109858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "25febdc9-da45-43c1-b347-70df711fc43b",
-   "title": {
-    "en": "Kurashi no Izumi"
-   },
-   "contentRating": "safe",
-   "score": 0.310626,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
-   "title": {
-    "en": "Eiyuu Densetsu - Sora no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.31053442,
+   "score": 0.32189605,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:55+00:00"
+ "updatedAt": "2023-12-10T18:35:18+00:00"
 }

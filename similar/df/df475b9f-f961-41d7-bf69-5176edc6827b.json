@@ -11,7 +11,7 @@
     "en": "Soldier"
    },
    "contentRating": "suggestive",
-   "score": 0.22421296,
+   "score": 0.22417252,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Black Lagoon"
    },
    "contentRating": "suggestive",
-   "score": 0.20347509,
+   "score": 0.20312667,
    "languages": [
     "it",
     "ru",
@@ -45,17 +45,6 @@
     "fr",
     "uk",
     "tr"
-   ]
-  },
-  {
-   "id": "49c3a2e1-588a-4267-b4fc-4e57a81c8342",
-   "title": {
-    "en": "Dog Soldier"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1927074,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -70,12 +59,35 @@
    ]
   },
   {
+   "id": "49c3a2e1-588a-4267-b4fc-4e57a81c8342",
+   "title": {
+    "en": "Dog Soldier"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19156322,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "de928b04-2a7f-43b2-b33e-04e1073415c3",
+   "title": {
+    "en": "Black Joke"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18902132,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "ef473f14-8c4d-435e-9015-b714512e69eb",
    "title": {
     "en": "Summoned Japan"
    },
    "contentRating": "suggestive",
-   "score": 0.19070768,
+   "score": 0.18890096,
    "languages": [
     "en",
     "id",
@@ -86,24 +98,12 @@
    ]
   },
   {
-   "id": "de928b04-2a7f-43b2-b33e-04e1073415c3",
-   "title": {
-    "en": "Black Joke"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18979087,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "03438804-f9b7-4748-be58-d120d5ffb8e6",
    "title": {
     "en": "Mujina in to The Deep"
    },
    "contentRating": "suggestive",
-   "score": 0.18423161,
+   "score": 0.18396933,
    "languages": [
     "uk",
     "en",
@@ -120,7 +120,7 @@
     "en": "Higanjima - 48 Nichigo"
    },
    "contentRating": "suggestive",
-   "score": 0.1831895,
+   "score": 0.18301368,
    "languages": [
     "en"
    ]
@@ -150,7 +150,7 @@
     "en": "The Hysteric Trigger"
    },
    "contentRating": "suggestive",
-   "score": 0.18019024,
+   "score": 0.17994174,
    "languages": [
     "en"
    ]
@@ -161,7 +161,7 @@
     "en": "Camgoroshi"
    },
    "contentRating": "suggestive",
-   "score": 0.17902002,
+   "score": 0.17840084,
    "languages": [
     "en"
    ]
@@ -172,7 +172,7 @@
     "en": "Mobile Suit Gundam: The battle tales of Flanagan Boone"
    },
    "contentRating": "suggestive",
-   "score": 0.1777516,
+   "score": 0.1771654,
    "languages": [
     "en"
    ]
@@ -183,13 +183,30 @@
     "en": "Drifters"
    },
    "contentRating": "suggestive",
-   "score": 0.17663506,
+   "score": 0.17621796,
    "languages": [
     "en",
     "pt-br",
     "tr",
     "hu",
     "es"
+   ]
+  },
+  {
+   "id": "255c1715-9a68-4e69-9647-ec833116e3d5",
+   "title": {
+    "en": "Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1752105,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "pt-br",
+    "zh-hk",
+    "id",
+    "ar"
    ]
   },
   {
@@ -208,18 +225,7 @@
     "id",
     "en"
    ]
-  },
-  {
-   "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
-   "title": {
-    "en": "TOKYO TRIBE"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17084783,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:58+00:00"
+ "updatedAt": "2023-12-10T18:32:59+00:00"
 }

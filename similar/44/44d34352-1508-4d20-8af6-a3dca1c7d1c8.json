@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fd77f868-bdfb-46e2-a0f5-e3c5ec0a1bf8",
+   "title": {
+    "en": "\"Shinde Miro\" to Iwareta no de Shinimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.29042876,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "fe0d8cda-c169-4b0f-9e37-c855d3083407",
    "title": {
     "en": "Lady Victorian"
@@ -28,12 +40,37 @@
    ]
   },
   {
+   "id": "0621ecc9-c098-4660-ab53-4816a2cadd29",
+   "title": {
+    "en": "Tendou-ke Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "hu"
+   ]
+  },
+  {
+   "id": "f2bece56-e868-41bd-90c0-3ace30d0b694",
+   "title": {
+    "en": "Mujikaku na Tensai Majutsushi ha Nonbiri Kurashitai"
+   },
+   "contentRating": "safe",
+   "score": 0.22853164,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "439a7f7e-c43c-4dca-871f-348ab672e72b",
    "title": {
     "en": "Usurai ni Saku"
    },
    "contentRating": "safe",
-   "score": 0.22665377,
+   "score": 0.22610132,
    "languages": [
     "en"
    ]
@@ -51,12 +88,24 @@
    ]
   },
   {
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
+   "title": {
+    "en": "Cold Game"
+   },
+   "contentRating": "safe",
+   "score": 0.21792257,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "fdcb49b8-44de-487a-a1dd-526c5ac9a4f9",
    "title": {
     "en": "Princess"
    },
    "contentRating": "safe",
-   "score": 0.21728837,
+   "score": 0.21671169,
    "languages": [
     "en"
    ]
@@ -67,7 +116,18 @@
     "en": "The Count's Daughter"
    },
    "contentRating": "safe",
-   "score": 0.21338381,
+   "score": 0.21272905,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0a69bdf0-ca18-4289-a05f-2d7a912eb9af",
+   "title": {
+    "en": "Kashura"
+   },
+   "contentRating": "safe",
+   "score": 0.21237706,
    "languages": [
     "en"
    ]
@@ -78,7 +138,7 @@
     "en": "Gu Fang Bu Zi Shang"
    },
    "contentRating": "safe",
-   "score": 0.21116617,
+   "score": 0.21112873,
    "languages": [
     "en"
    ]
@@ -89,34 +149,11 @@
     "en": "Kao no Nai Otoko"
    },
    "contentRating": "safe",
-   "score": 0.20708352,
+   "score": 0.20712331,
    "languages": [
     "pl",
     "en",
     "bg"
-   ]
-  },
-  {
-   "id": "2551579c-43dc-43f6-bed6-41f11d2e7e7c",
-   "title": {
-    "en": "Sayonara Kodomotachi"
-   },
-   "contentRating": "safe",
-   "score": 0.20586023,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "9e38d29f-1e4a-4aeb-b67b-7d9ce37df737",
-   "title": {
-    "en": "Chiro Star Project"
-   },
-   "contentRating": "safe",
-   "score": 0.20586023,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -133,63 +170,28 @@
    ]
   },
   {
-   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
+   "id": "9e38d29f-1e4a-4aeb-b67b-7d9ce37df737",
    "title": {
-    "en": "Hanamuko no Yakusoku"
+    "en": "Chiro Star Project"
    },
    "contentRating": "safe",
-   "score": 0.20161438,
+   "score": 0.20586023,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
    "title": {
-    "en": "Alpine Rose"
+    "en": "Detective Kouko Feels Melancholy"
    },
    "contentRating": "safe",
-   "score": 0.20161438,
+   "score": 0.20586023,
    "languages": [
     "en",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "25f349cc-47b8-4522-b7bb-cc179769d250",
-   "title": {
-    "en": "Peking Reijinshou"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
-   "title": {
-    "en": "Butterfly in the Air"
-   },
-   "contentRating": "safe",
-   "score": 0.19245009,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
-   "title": {
-    "en": "Tarou-kun wa Yuganderu"
-   },
-   "contentRating": "safe",
-   "score": 0.19245009,
-   "languages": [
-    "pl",
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:25+00:00"
+ "updatedAt": "2023-12-10T18:15:46+00:00"
 }

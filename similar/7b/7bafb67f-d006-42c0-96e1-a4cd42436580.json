@@ -11,7 +11,7 @@
     "en": "Amagoi no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.3944521,
+   "score": 0.39667395,
    "languages": [
     "en",
     "id",
@@ -25,7 +25,7 @@
     "en": "Truth"
    },
    "contentRating": "safe",
-   "score": 0.33711967,
+   "score": 0.34316218,
    "languages": [
     "en"
    ]
@@ -36,7 +36,7 @@
     "en": "Tsuyoki na Watashi no Semeta Ichinichi"
    },
    "contentRating": "safe",
-   "score": 0.33461022,
+   "score": 0.33843485,
    "languages": [
     "en",
     "hu",
@@ -45,26 +45,26 @@
    ]
   },
   {
-   "id": "bf5b6735-c79a-4122-9a68-204456be36f7",
-   "title": {
-    "en": "Tayutau Hanairo"
-   },
-   "contentRating": "safe",
-   "score": 0.32999474,
-   "languages": [
-    "en",
-    "ko"
-   ]
-  },
-  {
    "id": "b759e62c-0c3e-49a1-a4f0-3722ecfb6163",
    "title": {
     "en": "Anata To Watashi Wo Tsunagu Mono"
    },
    "contentRating": "safe",
-   "score": 0.3279591,
+   "score": 0.3348698,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "bf5b6735-c79a-4122-9a68-204456be36f7",
+   "title": {
+    "en": "Tayutau Hanairo"
+   },
+   "contentRating": "safe",
+   "score": 0.33231923,
+   "languages": [
+    "en",
+    "ko"
    ]
   },
   {
@@ -73,21 +73,9 @@
     "en": "Yuri Otaku Family"
    },
    "contentRating": "safe",
-   "score": 0.3168582,
+   "score": 0.31995073,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "41fbb0e5-5ac8-4ca2-acce-3a607e2dbc9d",
-   "title": {
-    "en": "Yuri Kiss Punishment Game"
-   },
-   "contentRating": "safe",
-   "score": 0.31333423,
-   "languages": [
-    "en",
-    "ko"
    ]
   },
   {
@@ -96,21 +84,22 @@
     "en": "Tada-san wa Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.31077716,
+   "score": 0.3151845,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "cacc44b3-f4d5-4b4a-808a-894477083b58",
+   "id": "41fbb0e5-5ac8-4ca2-acce-3a607e2dbc9d",
    "title": {
-    "en": "Afterschool Girl"
+    "en": "Yuri Kiss Punishment Game"
    },
    "contentRating": "safe",
-   "score": 0.3072046,
+   "score": 0.31455153,
    "languages": [
-    "en"
+    "en",
+    "ko"
    ]
   },
   {
@@ -119,7 +108,18 @@
     "en": "Hanagui"
    },
    "contentRating": "safe",
-   "score": 0.30501056,
+   "score": 0.30738232,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cacc44b3-f4d5-4b4a-808a-894477083b58",
+   "title": {
+    "en": "Afterschool Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.30697954,
    "languages": [
     "en"
    ]
@@ -130,7 +130,7 @@
     "en": ".traeH"
    },
    "contentRating": "safe",
-   "score": 0.2984945,
+   "score": 0.301853,
    "languages": [
     "en",
     "es-la",
@@ -138,13 +138,14 @@
    ]
   },
   {
-   "id": "f95e0e94-95e5-4420-a2d0-c2fde36c96e7",
+   "id": "f2284c8c-34e0-4935-af6a-ec32bbbd24f8",
    "title": {
-    "en": "It's OK / It's Embarrassing!"
+    "en": "Treatment Time"
    },
    "contentRating": "safe",
-   "score": 0.29761937,
+   "score": 0.30161864,
    "languages": [
+    "es",
     "en"
    ]
   },
@@ -154,20 +155,30 @@
     "en": "Watashi ga Riaru de, Yuri Nante."
    },
    "contentRating": "safe",
-   "score": 0.29673558,
+   "score": 0.29970464,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f2284c8c-34e0-4935-af6a-ec32bbbd24f8",
+   "id": "f95e0e94-95e5-4420-a2d0-c2fde36c96e7",
    "title": {
-    "en": "Treatment Time"
+    "en": "It's OK / It's Embarrassing!"
    },
    "contentRating": "safe",
-   "score": 0.29539675,
+   "score": 0.29951674,
    "languages": [
-    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "b05cefaa-a4b9-4deb-91c8-f0036ada781f",
+   "title": {
+    "en": "Yurizukushi no Kyoushitsu de"
+   },
+   "contentRating": "safe",
+   "score": 0.29516372,
+   "languages": [
     "en"
    ]
   },
@@ -177,23 +188,11 @@
     "en": "Rocks and Murderous Intents"
    },
    "contentRating": "safe",
-   "score": 0.2936263,
+   "score": 0.2939851,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "4951935e-8085-47d2-8ac2-34a61069c2f5",
-   "title": {
-    "en": "Heiwa na yuri manga series"
-   },
-   "contentRating": "safe",
-   "score": 0.28753987,
-   "languages": [
-    "en",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:43+00:00"
+ "updatedAt": "2023-12-10T18:21:51+00:00"
 }

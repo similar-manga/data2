@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "aef1cc5c-2506-4afa-96ca-b20dbf643466",
+   "title": {
+    "en": "Sokkuri Mate"
+   },
+   "contentRating": "safe",
+   "score": 0.27862117,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "d54b5ba8-17c9-4774-8fb9-98593ebdf8e8",
    "title": {
     "en": "Baby, Kokoro no Mama ni!"
    },
    "contentRating": "safe",
-   "score": 0.26131323,
+   "score": 0.26110527,
    "languages": [
     "id",
     "en",
@@ -20,39 +32,27 @@
    ]
   },
   {
-   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
-   "title": {
-    "en": "Defense Bakari no Koi ja dame!!"
-   },
-   "contentRating": "safe",
-   "score": 0.25572672,
-   "languages": [
-    "en",
-    "tr",
-    "pl"
-   ]
-  },
-  {
    "id": "3edc1fe2-5626-4e2a-9efa-10921d8b8d01",
    "title": {
     "en": "Hissing"
    },
    "contentRating": "safe",
-   "score": 0.25360367,
+   "score": 0.25300768,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "id": "daaaef53-9812-4a74-b968-2affdcc5841a",
    "title": {
-    "en": "Hana ni Kedamono"
+    "en": "Defense Bakari no Koi ja dame!!"
    },
    "contentRating": "safe",
-   "score": 0.2532483,
+   "score": 0.24731308,
    "languages": [
-    "pl",
-    "en"
+    "en",
+    "tr",
+    "pl"
    ]
   },
   {
@@ -61,7 +61,31 @@
     "en": "Snow Gift"
    },
    "contentRating": "safe",
-   "score": 0.24695987,
+   "score": 0.24674793,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "title": {
+    "en": "Hana ni Kedamono"
+   },
+   "contentRating": "safe",
+   "score": 0.2449087,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e8b28147-a921-495e-b9b7-4d1c517675aa",
+   "title": {
+    "en": "The Astrometry"
+   },
+   "contentRating": "safe",
+   "score": 0.24156283,
    "languages": [
     "pl",
     "en"
@@ -73,11 +97,26 @@
     "en": "Kawaii Oresama"
    },
    "contentRating": "safe",
-   "score": 0.24179979,
+   "score": 0.24145778,
    "languages": [
     "en",
     "bg",
     "pl"
+   ]
+  },
+  {
+   "id": "ed0fd97a-9684-4be8-98b3-08fc0b9bde30",
+   "title": {
+    "en": "Play It Cool, Guys"
+   },
+   "contentRating": "safe",
+   "score": 0.23375043,
+   "languages": [
+    "es-la",
+    "pl",
+    "vi",
+    "ru",
+    "fr"
    ]
   },
   {
@@ -92,6 +131,19 @@
    ]
   },
   {
+   "id": "53693fc4-0841-4a38-9d87-2dc032b156ce",
+   "title": {
+    "en": "Mairunovich"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
    "id": "699e0ce3-5d42-41bd-853f-f9c2f57fc132",
    "title": {
     "en": "Futari Awasete Puramai Zero"
@@ -100,6 +152,17 @@
    "score": 0.23328476,
    "languages": [
     "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
+   "title": {
+    "en": "Koigokoro Senpukuchuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "pl"
    ]
   },
@@ -131,30 +194,6 @@
    ]
   },
   {
-   "id": "53693fc4-0841-4a38-9d87-2dc032b156ce",
-   "title": {
-    "en": "Mairunovich"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
-   "title": {
-    "en": "Koigokoro Senpukuchuu"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
    "id": "e58beabb-c2fd-4d2e-adac-a7ecb2c4d049",
    "title": {
     "en": "Ramune Bannouyaku"
@@ -165,41 +204,7 @@
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "59156bc0-42c8-4570-a496-242847e9680d",
-   "title": {
-    "en": "Otouto wo Kareshi ni Suru Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.22584431,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "d5bf841c-b59f-4a83-afc3-cd1dec38dc6f",
-   "title": {
-    "en": "Bye Bye Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.22441575,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "dd2fd269-4294-466c-8346-31fecf49e286",
-   "title": {
-    "en": "18 Years Old, We Got Married"
-   },
-   "contentRating": "safe",
-   "score": 0.22131391,
-   "languages": [
-    "pl",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:39+00:00"
+ "updatedAt": "2023-12-10T18:26:59+00:00"
 }

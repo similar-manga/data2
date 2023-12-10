@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
+   "title": {
+    "en": "Arcana+ 01 - Boys in Uniform"
+   },
+   "contentRating": "safe",
+   "score": 0.4250076,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f439d590-c766-4874-9a92-4389a96b50dc",
    "title": {
     "en": "Arcana 10 - Conflict / Secret Societies"
    },
    "contentRating": "safe",
-   "score": 0.3395003,
+   "score": 0.34666005,
    "languages": [
     "en",
     "it"
@@ -23,7 +34,7 @@
     "en": "Arcana 07 - Wizard / Magician"
    },
    "contentRating": "safe",
-   "score": 0.31098497,
+   "score": 0.3178384,
    "languages": [
     "en",
     "fr",
@@ -36,7 +47,7 @@
     "en": "Arcana 15 - School / Uniform"
    },
    "contentRating": "safe",
-   "score": 0.301211,
+   "score": 0.30549952,
    "languages": [
     "en"
    ]
@@ -47,7 +58,7 @@
     "en": "Arcana 13 - Love / Reverse Harem"
    },
    "contentRating": "safe",
-   "score": 0.29702297,
+   "score": 0.3032968,
    "languages": [
     "en"
    ]
@@ -58,7 +69,7 @@
     "en": "Arcana 09 - Transformation☆Personification"
    },
    "contentRating": "safe",
-   "score": 0.2712769,
+   "score": 0.27596715,
    "languages": [
     "en",
     "pl",
@@ -72,8 +83,21 @@
     "en": "Arcana 11 - Time Travel / Time Traveller"
    },
    "contentRating": "safe",
-   "score": 0.26108631,
+   "score": 0.26658338,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a52cb19a-ad9b-4b9d-917c-daac427d8105",
+   "title": {
+    "en": "Arcana 05 - Japanese Style / Samurai"
+   },
+   "contentRating": "safe",
+   "score": 0.25312465,
+   "languages": [
+    "hu",
+    "fr",
     "en"
    ]
   },
@@ -83,24 +107,11 @@
     "en": "Arcana 12 - Demons"
    },
    "contentRating": "safe",
-   "score": 0.24662189,
+   "score": 0.2509268,
    "languages": [
     "fr",
     "en",
     "it"
-   ]
-  },
-  {
-   "id": "a52cb19a-ad9b-4b9d-917c-daac427d8105",
-   "title": {
-    "en": "Arcana 05 - Japanese Style / Samurai"
-   },
-   "contentRating": "safe",
-   "score": 0.24543534,
-   "languages": [
-    "hu",
-    "fr",
-    "en"
    ]
   },
   {
@@ -109,7 +120,7 @@
     "en": "Arcana 16 - Fairy Tales / Nursery Tales"
    },
    "contentRating": "safe",
-   "score": 0.2397424,
+   "score": 0.24692096,
    "languages": [
     "en",
     "hu",
@@ -123,7 +134,7 @@
     "en": "Arcana 14 - Ninja"
    },
    "contentRating": "safe",
-   "score": 0.20694593,
+   "score": 0.21240835,
    "languages": [
     "en"
    ]
@@ -142,9 +153,31 @@
    ]
   },
   {
-   "id": "c4902990-e320-4ab5-b9a9-7287294fac8e",
+   "id": "a7699b17-7cf8-4433-91a7-b15f4e105125",
    "title": {
-    "en": "Arcana+ 01 - Boys in Uniform"
+    "en": "Meoto Safari"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "99061fd7-c0cc-4a6a-ad28-f2bfa9434f07",
+   "title": {
+    "en": "Koi Monogatari Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d91dcec2-7059-4f3f-b99e-5ecb4a4f6a85",
+   "title": {
+    "en": "Yoru no Osomatsu-san ~ jinsei dai bakuchi!"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -162,41 +195,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
-   "title": {
-    "en": "Café Velomano"
-   },
-   "contentRating": "safe",
-   "score": 0.17341179,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9328d48-4534-4612-af45-62b5b9477d14",
-   "title": {
-    "en": "Goshujinsama ni Amai Ringo no Okashi"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "40a2f7ce-723b-4270-82c0-03d7b5c98ef1",
-   "title": {
-    "en": "Toribako House"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:42+00:00"
+ "updatedAt": "2023-12-10T18:13:45+00:00"
 }

@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "39b099b5-8ef8-40ab-b844-71172228e3fb",
+   "title": {
+    "en": "Shinsengumi's clown Shinsengumi's first director, Kamo Serizawa story"
+   },
+   "contentRating": "safe",
+   "score": 0.61647713
+  },
+  {
+   "id": "df474fe4-d965-47d6-b593-ef002b6e2328",
+   "title": {
+    "en": "Mibu no Ookami, Neko wo Kau"
+   },
+   "contentRating": "safe",
+   "score": 0.36368823
+  },
+  {
    "id": "4ac57875-68fc-4666-927c-9a2e7f34cf1f",
    "title": {
     "en": "Peace Maker Kurogane"
    },
    "contentRating": "safe",
-   "score": 0.28169894,
+   "score": 0.27346328,
    "languages": [
     "en"
    ]
@@ -22,7 +38,7 @@
     "en": "Shinsengumi Chuubou Roku"
    },
    "contentRating": "safe",
-   "score": 0.2759858,
+   "score": 0.2706537,
    "languages": [
     "en"
    ]
@@ -33,7 +49,7 @@
     "en": "Wild Boy Isamu"
    },
    "contentRating": "safe",
-   "score": 0.26334202
+   "score": 0.2630843
   },
   {
    "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
@@ -41,7 +57,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.26044503,
+   "score": 0.2593825,
    "languages": [
     "en",
     "fr",
@@ -56,7 +72,7 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.2557537
+   "score": 0.25645953
   },
   {
    "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
@@ -68,6 +84,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ed6fa256-9093-46e8-b709-c04a4811e371",
+   "title": {
+    "en": "New Ronin Warriors"
+   },
+   "contentRating": "safe",
+   "score": 0.21579999
   },
   {
    "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
@@ -89,79 +113,50 @@
    "score": 0.20731121
   },
   {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.20722856
+  },
+  {
+   "id": "9d3404c2-e4a0-4cde-b358-7d589915d93e",
+   "title": {
+    "en": "Ronin Warriors"
+   },
+   "contentRating": "safe",
+   "score": 0.20659477
+  },
+  {
+   "id": "947cdce5-182e-4ff3-9484-218c638e88ac",
+   "title": {
+    "en": "Ao no Miburo"
+   },
+   "contentRating": "safe",
+   "score": 0.20547125,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b05b17cd-63af-47ff-994d-e2cf6974a440",
+   "title": {
+    "en": "Tenma Tenpei"
+   },
+   "contentRating": "safe",
+   "score": 0.2053045
+  },
+  {
    "id": "7950fea7-56e2-422b-b3e1-37b9d5d6f28f",
    "title": {
     "en": "Kennedy Knights"
    },
    "contentRating": "safe",
    "score": 0.20255432
-  },
-  {
-   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
-   "title": {
-    "en": "Tuberculose"
-   },
-   "contentRating": "safe",
-   "score": 0.19931494
-  },
-  {
-   "id": "553f2052-6320-4657-a5f1-ef5713d73be2",
-   "title": {
-    "en": "21st Century Adventure"
-   },
-   "contentRating": "safe",
-   "score": 0.19685425
-  },
-  {
-   "id": "224db38f-3582-4f1f-b211-66929b9cdb7a",
-   "title": {
-    "en": "Final Fantasy Type-0"
-   },
-   "contentRating": "safe",
-   "score": 0.19622833
-  },
-  {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
-   "title": {
-    "en": "Cyborg 009"
-   },
-   "contentRating": "safe",
-   "score": 0.19427353,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
-   "title": {
-    "en": "Teito Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19191976
-  },
-  {
-   "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
-   "title": {
-    "en": "Barefoot Gen"
-   },
-   "contentRating": "safe",
-   "score": 0.19151747,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e7fcbe3-eb73-41b4-90c8-d3f415a1a20a",
-   "title": {
-    "en": "Ragouden"
-   },
-   "contentRating": "safe",
-   "score": 0.19136006,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:47+00:00"
+ "updatedAt": "2023-12-10T18:19:18+00:00"
 }

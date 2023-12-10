@@ -11,7 +11,7 @@
     "en": "Red House"
    },
    "contentRating": "safe",
-   "score": 0.22578846,
+   "score": 0.22323439,
    "languages": [
     "fr",
     "ro",
@@ -22,12 +22,31 @@
    ]
   },
   {
+   "id": "d55ad7f6-405d-4ae5-8081-6344204bcc8a",
+   "title": {
+    "en": "Doyoubi no Ehon"
+   },
+   "contentRating": "safe",
+   "score": 0.22095303
+  },
+  {
    "id": "64e7b9a0-2725-4f25-ba4a-35eb42d58507",
    "title": {
     "en": "The Dreadful Marionettes"
    },
    "contentRating": "safe",
-   "score": 0.2196364
+   "score": 0.21903087
+  },
+  {
+   "id": "98bc359e-dac7-4f06-8335-bdd6602292bb",
+   "title": {
+    "en": "Dark Green"
+   },
+   "contentRating": "safe",
+   "score": 0.20840593,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
@@ -35,10 +54,18 @@
     "en": "Dress-up Yuka-chan"
    },
    "contentRating": "safe",
-   "score": 0.20146821,
+   "score": 0.20273437,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "title": {
+    "en": "Harp of the Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.1981898
   },
   {
    "id": "1dbbb0c2-2fa7-4140-828e-2f8ffcd3326d",
@@ -52,12 +79,12 @@
    ]
   },
   {
-   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "id": "68b74b8c-3a65-4602-a492-6b12fad4b8bc",
    "title": {
-    "en": "Harp of the Stars"
+    "en": "Kintoki-san"
    },
    "contentRating": "safe",
-   "score": 0.19732459
+   "score": 0.19582115
   },
   {
    "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
@@ -65,7 +92,7 @@
     "en": "Mane of the Wind"
    },
    "contentRating": "safe",
-   "score": 0.19479099,
+   "score": 0.19503325,
    "languages": [
     "en"
    ]
@@ -82,14 +109,43 @@
    ]
   },
   {
-   "id": "e6d41077-a921-43d8-a353-1bfdfb331ba7",
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
    "title": {
-    "en": "The Glacier of No Return"
+    "en": "Zekkyou Gakkyuu Tensei"
    },
    "contentRating": "safe",
-   "score": 0.18679152,
+   "score": 0.1915519,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7432ad39-3868-40a4-8063-2280f4163454",
+   "title": {
+    "en": "Lonely Ruka"
+   },
+   "contentRating": "safe",
+   "score": 0.18899553
+  },
+  {
+   "id": "515f9c8d-1ea7-45c7-8c52-a083953ad3c7",
+   "title": {
+    "en": "4x4 ~Otonari-san wa 4B Danshi~"
+   },
+   "contentRating": "safe",
+   "score": 0.18826115
+  },
+  {
+   "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
+   "title": {
+    "en": "High School Debut"
+   },
+   "contentRating": "safe",
+   "score": 0.18679178,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -107,70 +163,16 @@
    ]
   },
   {
-   "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
+   "id": "e6d41077-a921-43d8-a353-1bfdfb331ba7",
    "title": {
-    "en": "High School Debut"
+    "en": "The Glacier of No Return"
    },
    "contentRating": "safe",
-   "score": 0.18663366,
+   "score": 0.18679152,
    "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
-   "title": {
-    "en": "Lady Lizard"
-   },
-   "contentRating": "safe",
-   "score": 0.18109809
-  },
-  {
-   "id": "7e5e72a5-9c42-4c9b-861c-ab17274d0f88",
-   "title": {
-    "en": "White Snake Manor"
-   },
-   "contentRating": "safe",
-   "score": 0.1809212
-  },
-  {
-   "id": "b904d62a-ec59-4a3b-a5e7-dac29285d88a",
-   "title": {
-    "en": "White Snake Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.17827775
-  },
-  {
-   "id": "163a7ebc-ff76-454d-a02b-d306b21017d5",
-   "title": {
-    "en": "Cologne Policeman Odo"
-   },
-   "contentRating": "safe",
-   "score": 0.17786674
-  },
-  {
-   "id": "bbd2a7c5-e0a0-44bd-bae6-9e56ee7d7d11",
-   "title": {
-    "en": "The Dark Academy of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.17668061
-  },
-  {
-   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
-   "title": {
-    "en": "Hatenkou Yuugi"
-   },
-   "contentRating": "safe",
-   "score": 0.17568497,
-   "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:28+00:00"
+ "updatedAt": "2023-12-10T18:18:26+00:00"
 }

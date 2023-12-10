@@ -11,7 +11,7 @@
     "en": "Demi-Gods and Semi-Devils"
    },
    "contentRating": "safe",
-   "score": 0.41970935
+   "score": 0.41721186
   },
   {
    "id": "a57b24e7-3a55-499c-b628-a6c097a28a44",
@@ -19,7 +19,7 @@
     "en": "Ode to Gallantry"
    },
    "contentRating": "safe",
-   "score": 0.40949264
+   "score": 0.4058207
   },
   {
    "id": "58359390-ed36-4f82-ad0f-e5df1fdae34e",
@@ -27,7 +27,7 @@
     "en": "Flying Fox of Snowy Mountain"
    },
    "contentRating": "safe",
-   "score": 0.3552744
+   "score": 0.35489
   },
   {
    "id": "4a62de28-fa71-4872-b8f1-028fa30a5d31",
@@ -35,8 +35,20 @@
     "en": "The Smiling, Proud Wanderer"
    },
    "contentRating": "safe",
-   "score": 0.331193,
+   "score": 0.32673904,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cba5dadb-0d76-42b6-aab1-723355e7285d",
+   "title": {
+    "en": "Demi-Gods and Semi-Devils"
+   },
+   "contentRating": "safe",
+   "score": 0.27704716,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -46,7 +58,7 @@
     "en": "The Ravages of Time"
    },
    "contentRating": "safe",
-   "score": 0.23131458,
+   "score": 0.23059282,
    "languages": [
     "pt-br",
     "en",
@@ -62,8 +74,20 @@
     "en": "Jitsuryokuha Elite Jin"
    },
    "contentRating": "safe",
-   "score": 0.22460952,
+   "score": 0.22330855,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "88ef0fc7-3325-494f-9d3a-3f891ad7afdc",
+   "title": {
+    "en": "Prince Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.22294477,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -73,7 +97,15 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.2237972
+   "score": 0.2217232
+  },
+  {
+   "id": "643b86ad-0e88-4ca2-99f0-e48651ade159",
+   "title": {
+    "en": "Yong Sheng"
+   },
+   "contentRating": "safe",
+   "score": 0.21900915
   },
   {
    "id": "66400137-fce8-4240-8a7c-8b25624b49a6",
@@ -88,98 +120,61 @@
    ]
   },
   {
-   "id": "42894459-c805-4110-a332-00d4bc9bff39",
+   "id": "b4441847-6e9d-45b7-ac3f-fe7832e27821",
    "title": {
-    "en": "Tobenai Washi Ouji"
+    "en": "Blades of the Guardians"
    },
    "contentRating": "safe",
-   "score": 0.21312122,
+   "score": 0.21814059,
    "languages": [
-    "pl",
-    "en"
+    "ru",
+    "en",
+    "id",
+    "it",
+    "pt-br"
    ]
   },
   {
-   "id": "e0135826-984b-4d61-a8e0-439db57990c5",
+   "id": "265dc5b0-e00c-4bda-b151-703e5b12f63a",
    "title": {
-    "en": "Ravenend no Hitobito"
+    "en": "The Book and The Sword"
    },
    "contentRating": "safe",
-   "score": 0.21263349
+   "score": 0.21760935
   },
   {
-   "id": "45aa8f26-3985-4c9a-bd2b-40c3e1242a77",
+   "id": "f175bd1b-648d-4fea-9d89-409fab589e51",
    "title": {
-    "en": "Heroes of the Spring and Autumn"
+    "en": "World Heroes"
    },
    "contentRating": "safe",
-   "score": 0.20839117,
-   "languages": [
-    "en"
-   ]
+   "score": 0.210988
   },
   {
-   "id": "c92c0ff2-f076-4258-a4f5-002a84574890",
+   "id": "3397fcf6-18bb-4983-8daa-2b0ccd79487e",
    "title": {
-    "en": "The Legend of Genghis"
+    "en": "Shen Yin Wang Zuo"
    },
    "contentRating": "safe",
-   "score": 0.20792454,
+   "score": 0.2103036,
    "languages": [
-    "pl",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "9510e82e-cfbe-4dda-823e-e3576420c732",
-   "title": {
-    "en": "Song of the Long March"
-   },
-   "contentRating": "safe",
-   "score": 0.20214875,
-   "languages": [
+    "en",
     "pt-br",
-    "pl",
-    "en",
-    "id"
+    "fr",
+    "pl"
    ]
   },
   {
-   "id": "7a4ff526-0aea-432b-872c-863493525ddf",
+   "id": "e37d99ef-efe9-4cdb-b62d-ce2e14ba6d1d",
    "title": {
-    "en": "Hero Company"
+    "en": "The Ace Undercover of Southern Song"
    },
    "contentRating": "safe",
-   "score": 0.19575952,
+   "score": 0.2092842,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e3e27a5b-d766-428d-9b81-59e60fe6eac6",
-   "title": {
-    "en": "Resurrection of Reiki – Awakening of the God-Slaying Eye"
-   },
-   "contentRating": "safe",
-   "score": 0.19333515,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.19113424,
-   "languages": [
-    "en",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:31+00:00"
+ "updatedAt": "2023-12-10T18:16:02+00:00"
 }

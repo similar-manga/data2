@@ -11,7 +11,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.26223263,
+   "score": 0.26158714,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.2262159,
+   "score": 0.22621751,
    "languages": [
     "en"
    ]
@@ -60,7 +60,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.21189724,
+   "score": 0.21107274,
    "languages": [
     "pt-br",
     "es",
@@ -82,6 +82,26 @@
    "score": 0.2057983,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.20244092,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -107,17 +127,6 @@
    ]
   },
   {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.19523743,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
@@ -129,12 +138,34 @@
    ]
   },
   {
+   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
+   "title": {
+    "en": "Mobile Suit Gundam Aggressor"
+   },
+   "contentRating": "safe",
+   "score": 0.19523743,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.19215733,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.19189711,
+   "score": 0.19213359,
    "languages": [
     "id",
     "en",
@@ -160,7 +191,7 @@
     "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
    },
    "contentRating": "safe",
-   "score": 0.19153883,
+   "score": 0.19132215,
    "languages": [
     "en"
    ]
@@ -171,7 +202,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.1901092,
+   "score": 0.18999268,
    "languages": [
     "ru",
     "tr",
@@ -189,35 +220,12 @@
     "en": "Shin Kamen Rider - Prologue"
    },
    "contentRating": "safe",
-   "score": 0.1891294,
+   "score": 0.1895458,
    "languages": [
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.18864845,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e176426-0928-4fe0-b4b9-5f4e5ca994a1",
-   "title": {
-    "en": "Mega Man X5 IF"
-   },
-   "contentRating": "safe",
-   "score": 0.18855675,
-   "languages": [
-    "en",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:54+00:00"
+ "updatedAt": "2023-12-10T18:08:45+00:00"
 }

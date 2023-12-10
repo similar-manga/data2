@@ -11,7 +11,7 @@
     "en": "Elemental"
    },
    "contentRating": "safe",
-   "score": 0.3281727,
+   "score": 0.3293512,
    "languages": [
     "en",
     "it"
@@ -23,7 +23,7 @@
     "en": "Sakura Omoi"
    },
    "contentRating": "safe",
-   "score": 0.30839798,
+   "score": 0.31572777,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "God Virgin"
    },
    "contentRating": "safe",
-   "score": 0.2975866,
+   "score": 0.2964463,
    "languages": [
     "en",
     "pt-br",
@@ -47,10 +47,21 @@
     "en": "Saigo no Negai ~Last Pray~"
    },
    "contentRating": "safe",
-   "score": 0.2921389,
+   "score": 0.29278612,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "54dc90bd-01b5-44d0-97a3-7a6caf0ed2f1",
+   "title": {
+    "en": "Bokura no Hana no Saku Koro no"
+   },
+   "contentRating": "safe",
+   "score": 0.2876193,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -61,6 +72,18 @@
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
+   "title": {
+    "en": "Taiyou no Yuki"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -77,35 +100,12 @@
    ]
   },
   {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "54dc90bd-01b5-44d0-97a3-7a6caf0ed2f1",
-   "title": {
-    "en": "Bokura no Hana no Saku Koro no"
-   },
-   "contentRating": "safe",
-   "score": 0.2852839,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "06749feb-aa8d-4eb0-a027-120137839eea",
    "title": {
     "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.28418472,
+   "score": 0.28390312,
    "languages": [
     "pl",
     "en"
@@ -117,7 +117,7 @@
     "en": "Akai Ito"
    },
    "contentRating": "safe",
-   "score": 0.27729893,
+   "score": 0.27733353,
    "languages": [
     "pt-br",
     "en",
@@ -131,18 +131,7 @@
     "en": "Hajimari no Haru"
    },
    "contentRating": "safe",
-   "score": 0.27416915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
-   "title": {
-    "en": "a cup of..."
-   },
-   "contentRating": "safe",
-   "score": 0.26885396,
+   "score": 0.2749921,
    "languages": [
     "en"
    ]
@@ -153,9 +142,20 @@
     "en": "Zen'yasai Patroller"
    },
    "contentRating": "safe",
-   "score": 0.26849565,
+   "score": 0.26951882,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
+   "title": {
+    "en": "a cup of..."
+   },
+   "contentRating": "safe",
+   "score": 0.26885185,
+   "languages": [
     "en"
    ]
   },
@@ -165,7 +165,7 @@
     "en": "Usurai ni Saku"
    },
    "contentRating": "safe",
-   "score": 0.26822767,
+   "score": 0.26870546,
    "languages": [
     "en"
    ]
@@ -176,28 +176,27 @@
     "en": "Dare mo Shiranai 29-nichi"
    },
    "contentRating": "safe",
-   "score": 0.26475844,
+   "score": 0.2647639,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
+   "id": "76bd239e-0651-40e6-b6be-72896af6c077",
    "title": {
-    "en": "Kon no Ki Konoha"
+    "en": "Haru no Ongaeshi"
    },
    "contentRating": "safe",
-   "score": 0.26082027,
+   "score": 0.26102564,
    "languages": [
-    "fr",
+    "en",
     "id",
     "pt-br",
-    "en",
-    "pl",
-    "ca",
-    "uk"
+    "tr",
+    "fr",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:51+00:00"
+ "updatedAt": "2023-12-10T18:19:30+00:00"
 }

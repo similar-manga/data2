@@ -11,7 +11,7 @@
     "en": "Together During Summer, Too"
    },
    "contentRating": "safe",
-   "score": 0.38761228,
+   "score": 0.38530132,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "White Day"
    },
    "contentRating": "safe",
-   "score": 0.3712359,
+   "score": 0.37303087,
    "languages": [
     "bg",
     "pl",
@@ -35,7 +35,7 @@
     "en": "Best Couple"
    },
    "contentRating": "safe",
-   "score": 0.32704896,
+   "score": 0.32538915,
    "languages": [
     "en"
    ]
@@ -46,18 +46,7 @@
     "en": "Ano Ko ni Kubittake"
    },
    "contentRating": "safe",
-   "score": 0.32079598,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
-   "title": {
-    "en": "a cup of..."
-   },
-   "contentRating": "safe",
-   "score": 0.31789964,
+   "score": 0.3196911,
    "languages": [
     "en"
    ]
@@ -68,7 +57,7 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.3167216,
+   "score": 0.31645364,
    "languages": [
     "en",
     "pl",
@@ -76,12 +65,23 @@
    ]
   },
   {
-   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
+   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
    "title": {
-    "en": "Liar Kiss"
+    "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.31253546,
+   "score": 0.31501436,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "669f6453-5639-4db0-be17-8ce743066cb3",
+   "title": {
+    "en": "Two Cups of Coffee"
+   },
+   "contentRating": "safe",
+   "score": 0.31160352,
    "languages": [
     "pl",
     "en"
@@ -93,32 +93,21 @@
     "en": "Chupa!"
    },
    "contentRating": "safe",
-   "score": 0.3121348,
+   "score": 0.31075385,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "669f6453-5639-4db0-be17-8ce743066cb3",
+   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
    "title": {
-    "en": "Two Cups of Coffee"
+    "en": "Liar Kiss"
    },
    "contentRating": "safe",
-   "score": 0.31168577,
+   "score": 0.30967277,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a6588032-93ef-4074-82d0-2ba684125227",
-   "title": {
-    "en": "Android Dilemma"
-   },
-   "contentRating": "safe",
-   "score": 0.30873245,
-   "languages": [
     "en"
    ]
   },
@@ -128,7 +117,18 @@
     "en": "Itsuwari Darling"
    },
    "contentRating": "safe",
-   "score": 0.30836907,
+   "score": 0.30954474,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a6588032-93ef-4074-82d0-2ba684125227",
+   "title": {
+    "en": "Android Dilemma"
+   },
+   "contentRating": "safe",
+   "score": 0.30800825,
    "languages": [
     "en"
    ]
@@ -139,35 +139,22 @@
     "en": "Hand-in-Hand Lovers"
    },
    "contentRating": "safe",
-   "score": 0.30658674,
+   "score": 0.30791178,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "5cde5e14-9f70-4599-97c6-15d40d22cf2c",
+   "id": "2cb7b6df-4eeb-4f91-af76-af5bf3f6032b",
    "title": {
-    "en": "A Holy Night to the Lost Lamb"
+    "en": "Distance Between You and Me"
    },
    "contentRating": "safe",
-   "score": 0.30640355,
+   "score": 0.3075772,
    "languages": [
-    "en",
     "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "17db0011-4667-493f-936f-fe4ba1e7d6f7",
-   "title": {
-    "en": "Hairstyle Amanojaku Shiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.30593348,
-   "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -176,7 +163,7 @@
     "en": "Shitteru Kimochi, Shiranai Karada"
    },
    "contentRating": "safe",
-   "score": 0.30507043,
+   "score": 0.30706343,
    "languages": [
     "es-la",
     "en",
@@ -184,17 +171,30 @@
    ]
   },
   {
-   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
+   "id": "17db0011-4667-493f-936f-fe4ba1e7d6f7",
    "title": {
-    "en": "Kimi Hayate"
+    "en": "Hairstyle Amanojaku Shiyou"
    },
    "contentRating": "safe",
-   "score": 0.30055755,
+   "score": 0.3060615,
    "languages": [
-    "es",
-    "en"
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5cde5e14-9f70-4599-97c6-15d40d22cf2c",
+   "title": {
+    "en": "A Holy Night to the Lost Lamb"
+   },
+   "contentRating": "safe",
+   "score": 0.30557436,
+   "languages": [
+    "en",
+    "pl",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:34+00:00"
+ "updatedAt": "2023-12-10T18:13:24+00:00"
 }

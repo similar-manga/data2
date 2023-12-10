@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "39479a44-35ff-46d1-9ecd-bd82fba8cfb0",
-   "title": {
-    "en": "Hime-chan no Ribbon Colorful"
-   },
-   "contentRating": "safe",
-   "score": 0.3252797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fb6af183-14a9-4fbb-ac14-991e3e616ca9",
    "title": {
     "en": "00 Day of Summer Holiday"
    },
    "contentRating": "safe",
-   "score": 0.324421,
+   "score": 0.33255973,
    "languages": [
     "pl",
     "bg",
@@ -31,12 +20,23 @@
    ]
   },
   {
+   "id": "39479a44-35ff-46d1-9ecd-bd82fba8cfb0",
+   "title": {
+    "en": "Hime-chan no Ribbon Colorful"
+   },
+   "contentRating": "safe",
+   "score": 0.32368362,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cb59b4ab-f9a1-4616-af39-7eb030b94559",
    "title": {
     "en": "City of Dreams"
    },
    "contentRating": "safe",
-   "score": 0.30643937,
+   "score": 0.3058923,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Angel Time"
    },
    "contentRating": "safe",
-   "score": 0.27398428,
+   "score": 0.27454096,
    "languages": [
     "pt-br",
     "en"
@@ -70,7 +70,31 @@
     "en": "Natsumeki!!"
    },
    "contentRating": "safe",
-   "score": 0.27125022,
+   "score": 0.2717391,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "111def2b-df21-4b46-981e-cd972b7780e5",
+   "title": {
+    "en": "Hatsukoi wa Nido Oishii"
+   },
+   "contentRating": "safe",
+   "score": 0.27101606,
+   "languages": [
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "a3f5b651-8b31-404b-990e-703ed78bffcc",
+   "title": {
+    "en": "Kojin Jugyou"
+   },
+   "contentRating": "safe",
+   "score": 0.26726556,
    "languages": [
     "en"
    ]
@@ -81,7 +105,7 @@
     "en": "Mysterious Alice"
    },
    "contentRating": "safe",
-   "score": 0.26417193,
+   "score": 0.26334387,
    "languages": [
     "fr",
     "en"
@@ -93,21 +117,60 @@
     "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.25925553,
+   "score": 0.26238596,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6c894f65-57eb-4ea0-9aeb-eda31322238d",
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
    "title": {
-    "en": "5 Cats"
+    "en": "1-ko Shita kara, Kiss Sasete."
    },
    "contentRating": "safe",
-   "score": 0.25731343,
+   "score": 0.26111582,
    "languages": [
+    "vi",
     "en",
-    "ru"
+    "es"
+   ]
+  },
+  {
+   "id": "3855cf91-0a14-4f42-a598-349da1d0d12e",
+   "title": {
+    "en": "Hana wa Docchida"
+   },
+   "contentRating": "safe",
+   "score": 0.26057485,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dc877a4e-ce68-43fc-b7c1-9ca64966ccd9",
+   "title": {
+    "en": "Mahousekai no Uketsukejou ni Naritai desu!"
+   },
+   "contentRating": "safe",
+   "score": 0.25840023,
+   "languages": [
+    "pt-br",
+    "de",
+    "en",
+    "vi",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "7b66e0d9-768a-4f68-9640-027516be8a76",
+   "title": {
+    "en": "Osananajimi Ni Koishitara"
+   },
+   "contentRating": "safe",
+   "score": 0.25634655,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -116,79 +179,23 @@
     "en": "Joousama no Shirousagi"
    },
    "contentRating": "safe",
-   "score": 0.25586542,
+   "score": 0.2556593,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "de945f1f-d73d-4160-b2ef-0af000affec2",
+   "id": "aae1d0b5-1d98-4d7d-acc7-76a638af59bc",
    "title": {
-    "en": "My Beast"
+    "en": "Nurse Angel Ririka SOS"
    },
    "contentRating": "safe",
-   "score": 0.25277352,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9c141b59-00ac-467b-93cb-164644b6c60c",
-   "title": {
-    "en": "Hitotsu no Shigusa mo"
-   },
-   "contentRating": "safe",
-   "score": 0.25104508,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "90973f4b-b1b0-4b58-b9cf-85e38df41779",
-   "title": {
-    "en": "To Attract a Junior"
-   },
-   "contentRating": "safe",
-   "score": 0.25092053,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "22520fbd-2dfe-4328-9cee-0075b95180fc",
-   "title": {
-    "en": "Love Probation Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.25020382,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
-   "title": {
-    "en": "Like to Be Ordinary!"
-   },
-   "contentRating": "safe",
-   "score": 0.24992652,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d29eae50-8d3f-40ce-9b19-2711f7fe3015",
-   "title": {
-    "en": "Kaze no Yubiwa to Hikari no Udewa"
-   },
-   "contentRating": "safe",
-   "score": 0.24899358,
+   "score": 0.25511566,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:57+00:00"
+ "updatedAt": "2023-12-10T18:17:08+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Boukyaku no Cradle"
    },
    "contentRating": "safe",
-   "score": 0.23796335,
+   "score": 0.23632644,
    "languages": [
     "en"
    ]
@@ -40,12 +40,23 @@
    ]
   },
   {
+   "id": "1273b185-9076-47f7-be4e-5f0e6c74a61f",
+   "title": {
+    "en": "Sayonara, Children"
+   },
+   "contentRating": "safe",
+   "score": 0.22796,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
    "title": {
     "en": "Tarou-kun wa Yuganderu"
    },
    "contentRating": "safe",
-   "score": 0.22848694,
+   "score": 0.22673275,
    "languages": [
     "pl",
     "en"
@@ -82,13 +93,16 @@
    ]
   },
   {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
+   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
    "title": {
-    "en": "Atrocious Fairy Tales for Adults"
+    "en": "Watashi-tachi wa Douka shiteiru"
    },
    "contentRating": "safe",
-   "score": 0.21664932,
+   "score": 0.21757528,
    "languages": [
+    "pt-br",
+    "ru",
+    "es-la",
     "en"
    ]
   },
@@ -98,7 +112,40 @@
     "en": "Space Ship EE"
    },
    "contentRating": "safe",
-   "score": 0.21126622,
+   "score": 0.21724099,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
+   "title": {
+    "en": "Atrocious Fairy Tales for Adults"
+   },
+   "contentRating": "safe",
+   "score": 0.21620262,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.21400395,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b8d4e5b-20f5-42ee-985a-cb66ab1af7f9",
+   "title": {
+    "en": "Madame Joker"
+   },
+   "contentRating": "safe",
+   "score": 0.21341243,
    "languages": [
     "en"
    ]
@@ -116,17 +163,6 @@
    ]
   },
   {
-   "id": "0b872545-046c-4db5-abed-e1bfea2c6132",
-   "title": {
-    "en": "Floral Mirror of the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
    "title": {
     "en": "Mu-kai"
@@ -140,60 +176,36 @@
    ]
   },
   {
-   "id": "a63c9e4a-ab88-4585-8c31-9d2e0158f1c7",
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
    "title": {
-    "en": "Shinjigen Ascension"
+    "en": "Yuukoku no Moriarty"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
-    "en"
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "uk",
+    "ar",
+    "tr",
+    "vi",
+    "hu"
    ]
   },
   {
-   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
    "title": {
-    "en": "Succeed"
+    "en": "Detective Kouko Feels Melancholy"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0f96b3e1-a2eb-4d09-8db1-9c0b9926001f",
-   "title": {
-    "en": "Angel Fusion"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "082b320c-e18d-4bdd-a45a-255b3a69b3f7",
-   "title": {
-    "en": "Kiri no Mori Hotel"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d3f07792-c2dd-4098-9a53-64556c95fbc3",
-   "title": {
-    "en": "Storm"
-   },
-   "contentRating": "safe",
-   "score": 0.19933443,
-   "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:52+00:00"
+ "updatedAt": "2023-12-10T18:24:48+00:00"
 }

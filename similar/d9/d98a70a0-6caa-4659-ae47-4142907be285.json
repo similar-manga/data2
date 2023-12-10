@@ -11,7 +11,7 @@
     "en": "Thank You, Isekai!"
    },
    "contentRating": "safe",
-   "score": 0.22206843,
+   "score": 0.22121856,
    "languages": [
     "id",
     "en"
@@ -23,11 +23,31 @@
     "en": "My Isekai Essay, By: Bucket"
    },
    "contentRating": "safe",
-   "score": 0.22099252,
+   "score": 0.22083004,
    "languages": [
     "vi",
     "en"
    ]
+  },
+  {
+   "id": "14c7dbef-c985-41ef-baa6-f9dea429dab0",
+   "title": {
+    "en": "Itsuka, Onii-chan no Oyomesan ni…"
+   },
+   "contentRating": "safe",
+   "score": 0.21757418,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "08af6c89-c287-4b2d-852c-688d53ccb2d7",
+   "title": {
+    "en": "Nyotaika Chuui"
+   },
+   "contentRating": "safe",
+   "score": 0.21757418
   },
   {
    "id": "0ece12d3-366d-4acd-af86-9ebf12b09732",
@@ -56,32 +76,12 @@
    ]
   },
   {
-   "id": "14c7dbef-c985-41ef-baa6-f9dea429dab0",
-   "title": {
-    "en": "Itsuka, Onii-chan no Oyomesan ni…"
-   },
-   "contentRating": "safe",
-   "score": 0.21757418,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "08af6c89-c287-4b2d-852c-688d53ccb2d7",
-   "title": {
-    "en": "Nyotaika Chuui"
-   },
-   "contentRating": "safe",
-   "score": 0.21757418
-  },
-  {
    "id": "5d13b733-7204-4870-b96a-cf69ba00475e",
    "title": {
     "en": "Thank You, Isekai (Webtoon)"
    },
    "contentRating": "safe",
-   "score": 0.2107122,
+   "score": 0.21061563,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Isekai Paripi Ouji wa Hayaku Utsushiyo ni Kaeritai!"
    },
    "contentRating": "safe",
-   "score": 0.20939887
+   "score": 0.2063898
   },
   {
    "id": "90b056fb-4924-4aee-93d6-5298798aef77",
@@ -100,7 +100,7 @@
     "en": "Isekai Truck"
    },
    "contentRating": "safe",
-   "score": 0.1980979,
+   "score": 0.20040396,
    "languages": [
     "en",
     "vi",
@@ -114,24 +114,10 @@
     "en": "Test Flight Girls"
    },
    "contentRating": "safe",
-   "score": 0.19796112,
+   "score": 0.1942619,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "b8e8fbe1-3dd9-4d88-9343-9086c1372022",
-   "title": {
-    "en": "The Devils Castle, Burning By My Flame The World Bows Down"
-   },
-   "contentRating": "safe",
-   "score": 0.19580342,
-   "languages": [
-    "en",
-    "es-la",
-    "id",
-    "pt-br"
    ]
   },
   {
@@ -140,11 +126,25 @@
     "en": "A TS Girl Who Comes to School in a Boy’s Uniform Despite Having Turned Into a Woman"
    },
    "contentRating": "safe",
-   "score": 0.1947888,
+   "score": 0.19385019,
    "languages": [
     "pt-br",
     "id",
     "en"
+   ]
+  },
+  {
+   "id": "b8e8fbe1-3dd9-4d88-9343-9086c1372022",
+   "title": {
+    "en": "The Devils Castle, Burning By My Flame The World Bows Down"
+   },
+   "contentRating": "safe",
+   "score": 0.191947,
+   "languages": [
+    "en",
+    "es-la",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -153,20 +153,7 @@
     "en": "Himajin, Maou no Sugata de Isekai he (Tokidoki Cheat na Burari Tabi)"
    },
    "contentRating": "safe",
-   "score": 0.1936756
-  },
-  {
-   "id": "7cab67bb-7fe4-4800-8cc7-ad36a4f7c20b",
-   "title": {
-    "en": "Okitara Onnanoko no Karada ni Natteta Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.19123527,
-   "languages": [
-    "en",
-    "id",
-    "ru"
-   ]
+   "score": 0.1909745
   },
   {
    "id": "d7776c9a-fd42-4d38-9f9f-e649829ed36e",
@@ -174,9 +161,22 @@
     "en": "Clown"
    },
    "contentRating": "safe",
-   "score": 0.1901917,
+   "score": 0.18949528,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7cab67bb-7fe4-4800-8cc7-ad36a4f7c20b",
+   "title": {
+    "en": "Okitara Onnanoko no Karada ni Natteta Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.18947951,
+   "languages": [
+    "en",
+    "id",
+    "ru"
    ]
   },
   {
@@ -185,11 +185,11 @@
     "en": "Rocking Chair Hero"
    },
    "contentRating": "safe",
-   "score": 0.1872589,
+   "score": 0.18762246,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:44+00:00"
+ "updatedAt": "2023-12-10T18:32:25+00:00"
 }

@@ -11,8 +11,21 @@
     "en": "More Than Human: Spiderman Another Story!!"
    },
    "contentRating": "safe",
-   "score": 0.25569212,
+   "score": 0.2553631,
    "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "19dca456-59dd-466f-8d89-9709984ab10f",
+   "title": {
+    "en": "DOOOOM!"
+   },
+   "contentRating": "safe",
+   "score": 0.24917224,
+   "languages": [
+    "ru",
     "en",
     "pt-br"
    ]
@@ -37,23 +50,11 @@
     "en": "Kimi no Egao ga Mitai"
    },
    "contentRating": "safe",
-   "score": 0.22062238,
+   "score": 0.21983306,
    "languages": [
     "pt-br",
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "660f39e6-a52b-440b-b412-d14d96e435dc",
-   "title": {
-    "en": "Kan no Mushi"
-   },
-   "contentRating": "safe",
-   "score": 0.21887551,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -73,17 +74,15 @@
    ]
   },
   {
-   "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
+   "id": "660f39e6-a52b-440b-b412-d14d96e435dc",
    "title": {
-    "en": "Fasting"
+    "en": "Kan no Mushi"
    },
    "contentRating": "safe",
-   "score": 0.20764354,
+   "score": 0.21887551,
    "languages": [
-    "es",
-    "pt-br",
-    "pl",
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -109,6 +108,20 @@
     "pt-br",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
+   "title": {
+    "en": "Fasting"
+   },
+   "contentRating": "safe",
+   "score": 0.20764354,
+   "languages": [
+    "es",
+    "pt-br",
+    "pl",
+    "en"
    ]
   },
   {
@@ -142,12 +155,24 @@
    ]
   },
   {
+   "id": "c798045f-c0a0-4643-b8d0-909172fa9e21",
+   "title": {
+    "en": "Witch Creek Road"
+   },
+   "contentRating": "safe",
+   "score": 0.17619139,
+   "languages": [
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
    "id": "c27535b0-69bc-4a07-ad32-103fb6df1f03",
    "title": {
     "en": "Demon"
    },
    "contentRating": "safe",
-   "score": 0.17606102,
+   "score": 0.17510058,
    "languages": [
     "en",
     "pt-br"
@@ -191,35 +216,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "3596da75-c2b2-481b-a00d-2225449a0c51",
-   "title": {
-    "en": "Rain or Shine"
-   },
-   "contentRating": "safe",
-   "score": 0.16323544,
-   "languages": [
-    "ar",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "83467fef-eb4d-4b20-a2bd-413417159163",
-   "title": {
-    "en": "Yoko-chan is a positive girl"
-   },
-   "contentRating": "safe",
-   "score": 0.16314018,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:38+00:00"
+ "updatedAt": "2023-12-10T18:10:47+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Neko Hiroimashita"
    },
    "contentRating": "safe",
-   "score": 0.32517317,
+   "score": 0.32064995,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Haru no Ongaeshi"
    },
    "contentRating": "safe",
-   "score": 0.30262807,
+   "score": 0.29649845,
    "languages": [
     "en",
     "id",
@@ -38,7 +38,7 @@
     "en": "Attemo Nakutemo Neko no Shippo"
    },
    "contentRating": "safe",
-   "score": 0.30085066,
+   "score": 0.29361758,
    "languages": [
     "en",
     "pl"
@@ -50,7 +50,7 @@
     "en": "Ayakashi's Bride"
    },
    "contentRating": "safe",
-   "score": 0.2943929,
+   "score": 0.29319075,
    "languages": [
     "en",
     "vi"
@@ -62,7 +62,7 @@
     "en": "Princess Coda and the Cursed Collar"
    },
    "contentRating": "safe",
-   "score": 0.2935678,
+   "score": 0.2899461,
    "languages": [
     "ru",
     "en",
@@ -76,10 +76,26 @@
     "en": "5 Cats"
    },
    "contentRating": "safe",
-   "score": 0.27318507,
+   "score": 0.27079138,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "b2ca4e0e-a7d7-4c98-bfa3-c771c643bb68",
+   "title": {
+    "en": "Doukyonin wa Hiza, Tokidoki, Atama no Ue"
+   },
+   "contentRating": "safe",
+   "score": 0.26128617,
+   "languages": [
+    "fr",
+    "ru",
+    "it",
+    "hu",
+    "en",
+    "pl"
    ]
   },
   {
@@ -96,12 +112,35 @@
    ]
   },
   {
+   "id": "8a8e1de3-aa39-422a-a1b6-002ef0886cb0",
+   "title": {
+    "en": "Meow! Please Help, Manager!"
+   },
+   "contentRating": "safe",
+   "score": 0.26064348,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "1d8f855d-7a57-4ae0-858e-ec7cba999a89",
    "title": {
     "en": "Mika and the Rainbow Cat"
    },
    "contentRating": "safe",
-   "score": 0.26007193,
+   "score": 0.25758052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "850fd66f-e9cc-4448-99d3-ae0d3232dffe",
+   "title": {
+    "en": "Hoshifuru Oka no Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
@@ -123,7 +162,7 @@
     "en": "Komorebi Neko"
    },
    "contentRating": "safe",
-   "score": 0.24931021,
+   "score": 0.24743247,
    "languages": [
     "en"
    ]
@@ -134,30 +173,7 @@
     "en": "Omochi-sama"
    },
    "contentRating": "safe",
-   "score": 0.2470519,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
-   "title": {
-    "en": "Junketsu Diablos"
-   },
-   "contentRating": "safe",
-   "score": 0.24414185,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "1f8c16ad-e600-435c-9e46-c21866af3560",
-   "title": {
-    "en": "Son of Demon"
-   },
-   "contentRating": "safe",
-   "score": 0.24086122,
+   "score": 0.24312998,
    "languages": [
     "en"
    ]
@@ -168,35 +184,23 @@
     "en": "I Will Grant You Three Wishes"
    },
    "contentRating": "safe",
-   "score": 0.24057919,
+   "score": 0.24005337,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
+   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
    "title": {
-    "en": "Hyakkiyakou Juliet"
+    "en": "Junketsu Diablos"
    },
    "contentRating": "safe",
-   "score": 0.23492058,
+   "score": 0.23959865,
    "languages": [
-    "hu",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
-   "title": {
-    "en": "Kashikomi Mousu!"
-   },
-   "contentRating": "safe",
-   "score": 0.23143753,
-   "languages": [
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:45+00:00"
+ "updatedAt": "2023-12-10T18:27:18+00:00"
 }

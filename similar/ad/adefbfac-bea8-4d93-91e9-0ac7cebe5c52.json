@@ -17,14 +17,6 @@
    ]
   },
   {
-   "id": "ba752895-ca3f-406e-a07b-82dfb030eede",
-   "title": {
-    "en": "Mobile Suit Gundam: Almarya"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438
-  },
-  {
    "id": "5903b60c-49e4-4012-84dc-b1abc2e7c3cd",
    "title": {
     "en": "CYBORG Asuka"
@@ -54,7 +46,7 @@
     "en": "Get truth Fang of the Sun Dougram"
    },
    "contentRating": "safe",
-   "score": 0.16857556
+   "score": 0.16927677
   },
   {
    "id": "9019d5a3-c06f-4b8a-8eef-25991d7e953e",
@@ -65,14 +57,36 @@
    "score": 0.16835876
   },
   {
+   "id": "e66bc7d2-90e6-49ec-ae38-440784510c83",
+   "title": {
+    "en": "Mobile Suit Gundam: Thunderbolt Side Story"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5ea251e9-5fe8-4e0d-9b74-55780ba4f8a8",
    "title": {
     "en": "Oyaji Shuu"
    },
    "contentRating": "safe",
-   "score": 0.16669556,
+   "score": 0.16635898,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "5c6fbb4b-839e-4678-92b1-845041bd00ae",
+   "title": {
+    "en": "Riajuu Gozen 4-ji"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
     "en"
    ]
   },
@@ -82,7 +96,7 @@
     "en": "Sho Nuff I Do"
    },
    "contentRating": "safe",
-   "score": 0.16466294,
+   "score": 0.15713485,
    "languages": [
     "fr",
     "it",
@@ -90,39 +104,40 @@
    ]
   },
   {
-   "id": "c89a86dc-91f6-4cd6-8957-9f532fdd0378",
+   "id": "95fe88bf-ba04-4153-a072-c4715814fa12",
    "title": {
-    "en": "The star with 1000 faces"
+    "en": "Black Maid Revengers"
    },
    "contentRating": "safe",
    "score": 0.15713485,
    "languages": [
-    "en"
+    "en",
+    "id"
    ]
   },
   {
-   "id": "57e53258-f128-4b84-b71d-ba2ce940a63e",
+   "id": "ba9c726d-041d-4e16-be25-5bca066f498f",
    "title": {
-    "en": "1980"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7f6f35fb-3162-412d-a745-2b2a7a0bcf2f",
-   "title": {
-    "en": "High Heels!"
+    "en": "Ganbatta Kimi e"
    },
    "contentRating": "safe",
    "score": 0.15713485
   },
   {
-   "id": "d8ee19e7-fdc8-4db5-9dbb-2a253bfdf41c",
+   "id": "28d7c180-f25f-4d78-9fa5-fe8f38b869e6",
    "title": {
-    "en": "Reverie"
+    "en": "Onee-chan no Imouto"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "748dbc29-a619-4c40-8ae2-913e9a71d7e0",
+   "title": {
+    "en": "Nozoki"
    },
    "contentRating": "safe",
    "score": 0.15713485,
@@ -139,21 +154,9 @@
    "score": 0.15713485
   },
   {
-   "id": "db58ba0c-dd1d-485c-969b-6e7986e42e5c",
+   "id": "c89a86dc-91f6-4cd6-8957-9f532fdd0378",
    "title": {
-    "en": "Shin Change!! Getter Robo Crater Battle"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "5c6fbb4b-839e-4678-92b1-845041bd00ae",
-   "title": {
-    "en": "Riajuu Gozen 4-ji"
+    "en": "The star with 1000 faces"
    },
    "contentRating": "safe",
    "score": 0.15713485,
@@ -162,5 +165,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:56+00:00"
+ "updatedAt": "2023-12-10T18:27:47+00:00"
 }

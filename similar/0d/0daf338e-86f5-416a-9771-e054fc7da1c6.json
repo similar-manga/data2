@@ -11,7 +11,7 @@
     "en": "Koorihime Kitan"
    },
    "contentRating": "safe",
-   "score": 0.33035517,
+   "score": 0.3271166,
    "languages": [
     "it",
     "fr",
@@ -25,7 +25,7 @@
     "en": "Nice to Meet You! The Pure-Hearted Fellow"
    },
    "contentRating": "safe",
-   "score": 0.2682781,
+   "score": 0.2681245,
    "languages": [
     "en"
    ]
@@ -47,17 +47,6 @@
    ]
   },
   {
-   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
-   "title": {
-    "en": "Just Date Each Other Already!"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9dee4d4b-b21e-4fc7-832b-954cbd06103f",
    "title": {
     "en": "Ikiteru Kimi ni Hanataba wo"
@@ -70,14 +59,15 @@
    ]
   },
   {
-   "id": "c7d873e5-c7d7-4430-81a8-f745ac93f70b",
+   "id": "374ae3b7-bb0e-4efe-a48a-84e029a798e5",
    "title": {
-    "en": "Moeru Seito Kaichou"
+    "en": "Takamori-kun wo Damarasetai!! (Pre-Serialization)"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
@@ -93,15 +83,25 @@
    ]
   },
   {
-   "id": "374ae3b7-bb0e-4efe-a48a-84e029a798e5",
+   "id": "70fb5fc5-4646-4a7d-b166-df4d9ab240a1",
    "title": {
-    "en": "Takamori-kun wo Damarasetai!! (Pre-Serialization)"
+    "en": "Just Date Each Other Already!"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en",
-    "vi"
+    "en"
+   ]
+  },
+  {
+   "id": "c7d873e5-c7d7-4430-81a8-f745ac93f70b",
+   "title": {
+    "en": "Moeru Seito Kaichou"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -121,7 +121,7 @@
     "en": "Change Boy"
    },
    "contentRating": "safe",
-   "score": 0.25509936,
+   "score": 0.25457063,
    "languages": [
     "en"
    ]
@@ -132,21 +132,10 @@
     "en": "Chick Bomb"
    },
    "contentRating": "safe",
-   "score": 0.25052446,
+   "score": 0.2507339,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "19143e8e-1bc3-4a03-bfde-16b5192cd727",
-   "title": {
-    "en": "Ushiro no Shindere-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24947788,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -155,7 +144,18 @@
     "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
    },
    "contentRating": "safe",
-   "score": 0.24945468,
+   "score": 0.2484777,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "19143e8e-1bc3-4a03-bfde-16b5192cd727",
+   "title": {
+    "en": "Ushiro no Shindere-san"
+   },
+   "contentRating": "safe",
+   "score": 0.24823907,
    "languages": [
     "en"
    ]
@@ -166,7 +166,7 @@
     "en": "Tasogare Schrödinger"
    },
    "contentRating": "safe",
-   "score": 0.24022529,
+   "score": 0.23917753,
    "languages": [
     "en"
    ]
@@ -184,16 +184,18 @@
    ]
   },
   {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
+   "id": "478a3a35-909b-43a2-a638-329352bb7e10",
    "title": {
-    "en": "Gwisin Byeolgok"
+    "en": "Oshino-san wa Taeshinobu"
    },
    "contentRating": "safe",
-   "score": 0.23488437,
+   "score": 0.23328476,
    "languages": [
+    "pt-br",
+    "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:17+00:00"
+ "updatedAt": "2023-12-10T18:09:49+00:00"
 }

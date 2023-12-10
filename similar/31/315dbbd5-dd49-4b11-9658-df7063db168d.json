@@ -11,7 +11,7 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.6567093,
+   "score": 0.61114305,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "A Fleeting Time"
    },
    "contentRating": "safe",
-   "score": 0.5050829,
+   "score": 0.4812926,
    "languages": [
     "en"
    ]
@@ -33,21 +33,9 @@
     "en": "A Foolish Avenger"
    },
    "contentRating": "safe",
-   "score": 0.3764858,
+   "score": 0.34675086,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "eea96c98-2334-43bb-9849-a06bfc23353c",
-   "title": {
-    "en": "Coward Cross World"
-   },
-   "contentRating": "safe",
-   "score": 0.29177868,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -56,40 +44,22 @@
     "en": "Aosora"
    },
    "contentRating": "safe",
-   "score": 0.28478673,
+   "score": 0.28434533,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
+   "id": "eea96c98-2334-43bb-9849-a06bfc23353c",
    "title": {
-    "en": "Hoshi no Alien ni Doryokushou wo."
+    "en": "Coward Cross World"
    },
    "contentRating": "safe",
-   "score": 0.26432607,
+   "score": 0.26553503,
    "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
-   "title": {
-    "en": "Kanojo wa Itsumo Kagayaiteita"
-   },
-   "contentRating": "safe",
-   "score": 0.2424293,
-   "languages": [
-    "hu",
-    "de",
     "en",
-    "fa",
-    "tr",
-    "id",
-    "es-la",
-    "ru"
+    "fr"
    ]
   },
   {
@@ -98,7 +68,7 @@
     "en": "Dream to Be an Idol"
    },
    "contentRating": "safe",
-   "score": 0.24083051,
+   "score": 0.24851426,
    "languages": [
     "id",
     "en",
@@ -111,11 +81,23 @@
     "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.23588656,
+   "score": 0.23707055,
    "languages": [
     "en",
     "pt-br",
     "it"
+   ]
+  },
+  {
+   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
+   "title": {
+    "en": "Hoshi no Alien ni Doryokushou wo."
+   },
+   "contentRating": "safe",
+   "score": 0.23540358,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -151,23 +133,30 @@
    ]
   },
   {
+   "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
+   "title": {
+    "en": "Kanojo wa Itsumo Kagayaiteita"
+   },
+   "contentRating": "safe",
+   "score": 0.22188008,
+   "languages": [
+    "hu",
+    "de",
+    "en",
+    "fa",
+    "tr",
+    "id",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
    "id": "531848f6-cbf3-4f35-b497-a36505ca99fb",
    "title": {
     "en": "Cold Rain"
    },
    "contentRating": "safe",
-   "score": 0.22046903,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
-   "title": {
-    "en": "Inochi o Odoru"
-   },
-   "contentRating": "safe",
-   "score": 0.21117383,
+   "score": 0.22016312,
    "languages": [
     "en"
    ]
@@ -200,6 +189,19 @@
    ]
   },
   {
+   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
+   "title": {
+    "en": "Nee Nee, Nene-san."
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "0f767102-67c0-4fcf-9385-78ad334f9971",
    "title": {
     "ja": "Wakare no hi"
@@ -215,5 +217,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:38+00:00"
+ "updatedAt": "2023-12-10T18:13:34+00:00"
 }

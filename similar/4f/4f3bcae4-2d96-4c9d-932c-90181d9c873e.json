@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8b8fbb0f-e422-4ff4-91bf-408a94c16f0d",
+   "title": {
+    "en": "A Story about a Giant Hero Having Trouble with Money"
+   },
+   "contentRating": "safe",
+   "score": 0.2596475,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
    "title": {
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.24624257,
+   "score": 0.24545087,
    "languages": [
     "en",
     "zh",
@@ -25,35 +36,12 @@
    ]
   },
   {
-   "id": "8b8fbb0f-e422-4ff4-91bf-408a94c16f0d",
-   "title": {
-    "en": "A Story about a Giant Hero Having Trouble with Money"
-   },
-   "contentRating": "safe",
-   "score": 0.23657858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "465a9169-eb11-49a3-a8c5-9c452eae06e0",
-   "title": {
-    "en": "One Punch Man (Webcomic/Fan Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.22888522,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "f8aa7ce7-e951-428d-9494-000002b34237",
    "title": {
     "en": "Geniearth"
    },
    "contentRating": "safe",
-   "score": 0.22685164,
+   "score": 0.22547673,
    "languages": [
     "en"
    ]
@@ -64,7 +52,7 @@
     "en": "Shin Kamen Rider Spirits"
    },
    "contentRating": "safe",
-   "score": 0.22297932,
+   "score": 0.22209103,
    "languages": [
     "en"
    ]
@@ -75,7 +63,7 @@
     "en": "One Punch Man (Webcomic/Original)"
    },
    "contentRating": "safe",
-   "score": 0.2190649,
+   "score": 0.21750802,
    "languages": [
     "en",
     "fr",
@@ -96,7 +84,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.2097015,
+   "score": 0.20816207,
    "languages": [
     "it",
     "id",
@@ -107,12 +95,24 @@
    ]
   },
   {
+   "id": "465a9169-eb11-49a3-a8c5-9c452eae06e0",
+   "title": {
+    "en": "One Punch Man (Webcomic/Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.20812882,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "21688024-f53f-4cb2-9c2e-62973f134975",
    "title": {
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.20786344,
+   "score": 0.20715888,
    "languages": [
     "en",
     "pl"
@@ -124,7 +124,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.207297,
+   "score": 0.20697394,
    "languages": [
     "pt-br",
     "fr",
@@ -138,35 +138,12 @@
    ]
   },
   {
-   "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
-   "title": {
-    "en": "Shunkan Heroism"
-   },
-   "contentRating": "safe",
-   "score": 0.20090608,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.19899537,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
    "title": {
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.19897525,
+   "score": 0.19788755,
    "languages": [
     "ru",
     "fr",
@@ -181,36 +158,26 @@
    ]
   },
   {
-   "id": "b04582e8-d98b-4f6e-b605-c300f3a5e3bd",
+   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
    "title": {
-    "en": "Sanda"
+    "en": "Dragon Ball Heroes - Victory Mission"
    },
    "contentRating": "safe",
-   "score": 0.195817,
+   "score": 0.19760743,
    "languages": [
-    "fr",
     "en",
-    "es-la",
-    "pt-br"
+    "es"
    ]
   },
   {
-   "id": "cc1b8669-82b2-4232-99c1-40d48fc2d988",
+   "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
    "title": {
-    "en": "Undead Unluck"
+    "en": "Shunkan Heroism"
    },
    "contentRating": "safe",
-   "score": 0.19573346,
+   "score": 0.19729488,
    "languages": [
-    "ru",
-    "fr",
-    "pt-br",
-    "en",
-    "it",
-    "zh-hk",
-    "es-la",
-    "fa",
-    "id"
+    "en"
    ]
   },
   {
@@ -219,7 +186,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.19488384,
+   "score": 0.19575053,
    "languages": [
     "pt-br",
     "es",
@@ -233,28 +200,49 @@
    ]
   },
   {
-   "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
+   "id": "cc1b8669-82b2-4232-99c1-40d48fc2d988",
    "title": {
-    "en": "Kaiju No. 8"
+    "en": "Undead Unluck"
    },
    "contentRating": "safe",
-   "score": 0.19478674,
+   "score": 0.19550897,
    "languages": [
-    "ar",
-    "uk",
-    "pt-br",
-    "it",
-    "id",
     "ru",
     "fr",
-    "tr",
-    "pl",
-    "fa",
-    "es-la",
+    "pt-br",
     "en",
-    "th"
+    "it",
+    "zh-hk",
+    "es-la",
+    "fa",
+    "id"
+   ]
+  },
+  {
+   "id": "b04582e8-d98b-4f6e-b605-c300f3a5e3bd",
+   "title": {
+    "en": "Sanda"
+   },
+   "contentRating": "safe",
+   "score": 0.19528125,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "86b4a817-4c42-401c-b7c7-ed0c0f80bc60",
+   "title": {
+    "en": "31 Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.19157864,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:51+00:00"
+ "updatedAt": "2023-12-10T18:16:52+00:00"
 }

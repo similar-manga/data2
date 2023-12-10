@@ -23,7 +23,7 @@
     "en": "I Love You, Kyouko-san."
    },
    "contentRating": "safe",
-   "score": 0.22043337,
+   "score": 0.23311082,
    "languages": [
     "en",
     "zh-hk",
@@ -38,7 +38,7 @@
     "en": "Smiley"
    },
    "contentRating": "safe",
-   "score": 0.21241729,
+   "score": 0.21201189,
    "languages": [
     "es-la",
     "en",
@@ -65,21 +65,44 @@
     "en": "Fugitives"
    },
    "contentRating": "safe",
-   "score": 0.2039782,
+   "score": 0.20206685,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "a055644f-4efa-42c7-b3c0-dfedcdbe4df5",
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
    "title": {
-    "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
+    "en": "B"
    },
    "contentRating": "safe",
-   "score": 0.19020043,
+   "score": 0.20203052,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e0413c01-9d2b-40ca-8368-4287aa9b5fff",
+   "title": {
+    "en": "Madara Moyou no Yoi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
+   "title": {
+    "en": "JUMBO MAX"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "zh-hk"
    ]
   },
   {
@@ -88,19 +111,19 @@
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.19017309,
+   "score": 0.18913874,
    "languages": [
     "zh-hk",
     "en"
    ]
   },
   {
-   "id": "e9cc7955-69a8-438e-ad27-9343003506dd",
+   "id": "a055644f-4efa-42c7-b3c0-dfedcdbe4df5",
    "title": {
-    "en": "ABLE"
+    "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
    },
    "contentRating": "safe",
-   "score": 0.18427043,
+   "score": 0.18816139,
    "languages": [
     "en"
    ]
@@ -111,7 +134,18 @@
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.18404602,
+   "score": 0.18357764,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "title": {
+    "en": "Kyoukai no End Feel"
+   },
+   "contentRating": "safe",
+   "score": 0.1824285,
    "languages": [
     "en"
    ]
@@ -132,75 +166,40 @@
    ]
   },
   {
-   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
+   "id": "e9cc7955-69a8-438e-ad27-9343003506dd",
    "title": {
-    "en": "Taisho Detective"
+    "en": "ABLE"
    },
    "contentRating": "safe",
-   "score": 0.17496355,
+   "score": 0.17617908,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
    "title": {
-    "en": "The Watchman"
+    "en": "Souzoku Tantei"
+   },
+   "contentRating": "safe",
+   "score": 0.17543118,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "title": {
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
+    "es-la",
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
-   "title": {
-    "en": "AGAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
-   "title": {
-    "en": "Sherlock"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
-   "title": {
-    "en": "Shadowman"
-   },
-   "contentRating": "safe",
-   "score": 0.174213,
-   "languages": [
-    "pt-br",
-    "es",
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:20+00:00"
+ "updatedAt": "2023-12-10T18:23:25+00:00"
 }

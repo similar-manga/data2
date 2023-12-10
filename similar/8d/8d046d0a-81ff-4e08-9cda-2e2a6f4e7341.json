@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e2959879-a314-4aef-99b1-5677513c653f",
+   "title": {
+    "en": "Rebirth"
+   },
+   "contentRating": "safe",
+   "score": 0.27830914,
+   "languages": [
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "0579795d-b500-4308-bfee-9af4b44d97dc",
    "title": {
     "en": "Zenith"
    },
    "contentRating": "safe",
-   "score": 0.26826704,
+   "score": 0.266517,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "74b82202-505b-4dee-9987-310baeac857e",
+   "title": {
+    "en": "The Witches' End"
+   },
+   "contentRating": "safe",
+   "score": 0.23248717,
    "languages": [
     "fr",
     "en"
@@ -23,7 +47,7 @@
     "en": "Villain to Kill"
    },
    "contentRating": "safe",
-   "score": 0.23335057,
+   "score": 0.23245938,
    "languages": [
     "fr",
     "pt-br",
@@ -36,12 +60,24 @@
    ]
   },
   {
+   "id": "92d51be3-01bc-4e2d-acbb-990ac569ddb8",
+   "title": {
+    "en": "The Cute Wife of the Cold Chairman"
+   },
+   "contentRating": "safe",
+   "score": 0.23138696,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "699f8a24-aaf9-4a2d-b54b-670d697716b1",
    "title": {
     "en": "Shiawase wo Anata ni"
    },
    "contentRating": "safe",
-   "score": 0.2330475,
+   "score": 0.23056197,
    "languages": [
     "uk",
     "pl",
@@ -55,14 +91,15 @@
    ]
   },
   {
-   "id": "92d51be3-01bc-4e2d-acbb-990ac569ddb8",
+   "id": "873f93ae-96ac-4482-91ac-023a6ccecfd3",
    "title": {
-    "en": "The Cute Wife of the Cold Chairman"
+    "en": "The Slave Girl and the Vampire with a Death Wish"
    },
    "contentRating": "safe",
-   "score": 0.23165579,
+   "score": 0.22911204,
    "languages": [
     "en",
+    "es",
     "fr"
    ]
   },
@@ -72,7 +109,7 @@
     "en": "The Way the Mage Faces Death"
    },
    "contentRating": "safe",
-   "score": 0.22998708,
+   "score": 0.22907728,
    "languages": [
     "fr",
     "en",
@@ -81,12 +118,36 @@
    ]
   },
   {
+   "id": "0e2f825b-36a1-4542-bbc1-f82077ed2fe4",
+   "title": {
+    "en": "Rebirth of the Butterfly Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.2278684,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "d5eab46f-8698-4e0f-9fe4-3b2d821aaa29",
+   "title": {
+    "en": "The Tyrant Wants to Live a Virtuous Life"
+   },
+   "contentRating": "safe",
+   "score": 0.22621983,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
    "title": {
     "en": "I Shall Master This Family"
    },
    "contentRating": "safe",
-   "score": 0.22879313,
+   "score": 0.22598763,
    "languages": [
     "pl",
     "fr",
@@ -100,24 +161,12 @@
    ]
   },
   {
-   "id": "73836e5e-3eec-4ff0-b910-191bd9ade8fa",
-   "title": {
-    "en": "Empress Wi Mokhwa"
-   },
-   "contentRating": "safe",
-   "score": 0.22679123,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "8697fae8-e0df-446c-88d0-d8c366a48e2f",
    "title": {
     "en": "Immortal, Invincible"
    },
    "contentRating": "safe",
-   "score": 0.2261562,
+   "score": 0.225923,
    "languages": [
     "fr",
     "en",
@@ -126,16 +175,42 @@
    ]
   },
   {
+   "id": "82cf0018-d918-46e6-9a61-9893d97b09ac",
+   "title": {
+    "en": "Stay Awake All Night"
+   },
+   "contentRating": "safe",
+   "score": 0.22587945,
+   "languages": [
+    "en",
+    "es",
+    "fr",
+    "tr",
+    "id"
+   ]
+  },
+  {
    "id": "c4d72839-8c51-496e-8700-a4b8e0a3204b",
    "title": {
     "en": "Modern Day God"
    },
    "contentRating": "safe",
-   "score": 0.22532597,
+   "score": 0.22400488,
    "languages": [
     "ar",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "9dca44ff-98e4-4d51-9b66-35edb1df1aa5",
+   "title": {
+    "en": "Dukedom's Legendary Prodigy"
+   },
+   "contentRating": "safe",
+   "score": 0.22325014,
+   "languages": [
+    "fr"
    ]
   },
   {
@@ -150,89 +225,7 @@
     "fr",
     "es"
    ]
-  },
-  {
-   "id": "70e3336d-c55e-4eee-be72-45cc82eb46dd",
-   "title": {
-    "en": "Please Don't Eat Me!"
-   },
-   "contentRating": "safe",
-   "score": 0.22084841,
-   "languages": [
-    "mn",
-    "en",
-    "pl",
-    "pt-br",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "6cb7a1b1-719b-4322-b659-2c2ca196229f",
-   "title": {
-    "en": "White Wheel of Fortune"
-   },
-   "contentRating": "safe",
-   "score": 0.2137887,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "14ebae8c-1131-4056-84df-333895db42f2",
-   "title": {
-    "en": "Regnal Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.21291882,
-   "languages": [
-    "fr",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "cbaa1f75-958f-4b33-80f5-cab5d328f83c",
-   "title": {
-    "en": "The Waste Female Demon God"
-   },
-   "contentRating": "safe",
-   "score": 0.21215707,
-   "languages": [
-    "fr",
-    "id",
-    "th",
-    "en"
-   ]
-  },
-  {
-   "id": "42580af3-7171-4013-87ed-e37d98bfb62c",
-   "title": {
-    "en": "Behold the True Villainess"
-   },
-   "contentRating": "safe",
-   "score": 0.20913093,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "24c63b65-3f55-4ade-9f60-0d6da9bdedfa",
-   "title": {
-    "en": "Sugar Lamp"
-   },
-   "contentRating": "safe",
-   "score": 0.20659648,
-   "languages": [
-    "en",
-    "fr",
-    "tr",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:30+00:00"
+ "updatedAt": "2023-12-10T18:23:53+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.29540294,
+   "score": 0.29371142,
    "languages": [
     "ru",
     "en"
@@ -23,7 +23,7 @@
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.2639931,
+   "score": 0.26439115,
    "languages": [
     "en"
    ]
@@ -40,14 +40,55 @@
    ]
   },
   {
+   "id": "406d9733-804c-4c1a-8489-3bb7e04db516",
+   "title": {
+    "en": "Zelda II: The Adventure of Link (Ran Maru)"
+   },
+   "contentRating": "safe",
+   "score": 0.2423356,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24231383,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
    "title": {
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.23083477,
+   "score": 0.23057817,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e531c6ca-0b07-4878-8ae8-87357375acd9",
+   "title": {
+    "en": "LV999 no Murabito"
+   },
+   "contentRating": "safe",
+   "score": 0.2257795,
+   "languages": [
+    "pt-br",
+    "it",
+    "fr",
+    "pl",
+    "en",
+    "es",
+    "ru",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -56,7 +97,7 @@
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.22376704,
+   "score": 0.22333984,
    "languages": [
     "pl",
     "en"
@@ -68,7 +109,7 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.22250904,
+   "score": 0.22274256,
    "languages": [
     "en",
     "ca",
@@ -81,7 +122,7 @@
     "en": "The Legend of Zelda - Ocarina of Time 3D"
    },
    "contentRating": "safe",
-   "score": 0.22217984,
+   "score": 0.22112606,
    "languages": [
     "es-la",
     "de",
@@ -95,7 +136,7 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.22112738,
+   "score": 0.22046147,
    "languages": [
     "en"
    ]
@@ -128,9 +169,22 @@
     "en": "The Legend of Zelda Gaiden: Quark and the Fairy Queen"
    },
    "contentRating": "safe",
-   "score": 0.20894338,
+   "score": 0.20825742,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+   "title": {
+    "en": "Ore wa Subete o “Parry” Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.20588595,
+   "languages": [
+    "en",
+    "ru",
+    "id"
    ]
   },
   {
@@ -143,68 +197,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0e017a08-835a-4cbe-ba63-576d5010a5a0",
-   "title": {
-    "en": "Kuma Kuma Kuma Bear"
-   },
-   "contentRating": "safe",
-   "score": 0.20516805,
-   "languages": [
-    "fr",
-    "es-la",
-    "en",
-    "ru",
-    "id",
-    "pt-br",
-    "tr"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.20385395,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
-  },
-  {
-   "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
-   "title": {
-    "en": "Ge Ge Ge no Kitaro"
-   },
-   "contentRating": "safe",
-   "score": 0.20316909,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23a29209-2483-4510-af38-46d67fc0d645",
-   "title": {
-    "en": "Kid Icarus: Uprising"
-   },
-   "contentRating": "safe",
-   "score": 0.20227835,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:01+00:00"
+ "updatedAt": "2023-12-10T18:22:39+00:00"
 }

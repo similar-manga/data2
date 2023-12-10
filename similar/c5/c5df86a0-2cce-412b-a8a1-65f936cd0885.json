@@ -6,23 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5356ad15-1012-4867-af98-70478eb8d643",
+   "title": {
+    "en": "Bouncer"
+   },
+   "contentRating": "safe",
+   "score": 0.24768241,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "d3f961f6-8ed7-4801-a4cb-79f42890b305",
    "title": {
     "en": "Tokyo Tribe 2"
    },
    "contentRating": "safe",
    "score": 0.2355671,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5abf36e6-b42e-4840-896b-b4b22b17fcd7",
-   "title": {
-    "en": "Kamisama, Kisama wo Koroshitai."
-   },
-   "contentRating": "safe",
-   "score": 0.21553406,
    "languages": [
     "en"
    ]
@@ -43,15 +44,55 @@
    ]
   },
   {
+   "id": "5abf36e6-b42e-4840-896b-b4b22b17fcd7",
+   "title": {
+    "en": "Kamisama, Kisama wo Koroshitai."
+   },
+   "contentRating": "safe",
+   "score": 0.21520041,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.20993441,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en",
+    "tr",
+    "ru",
+    "fa"
+   ]
+  },
+  {
    "id": "62d96fe4-cfb1-450f-a6f8-119f3528b44b",
    "title": {
     "en": "DINER"
    },
    "contentRating": "safe",
-   "score": 0.19515488,
+   "score": 0.18767335,
    "languages": [
     "pt-br",
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "7fc83445-07dd-4881-a84e-846456632fb5",
+   "title": {
+    "en": "Katagi Modoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.18091877,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -61,7 +102,7 @@
     "en": "Gunka no Baltzar"
    },
    "contentRating": "safe",
-   "score": 0.17708084,
+   "score": 0.17604393,
    "languages": [
     "en",
     "pt-br"
@@ -84,7 +125,7 @@
     "en": "The Bethlem of Magicians"
    },
    "contentRating": "safe",
-   "score": 0.17472059,
+   "score": 0.17504567,
    "languages": [
     "en"
    ]
@@ -95,7 +136,7 @@
     "en": "Zange"
    },
    "contentRating": "safe",
-   "score": 0.17272282,
+   "score": 0.17277883,
    "languages": [
     "en"
    ]
@@ -117,7 +158,7 @@
     "en": "Serial Killer Isekai ni Oritatsu"
    },
    "contentRating": "safe",
-   "score": 0.15996759,
+   "score": 0.15986297,
    "languages": [
     "es-la",
     "fr",
@@ -133,7 +174,7 @@
     "en": "Tank Chair"
    },
    "contentRating": "safe",
-   "score": 0.15560734,
+   "score": 0.15627256,
    "languages": [
     "vi",
     "en",
@@ -143,82 +184,27 @@
    ]
   },
   {
-   "id": "75532241-da34-4afb-a7df-a227b269ed20",
+   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
    "title": {
-    "en": "Pineapple Army"
+    "en": "Koukou Jihen"
    },
    "contentRating": "safe",
-   "score": 0.14857472,
+   "score": 0.15548553,
    "languages": [
-    "en",
-    "it"
+    "en"
    ]
   },
   {
-   "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
    "title": {
-    "en": "Issak"
+    "en": "Groundless"
    },
    "contentRating": "safe",
-   "score": 0.1476225,
+   "score": 0.1531826,
    "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "ru",
-    "tr"
-   ]
-  },
-  {
-   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
-   "title": {
-    "en": "Adou"
-   },
-   "contentRating": "safe",
-   "score": 0.14629434,
-   "languages": [
-    "ru",
-    "en",
-    "zh-hk",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d1a9fdeb-f713-407f-960c-8326b586e6fd",
-   "title": {
-    "en": "Vagabond"
-   },
-   "contentRating": "safe",
-   "score": 0.1456233,
-   "languages": [
-    "it",
-    "pt-br",
-    "es-la",
-    "en",
-    "pl",
-    "hu",
-    "uk",
-    "id",
-    "ar",
-    "tr"
-   ]
-  },
-  {
-   "id": "e710f350-93a6-47fc-af29-7c5e0fcdc1f0",
-   "title": {
-    "en": "Sousei no Taiga"
-   },
-   "contentRating": "safe",
-   "score": 0.1456233,
-   "languages": [
-    "fr",
-    "en",
-    "es",
-    "pt-br",
-    "ru",
-    "es-la"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:55+00:00"
+ "updatedAt": "2023-12-10T18:30:20+00:00"
 }

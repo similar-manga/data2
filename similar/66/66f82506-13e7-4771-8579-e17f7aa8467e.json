@@ -6,23 +6,42 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cf8e30af-46c0-4cdb-8b3d-0dbcfec3845d",
+   "id": "9c4a734a-e677-42a9-a409-6939aa7421c8",
    "title": {
-    "en": "THE iDOLM@STER - iM@S (Doujinshi)"
+    "en": "Kantai Collection -KanColle- A Destroyer's Destiny (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.38929304,
+   "score": 0.41085562,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "39334809-7c30-471d-b32b-0fee195d6372",
+   "id": "cf8e30af-46c0-4cdb-8b3d-0dbcfec3845d",
    "title": {
-    "en": "Ib - 4koma Collection (Doujinshi)"
+    "en": "THE iDOLM@STER - iM@S (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.34306017,
+   "score": 0.40496895,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b0fb1bd3-7795-4533-9d29-e176774e7d0a",
+   "title": {
+    "en": "Kantai Collection -KanColle- Art Collection (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.40283135
+  },
+  {
+   "id": "ea56e79d-f60a-41f5-9105-8217e9b8cf31",
+   "title": {
+    "en": "THE iDOLM@STER Cinderella Girls - Mobam@s no Hon (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.35296813,
    "languages": [
     "en"
    ]
@@ -33,29 +52,35 @@
     "en": "THE iDOLM@STER 2 - Twin Stars (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.3281439,
+   "score": 0.34666467,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b6aa304d-190d-4587-b69c-f543722f1e19",
+   "id": "4699775f-57f7-4896-987c-fe5e57403d8f",
    "title": {
-    "en": "Log Horizon - Muitemasen yo, Nureha-sama (Doujinshi)"
+    "en": "Satsuten!"
    },
    "contentRating": "safe",
-   "score": 0.3219281,
+   "score": 0.33278388,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es",
+    "pl"
    ]
   },
   {
-   "id": "bd52d369-3158-4908-8d2d-346cfa0aa350",
+   "id": "39334809-7c30-471d-b32b-0fee195d6372",
    "title": {
-    "en": "Ib - 4-koma Compilation (Doujinshi)"
+    "en": "Ib - 4koma Collection (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.31640413
+   "score": 0.32866135,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a6a1733c-0020-4417-8989-0b2e593e0d51",
@@ -63,15 +88,7 @@
     "en": "Durarara!! - Shizuo Heiwajima Peeping Book: 24hours (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.31067157
-  },
-  {
-   "id": "cbe42dc4-1d6a-4a0e-a969-4bce32498844",
-   "title": {
-    "en": "THE iDOLM@STER - Notice Me HONEY! (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.30886537
+   "score": 0.32493016
   },
   {
    "id": "166cca0f-cc8f-442a-be11-6890a1cbff69",
@@ -79,10 +96,18 @@
     "en": "THE iDOLM@STER - Wonderful Lesson! (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.3073998,
+   "score": 0.32323816,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "cbe42dc4-1d6a-4a0e-a969-4bce32498844",
+   "title": {
+    "en": "THE iDOLM@STER - Notice Me HONEY! (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.32320723
   },
   {
    "id": "75ce1711-8af5-4620-bef7-e86d54ba41ee",
@@ -90,7 +115,26 @@
     "en": "THE iDOLM@STER - Until your color up/// (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.3007832,
+   "score": 0.32006484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d99800fe-1265-44a7-a5a2-8c33c14b200e",
+   "title": {
+    "en": "THE iDOLM@STER - Hibiki Manga (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.31857404
+  },
+  {
+   "id": "b6aa304d-190d-4587-b69c-f543722f1e19",
+   "title": {
+    "en": "Log Horizon - Muitemasen yo, Nureha-sama (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.31514677,
    "languages": [
     "en"
    ]
@@ -101,66 +145,24 @@
     "en": "THE iDOLM@STER - Winter Garden (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.29965967
+   "score": 0.31477758
   },
   {
-   "id": "edc30944-ab80-4d37-a65c-393601de59fe",
+   "id": "aa288fcb-b10a-4ffe-82fc-5a260440e6b6",
    "title": {
-    "en": "Melty Blood - Dead On Time (Doujinshi)"
+    "en": "Shingeki no Kyojin - Especially beautiful and peaceful world (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.29660565,
-   "languages": [
-    "en"
-   ]
+   "score": 0.30808148
   },
   {
-   "id": "97b1fde1-95d7-49d9-b701-32b33271e3ff",
+   "id": "bd52d369-3158-4908-8d2d-346cfa0aa350",
    "title": {
-    "en": "Touhou - Dioxin 4-koma collection (Doujinshi)"
+    "en": "Ib - 4-koma Compilation (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.2950095,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "ab7eced1-f407-4979-8861-cac16d03b9a8",
-   "title": {
-    "en": "Busou Shinki - Arnval 4Koma (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.28410664
-  },
-  {
-   "id": "c8d3b8c6-8824-4ed5-a310-c3864a726328",
-   "title": {
-    "en": "Valkyrie Profile 4Koma Theatre"
-   },
-   "contentRating": "safe",
-   "score": 0.2823224,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f22d2286-27ee-4a88-a88e-186063e4123d",
-   "title": {
-    "en": "BanG Dreaming!"
-   },
-   "contentRating": "safe",
-   "score": 0.28131348
-  },
-  {
-   "id": "c53ead76-e569-4936-bee2-eeb11e98f25d",
-   "title": {
-    "en": "THE iDOLM@STER - Hatsune Miki (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.27410182
+   "score": 0.30432117
   }
  ],
- "updatedAt": "2023-12-10T01:03:50+00:00"
+ "updatedAt": "2023-12-10T18:19:27+00:00"
 }

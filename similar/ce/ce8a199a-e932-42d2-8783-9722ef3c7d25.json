@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a3500b81-a211-4eef-9937-f7fc83c17fbb",
+   "title": {
+    "en": "Diary of a Quiet Life"
+   },
+   "contentRating": "safe",
+   "score": 0.22649352,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
    "title": {
     "en": "Asadora!"
@@ -16,6 +28,18 @@
     "es-la",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.21889625,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -60,18 +84,7 @@
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.17589962,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f28584db-87ac-4d12-85b1-2fae9afb634f",
-   "title": {
-    "en": "Someday He's Gonna Get Me"
-   },
-   "contentRating": "safe",
-   "score": 0.1746604,
+   "score": 0.17433442,
    "languages": [
     "en"
    ]
@@ -82,13 +95,24 @@
     "en": "Kowloon Generic Romance"
    },
    "contentRating": "safe",
-   "score": 0.17388152,
+   "score": 0.1742225,
    "languages": [
     "pt-br",
     "es-la",
     "zh-hk",
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "f28584db-87ac-4d12-85b1-2fae9afb634f",
+   "title": {
+    "en": "Someday He's Gonna Get Me"
+   },
+   "contentRating": "safe",
+   "score": 0.17415649,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -100,6 +124,57 @@
    "score": 0.17353812,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b7f830fe-4196-4d34-979a-587d6abc1f8a",
+   "title": {
+    "en": "Saihate no Serenade"
+   },
+   "contentRating": "safe",
+   "score": 0.17299347,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.17288695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cabaab27-e76f-4737-807b-7dc948fca35a",
+   "title": {
+    "en": "Tantei wa Mou, Shindeiru"
+   },
+   "contentRating": "safe",
+   "score": 0.17262188,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "it",
+    "tr"
+   ]
+  },
+  {
+   "id": "83acc901-c42e-4468-a6dd-f5d8b9d48567",
+   "title": {
+    "en": "Trillion Game"
+   },
+   "contentRating": "safe",
+   "score": 0.17190675,
+   "languages": [
+    "en",
+    "ru",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -127,83 +202,7 @@
     "it",
     "pt-br"
    ]
-  },
-  {
-   "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
-   "title": {
-    "en": "The Sorrows of Young Werther (Variety Art Works)"
-   },
-   "contentRating": "safe",
-   "score": 0.16919789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
-   "title": {
-    "en": "Doraemon"
-   },
-   "contentRating": "safe",
-   "score": 0.16882838,
-   "languages": [
-    "it",
-    "fr",
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "ec0d8a40-f503-44ce-922f-a9b7620f0288",
-   "title": {
-    "en": "Hataraki Man"
-   },
-   "contentRating": "safe",
-   "score": 0.1669333,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1e167d35-6b1f-4d5d-af00-be83160741fc",
-   "title": {
-    "en": "Skyscraper Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.16688055,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0296dc0b-7635-4154-927a-33c2244c4503",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru.: Monologue"
-   },
-   "contentRating": "safe",
-   "score": 0.16579485,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
-   "title": {
-    "en": "Black Humor Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.16233005,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:17+00:00"
+ "updatedAt": "2023-12-10T18:31:15+00:00"
 }

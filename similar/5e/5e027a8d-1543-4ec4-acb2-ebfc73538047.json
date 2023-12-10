@@ -11,7 +11,7 @@
     "en": "G (KOIKE Keiichi)"
    },
    "contentRating": "safe",
-   "score": 0.24257149,
+   "score": 0.2412852,
    "languages": [
     "en"
    ]
@@ -22,10 +22,18 @@
     "en": "SCIENCE ADV SERIES 5 Years Jubilee"
    },
    "contentRating": "safe",
-   "score": 0.22061615,
+   "score": 0.22582848,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d93975be-2375-446b-b110-9f912f306f38",
+   "title": {
+    "en": "Reming no Yuzue"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447
   },
   {
    "id": "0f96b3e1-a2eb-4d09-8db1-9c0b9926001f",
@@ -44,7 +52,18 @@
     "en": "Boku wa Chikyuu to Utau"
    },
    "contentRating": "safe",
-   "score": 0.21359804
+   "score": 0.2121086
+  },
+  {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.2099657,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "797d01fe-368c-4123-a577-5cd1c8035f5b",
@@ -52,7 +71,23 @@
     "en": "Laika"
    },
    "contentRating": "safe",
-   "score": 0.20691815
+   "score": 0.2054474
+  },
+  {
+   "id": "5621223a-f2cd-413a-baea-dabc108b0bd9",
+   "title": {
+    "en": "The Ring"
+   },
+   "contentRating": "safe",
+   "score": 0.19424595
+  },
+  {
+   "id": "a757a9ca-a4f4-4436-8eb3-1991a4766f6f",
+   "title": {
+    "en": "Kyoto Yuute mo Hashi no Hou"
+   },
+   "contentRating": "safe",
+   "score": 0.18884857
   },
   {
    "id": "1c3761c8-1ffd-49b8-8421-37a93d70bf55",
@@ -60,43 +95,12 @@
     "en": "Special Butterfly"
    },
    "contentRating": "safe",
-   "score": 0.18791671
+   "score": 0.18718897
   },
   {
-   "id": "c79c99ca-4256-4171-882a-a46c28b92866",
+   "id": "1412e01a-de2d-4883-bbe3-8bc5f85bfd86",
    "title": {
-    "en": "Phantomland"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211
-  },
-  {
-   "id": "07106f02-649a-4eb0-86f5-7c94351a4cc2",
-   "title": {
-    "en": "B.A.D. Beyond Another Darkness"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2c29d657-1a4f-43bb-ba61-c62e54051b89",
-   "title": {
-    "en": "Shinreigari - Another Side"
+    "en": "Outlast: The Murkoff Account"
    },
    "contentRating": "safe",
    "score": 0.18605211
@@ -114,6 +118,30 @@
    ]
   },
   {
+   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "title": {
+    "en": "Ultra Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.18605211,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f1f5c63e-668c-4055-9328-f6fe2cc200ee",
+   "title": {
+    "en": "Psycho Party"
+   },
+   "contentRating": "safe",
+   "score": 0.18605211,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
    "title": {
     "en": "Sekai de Ichiban, Ore ga ◯◯"
@@ -125,45 +153,13 @@
    ]
   },
   {
-   "id": "691eb00e-6aae-41dc-a76c-21033a5eedb8",
-   "title": {
-    "en": "Nishina Tesura wa Suiri shinai"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211
-  },
-  {
    "id": "7e9256d4-3f1d-4b9c-8f45-23b5ee37b3b1",
    "title": {
     "en": "Saisou Friends"
    },
    "contentRating": "safe",
    "score": 0.18605211
-  },
-  {
-   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
-   "title": {
-    "en": "Torikago Gakkyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
-   "title": {
-    "en": "The Watchman"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:30+00:00"
+ "updatedAt": "2023-12-10T18:18:31+00:00"
 }

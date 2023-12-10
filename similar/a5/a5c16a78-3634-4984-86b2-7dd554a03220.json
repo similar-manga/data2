@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "00fb4d6e-6b8f-417d-a0ed-78d1217a70d8",
+   "title": {
+    "en": "Kaze no Yari"
+   },
+   "contentRating": "safe",
+   "score": 0.24186082
+  },
+  {
    "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
    "title": {
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.2257133,
+   "score": 0.22466223,
    "languages": [
     "en"
    ]
@@ -31,6 +39,18 @@
    ]
   },
   {
+   "id": "685408cf-b6eb-457e-841b-122b9780acca",
+   "title": {
+    "en": "Blade of the Immortal - Bakumatsu Arc"
+   },
+   "contentRating": "safe",
+   "score": 0.22440824,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "fc3d7979-7aa9-4417-b289-ffc8c5057c98",
    "title": {
     "en": "Africa Army Corps"
@@ -44,10 +64,18 @@
     "en": "Arthur Bright"
    },
    "contentRating": "safe",
-   "score": 0.21266852,
+   "score": 0.20975569,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "3a862cc6-70ff-4361-9de1-33bdde5a2b9e",
+   "title": {
+    "en": "Angolmois - Genkou Kassenki Hakata-hen"
+   },
+   "contentRating": "safe",
+   "score": 0.20425193
   },
   {
    "id": "832cce77-102a-4f3c-80ca-ea4b082592a8",
@@ -55,7 +83,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.20135428
+   "score": 0.20034052
   },
   {
    "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
@@ -63,11 +91,46 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.19931413,
+   "score": 0.19893426,
    "languages": [
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "c0c22f91-bba5-4767-a361-499644c9a6de",
+   "title": {
+    "en": "Namida no Adauchi"
+   },
+   "contentRating": "safe",
+   "score": 0.18910053
+  },
+  {
+   "id": "6aa049b7-a8b8-4b42-a831-a3e8267b39ad",
+   "title": {
+    "en": "Legend of the Galactic Heroes - Portraits of Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.18910053,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "bca467c9-018b-49b6-bd1d-81c5b1cf4f0c",
+   "title": {
+    "en": "Maeda Keiji Kabukitabi"
+   },
+   "contentRating": "safe",
+   "score": 0.18732285
+  },
+  {
+   "id": "104a4efb-d305-4213-abb2-c237391979f0",
+   "title": {
+    "en": "Aircraft Carrier Ibuki: GREAT GAME"
+   },
+   "contentRating": "safe",
+   "score": 0.18732285
   },
   {
    "id": "26c1e1a6-3c8d-4513-af87-a2387eb69b90",
@@ -81,106 +144,21 @@
    ]
   },
   {
-   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
    "title": {
-    "en": "The Planet of Sutakola"
+    "en": "The Osamu Tezuka Story"
    },
    "contentRating": "safe",
-   "score": 0.18071312,
-   "languages": [
-    "en"
-   ]
+   "score": 0.18352422
   },
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
+   "id": "ce85e026-8be0-4917-893c-4fd9e2389aaa",
    "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
+    "en": "The Visual Dictionary of Shikujiri in Japanese History"
    },
    "contentRating": "safe",
-   "score": 0.18071312,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
-   "title": {
-    "en": "The Sorrows of Young Werther (Variety Art Works)"
-   },
-   "contentRating": "safe",
-   "score": 0.17694668,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "40ff7927-a2b8-4de4-9bc7-08f06c15dd94",
-   "title": {
-    "en": "Nobunaga-Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.17347685
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.17277369,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.17225337,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a055644f-4efa-42c7-b3c0-dfedcdbe4df5",
-   "title": {
-    "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
-   },
-   "contentRating": "safe",
-   "score": 0.17123894,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.16793942,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "08369c3f-003f-4c4d-9cc4-2dbbae568a08",
-   "title": {
-    "en": "Duelant"
-   },
-   "contentRating": "safe",
-   "score": 0.16646113,
-   "languages": [
-    "en"
-   ]
+   "score": 0.18318976
   }
  ],
- "updatedAt": "2023-12-10T01:06:35+00:00"
+ "updatedAt": "2023-12-10T18:26:49+00:00"
 }

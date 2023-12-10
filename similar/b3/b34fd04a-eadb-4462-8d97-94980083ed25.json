@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8ddc80c4-1e38-446a-a3ef-ef17012aea75",
+   "title": {
+    "en": "Dragon Ball Super (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.4289115,
+   "languages": [
+    "it"
+   ]
+  },
+  {
    "id": "c3be71c6-014a-4bca-ba10-5137ffed90a3",
    "title": {
     "en": "Dragon Ball GT"
    },
    "contentRating": "safe",
-   "score": 0.42633405,
+   "score": 0.4147758,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Dragon Ball Heroes - Victory Mission"
    },
    "contentRating": "safe",
-   "score": 0.4109483,
+   "score": 0.40315992,
    "languages": [
     "en",
     "es"
@@ -34,7 +45,7 @@
     "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
    },
    "contentRating": "safe",
-   "score": 0.38667655,
+   "score": 0.38154015,
    "languages": [
     "en",
     "es-la",
@@ -44,12 +55,25 @@
    ]
   },
   {
+   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
+   "title": {
+    "en": "Dragon Ball Minus"
+   },
+   "contentRating": "safe",
+   "score": 0.34989908,
+   "languages": [
+    "it",
+    "en",
+    "pt"
+   ]
+  },
+  {
    "id": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
    "title": {
     "en": "Dragon Ball X One Piece - Cross Epoch"
    },
    "contentRating": "safe",
-   "score": 0.3462867,
+   "score": 0.3384138,
    "languages": [
     "ca",
     "it",
@@ -60,16 +84,17 @@
    ]
   },
   {
-   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
+   "id": "f486a183-6660-492b-b94b-aa80960d8326",
    "title": {
-    "en": "Dragon Ball Minus"
+    "en": "Dragon Ball Super - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.33080983,
+   "score": 0.3168402,
    "languages": [
-    "it",
+    "ar",
     "en",
-    "pt"
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -78,9 +103,36 @@
     "en": "Super Dragon Ball Heroes: AVATARS!!"
    },
    "contentRating": "safe",
-   "score": 0.30333525,
+   "score": 0.29521787,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a81d7f35-eaca-43a8-9928-2b1b521556b2",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Meteor Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.27106515,
+   "languages": [
+    "es-la",
+    "fr",
+    "pl",
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "2f3dec35-0e65-4390-adcd-bc6ad8238421",
+   "title": {
+    "en": "Ryuu to Ryuugoroshi no Miko"
+   },
+   "contentRating": "safe",
+   "score": 0.2568203,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -89,21 +141,10 @@
     "en": "I'm Pretty Good at Mimicking Tien from Dragon Ball"
    },
    "contentRating": "safe",
-   "score": 0.25732037,
+   "score": 0.25105956,
    "languages": [
     "pt-br",
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
-   "title": {
-    "en": "Assobot Goku"
-   },
-   "contentRating": "safe",
-   "score": 0.23331757,
-   "languages": [
     "en"
    ]
   },
@@ -113,7 +154,18 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.23004793,
+   "score": 0.22545475,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aae2b42a-4e9f-4083-9e0a-0c33ba608d03",
+   "title": {
+    "en": "Assobot Goku"
+   },
+   "contentRating": "safe",
+   "score": 0.22026871,
    "languages": [
     "en"
    ]
@@ -124,7 +176,7 @@
     "en": "Ruri Dragon (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.22510283,
+   "score": 0.21970324,
    "languages": [
     "id",
     "it",
@@ -137,18 +189,15 @@
    ]
   },
   {
-   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
+   "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
    "title": {
-    "en": "Jump Super Stars"
+    "en": "Monster Bar"
    },
    "contentRating": "safe",
-   "score": 0.22331291,
+   "score": 0.21825846,
    "languages": [
-    "pt-br",
-    "pl",
     "en",
-    "it",
-    "hu"
+    "pt-br"
    ]
   },
   {
@@ -157,7 +206,7 @@
     "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
    },
    "contentRating": "safe",
-   "score": 0.22269759,
+   "score": 0.21674864,
    "languages": [
     "ru",
     "en",
@@ -165,55 +214,7 @@
     "fr",
     "pt-br"
    ]
-  },
-  {
-   "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
-   "title": {
-    "en": "Monster Bar"
-   },
-   "contentRating": "safe",
-   "score": 0.22150566,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "13212c17-e90c-4086-a2f0-3c69372e2d44",
-   "title": {
-    "en": "DRAGON BALL Z TV Animation Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.21826316,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
-   "title": {
-    "en": "Sand Land Full Color"
-   },
-   "contentRating": "safe",
-   "score": 0.20670696,
-   "languages": [
-    "es-la",
-    "pl"
-   ]
-  },
-  {
-   "id": "823f0015-aa41-49f5-b893-01d48089882e",
-   "title": {
-    "en": "Dragon Raja"
-   },
-   "contentRating": "safe",
-   "score": 0.20507067,
-   "languages": [
-    "en",
-    "es",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:09+00:00"
+ "updatedAt": "2023-12-10T18:28:24+00:00"
 }

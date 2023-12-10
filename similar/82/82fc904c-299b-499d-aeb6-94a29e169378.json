@@ -11,7 +11,7 @@
     "ja": "Obon wa Maitoshi ai ni Kuru Kazoku no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.32711646,
+   "score": 0.3248833,
    "languages": [
     "en",
     "id"
@@ -23,7 +23,7 @@
     "en": "Colors"
    },
    "contentRating": "safe",
-   "score": 0.3205528,
+   "score": 0.32033646,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.31981054,
+   "score": 0.3176956,
    "languages": [
     "pt-br",
     "ru",
@@ -49,7 +49,7 @@
     "en": "Triangle"
    },
    "contentRating": "safe",
-   "score": 0.31619665,
+   "score": 0.31514016,
    "languages": [
     "pl",
     "en"
@@ -61,7 +61,7 @@
     "en": "Then, I'll Go First"
    },
    "contentRating": "safe",
-   "score": 0.31483647,
+   "score": 0.31482962,
    "languages": [
     "de",
     "en"
@@ -73,7 +73,7 @@
     "en": "Sumika's Home"
    },
    "contentRating": "safe",
-   "score": 0.31314582,
+   "score": 0.31152523,
    "languages": [
     "en"
    ]
@@ -84,7 +84,7 @@
     "en": "Our Time of Dawn"
    },
    "contentRating": "safe",
-   "score": 0.30379656,
+   "score": 0.30243066,
    "languages": [
     "en",
     "it"
@@ -96,9 +96,21 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.30281436,
+   "score": 0.30202037,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "04bca7eb-2a47-488d-a227-17dbda5371cf",
+   "title": {
+    "en": "Aosora"
+   },
+   "contentRating": "safe",
+   "score": 0.3011952,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -107,7 +119,7 @@
     "en": "Seaside Return"
    },
    "contentRating": "safe",
-   "score": 0.2997095,
+   "score": 0.29987898,
    "languages": [
     "en"
    ]
@@ -118,7 +130,7 @@
     "en": "Green"
    },
    "contentRating": "safe",
-   "score": 0.29944652,
+   "score": 0.29773518,
    "languages": [
     "ar",
     "it",
@@ -127,40 +139,16 @@
    ]
   },
   {
-   "id": "04bca7eb-2a47-488d-a227-17dbda5371cf",
-   "title": {
-    "en": "Aosora"
-   },
-   "contentRating": "safe",
-   "score": 0.29915398,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "f093dcb2-848d-4540-b114-b800256f87ed",
    "title": {
     "en": "By the Tama River"
    },
    "contentRating": "safe",
-   "score": 0.29496568,
+   "score": 0.2943,
    "languages": [
     "en",
     "pt-br",
     "ru"
-   ]
-  },
-  {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
-   "title": {
-    "en": "Olga A Yiri"
-   },
-   "contentRating": "safe",
-   "score": 0.29232487,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -169,7 +157,7 @@
     "en": "Kimi wa Boku no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.287498,
+   "score": 0.2898382,
    "languages": [
     "uk",
     "bg",
@@ -183,7 +171,7 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.28693986,
+   "score": 0.28569853,
    "languages": [
     "de",
     "en",
@@ -191,16 +179,30 @@
    ]
   },
   {
-   "id": "0d083d63-7751-4f40-b5ae-552d2de55ed6",
+   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
    "title": {
-    "en": "Yuubae ni Niji"
+    "en": "Sayonara Bye-Bye"
    },
    "contentRating": "safe",
-   "score": 0.2864138,
+   "score": 0.2851258,
    "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
+   "title": {
+    "en": "Olga A Yiri"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:01+00:00"
+ "updatedAt": "2023-12-10T18:22:41+00:00"
 }

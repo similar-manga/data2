@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
+   "title": {
+    "en": "Good-bye, My 19 year Old Self"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
    "title": {
     "en": "Butterfly in the Air"
@@ -33,7 +46,7 @@
     "en": "Hitori-tachi"
    },
    "contentRating": "safe",
-   "score": 0.27176774,
+   "score": 0.27397057,
    "languages": [
     "pl",
     "pt-br",
@@ -46,7 +59,7 @@
     "en": "Merry Go Round In Wonderland"
    },
    "contentRating": "safe",
-   "score": 0.26828948,
+   "score": 0.26871157,
    "languages": [
     "en"
    ]
@@ -57,7 +70,7 @@
     "en": "Delinquent Cinderella"
    },
    "contentRating": "safe",
-   "score": 0.26091152,
+   "score": 0.25843903,
    "languages": [
     "en"
    ]
@@ -68,7 +81,7 @@
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.2550519,
+   "score": 0.25489584,
    "languages": [
     "fr",
     "en",
@@ -77,14 +90,15 @@
    ]
   },
   {
-   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "id": "5bc8917e-2d26-479c-95fc-4a145bb9729a",
    "title": {
-    "en": "Dana's Garden"
+    "en": "Re Re Honey ~S.O.S Daisakusen~"
    },
    "contentRating": "safe",
-   "score": 0.25466043,
+   "score": 0.25188455,
    "languages": [
-    "en"
+    "fr",
+    "pt-br"
    ]
   },
   {
@@ -93,28 +107,38 @@
     "en": "Nan Eomma Nun Appa"
    },
    "contentRating": "safe",
-   "score": 0.25009042,
+   "score": 0.24919906,
    "languages": [
     "it",
     "pl"
    ]
   },
   {
-   "id": "5bc8917e-2d26-479c-95fc-4a145bb9729a",
+   "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
    "title": {
-    "en": "Re Re Honey ~S.O.S Daisakusen~"
+    "en": "Hajimari no Kotoba"
    },
    "contentRating": "safe",
-   "score": 0.25007492,
+   "score": 0.24905154,
    "languages": [
-    "fr",
-    "pt-br"
+    "en"
    ]
   },
   {
    "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
    "title": {
     "en": "My Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "title": {
+    "en": "Dana's Garden"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -135,12 +159,23 @@
    ]
   },
   {
+   "id": "dac61fbb-f32b-4f53-917a-1e33c11b16d9",
+   "title": {
+    "en": "Ex-husband, Please Go Away!"
+   },
+   "contentRating": "safe",
+   "score": 0.24697796,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3b0e10a3-7685-46fd-8707-7f4a935c978a",
    "title": {
     "en": "Merry Unbalance Christmas"
    },
    "contentRating": "safe",
-   "score": 0.24617185,
+   "score": 0.24625966,
    "languages": [
     "en",
     "pl"
@@ -152,45 +187,12 @@
     "en": "Good Person"
    },
    "contentRating": "safe",
-   "score": 0.24357209,
+   "score": 0.2433689,
    "languages": [
     "es",
     "en"
    ]
-  },
-  {
-   "id": "f555f2d1-1f85-4d80-b4b4-20ef0e9817ed",
-   "title": {
-    "en": "Garakuta Tenshi"
-   },
-   "contentRating": "safe",
-   "score": 0.24230644,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
-   "title": {
-    "en": "Anne the Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.24114214,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
-   "title": {
-    "en": "Without the Sun"
-   },
-   "contentRating": "safe",
-   "score": 0.23748769,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:42+00:00"
+ "updatedAt": "2023-12-10T18:21:48+00:00"
 }

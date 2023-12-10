@@ -22,7 +22,7 @@
     "en": "Hitogata"
    },
    "contentRating": "safe",
-   "score": 0.23134622,
+   "score": 0.23131101,
    "languages": [
     "en",
     "es-la",
@@ -35,7 +35,7 @@
     "en": "Ankoku Jiten"
    },
    "contentRating": "safe",
-   "score": 0.22467026,
+   "score": 0.22453807,
    "languages": [
     "ru",
     "en"
@@ -54,16 +54,13 @@
    ]
   },
   {
-   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
    "title": {
-    "en": "Jinjori Barai"
+    "en": "Mashira"
    },
    "contentRating": "safe",
-   "score": 0.19572835,
+   "score": 0.19472603,
    "languages": [
-    "id",
-    "it",
-    "pt-br",
     "en"
    ]
   },
@@ -73,7 +70,7 @@
     "en": "Look Me in the Eyes When You Talk"
    },
    "contentRating": "safe",
-   "score": 0.19233806,
+   "score": 0.1931646,
    "languages": [
     "it",
     "en",
@@ -106,14 +103,40 @@
    ]
   },
   {
+   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
+   "title": {
+    "en": "Jinjori Barai"
+   },
+   "contentRating": "safe",
+   "score": 0.18823081,
+   "languages": [
+    "id",
+    "it",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.18692681,
+   "score": 0.18643409,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
+   "title": {
+    "en": "JUMBO MAX"
+   },
+   "contentRating": "safe",
+   "score": 0.18257418,
+   "languages": [
+    "en",
+    "zh-hk"
    ]
   },
   {
@@ -128,12 +151,32 @@
    ]
   },
   {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.18213008,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "1860fa21-5e26-49d1-a0ac-09aa959f4fbc",
    "title": {
     "en": "Shokujin Shokuyuujou"
    },
    "contentRating": "safe",
-   "score": 0.17973712,
+   "score": 0.17916533,
    "languages": [
     "en",
     "id"
@@ -145,7 +188,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.17733349,
+   "score": 0.17650484,
    "languages": [
     "pt-br",
     "en",
@@ -155,50 +198,17 @@
    ]
   },
   {
-   "id": "460e98d7-74ce-4c61-9f38-e248be115829",
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
    "title": {
-    "en": "Shuuenchi"
+    "en": "Balemount"
    },
    "contentRating": "safe",
-   "score": 0.17036709,
+   "score": 0.17524353,
    "languages": [
+    "ru",
     "en"
-   ]
-  },
-  {
-   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
-   "title": {
-    "en": "Ringwanderung"
-   },
-   "contentRating": "safe",
-   "score": 0.17034228,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52c66179-edb4-4fd0-93e7-715853b81ae0",
-   "title": {
-    "en": "Merboy"
-   },
-   "contentRating": "safe",
-   "score": 0.16564313,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
-   "title": {
-    "en": "He Was My Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.16505538,
-   "languages": [
-    "en",
-    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:28+00:00"
+ "updatedAt": "2023-12-10T18:18:25+00:00"
 }

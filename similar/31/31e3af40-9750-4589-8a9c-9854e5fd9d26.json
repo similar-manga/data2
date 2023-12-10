@@ -11,18 +11,7 @@
     "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.2802886,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e19a9bff-bc35-48c4-8b73-cfecb4f250c9",
-   "title": {
-    "en": "Change Mark"
-   },
-   "contentRating": "safe",
-   "score": 0.22641644,
+   "score": 0.2997629,
    "languages": [
     "en"
    ]
@@ -37,28 +26,6 @@
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "61020b4f-51c2-459a-95f8-8ee4ba6e4145",
-   "title": {
-    "en": "Minotaurus's Plate"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
-   "title": {
-    "en": "We'll Go See the Ocean."
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -78,9 +45,20 @@
    ]
   },
   {
-   "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
+   "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
    "title": {
-    "en": "#Wasurete Shimau Watashitachi"
+    "en": "We'll Go See the Ocean."
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "61020b4f-51c2-459a-95f8-8ee4ba6e4145",
+   "title": {
+    "en": "Minotaurus's Plate"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -101,32 +79,14 @@
    ]
   },
   {
-   "id": "1f166f50-5e4e-4a4a-8863-4ac4e7e5da50",
+   "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
    "title": {
-    "en": "The Day I Became My Sister"
+    "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.216605,
+   "score": 0.22131334,
    "languages": [
-    "id",
     "en"
-   ]
-  },
-  {
-   "id": "dd54a429-ea24-469f-b4c0-23eaa76a6e5d",
-   "title": {
-    "en": "Love Letter"
-   },
-   "contentRating": "safe",
-   "score": 0.21299832,
-   "languages": [
-    "tr",
-    "ca",
-    "fa",
-    "fr",
-    "en",
-    "id",
-    "pt-br"
    ]
   },
   {
@@ -135,7 +95,7 @@
     "en": "Moonlight Mile"
    },
    "contentRating": "safe",
-   "score": 0.21162428,
+   "score": 0.22082889,
    "languages": [
     "it",
     "ru",
@@ -143,13 +103,14 @@
    ]
   },
   {
-   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
+   "id": "1f166f50-5e4e-4a4a-8863-4ac4e7e5da50",
    "title": {
-    "en": "TC-225"
+    "en": "The Day I Became My Sister"
    },
    "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.21961717,
    "languages": [
+    "id",
     "en"
    ]
   },
@@ -180,12 +141,23 @@
    ]
   },
   {
-   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
+   "id": "e19a9bff-bc35-48c4-8b73-cfecb4f250c9",
    "title": {
-    "en": "Second Coming"
+    "en": "Change Mark"
    },
    "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
+   "title": {
+    "en": "TC-225"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
@@ -201,7 +173,30 @@
     "en",
     "it"
    ]
+  },
+  {
+   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
+   "title": {
+    "en": "Second Coming"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3cfbe8bd-7f9c-43d8-a15b-d295110e85d4",
+   "title": {
+    "en": "Planet (MIZUKI Shigeru)"
+   },
+   "contentRating": "safe",
+   "score": 0.19220132,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:40+00:00"
+ "updatedAt": "2023-12-10T18:13:39+00:00"
 }

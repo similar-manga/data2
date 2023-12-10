@@ -11,7 +11,7 @@
     "en": "Hetalia World☆Stars"
    },
    "contentRating": "safe",
-   "score": 0.27927455,
+   "score": 0.2838438,
    "languages": [
     "en",
     "vi"
@@ -23,7 +23,7 @@
     "en": "Arcana 09 - Transformation☆Personification"
    },
    "contentRating": "safe",
-   "score": 0.25615126,
+   "score": 0.26100427,
    "languages": [
     "en",
     "pl",
@@ -37,7 +37,7 @@
     "en": "My Sister and the Thing She Rolled on Her Face"
    },
    "contentRating": "safe",
-   "score": 0.24903257,
+   "score": 0.24881466,
    "languages": [
     "es-la",
     "pt-br",
@@ -52,7 +52,7 @@
     "en": "Rome Rome"
    },
    "contentRating": "safe",
-   "score": 0.24699412,
+   "score": 0.24691045,
    "languages": [
     "en",
     "pl"
@@ -64,7 +64,7 @@
     "en": "See You Again"
    },
    "contentRating": "safe",
-   "score": 0.24420966,
+   "score": 0.24157861,
    "languages": [
     "en",
     "vi"
@@ -97,19 +97,6 @@
    ]
   },
   {
-   "id": "c1aa560c-1d60-4c4b-b688-a3bdf8d84bd6",
-   "title": {
-    "en": "Hidari Te"
-   },
-   "contentRating": "safe",
-   "score": 0.2394235,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "53906ed4-8c67-46f8-8738-d41bfd44ecab",
    "title": {
     "en": "Umezu-sensei and I"
@@ -118,6 +105,19 @@
    "score": 0.23809525,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c1aa560c-1d60-4c4b-b688-a3bdf8d84bd6",
+   "title": {
+    "en": "Hidari Te"
+   },
+   "contentRating": "safe",
+   "score": 0.23729031,
+   "languages": [
+    "pl",
+    "en",
+    "fr"
    ]
   },
   {
@@ -137,9 +137,35 @@
     "en": "Nioi o kagu no ga suki na onnanoko"
    },
    "contentRating": "safe",
-   "score": 0.23261905,
+   "score": 0.23182455,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "05173a21-1c46-4aa8-9979-c019e53a5842",
+   "title": {
+    "en": "A Bug in the World System"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "4ecf6fc8-46ac-4dd8-90cd-7bf0398ae5ed",
+   "title": {
+    "en": "What The Girl Says Every Time"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "es-la",
+    "en",
+    "fr",
+    "tr"
    ]
   },
   {
@@ -157,56 +183,33 @@
    ]
   },
   {
-   "id": "dfe277c0-ebc1-41c3-8b49-b7d651575b2d",
+   "id": "f0712f04-7528-4b76-bc2e-cd4d7927cb88",
    "title": {
-    "en": "A Clean-Freak Girl's Exception"
+    "en": "Nande Kono Heroine wa Mote Nainda...?"
    },
    "contentRating": "safe",
    "score": 0.23015875,
    "languages": [
-    "vi",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "96bc8859-a7e3-4e89-afa6-5ec6be278286",
+   "title": {
+    "en": "Street Crossing Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "ru",
+    "es-la",
     "id",
-    "es-la",
+    "pt-br",
+    "it",
     "en"
-   ]
-  },
-  {
-   "id": "218b4404-a43d-4ffe-a997-64b5ea525773",
-   "title": {
-    "en": "Running an Errand"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "d9bac10b-786b-41e1-aadc-d0c60c6ebeed",
-   "title": {
-    "en": "Shishunki ni Rikai no Aru Ane no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ecf6fc8-46ac-4dd8-90cd-7bf0398ae5ed",
-   "title": {
-    "en": "What The Girl Says Every Time"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "es-la",
-    "en",
-    "fr",
-    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:13+00:00"
+ "updatedAt": "2023-12-10T18:15:15+00:00"
 }

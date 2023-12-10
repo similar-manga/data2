@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "008c1aec-fbd9-41b6-ac9f-34cc44c04700",
+   "title": {
+    "en": "Sweet Pain (Minatsuki Tsunami)"
+   },
+   "contentRating": "safe",
+   "score": 0.33593413,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "50fd4a8e-f774-4e6b-88cb-e9a6f6a91ea0",
    "title": {
     "en": "Short Sunzen!"
    },
    "contentRating": "safe",
-   "score": 0.32371324,
+   "score": 0.32283357,
    "languages": [
     "en"
    ]
@@ -22,18 +33,42 @@
     "en": "Hakoniwa Angel"
    },
    "contentRating": "safe",
-   "score": 0.31990415,
+   "score": 0.31896403,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "307765fa-faae-49d5-99b3-5efe788350bc",
+   "id": "1a39491c-289c-40bf-bba2-5414e2ada850",
    "title": {
-    "en": "Kirameki Gingachou Shoutengai"
+    "en": "Koi no You na Mono Janaku"
    },
    "contentRating": "safe",
-   "score": 0.31908906,
+   "score": 0.3184602,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "a0685346-3f0b-4296-a8c3-8f502c2e7f24",
+   "title": {
+    "en": "Marriage Purple"
+   },
+   "contentRating": "safe",
+   "score": 0.3184108,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "e8389656-9267-4f3b-8495-c0324b3debbb",
+   "title": {
+    "ja": "Houkago, Kare to Kekkon Shimasu."
+   },
+   "contentRating": "safe",
+   "score": 0.31626713,
    "languages": [
     "en"
    ]
@@ -44,7 +79,18 @@
     "en": "Don't Believe Her"
    },
    "contentRating": "safe",
-   "score": 0.31566313,
+   "score": 0.31481713,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "307765fa-faae-49d5-99b3-5efe788350bc",
+   "title": {
+    "en": "Kirameki Gingachou Shoutengai"
+   },
+   "contentRating": "safe",
+   "score": 0.31436083,
    "languages": [
     "en"
    ]
@@ -55,18 +101,7 @@
     "en": "Roke Mani"
    },
    "contentRating": "safe",
-   "score": 0.31441447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
-   "title": {
-    "en": "Strange Orange"
-   },
-   "contentRating": "safe",
-   "score": 0.31290528,
+   "score": 0.31327328,
    "languages": [
     "en"
    ]
@@ -77,10 +112,33 @@
     "en": "Aozora Pop"
    },
    "contentRating": "safe",
-   "score": 0.31265312,
+   "score": 0.31163192,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
+   "title": {
+    "en": "Strange Orange"
+   },
+   "contentRating": "safe",
+   "score": 0.31157082,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e8b28147-a921-495e-b9b7-4d1c517675aa",
+   "title": {
+    "en": "The Astrometry"
+   },
+   "contentRating": "safe",
+   "score": 0.31155443,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -89,18 +147,18 @@
     "en": "Suki tte Iwaseru Houhou"
    },
    "contentRating": "safe",
-   "score": 0.30961424,
+   "score": 0.30965242,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d475ef5-6afb-4ce7-9890-9a216de9efc4",
+   "id": "b86bef92-0a1c-4b23-93d2-a05e286fa17b",
    "title": {
-    "en": "Hadashi no Aitsu"
+    "en": "Azusa Kasasagi and the Seven Enemies"
    },
    "contentRating": "safe",
-   "score": 0.30687755,
+   "score": 0.30845693,
    "languages": [
     "en"
    ]
@@ -111,77 +169,22 @@
     "en": "Hanjuku Hime"
    },
    "contentRating": "safe",
-   "score": 0.30649364,
+   "score": 0.3051158,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e9292fd2-26f0-4847-a88a-0d3e345d58e4",
+   "id": "5d475ef5-6afb-4ce7-9890-9a216de9efc4",
    "title": {
-    "en": "Donmai Princess"
+    "en": "Hadashi no Aitsu"
    },
    "contentRating": "safe",
-   "score": 0.30447042,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "760be47f-12d0-476d-bed3-f1a9384d33c3",
-   "title": {
-    "en": "Kimi ga Suki Toka Arienai"
-   },
-   "contentRating": "safe",
-   "score": 0.3041049,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "95ecb170-3fb7-4298-b601-174cc8904bcd",
-   "title": {
-    "en": "My Platinum Lady"
-   },
-   "contentRating": "safe",
-   "score": 0.3034494,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f04a30cd-05cb-4aca-b6bc-d4bf4d06ee5a",
-   "title": {
-    "en": "Yomogi Mochi Yaketa?"
-   },
-   "contentRating": "safe",
-   "score": 0.30307162,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e43f128a-9514-4e50-bb9f-3abae4ffa4d8",
-   "title": {
-    "en": "Romanticist Egoist"
-   },
-   "contentRating": "safe",
-   "score": 0.30278137,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e6fef93-a671-498b-b101-84cbad321371",
-   "title": {
-    "en": "Kikenchitai Danshi - Kedamono Black \u0026 White"
-   },
-   "contentRating": "safe",
-   "score": 0.30185547,
+   "score": 0.30501282,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:59+00:00"
+ "updatedAt": "2023-12-10T18:35:27+00:00"
 }

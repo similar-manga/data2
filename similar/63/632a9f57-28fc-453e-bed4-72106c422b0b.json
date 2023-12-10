@@ -11,10 +11,21 @@
     "en": "Afterschool Connection"
    },
    "contentRating": "safe",
-   "score": 0.29132318,
+   "score": 0.2930117,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "cc00ca27-f636-46fa-8fcc-cf3d74e63270",
+   "title": {
+    "en": "City of Darkness 2"
+   },
+   "contentRating": "safe",
+   "score": 0.25731352,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -26,33 +37,6 @@
    "score": 0.25555065,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
-   "title": {
-    "en": "Tokyo X Day"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
-   "title": {
-    "en": "Hello Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "ca",
-    "en",
-    "hu",
-    "pl",
-    "ro",
-    "de"
    ]
   },
   {
@@ -78,23 +62,39 @@
    ]
   },
   {
-   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
+   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
    "title": {
-    "en": "Zero"
+    "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.25008088,
+   "score": 0.25555065,
+   "languages": [
+    "ca",
+    "en",
+    "hu",
+    "pl",
+    "ro",
+    "de"
+   ]
+  },
+  {
+   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
+   "title": {
+    "en": "Tokyo X Day"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "91299608-6817-4ad2-8ae3-30cab259c77e",
+   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
    "title": {
-    "en": "Mushroom Hero"
+    "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.24882585,
+   "score": 0.2491277,
    "languages": [
     "en"
    ]
@@ -105,7 +105,7 @@
     "en": "Snow Maidens"
    },
    "contentRating": "safe",
-   "score": 0.24462579,
+   "score": 0.24492443,
    "languages": [
     "fr",
     "ar",
@@ -127,12 +127,23 @@
    ]
   },
   {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.23726995,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "41797f21-635f-428d-8a71-78c25ed11b46",
    "title": {
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.23576978,
+   "score": 0.23530747,
    "languages": [
     "es-la",
     "en"
@@ -144,7 +155,7 @@
     "en": "Super Nyatta (Solatorobo Spin-Off Manga)"
    },
    "contentRating": "safe",
-   "score": 0.23259382,
+   "score": 0.23220712,
    "languages": [
     "en"
    ]
@@ -155,22 +166,10 @@
     "en": "Ice Blade: The Lost File"
    },
    "contentRating": "safe",
-   "score": 0.23225312,
+   "score": 0.23206094,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "fdf89ccc-b244-408f-b164-afede1163661",
-   "title": {
-    "en": "Until You Fall Asleep"
-   },
-   "contentRating": "safe",
-   "score": 0.23149873,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -179,7 +178,7 @@
     "en": "Wings"
    },
    "contentRating": "safe",
-   "score": 0.23005001,
+   "score": 0.23125172,
    "languages": [
     "fr",
     "bg",
@@ -192,16 +191,17 @@
    ]
   },
   {
-   "id": "14589c18-4fc8-4321-a2bd-c95ba7c17b6a",
+   "id": "fdf89ccc-b244-408f-b164-afede1163661",
    "title": {
-    "en": "30 Second Sprinter"
+    "en": "Until You Fall Asleep"
    },
    "contentRating": "safe",
-   "score": 0.22924073,
+   "score": 0.23123543,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:42+00:00"
+ "updatedAt": "2023-12-10T18:19:04+00:00"
 }

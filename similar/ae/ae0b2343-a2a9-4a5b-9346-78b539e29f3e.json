@@ -6,6 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "27642b7f-d0be-45bb-97c3-9f7f4668d44f",
+   "title": {
+    "en": "Inferno"
+   },
+   "contentRating": "safe",
+   "score": 0.25717515,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "6c56ecf3-3256-4ada-9ed4-1271f961a155",
+   "title": {
+    "en": "Weiss Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.25303793,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5e05c279-67e1-4ae7-b0d2-a3b126671b1f",
    "title": {
     "en": "Lucky Dog 1 Blast"
@@ -19,6 +42,17 @@
    ]
   },
   {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.2458389,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1e440a10-709a-41e9-a546-c20e2fc0406f",
    "title": {
     "en": "The Descendant of the Dynasty"
@@ -29,6 +63,39 @@
     "en",
     "fr",
     "tr"
+   ]
+  },
+  {
+   "id": "d9b938d9-ec59-4050-b402-ec5ad3ba0d22",
+   "title": {
+    "en": "Diorama Toy Box"
+   },
+   "contentRating": "safe",
+   "score": 0.21522674,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "739dd80f-1fad-4980-b944-927b45331770",
+   "title": {
+    "en": "Shiro to Kuro no Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b713d3bf-27ae-4a96-a52a-ee80e22c667c",
+   "title": {
+    "en": "Shinigami ni Totsugu Hi"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -49,7 +116,7 @@
     "en": "Yowaito Nikki"
    },
    "contentRating": "safe",
-   "score": 0.20904742,
+   "score": 0.2087071,
    "languages": [
     "en"
    ]
@@ -79,12 +146,12 @@
    ]
   },
   {
-   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
+   "id": "d1ba7942-e344-476f-b5da-714edb317fcd",
    "title": {
-    "en": "Zero"
+    "en": "Neo Angelique"
    },
    "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.20036675,
    "languages": [
     "en"
    ]
@@ -101,106 +168,27 @@
    ]
   },
   {
-   "id": "d7c88a29-a66a-4e0f-8f18-59e7a2389246",
+   "id": "3b33635c-e74b-4a22-8933-4d9483f560ce",
    "title": {
-    "en": "Tiara"
+    "en": "Victoria of Many Talents"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.19166298,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d5fe36ba-42bc-4763-acfe-d690e6544a85",
+   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
    "title": {
-    "en": "Anti Anti Angel"
+    "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "57642280-65de-4879-a6e2-2e0420237369",
-   "title": {
-    "en": "Tenkuu Seiryuu ~Innocent Dragon~"
-   },
-   "contentRating": "safe",
-   "score": 0.18385607,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "7dad2def-bf82-49b3-a4f0-beb6a3c2bf79",
-   "title": {
-    "en": "Hakkenden: Touhou Hakken Ibun"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
-   "title": {
-    "en": "Akatsuki no Yona"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "bg",
-    "ru",
-    "ar",
-    "pt-br",
-    "hu",
-    "tr",
-    "pl",
-    "id"
-   ]
-  },
-  {
-   "id": "47f1436c-cb88-4645-bbf7-605873c567f3",
-   "title": {
-    "en": "The Revenge of the Duke's Daughter Theresia"
-   },
-   "contentRating": "safe",
-   "score": 0.1788392,
-   "languages": [
-    "ru",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "4b3a79b2-64ba-452e-b014-94b5a3e1e4e9",
-   "title": {
-    "en": "Himegimi no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5bb51c1e-d9c5-4897-89ac-f79ff6b12763",
-   "title": {
-    "en": "Ritsuka to Sousetsu no Kamui"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
+   "score": 0.19166298,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:56+00:00"
+ "updatedAt": "2023-12-10T18:27:48+00:00"
 }

@@ -6,14 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
+   "title": {
+    "en": "Dress-up Yuka-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.30506578,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "bf23d8f0-ea3f-4ced-bfd3-a589ba487bb8",
    "title": {
     "en": "Oneichan to Issho"
    },
    "contentRating": "safe",
-   "score": 0.29458332,
+   "score": 0.29719526,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f89d44b5-69df-4f17-8d68-c56a0bf125c6",
+   "title": {
+    "en": "My Older Sister's Friend is Annoying"
+   },
+   "contentRating": "safe",
+   "score": 0.2826873,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "vi"
    ]
   },
   {
@@ -22,7 +48,7 @@
     "en": "Gakuen Babysitters"
    },
    "contentRating": "safe",
-   "score": 0.28027293,
+   "score": 0.2796894,
    "languages": [
     "en",
     "pt-br",
@@ -36,7 +62,7 @@
     "en": "High School Debut"
    },
    "contentRating": "safe",
-   "score": 0.2698441,
+   "score": 0.2699772,
    "languages": [
     "en",
     "pl",
@@ -49,18 +75,31 @@
     "en": "Long-Distance Love Debut"
    },
    "contentRating": "safe",
-   "score": 0.26498517,
+   "score": 0.26675102,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
+   "id": "28074f2b-f393-474a-8b13-ec196c4be75e",
    "title": {
-    "en": "Dress-up Yuka-chan"
+    "en": "Haru no Arashi to Monster"
    },
    "contentRating": "safe",
-   "score": 0.25632235,
+   "score": 0.25604215,
+   "languages": [
+    "ar",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
+   "title": {
+    "en": "Hey Miss, Don't You Know?"
+   },
+   "contentRating": "safe",
+   "score": 0.2551056,
    "languages": [
     "en"
    ]
@@ -71,7 +110,7 @@
     "en": "Skip Beat!"
    },
    "contentRating": "safe",
-   "score": 0.24986628,
+   "score": 0.24932551,
    "languages": [
     "en",
     "pl",
@@ -81,26 +120,75 @@
    ]
   },
   {
-   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
+   "id": "a3bc925d-d02a-498c-b3b6-fa588568410b",
    "title": {
-    "en": "Orgel Garden"
+    "en": "Kono Setsugen de Kimi ga Zutto Waratte Irareru you ni"
    },
    "contentRating": "safe",
-   "score": 0.24556765,
+   "score": 0.2484047,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "9b7d94cb-d0aa-4c39-9fb9-490d793083b5",
+   "title": {
+    "en": "Sleeping Beauty Age"
+   },
+   "contentRating": "safe",
+   "score": 0.24710196,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ce02c6b3-2537-4fa2-af4d-93cd81c9973c",
+   "id": "5705813a-91fc-4f5a-af0d-b4f2c2a194f4",
    "title": {
-    "en": "Big Sister VS Big Brother"
+    "en": "I Fell for My Friend's Older Sister"
    },
    "contentRating": "safe",
-   "score": 0.23946409,
+   "score": 0.2464049,
    "languages": [
+    "fr",
     "en",
-    "fr"
+    "pt-br",
+    "pt",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
+   "title": {
+    "en": "Orgel Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24545021,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "934e9693-31f5-4469-b7a7-c27839d777e6",
+   "title": {
+    "en": "Little Sister"
+   },
+   "contentRating": "safe",
+   "score": 0.23952135,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3e4799d2-d587-4c85-a996-c4b674a18647",
+   "title": {
+    "en": "Itsudemo Otenki Kibun"
+   },
+   "contentRating": "safe",
+   "score": 0.23892452,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -113,86 +201,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
-   "title": {
-    "en": "Glass Mask"
-   },
-   "contentRating": "safe",
-   "score": 0.2383753,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "61283061-392c-465b-a3b5-ce16c1c23a55",
-   "title": {
-    "en": "Boku wa Ne."
-   },
-   "contentRating": "safe",
-   "score": 0.2365356,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "934e9693-31f5-4469-b7a7-c27839d777e6",
-   "title": {
-    "en": "Little Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.23623158,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
-   "title": {
-    "en": "Family!"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ababc3e5-b56a-44b1-96c6-d434f141f2ab",
-   "title": {
-    "en": "Kimi ni Todoke: From Me to You x Blue Sky Yell - 45° Eyebrows"
-   },
-   "contentRating": "safe",
-   "score": 0.23517977,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "66aea147-01b8-40e1-86fa-276e9ab6fdef",
-   "title": {
-    "en": "A Sloppy Girl Wishes for Love"
-   },
-   "contentRating": "safe",
-   "score": 0.23131207,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "71cc967d-5755-41c9-89a9-4f3e14884b1b",
-   "title": {
-    "en": "Sweet Bitter Love"
-   },
-   "contentRating": "safe",
-   "score": 0.23096271,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:14+00:00"
+ "updatedAt": "2023-12-10T18:25:46+00:00"
 }

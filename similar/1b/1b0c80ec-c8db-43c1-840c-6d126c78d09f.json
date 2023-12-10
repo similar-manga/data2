@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "339a6d49-9cc3-4435-98b6-59ddec3a6c0d",
-   "title": {
-    "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
-   },
-   "contentRating": "safe",
-   "score": 0.4054985,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "b00f5d5f-0801-4ad5-b343-1f229a7bd404",
    "title": {
     "en": "Jukokuin no Tensei Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.400449,
+   "score": 0.40545008,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "339a6d49-9cc3-4435-98b6-59ddec3a6c0d",
+   "title": {
+    "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
+   },
+   "contentRating": "safe",
+   "score": 0.40246403,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -34,10 +34,24 @@
     "en": "Boku igai Zennin Tenseisha ka yo!?"
    },
    "contentRating": "safe",
-   "score": 0.3964436,
+   "score": 0.3943929,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "258d2691-ffea-4e77-8968-ce5c24ffc6f7",
+   "title": {
+    "en": "Isekai Tensei de Kenja ni Natte Boukensha Seikatsu ~[Mahou Kairyou] de Isekai Saikyou~"
+   },
+   "contentRating": "safe",
+   "score": 0.38331047,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -46,7 +60,7 @@
     "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
    },
    "contentRating": "safe",
-   "score": 0.37698016,
+   "score": 0.37102747,
    "languages": [
     "en",
     "fr",
@@ -56,15 +70,19 @@
    ]
   },
   {
-   "id": "ded667f1-a499-4805-b930-2b06d138aca5",
+   "id": "f81026af-1b41-465c-932b-291ce4760c00",
    "title": {
-    "en": "Kuroneko Nyango no Bouken ~ Rare Zokusei o Hikiatetanode, Kimamana Bouken-sha o Mezashimasu ~"
+    "en": "Tensei Kenja no Isekai Life ~Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita~"
    },
    "contentRating": "safe",
-   "score": 0.37332982,
+   "score": 0.3691856,
    "languages": [
     "en",
-    "pl"
+    "pt-br",
+    "ru",
+    "id",
+    "fr",
+    "th"
    ]
   },
   {
@@ -73,11 +91,23 @@
     "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
    },
    "contentRating": "safe",
-   "score": 0.37219355,
+   "score": 0.36783504,
    "languages": [
     "pt-br",
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "ded667f1-a499-4805-b930-2b06d138aca5",
+   "title": {
+    "en": "Kuroneko Nyango no Bouken ~ Rare Zokusei o Hikiatetanode, Kimamana Bouken-sha o Mezashimasu ~"
+   },
+   "contentRating": "safe",
+   "score": 0.3677349,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -86,24 +116,24 @@
     "en": "The Conqueror From a Dying Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.34526363,
+   "score": 0.3500232,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
+   "id": "032f800d-d632-4442-8830-d037d616ead4",
    "title": {
-    "en": "Monogatari no Kuromaku ni Tensei Shite"
+    "en": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru"
    },
    "contentRating": "safe",
-   "score": 0.3375907,
+   "score": 0.34353217,
    "languages": [
-    "pt-br",
-    "fr",
     "en",
-    "id"
+    "vi",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -112,11 +142,25 @@
     "en": "Saitei Chara ni Tensei shita Ore wa Ikinokoritai"
    },
    "contentRating": "safe",
-   "score": 0.33749858,
+   "score": 0.34242487,
    "languages": [
     "pt-br",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
+   "title": {
+    "en": "Monogatari no Kuromaku ni Tensei Shite"
+   },
+   "contentRating": "safe",
+   "score": 0.34150016,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "id"
    ]
   },
   {
@@ -125,10 +169,36 @@
     "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.3365905,
+   "score": 0.33906046,
    "languages": [
     "fr",
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3bc00a43-f16f-4bb3-b3c2-59b6e9effdd1",
+   "title": {
+    "en": "Ochikobore Kenshi, Tsuihousareta no de Majutsushi ni Tenkou suru - Kenshi no Toki wa Gomi Skill datta \"Zettai Kioku\" wa Majutsushi ni Totte wa Kami Skill deshita"
+   },
+   "contentRating": "safe",
+   "score": 0.33735698,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
+   "title": {
+    "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
+   },
+   "contentRating": "safe",
+   "score": 0.3365602,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "fr",
     "pt-br"
    ]
   },
@@ -138,7 +208,7 @@
     "en": "Kojiin Tamer"
    },
    "contentRating": "safe",
-   "score": 0.33618787,
+   "score": 0.3364874,
    "languages": [
     "en",
     "pt-br",
@@ -146,77 +216,8 @@
     "fr",
     "ar",
     "es-la"
-   ]
-  },
-  {
-   "id": "c5bf33f1-498d-425b-b22b-83d4ccb8c341",
-   "title": {
-    "en": "Level 0 no Maou-sama, Isekai de Boukensha wo Hajimemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.33305222,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "ar",
-    "es-la"
-   ]
-  },
-  {
-   "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
-   "title": {
-    "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
-   },
-   "contentRating": "safe",
-   "score": 0.33123222,
-   "languages": [
-    "ru",
-    "en",
-    "id",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a21eab2d-781d-40b2-a666-7b2d72551927",
-   "title": {
-    "en": "Akuninzura shita B-kyuu Boukensha"
-   },
-   "contentRating": "safe",
-   "score": 0.3310161,
-   "languages": [
-    "it",
-    "pt-br",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "4e46a1b9-8783-494d-8e25-c3dd00cc79d4",
-   "title": {
-    "en": "Kono Sekai de Ore dake ga \"Level Up\" wo Shitteiru"
-   },
-   "contentRating": "safe",
-   "score": 0.3295776,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "37346398-d9ff-40e8-bc14-6c9847d559e5",
-   "title": {
-    "en": "Tensei Shichattayo (Iya, Gomen)"
-   },
-   "contentRating": "safe",
-   "score": 0.3234524,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:48+00:00"
+ "updatedAt": "2023-12-10T18:11:13+00:00"
 }

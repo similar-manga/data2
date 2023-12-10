@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ec482098-7ce2-4bbb-bb1e-ab64873c36ac",
+   "title": {
+    "en": "Awa Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.30362904,
+   "languages": [
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
    "id": "e7f21de4-42b4-42ab-bac8-31153d8e248e",
    "title": {
     "en": "Lemon Planet"
    },
    "contentRating": "safe",
-   "score": 0.300798,
+   "score": 0.3002828,
    "languages": [
     "it"
    ]
@@ -22,9 +34,21 @@
     "en": "Sensei no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.29578522,
+   "score": 0.2955139,
    "languages": [
     "it"
+   ]
+  },
+  {
+   "id": "ec355e43-91e3-4997-813e-e02d19da0546",
+   "title": {
+    "en": "Na no ni, Chigira-kun ga Amasugiru."
+   },
+   "contentRating": "safe",
+   "score": 0.2934162,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -33,29 +57,7 @@
     "en": "Hatsukoi Ryuuseigun"
    },
    "contentRating": "safe",
-   "score": 0.28626618,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2e571be3-c634-48ab-a813-4834d08f2806",
-   "title": {
-    "en": "Yumeiro Button"
-   },
-   "contentRating": "safe",
-   "score": 0.2862193,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "f934048a-9a6a-46be-95be-52017aaa0ebd",
-   "title": {
-    "en": "Dekiai Oresama Tailor"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.28596035,
    "languages": [
     "pt-br"
    ]
@@ -73,12 +75,69 @@
    ]
   },
   {
+   "id": "d36f5848-aa0e-47cd-a0b3-316251300c3e",
+   "title": {
+    "en": "Futamebore"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "f934048a-9a6a-46be-95be-52017aaa0ebd",
+   "title": {
+    "en": "Dekiai Oresama Tailor"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a2213bd4-45b2-4483-8277-69cdac247f0b",
+   "title": {
+    "en": "Yakkai na Hatsukoi wa... Senpai to"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "2e571be3-c634-48ab-a813-4834d08f2806",
+   "title": {
+    "en": "Yumeiro Button"
+   },
+   "contentRating": "safe",
+   "score": 0.28483388,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "aceae7a9-54ba-4fb5-999f-29528a7e4a2a",
+   "title": {
+    "en": "Bokura no Suki wa Warikirenai"
+   },
+   "contentRating": "safe",
+   "score": 0.27857772,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "3486eb06-10ba-4634-9b92-9baada32cd6d",
    "title": {
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.27192998,
+   "score": 0.27022207,
    "languages": [
     "pt-br",
     "en"
@@ -90,7 +149,18 @@
     "en": "High School Musical"
    },
    "contentRating": "safe",
-   "score": 0.2669999,
+   "score": 0.2663387,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "008c1aec-fbd9-41b6-ac9f-34cc44c04700",
+   "title": {
+    "en": "Sweet Pain (Minatsuki Tsunami)"
+   },
+   "contentRating": "safe",
+   "score": 0.2564171,
    "languages": [
     "pt-br"
    ]
@@ -101,7 +171,7 @@
     "en": "Momoten Musume"
    },
    "contentRating": "safe",
-   "score": 0.24880263,
+   "score": 0.24854869,
    "languages": [
     "en",
     "pt-br"
@@ -113,7 +183,7 @@
     "en": "Christmas ni Omoi o Nosete"
    },
    "contentRating": "safe",
-   "score": 0.24743228,
+   "score": 0.24703163,
    "languages": [
     "pt-br",
     "it",
@@ -124,81 +194,7 @@
     "hu",
     "en"
    ]
-  },
-  {
-   "id": "98d501ca-3899-4b28-8d1c-401575e67314",
-   "title": {
-    "en": "Dynamite Star"
-   },
-   "contentRating": "safe",
-   "score": 0.24595912,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
-   "title": {
-    "en": "Namae mo Shiranai"
-   },
-   "contentRating": "safe",
-   "score": 0.24559537,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "53708f5a-720d-4110-84b0-579b5d1bd312",
-   "title": {
-    "en": "Kiss wa, Kokuhaku no Mae ni"
-   },
-   "contentRating": "safe",
-   "score": 0.2451747,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "3f91f110-a015-401b-b919-c9ac7a6cc519",
-   "title": {
-    "en": "Christmas Romance"
-   },
-   "contentRating": "safe",
-   "score": 0.24472947,
-   "languages": [
-    "fr",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "bef3b995-4e15-4234-9201-1b846d7738d5",
-   "title": {
-    "en": "Wakusei Honey"
-   },
-   "contentRating": "safe",
-   "score": 0.24450143,
-   "languages": [
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a6672116-804e-40cf-a1d1-379f6508c65c",
-   "title": {
-    "en": "Sakashita-senpai no Koigokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.24318883,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:47+00:00"
+ "updatedAt": "2023-12-10T18:32:33+00:00"
 }

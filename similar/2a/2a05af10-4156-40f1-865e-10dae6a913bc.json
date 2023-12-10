@@ -11,7 +11,7 @@
     "en": "Attack of Heaven"
    },
    "contentRating": "suggestive",
-   "score": 0.22626504,
+   "score": 0.2279863,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "Umineko When They Cry Episode Collection"
    },
    "contentRating": "suggestive",
-   "score": 0.20058148,
+   "score": 0.19988213,
    "languages": [
     "en"
    ]
@@ -60,7 +60,7 @@
     "en": "Chi to Hai no Joou"
    },
    "contentRating": "suggestive",
-   "score": 0.19117776,
+   "score": 0.19067983,
    "languages": [
     "en",
     "pt-br",
@@ -88,7 +88,7 @@
     "en": "Mugen Shinshi: Ouma-hen"
    },
    "contentRating": "suggestive",
-   "score": 0.18811442,
+   "score": 0.18765974,
    "languages": [
     "en"
    ]
@@ -99,7 +99,7 @@
     "en": "Tsui no Taimashi ―Ender Geisterー"
    },
    "contentRating": "suggestive",
-   "score": 0.18638898,
+   "score": 0.18580812,
    "languages": [
     "es",
     "pt-br",
@@ -145,30 +145,12 @@
    ]
   },
   {
-   "id": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
-   "title": {
-    "en": "Gangsta"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18539047,
-   "languages": [
-    "ru",
-    "id",
-    "tr",
-    "uk",
-    "pt-br",
-    "en",
-    "pl",
-    "it"
-   ]
-  },
-  {
    "id": "936765df-fd02-4659-9158-c1cefbbf4c51",
    "title": {
     "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
    },
    "contentRating": "suggestive",
-   "score": 0.18378994,
+   "score": 0.18327847,
    "languages": [
     "ru",
     "en",
@@ -177,23 +159,12 @@
    ]
   },
   {
-   "id": "2ec64065-a59d-49d0-97c6-c99816d09154",
-   "title": {
-    "en": "Korean Illustration"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18291129,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a1c7c817-4e59-43b7-9365-09675a149a6f",
    "title": {
     "en": "One Piece"
    },
    "contentRating": "suggestive",
-   "score": 0.18110609,
+   "score": 0.18060039,
    "languages": [
     "ca",
     "pt-br",
@@ -220,18 +191,47 @@
    ]
   },
   {
+   "id": "2ec64065-a59d-49d0-97c6-c99816d09154",
+   "title": {
+    "en": "Korean Illustration"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17834,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a2225df7-0cbf-46a6-9b96-56adba090e6b",
    "title": {
     "en": "Robot"
    },
    "contentRating": "suggestive",
-   "score": 0.17864664,
+   "score": 0.17814913,
    "languages": [
     "en",
     "bg",
     "fr"
    ]
+  },
+  {
+   "id": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
+   "title": {
+    "en": "Gangsta"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17807199,
+   "languages": [
+    "ru",
+    "id",
+    "tr",
+    "uk",
+    "pt-br",
+    "en",
+    "pl",
+    "it"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:22+00:00"
+ "updatedAt": "2023-12-10T18:12:50+00:00"
 }

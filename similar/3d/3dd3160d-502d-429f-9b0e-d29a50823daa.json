@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
+   "title": {
+    "en": "Heaven's Design Team"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
    "title": {
     "en": "Mayonaka Sanpo"
@@ -18,6 +31,17 @@
     "fr",
     "hu",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
+   "title": {
+    "en": "Wizards Nation"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
     "en"
    ]
   },
@@ -55,12 +79,87 @@
    ]
   },
   {
-   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
+   "id": "ad1cd3ef-ec52-4cde-8595-a036af482099",
    "title": {
-    "en": "Wizards Nation"
+    "en": "Hayabusa-chan Can Fly!"
    },
    "contentRating": "safe",
    "score": 0.16495723,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "22a8380d-dfb0-4e97-95a0-171d0eaac224",
+   "title": {
+    "en": "Guardian of Fukushima"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "faf6ff44-e0fc-4785-8eb6-0daae880ba53",
+   "title": {
+    "en": "Tenohira Neko"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "f8e4e9a3-f46c-483e-8ba6-bbd7238fea5f",
+   "title": {
+    "en": "Tonari no Youkai-san"
+   },
+   "contentRating": "safe",
+   "score": 0.16198477,
+   "languages": [
+    "zh",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "0abe11f8-ad54-4440-b300-8cb5e7bd262b",
+   "title": {
+    "en": "Sennen Kitsune"
+   },
+   "contentRating": "safe",
+   "score": 0.16198477,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
+   "title": {
+    "en": "Ame to Kimi to"
+   },
+   "contentRating": "safe",
+   "score": 0.15760274,
+   "languages": [
+    "en",
+    "pl",
+    "ru",
+    "pt-br",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "f07b92fc-2d37-49b4-a837-eff9ec834ef5",
+   "title": {
+    "en": "The Grimoire of Marisa [Touhou Project]"
+   },
+   "contentRating": "safe",
+   "score": 0.15644418,
    "languages": [
     "en"
    ]
@@ -77,32 +176,6 @@
    ]
   },
   {
-   "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
-   "title": {
-    "en": "Sekai de Ichiban, Ore ga ◯◯"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b27cf20-2770-4c25-bf13-7db8349cd0d3",
-   "title": {
-    "en": "My First Planet"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "tr",
-    "it",
-    "pt-br",
-    "es"
-   ]
-  },
-  {
    "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
    "title": {
     "en": "Kishibe no Yume"
@@ -116,84 +189,19 @@
    ]
   },
   {
-   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
+   "id": "da36a727-7686-4e92-8fac-94bc292b8e91",
    "title": {
-    "en": "Tena on S-String"
+    "en": "Magus of the Library"
    },
    "contentRating": "safe",
    "score": 0.14285715,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "217c3396-1d8e-48f8-acf6-01c19e1a76bd",
-   "title": {
-    "en": "Sukaraiti"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
+    "id",
+    "ar",
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "04987753-1655-4149-aa40-fa732c753a41",
-   "title": {
-    "en": "Godspeed 0.1"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
-   "title": {
-    "en": "Dorobou Night Trick"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "4a284387-b2d0-4b4f-babd-64101ab4404c",
-   "title": {
-    "en": "G (KOIKE Keiichi)"
-   },
-   "contentRating": "safe",
-   "score": 0.1364216,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ecdc422-02fd-479d-bcda-6c479fc9a7b5",
-   "title": {
-    "en": "PoPoLoCrois"
-   },
-   "contentRating": "safe",
-   "score": 0.1355262,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
-   "title": {
-    "en": "Shin Megami Tensei - Kahn"
-   },
-   "contentRating": "safe",
-   "score": 0.13109471,
-   "languages": [
-    "en"
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:56+00:00"
 }

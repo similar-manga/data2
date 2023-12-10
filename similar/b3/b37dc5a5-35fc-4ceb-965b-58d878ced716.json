@@ -6,12 +6,82 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1aefe7cc-09d7-46dc-ace4-470e4459d17d",
+   "title": {
+    "en": "Ohayou, Oyasumi, Aishiteru."
+   },
+   "contentRating": "safe",
+   "score": 0.40053812,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9735a025-e603-4346-bfd0-abcf2a6d3a2e",
    "title": {
     "en": "Giant Cinderella"
    },
    "contentRating": "safe",
-   "score": 0.35019508,
+   "score": 0.35435376,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
+   "title": {
+    "en": "Kimi no Yokogao wo Miteita"
+   },
+   "contentRating": "safe",
+   "score": 0.31388658,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aceae7a9-54ba-4fb5-999f-29528a7e4a2a",
+   "title": {
+    "en": "Bokura no Suki wa Warikirenai"
+   },
+   "contentRating": "safe",
+   "score": 0.3075353,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
+   "title": {
+    "en": "Shigatsu no Kimi, Spica."
+   },
+   "contentRating": "safe",
+   "score": 0.30495933,
+   "languages": [
+    "es-la",
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5df61121-3e7b-4383-89ae-387c4930b987",
+   "title": {
+    "en": "Houkago - Kindan no Lesson"
+   },
+   "contentRating": "safe",
+   "score": 0.30345133,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bc5875a-f05b-4132-bc5d-ac258afd0f70",
+   "title": {
+    "en": "Saseum, I'm a Deer"
+   },
+   "contentRating": "safe",
+   "score": 0.3022327,
    "languages": [
     "en"
    ]
@@ -22,9 +92,21 @@
     "en": "Ko no Ren ni Namidasuru!"
    },
    "contentRating": "safe",
-   "score": 0.3020815,
+   "score": 0.30171517,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
+   "title": {
+    "en": "Anagura Amelie"
+   },
+   "contentRating": "safe",
+   "score": 0.30048066,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -33,9 +115,24 @@
     "en": "Ai no Kotoba"
    },
    "contentRating": "safe",
-   "score": 0.29904643,
+   "score": 0.29870784,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3d06a27c-90a1-4e00-a60c-30afb3746c08",
+   "title": {
+    "en": "Meguro-san wa Hajimete ja Nai"
+   },
+   "contentRating": "safe",
+   "score": 0.29715943,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -44,7 +141,7 @@
     "en": "Kare Made Love ♥ km"
    },
    "contentRating": "safe",
-   "score": 0.29769084,
+   "score": 0.2970835,
    "languages": [
     "en"
    ]
@@ -55,29 +152,30 @@
     "en": "Cream"
    },
    "contentRating": "safe",
-   "score": 0.29723904,
+   "score": 0.2951576,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
+   "id": "1814d0df-a4eb-44f2-acf1-28ffe3f55da8",
    "title": {
-    "en": "Koi*Oto"
+    "en": "Honey Lemon Soda"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29291523,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
+   "id": "08dfe0d5-14ea-4713-bde6-dddcf3513f5b",
    "title": {
-    "en": "Kazekou Engekibu!"
+    "en": "Osananajimi ga Kyouteki desu"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29192066,
    "languages": [
     "en"
    ]
@@ -92,100 +190,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "1d95229d-2056-4006-8f56-eb27928297ae",
-   "title": {
-    "en": "Kiss, Zekkou, Kiss Bokura no Baai"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a110e7d0-e6b8-4f9d-859a-0863e4bdad62",
-   "title": {
-    "en": "Goshimei! Host Kyoushi J"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a70f9f9f-d375-44bb-bfd8-10809ea4d50e",
-   "title": {
-    "en": "Bara wo Karasu Te de Boku wo Dake"
-   },
-   "contentRating": "safe",
-   "score": 0.28370258,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
-   "title": {
-    "en": "Anesan Countdown!"
-   },
-   "contentRating": "safe",
-   "score": 0.2791449,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
-   "title": {
-    "en": "Happy End no Uragawa"
-   },
-   "contentRating": "safe",
-   "score": 0.27865934,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "1d471302-deae-4554-a699-c26ae18c8740",
-   "title": {
-    "en": "She's Scary"
-   },
-   "contentRating": "safe",
-   "score": 0.268035,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "af7d5f96-1cf4-44de-9661-6f6f74ec2ec1",
-   "title": {
-    "en": "Boku no Ie ni Oide"
-   },
-   "contentRating": "safe",
-   "score": 0.2676523,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d2369396-777a-4339-a948-5199c4685ec7",
-   "title": {
-    "en": "Ever Share Color"
-   },
-   "contentRating": "safe",
-   "score": 0.26751396,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:09+00:00"
+ "updatedAt": "2023-12-10T18:28:25+00:00"
 }

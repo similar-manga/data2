@@ -23,7 +23,7 @@
     "en": "Genshi"
    },
    "contentRating": "suggestive",
-   "score": 0.20165305,
+   "score": 0.20082399,
    "languages": [
     "en"
    ]
@@ -71,7 +71,7 @@
     "en": "Zettai Kami no Yuugi"
    },
    "contentRating": "suggestive",
-   "score": 0.1889191,
+   "score": 0.18680918,
    "languages": [
     "en"
    ]
@@ -82,18 +82,7 @@
     "en": "Star Lord of God"
    },
    "contentRating": "suggestive",
-   "score": 0.18707982
-  },
-  {
-   "id": "923a7e22-8cca-488f-b050-c23b53656948",
-   "title": {
-    "en": "Kegare no Uta"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18384038,
-   "languages": [
-    "en"
-   ]
+   "score": 0.18641147
   },
   {
    "id": "e5043488-bd4e-4ea7-a5b4-ed26131dd2db",
@@ -102,6 +91,17 @@
    },
    "contentRating": "suggestive",
    "score": 0.18257418,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "923a7e22-8cca-488f-b050-c23b53656948",
+   "title": {
+    "en": "Kegare no Uta"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18168524,
    "languages": [
     "en"
    ]
@@ -126,14 +126,6 @@
    ]
   },
   {
-   "id": "bc752444-1e58-4f5c-9446-f1bc69b05db0",
-   "title": {
-    "en": "Konehou Legend Dream Hissatsuken"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17971326
-  },
-  {
    "id": "d0b1a4b3-cb40-4df1-b936-e1e8fa1f2b2f",
    "title": {
     "en": "Dragon Sister!"
@@ -145,25 +137,20 @@
    ]
   },
   {
+   "id": "bc752444-1e58-4f5c-9446-f1bc69b05db0",
+   "title": {
+    "en": "Konehou Legend Dream Hissatsuken"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17806828
+  },
+  {
    "id": "dd46387e-a0f5-47dc-a257-c68a115ce0db",
    "title": {
     "en": "Midnight Soldier"
    },
    "contentRating": "suggestive",
    "score": 0.17643851
-  },
-  {
-   "id": "b7cad75f-b87b-4250-8b2d-0727419e471c",
-   "title": {
-    "en": "The God of \"Game of Gods\""
-   },
-   "contentRating": "suggestive",
-   "score": 0.17463917,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
   },
   {
    "id": "eea66d18-0ccc-45b6-8893-85c05386bc4b",
@@ -175,7 +162,20 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b7cad75f-b87b-4250-8b2d-0727419e471c",
+   "title": {
+    "en": "The God of \"Game of Gods\""
+   },
+   "contentRating": "suggestive",
+   "score": 0.17176199,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:40+00:00"
+ "updatedAt": "2023-12-10T18:32:15+00:00"
 }

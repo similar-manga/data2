@@ -11,7 +11,7 @@
     "en": "Keron"
    },
    "contentRating": "safe",
-   "score": 0.34180456,
+   "score": 0.35005262,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Planet (MIZUKI Shigeru)"
    },
    "contentRating": "safe",
-   "score": 0.29452023,
+   "score": 0.30151284,
    "languages": [
     "en",
     "pt-br"
@@ -35,7 +35,7 @@
     "en": "Fugitives"
    },
    "contentRating": "safe",
-   "score": 0.2488283,
+   "score": 0.24068479,
    "languages": [
     "en",
     "it"
@@ -47,7 +47,7 @@
     "en": "Kurage no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.2269998,
+   "score": 0.22991711,
    "languages": [
     "es-la",
     "en"
@@ -59,7 +59,7 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.21838285,
+   "score": 0.22136867,
    "languages": [
     "en",
     "it"
@@ -71,7 +71,7 @@
     "en": "Three Months Since You Called Me Mama"
    },
    "contentRating": "safe",
-   "score": 0.21735653,
+   "score": 0.22087672,
    "languages": [
     "en"
    ]
@@ -82,7 +82,7 @@
     "en": "Vivarium de Choushoku wo"
    },
    "contentRating": "safe",
-   "score": 0.20452078,
+   "score": 0.20393479,
    "languages": [
     "en"
    ]
@@ -93,7 +93,7 @@
     "en": "Make way for the☆Super Express"
    },
    "contentRating": "safe",
-   "score": 0.20291525,
+   "score": 0.20373543,
    "languages": [
     "en"
    ]
@@ -104,10 +104,22 @@
     "en": "The Unwavering Planets"
    },
    "contentRating": "safe",
-   "score": 0.20071864,
+   "score": 0.20327786,
    "languages": [
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "2211b153-a31d-419c-b940-c33aa31ede75",
+   "title": {
+    "en": "Ebisu Yoshikazu Collection SF \u0026 Mystery Hen - Utsukushiki Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.19549012,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -122,12 +134,24 @@
    ]
   },
   {
+   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
+   "title": {
+    "en": "Black Night Parade"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
    "title": {
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.1885786,
+   "score": 0.19082613,
    "languages": [
     "en"
    ]
@@ -146,30 +170,18 @@
    ]
   },
   {
-   "id": "987567fb-2535-4676-9296-dcb32ea7c3a8",
+   "id": "fc4c9b57-1295-4667-8d4e-c6b93dce2e68",
    "title": {
-    "en": "We'll Go See the Ocean."
+    "en": "Coffee Moon"
    },
    "contentRating": "safe",
    "score": 0.1870439,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a7bad70b-e8f1-42f7-8eee-0363e41deeef",
-   "title": {
-    "en": "Halloween Night"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "ro",
-    "vi",
-    "pl",
+    "es-la",
     "en",
-    "fr",
-    "it"
+    "pt-br",
+    "it",
+    "th"
    ]
   },
   {
@@ -182,18 +194,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
-   "title": {
-    "en": "Like a Laika"
-   },
-   "contentRating": "safe",
-   "score": 0.18240471,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:22+00:00"
+ "updatedAt": "2023-12-10T18:36:20+00:00"
 }

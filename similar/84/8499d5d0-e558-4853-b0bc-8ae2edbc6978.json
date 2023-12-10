@@ -11,7 +11,7 @@
     "en": "Pavane for a Dead Girl"
    },
    "contentRating": "safe",
-   "score": 0.23870453
+   "score": 0.2362574
   },
   {
    "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
@@ -19,7 +19,7 @@
     "en": "13 Game"
    },
    "contentRating": "safe",
-   "score": 0.23438059,
+   "score": 0.23354392,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.226171,
+   "score": 0.22426043,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "D.C.S.G. ~Da Capo - Second Graduation~"
    },
    "contentRating": "safe",
-   "score": 0.21980363,
+   "score": 0.2193116,
    "languages": [
     "pl",
     "en"
@@ -53,7 +53,7 @@
     "en": "Stellar Theater"
    },
    "contentRating": "safe",
-   "score": 0.21731485,
+   "score": 0.21572158,
    "languages": [
     "en"
    ]
@@ -68,6 +68,19 @@
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
+   "title": {
+    "en": "Nyan Koi!"
+   },
+   "contentRating": "safe",
+   "score": 0.20586023,
+   "languages": [
+    "pl",
+    "en",
+    "fr"
    ]
   },
   {
@@ -95,25 +108,60 @@
    ]
   },
   {
-   "id": "d6c04c12-5d9c-4a48-9d8a-55de48c6b3cd",
-   "title": {
-    "en": "Nyan Koi!"
-   },
-   "contentRating": "safe",
-   "score": 0.20586023,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "6a073b9d-c78d-49d2-a860-0e3bcc372197",
    "title": {
     "en": "Tokyo Ravens - Sword of Song"
    },
    "contentRating": "safe",
    "score": 0.19876161
+  },
+  {
+   "id": "286b3664-6188-4ca5-8f25-f32b1a1f2692",
+   "title": {
+    "en": "I can Hear the Rain"
+   },
+   "contentRating": "safe",
+   "score": 0.19660492
+  },
+  {
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.1962771,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
+   ]
+  },
+  {
+   "id": "41100023-c51c-4b34-bbc0-ec2531db0672",
+   "title": {
+    "en": "Nerawareta Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.19245009
+  },
+  {
+   "id": "fe754da4-57c9-4c6b-ab10-7c44bc9f261c",
+   "title": {
+    "en": "Now Playing"
+   },
+   "contentRating": "safe",
+   "score": 0.19245009
+  },
+  {
+   "id": "e765f370-054c-48e7-8f57-42b10737b921",
+   "title": {
+    "en": "D.C. III"
+   },
+   "contentRating": "safe",
+   "score": 0.19245009
   },
   {
    "id": "9fea5778-9884-4d27-90b4-ea982d6097e1",
@@ -125,65 +173,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7511b858-06e5-414d-b343-467ea468efdf",
-   "title": {
-    "en": "Black Warriors"
-   },
-   "contentRating": "safe",
-   "score": 0.19133732,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2b034a9-a996-41b8-985e-763b9ce40369",
-   "title": {
-    "en": "Youkai no Oisha-san"
-   },
-   "contentRating": "safe",
-   "score": 0.18907239,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e30e532e-379a-42f0-b7f2-4e9e01cb90e5",
-   "title": {
-    "en": "Shinbuki"
-   },
-   "contentRating": "safe",
-   "score": 0.18792383
-  },
-  {
-   "id": "30f3cef1-00f7-42e8-b39a-1a73c01d99e4",
-   "title": {
-    "en": "The girl I started dating won't walk next to me"
-   },
-   "contentRating": "safe",
-   "score": 0.18661502,
-   "languages": [
-    "vi",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "9b931daa-e64c-405f-9808-124e38b624aa",
-   "title": {
-    "en": "Doryoku Shisugita Sekai Saikyou no Butouka ha, Mahou Sekai wo Yoyuu de Ikinuku."
-   },
-   "contentRating": "safe",
-   "score": 0.18184131,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "es-la",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:06+00:00"
+ "updatedAt": "2023-12-10T18:22:52+00:00"
 }

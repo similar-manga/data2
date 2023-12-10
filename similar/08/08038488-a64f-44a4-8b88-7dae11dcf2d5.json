@@ -6,12 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7d80640d-c591-4c7a-a47e-594c29c2037c",
+   "title": {
+    "en": "Like a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.3032156,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
+   "title": {
+    "en": "Coffee \u0026 Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.2973534,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "ed9d57a3-a688-4419-a03a-29aee0deab6a",
+   "title": {
+    "en": "Tsureneko:  Maruru to Hachi"
+   },
+   "contentRating": "safe",
+   "score": 0.2896545,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "id"
+   ]
+  },
+  {
    "id": "ec26524b-1df2-4722-900f-71afee535a43",
    "title": {
     "en": "Angelic"
    },
    "contentRating": "safe",
-   "score": 0.27916586,
+   "score": 0.27861208,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +60,7 @@
     "en": "Kamoshika Tenrakushii"
    },
    "contentRating": "safe",
-   "score": 0.26182765,
+   "score": 0.26142922,
    "languages": [
     "en"
    ]
@@ -40,6 +77,19 @@
     "pl",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "6ad54367-4165-43ed-9a7d-71179c520180",
+   "title": {
+    "en": "Yani Neko"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -65,17 +115,15 @@
    ]
   },
   {
-   "id": "681aae2f-a81f-40c1-8555-499946d093c7",
+   "id": "9ca8d424-8d3b-4ac7-aecf-49a137be262e",
    "title": {
-    "en": "Nekomahime"
+    "en": "The Hero Summoned from Another World is a Cat"
    },
    "contentRating": "safe",
-   "score": 0.23501456,
+   "score": 0.24542928,
    "languages": [
     "en",
-    "tr",
-    "fr",
-    "ru"
+    "es-la"
    ]
   },
   {
@@ -84,7 +132,7 @@
     "en": "Demon"
    },
    "contentRating": "safe",
-   "score": 0.23347549,
+   "score": 0.23292224,
    "languages": [
     "en",
     "pt-br"
@@ -94,17 +142,6 @@
    "id": "1cf2d521-0e53-488e-93e5-ee23766dddfb",
    "title": {
     "en": "Ms. Two-Face"
-   },
-   "contentRating": "safe",
-   "score": 0.23286977,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "205371aa-d1b6-4063-a181-54f7bc640716",
-   "title": {
-    "en": "Koma"
    },
    "contentRating": "safe",
    "score": 0.23286977,
@@ -124,74 +161,42 @@
    ]
   },
   {
-   "id": "5a7520ae-fad6-487c-ad87-350ba0d23604",
+   "id": "205371aa-d1b6-4063-a181-54f7bc640716",
    "title": {
-    "en": "Nyanderful"
+    "en": "Koma"
    },
    "contentRating": "safe",
-   "score": 0.2265583,
+   "score": 0.23286977,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8ef50ac9-699a-470a-8258-721752261188",
+   "id": "9378c75e-4cd7-4c6a-8ee3-7bbfb4f3ee54",
    "title": {
-    "en": "In Dreams"
+    "en": "Shima-san"
    },
    "contentRating": "safe",
-   "score": 0.22297981,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "38d84b01-64b6-452c-acde-66d13ecd762b",
-   "title": {
-    "en": "That’s a Bit Much, Kikuchi!!"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "393f8edd-319b-495e-a642-e65da65adf65",
-   "title": {
-    "en": "The Witch's Closet"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
+   "score": 0.23266399,
    "languages": [
     "en",
-    "ar"
+    "zh"
    ]
   },
   {
-   "id": "53906ed4-8c67-46f8-8738-d41bfd44ecab",
+   "id": "681aae2f-a81f-40c1-8555-499946d093c7",
    "title": {
-    "en": "Umezu-sensei and I"
+    "en": "Nekomahime"
    },
    "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "22a3b429-d5b7-4850-a7e6-299218adc559",
-   "title": {
-    "en": "Windfall of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
+   "score": 0.22933173,
    "languages": [
     "en",
-    "id"
+    "tr",
+    "fr",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:04+00:00"
+ "updatedAt": "2023-12-10T18:09:11+00:00"
 }

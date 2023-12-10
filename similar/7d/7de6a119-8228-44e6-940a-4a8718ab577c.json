@@ -11,7 +11,7 @@
     "en": "Eden Game"
    },
    "contentRating": "safe",
-   "score": 0.34872222,
+   "score": 0.34396505,
    "languages": [
     "fr",
     "pt-br",
@@ -25,7 +25,7 @@
     "en": "Monster Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.31524727,
+   "score": 0.31498617,
    "languages": [
     "en"
    ]
@@ -36,10 +36,22 @@
     "en": "Test Flight Girls"
    },
    "contentRating": "safe",
-   "score": 0.30804172,
+   "score": 0.3040231,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "b245f362-46d3-44e2-9373-46becaeaa1ab",
+   "title": {
+    "en": "World's Strongest Troll"
+   },
+   "contentRating": "safe",
+   "score": 0.27544737,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -48,7 +60,7 @@
     "en": "City of Sanctuary"
    },
    "contentRating": "safe",
-   "score": 0.27253518,
+   "score": 0.2701788,
    "languages": [
     "pt-br",
     "en",
@@ -61,7 +73,7 @@
     "en": "Player Reborn"
    },
    "contentRating": "safe",
-   "score": 0.26554486,
+   "score": 0.26055276,
    "languages": [
     "en",
     "pt-br",
@@ -79,7 +91,7 @@
     "en": "Over Clock"
    },
    "contentRating": "safe",
-   "score": 0.26143005,
+   "score": 0.2599024,
    "languages": [
     "en",
     "pt-br"
@@ -91,9 +103,22 @@
     "en": "The Game Invades the Earth"
    },
    "contentRating": "safe",
-   "score": 0.26120713,
+   "score": 0.2565709,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a8115232-9377-47e1-9e67-247f54c52f60",
+   "title": {
+    "en": "Life Cry"
+   },
+   "contentRating": "safe",
+   "score": 0.25620493,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -102,7 +127,7 @@
     "en": "Scavengers Another Sky"
    },
    "contentRating": "safe",
-   "score": 0.2549406,
+   "score": 0.25412062,
    "languages": [
     "en"
    ]
@@ -113,7 +138,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.2533608,
+   "score": 0.25272688,
    "languages": [
     "en"
    ]
@@ -124,42 +149,7 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.24978618,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b8b6c948-3a78-4fd6-b50e-7b310ea51eaa",
-   "title": {
-    "en": "The Macrocosm Era"
-   },
-   "contentRating": "safe",
-   "score": 0.24875152,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3508767e-fac0-47ab-8c4f-67c193ac727f",
-   "title": {
-    "en": "Hai Gamer na Imouto to Hajimeru VRMMO Seikatsu"
-   },
-   "contentRating": "safe",
-   "score": 0.24870123,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "69297b84-ea4c-4f65-9592-2b4a38c963a1",
-   "title": {
-    "en": "ARK"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24924372,
    "languages": [
     "en"
    ]
@@ -191,16 +181,27 @@
    ]
   },
   {
-   "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
+   "id": "69297b84-ea4c-4f65-9592-2b4a38c963a1",
    "title": {
-    "en": "Version"
+    "en": "ARK"
    },
    "contentRating": "safe",
-   "score": 0.24426337,
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b8b6c948-3a78-4fd6-b50e-7b310ea51eaa",
+   "title": {
+    "en": "The Macrocosm Era"
+   },
+   "contentRating": "safe",
+   "score": 0.24724203,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:49+00:00"
+ "updatedAt": "2023-12-10T18:22:07+00:00"
 }

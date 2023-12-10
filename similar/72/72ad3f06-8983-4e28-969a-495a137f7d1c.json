@@ -11,7 +11,7 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.30351698,
+   "score": 0.30313903,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.3003519,
+   "score": 0.3011049,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Super Electromagnetic War Victory Five"
    },
    "contentRating": "safe",
-   "score": 0.29937914
+   "score": 0.3008585
   },
   {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
@@ -41,7 +41,7 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.29618835,
+   "score": 0.2957919,
    "languages": [
     "en"
    ]
@@ -63,17 +63,17 @@
    "score": 0.2851258
   },
   {
-   "id": "c6a9b2c0-5dd1-4724-95e6-2c84eb479dd2",
+   "id": "20d7608a-e7d3-45f6-86e1-826eabbddcac",
    "title": {
-    "en": "Dino-Mecha Gaiking"
+    "en": "Gunpla Wars - Jaburo's Sky"
    },
    "contentRating": "safe",
    "score": 0.2851258
   },
   {
-   "id": "20d7608a-e7d3-45f6-86e1-826eabbddcac",
+   "id": "c6a9b2c0-5dd1-4724-95e6-2c84eb479dd2",
    "title": {
-    "en": "Gunpla Wars - Jaburo's Sky"
+    "en": "Dino-Mecha Gaiking"
    },
    "contentRating": "safe",
    "score": 0.2851258
@@ -84,15 +84,15 @@
     "en": "Space Knight Tekkaman Blade II"
    },
    "contentRating": "safe",
-   "score": 0.27841356
+   "score": 0.27862486
   },
   {
-   "id": "e163f8ff-9a79-4aac-9c31-c01a6aa548a8",
+   "id": "372774de-b310-47b3-a21b-b42d9644c7ce",
    "title": {
-    "en": "Shin Musha Gundam Super Mobile General"
+    "en": "Groizer X"
    },
    "contentRating": "safe",
-   "score": 0.2678562
+   "score": 0.26762387
   },
   {
    "id": "5a7699cc-bbe9-4a46-a41b-30c2debcd671",
@@ -100,26 +100,15 @@
     "en": "Inazuman VS Kikaider"
    },
    "contentRating": "safe",
-   "score": 0.26663974
+   "score": 0.2671368
   },
   {
-   "id": "c95b5d18-57d7-46d5-bce9-20453e20aede",
+   "id": "e163f8ff-9a79-4aac-9c31-c01a6aa548a8",
    "title": {
-    "en": "New Plamo Kyoshiro"
+    "en": "Shin Musha Gundam Super Mobile General"
    },
    "contentRating": "safe",
-   "score": 0.26366532
-  },
-  {
-   "id": "9bedcc63-63e5-47c9-97ef-12f5303cb0aa",
-   "title": {
-    "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
-   },
-   "contentRating": "safe",
-   "score": 0.26324928,
-   "languages": [
-    "en"
-   ]
+   "score": 0.26675344
   },
   {
    "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
@@ -127,10 +116,31 @@
     "en": "Microman: The Small Giant + Red Powers"
    },
    "contentRating": "safe",
-   "score": 0.26324582,
+   "score": 0.26398522,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "082857f5-740c-4556-9625-479d52124eea",
+   "title": {
+    "en": "Mazinkaiser vs Shin Getter Robo"
+   },
+   "contentRating": "safe",
+   "score": 0.26333198,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "c95b5d18-57d7-46d5-bce9-20453e20aede",
+   "title": {
+    "en": "New Plamo Kyoshiro"
+   },
+   "contentRating": "safe",
+   "score": 0.26305458
   },
   {
    "id": "84d6b69d-9003-49b0-b90b-652ad1b4725f",
@@ -138,20 +148,12 @@
     "en": "Brave Universe Sworgrader"
    },
    "contentRating": "safe",
-   "score": 0.2626579,
+   "score": 0.2628987,
    "languages": [
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "d2157615-89d7-4da4-9e7b-5bb746eb7f41",
-   "title": {
-    "en": "Gunpla Koshien"
-   },
-   "contentRating": "safe",
-   "score": 0.26005328
   }
  ],
- "updatedAt": "2023-12-10T01:04:19+00:00"
+ "updatedAt": "2023-12-10T18:20:46+00:00"
 }

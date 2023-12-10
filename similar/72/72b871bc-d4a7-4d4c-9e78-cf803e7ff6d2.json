@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "89059c67-08e2-443a-8d5a-eeda3fab46bb",
+   "title": {
+    "en": "Somehow, I Raised a Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.3836611,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f5a6063b-75bc-4051-af17-9427392ea64a",
    "title": {
     "en": "Mitsuba Ouji to Ibara no Shukujo"
    },
    "contentRating": "safe",
-   "score": 0.3620692,
+   "score": 0.3562784,
    "languages": [
     "en"
    ]
@@ -29,19 +40,6 @@
    ]
   },
   {
-   "id": "5b11ea17-333e-4a70-9589-f986a2b4250f",
-   "title": {
-    "en": "Hymn of Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
    "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
    "title": {
     "en": "Soleil"
@@ -55,14 +53,16 @@
    ]
   },
   {
-   "id": "f0109b56-b831-40b7-ad49-25a603987c49",
+   "id": "5b11ea17-333e-4a70-9589-f986a2b4250f",
    "title": {
-    "en": "Vered no Rosemary"
+    "en": "Hymn of Love"
    },
    "contentRating": "safe",
-   "score": 0.2740369,
+   "score": 0.2851258,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -71,7 +71,18 @@
     "en": "The Locked-up Maiden"
    },
    "contentRating": "safe",
-   "score": 0.2682389,
+   "score": 0.26621434,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f0109b56-b831-40b7-ad49-25a603987c49",
+   "title": {
+    "en": "Vered no Rosemary"
+   },
+   "contentRating": "safe",
+   "score": 0.26191074,
    "languages": [
     "en"
    ]
@@ -82,7 +93,7 @@
     "en": "The Stubborn Tomboy and The Flower"
    },
    "contentRating": "safe",
-   "score": 0.25742483,
+   "score": 0.25745785,
    "languages": [
     "en"
    ]
@@ -93,18 +104,7 @@
     "en": "Sora ni Saitara"
    },
    "contentRating": "safe",
-   "score": 0.2568482,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a7f59aa1-588e-4f86-bf81-40c3dce279e6",
-   "title": {
-    "en": "Imokenpi wa Koi wo Yobu"
-   },
-   "contentRating": "safe",
-   "score": 0.24810334,
+   "score": 0.25657377,
    "languages": [
     "en"
    ]
@@ -121,15 +121,14 @@
    ]
   },
   {
-   "id": "13f152eb-46c7-48c1-881b-b1eb89d50285",
+   "id": "a7f59aa1-588e-4f86-bf81-40c3dce279e6",
    "title": {
-    "en": "Boukyaku no Shirushi to Hime"
+    "en": "Imokenpi wa Koi wo Yobu"
    },
    "contentRating": "safe",
-   "score": 0.24127328,
+   "score": 0.24628063,
    "languages": [
-    "en",
-    "fr"
+    "en"
    ]
   },
   {
@@ -144,12 +143,24 @@
    ]
   },
   {
+   "id": "13f152eb-46c7-48c1-881b-b1eb89d50285",
+   "title": {
+    "en": "Boukyaku no Shirushi to Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.2346266,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "8305911a-7aa9-4537-9d5d-74bc299bf8f0",
    "title": {
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.23315626,
+   "score": 0.23379594,
    "languages": [
     "pt-br",
     "en"
@@ -161,36 +172,23 @@
     "en": "I Love My Sister's Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.23312269,
+   "score": 0.23300517,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "a5da08f4-344e-4250-8cec-9f7c99dc59b8",
+   "id": "167689d9-f80e-4ffe-8f59-44d0b41a5f4f",
    "title": {
-    "en": "Chekera!"
+    "en": "Hand-in-Hand Lovers"
    },
    "contentRating": "safe",
-   "score": 0.23189704,
+   "score": 0.2326415,
    "languages": [
     "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "08df1856-3103-4b33-80c3-4c45f9079fc8",
-   "title": {
-    "en": "Hot Cherry"
-   },
-   "contentRating": "safe",
-   "score": 0.23093775,
-   "languages": [
-    "en",
-    "fr"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:20+00:00"
+ "updatedAt": "2023-12-10T18:20:46+00:00"
 }

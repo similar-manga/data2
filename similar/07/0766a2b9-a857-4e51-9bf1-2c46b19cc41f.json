@@ -6,12 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d21c9c1d-21ec-4a15-bc82-73d97458a1d3",
+   "title": {
+    "en": "Killing Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.36688608,
+   "languages": [
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "155460d1-bcf5-454a-bd86-34b1b1b19e54",
+   "title": {
+    "en": "The Way to Kill You"
+   },
+   "contentRating": "safe",
+   "score": 0.32222003,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "a3db9212-7e87-44ea-8264-23f914671444",
+   "title": {
+    "en": "Killer Pietro"
+   },
+   "contentRating": "safe",
+   "score": 0.31405574,
+   "languages": [
+    "ar",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "695ec8bf-b7db-4fb2-987e-a8edcee2b567",
    "title": {
     "en": "A Cure for Killing"
    },
    "contentRating": "safe",
-   "score": 0.29619187,
+   "score": 0.29577044,
    "languages": [
     "en"
    ]
@@ -22,8 +59,20 @@
     "en": "LOST"
    },
    "contentRating": "safe",
-   "score": 0.28060323,
+   "score": 0.28043172,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ab13d94c-1e51-4f2c-909c-258ecbdfd3a1",
+   "title": {
+    "en": "Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei"
+   },
+   "contentRating": "safe",
+   "score": 0.2785971,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -33,11 +82,24 @@
     "en": "White Throne of Bones"
    },
    "contentRating": "safe",
-   "score": 0.2689841,
+   "score": 0.26997098,
    "languages": [
     "id",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
+   "title": {
+    "en": "Sensei no Yasashii Koroshikata"
+   },
+   "contentRating": "safe",
+   "score": 0.2673105,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -46,10 +108,35 @@
     "en": "The Killer Lives Next Door"
    },
    "contentRating": "safe",
-   "score": 0.26502255,
+   "score": 0.2639423,
    "languages": [
     "en",
     "uk"
+   ]
+  },
+  {
+   "id": "9c2800f4-8836-4912-a267-c185bbfe4bc7",
+   "title": {
+    "en": "Deaddie Du Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "title": {
+    "en": "Steins;Gate 0"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -58,100 +145,19 @@
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.2479152,
+   "score": 0.24577712,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
+   "id": "72edffc2-0a89-4835-a9de-862c52ebd1a4",
    "title": {
-    "en": "Zero"
+    "en": "Guai Qi Bi Ji"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.24147265,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c360c97b-1dc2-43ef-a966-40b908e8371f",
-   "title": {
-    "en": "70"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
-   "title": {
-    "en": "Nightmare Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.2265656,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "f2c1369a-43ae-4b25-9903-37b58d65e0c5",
-   "title": {
-    "en": "Perfect Family"
-   },
-   "contentRating": "safe",
-   "score": 0.22652973,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7a29375a-13bc-4dcd-b42b-84bd204be080",
-   "title": {
-    "en": "Dr. Frost"
-   },
-   "contentRating": "safe",
-   "score": 0.22587697,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr"
-   ]
-  },
-  {
-   "id": "a63c9e4a-ab88-4585-8c31-9d2e0158f1c7",
-   "title": {
-    "en": "Shinjigen Ascension"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9d0b1d0-b31a-4614-b68a-2e550ff82d5b",
-   "title": {
-    "en": "Mukuchi na Bakemono wa Yoru ni Naku"
-   },
-   "contentRating": "safe",
-   "score": 0.21866207,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d39db645-0a95-4d70-80e0-775dc9a6ad89",
-   "title": {
-    "en": "Metronome"
-   },
-   "contentRating": "safe",
-   "score": 0.21833414,
-   "languages": [
-    "es",
     "en"
    ]
   },
@@ -161,34 +167,36 @@
     "en": "Genei Realism"
    },
    "contentRating": "safe",
-   "score": 0.21797441,
+   "score": 0.23970787,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
    "title": {
-    "en": "Cloud"
+    "en": "Sayonara Miniskirt"
    },
    "contentRating": "safe",
-   "score": 0.21723892,
+   "score": 0.237515,
    "languages": [
+    "id",
     "en"
    ]
   },
   {
-   "id": "6886171f-d424-4249-be09-62cc12ed0d1f",
+   "id": "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
    "title": {
-    "en": "Delusional Boy"
+    "en": "Memory Lost"
    },
    "contentRating": "safe",
-   "score": 0.21600783,
+   "score": 0.23399605,
    "languages": [
+    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:02+00:00"
+ "updatedAt": "2023-12-10T18:09:08+00:00"
 }

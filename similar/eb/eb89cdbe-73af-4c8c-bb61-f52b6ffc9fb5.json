@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "addd8029-b799-4811-bbdc-252808f05105",
+   "title": {
+    "en": "Katsu Aki Special"
+   },
+   "contentRating": "safe",
+   "score": 0.24552056,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9a83c4fb-467a-4636-b367-7100d170c10e",
    "title": {
     "en": "Assembler OX"
    },
    "contentRating": "safe",
-   "score": 0.22531329,
+   "score": 0.22489472,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Alien 9 Complete"
    },
    "contentRating": "safe",
-   "score": 0.21820448,
+   "score": 0.22042328,
    "languages": [
     "en"
    ]
@@ -39,27 +50,27 @@
    ]
   },
   {
-   "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
-   "title": {
-    "en": "Nineteen"
-   },
-   "contentRating": "safe",
-   "score": 0.20941664,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
    "title": {
     "en": "Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.20734204,
+   "score": 0.20948529,
    "languages": [
     "es",
     "fr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
+   "title": {
+    "en": "Nineteen"
+   },
+   "contentRating": "safe",
+   "score": 0.20926885,
+   "languages": [
     "en"
    ]
   },
@@ -69,7 +80,7 @@
     "en": "Mu-kai"
    },
    "contentRating": "safe",
-   "score": 0.20505916,
+   "score": 0.20481388,
    "languages": [
     "en",
     "it",
@@ -88,12 +99,23 @@
    ]
   },
   {
+   "id": "3fe2a894-23da-4b36-a429-6c80e40a6162",
+   "title": {
+    "en": "Seishun Protagonist"
+   },
+   "contentRating": "safe",
+   "score": 0.19269794,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "374b1da0-90c0-490e-b8e8-c74aaa468da6",
    "title": {
     "en": "Eirun Last Code"
    },
    "contentRating": "safe",
-   "score": 0.19137616,
+   "score": 0.19073361,
    "languages": [
     "en"
    ]
@@ -104,7 +126,7 @@
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.18756482,
+   "score": 0.18683305,
    "languages": [
     "ru",
     "en"
@@ -116,7 +138,7 @@
     "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
    },
    "contentRating": "safe",
-   "score": 0.18169871,
+   "score": 0.18159947,
    "languages": [
     "en",
     "it"
@@ -128,10 +150,21 @@
     "en": "Moonlight Mile"
    },
    "contentRating": "safe",
-   "score": 0.18028873,
+   "score": 0.18010724,
    "languages": [
     "it",
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "60309abd-3552-4824-bab6-20086eade196",
+   "title": {
+    "en": "Kono Yo wa Tatakau Kachi ga Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.17863506,
+   "languages": [
     "en"
    ]
   },
@@ -141,7 +174,7 @@
     "en": "We'll Go See the Ocean."
    },
    "contentRating": "safe",
-   "score": 0.17924011,
+   "score": 0.17859234,
    "languages": [
     "en"
    ]
@@ -152,7 +185,7 @@
     "en": "Kowloon Generic Romance"
    },
    "contentRating": "safe",
-   "score": 0.17905462,
+   "score": 0.17832597,
    "languages": [
     "pt-br",
     "es-la",
@@ -160,41 +193,7 @@
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "4ecd5276-fa48-46a2-98aa-07ee00a0d927",
-   "title": {
-    "en": "A Train at the End of Summer"
-   },
-   "contentRating": "safe",
-   "score": 0.17520383,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a1aac928-7a29-41f3-b497-2c7a1f4f7ef3",
-   "title": {
-    "en": "Ascribe to Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.17506215,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.17371407,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:30+00:00"
+ "updatedAt": "2023-12-10T18:34:15+00:00"
 }

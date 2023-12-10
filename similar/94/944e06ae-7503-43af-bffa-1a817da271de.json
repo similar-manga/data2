@@ -6,28 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3375e927-2365-457a-81a8-dce99e90a583",
-   "title": {
-    "en": "Red Road"
-   },
-   "contentRating": "safe",
-   "score": 0.26804698,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
    "title": {
     "en": "The Animal Sacrifice"
    },
    "contentRating": "safe",
-   "score": 0.2677538,
+   "score": 0.26776204,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "3375e927-2365-457a-81a8-dce99e90a583",
+   "title": {
+    "en": "Red Road"
+   },
+   "contentRating": "safe",
+   "score": 0.26436877,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -48,7 +48,7 @@
     "en": "Elemental"
    },
    "contentRating": "safe",
-   "score": 0.24442683,
+   "score": 0.2429829,
    "languages": [
     "en",
     "it"
@@ -60,7 +60,7 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.24381082,
+   "score": 0.24286635,
    "languages": [
     "en"
    ]
@@ -71,7 +71,7 @@
     "en": "Sakura Omoi"
    },
    "contentRating": "safe",
-   "score": 0.2386488,
+   "score": 0.23670997,
    "languages": [
     "en"
    ]
@@ -82,7 +82,18 @@
     "en": "Yowaito Nikki"
    },
    "contentRating": "safe",
-   "score": 0.23694776,
+   "score": 0.23499149,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
+   "title": {
+    "en": "Kashikomi Mousu!"
+   },
+   "contentRating": "safe",
+   "score": 0.2321587,
    "languages": [
     "en"
    ]
@@ -93,7 +104,7 @@
     "en": "Hyakkiyakou Juliet"
    },
    "contentRating": "safe",
-   "score": 0.23372653,
+   "score": 0.2309826,
    "languages": [
     "hu",
     "pl",
@@ -101,37 +112,28 @@
    ]
   },
   {
-   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
+   "id": "8c5e3117-a89b-42e1-ac00-ea1c2ce98c15",
    "title": {
-    "en": "Kashikomi Mousu!"
-   },
-   "contentRating": "safe",
-   "score": 0.23307113,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "caaf78e0-98be-4630-abfa-745f9b557d51",
-   "title": {
-    "en": "B-Curse"
-   },
-   "contentRating": "safe",
-   "score": 0.22884849,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
-   "title": {
-    "en": "Nageku Shinigami"
+    "en": "God Virgin"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
     "en",
-    "pl"
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
+   "title": {
+    "en": "Taiyou no Yuki"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -157,42 +159,39 @@
    ]
   },
   {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
+   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8c5e3117-a89b-42e1-ac00-ea1c2ce98c15",
-   "title": {
-    "en": "God Virgin"
+    "en": "Nageku Shinigami"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
     "en",
-    "pt-br",
-    "es-la"
+    "pl"
    ]
   },
   {
-   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
+   "id": "e3c893da-3269-4e12-96c6-8617470ddad2",
    "title": {
-    "en": "Ougon no Koku"
+    "en": "Kurseong South - The Forest of Black Tea"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "en",
-    "ru"
+    "en"
+   ]
+  },
+  {
+   "id": "4ba767d6-113d-4bf0-baae-466aa672ea5e",
+   "title": {
+    "en": "Suite Precure"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:51+00:00"
+ "updatedAt": "2023-12-10T18:24:47+00:00"
 }

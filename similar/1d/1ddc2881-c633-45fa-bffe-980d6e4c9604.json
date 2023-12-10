@@ -11,7 +11,7 @@
     "en": "Mega Cross"
    },
    "contentRating": "safe",
-   "score": 0.29638103
+   "score": 0.29602277
   },
   {
    "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
@@ -19,7 +19,18 @@
     "en": "V - The Visitors"
    },
    "contentRating": "safe",
-   "score": 0.25543386
+   "score": 0.25599813
+  },
+  {
+   "id": "e0413c01-9d2b-40ca-8368-4287aa9b5fff",
+   "title": {
+    "en": "Madara Moyou no Yoi"
+   },
+   "contentRating": "safe",
+   "score": 0.24199277,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "ee300415-d645-4ff7-b71f-ff948764b746",
@@ -27,15 +38,7 @@
     "en": "Kimi no Sensou, Boku no Hebi"
    },
    "contentRating": "safe",
-   "score": 0.24163951
-  },
-  {
-   "id": "59af2e53-6c02-4efe-bcd7-48215f875bf8",
-   "title": {
-    "en": "Namima no Kodomo-tachi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.24148741
   },
   {
    "id": "333f5f0b-473b-4184-aa72-23af3c8a3a90",
@@ -49,6 +52,14 @@
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "59af2e53-6c02-4efe-bcd7-48215f875bf8",
+   "title": {
+    "en": "Namima no Kodomo-tachi"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   },
   {
    "id": "89512c3f-7467-42c0-9a64-24b051253d94",
@@ -70,12 +81,46 @@
    ]
   },
   {
+   "id": "604e9cce-2c73-4d86-908c-ab1c40b8a79c",
+   "title": {
+    "en": "Kuuya Shounin ga Ita"
+   },
+   "contentRating": "safe",
+   "score": 0.22585316,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
+   "id": "609ccb17-fd83-4126-876a-5bf8c037b065",
+   "title": {
+    "en": "Sonna Kazoku nara Sutechaeba?"
+   },
+   "contentRating": "safe",
+   "score": 0.22061475,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
    "title": {
     "en": "Tetsuzin"
    },
    "contentRating": "safe",
-   "score": 0.21964505
+   "score": 0.21934658
+  },
+  {
+   "id": "60309abd-3552-4824-bab6-20086eade196",
+   "title": {
+    "en": "Kono Yo wa Tatakau Kachi ga Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.2180159,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "3617aaec-946c-4957-83a1-599c559669b4",
@@ -83,7 +128,7 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.21686658,
+   "score": 0.21652855,
    "languages": [
     "en",
     "pt-br"
@@ -95,7 +140,15 @@
     "en": "Baddodakkusu"
    },
    "contentRating": "safe",
-   "score": 0.21603443
+   "score": 0.21595441
+  },
+  {
+   "id": "fb7826e9-13a4-44dd-a005-7389831c4e78",
+   "title": {
+    "en": "Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.21473098
   },
   {
    "id": "68e0fc95-935e-45c2-b3d7-6249f4e8c115",
@@ -103,54 +156,8 @@
     "en": "Parallel Leap Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.21482702
-  },
-  {
-   "id": "2550cb66-c018-44ec-b3d7-71268874c64a",
-   "title": {
-    "en": "Heikou Sekai no Kimi Kimi Boku Boku"
-   },
-   "contentRating": "safe",
-   "score": 0.21388933
-  },
-  {
-   "id": "b156c6e7-fe33-42a9-ae71-3543527b6683",
-   "title": {
-    "en": "Sono Hen No Akuta"
-   },
-   "contentRating": "safe",
-   "score": 0.2125722
-  },
-  {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
-   "title": {
-    "en": "Kuusou Kagaku Edison"
-   },
-   "contentRating": "safe",
-   "score": 0.20920627,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4dc5383d-f5df-4ec6-b0fd-66924de26ce6",
-   "title": {
-    "en": "Tantei AI no Real Deep Learning"
-   },
-   "contentRating": "safe",
-   "score": 0.20390345
-  },
-  {
-   "id": "b6984507-b2de-4a2a-8a78-4172969a4918",
-   "title": {
-    "en": "Flower Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.20281592,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21436432
   }
  ],
- "updatedAt": "2023-12-10T01:00:54+00:00"
+ "updatedAt": "2023-12-10T18:11:31+00:00"
 }

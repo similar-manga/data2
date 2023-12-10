@@ -11,7 +11,7 @@
     "en": "This Edge of the Shore"
    },
    "contentRating": "safe",
-   "score": 0.22024278,
+   "score": 0.21685313,
    "languages": [
     "en",
     "ru",
@@ -33,18 +33,6 @@
    ]
   },
   {
-   "id": "3a2c5a51-7fab-4427-bd3f-46cd0aa6350d",
-   "title": {
-    "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "cc444f09-9f6d-4f54-bb3e-7a85e1399158",
    "title": {
     "en": "Bad Tripper"
@@ -54,6 +42,18 @@
    "languages": [
     "pt-br",
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "3a2c5a51-7fab-4427-bd3f-46cd0aa6350d",
+   "title": {
+    "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -103,7 +103,7 @@
     "en": "Cat Gravity"
    },
    "contentRating": "safe",
-   "score": 0.19010691,
+   "score": 0.18942544,
    "languages": [
     "en",
     "vi",
@@ -115,12 +115,25 @@
    ]
   },
   {
+   "id": "704cfedf-fc43-4c0c-aa96-8dac5410bfda",
+   "title": {
+    "en": "Comic SK8 the Infinity"
+   },
+   "contentRating": "safe",
+   "score": 0.18385245,
+   "languages": [
+    "pt-br",
+    "uk",
+    "en"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.18135718,
+   "score": 0.17876516,
    "languages": [
     "id",
     "en",
@@ -168,43 +181,15 @@
    ]
   },
   {
-   "id": "486a558b-8d3e-4d59-b017-8edcd9b52f53",
+   "id": "d754b8d8-cba3-4928-a602-c0fcec60495f",
    "title": {
-    "en": "BOZE"
+    "en": "Special Compliance"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "es-la",
     "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "4ed9c780-7b23-4814-ad01-9d50e1ca1b68",
-   "title": {
-    "en": "Mom, Please Punish Me Again"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
-   "title": {
-    "en": "Sakamoto"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "it",
-    "vi",
-    "en",
+    "ru",
     "pt-br"
    ]
   },
@@ -220,18 +205,31 @@
    ]
   },
   {
-   "id": "69b412f0-bca1-486c-abe9-adda417468ae",
+   "id": "5b08ade2-4eab-486d-80a3-023acb1d24a2",
    "title": {
-    "en": "18+ Manga"
+    "en": "Orthoros"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "en",
+    "ru",
+    "hu",
+    "en"
+   ]
+  },
+  {
+   "id": "4ed9c780-7b23-4814-ad01-9d50e1ca1b68",
+   "title": {
+    "en": "Mom, Please Punish Me Again"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "es-la",
     "pt-br",
-    "vi"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:08+00:00"
+ "updatedAt": "2023-12-10T18:25:28+00:00"
 }

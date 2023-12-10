@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
-   "title": {
-    "en": "Astral Walker"
-   },
-   "contentRating": "safe",
-   "score": 0.2504546,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8a333456-6740-4e84-9991-f77d8a845b4e",
    "title": {
     "en": "Mortal Metal Shibagane"
    },
    "contentRating": "safe",
-   "score": 0.24787083,
+   "score": 0.25424477,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
+   "title": {
+    "en": "Astral Walker"
+   },
+   "contentRating": "safe",
+   "score": 0.25032923,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
    },
    "contentRating": "safe",
-   "score": 0.24699867,
+   "score": 0.24622573,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Version"
    },
    "contentRating": "safe",
-   "score": 0.24599501,
+   "score": 0.24545495,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "zh": "IDOLING"
    },
    "contentRating": "safe",
-   "score": 0.228855,
+   "score": 0.22131334,
    "languages": [
     "en"
    ]
@@ -79,7 +79,7 @@
     "en": "Code Geass: Lelouch of the Re;surrection"
    },
    "contentRating": "safe",
-   "score": 0.22145404,
+   "score": 0.21995585,
    "languages": [
     "en"
    ]
@@ -90,7 +90,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.20697403,
+   "score": 0.20502183,
    "languages": [
     "en"
    ]
@@ -101,7 +101,7 @@
     "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
    },
    "contentRating": "safe",
-   "score": 0.20533158,
+   "score": 0.20478167,
    "languages": [
     "th",
     "en"
@@ -113,7 +113,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.20462565,
+   "score": 0.20370139,
    "languages": [
     "en"
    ]
@@ -124,15 +124,15 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.19906306,
+   "score": 0.1987105,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
+   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
    "title": {
-    "en": "Parasite B"
+    "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -141,9 +141,9 @@
    ]
   },
   {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
+   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
    "title": {
-    "en": "E's"
+    "en": "Parasite B"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -175,9 +175,9 @@
    ]
   },
   {
-   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
+   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
    "title": {
-    "en": "Shin Henkei Shoujo"
+    "en": "E's"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -186,5 +186,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:51+00:00"
+ "updatedAt": "2023-12-10T18:11:21+00:00"
 }

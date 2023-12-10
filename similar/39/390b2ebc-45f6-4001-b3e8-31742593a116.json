@@ -11,7 +11,7 @@
     "en": "I Will Not Be a Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.2702262,
+   "score": 0.27203393,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "What Should I Do Now?!"
    },
    "contentRating": "suggestive",
-   "score": 0.24671593,
+   "score": 0.24490029,
    "languages": [
     "en",
     "fr"
@@ -34,34 +34,10 @@
     "en": "Shoujo Nyuumon"
    },
    "contentRating": "suggestive",
-   "score": 0.23622796,
+   "score": 0.23614943,
    "languages": [
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "d2ac2377-99c3-4765-ad74-fb51a5943ecc",
-   "title": {
-    "en": "Saudade ni kuchidzukete"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22226864,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "78aaa0af-4052-49ae-8785-d8fa74908eb8",
-   "title": {
-    "en": "My Every Day Life with Them"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22194041,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -70,7 +46,7 @@
     "en": "I Am Worried That My Childhood Friend Is Too Cute!"
    },
    "contentRating": "suggestive",
-   "score": 0.22107472,
+   "score": 0.22263646,
    "languages": [
     "en",
     "id",
@@ -79,25 +55,26 @@
    ]
   },
   {
-   "id": "135b2ea2-94a7-4499-aa2e-85f3efae4a4c",
+   "id": "78aaa0af-4052-49ae-8785-d8fa74908eb8",
    "title": {
-    "en": "Daily Life In TS School"
+    "en": "My Every Day Life with Them"
    },
    "contentRating": "suggestive",
-   "score": 0.22104342,
+   "score": 0.22129336,
    "languages": [
-    "id",
-    "en"
+    "en",
+    "id"
    ]
   },
   {
-   "id": "2032eff0-39d6-45ba-8f24-736acf7c4f03",
+   "id": "d2ac2377-99c3-4765-ad74-fb51a5943ecc",
    "title": {
-    "en": "Perfect Complex"
+    "en": "Saudade ni kuchidzukete"
    },
    "contentRating": "suggestive",
-   "score": 0.22094963,
+   "score": 0.22101025,
    "languages": [
+    "vi",
     "en"
    ]
   },
@@ -137,12 +114,35 @@
    ]
   },
   {
+   "id": "2032eff0-39d6-45ba-8f24-736acf7c4f03",
+   "title": {
+    "en": "Perfect Complex"
+   },
+   "contentRating": "suggestive",
+   "score": 0.219472,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "135b2ea2-94a7-4499-aa2e-85f3efae4a4c",
+   "title": {
+    "en": "Daily Life In TS School"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21877617,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "5cca51a5-8da3-4f6a-8df3-3b5f5f98dcdd",
    "title": {
     "en": "Tadano's Short Manga"
    },
    "contentRating": "suggestive",
-   "score": 0.21795665,
+   "score": 0.21734308,
    "languages": [
     "en"
    ]
@@ -153,38 +153,10 @@
     "ja": "I Don't Know Which Is Love"
    },
    "contentRating": "suggestive",
-   "score": 0.21686587,
+   "score": 0.2148186,
    "languages": [
     "en",
     "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8c27bba8-eba6-440c-84e2-616651079e0e",
-   "title": {
-    "en": "My Awkward Girlfriend"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21548025,
-   "languages": [
-    "en",
-    "vi",
-    "es"
-   ]
-  },
-  {
-   "id": "3b3e7ec9-5003-49fe-bf89-7093f883ee2b",
-   "title": {
-    "en": "A Story in Which an Older Brother Becomes a Little Sister"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21484266,
-   "languages": [
-    "en",
-    "id",
-    "vi",
-    "fr",
     "pt-br"
    ]
   },
@@ -199,7 +171,35 @@
     "id",
     "en"
    ]
+  },
+  {
+   "id": "3b3e7ec9-5003-49fe-bf89-7093f883ee2b",
+   "title": {
+    "en": "A Story in Which an Older Brother Becomes a Little Sister"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21423388,
+   "languages": [
+    "en",
+    "id",
+    "vi",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8c27bba8-eba6-440c-84e2-616651079e0e",
+   "title": {
+    "en": "My Awkward Girlfriend"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21320763,
+   "languages": [
+    "en",
+    "vi",
+    "es"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:57+00:00"
+ "updatedAt": "2023-12-10T18:14:25+00:00"
 }

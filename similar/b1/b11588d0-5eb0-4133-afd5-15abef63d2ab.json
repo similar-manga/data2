@@ -11,18 +11,10 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.27976167,
+   "score": 0.28688025,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
-   "title": {
-    "en": "Miraizer Vam"
-   },
-   "contentRating": "safe",
-   "score": 0.27552572
   },
   {
    "id": "c7665fcd-6e62-4283-8651-5e5b0aed9d73",
@@ -30,18 +22,7 @@
     "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.2619225
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.24902108,
-   "languages": [
-    "en"
-   ]
+   "score": 0.26758373
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -49,9 +30,20 @@
     "en": "Fullmetal Alchemist: The Prototype"
    },
    "contentRating": "safe",
-   "score": 0.24791484,
+   "score": 0.25349632,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
+   "title": {
+    "en": "Mobile Suit Gundam Aggressor"
+   },
+   "contentRating": "safe",
+   "score": 0.2518419,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -60,7 +52,7 @@
     "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.23945719,
+   "score": 0.24212568,
    "languages": [
     "it",
     "en",
@@ -73,7 +65,29 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.23847798,
+   "score": 0.23990425,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
+   },
+   "contentRating": "safe",
+   "score": 0.23821543,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+   },
+   "contentRating": "safe",
+   "score": 0.23793139,
    "languages": [
     "en"
    ]
@@ -90,23 +104,12 @@
    ]
   },
   {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
    "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+    "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.23678358,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
-   },
-   "contentRating": "safe",
-   "score": 0.23604527,
+   "score": 0.23651227,
    "languages": [
     "en"
    ]
@@ -117,7 +120,7 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.2338938,
+   "score": 0.23616795,
    "languages": [
     "en"
    ]
@@ -128,20 +131,9 @@
     "en": "∀ Gundam - ∀ “Korokoro”"
    },
    "contentRating": "safe",
-   "score": 0.23127396,
+   "score": 0.23378241,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
-   "title": {
-    "en": "Alien Nine Special"
-   },
-   "contentRating": "safe",
-   "score": 0.22885157,
-   "languages": [
     "en"
    ]
   },
@@ -151,7 +143,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.2249878
+   "score": 0.2290303
   },
   {
    "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
@@ -159,7 +151,7 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.22282858,
+   "score": 0.22394057,
    "languages": [
     "en"
    ]
@@ -170,11 +162,19 @@
     "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
    },
    "contentRating": "safe",
-   "score": 0.22147635,
+   "score": 0.22296213,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
+   "title": {
+    "en": "Miraizer Vam"
+   },
+   "contentRating": "safe",
+   "score": 0.22207916
   }
  ],
- "updatedAt": "2023-12-10T01:07:04+00:00"
+ "updatedAt": "2023-12-10T18:28:09+00:00"
 }

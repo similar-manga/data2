@@ -11,7 +11,7 @@
     "en": "Jiro Tsunoda Masterpiece Selection - Song of Women, The Sad Woman Dances"
    },
    "contentRating": "suggestive",
-   "score": 0.22553302
+   "score": 0.22465158
   },
   {
    "id": "5d7d775d-0e3e-458f-81e3-4a7912f42893",
@@ -19,7 +19,7 @@
     "en": "Era of the Eldest Son"
    },
    "contentRating": "suggestive",
-   "score": 0.22165038
+   "score": 0.22232208
   },
   {
    "id": "403ec511-ea2b-4794-8ef3-786b36073697",
@@ -27,15 +27,7 @@
     "en": "Smooth-Talking Joe"
    },
    "contentRating": "suggestive",
-   "score": 0.21396019
-  },
-  {
-   "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
-   "title": {
-    "en": "Legend of the Holy Common Man"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20425248
+   "score": 0.21462385
   },
   {
    "id": "adfe6496-94f6-40eb-86a8-4273462fc031",
@@ -43,7 +35,15 @@
     "en": "Sahara -Female Foreign Legion-"
    },
    "contentRating": "suggestive",
-   "score": 0.20394786
+   "score": 0.20517918
+  },
+  {
+   "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
+   "title": {
+    "en": "Legend of the Holy Common Man"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20331725
   },
   {
    "id": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
@@ -65,12 +65,29 @@
    ]
   },
   {
-   "id": "889bd43f-9dd3-4ec9-aa20-2a09b0aa6d12",
+   "id": "255c1715-9a68-4e69-9647-ec833116e3d5",
    "title": {
-    "en": "Wild 7 R"
+    "en": "Ore no Genjitsu wa Ren’ai Game?? ka to Omottara Inochigake no Game datta"
    },
    "contentRating": "suggestive",
-   "score": 0.18786888
+   "score": 0.19509487,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "pt-br",
+    "zh-hk",
+    "id",
+    "ar"
+   ]
+  },
+  {
+   "id": "ce7699ff-8570-44e6-8edc-813525c6980d",
+   "title": {
+    "en": "Asyl"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18946195
   },
   {
    "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
@@ -89,7 +106,15 @@
     "en": "The Small Tatami of the Great Plain"
    },
    "contentRating": "suggestive",
-   "score": 0.18637027
+   "score": 0.1866605
+  },
+  {
+   "id": "889bd43f-9dd3-4ec9-aa20-2a09b0aa6d12",
+   "title": {
+    "en": "Wild 7 R"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18656963
   },
   {
    "id": "050c7828-a4a1-4dda-97a8-940f1fe24fd2",
@@ -97,7 +122,7 @@
     "en": "Jiangshi Kaitan BLOOD"
    },
    "contentRating": "suggestive",
-   "score": 0.18515784
+   "score": 0.18492222
   },
   {
    "id": "ca65399d-5dc5-4d95-9630-c216cd592889",
@@ -109,6 +134,14 @@
    "languages": [
     "vi"
    ]
+  },
+  {
+   "id": "d5e0a0aa-1b82-4556-9d74-b051140f048c",
+   "title": {
+    "en": "Yagyu Rashinken"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18386422
   },
   {
    "id": "1421a9e8-fbf5-4e64-a72f-dbebdf570a1f",
@@ -127,7 +160,7 @@
     "en": "Gantz: E"
    },
    "contentRating": "suggestive",
-   "score": 0.18354982,
+   "score": 0.18253519,
    "languages": [
     "ru",
     "zh-hk",
@@ -142,31 +175,7 @@
     "ar",
     "pl"
    ]
-  },
-  {
-   "id": "8f5d8b47-352e-4e23-b719-d6e15f396eaf",
-   "title": {
-    "en": "Kugai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1820218
-  },
-  {
-   "id": "90f2f5ac-b914-42fb-9d8a-0171961f12f5",
-   "title": {
-    "en": "The Black and Red Staircase"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18092635
-  },
-  {
-   "id": "988c2411-6195-4113-95ee-f9b2e0788963",
-   "title": {
-    "en": "Red Mudan"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1803046
   }
  ],
- "updatedAt": "2023-12-10T01:02:13+00:00"
+ "updatedAt": "2023-12-10T18:15:13+00:00"
 }

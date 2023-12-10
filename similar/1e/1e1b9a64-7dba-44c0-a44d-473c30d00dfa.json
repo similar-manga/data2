@@ -11,7 +11,7 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.29303804,
+   "score": 0.29203585,
    "languages": [
     "en"
    ]
@@ -22,10 +22,21 @@
     "en": "Samayoeru Shinzou - Ninomiya Hikaru Sakuhinshuu 2"
    },
    "contentRating": "safe",
-   "score": 0.26664358,
+   "score": 0.26655695,
    "languages": [
     "tr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "6a1f72e3-a2bf-4716-9724-a9c12a5489f6",
+   "title": {
+    "en": "Nagomi Club"
+   },
+   "contentRating": "safe",
+   "score": 0.23691301,
+   "languages": [
     "en"
    ]
   },
@@ -35,7 +46,7 @@
     "en": "Fukugaeru"
    },
    "contentRating": "safe",
-   "score": 0.22803509,
+   "score": 0.22765224,
    "languages": [
     "bg",
     "en",
@@ -49,7 +60,18 @@
     "en": "Kilroy Was Here"
    },
    "contentRating": "safe",
-   "score": 0.21679093,
+   "score": 0.21475111,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5212fcaa-0714-44bc-a429-017e3eff73de",
+   "title": {
+    "en": "Tsuraneko"
+   },
+   "contentRating": "safe",
+   "score": 0.2050259,
    "languages": [
     "en"
    ]
@@ -63,6 +85,29 @@
    "score": 0.19440396,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
+   "title": {
+    "en": "Manaka no Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e5de895e-b2f2-4780-9fe9-adbedfa1ab77",
+   "title": {
+    "en": "Tanuki to Kitsune to Satogurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -91,13 +136,26 @@
    ]
   },
   {
-   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
+   "id": "948de3b7-9059-4215-946c-2028667918af",
    "title": {
-    "en": "JA - Joshi ni Yoru Agriculture"
+    "en": "Op: Yoake Itaru no Iro no Nai Hibi"
    },
    "contentRating": "safe",
-   "score": 0.17958267,
+   "score": 0.18821625,
    "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "c20a131d-dcc7-4f0f-ae1c-901118f1e562",
+   "title": {
+    "en": "Yuuyake Trip"
+   },
+   "contentRating": "safe",
+   "score": 0.18592852,
+   "languages": [
+    "ko",
     "en"
    ]
   },
@@ -113,95 +171,27 @@
    ]
   },
   {
-   "id": "91194389-7abd-4069-9d27-8d2a23ec6aad",
+   "id": "197b3d77-7c1a-47ba-b497-9e4d29137f20",
    "title": {
-    "en": "Ko Mori Uta"
+    "en": "Hoiku no Ou-sama"
    },
    "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "abdc0662-1e43-4c37-9e01-f67beaf2dedb",
-   "title": {
-    "en": "Where on When,"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "ca0623d1-7484-4fd9-8c79-ee7ee58d4a10",
-   "title": {
-    "en": "Nurikabe"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
-   "title": {
-    "en": "Window"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
-   ]
-  },
-  {
-   "id": "027df837-7a15-4893-9dc3-e2ae11b94717",
-   "title": {
-    "en": "Onii-chan Is Done For! Official Anthology Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh-hk",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
-   "title": {
-    "en": "Yamamoto's Ear Cleaning Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.15452638,
+   "score": 0.17958267,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "25febdc9-da45-43c1-b347-70df711fc43b",
+   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
    "title": {
-    "en": "Kurashi no Izumi"
+    "en": "JA - Joshi ni Yoru Agriculture"
    },
    "contentRating": "safe",
-   "score": 0.15377235,
+   "score": 0.17958267,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:55+00:00"
+ "updatedAt": "2023-12-10T18:11:32+00:00"
 }

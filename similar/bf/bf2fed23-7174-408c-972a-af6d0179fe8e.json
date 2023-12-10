@@ -11,7 +11,7 @@
     "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.376358,
+   "score": 0.37414074,
    "languages": [
     "pt-br",
     "tr",
@@ -25,7 +25,7 @@
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.26763308,
+   "score": 0.2656824,
    "languages": [
     "en",
     "ru"
@@ -37,7 +37,7 @@
     "en": "Sayonara Eri"
    },
    "contentRating": "safe",
-   "score": 0.2539934,
+   "score": 0.2536587,
    "languages": [
     "uk",
     "pl",
@@ -57,25 +57,12 @@
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.24175414,
+   "score": 0.24125136,
    "languages": [
     "pt-br",
     "en",
     "pl",
     "bg"
-   ]
-  },
-  {
-   "id": "1fd108dc-df83-40ba-8fb3-f673cdd2099f",
-   "title": {
-    "en": "Rokuyoku"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pl",
-    "ro",
-    "en"
    ]
   },
   {
@@ -93,12 +80,40 @@
    ]
   },
   {
+   "id": "1fd108dc-df83-40ba-8fb3-f673cdd2099f",
+   "title": {
+    "en": "Rokuyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "pl",
+    "ro",
+    "en"
+   ]
+  },
+  {
+   "id": "4ece5274-501e-45f0-ab4d-243f60692960",
+   "title": {
+    "en": "Skeleton Double"
+   },
+   "contentRating": "safe",
+   "score": 0.22740725,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "ru",
+    "th"
+   ]
+  },
+  {
    "id": "368c4397-dedd-4093-b1c8-3d5585d3d2bb",
    "title": {
     "en": "Spirit Photographer Saburo Kono"
    },
    "contentRating": "safe",
-   "score": 0.22602065,
+   "score": 0.22565727,
    "languages": [
     "pt-br",
     "th"
@@ -110,7 +125,7 @@
     "en": "Smile Death Match"
    },
    "contentRating": "safe",
-   "score": 0.21981274,
+   "score": 0.21922368,
    "languages": [
     "en",
     "ru"
@@ -122,7 +137,7 @@
     "en": "Yugen's All-Ghouls Homeroom"
    },
    "contentRating": "safe",
-   "score": 0.21097074,
+   "score": 0.21232206,
    "languages": [
     "es-la",
     "pt-br",
@@ -130,29 +145,20 @@
    ]
   },
   {
-   "id": "dd04374a-6050-4f9e-aa3f-99d1a7d7b957",
+   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
    "title": {
-    "en": "Koorihime Kitan"
+    "en": "Permanent God"
    },
    "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.20879918,
    "languages": [
+    "pt-br",
+    "bg",
+    "hu",
     "it",
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "82ef4d95-51f9-4e31-9991-52749b24b02e",
-   "title": {
-    "en": "Teleport Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
     "pl",
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -171,20 +177,29 @@
    ]
   },
   {
-   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
+   "id": "82ef4d95-51f9-4e31-9991-52749b24b02e",
    "title": {
-    "en": "Permanent God"
+    "en": "Teleport Revolution"
    },
    "contentRating": "safe",
-   "score": 0.20639081,
+   "score": 0.20865622,
    "languages": [
-    "pt-br",
-    "bg",
-    "hu",
-    "it",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "dd04374a-6050-4f9e-aa3f-99d1a7d7b957",
+   "title": {
+    "en": "Koorihime Kitan"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "it",
+    "fr",
     "en",
-    "es-la"
+    "pl"
    ]
   },
   {
@@ -193,7 +208,7 @@
     "en": "Tokyo Hell Heavens"
    },
    "contentRating": "safe",
-   "score": 0.20146306,
+   "score": 0.2030913,
    "languages": [
     "ru"
    ]
@@ -204,26 +219,12 @@
     "en": "Kaze no Ou"
    },
    "contentRating": "safe",
-   "score": 0.19988254,
+   "score": 0.20079115,
    "languages": [
     "en",
     "it"
    ]
-  },
-  {
-   "id": "16e91911-3f2d-4653-a466-08e8756e3f46",
-   "title": {
-    "en": "L∞P"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "it",
-    "pl",
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:38+00:00"
+ "updatedAt": "2023-12-10T18:29:39+00:00"
 }

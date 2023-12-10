@@ -11,7 +11,7 @@
     "en": "The King's Choice"
    },
    "contentRating": "safe",
-   "score": 0.36087283,
+   "score": 0.35177162,
    "languages": [
     "pl",
     "en",
@@ -24,7 +24,7 @@
     "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.3086704,
+   "score": 0.30931824,
    "languages": [
     "pl",
     "en",
@@ -37,7 +37,7 @@
     "en": "Noël la neige"
    },
    "contentRating": "safe",
-   "score": 0.2944961,
+   "score": 0.29461887,
    "languages": [
     "de",
     "fr",
@@ -45,6 +45,21 @@
     "pl",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "8f65dbf1-e945-4c35-8cce-9290ce5d6dc1",
+   "title": {
+    "en": "To My Sister"
+   },
+   "contentRating": "safe",
+   "score": 0.29243302,
+   "languages": [
+    "pl",
+    "tr",
+    "it",
+    "en",
+    "ru"
    ]
   },
   {
@@ -79,7 +94,7 @@
     "en": "Nemuru Machi no Futari"
    },
    "contentRating": "safe",
-   "score": 0.26460993,
+   "score": 0.26445106,
    "languages": [
     "en",
     "pt-br",
@@ -93,7 +108,7 @@
     "en": "You no Ou"
    },
    "contentRating": "safe",
-   "score": 0.25763243,
+   "score": 0.25357193,
    "languages": [
     "pl",
     "en",
@@ -102,27 +117,12 @@
    ]
   },
   {
-   "id": "8f65dbf1-e945-4c35-8cce-9290ce5d6dc1",
-   "title": {
-    "en": "To My Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.25746846,
-   "languages": [
-    "pl",
-    "tr",
-    "it",
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "4f088331-c386-44d9-9c14-ae7889edbc41",
    "title": {
     "en": "2001 Seconds Time Trap"
    },
    "contentRating": "safe",
-   "score": 0.24883215,
+   "score": 0.2479437,
    "languages": [
     "ro",
     "pl",
@@ -135,10 +135,65 @@
     "en": "Addolorato"
    },
    "contentRating": "safe",
-   "score": 0.2439838,
+   "score": 0.24399081,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "f3f3052c-a205-4947-a88a-1cf38d5e84cf",
+   "title": {
+    "en": "Ringo Uri no Utakata Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
+   "title": {
+    "en": "Mayonaka Sanpo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fa",
+    "ar",
+    "fr",
+    "hu",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
+   "title": {
+    "en": "Hero Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+   "title": {
+    "en": "We Can Fly!"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "it"
    ]
   },
   {
@@ -152,21 +207,6 @@
     "pt-br",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "d27dd9e9-6b16-4d57-b7be-2375651d67a8",
-   "title": {
-    "en": "Hi Ina"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en",
-    "tr",
-    "bg"
    ]
   },
   {
@@ -188,49 +228,7 @@
     "id",
     "en"
    ]
-  },
-  {
-   "id": "abd9b3df-3061-4f1b-adbb-e6e3593b2918",
-   "title": {
-    "en": "The Story of the Gatekeeper"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "bg",
-    "ar",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "ef2bf2ee-265d-461c-a30c-a3ec1782e2f0",
-   "title": {
-    "en": "It to Lily"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
-   "title": {
-    "en": "Mayonaka Sanpo"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fa",
-    "ar",
-    "fr",
-    "hu",
-    "pl",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:47+00:00"
+ "updatedAt": "2023-12-10T18:27:22+00:00"
 }

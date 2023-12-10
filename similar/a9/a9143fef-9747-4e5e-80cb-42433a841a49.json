@@ -11,8 +11,21 @@
     "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.27798015,
+   "score": 0.27767968,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
+   "title": {
+    "en": "Dr. Chanbelee"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "ro",
+    "pl",
     "en"
    ]
   },
@@ -47,25 +60,12 @@
    ]
   },
   {
-   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
-   "title": {
-    "en": "Dr. Chanbelee"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "ro",
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "16e91911-3f2d-4653-a466-08e8756e3f46",
    "title": {
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.25086188,
+   "score": 0.25052857,
    "languages": [
     "it",
     "pl",
@@ -91,36 +91,35 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.23808046,
+   "score": 0.23760074,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
+   "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
    "title": {
-    "en": "Tasogare Schrödinger"
+    "en": "Dragon and Chameleon"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.23166308,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
-   "title": {
-    "en": "FREAKS"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
+    "vi",
     "en",
     "ru",
-    "it",
-    "th",
-    "hu",
+    "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "d40aa845-bc0b-4c34-a5eb-99cf973e3935",
+   "title": {
+    "en": "Kesshoku no Shuugosha"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -135,9 +134,9 @@
    ]
   },
   {
-   "id": "d40aa845-bc0b-4c34-a5eb-99cf973e3935",
+   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
    "title": {
-    "en": "Kesshoku no Shuugosha"
+    "en": "Tasogare Schrödinger"
    },
    "contentRating": "safe",
    "score": 0.22857143,
@@ -167,40 +166,32 @@
    ]
   },
   {
+   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
+   "title": {
+    "en": "FREAKS"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en",
+    "ru",
+    "it",
+    "th",
+    "hu",
+    "fr"
+   ]
+  },
+  {
    "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
    "title": {
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.22495766,
+   "score": 0.22342184,
    "languages": [
     "de",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "b5ea6113-b5ab-42eb-adcf-ae0b220b3ddb",
-   "title": {
-    "en": "Kousaten Chindouchuu"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
-   "title": {
-    "en": "Blood-Coloured Forbidden Territory"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -215,7 +206,18 @@
     "pl",
     "bg"
    ]
+  },
+  {
+   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
+   "title": {
+    "en": "Onihime"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:43+00:00"
+ "updatedAt": "2023-12-10T18:27:12+00:00"
 }

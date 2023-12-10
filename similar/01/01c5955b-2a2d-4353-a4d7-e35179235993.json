@@ -11,7 +11,7 @@
     "en": "Trap"
    },
    "contentRating": "safe",
-   "score": 0.2921865,
+   "score": 0.29364005,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Matenrou Maybe?"
    },
    "contentRating": "safe",
-   "score": 0.26273412,
+   "score": 0.26286253,
    "languages": [
     "en"
    ]
@@ -33,21 +33,8 @@
     "en": "Hitodenashi to Koi"
    },
    "contentRating": "safe",
-   "score": 0.26252705,
+   "score": 0.26233432,
    "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
-   "title": {
-    "en": "Tonight The Night"
-   },
-   "contentRating": "safe",
-   "score": 0.25764465,
-   "languages": [
-    "it",
     "en",
     "tr"
    ]
@@ -64,31 +51,9 @@
    ]
   },
   {
-   "id": "f78b871c-fb60-4517-83cb-f150f0e8e763",
-   "title": {
-    "en": "Kago no Uchi"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2f5839f6-7f08-4283-8628-7973662a5908",
    "title": {
     "en": "Hakanakumo"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "46203b97-5e96-4959-9615-d86832110af6",
-   "title": {
-    "en": "Otokonoko no Koto"
    },
    "contentRating": "safe",
    "score": 0.25126484,
@@ -111,6 +76,17 @@
    ]
   },
   {
+   "id": "46203b97-5e96-4959-9615-d86832110af6",
+   "title": {
+    "en": "Otokonoko no Koto"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ec259c36-f12e-4cab-86b9-f33bb3a31434",
    "title": {
     "en": "Escape"
@@ -120,6 +96,17 @@
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "f78b871c-fb60-4517-83cb-f150f0e8e763",
+   "title": {
+    "en": "Kago no Uchi"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -135,12 +122,36 @@
    ]
   },
   {
+   "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
+   "title": {
+    "en": "Tonight The Night"
+   },
+   "contentRating": "safe",
+   "score": 0.25105906,
+   "languages": [
+    "it",
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "e32a6616-f3d6-4c4a-88b1-879a9d7396cf",
+   "title": {
+    "en": "Koisuru Intelligence"
+   },
+   "contentRating": "safe",
+   "score": 0.24198505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a96a4f3e-3833-4f14-87cc-95078efa4969",
    "title": {
     "en": "Shishunki no Ayamachi"
    },
    "contentRating": "safe",
-   "score": 0.23090193,
+   "score": 0.22935772,
    "languages": [
     "en"
    ]
@@ -151,7 +162,7 @@
     "en": "Extreme Urameshiya"
    },
    "contentRating": "safe",
-   "score": 0.22707078,
+   "score": 0.22713302,
    "languages": [
     "en"
    ]
@@ -162,36 +173,22 @@
     "en": "Hitotsu no Hana"
    },
    "contentRating": "safe",
-   "score": 0.22704689,
+   "score": 0.22665064,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "08f54fb5-2881-4228-9c92-cb5fac5265cc",
+   "id": "9269132f-5eeb-43db-9705-41abb4007bec",
    "title": {
-    "en": "After"
+    "en": "Kimi wa Machigatteiru"
    },
    "contentRating": "safe",
    "score": 0.21760175,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5158af3b-a150-4537-916f-fdfc3a36e532",
-   "title": {
-    "en": "A Doll and His Master"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
-   "languages": [
-    "en",
-    "it",
-    "pt-br",
-    "de"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:49+00:00"
+ "updatedAt": "2023-12-10T18:08:32+00:00"
 }

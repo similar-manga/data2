@@ -11,7 +11,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.21465431,
+   "score": 0.21419331,
    "languages": [
     "id",
     "en",
@@ -37,7 +37,7 @@
     "en": "Sanda"
    },
    "contentRating": "safe",
-   "score": 0.21398981,
+   "score": 0.21248686,
    "languages": [
     "fr",
     "en",
@@ -46,14 +46,14 @@
    ]
   },
   {
-   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
+   "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
    "title": {
-    "en": "Japanese History Detective Conan"
+    "en": "Fullmetal Alchemist: The Prototype"
    },
    "contentRating": "safe",
-   "score": 0.20891908,
+   "score": 0.20240276,
    "languages": [
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -69,13 +69,15 @@
    ]
   },
   {
-   "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
+   "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
    "title": {
-    "en": "Fullmetal Alchemist: The Prototype"
+    "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.2011206,
+   "score": 0.1999162,
    "languages": [
+    "it",
+    "en",
     "pt-br"
    ]
   },
@@ -85,22 +87,20 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.20063931,
+   "score": 0.19906335,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
+   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
    "title": {
-    "en": "Repeat"
+    "en": "Japanese History Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.1997363,
+   "score": 0.19535467,
    "languages": [
-    "it",
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -109,7 +109,7 @@
     "en": "The Playground of Yin and Yang"
    },
    "contentRating": "safe",
-   "score": 0.19488324,
+   "score": 0.19469358,
    "languages": [
     "es",
     "ja",
@@ -128,12 +128,23 @@
    ]
   },
   {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.19144604,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
    "title": {
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.19128673,
+   "score": 0.19068207,
    "languages": [
     "en"
    ]
@@ -144,7 +155,7 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.19109997,
+   "score": 0.19044553,
    "languages": [
     "en"
    ]
@@ -155,7 +166,7 @@
     "en": "Shin Kamen Rider - Prologue"
    },
    "contentRating": "safe",
-   "score": 0.19003193,
+   "score": 0.18956366,
    "languages": [
     "pt-br",
     "en"
@@ -186,38 +197,29 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.18868953,
+   "score": 0.18890907,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
+   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
    "title": {
-    "en": "NOA"
+    "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.1874842,
+   "score": 0.18761776,
    "languages": [
-    "es-la",
+    "ru",
     "pt-br",
-    "it",
+    "es",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
-   "title": {
-    "en": "Kore Kaite Shine"
-   },
-   "contentRating": "safe",
-   "score": 0.18433173,
-   "languages": [
-    "en",
-    "pt-br"
+    "es-la",
+    "tr",
+    "mn",
+    "uk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:18+00:00"
+ "updatedAt": "2023-12-10T18:18:00+00:00"
 }

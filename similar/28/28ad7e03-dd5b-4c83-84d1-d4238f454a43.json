@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2106b7de-7820-4ead-a2d4-62418fee2573",
+   "title": {
+    "en": "Saint Seiya - 25th Years Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.3395742,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "5126cf3d-7d9b-470d-85c4-67158d5d06be",
    "title": {
     "en": "Saint Seiya - Tenkai-hen Joso Overture"
    },
    "contentRating": "safe",
-   "score": 0.33553255,
+   "score": 0.3308666,
    "languages": [
     "pt-br"
    ]
@@ -22,10 +33,21 @@
     "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
    },
    "contentRating": "safe",
-   "score": 0.32832754,
+   "score": 0.32212526,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "2056148a-14da-4acb-a27f-bd5aa3c40b44",
+   "title": {
+    "en": "Saint Seiya - Golden Age"
+   },
+   "contentRating": "safe",
+   "score": 0.31284642,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -56,12 +78,24 @@
    ]
   },
   {
+   "id": "f203c952-84f0-466d-aa68-9287448ec34b",
+   "title": {
+    "en": "Saint Seiya - Episode G Requiem"
+   },
+   "contentRating": "safe",
+   "score": 0.27029428,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
    "title": {
     "en": "Bear Hunter — Fubuki-gō"
    },
    "contentRating": "safe",
-   "score": 0.26097503,
+   "score": 0.26051423,
    "languages": [
     "en"
    ]
@@ -72,24 +106,9 @@
     "en": "レンタルキラー"
    },
    "contentRating": "safe",
-   "score": 0.249819,
+   "score": 0.24908024,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
-   "title": {
-    "en": "The West Wind and the Sun: Zephyr and Sol"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "en",
-    "ca",
-    "id",
-    "pl"
    ]
   },
   {
@@ -119,33 +138,35 @@
    ]
   },
   {
-   "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
+   "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
    "title": {
-    "en": "Blust!"
+    "en": "Hakugin no Teiō"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "ca",
-    "it",
     "en"
+   ]
+  },
+  {
+   "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
+   "title": {
+    "en": "The West Wind and the Sun: Zephyr and Sol"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "ca",
+    "id",
+    "pl"
    ]
   },
   {
    "id": "b121ce9e-ced9-4608-8b47-18aedb605498",
    "title": {
     "en": "Kikkai vs Omorai"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
-   "title": {
-    "en": "Hakugin no Teiō"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -165,41 +186,18 @@
    ]
   },
   {
-   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
+   "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
    "title": {
-    "en": "Zenei no Archer"
+    "en": "Blust!"
    },
    "contentRating": "safe",
-   "score": 0.23551185,
+   "score": 0.24743582,
    "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
-   "title": {
-    "en": "Little War"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
+    "ca",
+    "it",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:19+00:00"
+ "updatedAt": "2023-12-10T18:12:41+00:00"
 }

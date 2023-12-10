@@ -11,7 +11,18 @@
     "en": "Misaki Number One!!"
    },
    "contentRating": "safe",
-   "score": 0.295502,
+   "score": 0.29491144,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "370aa750-474f-4832-a877-147fe71890bb",
+   "title": {
+    "en": "Kyoaku Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -33,33 +44,42 @@
     "en": "This Is My Justice"
    },
    "contentRating": "safe",
-   "score": 0.27973306,
+   "score": 0.28025952,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9b364fcd-224c-403d-8a3c-c999e8c3a849",
+   "id": "31c3ee3e-d806-4499-8a0f-1d7a45b119b9",
    "title": {
-    "en": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu"
+    "en": "Oneechan Biyori"
    },
    "contentRating": "safe",
-   "score": 0.24079366,
+   "score": 0.26547003,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7d20c0f5-5ded-4799-b753-2ef852faee8d",
+   "id": "892ed11e-74ba-43a3-a97f-1a48d28052d1",
    "title": {
-    "en": "Bakuon!!"
+    "en": "Onii-chan wa Se ga Chiisai"
    },
    "contentRating": "safe",
-   "score": 0.24078572,
+   "score": 0.2471556,
    "languages": [
-    "en",
-    "es-la",
-    "ru"
+    "en"
+   ]
+  },
+  {
+   "id": "5aa5b618-2634-4863-9338-9d9e5c465965",
+   "title": {
+    "en": "Uchuu Toka to Kurabetara Chippoke na Mondai desu ga"
+   },
+   "contentRating": "safe",
+   "score": 0.24382795,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -68,7 +88,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.2380062,
+   "score": 0.23694117,
    "languages": [
     "th",
     "en",
@@ -79,21 +99,45 @@
    ]
   },
   {
-   "id": "b34220a4-ae89-4f53-b3b8-f6edd86b1292",
+   "id": "5112a67b-7aa4-4a09-b300-0feb67e75222",
    "title": {
-    "en": "Super Oresama Love Story"
+    "en": "Wana Girl"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "ru",
+    "vi",
+    "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "1ffe2e08-d172-43c3-9fd4-82224dc55746",
+   "title": {
+    "en": "School Kill"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
    "id": "90d36666-d091-4920-9bbe-c2fc8334969c",
    "title": {
     "en": "Watashi no Oniichan"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dab0f51c-9858-41bd-9087-dbe729cc55c0",
+   "title": {
+    "en": "Hen-Zemi"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -120,40 +164,28 @@
    ]
   },
   {
-   "id": "7e45964e-87d0-43bd-90c1-51d5165f371c",
+   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
    "title": {
-    "en": "Tonari no Seki-kun"
+    "en": "Wakaba-chan wa Wakarasetai"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "id",
     "en",
-    "pt-br",
-    "it",
-    "pl"
+    "pt-br"
    ]
   },
   {
-   "id": "dab0f51c-9858-41bd-9087-dbe729cc55c0",
+   "id": "b34220a4-ae89-4f53-b3b8-f6edd86b1292",
    "title": {
-    "en": "Hen-Zemi"
+    "en": "Super Oresama Love Story"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "ru",
     "en"
-   ]
-  },
-  {
-   "id": "1ffe2e08-d172-43c3-9fd4-82224dc55746",
-   "title": {
-    "en": "School Kill"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -166,40 +198,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
-   "title": {
-    "en": "Beshari-Gurashi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3512d948-2886-4a9a-b0dc-44e02bb67c87",
-   "title": {
-    "en": "Kagaku Chop"
-   },
-   "contentRating": "safe",
-   "score": 0.21217002,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8dcf65c8-fa66-4f14-8b49-4af8eec39901",
-   "title": {
-    "en": "Gun \u0026 Girls"
-   },
-   "contentRating": "safe",
-   "score": 0.21168128,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:41+00:00"
+ "updatedAt": "2023-12-10T18:24:21+00:00"
 }

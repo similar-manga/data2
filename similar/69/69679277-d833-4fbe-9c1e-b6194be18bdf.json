@@ -11,7 +11,7 @@
     "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.23974366,
+   "score": 0.23898523,
    "languages": [
     "en"
    ]
@@ -22,22 +22,35 @@
     "en": "Bible of Black"
    },
    "contentRating": "safe",
-   "score": 0.22897194,
+   "score": 0.2288551,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Shibatarian"
    },
    "contentRating": "safe",
-   "score": 0.20850047,
+   "score": 0.22506468,
    "languages": [
-    "en",
-    "pl"
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.21765272,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -46,7 +59,7 @@
     "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
    },
    "contentRating": "safe",
-   "score": 0.20424967,
+   "score": 0.20388979,
    "languages": [
     "en"
    ]
@@ -63,12 +76,52 @@
    ]
   },
   {
+   "id": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+   "title": {
+    "en": "Thus Spoke Kishibe Rohan - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "fr",
+    "es-la",
+    "pl"
+   ]
+  },
+  {
+   "id": "8b412589-cf83-4e8a-9013-a4a1ded5d864",
+   "title": {
+    "en": "Layton Brothers Mystery Room: Kanzen Hanzai no Puzzle"
+   },
+   "contentRating": "safe",
+   "score": 0.1927692,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.19073987,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "18a5117e-1cc1-406b-820a-417503886de7",
    "title": {
     "en": "Aphorism"
    },
    "contentRating": "safe",
-   "score": 0.18791127,
+   "score": 0.187375,
    "languages": [
     "pl",
     "en",
@@ -89,12 +142,24 @@
    ]
   },
   {
+   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "title": {
+    "en": "Online - The Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.18566701,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
    "title": {
     "en": "Metamorcode"
    },
    "contentRating": "safe",
-   "score": 0.18238653,
+   "score": 0.18180935,
    "languages": [
     "en"
    ]
@@ -105,7 +170,7 @@
     "en": "Yuuyami Tokkoutai"
    },
    "contentRating": "safe",
-   "score": 0.17621535,
+   "score": 0.17702092,
    "languages": [
     "en"
    ]
@@ -139,62 +204,7 @@
     "tr",
     "id"
    ]
-  },
-  {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
-   "title": {
-    "en": "Watashi wa Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
-   "title": {
-    "en": "Mahou Tsukai no Deshi ga Warau Toki."
-   },
-   "contentRating": "safe",
-   "score": 0.16990572,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7cb96219-f9d5-4155-9af3-ccfd2786924c",
-   "title": {
-    "en": "Room 303"
-   },
-   "contentRating": "safe",
-   "score": 0.16641006,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "899acb87-147f-44d8-ad17-699a64c0dd48",
-   "title": {
-    "en": "The Time of Cherry Blossoms"
-   },
-   "contentRating": "safe",
-   "score": 0.1638341,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9d0b1d0-b31a-4614-b68a-2e550ff82d5b",
-   "title": {
-    "en": "Mukuchi na Bakemono wa Yoru ni Naku"
-   },
-   "contentRating": "safe",
-   "score": 0.16173255,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:56+00:00"
+ "updatedAt": "2023-12-10T18:19:43+00:00"
 }

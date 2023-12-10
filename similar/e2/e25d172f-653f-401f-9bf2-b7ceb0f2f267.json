@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6051f786-418d-43a7-8fac-0ff346158e85",
+   "title": {
+    "en": "Wu Fist"
+   },
+   "contentRating": "safe",
+   "score": 0.2715475,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "1bc764c5-0d15-48ce-b7e3-8164506afa53",
+   "title": {
+    "en": "Iron Fist Chinmi Gaiden"
+   },
+   "contentRating": "safe",
+   "score": 0.23277168,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "db2a89b6-7377-4415-8e3e-995cba442bec",
    "title": {
     "en": "BlazBlue"
    },
    "contentRating": "safe",
-   "score": 0.22339404
+   "score": 0.22199725
   },
   {
    "id": "3ffc6b64-bab5-48bb-b566-a6e6e4e13339",
@@ -19,19 +42,11 @@
     "en": "Baki Gaiden: SCARFACE"
    },
    "contentRating": "safe",
-   "score": 0.22128208,
+   "score": 0.22097303,
    "languages": [
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "6e2aa3b0-c8c4-4ecb-8e54-dcf87a958a24",
-   "title": {
-    "en": "Pokémon Mezastar Mezase! Tag master"
-   },
-   "contentRating": "safe",
-   "score": 0.21156321
   },
   {
    "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
@@ -42,12 +57,20 @@
    "score": 0.21082038
   },
   {
+   "id": "6e2aa3b0-c8c4-4ecb-8e54-dcf87a958a24",
+   "title": {
+    "en": "Pokémon Mezastar Mezase! Tag master"
+   },
+   "contentRating": "safe",
+   "score": 0.20940168
+  },
+  {
    "id": "73420787-570b-4548-8911-b225b8d25dd8",
    "title": {
     "en": "Iron Fist Chinmi Legends"
    },
    "contentRating": "safe",
-   "score": 0.21025784,
+   "score": 0.20918025,
    "languages": [
     "en"
    ]
@@ -88,7 +111,7 @@
     "en": "Black Fist"
    },
    "contentRating": "safe",
-   "score": 0.19909272
+   "score": 0.1985086
   },
   {
    "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
@@ -96,7 +119,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.19419576,
+   "score": 0.19346006,
    "languages": [
     "en"
    ]
@@ -142,28 +165,7 @@
    },
    "contentRating": "safe",
    "score": 0.18583396
-  },
-  {
-   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
-   "title": {
-    "en": "Shiden Kai Hawk"
-   },
-   "contentRating": "safe",
-   "score": 0.18321657
-  },
-  {
-   "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
-   "title": {
-    "en": "The Playground of Yin and Yang"
-   },
-   "contentRating": "safe",
-   "score": 0.18165192,
-   "languages": [
-    "es",
-    "ja",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:05+00:00"
+ "updatedAt": "2023-12-10T18:33:17+00:00"
 }

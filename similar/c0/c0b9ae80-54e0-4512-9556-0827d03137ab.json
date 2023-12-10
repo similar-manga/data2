@@ -6,15 +6,98 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6faf8b9c-3cfa-4f5b-8d93-9dca7509ca70",
+   "title": {
+    "en": "Hoshikiri no Kenshi"
+   },
+   "contentRating": "safe",
+   "score": 0.3461561,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
    "title": {
     "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
    },
    "contentRating": "safe",
-   "score": 0.3088827,
+   "score": 0.3066602,
    "languages": [
     "pt-br",
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
+   "title": {
+    "en": "Senken no Majutsushi to Yobareta Kenshi"
+   },
+   "contentRating": "safe",
+   "score": 0.30333897,
+   "languages": [
+    "pt-br",
+    "zh-hk",
+    "en",
+    "es",
+    "es-la",
+    "ru",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "da261c09-b30b-458a-beab-da2fb93a599c",
+   "title": {
+    "en": "The Last Blade"
+   },
+   "contentRating": "safe",
+   "score": 0.29068032
+  },
+  {
+   "id": "6051f786-418d-43a7-8fac-0ff346158e85",
+   "title": {
+    "en": "Wu Fist"
+   },
+   "contentRating": "safe",
+   "score": 0.28346968,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "86406593-0704-40e6-ad7a-beb6a4ccdd5e",
+   "title": {
+    "en": "The Sword is the Way"
+   },
+   "contentRating": "safe",
+   "score": 0.28056365
+  },
+  {
+   "id": "c883f3c0-f313-4e6e-be5c-d91d08a24847",
+   "title": {
+    "en": "One Sword Reigns Supreme"
+   },
+   "contentRating": "safe",
+   "score": 0.27821577,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "4cb3d22f-83f8-410b-b567-6eea77f20bfc",
+   "title": {
+    "en": "World's Strongest Invalid Swordsman"
+   },
+   "contentRating": "safe",
+   "score": 0.27656487,
+   "languages": [
     "en"
    ]
   },
@@ -24,20 +107,40 @@
     "en": "The Grand Legend Ramayana"
    },
    "contentRating": "safe",
-   "score": 0.2611132,
+   "score": 0.2611957,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
+   "id": "b7a21605-954f-416b-9e1b-8619bfdf6d0c",
    "title": {
-    "en": "Roll"
+    "en": "Katana Musume"
    },
    "contentRating": "safe",
-   "score": 0.2477684,
+   "score": 0.25807288
+  },
+  {
+   "id": "01453642-9d95-438d-baac-8c362cbe1a6f",
+   "title": {
+    "en": "Qin Xia"
+   },
+   "contentRating": "safe",
+   "score": 0.2501547,
    "languages": [
-    "it",
+    "en",
+    "tr",
+    "id"
+   ]
+  },
+  {
+   "id": "25552d93-495d-4f93-9872-340abe7392a0",
+   "title": {
+    "en": "Peculiar Tales of Swords and Blades"
+   },
+   "contentRating": "safe",
+   "score": 0.24813174,
+   "languages": [
     "en"
    ]
   },
@@ -47,146 +150,43 @@
     "en": "Chaotic Sword God (2021)"
    },
    "contentRating": "safe",
-   "score": 0.24763562,
+   "score": 0.24762808,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "8640fe03-5f28-416c-9ed1-a98a3f793626",
+   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
    "title": {
-    "en": "Kill No More"
+    "en": "Roll"
+   },
+   "contentRating": "safe",
+   "score": 0.24606451,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "02b30f7c-9327-4c35-84d6-c270b596cc06",
+   "title": {
+    "en": "Sword Gale"
+   },
+   "contentRating": "safe",
+   "score": 0.24567105
+  },
+  {
+   "id": "88335056-3725-420c-a1b1-c30888fabc31",
+   "title": {
+    "en": "Xuan Yuan-Sword Legend: The Gate of Firmament"
    },
    "contentRating": "safe",
    "score": 0.2388799,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "75584961-7595-415f-805b-e4bc8937213c",
-   "title": {
-    "en": "NOW"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
-   "title": {
-    "en": "Ignite"
-   },
-   "contentRating": "safe",
-   "score": 0.23542094,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
-   "title": {
-    "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
-   },
-   "contentRating": "safe",
-   "score": 0.23388836,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "es-la",
-    "ko"
-   ]
-  },
-  {
-   "id": "4d60009e-3748-451c-a6ac-ade15a99f085",
-   "title": {
-    "en": "Liberté"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206
-  },
-  {
-   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
-   "title": {
-    "en": "High Energy Core"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
-   "title": {
-    "en": "TEAM PHOENIX"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206
-  },
-  {
-   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
-   "title": {
-    "en": "Zenei no Archer"
-   },
-   "contentRating": "safe",
-   "score": 0.22733563,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "cc8dc41e-1f7e-4e52-9a8f-2e24de5e5c9c",
-   "title": {
-    "en": "RWBY: Ice Queendom"
-   },
-   "contentRating": "safe",
-   "score": 0.22124939,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "114722b1-4c47-49fb-8bab-90c12fb44c61",
-   "title": {
-    "en": "Reworld Frontier"
-   },
-   "contentRating": "safe",
-   "score": 0.21919434,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "c3be71c6-014a-4bca-ba10-5137ffed90a3",
-   "title": {
-    "en": "Dragon Ball GT"
-   },
-   "contentRating": "safe",
-   "score": 0.21501648,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.21079762,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:42+00:00"
+ "updatedAt": "2023-12-10T18:29:49+00:00"
 }

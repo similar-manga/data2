@@ -6,17 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b7c52fec-3589-44e9-ac22-3340e657ea93",
+   "title": {
+    "en": "Go Go Heaven!!"
+   },
+   "contentRating": "safe",
+   "score": 0.2868352
+  },
+  {
    "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
    "title": {
     "en": "Nukoduke!"
    },
    "contentRating": "safe",
-   "score": 0.2784045,
+   "score": 0.27594945,
    "languages": [
     "en",
     "ru",
     "es",
     "pl"
+   ]
+  },
+  {
+   "id": "5b2bb40b-4a59-4be4-a134-8b75786b9490",
+   "title": {
+    "en": "Maou no Jinji"
+   },
+   "contentRating": "safe",
+   "score": 0.26248258,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
    ]
   },
   {
@@ -34,12 +55,55 @@
    ]
   },
   {
+   "id": "c0a2bcb0-ca65-49b1-8a4d-eb368d83c128",
+   "title": {
+    "en": "Maou Ojisan to Keiyaku Seikatsu Hajimemashita"
+   },
+   "contentRating": "safe",
+   "score": 0.25367573
+  },
+  {
+   "id": "63c575e6-10df-45fb-81ad-68d420b42b4c",
+   "title": {
+    "en": "Ou-sama to Shounen wa Himitsu wo Motteiru"
+   },
+   "contentRating": "safe",
+   "score": 0.24868712
+  },
+  {
+   "id": "4537f5ab-b461-4ebd-baea-1fa621c524c9",
+   "title": {
+    "en": "Akuma no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.24847336
+  },
+  {
+   "id": "da2528d1-33c3-4530-8369-a494dd5e514b",
+   "title": {
+    "en": "Imigrim - Yowamushi Akuma no Isekai Ijuu Keikaku"
+   },
+   "contentRating": "safe",
+   "score": 0.2449065
+  },
+  {
+   "id": "f1bb1759-e7e7-4c10-a0c6-60616d2d6c64",
+   "title": {
+    "en": "Onimomogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.24433856,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "66aea147-01b8-40e1-86fa-276e9ab6fdef",
    "title": {
     "en": "A Sloppy Girl Wishes for Love"
    },
    "contentRating": "safe",
-   "score": 0.24206932,
+   "score": 0.23908982,
    "languages": [
     "pt-br",
     "en"
@@ -51,11 +115,27 @@
     "en": "Ava's Demon"
    },
    "contentRating": "safe",
-   "score": 0.24169509,
+   "score": 0.2375476,
    "languages": [
     "es",
     "ru"
    ]
+  },
+  {
+   "id": "cf425fca-5549-43d3-ac42-737a4e8e2489",
+   "title": {
+    "en": "Hana no Zubora Meshi"
+   },
+   "contentRating": "safe",
+   "score": 0.2372918
+  },
+  {
+   "id": "94494931-f736-458e-b568-6671b1b07aa4",
+   "title": {
+    "en": "Akuryou wo Taijisuru Hito no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2372587
   },
   {
    "id": "eef87c03-9b2d-4793-9927-d841d2f730a6",
@@ -66,119 +146,21 @@
    "score": 0.23567893
   },
   {
-   "id": "899acb87-147f-44d8-ad17-699a64c0dd48",
+   "id": "0bbd2af0-39ff-4d67-a85a-deb75b34886c",
    "title": {
-    "en": "The Time of Cherry Blossoms"
+    "en": "Kami-sama no Susume"
    },
    "contentRating": "safe",
-   "score": 0.22706944,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23567893
   },
   {
-   "id": "59af2e53-6c02-4efe-bcd7-48215f875bf8",
+   "id": "3186316f-c96d-4390-824d-6750c520bb53",
    "title": {
-    "en": "Namima no Kodomo-tachi"
+    "en": "Daijobu Club"
    },
    "contentRating": "safe",
-   "score": 0.22342691
-  },
-  {
-   "id": "fc2c0867-f85c-4ce3-95c5-9da54ef03330",
-   "title": {
-    "en": "Genso Ginekokurasy"
-   },
-   "contentRating": "safe",
-   "score": 0.22163951,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f2c1ed03-3582-4002-8eec-af07b03c8334",
-   "title": {
-    "en": "Choko Beast!!"
-   },
-   "contentRating": "safe",
-   "score": 0.22021577
-  },
-  {
-   "id": "a5cda876-502c-406e-93f2-0125a768d8cc",
-   "title": {
-    "en": "Mado no Mukougawa"
-   },
-   "contentRating": "safe",
-   "score": 0.21922418,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6a5f475c-e79e-4f53-8deb-01523f12df95",
-   "title": {
-    "en": "Ewokaku Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.21565199,
-   "languages": [
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "18ef6f62-d72f-4d8b-b734-efc8ee8d52d2",
-   "title": {
-    "en": "Twink Twink"
-   },
-   "contentRating": "safe",
-   "score": 0.21542273,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "545ea920-12fc-423a-afe9-70415b9954ae",
-   "title": {
-    "en": "Tokyo Hell Heavens"
-   },
-   "contentRating": "safe",
-   "score": 0.21534541,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "784614ea-949f-43ed-952f-9881677aa477",
-   "title": {
-    "en": "Dog and My Family Circumstance"
-   },
-   "contentRating": "safe",
-   "score": 0.21218422,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "b1ad0635-702d-4762-b7bd-1f9475688b5d",
-   "title": {
-    "en": "Obey Me! The Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.21145622
-  },
-  {
-   "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
-   "title": {
-    "en": "Katana"
-   },
-   "contentRating": "safe",
-   "score": 0.21079762,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23567893
   }
  ],
- "updatedAt": "2023-12-10T01:01:34+00:00"
+ "updatedAt": "2023-12-10T18:13:22+00:00"
 }

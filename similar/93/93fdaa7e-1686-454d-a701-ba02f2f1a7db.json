@@ -6,12 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dbd208cd-31fd-4c68-a377-d2bfec53ea8b",
+   "title": {
+    "en": "Kara no Kioku"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "it",
+    "tr",
+    "es-la",
+    "pl"
+   ]
+  },
+  {
    "id": "5dd43613-b040-47e6-9640-0fca57a362b2",
    "title": {
     "en": "Sore ga Sekai no Futsu ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.20766436,
+   "score": 0.20688488,
    "languages": [
     "en"
    ]
@@ -22,7 +39,7 @@
     "en": "Servamp"
    },
    "contentRating": "safe",
-   "score": 0.20711565,
+   "score": 0.20669948,
    "languages": [
     "es",
     "en",
@@ -31,12 +48,50 @@
    ]
   },
   {
+   "id": "22439875-ccf0-435d-917b-e714255e27cc",
+   "title": {
+    "en": "Higyaku no Noel"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9fb2e43a-a422-40b9-b478-5dc896a29e50",
+   "title": {
+    "en": "Uryuudou Yumebanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c3d3d5b6-7a44-4f12-a625-8af3f716d815",
+   "title": {
+    "en": "Kare ni Irai Shite wa Ikemasen"
+   },
+   "contentRating": "safe",
+   "score": 0.1898156,
+   "languages": [
+    "en",
+    "es",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
    "id": "60d8aa66-3b06-446b-b6ca-e3c788ade41e",
    "title": {
     "en": "Aruosumente"
    },
    "contentRating": "safe",
-   "score": 0.1865815,
+   "score": 0.18549594,
    "languages": [
     "en",
     "fr"
@@ -56,6 +111,28 @@
    ]
   },
   {
+   "id": "8ac0855f-5f95-41cb-a1cc-7ac6714980b7",
+   "title": {
+    "en": "Dark Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.18163386,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ee4a891d-a8a5-4d40-8e36-34e0122bc591",
+   "title": {
+    "en": "Weiss Side B"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "32670913-6c26-4a7c-9256-cc2c635e1c29",
    "title": {
     "en": "Landreaall"
@@ -72,27 +149,37 @@
     "en": "Sword Dancer"
    },
    "contentRating": "safe",
-   "score": 0.1742754,
+   "score": 0.17332827,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fc2c0867-f85c-4ce3-95c5-9da54ef03330",
+   "id": "17da48bf-095f-4b53-a365-96e2da3ba67c",
    "title": {
-    "en": "Genso Ginekokurasy"
+    "en": "Mahoutsukai Syd \u0026 Lid"
    },
    "contentRating": "safe",
    "score": 0.17142858,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
    "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
    "title": {
     "en": "Katana"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b6f9358-64ef-4000-bb02-5a2fb9f1b81e",
+   "title": {
+    "en": "Henjin Tantei Emu"
    },
    "contentRating": "safe",
    "score": 0.17142858,
@@ -110,84 +197,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "545b6c2b-603c-45fb-ad5b-54f508aac44c",
-   "title": {
-    "en": "Bokura no Kiseki ~another stories~"
-   },
-   "contentRating": "safe",
-   "score": 0.17036709,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aeae4b8d-e867-46d0-9af1-238c715eda91",
-   "title": {
-    "en": "Deka Wanko"
-   },
-   "contentRating": "safe",
-   "score": 0.163949,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "73cc1d1f-242c-4d43-8cab-253d1d62624c",
-   "title": {
-    "en": "Omumedai"
-   },
-   "contentRating": "safe",
-   "score": 0.16303904,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "842c1d46-7c7b-4b99-9007-8a2b150627cd",
-   "title": {
-    "en": "The Children of the Mountain"
-   },
-   "contentRating": "safe",
-   "score": 0.159281,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "082b320c-e18d-4bdd-a45a-255b3a69b3f7",
-   "title": {
-    "en": "Kiri no Mori Hotel"
-   },
-   "contentRating": "safe",
-   "score": 0.15642026,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4f81740f-5164-4a39-9e95-e138108de3f1",
-   "title": {
-    "en": "Ghost Speaker"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "295fae10-1905-4064-bde9-21faef922471",
-   "title": {
-    "en": "Amai Sasayaki"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:51+00:00"
+ "updatedAt": "2023-12-10T18:24:45+00:00"
 }

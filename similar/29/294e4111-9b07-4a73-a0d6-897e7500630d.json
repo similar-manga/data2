@@ -11,7 +11,7 @@
     "en": "Terranigma"
    },
    "contentRating": "safe",
-   "score": 0.30171555,
+   "score": 0.30141628,
    "languages": [
     "en"
    ]
@@ -22,9 +22,21 @@
     "en": "Crown"
    },
    "contentRating": "safe",
-   "score": 0.29567784,
+   "score": 0.29506564,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "19e75e0a-13e8-44b9-8510-c348bae6fc7c",
+   "title": {
+    "en": "Chaos Theory"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -39,12 +51,23 @@
    ]
   },
   {
+   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
+   "title": {
+    "en": "Final Re:Quest"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eb76755d-be29-4c9e-84b5-a9120cb402d4",
    "title": {
     "en": "Ruler of the Dark Region"
    },
    "contentRating": "safe",
-   "score": 0.25245476,
+   "score": 0.25239527,
    "languages": [
     "tr",
     "fr",
@@ -57,18 +80,7 @@
     "en": "Gensou Suikoden II - Hiki Sakareshi Shukusei"
    },
    "contentRating": "safe",
-   "score": 0.24783267,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf081d30-5fb3-4cee-b3cc-05ee89f4fcbc",
-   "title": {
-    "en": "City Hall"
-   },
-   "contentRating": "safe",
-   "score": 0.24324405,
+   "score": 0.24511456,
    "languages": [
     "en"
    ]
@@ -79,11 +91,35 @@
     "en": "Senyuu."
    },
    "contentRating": "safe",
-   "score": 0.24318393,
+   "score": 0.24315019,
    "languages": [
     "en",
     "es",
     "tr"
+   ]
+  },
+  {
+   "id": "cf081d30-5fb3-4cee-b3cc-05ee89f4fcbc",
+   "title": {
+    "en": "City Hall"
+   },
+   "contentRating": "safe",
+   "score": 0.24314438,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f5d93ec1-69d3-4190-9b6e-9d5fe1dd1a91",
+   "title": {
+    "en": "Chain Chronicle Crimson"
+   },
+   "contentRating": "safe",
+   "score": 0.24193937,
+   "languages": [
+    "es",
+    "en",
+    "ru"
    ]
   },
   {
@@ -92,7 +128,41 @@
     "en": "The Legend of Soma"
    },
    "contentRating": "safe",
-   "score": 0.24227093,
+   "score": 0.24173483,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bb1792a0-5887-4dcf-abc4-a733934f6eb1",
+   "title": {
+    "en": "Fire Emblem - Thracia 776"
+   },
+   "contentRating": "safe",
+   "score": 0.24157561,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "661fe186-4f4b-4453-9e30-ff6e9986f29c",
+   "title": {
+    "en": "Shoukoku no Altair-san"
+   },
+   "contentRating": "safe",
+   "score": 0.24138509,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "c30266a7-cc5c-48fa-b414-689d8c5cd22c",
+   "title": {
+    "en": "Beet the Vandel Buster"
+   },
+   "contentRating": "safe",
+   "score": 0.24086419,
    "languages": [
     "en"
    ]
@@ -103,89 +173,24 @@
     "en": "Dark Striker"
    },
    "contentRating": "safe",
-   "score": 0.24113141,
+   "score": 0.24081706,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
+   "id": "6bf646fb-d8d1-40fa-94aa-a9393857b8c1",
    "title": {
-    "en": "Tales of Destiny 2"
+    "en": "Kami-sama no iru Keshiki"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4e13a83b-274d-49e2-9b59-6c87e05b13aa",
-   "title": {
-    "en": "Tales of Vesperia ~Flynn Seinaru Hakugin no Kishi~"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
-   "title": {
-    "en": "Juuhime - Sincerely Night"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
-   "title": {
-    "en": "Joou Kishi Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
-   "title": {
-    "en": "GOD EATER - the spiral fate"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23881663,
    "languages": [
     "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "3384d199-0774-4a7a-a81f-12458d931096",
-   "title": {
-    "en": "Tokiya"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
-   "title": {
-    "en": "Star Ocean - Blue Sphere"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
+    "id",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:21+00:00"
+ "updatedAt": "2023-12-10T18:12:45+00:00"
 }

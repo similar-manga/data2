@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
+   "title": {
+    "en": "Zekkyou Gakkyuu Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.2690843,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
+   "title": {
+    "en": "Sayonara Miniskirt"
+   },
+   "contentRating": "safe",
+   "score": 0.23953006,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "96e5efad-f762-492d-9370-be9e6119d1f3",
    "title": {
     "en": "Sweetheart Devil"
    },
    "contentRating": "safe",
-   "score": 0.23944288,
+   "score": 0.23691617,
    "languages": [
     "en"
    ]
@@ -25,29 +48,6 @@
    "score": 0.2301729,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
-   "title": {
-    "en": "Kazekou Engekibu!"
-   },
-   "contentRating": "safe",
-   "score": 0.21232232,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f903065a-0031-4356-a699-17dec02c5759",
-   "title": {
-    "en": "Miunohri to Swan"
-   },
-   "contentRating": "safe",
-   "score": 0.21030445,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -77,6 +77,17 @@
    ]
   },
   {
+   "id": "08597d29-b7f7-4b91-afcd-b82fe9c549ce",
+   "title": {
+    "en": "As High as the Sky \u0026 the Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.20544238,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
    "title": {
     "en": "Deguchi Zero"
@@ -88,13 +99,47 @@
    ]
   },
   {
+   "id": "10d0b77d-bf00-4669-b052-29d2a320f712",
+   "title": {
+    "en": "Shinohara Chie Kessakushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
+   "title": {
+    "en": "Kazekou Engekibu!"
+   },
+   "contentRating": "safe",
+   "score": 0.20467171,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
    "title": {
     "en": "Mane of the Wind"
    },
    "contentRating": "safe",
-   "score": 0.20356858,
+   "score": 0.2032034,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
+   "title": {
+    "en": "Winter Flowers"
+   },
+   "contentRating": "safe",
+   "score": 0.20236118,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -116,15 +161,15 @@
    ]
   },
   {
-   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
+   "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
    "title": {
-    "en": "Winter Flowers"
+    "en": "Ayakashi Hisen"
    },
    "contentRating": "safe",
-   "score": 0.20236118,
+   "score": 0.19827265,
    "languages": [
-    "pl",
-    "en"
+    "hu",
+    "pl"
    ]
   },
   {
@@ -149,55 +194,7 @@
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
-   "title": {
-    "en": "Ayakashi Hisen"
-   },
-   "contentRating": "safe",
-   "score": 0.19827265,
-   "languages": [
-    "hu",
-    "pl"
-   ]
-  },
-  {
-   "id": "7907d4bc-d46a-41a1-8cc1-4edacaca3741",
-   "title": {
-    "en": "Ordinary School"
-   },
-   "contentRating": "safe",
-   "score": 0.19013856,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d94943f6-e25f-4a7a-96b2-ebcdcb727e0e",
-   "title": {
-    "en": "Angel Hunt"
-   },
-   "contentRating": "safe",
-   "score": 0.18735005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.18735005,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:32+00:00"
+ "updatedAt": "2023-12-10T18:16:06+00:00"
 }

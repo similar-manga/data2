@@ -11,21 +11,9 @@
     "en": "Guardian Joker"
    },
    "contentRating": "safe",
-   "score": 0.36892346,
+   "score": 0.36486852,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
-   "title": {
-    "en": "King Golf"
-   },
-   "contentRating": "safe",
-   "score": 0.2531552,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -34,7 +22,7 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.24282967,
+   "score": 0.24205376,
    "languages": [
     "en"
    ]
@@ -45,29 +33,30 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.2375634,
+   "score": 0.23686592,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "43dec29e-821c-459b-983b-315ca12f2c02",
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
    "title": {
-    "en": "eV"
+    "en": "S. Flight"
    },
    "contentRating": "safe",
-   "score": 0.22890949,
+   "score": 0.23620386,
    "languages": [
+    "zh",
     "en"
    ]
   },
   {
-   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
+   "id": "a1d3139d-e0ac-45af-b5c5-4878340dc67a",
    "title": {
-    "en": "Western Shotgun"
+    "en": "Path a Way"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.22860372,
    "languages": [
     "en"
    ]
@@ -97,17 +86,6 @@
    ]
   },
   {
-   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
-   "title": {
-    "en": "Saber Cats"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e54a7615-ee0a-4af0-979b-d8b8c50332cc",
    "title": {
     "en": "Boundary Apocalypse - Starfall"
@@ -120,23 +98,34 @@
    ]
   },
   {
-   "id": "a1d3139d-e0ac-45af-b5c5-4878340dc67a",
+   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
    "title": {
-    "en": "Path a Way"
+    "en": "Western Shotgun"
    },
    "contentRating": "safe",
-   "score": 0.22852807,
+   "score": 0.22857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "717d25ff-6562-4e32-91c0-2705bf85009b",
+   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
    "title": {
-    "en": "The Five Star Stories"
+    "en": "Saber Cats"
    },
    "contentRating": "safe",
-   "score": 0.2272332,
+   "score": 0.22857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "43dec29e-821c-459b-983b-315ca12f2c02",
+   "title": {
+    "en": "eV"
+   },
+   "contentRating": "safe",
+   "score": 0.2284875,
    "languages": [
     "en"
    ]
@@ -147,10 +136,21 @@
     "en": "Natomatos"
    },
    "contentRating": "safe",
-   "score": 0.22576727,
+   "score": 0.22732317,
    "languages": [
     "ru",
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "717d25ff-6562-4e32-91c0-2705bf85009b",
+   "title": {
+    "en": "The Five Star Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.22435486,
+   "languages": [
     "en"
    ]
   },
@@ -160,7 +160,7 @@
     "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.22200911,
+   "score": 0.2220038,
    "languages": [
     "en"
    ]
@@ -177,9 +177,9 @@
    ]
   },
   {
-   "id": "465937d6-b096-4ae5-a943-e72511a6f101",
+   "id": "0d4e738b-b3ed-4a19-be4c-80fb78e3ab31",
    "title": {
-    "en": "Zapt!"
+    "en": "Armagedon"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -188,5 +188,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:10+00:00"
+ "updatedAt": "2023-12-10T18:09:29+00:00"
 }

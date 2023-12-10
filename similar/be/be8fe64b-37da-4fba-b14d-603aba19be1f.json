@@ -11,7 +11,7 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.24084567,
+   "score": 0.24021967,
    "languages": [
     "en"
    ]
@@ -40,7 +40,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.23569539,
+   "score": 0.23575749,
    "languages": [
     "en"
    ]
@@ -64,12 +64,30 @@
    ]
   },
   {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.23053135,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
+  },
+  {
    "id": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
    "title": {
     "en": "VERSUS"
    },
    "contentRating": "safe",
-   "score": 0.22508222,
+   "score": 0.22507419,
    "languages": [
     "uk",
     "pt-br",
@@ -114,7 +132,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.22271673,
+   "score": 0.22251336,
    "languages": [
     "pl",
     "en",
@@ -136,9 +154,29 @@
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.22241823,
+   "score": 0.22103302,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.22090875,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -147,7 +185,7 @@
     "en": "Ao no Exorcist"
    },
    "contentRating": "safe",
-   "score": 0.21921931,
+   "score": 0.21835236,
    "languages": [
     "pt-br",
     "es-la",
@@ -157,6 +195,33 @@
     "it",
     "es",
     "he"
+   ]
+  },
+  {
+   "id": "e7eabe96-aa17-476f-b431-2497d5e9d060",
+   "title": {
+    "en": "Black Clover"
+   },
+   "contentRating": "safe",
+   "score": 0.21543793,
+   "languages": [
+    "es",
+    "pt-br",
+    "hu",
+    "id",
+    "en",
+    "ru",
+    "it",
+    "es-la",
+    "uk",
+    "de",
+    "th",
+    "ar",
+    "fr",
+    "ms",
+    "pl",
+    "ro",
+    "el"
    ]
   },
   {
@@ -194,7 +259,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.20995443,
+   "score": 0.20986553,
    "languages": [
     "pt-br",
     "es",
@@ -206,41 +271,7 @@
     "pt",
     "es-la"
    ]
-  },
-  {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
-   "title": {
-    "en": "Tokyo Doragon Naito"
-   },
-   "contentRating": "safe",
-   "score": 0.20870407,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
-   "title": {
-    "en": "Locke the Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.20559914,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
-   "title": {
-    "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
-   },
-   "contentRating": "safe",
-   "score": 0.20542249,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:37+00:00"
+ "updatedAt": "2023-12-10T18:29:35+00:00"
 }

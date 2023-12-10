@@ -11,7 +11,7 @@
     "en": "Boyish na Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.37573776,
+   "score": 0.37146053,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Dare mo Shiranai Heya"
    },
    "contentRating": "safe",
-   "score": 0.35754225,
+   "score": 0.366846,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Kekkon Suru Kara Shite mo ii Yone"
    },
    "contentRating": "safe",
-   "score": 0.31841388
+   "score": 0.31875008
   },
   {
    "id": "cac52e47-1e15-4fa5-86b5-e6561f6f1dff",
@@ -41,7 +41,7 @@
     "en": "Diamond ni Naritai"
    },
    "contentRating": "safe",
-   "score": 0.3163682
+   "score": 0.315977
   },
   {
    "id": "8305911a-7aa9-4537-9d5d-74bc299bf8f0",
@@ -49,7 +49,7 @@
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.3086876,
+   "score": 0.30794528,
    "languages": [
     "pt-br",
     "en"
@@ -61,9 +61,22 @@
     "en": "Ichinen no Koi wa Gantan ni Ari"
    },
    "contentRating": "safe",
-   "score": 0.3060241,
+   "score": 0.30604056,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
+   "title": {
+    "en": "Hoshi ni Negau"
+   },
+   "contentRating": "safe",
+   "score": 0.30454746,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
    ]
   },
   {
@@ -72,32 +85,7 @@
     "en": "Kare Pillow: Extra Comic"
    },
    "contentRating": "safe",
-   "score": 0.3043718
-  },
-  {
-   "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
-   "title": {
-    "en": "Hoshi ni Negau"
-   },
-   "contentRating": "safe",
-   "score": 0.30435306,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
-   "title": {
-    "en": "Liar Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.30057892,
-   "languages": [
-    "pl",
-    "en"
-   ]
+   "score": 0.30397493
   },
   {
    "id": "cc37df14-150f-4745-8867-6359d64f10af",
@@ -105,7 +93,7 @@
     "en": "Ano Ko ni Kubittake"
    },
    "contentRating": "safe",
-   "score": 0.29980046,
+   "score": 0.30021802,
    "languages": [
     "en"
    ]
@@ -116,7 +104,7 @@
     "en": "Datte, Yue ni, Hatsukoi-chuu."
    },
    "contentRating": "safe",
-   "score": 0.29953948
+   "score": 0.2992307
   },
   {
    "id": "327a66e0-f10d-4264-94a7-5ba00b468142",
@@ -124,33 +112,9 @@
     "en": "Go Isshou ni Heart mo Atatamemasuka?"
    },
    "contentRating": "safe",
-   "score": 0.2982813,
+   "score": 0.29840285,
    "languages": [
     "pl"
-   ]
-  },
-  {
-   "id": "17db0011-4667-493f-936f-fe4ba1e7d6f7",
-   "title": {
-    "en": "Hairstyle Amanojaku Shiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.2979219,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5b5cd8e5-46a6-41be-9774-d90d4add4a0a",
-   "title": {
-    "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
-   },
-   "contentRating": "safe",
-   "score": 0.29778686,
-   "languages": [
-    "pl",
-    "pt-br"
    ]
   },
   {
@@ -159,9 +123,45 @@
     "en": "Kodomo ga Nemuru Ato"
    },
    "contentRating": "safe",
-   "score": 0.2977376,
+   "score": 0.2980956,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "5b5cd8e5-46a6-41be-9774-d90d4add4a0a",
+   "title": {
+    "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
+   },
+   "contentRating": "safe",
+   "score": 0.29787627,
+   "languages": [
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
+   "title": {
+    "en": "Liar Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.29763946,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "17db0011-4667-493f-936f-fe4ba1e7d6f7",
+   "title": {
+    "en": "Hairstyle Amanojaku Shiyou"
+   },
+   "contentRating": "safe",
+   "score": 0.29754713,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -170,11 +170,11 @@
     "en": "Madokana Tsuki to Encore"
    },
    "contentRating": "safe",
-   "score": 0.29698202,
+   "score": 0.29659337,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:08+00:00"
+ "updatedAt": "2023-12-10T18:28:21+00:00"
 }

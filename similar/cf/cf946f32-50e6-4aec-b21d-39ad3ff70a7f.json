@@ -6,12 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
+   "title": {
+    "en": "Mercy"
+   },
+   "contentRating": "safe",
+   "score": 0.43657175,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "3755c8f3-3fee-4144-a38b-4dce73c53a5b",
    "title": {
     "en": "Dogesen"
    },
    "contentRating": "safe",
-   "score": 0.36883956
+   "score": 0.36981145
+  },
+  {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.35172668,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
   },
   {
    "id": "348966d0-c807-45cf-9260-8adf006a9da6",
@@ -19,7 +44,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.34809804,
+   "score": 0.34466085,
    "languages": [
     "th",
     "en",
@@ -35,9 +60,31 @@
     "en": "Gallery Fake"
    },
    "contentRating": "safe",
-   "score": 0.33052233,
+   "score": 0.3283835,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
+   "title": {
+    "en": "THE IDOLM@STER Million Live! Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.32608205,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d8e1ce79-8c72-4051-b051-32c8fde5c33d",
+   "title": {
+    "en": "The Mark of a Man"
+   },
+   "contentRating": "safe",
+   "score": 0.32502943,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -46,10 +93,18 @@
     "en": "Jalapeño"
    },
    "contentRating": "safe",
-   "score": 0.32475483,
+   "score": 0.32260108,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e281daf5-5fe4-4388-8378-42414f71f37d",
+   "title": {
+    "en": "Mekuri Mekuru"
+   },
+   "contentRating": "safe",
+   "score": 0.32202214
   },
   {
    "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
@@ -57,7 +112,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.32295352,
+   "score": 0.3206545,
    "languages": [
     "pt-br",
     "es-la",
@@ -70,121 +125,66 @@
    ]
   },
   {
-   "id": "e281daf5-5fe4-4388-8378-42414f71f37d",
-   "title": {
-    "en": "Mekuri Mekuru"
-   },
-   "contentRating": "safe",
-   "score": 0.32152078
-  },
-  {
    "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
    "title": {
     "en": "Jouou"
    },
    "contentRating": "safe",
-   "score": 0.32123804,
+   "score": 0.32020587,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
+   "id": "400e349a-0432-44cc-912b-b5162385b59e",
    "title": {
-    "en": "Koaka Head"
+    "en": "Kyouryuu-chan to Kaseki-kun"
    },
    "contentRating": "safe",
-   "score": 0.31843868,
+   "score": 0.3201204,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "728698ee-f78f-4257-8b8d-212e0b3a6037",
+   "title": {
+    "en": "Battle Studies"
+   },
+   "contentRating": "safe",
+   "score": 0.31943884
+  },
+  {
+   "id": "02efd1cb-45bc-4fd2-b34b-73e644e7b4f6",
+   "title": {
+    "en": "Outsider Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.31848997,
    "languages": [
     "en",
-    "pl"
+    "es-la"
    ]
   },
   {
-   "id": "5ae5d282-bd56-4844-ab9a-8eb8e7970b62",
+   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
    "title": {
-    "en": "Fude to Kizu"
+    "en": "Challenging the Manga Dojos"
    },
    "contentRating": "safe",
-   "score": 0.31668434,
+   "score": 0.31816953,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3e32a4b1-8fa1-423c-ae24-1b28013a9eab",
+   "id": "3ccf53f6-7a73-4f4b-8ba4-daf73079cfe2",
    "title": {
-    "en": "Oyaju Rider"
+    "en": "Hiraba no Hito"
    },
    "contentRating": "safe",
-   "score": 0.31568736,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9639bb43-a4cc-4148-b32f-5bea705e0956",
-   "title": {
-    "en": "Cherry Blossom!"
-   },
-   "contentRating": "safe",
-   "score": 0.31546512
-  },
-  {
-   "id": "8dcf65c8-fa66-4f14-8b49-4af8eec39901",
-   "title": {
-    "en": "Gun \u0026 Girls"
-   },
-   "contentRating": "safe",
-   "score": 0.314607,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2bad3b59-078c-4ff0-a64e-3db5a38bcc69",
-   "title": {
-    "en": "Happy Happy Birthday"
-   },
-   "contentRating": "safe",
-   "score": 0.31228122,
-   "languages": [
-    "it",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7875d6b9-fcf1-43fd-b28c-2074a5bda715",
-   "title": {
-    "en": "Juukinzoku Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.31130323,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
-   "title": {
-    "en": "Crown Gear"
-   },
-   "contentRating": "safe",
-   "score": 0.3083426,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "b94122f9-a161-45e2-a0d0-440798cab85f",
-   "title": {
-    "en": "Orasu: Uramichi no Yanagi"
-   },
-   "contentRating": "safe",
-   "score": 0.3080255
+   "score": 0.3180573
   }
  ],
- "updatedAt": "2023-12-10T01:08:19+00:00"
+ "updatedAt": "2023-12-10T18:31:21+00:00"
 }

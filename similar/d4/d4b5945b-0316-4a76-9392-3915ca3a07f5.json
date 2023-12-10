@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "75bab431-398c-46f4-9a37-7670997cb5a9",
+   "title": {
+    "en": "Atsui Fukushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.22543173,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "924b3c32-f9ac-41dc-8e3c-44e9a3d482bc",
    "title": {
     "en": "We Swore to Meet in the Next Life and That’s When Things Got Weird!"
    },
    "contentRating": "safe",
-   "score": 0.22147182,
+   "score": 0.22290209,
    "languages": [
     "en",
     "vi",
@@ -24,18 +35,7 @@
     "en": "Akuyaku Reijou (Kari) no Funtou"
    },
    "contentRating": "safe",
-   "score": 0.21784934,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c01314a2-31e8-4b49-8483-5d57019bd60a",
-   "title": {
-    "en": "Ouji-sama ni Dekiai Sarete Komattemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.2126656,
+   "score": 0.21883316,
    "languages": [
     "en"
    ]
@@ -46,9 +46,20 @@
     "en": "Tensei Oujo wa Ai yori Ryouchi ga Hoshii no de Seiryaku Kekkon wo Kibou shimasu!"
    },
    "contentRating": "safe",
-   "score": 0.21168537,
+   "score": 0.21376142,
    "languages": [
     "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "c01314a2-31e8-4b49-8483-5d57019bd60a",
+   "title": {
+    "en": "Ouji-sama ni Dekiai Sarete Komattemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.21355574,
+   "languages": [
     "en"
    ]
   },
@@ -58,7 +69,7 @@
     "en": "Hakoniwa‌ ‌no‌ ‌Yakujutsushi‌: Kamisama ni Aisare Joshi no Isekai Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.21073036,
+   "score": 0.21171302,
    "languages": [
     "en"
    ]
@@ -69,7 +80,7 @@
     "en": "I am Currently Living with a Bear"
    },
    "contentRating": "safe",
-   "score": 0.20496182,
+   "score": 0.20165686,
    "languages": [
     "pl",
     "en"
@@ -81,7 +92,7 @@
     "en": "Reborn to Be a Movie Queen"
    },
    "contentRating": "safe",
-   "score": 0.20318809,
+   "score": 0.20123467,
    "languages": [
     "en"
    ]
@@ -92,8 +103,45 @@
     "en": "My Hubby Is Too Cute!"
    },
    "contentRating": "safe",
-   "score": 0.1981212,
+   "score": 0.19655837,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bc20fa98-b707-43cc-b195-bcee8e518ed9",
+   "title": {
+    "en": "Rekishi ni Nokoru Akujo ni naru zo"
+   },
+   "contentRating": "safe",
+   "score": 0.19222446,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "ru"
+   ]
+  },
+  {
+   "id": "09010421-d57c-4fed-b592-c44136d1722e",
+   "title": {
+    "ja": "Onimotsu to Yobareta Tensei Hime wa, Shoukan Yuusha ni Koi wo Shite Seijo ni Narimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.19120046,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "26404133-d8a5-4857-8512-80cc0b21828c",
+   "title": {
+    "en": "The Most Heretical Last Boss Queen Who Will Become the Source of Tragedy Will Devote Herself for the Sake of the People. ~To The Savior~"
+   },
+   "contentRating": "safe",
+   "score": 0.19116665,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -103,7 +151,7 @@
     "en": "How to Win My Husband Over"
    },
    "contentRating": "safe",
-   "score": 0.19218151,
+   "score": 0.19043519,
    "languages": [
     "uk",
     "pt-br",
@@ -113,40 +161,13 @@
    ]
   },
   {
-   "id": "bc20fa98-b707-43cc-b195-bcee8e518ed9",
+   "id": "b94788db-d6e4-46bb-9eac-df5bfa11c702",
    "title": {
-    "en": "Rekishi ni Nokoru Akujo ni naru zo"
+    "en": "Konaide Kounotori"
    },
    "contentRating": "safe",
-   "score": 0.19146636,
+   "score": 0.18494934,
    "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "ru"
-   ]
-  },
-  {
-   "id": "26404133-d8a5-4857-8512-80cc0b21828c",
-   "title": {
-    "en": "The Most Heretical Last Boss Queen Who Will Become the Source of Tragedy Will Devote Herself for the Sake of the People. ~To The Savior~"
-   },
-   "contentRating": "safe",
-   "score": 0.18997546,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "c0f8aafc-6338-4f97-a988-4400bf0e5f0c",
-   "title": {
-    "ko": "The Essence of a Perfect Marriage"
-   },
-   "contentRating": "safe",
-   "score": 0.18502003,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -156,59 +177,23 @@
     "en": "Princess Eleanor wants to live a free youth ~ JK life on a trip to a different world ~"
    },
    "contentRating": "safe",
-   "score": 0.1848947,
+   "score": 0.18484658,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
+   "id": "c0f8aafc-6338-4f97-a988-4400bf0e5f0c",
    "title": {
-    "en": "Father, I Don't Want This Marriage!"
+    "ko": "The Essence of a Perfect Marriage"
    },
    "contentRating": "safe",
-   "score": 0.18138278,
+   "score": 0.18407038,
    "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "fr",
-    "vi",
-    "uk",
-    "my",
-    "es",
     "pl",
-    "id"
-   ]
-  },
-  {
-   "id": "70e3336d-c55e-4eee-be72-45cc82eb46dd",
-   "title": {
-    "en": "Please Don't Eat Me!"
-   },
-   "contentRating": "safe",
-   "score": 0.18116723,
-   "languages": [
-    "mn",
-    "en",
-    "pl",
-    "pt-br",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "09e6e501-b38b-410e-9856-f4e5b1b61481",
-   "title": {
-    "en": "The Little Princess and Her Monster Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.18103248,
-   "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:32+00:00"
+ "updatedAt": "2023-12-10T18:31:53+00:00"
 }

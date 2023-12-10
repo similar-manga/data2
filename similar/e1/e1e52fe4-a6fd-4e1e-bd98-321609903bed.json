@@ -22,7 +22,7 @@
     "en": "Prince of the Night"
    },
    "contentRating": "safe",
-   "score": 0.2502847,
+   "score": 0.250276,
    "languages": [
     "en"
    ]
@@ -33,10 +33,21 @@
     "en": "Phantom Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.24620682,
+   "score": 0.2452657,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "title": {
+    "en": "Without the Sun"
+   },
+   "contentRating": "safe",
+   "score": 0.24148111,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -51,23 +62,12 @@
    ]
   },
   {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
-   "title": {
-    "en": "Without the Sun"
-   },
-   "contentRating": "safe",
-   "score": 0.24121742,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "859ac2c3-bdc1-4ab0-bbf8-a81c6d809157",
    "title": {
     "en": "Tenma no Ketsuzoku"
    },
    "contentRating": "safe",
-   "score": 0.23992816,
+   "score": 0.23916423,
    "languages": [
     "en",
     "tr"
@@ -79,22 +79,10 @@
     "en": "18 Years Old, We Got Married"
    },
    "contentRating": "safe",
-   "score": 0.23976076,
+   "score": 0.239123,
    "languages": [
     "pl",
     "fr"
-   ]
-  },
-  {
-   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
-   "title": {
-    "en": "Nageku Shinigami"
-   },
-   "contentRating": "safe",
-   "score": 0.23779465,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -103,9 +91,21 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.23772904,
+   "score": 0.237994,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
+   "title": {
+    "en": "Nageku Shinigami"
+   },
+   "contentRating": "safe",
+   "score": 0.23757556,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -114,9 +114,21 @@
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.23771577,
+   "score": 0.23732938,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
+   "title": {
+    "en": "Cold Game"
+   },
+   "contentRating": "safe",
+   "score": 0.23697817,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -125,19 +137,41 @@
     "en": "Hatenkou Yuugi"
    },
    "contentRating": "safe",
-   "score": 0.23693998,
+   "score": 0.23616011,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "1eb6d594-ad42-4586-8b96-fc3c0e6ddbca",
+   "id": "317e9733-2561-4cfb-87ec-8fba0860ff3a",
    "title": {
-    "en": "Michibata no Tenshi"
+    "en": "Seikon Sacrifice"
    },
    "contentRating": "safe",
-   "score": 0.23017113,
+   "score": 0.23580715,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39f625d9-517c-401a-b2ce-81516e5db27c",
+   "title": {
+    "en": "Strawberry Palace"
+   },
+   "contentRating": "safe",
+   "score": 0.23183747,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "20775322-e9a1-45cc-8e45-c8a0c490eae0",
+   "title": {
+    "en": "Mosaic Spiral"
+   },
+   "contentRating": "safe",
+   "score": 0.23165445,
    "languages": [
     "en"
    ]
@@ -148,47 +182,11 @@
     "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.22995193,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
-   "title": {
-    "en": "World End Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.22888,
-   "languages": [
-    "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "944e06ae-7503-43af-bffa-1a817da271de",
-   "title": {
-    "en": "Higanbana"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.22976905,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:04+00:00"
+ "updatedAt": "2023-12-10T18:33:14+00:00"
 }

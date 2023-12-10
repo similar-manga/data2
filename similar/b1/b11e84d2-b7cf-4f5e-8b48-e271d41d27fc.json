@@ -6,37 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "4b911e82-ec09-4f1e-bfb6-307e43c3fbeb",
-   "title": {
-    "en": "The Summer of a Glasses Boy and a Sharp-Eared Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.36081403,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "287901b6-1d6a-4bbc-b149-63c034f1326e",
    "title": {
     "en": "Clear as Day"
    },
    "contentRating": "safe",
-   "score": 0.33203182,
+   "score": 0.3354261,
    "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "f1b719dd-ec3a-4849-93c2-12c440ca9793",
+   "id": "c7ce7f17-8111-49a8-a8a4-a08230afa402",
    "title": {
-    "en": "Hajimete no Seifuku ga Niaisugiteiru Osananajimi"
+    "en": "Just Childhood Friends and a Couple Discount"
    },
    "contentRating": "safe",
-   "score": 0.31851134,
+   "score": 0.32806,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9964801b-2053-43e4-90b7-029bd349b665",
+   "title": {
+    "en": "Love Comedy Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.32704484,
+   "languages": [
+    "es-la",
+    "fr",
+    "vi",
     "en"
    ]
   },
@@ -46,11 +48,45 @@
     "en": "A Story About a Devil-like Childhood Friend"
    },
    "contentRating": "safe",
-   "score": 0.31595498,
+   "score": 0.32375517,
    "languages": [
     "en",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "ba75f3e6-56c4-4c76-8ee5-f25428d3fd62",
+   "title": {
+    "en": "The Maiden With Zero Love Experience"
+   },
+   "contentRating": "safe",
+   "score": 0.32090923,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "ce382191-8f61-4b45-94cb-0d1692ff6229",
+   "title": {
+    "en": "My Clueless First Friend - Side Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.3208521,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f1b719dd-ec3a-4849-93c2-12c440ca9793",
+   "title": {
+    "en": "Hajimete no Seifuku ga Niaisugiteiru Osananajimi"
+   },
+   "contentRating": "safe",
+   "score": 0.32057834,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -59,25 +95,11 @@
     "en": "Love Begins With a Voice"
    },
    "contentRating": "safe",
-   "score": 0.3144409,
+   "score": 0.31847304,
    "languages": [
     "fr",
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "9964801b-2053-43e4-90b7-029bd349b665",
-   "title": {
-    "en": "Love Comedy Encyclopedia"
-   },
-   "contentRating": "safe",
-   "score": 0.3131562,
-   "languages": [
-    "es-la",
-    "fr",
-    "vi",
-    "en"
    ]
   },
   {
@@ -86,11 +108,35 @@
     "en": "My Senpai and I Are Not in a Relationship"
    },
    "contentRating": "safe",
-   "score": 0.30996194,
+   "score": 0.3120587,
    "languages": [
     "vi",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "4b911e82-ec09-4f1e-bfb6-307e43c3fbeb",
+   "title": {
+    "en": "The Summer of a Glasses Boy and a Sharp-Eared Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.31054047,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "1a192e1d-18bd-425a-9651-7272b068c751",
+   "title": {
+    "en": "A manga where they can get closer with every reply"
+   },
+   "contentRating": "safe",
+   "score": 0.31006673,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -99,7 +145,7 @@
     "en": "My Senpai's Voice Is Too Soft so I Tried Wearing a Hearing Aid, It Unexpectedly Made Me Go to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.30689785,
+   "score": 0.30865824,
    "languages": [
     "vi",
     "pt-br",
@@ -111,24 +157,12 @@
    ]
   },
   {
-   "id": "1a192e1d-18bd-425a-9651-7272b068c751",
-   "title": {
-    "en": "A manga where they can get closer with every reply"
-   },
-   "contentRating": "safe",
-   "score": 0.30559874,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "7761e235-41f0-4f8f-a83a-78263efab02a",
    "title": {
     "en": "When I Came to See a Movie With My Childhood Friend, We Became a Couple"
    },
    "contentRating": "safe",
-   "score": 0.30270308,
+   "score": 0.30812773,
    "languages": [
     "th",
     "en",
@@ -138,53 +172,14 @@
    ]
   },
   {
-   "id": "723e70f3-db67-46f9-9a27-10cd0b3e0977",
-   "title": {
-    "en": "Hitomebore"
-   },
-   "contentRating": "safe",
-   "score": 0.299789,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "id",
-    "it"
-   ]
-  },
-  {
-   "id": "bddb8634-b87b-481f-991b-0d1c6cdcd630",
-   "title": {
-    "en": "My Childhood Friend Teaches Me Everything"
-   },
-   "contentRating": "safe",
-   "score": 0.2995698,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
    "id": "87a19ed5-2620-4d18-b75d-8a563785bc5b",
    "title": {
     "en": "Ore no Osananajimi ga Moteru"
    },
    "contentRating": "safe",
-   "score": 0.29904893,
+   "score": 0.30595168,
    "languages": [
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "0bdf14ea-5f5e-46a2-b248-93e0ceba8496",
-   "title": {
-    "en": "Mizu no Naka"
-   },
-   "contentRating": "safe",
-   "score": 0.29604164,
-   "languages": [
     "en"
    ]
   },
@@ -194,7 +189,7 @@
     "en": "Rain and a Slow Runner"
    },
    "contentRating": "safe",
-   "score": 0.29550952,
+   "score": 0.30581704,
    "languages": [
     "en",
     "fr",
@@ -202,19 +197,16 @@
    ]
   },
   {
-   "id": "b1907992-b507-4549-af7e-27d044149471",
+   "id": "43541d36-7996-472b-aefb-72f640c29eda",
    "title": {
-    "en": "The Story About Observing a Girl"
+    "en": "Sukinako ga Megane wo Wasureta - Twitter Side Stories"
    },
    "contentRating": "safe",
-   "score": 0.29437795,
+   "score": 0.30429932,
    "languages": [
-    "ru",
-    "id",
-    "en",
-    "vi"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:04+00:00"
+ "updatedAt": "2023-12-10T18:28:09+00:00"
 }

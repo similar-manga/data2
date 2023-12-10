@@ -11,7 +11,7 @@
     "en": "Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
    },
    "contentRating": "suggestive",
-   "score": 0.20584095,
+   "score": 0.20379588,
    "languages": [
     "en",
     "pt-br",
@@ -25,21 +25,6 @@
    },
    "contentRating": "suggestive",
    "score": 0.20134681
-  },
-  {
-   "id": "69de8c01-d627-4e28-9691-40effef12006",
-   "title": {
-    "en": "First Rate Master"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20125628,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "fr",
-    "de"
-   ]
   },
   {
    "id": "dad5de8b-6283-4c3b-b728-4d016e094b80",
@@ -66,14 +51,18 @@
    "score": 0.19928166
   },
   {
-   "id": "b38731a5-42e9-4e8d-9847-88ca02cc14fe",
+   "id": "69de8c01-d627-4e28-9691-40effef12006",
    "title": {
-    "en": "Grenadier"
+    "en": "First Rate Master"
    },
    "contentRating": "suggestive",
-   "score": 0.19325435,
+   "score": 0.19898002,
    "languages": [
-    "en"
+    "en",
+    "ru",
+    "pt-br",
+    "fr",
+    "de"
    ]
   },
   {
@@ -82,12 +71,23 @@
     "en": "Kaminagashijima - Rinne no Miko"
    },
    "contentRating": "suggestive",
-   "score": 0.19201675,
+   "score": 0.1929384,
    "languages": [
     "en",
     "ru",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "b38731a5-42e9-4e8d-9847-88ca02cc14fe",
+   "title": {
+    "en": "Grenadier"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1922404,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -104,18 +104,7 @@
     "en": "The Wind of Fight"
    },
    "contentRating": "suggestive",
-   "score": 0.18707892
-  },
-  {
-   "id": "ca3692c0-2abe-4fba-91f4-1c76611539c6",
-   "title": {
-    "en": "The Ultimate of All Ages"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18518944,
-   "languages": [
-    "en"
-   ]
+   "score": 0.18297613
   },
   {
    "id": "88d04785-9af9-47cb-91e6-50a5c4dd0098",
@@ -123,15 +112,15 @@
     "en": "Battle Hawk"
    },
    "contentRating": "suggestive",
-   "score": 0.18238041
+   "score": 0.1804703
   },
   {
-   "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
+   "id": "ca3692c0-2abe-4fba-91f4-1c76611539c6",
    "title": {
-    "en": "Senran Kagura - Shoujotachi no Shinei"
+    "en": "The Ultimate of All Ages"
    },
    "contentRating": "suggestive",
-   "score": 0.18200764,
+   "score": 0.17996165,
    "languages": [
     "en"
    ]
@@ -161,6 +150,17 @@
    ]
   },
   {
+   "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
+   "title": {
+    "en": "Senran Kagura - Shoujotachi no Shinei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17437147,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7c5ba525-4888-4b80-8117-46fc7d9fe9ac",
    "title": {
     "en": "Slayers Special"
@@ -172,5 +172,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:32+00:00"
+ "updatedAt": "2023-12-10T18:29:23+00:00"
 }

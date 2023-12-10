@@ -6,31 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e163f8ff-9a79-4aac-9c31-c01a6aa548a8",
-   "title": {
-    "en": "Shin Musha Gundam Super Mobile General"
-   },
-   "contentRating": "safe",
-   "score": 0.28623432
-  },
-  {
    "id": "cdf82c3d-b841-421a-b2ca-c3859d5b77d3",
    "title": {
     "en": "Superior Defender Gundam Force"
    },
    "contentRating": "safe",
-   "score": 0.28532717
-  },
-  {
-   "id": "4745cf5d-6340-4ab1-bc37-737aaca30d7c",
-   "title": {
-    "en": "GunBuster Next Generation"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
+   "score": 0.28677726
   },
   {
    "id": "5f576764-7c47-445f-b0f0-edec282ef16d",
@@ -52,12 +33,31 @@
    ]
   },
   {
+   "id": "4745cf5d-6340-4ab1-bc37-737aaca30d7c",
+   "title": {
+    "en": "GunBuster Next Generation"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e163f8ff-9a79-4aac-9c31-c01a6aa548a8",
+   "title": {
+    "en": "Shin Musha Gundam Super Mobile General"
+   },
+   "contentRating": "safe",
+   "score": 0.2842554
+  },
+  {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
    "title": {
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.2796869,
+   "score": 0.28292862,
    "languages": [
     "en"
    ]
@@ -68,15 +68,7 @@
     "en": "SD Gundam Force Side Stories"
    },
    "contentRating": "safe",
-   "score": 0.27784497
-  },
-  {
-   "id": "5b1bf902-9ee1-48c6-ae3c-be125330e639",
-   "title": {
-    "en": "Hollow Intelligence Defense Force"
-   },
-   "contentRating": "safe",
-   "score": 0.27114752
+   "score": 0.28171992
   },
   {
    "id": "56e91ed0-99cc-43af-b154-062357d89c54",
@@ -84,7 +76,7 @@
     "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.26977885
+   "score": 0.27579603
   },
   {
    "id": "6ea6a544-b6fd-4ca4-b1ec-b3050ab6527a",
@@ -92,7 +84,15 @@
     "en": "New Mobile Report Gundam Wing - Endless Waltz"
    },
    "contentRating": "safe",
-   "score": 0.26450497
+   "score": 0.271541
+  },
+  {
+   "id": "5b1bf902-9ee1-48c6-ae3c-be125330e639",
+   "title": {
+    "en": "Hollow Intelligence Defense Force"
+   },
+   "contentRating": "safe",
+   "score": 0.26996037
   },
   {
    "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
@@ -100,10 +100,18 @@
     "en": "Mobile Suit Gundam SEED MSV - The Blooming of Housenka on the Battlefield"
    },
    "contentRating": "safe",
-   "score": 0.26364353,
+   "score": 0.26605657,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "41935cea-0bcd-43cf-87c0-f9bb839c64b3",
+   "title": {
+    "en": "Super Musha Gundam Bujin Teruo Steel"
+   },
+   "contentRating": "safe",
+   "score": 0.26540536
   },
   {
    "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
@@ -111,18 +119,7 @@
     "en": "Mobile Suit Gundam N-Extreme"
    },
    "contentRating": "safe",
-   "score": 0.2593325,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cef8c91e-57c7-49fe-ae68-6937b7cd0f0b",
-   "title": {
-    "en": "Super Beast Machine God Dancouga: BURN"
-   },
-   "contentRating": "safe",
-   "score": 0.25853935,
+   "score": 0.26281053,
    "languages": [
     "en"
    ]
@@ -133,7 +130,7 @@
     "en": "Mobile Suit Victory Gundam"
    },
    "contentRating": "safe",
-   "score": 0.25804693
+   "score": 0.26279432
   },
   {
    "id": "3cdb0c3b-29e7-4ccd-b7b3-39556939c434",
@@ -141,7 +138,7 @@
     "en": "DOLLMASTER -Blue Sky Wings-"
    },
    "contentRating": "safe",
-   "score": 0.25663546
+   "score": 0.25904393
   },
   {
    "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
@@ -149,8 +146,8 @@
     "en": "Turn A Gundam"
    },
    "contentRating": "safe",
-   "score": 0.25264502
+   "score": 0.25895762
   }
  ],
- "updatedAt": "2023-12-10T01:09:20+00:00"
+ "updatedAt": "2023-12-10T18:33:52+00:00"
 }

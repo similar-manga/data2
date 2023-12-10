@@ -11,7 +11,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.22873873,
+   "score": 0.22778775,
    "languages": [
     "en",
     "fr",
@@ -21,28 +21,27 @@
    ]
   },
   {
+   "id": "e26cef28-dae7-4f4c-a5fc-14097dd38856",
+   "title": {
+    "en": "Howling"
+   },
+   "contentRating": "safe",
+   "score": 0.20889693,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "19854049-66cb-4af6-b663-0aecdb6105a9",
    "title": {
     "en": "Bankara-san ga Tooru"
    },
    "contentRating": "safe",
-   "score": 0.2020435,
+   "score": 0.20378202,
    "languages": [
     "pl",
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
-   "title": {
-    "en": "Window Washer Park"
-   },
-   "contentRating": "safe",
-   "score": 0.19776985,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -51,7 +50,7 @@
     "en": "Rairairai"
    },
    "contentRating": "safe",
-   "score": 0.19726647,
+   "score": 0.19774869,
    "languages": [
     "en"
    ]
@@ -62,7 +61,7 @@
     "en": "Sengoku Komachi Kuroutan: Noukou Giga"
    },
    "contentRating": "safe",
-   "score": 0.19283558,
+   "score": 0.19073181,
    "languages": [
     "fr",
     "en",
@@ -71,12 +70,35 @@
    ]
   },
   {
+   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
+   "title": {
+    "en": "Window Washer Park"
+   },
+   "contentRating": "safe",
+   "score": 0.19027133,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
    "title": {
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.18640327,
+   "score": 0.18649986,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
+   "title": {
+    "en": "Sarutobi"
+   },
+   "contentRating": "safe",
+   "score": 0.18367404,
    "languages": [
     "en"
    ]
@@ -87,18 +109,7 @@
     "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.1812914,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "daacd330-0267-4503-b05e-04925ddeef85",
-   "title": {
-    "en": "Star Fox: Farewell, Beloved Falco"
-   },
-   "contentRating": "safe",
-   "score": 0.17965037,
+   "score": 0.1834925,
    "languages": [
     "en"
    ]
@@ -109,18 +120,18 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.17905289,
+   "score": 0.18098278,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "51c30924-463f-4fb7-8ccf-4e1f6c5b18d1",
+   "id": "daacd330-0267-4503-b05e-04925ddeef85",
    "title": {
-    "en": "Niwatori no Umi"
+    "en": "Star Fox: Farewell, Beloved Falco"
    },
    "contentRating": "safe",
-   "score": 0.17845492,
+   "score": 0.17935474,
    "languages": [
     "en"
    ]
@@ -131,7 +142,7 @@
     "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters"
    },
    "contentRating": "safe",
-   "score": 0.17773755,
+   "score": 0.17765266,
    "languages": [
     "ru",
     "fr",
@@ -145,36 +156,38 @@
    ]
   },
   {
-   "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
+   "id": "2355a333-d58e-454f-9f21-5bc07323f57d",
    "title": {
-    "en": "Ge Ge Ge no Kitaro"
+    "en": "Naruto (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.17061627,
+   "score": 0.17702913,
+   "languages": [
+    "ar",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "51c30924-463f-4fb7-8ccf-4e1f6c5b18d1",
+   "title": {
+    "en": "Niwatori no Umi"
+   },
+   "contentRating": "safe",
+   "score": 0.17564508,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
+   "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
-    "en": "D.Gray-man"
+    "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.16881268,
+   "score": 0.17091851,
    "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
+    "en"
    ]
   },
   {
@@ -187,39 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
-   "title": {
-    "en": "Sand Land Full Color"
-   },
-   "contentRating": "safe",
-   "score": 0.16653404,
-   "languages": [
-    "es-la",
-    "pl"
-   ]
-  },
-  {
-   "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
-   "title": {
-    "en": "SHY"
-   },
-   "contentRating": "safe",
-   "score": 0.16648398,
-   "languages": [
-    "ru",
-    "fr",
-    "pt-br",
-    "es-la",
-    "en",
-    "id",
-    "th",
-    "tr",
-    "it",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:57+00:00"
+ "updatedAt": "2023-12-10T18:35:21+00:00"
 }

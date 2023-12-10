@@ -6,12 +6,32 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "43d495ea-0f15-45b4-aa40-eb6506f18320",
+   "title": {
+    "en": "Unknown Caller"
+   },
+   "contentRating": "safe",
+   "score": 0.27823794
+  },
+  {
+   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
+   "title": {
+    "en": "Nightmare Game"
+   },
+   "contentRating": "safe",
+   "score": 0.26707643,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "22ca98dd-5e07-4fa7-9e8e-67f9a38b8106",
    "title": {
     "en": "Dakini"
    },
    "contentRating": "safe",
-   "score": 0.2588563,
+   "score": 0.2577929,
    "languages": [
     "en"
    ]
@@ -22,7 +42,7 @@
     "en": "Focus 10"
    },
    "contentRating": "safe",
-   "score": 0.2484925
+   "score": 0.24926656
   },
   {
    "id": "403721a8-0793-431f-b47c-89eb04f402ae",
@@ -30,7 +50,7 @@
     "en": "Ousama Game - Kigen"
    },
    "contentRating": "safe",
-   "score": 0.2390786,
+   "score": 0.23920129,
    "languages": [
     "es-la"
    ]
@@ -41,18 +61,19 @@
     "en": "Chilling Messages"
    },
    "contentRating": "safe",
-   "score": 0.23796146
+   "score": 0.23778953
   },
   {
-   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
+   "id": "e503974f-e397-4ebb-bdf4-62583582ef12",
    "title": {
-    "en": "Nightmare Game"
+    "en": "Look Me in the Eyes When You Talk"
    },
    "contentRating": "safe",
-   "score": 0.23077293,
+   "score": 0.23076056,
    "languages": [
+    "it",
     "en",
-    "ru"
+    "ca"
    ]
   },
   {
@@ -64,17 +85,44 @@
    "score": 0.22980437
   },
   {
-   "id": "e503974f-e397-4ebb-bdf4-62583582ef12",
+   "id": "e3150cb2-5144-4b88-b850-87145751063c",
    "title": {
-    "en": "Look Me in the Eyes When You Talk"
+    "en": "Manga: Gossip Hyakumonogatari"
    },
    "contentRating": "safe",
-   "score": 0.22968411,
-   "languages": [
-    "it",
-    "en",
-    "ca"
-   ]
+   "score": 0.22506468
+  },
+  {
+   "id": "28db6a42-6a37-46df-af0a-6b8fd2e04313",
+   "title": {
+    "en": "Uzukawamura Jiken"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "ec67a4c6-9fa6-4fad-98bb-d37ae6df6a37",
+   "title": {
+    "en": "Tamawari no Tsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.22316878
+  },
+  {
+   "id": "ab552aea-7fae-4ab4-93ba-c8044418b631",
+   "title": {
+    "en": "Masako Sone Masterpiece Collection"
+   },
+   "contentRating": "safe",
+   "score": 0.219009
+  },
+  {
+   "id": "8d82407b-2e4f-46ea-aa3b-617b88168942",
+   "title": {
+    "en": "Kurayami no Shinwa"
+   },
+   "contentRating": "safe",
+   "score": 0.21736912
   },
   {
    "id": "28892297-cecd-45c7-9933-72e509a244c3",
@@ -82,7 +130,7 @@
     "en": "Real-Life Horror Stories"
    },
    "contentRating": "safe",
-   "score": 0.21642743,
+   "score": 0.21634139,
    "languages": [
     "en"
    ]
@@ -102,80 +150,16 @@
    ]
   },
   {
-   "id": "ffdbc599-2857-4ada-acee-cd95fe417a6b",
+   "id": "930aaa50-abfa-476f-a8aa-f68d6602e2c1",
    "title": {
-    "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
+    "en": "Stories After Dark: Malaysia III"
    },
    "contentRating": "safe",
-   "score": 0.21117924,
+   "score": 0.21293335,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "8a38a197-949e-4f83-90cd-5ee6b9ed36d3",
-   "title": {
-    "en": "I Reincarnated as the Little Sister of a Death Game Manga's Murder Mastermind and Failed"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "en",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "bafaf268-ae4f-4e71-abc0-b413c999481e",
-   "title": {
-    "en": "Mask (Sheng Wu Ming)"
-   },
-   "contentRating": "safe",
-   "score": 0.20587434
-  },
-  {
-   "id": "b0a0e190-0c2d-413a-9782-f28020584837",
-   "title": {
-    "en": "Miyuki no Ori"
-   },
-   "contentRating": "safe",
-   "score": 0.20566727,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "95716c73-f20f-4ac9-96b9-22adfbd0c563",
-   "title": {
-    "en": "Honogurai Mizu no Soko kara"
-   },
-   "contentRating": "safe",
-   "score": 0.20045102,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca41dac5-08ca-46a6-8b84-ebdec6baa75d",
-   "title": {
-    "en": "Akumu no Elevator"
-   },
-   "contentRating": "safe",
-   "score": 0.19733648,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "64e7b9a0-2725-4f25-ba4a-35eb42d58507",
-   "title": {
-    "en": "The Dreadful Marionettes"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173
   }
  ],
- "updatedAt": "2023-12-10T01:06:51+00:00"
+ "updatedAt": "2023-12-10T18:27:32+00:00"
 }

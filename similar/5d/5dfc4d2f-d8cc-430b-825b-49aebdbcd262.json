@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "36cf8f19-ce18-486d-9d92-2055c89ec410",
+   "title": {
+    "en": "Tang Yin in Another Realm II: The Rise of Feng Nation"
+   },
+   "contentRating": "safe",
+   "score": 0.40974665,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "6afaf01c-83bd-4bd0-a431-cc40ef99d850",
    "title": {
     "en": "Yakuza that picked up a kid"
    },
    "contentRating": "safe",
-   "score": 0.41066736,
+   "score": 0.40935445,
    "languages": [
     "vi",
     "id",
@@ -24,7 +37,7 @@
     "en": "Ijimerarekko ga Kuru!"
    },
    "contentRating": "safe",
-   "score": 0.39981604,
+   "score": 0.3973396,
    "languages": [
     "en"
    ]
@@ -35,7 +48,7 @@
     "en": "Mutual Affection?"
    },
    "contentRating": "safe",
-   "score": 0.39308265,
+   "score": 0.39316645,
    "languages": [
     "zh",
     "vi",
@@ -50,7 +63,7 @@
     "en": "One Summer's Kids Game"
    },
    "contentRating": "safe",
-   "score": 0.38714316,
+   "score": 0.38493916,
    "languages": [
     "en",
     "pt-br"
@@ -62,7 +75,7 @@
     "en": "Ossan wa Ore no 〇〇 ni Kizukanai"
    },
    "contentRating": "safe",
-   "score": 0.3836734,
+   "score": 0.3840749,
    "languages": [
     "vi",
     "id",
@@ -76,7 +89,7 @@
     "en": "One Plus One"
    },
    "contentRating": "safe",
-   "score": 0.37341422,
+   "score": 0.37034076,
    "languages": [
     "fr",
     "en"
@@ -88,7 +101,7 @@
     "en": "Office Lady Who's Bad With Kids and a Quiet Grade Schooler"
    },
    "contentRating": "safe",
-   "score": 0.36987913,
+   "score": 0.3697718,
    "languages": [
     "id",
     "ru",
@@ -103,11 +116,22 @@
     "en": "Koi Gokoro Gekokujou"
    },
    "contentRating": "safe",
-   "score": 0.3690622,
+   "score": 0.36783522,
    "languages": [
     "en",
     "fr",
     "pl"
+   ]
+  },
+  {
+   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
+   "title": {
+    "en": "Good Weather"
+   },
+   "contentRating": "safe",
+   "score": 0.3620035,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -116,7 +140,7 @@
     "en": "The Nationally Famous Idol, Who Turned out to Be My Childhood Friend, Is Now My Neighbour"
    },
    "contentRating": "safe",
-   "score": 0.36415973,
+   "score": 0.36144343,
    "languages": [
     "es-la",
     "en"
@@ -128,18 +152,7 @@
     "en": "Kid Icarus: Uprising"
    },
    "contentRating": "safe",
-   "score": 0.36310494,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
-   "title": {
-    "en": "Good Weather"
-   },
-   "contentRating": "safe",
-   "score": 0.3622747,
+   "score": 0.35969594,
    "languages": [
     "en"
    ]
@@ -150,9 +163,22 @@
     "en": "Our Hero Studies"
    },
    "contentRating": "safe",
-   "score": 0.3601244,
+   "score": 0.3589458,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c3911129-c183-402a-a415-cfd4a08aa746",
+   "title": {
+    "en": "Juvenile Offender"
+   },
+   "contentRating": "safe",
+   "score": 0.35848504,
+   "languages": [
+    "es-la",
+    "en",
+    "kk"
    ]
   },
   {
@@ -161,7 +187,7 @@
     "en": "Magic Kaito"
    },
    "contentRating": "safe",
-   "score": 0.36000928,
+   "score": 0.3583792,
    "languages": [
     "ca",
     "en",
@@ -171,43 +197,16 @@
    ]
   },
   {
-   "id": "7032ad8e-79d7-4270-b32a-3675495b318e",
+   "id": "68f8fdc0-2bf3-4f7f-b798-9b07979cfd6f",
    "title": {
-    "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
+    "en": "Ore, Gentei Commusho Nande"
    },
    "contentRating": "safe",
-   "score": 0.35814822,
+   "score": 0.35811117,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7cd48cb6-83b2-48ff-8e31-0efa388bc9cb",
-   "title": {
-    "en": "Nemuru Machi no Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.3555299,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
-   "title": {
-    "en": "Tsukumono"
-   },
-   "contentRating": "safe",
-   "score": 0.3525492,
-   "languages": [
-    "en",
-    "pl",
-    "th"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:30+00:00"
+ "updatedAt": "2023-12-10T18:18:31+00:00"
 }

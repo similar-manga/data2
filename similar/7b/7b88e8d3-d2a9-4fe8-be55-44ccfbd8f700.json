@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.25778216,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
    "title": {
     "en": "Awajima Hyakkei"
    },
    "contentRating": "safe",
-   "score": 0.2534237,
+   "score": 0.2530581,
    "languages": [
     "en"
    ]
@@ -44,6 +55,18 @@
    ]
   },
   {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.24311288,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
    "title": {
     "en": "【Oshi no Ko】"
@@ -69,12 +92,27 @@
    ]
   },
   {
-   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
+   "id": "27179c2f-72d7-4a49-a577-2fa6eaf9df4d",
    "title": {
-    "en": "Oui Oui Days"
+    "en": "Joshikousei no Mudazukai"
    },
    "contentRating": "safe",
-   "score": 0.23768517,
+   "score": 0.23873681,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "id",
+    "it"
+   ]
+  },
+  {
+   "id": "e1e9e826-96b3-4e1c-baf2-7f33a69f598b",
+   "title": {
+    "en": "The Chef"
+   },
+   "contentRating": "safe",
+   "score": 0.23644714,
    "languages": [
     "en"
    ]
@@ -85,7 +123,7 @@
     "en": "Yahari Ore no Seishun Love Come wa Machigatteiru.: Monologue"
    },
    "contentRating": "safe",
-   "score": 0.2367977,
+   "score": 0.23595089,
    "languages": [
     "fr",
     "en",
@@ -97,14 +135,47 @@
    ]
   },
   {
-   "id": "1ace7ef5-adfc-460e-af93-876f3ab6fc45",
+   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
    "title": {
-    "en": "Cherry"
+    "en": "Oui Oui Days"
    },
    "contentRating": "safe",
-   "score": 0.22956106,
+   "score": 0.23513861,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a1f8bce7-08e4-42c4-966c-ed1c0a4ecffb",
+   "title": {
+    "en": "Glittering and Glaring: My Destiny  Romance with Violence"
+   },
+   "contentRating": "safe",
+   "score": 0.22956936,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ea3fc681-51fd-44d9-a83d-297c4c28e11b",
+   "title": {
+    "en": "Renai Daikou"
+   },
+   "contentRating": "safe",
+   "score": 0.22945075,
+   "languages": [
+    "fr",
+    "es-la",
+    "tr",
+    "it",
+    "uk",
+    "pt-br",
+    "ro",
+    "en",
+    "vi",
+    "ru",
+    "id",
+    "el"
    ]
   },
   {
@@ -113,123 +184,54 @@
     "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.22909142,
+   "score": 0.22863612,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
+   "id": "1ace7ef5-adfc-460e-af93-876f3ab6fc45",
    "title": {
-    "en": "New Normal"
+    "en": "Cherry"
    },
    "contentRating": "safe",
-   "score": 0.22193067,
+   "score": 0.22855559,
    "languages": [
-    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
+   "title": {
+    "en": "Hitomi-chan wa Hitomishiri"
+   },
+   "contentRating": "safe",
+   "score": 0.22796308,
+   "languages": [
     "en",
-    "ru",
     "pt-br",
-    "pl",
+    "es-la",
     "fr",
-    "th",
-    "es-la",
-    "it",
-    "tl"
-   ]
-  },
-  {
-   "id": "bed2ef5e-99b1-4809-8f65-5866391f839b",
-   "title": {
-    "en": "The Gender of Mona Lisa"
-   },
-   "contentRating": "safe",
-   "score": 0.22193067,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
-   "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "th",
-    "en",
-    "pt-br",
     "ru",
-    "es-la",
-    "de"
-   ]
-  },
-  {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
-   "title": {
-    "en": "Deep Love - Real"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.21743162,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
-   "title": {
-    "en": "Rewrite: SIDE-R"
-   },
-   "contentRating": "safe",
-   "score": 0.21027598,
-   "languages": [
-    "en",
+    "ar",
+    "id",
+    "hi",
     "vi"
    ]
   },
   {
-   "id": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
+   "id": "57fe3f00-8626-462b-8f75-fce0e6faa6be",
    "title": {
-    "en": "Boku no Tsuma wa Kanjou ga Nai"
+    "en": "Waka-chan wa Kyou mo Azatoi"
    },
    "contentRating": "safe",
-   "score": 0.20546788,
+   "score": 0.22780101,
    "languages": [
+    "id",
     "en",
-    "vi",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
-   "title": {
-    "en": "One Pound Gospel"
-   },
-   "contentRating": "safe",
-   "score": 0.20533307,
-   "languages": [
-    "fr",
-    "pt-br"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:43+00:00"
+ "updatedAt": "2023-12-10T18:21:50+00:00"
 }

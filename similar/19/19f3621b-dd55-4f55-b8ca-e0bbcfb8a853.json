@@ -11,7 +11,7 @@
     "en": "BLAME! Fort of Silicon Creatures"
    },
    "contentRating": "safe",
-   "score": 0.30370346,
+   "score": 0.30173165,
    "languages": [
     "pt-br",
     "en"
@@ -23,21 +23,9 @@
     "en": "Mega Man: Future Planet Voldos Arc"
    },
    "contentRating": "safe",
-   "score": 0.2744138,
+   "score": 0.27367955,
    "languages": [
     "es",
-    "en"
-   ]
-  },
-  {
-   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
-   "title": {
-    "en": "Mega Man Battle Network Operate Shooting Star VS"
-   },
-   "contentRating": "safe",
-   "score": 0.2614338,
-   "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -59,7 +47,7 @@
     "en": "Mega Man 10 -Extra F-"
    },
    "contentRating": "safe",
-   "score": 0.25782353,
+   "score": 0.25771356,
    "languages": [
     "fr",
     "es-la",
@@ -68,12 +56,24 @@
    ]
   },
   {
+   "id": "41797f21-635f-428d-8a71-78c25ed11b46",
+   "title": {
+    "en": "Mega Man Battle Network Operate Shooting Star VS"
+   },
+   "contentRating": "safe",
+   "score": 0.2571583,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "7e176426-0928-4fe0-b4b9-5f4e5ca994a1",
    "title": {
     "en": "Mega Man X5 IF"
    },
    "contentRating": "safe",
-   "score": 0.2569716,
+   "score": 0.25691327,
    "languages": [
     "en",
     "es"
@@ -100,21 +100,10 @@
     "en": "Mega Man X3: Stop Doppler's Army!"
    },
    "contentRating": "safe",
-   "score": 0.24191503,
+   "score": 0.24179521,
    "languages": [
     "en",
     "es"
-   ]
-  },
-  {
-   "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
-   "title": {
-    "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.2403876,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -123,9 +112,20 @@
     "en": "Attack! Mega Man X"
    },
    "contentRating": "safe",
-   "score": 0.23996818,
+   "score": 0.23979524,
    "languages": [
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
+   "title": {
+    "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
+   },
+   "contentRating": "safe",
+   "score": 0.23955472,
+   "languages": [
     "en"
    ]
   },
@@ -135,7 +135,19 @@
     "en": "The Birth of Mega Man"
    },
    "contentRating": "safe",
-   "score": 0.23736694,
+   "score": 0.2366955,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "4de536ea-295a-42a0-a0aa-3ce506b9ea65",
+   "title": {
+    "en": "Mega Man X2: Get Those Special Weapons!"
+   },
+   "contentRating": "safe",
+   "score": 0.23217715,
    "languages": [
     "es",
     "en"
@@ -147,20 +159,8 @@
     "en": "Super Mario: Goddess of the Demon Empire"
    },
    "contentRating": "safe",
-   "score": 0.23391907,
+   "score": 0.23135869,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4de536ea-295a-42a0-a0aa-3ce506b9ea65",
-   "title": {
-    "en": "Mega Man X2: Get Those Special Weapons!"
-   },
-   "contentRating": "safe",
-   "score": 0.23230354,
-   "languages": [
-    "es",
     "en"
    ]
   },
@@ -182,7 +182,7 @@
     "en": "Mega Man Megamix: For Whom"
    },
    "contentRating": "safe",
-   "score": 0.22778277,
+   "score": 0.22779875,
    "languages": [
     "es",
     "en",
@@ -202,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:45+00:00"
+ "updatedAt": "2023-12-10T18:11:06+00:00"
 }

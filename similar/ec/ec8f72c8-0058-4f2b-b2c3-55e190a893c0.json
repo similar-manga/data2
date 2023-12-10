@@ -6,26 +6,48 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.33770514,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "65a0e567-5db6-46ac-bdef-b6ae3da3e9ff",
    "title": {
     "en": "Memories with Oda-san's Manga!"
    },
    "contentRating": "safe",
-   "score": 0.33630294,
+   "score": 0.3714441,
    "languages": [
     "en",
     "ca"
+   ]
+  },
+  {
+   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+   "title": {
+    "en": "Sunny"
+   },
+   "contentRating": "safe",
+   "score": 0.33876497,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "589a2e7f-be8f-4a2b-8ee3-5bf937c410aa",
+   "title": {
+    "en": "Ozone"
+   },
+   "contentRating": "safe",
+   "score": 0.32119694,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "492f3188-8a50-4595-8faf-539036fd6bd8",
+   "title": {
+    "en": "Bitter Sweet"
+   },
+   "contentRating": "safe",
+   "score": 0.31421506,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,11 +56,23 @@
     "en": "A Story of Awkward and Tender Memories Left by a Self-Proclaimed Scum Mother for Her Daughter"
    },
    "contentRating": "safe",
-   "score": 0.3119268,
+   "score": 0.3134906,
    "languages": [
     "pt-br",
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "8c2c5539-9681-4ff6-8bf3-4d8d14020c69",
+   "title": {
+    "en": "We Live In A World Filled With Pain"
+   },
+   "contentRating": "safe",
+   "score": 0.30606282,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -47,7 +81,29 @@
     "en": "The Time of Cherry Blossoms"
    },
    "contentRating": "safe",
-   "score": 0.30232048,
+   "score": 0.30305254,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "75be8230-63f4-4a24-ae10-03f60102f241",
+   "title": {
+    "en": "Dear Diary: Hello Memories"
+   },
+   "contentRating": "safe",
+   "score": 0.30091372,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "577401f3-1612-4f82-bd81-6d57e101e9cd",
+   "title": {
+    "en": "Pick-Up General Store"
+   },
+   "contentRating": "safe",
+   "score": 0.29027158,
    "languages": [
     "en"
    ]
@@ -58,19 +114,30 @@
     "en": "Captain Tsubasa Memories"
    },
    "contentRating": "safe",
-   "score": 0.28856224,
+   "score": 0.2875685,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "577401f3-1612-4f82-bd81-6d57e101e9cd",
+   "id": "683117b1-e326-4bc8-b189-e4f17940bf56",
    "title": {
-    "en": "Pick-Up General Store"
+    "en": "Chiisai Tomodachi"
    },
    "contentRating": "safe",
-   "score": 0.28714374,
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
+   "title": {
+    "en": "Kaji Ryuusuke's Agenda"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
    "languages": [
     "en"
    ]
@@ -98,105 +165,28 @@
    ]
   },
   {
-   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
+   "id": "da2b304d-4d10-4762-80d6-1c7237ec1ecd",
    "title": {
-    "en": "Service Area"
+    "en": "Tokyo Higoro"
    },
    "contentRating": "safe",
-   "score": 0.28410757,
+   "score": 0.28508148,
    "languages": [
-    "pt-br",
-    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
+   "title": {
+    "en": "Takaga Tasogare"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
     "it",
-    "zh",
     "en"
-   ]
-  },
-  {
-   "id": "39cf8670-c06a-4a46-a61d-5d4a6e9796ac",
-   "title": {
-    "en": "The Memory Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.27704602,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f91d0cb-39e1-4c87-8e3f-89db628393aa",
-   "title": {
-    "en": "Toki wo Yuku Uma"
-   },
-   "contentRating": "safe",
-   "score": 0.26407143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
-   "title": {
-    "en": "Nocturne"
-   },
-   "contentRating": "safe",
-   "score": 0.25743064,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
-   "title": {
-    "en": "Sorairo Square."
-   },
-   "contentRating": "safe",
-   "score": 0.24836911,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9bc6fa80-f2d5-4cc1-87d9-d9d98f1a70a0",
-   "title": {
-    "en": "Frankenstein Sore Kara"
-   },
-   "contentRating": "safe",
-   "score": 0.24597779,
-   "languages": [
-    "id",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "c1373f26-7af9-4633-ae7b-2596c1adee48",
-   "title": {
-    "en": "Shihatsu Densha"
-   },
-   "contentRating": "safe",
-   "score": 0.23659958,
-   "languages": [
-    "en",
-    "vi",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7faa80d2-bf0f-4ffa-a136-52350ea43e15",
-   "title": {
-    "ja": "Obon wa Maitoshi ai ni Kuru Kazoku no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:32+00:00"
+ "updatedAt": "2023-12-10T18:34:21+00:00"
 }

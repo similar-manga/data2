@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "154e0eb4-5d41-4ecd-8617-7f95d9c639d8",
-   "title": {
-    "en": "My Sweet Sunday"
-   },
-   "contentRating": "safe",
-   "score": 0.21797125,
-   "languages": [
-    "en",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
    "id": "0177edea-de7e-4f3b-b808-3a7ca1dcc78c",
    "title": {
     "en": "The crow I saved that one time, is just too clumsy for me (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.21671449,
+   "score": 0.2196491,
    "languages": [
     "ru",
     "en",
@@ -33,16 +20,16 @@
    ]
   },
   {
-   "id": "8dfe4b0f-59f8-4f0b-a127-73324b110c6e",
+   "id": "154e0eb4-5d41-4ecd-8617-7f95d9c639d8",
    "title": {
-    "en": "The Small Joys of a Bold Girl"
+    "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.2086253,
+   "score": 0.21773733,
    "languages": [
-    "pt-br",
     "en",
-    "vi"
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -57,6 +44,19 @@
     "vi",
     "fr",
     "pt-br"
+   ]
+  },
+  {
+   "id": "8dfe4b0f-59f8-4f0b-a127-73324b110c6e",
+   "title": {
+    "en": "The Small Joys of a Bold Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi"
    ]
   },
   {
@@ -77,7 +77,7 @@
     "en": "Herbivore Girl Paopao-senpai"
    },
    "contentRating": "safe",
-   "score": 0.17848647,
+   "score": 0.18135537,
    "languages": [
     "en",
     "pt-br"
@@ -89,7 +89,7 @@
     "en": "Ojisama to Neko"
    },
    "contentRating": "safe",
-   "score": 0.17074841,
+   "score": 0.17133383,
    "languages": [
     "ru",
     "pt-br",
@@ -98,18 +98,6 @@
     "es-la",
     "en",
     "ar"
-   ]
-  },
-  {
-   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
-   "title": {
-    "en": "Your Mind is Easy to Read"
-   },
-   "contentRating": "safe",
-   "score": 0.1705319,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -143,13 +131,39 @@
    ]
   },
   {
+   "id": "c3c40cb0-7307-4094-8b48-ba1fa35aa889",
+   "title": {
+    "en": "The crow I saved that one time, is just too clumsy for me"
+   },
+   "contentRating": "safe",
+   "score": 0.1635552,
+   "languages": [
+    "pt-br",
+    "en",
+    "id",
+    "ru"
+   ]
+  },
+  {
    "id": "0422bf7b-e8fe-4ea6-8367-2f7e14db2dd6",
    "title": {
     "en": "Janpu ru-ki-! No koukoku shuunyuu ha zengaku, sakusha ni hairu hanashi"
    },
    "contentRating": "safe",
-   "score": 0.15969081,
+   "score": 0.15979256,
    "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
+   "title": {
+    "en": "I want you to ask me first!"
+   },
+   "contentRating": "safe",
+   "score": 0.1596075,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -159,7 +173,7 @@
     "en": "My Girlfriend's a BL Author, What Do I Do?"
    },
    "contentRating": "safe",
-   "score": 0.1579022,
+   "score": 0.1576008,
    "languages": [
     "pt-br",
     "en",
@@ -173,54 +187,36 @@
     "en": "Saint Seiya - Tenkai-hen Joso Overture"
    },
    "contentRating": "safe",
-   "score": 0.15507868,
+   "score": 0.1567301,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
    "title": {
-    "en": "The Misadventures of the Small Anime Club"
+    "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
-   "score": 0.14752036,
+   "score": 0.1547038,
    "languages": [
-    "it",
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
-   "title": {
-    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
-   },
-   "contentRating": "safe",
-   "score": 0.14752036,
-   "languages": [
-    "es",
-    "th",
-    "pt-br",
-    "vi",
+    "pl",
     "en"
    ]
   },
   {
-   "id": "cb7df734-d283-46e7-bdc8-499401cbd3ad",
+   "id": "b34fd04a-eadb-4462-8d97-94980083ed25",
    "title": {
-    "en": "Maou no Kyoushitsu"
+    "en": "Dragon Ball SD"
    },
    "contentRating": "safe",
-   "score": 0.14752036,
+   "score": 0.15138839,
    "languages": [
-    "fr",
     "en",
-    "ca",
+    "it",
     "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:57+00:00"
 }

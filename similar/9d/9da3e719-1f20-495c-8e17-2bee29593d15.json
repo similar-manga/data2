@@ -11,7 +11,7 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.2247503,
+   "score": 0.22506976,
    "languages": [
     "en"
    ]
@@ -22,21 +22,10 @@
     "en": "Anastasia no Shinei Taichou"
    },
    "contentRating": "safe",
-   "score": 0.22171888,
+   "score": 0.22135966,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "c80b5f40-b4e1-42ad-a97f-38063ab34202",
-   "title": {
-    "en": "Quintilis no Umi"
-   },
-   "contentRating": "safe",
-   "score": 0.21084034,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -45,7 +34,18 @@
     "en": "Uso to Makoto"
    },
    "contentRating": "safe",
-   "score": 0.21072353,
+   "score": 0.21036993,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c80b5f40-b4e1-42ad-a97f-38063ab34202",
+   "title": {
+    "en": "Quintilis no Umi"
+   },
+   "contentRating": "safe",
+   "score": 0.20809679,
    "languages": [
     "en"
    ]
@@ -70,17 +70,17 @@
    "score": 0.20167112
   },
   {
-   "id": "2db5ae79-672f-4086-8d66-0ed6ae28f5f5",
+   "id": "a2a1d78d-bcb9-4e00-9749-f50b86bbd7da",
    "title": {
-    "en": "The Deep"
+    "en": "Flanders Dog"
    },
    "contentRating": "safe",
    "score": 0.19471695
   },
   {
-   "id": "a2a1d78d-bcb9-4e00-9749-f50b86bbd7da",
+   "id": "2db5ae79-672f-4086-8d66-0ed6ae28f5f5",
    "title": {
-    "en": "Flanders Dog"
+    "en": "The Deep"
    },
    "contentRating": "safe",
    "score": 0.19471695
@@ -142,6 +142,14 @@
    ]
   },
   {
+   "id": "bc937e87-2123-4ffa-918c-cf012502afb2",
+   "title": {
+    "en": "Kagemaru of Iga"
+   },
+   "contentRating": "safe",
+   "score": 0.17720735
+  },
+  {
    "id": "3da73784-468b-4f5f-82d6-13b30e7e9c15",
    "title": {
     "en": "Tonky's Story"
@@ -150,29 +158,24 @@
    "score": 0.17665982
   },
   {
-   "id": "02ff0850-6734-4174-9841-d0db51f3ab3b",
+   "id": "95dd56d7-da37-4139-a4f6-7662aef3678b",
    "title": {
-    "en": "Doraemon's Giant Stag Beetle"
+    "en": "Majime na Papa ni wa Ura ga aru"
    },
    "contentRating": "safe",
-   "score": 0.17665982
+   "score": 0.17665982,
+   "languages": [
+    "en"
+   ]
   },
   {
-   "id": "a0b71854-6ab0-4b1c-8514-0250a00e1fae",
+   "id": "bcd29808-9cbc-42e1-94f1-5ab5e6b329f2",
    "title": {
-    "en": "Goodbye Tonky"
-   },
-   "contentRating": "safe",
-   "score": 0.17665982
-  },
-  {
-   "id": "d6c398e6-d7dd-4702-a1b9-c942b05d591b",
-   "title": {
-    "en": "A Song Flowing in the Darkness"
+    "en": "Hey, it's Ganta"
    },
    "contentRating": "safe",
    "score": 0.17665982
   }
  ],
- "updatedAt": "2023-12-10T01:06:16+00:00"
+ "updatedAt": "2023-12-10T18:25:51+00:00"
 }

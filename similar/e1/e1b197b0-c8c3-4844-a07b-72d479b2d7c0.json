@@ -11,7 +11,7 @@
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.38523683,
+   "score": 0.3791432,
    "languages": [
     "en",
     "id"
@@ -23,10 +23,21 @@
     "en": "Chissai Shitsuren"
    },
    "contentRating": "safe",
-   "score": 0.3003732,
+   "score": 0.316087,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "5bee9323-5fc1-4a83-acfb-ec532079e9a0",
+   "title": {
+    "en": "Mukashi no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.31302917,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -35,9 +46,21 @@
     "en": "Obaa-chan no Poi"
    },
    "contentRating": "safe",
-   "score": 0.29298806,
+   "score": 0.2913279,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
+   "title": {
+    "en": "Owatte miru no mo Warukunai"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -64,24 +87,12 @@
    ]
   },
   {
-   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
-   "title": {
-    "en": "Owatte miru no mo Warukunai"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "bb3f0691-6bd8-4f8d-a3c8-fc27d32a794a",
    "title": {
     "en": "Love is Sky Blue"
    },
    "contentRating": "safe",
-   "score": 0.24251634,
+   "score": 0.24210505,
    "languages": [
     "en"
    ]
@@ -92,7 +103,7 @@
     "en": "Mikami-san wo Furimukasetai"
    },
    "contentRating": "safe",
-   "score": 0.24144687,
+   "score": 0.24123286,
    "languages": [
     "en",
     "pt-br"
@@ -109,6 +120,19 @@
     "ru",
     "pt-br",
     "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "1024bc97-4d46-48a6-9365-ba4cc521b24a",
+   "title": {
+    "en": "Batsu-Gyaru"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "es-la",
+    "pt-br",
     "en"
    ]
   },
@@ -133,19 +157,6 @@
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1024bc97-4d46-48a6-9365-ba4cc521b24a",
-   "title": {
-    "en": "Batsu-Gyaru"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "es-la",
-    "pt-br",
     "en"
    ]
   },
@@ -177,18 +188,6 @@
    ]
   },
   {
-   "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
-   "title": {
-    "en": "She’s Coming Tonight"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "53af0017-83cb-41e7-97eb-25bba200940d",
    "title": {
     "en": "Last One"
@@ -202,5 +201,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:03+00:00"
+ "updatedAt": "2023-12-10T18:33:13+00:00"
 }

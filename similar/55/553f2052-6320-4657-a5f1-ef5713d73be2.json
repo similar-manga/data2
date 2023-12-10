@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.2616906,
+   "score": 0.2633909,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tuberculose"
    },
    "contentRating": "safe",
-   "score": 0.2306785
+   "score": 0.2304213
   },
   {
    "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
@@ -30,21 +30,9 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.2265137,
+   "score": 0.22624163,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
-   "title": {
-    "en": "Window Washer Park"
-   },
-   "contentRating": "safe",
-   "score": 0.22164099,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -53,18 +41,18 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.2181205
+   "score": 0.22179116
   },
   {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
    "title": {
-    "en": "Cyborg 009"
+    "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.21710925,
+   "score": 0.21944185,
    "languages": [
     "en",
-    "pt-br"
+    "pl"
    ]
   },
   {
@@ -73,7 +61,19 @@
     "en": "The Devil Garon"
    },
    "contentRating": "safe",
-   "score": 0.21548416
+   "score": 0.21626092
+  },
+  {
+   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+   "title": {
+    "en": "Cyborg 009"
+   },
+   "contentRating": "safe",
+   "score": 0.21615593,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
@@ -81,7 +81,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.21439666
+   "score": 0.21387237
   },
   {
    "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
@@ -89,20 +89,9 @@
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.21360601,
+   "score": 0.21332018,
    "languages": [
     "es-la"
-   ]
-  },
-  {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
-   "title": {
-    "en": "Locke the Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.21313596,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -114,23 +103,23 @@
    "score": 0.21266972
   },
   {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
    "title": {
-    "en": "Mobile Suit MOON Gundam"
+    "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.20959127,
+   "score": 0.2126434,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
    "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+    "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.20548846,
+   "score": 0.20911697,
    "languages": [
     "en"
    ]
@@ -141,24 +130,41 @@
     "en": "The Dashing Harimau"
    },
    "contentRating": "safe",
-   "score": 0.20450152
+   "score": 0.20611519
   },
   {
-   "id": "a9bf14be-fcff-4eea-9c45-ba3e40d399fa",
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
    "title": {
-    "en": "Musashi (KAWASAKI Noboru)"
+    "en": "Sunset Bancho"
    },
    "contentRating": "safe",
-   "score": 0.20420377
+   "score": 0.20533219
   },
   {
-   "id": "ef598a74-006e-44ed-a469-561013213932",
+   "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
    "title": {
-    "en": "Lightning Boy Spark Dan"
+    "en": "Kingdom Hearts III"
    },
    "contentRating": "safe",
-   "score": 0.20417929
+   "score": 0.2047496,
+   "languages": [
+    "it",
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+   },
+   "contentRating": "safe",
+   "score": 0.20469894,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:07+00:00"
+ "updatedAt": "2023-12-10T18:17:32+00:00"
 }

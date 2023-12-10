@@ -6,27 +6,27 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
-   "title": {
-    "en": "\"Boku wa Nannin Koroshimashita ka?\""
-   },
-   "contentRating": "suggestive",
-   "score": 0.22168525,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
    "id": "6a8e6a8f-b7bc-486e-8291-befd39c0eb60",
    "title": {
     "en": "“Bijin de Okane Mochi no Kanojo ga Hoshī” to Ittara, Wake Ari Joshi ga Yattekita Ken."
    },
    "contentRating": "suggestive",
-   "score": 0.22138911,
+   "score": 0.22086084,
    "languages": [
     "es-la",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
+   "title": {
+    "en": "\"Boku wa Nannin Koroshimashita ka?\""
+   },
+   "contentRating": "suggestive",
+   "score": 0.2200263,
+   "languages": [
+    "vi"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Houtei Yuugi"
    },
    "contentRating": "suggestive",
-   "score": 0.21029669
+   "score": 0.20990531
   },
   {
    "id": "0cbe40b5-5c88-4b7f-bb14-ab30c2376b10",
@@ -51,9 +51,21 @@
     "en": "RIKON SHINAI OTOKO CASE２"
    },
    "contentRating": "suggestive",
-   "score": 0.19815315,
+   "score": 0.19724913,
    "languages": [
     "vi"
+   ]
+  },
+  {
+   "id": "69598407-e128-4c8b-be43-feffa9fd98e8",
+   "title": {
+    "en": "Anaesthesiologist Hana"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19340481,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -62,19 +74,7 @@
     "en": "The Black and Red Staircase"
    },
    "contentRating": "suggestive",
-   "score": 0.19382522
-  },
-  {
-   "id": "69598407-e128-4c8b-be43-feffa9fd98e8",
-   "title": {
-    "en": "Anaesthesiologist Hana"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19350971,
-   "languages": [
-    "en",
-    "es-la"
-   ]
+   "score": 0.19324397
   },
   {
    "id": "ed43b219-0016-4395-aca5-8aa5c5cda7cf",
@@ -82,7 +82,7 @@
     "en": "To Read The Criminal Tells"
    },
    "contentRating": "suggestive",
-   "score": 0.18772334,
+   "score": 0.18763918,
    "languages": [
     "en"
    ]
@@ -93,15 +93,7 @@
     "en": "Boku to Mimoza no 75-nichi"
    },
    "contentRating": "suggestive",
-   "score": 0.18724184
-  },
-  {
-   "id": "33d8db60-e31d-47f1-9155-7583127d93d7",
-   "title": {
-    "en": "Ore ni Amaete Kuru Yandere Gimai ga Motokano no Imouto Datta"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18367404
+   "score": 0.18559639
   },
   {
    "id": "c4d5228c-846d-47c5-8659-0aa70d5c0d41",
@@ -116,12 +108,12 @@
    ]
   },
   {
-   "id": "bbab5d57-24fe-4fa7-a9b0-72fd9a3563e3",
+   "id": "33d8db60-e31d-47f1-9155-7583127d93d7",
    "title": {
-    "en": "Today Is My Unlucky Day, Again"
+    "en": "Ore ni Amaete Kuru Yandere Gimai ga Motokano no Imouto Datta"
    },
    "contentRating": "suggestive",
-   "score": 0.17988577
+   "score": 0.18367404
   },
   {
    "id": "ff360116-6df6-4bd3-817c-795f651c5b75",
@@ -138,15 +130,12 @@
    ]
   },
   {
-   "id": "243795f3-555f-4aeb-b44d-45c27f620fa8",
+   "id": "bbab5d57-24fe-4fa7-a9b0-72fd9a3563e3",
    "title": {
-    "en": "You're Full of Surprises, Yamada-san!!"
+    "en": "Today Is My Unlucky Day, Again"
    },
    "contentRating": "suggestive",
-   "score": 0.17906448,
-   "languages": [
-    "pt-br"
-   ]
+   "score": 0.17988577
   },
   {
    "id": "5495d18b-e228-4744-8d03-a55e9709a0ae",
@@ -157,12 +146,23 @@
    "score": 0.17734045
   },
   {
+   "id": "243795f3-555f-4aeb-b44d-45c27f620fa8",
+   "title": {
+    "en": "You're Full of Surprises, Yamada-san!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17545104,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "e96b9209-2f0f-423b-9736-0c5d3a9788ba",
    "title": {
     "en": "Shachiku to shoujo no 1800-nichi"
    },
    "contentRating": "suggestive",
-   "score": 0.17555533,
+   "score": 0.1745483,
    "languages": [
     "en",
     "ru",
@@ -170,5 +170,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:42+00:00"
+ "updatedAt": "2023-12-10T18:32:19+00:00"
 }

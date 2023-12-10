@@ -6,12 +6,56 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d9b78c9f-7389-4781-999c-f0f809abe60c",
+   "title": {
+    "en": "Asahi-kun tono Kurashi wa Dekiai ga Sugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.29929018,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "59d43c56-6718-47d9-bb7e-df75144516d0",
+   "title": {
+    "en": "Kimi wo Wasureru Koi ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.29919583,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
    "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
    "title": {
     "en": "Kyou mo Ashita mo."
    },
    "contentRating": "safe",
-   "score": 0.3024107,
+   "score": 0.29900327,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "517f1196-0486-4812-97c4-16ba72571218",
+   "title": {
+    "en": "Oshi ga Ani ni Narimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.2987653,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "741528a3-c727-4696-97c1-3e4bf90c4246",
+   "title": {
+    "en": "Egaku nara Happy End"
+   },
+   "contentRating": "safe",
+   "score": 0.29849002,
    "languages": [
     "en"
    ]
@@ -22,7 +66,7 @@
     "en": "Bye Bye Brother"
    },
    "contentRating": "safe",
-   "score": 0.29835454,
+   "score": 0.29704016,
    "languages": [
     "pl"
    ]
@@ -33,7 +77,32 @@
     "en": "Kagehinata"
    },
    "contentRating": "safe",
-   "score": 0.29684225,
+   "score": 0.2953774,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b9c16c69-df27-4c6e-9676-8a260403758f",
+   "title": {
+    "en": "Uchi no Otouto-domo ga sumimasen"
+   },
+   "contentRating": "safe",
+   "score": 0.29090434,
+   "languages": [
+    "en",
+    "es-la",
+    "vi",
+    "it"
+   ]
+  },
+  {
+   "id": "0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10",
+   "title": {
+    "en": "Okuremashite Seishun"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
    "languages": [
     "en"
    ]
@@ -53,9 +122,9 @@
    ]
   },
   {
-   "id": "678b336e-22f4-4a6f-86cc-add483fa6023",
+   "id": "267501f5-bcea-47b1-8206-a304cc6fff0f",
    "title": {
-    "en": "Conditions to Be a Husband"
+    "en": "Kingyoya-san no Karisome Fuufu"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -64,136 +133,67 @@
    ]
   },
   {
-   "id": "66aea147-01b8-40e1-86fa-276e9ab6fdef",
+   "id": "2fe66428-2172-4567-9460-229c9ad260e5",
    "title": {
-    "en": "A Sloppy Girl Wishes for Love"
+    "en": "Suenagaku Yoroshiku Onegai Shimasu"
    },
    "contentRating": "safe",
-   "score": 0.2777409,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
-   "title": {
-    "en": "Family!"
-   },
-   "contentRating": "safe",
-   "score": 0.26714435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15a15de0-9acc-46e7-816f-1f328311c700",
-   "title": {
-    "en": "Hanameguri Awase"
-   },
-   "contentRating": "safe",
-   "score": 0.26562878,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
-   "title": {
-    "en": "Skip Beat!"
-   },
-   "contentRating": "safe",
-   "score": 0.2642357,
+   "score": 0.2851258,
    "languages": [
     "en",
-    "pl",
+    "vi",
+    "es-la",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dae49c67-4c55-46e2-aa98-58f583beab17",
+   "title": {
+    "en": "Kanojo no Oshi ga Kirai"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "81d917b0-d10a-4cf6-9dd6-19fc83dfcce7",
+   "title": {
+    "en": "Kaoru's Cake House"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b076bfe-b05d-44df-86eb-a9d2dd50ce90",
+   "title": {
+    "en": "We Have Gathered Happy Love Stories."
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "28074f2b-f393-474a-8b13-ec196c4be75e",
+   "title": {
+    "en": "Haru no Arashi to Monster"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
     "ar",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "23d9293a-999e-4736-ba43-6d6b8109a6fa",
-   "title": {
-    "en": "Spicy Recipe"
-   },
-   "contentRating": "safe",
-   "score": 0.26290566,
-   "languages": [
-    "pl",
+    "vi",
     "en"
-   ]
-  },
-  {
-   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
-   "title": {
-    "en": "Hana-kun to Koisuru Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.2626771,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "6fdbdb56-fa05-4cc6-9eca-3161145086c5",
-   "title": {
-    "en": "Tonari no Kimi"
-   },
-   "contentRating": "safe",
-   "score": 0.26216236,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "bf23d8f0-ea3f-4ced-bfd3-a589ba487bb8",
-   "title": {
-    "en": "Oneichan to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.26043645,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "edb667c3-0c6f-45f9-8d8f-069a3c08143c",
-   "title": {
-    "en": "Yasuko and Kenji"
-   },
-   "contentRating": "safe",
-   "score": 0.25845453,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bcf9f938-4d78-446c-8915-3561057f5497",
-   "title": {
-    "en": "Kirarin Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.2556717,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
-   "title": {
-    "en": "Kemono Ni Botsuraku Ojousama"
-   },
-   "contentRating": "safe",
-   "score": 0.25566486,
-   "languages": [
-    "en",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:48+00:00"
 }

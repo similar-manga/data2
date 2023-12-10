@@ -22,7 +22,7 @@
     "en": "Boku no Ie ni Oide"
    },
    "contentRating": "safe",
-   "score": 0.2249047,
+   "score": 0.22458541,
    "languages": [
     "en",
     "pl",
@@ -35,18 +35,18 @@
     "en": "Story of a Girl Growing Vines on her Body"
    },
    "contentRating": "safe",
-   "score": 0.2231171,
+   "score": 0.22244014,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "66f05752-e27f-4c3e-a2c3-deb5c4d1406d",
+   "id": "098bbe9c-ff76-496f-8cce-a407b8d75443",
    "title": {
-    "en": "Kimi Ochi"
+    "en": "That's Not Being A Fan"
    },
    "contentRating": "safe",
-   "score": 0.21943578,
+   "score": 0.21953999,
    "languages": [
     "en"
    ]
@@ -64,12 +64,23 @@
    ]
   },
   {
+   "id": "66f05752-e27f-4c3e-a2c3-deb5c4d1406d",
+   "title": {
+    "en": "Kimi Ochi"
+   },
+   "contentRating": "safe",
+   "score": 0.21879692,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d3e1b39d-8727-472d-b4b0-5c01c94cc370",
    "title": {
     "en": "The Sound of Something New"
    },
    "contentRating": "safe",
-   "score": 0.21860234,
+   "score": 0.21730098,
    "languages": [
     "id",
     "fr",
@@ -85,9 +96,46 @@
     "en": "Cream"
    },
    "contentRating": "safe",
-   "score": 0.21749362,
+   "score": 0.2155453,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "316384f2-dd38-4f7e-8871-f8eecf473cc5",
+   "title": {
+    "en": "Aqua Age"
+   },
+   "contentRating": "safe",
+   "score": 0.21552114,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e27167a-92ad-4a66-a877-60bf079e000f",
+   "title": {
+    "en": "I Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.21130526,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d06a27c-90a1-4e00-a60c-30afb3746c08",
+   "title": {
+    "en": "Meguro-san wa Hajimete ja Nai"
+   },
+   "contentRating": "safe",
+   "score": 0.21005873,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -96,11 +144,22 @@
     "en": "Koi Gokoro Gekokujou"
    },
    "contentRating": "safe",
-   "score": 0.21042658,
+   "score": 0.21000609,
    "languages": [
     "en",
     "fr",
     "pl"
+   ]
+  },
+  {
+   "id": "370c7884-6f7d-4f4a-8c9b-cf66aca9f53a",
+   "title": {
+    "ja": "Risou no Kareshi no Hazunanoni"
+   },
+   "contentRating": "safe",
+   "score": 0.20979969,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -109,7 +168,7 @@
     "en": "Jane and Harlequin"
    },
    "contentRating": "safe",
-   "score": 0.21013567,
+   "score": 0.2091949,
    "languages": [
     "en"
    ]
@@ -120,7 +179,7 @@
     "en": "12-Sai"
    },
    "contentRating": "safe",
-   "score": 0.20914304,
+   "score": 0.20817666,
    "languages": [
     "en"
    ]
@@ -131,72 +190,12 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.20773682,
+   "score": 0.20759563,
    "languages": [
     "en",
     "bg"
    ]
-  },
-  {
-   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
-   "title": {
-    "en": "Kazekou Engekibu!"
-   },
-   "contentRating": "safe",
-   "score": 0.2072564,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4d1df9c3-8d46-468e-bc95-bff6fae0195e",
-   "title": {
-    "en": "Calling (Hori Mai)"
-   },
-   "contentRating": "safe",
-   "score": 0.20696245,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aed16a84-b4cf-431d-898f-2809c422522f",
-   "title": {
-    "en": "Tsuyogari"
-   },
-   "contentRating": "safe",
-   "score": 0.2068245,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "12c3f735-5280-48a3-8ace-9ef4281e487e",
-   "title": {
-    "en": "Celeste Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.20625472,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "71bf78cf-cc88-4766-a0d5-dfb488438a79",
-   "title": {
-    "en": "Ningyo ga Fuchi"
-   },
-   "contentRating": "safe",
-   "score": 0.20586668,
-   "languages": [
-    "en",
-    "hu",
-    "fr",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:51+00:00"
+ "updatedAt": "2023-12-10T18:22:14+00:00"
 }

@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "61b0d21c-b703-4999-910d-ebffc44791bb",
+   "title": {
+    "en": "Akuyaku Reijou Tensei Oji-san"
+   },
+   "contentRating": "safe",
+   "score": 0.27093452,
+   "languages": [
+    "id",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "027df837-7a15-4893-9dc3-e2ae11b94717",
    "title": {
     "en": "Onii-chan Is Done For! Official Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.27113488,
+   "score": 0.26947144,
    "languages": [
     "en",
     "pt-br",
@@ -21,28 +34,26 @@
    ]
   },
   {
-   "id": "61b0d21c-b703-4999-910d-ebffc44791bb",
-   "title": {
-    "en": "Akuyaku Reijou Tensei Oji-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2680847,
-   "languages": [
-    "id",
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "5e856938-7ca8-40b5-8186-fc344258a612",
    "title": {
     "en": "A Villainess? No, a Heinous Young Lady"
    },
    "contentRating": "safe",
-   "score": 0.26176554,
+   "score": 0.26508123,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
+   "title": {
+    "en": "K-ON! Story Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.26324686,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -51,7 +62,7 @@
     "en": "Koushaku Reijou no Tashinami"
    },
    "contentRating": "safe",
-   "score": 0.24972908,
+   "score": 0.25070196,
    "languages": [
     "en",
     "fr",
@@ -79,7 +90,7 @@
     "en": "Hariko no Otome"
    },
    "contentRating": "safe",
-   "score": 0.18213962,
+   "score": 0.18226604,
    "languages": [
     "en"
    ]
@@ -90,9 +101,24 @@
     "en": "Saikyou no Mamono ni Narumichi wo Tadoru Ore, Isekaijuu de Zamaa wo Shikkou suru"
    },
    "contentRating": "safe",
-   "score": 0.17820805,
+   "score": 0.17862667,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4710b856-0585-40d2-a87e-099fc032511f",
+   "title": {
+    "en": "Isekai Izakaya \"Nobu\""
+   },
+   "contentRating": "safe",
+   "score": 0.17842567,
+   "languages": [
+    "es-la",
+    "id",
+    "en",
+    "vi",
+    "pt-br"
    ]
   },
   {
@@ -111,29 +137,15 @@
    ]
   },
   {
-   "id": "f1522b1b-4b5a-4c09-bb39-8b092f4b7edd",
+   "id": "a500b8f7-5aa4-4bec-bf42-ba9a95af8997",
    "title": {
-    "en": "Shoukan sareta Kenja wa Isekai wo Yuku"
+    "en": "Einen Koyou wa Kanou deshou ka"
    },
    "contentRating": "safe",
-   "score": 0.17253071,
+   "score": 0.17472747,
    "languages": [
-    "fr",
-    "pt-br",
     "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "cec4b9c3-12a5-4402-9347-56b55894b468",
-   "title": {
-    "en": "Until I, A Fallen Nobleman, Was Called the Great Sage With My Hazure (?) Skill “Super Jack-of-All-Trades”"
-   },
-   "contentRating": "safe",
-   "score": 0.17232873,
-   "languages": [
-    "en"
+    "es-la"
    ]
   },
   {
@@ -142,9 +154,35 @@
     "en": "Tanaka ke, Tensei Suru."
    },
    "contentRating": "safe",
-   "score": 0.17193402,
+   "score": 0.17344026,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "cec4b9c3-12a5-4402-9347-56b55894b468",
+   "title": {
+    "en": "Until I, A Fallen Nobleman, Was Called the Great Sage With My Hazure (?) Skill “Super Jack-of-All-Trades”"
+   },
+   "contentRating": "safe",
+   "score": 0.17227341,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f1522b1b-4b5a-4c09-bb39-8b092f4b7edd",
+   "title": {
+    "en": "Shoukan sareta Kenja wa Isekai wo Yuku"
+   },
+   "contentRating": "safe",
+   "score": 0.17226265,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "es-la",
+    "id"
    ]
   },
   {
@@ -153,79 +191,23 @@
     "en": "Kyousogiga"
    },
    "contentRating": "safe",
-   "score": 0.16971318,
+   "score": 0.16826327,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b41bef1e-7df9-4255-bd82-ecf570fec566",
+   "id": "5948a236-8a5e-44ff-b890-d3bfa72f29be",
    "title": {
-    "en": "The New Gate"
+    "en": "Shinigami Oujo no Kekkon"
    },
    "contentRating": "safe",
-   "score": 0.16607092,
-   "languages": [
-    "ru",
-    "id",
-    "it",
-    "en",
-    "fr",
-    "ar",
-    "pt-br",
-    "es-la",
-    "zh",
-    "tr",
-    "nl"
-   ]
-  },
-  {
-   "id": "eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb",
-   "title": {
-    "en": "Kumo Desu ga, Nani ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.157285,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru",
-    "pl",
-    "tr",
-    "fr",
-    "es",
-    "nl",
-    "es-la",
-    "it"
-   ]
-  },
-  {
-   "id": "113c8d8d-dc45-4e88-95b9-9950afca37e2",
-   "title": {
-    "en": "King's Proposal"
-   },
-   "contentRating": "safe",
-   "score": 0.15681864,
+   "score": 0.16665016,
    "languages": [
     "id",
-    "uk",
     "en"
-   ]
-  },
-  {
-   "id": "782211b2-44ca-44ae-89f2-8a1160221b96",
-   "title": {
-    "en": "Tensei Goblin dakedo Shitsumon aru?"
-   },
-   "contentRating": "safe",
-   "score": 0.1541963,
-   "languages": [
-    "en",
-    "ru",
-    "th",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:50+00:00"
+ "updatedAt": "2023-12-10T18:24:42+00:00"
 }

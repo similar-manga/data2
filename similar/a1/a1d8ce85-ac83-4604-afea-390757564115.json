@@ -6,12 +6,61 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5baf4d30-a736-4904-8354-27ddcbef8360",
+   "title": {
+    "en": "Fatal Code"
+   },
+   "contentRating": "safe",
+   "score": 0.43606058,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "bf1d564b-e41a-4f55-9241-b5c7ac7f30ab",
+   "title": {
+    "en": "Despite Coming From the Abyss, I Will Save Humanity"
+   },
+   "contentRating": "safe",
+   "score": 0.3459013,
+   "languages": [
+    "en",
+    "pl",
+    "fr",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "62e989da-8d25-4794-a203-66b50885c1e6",
    "title": {
     "en": "Monster Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.32019642,
+   "score": 0.3196851,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9fa25c0d-487c-445e-8890-287871e47d04",
+   "title": {
+    "en": "Lord of the Abyss"
+   },
+   "contentRating": "safe",
+   "score": 0.3155875,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a172180b-a9b8-4df7-8570-f81eb1e0e9bd",
+   "title": {
+    "en": "Hero the Maximum"
+   },
+   "contentRating": "safe",
+   "score": 0.30354318,
    "languages": [
     "en"
    ]
@@ -22,22 +71,69 @@
     "en": "I Used to Be a Boss"
    },
    "contentRating": "safe",
-   "score": 0.3056768,
+   "score": 0.30300534,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "e8dd62f8-fa46-4a3e-ba7d-23ba67b488e7",
+   "id": "0c8152e9-3dab-4605-846e-152b6a4dd9ed",
    "title": {
-    "en": "Moon Slayer"
+    "en": "SSS-Class Painter Summoner"
    },
    "contentRating": "safe",
-   "score": 0.29543343,
+   "score": 0.3029738,
    "languages": [
     "en",
-    "id"
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "630be1a8-d11a-4c96-a0b7-05775a977797",
+   "title": {
+    "en": "You Don't Decrypt at All, Do You?"
+   },
+   "contentRating": "safe",
+   "score": 0.2969181,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "17dbf20a-8430-4af6-be74-9d9a480e932d",
+   "title": {
+    "en": "Sea of Monsters"
+   },
+   "contentRating": "safe",
+   "score": 0.29683703,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2c266089-dc63-4a1c-9755-78c9df8ffb8d",
+   "title": {
+    "en": "The Border of the Abysm"
+   },
+   "contentRating": "safe",
+   "score": 0.29537487,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a253e13a-2b41-4f7d-915e-1e31a3f5d31d",
+   "title": {
+    "en": "I’m the Max-Level Newbie"
+   },
+   "contentRating": "safe",
+   "score": 0.29504484,
+   "languages": [
+    "fr",
+    "it",
+    "pl"
    ]
   },
   {
@@ -46,7 +142,7 @@
     "en": "+99 Reinforced Wooden Stick"
    },
    "contentRating": "safe",
-   "score": 0.29307523,
+   "score": 0.29404816,
    "languages": [
     "en",
     "it",
@@ -55,145 +151,51 @@
    ]
   },
   {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
+   "id": "e8dd62f8-fa46-4a3e-ba7d-23ba67b488e7",
    "title": {
-    "en": "The Game Invades the Earth"
+    "en": "Moon Slayer"
    },
    "contentRating": "safe",
-   "score": 0.28719988,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2629d8fd-9269-4a05-8f1b-c0180c4ccd8c",
-   "title": {
-    "en": "Wandering Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.28333536,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "63f2916d-00a0-49b7-badb-c5e497e6ca2a",
-   "title": {
-    "en": "Tales of the Abyss - Senketsu no Asch"
-   },
-   "contentRating": "safe",
-   "score": 0.28162798,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eeb59fad-4a3e-4630-941a-4901982c4124",
-   "title": {
-    "en": "Over Clock"
-   },
-   "contentRating": "safe",
-   "score": 0.2808125,
+   "score": 0.29332063,
    "languages": [
     "en",
-    "pt-br"
+    "id"
    ]
   },
   {
-   "id": "392b28bc-ee22-4218-bb7b-adb631dc6a5c",
+   "id": "044dc4f4-d4ec-4a6a-9650-8399008b720e",
    "title": {
-    "en": "Freak-Quency"
+    "en": "The Strongest Devil Returns as a Rookie"
    },
    "contentRating": "safe",
-   "score": 0.27525878,
+   "score": 0.2892109,
    "languages": [
-    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "d711e16a-55a3-435e-80bb-7686e45abd0f",
+   "title": {
+    "en": "Was Manager Seo Disposed of as an Industrial Accident?"
+   },
+   "contentRating": "safe",
+   "score": 0.28912985,
+   "languages": [
+    "en",
     "ru"
    ]
   },
   {
-   "id": "ff442aab-7908-40bc-8d10-93c6bb318466",
+   "id": "2f831905-3548-4ff3-a5d2-5f20e1876564",
    "title": {
-    "en": "Becoming a Witch in a World Full of Monster Stories"
+    "en": "Upgrade From Wild Monsters"
    },
    "contentRating": "safe",
-   "score": 0.26771033,
-   "languages": [
-    "id",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "065ef689-b7cb-43a7-9b97-786e8daffdbd",
-   "title": {
-    "en": "Get Back"
-   },
-   "contentRating": "safe",
-   "score": 0.26452002,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "aae5607d-f353-455a-bec2-9bc3a97c01d5",
-   "title": {
-    "en": "They Say I Am the King of the Future"
-   },
-   "contentRating": "safe",
-   "score": 0.26349688,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "54a1ae14-505f-4459-ace1-24a08ceea8c3",
-   "title": {
-    "en": "Lord of Goblins"
-   },
-   "contentRating": "safe",
-   "score": 0.2560972,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "33d43bb9-da74-43f7-b5a7-bb597c19406a",
-   "title": {
-    "en": "The Constellations Are My Disciples"
-   },
-   "contentRating": "safe",
-   "score": 0.25328538,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b99cfe41-e70c-4f4a-9722-bf386b17c86b",
-   "title": {
-    "en": "Unemployed Monster Player"
-   },
-   "contentRating": "safe",
-   "score": 0.25309253,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "792b02f2-0dcc-4f65-85aa-28403ba846e1",
-   "title": {
-    "en": "Disaster Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.2519763,
+   "score": 0.28897703,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:26+00:00"
+ "updatedAt": "2023-12-10T18:26:21+00:00"
 }

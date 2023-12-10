@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "44298fae-b331-4553-859c-106d664e5f33",
+   "title": {
+    "en": "City Hunter Double Edge"
+   },
+   "contentRating": "safe",
+   "score": 0.3762662,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
    "title": {
     "en": "13 Game"
    },
    "contentRating": "safe",
-   "score": 0.32506084,
+   "score": 0.32547143,
    "languages": [
     "en"
    ]
@@ -22,8 +34,20 @@
     "en": "Shiki Tsukai"
    },
    "contentRating": "safe",
-   "score": 0.2555871,
+   "score": 0.25506786,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "931642b0-557e-4583-89bd-22cde31a35d8",
+   "title": {
+    "en": "Missile to Plankton"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -44,7 +68,7 @@
     "en": "DCD Diamond Cut Diamond"
    },
    "contentRating": "safe",
-   "score": 0.23240134,
+   "score": 0.23169173,
    "languages": [
     "en",
     "pt-br"
@@ -56,7 +80,7 @@
     "en": "Boku no Ushiro ni Majo ga Iru"
    },
    "contentRating": "safe",
-   "score": 0.2263692,
+   "score": 0.22595021,
    "languages": [
     "es",
     "en",
@@ -72,7 +96,7 @@
     "en": "Kuzumoto-san Chi no Yonkyoudai"
    },
    "contentRating": "safe",
-   "score": 0.22624159,
+   "score": 0.22525911,
    "languages": [
     "en"
    ]
@@ -83,7 +107,7 @@
     "en": "Blood Type V"
    },
    "contentRating": "safe",
-   "score": 0.22525522,
+   "score": 0.22499397,
    "languages": [
     "it",
     "en",
@@ -97,7 +121,56 @@
     "en": "Sensou Gekijou"
    },
    "contentRating": "safe",
-   "score": 0.22460236,
+   "score": 0.22425707,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0a7a9e60-9160-4883-8b75-803a12108a0f",
+   "title": {
+    "en": "777"
+   },
+   "contentRating": "safe",
+   "score": 0.21971741,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "04976d19-0417-4144-9251-c9269abf0387",
+   "title": {
+    "en": "Sensei no Yasashii Koroshikata"
+   },
+   "contentRating": "safe",
+   "score": 0.21626928,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "7e866932-b408-4ded-ae02-c1331579a4d8",
+   "title": {
+    "en": "Ruirui Senki"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
+   "title": {
+    "en": "Gakuen Psycho-Pass"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -106,52 +179,6 @@
    "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
    "title": {
     "en": "Parabellum"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e17291c8-0356-4438-97e7-1346da5faa11",
-   "title": {
-    "en": "Rebirth Knight"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "d2f840c6-146a-46df-9d22-8e1d33f2a1cc",
-   "title": {
-    "en": "Tsutsunuke Kemomimi"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "6f563f31-5336-422d-ade8-5bb458b454e5",
-   "title": {
-    "en": "Nina Jalhae!"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
-   "title": {
-    "en": "Gakuen Psycho-Pass"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -169,29 +196,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
-   "title": {
-    "en": "Cafe Occult"
-   },
-   "contentRating": "safe",
-   "score": 0.20947501,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
-   "title": {
-    "en": "Hageruya!"
-   },
-   "contentRating": "safe",
-   "score": 0.20580857,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:59+00:00"
+ "updatedAt": "2023-12-10T18:35:29+00:00"
 }

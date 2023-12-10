@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "67e56a7a-c7ea-4db8-84f0-db19c2034729",
+   "title": {
+    "en": "Seasons of Blossom"
+   },
+   "contentRating": "safe",
+   "score": 0.3091502,
+   "languages": [
+    "en",
+    "uk",
+    "pl",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
    "title": {
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.27338928,
+   "score": 0.2706299,
    "languages": [
     "pl",
     "en"
@@ -46,7 +61,18 @@
     "en": "Ko no Ren ni Namidasuru!"
    },
    "contentRating": "safe",
-   "score": 0.25537547,
+   "score": 0.25518882,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e668e628-9d4d-44d2-b95b-edf87a369712",
+   "title": {
+    "en": "Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.25478193,
    "languages": [
     "en"
    ]
@@ -57,7 +83,7 @@
     "en": "Tarou-kun wa Yuganderu"
    },
    "contentRating": "safe",
-   "score": 0.24530731,
+   "score": 0.24374364,
    "languages": [
     "pl",
     "en"
@@ -69,7 +95,7 @@
     "en": "Kimi Ochi"
    },
    "contentRating": "safe",
-   "score": 0.2417564,
+   "score": 0.24212793,
    "languages": [
     "en"
    ]
@@ -94,7 +120,18 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.23989448,
+   "score": 0.23851052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b798ce76-37c9-488b-a2eb-c076e81bf869",
+   "title": {
+    "en": "Jiyue Streamer"
+   },
+   "contentRating": "safe",
+   "score": 0.23251157,
    "languages": [
     "en"
    ]
@@ -105,91 +142,61 @@
     "en": "Natsu e no Tobira"
    },
    "contentRating": "safe",
-   "score": 0.23256356,
+   "score": 0.23218788,
    "languages": [
     "tr",
     "en"
    ]
   },
   {
-   "id": "54dc90bd-01b5-44d0-97a3-7a6caf0ed2f1",
+   "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
    "title": {
-    "en": "Bokura no Hana no Saku Koro no"
+    "en": "Anagura Amelie"
    },
    "contentRating": "safe",
-   "score": 0.22988394,
+   "score": 0.22963889,
    "languages": [
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
-   "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
+   "id": "23415120-8825-4d3e-9fd8-2b3dff2d5d17",
    "title": {
-    "en": "High School Debut"
+    "en": "Niji, Amaete yo."
    },
    "contentRating": "safe",
-   "score": 0.22587697,
+   "score": 0.22857143,
    "languages": [
     "en",
-    "pl",
+    "es-la",
     "pt-br"
    ]
   },
   {
-   "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
+   "id": "5b870988-d838-409b-8df3-c5c20b638414",
    "title": {
-    "en": "Cream"
+    "en": "Sakashima"
    },
    "contentRating": "safe",
-   "score": 0.22458352,
+   "score": 0.22857143,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
-   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
    "title": {
-    "en": "Kazekou Engekibu!"
+    "en": "Sayonara Miniskirt"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "50de54db-2c69-4953-96f9-30b038001ac3",
-   "title": {
-    "en": "Ai no Kotoba"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
-   "title": {
-    "en": "Usotsuki na Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
-   "title": {
-    "en": "Insomnia"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
+    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:53+00:00"
+ "updatedAt": "2023-12-10T18:14:15+00:00"
 }

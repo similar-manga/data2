@@ -11,7 +11,7 @@
     "en": "Gimmick"
    },
    "contentRating": "safe",
-   "score": 0.32924172,
+   "score": 0.32823706,
    "languages": [
     "tr",
     "pl",
@@ -19,12 +19,12 @@
    ]
   },
   {
-   "id": "c503058e-44b9-48d4-86be-19b6a66ac658",
+   "id": "be279e37-105e-4a6d-9519-c36db18ef6fe",
    "title": {
-    "en": "Ikenai Sensei"
+    "en": "Boku no Diamond Star"
    },
    "contentRating": "safe",
-   "score": 0.284093,
+   "score": 0.2892158,
    "languages": [
     "en"
    ]
@@ -53,12 +53,34 @@
    ]
   },
   {
+   "id": "c503058e-44b9-48d4-86be-19b6a66ac658",
+   "title": {
+    "en": "Ikenai Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.284093,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "473c2bbf-de84-4476-8a92-d98620706b95",
    "title": {
     "en": "Meikyuu Yaburi no Hananusubito"
    },
    "contentRating": "safe",
-   "score": 0.27712208,
+   "score": 0.2763871,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6bf1178-5ad4-4c90-b70c-ba35c646abe8",
+   "title": {
+    "en": "Harusame Tunnel"
+   },
+   "contentRating": "safe",
+   "score": 0.27209118,
    "languages": [
     "en"
    ]
@@ -69,7 +91,7 @@
     "en": "Kokyuu no Aida ni Koi ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.27136734,
+   "score": 0.27049294,
    "languages": [
     "en"
    ]
@@ -80,7 +102,7 @@
     "en": "7 Nenme no Dou Kyonin"
    },
    "contentRating": "safe",
-   "score": 0.26625073,
+   "score": 0.26563543,
    "languages": [
     "pl",
     "en"
@@ -92,7 +114,7 @@
     "en": "Kodomo ga Neta Ato de"
    },
    "contentRating": "safe",
-   "score": 0.26334983,
+   "score": 0.26374188,
    "languages": [
     "pl",
     "en",
@@ -105,32 +127,43 @@
     "en": "Namida no Memory"
    },
    "contentRating": "safe",
-   "score": 0.26305717,
+   "score": 0.26295924,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "667f73cc-8e86-4746-a34d-4f0878d5e9d3",
+   "id": "f97e69f0-18d7-4d93-a157-909a18fec9b2",
    "title": {
-    "en": "Komata-kun to Komata-chan"
+    "en": "Nagaku mo mijikaki koi no hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2541005,
+   "score": 0.261175,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "423ef7d6-c45b-4568-965e-4186488c2f0c",
+   "title": {
+    "en": "Triangle Bookend"
+   },
+   "contentRating": "safe",
+   "score": 0.25793236,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "65366e32-40f1-4a33-afa0-ff5aa7f52b0c",
+   "id": "d9b78c9f-7389-4781-999c-f0f809abe60c",
    "title": {
-    "en": "Dousokai"
+    "en": "Asahi-kun tono Kurashi wa Dekiai ga Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.2541005,
+   "score": 0.2562905,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -154,41 +187,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "2f0978eb-1e77-40da-ace6-30e1a04a0b7b",
-   "title": {
-    "en": "Lunch Time!"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "158bd1fc-da64-467b-952a-87803a2325cc",
-   "title": {
-    "en": "Boku wa Pet"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "b80ff652-a454-4b93-a4f0-4c732ce202a3",
-   "title": {
-    "en": "Poolside"
-   },
-   "contentRating": "safe",
-   "score": 0.25396827,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:16+00:00"
+ "updatedAt": "2023-12-10T18:25:52+00:00"
 }

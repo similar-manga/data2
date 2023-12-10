@@ -11,7 +11,7 @@
     "en": "The Son of the Godfather"
    },
    "contentRating": "safe",
-   "score": 0.3142139
+   "score": 0.32276413
   },
   {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
@@ -19,7 +19,7 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.29829568
+   "score": 0.30436963
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -27,7 +27,26 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.26087728,
+   "score": 0.2644109,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7c7158c3-e60f-4970-a5c9-912ae2e818ec",
+   "title": {
+    "en": "The Dashing Harimau"
+   },
+   "contentRating": "safe",
+   "score": 0.2047168
+  },
+  {
+   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
+   "title": {
+    "en": "Succeed"
+   },
+   "contentRating": "safe",
+   "score": 0.20304793,
    "languages": [
     "en"
    ]
@@ -38,26 +57,7 @@
     "en": "The Doberman Detective"
    },
    "contentRating": "safe",
-   "score": 0.20353267
-  },
-  {
-   "id": "7c7158c3-e60f-4970-a5c9-912ae2e818ec",
-   "title": {
-    "en": "The Dashing Harimau"
-   },
-   "contentRating": "safe",
-   "score": 0.20210564
-  },
-  {
-   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
-   "title": {
-    "en": "Succeed"
-   },
-   "contentRating": "safe",
-   "score": 0.19921325,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20263876
   },
   {
    "id": "6a5f475c-e79e-4f53-8deb-01523f12df95",
@@ -65,7 +65,7 @@
     "en": "Ewokaku Futari"
    },
    "contentRating": "safe",
-   "score": 0.19662808,
+   "score": 0.19839922,
    "languages": [
     "zh-hk"
    ]
@@ -76,7 +76,46 @@
     "en": "Tic Toc Adventures"
    },
    "contentRating": "safe",
-   "score": 0.1928748
+   "score": 0.19118212
+  },
+  {
+   "id": "3c36f9f9-8f43-41d6-a1a1-eae1e1e24b27",
+   "title": {
+    "en": "Meitantei Conan: Terebi Anime-ban"
+   },
+   "contentRating": "safe",
+   "score": 0.18731716
+  },
+  {
+   "id": "bdb64c74-cfc5-4a78-98ee-4dfcfd3f3343",
+   "title": {
+    "en": "Detective Conan: The Culprit Hanzawa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.18242602,
+   "languages": [
+    "ru",
+    "es",
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "e167281c-b14f-4fca-8b2c-acfd6e5ade32",
+   "title": {
+    "en": "The Wilderness Family"
+   },
+   "contentRating": "safe",
+   "score": 0.180245
+  },
+  {
+   "id": "7c58c1b0-b595-4f9d-8fa9-a710c4cac3e6",
+   "title": {
+    "en": "Jungle Taro"
+   },
+   "contentRating": "safe",
+   "score": 0.17894383
   },
   {
    "id": "d82c15b0-2a81-45bf-add2-1a79905ac419",
@@ -90,17 +129,6 @@
    ]
   },
   {
-   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
-   "title": {
-    "en": "Japanese History Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.17718202,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
    "title": {
     "en": "Pilot Ace"
@@ -109,52 +137,21 @@
    "score": 0.17699808
   },
   {
-   "id": "7c58c1b0-b595-4f9d-8fa9-a710c4cac3e6",
+   "id": "1f280efb-60ce-410d-bf97-8987aa24c908",
    "title": {
-    "en": "Jungle Taro"
+    "en": "Toudai no Sanshimai"
    },
    "contentRating": "safe",
-   "score": 0.17493132
+   "score": 0.1754335
   },
   {
-   "id": "d9612742-4d61-4f25-9de7-8e341e66e18c",
+   "id": "11791846-4b84-4557-9e6b-d2c714b57db3",
    "title": {
-    "en": "Higurashi no Naku Koro ni Meguri"
+    "en": "Todoroki Detective"
    },
    "contentRating": "safe",
-   "score": 0.1735252,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "it",
-    "es-la"
-   ]
-  },
-  {
-   "id": "ed98157c-9d74-4d82-8318-381b788bd644",
-   "title": {
-    "en": "AI no Idenshi: Blue Age"
-   },
-   "contentRating": "safe",
-   "score": 0.16994625
-  },
-  {
-   "id": "37fd04eb-b674-4558-a1a6-9b27c78054c5",
-   "title": {
-    "en": "X-Man"
-   },
-   "contentRating": "safe",
-   "score": 0.16556655
-  },
-  {
-   "id": "c63ffaaf-752e-4e7c-9f8c-5b34b88e41e6",
-   "title": {
-    "en": "The Zero Zero Directive"
-   },
-   "contentRating": "safe",
-   "score": 0.16518936
+   "score": 0.17461248
   }
  ],
- "updatedAt": "2023-12-10T01:01:52+00:00"
+ "updatedAt": "2023-12-10T18:14:13+00:00"
 }

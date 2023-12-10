@@ -11,7 +11,29 @@
     "en": "Escape Game"
    },
    "contentRating": "safe",
-   "score": 0.3149457,
+   "score": 0.3162133,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f44c1ae4-75d6-4ff6-9e5c-7330773e2dbd",
+   "title": {
+    "en": "Darkness and Death"
+   },
+   "contentRating": "safe",
+   "score": 0.2682968,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1b94b98-df03-4510-985d-ce17f1fe52d1",
+   "title": {
+    "en": "Human Faced Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.26224586,
    "languages": [
     "en"
    ]
@@ -22,7 +44,7 @@
     "en": "How to Deal With the Dead"
    },
    "contentRating": "safe",
-   "score": 0.26130092
+   "score": 0.2608226
   },
   {
    "id": "6fe379d1-98aa-4e86-80b8-4c74ed716cc8",
@@ -30,7 +52,7 @@
     "en": "Ex vs. Stalker"
    },
    "contentRating": "safe",
-   "score": 0.257289,
+   "score": 0.25733885,
    "languages": [
     "en"
    ]
@@ -41,7 +63,7 @@
     "en": "Introduction to Survival"
    },
    "contentRating": "safe",
-   "score": 0.2541882,
+   "score": 0.25549087,
    "languages": [
     "en",
     "pt-br"
@@ -72,23 +94,62 @@
    ]
   },
   {
-   "id": "6886171f-d424-4249-be09-62cc12ed0d1f",
+   "id": "328c7464-9fd4-4b30-83ce-6d4e35acbe21",
    "title": {
-    "en": "Delusional Boy"
+    "en": "Psycho Face"
    },
    "contentRating": "safe",
-   "score": 0.23880804,
+   "score": 0.24837686,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "e312459c-5118-4ef6-8879-2a8575bd6405",
+   "title": {
+    "en": "The Last Geomancer"
+   },
+   "contentRating": "safe",
+   "score": 0.24471585
+  },
+  {
+   "id": "3047c8d7-3e66-457e-b5cb-883c8eabe1b8",
+   "title": {
+    "en": "Alternate Life"
+   },
+   "contentRating": "safe",
+   "score": 0.23916173,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fcc154a5-28e4-4de0-9514-4fc7ffee8fc1",
+   "id": "5621223a-f2cd-413a-baea-dabc108b0bd9",
    "title": {
-    "en": "Fatal Choices X"
+    "en": "The Ring"
    },
    "contentRating": "safe",
-   "score": 0.23434807,
+   "score": 0.23820925
+  },
+  {
+   "id": "59b82d54-b8ab-4555-800a-aed108dd8b8a",
+   "title": {
+    "en": "Beholder of the Abyss"
+   },
+   "contentRating": "safe",
+   "score": 0.2379375,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b71672be-550b-4664-8e06-6a62d275ff7d",
+   "title": {
+    "en": "Golden Change"
+   },
+   "contentRating": "safe",
+   "score": 0.23499483,
    "languages": [
     "en"
    ]
@@ -99,7 +160,7 @@
     "en": "Uriah"
    },
    "contentRating": "safe",
-   "score": 0.23401648,
+   "score": 0.23389444,
    "languages": [
     "pl",
     "fr",
@@ -108,84 +169,16 @@
    ]
   },
   {
-   "id": "28892297-cecd-45c7-9933-72e509a244c3",
+   "id": "fcc154a5-28e4-4de0-9514-4fc7ffee8fc1",
    "title": {
-    "en": "Real-Life Horror Stories"
+    "en": "Fatal Choices X"
    },
    "contentRating": "safe",
-   "score": 0.23110767,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d3574b7f-2670-42ea-af69-6177ffc36b03",
-   "title": {
-    "en": "Algeria's Radio - Horror on Air"
-   },
-   "contentRating": "safe",
-   "score": 0.23110767,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "74030572-9253-4d04-ae43-8ad7a6e4dacf",
-   "title": {
-    "en": "Die, Dai"
-   },
-   "contentRating": "safe",
-   "score": 0.22863993,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "3e11e374-ddfc-4fb8-a8cf-c5e7bad8d8a0",
-   "title": {
-    "en": "Lovecraftian Plague Doctor"
-   },
-   "contentRating": "safe",
-   "score": 0.22681642,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c94d62b-0c19-4501-9eaa-a63935b64b85",
-   "title": {
-    "en": "Star-Lit Survival"
-   },
-   "contentRating": "safe",
-   "score": 0.22442414,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5c5b53ee-ae16-4f38-8885-c62d4ca06684",
-   "title": {
-    "en": "Zombie Fight"
-   },
-   "contentRating": "safe",
-   "score": 0.22356808,
-   "languages": [
-    "ar",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "b7770b97-3aa6-4f9c-abff-b878ee24c971",
-   "title": {
-    "en": "Checkpoint"
-   },
-   "contentRating": "safe",
-   "score": 0.2200211,
+   "score": 0.2329998,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:42+00:00"
+ "updatedAt": "2023-12-10T18:34:45+00:00"
 }

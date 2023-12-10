@@ -6,6 +6,30 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ee1e2e44-7002-422e-bf35-ae106bf6b2c3",
+   "title": {
+    "en": "Ad Astra Per Aspera"
+   },
+   "contentRating": "safe",
+   "score": 0.24622568,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "082857f5-740c-4556-9625-479d52124eea",
+   "title": {
+    "en": "Mazinkaiser vs Shin Getter Robo"
+   },
+   "contentRating": "safe",
+   "score": 0.23354332,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "2b0a68a4-36e8-4724-b9cd-84fe48ab4dd1",
    "title": {
     "en": "Medabot Reloaded"
@@ -23,11 +47,22 @@
     "en": "Me \u0026 Roboco"
    },
    "contentRating": "safe",
-   "score": 0.22299571,
+   "score": 0.22262636,
    "languages": [
     "fr",
     "pt-br",
     "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "2dcd7c11-d7d6-458f-8c02-87f7d70d525d",
+   "title": {
+    "en": "Judgement Primary School"
+   },
+   "contentRating": "safe",
+   "score": 0.22188008,
+   "languages": [
     "en"
    ]
   },
@@ -71,9 +106,44 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.22109728,
+   "score": 0.2204882,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1bc9283b-af5d-4ac6-8268-4f9c014e250d",
+   "title": {
+    "en": "SLASH"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
+   "title": {
+    "en": "Monkz"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92701b20-044d-4795-b02e-f2b960639ce8",
+   "title": {
+    "en": "Sono Go No Crows"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en",
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -82,7 +152,7 @@
     "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.21633758,
+   "score": 0.20845576,
    "languages": [
     "pl",
     "en",
@@ -95,7 +165,7 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.2102308,
+   "score": 0.20608965,
    "languages": [
     "en"
    ]
@@ -106,88 +176,23 @@
     "en": "Ane Pani"
    },
    "contentRating": "safe",
-   "score": 0.20529735,
+   "score": 0.20569757,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cad1c68e-ece3-4453-9135-aff3918421a3",
+   "id": "cec577bc-7795-400e-a656-59eca3f7556c",
    "title": {
-    "en": "A-kun (17) no Sensou - I, the Tycoon?"
+    "en": "Super Robot Taisen - Original Generation SAGA"
    },
    "contentRating": "safe",
-   "score": 0.20225719,
+   "score": 0.20356886,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23cc261e-687e-4b24-9308-fccc93094b98",
-   "title": {
-    "en": "R the Ultimate Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.20171945,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf19b4e0-3618-4bf4-8035-a265c3bb3fce",
-   "title": {
-    "en": "Our Hero Studies"
-   },
-   "contentRating": "safe",
-   "score": 0.20135212,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
-   "title": {
-    "en": "Gakuen Psycho-Pass"
-   },
-   "contentRating": "safe",
-   "score": 0.19642584,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5039789f-8fcb-4996-9788-e68147db360c",
-   "title": {
-    "en": "AniKoi"
-   },
-   "contentRating": "safe",
-   "score": 0.19436441,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f563f31-5336-422d-ade8-5bb458b454e5",
-   "title": {
-    "en": "Nina Jalhae!"
-   },
-   "contentRating": "safe",
-   "score": 0.19420901,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2ce106c5-d902-4efe-963b-cb5cd2698fcd",
-   "title": {
-    "en": "Is It Wrong To Write a Gag Manga For a Contest?"
-   },
-   "contentRating": "safe",
-   "score": 0.18998504,
-   "languages": [
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:09+00:00"
+ "updatedAt": "2023-12-10T18:20:17+00:00"
 }

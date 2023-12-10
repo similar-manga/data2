@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1fd53e93-3956-4fc6-95a5-33342931b159",
+   "title": {
+    "en": "Boku no Suki na Sensei (Gokurakuin Sakurako)"
+   },
+   "contentRating": "safe",
+   "score": 0.3118395,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a959d790-295c-4584-b442-6f6186ac494b",
    "title": {
     "en": "Isshunsaki wa Koi"
    },
    "contentRating": "safe",
-   "score": 0.30817056,
+   "score": 0.30439398,
    "languages": [
     "en"
    ]
@@ -22,7 +33,18 @@
     "en": "Trap"
    },
    "contentRating": "safe",
-   "score": 0.29677635,
+   "score": 0.29826185,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5ea87b7a-accc-4cc2-beb0-f6f5a70d8a0a",
+   "title": {
+    "en": "Kare o Dakishimeru Houkago"
+   },
+   "contentRating": "safe",
+   "score": 0.29347652,
    "languages": [
     "en"
    ]
@@ -33,7 +55,7 @@
     "en": "Nidome no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.29328105,
+   "score": 0.29151028,
    "languages": [
     "en"
    ]
@@ -44,7 +66,7 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.28864563,
+   "score": 0.2870916,
    "languages": [
     "en",
     "pl",
@@ -58,22 +80,10 @@
     "en": "Ever Share Color"
    },
    "contentRating": "safe",
-   "score": 0.28730196,
+   "score": 0.28520954,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "0059301b-9aa5-4dbe-98a0-a1cdde873332",
-   "title": {
-    "en": "Kuro Tenkousei"
-   },
-   "contentRating": "safe",
-   "score": 0.2810601,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -82,7 +92,7 @@
     "en": "Wakaba no - Shounenki"
    },
    "contentRating": "safe",
-   "score": 0.2798861,
+   "score": 0.278571,
    "languages": [
     "en"
    ]
@@ -93,7 +103,7 @@
     "en": "Koi to Mirror"
    },
    "contentRating": "safe",
-   "score": 0.27120242,
+   "score": 0.26919317,
    "languages": [
     "en"
    ]
@@ -104,7 +114,7 @@
     "en": "Shining Star"
    },
    "contentRating": "safe",
-   "score": 0.26847187,
+   "score": 0.26771006,
    "languages": [
     "en"
    ]
@@ -115,11 +125,24 @@
     "en": "Boys Love"
    },
    "contentRating": "safe",
-   "score": 0.26588902,
+   "score": 0.26559544,
    "languages": [
     "bg",
     "ru",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4f5c0710-961d-4aef-a84e-833d9590a51b",
+   "title": {
+    "en": "Kirakira Shitemo, Shinakutemo"
+   },
+   "contentRating": "safe",
+   "score": 0.26509613,
+   "languages": [
+    "zh-hk",
+    "es-la",
     "en"
    ]
   },
@@ -129,7 +152,7 @@
     "en": "Poker Face"
    },
    "contentRating": "safe",
-   "score": 0.2651419,
+   "score": 0.26438552,
    "languages": [
     "en"
    ]
@@ -140,7 +163,7 @@
     "en": "Kikyou"
    },
    "contentRating": "safe",
-   "score": 0.26437294,
+   "score": 0.2639339,
    "languages": [
     "en",
     "es"
@@ -152,47 +175,23 @@
     "en": "Moshi Moshi, Kame-San."
    },
    "contentRating": "safe",
-   "score": 0.26364127,
+   "score": 0.26315218,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5a822cf6-e4c0-4fc0-a8c5-97ef6f2d0cdb",
+   "id": "7ab1a39b-702a-459d-9e7d-60ec8b09ae32",
    "title": {
-    "en": "Momomimi Pheromone"
+    "en": "Hate, Hate, Hate"
    },
    "contentRating": "safe",
-   "score": 0.2612726,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "dffca36b-387f-4131-b99c-f7c834286253",
-   "title": {
-    "en": "Boku wa Sakana"
-   },
-   "contentRating": "safe",
-   "score": 0.2608864,
+   "score": 0.26214612,
    "languages": [
     "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "d5679da5-8790-429a-b20b-fbb4c869a36d",
-   "title": {
-    "en": "Wasureru"
-   },
-   "contentRating": "safe",
-   "score": 0.260757,
-   "languages": [
-    "en"
+    "fa"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:33+00:00"
+ "updatedAt": "2023-12-10T18:13:19+00:00"
 }

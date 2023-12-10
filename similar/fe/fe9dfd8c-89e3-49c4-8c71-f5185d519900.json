@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8a63f910-2d6e-43bb-9c5d-fd8ab2d1264b",
+   "title": {
+    "en": "Boku no Kawaii Musume wa Futago no Kenja"
+   },
+   "contentRating": "safe",
+   "score": 0.4005857,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "56c7a4f2-6f6b-4420-87dd-fef4a4b5e6c4",
    "title": {
     "en": "Dekisokonai to Yobareta Moto Eiyuu wa, Jikka Kara Tsuihousareta no de Suki Katte ni Ikiru Koto ni Shita"
    },
    "contentRating": "safe",
-   "score": 0.37253422,
+   "score": 0.37111437,
    "languages": [
     "ru",
     "pt-br",
@@ -20,12 +32,25 @@
    ]
   },
   {
+   "id": "a6a6fe8c-340b-428c-9220-8cd307b47475",
+   "title": {
+    "en": "Ore no Saenai Osananajimi ga S-Rank Yuusha ni Natteita Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.3639788,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "70fe972b-3c88-4165-b9a5-3db96d6d2c14",
    "title": {
     "en": "Shikkaku Mon no Saikyou Kenja - Sekai Saikyou no Kenja ga Sara ni Tsuyoku naru Tame ni Tensei Shimashita"
    },
    "contentRating": "safe",
-   "score": 0.36053008,
+   "score": 0.3600219,
    "languages": [
     "es-la",
     "ru",
@@ -41,7 +66,7 @@
     "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.3473448,
+   "score": 0.34995115,
    "languages": [
     "fr",
     "en",
@@ -49,15 +74,30 @@
    ]
   },
   {
-   "id": "339a6d49-9cc3-4435-98b6-59ddec3a6c0d",
+   "id": "b787bfae-7b1c-4964-a910-718529bbd377",
    "title": {
-    "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
+    "en": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta"
    },
    "contentRating": "safe",
-   "score": 0.329312,
+   "score": 0.34973228,
    "languages": [
     "en",
+    "ru",
+    "th",
+    "id",
     "es-la"
+   ]
+  },
+  {
+   "id": "fa92d730-0b5f-4fbf-bbc2-189eff43b3d7",
+   "title": {
+    "ja": "Tsuihou no Kenja, Sekai wo Shiru ~Osanajimi Yuusha no Atsuryoku kara Nigete Jiyuu ni Natta Ore~"
+   },
+   "contentRating": "safe",
+   "score": 0.33025643,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -66,9 +106,21 @@
     "en": "Jukokuin no Tensei Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.3289068,
+   "score": 0.3294932,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "339a6d49-9cc3-4435-98b6-59ddec3a6c0d",
+   "title": {
+    "en": "Emperor's Mark to Rule the Monsters: Reborn Sage to Strongest Adventurer"
+   },
+   "contentRating": "safe",
+   "score": 0.32700774,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -77,7 +129,7 @@
     "en": "Shoki Skill ga Benri Sugite Isekai Seikatsu ga Tanoshisugiru!"
    },
    "contentRating": "safe",
-   "score": 0.3175162,
+   "score": 0.31674853,
    "languages": [
     "en",
     "ru"
@@ -89,7 +141,7 @@
     "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
    },
    "contentRating": "safe",
-   "score": 0.3108249,
+   "score": 0.31048676,
    "languages": [
     "id",
     "pt-br",
@@ -98,12 +150,39 @@
    ]
   },
   {
+   "id": "c7e9c722-18bd-4b94-8c0f-90edf9e25b8c",
+   "title": {
+    "en": "Slave of Black Knight"
+   },
+   "contentRating": "safe",
+   "score": 0.31002265,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4",
+   "title": {
+    "en": "Saikyou no Shokugyou wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu yo?"
+   },
+   "contentRating": "safe",
+   "score": 0.30704892,
+   "languages": [
+    "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "a21eab2d-781d-40b2-a666-7b2d72551927",
    "title": {
     "en": "Akuninzura shita B-kyuu Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.31008473,
+   "score": 0.30289382,
    "languages": [
     "it",
     "pt-br",
@@ -112,109 +191,28 @@
    ]
   },
   {
-   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
+   "id": "d68ceffd-ac56-45db-9129-3413dd0d7063",
    "title": {
-    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
+    "en": "Isekai De Te Ni Ireta Seisan Skill Wa Saikyou Datta You Desu"
    },
    "contentRating": "safe",
-   "score": 0.2979738,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cfe07dda-e895-4a6e-a694-f70318d49446",
-   "title": {
-    "en": "Boku wa Imasugu Zense no Kioku wo Sutetai. - Akogare no Inaka wa Jingai Makyou deshita"
-   },
-   "contentRating": "safe",
-   "score": 0.29274803,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
-   "title": {
-    "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
-   },
-   "contentRating": "safe",
-   "score": 0.28588194,
+   "score": 0.3011533,
    "languages": [
     "en",
-    "fr",
-    "pt-br",
-    "es-la",
-    "ko"
-   ]
-  },
-  {
-   "id": "0007a2ed-2a91-472d-b161-bfd011b4ba1b",
-   "title": {
-    "en": "Boku igai Zennin Tenseisha ka yo!?"
-   },
-   "contentRating": "safe",
-   "score": 0.27738294,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "94210b9d-93fc-430d-9a1d-b9a8cfcb2461",
-   "title": {
-    "en": "Saitei Chara ni Tensei shita Ore wa Ikinokoritai"
-   },
-   "contentRating": "safe",
-   "score": 0.27706417,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "cfca1084-51da-4c97-afd2-344691a5665d",
-   "title": {
-    "en": "Isekai Tensei no Boukensha"
-   },
-   "contentRating": "safe",
-   "score": 0.27516282,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5bf33f1-498d-425b-b22b-83d4ccb8c341",
-   "title": {
-    "en": "Level 0 no Maou-sama, Isekai de Boukensha wo Hajimemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.27331764,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "ar",
-    "es-la"
-   ]
-  },
-  {
-   "id": "39b4e02a-f2f2-4ff0-bf2c-f87cf54ab178",
-   "title": {
-    "en": "Tensei Kizoku no Isekai Boukenroku ~Jichou wo Shiranai Kamigami no Shito~"
-   },
-   "contentRating": "safe",
-   "score": 0.26352644,
-   "languages": [
-    "id",
-    "en",
-    "fr",
-    "ru",
-    "es-la",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0975443e-d701-43a4-93da-839065bd3dbd",
+   "title": {
+    "en": "“Jako ni wa Kaji ga Oniai da www” to Iwareta Kaji Level 9999 no Ore, Tsuihousareta no de Boukensha ni Tenshokusuru Saikyou Buki de Musou Shinagara Guild de Tanoshiku Kurashimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.30003998,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:19+00:00"
+ "updatedAt": "2023-12-10T18:36:13+00:00"
 }

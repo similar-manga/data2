@@ -11,7 +11,7 @@
     "en": "Adventurer's Guild Universal Advisor"
    },
    "contentRating": "suggestive",
-   "score": 0.2802361,
+   "score": 0.28024292,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "After School Labyrinth Adventurer ~ I'm now able to go back and forth between Japan and another world, and I'll work hard to level up~"
    },
    "contentRating": "suggestive",
-   "score": 0.27488953,
+   "score": 0.2739167,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "After Tormenting the Devil, I Did Not Want to Stand Out, So I Became a Guild Master"
    },
    "contentRating": "suggestive",
-   "score": 0.26629126,
+   "score": 0.26635996,
    "languages": [
     "ru",
     "en",
@@ -71,7 +71,7 @@
     "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.25764823,
+   "score": 0.25608376,
    "languages": [
     "en"
    ]
@@ -82,7 +82,7 @@
     "en": "From Leveling Up the Hero to Leveling Up a Nation"
    },
    "contentRating": "suggestive",
-   "score": 0.25689793,
+   "score": 0.25602147,
    "languages": [
     "en",
     "pt-br",
@@ -95,7 +95,7 @@
     "en": "Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku na no ni Cheat Dungeon o Tsukutteshimatta Kekka"
    },
    "contentRating": "suggestive",
-   "score": 0.253906,
+   "score": 0.25193352,
    "languages": [
     "tr",
     "es-la",
@@ -111,21 +111,10 @@
     "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
    },
    "contentRating": "suggestive",
-   "score": 0.24586637,
+   "score": 0.24567652,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "7c5ba525-4888-4b80-8117-46fc7d9fe9ac",
-   "title": {
-    "en": "Slayers Special"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24071905,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -134,7 +123,7 @@
     "en": "Sekai de Tada Hitori no Mamonotsukai ~Tenshoku shitara Maou ni Machigawaremashita~"
    },
    "contentRating": "suggestive",
-   "score": 0.23663755,
+   "score": 0.23577635,
    "languages": [
     "en",
     "pt-br",
@@ -143,12 +132,23 @@
    ]
   },
   {
+   "id": "7c5ba525-4888-4b80-8117-46fc7d9fe9ac",
+   "title": {
+    "en": "Slayers Special"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c7311cec-9b0f-42f3-8afe-a06cb5b70229",
    "title": {
     "en": "Isekai de Skill wo Kaitai Shitara Cheat na Yome ga Zoushoku Shimashita: Gainen Kousa no Structure"
    },
    "contentRating": "suggestive",
-   "score": 0.2302828,
+   "score": 0.22987284,
    "languages": [
     "en",
     "pt-br",
@@ -165,10 +165,24 @@
     "en": "Maou no Mama ni Narundayo"
    },
    "contentRating": "suggestive",
-   "score": 0.229134,
+   "score": 0.22812282,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "72231b89-3934-439b-9d83-0f82e45f01d6",
+   "title": {
+    "en": "Kanchigai no Atelier Meister"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22777964,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -177,7 +191,7 @@
     "en": "Kinsou no Vermeil ~Gakeppuchi Majutshi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu~"
    },
    "contentRating": "suggestive",
-   "score": 0.2283065,
+   "score": 0.22689536,
    "languages": [
     "pt-br",
     "en",
@@ -187,26 +201,12 @@
    ]
   },
   {
-   "id": "72231b89-3934-439b-9d83-0f82e45f01d6",
-   "title": {
-    "en": "Kanchigai no Atelier Meister"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2278526,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "9585b6ff-7834-4e71-b47c-5a6c1440efb6",
    "title": {
     "en": "4 Cut Hero"
    },
    "contentRating": "suggestive",
-   "score": 0.22733937,
+   "score": 0.22612989,
    "languages": [
     "ru",
     "en",
@@ -216,5 +216,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:32+00:00"
+ "updatedAt": "2023-12-10T18:29:22+00:00"
 }

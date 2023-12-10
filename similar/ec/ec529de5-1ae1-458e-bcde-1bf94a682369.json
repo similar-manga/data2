@@ -11,7 +11,7 @@
     "ja-ro": "Kage no Jitsuryokusha ni Naritakute"
    },
    "contentRating": "safe",
-   "score": 0.31278625,
+   "score": 0.30151328,
    "languages": [
     "pl",
     "uk",
@@ -31,12 +31,153 @@
    ]
   },
   {
+   "id": "647d97e2-ab31-4ce6-9e9c-d43ad14ea3f2",
+   "title": {
+    "en": "Milky Way Customer Service Department"
+   },
+   "contentRating": "safe",
+   "score": 0.2758368,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
+   "title": {
+    "en": "Junk the Black Shadow"
+   },
+   "contentRating": "safe",
+   "score": 0.263239,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "e4085dfe-87d0-458f-85d8-1aa3be767c69",
+   "title": {
+    "en": "Xianzun System in the City"
+   },
+   "contentRating": "safe",
+   "score": 0.26266587,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e1b2ec9f-7660-488c-a43d-ebc2eeaddd67",
+   "title": {
+    "en": "Hero with Another Opinion"
+   },
+   "contentRating": "safe",
+   "score": 0.22953628,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "618f543e-f561-42d7-a5ae-274429ca46cf",
+   "title": {
+    "en": "Egregor"
+   },
+   "contentRating": "safe",
+   "score": 0.22908106,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "1b45ddae-88e8-4b78-9a51-684e2f10616d",
+   "title": {
+    "en": "How to Be God"
+   },
+   "contentRating": "safe",
+   "score": 0.22711895,
+   "languages": [
+    "id",
+    "fa",
+    "en",
+    "tr",
+    "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "6c583845-8276-4f80-b90b-902959b5d240",
+   "title": {
+    "en": "Tokyo Depato Sensou Taikenki"
+   },
+   "contentRating": "safe",
+   "score": 0.2235102,
+   "languages": [
+    "en",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "4aa860f7-0ca9-4b5d-a2cd-d4c51d116921",
+   "title": {
+    "en": "It All Starts With a Group of Primitive People"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "62bd38f6-0b10-4c6f-a1b3-677b7e364348",
+   "title": {
+    "en": "Shaman"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7e866932-b408-4ded-ae02-c1331579a4d8",
+   "title": {
+    "en": "Ruirui Senki"
+   },
+   "contentRating": "safe",
+   "score": 0.21256535,
+   "languages": [
+    "pt-br",
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "7eb29782-de19-41e9-8c51-209eac3d2c03",
+   "title": {
+    "en": "My sweet archenemy"
+   },
+   "contentRating": "safe",
+   "score": 0.2090147,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "24e7400d-dbad-4ff4-9ae0-9660102ce823",
    "title": {
     "en": "Rise From the Rubble"
    },
    "contentRating": "safe",
-   "score": 0.20903511,
+   "score": 0.20803674,
    "languages": [
     "fr",
     "pt-br",
@@ -44,16 +185,35 @@
    ]
   },
   {
-   "id": "4e7cbb61-230a-486c-9473-92fdefb59fc0",
+   "id": "2a5be63f-a85c-4626-bb54-435dab4167f7",
    "title": {
-    "en": "Apocalyptic Super System"
+    "en": "Endeavor’s Cross"
    },
    "contentRating": "safe",
-   "score": 0.20444536,
+   "score": 0.20619653,
    "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "275e0ab8-d7e4-44f6-aa8a-0ef8fe98999f",
+   "title": {
+    "en": "Highschool Lunch Dad"
+   },
+   "contentRating": "safe",
+   "score": 0.20619653,
+   "languages": [
+    "it",
     "en",
-    "tr",
-    "pt-br"
+    "pt-br",
+    "ru",
+    "fa",
+    "pl",
+    "fr",
+    "ar",
+    "id"
    ]
   },
   {
@@ -67,179 +227,7 @@
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "647d97e2-ab31-4ce6-9e9c-d43ad14ea3f2",
-   "title": {
-    "en": "Milky Way Customer Service Department"
-   },
-   "contentRating": "safe",
-   "score": 0.19090089,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "46414120-3303-4471-9197-782985312a58",
-   "title": {
-    "en": "Märchen - The Embodiment of Tales"
-   },
-   "contentRating": "safe",
-   "score": 0.19090089,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "2f02b9c7-efad-4d23-bb2b-72017b61734f",
-   "title": {
-    "en": "Monster Bar"
-   },
-   "contentRating": "safe",
-   "score": 0.18898223,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
-   "title": {
-    "en": "One Punch Man (Webcomic/Original)"
-   },
-   "contentRating": "safe",
-   "score": 0.18438248,
-   "languages": [
-    "en",
-    "fr",
-    "it",
-    "ar",
-    "pt-br",
-    "es-la",
-    "th",
-    "ro",
-    "vi",
-    "ru",
-    "tr"
-   ]
-  },
-  {
-   "id": "534ba0eb-8d04-4047-8aef-c965ec2ce5c9",
-   "title": {
-    "en": "Colossus Order"
-   },
-   "contentRating": "safe",
-   "score": 0.18378922,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "f2cb9465-c314-46a3-97fd-05210d3af0a7",
-   "title": {
-    "en": "The Scholar's Reincarnation"
-   },
-   "contentRating": "safe",
-   "score": 0.18274347,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru",
-    "pl",
-    "fr",
-    "id",
-    "it"
-   ]
-  },
-  {
-   "id": "16d99766-e3ce-48dd-ae64-f46b482476ab",
-   "title": {
-    "en": "The King of Special Forces With a Negative Emotional Quotient Was Reborn on Campus but Was Unexpectedly Welcomed by Girls?!"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "56ae9929-41bf-4d18-9f64-bcb727c24503",
-   "title": {
-    "en": "Divorce Concilation"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "7155ec9f-2941-4cd7-93af-71a5c4da79b4",
-   "title": {
-    "en": "Past Lives of the Thunder God"
-   },
-   "contentRating": "safe",
-   "score": 0.17721224,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "69e218ec-93eb-4025-ae39-33d47b1160e0",
-   "title": {
-    "en": "Demonic Emperor"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "fr",
-    "tr",
-    "ru",
-    "pt-br",
-    "pl",
-    "it",
-    "id"
-   ]
-  },
-  {
-   "id": "b1ea971f-c12c-4198-a357-a2c3c6b189ab",
-   "title": {
-    "en": "The Immortal Emperor Luo Wuji Has Returned"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0c60a44d-c793-4a7d-8269-66afbdb2c517",
-   "title": {
-    "en": "Ultimate Legend - Kang Hae Hyo"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "ro",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:31+00:00"
+ "updatedAt": "2023-12-10T18:34:20+00:00"
 }

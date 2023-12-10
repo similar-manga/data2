@@ -11,7 +11,7 @@
     "en": "Family Fight"
    },
    "contentRating": "safe",
-   "score": 0.30631006,
+   "score": 0.30867714,
    "languages": [
     "it",
     "pl",
@@ -25,7 +25,7 @@
     "en": "Okuri Ookami Naranu..."
    },
    "contentRating": "safe",
-   "score": 0.27820608,
+   "score": 0.2744685,
    "languages": [
     "en"
    ]
@@ -36,7 +36,7 @@
     "en": "Street Crossing Manga"
    },
    "contentRating": "safe",
-   "score": 0.26975226,
+   "score": 0.26668024,
    "languages": [
     "ru",
     "es-la",
@@ -52,23 +52,25 @@
     "en": "Reincarnated Old Man becomes a Heroine."
    },
    "contentRating": "safe",
-   "score": 0.26258615,
+   "score": 0.2622401,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "b03f6a91-81ab-4930-b92c-fe1d29821f5f",
+   "id": "4ea6766c-5e50-401f-82e0-3f0618c5468e",
    "title": {
-    "en": "Netoge Tomodachi ga Omotteta n to Chigau"
+    "en": "Immortal Dying Girl"
    },
    "contentRating": "safe",
-   "score": 0.26166043,
+   "score": 0.25939322,
    "languages": [
-    "pl",
-    "pt-br",
-    "en"
+    "es-la",
+    "tr",
+    "en",
+    "de",
+    "pt-br"
    ]
   },
   {
@@ -77,7 +79,7 @@
     "en": "It's Almost Christmas, so I Drew a Comic About a Christmas Song"
    },
    "contentRating": "safe",
-   "score": 0.24674648,
+   "score": 0.2393119,
    "languages": [
     "en"
    ]
@@ -88,23 +90,10 @@
     "en": "Nande Kono Heroine wa Mote Nainda...?"
    },
    "contentRating": "safe",
-   "score": 0.23968224,
+   "score": 0.23865898,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
-   "title": {
-    "en": "Tenseisaki ga Shoujo Manga no Shirobuta Reijou datta reBoooot!"
-   },
-   "contentRating": "safe",
-   "score": 0.23779789,
-   "languages": [
-    "ru",
-    "en",
-    "es-la"
    ]
   },
   {
@@ -113,9 +102,20 @@
     "en": "Isekai Transporter"
    },
    "contentRating": "safe",
-   "score": 0.23529579,
+   "score": 0.2338466,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "e97b4983-88c0-4837-8ff1-f946175ef195",
+   "title": {
+    "en": "Girl's Conversation to School"
+   },
+   "contentRating": "safe",
+   "score": 0.23352112,
+   "languages": [
     "en"
    ]
   },
@@ -125,7 +125,7 @@
     "en": "I Want to Be a Mangaka, but My Parents Are Against It"
    },
    "contentRating": "safe",
-   "score": 0.23281217,
+   "score": 0.23242702,
    "languages": [
     "en"
    ]
@@ -142,27 +142,27 @@
    ]
   },
   {
-   "id": "822708f2-52a1-46d5-8812-bec45c2f4659",
+   "id": "fa7cafeb-7f5a-4304-a748-f47b1459f64d",
    "title": {
-    "en": "What Every Adult Thinks"
+    "en": "Cactus' Heart"
    },
    "contentRating": "safe",
    "score": 0.22434829,
    "languages": [
     "en",
-    "pt-br",
-    "id"
+    "zh-hk"
    ]
   },
   {
-   "id": "218b4404-a43d-4ffe-a997-64b5ea525773",
+   "id": "b4b02ed2-996e-4aa8-a794-1fa01b00e270",
    "title": {
-    "en": "Running an Errand"
+    "en": "Dakara Watashi wa Tabako ga Kirai"
    },
    "contentRating": "safe",
    "score": 0.22434829,
    "languages": [
     "en",
+    "es-la",
     "vi"
    ]
   },
@@ -179,35 +179,28 @@
    ]
   },
   {
-   "id": "00a822a2-c2de-44d8-8827-aaeed53ebaf3",
+   "id": "218b4404-a43d-4ffe-a997-64b5ea525773",
    "title": {
-    "en": "A Girl Who Wants It Big"
+    "en": "Running an Errand"
    },
    "contentRating": "safe",
    "score": 0.22434829,
    "languages": [
-    "pt-br",
-    "en",
-    "id",
-    "ru",
-    "vi",
-    "it"
-   ]
-  },
-  {
-   "id": "b1907992-b507-4549-af7e-27d044149471",
-   "title": {
-    "en": "The Story About Observing a Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.22434829,
-   "languages": [
-    "ru",
-    "id",
     "en",
     "vi"
    ]
+  },
+  {
+   "id": "6d34403b-cd88-4b12-865e-3af8cb25a7b4",
+   "title": {
+    "en": "Jishinkajou Jishinka Boisshu-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.22434829,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:59+00:00"
+ "updatedAt": "2023-12-10T18:08:59+00:00"
 }

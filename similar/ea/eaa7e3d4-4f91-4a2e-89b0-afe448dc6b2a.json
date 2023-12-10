@@ -11,7 +11,7 @@
     "en": "Higanjima - 48 Nichigo"
    },
    "contentRating": "suggestive",
-   "score": 0.2255996,
+   "score": 0.22493462,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana"
    },
    "contentRating": "suggestive",
-   "score": 0.21753077,
+   "score": 0.21651296,
    "languages": [
     "ru",
     "en",
@@ -36,7 +36,7 @@
     "en": "TOKYO TRIBE"
    },
    "contentRating": "suggestive",
-   "score": 0.21000926,
+   "score": 0.20838867,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Goblin Slayer"
    },
    "contentRating": "suggestive",
-   "score": 0.20789593,
+   "score": 0.20805143,
    "languages": [
     "pt-br",
     "ar",
@@ -63,7 +63,7 @@
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.1970984,
+   "score": 0.1958098,
    "languages": [
     "fr",
     "pt-br",
@@ -88,7 +88,7 @@
     "en": "Tengoku Daimakyou"
    },
    "contentRating": "suggestive",
-   "score": 0.1935031,
+   "score": 0.19237968,
    "languages": [
     "ru",
     "zh-hk",
@@ -106,38 +106,9 @@
     "en": "Shimauma"
    },
    "contentRating": "suggestive",
-   "score": 0.19045867,
+   "score": 0.1907975,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b3683a72-dedf-4981-ad2f-d8d1e597718d",
-   "title": {
-    "en": "Golgo 13"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17865424,
-   "languages": [
-    "en",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
-   "title": {
-    "en": "Cockroach Buster"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17835507,
-   "languages": [
-    "en",
-    "pl",
-    "it",
-    "pt-br",
-    "hu",
-    "fr"
    ]
   },
   {
@@ -158,12 +129,41 @@
    ]
   },
   {
+   "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
+   "title": {
+    "en": "Cockroach Buster"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17775926,
+   "languages": [
+    "en",
+    "pl",
+    "it",
+    "pt-br",
+    "hu",
+    "fr"
+   ]
+  },
+  {
+   "id": "b3683a72-dedf-4981-ad2f-d8d1e597718d",
+   "title": {
+    "en": "Golgo 13"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17762667,
+   "languages": [
+    "en",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "a50b4227-e65e-465a-8aaa-3a4975fdb446",
    "title": {
     "en": "Dead Maximum"
    },
    "contentRating": "suggestive",
-   "score": 0.17522211,
+   "score": 0.17481345,
    "languages": [
     "en"
    ]
@@ -174,7 +174,7 @@
     "en": "High School Girl Kingdom Tokyo"
    },
    "contentRating": "suggestive",
-   "score": 0.17455463,
+   "score": 0.17376374,
    "languages": [
     "en"
    ]
@@ -221,7 +221,7 @@
     "en": "Chi to Hai no Joou"
    },
    "contentRating": "suggestive",
-   "score": 0.16897191,
+   "score": 0.16795954,
    "languages": [
     "en",
     "pt-br",
@@ -230,20 +230,23 @@
    ]
   },
   {
-   "id": "7cdafb87-bde5-4025-aba0-36efd9432a61",
+   "id": "9f7530e3-3fc0-4d2b-a1f9-00caadbf2d05",
    "title": {
-    "en": "Drifters"
+    "en": "Fate/strange Fake"
    },
    "contentRating": "suggestive",
-   "score": 0.1655735,
+   "score": 0.16566476,
    "languages": [
-    "en",
     "pt-br",
-    "tr",
-    "hu",
+    "ru",
+    "vi",
+    "en",
+    "ar",
+    "fr",
+    "es-la",
     "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:27+00:00"
+ "updatedAt": "2023-12-10T18:34:10+00:00"
 }

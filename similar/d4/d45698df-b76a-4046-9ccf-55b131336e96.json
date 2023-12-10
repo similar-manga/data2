@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.22432375,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f5c031c8-a9ff-4be1-bb47-d12f3f688bb6",
    "title": {
     "en": "Shuumatsu Touring"
@@ -34,7 +23,18 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.21988846,
+   "score": 0.21975963,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
+   "title": {
+    "en": "Cloud"
+   },
+   "contentRating": "safe",
+   "score": 0.21276976,
    "languages": [
     "en"
    ]
@@ -78,6 +78,18 @@
    ]
   },
   {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.18685862,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "e00dd739-d8b8-40a6-827f-5f8b0cab1798",
    "title": {
     "en": "Impossible Love Suicide"
@@ -113,14 +125,29 @@
    ]
   },
   {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
    "title": {
-    "en": "Like a Laika"
+    "en": "The Legend of the Strongest Man Nakane"
    },
    "contentRating": "safe",
-   "score": 0.18069467,
+   "score": 0.18435472,
    "languages": [
+    "tr",
     "en"
+   ]
+  },
+  {
+   "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
+   "title": {
+    "en": "Rumic Theater"
+   },
+   "contentRating": "safe",
+   "score": 0.18223572,
+   "languages": [
+    "en",
+    "pl",
+    "bg",
+    "zh-hk"
    ]
   },
   {
@@ -129,41 +156,18 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.18001348,
+   "score": 0.18056116,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
+   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
    "title": {
-    "en": "Nightmare Busters"
+    "en": "Like a Laika"
    },
    "contentRating": "safe",
-   "score": 0.17959382,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
-   "title": {
-    "en": "Kyosuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.17873396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cb174ea9-4ff7-4c30-870f-83fd76001b9c",
-   "title": {
-    "en": "Armadillo"
-   },
-   "contentRating": "safe",
-   "score": 0.17799766,
+   "score": 0.17959416,
    "languages": [
     "en"
    ]
@@ -193,5 +197,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:31+00:00"
+ "updatedAt": "2023-12-10T18:31:51+00:00"
 }

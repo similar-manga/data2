@@ -11,7 +11,7 @@
     "en": "Rose × Marie"
    },
    "contentRating": "suggestive",
-   "score": 0.2736714,
+   "score": 0.30342695,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Kouryu no Mimi"
    },
    "contentRating": "suggestive",
-   "score": 0.19915062,
+   "score": 0.19874874,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Roses - The Firebird"
    },
    "contentRating": "suggestive",
-   "score": 0.18866073,
+   "score": 0.18512277,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Boy's Abyss"
    },
    "contentRating": "suggestive",
-   "score": 0.16730398,
+   "score": 0.16718595,
    "languages": [
     "es-la",
     "fr",
@@ -89,23 +89,23 @@
    ]
   },
   {
-   "id": "3d7eeef3-d43a-436c-8aaf-f7f66966c6a7",
-   "title": {
-    "en": "Fuku Neko"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16591679,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "39e8c3a5-1b3b-40b8-a7df-5bf0f7afc3f8",
    "title": {
     "en": "Basilisk: Ouka Ninpou-chou"
    },
    "contentRating": "suggestive",
-   "score": 0.16490452,
+   "score": 0.16431136,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d7eeef3-d43a-436c-8aaf-f7f66966c6a7",
+   "title": {
+    "en": "Fuku Neko"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16369034,
    "languages": [
     "en"
    ]
@@ -133,24 +133,13 @@
     "ja-ro": "Monster no Goshujin-sama"
    },
    "contentRating": "suggestive",
-   "score": 0.15955454,
+   "score": 0.1601994,
    "languages": [
     "uk",
     "pl",
     "es-la",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "5380e73a-1cd8-44e9-9f96-9335177dc5de",
-   "title": {
-    "en": "D.Diver"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15362847,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -163,17 +152,6 @@
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "f2080de4-f335-4680-a16c-4ed10cde514d",
-   "title": {
-    "en": "Asobi ni Iku yo!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1510966,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -207,12 +185,34 @@
    ]
   },
   {
+   "id": "f2080de4-f335-4680-a16c-4ed10cde514d",
+   "title": {
+    "en": "Asobi ni Iku yo!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14962341,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "32263854-8e02-4b1e-9b2a-27b774b30fa2",
    "title": {
     "en": "Eroge Tensei: Unmei ni Aragau Kane Buta Kizoku no Funtouki"
    },
    "contentRating": "suggestive",
-   "score": 0.1487496,
+   "score": 0.14817946,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5380e73a-1cd8-44e9-9f96-9335177dc5de",
+   "title": {
+    "en": "D.Diver"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14637108,
    "languages": [
     "en"
    ]
@@ -232,5 +232,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:47+00:00"
+ "updatedAt": "2023-12-10T18:30:01+00:00"
 }

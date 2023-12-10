@@ -11,7 +11,7 @@
     "en": "Crazy Convenience Store"
    },
    "contentRating": "suggestive",
-   "score": 0.27235177,
+   "score": 0.2712439,
    "languages": [
     "en",
     "ru"
@@ -23,7 +23,7 @@
     "en": "Waidosu!"
    },
    "contentRating": "suggestive",
-   "score": 0.2518419,
+   "score": 0.25122157,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Momoiro Montage"
    },
    "contentRating": "suggestive",
-   "score": 0.23896791,
+   "score": 0.23823433,
    "languages": [
     "en",
     "zh-hk",
@@ -47,22 +47,9 @@
     "en": "Ichijouma Mankitsu Gurashi"
    },
    "contentRating": "suggestive",
-   "score": 0.23416822,
+   "score": 0.23430236,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0c1f898e-1769-44cb-9dbe-7abd11180663",
-   "title": {
-    "en": "Hogushite, Yui-san"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23216903,
-   "languages": [
-    "en",
-    "zh-hk",
-    "ko"
    ]
   },
   {
@@ -71,7 +58,7 @@
     "en": "Kyaba Jou Dakedo JD ni Otosaremashita"
    },
    "contentRating": "suggestive",
-   "score": 0.2284738,
+   "score": 0.22831063,
    "languages": [
     "en"
    ]
@@ -82,13 +69,26 @@
     "en": "Convenient Semi-Friend"
    },
    "contentRating": "suggestive",
-   "score": 0.22628535,
+   "score": 0.22651638,
    "languages": [
     "th",
     "ko",
     "ru",
     "en",
     "zh-hk"
+   ]
+  },
+  {
+   "id": "0c1f898e-1769-44cb-9dbe-7abd11180663",
+   "title": {
+    "en": "Hogushite, Yui-san"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22495314,
+   "languages": [
+    "en",
+    "zh-hk",
+    "ko"
    ]
   },
   {
@@ -125,17 +125,6 @@
    ]
   },
   {
-   "id": "c1c275ef-1bbd-4a88-af3c-c2328c85fe59",
-   "title": {
-    "en": "Yumekui Merry - 4-koma Anthology"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21040702,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9558a913-cb59-4a27-aab4-48b46423b84e",
    "title": {
     "en": "Recorder and Randsell"
@@ -147,23 +136,23 @@
    ]
   },
   {
-   "id": "9b2e3eca-6fdc-4062-b6e5-731902b6c80e",
+   "id": "c1c275ef-1bbd-4a88-af3c-c2328c85fe59",
    "title": {
-    "en": "Heart of the Girl"
+    "en": "Yumekui Merry - 4-koma Anthology"
    },
    "contentRating": "suggestive",
-   "score": 0.20170672,
+   "score": 0.20636767,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d1844594-660e-46f9-8b99-cfe77aa0090d",
+   "id": "9b2e3eca-6fdc-4062-b6e5-731902b6c80e",
    "title": {
-    "en": "Viva!! OL"
+    "en": "Heart of the Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.20030521,
+   "score": 0.20203938,
    "languages": [
     "en"
    ]
@@ -172,6 +161,17 @@
    "id": "67df8deb-b321-4158-87dc-1bb3276892ed",
    "title": {
     "en": "Kyoukai Senjou no Horizon - Animedia 4koma"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20030521,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1844594-660e-46f9-8b99-cfe77aa0090d",
+   "title": {
+    "en": "Viva!! OL"
    },
    "contentRating": "suggestive",
    "score": 0.20030521,
@@ -191,5 +191,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:28+00:00"
+ "updatedAt": "2023-12-10T18:10:18+00:00"
 }

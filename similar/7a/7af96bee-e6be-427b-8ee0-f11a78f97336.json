@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4aa860f7-0ca9-4b5d-a2cd-d4c51d116921",
+   "title": {
+    "en": "It All Starts With a Group of Primitive People"
+   },
+   "contentRating": "safe",
+   "score": 0.22445622,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
    "title": {
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.2108971
+   "score": 0.20970373
   },
   {
    "id": "255628a7-c227-4d12-9ba6-3fc7e57264ef",
@@ -19,7 +30,7 @@
     "en": "Tic Toc Adventures"
    },
    "contentRating": "safe",
-   "score": 0.19291975
+   "score": 0.19213155
   },
   {
    "id": "368c4397-dedd-4093-b1c8-3d5585d3d2bb",
@@ -27,7 +38,7 @@
     "en": "Spirit Photographer Saburo Kono"
    },
    "contentRating": "safe",
-   "score": 0.17839073,
+   "score": 0.17786473,
    "languages": [
     "pt-br",
     "th"
@@ -47,10 +58,18 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.17367227,
+   "score": 0.17324424,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ed98157c-9d74-4d82-8318-381b788bd644",
+   "title": {
+    "en": "AI no Idenshi: Blue Age"
+   },
+   "contentRating": "safe",
+   "score": 0.16994625
   },
   {
    "id": "6a5f475c-e79e-4f53-8deb-01523f12df95",
@@ -62,14 +81,6 @@
    "languages": [
     "zh-hk"
    ]
-  },
-  {
-   "id": "ed98157c-9d74-4d82-8318-381b788bd644",
-   "title": {
-    "en": "AI no Idenshi: Blue Age"
-   },
-   "contentRating": "safe",
-   "score": 0.16994625
   },
   {
    "id": "37fd04eb-b674-4558-a1a6-9b27c78054c5",
@@ -97,7 +108,23 @@
     "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
    },
    "contentRating": "safe",
-   "score": 0.16262652
+   "score": 0.16228034
+  },
+  {
+   "id": "f4bbb127-3951-44af-8c31-2d7aecc5c086",
+   "title": {
+    "en": "Who Killed Sho Okudera?"
+   },
+   "contentRating": "safe",
+   "score": 0.16222142
+  },
+  {
+   "id": "692263fa-9215-476c-a769-01e204d3aacc",
+   "title": {
+    "en": "Psychopath Kanojo to Houkai Suru Boku no Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.16222142
   },
   {
    "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
@@ -116,47 +143,31 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.16103399,
+   "score": 0.16123646,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "f0566129-581e-4be6-874a-88e72a10c7de",
+   "id": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
    "title": {
-    "en": "The Son of the Godfather"
+    "en": "Beast Complex"
    },
    "contentRating": "safe",
-   "score": 0.16043185
-  },
-  {
-   "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
-   "title": {
-    "en": "Fullmetal Alchemist: The Prototype"
-   },
-   "contentRating": "safe",
-   "score": 0.15956819,
+   "score": 0.16066107,
    "languages": [
-    "pt-br"
+    "ru",
+    "vi",
+    "en",
+    "it",
+    "zh-hk",
+    "pt-br",
+    "es-la",
+    "id",
+    "fr"
    ]
-  },
-  {
-   "id": "4cf957ab-2732-4419-916a-6c5387b38ad5",
-   "title": {
-    "en": "Hakaku no Yachin"
-   },
-   "contentRating": "safe",
-   "score": 0.15840611
-  },
-  {
-   "id": "1890c35a-7083-4105-9720-feea8f3f8cec",
-   "title": {
-    "en": "Kamiwaza Wanda - The Story of the Mysterious Creature Plomin"
-   },
-   "contentRating": "safe",
-   "score": 0.15840611
   }
  ],
- "updatedAt": "2023-12-10T01:04:41+00:00"
+ "updatedAt": "2023-12-10T18:21:45+00:00"
 }

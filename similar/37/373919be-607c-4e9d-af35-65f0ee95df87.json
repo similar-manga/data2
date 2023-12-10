@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
+   "title": {
+    "en": "Sakura Hira Hira"
+   },
+   "contentRating": "safe",
+   "score": 0.25584418,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d7d37dbd-9291-4abf-86bc-1df1701094bc",
+   "title": {
+    "en": "Steep Cliff"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
    "title": {
     "en": "Kachuu no Ou"
@@ -18,25 +40,25 @@
    ]
   },
   {
+   "id": "3b1808c6-4040-4194-8e10-56ef58c86c55",
+   "title": {
+    "en": "Hokusou Shinsengumi"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "82fe9c22-0ef9-43a5-8e20-7768ba6b2553",
    "title": {
     "en": "Natsu e no Tobira"
    },
    "contentRating": "safe",
-   "score": 0.24643205,
+   "score": 0.24628386,
    "languages": [
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
-   "title": {
-    "en": "Sakura Hira Hira"
-   },
-   "contentRating": "safe",
-   "score": 0.24560492,
-   "languages": [
     "en"
    ]
   },
@@ -46,7 +68,7 @@
     "en": "Princess"
    },
    "contentRating": "safe",
-   "score": 0.2372222,
+   "score": 0.2357247,
    "languages": [
     "en"
    ]
@@ -57,7 +79,7 @@
     "en": "Hi no Matoi"
    },
    "contentRating": "safe",
-   "score": 0.22615463,
+   "score": 0.22408448,
    "languages": [
     "en"
    ]
@@ -87,12 +109,24 @@
    ]
   },
   {
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
+   "title": {
+    "en": "Cold Game"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
    "title": {
     "en": "Niji no Ikusa"
    },
    "contentRating": "safe",
-   "score": 0.21520133,
+   "score": 0.21427001,
    "languages": [
     "en"
    ]
@@ -103,7 +137,7 @@
     "en": "Alpine Rose"
    },
    "contentRating": "safe",
-   "score": 0.20598944,
+   "score": 0.20487148,
    "languages": [
     "en",
     "tr",
@@ -116,7 +150,18 @@
     "en": "Pharaoh no Haka"
    },
    "contentRating": "safe",
-   "score": 0.20402779,
+   "score": 0.20327866,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0a69bdf0-ca18-4289-a05f-2d7a912eb9af",
+   "title": {
+    "en": "Kashura"
+   },
+   "contentRating": "safe",
+   "score": 0.20296057,
    "languages": [
     "en"
    ]
@@ -127,18 +172,7 @@
     "en": "Hitoribocchi no Kuni"
    },
    "contentRating": "safe",
-   "score": 0.2021579,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
-   "title": {
-    "en": "Shoku no Hana"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
+   "score": 0.2020467,
    "languages": [
     "en"
    ]
@@ -155,40 +189,7 @@
     "en",
     "bg"
    ]
-  },
-  {
-   "id": "6f2ef040-1f05-43cc-9c90-5051799a31de",
-   "title": {
-    "en": "The Count's Daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
-   "title": {
-    "en": "Hanamuko no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ef63652e-620c-4dd6-9410-bd270e76130f",
-   "title": {
-    "en": "Tales from the Land of Daughters - ShengNan's Story"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:52+00:00"
+ "updatedAt": "2023-12-10T18:14:13+00:00"
 }

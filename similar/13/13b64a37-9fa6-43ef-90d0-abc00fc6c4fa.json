@@ -6,20 +6,42 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "433de6a2-10ca-4f63-a5f8-dbe844f564a3",
-   "title": {
-    "en": "Conde Koma"
-   },
-   "contentRating": "safe",
-   "score": 0.35444587
-  },
-  {
    "id": "000f87d6-92fe-434d-ac76-da6ad9286acf",
    "title": {
     "en": "Reiko Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.3538712
+   "score": 0.3468761
+  },
+  {
+   "id": "433de6a2-10ca-4f63-a5f8-dbe844f564a3",
+   "title": {
+    "en": "Conde Koma"
+   },
+   "contentRating": "safe",
+   "score": 0.34589252
+  },
+  {
+   "id": "7f7a9625-2a5a-42a9-b3d0-a3bd625cecaa",
+   "title": {
+    "en": "Joukamachi no Dandelion"
+   },
+   "contentRating": "safe",
+   "score": 0.34358191,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6a1f72e3-a2bf-4716-9724-a9c12a5489f6",
+   "title": {
+    "en": "Nagomi Club"
+   },
+   "contentRating": "safe",
+   "score": 0.3370332,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "cc85b777-e11e-491a-89e4-54f9e1786d1e",
@@ -27,11 +49,19 @@
     "en": "CLANNAD – Anthology Manga"
    },
    "contentRating": "safe",
-   "score": 0.3358466,
+   "score": 0.3361364,
    "languages": [
     "it",
     "vi"
    ]
+  },
+  {
+   "id": "663cbbf5-9417-49fd-9308-ee0f8a12b5f6",
+   "title": {
+    "en": "Ookikute kyuukutsu na kono sekai de."
+   },
+   "contentRating": "safe",
+   "score": 0.32907465
   },
   {
    "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
@@ -39,10 +69,18 @@
     "en": "Sekai de Ichiban, Ore ga ◯◯"
    },
    "contentRating": "safe",
-   "score": 0.32968324,
+   "score": 0.32898194,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "61937f00-469d-4791-bf4c-9c1ce3f4b263",
+   "title": {
+    "en": "Koi wo Shita no ni Sekai wa Horobiru Kehai mo nai"
+   },
+   "contentRating": "safe",
+   "score": 0.3288272
   },
   {
    "id": "187313b7-f58d-4022-8f0a-ebe4e67b7b19",
@@ -50,7 +88,15 @@
     "en": "Owaru Sekai no Shuugaku-ryokou"
    },
    "contentRating": "safe",
-   "score": 0.32630825
+   "score": 0.3266674
+  },
+  {
+   "id": "ef36d72b-4a27-408b-8a24-63f866fc24c8",
+   "title": {
+    "en": "Boku no Kanojo wa Doujin Fujoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.32489276
   },
   {
    "id": "0f4c60d8-c8f8-43aa-bd40-e78fad575365",
@@ -58,7 +104,26 @@
     "en": "Hard Mode na Akuyaku Reijou ni Tensei shimashita ga Ikinobite Sekai wo Sukuimasu!"
    },
    "contentRating": "safe",
-   "score": 0.32186908
+   "score": 0.32245559
+  },
+  {
+   "id": "5bc8c314-13c8-4be9-aa51-59e8d60db3be",
+   "title": {
+    "en": "THE iDOLM@STER Million Live! Theater Days - Brand New Song"
+   },
+   "contentRating": "safe",
+   "score": 0.32244548,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9d917853-89e7-4357-9f76-ea0fa86c2255",
+   "title": {
+    "en": "Sonoda no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.32005465
   },
   {
    "id": "2550cb66-c018-44ec-b3d7-71268874c64a",
@@ -66,20 +131,18 @@
     "en": "Heikou Sekai no Kimi Kimi Boku Boku"
    },
    "contentRating": "safe",
-   "score": 0.31912595
+   "score": 0.32004616
   },
   {
-   "id": "fd149943-ab40-46bc-863e-f9ed9c137189",
+   "id": "7a47c571-7567-471d-bc65-ff942e3186f8",
    "title": {
-    "en": "Uma Musume: Cinderella Gray Gaiden ~The Mermaid Left Behind~"
+    "en": "Sekai ni Hitori, Zenzokusei Mahou no Tsukaite"
    },
    "contentRating": "safe",
-   "score": 0.31910628,
+   "score": 0.31710124,
    "languages": [
-    "en",
-    "es-la",
-    "it",
-    "fr"
+    "id",
+    "en"
    ]
   },
   {
@@ -88,7 +151,7 @@
     "en": "Terang"
    },
    "contentRating": "safe",
-   "score": 0.31648007,
+   "score": 0.31690136,
    "languages": [
     "en",
     "it",
@@ -96,85 +159,7 @@
     "fr",
     "id"
    ]
-  },
-  {
-   "id": "7a47c571-7567-471d-bc65-ff942e3186f8",
-   "title": {
-    "en": "Sekai ni Hitori, Zenzokusei Mahou no Tsukaite"
-   },
-   "contentRating": "safe",
-   "score": 0.31585824,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "3b999f4a-0b7f-4aef-a849-cd86e31c4b57",
-   "title": {
-    "en": "Kyuuseishu ≪MESHIA≫~Isekai wo Sukutta Moto Yuusha ga Mamono no Afureru Genjitsu Sekai wo Musou Suru~"
-   },
-   "contentRating": "safe",
-   "score": 0.3142509,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "f3bdc864-0392-4f6a-b242-93bdc0a37573",
-   "title": {
-    "en": "Mizuho, Chuugakusei, Sekai Houkai wa Totsuzen ni"
-   },
-   "contentRating": "safe",
-   "score": 0.31184524
-  },
-  {
-   "id": "af5216a8-2002-46d7-9548-ac171a9f0db9",
-   "title": {
-    "en": "SCIENCE ADV SERIES 5 Years Jubilee"
-   },
-   "contentRating": "safe",
-   "score": 0.30675262,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee1a4d87-189d-4cc7-9c0a-f6abc91addab",
-   "title": {
-    "en": "Zettai ni Maite wa Ikenai Rozen Maiden"
-   },
-   "contentRating": "safe",
-   "score": 0.3062321,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "db58ba0c-dd1d-485c-969b-6e7986e42e5c",
-   "title": {
-    "en": "Shin Change!! Getter Robo Crater Battle"
-   },
-   "contentRating": "safe",
-   "score": 0.304303,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "214f88fe-0975-4854-91f8-10c706f4024b",
-   "title": {
-    "en": "Kyoushitsu no Katasumi de Seishun ga Hajimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.30336323,
-   "languages": [
-    "zh-hk"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:31+00:00"
+ "updatedAt": "2023-12-10T18:10:26+00:00"
 }

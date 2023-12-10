@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dee1a4a8-29a4-4418-9644-d0285a6c15de",
+   "title": {
+    "en": "Astronaut Koichi Wakata Story"
+   },
+   "contentRating": "safe",
+   "score": 0.2761237
+  },
+  {
    "id": "774d7f24-bb07-4d45-be66-6b74ef0e7e6b",
    "title": {
     "en": "Mojako"
    },
    "contentRating": "safe",
-   "score": 0.25866207
+   "score": 0.26599315
+  },
+  {
+   "id": "0c748158-95ca-4ecb-ae38-56071342e8aa",
+   "title": {
+    "en": "Coyote Ragtime Show"
+   },
+   "contentRating": "safe",
+   "score": 0.258923
+  },
+  {
+   "id": "3c19a0b4-17d9-4524-a5be-beac7dbb5ff6",
+   "title": {
+    "en": "Planetary Mask"
+   },
+   "contentRating": "safe",
+   "score": 0.25736526
   },
   {
    "id": "7c7158c3-e60f-4970-a5c9-912ae2e818ec",
@@ -22,12 +46,12 @@
    "score": 0.25555065
   },
   {
-   "id": "3c19a0b4-17d9-4524-a5be-beac7dbb5ff6",
+   "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
    "title": {
-    "en": "Planetary Mask"
+    "en": "Super Giants"
    },
    "contentRating": "safe",
-   "score": 0.25373763
+   "score": 0.24882305
   },
   {
    "id": "322364c9-5ccc-406d-b362-faead1bc523f",
@@ -38,12 +62,12 @@
    "score": 0.24743582
   },
   {
-   "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
+   "id": "46d3e9f0-8892-48c8-9fe1-816efec04d4f",
    "title": {
-    "en": "Super Giants"
+    "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
    },
    "contentRating": "safe",
-   "score": 0.24672765
+   "score": 0.24027263
   },
   {
    "id": "7ac88949-d623-460b-bf0f-b7e8b0355d5f",
@@ -51,7 +75,23 @@
     "en": "Angel 2"
    },
    "contentRating": "safe",
-   "score": 0.2402318
+   "score": 0.23995578
+  },
+  {
+   "id": "ad31a4fb-4063-433e-9127-87b3ee51b9cb",
+   "title": {
+    "en": "Space Emperor God Sigma"
+   },
+   "contentRating": "safe",
+   "score": 0.2378256
+  },
+  {
+   "id": "1660b609-7b1d-4b8b-92c7-611a9bea7421",
+   "title": {
+    "en": "Dinosaur King: Pterosaur Legends"
+   },
+   "contentRating": "safe",
+   "score": 0.23672074
   },
   {
    "id": "f4904da8-2250-461b-bb29-3ec177c40bb9",
@@ -71,12 +111,15 @@
    ]
   },
   {
-   "id": "46d3e9f0-8892-48c8-9fe1-816efec04d4f",
+   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
    "title": {
-    "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
+    "en": "Rairairai"
    },
    "contentRating": "safe",
-   "score": 0.23518369
+   "score": 0.23156497,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "ef598a74-006e-44ed-a469-561013213932",
@@ -84,29 +127,7 @@
     "en": "Lightning Boy Spark Dan"
    },
    "contentRating": "safe",
-   "score": 0.22975956
-  },
-  {
-   "id": "114722b1-4c47-49fb-8bab-90c12fb44c61",
-   "title": {
-    "en": "Reworld Frontier"
-   },
-   "contentRating": "safe",
-   "score": 0.22766012,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
-   "title": {
-    "en": "Rairairai"
-   },
-   "contentRating": "safe",
-   "score": 0.22518203,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22939233
   },
   {
    "id": "0b80be23-1e56-4295-b551-31d7461874ee",
@@ -114,50 +135,19 @@
     "en": "TEAM PHOENIX"
    },
    "contentRating": "safe",
-   "score": 0.22292465
+   "score": 0.22669409
   },
   {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
+   "id": "1c7e03de-e294-4b6c-91ab-c5a1dfb24d84",
    "title": {
-    "en": "Mobile Suit Gundam Aggressor"
+    "en": "Dame Skill [Auto Mode] ga Kakuseishimashita ~Are, Guild no Scout-san, Ore wo \"Iranai\"-tte Itte Masendeshita?~"
    },
    "contentRating": "safe",
-   "score": 0.22011186,
+   "score": 0.22635947,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
-   "title": {
-    "en": "Scrapped Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.2194781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b009f62d-7a65-417d-990a-2e671b036069",
-   "title": {
-    "en": "Pokémon: Mewtwo Strikes Back!"
-   },
-   "contentRating": "safe",
-   "score": 0.21777771,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8a30b4df-40a2-48c4-8887-667a7be1a832",
-   "title": {
-    "en": "Gundam Reconguista in G"
-   },
-   "contentRating": "safe",
-   "score": 0.21556048
   }
  ],
- "updatedAt": "2023-12-10T01:06:00+00:00"
+ "updatedAt": "2023-12-10T18:25:08+00:00"
 }

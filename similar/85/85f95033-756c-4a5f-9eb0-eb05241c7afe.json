@@ -11,7 +11,7 @@
     "en": "Assassine"
    },
    "contentRating": "safe",
-   "score": 0.2609865,
+   "score": 0.259111,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.25426108,
+   "score": 0.2507476,
    "languages": [
     "en",
     "it"
@@ -35,22 +35,9 @@
     "en": "Battle Angel Alita: Mars Chronicle"
    },
    "contentRating": "safe",
-   "score": 0.2414587,
+   "score": 0.24080364,
    "languages": [
     "zh-hk",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.23410137,
-   "languages": [
-    "es-la",
     "en",
     "pt-br"
    ]
@@ -61,7 +48,20 @@
     "en": "Jungle King"
    },
    "contentRating": "safe",
-   "score": 0.23393743
+   "score": 0.23488294
+  },
+  {
+   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
+   "title": {
+    "en": "Asadora!"
+   },
+   "contentRating": "safe",
+   "score": 0.23388669,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
@@ -70,6 +70,14 @@
    },
    "contentRating": "safe",
    "score": 0.23373841
+  },
+  {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.22919713
   },
   {
    "id": "e39991fd-699b-4477-82cc-87b7dcb8bbb3",
@@ -85,7 +93,7 @@
     "en": "Black Lagoon: Eda Initial stage"
    },
    "contentRating": "safe",
-   "score": 0.22276282,
+   "score": 0.220995,
    "languages": [
     "vi",
     "en",
@@ -106,12 +114,12 @@
    ]
   },
   {
-   "id": "0439be77-eb1b-455f-8e7f-6621a5bc60e3",
+   "id": "6a8e414c-6ba9-45e7-bf1c-2214a02c0613",
    "title": {
-    "en": "Aldnoah.Zero Extra Episode"
+    "en": "Black Lagoon: Sawyer the Cleaner - Dismemberment! Gore Gore Girl"
    },
    "contentRating": "safe",
-   "score": 0.21330364
+   "score": 0.20904624
   },
   {
    "id": "7ce83763-093c-4c2a-8104-c610221eb765",
@@ -119,7 +127,7 @@
     "en": "Airport"
    },
    "contentRating": "safe",
-   "score": 0.20776863
+   "score": 0.20796578
   },
   {
    "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
@@ -127,7 +135,15 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.20775133
+   "score": 0.20694643
+  },
+  {
+   "id": "0439be77-eb1b-455f-8e7f-6621a5bc60e3",
+   "title": {
+    "en": "Aldnoah.Zero Extra Episode"
+   },
+   "contentRating": "safe",
+   "score": 0.2049455
   },
   {
    "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
@@ -135,7 +151,7 @@
     "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.20575623,
+   "score": 0.20462352,
    "languages": [
     "en"
    ]
@@ -150,32 +166,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "8af33c74-2779-4e2e-94ab-d614762ab499",
-   "title": {
-    "en": "My Home Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.20111933,
-   "languages": [
-    "ar",
-    "zh",
-    "en",
-    "ru",
-    "zh-hk",
-    "vi",
-    "id"
-   ]
-  },
-  {
-   "id": "65466967-d516-4936-a14b-8016f9dc40bb",
-   "title": {
-    "en": "Shinikaeri"
-   },
-   "contentRating": "safe",
-   "score": 0.1947824
   }
  ],
- "updatedAt": "2023-12-10T01:05:10+00:00"
+ "updatedAt": "2023-12-10T18:23:02+00:00"
 }

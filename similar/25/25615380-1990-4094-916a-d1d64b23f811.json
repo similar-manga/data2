@@ -6,15 +6,115 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
+   "title": {
+    "en": "Coffee \u0026 Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.43673983,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "9ca8d424-8d3b-4ac7-aecf-49a137be262e",
+   "title": {
+    "en": "The Hero Summoned from Another World is a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.28842387,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "b245e178-31f8-4c9a-9b75-8bd49ae671e2",
    "title": {
     "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
    },
    "contentRating": "safe",
-   "score": 0.2785374,
+   "score": 0.27938908,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "84f93f46-166e-41a2-b34d-59f844a78c9b",
+   "title": {
+    "en": "Mi-chan wa Kawaretai"
+   },
+   "contentRating": "safe",
+   "score": 0.2788457,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7d80640d-c591-4c7a-a47e-594c29c2037c",
+   "title": {
+    "en": "Like a Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.2760042,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c8c44a2b-45a0-4d5f-bc9a-c052807f55cf",
+   "title": {
+    "en": "Muta no Aru Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.2687224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
+   "title": {
+    "en": "Ai to Ao no Kyoukai"
+   },
+   "contentRating": "safe",
+   "score": 0.2683852,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
+   "title": {
+    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
+   },
+   "contentRating": "safe",
+   "score": 0.2604187,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "ed9d57a3-a688-4419-a03a-29aee0deab6a",
+   "title": {
+    "en": "Tsureneko:  Maruru to Hachi"
+   },
+   "contentRating": "safe",
+   "score": 0.26024315,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "id"
    ]
   },
   {
@@ -23,12 +123,26 @@
     "en": "Iris Zero"
    },
    "contentRating": "safe",
-   "score": 0.25771043,
+   "score": 0.2579704,
    "languages": [
     "pl",
     "it",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "84b8110c-b14f-42fe-bd95-72d821ac489d",
+   "title": {
+    "ja": "Sensei, Kongetsu Dou Desu ka"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -37,181 +151,63 @@
     "en": "Ten yori Takaku"
    },
    "contentRating": "safe",
-   "score": 0.25044236,
+   "score": 0.24979202,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "56af95d1-8a44-48e7-afd2-49a5a15a6276",
+   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
    "title": {
-    "en": "Nobo-san to Kanojo?"
+    "en": "Manaka no Mori"
    },
    "contentRating": "safe",
-   "score": 0.23582923,
+   "score": 0.24808079,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
    "title": {
-    "en": "Jinjya no Susume"
+    "en": "Hirayasumi"
    },
    "contentRating": "safe",
-   "score": 0.23512015,
+   "score": 0.24710584,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
-   "title": {
-    "en": "Tamariba"
-   },
-   "contentRating": "safe",
-   "score": 0.23365729,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08038488-a64f-44a4-8b88-7dae11dcf2d5",
-   "title": {
-    "en": "My Little Noir"
-   },
-   "contentRating": "safe",
-   "score": 0.2304051,
-   "languages": [
-    "id",
-    "ru",
-    "pt-br",
+    "ar",
+    "uk",
+    "en",
+    "tr",
     "it",
+    "pt-br",
     "vi",
-    "en",
-    "tr",
-    "fr"
+    "ru"
    ]
   },
   {
-   "id": "84cfe6d2-93c0-433a-86d1-f3c7b4169921",
+   "id": "adac4606-4a89-4229-b04a-96e5b706d3d9",
    "title": {
-    "en": "Arukoi"
+    "en": "Ume to Momo no Futsuu no Kurashi"
    },
    "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "pt-br",
-    "de",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
+   "score": 0.23847538,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
+   "id": "437dd614-ce1f-4a5d-95fb-14106e7c7b1c",
    "title": {
-    "en": "Wagahai no Kare wa Baka de aru"
+    "en": "Bakeneko System"
    },
    "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
-   "title": {
-    "en": "White Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.2166506,
-   "languages": [
-    "pl",
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
-   "title": {
-    "en": "Window"
-   },
-   "contentRating": "safe",
-   "score": 0.21101634,
-   "languages": [
-    "it",
-    "en",
-    "pl",
-    "bg",
-    "fr"
-   ]
-  },
-  {
-   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
-   "title": {
-    "en": "Asagiri no Miko"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
+   "score": 0.2371557,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8d242e4c-0b6e-416f-abca-a08e7a3cea60",
-   "title": {
-    "en": "Gingitsune"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "0296dc0b-7635-4154-927a-33c2244c4503",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru.: Monologue"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "0bd1bde1-0975-4308-ba12-aea13dba5dd0",
-   "title": {
-    "en": "Blood Alone"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "en",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:11+00:00"
+ "updatedAt": "2023-12-10T18:12:19+00:00"
 }

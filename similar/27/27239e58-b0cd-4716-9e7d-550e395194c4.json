@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "680ee72c-a54c-475a-a1a1-bca10e1d2997",
+   "title": {
+    "en": "Pieta and Transi"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "th",
+    "en"
+   ]
+  },
+  {
+   "id": "4d409efb-c7a0-4ba5-bdb8-ab658c5f2215",
+   "title": {
+    "en": "Princess Nazotoki is a Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.21387155,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4f3682d9-353c-425b-81ba-ea0aa70507dd",
    "title": {
     "en": "Uncool × Dead"
    },
    "contentRating": "safe",
-   "score": 0.20289466,
+   "score": 0.20208374,
    "languages": [
     "en",
     "vi"
@@ -47,7 +70,7 @@
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.18967384,
+   "score": 0.18811582,
    "languages": [
     "en"
    ]
@@ -69,7 +92,64 @@
     "en": "Deguchi Zero"
    },
    "contentRating": "safe",
-   "score": 0.18437798,
+   "score": 0.18389355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2da17e6d-5ddf-4dcf-a31f-11e2da9df38c",
+   "title": {
+    "en": "What Do You Need?"
+   },
+   "contentRating": "safe",
+   "score": 0.17915447,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
+   "title": {
+    "en": "Detective Kouko Feels Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.17800435,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "517e99c4-e32f-4610-bfcb-c1ff1b48d11c",
+   "title": {
+    "en": "Furansushiki Kottou Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.17679521,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8d23c30d-65ce-4d86-bb6b-a2f0e134d389",
+   "title": {
+    "en": "Kimi no Kokoro Boku no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.17630285,
+   "languages": [
+    "en",
+    "bg"
+   ]
+  },
+  {
+   "id": "9bb6dff3-e8fc-4da1-816e-5ae41e164b24",
+   "title": {
+    "en": "Ningyou Shibai"
+   },
+   "contentRating": "safe",
+   "score": 0.17570569,
    "languages": [
     "en"
    ]
@@ -80,7 +160,7 @@
     "en": "House of Riddles"
    },
    "contentRating": "safe",
-   "score": 0.1762535,
+   "score": 0.17535299,
    "languages": [
     "en"
    ]
@@ -91,102 +171,22 @@
     "en": "Tantei Revolution"
    },
    "contentRating": "safe",
-   "score": 0.16754816,
+   "score": 0.1662164,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
+   "id": "739dd80f-1fad-4980-b944-927b45331770",
    "title": {
-    "en": "Sayonara Limit"
+    "en": "Shiro to Kuro no Alice"
    },
    "contentRating": "safe",
    "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1cac584-a556-4a3e-94ec-3778675e23ff",
-   "title": {
-    "en": "Chang'an Fantastic Night"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b815665-7f50-48c1-af81-4fc756eef672",
-   "title": {
-    "en": "Blind Game - New Age Hakkenden"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a82b31d4-b14e-45b7-82db-0784517189fe",
-   "title": {
-    "en": "Dark Fragrance"
-   },
-   "contentRating": "safe",
-   "score": 0.14920941,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
-   "title": {
-    "en": "Akatoki no Yami"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
-   "title": {
-    "en": "Mimi ga Kieta Hi"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
-   "title": {
-    "en": "Tarou-kun wa Yuganderu"
-   },
-   "contentRating": "safe",
-   "score": 0.14102122,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "4dff5c5e-bad0-4dc6-a356-638b188b9eec",
-   "title": {
-    "en": "Shi ni Modori no Mahou Gakkou Seikatsu wo, Moto Koibito to Prologue Kara (Tadashi, Koukando wa Zero)"
-   },
-   "contentRating": "safe",
-   "score": 0.1387045,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:15+00:00"
+ "updatedAt": "2023-12-10T18:12:30+00:00"
 }

@@ -22,7 +22,7 @@
     "en": "Succeed"
    },
    "contentRating": "safe",
-   "score": 0.26631257,
+   "score": 0.26595515,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Moon Edge"
    },
    "contentRating": "safe",
-   "score": 0.24207065,
+   "score": 0.24211386,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Arata Kangatari"
    },
    "contentRating": "safe",
-   "score": 0.22597967,
+   "score": 0.22799827,
    "languages": [
     "en",
     "pl"
@@ -67,7 +67,7 @@
     "en": "Blind Game - New Age Hakkenden"
    },
    "contentRating": "safe",
-   "score": 0.22280394,
+   "score": 0.22250563,
    "languages": [
     "en"
    ]
@@ -78,7 +78,7 @@
     "en": "Jamais Vu"
    },
    "contentRating": "safe",
-   "score": 0.2164175,
+   "score": 0.2158773,
    "languages": [
     "en"
    ]
@@ -89,7 +89,18 @@
     "en": "Bremen 5"
    },
    "contentRating": "safe",
-   "score": 0.21528934,
+   "score": 0.21508937,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c5910a5-a256-4a7e-ad72-aade1d309e2c",
+   "title": {
+    "en": "Angel Oil"
+   },
+   "contentRating": "safe",
+   "score": 0.21474718,
    "languages": [
     "en"
    ]
@@ -100,27 +111,16 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.21524715,
+   "score": 0.21471867,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "8c5910a5-a256-4a7e-ad72-aade1d309e2c",
+   "id": "69297b84-ea4c-4f65-9592-2b4a38c963a1",
    "title": {
-    "en": "Angel Oil"
-   },
-   "contentRating": "safe",
-   "score": 0.2145861,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37cf7f92-ba0f-4111-9bd2-e8dc6e4d1e6d",
-   "title": {
-    "en": "Kiri - The Route of Infection Kanaria"
+    "en": "ARK"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -141,9 +141,9 @@
    ]
   },
   {
-   "id": "69297b84-ea4c-4f65-9592-2b4a38c963a1",
+   "id": "37cf7f92-ba0f-4111-9bd2-e8dc6e4d1e6d",
    "title": {
-    "en": "ARK"
+    "en": "Kiri - The Route of Infection Kanaria"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -168,7 +168,7 @@
     "en": "Die Now - Telencephalon"
    },
    "contentRating": "safe",
-   "score": 0.19945468,
+   "score": 0.19851181,
    "languages": [
     "en",
     "id"
@@ -180,7 +180,7 @@
     "en": "Dogs / Bullets \u0026 Carnage"
    },
    "contentRating": "safe",
-   "score": 0.19537418,
+   "score": 0.19539893,
    "languages": [
     "en",
     "bg",
@@ -188,5 +188,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:27+00:00"
+ "updatedAt": "2023-12-10T18:29:11+00:00"
 }

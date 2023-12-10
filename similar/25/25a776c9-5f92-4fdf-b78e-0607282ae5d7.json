@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a35f2737-ac1f-4f34-babf-9e11ea7ddbdb",
+   "title": {
+    "en": "Kiseki no Riyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.36325535,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
    "title": {
     "en": "Anne the Lover"
    },
    "contentRating": "safe",
-   "score": 0.35317224,
+   "score": 0.35155904,
    "languages": [
     "en"
    ]
@@ -22,10 +33,18 @@
     "en": "12 Months"
    },
    "contentRating": "safe",
-   "score": 0.3474531,
+   "score": 0.34707028,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1f9afd41-cab8-4d6a-b871-57ace9d593ab",
+   "title": {
+    "en": "Dreaming Road"
+   },
+   "contentRating": "safe",
+   "score": 0.34250093
   },
   {
    "id": "b88ac7a0-ae64-4cb2-819a-c762ce6d53a9",
@@ -33,7 +52,7 @@
     "en": "Kimi to Kiss Shite Sono Ato de"
    },
    "contentRating": "safe",
-   "score": 0.33865702,
+   "score": 0.3419643,
    "languages": [
     "it"
    ]
@@ -44,10 +63,26 @@
     "en": "Tenshi no Kiss"
    },
    "contentRating": "safe",
-   "score": 0.33611634,
+   "score": 0.3370547,
    "languages": [
     "pl"
    ]
+  },
+  {
+   "id": "31c93460-6a83-4597-b649-5dcb8fe72601",
+   "title": {
+    "en": "Hoshii no wa Anata dake."
+   },
+   "contentRating": "safe",
+   "score": 0.33489427
+  },
+  {
+   "id": "abb8bf44-358b-4fbc-9d98-8b7c9596636d",
+   "title": {
+    "en": "Pine Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.33486766
   },
   {
    "id": "23036c3f-4e61-4dd1-8414-58fe14f9ad8b",
@@ -55,11 +90,30 @@
     "en": "Koi suru 1/4"
    },
    "contentRating": "safe",
-   "score": 0.33396226,
+   "score": 0.33480576,
    "languages": [
     "de",
     "en"
    ]
+  },
+  {
+   "id": "faed40ed-defb-46fd-8afd-c606420ebc7f",
+   "title": {
+    "en": "Sekai no Hate wa Shinai"
+   },
+   "contentRating": "safe",
+   "score": 0.32728952,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "e2a448a3-3e6e-43d3-ae76-22273158cf5a",
+   "title": {
+    "en": "Kono Mune no Sunao"
+   },
+   "contentRating": "safe",
+   "score": 0.32414982
   },
   {
    "id": "f555f2d1-1f85-4d80-b4b4-20ef0e9817ed",
@@ -67,18 +121,26 @@
     "en": "Garakuta Tenshi"
    },
    "contentRating": "safe",
-   "score": 0.3249733,
+   "score": 0.32336047,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "de2ef7a8-72df-4873-906f-cd3f65115171",
+   "id": "69fb9e17-ba11-47a6-b0a7-2d56636d79bc",
    "title": {
-    "en": "Honey"
+    "en": "Glittering X-Mas Story 2003"
    },
    "contentRating": "safe",
-   "score": 0.31995615
+   "score": 0.32303
+  },
+  {
+   "id": "ed175e0f-580b-41f2-a6fa-fba6b47c5b44",
+   "title": {
+    "en": "Lovesick"
+   },
+   "contentRating": "safe",
+   "score": 0.32250986
   },
   {
    "id": "1d95229d-2056-4006-8f56-eb27928297ae",
@@ -86,95 +148,19 @@
     "en": "Kiss, Zekkou, Kiss Bokura no Baai"
    },
    "contentRating": "safe",
-   "score": 0.31925824,
+   "score": 0.3218051,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2d77dc0f-749b-4167-a4ab-44e08b11dfdc",
+   "id": "f6c0d8e0-cd7b-455c-b652-5b501f1ab6f6",
    "title": {
-    "en": "A House in Venice"
+    "en": "Bokura wa Koi ga Heta sugiru"
    },
    "contentRating": "safe",
-   "score": 0.31082225,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
-   "title": {
-    "en": "Junai Rosen"
-   },
-   "contentRating": "safe",
-   "score": 0.31046996,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9c6e7b8e-9007-434a-a6ce-10b8501e7bc3",
-   "title": {
-    "en": "Ai Kiss ~Idol Kiss~"
-   },
-   "contentRating": "safe",
-   "score": 0.30977577,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "26e9eb17-f52a-47b7-b8c3-0fed97900a7d",
-   "title": {
-    "en": "Kono Te o Hanasanai"
-   },
-   "contentRating": "safe",
-   "score": 0.3084193
-  },
-  {
-   "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
-   "title": {
-    "en": "Pretty"
-   },
-   "contentRating": "safe",
-   "score": 0.30780834,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "c21b03ae-242d-4ece-913f-a25e0ebf3716",
-   "title": {
-    "en": "My Favorite Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.30659273
-  },
-  {
-   "id": "03d50963-b105-4dc4-a413-c1bab9048491",
-   "title": {
-    "en": "Nan Eomma Nun Appa"
-   },
-   "contentRating": "safe",
-   "score": 0.3047695,
-   "languages": [
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "bae119f6-977f-406a-b443-c3bb380edd2d",
-   "title": {
-    "en": "Mamacolle"
-   },
-   "contentRating": "safe",
-   "score": 0.3015705,
-   "languages": [
-    "pl",
-    "fr"
-   ]
+   "score": 0.32003215
   }
  ],
- "updatedAt": "2023-12-10T01:01:12+00:00"
+ "updatedAt": "2023-12-10T18:12:21+00:00"
 }

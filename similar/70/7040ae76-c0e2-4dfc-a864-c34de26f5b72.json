@@ -11,7 +11,7 @@
     "en": "Akuma no Hanazono"
    },
    "contentRating": "safe",
-   "score": 0.30176473,
+   "score": 0.29828227,
    "languages": [
     "pt-br",
     "hu",
@@ -24,10 +24,32 @@
     "en": "Reversi"
    },
    "contentRating": "safe",
-   "score": 0.26689222,
+   "score": 0.26418382,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "73e917f1-5f2d-4687-b884-0af4b0d4197d",
+   "title": {
+    "en": "Lovestuck"
+   },
+   "contentRating": "safe",
+   "score": 0.25882682,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "008c1aec-fbd9-41b6-ac9f-34cc44c04700",
+   "title": {
+    "en": "Sweet Pain (Minatsuki Tsunami)"
+   },
+   "contentRating": "safe",
+   "score": 0.23070857,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -36,7 +58,7 @@
     "en": "Koi no Ninpou Chou"
    },
    "contentRating": "safe",
-   "score": 0.22441728,
+   "score": 0.22318195,
    "languages": [
     "en",
     "pt-br"
@@ -48,7 +70,7 @@
     "en": "Boku to Kimi wa"
    },
    "contentRating": "safe",
-   "score": 0.22380623,
+   "score": 0.2220641,
    "languages": [
     "pt-br",
     "en"
@@ -80,12 +102,40 @@
    ]
   },
   {
+   "id": "0d63e84e-9fee-47d5-a3c2-ac42a397b53a",
+   "title": {
+    "en": "Yamaguchi-kun wa Warukunai"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "93da08f2-553f-462d-a15e-bb15c5430909",
+   "title": {
+    "en": "Fugitto Amor"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "pt-br",
+    "de",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "7d080778-75c5-4b5b-a66e-b9e6a776daa7",
    "title": {
     "en": "Himitsu no Sono Ato"
    },
    "contentRating": "safe",
-   "score": 0.20559941,
+   "score": 0.2060093,
    "languages": [
     "pt-br",
     "pl"
@@ -97,97 +147,37 @@
     "en": "Tonari no Danshi"
    },
    "contentRating": "safe",
-   "score": 0.19781265,
+   "score": 0.19727454,
    "languages": [
     "ro",
     "pt-br"
    ]
   },
   {
-   "id": "5d2603d3-d4cc-45e4-b1e7-28f013e0e6c8",
+   "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
    "title": {
-    "en": "Shitteru Kimochi, Shiranai Karada"
+    "en": "Ima, Koi wo Shite Imasu"
    },
    "contentRating": "safe",
-   "score": 0.19357063,
+   "score": 0.19551791,
    "languages": [
+    "en",
+    "hu",
     "es-la",
-    "en",
     "pt-br"
    ]
   },
   {
-   "id": "e0aa835c-3df9-47d4-85cc-4657fea6da43",
+   "id": "b9a56817-0e7e-424a-bef9-98a9d3ab95ae",
    "title": {
-    "en": "Christmas No Sono Mae Ni"
-   },
-   "contentRating": "safe",
-   "score": 0.1864399,
-   "languages": [
-    "pt-br",
-    "tr"
-   ]
-  },
-  {
-   "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
-   "title": {
-    "en": "Joousama no Shirousagi"
+    "en": "Murasame-kun no Tawagoto"
    },
    "contentRating": "safe",
    "score": 0.18605211,
    "languages": [
     "en",
+    "hu",
     "pt-br"
-   ]
-  },
-  {
-   "id": "7aed6cca-0bc6-4733-a73b-1e56ba1526c4",
-   "title": {
-    "en": "Omae Watashi no Koto Suki daro?"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
-   "title": {
-    "en": "First Love"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
-   "title": {
-    "en": "Hana-kun to Koisuru Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
-   "title": {
-    "en": "Junketsu Diablos"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -201,7 +191,19 @@
     "pl",
     "pt-br"
    ]
+  },
+  {
+   "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
+   "title": {
+    "en": "Joousama no Shirousagi"
+   },
+   "contentRating": "safe",
+   "score": 0.18605211,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:14+00:00"
+ "updatedAt": "2023-12-10T18:20:29+00:00"
 }

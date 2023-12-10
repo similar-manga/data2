@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "832a7b1c-9d08-4218-beb0-cdfe94af6e4a",
+   "title": {
+    "en": "The World God Only Knows - On the Train Another"
+   },
+   "contentRating": "safe",
+   "score": 0.34890136,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7fa1731d-552e-45c1-ae58-4c37248d4083",
    "title": {
     "en": "The Gods of Laughter: The Final Chapter"
    },
    "contentRating": "safe",
-   "score": 0.30656412,
+   "score": 0.306646,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Shihatsu Densha"
    },
    "contentRating": "safe",
-   "score": 0.29201326,
+   "score": 0.28949848,
    "languages": [
     "en",
     "vi",
@@ -31,15 +42,38 @@
    ]
   },
   {
+   "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
+   "title": {
+    "en": "Minigram (MILGRAM 4koma)"
+   },
+   "contentRating": "safe",
+   "score": 0.2593489,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
    "title": {
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.24484634,
+   "score": 0.24955884,
    "languages": [
     "de",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "b15443e6-a9dd-401c-9e74-a568d804054c",
+   "title": {
+    "en": "Totodon"
+   },
+   "contentRating": "safe",
+   "score": 0.24414513,
+   "languages": [
     "en"
    ]
   },
@@ -55,15 +89,14 @@
    ]
   },
   {
-   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
+   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
    "title": {
-    "en": "Smile Death Match"
+    "en": "Disaster, Old Man and Monster"
    },
    "contentRating": "safe",
-   "score": 0.23655221,
+   "score": 0.23778085,
    "languages": [
-    "en",
-    "ru"
+    "en"
    ]
   },
   {
@@ -81,28 +114,15 @@
    ]
   },
   {
-   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
    "title": {
-    "en": "Death of a Highschool"
+    "en": "Smile Death Match"
    },
    "contentRating": "safe",
-   "score": 0.23280986,
+   "score": 0.23455857,
    "languages": [
-    "pt-br",
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
-   "title": {
-    "en": "Disaster, Old Man and Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.2323385,
-   "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -115,6 +135,20 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "title": {
+    "en": "Death of a Highschool"
+   },
+   "contentRating": "safe",
+   "score": 0.23077169,
+   "languages": [
+    "pt-br",
+    "tr",
+    "pl",
+    "en"
    ]
   },
   {
@@ -134,7 +168,7 @@
     "en": "The God Who Can't Clean Up"
    },
    "contentRating": "safe",
-   "score": 0.2234374,
+   "score": 0.21907388,
    "languages": [
     "es-la",
     "en"
@@ -146,7 +180,7 @@
     "en": "Pandora"
    },
    "contentRating": "safe",
-   "score": 0.21829624,
+   "score": 0.21615703,
    "languages": [
     "en"
    ]
@@ -157,51 +191,13 @@
     "en": "Sketchbook"
    },
    "contentRating": "safe",
-   "score": 0.21665603,
+   "score": 0.21608192,
    "languages": [
     "en",
     "pl",
     "it"
    ]
-  },
-  {
-   "id": "1aec6b5e-6641-43db-8589-ace2abc14e5f",
-   "title": {
-    "en": "Magu-chan: God of Destruction"
-   },
-   "contentRating": "safe",
-   "score": 0.2135973,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e311e011-0368-4e18-9bfa-2feb98e83662",
-   "title": {
-    "en": "Hikimori-san Won't Leave Her Room No Matter What!!"
-   },
-   "contentRating": "safe",
-   "score": 0.21124907,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
-   "title": {
-    "en": "Lucky☆Star"
-   },
-   "contentRating": "safe",
-   "score": 0.2100612,
-   "languages": [
-    "it",
-    "pl",
-    "es",
-    "pt-br",
-    "en",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:24+00:00"
+ "updatedAt": "2023-12-10T18:31:33+00:00"
 }

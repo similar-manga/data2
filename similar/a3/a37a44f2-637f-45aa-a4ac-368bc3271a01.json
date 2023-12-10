@@ -11,24 +11,11 @@
     "en": "Satsuki's Sky"
    },
    "contentRating": "safe",
-   "score": 0.42599744,
+   "score": 0.4053829,
    "languages": [
     "pt-br",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
-   "title": {
-    "en": "Naruto: Road to Ninja"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "ru",
-    "ro"
    ]
   },
   {
@@ -45,12 +32,37 @@
    ]
   },
   {
+   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
+   "title": {
+    "en": "Naruto: Road to Ninja"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "ru",
+    "ro"
+   ]
+  },
+  {
+   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
+   "title": {
+    "en": "Zenei no Archer"
+   },
+   "contentRating": "safe",
+   "score": 0.27483693,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
    "title": {
     "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
    },
    "contentRating": "safe",
-   "score": 0.2837453,
+   "score": 0.26895693,
    "languages": [
     "en",
     "fr",
@@ -60,15 +72,27 @@
    ]
   },
   {
-   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
+   "id": "da469add-1a65-4df5-9393-662c1bd7f5e6",
    "title": {
-    "en": "Zenei no Archer"
+    "en": "Sousei Mahou no Saigensha"
    },
    "contentRating": "safe",
-   "score": 0.2768823,
+   "score": 0.26694468,
    "languages": [
-    "ru",
-    "en"
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "67e38fec-4bf7-4838-8aa3-66961a34389d",
+   "title": {
+    "en": "Rojiura no Mahou Tantei Jimusho"
+   },
+   "contentRating": "safe",
+   "score": 0.26684466,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -77,67 +101,16 @@
     "en": "Jekyll no Tsukaima"
    },
    "contentRating": "safe",
-   "score": 0.26690945,
+   "score": 0.26540968,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "56ae9929-41bf-4d18-9f64-bcb727c24503",
-   "title": {
-    "en": "Divorce Concilation"
-   },
-   "contentRating": "safe",
-   "score": 0.26565456,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
-   "title": {
-    "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
-   },
-   "contentRating": "safe",
-   "score": 0.26327556,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "cffdf571-7cf8-4f23-b2b0-423ac51edd3f",
-   "title": {
-    "en": "Layla to Mayonaka 3-ji no Daibouken"
-   },
-   "contentRating": "safe",
-   "score": 0.2614029,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
    "id": "ced8a7bd-e531-442a-acfd-eea268ebef10",
    "title": {
     "en": "Jeep and Wagon"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "7c953ea9-0078-4efd-9964-4ed346626f6e",
-   "title": {
-    "en": "Maid to Order Tyria"
    },
    "contentRating": "safe",
    "score": 0.26082027,
@@ -158,51 +131,83 @@
    ]
   },
   {
-   "id": "cad1c68e-ece3-4453-9135-aff3918421a3",
+   "id": "7c953ea9-0078-4efd-9964-4ed346626f6e",
    "title": {
-    "en": "A-kun (17) no Sensou - I, the Tycoon?"
+    "en": "Maid to Order Tyria"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.26082027,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
-   "id": "4939c74b-f2d0-440f-a293-05116cf45e9d",
+   "id": "56ae9929-41bf-4d18-9f64-bcb727c24503",
    "title": {
-    "en": "Kai Pilgrim"
+    "en": "Divorce Concilation"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.2606011,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "pt-br",
+    "pl"
    ]
   },
   {
-   "id": "b121ce9e-ced9-4608-8b47-18aedb605498",
+   "id": "cffdf571-7cf8-4f23-b2b0-423ac51edd3f",
    "title": {
-    "en": "Kikkai vs Omorai"
+    "en": "Layla to Mayonaka 3-ji no Daibouken"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.25719184,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
-   "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
+   "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
    "title": {
-    "en": "Blust!"
+    "en": "The West Wind and the Sun: Zephyr and Sol"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
+    "fr",
+    "en",
     "ca",
-    "it",
-    "en"
+    "id",
+    "pl"
+   ]
+  },
+  {
+   "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
+   "title": {
+    "en": "Chrono Mansion"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "ec8646e5-5830-41f6-acdf-66b6566454f9",
+   "title": {
+    "en": "Senyuu. - Haruhara Robinson Channel"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "es",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:30+00:00"
+ "updatedAt": "2023-12-10T18:26:33+00:00"
 }

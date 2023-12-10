@@ -11,7 +11,7 @@
     "en": "Aqua Planet Chronicle"
    },
    "contentRating": "suggestive",
-   "score": 0.23857899,
+   "score": 0.22659694,
    "languages": [
     "en"
    ]
@@ -81,7 +81,7 @@
     "en": "Grand Blue"
    },
    "contentRating": "suggestive",
-   "score": 0.16420275,
+   "score": 0.16375436,
    "languages": [
     "pt-br",
     "en",
@@ -100,7 +100,7 @@
     "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
    },
    "contentRating": "suggestive",
-   "score": 0.16307911,
+   "score": 0.16107558,
    "languages": [
     "pt-br",
     "en",
@@ -140,9 +140,9 @@
    ]
   },
   {
-   "id": "b1d3def7-5384-409e-a946-5993e7ae04a0",
+   "id": "634a7706-9c64-4c68-8f02-2fb6c0ee01cc",
    "title": {
-    "en": "Dr. Hitomi's Infirmary"
+    "en": "Suzunone"
    },
    "contentRating": "suggestive",
    "score": 0.1565828,
@@ -151,9 +151,9 @@
    ]
   },
   {
-   "id": "634a7706-9c64-4c68-8f02-2fb6c0ee01cc",
+   "id": "b1d3def7-5384-409e-a946-5993e7ae04a0",
    "title": {
-    "en": "Suzunone"
+    "en": "Dr. Hitomi's Infirmary"
    },
    "contentRating": "suggestive",
    "score": 0.1565828,
@@ -197,24 +197,12 @@
    ]
   },
   {
-   "id": "011ecd60-144f-476f-92e9-278905cb4450",
-   "title": {
-    "en": "Getsuyoubi no Tawawa (Serialization) (Blue) (Fan Colored)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.151681,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "6b27cbd8-4cc6-40ca-b010-928da4540be8",
    "title": {
     "en": "Getsuyoubi no Tawawa"
    },
    "contentRating": "suggestive",
-   "score": 0.15151285,
+   "score": 0.15102948,
    "languages": [
     "ru",
     "pt-br",
@@ -226,18 +214,15 @@
    ]
   },
   {
-   "id": "356de811-ae92-48f1-b93b-cfdf0f8d02e4",
+   "id": "011ecd60-144f-476f-92e9-278905cb4450",
    "title": {
-    "en": "Now That We Draw"
+    "en": "Getsuyoubi no Tawawa (Serialization) (Blue) (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.15032744,
+   "score": 0.15041004,
    "languages": [
-    "pt-br",
-    "id",
-    "vi",
     "en",
-    "th"
+    "ru"
    ]
   },
   {
@@ -246,13 +231,24 @@
     "en": "Liar Liar"
    },
    "contentRating": "suggestive",
-   "score": 0.14928597,
+   "score": 0.14876327,
    "languages": [
     "en",
     "tl",
     "pt-br"
    ]
+  },
+  {
+   "id": "38f6e2f4-18d9-428e-acb7-4e15180bac7b",
+   "title": {
+    "en": "Rome Futari Gurashi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14588742,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:20+00:00"
+ "updatedAt": "2023-12-10T18:18:05+00:00"
 }

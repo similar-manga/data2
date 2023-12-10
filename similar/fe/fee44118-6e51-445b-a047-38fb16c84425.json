@@ -6,16 +6,65 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9c1222ee-3761-4584-8d6c-0b247762f9d5",
+   "title": {
+    "en": "The Witch of Ice and Snow Has No Time For ××"
+   },
+   "contentRating": "safe",
+   "score": 0.3598874,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12d81610-51d9-407b-b94d-6f50b4cee8d2",
+   "title": {
+    "en": "Tensai Majo no Maryoku Kare"
+   },
+   "contentRating": "safe",
+   "score": 0.334531,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "2f90e7e5-16b4-41f5-b717-137cf9783b5b",
    "title": {
     "en": "Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole"
    },
    "contentRating": "safe",
-   "score": 0.29472622,
+   "score": 0.29098377,
    "languages": [
     "en",
     "id",
     "th"
+   ]
+  },
+  {
+   "id": "636933aa-976e-4455-8082-36751a554be0",
+   "title": {
+    "en": "Unnamed Memory"
+   },
+   "contentRating": "safe",
+   "score": 0.28411737,
+   "languages": [
+    "id",
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "c58d2ef0-c5b6-4c4b-938c-15db1914d393",
+   "title": {
+    "en": "SIRIUS"
+   },
+   "contentRating": "safe",
+   "score": 0.2824699,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -24,9 +73,34 @@
     "en": "The Witch at the End of the World"
    },
    "contentRating": "safe",
-   "score": 0.27982458,
+   "score": 0.27613357,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
+   "title": {
+    "en": "Monogatari no Naka no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.25552833,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "80014ac8-a70d-4702-a794-7fc2946b6d5a",
+   "title": {
+    "en": "Suterare Shiro Mahoutsukai no Koucha Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24068266,
+   "languages": [
+    "en",
+    "ru",
+    "id"
    ]
   },
   {
@@ -35,7 +109,7 @@
     "en": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu"
    },
    "contentRating": "safe",
-   "score": 0.23663089,
+   "score": 0.23646662,
    "languages": [
     "en",
     "es-la",
@@ -48,7 +122,7 @@
     "en": "Magic Kaito"
    },
    "contentRating": "safe",
-   "score": 0.23532881,
+   "score": 0.2353138,
    "languages": [
     "ca",
     "en",
@@ -58,159 +132,88 @@
    ]
   },
   {
-   "id": "1bd78711-2fe0-412d-8570-cea963c50a92",
+   "id": "93a45e48-c28e-43e7-8c8c-d13b69716997",
    "title": {
-    "en": "Toki Majutsushi no Tsuyokute New Game ~Kako ni Modotte Sekai Saikyou kara Yarinaosu~"
+    "en": "Brainless Witch"
    },
    "contentRating": "safe",
-   "score": 0.21123871,
+   "score": 0.22552589,
    "languages": [
     "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "67bcffa9-406d-45c8-a34c-e32b0d11c572",
-   "title": {
-    "en": "Boku no Ushiro ni Majo ga Iru"
-   },
-   "contentRating": "safe",
-   "score": 0.20784585,
-   "languages": [
-    "es",
-    "en",
-    "tr",
-    "pt-br",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "66297109-c52d-41fa-82f1-506092dc00b9",
-   "title": {
-    "en": "17-sai Kara Yarinaosu Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.19983947,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
-   "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
-   },
-   "contentRating": "safe",
-   "score": 0.19839346,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a46590b-14df-43f6-8450-5813cbf482e7",
-   "title": {
-    "en": "Hachinan tte, Sore wa Nai Deshou!"
-   },
-   "contentRating": "safe",
-   "score": 0.18793188,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "829d27e8-3d50-48bc-ab1d-9d1c3bfba615",
-   "title": {
-    "en": "Isekai no Binbou Nouka ni Tensei Shita Node, Renga wo Tsukutte Shiro wo Tateru Koto ni Shimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.18442778,
-   "languages": [
-    "en",
-    "pt-br",
     "id",
     "es"
    ]
   },
   {
-   "id": "869ad120-7341-4ea9-a980-f3545bc0503c",
+   "id": "f45e72ee-26b8-46f2-b61c-3fe00286ebff",
    "title": {
-    "en": "Dr. Stone: 4D Science"
+    "en": "5Toubun no Hanayome - Magical Girl Raiha with The Quintuplet of Witch"
    },
    "contentRating": "safe",
-   "score": 0.17634669,
+   "score": 0.22385944,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4801f266-cc4e-4c3b-8d1d-f50f08b25b62",
+   "title": {
+    "en": "Witch Watch"
+   },
+   "contentRating": "safe",
+   "score": 0.22299224,
+   "languages": [
+    "pt-br",
+    "uk",
+    "zh-hk",
+    "en",
+    "th",
+    "ru",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.22125925,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
     "pt-br"
    ]
   },
   {
-   "id": "c9bed72c-d680-4409-a954-5fdadde27b74",
+   "id": "9af3f534-f031-40c5-acad-1578c8704010",
    "title": {
-    "en": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru"
+    "en": "Ganesha Power"
    },
    "contentRating": "safe",
-   "score": 0.17584498,
-   "languages": [
-    "zh-hk",
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
-   "title": {
-    "en": "Dou ka Ore wo Houtte Oitekure"
-   },
-   "contentRating": "safe",
-   "score": 0.17526771,
+   "score": 0.22043337,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "25456ec3-0dba-42c6-99eb-05e77fda7223",
+   "id": "1bd78711-2fe0-412d-8570-cea963c50a92",
    "title": {
-    "en": "Fairial Garden"
+    "en": "Toki Majutsushi no Tsuyokute New Game ~Kako ni Modotte Sekai Saikyou kara Yarinaosu~"
    },
    "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2955da52-2303-48db-b515-3ce9b74eb0ca",
-   "title": {
-    "en": "ShiraYuki PaniMix!"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "381f7cdf-8eae-4b2c-a8ca-f4298407b6c2",
-   "title": {
-    "en": "Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life"
-   },
-   "contentRating": "safe",
-   "score": 0.17461582,
+   "score": 0.21110354,
    "languages": [
     "en",
-    "ru",
     "pt-br",
-    "id",
-    "ar"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:20+00:00"
+ "updatedAt": "2023-12-10T18:36:15+00:00"
 }

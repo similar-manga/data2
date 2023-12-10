@@ -11,7 +11,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.26655787,
+   "score": 0.2667326,
    "languages": [
     "pt-br",
     "es",
@@ -30,7 +30,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.24118207,
+   "score": 0.24087398,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.2389803,
+   "score": 0.23670661,
    "languages": [
     "en"
    ]
@@ -52,18 +52,10 @@
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.23641527,
+   "score": 0.23603155,
    "languages": [
     "es-la"
    ]
-  },
-  {
-   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
-   "title": {
-    "en": "Tuberculose"
-   },
-   "contentRating": "safe",
-   "score": 0.23613545
   },
   {
    "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
@@ -71,7 +63,15 @@
     "en": "The Devil Garon"
    },
    "contentRating": "safe",
-   "score": 0.23559888
+   "score": 0.23533247
+  },
+  {
+   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
+   "title": {
+    "en": "Tuberculose"
+   },
+   "contentRating": "safe",
+   "score": 0.2349988
   },
   {
    "id": "dc33209f-d9d4-40df-a468-cca047b63979",
@@ -79,7 +79,7 @@
     "en": "Neon Genesis Evangelion - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.23454957,
+   "score": 0.23410985,
    "languages": [
     "fr"
    ]
@@ -90,7 +90,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.23228727,
+   "score": 0.23184273,
    "languages": [
     "en"
    ]
@@ -101,21 +101,10 @@
     "en": "Sand Land Full Color"
    },
    "contentRating": "safe",
-   "score": 0.23100151,
+   "score": 0.23124136,
    "languages": [
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.22918491,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -124,7 +113,18 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.22902752,
+   "score": 0.22834314,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+   },
+   "contentRating": "safe",
+   "score": 0.22781111,
    "languages": [
     "en"
    ]
@@ -135,7 +135,7 @@
     "en": "Z Gundam - Side Story"
    },
    "contentRating": "safe",
-   "score": 0.22833757
+   "score": 0.22646502
   },
   {
    "id": "9e668e5d-d046-4ffd-bfe3-eea1050a06d9",
@@ -143,7 +143,7 @@
     "en": "Mobile Suit Gundam NT (NARRATIVE)"
    },
    "contentRating": "safe",
-   "score": 0.22828937,
+   "score": 0.22644886,
    "languages": [
     "en"
    ]
@@ -154,7 +154,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.22559638,
+   "score": 0.22535457,
    "languages": [
     "en",
     "pt-br",
@@ -167,12 +167,20 @@
    ]
   },
   {
+   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
+   "title": {
+    "en": "Shiden Kai Hawk"
+   },
+   "contentRating": "safe",
+   "score": 0.22421579
+  },
+  {
    "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
    "title": {
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.22491246,
+   "score": 0.22322837,
    "languages": [
     "en",
     "zh",
@@ -184,15 +192,7 @@
     "pl",
     "fr"
    ]
-  },
-  {
-   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
-   "title": {
-    "en": "Shiden Kai Hawk"
-   },
-   "contentRating": "safe",
-   "score": 0.22385283
   }
  ],
- "updatedAt": "2023-12-10T01:05:32+00:00"
+ "updatedAt": "2023-12-10T18:23:58+00:00"
 }

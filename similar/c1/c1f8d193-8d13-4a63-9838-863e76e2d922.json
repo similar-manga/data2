@@ -6,6 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f7b62193-bdfb-4953-a6c6-0bd1b9a872f9",
+   "title": {
+    "en": "Sensou Kyoushitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.29486972,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "fr"
+   ]
+  },
+  {
    "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
    "title": {
     "en": "Watashi wa Kagome"
@@ -28,12 +42,23 @@
    ]
   },
   {
+   "id": "fd379676-def6-4e1c-8062-9959b062e2b8",
+   "title": {
+    "en": "SCARS"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
    "title": {
     "en": "GATE 7"
    },
    "contentRating": "safe",
-   "score": 0.2294331,
+   "score": 0.22870262,
    "languages": [
     "pt-br",
     "en",
@@ -41,42 +66,58 @@
    ]
   },
   {
-   "id": "b8714875-dd43-47f5-a619-cb0cd1b62a0f",
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
    "title": {
-    "en": "Higan Hikou Shoujo Naeko"
+    "en": "A-Presto"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.22497009,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ba21f941-44c7-466b-9682-18b3776b8c83",
+   "id": "7a934a6e-8d31-4c1f-a49b-69705303071b",
    "title": {
-    "en": "Venus Versus Virus"
+    "en": "Twin Spirit Detectives"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.22286315,
    "languages": [
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
+   "id": "f4fa3679-6918-4684-bcb6-377c9f336898",
    "title": {
-    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
+    "en": "Touhou Chireikiden ~ Hansoku Tantei Satori"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21597971,
    "languages": [
-    "en"
+    "en",
+    "ru",
+    "es-la",
+    "vi",
+    "pt-br",
+    "de"
    ]
   },
   {
    "id": "29cd02a4-a429-439e-8356-fbb2abcac4dd",
    "title": {
     "en": "Akatsuki no Ageha"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
+   "title": {
+    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -96,12 +137,56 @@
    ]
   },
   {
+   "id": "fbb62d28-a83c-4ea5-8546-d6877ab533c6",
+   "title": {
+    "en": "Mahou Tsukai ni Taisetsu na Koto"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ba21f941-44c7-466b-9682-18b3776b8c83",
+   "title": {
+    "en": "Venus Versus Virus"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "b8714875-dd43-47f5-a619-cb0cd1b62a0f",
+   "title": {
+    "en": "Higan Hikou Shoujo Naeko"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.21077856,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
    "title": {
     "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.20283231,
+   "score": 0.20261906,
    "languages": [
     "ru",
     "pt-br",
@@ -112,88 +197,7 @@
     "mn",
     "uk"
    ]
-  },
-  {
-   "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
-   "title": {
-    "en": "Bible of Black"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "84947b8a-71fa-47f7-bfd7-6ee0f45228e3",
-   "title": {
-    "en": "Wild Half"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e60c2ec2-5f92-40e4-be5c-e5b576400aa9",
-   "title": {
-    "en": "Dekisokonai no Monogatari - The Tales of Failure Works"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.20064995,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
-   "title": {
-    "en": "Segregated World"
-   },
-   "contentRating": "safe",
-   "score": 0.19967243,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f88747f3-e9d3-4238-8941-ec815dcefd98",
-   "title": {
-    "en": "Ability Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.19891009,
-   "languages": [
-    "pl",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "25456ec3-0dba-42c6-99eb-05e77fda7223",
-   "title": {
-    "en": "Fairial Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.19394322,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:45+00:00"
+ "updatedAt": "2023-12-10T18:29:56+00:00"
 }

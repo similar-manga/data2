@@ -11,7 +11,7 @@
     "en": "Orange Delivery"
    },
    "contentRating": "suggestive",
-   "score": 0.2604392,
+   "score": 0.26002923,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Upotte!!"
    },
    "contentRating": "suggestive",
-   "score": 0.25911194,
+   "score": 0.25914338,
    "languages": [
     "en"
    ]
@@ -93,26 +93,26 @@
    ]
   },
   {
-   "id": "8ab63210-5ec9-4356-9ea3-af8b1dbe56ea",
-   "title": {
-    "en": "Maken-Ki! -Kai!!-"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21136229,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "f10c0c6d-da82-49cf-930d-f389f2c15546",
    "title": {
     "en": "Bee-Be-Beat It!"
    },
    "contentRating": "suggestive",
-   "score": 0.21017793,
+   "score": 0.21049584,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8ab63210-5ec9-4356-9ea3-af8b1dbe56ea",
+   "title": {
+    "en": "Maken-Ki! -Kai!!-"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21029039,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -121,7 +121,7 @@
     "en": "Honey Hunter"
    },
    "contentRating": "suggestive",
-   "score": 0.2039188
+   "score": 0.20181845
   },
   {
    "id": "6df42338-e56e-420e-bfc9-4b3dd700f7be",
@@ -129,7 +129,7 @@
     "en": "Gakuen Maria"
    },
    "contentRating": "suggestive",
-   "score": 0.20159
+   "score": 0.20077199
   },
   {
    "id": "cccece39-377e-445f-abb7-abc934755e11",
@@ -137,15 +137,18 @@
     "en": "Shikisou Cha Cha Cha!"
    },
    "contentRating": "suggestive",
-   "score": 0.20036295
+   "score": 0.19936883
   },
   {
-   "id": "c7b96576-d024-45dd-a424-053ceaeb3ae8",
+   "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
    "title": {
-    "en": "Hundred - Radiant Red Rose"
+    "en": "Senran Kagura - Shoujotachi no Shinei"
    },
    "contentRating": "suggestive",
-   "score": 0.19942537
+   "score": 0.19867985,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "facf7f6f-fa2d-464d-a543-8888bc47a560",
@@ -159,9 +162,9 @@
    ]
   },
   {
-   "id": "499ff60f-d77a-4244-9d19-5407d7fce74e",
+   "id": "3bc31f03-4938-4fb0-8507-6870c5bc3335",
    "title": {
-    "en": "Senran Kagura - Shoujotachi no Shinei"
+    "en": "Little Busters! Ecstasy"
    },
    "contentRating": "suggestive",
    "score": 0.19867985,
@@ -170,5 +173,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:34+00:00"
+ "updatedAt": "2023-12-10T18:29:28+00:00"
 }

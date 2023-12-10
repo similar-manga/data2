@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d6997a33-12da-4186-9892-9fc9b09b02d3",
+   "title": {
+    "en": "Pentacle"
+   },
+   "contentRating": "safe",
+   "score": 0.1723967,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f439d590-c766-4874-9a92-4389a96b50dc",
    "title": {
     "en": "Arcana 10 - Conflict / Secret Societies"
@@ -15,6 +26,28 @@
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "ee4a891d-a8a5-4d40-8e36-34e0122bc591",
+   "title": {
+    "en": "Weiss Side B"
+   },
+   "contentRating": "safe",
+   "score": 0.1609036,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8ac0855f-5f95-41cb-a1cc-7ac6714980b7",
+   "title": {
+    "en": "Dark Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.15991545,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -36,18 +69,7 @@
     "en": "Layers of Fear"
    },
    "contentRating": "safe",
-   "score": 0.159338,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "12e69ced-43f6-4204-8fb1-4207022c28d6",
-   "title": {
-    "en": "Hizumi no Dual"
-   },
-   "contentRating": "safe",
-   "score": 0.15264656,
+   "score": 0.15870494,
    "languages": [
     "en"
    ]
@@ -65,14 +87,13 @@
    ]
   },
   {
-   "id": "ce562869-701e-482c-bf94-dff01efda7e4",
+   "id": "12e69ced-43f6-4204-8fb1-4207022c28d6",
    "title": {
-    "en": "The Man From the Past"
+    "en": "Hizumi no Dual"
    },
    "contentRating": "safe",
-   "score": 0.14657247,
+   "score": 0.15264656,
    "languages": [
-    "ca",
     "en"
    ]
   },
@@ -88,13 +109,37 @@
    ]
   },
   {
+   "id": "ce562869-701e-482c-bf94-dff01efda7e4",
+   "title": {
+    "en": "The Man From the Past"
+   },
+   "contentRating": "safe",
+   "score": 0.14575025,
+   "languages": [
+    "ca",
+    "en"
+   ]
+  },
+  {
    "id": "842c1d46-7c7b-4b99-9007-8a2b150627cd",
    "title": {
     "en": "The Children of the Mountain"
    },
    "contentRating": "safe",
-   "score": 0.14527202,
+   "score": 0.14483309,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "44ed579d-5840-4adf-9c64-9b07674ee96b",
+   "title": {
+    "en": "DEEMO -Prelude-"
+   },
+   "contentRating": "safe",
+   "score": 0.14397982,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -104,7 +149,7 @@
     "en": "Omumedai"
    },
    "contentRating": "safe",
-   "score": 0.142046,
+   "score": 0.14152558,
    "languages": [
     "it"
    ]
@@ -115,7 +160,7 @@
     "en": "Hyakki Yakoushou"
    },
    "contentRating": "safe",
-   "score": 0.13837643,
+   "score": 0.13794129,
    "languages": [
     "en"
    ]
@@ -126,46 +171,11 @@
     "en": "Orthoros"
    },
    "contentRating": "safe",
-   "score": 0.1362903,
+   "score": 0.13568494,
    "languages": [
     "ru",
     "hu",
     "en"
-   ]
-  },
-  {
-   "id": "4f81740f-5164-4a39-9e95-e138108de3f1",
-   "title": {
-    "en": "Ghost Speaker"
-   },
-   "contentRating": "safe",
-   "score": 0.13137724,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8951967a-185b-484f-bbf9-9011eb96bb68",
-   "title": {
-    "en": "Sword Dancer"
-   },
-   "contentRating": "safe",
-   "score": 0.13137724,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fdb3ae24-7e0d-4fa9-94e2-b194ee4d8217",
-   "title": {
-    "en": "Bokura no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.13137724,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
    ]
   },
   {
@@ -179,18 +189,7 @@
     "ar",
     "en"
    ]
-  },
-  {
-   "id": "d070b3f4-edb5-4064-bdcc-f70269e122e7",
-   "title": {
-    "en": "Battle Rabbits"
-   },
-   "contentRating": "safe",
-   "score": 0.13081457,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:08+00:00"
+ "updatedAt": "2023-12-10T18:09:22+00:00"
 }

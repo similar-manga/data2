@@ -11,7 +11,7 @@
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.25728405,
+   "score": 0.2567465,
    "languages": [
     "en"
    ]
@@ -22,27 +22,9 @@
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.25525153,
+   "score": 0.25431976,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
-   "title": {
-    "en": "To Your Eternity"
-   },
-   "contentRating": "safe",
-   "score": 0.24540503,
-   "languages": [
-    "ru",
-    "pt-br",
-    "es",
-    "en",
-    "es-la",
-    "tr",
-    "mn",
-    "uk"
    ]
   },
   {
@@ -59,26 +41,21 @@
    ]
   },
   {
-   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
+   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
    "title": {
-    "en": "Hero"
+    "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.22905524,
+   "score": 0.2427651,
    "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
-   "title": {
-    "en": "Mahou Tsukai no Deshi ga Warau Toki."
-   },
-   "contentRating": "safe",
-   "score": 0.22893853,
-   "languages": [
-    "en"
+    "ru",
+    "pt-br",
+    "es",
+    "en",
+    "es-la",
+    "tr",
+    "mn",
+    "uk"
    ]
   },
   {
@@ -87,10 +64,33 @@
     "en": "Pumpkin Scissors"
    },
    "contentRating": "safe",
-   "score": 0.2283803,
+   "score": 0.23029554,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
+   "title": {
+    "en": "Mahou Tsukai no Deshi ga Warau Toki."
+   },
+   "contentRating": "safe",
+   "score": 0.22885069,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
+   "title": {
+    "en": "Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.22875476,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -99,7 +99,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.2256614,
+   "score": 0.22513787,
    "languages": [
     "en",
     "pt-br",
@@ -121,6 +121,18 @@
    ]
   },
   {
+   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
+   "title": {
+    "en": "Mu Wu's Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.22043337,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "8477d4e3-fab7-422b-b6fe-c699ec5f5789",
    "title": {
     "en": "Arata Kangatari"
@@ -133,9 +145,9 @@
    ]
   },
   {
-   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
+   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
    "title": {
-    "en": "Parabellum"
+    "en": "Strobo"
    },
    "contentRating": "safe",
    "score": 0.21597971,
@@ -155,9 +167,9 @@
    ]
   },
   {
-   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
+   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
    "title": {
-    "en": "Strobo"
+    "en": "Parabellum"
    },
    "contentRating": "safe",
    "score": 0.21597971,
@@ -177,28 +189,16 @@
    ]
   },
   {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Rewrite: SIDE-TERRA"
    },
    "contentRating": "safe",
-   "score": 0.20856301,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.20489633,
+   "score": 0.2146916,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:31+00:00"
+ "updatedAt": "2023-12-10T18:10:25+00:00"
 }

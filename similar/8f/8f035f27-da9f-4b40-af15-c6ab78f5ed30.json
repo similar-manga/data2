@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "92fd3110-3367-44bf-94d8-236f1056f6db",
+   "title": {
+    "en": "Lily Triangle"
+   },
+   "contentRating": "safe",
+   "score": 0.46530566,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "99e9b695-2815-40e6-8a1b-8b6d68566691",
+   "title": {
+    "en": "Akanesasu Shoujo 4koma Parallel"
+   },
+   "contentRating": "safe",
+   "score": 0.3332328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "45a9bcc2-fb06-44af-b4f9-4b0ae9c39a19",
    "title": {
     "en": "Yahari 4-koma Demo Ore no Seishun Love Come wa Machigatteiru"
    },
    "contentRating": "safe",
-   "score": 0.31656164,
+   "score": 0.30619097,
    "languages": [
     "en",
     "es-la",
@@ -24,21 +46,57 @@
     "en": "Clannad - 4-koma Manga Gekijou"
    },
    "contentRating": "safe",
-   "score": 0.310697,
+   "score": 0.30082142,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
+   "id": "9d2ce760-9c8f-42d5-82b5-6d940f040039",
    "title": {
-    "en": "Little Busters! EX The 4koma"
+    "en": "An-chan no Aan"
    },
    "contentRating": "safe",
-   "score": 0.2768143,
+   "score": 0.29629934,
    "languages": [
     "en",
-    "vi"
+    "it"
+   ]
+  },
+  {
+   "id": "46a178dc-ff5d-4d2f-a13f-7a86479909b3",
+   "title": {
+    "en": "Kono Sankaku Love Come wa Shiawase ni Naru Gime ga Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.29482526,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "27d573f6-757f-447e-9a9b-fbc50590d6db",
+   "title": {
+    "en": "Mahou no Jumon"
+   },
+   "contentRating": "safe",
+   "score": 0.29180574,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "8c3ec304-b5d3-41d9-864c-b53e98729c25",
+   "title": {
+    "en": "The Results of My Author/Classmate Discovering My Yuri Obsession"
+   },
+   "contentRating": "safe",
+   "score": 0.2773652,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -47,21 +105,35 @@
     "en": "Girl Who Can't Say No"
    },
    "contentRating": "safe",
-   "score": 0.27224633,
+   "score": 0.27174503,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "6662aee5-a8ae-4498-8061-da8e61d1abb3",
+   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
    "title": {
-    "en": "SeaBed 4-koma"
+    "en": "Little Busters! EX The 4koma"
    },
    "contentRating": "safe",
-   "score": 0.27006358,
+   "score": 0.26874727,
    "languages": [
-    "en"
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "224e563b-a2a4-4ecf-bd6e-300b21063956",
+   "title": {
+    "en": "Fluffy Yuri 4koma"
+   },
+   "contentRating": "safe",
+   "score": 0.26713234,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -70,22 +142,42 @@
     "en": "Akuno Himitsu Kessha"
    },
    "contentRating": "safe",
-   "score": 0.26917934,
+   "score": 0.2670464,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5043289e-596b-4734-8a5d-37943fe515c7",
+   "id": "620d41d5-63b8-4c9c-81a6-fa3230ff4003",
    "title": {
-    "en": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku"
+    "en": "Futsuu no Joshikousei ga Locodol yatte mita."
    },
    "contentRating": "safe",
-   "score": 0.25998312,
+   "score": 0.26312685,
    "languages": [
-    "en",
-    "vi",
-    "de"
+    "en"
+   ]
+  },
+  {
+   "id": "6662aee5-a8ae-4498-8061-da8e61d1abb3",
+   "title": {
+    "en": "SeaBed 4-koma"
+   },
+   "contentRating": "safe",
+   "score": 0.26031163,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "32e93fe0-e136-49d3-bd02-1987cd032967",
+   "title": {
+    "en": "Sexual Education 120%"
+   },
+   "contentRating": "safe",
+   "score": 0.2599593,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -98,98 +190,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "89fc8249-939e-4b37-b1a3-8a7d1a9288e8",
-   "title": {
-    "en": "Kimi no Tame nara Shineru"
-   },
-   "contentRating": "safe",
-   "score": 0.256769,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fad25040-473d-445c-8a00-9e97e7f91f48",
-   "title": {
-    "en": "Kanamemo"
-   },
-   "contentRating": "safe",
-   "score": 0.256769,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "70d20ce1-00e9-46a8-be99-5a1d0758a5b1",
-   "title": {
-    "en": "Quick Start!!"
-   },
-   "contentRating": "safe",
-   "score": 0.25405282,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98e827f7-302d-477b-a6f4-a92ad42cc309",
-   "title": {
-    "en": "Rakka Ryuusui"
-   },
-   "contentRating": "safe",
-   "score": 0.25097677,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871f6e9b-8ead-4dfc-854b-e64cf2f59307",
-   "title": {
-    "en": "Kounago Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.24550247,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9bb51b3-0e97-43ff-a64a-1c16d0de5d50",
-   "title": {
-    "en": "Slow Start"
-   },
-   "contentRating": "safe",
-   "score": 0.24496034,
-   "languages": [
-    "en",
-    "ko",
-    "ru"
-   ]
-  },
-  {
-   "id": "a50c878a-eab5-4e0a-8103-102b520ffe5b",
-   "title": {
-    "en": "Kanojo x Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.24434596,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e9732e7-0d69-43a6-9379-b4693c0c539f",
-   "title": {
-    "en": "Gekibuno."
-   },
-   "contentRating": "safe",
-   "score": 0.24434154,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:36+00:00"
+ "updatedAt": "2023-12-10T18:24:08+00:00"
 }

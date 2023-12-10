@@ -6,6 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1ea8345f-9173-474f-ae4f-a4bd2dab8075",
+   "title": {
+    "en": "Loser Fox"
+   },
+   "contentRating": "safe",
+   "score": 0.24688113,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "a41202b8-b2fd-4e64-915a-1d792655f667",
+   "title": {
+    "en": "Empress's Harem"
+   },
+   "contentRating": "safe",
+   "score": 0.24241085,
+   "languages": [
+    "en",
+    "pl",
+    "ru"
+   ]
+  },
+  {
    "id": "be87e5b7-a0f5-4bac-b873-c1dd848cec3d",
    "title": {
     "en": "Lady Yang Is in the Special Forces"
@@ -62,7 +87,7 @@
     "en": "Princess Wars"
    },
    "contentRating": "safe",
-   "score": 0.21426944,
+   "score": 0.21351585,
    "languages": [
     "uk",
     "ru",
@@ -95,32 +120,30 @@
    ]
   },
   {
+   "id": "eacb6eea-737f-4ae8-88cf-7cd0645ba339",
+   "title": {
+    "en": "God and Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.21236628,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "1c3681d5-66ad-48ae-977b-3c5e2526223c",
    "title": {
     "en": "Chuan Yue Xi Yuan 3000 Hou"
    },
    "contentRating": "safe",
-   "score": 0.20709898,
+   "score": 0.20702311,
    "languages": [
     "en",
     "ru",
     "fr",
     "pt-br"
-   ]
-  },
-  {
-   "id": "25ce6f0e-51ae-467e-8519-fe90060586dc",
-   "title": {
-    "en": "From a Knight to a Lady"
-   },
-   "contentRating": "safe",
-   "score": 0.20425446,
-   "languages": [
-    "en",
-    "pl",
-    "vi",
-    "ru",
-    "fr"
    ]
   },
   {
@@ -140,12 +163,27 @@
    ]
   },
   {
+   "id": "25ce6f0e-51ae-467e-8519-fe90060586dc",
+   "title": {
+    "en": "From a Knight to a Lady"
+   },
+   "contentRating": "safe",
+   "score": 0.20425446,
+   "languages": [
+    "en",
+    "pl",
+    "vi",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "ae0b1d1e-88b1-4045-9ace-d7f4045f4081",
    "title": {
     "en": "The Thorn That Pierces Me"
    },
    "contentRating": "safe",
-   "score": 0.20416379,
+   "score": 0.20369624,
    "languages": [
     "en",
     "ru",
@@ -168,60 +206,20 @@
    ]
   },
   {
-   "id": "f9f8cf0a-6526-4762-9135-47c5fd5a6e3b",
+   "id": "055dc933-3579-4650-9e2e-a64d077865e7",
    "title": {
-    "en": "Xuan Ji Ci"
+    "en": "Mystery"
    },
    "contentRating": "safe",
-   "score": 0.19869591,
+   "score": 0.20032117,
    "languages": [
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "df802fbf-9149-460a-aa17-0fc2b3ebe44b",
-   "title": {
-    "en": "Daisy: How to Become the Duke's Fiancée"
-   },
-   "contentRating": "safe",
-   "score": 0.19851668,
-   "languages": [
-    "en",
-    "ru",
-    "es",
     "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "84961e55-4ac3-419c-9c17-a6eadf5773d4",
-   "title": {
-    "en": "I Don't Want To Be the Magpie Bridge (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.1969719,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "7aca4aea-face-4058-9cab-42fdc52e8367",
-   "title": {
-    "en": "The Lady Wants to Rest"
-   },
-   "contentRating": "safe",
-   "score": 0.19295163,
-   "languages": [
-    "pt-br",
-    "fr",
-    "ru",
     "pl",
-    "en",
-    "vi"
+    "it",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:00+00:00"
+ "updatedAt": "2023-12-10T18:11:47+00:00"
 }

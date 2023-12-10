@@ -6,29 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6faf8b9c-3cfa-4f5b-8d93-9dca7509ca70",
+   "title": {
+    "en": "Hoshikiri no Kenshi"
+   },
+   "contentRating": "safe",
+   "score": 0.2991898,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
    "title": {
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.2954496,
+   "score": 0.2950826,
    "languages": [
     "fr",
     "en",
     "pl",
     "tr"
-   ]
-  },
-  {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
-   "title": {
-    "en": "SKY CLAW"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en"
    ]
   },
   {
@@ -46,12 +46,24 @@
    ]
   },
   {
+   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "title": {
+    "en": "SKY CLAW"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
    "title": {
     "en": "Monster and Child"
    },
    "contentRating": "safe",
-   "score": 0.27138767,
+   "score": 0.26903492,
    "languages": [
     "en",
     "de"
@@ -63,7 +75,7 @@
     "en": "Divorce Concilation"
    },
    "contentRating": "safe",
-   "score": 0.2667411,
+   "score": 0.26560026,
    "languages": [
     "en",
     "fr",
@@ -77,18 +89,18 @@
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.26506758,
+   "score": 0.26489434,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
+   "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
    "title": {
-    "en": "Mana Sorcerer"
+    "en": "Rico"
    },
    "contentRating": "safe",
-   "score": 0.25763923,
+   "score": 0.26323354,
    "languages": [
     "en"
    ]
@@ -99,19 +111,19 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.2573553,
+   "score": 0.25831482,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
+   "id": "187aef3f-63d2-4cf4-812b-bc9c59bd4f15",
    "title": {
-    "en": "Rico"
+    "en": "Mana Sorcerer"
    },
    "contentRating": "safe",
-   "score": 0.25683412,
+   "score": 0.25731412,
    "languages": [
     "en"
    ]
@@ -122,23 +134,11 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.25335234,
+   "score": 0.25477916,
    "languages": [
     "en",
     "ca",
     "pt-br"
-   ]
-  },
-  {
-   "id": "a37a44f2-637f-45aa-a4ac-368bc3271a01",
-   "title": {
-    "en": "Starbiter Satsuki"
-   },
-   "contentRating": "safe",
-   "score": 0.25034973,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -147,7 +147,7 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.250099,
+   "score": 0.25285026,
    "languages": [
     "en"
    ]
@@ -158,7 +158,7 @@
     "en": "Kokodake no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.24958874,
+   "score": 0.2511937,
    "languages": [
     "fr",
     "pt-br",
@@ -167,26 +167,21 @@
    ]
   },
   {
-   "id": "e8136a19-50c8-4736-945b-b89e04d8b4e2",
+   "id": "a149e3c0-728e-438e-b2b0-50e548c38084",
    "title": {
-    "en": "NARUTO: Rai no Sho - Ai wo Itareta Kemono!!"
+    "en": "Senken no Majutsushi to Yobareta Kenshi"
    },
    "contentRating": "safe",
-   "score": 0.24907544,
+   "score": 0.24976248,
    "languages": [
+    "pt-br",
+    "zh-hk",
     "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "127574ba-7797-48dd-b6f1-ff2e10525d4f",
-   "title": {
-    "en": "Clown"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
+    "es",
+    "es-la",
+    "ru",
+    "fr",
+    "id"
    ]
   },
   {
@@ -199,7 +194,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
+   "title": {
+    "en": "Hane no Ichizoku"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:25+00:00"
+ "updatedAt": "2023-12-10T18:15:47+00:00"
 }

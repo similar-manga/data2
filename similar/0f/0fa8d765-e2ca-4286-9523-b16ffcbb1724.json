@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
+   "title": {
+    "en": "Monster Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.28898805,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "04b138cd-fd73-4d6d-8552-8d1de84821d2",
    "title": {
     "en": "Rich Player"
    },
    "contentRating": "safe",
-   "score": 0.29811597,
+   "score": 0.28704938,
    "languages": [
     "en",
     "pl",
@@ -22,14 +33,62 @@
    ]
   },
   {
-   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
+   "id": "812a9d5d-cc3b-4fea-9c70-b867e0d411b3",
    "title": {
-    "en": "Monster Kingdom"
+    "en": "Control Player"
    },
    "contentRating": "safe",
-   "score": 0.29371595,
+   "score": 0.27979764,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "630be1a8-d11a-4c96-a0b7-05775a977797",
+   "title": {
+    "en": "You Don't Decrypt at All, Do You?"
+   },
+   "contentRating": "safe",
+   "score": 0.27979475,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4bd6fce8-b276-4a42-b925-2059e7cf5202",
+   "title": {
+    "en": "Who Killed The Rabbit?"
+   },
+   "contentRating": "safe",
+   "score": 0.27586013,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "9c004064-f202-4f15-a278-4b68043b9ed4",
+   "title": {
+    "en": "The Top Player Returns"
+   },
+   "contentRating": "safe",
+   "score": 0.27487126,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "d21c9c1d-21ec-4a15-bc82-73d97458a1d3",
+   "title": {
+    "en": "Killing Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.27482402,
+   "languages": [
+    "en",
+    "ar"
    ]
   },
   {
@@ -38,10 +97,46 @@
     "en": "Moon Slayer"
    },
    "contentRating": "safe",
-   "score": 0.28107405,
+   "score": 0.274298,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "12d08397-4227-4a8b-97ca-718c587f1185",
+   "title": {
+    "en": "Closed Room Mafia"
+   },
+   "contentRating": "safe",
+   "score": 0.26977926,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "15f687c2-f3ae-4291-864e-45d0979b13db",
+   "title": {
+    "en": "Insanely Talented Player"
+   },
+   "contentRating": "safe",
+   "score": 0.26607233,
+   "languages": [
+    "en",
+    "ar",
+    "fr"
+   ]
+  },
+  {
+   "id": "f53a2a67-ae9a-4446-8ca3-7c2726417f4b",
+   "title": {
+    "en": "Mr Ghost's Dark Philosophy"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -50,159 +145,62 @@
     "en": "Resurgence of the Solo Beta Player"
    },
    "contentRating": "safe",
-   "score": 0.26235148,
+   "score": 0.25466558,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f817d19e-e377-4fe3-b3e7-a334e80fb6f7",
+   "id": "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
    "title": {
-    "en": "How to Live as a Villain"
+    "en": "Memory Lost"
    },
    "contentRating": "safe",
-   "score": 0.24744548,
+   "score": 0.25388408,
    "languages": [
-    "pt-br",
-    "en",
-    "fr"
+    "fr",
+    "en"
    ]
   },
   {
-   "id": "cac1a74c-0b5f-498a-8472-05f0636e1b4d",
+   "id": "813e80c5-6218-4385-80c9-4486a9f02f81",
    "title": {
-    "en": "Return to Player"
+    "en": "King's Game"
    },
    "contentRating": "safe",
-   "score": 0.24154289,
+   "score": 0.25127015,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a796fb50-cdc9-4c15-a48d-bc1d733d89b2",
+   "title": {
+    "en": "The Player Who Can't Level Up"
+   },
+   "contentRating": "safe",
+   "score": 0.25021437,
+   "languages": [
+    "en",
     "id",
-    "fr",
-    "es-la",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "eeb59fad-4a3e-4630-941a-4901982c4124",
-   "title": {
-    "en": "Over Clock"
-   },
-   "contentRating": "safe",
-   "score": 0.24137887,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7d76130c-1bc8-4e5a-9add-641f5a1b59f3",
-   "title": {
-    "en": "Introduction to Survival"
-   },
-   "contentRating": "safe",
-   "score": 0.23867472,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f87ef97f-2c89-4525-9f25-d53f848ad85b",
-   "title": {
-    "en": "Stop The World"
-   },
-   "contentRating": "safe",
-   "score": 0.23141633,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b99cfe41-e70c-4f4a-9722-bf386b17c86b",
-   "title": {
-    "en": "Unemployed Monster Player"
-   },
-   "contentRating": "safe",
-   "score": 0.22581115,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a826622d-f6c7-4654-bd77-3a0b54608839",
-   "title": {
-    "en": "Logout Disabled in VR Chat"
-   },
-   "contentRating": "safe",
-   "score": 0.22507544,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c03ce43-04ab-438b-82c0-28c90a92afd9",
-   "title": {
-    "en": "Blood Ties"
-   },
-   "contentRating": "safe",
-   "score": 0.22240296,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "feae68c5-11cd-4b88-a220-39d7fa653c11",
-   "title": {
-    "en": "Winner Takes All"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "tr",
+    "pl",
     "pt-br",
-    "es-la",
     "fr",
-    "id",
-    "ru",
-    "pl"
+    "cs",
+    "de"
    ]
   },
   {
-   "id": "87ee91f5-144d-4112-9e80-940f4b473c21",
+   "id": "9cbdfea8-ce4d-49f5-a331-a280c03943b7",
    "title": {
-    "en": "It's Mine"
+    "en": "Monarch of Supreme Beings"
    },
    "contentRating": "safe",
-   "score": 0.22043337,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "338fd64d-37c5-410a-929a-938cda8234e2",
-   "title": {
-    "en": "The End Of A Relationship"
-   },
-   "contentRating": "safe",
-   "score": 0.22043337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4194a3ec-0941-47d2-91f4-639830204ecd",
-   "title": {
-    "en": "Can't Be Answered"
-   },
-   "contentRating": "safe",
-   "score": 0.22043337,
+   "score": 0.25015718,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:22+00:00"
+ "updatedAt": "2023-12-10T18:10:01+00:00"
 }

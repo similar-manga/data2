@@ -6,27 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ccd9f11a-b8fd-4ca3-ac07-30b3662f00f9",
+   "title": {
+    "en": "Insect Detective Yoshimi Yoshida"
+   },
+   "contentRating": "safe",
+   "score": 0.3230379,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6288dd4e-645a-41e8-bca1-620fbde9192a",
    "title": {
     "en": "Nazo Riron de Yuuwaku Shitekuru 1 Tsuki no Guutara-chan"
    },
    "contentRating": "safe",
-   "score": 0.2757022,
+   "score": 0.27223027,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "3848f3c0-dcb3-4b12-8ce3-bea8a5f8bde8",
+   "id": "297cf20c-ac36-44bb-9ba1-632f06372051",
    "title": {
-    "en": "I Can Hear You"
+    "en": "Kanjou wo Shokusu Uchuujin to Kanjou no Nai Shoujo"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
     "id",
-    "pt-br",
     "en"
    ]
   },
@@ -44,14 +54,15 @@
    ]
   },
   {
-   "id": "297cf20c-ac36-44bb-9ba1-632f06372051",
+   "id": "3848f3c0-dcb3-4b12-8ce3-bea8a5f8bde8",
    "title": {
-    "en": "Kanjou wo Shokusu Uchuujin to Kanjou no Nai Shoujo"
+    "en": "I Can Hear You"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
     "id",
+    "pt-br",
     "en"
    ]
   },
@@ -61,7 +72,7 @@
     "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.25160518,
+   "score": 0.25205055,
    "languages": [
     "en"
    ]
@@ -96,7 +107,7 @@
     "en": "Weeping Insect"
    },
    "contentRating": "safe",
-   "score": 0.24014439,
+   "score": 0.24093166,
    "languages": [
     "en"
    ]
@@ -107,21 +118,23 @@
     "en": "New Model Android"
    },
    "contentRating": "safe",
-   "score": 0.2381064,
+   "score": 0.23765135,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9e781e17-5b7f-4836-9f91-20d9cf047bd8",
+   "id": "f82a5179-ad2a-491a-b1a1-6cabbd36c6b8",
    "title": {
-    "en": "AI-san ga dekiru koto"
+    "en": "Looks Don't Really Matter Much at the Job"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.23017098,
    "languages": [
     "id",
-    "en"
+    "en",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -138,13 +151,14 @@
    ]
   },
   {
-   "id": "b6fdde1a-f913-4ae6-a254-b96ed142caf8",
+   "id": "9e781e17-5b7f-4836-9f91-20d9cf047bd8",
    "title": {
-    "en": "My Pure Boyfriend Has an Unusual Dog"
+    "en": "AI-san ga dekiru koto"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
+    "id",
     "en"
    ]
   },
@@ -160,41 +174,30 @@
    ]
   },
   {
+   "id": "b6fdde1a-f913-4ae6-a254-b96ed142caf8",
+   "title": {
+    "en": "My Pure Boyfriend Has an Unusual Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
    "title": {
     "en": "Space Battleship Silver Seven"
    },
    "contentRating": "safe",
-   "score": 0.22501789,
+   "score": 0.22642101,
    "languages": [
     "fr",
     "es-la",
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "368606f2-63bf-404b-8ef3-d1e170d648c9",
-   "title": {
-    "en": "A Junior Trying to Sleep With His Senior"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7ca8feab-cb58-4ebd-9b3a-659ae88dfc97",
-   "title": {
-    "en": "Alien Manga: The Uninvited Guest"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:34+00:00"
+ "updatedAt": "2023-12-10T18:10:35+00:00"
 }

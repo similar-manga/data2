@@ -11,7 +11,7 @@
     "en": "Snow Maidens"
    },
    "contentRating": "safe",
-   "score": 0.29961175,
+   "score": 0.30141455,
    "languages": [
     "fr",
     "ar",
@@ -31,19 +31,6 @@
    ]
   },
   {
-   "id": "6b5964af-3733-43a5-933a-f7967b207e3c",
-   "title": {
-    "en": "Cathexis"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
    "id": "b486153b-9c14-45c5-ac6e-6c17b87d8b9c",
    "title": {
     "en": "A Short Yandere Manga"
@@ -59,19 +46,16 @@
    ]
   },
   {
-   "id": "21adfa02-30d5-4064-8848-a7b386c23dca",
+   "id": "6b5964af-3733-43a5-933a-f7967b207e3c",
    "title": {
-    "en": "Heibon na Kanojo"
+    "en": "Cathexis"
    },
    "contentRating": "safe",
-   "score": 0.26559046,
+   "score": 0.2857143,
    "languages": [
-    "id",
-    "fr",
-    "pt-br",
     "en",
-    "ru",
-    "it"
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -80,7 +64,7 @@
     "en": "Ai no Donor"
    },
    "contentRating": "safe",
-   "score": 0.26338392,
+   "score": 0.26421687,
    "languages": [
     "tr",
     "ca",
@@ -94,26 +78,19 @@
    ]
   },
   {
-   "id": "95961946-c987-4003-97e5-fdbeb4a30f3f",
+   "id": "21adfa02-30d5-4064-8848-a7b386c23dca",
    "title": {
-    "en": "Yume no Tsudzuki"
+    "en": "Heibon na Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.2514598,
+   "score": 0.25943038,
    "languages": [
+    "id",
+    "fr",
+    "pt-br",
     "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "bbac41ea-02a4-4818-bc99-e3c4d9e1cb01",
-   "title": {
-    "en": "Les Chroniques de Piwi"
-   },
-   "contentRating": "safe",
-   "score": 0.25083968,
-   "languages": [
-    "fr"
+    "ru",
+    "it"
    ]
   },
   {
@@ -122,7 +99,7 @@
     "en": "A Life"
    },
    "contentRating": "safe",
-   "score": 0.2501588,
+   "score": 0.25255433,
    "languages": [
     "pt-br",
     "it",
@@ -131,12 +108,24 @@
    ]
   },
   {
+   "id": "95961946-c987-4003-97e5-fdbeb4a30f3f",
+   "title": {
+    "en": "Yume no Tsudzuki"
+   },
+   "contentRating": "safe",
+   "score": 0.25208303,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "7c9ced56-7369-4980-bf19-f722c65a0f20",
    "title": {
     "en": "Shichijisugi no Futaribocchi"
    },
    "contentRating": "safe",
-   "score": 0.24776141,
+   "score": 0.24837975,
    "languages": [
     "id",
     "en",
@@ -144,37 +133,12 @@
    ]
   },
   {
-   "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
+   "id": "2f2ad332-6a82-4a8e-9f00-76d1aea69f33",
    "title": {
-    "en": "Ikite Kurete Arigatou"
+    "en": "Shining Fragment"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "ar",
-    "en"
-   ]
-  },
-  {
-   "id": "f3ea43f0-f35c-4628-a9f2-2e93e090470b",
-   "title": {
-    "en": "Kanojo no Kare"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "73971ccf-fbba-4891-8df2-2bd5eebf79ba",
-   "title": {
-    "en": "1/2"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24773091,
    "languages": [
     "en"
    ]
@@ -205,6 +169,46 @@
    ]
   },
   {
+   "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
+   "title": {
+    "en": "I Have a Happy Dream"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "tl",
+    "fr",
+    "id",
+    "it",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "19e320b7-716a-453f-b084-15bb9cd4f368",
+   "title": {
+    "en": "A Silent Country"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
+   "title": {
+    "en": "Ikite Kurete Arigatou"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "ar",
+    "en"
+   ]
+  },
+  {
    "id": "848cceb3-98bd-4a4e-8ab4-cd5c789dd074",
    "title": {
     "en": "Words Left by My Best Friend to My Dead Body"
@@ -216,5 +220,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:25+00:00"
+ "updatedAt": "2023-12-10T18:10:09+00:00"
 }

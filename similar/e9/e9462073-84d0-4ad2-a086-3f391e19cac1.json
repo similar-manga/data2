@@ -6,23 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9cff70a9-6cbd-400f-bbe8-151b2f078677",
+   "title": {
+    "en": "Shakaijin Yuri Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.3254993,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "5e8e808f-1ccb-403f-b255-92e275c034f4",
    "title": {
     "en": "Cinnamon: Jingai x Ningen Yuri Anthology"
    },
    "contentRating": "safe",
-   "score": 0.30458328,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
-   "title": {
-    "en": "Good Weather"
-   },
-   "contentRating": "safe",
-   "score": 0.296399,
+   "score": 0.297944,
    "languages": [
     "en"
    ]
@@ -33,21 +34,20 @@
     "en": "The Young Maiden in Love Is a Carnivore"
    },
    "contentRating": "safe",
-   "score": 0.29598957,
+   "score": 0.29243705,
    "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
+   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
    "title": {
-    "en": "First Love"
+    "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.28984588,
+   "score": 0.28980187,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -57,7 +57,7 @@
     "en": "Tsubomi (Anthology)"
    },
    "contentRating": "safe",
-   "score": 0.28912294,
+   "score": 0.2882341,
    "languages": [
     "it",
     "en",
@@ -66,12 +66,24 @@
    ]
   },
   {
+   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
+   "title": {
+    "en": "First Love"
+   },
+   "contentRating": "safe",
+   "score": 0.28402326,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
    "title": {
     "en": "After Friend"
    },
    "contentRating": "safe",
-   "score": 0.28504094,
+   "score": 0.28123093,
    "languages": [
     "pl",
     "en"
@@ -83,10 +95,22 @@
     "en": "When She Touches Me"
    },
    "contentRating": "safe",
-   "score": 0.2844246,
+   "score": 0.28109962,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "b1ea353f-f33d-491a-aef6-02e8e0d78810",
+   "title": {
+    "en": "A story about a senpai who wants to reject a girl at least once."
+   },
+   "contentRating": "safe",
+   "score": 0.27794728,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -95,7 +119,7 @@
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.28082633,
+   "score": 0.27634266,
    "languages": [
     "fr",
     "id",
@@ -114,7 +138,7 @@
     "en": "One Day"
    },
    "contentRating": "safe",
-   "score": 0.277296,
+   "score": 0.2718425,
    "languages": [
     "en",
     "pl"
@@ -126,7 +150,7 @@
     "en": "A Story About a Devil-like Childhood Friend"
    },
    "contentRating": "safe",
-   "score": 0.27699825,
+   "score": 0.2702943,
    "languages": [
     "en",
     "pt-br",
@@ -139,7 +163,7 @@
     "en": "Shitty Story of a Super Loser in Love"
    },
    "contentRating": "safe",
-   "score": 0.27487975,
+   "score": 0.2700173,
    "languages": [
     "en"
    ]
@@ -150,7 +174,7 @@
     "en": "Wishing on the Moon"
    },
    "contentRating": "safe",
-   "score": 0.2700737,
+   "score": 0.26732343,
    "languages": [
     "en",
     "tr",
@@ -163,7 +187,7 @@
     "en": "Cute and Cruel"
    },
    "contentRating": "safe",
-   "score": 0.2680249,
+   "score": 0.2664851,
    "languages": [
     "en"
    ]
@@ -174,35 +198,12 @@
     "en": "Hyakuoku Nengo no Kimi no Koe mo"
    },
    "contentRating": "safe",
-   "score": 0.2669063,
+   "score": 0.26548663,
    "languages": [
     "it",
     "en"
    ]
-  },
-  {
-   "id": "c8e79f20-7f84-4b95-bce4-9986c12ec873",
-   "title": {
-    "en": "How Can I Be Your Model? There's Just No Way!!"
-   },
-   "contentRating": "safe",
-   "score": 0.26122764,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "e39a34a0-1455-4597-ab9b-a7087a91c955",
-   "title": {
-    "en": "Yuri Manga for Studying Japanese"
-   },
-   "contentRating": "safe",
-   "score": 0.26112896,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:24+00:00"
+ "updatedAt": "2023-12-10T18:34:01+00:00"
 }

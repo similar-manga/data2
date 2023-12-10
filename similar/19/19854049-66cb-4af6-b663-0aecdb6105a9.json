@@ -11,7 +11,7 @@
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.2940618,
+   "score": 0.2994148,
    "languages": [
     "en",
     "pl",
@@ -24,7 +24,7 @@
     "en": "Beelzebub (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.2878853,
+   "score": 0.29408586,
    "languages": [
     "en",
     "pl",
@@ -53,7 +53,18 @@
     "en": "Shimatsuya K"
    },
    "contentRating": "safe",
-   "score": 0.2772086,
+   "score": 0.2758309,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
+   "title": {
+    "en": "Disaster, Old Man and Monster"
+   },
+   "contentRating": "safe",
+   "score": 0.27173436,
    "languages": [
     "en"
    ]
@@ -64,7 +75,7 @@
     "en": "SWOT (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.268779,
+   "score": 0.26906213,
    "languages": [
     "pl",
     "en"
@@ -76,18 +87,7 @@
     "en": "Shunkan Heroism"
    },
    "contentRating": "safe",
-   "score": 0.2675989,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
-   "title": {
-    "en": "Disaster, Old Man and Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.2634692,
+   "score": 0.2667817,
    "languages": [
     "en"
    ]
@@ -98,26 +98,29 @@
     "en": "Dangan Tenshi Fan Club"
    },
    "contentRating": "safe",
-   "score": 0.25568393,
+   "score": 0.25948253,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2948a561-5f8d-4689-a83c-88c467c32658",
+   "title": {
+    "en": "Kamidori"
+   },
+   "contentRating": "safe",
+   "score": 0.25813174,
+   "languages": [
+    "pt-br",
+    "en",
+    "mn",
+    "pl"
    ]
   },
   {
    "id": "cff67ddb-91c8-4a5a-b5dc-edb0b5fadc37",
    "title": {
     "en": "Ane Pani"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8124a347-eab0-4f78-a93b-09cb671d9bbf",
-   "title": {
-    "en": "Kami-sama ni Rocket Punch!!"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -137,31 +140,6 @@
     "en",
     "ro",
     "pl"
-   ]
-  },
-  {
-   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
-   "title": {
-    "en": "Sakamoto"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "it",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -187,19 +165,45 @@
    ]
   },
   {
-   "id": "2948a561-5f8d-4689-a83c-88c467c32658",
+   "id": "8124a347-eab0-4f78-a93b-09cb671d9bbf",
    "title": {
-    "en": "Kamidori"
+    "en": "Kami-sama ni Rocket Punch!!"
    },
    "contentRating": "safe",
-   "score": 0.25451657,
+   "score": 0.25555065,
    "languages": [
-    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
+   "title": {
+    "en": "Sakamoto"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "it",
+    "vi",
     "en",
-    "mn",
-    "pl"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "6557eb65-86a8-4d3a-8258-7354f7972a96",
+   "title": {
+    "en": "13"
+   },
+   "contentRating": "safe",
+   "score": 0.25225532,
+   "languages": [
+    "es",
+    "ca",
+    "pl",
+    "pt-br",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:44+00:00"
+ "updatedAt": "2023-12-10T18:11:03+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
+   "title": {
+    "en": "Blue Blazes"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17957817,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7e3d081f-30f2-475d-83bb-e247cffea3d6",
    "title": {
     "en": "Isshiki-san wa Koi wo shiritai."
    },
    "contentRating": "suggestive",
-   "score": 0.17857799,
+   "score": 0.17798679,
    "languages": [
     "vi",
     "en",
@@ -21,14 +32,16 @@
    ]
   },
   {
-   "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
+   "id": "4fb8e8e0-971d-44a1-846a-038cd3129e41",
    "title": {
-    "en": "Blue Blazes"
+    "en": "Dakkou Suru Made Ochimasen"
    },
    "contentRating": "suggestive",
-   "score": 0.17717844,
+   "score": 0.15418394,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -37,7 +50,7 @@
     "en": "Asoko de Hataraku Musubu-san"
    },
    "contentRating": "suggestive",
-   "score": 0.16187443,
+   "score": 0.15418394,
    "languages": [
     "pt-br",
     "id",
@@ -60,25 +73,12 @@
    ]
   },
   {
-   "id": "4fb8e8e0-971d-44a1-846a-038cd3129e41",
-   "title": {
-    "en": "Dakkou Suru Made Ochimasen"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15418394,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
    "id": "be182a31-d96f-46c0-b26a-79c3ff8aeaa9",
    "title": {
     "en": "Kamen no Maid Guy"
    },
    "contentRating": "suggestive",
-   "score": 0.15380542,
+   "score": 0.15348329,
    "languages": [
     "en"
    ]
@@ -89,7 +89,7 @@
     "en": "Ghost Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.149383,
+   "score": 0.14808159,
    "languages": [
     "ru",
     "fr",
@@ -104,7 +104,7 @@
     "en": "Yozakura Quartet"
    },
    "contentRating": "suggestive",
-   "score": 0.14825578,
+   "score": 0.14784272,
    "languages": [
     "vi",
     "en",
@@ -132,7 +132,7 @@
     "en": "SM Kanojo"
    },
    "contentRating": "suggestive",
-   "score": 0.14324734,
+   "score": 0.14260636,
    "languages": [
     "pt-br",
     "en",
@@ -145,7 +145,7 @@
     "en": "Kuro Gyaru-san ga Kuru!"
    },
    "contentRating": "suggestive",
-   "score": 0.1421133,
+   "score": 0.14175631,
    "languages": [
     "id",
     "fr",
@@ -170,61 +170,59 @@
    ]
   },
   {
-   "id": "36bf89fe-a437-4e9d-b30e-c38dc54a91c4",
+   "id": "ca8bfe72-b486-4341-b1c5-072fb2ccb193",
    "title": {
-    "en": "Kakkou no Iinazuke (Oneshot)"
+    "en": "Loveroid"
    },
    "contentRating": "suggestive",
-   "score": 0.1335272,
+   "score": 0.13397487,
    "languages": [
-    "en",
-    "ru",
     "es",
-    "pt-br",
-    "it"
+    "en"
    ]
   },
   {
-   "id": "43abd2e4-cbb0-4368-aa0d-6bb2c04caf96",
+   "id": "b64cdcc2-b4e9-48f7-b45e-7f6e80aabd3a",
    "title": {
-    "en": "Kanojo no Sore ni Yarareteru"
+    "en": "Yowa Yowa Sensei"
    },
    "contentRating": "suggestive",
    "score": 0.1335272,
    "languages": [
-    "id",
-    "fr",
-    "en",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "6fe65679-5279-4fae-8c9e-60f0c95b2142",
-   "title": {
-    "ja-ro": "Kyoshiri no Nirugame-chan to Usami-kun"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1335272,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "eb48c615-1c00-4726-b839-850d01d774b0",
-   "title": {
-    "en": "Omae Imouto ja Nakute Iinazuke datta no kayo!?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1335272,
-   "languages": [
-    "en",
-    "id",
     "vi",
-    "ru"
+    "en",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "ebb6a74c-cf3e-488d-b038-aa8ffe5346f7",
+   "title": {
+    "en": "Sabishigariya no muboubi nyanko"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1335272,
+   "languages": [
+    "pt-br",
+    "id",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "77122bdd-1cbc-42a6-8eea-8167d6d3bb39",
+   "title": {
+    "en": "Shuukan Brick"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1335272,
+   "languages": [
+    "en",
+    "id",
+    "tr",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:05+00:00"
+ "updatedAt": "2023-12-10T18:17:26+00:00"
 }

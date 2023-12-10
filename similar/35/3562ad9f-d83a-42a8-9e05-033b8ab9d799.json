@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4ee48180-4668-4882-b8df-a429ec51581f",
+   "title": {
+    "en": "Black Sheep"
+   },
+   "contentRating": "safe",
+   "score": 0.25750363
+  },
+  {
    "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
    "title": {
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.2499875,
+   "score": 0.24942942,
    "languages": [
     "en"
    ]
@@ -22,11 +30,41 @@
     "en": "Kuro Tenkousei"
    },
    "contentRating": "safe",
-   "score": 0.24809414,
+   "score": 0.22888406,
    "languages": [
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.21554314,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a034cfc5-bcb9-44a6-adf1-87b3b08a1efc",
+   "title": {
+    "en": "Honoo no Mirage"
+   },
+   "contentRating": "safe",
+   "score": 0.21025084,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bd7ade4-51e4-45aa-9b60-58d48e49d5ea",
+   "title": {
+    "en": "Himitsu - Season 0"
+   },
+   "contentRating": "safe",
+   "score": 0.2081377
   },
   {
    "id": "5e05c279-67e1-4ae7-b0d2-a3b126671b1f",
@@ -42,6 +80,14 @@
    ]
   },
   {
+   "id": "ce723579-1e96-427e-8916-005e84c4d400",
+   "title": {
+    "en": "The Puppet Master Lin"
+   },
+   "contentRating": "safe",
+   "score": 0.2081377
+  },
+  {
    "id": "1ea0f276-bd86-4d26-a61a-aa5acf8c93be",
    "title": {
     "en": "Daisan no Teikoku"
@@ -50,12 +96,39 @@
    "score": 0.20086016
   },
   {
+   "id": "d6e689e8-6a75-4f4d-915a-46d83bba93fa",
+   "title": {
+    "en": "Honou no Mirage R"
+   },
+   "contentRating": "safe",
+   "score": 0.20086016
+  },
+  {
+   "id": "6c56ecf3-3256-4ada-9ed4-1271f961a155",
+   "title": {
+    "en": "Weiss Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.19873638,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "532ee234-8cdb-4c14-88cc-db52f8ab9a75",
+   "title": {
+    "en": "T.E. Lawrence"
+   },
+   "contentRating": "safe",
+   "score": 0.19741945
+  },
+  {
    "id": "e3e42a9f-d1e2-4fac-ba69-746c124bd818",
    "title": {
     "en": "El Halcón -The Hawk-"
    },
    "contentRating": "safe",
-   "score": 0.19039898,
+   "score": 0.18958944,
    "languages": [
     "en"
    ]
@@ -66,15 +139,7 @@
     "en": "Messiah - Seiiki Ishuu"
    },
    "contentRating": "safe",
-   "score": 0.18355304
-  },
-  {
-   "id": "76e7b87f-49ed-4a56-8687-d0b4e85c6064",
-   "title": {
-    "en": "Dreamer"
-   },
-   "contentRating": "safe",
-   "score": 0.18025254
+   "score": 0.1833498
   },
   {
    "id": "d2b564b6-91c9-4d70-8512-8981e1a747ee",
@@ -85,81 +150,20 @@
    "score": 0.18025254
   },
   {
-   "id": "1c97d23e-10f7-4373-9e87-89be6e5d6363",
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
    "title": {
-    "en": "\"Bungaku Shoujo\" to Koisuru Poet"
+    "en": "Satsuriku no Tenshi: Episode.0"
    },
    "contentRating": "safe",
-   "score": 0.18025254
-  },
-  {
-   "id": "0cf68698-5407-4f98-96ce-0020604b737c",
-   "title": {
-    "en": "Boku wa Chikyuu to Utau"
-   },
-   "contentRating": "safe",
-   "score": 0.17408028
-  },
-  {
-   "id": "1e440a10-709a-41e9-a546-c20e2fc0406f",
-   "title": {
-    "en": "The Descendant of the Dynasty"
-   },
-   "contentRating": "safe",
-   "score": 0.17146963,
+   "score": 0.18025254,
    "languages": [
+    "ru",
     "en",
-    "fr",
-    "tr"
+    "pt-br",
+    "es",
+    "pl"
    ]
-  },
-  {
-   "id": "d872bcf3-2e1a-461e-aef2-5db25bf08d99",
-   "title": {
-    "en": "Elegant Men"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "9114fc63-3a24-4028-9e0a-fed2df8d1f38",
-   "title": {
-    "en": "Hoshi no Sabaku"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372
-  },
-  {
-   "id": "513e5dc0-f328-48f3-892e-bdbf18ea9331",
-   "title": {
-    "en": "Onohara Henshindou"
-   },
-   "contentRating": "safe",
-   "score": 0.16994372,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fb7c4d5e-3655-4432-93f6-5061a9e03c1b",
-   "title": {
-    "en": "Ninja Slayer: Glamorous Killers"
-   },
-   "contentRating": "safe",
-   "score": 0.16726612
-  },
-  {
-   "id": "35f29287-0937-4fd9-af79-ab0449607cc4",
-   "title": {
-    "en": "Shounen wa Kouya o Mezasu"
-   },
-   "contentRating": "safe",
-   "score": 0.16312912
   }
  ],
- "updatedAt": "2023-12-10T01:01:48+00:00"
+ "updatedAt": "2023-12-10T18:14:01+00:00"
 }

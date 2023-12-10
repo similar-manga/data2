@@ -11,7 +11,7 @@
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.34393242,
+   "score": 0.35234421,
    "languages": [
     "de",
     "es-la",
@@ -24,7 +24,7 @@
     "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.30484468,
+   "score": 0.31277183,
    "languages": [
     "en"
    ]
@@ -35,22 +35,10 @@
     "en": "Uchuu no Sparrow"
    },
    "contentRating": "safe",
-   "score": 0.2654362,
+   "score": 0.2729898,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "6735a8c9-506b-413a-bf6c-cd33ede35bb0",
-   "title": {
-    "en": "Motokano to no Jirettai Gisou Kekkon"
-   },
-   "contentRating": "safe",
-   "score": 0.2629236,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -59,9 +47,21 @@
     "en": "Kawaisugi Crisis"
    },
    "contentRating": "safe",
-   "score": 0.26228335,
+   "score": 0.26706612,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6735a8c9-506b-413a-bf6c-cd33ede35bb0",
+   "title": {
+    "en": "Motokano to no Jirettai Gisou Kekkon"
+   },
+   "contentRating": "safe",
+   "score": 0.25556353,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -70,20 +70,33 @@
     "en": "The Things I Hate About You"
    },
    "contentRating": "safe",
-   "score": 0.2537746,
+   "score": 0.2536281,
    "languages": [
     "de",
     "en"
    ]
   },
   {
-   "id": "862b052b-1c72-42a2-9ffa-f6f79451b26c",
+   "id": "112fc0f3-3661-4428-a2dc-3715d72b6ab6",
    "title": {
-    "en": "365 Nichi no Koubou"
+    "en": "Jamais Vu"
+   },
+   "contentRating": "safe",
+   "score": 0.24988213,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a77b83dd-16d4-4d0f-b01b-86e98c67c243",
+   "title": {
+    "en": "Tomoe Koga’s Birthday | 2020"
    },
    "contentRating": "safe",
    "score": 0.24311288,
    "languages": [
+    "ru",
+    "it",
     "en"
    ]
   },
@@ -99,27 +112,24 @@
    ]
   },
   {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "id": "862b052b-1c72-42a2-9ffa-f6f79451b26c",
    "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+    "en": "365 Nichi no Koubou"
    },
    "contentRating": "safe",
    "score": 0.24311288,
    "languages": [
-    "it",
     "en"
    ]
   },
   {
-   "id": "a77b83dd-16d4-4d0f-b01b-86e98c67c243",
+   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
    "title": {
-    "en": "Tomoe Koga’s Birthday | 2020"
+    "en": "Itsuka, Kimi wo"
    },
    "contentRating": "safe",
    "score": 0.24311288,
    "languages": [
-    "ru",
-    "it",
     "en"
    ]
   },
@@ -138,13 +148,14 @@
    ]
   },
   {
-   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
+   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
    "title": {
-    "en": "Itsuka, Kimi wo"
+    "en": "Asaoka High School Baseball Team Journal - Over Fence"
    },
    "contentRating": "safe",
    "score": 0.24311288,
    "languages": [
+    "it",
     "en"
    ]
   },
@@ -160,14 +171,20 @@
    ]
   },
   {
-   "id": "112fc0f3-3661-4428-a2dc-3715d72b6ab6",
+   "id": "bd0d428d-8caf-4747-9b42-a6983ab28a4e",
    "title": {
-    "en": "Jamais Vu"
+    "en": "The Scum of the Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.24105552,
+   "score": 0.23674622,
    "languages": [
-    "en"
+    "ru",
+    "it",
+    "fr",
+    "pt-br",
+    "en",
+    "tr",
+    "de"
    ]
   },
   {
@@ -180,21 +197,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7dd61a12-4cbe-49f1-8add-d804c99867e2",
-   "title": {
-    "en": "A Story about A Quiet Gyaru Who Got Confessed by an Extremely Straight-Forward Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.23189478,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br",
-    "tl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:05+00:00"
+ "updatedAt": "2023-12-10T18:09:16+00:00"
 }

@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9cff70a9-6cbd-400f-bbe8-151b2f078677",
+   "title": {
+    "en": "Shakaijin Yuri Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.38344935,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "e9462073-84d0-4ad2-a086-3f391e19cac1",
    "title": {
     "en": "Eclair - Anata ni Hibiku Yuri Anthology"
    },
    "contentRating": "safe",
-   "score": 0.30371433,
+   "score": 0.29707506,
    "languages": [
     "fr",
     "ru",
@@ -28,7 +40,7 @@
     "en": "Baby Cinnamon"
    },
    "contentRating": "safe",
-   "score": 0.28507283,
+   "score": 0.2872359,
    "languages": [
     "en"
    ]
@@ -39,22 +51,10 @@
     "en": "Yuri Shoujo (Anthology)"
    },
    "contentRating": "safe",
-   "score": 0.27650404,
+   "score": 0.27617294,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "b09e79d6-d149-4daf-9c05-5f33acc79c8e",
-   "title": {
-    "en": "Stay as Who You Are"
-   },
-   "contentRating": "safe",
-   "score": 0.2693479,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -63,9 +63,21 @@
     "en": "Original Yuri Manga"
    },
    "contentRating": "safe",
-   "score": 0.26908937,
+   "score": 0.2709717,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b09e79d6-d149-4daf-9c05-5f33acc79c8e",
+   "title": {
+    "en": "Stay as Who You Are"
+   },
+   "contentRating": "safe",
+   "score": 0.26865017,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -87,7 +99,7 @@
     "en": "Tsubomi (Anthology)"
    },
    "contentRating": "safe",
-   "score": 0.25599,
+   "score": 0.25632617,
    "languages": [
     "it",
     "en",
@@ -101,7 +113,7 @@
     "en": "My Story of Being Loved"
    },
    "contentRating": "safe",
-   "score": 0.2510681,
+   "score": 0.24977802,
    "languages": [
     "en"
    ]
@@ -112,7 +124,7 @@
     "en": "Sugar Momma Yuri - Mother's Day With an Older (Baby-faced) Sugar Momma and a Well-Behaved High Schooler"
    },
    "contentRating": "safe",
-   "score": 0.24602585,
+   "score": 0.24636118,
    "languages": [
     "id",
     "en"
@@ -124,18 +136,7 @@
     "en": "Watashi ga Riaru de, Yuri Nante."
    },
    "contentRating": "safe",
-   "score": 0.24178371,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "410e17b8-295a-453c-b1a9-f360199157e7",
-   "title": {
-    "en": "LAND ESCAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.23703212,
+   "score": 0.24393748,
    "languages": [
     "en"
    ]
@@ -146,50 +147,52 @@
     "en": "Yuri Otaku Family"
    },
    "contentRating": "safe",
-   "score": 0.23527685,
+   "score": 0.23718078,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cf79770f-eedd-493f-b7ff-c2869b7ffca2",
+   "id": "410e17b8-295a-453c-b1a9-f360199157e7",
    "title": {
-    "en": "Asu Kara Ha Watashi No Koibito"
+    "en": "LAND ESCAPE"
    },
    "contentRating": "safe",
-   "score": 0.22796033,
+   "score": 0.2363483,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "59a181c7-5283-45b1-8b8a-3a61a7c41ca3",
+   "id": "2188d727-dd05-4afa-95b0-a6ec87855325",
    "title": {
-    "en": "The Sunset, Aromas, and the Signs of Love"
+    "en": "Peaceful Yuri Manga"
    },
    "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7a2da7e6-0496-4f24-b109-a2b0cbdc8ba8",
-   "title": {
-    "en": "Happy Moment"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
+   "score": 0.2301146,
    "languages": [
     "en",
-    "id",
-    "pl"
+    "ru",
+    "vi"
    ]
   },
   {
-   "id": "5d0de683-5959-4732-918a-e7eed72fa612",
+   "id": "7d5d4871-19e2-416d-aa9e-73e994a3546d",
    "title": {
-    "en": "Only Two Happy Endings"
+    "en": "Cool Girl on My Lap"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "he",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f2f6c6ec-9b9f-4191-8660-4ebef225b2d7",
+   "title": {
+    "en": "Sakuma to Watashi"
    },
    "contentRating": "safe",
    "score": 0.22796033,
@@ -198,5 +201,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:31+00:00"
+ "updatedAt": "2023-12-10T18:18:34+00:00"
 }

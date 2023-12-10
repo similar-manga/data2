@@ -11,7 +11,7 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.6206836,
+   "score": 0.62844163,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "My Biggest Regret"
    },
    "contentRating": "safe",
-   "score": 0.50369227,
+   "score": 0.47990203,
    "languages": [
     "id",
     "en"
@@ -34,7 +34,7 @@
     "en": "A Foolish Avenger"
    },
    "contentRating": "safe",
-   "score": 0.35858512,
+   "score": 0.3697549,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Dream to Be an Idol"
    },
    "contentRating": "safe",
-   "score": 0.27014717,
+   "score": 0.27744704,
    "languages": [
     "id",
     "en",
@@ -58,7 +58,7 @@
     "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.26339033,
+   "score": 0.26397946,
    "languages": [
     "en",
     "pt-br",
@@ -71,10 +71,22 @@
     "en": "Coward Cross World"
    },
    "contentRating": "safe",
-   "score": 0.25845012,
+   "score": 0.26392174,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
+   "title": {
+    "en": "I want you to ask me first!"
+   },
+   "contentRating": "safe",
+   "score": 0.22683352,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -83,8 +95,20 @@
     "en": "World's First Romcom: Oga and Bebe (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.22076952,
+   "score": 0.22022392,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ecc60148-aa1b-4e6d-94db-ff479a7cac77",
+   "title": {
+    "en": "Mangaka no Neko de Aru"
+   },
+   "contentRating": "safe",
+   "score": 0.21681377,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -100,27 +124,32 @@
    ]
   },
   {
-   "id": "ecc60148-aa1b-4e6d-94db-ff479a7cac77",
+   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
    "title": {
-    "en": "Mangaka no Neko de Aru"
+    "en": "Permanent God"
    },
    "contentRating": "safe",
-   "score": 0.21565218,
+   "score": 0.21019617,
    "languages": [
-    "es-la",
-    "en"
+    "pt-br",
+    "bg",
+    "hu",
+    "it",
+    "pl",
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "cb117c49-22e8-48e4-83cb-015aaae0d827",
+   "id": "8dfe4b0f-59f8-4f0b-a127-73324b110c6e",
    "title": {
-    "en": "LOVE THE WARZ"
+    "en": "The Small Joys of a Bold Girl"
    },
    "contentRating": "safe",
-   "score": 0.21293718,
+   "score": 0.2086253,
    "languages": [
-    "en",
     "pt-br",
+    "en",
     "vi"
    ]
   },
@@ -136,16 +165,14 @@
    ]
   },
   {
-   "id": "8dfe4b0f-59f8-4f0b-a127-73324b110c6e",
+   "id": "ad45fc82-85c2-409c-b781-6e863511af2c",
    "title": {
-    "en": "The Small Joys of a Bold Girl"
+    "en": "Bassen"
    },
    "contentRating": "safe",
    "score": 0.2086253,
    "languages": [
-    "pt-br",
-    "en",
-    "vi"
+    "en"
    ]
   },
   {
@@ -177,29 +204,7 @@
     "fr",
     "pt-br"
    ]
-  },
-  {
-   "id": "ad45fc82-85c2-409c-b781-6e863511af2c",
-   "title": {
-    "en": "Bassen"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c80b5f40-b4e1-42ad-a97f-38063ab34202",
-   "title": {
-    "en": "Quintilis no Umi"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:24+00:00"
+ "updatedAt": "2023-12-10T18:23:38+00:00"
 }

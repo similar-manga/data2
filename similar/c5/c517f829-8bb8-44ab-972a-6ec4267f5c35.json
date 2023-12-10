@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "75bab431-398c-46f4-9a37-7670997cb5a9",
+   "title": {
+    "en": "Atsui Fukushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.3345761,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e25e450f-b6d1-4495-9d0d-927e65462376",
    "title": {
     "en": "Just One Kiss"
    },
    "contentRating": "safe",
-   "score": 0.3268015,
+   "score": 0.32695812,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Thank You for the Meal"
    },
    "contentRating": "safe",
-   "score": 0.2932876,
+   "score": 0.29286277,
    "languages": [
     "en"
    ]
@@ -39,28 +50,39 @@
    ]
   },
   {
+   "id": "b94788db-d6e4-46bb-9eac-df5bfa11c702",
+   "title": {
+    "en": "Konaide Kounotori"
+   },
+   "contentRating": "safe",
+   "score": 0.28560802,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7c43279-1837-4fc4-87f8-8b458e08ed63",
+   "title": {
+    "en": "The Sweet Life Of January And May"
+   },
+   "contentRating": "safe",
+   "score": 0.282658,
+   "languages": [
+    "pl",
+    "es"
+   ]
+  },
+  {
    "id": "70d37f4c-e34d-468e-9788-4f59a5dc5b38",
    "title": {
     "en": "A Silent Greeting"
    },
    "contentRating": "safe",
-   "score": 0.27354598,
+   "score": 0.2738289,
    "languages": [
     "en",
     "pl",
     "ar"
-   ]
-  },
-  {
-   "id": "39b39a9e-3fa2-4e28-ad09-79ecd88dd04c",
-   "title": {
-    "en": "Blanc Marie"
-   },
-   "contentRating": "safe",
-   "score": 0.257022,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -69,7 +91,41 @@
     "en": "Primal"
    },
    "contentRating": "safe",
-   "score": 0.25630045,
+   "score": 0.25623953,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39b39a9e-3fa2-4e28-ad09-79ecd88dd04c",
+   "title": {
+    "en": "Blanc Marie"
+   },
+   "contentRating": "safe",
+   "score": 0.25309685,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "dcf08f77-cffb-4a16-95f5-d1a2d923d864",
+   "title": {
+    "en": "Anata o Wasuretai"
+   },
+   "contentRating": "safe",
+   "score": 0.2530693,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fd823893-8680-4c0c-bd1f-218ee3b742e0",
+   "title": {
+    "en": "Sweet Seduction"
+   },
+   "contentRating": "safe",
+   "score": 0.25288334,
    "languages": [
     "en"
    ]
@@ -80,7 +136,7 @@
     "en": "A Cursed Girl's Bible"
    },
    "contentRating": "safe",
-   "score": 0.25243527,
+   "score": 0.25237855,
    "languages": [
     "en"
    ]
@@ -91,54 +147,7 @@
     "en": "Ubawareta Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.24987008,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15db1e46-ef82-47e0-82d8-360753dfc95d",
-   "title": {
-    "en": "Yuria-sensei no Akai Ito"
-   },
-   "contentRating": "safe",
-   "score": 0.24836962,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bacf6a9f-daeb-426b-b2bf-ad17ae2ddd95",
-   "title": {
-    "en": "Non-chan to Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
-   "title": {
-    "en": "Gakusou"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "3499e772-395c-4fc6-91a4-fc6761d99775",
-   "title": {
-    "en": "Fuyu no Ou to Haru no Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24965289,
    "languages": [
     "en"
    ]
@@ -155,38 +164,28 @@
    ]
   },
   {
-   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
+   "id": "3499e772-395c-4fc6-91a4-fc6761d99775",
    "title": {
-    "en": "Leave"
+    "en": "Fuyu no Ou to Haru no Hime"
    },
    "contentRating": "safe",
-   "score": 0.24626175,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2ac2ad5c-dc2f-4f11-b637-fc34992a92c1",
+   "id": "bacf6a9f-daeb-426b-b2bf-ad17ae2ddd95",
    "title": {
-    "en": "The Flower Doll and her Husband"
+    "en": "Non-chan to Watashi"
    },
    "contentRating": "safe",
-   "score": 0.24244532,
+   "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bfd9fb29-6843-4bee-b096-7be221d12a52",
-   "title": {
-    "en": "A Dream Woven With a Sheik"
-   },
-   "contentRating": "safe",
-   "score": 0.24134386,
-   "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:53+00:00"
+ "updatedAt": "2023-12-10T18:30:16+00:00"
 }

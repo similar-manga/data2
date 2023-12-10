@@ -11,7 +11,7 @@
     "en": "Happy End no Uragawa"
    },
    "contentRating": "safe",
-   "score": 0.6720395,
+   "score": 0.6708175,
    "languages": [
     "pl",
     "en"
@@ -23,11 +23,22 @@
     "en": "Happy Happy Birthday"
    },
    "contentRating": "safe",
-   "score": 0.4258984,
+   "score": 0.4287928,
    "languages": [
     "it",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "429cc2ac-f947-456d-8f77-6c209b79d39b",
+   "title": {
+    "en": "Heartful"
+   },
+   "contentRating": "safe",
+   "score": 0.38805833,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -36,7 +47,7 @@
     "en": "The School Girl's Glasses"
    },
    "contentRating": "safe",
-   "score": 0.3748814,
+   "score": 0.3782281,
    "languages": [
     "en",
     "es-la"
@@ -48,7 +59,7 @@
     "en": "A story about how I started seeing myself and all the people around me as beautiful girls."
    },
    "contentRating": "safe",
-   "score": 0.3585125,
+   "score": 0.3573821,
    "languages": [
     "id",
     "en"
@@ -60,10 +71,21 @@
     "en": "Misa-chan"
    },
    "contentRating": "safe",
-   "score": 0.31898782,
+   "score": 0.30985045,
    "languages": [
     "ru",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "ee2484bb-3d2e-4f97-9fc0-f1873cc8e428",
+   "title": {
+    "en": "How High School Girls Fight"
+   },
+   "contentRating": "safe",
+   "score": 0.29610363,
+   "languages": [
     "en"
    ]
   },
@@ -73,7 +95,7 @@
     "en": "Celeste Blue"
    },
    "contentRating": "safe",
-   "score": 0.29640737,
+   "score": 0.29554018,
    "languages": [
     "pl",
     "en"
@@ -85,7 +107,7 @@
     "en": "Kiss Happiness Kiss"
    },
    "contentRating": "safe",
-   "score": 0.29636106,
+   "score": 0.29395726,
    "languages": [
     "pl",
     "en"
@@ -97,7 +119,7 @@
     "en": "Kowareta Bokura no Senryaku Ren'ai"
    },
    "contentRating": "safe",
-   "score": 0.29152375,
+   "score": 0.29245886,
    "languages": [
     "vi",
     "en",
@@ -106,13 +128,16 @@
    ]
   },
   {
-   "id": "ee2484bb-3d2e-4f97-9fc0-f1873cc8e428",
+   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
    "title": {
-    "en": "How High School Girls Fight"
+    "en": "Sora kara Onna no Ko ga!"
    },
    "contentRating": "safe",
-   "score": 0.29124892,
+   "score": 0.28993097,
    "languages": [
+    "ru",
+    "tr",
+    "vi",
     "en"
    ]
   },
@@ -122,21 +147,23 @@
     "en": "Koto no Ha"
    },
    "contentRating": "safe",
-   "score": 0.28716764,
+   "score": 0.28624246,
    "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "fb7f0a28-4a41-438e-9289-c12e9912627b",
+   "id": "697e0731-b28d-4a01-83a3-43bae426212b",
    "title": {
-    "en": "Twinkling Stars"
+    "en": "The Worthless Girl Who Wanted to Go to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.28524366,
+   "score": 0.28573817,
    "languages": [
-    "vi",
+    "de",
+    "fr",
+    "pl",
     "en"
    ]
   },
@@ -152,55 +179,31 @@
    ]
   },
   {
+   "id": "fb7f0a28-4a41-438e-9289-c12e9912627b",
+   "title": {
+    "en": "Twinkling Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.28474924,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "9a60ebaa-3b80-4f44-ae78-39fe032e39eb",
    "title": {
     "en": "Happy Happy Endorphin"
    },
    "contentRating": "safe",
-   "score": 0.28137603,
+   "score": 0.27679473,
    "languages": [
     "vi",
     "pt-br",
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Fukugaeru"
-   },
-   "contentRating": "safe",
-   "score": 0.2701055,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de"
-   ]
-  },
-  {
-   "id": "aeed5d3a-094b-4422-a03c-b136aeb0d2ad",
-   "title": {
-    "en": "Tenkousei, Ridatsu Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.2700402,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2124b898-a137-4592-9431-2a9e1ab3ab00",
-   "title": {
-    "en": "Jane and Harlequin"
-   },
-   "contentRating": "safe",
-   "score": 0.26780418,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:47+00:00"
+ "updatedAt": "2023-12-10T18:08:26+00:00"
 }

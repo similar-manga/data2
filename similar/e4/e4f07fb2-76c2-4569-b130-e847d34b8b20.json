@@ -11,7 +11,7 @@
     "en": "Mahou de Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.46923476,
+   "score": 0.48078415,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Houkago Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.39775994,
+   "score": 0.4053342,
    "languages": [
     "tl",
     "en"
@@ -35,9 +35,35 @@
     "en": "Sayonara Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.37429816,
+   "score": 0.38199928,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "829d9d9f-579f-4e0a-b24d-aec0b2fb5051",
+   "title": {
+    "en": "Mint Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.33495322,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e06a7f59-9f0a-449f-8570-9da43a47396a",
+   "title": {
+    "en": "Dekiai Robot"
+   },
+   "contentRating": "safe",
+   "score": 0.3061197,
+   "languages": [
+    "tr",
+    "pl",
+    "en",
+    "fr",
+    "mn"
    ]
   },
   {
@@ -46,7 +72,7 @@
     "en": "Saitei na Hito wo Suki ni Narimashita"
    },
    "contentRating": "safe",
-   "score": 0.30606043,
+   "score": 0.30471957,
    "languages": [
     "en",
     "fr",
@@ -60,8 +86,20 @@
     "en": "The Hatsukoi Chronicle"
    },
    "contentRating": "safe",
-   "score": 0.3045422,
+   "score": 0.30351308,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
+   "title": {
+    "en": "Kimi Hayate"
+   },
+   "contentRating": "safe",
+   "score": 0.30259264,
+   "languages": [
+    "es",
     "en"
    ]
   },
@@ -71,7 +109,7 @@
     "en": "Shinyuu no Mikami-kun"
    },
    "contentRating": "safe",
-   "score": 0.3038422,
+   "score": 0.30251896,
    "languages": [
     "en",
     "tr",
@@ -81,39 +119,12 @@
    ]
   },
   {
-   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
-   "title": {
-    "en": "Kimi Hayate"
-   },
-   "contentRating": "safe",
-   "score": 0.3032875,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "e06a7f59-9f0a-449f-8570-9da43a47396a",
-   "title": {
-    "en": "Dekiai Robot"
-   },
-   "contentRating": "safe",
-   "score": 0.3031964,
-   "languages": [
-    "tr",
-    "pl",
-    "en",
-    "fr",
-    "mn"
-   ]
-  },
-  {
    "id": "8b41fe56-f1ae-4277-b3b6-4f5db2c0f565",
    "title": {
     "en": "Hard Luck Woman"
    },
    "contentRating": "safe",
-   "score": 0.302421,
+   "score": 0.3023339,
    "languages": [
     "en",
     "pl"
@@ -125,7 +136,7 @@
     "en": "Spring One Year Later"
    },
    "contentRating": "safe",
-   "score": 0.30142257,
+   "score": 0.30088294,
    "languages": [
     "en"
    ]
@@ -136,7 +147,7 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.29665908,
+   "score": 0.29602093,
    "languages": [
     "en",
     "tl"
@@ -148,7 +159,7 @@
     "en": "black peach flower"
    },
    "contentRating": "safe",
-   "score": 0.2957183,
+   "score": 0.29525235,
    "languages": [
     "en",
     "fr",
@@ -161,7 +172,18 @@
     "en": "Hitsuji wo Kazoete Dokomademo"
    },
    "contentRating": "safe",
-   "score": 0.29533666,
+   "score": 0.2946722,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f3dd51cc-d518-43e6-a3f8-b6ad3823f8cd",
+   "title": {
+    "en": "Love for Sale"
+   },
+   "contentRating": "safe",
+   "score": 0.29397613,
    "languages": [
     "en"
    ]
@@ -172,7 +194,7 @@
     "en": "Christmas ni Omoi o Nosete"
    },
    "contentRating": "safe",
-   "score": 0.2943192,
+   "score": 0.29386127,
    "languages": [
     "pt-br",
     "it",
@@ -183,29 +205,7 @@
     "hu",
     "en"
    ]
-  },
-  {
-   "id": "f3dd51cc-d518-43e6-a3f8-b6ad3823f8cd",
-   "title": {
-    "en": "Love for Sale"
-   },
-   "contentRating": "safe",
-   "score": 0.2943034,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c73b39e3-7feb-4c53-a16c-364b6b8ca91f",
-   "title": {
-    "en": "Iroha ni Ai wo"
-   },
-   "contentRating": "safe",
-   "score": 0.2941812,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:12+00:00"
+ "updatedAt": "2023-12-10T18:33:34+00:00"
 }

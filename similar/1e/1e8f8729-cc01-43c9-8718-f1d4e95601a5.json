@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
-   "title": {
-    "en": "Harp of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.2381562
-  },
-  {
    "id": "d94943f6-e25f-4a7a-96b2-ebcdcb727e0e",
    "title": {
     "en": "Angel Hunt"
    },
    "contentRating": "safe",
-   "score": 0.23464192,
+   "score": 0.25222632,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2bbd61ae-d151-4463-9036-88999d70bd07",
+   "title": {
+    "en": "Harp of the Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.23880927
   },
   {
    "id": "f655eaaf-cfc8-4b55-a673-276a0fd229f2",
@@ -30,7 +30,7 @@
     "en": "Nanairo no Mukou"
    },
    "contentRating": "safe",
-   "score": 0.22827755,
+   "score": 0.2263087,
    "languages": [
     "en",
     "de",
@@ -43,15 +43,7 @@
     "en": "Honey Honey's Wonderful Adventures"
    },
    "contentRating": "safe",
-   "score": 0.21786103
-  },
-  {
-   "id": "31c28f73-5dfa-463e-9443-638ff6bf1071",
-   "title": {
-    "en": "Gapz Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.21716936
+   "score": 0.21792938
   },
   {
    "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
@@ -59,11 +51,19 @@
     "en": "Hatenkou Yuugi"
    },
    "contentRating": "safe",
-   "score": 0.21672268,
+   "score": 0.21614695,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "31c28f73-5dfa-463e-9443-638ff6bf1071",
+   "title": {
+    "en": "Gapz Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.21604188
   },
   {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
@@ -71,7 +71,7 @@
     "en": "Niji no Ikusa"
    },
    "contentRating": "safe",
-   "score": 0.21070033,
+   "score": 0.21056727,
    "languages": [
     "en"
    ]
@@ -90,7 +90,7 @@
     "en": "Akatsuki no Yona"
    },
    "contentRating": "safe",
-   "score": 0.20038186,
+   "score": 0.19948135,
    "languages": [
     "en",
     "bg",
@@ -109,10 +109,21 @@
     "en": "Knights of Alfheim"
    },
    "contentRating": "safe",
-   "score": 0.19804323,
+   "score": 0.19722833,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "ea30a000-c9f4-4f62-b510-4c15752c8771",
+   "title": {
+    "en": "This Life, the Way I Want"
+   },
+   "contentRating": "safe",
+   "score": 0.19427174,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -121,7 +132,26 @@
     "en": "Nijiiro☆Prism Girl"
    },
    "contentRating": "safe",
-   "score": 0.19447754
+   "score": 0.19362077
+  },
+  {
+   "id": "c68efae9-753a-4e1c-9c71-9eb254fe2176",
+   "title": {
+    "en": "Otogi no Uta ~Chronicle~"
+   },
+   "contentRating": "safe",
+   "score": 0.19294553,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fa9ee49b-9b60-42a9-bb6c-345cfbebdf24",
+   "title": {
+    "en": "Yes! PreCure 5 GoGo!"
+   },
+   "contentRating": "safe",
+   "score": 0.19183798
   },
   {
    "id": "775acdb5-bfe2-4558-9bac-32de7117ee0d",
@@ -129,7 +159,7 @@
     "en": "Attack on Titan: No Regrets Complete Color Edition"
    },
    "contentRating": "safe",
-   "score": 0.19212458
+   "score": 0.19154121
   },
   {
    "id": "5310fa94-bea5-48b8-b7bd-d3087e821e25",
@@ -138,36 +168,7 @@
    },
    "contentRating": "safe",
    "score": 0.19027133
-  },
-  {
-   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
-   "title": {
-    "en": "Tactics"
-   },
-   "contentRating": "safe",
-   "score": 0.19000503,
-   "languages": [
-    "en",
-    "ru",
-    "ko"
-   ]
-  },
-  {
-   "id": "ba89c653-d57d-4523-8b8c-880134054e13",
-   "title": {
-    "en": "Tableau Gate"
-   },
-   "contentRating": "safe",
-   "score": 0.18925212
-  },
-  {
-   "id": "d7146abb-b76b-45c5-bddc-4e13ae6c814e",
-   "title": {
-    "en": "Maria of the Silver Valley"
-   },
-   "contentRating": "safe",
-   "score": 0.18799514
   }
  ],
- "updatedAt": "2023-12-10T01:00:56+00:00"
+ "updatedAt": "2023-12-10T18:11:35+00:00"
 }

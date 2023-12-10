@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c958fcb8-b4af-4462-817b-fb58fe7beca4",
+   "title": {
+    "en": "Senshun Kansoku"
+   },
+   "contentRating": "safe",
+   "score": 0.22295289,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "b5846cf3-84d0-4953-9647-bef0cc5eb124",
    "title": {
     "en": "Uramichi Oniisan"
    },
    "contentRating": "safe",
-   "score": 0.21614128,
+   "score": 0.21491826,
    "languages": [
     "en",
     "pt-br",
@@ -20,16 +32,53 @@
    ]
   },
   {
+   "id": "ebc5702f-b6a1-4085-896f-21cc34bf245a",
+   "title": {
+    "en": "Senpai, Ore ja Dame desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.21450205,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "b3583a62-1184-4a61-b18e-9497a81b1673",
    "title": {
     "en": "Onna no Sono no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.21000612,
+   "score": 0.20939676,
    "languages": [
     "en",
     "zh-hk",
     "pt-br"
+   ]
+  },
+  {
+   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
+   "title": {
+    "en": "Shiota-sensei to Amai-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.20047441,
+   "languages": [
+    "en",
+    "it",
+    "ru"
+   ]
+  },
+  {
+   "id": "8a82a15e-3030-4244-90d0-aa6b135d04df",
+   "title": {
+    "en": "Asterism"
+   },
+   "contentRating": "safe",
+   "score": 0.19581269,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -38,9 +87,34 @@
     "en": "Stalks"
    },
    "contentRating": "safe",
-   "score": 0.18816109,
+   "score": 0.18816188,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ffcdd90b-2f8e-4ae9-b4b0-3abb1ddb6407",
+   "title": {
+    "en": "Ogi-kun no Natsuyasumi"
+   },
+   "contentRating": "safe",
+   "score": 0.18598962,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0295d266-4870-4ea3-814b-35f9afc7a9fd",
+   "title": {
+    "en": "Dachi no Imouto"
+   },
+   "contentRating": "safe",
+   "score": 0.17879009,
+   "languages": [
+    "pt-br",
+    "th",
+    "en",
+    "id"
    ]
   },
   {
@@ -49,152 +123,81 @@
     "en": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita"
    },
    "contentRating": "safe",
-   "score": 0.17810598,
+   "score": 0.1772047,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d579c665-7cdb-4c5f-9370-942231fd35bc",
+   "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
    "title": {
-    "en": "Sanju Mariko"
+    "en": "Koisuru Hotaru to Kurashiteru"
    },
    "contentRating": "safe",
-   "score": 0.17122704,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2a8d9c9e-8f75-4cba-82fd-0e018a2540f2",
-   "title": {
-    "en": "There Is No Way a Pretty Virtual Girl Is a Girl!"
-   },
-   "contentRating": "safe",
-   "score": 0.16606611,
+   "score": 0.17019525,
    "languages": [
     "en",
-    "tr",
-    "fr"
+    "it"
    ]
   },
   {
-   "id": "db9418cd-2a72-4532-a8f6-db0ef6e5143a",
+   "id": "5d4c731f-0886-4d32-820c-3a59e042e82c",
    "title": {
-    "en": "I Tried To Confess To A Female Employee Of The Company"
+    "en": "Good Morning, Rakuen-kun (Tentatively Named)"
    },
    "contentRating": "safe",
-   "score": 0.16606611,
+   "score": 0.17019525,
    "languages": [
-    "de",
+    "en"
+   ]
+  },
+  {
+   "id": "65be0a5f-2425-42bd-a388-2f0f5f573e3a",
+   "title": {
+    "en": "The Net Generation Teacher"
+   },
+   "contentRating": "safe",
+   "score": 0.17019525,
+   "languages": [
     "en",
-    "pt-br",
-    "es"
+    "pt-br"
    ]
   },
   {
-   "id": "53236043-6250-45ad-b6c1-852a85fdf4f4",
+   "id": "61d53bb7-b868-4ab2-ac1f-d309581e275e",
    "title": {
-    "en": "Momokan"
+    "en": "Encounter Between Polar Opposites and Their Dogs"
    },
    "contentRating": "safe",
-   "score": 0.16410848,
+   "score": 0.17019525,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c09971b9-0a6c-47cf-a566-41f3c6fe575f",
-   "title": {
-    "en": "Atashin'chi"
-   },
-   "contentRating": "safe",
-   "score": 0.16384888,
-   "languages": [
-    "de",
     "en",
-    "ar"
+    "es-la",
+    "pt-br"
    ]
   },
   {
-   "id": "72b21ee0-c626-460e-8bea-745f972c0f02",
+   "id": "b54babca-7410-494b-952d-6636795177e3",
    "title": {
-    "en": "Sumire Sensei Doesn't Want to Cook"
+    "en": "Obscene Devil But It's Fine"
    },
    "contentRating": "safe",
-   "score": 0.15222727,
+   "score": 0.16959137,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "dbb2c23b-112f-44dd-a808-d647618ab31a",
+   "id": "89e90a95-f5e3-4cf2-8ccd-82fbdd91c9b1",
    "title": {
-    "en": "Raisins"
+    "en": "Today I Become A Star"
    },
    "contentRating": "safe",
-   "score": 0.15222727,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77135fc1-0bb2-4d3c-8b7c-fd1c4ba944e4",
-   "title": {
-    "en": "How to Massage"
-   },
-   "contentRating": "safe",
-   "score": 0.15222727,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b8d20cf-c58a-4da4-a9ad-6017b9092c08",
-   "title": {
-    "en": "Sono Rokudenashi ni You ga Aru"
-   },
-   "contentRating": "safe",
-   "score": 0.14757907,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "0697a7ca-c6d1-4704-8630-73503301c316",
-   "title": {
-    "en": "Nomino"
-   },
-   "contentRating": "safe",
-   "score": 0.14712067,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "d39c6c91-755e-4ae0-8d98-221ba70d8949",
-   "title": {
-    "en": "Catch! Love"
-   },
-   "contentRating": "safe",
-   "score": 0.14057763,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a1c044f-4cab-468f-ba97-5d53b5ab84c9",
-   "title": {
-    "en": "Akari of the Forest Bookshop"
-   },
-   "contentRating": "safe",
-   "score": 0.13910544,
+   "score": 0.16957878,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:33+00:00"
+ "updatedAt": "2023-12-10T18:13:20+00:00"
 }

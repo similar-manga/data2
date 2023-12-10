@@ -11,7 +11,7 @@
     "en": "Boys Be Zombitious"
    },
    "contentRating": "safe",
-   "score": 0.29725564,
+   "score": 0.29587862,
    "languages": [
     "es-la",
     "it",
@@ -19,6 +19,20 @@
     "fr",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "74258dd0-a0fe-4979-b4f7-a0a7a044d951",
+   "title": {
+    "en": "Zombie Land SAGA"
+   },
+   "contentRating": "safe",
+   "score": 0.2546463,
+   "languages": [
+    "en",
+    "ru",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -60,29 +74,16 @@
    ]
   },
   {
-   "id": "371538d9-9012-4c87-81bd-d34cfb9d316f",
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
    "title": {
-    "en": "Hoshi ni Negai o Futatabi"
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
    },
    "contentRating": "safe",
-   "score": 0.19471695,
+   "score": 0.19473548,
    "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
-   "title": {
-    "en": "White Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695,
-   "languages": [
-    "pl",
+    "id",
     "en",
-    "ru",
-    "pt-br"
+    "es-la"
    ]
   },
   {
@@ -101,6 +102,20 @@
    ]
   },
   {
+   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
+   "title": {
+    "en": "White Lover"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695,
+   "languages": [
+    "pl",
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
    "title": {
     "en": "Kamisama to"
@@ -110,6 +125,18 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "371538d9-9012-4c87-81bd-d34cfb9d316f",
+   "title": {
+    "en": "Hoshi ni Negai o Futatabi"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695,
+   "languages": [
+    "tr",
+    "en"
    ]
   },
   {
@@ -124,29 +151,25 @@
    ]
   },
   {
-   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
+   "id": "75043a3f-daec-4ced-943c-65805e837c68",
    "title": {
-    "en": "The Nightmare of Fabrication"
+    "en": "A Middle-aged Man Who Returned From Another World Becomes Unrivaled In The Apocalyptic World"
    },
    "contentRating": "safe",
-   "score": 0.1810282,
+   "score": 0.1879538,
    "languages": [
-    "tr",
-    "it",
     "en",
-    "pl",
     "pt-br"
    ]
   },
   {
-   "id": "14400e61-fbd8-468b-b7d0-0b7c66397921",
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
    "title": {
-    "en": "Board of the Dead"
+    "en": "Material Polka"
    },
    "contentRating": "safe",
-   "score": 0.18038015,
+   "score": 0.18793294,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -163,52 +186,32 @@
    ]
   },
   {
-   "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
+   "id": "14400e61-fbd8-468b-b7d0-0b7c66397921",
    "title": {
-    "en": "Schizanthus"
+    "en": "Board of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.17814149,
+   "score": 0.18038015,
    "languages": [
-    "en",
-    "ru"
+    "ru",
+    "en"
    ]
   },
   {
-   "id": "d42f00b9-207f-425a-9892-b9169568d2a3",
+   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
    "title": {
-    "en": "Primo Piatto"
+    "en": "The Nightmare of Fabrication"
    },
    "contentRating": "safe",
-   "score": 0.17665982,
+   "score": 0.17925486,
    "languages": [
     "tr",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "70281eed-7252-4207-b6a7-71fc6b92eabf",
-   "title": {
-    "en": "Ishiguro Masakazu's Kyoufu Tanpen"
-   },
-   "contentRating": "safe",
-   "score": 0.17665982,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
-   "title": {
-    "en": "The Tale of That Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.17665982,
-   "languages": [
-    "en"
+    "it",
+    "en",
+    "pl",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:39+00:00"
+ "updatedAt": "2023-12-10T18:32:13+00:00"
 }

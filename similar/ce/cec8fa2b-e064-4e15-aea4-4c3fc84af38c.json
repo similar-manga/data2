@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5f9f0841-50cb-464b-ac8a-d4e1c78f6ff5",
+   "title": {
+    "en": "Demon Fox Notes"
+   },
+   "contentRating": "safe",
+   "score": 0.29191658,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "17364102-554c-4dba-804e-b47be457e600",
    "title": {
     "en": "Star Ocean - To the Far Side of Time"
    },
    "contentRating": "safe",
-   "score": 0.27068707,
+   "score": 0.26662558,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Aola Star - Parallel Universe"
    },
    "contentRating": "safe",
-   "score": 0.25654665,
+   "score": 0.2539174,
    "languages": [
     "en",
     "es"
@@ -34,10 +45,32 @@
     "en": "Rise From the Rubble"
    },
    "contentRating": "safe",
-   "score": 0.23423716,
+   "score": 0.23392077,
    "languages": [
     "fr",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f4e9f182-8345-449b-98b3-54ba4f29493d",
+   "title": {
+    "en": "Boushoku no Berserk - Ore dake Level to Iu Gainen wo Toppa shite Saikyou"
+   },
+   "contentRating": "safe",
+   "score": 0.22260123,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cf144459-9d55-4b12-9262-ed4e292e589d",
+   "title": {
+    "en": "Enchanted Racer"
+   },
+   "contentRating": "safe",
+   "score": 0.22179838,
+   "languages": [
     "en"
    ]
   },
@@ -47,7 +80,7 @@
     "en": "The Sword of Dawn"
    },
    "contentRating": "safe",
-   "score": 0.22054134,
+   "score": 0.21898364,
    "languages": [
     "en",
     "fr",
@@ -55,18 +88,14 @@
    ]
   },
   {
-   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
+   "id": "c494ef99-3220-4669-8946-0292aae965cc",
    "title": {
-    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+    "en": "Great Doctor Ling Ran"
    },
    "contentRating": "safe",
-   "score": 0.21507922,
+   "score": 0.21625994,
    "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "it",
-    "fr"
+    "en"
    ]
   },
   {
@@ -118,12 +147,27 @@
    ]
   },
   {
+   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.21420085,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "it",
+    "fr"
+   ]
+  },
+  {
    "id": "e3c4933c-3e8b-4e86-9472-5e666079843c",
    "title": {
     "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.21415566,
+   "score": 0.21293694,
    "languages": [
     "en"
    ]
@@ -134,21 +178,9 @@
     "zh": "IDOLING"
    },
    "contentRating": "safe",
-   "score": 0.2101171,
+   "score": 0.20914513,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "65208a20-4253-42c8-b0e7-56524bbe795b",
-   "title": {
-    "en": "Legend of Star General"
-   },
-   "contentRating": "safe",
-   "score": 0.20962279,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -157,44 +189,11 @@
     "en": "My Godly Watch"
    },
    "contentRating": "safe",
-   "score": 0.208393,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a5f4bf5-e47d-4832-876b-a3a8a0588bef",
-   "title": {
-    "en": "Ogre Battle Saga Episode VII - Tactics Ogre: Let Us Cling Together"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
-   "title": {
-    "en": "Version"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
-   "title": {
-    "en": "The Game Invades the Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20761418,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:17+00:00"
+ "updatedAt": "2023-12-10T18:31:16+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Dead Maximum"
    },
    "contentRating": "suggestive",
-   "score": 0.1989508,
+   "score": 0.19703642,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Dead Soul Revolver"
    },
    "contentRating": "suggestive",
-   "score": 0.19614354,
+   "score": 0.1960414,
    "languages": [
     "en"
    ]
@@ -57,13 +57,29 @@
     "en": "Drifters"
    },
    "contentRating": "suggestive",
-   "score": 0.16470362,
+   "score": 0.16445842,
    "languages": [
     "en",
     "pt-br",
     "tr",
     "hu",
     "es"
+   ]
+  },
+  {
+   "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
+   "title": {
+    "en": "Cockroach Buster"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16069506,
+   "languages": [
+    "en",
+    "pl",
+    "it",
+    "pt-br",
+    "hu",
+    "fr"
    ]
   },
   {
@@ -82,28 +98,12 @@
    ]
   },
   {
-   "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
-   "title": {
-    "en": "Cockroach Buster"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16040173,
-   "languages": [
-    "en",
-    "pl",
-    "it",
-    "pt-br",
-    "hu",
-    "fr"
-   ]
-  },
-  {
    "id": "50ced036-edd9-43e6-aff9-14a691071456",
    "title": {
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.16032326,
+   "score": 0.16025707,
    "languages": [
     "es",
     "en",
@@ -151,7 +151,7 @@
     "en": "Aoki Hagane no Arpeggio"
    },
    "contentRating": "suggestive",
-   "score": 0.15470721,
+   "score": 0.1543777,
    "languages": [
     "en",
     "pt-br",
@@ -167,18 +167,7 @@
     "en": "Jenny of the Morning Star"
    },
    "contentRating": "suggestive",
-   "score": 0.15419777,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f63eef7c-7db9-40d6-8856-747427860f22",
-   "title": {
-    "en": "High School Girl Kingdom Tokyo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15323861,
+   "score": 0.1542575,
    "languages": [
     "en"
    ]
@@ -189,7 +178,7 @@
     "en": "One-Punch Man"
    },
    "contentRating": "suggestive",
-   "score": 0.15293217,
+   "score": 0.15282723,
    "languages": [
     "es",
     "hu",
@@ -214,16 +203,27 @@
    ]
   },
   {
-   "id": "0bfd9934-e738-44c0-adcf-dc7962f7d76c",
+   "id": "f63eef7c-7db9-40d6-8856-747427860f22",
    "title": {
-    "en": "Vaia'n Maiden"
+    "en": "High School Girl Kingdom Tokyo"
    },
    "contentRating": "suggestive",
-   "score": 0.15039206,
+   "score": 0.15181969,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f92d21bf-a646-494b-ad65-65bc7be587c5",
+   "title": {
+    "en": "Koukaku no Pandora - Ghost Urn"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15050879,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:47+00:00"
+ "updatedAt": "2023-12-10T18:34:58+00:00"
 }

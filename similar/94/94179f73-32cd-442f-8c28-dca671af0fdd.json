@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ecad4d00-966c-43f3-83e6-64154b80cf1f",
+   "title": {
+    "en": "Tokyo Summer of the Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.24040782
+  },
+  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
@@ -29,7 +37,7 @@
     "en": "Fate/type Redline"
    },
    "contentRating": "safe",
-   "score": 0.23134395,
+   "score": 0.2256194,
    "languages": [
     "ru",
     "it",
@@ -48,7 +56,7 @@
     "en": "Shin Hyataro of the Ushiro"
    },
    "contentRating": "safe",
-   "score": 0.22640045
+   "score": 0.22499743
   },
   {
    "id": "feaaf304-0a32-46c1-be63-c07951cc41f2",
@@ -56,18 +64,10 @@
     "en": "Records of Nothingness"
    },
    "contentRating": "safe",
-   "score": 0.22463371,
+   "score": 0.22306709,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d83798f7-a148-4ff9-a28c-7ad50424cd6f",
-   "title": {
-    "en": "Dragon Quest IV Gaiden - Labyrinth of Hell"
-   },
-   "contentRating": "safe",
-   "score": 0.22021122
   },
   {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
@@ -81,16 +81,12 @@
    ]
   },
   {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
+   "id": "d83798f7-a148-4ff9-a28c-7ad50424cd6f",
    "title": {
-    "en": "Tokyo Doragon Naito"
+    "en": "Dragon Quest IV Gaiden - Labyrinth of Hell"
    },
    "contentRating": "safe",
-   "score": 0.21639399,
-   "languages": [
-    "es-la",
-    "en"
-   ]
+   "score": 0.21745919
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -116,7 +112,19 @@
     "en": "Final Fantasy Type-0"
    },
    "contentRating": "safe",
-   "score": 0.21506476
+   "score": 0.21363764
+  },
+  {
+   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
+   "title": {
+    "en": "Tokyo Doragon Naito"
+   },
+   "contentRating": "safe",
+   "score": 0.2118175,
+   "languages": [
+    "es-la",
+    "en"
+   ]
   },
   {
    "id": "a0f07593-c72d-4a6a-888e-e455c25406f5",
@@ -124,7 +132,7 @@
     "en": "Dragon Quest VI - Land of Illusion"
    },
    "contentRating": "safe",
-   "score": 0.21439724
+   "score": 0.21103427
   },
   {
    "id": "da7e2b0b-72a9-419c-b667-6a02c2c7c771",
@@ -140,74 +148,47 @@
    ]
   },
   {
+   "id": "8a64b09c-09fd-4d8d-919b-b9a4ea9f788e",
+   "title": {
+    "en": "Meiji Kokonoko"
+   },
+   "contentRating": "safe",
+   "score": 0.20486444
+  },
+  {
+   "id": "0f4b813d-1d59-435a-9c0d-d759023e1c87",
+   "title": {
+    "en": "Mutsu Enmei Ryuu Gaiden - Shura no Toki"
+   },
+   "contentRating": "safe",
+   "score": 0.20473763,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6e7fcbe3-eb73-41b4-90c8-d3f415a1a20a",
    "title": {
     "en": "Ragouden"
    },
    "contentRating": "safe",
-   "score": 0.20429635,
+   "score": 0.20311221,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
+   "id": "fb23dd32-296d-4463-8d44-8630c5e42c44",
    "title": {
-    "en": "The Legend of Heroes VI: Trails of Cold Steel"
+    "en": "Zodiac Game"
    },
    "contentRating": "safe",
-   "score": 0.20206548,
+   "score": 0.20229161,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9bf14be-fcff-4eea-9c45-ba3e40d399fa",
-   "title": {
-    "en": "Musashi (KAWASAKI Noboru)"
-   },
-   "contentRating": "safe",
-   "score": 0.20093088
-  },
-  {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
-   "title": {
-    "en": "Thus Spoke Rohan Kishibe"
-   },
-   "contentRating": "safe",
-   "score": 0.20071292,
-   "languages": [
-    "fr",
     "en",
-    "es-la",
-    "it",
-    "pt-br",
-    "id",
-    "ru",
-    "zh"
-   ]
-  },
-  {
-   "id": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
-   "title": {
-    "en": "VERSUS"
-   },
-   "contentRating": "safe",
-   "score": 0.20044886,
-   "languages": [
-    "uk",
-    "pt-br",
-    "tr",
-    "en",
-    "fr",
-    "es-la",
-    "ru",
-    "vi",
-    "id",
-    "de",
-    "cs"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:51+00:00"
+ "updatedAt": "2023-12-10T18:24:45+00:00"
 }

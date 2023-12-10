@@ -11,7 +11,7 @@
     "en": "Mega Man: The Deadly Struggle on Mu Arc"
    },
    "contentRating": "safe",
-   "score": 0.27161536,
+   "score": 0.27035233,
    "languages": [
     "en",
     "es"
@@ -35,7 +35,7 @@
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.22895902,
+   "score": 0.2275058,
    "languages": [
     "es-la",
     "en"
@@ -80,6 +80,17 @@
    ]
   },
   {
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "title": {
+    "en": "Mobile Suit MOON Gundam"
+   },
+   "contentRating": "safe",
+   "score": 0.21639548,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eca3a5ae-d611-4055-b1c7-af2d5911085c",
    "title": {
     "en": "Mega Man X3: Stop Doppler's Army!"
@@ -92,12 +103,12 @@
    ]
   },
   {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
-    "en": "Mobile Suit MOON Gundam"
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.21566133,
+   "score": 0.21558402,
    "languages": [
     "en"
    ]
@@ -108,20 +119,9 @@
     "en": "The Birth of Mega Man"
    },
    "contentRating": "safe",
-   "score": 0.21560143,
+   "score": 0.21403599,
    "languages": [
     "es",
-    "en"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.21475522,
-   "languages": [
     "en"
    ]
   },
@@ -137,14 +137,13 @@
    ]
   },
   {
-   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
+   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
    "title": {
-    "en": "The Legend of Zelda (Ran Maru)"
+    "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.21254572,
+   "score": 0.21257575,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -160,13 +159,14 @@
    ]
   },
   {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
+   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
    "title": {
-    "en": "Mobile Suit Gundam Aggressor"
+    "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.21190389,
+   "score": 0.21254572,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -199,5 +199,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:42+00:00"
+ "updatedAt": "2023-12-10T18:16:26+00:00"
 }

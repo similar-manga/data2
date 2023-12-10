@@ -11,22 +11,9 @@
     "en": "Seifuku no Binetsu"
    },
    "contentRating": "suggestive",
-   "score": 0.20556934,
+   "score": 0.20488586,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "40fb9d1b-5496-4ecc-b62c-9cb4167f4e1c",
-   "title": {
-    "en": "Doki Doki Summer Beach"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19356538,
-   "languages": [
-    "en",
-    "de",
-    "fr"
    ]
   },
   {
@@ -41,12 +28,25 @@
    ]
   },
   {
+   "id": "40fb9d1b-5496-4ecc-b62c-9cb4167f4e1c",
+   "title": {
+    "en": "Doki Doki Summer Beach"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17447217,
+   "languages": [
+    "en",
+    "de",
+    "fr"
+   ]
+  },
+  {
    "id": "d3ab6b2a-75de-4379-bdbf-850a21255097",
    "title": {
     "en": "Nee, Boku ga Inai to Shinutte Itte yo"
    },
    "contentRating": "suggestive",
-   "score": 0.17502142,
+   "score": 0.17421487,
    "languages": [
     "zh-hk",
     "en"
@@ -74,7 +74,7 @@
     "en": "Kimi ga Sore wo Ai to Yonde Mo"
    },
    "contentRating": "suggestive",
-   "score": 0.16805491,
+   "score": 0.16771461,
    "languages": [
     "en",
     "vi",
@@ -87,7 +87,7 @@
     "en": "CHASUI"
    },
    "contentRating": "suggestive",
-   "score": 0.15981434,
+   "score": 0.15920225,
    "languages": [
     "en"
    ]
@@ -98,18 +98,7 @@
     "en": "Apollo’s Heart"
    },
    "contentRating": "suggestive",
-   "score": 0.15949833,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "737438d2-4f3e-4eb0-b937-813d23c03f19",
-   "title": {
-    "en": "Scabiosa"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1585632,
+   "score": 0.15856048,
    "languages": [
     "en"
    ]
@@ -126,6 +115,17 @@
    ]
   },
   {
+   "id": "737438d2-4f3e-4eb0-b937-813d23c03f19",
+   "title": {
+    "en": "Scabiosa"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15793808,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "37177c0c-3bfb-4461-8c45-fe32ae17bf31",
    "title": {
     "en": "Revenge Channel Uramin"
@@ -137,24 +137,47 @@
    ]
   },
   {
-   "id": "eb228f42-f442-4f50-ab2b-b5123ae5eace",
+   "id": "e0df27d4-97ba-4dca-ab26-df70b70d3241",
    "title": {
-    "en": "May My Father Die Soon"
+    "en": "The Day I Decided to Make My Cheeky Gyaru Sister Understand in My Own Way"
    },
    "contentRating": "suggestive",
    "score": 0.15003765,
    "languages": [
-    "en",
     "pt-br",
-    "ru",
     "es-la",
-    "id"
+    "id",
+    "en",
+    "ja",
+    "vi"
+   ]
+  },
+  {
+   "id": "8a78524a-f339-4593-a724-eef7f5edbb90",
+   "title": {
+    "en": "Danzai no Bishou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15003765,
+   "languages": [
+    "en"
    ]
   },
   {
    "id": "dfb1718e-6702-4606-bdb5-5ae3fa76b3b9",
    "title": {
     "en": "Shrink ~Psychiatrist Yowai~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15003765,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "87390402-e7b3-4e51-b414-8f383d8f885d",
+   "title": {
+    "en": "Paradise Gakuen"
    },
    "contentRating": "suggestive",
    "score": 0.15003765,
@@ -173,34 +196,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "8a78524a-f339-4593-a724-eef7f5edbb90",
-   "title": {
-    "en": "Danzai no Bishou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15003765,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e0df27d4-97ba-4dca-ab26-df70b70d3241",
-   "title": {
-    "en": "The Day I Decided to Make My Cheeky Gyaru Sister Understand in My Own Way"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15003765,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "id",
-    "ja",
-    "en",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:23+00:00"
+ "updatedAt": "2023-12-10T18:26:13+00:00"
 }

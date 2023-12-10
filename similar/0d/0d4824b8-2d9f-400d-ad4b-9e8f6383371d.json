@@ -11,9 +11,20 @@
     "en": "A Train at the End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.26586282,
+   "score": 0.26598078,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "80497ef8-3967-452d-ab6a-2c5ec2d4ebcb",
+   "title": {
+    "en": "Alkaloid no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "en"
    ]
   },
@@ -21,6 +32,17 @@
    "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
    "title": {
     "en": "Arikai Annu"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "84a194d2-86d9-4522-b60b-5e31096b7fbb",
+   "title": {
+    "en": "Creation of the World Garden"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -43,23 +65,12 @@
    ]
   },
   {
-   "id": "84a194d2-86d9-4522-b60b-5e31096b7fbb",
-   "title": {
-    "en": "Creation of the World Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "04987753-1655-4149-aa40-fa732c753a41",
    "title": {
     "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.23121306,
+   "score": 0.23119989,
    "languages": [
     "en"
    ]
@@ -70,7 +81,7 @@
     "en": "Love is Sky Blue"
    },
    "contentRating": "safe",
-   "score": 0.22626142,
+   "score": 0.22534965,
    "languages": [
     "en"
    ]
@@ -81,7 +92,7 @@
     "en": "The Goldfish Osushi"
    },
    "contentRating": "safe",
-   "score": 0.22219886,
+   "score": 0.22176751,
    "languages": [
     "ru",
     "pt-br",
@@ -90,90 +101,14 @@
    ]
   },
   {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
-   "title": {
-    "en": "White Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.2218146,
-   "languages": [
-    "pl",
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
    "id": "b6984507-b2de-4a2a-8a78-4172969a4918",
    "title": {
     "en": "Flower Heart"
    },
    "contentRating": "safe",
-   "score": 0.21869615,
+   "score": 0.21759096,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c6b707e7-cc58-49fc-86da-ac8253d31ba8",
-   "title": {
-    "en": "You no Ou"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pl",
-    "en",
-    "bg",
-    "ca"
-   ]
-  },
-  {
-   "id": "81a83950-5b5c-474d-80b4-c92a864d73c1",
-   "title": {
-    "en": "Playback I Love You"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "d25856ee-3cf1-4f45-98ac-d950778ed78c",
-   "title": {
-    "en": "Girls Who Wanted to Be Chosen"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pl",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "3c39b045-caf2-4f37-80d7-b2f308304b92",
-   "title": {
-    "en": "Tonari no Kuni kara"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
-   "title": {
-    "en": "Kamisama to"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -192,6 +127,19 @@
    ]
   },
   {
+   "id": "d25856ee-3cf1-4f45-98ac-d950778ed78c",
+   "title": {
+    "en": "Girls Who Wanted to Be Chosen"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pl",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
    "title": {
     "en": "Kishibe no Yume"
@@ -203,7 +151,56 @@
     "es-la",
     "tr"
    ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Snow and Ink"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "81a83950-5b5c-474d-80b4-c92a864d73c1",
+   "title": {
+    "en": "Playback I Love You"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
+   "title": {
+    "en": "Owatte miru no mo Warukunai"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c6b707e7-cc58-49fc-86da-ac8253d31ba8",
+   "title": {
+    "en": "You no Ou"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pl",
+    "en",
+    "bg",
+    "ca"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:16+00:00"
+ "updatedAt": "2023-12-10T18:09:46+00:00"
 }

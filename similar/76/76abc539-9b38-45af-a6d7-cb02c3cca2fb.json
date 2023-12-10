@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3a767209-9553-4280-bb66-3579e6177b32",
+   "title": {
+    "en": "The Strongest Sage Without a Job - I Couldn't Get a Job and Was Exiled, but With the Knowledge of the Game, I Was the Strongest in the Other World"
+   },
+   "contentRating": "safe",
+   "score": 0.3007717,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "71f7425b-ac0d-4b85-8beb-5b59ed8675a7",
    "title": {
     "en": "Tensei Shitara Kozakana datta kedo Ryuu ni Nareru Rashii node Ganbarimasu"
    },
    "contentRating": "safe",
-   "score": 0.28906104,
+   "score": 0.28887185,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "Murabito Tensei: Saikyou no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.28593117,
+   "score": 0.28571457,
    "languages": [
     "en",
     "es-la"
@@ -34,7 +46,7 @@
     "en": "Mizu Zokusei no Mahoutsukai"
    },
    "contentRating": "safe",
-   "score": 0.2725706,
+   "score": 0.27375183,
    "languages": [
     "en"
    ]
@@ -45,7 +57,7 @@
     "en": "Shinjou Saikyou no Dai Kenja, Tensei-saki ga Nuigurumi demo Saikyou deshita"
    },
    "contentRating": "safe",
-   "score": 0.2648936,
+   "score": 0.26731467,
    "languages": [
     "id",
     "en"
@@ -57,12 +69,25 @@
     "en": "Reborn as a Phoenix: A Normal Bird Can't Beat a Dragon, Right?"
    },
    "contentRating": "safe",
-   "score": 0.26391065,
+   "score": 0.26391533,
    "languages": [
     "en",
     "ru",
     "pt-br",
     "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "d4c40e73-251a-4bcb-a5a6-1edeec1e00e7",
+   "title": {
+    "en": "Seijo-sama? Iie, Toorisugari no Mamonotsukai Desu! ~Zettai Muteki no Seijo wa Mofumofu to Tabi wo Suru~"
+   },
+   "contentRating": "safe",
+   "score": 0.2589572,
+   "languages": [
+    "fr",
+    "en",
     "id"
    ]
   },
@@ -72,7 +97,7 @@
     "en": "People Looked Down on Me for Having a Crummy Job but It Really Isn't All That Bad?"
    },
    "contentRating": "safe",
-   "score": 0.25904563,
+   "score": 0.25877666,
    "languages": [
     "ru",
     "pt-br",
@@ -81,29 +106,24 @@
    ]
   },
   {
-   "id": "d4c40e73-251a-4bcb-a5a6-1edeec1e00e7",
-   "title": {
-    "en": "Seijo-sama? Iie, Toorisugari no Mamonotsukai Desu! ~Zettai Muteki no Seijo wa Mofumofu to Tabi wo Suru~"
-   },
-   "contentRating": "safe",
-   "score": 0.25897846,
-   "languages": [
-    "fr",
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "b65602ff-2b3a-4802-9d9f-67717e06e06d",
    "title": {
     "en": "Arafoo Shachiku no Golem Master"
    },
    "contentRating": "safe",
-   "score": 0.25767174,
+   "score": 0.25786442,
    "languages": [
     "es-la",
     "en"
    ]
+  },
+  {
+   "id": "ca3e361b-c76b-41bd-a3fa-9c2042353dfe",
+   "title": {
+    "en": "Isekai Hiroyuki"
+   },
+   "contentRating": "safe",
+   "score": 0.25709695
   },
   {
    "id": "5f64d517-c4ea-40c0-a463-fcc069d39d3b",
@@ -111,11 +131,50 @@
     "en": "Tsuihousareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou"
    },
    "contentRating": "safe",
-   "score": 0.25668454,
+   "score": 0.25530416,
    "languages": [
     "id",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "23a70b08-9ad9-4e5c-973d-81ec48c8f5a3",
+   "title": {
+    "en": "My S-Rank Party Fired Me for Being a Cursificer: I Can Only Make “Cursed Items”, but They're Artifact Class!"
+   },
+   "contentRating": "safe",
+   "score": 0.25335103,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ea9a1233-00f3-424b-9057-fd4d962b324a",
+   "title": {
+    "en": "Eight Princes Go to the Teppen"
+   },
+   "contentRating": "safe",
+   "score": 0.25154513,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5137687f-a925-4b18-a474-b143f9e3ec01",
+   "title": {
+    "en": "Magan to Dangan o Tsukatte Isekai o Buchinuku!"
+   },
+   "contentRating": "safe",
+   "score": 0.24923691,
+   "languages": [
+    "vi",
+    "en",
+    "fr",
+    "pt-br",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -124,93 +183,22 @@
     "en": "Until I, A Fallen Nobleman, Was Called the Great Sage With My Hazure (?) Skill “Super Jack-of-All-Trades”"
    },
    "contentRating": "safe",
-   "score": 0.24719207,
+   "score": 0.24697274,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "42b42edb-4bbb-4d01-93c2-f95c05b1a936",
+   "id": "27eea504-93a9-417f-b61b-1d3ba6c888e7",
    "title": {
-    "en": "Kaifuku Lotion de Maou wo Taosu Koto ni Natta. ~Isekai Byurubyuru Kouryakuki~"
+    "en": "Tensei Shoujo no Rirekisho"
    },
    "contentRating": "safe",
-   "score": 0.24552087,
+   "score": 0.24512202,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "80c59ae3-1e0c-411a-a9d6-b792a2d72d8b",
-   "title": {
-    "en": "Level 99 Boukensha ni Yoru Hajimete no Ryouchi Keiei"
-   },
-   "contentRating": "safe",
-   "score": 0.24273291,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "eb2d1a45-d4e7-4e32-a171-b5b029c5b0cb",
-   "title": {
-    "en": "Kumo Desu ga, Nani ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.24171734,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru",
-    "pl",
-    "tr",
-    "fr",
-    "es",
-    "nl",
-    "es-la",
-    "it"
-   ]
-  },
-  {
-   "id": "97d2b29c-2c73-48ef-9c41-2faf8b5cf9f4",
-   "title": {
-    "en": "The Inferior Grade Strongest Sage ~From the Lowest Villager to the World's Strongest With Ease~"
-   },
-   "contentRating": "safe",
-   "score": 0.24088651,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7a47c571-7567-471d-bc65-ff942e3186f8",
-   "title": {
-    "en": "Sekai ni Hitori, Zenzokusei Mahou no Tsukaite"
-   },
-   "contentRating": "safe",
-   "score": 0.23871586,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "9913f21f-d531-458f-a980-c6657981f0cd",
-   "title": {
-    "en": "6-sai no Kenja wa Hikage no Michi wo Ayumitai"
-   },
-   "contentRating": "safe",
-   "score": 0.2313372,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en",
-    "ru",
-    "uk",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:29+00:00"
+ "updatedAt": "2023-12-10T18:21:14+00:00"
 }

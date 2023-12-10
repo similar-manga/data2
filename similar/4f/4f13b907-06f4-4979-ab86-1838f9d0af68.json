@@ -11,7 +11,7 @@
     "en": "Ring Ring Tanuki"
    },
    "contentRating": "suggestive",
-   "score": 0.20767547,
+   "score": 0.20887695,
    "languages": [
     "en",
     "it",
@@ -24,7 +24,7 @@
     "en": "The Time Leaper Yuki"
    },
    "contentRating": "suggestive",
-   "score": 0.18225817,
+   "score": 0.1828236,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "she is beautiful"
    },
    "contentRating": "suggestive",
-   "score": 0.17918208,
+   "score": 0.17911752,
    "languages": [
     "en",
     "es-la",
@@ -48,7 +48,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.16992418,
+   "score": 0.16863537,
    "languages": [
     "id",
     "ru",
@@ -64,11 +64,22 @@
     "en": "Seigai no Majo"
    },
    "contentRating": "suggestive",
-   "score": 0.16526632,
+   "score": 0.16471247,
    "languages": [
     "en",
     "pt-br",
     "es-la"
+   ]
+  },
+  {
+   "id": "96727fbf-b71d-44a6-a785-d13c0a0526bb",
+   "title": {
+    "en": "Ziggurat"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15077016,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -77,7 +88,7 @@
     "en": "Wandering Island"
    },
    "contentRating": "suggestive",
-   "score": 0.1550293,
+   "score": 0.14754222,
    "languages": [
     "bg",
     "ru",
@@ -90,23 +101,12 @@
    ]
   },
   {
-   "id": "96727fbf-b71d-44a6-a785-d13c0a0526bb",
-   "title": {
-    "en": "Ziggurat"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15219232,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "91503d4c-16d6-4962-9eca-93557667066c",
    "title": {
     "ja-ro": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.14566988,
+   "score": 0.14229397,
    "languages": [
     "en",
     "ru",
@@ -117,25 +117,25 @@
    ]
   },
   {
-   "id": "004e6dbe-b8cf-4f95-8ab2-e5f112ead297",
-   "title": {
-    "en": "Watashi no Koi de Shindekure"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13913538,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "3fc01abd-8b7a-428d-a2ac-15a845296e79",
    "title": {
     "en": "Emeth Meth"
    },
    "contentRating": "suggestive",
-   "score": 0.13891318,
+   "score": 0.13883202,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "004e6dbe-b8cf-4f95-8ab2-e5f112ead297",
+   "title": {
+    "en": "Watashi no Koi de Shindekure"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1378131,
+   "languages": [
     "en"
    ]
   },
@@ -145,18 +145,7 @@
     "en": "Diestrammena"
    },
    "contentRating": "suggestive",
-   "score": 0.12680258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f63eef7c-7db9-40d6-8856-747427860f22",
-   "title": {
-    "en": "High School Girl Kingdom Tokyo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.123693176,
+   "score": 0.12652321,
    "languages": [
     "en"
    ]
@@ -167,7 +156,18 @@
     "en": "Rose × Marie"
    },
    "contentRating": "suggestive",
-   "score": 0.12287606,
+   "score": 0.12217445,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f63eef7c-7db9-40d6-8856-747427860f22",
+   "title": {
+    "en": "High School Girl Kingdom Tokyo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12169713,
    "languages": [
     "en"
    ]
@@ -181,20 +181,6 @@
    "score": 0.12121831,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7e137d5a-169b-4513-978d-d5f046b6ad5d",
-   "title": {
-    "en": "Zoo Factory"
-   },
-   "contentRating": "suggestive",
-   "score": 0.11597667,
-   "languages": [
-    "pl",
-    "en",
-    "de",
-    "fr"
    ]
   },
   {
@@ -215,7 +201,37 @@
     "es",
     "ar"
    ]
+  },
+  {
+   "id": "ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c",
+   "title": {
+    "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands"
+   },
+   "contentRating": "suggestive",
+   "score": 0.115577124,
+   "languages": [
+    "es",
+    "vi",
+    "it",
+    "en",
+    "fr",
+    "pt-br",
+    "es-la",
+    "ar",
+    "uk",
+    "pl",
+    "ru",
+    "he",
+    "id",
+    "zh-hk",
+    "cs",
+    "hu",
+    "de",
+    "mn",
+    "tr",
+    "kk"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:51+00:00"
+ "updatedAt": "2023-12-10T18:16:51+00:00"
 }

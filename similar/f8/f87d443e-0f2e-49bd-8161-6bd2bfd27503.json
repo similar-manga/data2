@@ -11,7 +11,7 @@
     "en": "Kingdom Hearts III"
    },
    "contentRating": "safe",
-   "score": 0.2337559,
+   "score": 0.23139903,
    "languages": [
     "it",
     "es-la",
@@ -36,7 +36,7 @@
     "en": "SPY×FAMILY"
    },
    "contentRating": "safe",
-   "score": 0.22109453,
+   "score": 0.22163112,
    "languages": [
     "ru",
     "cs",
@@ -82,12 +82,24 @@
    ]
   },
   {
+   "id": "438a42fa-2fe4-45f3-9996-eea8f50c7382",
+   "title": {
+    "en": "Rascal Does Not Dream of a Dreaming Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.21087615,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
    "title": {
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.21047194,
+   "score": 0.2101597,
    "languages": [
     "ru",
     "en",
@@ -106,12 +118,53 @@
    ]
   },
   {
+   "id": "9bbd5477-fe67-42a3-97a0-09327ea88366",
+   "title": {
+    "en": "Kyokou Suiri"
+   },
+   "contentRating": "safe",
+   "score": 0.20395033,
+   "languages": [
+    "es-la",
+    "ru",
+    "en",
+    "it",
+    "pt-br",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "9646132b-4683-4339-9f81-4f149b71c8fb",
+   "title": {
+    "en": "Rascal Does Not Dream of a Sister Home Alone"
+   },
+   "contentRating": "safe",
+   "score": 0.20371561,
+   "languages": [
+    "ru",
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "a025d065-ec7f-4962-a874-45903f5dc618",
    "title": {
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
    "score": 0.20334601,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f9b26533-a516-499b-b2ca-8d095ac5174a",
+   "title": {
+    "en": "Pokémon HGSS"
+   },
+   "contentRating": "safe",
+   "score": 0.202787,
    "languages": [
     "en"
    ]
@@ -128,12 +181,24 @@
    ]
   },
   {
+   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
+   "title": {
+    "en": "One Piece Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.19829455,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "a4b39b6e-a448-4644-a540-64ceff1d8305",
    "title": {
     "en": "Toilet-bound Hanako-kun"
    },
    "contentRating": "safe",
-   "score": 0.19798869,
+   "score": 0.19794458,
    "languages": [
     "vi",
     "ru",
@@ -147,17 +212,6 @@
    ]
   },
   {
-   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
-   "title": {
-    "en": "Sensou Gekijou"
-   },
-   "contentRating": "safe",
-   "score": 0.1932856,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
     "en": "Ge Ge Ge no Kitaro"
@@ -167,77 +221,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "21688024-f53f-4cb2-9c2e-62973f134975",
-   "title": {
-    "en": "Window Washer Park"
-   },
-   "contentRating": "safe",
-   "score": 0.19168608,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
-   "title": {
-    "en": "The Legend of Zelda (Ran Maru)"
-   },
-   "contentRating": "safe",
-   "score": 0.19117105,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
-   "title": {
-    "en": "Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.1872899,
-   "languages": [
-    "id",
-    "en",
-    "pl",
-    "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
-   ]
-  },
-  {
-   "id": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
-   "title": {
-    "en": "Noragami"
-   },
-   "contentRating": "safe",
-   "score": 0.1856471,
-   "languages": [
-    "it",
-    "pt-br",
-    "en",
-    "es",
-    "tr",
-    "uk",
-    "hu",
-    "ro",
-    "ar",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:02+00:00"
+ "updatedAt": "2023-12-10T18:35:35+00:00"
 }

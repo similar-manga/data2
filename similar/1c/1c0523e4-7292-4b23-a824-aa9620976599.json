@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.6459215
+  },
+  {
    "id": "f0566129-581e-4be6-874a-88e72a10c7de",
    "title": {
     "en": "The Son of the Godfather"
    },
    "contentRating": "safe",
-   "score": 0.40614158
+   "score": 0.424937
   },
   {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
@@ -19,7 +27,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.3772662,
+   "score": 0.3869612,
    "languages": [
     "en"
    ]
@@ -30,10 +38,18 @@
     "en": "Watashi no Oniichan"
    },
    "contentRating": "safe",
-   "score": 0.31403828,
+   "score": 0.32564008,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a493f2d6-6e38-484c-ade0-c81550e7457c",
+   "title": {
+    "en": "Hero Kojin Sakuhinshuu"
+   },
+   "contentRating": "safe",
+   "score": 0.32357487
   },
   {
    "id": "d33faee4-ef05-4108-bb0e-b5a82897add0",
@@ -41,10 +57,18 @@
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.3114999,
+   "score": 0.31384286,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8b189d49-999d-41d9-bc70-328c990026f9",
+   "title": {
+    "en": "Alice in Osamuland"
+   },
+   "contentRating": "safe",
+   "score": 0.30976203
   },
   {
    "id": "3fe4d4c0-60d2-482f-9009-f9e4e44812f7",
@@ -52,7 +76,7 @@
     "en": "As for Time..."
    },
    "contentRating": "safe",
-   "score": 0.2778193,
+   "score": 0.28752503,
    "languages": [
     "fr",
     "ru",
@@ -60,35 +84,34 @@
    ]
   },
   {
+   "id": "e2c8aa5f-24e1-470e-98f4-37f3d6242067",
+   "title": {
+    "en": "Chou no Michiyuki"
+   },
+   "contentRating": "safe",
+   "score": 0.28275958
+  },
+  {
    "id": "42bd54a1-42d0-43aa-b6f5-d2eded31a5fc",
    "title": {
     "en": "Monday, Wednesday and Friday is Swimming"
    },
    "contentRating": "safe",
-   "score": 0.2731173,
+   "score": 0.28034255,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "58f807bd-1f51-4d80-972f-2cc89a844a79",
+   "id": "55f65ef6-8902-447f-8d2e-d10a9b26a679",
    "title": {
-    "en": "Osamu Tezuka Mother's Once Upon a Time"
+    "en": "Migihara's Short Manga"
    },
    "contentRating": "safe",
-   "score": 0.26225728
-  },
-  {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
-   "title": {
-    "en": "Ookiku Furikabutte"
-   },
-   "contentRating": "safe",
-   "score": 0.25739017,
+   "score": 0.27234924,
    "languages": [
     "en",
-    "es-la",
-    "fr"
+    "tr"
    ]
   },
   {
@@ -97,74 +120,43 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.25622717
+   "score": 0.27178657
   },
   {
-   "id": "84a64104-2129-49d3-80ea-2d21bffc5fd5",
+   "id": "58f807bd-1f51-4d80-972f-2cc89a844a79",
    "title": {
-    "en": "Shissou Nikki"
+    "en": "Osamu Tezuka Mother's Once Upon a Time"
    },
    "contentRating": "safe",
-   "score": 0.25619057
+   "score": 0.27052438
   },
   {
-   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
+   "id": "c442d007-1349-43b8-b893-6a9ce710ba3c",
    "title": {
-    "en": "TEAM PHOENIX"
+    "en": "Onna no Mado"
    },
    "contentRating": "safe",
-   "score": 0.24554232
+   "score": 0.27019137
   },
   {
-   "id": "38e121fe-2a2e-40d8-8a0a-e91d79a99ca9",
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
    "title": {
-    "en": "The Noble Farmer"
+    "en": "Sarutobi"
    },
    "contentRating": "safe",
-   "score": 0.22834393,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
-   "title": {
-    "en": "Sunny Sunny Ann!"
-   },
-   "contentRating": "safe",
-   "score": 0.22675227,
+   "score": 0.26729318,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7c58c1b0-b595-4f9d-8fa9-a710c4cac3e6",
+   "id": "cbd071a8-b02e-45d5-a723-2dcbd7a6bb49",
    "title": {
-    "en": "Jungle Taro"
+    "en": "Oi Piitan!!"
    },
    "contentRating": "safe",
-   "score": 0.22194962
-  },
-  {
-   "id": "8ae6a223-9fba-4e11-a893-3ade04f2d63b",
-   "title": {
-    "en": "Ranpou"
-   },
-   "contentRating": "safe",
-   "score": 0.22072437
-  },
-  {
-   "id": "4627dee4-1c00-4732-a4b1-dfd08bb679b8",
-   "title": {
-    "en": "Kantai Collection - Comic a la Carte - Maizuru Chinjufu Hen"
-   },
-   "contentRating": "safe",
-   "score": 0.22070724,
-   "languages": [
-    "en"
-   ]
+   "score": 0.26431835
   }
  ],
- "updatedAt": "2023-12-10T01:00:50+00:00"
+ "updatedAt": "2023-12-10T18:11:19+00:00"
 }

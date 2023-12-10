@@ -11,7 +11,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.25728,
+   "score": 0.25653422,
    "languages": [
     "es-la",
     "pt-br",
@@ -26,7 +26,7 @@
     "en": "Tuberculose"
    },
    "contentRating": "safe",
-   "score": 0.24497305
+   "score": 0.24470027
   },
   {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
@@ -34,7 +34,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.24267574,
+   "score": 0.2424,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.24120729,
+   "score": 0.2423188,
    "languages": [
     "en",
     "pt-br"
@@ -57,7 +57,7 @@
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.229512,
+   "score": 0.22965987,
    "languages": [
     "es-la",
     "en"
@@ -69,26 +69,9 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.22882952,
+   "score": 0.22724742,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
-   "title": {
-    "en": "Can You Fall in Love With the Skeleton?"
-   },
-   "contentRating": "safe",
-   "score": 0.22245742,
-   "languages": [
-    "en",
-    "fr",
-    "it",
-    "es-la",
-    "pt-br",
-    "tr",
-    "vi"
    ]
   },
   {
@@ -97,10 +80,18 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.22020164,
+   "score": 0.21866977,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
+   "title": {
+    "en": "Miraizer Vam"
+   },
+   "contentRating": "safe",
+   "score": 0.21773773
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -114,20 +105,12 @@
    ]
   },
   {
-   "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
-   "title": {
-    "en": "Miraizer Vam"
-   },
-   "contentRating": "safe",
-   "score": 0.21601245
-  },
-  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.2150991,
+   "score": 0.21510534,
    "languages": [
     "en",
     "pt-br",
@@ -137,6 +120,23 @@
     "pl",
     "ru",
     "es"
+   ]
+  },
+  {
+   "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
+   "title": {
+    "en": "Can You Fall in Love With the Skeleton?"
+   },
+   "contentRating": "safe",
+   "score": 0.21419309,
+   "languages": [
+    "en",
+    "fr",
+    "it",
+    "es-la",
+    "pt-br",
+    "tr",
+    "vi"
    ]
   },
   {
@@ -151,12 +151,32 @@
    ]
   },
   {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.20637219,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
+   ]
+  },
+  {
    "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
    "title": {
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.20332778,
+   "score": 0.20334059,
    "languages": [
     "es-la"
    ]
@@ -167,7 +187,7 @@
     "en": "∀ Gundam - ∀ “Korokoro”"
    },
    "contentRating": "safe",
-   "score": 0.20280336,
+   "score": 0.2026429,
    "languages": [
     "pt-br",
     "en"
@@ -179,19 +199,8 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.20009503
-  },
-  {
-   "id": "d7c1a441-4e6e-466e-a651-8ac60fb8a186",
-   "title": {
-    "en": "The Whereabouts of Ashley Goeth"
-   },
-   "contentRating": "safe",
-   "score": 0.19992384,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2006122
   }
  ],
- "updatedAt": "2023-12-10T01:08:46+00:00"
+ "updatedAt": "2023-12-10T18:32:30+00:00"
 }

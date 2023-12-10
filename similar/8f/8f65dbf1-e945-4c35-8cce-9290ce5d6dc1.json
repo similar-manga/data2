@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bedb570e-e613-4a70-b776-51d7c76feec1",
+   "title": {
+    "en": "A Trip to Tynemouth"
+   },
+   "contentRating": "safe",
+   "score": 0.3425465,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b2f95e75-a2ca-40b9-99dd-a3d2449e25c9",
    "title": {
     "en": "My Sister Is a Hikikomori"
    },
    "contentRating": "safe",
-   "score": 0.32207555,
+   "score": 0.31421435,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "An Older Brother Who Wants to Be a Girl and a Younger Sister Who Wants to Be a Boy"
    },
    "contentRating": "safe",
-   "score": 0.31636006,
+   "score": 0.30717802,
    "languages": [
     "en"
    ]
@@ -33,11 +44,33 @@
     "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.313159,
+   "score": 0.30380312,
    "languages": [
     "pl",
     "en",
     "bg"
+   ]
+  },
+  {
+   "id": "c521d244-6514-47f6-b11b-e31844652b80",
+   "title": {
+    "en": "My Sister Is Out to Destroy the World"
+   },
+   "contentRating": "safe",
+   "score": 0.3033155,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aa82c951-973d-4fbf-9588-fe0524dd4908",
+   "title": {
+    "en": "King Kid"
+   },
+   "contentRating": "safe",
+   "score": 0.29243302,
+   "languages": [
+    "pl"
    ]
   },
   {
@@ -56,12 +89,23 @@
    ]
   },
   {
+   "id": "5b585d5a-95ce-427e-bd02-054cab289bdc",
+   "title": {
+    "en": "Desert Tribe"
+   },
+   "contentRating": "safe",
+   "score": 0.27291197,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "77f102aa-ea03-403d-8a49-264a60f44f6a",
    "title": {
     "en": "NiGHTS: You Don't Need Wings to Fly"
    },
    "contentRating": "safe",
-   "score": 0.28463617,
+   "score": 0.2700351,
    "languages": [
     "en"
    ]
@@ -72,21 +116,9 @@
     "en": "The Soldier Who Guards the Gate of the City Freedom"
    },
    "contentRating": "safe",
-   "score": 0.26199833,
+   "score": 0.25893393,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "23b9ae2e-8a60-4705-9763-7a47361120ab",
-   "title": {
-    "en": "A Story About A Brother Who Crossdressed and Worked Part-Time For His Little Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.2604064,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -95,7 +127,7 @@
     "en": "Mika and the Rainbow Cat"
    },
    "contentRating": "safe",
-   "score": 0.2603123,
+   "score": 0.25737587,
    "languages": [
     "en"
    ]
@@ -106,43 +138,21 @@
     "en": "Shinsouban Clover no Kuni no Alice ~ Wonderful Wonder World ~ Official Visual Fan Book"
    },
    "contentRating": "safe",
-   "score": 0.26021075,
+   "score": 0.25575513,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "aa82c951-973d-4fbf-9588-fe0524dd4908",
+   "id": "23b9ae2e-8a60-4705-9763-7a47361120ab",
    "title": {
-    "en": "King Kid"
+    "en": "A Story About A Brother Who Crossdressed and Worked Part-Time For His Little Sister"
    },
    "contentRating": "safe",
-   "score": 0.25746846,
+   "score": 0.25421497,
    "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "57d0f48c-971f-4e03-a737-f693a2586637",
-   "title": {
-    "en": "Kitsune to Aburage"
-   },
-   "contentRating": "safe",
-   "score": 0.25472006,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06020d3e-3f5a-4d18-bc73-6d12acda0370",
-   "title": {
-    "en": "Kiss Happiness Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.25331336,
-   "languages": [
-    "pl",
-    "en"
+    "en",
+    "id"
    ]
   },
   {
@@ -151,20 +161,9 @@
     "en": "Fuseikai no Shiro Madoushi"
    },
    "contentRating": "safe",
-   "score": 0.25085753,
+   "score": 0.24848936,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "a175d275-1413-486f-9378-46a87b2789dc",
-   "title": {
-    "en": "Tales of the World - Radiant Mythology 3: Hajimari no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.24874996,
-   "languages": [
     "en"
    ]
   },
@@ -181,16 +180,16 @@
    ]
   },
   {
-   "id": "bedb570e-e613-4a70-b776-51d7c76feec1",
+   "id": "57d0f48c-971f-4e03-a737-f693a2586637",
    "title": {
-    "en": "A Trip to Tynemouth"
+    "en": "Kitsune to Aburage"
    },
    "contentRating": "safe",
-   "score": 0.24702592,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:37+00:00"
+ "updatedAt": "2023-12-10T18:24:11+00:00"
 }

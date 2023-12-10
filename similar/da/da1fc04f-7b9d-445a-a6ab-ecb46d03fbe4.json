@@ -23,7 +23,7 @@
     "en": "Attack! Mega Man X"
    },
    "contentRating": "safe",
-   "score": 0.13913202,
+   "score": 0.13877426,
    "languages": [
     "es",
     "en"
@@ -46,7 +46,7 @@
     "en": "Aola Star - Parallel Universe"
    },
    "contentRating": "safe",
-   "score": 0.12548064,
+   "score": 0.124733895,
    "languages": [
     "en",
     "es"
@@ -70,7 +70,7 @@
     "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.12200741,
+   "score": 0.12109997,
    "languages": [
     "en",
     "ru",
@@ -85,7 +85,7 @@
     "en": "The Birth of Mega Man"
    },
    "contentRating": "safe",
-   "score": 0.11498155,
+   "score": 0.114323534,
    "languages": [
     "es",
     "en"
@@ -97,7 +97,7 @@
     "en": "GOD EATER - Kyuuseishu no Kikan"
    },
    "contentRating": "safe",
-   "score": 0.1141371,
+   "score": 0.113995485,
    "languages": [
     "es",
     "en"
@@ -122,7 +122,7 @@
     "en": "Mega Man: The Deadly Struggle on Mu Arc"
    },
    "contentRating": "safe",
-   "score": 0.10850486,
+   "score": 0.10837309,
    "languages": [
     "en",
     "es"
@@ -144,6 +144,17 @@
    ]
   },
   {
+   "id": "da81dcf0-8204-4a82-aa2e-3ba4f44f4b6e",
+   "title": {
+    "en": "Mega Man's Soccer"
+   },
+   "contentRating": "safe",
+   "score": 0.09947295,
+   "languages": [
+    "es"
+   ]
+  },
+  {
    "id": "eca3a5ae-d611-4055-b1c7-af2d5911085c",
    "title": {
     "en": "Mega Man X3: Stop Doppler's Army!"
@@ -156,23 +167,12 @@
    ]
   },
   {
-   "id": "da81dcf0-8204-4a82-aa2e-3ba4f44f4b6e",
-   "title": {
-    "en": "Mega Man's Soccer"
-   },
-   "contentRating": "safe",
-   "score": 0.09947295,
-   "languages": [
-    "es"
-   ]
-  },
-  {
    "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
    "title": {
     "en": "Fate/Grand Order -turas réalta-"
    },
    "contentRating": "safe",
-   "score": 0.098049335,
+   "score": 0.09648485,
    "languages": [
     "es",
     "vi",
@@ -183,29 +183,33 @@
    ]
   },
   {
-   "id": "3b479acb-2a0a-4a6b-b8a7-1fdbc15bbc89",
+   "id": "cab91d47-c2d0-46d4-ba81-51dd530b13d1",
    "title": {
-    "en": "Nemuri Netarou Awararu!!"
+    "en": "Saint Seiya - Next Dimension"
    },
    "contentRating": "safe",
    "score": 0.095238104,
    "languages": [
+    "pt-br",
+    "es",
     "en",
-    "es"
+    "pl"
    ]
   },
   {
-   "id": "4de536ea-295a-42a0-a0aa-3ce506b9ea65",
+   "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
    "title": {
-    "en": "Mega Man X2: Get Those Special Weapons!"
+    "en": "Yo-kai Watch Treasure Busters"
    },
    "contentRating": "safe",
    "score": 0.095238104,
    "languages": [
-    "es",
-    "en"
+    "pt-br",
+    "fr",
+    "en",
+    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:45+00:00"
+ "updatedAt": "2023-12-10T18:32:28+00:00"
 }

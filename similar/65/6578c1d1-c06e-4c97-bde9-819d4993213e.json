@@ -6,9 +6,44 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0cd2268e-1c75-419e-8e6a-31a7339d72c9",
+   "id": "ea91aed0-3637-4d86-b447-027ba360fcfa",
    "title": {
-    "en": "Strange Pension"
+    "en": "Romantic Dark"
+   },
+   "contentRating": "safe",
+   "score": 0.29691178,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "174361bb-6f60-4400-9e47-990f686fd1b3",
+   "title": {
+    "en": "Gomen, Nanami-kun to wa Tsukiaenai"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e677b6d0-2b58-478a-84d5-29d732a0257e",
+   "title": {
+    "en": "Koi suru Moon Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "ru",
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "03253c72-519e-4f43-b621-e1b2d1fd0738",
+   "title": {
+    "en": "Meshimase, Mamono-san"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -28,12 +63,35 @@
    ]
   },
   {
+   "id": "b3969be8-0c6e-47f0-bc73-86360a1aee3b",
+   "title": {
+    "en": "Beloved Kunitama"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "0cd2268e-1c75-419e-8e6a-31a7339d72c9",
+   "title": {
+    "en": "Strange Pension"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "edfc095d-7867-4dac-9a45-5429c3f009b7",
    "title": {
     "en": "Oh, My Romantic Kumiho"
    },
    "contentRating": "safe",
-   "score": 0.27844718,
+   "score": 0.27885723,
    "languages": [
     "en"
    ]
@@ -44,7 +102,7 @@
     "en": "Michi to no So Good"
    },
    "contentRating": "safe",
-   "score": 0.27422532,
+   "score": 0.2731094,
    "languages": [
     "en"
    ]
@@ -55,7 +113,29 @@
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.2666073,
+   "score": 0.265737,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2cb946ee-db33-4521-a208-02a970ce328c",
+   "title": {
+    "en": "Ayakashiou no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.26431066,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f27df280-0309-43a3-80c1-0b6b43aefe83",
+   "title": {
+    "en": "Merit Egyptian God"
+   },
+   "contentRating": "safe",
+   "score": 0.25890467,
    "languages": [
     "en"
    ]
@@ -66,7 +146,7 @@
     "en": "Shinigami no Aria"
    },
    "contentRating": "safe",
-   "score": 0.25482246,
+   "score": 0.25388432,
    "languages": [
     "en"
    ]
@@ -77,76 +157,7 @@
     "en": "You Are My Everything"
    },
    "contentRating": "safe",
-   "score": 0.2478669,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "22231dea-4bb3-49af-b7b1-82777f3ce713",
-   "title": {
-    "en": "Hanirabi!"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "ro",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "2d472879-0d7c-4bad-bf76-605246ff99b7",
-   "title": {
-    "en": "100 Ways of an Exorcist"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "87a0aaf6-9fc7-48a7-a18b-b1dd165fd200",
-   "title": {
-    "en": "Hakamori Majo Bianca"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
-   "title": {
-    "en": "Unbeatable Youth"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4e339e62-26d0-4b53-a2ae-7657c14a8bc8",
-   "title": {
-    "en": "Luna Lunatic"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "47f42174-e68c-462d-a37a-7eead32858c6",
-   "title": {
-    "en": "Asura"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24833235,
    "languages": [
     "en"
    ]
@@ -163,27 +174,16 @@
    ]
   },
   {
-   "id": "4add750e-bdfc-416b-af09-81ee31e5bdea",
+   "id": "2d472879-0d7c-4bad-bf76-605246ff99b7",
    "title": {
-    "en": "Ojiizoo Quest"
+    "en": "100 Ways of an Exorcist"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
-   "title": {
-    "en": "Funny Money Rich Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.24174447,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:46+00:00"
+ "updatedAt": "2023-12-10T18:19:18+00:00"
 }

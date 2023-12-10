@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bb62fae4-7a54-4e34-bea2-de69ed095851",
+   "title": {
+    "en": "Super Vegeta Den"
+   },
+   "contentRating": "safe",
+   "score": 0.30592805,
+   "languages": [
+    "de",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "7d28a2a0-d261-4d11-bdac-a083c2120b6f",
    "title": {
     "en": "Touhou - The Great Fairy of the Shrine"
    },
    "contentRating": "safe",
-   "score": 0.22861953,
+   "score": 0.22832148,
    "languages": [
     "de"
    ]
@@ -53,7 +66,7 @@
     "en": "The Traveler"
    },
    "contentRating": "safe",
-   "score": 0.20335208,
+   "score": 0.20338573,
    "languages": [
     "it",
     "de",
@@ -77,29 +90,6 @@
    ]
   },
   {
-   "id": "d93c1505-78c5-4cd4-a790-3353c35a09b2",
-   "title": {
-    "en": "Touhou - Ai yori dedete"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "de"
-   ]
-  },
-  {
-   "id": "87ebb83f-4e9d-47cd-8a48-c9bb5fd9c42b",
-   "title": {
-    "en": "The Things I Hate About You"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
    "id": "50eda248-d8a6-4a49-9af2-f4feab4b082c",
    "title": {
     "en": "Daisuki na Tsuma Datta"
@@ -118,15 +108,13 @@
    ]
   },
   {
-   "id": "1670393e-cbeb-4f63-8abe-196761fd3735",
+   "id": "87ebb83f-4e9d-47cd-8a48-c9bb5fd9c42b",
    "title": {
-    "en": "My Girlfriend Is a Fussy Eater"
+    "en": "The Things I Hate About You"
    },
    "contentRating": "safe",
    "score": 0.19352116,
    "languages": [
-    "vi",
-    "pt-br",
     "de",
     "en"
    ]
@@ -143,6 +131,54 @@
     "de",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "1670393e-cbeb-4f63-8abe-196761fd3735",
+   "title": {
+    "en": "My Girlfriend Is a Fussy Eater"
+   },
+   "contentRating": "safe",
+   "score": 0.19352116,
+   "languages": [
+    "vi",
+    "pt-br",
+    "de",
+    "en"
+   ]
+  },
+  {
+   "id": "d93c1505-78c5-4cd4-a790-3353c35a09b2",
+   "title": {
+    "en": "Touhou - Ai yori dedete"
+   },
+   "contentRating": "safe",
+   "score": 0.19352116,
+   "languages": [
+    "de"
+   ]
+  },
+  {
+   "id": "ddcebfa2-05a0-4fcd-9cd4-60d779c38f2c",
+   "title": {
+    "en": "Karakai Jouzu no (Moto) Takagi-san"
+   },
+   "contentRating": "safe",
+   "score": 0.18048742,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "id",
+    "ru",
+    "fa",
+    "hi",
+    "it",
+    "fr",
+    "pl",
+    "vi",
+    "pt",
+    "de"
    ]
   },
   {
@@ -178,15 +214,16 @@
    ]
   },
   {
-   "id": "52821b2d-6abe-4293-a701-6ac643ec40f6",
+   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
    "title": {
-    "en": "Touhou Gumonshiki ~ Perfect Memento in Strict Sense."
+    "en": "Fukugaeru"
    },
    "contentRating": "safe",
    "score": 0.17034185,
    "languages": [
+    "bg",
     "en",
-    "ru",
+    "pl",
     "de"
    ]
   },
@@ -202,33 +239,7 @@
     "en",
     "de"
    ]
-  },
-  {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Fukugaeru"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de"
-   ]
-  },
-  {
-   "id": "c7564951-ae8a-43b7-b122-1ca0cbd9469c",
-   "title": {
-    "en": "Then, I'll Go First"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "de",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:54+00:00"
+ "updatedAt": "2023-12-10T18:22:21+00:00"
 }

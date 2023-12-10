@@ -6,15 +6,43 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
+   "id": "9e4fcb47-5f7d-4751-a84d-abd2d5590e30",
    "title": {
-    "en": "I'm Teppei"
+    "en": "Yowamushi Pedal - Spare Bike"
    },
    "contentRating": "safe",
-   "score": 0.22980426,
+   "score": 0.25126484,
    "languages": [
     "en",
-    "pt-br"
+    "fr"
+   ]
+  },
+  {
+   "id": "28ee14d0-52ab-402a-a86b-939e6a575574",
+   "title": {
+    "en": "Toppu GP"
+   },
+   "contentRating": "safe",
+   "score": 0.23670016,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
+   "title": {
+    "en": "Yowamushi Pedal"
+   },
+   "contentRating": "safe",
+   "score": 0.22942784,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "ru",
+    "es-la"
    ]
   },
   {
@@ -32,18 +60,15 @@
    ]
   },
   {
-   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
+   "id": "d769e0f6-d6d5-4eb4-b0a1-509fb7d4d9c3",
    "title": {
-    "en": "Yowamushi Pedal"
+    "en": "I'm Teppei"
    },
    "contentRating": "safe",
-   "score": 0.22869612,
+   "score": 0.22937928,
    "languages": [
     "en",
-    "fr",
-    "pt-br",
-    "ru",
-    "es-la"
+    "pt-br"
    ]
   },
   {
@@ -52,9 +77,24 @@
     "en": "Dan Doh!!"
    },
    "contentRating": "safe",
-   "score": 0.2261791,
+   "score": 0.22627904,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+   "title": {
+    "en": "Major 2nd"
+   },
+   "contentRating": "safe",
+   "score": 0.2236015,
+   "languages": [
+    "es",
+    "ru",
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -63,7 +103,7 @@
     "en": "Yotsuba\u0026!"
    },
    "contentRating": "safe",
-   "score": 0.22098067,
+   "score": 0.2219442,
    "languages": [
     "pt-br",
     "ru",
@@ -82,7 +122,18 @@
     "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.21734583,
+   "score": 0.2186053,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ebcff7c1-aaf9-46ea-8d8b-2f4ea7e8f02b",
+   "title": {
+    "en": "Kenta Yarimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.21760175,
    "languages": [
     "en"
    ]
@@ -93,10 +144,40 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.21514136,
+   "score": 0.21604602,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b4668276-4b3e-49e0-98e7-fcc6841f7680",
+   "title": {
+    "en": "Blue Lock: Episode Nagi"
+   },
+   "contentRating": "safe",
+   "score": 0.21407677,
+   "languages": [
+    "ru",
+    "es-la",
+    "en",
+    "pt-br",
+    "vi",
+    "id",
+    "fa",
+    "ar"
+   ]
+  },
+  {
+   "id": "3ae3f179-c579-43ca-908f-9d6e20e8aee1",
+   "title": {
+    "en": "Kiss \u0026 Cry"
+   },
+   "contentRating": "safe",
+   "score": 0.21407677,
+   "languages": [
+    "zh-hk",
+    "en"
    ]
   },
   {
@@ -116,7 +197,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.20916829,
+   "score": 0.20985179,
    "languages": [
     "en",
     "pt-br",
@@ -128,105 +209,17 @@
    ]
   },
   {
-   "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
-   "title": {
-    "en": "Hajime no Ippo"
-   },
-   "contentRating": "safe",
-   "score": 0.20603159,
-   "languages": [
-    "en",
-    "ar",
-    "fr",
-    "es",
-    "pt-br",
-    "ru",
-    "pl"
-   ]
-  },
-  {
    "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
    "title": {
     "en": "King Golf"
    },
    "contentRating": "safe",
-   "score": 0.20516852,
+   "score": 0.20614235,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "d916b2dd-0061-4817-9184-673ad75596d2",
-   "title": {
-    "en": "THE iDOLM@STER Splash Red for Dearly Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.1968586,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d91023f0-d7ea-464d-9f29-fae3063465ee",
-   "title": {
-    "en": "The Kabocha Wine"
-   },
-   "contentRating": "safe",
-   "score": 0.18774693,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.1850482,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
-   "title": {
-    "en": "Blue Lock"
-   },
-   "contentRating": "safe",
-   "score": 0.18140516,
-   "languages": [
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "pt-br",
-    "en",
-    "it",
-    "tr",
-    "uk",
-    "fr",
-    "hu",
-    "de"
-   ]
-  },
-  {
-   "id": "50b9cace-b9b0-48da-86f9-ca0e7859f35e",
-   "title": {
-    "en": "Asagaya Geijutu Koukou Eizouka e Youkoso"
-   },
-   "contentRating": "safe",
-   "score": 0.17770466,
-   "languages": [
-    "ru",
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:54+00:00"
+ "updatedAt": "2023-12-10T18:08:45+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4e850d21-f74a-4c6b-a07e-ffbc1d51dba9",
+   "title": {
+    "en": "Rurouni Kenshin - Tokuhitsuban"
+   },
+   "contentRating": "safe",
+   "score": 0.8039097,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ada4b443-7a2a-4974-862e-c66f1127413b",
    "title": {
     "en": "Rurouni Kenshin: Haru ni Sakura"
    },
    "contentRating": "safe",
-   "score": 0.7470119,
+   "score": 0.7495073,
    "languages": [
     "it",
     "pt",
@@ -19,14 +30,18 @@
    ]
   },
   {
-   "id": "4e850d21-f74a-4c6b-a07e-ffbc1d51dba9",
+   "id": "8311ab2d-f034-4e7a-8635-4dce27bf6027",
    "title": {
-    "en": "Rurouni Kenshin - Tokuhitsuban"
+    "en": "Rurouni Kenshin: Hokkaido-hen"
    },
    "contentRating": "safe",
-   "score": 0.6105994,
+   "score": 0.440236,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "es"
    ]
   },
   {
@@ -35,7 +50,7 @@
     "en": "Rurouni Kenshin: Yahiko no Sakabatou"
    },
    "contentRating": "safe",
-   "score": 0.41314888,
+   "score": 0.4091236,
    "languages": [
     "en",
     "pt"
@@ -47,7 +62,7 @@
     "en": "Uso to Makoto"
    },
    "contentRating": "safe",
-   "score": 0.2713796,
+   "score": 0.27118948,
    "languages": [
     "en"
    ]
@@ -58,7 +73,7 @@
     "en": "Warabe no Kusa"
    },
    "contentRating": "safe",
-   "score": 0.26025456,
+   "score": 0.26014677,
    "languages": [
     "en"
    ]
@@ -69,7 +84,7 @@
     "en": "Sekishin"
    },
    "contentRating": "safe",
-   "score": 0.24214129,
+   "score": 0.24121489,
    "languages": [
     "en"
    ]
@@ -90,6 +105,18 @@
    ]
   },
   {
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+   "title": {
+    "en": "Red Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.2233065,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
    "title": {
     "en": "Anastasia no Shinei Taichou"
@@ -99,6 +126,18 @@
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "8880df7b-5d67-44b5-a79b-a9d6371c7253",
+   "title": {
+    "en": "Kyuuyaku Märchen"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -121,6 +160,17 @@
    "score": 0.21559551,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "3e4468df-c9bd-474d-bae3-ad455c3d9571",
+   "title": {
+    "en": "The Resurging Flame"
+   },
+   "contentRating": "safe",
+   "score": 0.21257533,
+   "languages": [
     "en"
    ]
   },
@@ -150,52 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "11c0eb33-5206-4a79-bd4a-ba45620a2096",
-   "title": {
-    "en": "Toshokan Sensou - SPITFIRE!"
-   },
-   "contentRating": "safe",
-   "score": 0.19722039,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9143fef-9747-4e5e-80cb-42433a841a49",
-   "title": {
-    "en": "Namida wo Yurushita Jigoku no Shisha"
-   },
-   "contentRating": "safe",
-   "score": 0.18472472,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "d5404847-a74f-45c8-82b8-bbaa6b724d63",
-   "title": {
-    "en": "Shinden Yuuden Kakumei-hen - Ochita Kuroi Yuusha no Densetsu"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:35+00:00"
+ "updatedAt": "2023-12-10T18:18:44+00:00"
 }

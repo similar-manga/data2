@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a8d53854-a512-413b-9f6a-7395c6c65d18",
+   "title": {
+    "en": "Kaze Densetsu Hikoza"
+   },
+   "contentRating": "safe",
+   "score": 0.25669566
+  },
+  {
    "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
    "title": {
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.25926083,
+   "score": 0.25272635,
    "languages": [
     "en",
     "fr",
@@ -26,7 +34,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.2308543
+   "score": 0.2313358
   },
   {
    "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
@@ -34,7 +42,7 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.2199622
+   "score": 0.22041732
   },
   {
    "id": "7032ad8e-79d7-4270-b32a-3675495b318e",
@@ -42,7 +50,7 @@
     "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.21215576,
+   "score": 0.21176113,
    "languages": [
     "en"
    ]
@@ -53,7 +61,18 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.21191458,
+   "score": 0.21171877,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "99d8a55c-9126-4412-a5d5-2f35f1b4aae3",
+   "title": {
+    "en": "Yaoyoro!"
+   },
+   "contentRating": "safe",
+   "score": 0.20502605,
    "languages": [
     "en"
    ]
@@ -70,6 +89,18 @@
    ]
   },
   {
+   "id": "0d242cf4-eead-4a74-87c9-5805a42a2303",
+   "title": {
+    "en": "Tenohira Sousei-ki"
+   },
+   "contentRating": "safe",
+   "score": 0.20168641,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
     "en": "Mobile Suit Gundam F90 FF"
@@ -81,12 +112,20 @@
    ]
   },
   {
+   "id": "df474fe4-d965-47d6-b593-ef002b6e2328",
+   "title": {
+    "en": "Mibu no Ookami, Neko wo Kau"
+   },
+   "contentRating": "safe",
+   "score": 0.20032525
+  },
+  {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
    "title": {
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.19978641,
+   "score": 0.1995033,
    "languages": [
     "en"
    ]
@@ -101,6 +140,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "71716cbf-e1b0-4871-b247-38aebcaaf287",
+   "title": {
+    "en": "Asagiro - Asagi Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.19601408
   },
   {
    "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
@@ -121,66 +168,8 @@
     "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.19543551
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.19110014,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.18884741,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
-   "title": {
-    "en": "Fullmetal Alchemist: The Prototype"
-   },
-   "contentRating": "safe",
-   "score": 0.18855664,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5c4f5806-76aa-47de-99c2-65a10bcc1f9d",
-   "title": {
-    "en": "Ninkū"
-   },
-   "contentRating": "safe",
-   "score": 0.18620113,
-   "languages": [
-    "en",
-    "es",
-    "pl"
-   ]
-  },
-  {
-   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
-   "title": {
-    "en": "Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.18503189,
-   "languages": [
-    "pl",
-    "en"
-   ]
+   "score": 0.19552897
   }
  ],
- "updatedAt": "2023-12-10T01:01:37+00:00"
+ "updatedAt": "2023-12-10T18:13:31+00:00"
 }

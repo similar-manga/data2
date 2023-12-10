@@ -11,18 +11,7 @@
     "en": "Attention All Students!"
    },
    "contentRating": "safe",
-   "score": 0.25098836,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
-   "title": {
-    "en": "Family!"
-   },
-   "contentRating": "safe",
-   "score": 0.23648869,
+   "score": 0.25300694,
    "languages": [
     "en"
    ]
@@ -33,7 +22,18 @@
     "en": "Peach Girl"
    },
    "contentRating": "safe",
-   "score": 0.23000146,
+   "score": 0.23236363,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
+   "title": {
+    "en": "Family!"
+   },
+   "contentRating": "safe",
+   "score": 0.2319164,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Yubisaki to Renren"
    },
    "contentRating": "safe",
-   "score": 0.22846618,
+   "score": 0.22819762,
    "languages": [
     "hu",
     "pt-br",
@@ -61,7 +61,18 @@
     "en": "Aka-chan to Boku"
    },
    "contentRating": "safe",
-   "score": 0.22616856,
+   "score": 0.2269711,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f65e76c4-e4fb-40be-bc9b-bf6285d72d0b",
+   "title": {
+    "en": "Love Battle Manual"
+   },
+   "contentRating": "safe",
+   "score": 0.22641204,
    "languages": [
     "en"
    ]
@@ -72,7 +83,18 @@
     "en": "8 mm"
    },
    "contentRating": "safe",
-   "score": 0.21964157,
+   "score": 0.2188828,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
+   "title": {
+    "en": "Glass Mask"
+   },
+   "contentRating": "safe",
+   "score": 0.21319154,
    "languages": [
     "en"
    ]
@@ -83,46 +105,10 @@
     "en": "Mei-chan no Shitsuji"
    },
    "contentRating": "safe",
-   "score": 0.21296613,
+   "score": 0.21267623,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "51fe4713-013a-4acc-8874-bfd01b60eff9",
-   "title": {
-    "en": "Glass Mask"
-   },
-   "contentRating": "safe",
-   "score": 0.21214157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
-   "title": {
-    "en": "The Tale of Taro Yamada"
-   },
-   "contentRating": "safe",
-   "score": 0.21162602,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.21144573,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
    ]
   },
   {
@@ -131,10 +117,35 @@
     "en": "Ardour"
    },
    "contentRating": "safe",
-   "score": 0.21129735,
+   "score": 0.21128881,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
+   "title": {
+    "en": "Gakuen Babysitters"
+   },
+   "contentRating": "safe",
+   "score": 0.21127532,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "id"
+   ]
+  },
+  {
+   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
+   "title": {
+    "en": "The Tale of Taro Yamada"
+   },
+   "contentRating": "safe",
+   "score": 0.21107325,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -143,21 +154,22 @@
     "en": "Tokimeki Tonight"
    },
    "contentRating": "safe",
-   "score": 0.21014974,
+   "score": 0.21010108,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "784614ea-949f-43ed-952f-9881677aa477",
+   "id": "5b63b5fc-f178-498c-80b2-bfac07f06108",
    "title": {
-    "en": "Dog and My Family Circumstance"
+    "en": "Inuwashi Momo wa Yuruganai"
    },
    "contentRating": "safe",
-   "score": 0.20817588,
+   "score": 0.20907964,
    "languages": [
-    "ru",
-    "en"
+    "es-la",
+    "en",
+    "fr"
    ]
   },
   {
@@ -166,33 +178,25 @@
     "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.20761305,
+   "score": 0.20788287,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f13f91dc-ac6c-4907-bb55-e9b78278b5a3",
+   "id": "b9c16c69-df27-4c6e-9676-8a260403758f",
    "title": {
-    "en": "Jiujiu"
+    "en": "Uchi no Otouto-domo ga sumimasen"
    },
    "contentRating": "safe",
-   "score": 0.20664825,
+   "score": 0.20732278,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
-   "title": {
-    "en": "Renai Catalog"
-   },
-   "contentRating": "safe",
-   "score": 0.20171945,
-   "languages": [
-    "en"
+    "en",
+    "es-la",
+    "vi",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:25+00:00"
+ "updatedAt": "2023-12-10T18:34:04+00:00"
 }

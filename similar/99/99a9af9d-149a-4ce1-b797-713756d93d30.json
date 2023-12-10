@@ -11,7 +11,7 @@
     "en": "Mobile Suit Gundam SEED MSV - The Blooming of Housenka on the Battlefield"
    },
    "contentRating": "safe",
-   "score": 0.43209502,
+   "score": 0.43628365,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mobile Suit Gundam N-Extreme"
    },
    "contentRating": "safe",
-   "score": 0.30738747,
+   "score": 0.3117331,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.295182,
+   "score": 0.29784203,
    "languages": [
     "en"
    ]
@@ -44,7 +44,18 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.25128555,
+   "score": 0.25631228,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
+   "title": {
+    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.23904993,
    "languages": [
     "en"
    ]
@@ -83,34 +94,12 @@
    ]
   },
   {
-   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
-   "title": {
-    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.23567478,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
    "title": {
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.22588748,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "540de780-4a3b-4079-b94b-e5720c667c95",
-   "title": {
-    "en": "Cyborg 009 - Owari Nobunaga-hen"
-   },
-   "contentRating": "safe",
-   "score": 0.22222224,
+   "score": 0.22628325,
    "languages": [
     "en"
    ]
@@ -129,9 +118,9 @@
    ]
   },
   {
-   "id": "14dd7ff1-9265-45bf-a048-af2a5fb745c7",
+   "id": "540de780-4a3b-4079-b94b-e5720c667c95",
    "title": {
-    "en": "Cyborg 009 - Trump Tower-hen"
+    "en": "Cyborg 009 - Owari Nobunaga-hen"
    },
    "contentRating": "safe",
    "score": 0.22222224,
@@ -152,38 +141,50 @@
    ]
   },
   {
+   "id": "14dd7ff1-9265-45bf-a048-af2a5fb745c7",
+   "title": {
+    "en": "Cyborg 009 - Trump Tower-hen"
+   },
+   "contentRating": "safe",
+   "score": 0.22222224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.20551686,
+   "score": 0.20948353,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b194cd18-d728-469a-8285-5d9533cbf70d",
+   "id": "babe48ea-f0d1-481c-a285-8bb13166ba0d",
    "title": {
-    "en": "Kijuu Shinseiki Zoids"
+    "en": "Beyond the Sky"
    },
    "contentRating": "safe",
-   "score": 0.19440396,
+   "score": 0.19587511,
    "languages": [
+    "pl",
     "en"
    ]
   },
   {
-   "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
+   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
-    "en": "Esoragoto"
+    "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.19440396,
+   "score": 0.1958161,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:06+00:00"
+ "updatedAt": "2023-12-10T18:25:24+00:00"
 }

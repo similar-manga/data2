@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.2315911,
+   "score": 0.2321345,
    "languages": [
     "en",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Shimauma"
    },
    "contentRating": "suggestive",
-   "score": 0.22492974,
+   "score": 0.22513579,
    "languages": [
     "en"
    ]
@@ -35,22 +35,11 @@
     "en": "Robot"
    },
    "contentRating": "suggestive",
-   "score": 0.21795009,
+   "score": 0.21792631,
    "languages": [
     "en",
     "bg",
     "fr"
-   ]
-  },
-  {
-   "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
-   "title": {
-    "en": "Soldier"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19980112,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -59,7 +48,7 @@
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.1995179,
+   "score": 0.20289584,
    "languages": [
     "fr",
     "pt-br",
@@ -79,12 +68,23 @@
    ]
   },
   {
+   "id": "50efaa56-a595-476f-8419-cc1bdd752c97",
+   "title": {
+    "en": "Soldier"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19911,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
    "title": {
     "en": "Higanjima - 48 Nichigo"
    },
    "contentRating": "suggestive",
-   "score": 0.19210666,
+   "score": 0.19143328,
    "languages": [
     "en"
    ]
@@ -95,7 +95,7 @@
     "en": "Black Lagoon"
    },
    "contentRating": "suggestive",
-   "score": 0.18932322,
+   "score": 0.18931232,
    "languages": [
     "it",
     "ru",
@@ -173,31 +173,9 @@
     "en": "Crime Game - Houritsu no Nai Sekai"
    },
    "contentRating": "suggestive",
-   "score": 0.16956738,
+   "score": 0.16920571,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5439fe65-5b3a-420e-9ef4-27c9bcc49c5a",
-   "title": {
-    "en": "Boy's Abyss"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16775441,
-   "languages": [
-    "es-la",
-    "fr",
-    "tr",
-    "ru",
-    "en",
-    "vi",
-    "es",
-    "pt-br",
-    "id",
-    "ar",
-    "it",
-    "fa"
    ]
   },
   {
@@ -236,11 +214,33 @@
     "en": "Dog Soldier"
    },
    "contentRating": "suggestive",
-   "score": 0.16149499,
+   "score": 0.1617851,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5439fe65-5b3a-420e-9ef4-27c9bcc49c5a",
+   "title": {
+    "en": "Boy's Abyss"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16009481,
+   "languages": [
+    "es-la",
+    "fr",
+    "tr",
+    "ru",
+    "en",
+    "vi",
+    "es",
+    "pt-br",
+    "id",
+    "ar",
+    "it",
+    "fa"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:30+00:00"
+ "updatedAt": "2023-12-10T18:23:53+00:00"
 }

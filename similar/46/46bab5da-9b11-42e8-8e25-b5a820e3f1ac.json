@@ -11,7 +11,7 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.46150312,
+   "score": 0.46309528,
    "languages": [
     "en"
    ]
@@ -22,7 +22,18 @@
     "en": "A Foolish Avenger"
    },
    "contentRating": "safe",
-   "score": 0.4533865,
+   "score": 0.46082097,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b011fcf-519c-4c12-adba-0d891c38e27e",
+   "title": {
+    "en": "A Fleeting Time"
+   },
+   "contentRating": "safe",
+   "score": 0.432287,
    "languages": [
     "en"
    ]
@@ -33,20 +44,9 @@
     "en": "My Biggest Regret"
    },
    "contentRating": "safe",
-   "score": 0.44024366,
+   "score": 0.40312895,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "8b011fcf-519c-4c12-adba-0d891c38e27e",
-   "title": {
-    "en": "A Fleeting Time"
-   },
-   "contentRating": "safe",
-   "score": 0.42397654,
-   "languages": [
     "en"
    ]
   },
@@ -56,7 +56,7 @@
     "en": "My Two Mommies"
    },
    "contentRating": "safe",
-   "score": 0.24150896,
+   "score": 0.23994529,
    "languages": [
     "en"
    ]
@@ -67,7 +67,7 @@
     "en": "World's First Romcom: Oga and Bebe (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.23359919,
+   "score": 0.23311424,
    "languages": [
     "en"
    ]
@@ -78,23 +78,11 @@
     "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.2314813,
+   "score": 0.231817,
    "languages": [
     "en",
     "pt-br",
     "it"
-   ]
-  },
-  {
-   "id": "ae66451c-05f4-4d49-a1e9-1050f51a0443",
-   "title": {
-    "en": "Welcome to the Ocean Club!"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "it",
-    "en"
    ]
   },
   {
@@ -111,6 +99,18 @@
    ]
   },
   {
+   "id": "ae66451c-05f4-4d49-a1e9-1050f51a0443",
+   "title": {
+    "en": "Welcome to the Ocean Club!"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "dfe99792-a27b-407f-bbb1-8857b51c4969",
    "title": {
     "en": "Negaigoto 300000 km/s"
@@ -123,15 +123,44 @@
    ]
   },
   {
+   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
+   "title": {
+    "en": "The Dangers in My Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.21645233,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "tr",
+    "id",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "113c347d-4356-4e85-8668-5d795ab2c897",
    "title": {
     "en": "Batcage."
    },
    "contentRating": "safe",
-   "score": 0.21828495,
+   "score": 0.21635056,
    "languages": [
     "vi",
     "th",
+    "en"
+   ]
+  },
+  {
+   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
+   "title": {
+    "en": "Your Mind is Easy to Read"
+   },
+   "contentRating": "safe",
+   "score": 0.21548048,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -144,35 +173,6 @@
    "score": 0.21483447,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
-   "title": {
-    "en": "Your Mind is Easy to Read"
-   },
-   "contentRating": "safe",
-   "score": 0.2130111,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
-   "title": {
-    "en": "The Dangers in My Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.21151799,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "tr",
-    "id",
-    "ar",
-    "fr"
    ]
   },
   {
@@ -191,17 +191,16 @@
    ]
   },
   {
-   "id": "04bca7eb-2a47-488d-a227-17dbda5371cf",
+   "id": "8a4faf5c-564c-46fc-8f89-ec0bdd7a441f",
    "title": {
-    "en": "Aosora"
+    "en": "Bokka"
    },
    "contentRating": "safe",
-   "score": 0.20526439,
+   "score": 0.20901892,
    "languages": [
-    "en",
-    "fr"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:29+00:00"
+ "updatedAt": "2023-12-10T18:15:58+00:00"
 }

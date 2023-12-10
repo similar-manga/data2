@@ -11,7 +11,7 @@
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.2711202
+   "score": 0.26916298
   },
   {
    "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
@@ -19,7 +19,7 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.2233282,
+   "score": 0.22296412,
    "languages": [
     "en"
    ]
@@ -30,7 +30,15 @@
     "en": "Airport"
    },
    "contentRating": "safe",
-   "score": 0.21115087
+   "score": 0.21064077
+  },
+  {
+   "id": "37fa8f71-4e8b-4683-b1bf-f1382129be33",
+   "title": {
+    "en": "Shinkurou, Hashiru!"
+   },
+   "contentRating": "safe",
+   "score": 0.1974753
   },
   {
    "id": "8c4e2d74-6e6c-438b-ad29-5ddaf8dbbfc2",
@@ -55,6 +63,45 @@
    ]
   },
   {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.19089277,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e0d4debf-cc3c-4a8e-98dd-8bd9781b96ec",
+   "title": {
+    "en": "Eshikarunte"
+   },
+   "contentRating": "safe",
+   "score": 0.1893052
+  },
+  {
+   "id": "d88f5c66-aa21-4f5b-afb0-024de8e466d8",
+   "title": {
+    "en": "Nobel"
+   },
+   "contentRating": "safe",
+   "score": 0.18704462
+  },
+  {
+   "id": "67258389-41e4-4e3e-8d1b-ac7eed806623",
+   "title": {
+    "en": "My Arika"
+   },
+   "contentRating": "safe",
+   "score": 0.18542339,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "40ff7927-a2b8-4de4-9bc7-08f06c15dd94",
    "title": {
     "en": "Nobunaga-Sensei"
@@ -63,20 +110,12 @@
    "score": 0.18317837
   },
   {
-   "id": "02fdf3e3-d328-4b2e-9458-25b838142dee",
+   "id": "3848db4c-eed2-4a21-be08-0fb12c959a05",
    "title": {
-    "en": "Tokaido Middle Knee Chestnut"
+    "en": "Kaidan"
    },
    "contentRating": "safe",
-   "score": 0.18175954
-  },
-  {
-   "id": "b6acc854-ebab-4c98-88a0-2f754ecdf214",
-   "title": {
-    "en": "Sohaya's Sword: Tokugawa Ieyasu's Favorite Sword"
-   },
-   "contentRating": "safe",
-   "score": 0.17982605
+   "score": 0.18285309
   },
   {
    "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
@@ -84,10 +123,18 @@
     "en": "Ijimerarekko ga Kuru!"
    },
    "contentRating": "safe",
-   "score": 0.17967363,
+   "score": 0.17972796,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b6acc854-ebab-4c98-88a0-2f754ecdf214",
+   "title": {
+    "en": "Sohaya's Sword: Tokugawa Ieyasu's Favorite Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.17920801
   },
   {
    "id": "1ba43799-8f88-4d96-8a48-8736de5312bf",
@@ -106,65 +153,8 @@
     "en": "Mirai no Yukue"
    },
    "contentRating": "safe",
-   "score": 0.1781832
-  },
-  {
-   "id": "f28584db-87ac-4d12-85b1-2fae9afb634f",
-   "title": {
-    "en": "Someday He's Gonna Get Me"
-   },
-   "contentRating": "safe",
-   "score": 0.1774041,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1e167d35-6b1f-4d5d-af00-be83160741fc",
-   "title": {
-    "en": "Skyscraper Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.17662728,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "80c179d6-a9a5-4887-b4ed-9a9da0806d7a",
-   "title": {
-    "en": "Deranged Ronin"
-   },
-   "contentRating": "safe",
-   "score": 0.17662728,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8ef50ac9-699a-470a-8258-721752261188",
-   "title": {
-    "en": "In Dreams"
-   },
-   "contentRating": "safe",
-   "score": 0.17462094,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "d4d5aa20-9ba8-4e5d-ae9f-e560c1428b06",
-   "title": {
-    "en": "Color of the Far East"
-   },
-   "contentRating": "safe",
-   "score": 0.17128439,
-   "languages": [
-    "en",
-    "ar"
-   ]
+   "score": 0.17830132
   }
  ],
- "updatedAt": "2023-12-10T01:04:11+00:00"
+ "updatedAt": "2023-12-10T18:20:22+00:00"
 }

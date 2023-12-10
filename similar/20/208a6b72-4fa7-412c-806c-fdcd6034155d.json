@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8093b849-7eea-4a4c-8089-573f8345ba73",
+   "title": {
+    "en": "It Started With A Promise"
+   },
+   "contentRating": "safe",
+   "score": 0.2643123
+  },
+  {
    "id": "2d5e6c12-e494-4389-ac8b-947b7e7f8f61",
    "title": {
     "en": "It called an Element!"
    },
    "contentRating": "safe",
-   "score": 0.24384092,
+   "score": 0.24339508,
    "languages": [
     "de"
    ]
@@ -22,7 +30,7 @@
     "en": "Final Fantasy: Lost Stranger"
    },
    "contentRating": "safe",
-   "score": 0.2418796,
+   "score": 0.24052392,
    "languages": [
     "id"
    ]
@@ -33,7 +41,7 @@
     "en": "Dragon's Son Changsik"
    },
    "contentRating": "safe",
-   "score": 0.23933296,
+   "score": 0.23686129,
    "languages": [
     "en",
     "fr"
@@ -45,7 +53,7 @@
     "en": "Hope You're Happy, Lemon"
    },
    "contentRating": "safe",
-   "score": 0.23416479,
+   "score": 0.23465082,
    "languages": [
     "pt-br",
     "vi",
@@ -60,10 +68,41 @@
     "en": "The Witch-Guarding Warden"
    },
    "contentRating": "safe",
-   "score": 0.229389,
+   "score": 0.23015372,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b0208139-9266-4da5-a1ce-f8bdd649e52d",
+   "title": {
+    "en": "World of dreams"
+   },
+   "contentRating": "safe",
+   "score": 0.228187,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "95daacb0-5f56-412d-8e3f-2406b0945f49",
+   "title": {
+    "en": "Ortona no Tsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.22710888
+  },
+  {
+   "id": "024221fb-fc4c-4d17-b0c0-22d9d21d683d",
+   "title": {
+    "en": "I Am The Final Boss"
+   },
+   "contentRating": "safe",
+   "score": 0.22670346,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -72,10 +111,18 @@
     "en": "Hollow Souls"
    },
    "contentRating": "safe",
-   "score": 0.22619787,
+   "score": 0.22550817,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b9a8565e-6780-41b1-8c38-c0d970dc8612",
+   "title": {
+    "en": "Eiyuu Densetsu - Sora no Kiseki SC"
+   },
+   "contentRating": "safe",
+   "score": 0.22193454
   },
   {
    "id": "19cc32ee-b0cc-4f4c-aceb-6f6c4e16d63e",
@@ -83,8 +130,20 @@
     "en": "Love Is a Promise"
    },
    "contentRating": "safe",
-   "score": 0.21868888,
+   "score": 0.21697445,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9d039aae-d78a-4812-affe-ccbcc723eb51",
+   "title": {
+    "en": "JUNKYARD RONIN"
+   },
+   "contentRating": "safe",
+   "score": 0.21659885,
+   "languages": [
+    "ja",
     "en"
    ]
   },
@@ -97,14 +156,13 @@
    "score": 0.21586488
   },
   {
-   "id": "9d039aae-d78a-4812-affe-ccbcc723eb51",
+   "id": "b222a0cc-db9f-4dc8-ac78-4194e7d14403",
    "title": {
-    "en": "JUNKYARD RONIN"
+    "en": "Urban Legend Maker"
    },
    "contentRating": "safe",
-   "score": 0.21453767,
+   "score": 0.21359463,
    "languages": [
-    "ja",
     "en"
    ]
   },
@@ -114,90 +172,8 @@
     "en": "Kamakura Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.21319956
-  },
-  {
-   "id": "38ba5ae8-5f2f-4fb4-b77c-d2137d27c931",
-   "title": {
-    "ko": "Nangseon Story"
-   },
-   "contentRating": "safe",
-   "score": 0.21247779,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
-   "title": {
-    "en": "Noragami"
-   },
-   "contentRating": "safe",
-   "score": 0.21119948,
-   "languages": [
-    "it",
-    "pt-br",
-    "en",
-    "es",
-    "tr",
-    "uk",
-    "hu",
-    "ro",
-    "ar",
-    "fr"
-   ]
-  },
-  {
-   "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
-   "title": {
-    "en": "Ge Ge Ge no Kitaro"
-   },
-   "contentRating": "safe",
-   "score": 0.20902309,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
-   "title": {
-    "en": "Yo-kai Watch"
-   },
-   "contentRating": "safe",
-   "score": 0.20902309,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "195023bf-cf9a-4772-94ef-09dd6eddea84",
-   "title": {
-    "en": "The Ancient Magus' Bride"
-   },
-   "contentRating": "safe",
-   "score": 0.20511717,
-   "languages": [
-    "es",
-    "en",
-    "ru",
-    "tr",
-    "hu",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "1fa988a1-eea6-486a-a280-7b17cb9a5aea",
-   "title": {
-    "en": "ELEMENTS: Users Of The Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.20496778,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21302263
   }
  ],
- "updatedAt": "2023-12-10T01:01:00+00:00"
+ "updatedAt": "2023-12-10T18:11:48+00:00"
 }

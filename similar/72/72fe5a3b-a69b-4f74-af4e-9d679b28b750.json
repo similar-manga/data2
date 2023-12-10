@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
+   "title": {
+    "en": "JUMBO MAX"
+   },
+   "contentRating": "safe",
+   "score": 0.24691759,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
    "title": {
     "en": "I Love You, Kyouko-san."
@@ -21,13 +33,37 @@
    ]
   },
   {
+   "id": "dc7bccb5-aac9-46b0-85af-11c493ccfe82",
+   "title": {
+    "en": "Nekura SE Danshi ga Omiai 100-kai Shite Kekkonshita Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.23013586,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
    "id": "6258fbe3-6732-49eb-84d2-daab7bdd1416",
    "title": {
     "en": "Double Marriage"
    },
    "contentRating": "safe",
-   "score": 0.20699906,
+   "score": 0.20066474,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
+   "title": {
+    "en": "Yorukumo"
+   },
+   "contentRating": "safe",
+   "score": 0.19984479,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -37,7 +73,7 @@
     "en": "Boku no Tsuma wa Kanjou ga Nai"
    },
    "contentRating": "safe",
-   "score": 0.20243551,
+   "score": 0.19605577,
    "languages": [
     "en",
     "vi",
@@ -51,7 +87,7 @@
     "en": "Nineteen"
    },
    "contentRating": "safe",
-   "score": 0.19435057,
+   "score": 0.19442059,
    "languages": [
     "en"
    ]
@@ -74,7 +110,7 @@
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.19055341,
+   "score": 0.19066715,
    "languages": [
     "en"
    ]
@@ -85,7 +121,7 @@
     "en": "Akunin no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.1866212,
+   "score": 0.18666342,
    "languages": [
     "es-la",
     "pt-br",
@@ -98,7 +134,7 @@
     "en": "Snow Blind"
    },
    "contentRating": "safe",
-   "score": 0.18636113,
+   "score": 0.18643288,
    "languages": [
     "fr",
     "es-la",
@@ -107,17 +143,6 @@
     "uk",
     "vi",
     "pl"
-   ]
-  },
-  {
-   "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
-   "title": {
-    "en": "Jouou"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -143,14 +168,24 @@
    ]
   },
   {
-   "id": "f86def88-af8d-4f82-94d8-057367e0db2a",
+   "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
    "title": {
-    "en": "Hitori de Shinitai"
+    "en": "Jouou"
    },
    "contentRating": "safe",
-   "score": 0.17936105,
+   "score": 0.18070157,
    "languages": [
-    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.18040928,
+   "languages": [
     "en"
    ]
   },
@@ -160,45 +195,11 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.17816377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
-   "title": {
-    "en": "Fugitives"
-   },
-   "contentRating": "safe",
-   "score": 0.1730412,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
-   "title": {
-    "en": "Black Coffee"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
-   "title": {
-    "en": "Atrocious Fairy Tales for Adults"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
+   "score": 0.17812769,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:20+00:00"
+ "updatedAt": "2023-12-10T18:20:48+00:00"
 }

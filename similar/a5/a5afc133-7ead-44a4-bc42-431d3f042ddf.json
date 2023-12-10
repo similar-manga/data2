@@ -34,7 +34,7 @@
     "en": "Tadaima, Okaeri"
    },
    "contentRating": "suggestive",
-   "score": 0.23947303,
+   "score": 0.23898172,
    "languages": [
     "en",
     "es-la",
@@ -48,7 +48,7 @@
     "en": "Sayonara, Otokonoko"
    },
    "contentRating": "suggestive",
-   "score": 0.22865179,
+   "score": 0.22842084,
    "languages": [
     "en"
    ]
@@ -59,22 +59,8 @@
     "en": "Boku Dake o Mite Kure"
    },
    "contentRating": "suggestive",
-   "score": 0.22719829,
+   "score": 0.22678235,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7fd01936-334d-41a9-bf3e-2388aa7e514f",
-   "title": {
-    "en": "Spotted Flower"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22396637,
-   "languages": [
-    "de",
-    "pt-br",
-    "it",
     "en"
    ]
   },
@@ -84,18 +70,7 @@
     "en": "Kimi to Janakya Koi mo Dekinai"
    },
    "contentRating": "suggestive",
-   "score": 0.22312301,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9d57ada6-6ddb-47da-85ae-09fb77869496",
-   "title": {
-    "en": "Tsumasaki no Ajisai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22032449,
+   "score": 0.22289257,
    "languages": [
     "en"
    ]
@@ -112,6 +87,17 @@
    ]
   },
   {
+   "id": "9d57ada6-6ddb-47da-85ae-09fb77869496",
+   "title": {
+    "en": "Tsumasaki no Ajisai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22032449,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e3bb42f0-4283-434e-8180-aa27c71722af",
    "title": {
     "en": "Anemone no Shishuu"
@@ -119,6 +105,31 @@
    "contentRating": "suggestive",
    "score": 0.21994297,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "735959e0-e896-4e80-a5f5-2888f4425aa9",
+   "title": {
+    "en": "Hatsukoi Lovers"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21978115,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7fd01936-334d-41a9-bf3e-2388aa7e514f",
+   "title": {
+    "en": "Spotted Flower"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21870264,
+   "languages": [
+    "de",
+    "pt-br",
+    "it",
     "en"
    ]
   },
@@ -157,32 +168,6 @@
    ]
   },
   {
-   "id": "b4c93297-b32f-4f90-b619-55456a38b0aa",
-   "title": {
-    "en": "Fuufu Ijou, Koibito Miman."
-   },
-   "contentRating": "suggestive",
-   "score": 0.20808785,
-   "languages": [
-    "vi",
-    "fr",
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "8c1fae54-f7d1-47ea-99d7-162a1365e09b",
-   "title": {
-    "en": "Kannagi no Yomeiri"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20776762,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b65e2600-2a23-45fe-bd39-8a1675383201",
    "title": {
     "en": "The Allegory of Nijinsky"
@@ -192,7 +177,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e780bd0b-ec05-441f-a9ce-1ce995919f75",
+   "title": {
+    "en": "Street Guerrilla"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20736422,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:35+00:00"
+ "updatedAt": "2023-12-10T18:26:48+00:00"
 }

@@ -6,12 +6,83 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ce827148-5363-4fea-b504-9ca8bf90ecbc",
+   "title": {
+    "en": "I Can Only Betray Earth!"
+   },
+   "contentRating": "safe",
+   "score": 0.33397797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2c13176e-13b3-41d9-aafb-37923bf0d0f2",
+   "title": {
+    "en": "Chivalry"
+   },
+   "contentRating": "safe",
+   "score": 0.32183844,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ae583e18-37f0-4836-84f7-8972d838bcc1",
+   "title": {
+    "en": "No scope"
+   },
+   "contentRating": "safe",
+   "score": 0.2827647,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b2bbb996-31d8-4bd1-b582-932ff7ea56e4",
+   "title": {
+    "en": "High School Detective Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.27976912,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "152a5a3d-c1f2-469a-b5fd-1c78b885ba6e",
    "title": {
     "en": "(So What If) This Is Just Life"
    },
    "contentRating": "safe",
-   "score": 0.2750161,
+   "score": 0.27169704,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4366adb3-75f1-4d86-9867-6dbccd0205e3",
+   "title": {
+    "en": "Hundred Years Game"
+   },
+   "contentRating": "safe",
+   "score": 0.25916168,
+   "languages": [
+    "id",
+    "es-la",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "4a675a6d-11f5-4fc3-9221-1c0f5b3981cb",
+   "title": {
+    "en": "BombFist"
+   },
+   "contentRating": "safe",
+   "score": 0.25665718,
    "languages": [
     "en"
    ]
@@ -22,7 +93,7 @@
     "en": "Free Draw"
    },
    "contentRating": "safe",
-   "score": 0.2601718,
+   "score": 0.256153,
    "languages": [
     "id",
     "en",
@@ -32,199 +103,103 @@
    ]
   },
   {
-   "id": "911041af-5d4b-43ca-b17a-3ead5b917f06",
-   "title": {
-    "en": "Zipsa Rangers"
-   },
-   "contentRating": "safe",
-   "score": 0.24806409,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
-   "title": {
-    "en": "Nan Hao \u0026 Shang Feng"
-   },
-   "contentRating": "safe",
-   "score": 0.23942742,
-   "languages": [
-    "he",
-    "hu",
-    "en",
-    "fa",
-    "id",
-    "pt-br",
-    "tr",
-    "pl",
-    "hi",
-    "it",
-    "ms",
-    "fr",
-    "kk",
-    "ro",
-    "uk"
-   ]
-  },
-  {
-   "id": "0c60a44d-c793-4a7d-8269-66afbdb2c517",
-   "title": {
-    "en": "Ultimate Legend - Kang Hae Hyo"
-   },
-   "contentRating": "safe",
-   "score": 0.2367566,
-   "languages": [
-    "en",
-    "ro",
-    "pt-br"
-   ]
-  },
-  {
    "id": "50df75f2-22c5-46c3-9212-8f5997940c99",
    "title": {
     "en": "Fight Class 3 (Webtoon Version)"
    },
    "contentRating": "safe",
-   "score": 0.23130186,
+   "score": 0.25399774,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "c1c408f6-3dec-4d62-b6b3-b57e615d933c",
+   "id": "cfd6471f-15b9-44da-9280-13439742969b",
    "title": {
-    "en": "Wind Breaker"
+    "en": "Build Up"
    },
    "contentRating": "safe",
-   "score": 0.22350937,
+   "score": 0.25216797,
    "languages": [
-    "tr",
-    "pt-br",
-    "fr",
-    "es-la",
-    "fa",
     "en",
-    "it",
-    "pl",
+    "fr",
     "ru",
-    "ro",
     "ar"
    ]
   },
   {
-   "id": "1887bb79-d747-4f35-9f9d-0c08e477f138",
+   "id": "911041af-5d4b-43ca-b17a-3ead5b917f06",
    "title": {
-    "en": "I Have a Dragon in My Body"
+    "en": "Zipsa Rangers"
    },
    "contentRating": "safe",
-   "score": 0.22057483,
+   "score": 0.25098062,
    "languages": [
     "en",
-    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "64e9bbbc-43f4-4036-a4f0-8ac20435ed6e",
+   "title": {
+    "en": "Rim Ding Dong"
+   },
+   "contentRating": "safe",
+   "score": 0.24983117,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d56a707-1543-4f48-a3fd-ada54e95be7c",
+   "title": {
+    "en": "Conquer the Throne School"
+   },
+   "contentRating": "safe",
+   "score": 0.24902254,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "d862a631-5f7d-4fe7-99b0-2e313d6f6cfa",
+   "title": {
+    "en": "Fast Break!"
+   },
+   "contentRating": "safe",
+   "score": 0.24674013,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4afe1ee7-ff18-4d9b-a1a4-7be02be3ab06",
+   "title": {
+    "en": "American Weeb in Japan"
+   },
+   "contentRating": "safe",
+   "score": 0.24566744,
+   "languages": [
+    "eo",
     "pl",
-    "it",
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "12852d22-575e-48db-9292-b2a57f12d1f7",
-   "title": {
-    "en": "Mabaram The School Conqueror"
-   },
-   "contentRating": "safe",
-   "score": 0.21491417,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
-   "title": {
-    "en": "King Golf"
-   },
-   "contentRating": "safe",
-   "score": 0.21484236,
-   "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "6d0d6cb1-1f5d-441f-957a-8e0268a6f913",
-   "title": {
-    "en": "I Regressed to Level Up Instead of Being a Simp"
-   },
-   "contentRating": "safe",
-   "score": 0.21402891,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ea875336-eaad-42c0-ad62-c0986af975ad",
-   "title": {
-    "en": "Asahinagu"
-   },
-   "contentRating": "safe",
-   "score": 0.2108442,
-   "languages": [
-    "ru",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "d69113cd-d368-4347-8657-1ed9987e7aa9",
-   "title": {
-    "en": "TAL"
-   },
-   "contentRating": "safe",
-   "score": 0.20998992,
-   "languages": [
-    "en",
-    "it",
-    "de"
-   ]
-  },
-  {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
-   "title": {
-    "en": "Ookiku Furikabutte"
-   },
-   "contentRating": "safe",
-   "score": 0.20516418,
-   "languages": [
-    "en",
-    "es-la",
+    "tr",
     "fr"
    ]
   },
   {
-   "id": "4e5c57a2-8a1e-4f05-bb5f-c79dd23b21b8",
+   "id": "3266ee16-ae20-4c3a-a666-f92bece4c070",
    "title": {
-    "en": "Food Runner"
+    "en": "Yi'An High School: After Class"
    },
    "contentRating": "safe",
-   "score": 0.20336077,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "db0d31e4-cd0f-4775-95aa-9c65c4081186",
-   "title": {
-    "en": "A Girl's Trial"
-   },
-   "contentRating": "safe",
-   "score": 0.20319894,
+   "score": 0.24080198,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:54+00:00"
+ "updatedAt": "2023-12-10T18:08:45+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Paper Plane"
    },
    "contentRating": "safe",
-   "score": 0.35216105
+   "score": 0.35618883
   },
   {
    "id": "d989ccc3-cd54-4ce2-aa83-0a7c54a6a267",
@@ -19,7 +19,7 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.33059984,
+   "score": 0.33019546,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.32628983,
+   "score": 0.32574078,
    "languages": [
     "en",
     "tr"
@@ -42,7 +42,7 @@
     "en": "Sense of Justice"
    },
    "contentRating": "safe",
-   "score": 0.30497137
+   "score": 0.30473945
   },
   {
    "id": "eaf58b68-82e0-4235-bec8-b1cac3f2e455",
@@ -50,7 +50,7 @@
     "en": "El Perro del Gorro Atornillado al Cráneo"
    },
    "contentRating": "safe",
-   "score": 0.29797506
+   "score": 0.29956782
   },
   {
    "id": "57d9c9d8-d7bd-46f1-983d-a90429f74a9a",
@@ -74,9 +74,20 @@
     "en": "Sekaiseifuku Doukoukai"
    },
    "contentRating": "safe",
-   "score": 0.26209646,
+   "score": 0.25929955,
    "languages": [
     "es-la"
+   ]
+  },
+  {
+   "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
+   "title": {
+    "en": "#Wasurete Shimau Watashitachi"
+   },
+   "contentRating": "safe",
+   "score": 0.2572639,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -85,26 +96,7 @@
     "en": "Cosmic Arc Travel"
    },
    "contentRating": "safe",
-   "score": 0.2575936
-  },
-  {
-   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
-   "title": {
-    "en": "ERROR US"
-   },
-   "contentRating": "safe",
-   "score": 0.25536513
-  },
-  {
-   "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
-   "title": {
-    "en": "#Wasurete Shimau Watashitachi"
-   },
-   "contentRating": "safe",
-   "score": 0.25462526,
-   "languages": [
-    "en"
-   ]
+   "score": 0.25629768
   },
   {
    "id": "8f658116-f687-4507-983a-c708803380e0",
@@ -112,7 +104,7 @@
     "en": "The Keys to Your Heart"
    },
    "contentRating": "safe",
-   "score": 0.2520546,
+   "score": 0.2521305,
    "languages": [
     "en"
    ]
@@ -123,19 +115,15 @@
     "en": "Alma De Un Solo Color"
    },
    "contentRating": "safe",
-   "score": 0.25008187
+   "score": 0.2513536
   },
   {
-   "id": "b33012fc-5a0b-4ac4-a978-c0927447c5d1",
+   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
    "title": {
-    "en": "From the Beyond..."
+    "en": "ERROR US"
    },
    "contentRating": "safe",
-   "score": 0.24573535,
-   "languages": [
-    "ru",
-    "en"
-   ]
+   "score": 0.24992754
   },
   {
    "id": "0f9fdf08-bf44-4a20-ad91-2294a41484f7",
@@ -143,7 +131,7 @@
     "en": "Hopeless Kacchan's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.24362135,
+   "score": 0.24814734,
    "languages": [
     "en"
    ]
@@ -154,8 +142,20 @@
     "en": "BOLT"
    },
    "contentRating": "safe",
-   "score": 0.24348277
+   "score": 0.24718726
+  },
+  {
+   "id": "b33012fc-5a0b-4ac4-a978-c0927447c5d1",
+   "title": {
+    "en": "From the Beyond..."
+   },
+   "contentRating": "safe",
+   "score": 0.2451852,
+   "languages": [
+    "ru",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:36+00:00"
+ "updatedAt": "2023-12-10T18:34:31+00:00"
 }

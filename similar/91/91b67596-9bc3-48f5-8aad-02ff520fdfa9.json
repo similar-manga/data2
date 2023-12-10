@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9cdb46d3-d149-4c03-9cd7-1f2cf90378fb",
+   "title": {
+    "en": "Pyeonghwa Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.40093085,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "db4cb0fc-05ca-4d66-b6b3-3755041aa65d",
    "title": {
     "en": "Three Stars Magic Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.38868722,
+   "score": 0.37625298,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "The Way the Mage Faces Death"
    },
    "contentRating": "safe",
-   "score": 0.377671,
+   "score": 0.37553713,
    "languages": [
     "fr",
     "en",
@@ -31,13 +43,75 @@
    ]
   },
   {
+   "id": "8e3740ef-34f9-4ed4-928d-465f685f4c30",
+   "title": {
+    "en": "Underworld Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.3581902,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a89b4c66-0fee-49ce-ab7c-8d3dd92f1d52",
+   "title": {
+    "en": "Special Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.34105462,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b632dd7f-f166-45f5-b141-71f0d8b14efe",
+   "title": {
+    "en": "Wizard of Arsenia"
+   },
+   "contentRating": "safe",
+   "score": 0.3266511,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "id",
+    "it",
+    "th"
+   ]
+  },
+  {
+   "id": "57ca4245-6dd9-41e3-b61e-294ad7d5a8c1",
+   "title": {
+    "en": "Boku to Furusato Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.32391673,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "20955860-d323-4ff9-9c59-5a1da5b76e8d",
    "title": {
     "ko": "(PROMO) The Returning Warrior’s Alley Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.32885507,
+   "score": 0.322926,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "50e788c7-33e4-4a8e-83b7-6e09681ad854",
+   "title": {
+    "en": "Wizard's Martial World"
+   },
+   "contentRating": "safe",
+   "score": 0.31347895,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -47,21 +121,10 @@
     "en": "Momomoke Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.321139,
+   "score": 0.30762228,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "b9bea559-b3e2-4459-80aa-73fac6c3e7bf",
-   "title": {
-    "en": "Meiten Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.31145585,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -70,7 +133,7 @@
     "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
    },
    "contentRating": "safe",
-   "score": 0.30144286,
+   "score": 0.30017027,
    "languages": [
     "ru",
     "en",
@@ -80,41 +143,14 @@
    ]
   },
   {
-   "id": "599ff730-edf0-4ad8-9e08-70395895af3f",
+   "id": "b9bea559-b3e2-4459-80aa-73fac6c3e7bf",
    "title": {
-    "en": "Start Raising Dragons From Today"
+    "en": "Meiten Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.2865953,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "eae897f2-7912-417f-8904-3fa85fcec734",
-   "title": {
-    "en": "Kill the Emperor"
-   },
-   "contentRating": "safe",
-   "score": 0.2797706,
+   "score": 0.2986558,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a2967217-2c07-4216-b05a-ac3302a4dd66",
-   "title": {
-    "en": "The Rebirth of an 8th Circled Wizard"
-   },
-   "contentRating": "safe",
-   "score": 0.27943254,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "pl",
-    "id"
    ]
   },
   {
@@ -123,85 +159,46 @@
     "en": "Regressor’s Life After Retirement"
    },
    "contentRating": "safe",
-   "score": 0.27640793,
+   "score": 0.2972092,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b4598b15-822c-48fb-bd18-ee8ae191e381",
+   "id": "275c3ee8-bdeb-4070-a333-6add23a8415a",
    "title": {
-    "en": "Tensei Shite Inaka de Slowlife wo Okuritai"
+    "en": "Renge to Naruto!"
    },
    "contentRating": "safe",
-   "score": 0.2743709,
+   "score": 0.28992373,
    "languages": [
-    "tr",
+    "vi",
     "en",
-    "id",
-    "ru"
+    "pt-br"
    ]
   },
   {
-   "id": "f5bb8210-1000-4d9a-a59d-a6fde0061baf",
+   "id": "4d0d1e50-f744-455a-a001-c4015a415f87",
    "title": {
-    "en": "Shiawase Restaurant"
+    "en": "Dragon King's Chef"
    },
    "contentRating": "safe",
-   "score": 0.27218556,
+   "score": 0.28592432,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7647fe0b-576f-4616-9de8-d9998727ced4",
+   "id": "cba5b25f-d075-46b5-8226-dfb230f77924",
    "title": {
-    "en": "Lady Chef Royale"
+    "en": "The Fox's Soba Restaurant Counseling Center"
    },
    "contentRating": "safe",
-   "score": 0.2698703,
-   "languages": [
-    "es-la",
-    "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "d21e52cf-50f1-48c7-8de7-69f280c05be4",
-   "title": {
-    "en": "Sono Munou, Jitsu wa Sekai Saikyou no Mahoutsukai ~Munou to Sagesumare, Kizokuka kara Oidasareta ga, Gift \"Tenseisha\" ga Kakusei shite Zense no Nouryoku ga Yomigaetta~"
-   },
-   "contentRating": "safe",
-   "score": 0.2653819,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "32bc225c-5026-4441-bd15-ed357a63440d",
-   "title": {
-    "en": "Fairytale for Wizards"
-   },
-   "contentRating": "safe",
-   "score": 0.26246604,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "71f7425b-ac0d-4b85-8beb-5b59ed8675a7",
-   "title": {
-    "en": "Tensei Shitara Kozakana datta kedo Ryuu ni Nareru Rashii node Ganbarimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.2595181,
+   "score": 0.2855561,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:45+00:00"
+ "updatedAt": "2023-12-10T18:24:29+00:00"
 }

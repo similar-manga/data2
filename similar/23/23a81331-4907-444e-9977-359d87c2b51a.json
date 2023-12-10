@@ -11,7 +11,7 @@
     "en": "Moon Edge"
    },
    "contentRating": "safe",
-   "score": 0.23901518,
+   "score": 0.23862275,
    "languages": [
     "en"
    ]
@@ -28,14 +28,6 @@
    ]
   },
   {
-   "id": "93903dae-0860-42da-a78b-8c09d8afcf00",
-   "title": {
-    "en": "Coke Code"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334
-  },
-  {
    "id": "0f96b3e1-a2eb-4d09-8db1-9c0b9926001f",
    "title": {
     "en": "Angel Fusion"
@@ -45,6 +37,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "93903dae-0860-42da-a78b-8c09d8afcf00",
+   "title": {
+    "en": "Coke Code"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334
   },
   {
    "id": "2edd4230-44ba-49b3-b172-72dd1999b361",
@@ -60,18 +60,41 @@
     "en": "Star-Lit Survival"
    },
    "contentRating": "safe",
-   "score": 0.21280538,
+   "score": 0.21242495,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bb5d390b-e8c1-4835-9b28-9fda04154429",
+   "id": "d93b4597-f613-43f8-94fd-a833e6c65c57",
    "title": {
-    "en": "Pernathoris"
+    "en": "Splitting"
    },
    "contentRating": "safe",
-   "score": 0.20964153
+   "score": 0.21047972
+  },
+  {
+   "id": "334d2419-aa92-4349-a6a2-0d3e453aea7e",
+   "title": {
+    "en": "Axiom"
+   },
+   "contentRating": "safe",
+   "score": 0.20978236,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d9992b7e-17e5-441c-9921-874b955753bd",
+   "title": {
+    "en": "One Way"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en",
+    "vi"
+   ]
   },
   {
    "id": "27d58bfa-6467-4204-972c-b23939f3d932",
@@ -98,48 +121,24 @@
    "score": 0.20865622
   },
   {
-   "id": "d9992b7e-17e5-441c-9921-874b955753bd",
-   "title": {
-    "en": "One Way"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "f1f5c63e-668c-4055-9328-f6fe2cc200ee",
    "title": {
     "en": "Psycho Party"
    },
    "contentRating": "safe",
-   "score": 0.20851079,
+   "score": 0.20826377,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "id": "bb5d390b-e8c1-4835-9b28-9fda04154429",
    "title": {
-    "en": "Ultra Heaven"
+    "en": "Pernathoris"
    },
    "contentRating": "safe",
-   "score": 0.20559624,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7e9256d4-3f1d-4b9c-8f45-23b5ee37b3b1",
-   "title": {
-    "en": "Saisou Friends"
-   },
-   "contentRating": "safe",
-   "score": 0.20557645
+   "score": 0.20773698
   },
   {
    "id": "c03f04e5-470f-418a-b589-2575f4e6ca89",
@@ -147,16 +146,16 @@
     "en": "Zero Taker"
    },
    "contentRating": "safe",
-   "score": 0.20527619
+   "score": 0.20579922
   },
   {
-   "id": "6ab8a1c6-6926-4c13-9609-164ed900a588",
+   "id": "7e9256d4-3f1d-4b9c-8f45-23b5ee37b3b1",
    "title": {
-    "en": "Void: No. Nine - 9-banme no Utsuro"
+    "en": "Saisou Friends"
    },
    "contentRating": "safe",
-   "score": 0.2003093
+   "score": 0.20503233
   }
  ],
- "updatedAt": "2023-12-10T01:01:07+00:00"
+ "updatedAt": "2023-12-10T18:12:08+00:00"
 }

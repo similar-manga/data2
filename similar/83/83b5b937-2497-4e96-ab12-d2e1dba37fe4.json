@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b75b76c2-1b2e-4f32-aef5-77294ccbba94",
+   "title": {
+    "en": "5 Evils"
+   },
+   "contentRating": "safe",
+   "score": 0.20852605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1c5342f4-4e1c-42d0-b96e-3926c23321e7",
    "title": {
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.1968884,
+   "score": 0.19625866,
    "languages": [
     "en"
    ]
@@ -22,9 +33,25 @@
     "en": "Pangea"
    },
    "contentRating": "safe",
-   "score": 0.19431452,
+   "score": 0.19316563,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "83e6e476-63e0-4c86-aaed-c011150d8cab",
+   "title": {
+    "en": "Female Knight and the Kemonomimi Child"
+   },
+   "contentRating": "safe",
+   "score": 0.18861452,
+   "languages": [
+    "es-la",
+    "en",
+    "ru",
+    "uk",
+    "id",
+    "pl"
    ]
   },
   {
@@ -33,7 +60,7 @@
     "en": "Monster's Child"
    },
    "contentRating": "safe",
-   "score": 0.18539946,
+   "score": 0.18310761,
    "languages": [
     "ru",
     "pt-br",
@@ -46,7 +73,34 @@
     "en": "Tamago no Torikago"
    },
    "contentRating": "safe",
-   "score": 0.1770206,
+   "score": 0.17553668,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53c4d807-660f-4b10-9e45-726925b41dcd",
+   "title": {
+    "en": "Kill The Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.17453371,
+   "languages": [
+    "fa",
+    "id",
+    "pl",
+    "it",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "59f00952-2667-4679-aac2-82a38dacf4d1",
+   "title": {
+    "en": "Urban Legend Professor Uramon"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
    "languages": [
     "en"
    ]
@@ -63,40 +117,14 @@
    ]
   },
   {
-   "id": "59f00952-2667-4679-aac2-82a38dacf4d1",
-   "title": {
-    "en": "Urban Legend Professor Uramon"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5a2e0247-19cc-4329-bfc4-61ff6eb49638",
    "title": {
     "en": "Psy-Comm"
    },
    "contentRating": "safe",
-   "score": 0.17140894,
+   "score": 0.17136137,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b3f76271-cfad-49be-930a-a368baaf69b6",
-   "title": {
-    "en": "Bakemon to Bakemon no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.1712254,
-   "languages": [
-    "vi",
-    "pl",
-    "es-la",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -111,12 +139,27 @@
    ]
   },
   {
+   "id": "b3f76271-cfad-49be-930a-a368baaf69b6",
+   "title": {
+    "en": "Bakemon to Bakemon no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.16990584,
+   "languages": [
+    "vi",
+    "pl",
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "c4e70460-dffd-4f0d-b0e6-aee7b8e26a11",
    "title": {
     "en": "Game of Champions"
    },
    "contentRating": "safe",
-   "score": 0.16821879,
+   "score": 0.169163,
    "languages": [
     "en",
     "id"
@@ -128,21 +171,9 @@
     "en": "One in a Hundred"
    },
    "contentRating": "safe",
-   "score": 0.16688417,
+   "score": 0.16664001,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
-   "title": {
-    "en": "The Comeback of the Demon King"
-   },
-   "contentRating": "safe",
-   "score": 0.16390687,
-   "languages": [
-    "en",
-    "ru"
    ]
   },
   {
@@ -151,49 +182,24 @@
     "en": "Captain! Is This Battlefield Here?"
    },
    "contentRating": "safe",
-   "score": 0.16078646,
+   "score": 0.16147962,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "56071d21-258e-4c90-83c3-40fce14c8de7",
+   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
    "title": {
-    "en": "Parent and Child"
+    "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.16050574,
+   "score": 0.16136113,
    "languages": [
-    "vi",
     "en",
-    "ru",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "b43fa72f-1a41-4fdb-80fb-bc2a60736e9a",
-   "title": {
-    "zh": "IDOLING"
-   },
-   "contentRating": "safe",
-   "score": 0.16040008,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59807770-c066-4fd4-b39a-d0f273c5d44b",
-   "title": {
-    "en": "Dinosaurs Sanctuary"
-   },
-   "contentRating": "safe",
-   "score": 0.15967906,
-   "languages": [
-    "en"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:03+00:00"
+ "updatedAt": "2023-12-10T18:22:45+00:00"
 }

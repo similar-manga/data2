@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0d46b1ee-88b9-455d-a2b4-f9d68e86c24e",
+   "title": {
+    "en": "Uno-ke no Hitobito"
+   },
+   "contentRating": "safe",
+   "score": 0.30226454,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "19843a41-7a9b-4116-8ade-469e34de062d",
    "title": {
     "en": "Korisu Ballet"
    },
    "contentRating": "safe",
-   "score": 0.29990238,
+   "score": 0.29942793,
    "languages": [
     "en",
     "fr",
@@ -20,31 +31,9 @@
    ]
   },
   {
-   "id": "56d82cc5-3669-4e3b-872c-d23a14f233ec",
-   "title": {
-    "en": "Arina no Tane"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
    "title": {
     "en": "Nostalgia"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1275ee99-f2d2-43a2-b6e4-bec46f7a37a7",
-   "title": {
-    "en": "Happy Summer Dream"
    },
    "contentRating": "safe",
    "score": 0.28508148,
@@ -64,12 +53,46 @@
    ]
   },
   {
+   "id": "56d82cc5-3669-4e3b-872c-d23a14f233ec",
+   "title": {
+    "en": "Arina no Tane"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1275ee99-f2d2-43a2-b6e4-bec46f7a37a7",
+   "title": {
+    "en": "Happy Summer Dream"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4621892c-4b3e-4064-b033-5700f5f63b41",
+   "title": {
+    "en": "Renai Kyoutei"
+   },
+   "contentRating": "safe",
+   "score": 0.2667297,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "c7564951-ae8a-43b7-b122-1ca0cbd9469c",
    "title": {
     "en": "Then, I'll Go First"
    },
    "contentRating": "safe",
-   "score": 0.2579282,
+   "score": 0.25690952,
    "languages": [
     "de",
     "en"
@@ -81,7 +104,7 @@
     "en": "Guys After Marriage"
    },
    "contentRating": "safe",
-   "score": 0.25472677,
+   "score": 0.25514975,
    "languages": [
     "ro",
     "en"
@@ -93,20 +116,8 @@
     "en": "Sumika's Home"
    },
    "contentRating": "safe",
-   "score": 0.25207347,
+   "score": 0.25157773,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4621892c-4b3e-4064-b033-5700f5f63b41",
-   "title": {
-    "en": "Renai Kyoutei"
-   },
-   "contentRating": "safe",
-   "score": 0.24383767,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -116,7 +127,7 @@
     "en": "Happy Every Day"
    },
    "contentRating": "safe",
-   "score": 0.24070176,
+   "score": 0.24023944,
    "languages": [
     "pl",
     "tr",
@@ -129,15 +140,15 @@
     "en": "The Night We Become More Than Friends"
    },
    "contentRating": "safe",
-   "score": 0.2388129,
+   "score": 0.23871312,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d7311c68-83f1-4b6b-a713-9ed00700e838",
+   "id": "cfa6cc49-2d5d-4c0c-b682-a89b78e52ea4",
    "title": {
-    "en": "Manatsu no Blue"
+    "en": "Boku to Kanojo no Ikkagetsu"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -146,15 +157,27 @@
    ]
   },
   {
-   "id": "68b2f028-b02d-42c9-aa53-665792c2dbd3",
+   "id": "6ec2bb05-5ad8-4e86-8143-6370879f7114",
    "title": {
-    "en": "Afternoon"
+    "en": "Koi wa Isogaba Maware Migi"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
     "en",
-    "pt-br"
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
+   "id": "5b391c90-f47c-49a9-8296-5fcc46527198",
+   "title": {
+    "en": "Apollo"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -169,30 +192,7 @@
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "c6a8967b-2b61-4e14-8aca-1525a37b63f7",
-   "title": {
-    "en": "Yururira  (Yuru Rira)"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "83bf6fcf-d9c5-43c8-9098-e44c9ad321c3",
-   "title": {
-    "en": "Watashi to Fukigen na Panya-san"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:26+00:00"
+ "updatedAt": "2023-12-10T18:15:50+00:00"
 }

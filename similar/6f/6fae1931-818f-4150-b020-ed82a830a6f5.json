@@ -11,7 +11,7 @@
     "en": "Akuyaku Reijou wa Ouji no Honsou (Dekiai) wo Shiranai"
    },
    "contentRating": "safe",
-   "score": 0.36233243,
+   "score": 0.36166725,
    "languages": [
     "zh-hk",
     "en"
@@ -23,7 +23,7 @@
     "en": "Akuyaku Reijou ni Tensei Shippaishite Kachi Heroine ni Natte Shimaimashita"
    },
    "contentRating": "safe",
-   "score": 0.35766658,
+   "score": 0.35716754,
    "languages": [
     "zh-hk"
    ]
@@ -34,7 +34,7 @@
     "en": "Danzaisareta Akuyaku Reijou wa Zokuhen no Akuyaku Reijou ni Umarekawaru"
    },
    "contentRating": "safe",
-   "score": 0.34926203
+   "score": 0.3480656
   },
   {
    "id": "7c720196-c9ce-4bf7-8cd0-cd902fdef40a",
@@ -42,7 +42,15 @@
     "en": "Akuyaku Reijou wa Mobu Danshi ni Osaretemasu."
    },
    "contentRating": "safe",
-   "score": 0.34601265
+   "score": 0.3453931
+  },
+  {
+   "id": "4c19c028-5bdd-46e3-a3fe-3e4866cdc400",
+   "title": {
+    "en": "Betabore no Kon'yakusha ga Akuyaku Reijou ni Sare Sou na no de."
+   },
+   "contentRating": "safe",
+   "score": 0.3432205
   },
   {
    "id": "4a601b26-e723-49ca-b4b1-f7ad0be9b29b",
@@ -50,15 +58,18 @@
     "en": "Danzaisareteiru Akuyaku Reijou to Irekawatte Konyakusha-tachi wo Buttobashitara, Dekiai ga Matte Imashita"
    },
    "contentRating": "safe",
-   "score": 0.34288692
+   "score": 0.3409747
   },
   {
-   "id": "7f7c3ffe-be2b-412a-994a-17ca0196ca89",
+   "id": "3901bbfd-9142-4a41-a800-c952044a5111",
    "title": {
-    "en": "Akuyaku Reijou wa Isekai Tensei Shite mo Otome Game wo Tsukuritai! Otome Shumi wo Kakushite ita ore ga Doushite Makikomarete iru nodarou?"
+    "en": "I Was Reincarnated, and Now I'm a Maid!"
    },
    "contentRating": "safe",
-   "score": 0.33760652
+   "score": 0.3377171,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "0946dd13-875b-42ef-8930-25ab2d0d3e8c",
@@ -66,7 +77,15 @@
     "en": "Akuyaku Reijou no Dere wa Ore Dake ni Barete Iru"
    },
    "contentRating": "safe",
-   "score": 0.33735275
+   "score": 0.33587185
+  },
+  {
+   "id": "7f7c3ffe-be2b-412a-994a-17ca0196ca89",
+   "title": {
+    "en": "Akuyaku Reijou wa Isekai Tensei Shite mo Otome Game wo Tsukuritai! Otome Shumi wo Kakushite ita ore ga Doushite Makikomarete iru nodarou?"
+   },
+   "contentRating": "safe",
+   "score": 0.33517918
   },
   {
    "id": "e279d973-e1dd-4cfc-b643-fda857b6f4a0",
@@ -74,42 +93,19 @@
     "en": "Otome Game no Mob Desura Naindaga"
    },
    "contentRating": "safe",
-   "score": 0.33196023,
+   "score": 0.3304127,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "d58b3f3c-d732-4105-8484-782576a1cb61",
+   "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
    "title": {
-    "en": "I Am Troubled That My Fiancé Is a Villain"
+    "en": "This Isn't the Time for the Villainess to Be Bullying the Heroine"
    },
    "contentRating": "safe",
-   "score": 0.32800013,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "966b23af-d339-4c3e-935b-3c3af1431727",
-   "title": {
-    "en": "In an Otome Game World, I’m a Villain?! I Can’t Accept This!"
-   },
-   "contentRating": "safe",
-   "score": 0.32692116,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dbc4c472-0355-4a16-a81f-0708b27ad4bd",
-   "title": {
-    "en": "Yowaki MAX Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta"
-   },
-   "contentRating": "safe",
-   "score": 0.32585675,
+   "score": 0.32534364,
    "languages": [
     "en"
    ]
@@ -120,17 +116,29 @@
     "en": "Sannin no Rival Reijou no Uchi \"Hazure Reijou\" ni Tensei Shita you desu"
    },
    "contentRating": "safe",
-   "score": 0.325107
+   "score": 0.32471126
   },
   {
-   "id": "bdfb3510-36bd-494b-9f97-05f1d7b894d6",
+   "id": "966b23af-d339-4c3e-935b-3c3af1431727",
    "title": {
-    "en": "This Isn't the Time for the Villainess to Be Bullying the Heroine"
+    "en": "In an Otome Game World, I’m a Villain?! I Can’t Accept This!"
    },
    "contentRating": "safe",
-   "score": 0.32508552,
+   "score": 0.3242216,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d58b3f3c-d732-4105-8484-782576a1cb61",
+   "title": {
+    "en": "I Am Troubled That My Fiancé Is a Villain"
+   },
+   "contentRating": "safe",
+   "score": 0.32392126,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -139,7 +147,7 @@
     "en": "The Villainess' Lazy Sigh"
    },
    "contentRating": "safe",
-   "score": 0.3242832,
+   "score": 0.32384992,
    "languages": [
     "th",
     "en",
@@ -147,21 +155,16 @@
    ]
   },
   {
-   "id": "363969c3-d2cf-40d0-8f54-9e3d0fb5fef7",
+   "id": "dbc4c472-0355-4a16-a81f-0708b27ad4bd",
    "title": {
-    "en": "Akuyaku Reijou wa Oshi Miboujin"
+    "en": "Yowaki MAX Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta"
    },
    "contentRating": "safe",
-   "score": 0.32425505
-  },
-  {
-   "id": "f563a50b-83eb-4449-ac71-cf424a24138d",
-   "title": {
-    "en": "Akuyaku no Oujo ni Tensei Shitakedo, Kakushi Chara ga Kakuretenai"
-   },
-   "contentRating": "safe",
-   "score": 0.3231973
+   "score": 0.32365626,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:13+00:00"
+ "updatedAt": "2023-12-10T18:20:25+00:00"
 }

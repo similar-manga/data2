@@ -28,7 +28,7 @@
     "en": "Boku no Negai ga Kanau nara"
    },
    "contentRating": "safe",
-   "score": 0.24187054,
+   "score": 0.24268016,
    "languages": [
     "pt-br"
    ]
@@ -39,24 +39,11 @@
     "en": "Akuma ni Itsukushimi no Te o"
    },
    "contentRating": "safe",
-   "score": 0.24123356,
+   "score": 0.24231504,
    "languages": [
     "pl",
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "3375e927-2365-457a-81a8-dce99e90a583",
-   "title": {
-    "en": "Red Road"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -73,6 +60,32 @@
    ]
   },
   {
+   "id": "3375e927-2365-457a-81a8-dce99e90a583",
+   "title": {
+    "en": "Red Road"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ec30b6d0-d5cb-4752-8c96-f2a0a6d8d25a",
+   "title": {
+    "en": "The Girl's Winter"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
    "id": "77b863d6-d7c1-46f9-a009-8e914da89f14",
    "title": {
     "en": "Bitter Sweet Cake"
@@ -84,16 +97,15 @@
    ]
   },
   {
-   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
+   "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
    "title": {
-    "en": "Akai Ito"
+    "en": "Ai wo Hamu Akuma"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "pt-br",
     "en",
-    "hu",
+    "pt-br",
     "pl"
    ]
   },
@@ -122,32 +134,6 @@
    ]
   },
   {
-   "id": "ec30b6d0-d5cb-4752-8c96-f2a0a6d8d25a",
-   "title": {
-    "en": "The Girl's Winter"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
-   "title": {
-    "en": "Ai wo Hamu Akuma"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
    "id": "b71d0862-c9fb-461c-b173-14104667e8fb",
    "title": {
     "en": "Aru Hi Bijin ni Nattara"
@@ -160,12 +146,26 @@
    ]
   },
   {
+   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
+   "title": {
+    "en": "Akai Ito"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "en",
+    "hu",
+    "pl"
+   ]
+  },
+  {
    "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
    "title": {
     "en": "Hoshi ni Negau"
    },
    "contentRating": "safe",
-   "score": 0.21012673,
+   "score": 0.21192747,
    "languages": [
     "pt-br",
     "en",
@@ -191,7 +191,7 @@
     "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.20663793,
+   "score": 0.20736559,
    "languages": [
     "en",
     "pl",
@@ -204,12 +204,12 @@
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.19989242,
+   "score": 0.20163153,
    "languages": [
     "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:37+00:00"
+ "updatedAt": "2023-12-10T18:16:16+00:00"
 }

@@ -6,12 +6,47 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "23f5a027-3c83-484f-8801-9639c604097d",
+   "title": {
+    "en": "Stellar Transformations"
+   },
+   "contentRating": "safe",
+   "score": 0.28984693,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
    "title": {
     "en": "Mononoke Hime"
    },
    "contentRating": "safe",
-   "score": 0.27588353,
+   "score": 0.27824324,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f6cf3b44-c086-4a6d-adcd-590f3629e7ef",
+   "title": {
+    "en": "Float City"
+   },
+   "contentRating": "safe",
+   "score": 0.27017808,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5373fc36-e023-4f78-bcca-b28e62176aa7",
+   "title": {
+    "en": "Heavenly Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.2642276,
    "languages": [
     "en"
    ]
@@ -22,32 +57,9 @@
     "en": "Babel (KIM Jung Han)"
    },
    "contentRating": "safe",
-   "score": 0.2522554,
+   "score": 0.25166926,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f8781b2c-7677-44d1-a0b4-b2a3c4752601",
-   "title": {
-    "en": "Naruto Gaiden: Michita Tsuki ga Terasu Michi"
-   },
-   "contentRating": "safe",
-   "score": 0.24749655,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57642280-65de-4879-a6e2-2e0420237369",
-   "title": {
-    "en": "Tenkuu Seiryuu ~Innocent Dragon~"
-   },
-   "contentRating": "safe",
-   "score": 0.24621467,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -56,7 +68,7 @@
     "en": "Song of the Long March"
    },
    "contentRating": "safe",
-   "score": 0.24494155,
+   "score": 0.2448217,
    "languages": [
     "pt-br",
     "pl",
@@ -70,7 +82,7 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.2440274,
+   "score": 0.2445656,
    "languages": [
     "pl",
     "en",
@@ -79,15 +91,26 @@
    ]
   },
   {
-   "id": "80c27ff8-7916-4b81-9c0d-cb3d647a24b7",
+   "id": "8880df7b-5d67-44b5-a79b-a9d6371c7253",
    "title": {
-    "en": "Legend of Nereid"
+    "en": "Kyuuyaku Märchen"
    },
    "contentRating": "safe",
-   "score": 0.2427617,
+   "score": 0.24373479,
    "languages": [
-    "en",
-    "fr"
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "0ccf0843-5174-45c4-9487-b99995ebc217",
+   "title": {
+    "en": "Tramp."
+   },
+   "contentRating": "safe",
+   "score": 0.2418496,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -96,7 +119,7 @@
     "en": "Tales of the Abyss - Senketsu no Asch"
    },
    "contentRating": "safe",
-   "score": 0.24263684,
+   "score": 0.24112992,
    "languages": [
     "en"
    ]
@@ -107,92 +130,72 @@
     "en": "Knights of Alfheim"
    },
    "contentRating": "safe",
-   "score": 0.24109577,
+   "score": 0.24076663,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "3b7a12a9-c86d-4092-800b-ca3bfaa8d5f9",
+   "id": "37bf1c2f-7974-456a-ab6a-c7534b70638e",
    "title": {
-    "en": "Tales of Phantasia"
+    "en": "Avian Wander"
    },
    "contentRating": "safe",
-   "score": 0.23721512,
+   "score": 0.2391681,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "33f1397b-07d1-4dfc-b42a-a428a41fe55b",
+   "id": "80c27ff8-7916-4b81-9c0d-cb3d647a24b7",
    "title": {
-    "en": "Tenko"
+    "en": "Legend of Nereid"
    },
    "contentRating": "safe",
-   "score": 0.23550743,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "34c4c281-d0a9-4a28-b64c-2b99fe9ed432",
-   "title": {
-    "en": "Neko Mix Genkitan Toraji"
-   },
-   "contentRating": "safe",
-   "score": 0.2333099,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45aa8f26-3985-4c9a-bd2b-40c3e1242a77",
-   "title": {
-    "en": "Heroes of the Spring and Autumn"
-   },
-   "contentRating": "safe",
-   "score": 0.23296995,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e8baba85-9eac-447c-9a3b-ef4af41ddf82",
-   "title": {
-    "en": "Dragon Fist"
-   },
-   "contentRating": "safe",
-   "score": 0.23225378,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "390009ac-c723-43d6-a146-84129eeddb93",
-   "title": {
-    "en": "Yongbyeong Maluhan"
-   },
-   "contentRating": "safe",
-   "score": 0.23224436,
+   "score": 0.23916228,
    "languages": [
     "en",
-    "ar"
+    "fr"
    ]
   },
   {
-   "id": "c1af11a0-100e-4164-be35-b33a87dcb0e0",
+   "id": "57642280-65de-4879-a6e2-2e0420237369",
    "title": {
-    "en": "Tales of Xillia SIDE;MILLA"
+    "en": "Tenkuu Seiryuu ~Innocent Dragon~"
    },
    "contentRating": "safe",
-   "score": 0.22755206,
+   "score": 0.2388799,
    "languages": [
-    "it",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
+   "title": {
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.23871154,
+   "languages": [
+    "id",
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "15ac84d8-95c1-4bcb-bccc-eb9e3c42d769",
+   "title": {
+    "en": "Tales of Xillia 2 - Soukyoku no Crossroad"
+   },
+   "contentRating": "safe",
+   "score": 0.23844986,
+   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:12+00:00"
+ "updatedAt": "2023-12-10T18:28:32+00:00"
 }

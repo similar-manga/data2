@@ -11,7 +11,7 @@
     "en": "Hitori Yogari"
    },
    "contentRating": "safe",
-   "score": 0.37793753,
+   "score": 0.38227656,
    "languages": [
     "it",
     "en",
@@ -34,6 +34,17 @@
    ]
   },
   {
+   "id": "b242f74d-8001-4be7-a0ee-e25c9f586265",
+   "title": {
+    "en": "Canvas"
+   },
+   "contentRating": "safe",
+   "score": 0.17261274,
+   "languages": [
+    "id"
+   ]
+  },
+  {
    "id": "76d171f9-c0b0-4f86-a94a-a1619c8baecd",
    "title": {
     "en": "Detour"
@@ -43,17 +54,6 @@
    "languages": [
     "id",
     "en"
-   ]
-  },
-  {
-   "id": "b242f74d-8001-4be7-a0ee-e25c9f586265",
-   "title": {
-    "en": "Canvas"
-   },
-   "contentRating": "safe",
-   "score": 0.17261274,
-   "languages": [
-    "id"
    ]
   },
   {
@@ -74,12 +74,29 @@
    ]
   },
   {
+   "id": "a1620de1-6eb6-4948-b228-b232f910155a",
+   "title": {
+    "en": "Adachi to Shimamura"
+   },
+   "contentRating": "safe",
+   "score": 0.1708423,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "ru",
+    "it",
+    "id",
+    "ko"
+   ]
+  },
+  {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
    "title": {
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.16542348,
+   "score": 0.16770123,
    "languages": [
     "en",
     "id",
@@ -97,7 +114,7 @@
     "en": "My Girlfriend will be a Mangaka"
    },
    "contentRating": "safe",
-   "score": 0.16005117,
+   "score": 0.15941595,
    "languages": [
     "id",
     "vi",
@@ -111,7 +128,7 @@
     "en": "Note wo Otoshita dake nanoni"
    },
    "contentRating": "safe",
-   "score": 0.1594889,
+   "score": 0.15932633,
    "languages": [
     "id",
     "en"
@@ -135,7 +152,7 @@
     "en": "Bankara-san ga Tooru"
    },
    "contentRating": "safe",
-   "score": 0.150673,
+   "score": 0.15272914,
    "languages": [
     "pl",
     "id",
@@ -143,59 +160,17 @@
    ]
   },
   {
-   "id": "ae9c0e74-f059-4a52-a1ad-7bfa5b278d1b",
+   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
    "title": {
-    "en": "-SINS-"
+    "en": "The Misadventures of the Small Anime Club"
    },
    "contentRating": "safe",
    "score": 0.14948702,
    "languages": [
-    "pt-br",
-    "id",
-    "pl",
+    "it",
     "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
-   "title": {
-    "en": "Parasol Alliance"
-   },
-   "contentRating": "safe",
-   "score": 0.14948702,
-   "languages": [
-    "es-la",
     "pt-br",
-    "id",
-    "ru",
-    "th",
-    "en"
-   ]
-  },
-  {
-   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
-   "title": {
-    "en": "Jibun Daisuki Aise-san"
-   },
-   "contentRating": "safe",
-   "score": 0.14948702,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "6494f4d2-47d6-4462-ba12-61cc7e040dfe",
-   "title": {
-    "en": "A Girl with a High Melting Point"
-   },
-   "contentRating": "safe",
-   "score": 0.14948702,
-   "languages": [
-    "en",
-    "id",
-    "es-la"
+    "id"
    ]
   },
   {
@@ -214,19 +189,46 @@
    ]
   },
   {
-   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "id": "6494f4d2-47d6-4462-ba12-61cc7e040dfe",
    "title": {
-    "en": "The Misadventures of the Small Anime Club"
+    "en": "A Girl with a High Melting Point"
    },
    "contentRating": "safe",
    "score": 0.14948702,
    "languages": [
-    "it",
     "en",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
+   "title": {
+    "en": "Jibun Daisuki Aise-san"
+   },
+   "contentRating": "safe",
+   "score": 0.14948702,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
+   "title": {
+    "en": "Parasol Alliance"
+   },
+   "contentRating": "safe",
+   "score": 0.14948702,
+   "languages": [
+    "es-la",
     "pt-br",
-    "id"
+    "id",
+    "ru",
+    "th",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:34+00:00"
+ "updatedAt": "2023-12-10T18:34:27+00:00"
 }

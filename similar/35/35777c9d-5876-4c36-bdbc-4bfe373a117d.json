@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dcd8a042-eaab-4692-952b-5c9e178f7ee7",
+   "title": {
+    "en": "Shiro Hina no Bouken"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
    "title": {
     "en": "ism/i"
    },
    "contentRating": "safe",
-   "score": 0.21736799,
+   "score": 0.2171111,
    "languages": [
     "en"
    ]
@@ -29,16 +40,50 @@
    ]
   },
   {
+   "id": "c83cb270-6883-4684-8f77-d991509d5af3",
+   "title": {
+    "en": "Mikiri kara Hajimeru Garyuu Kenjutsu"
+   },
+   "contentRating": "safe",
+   "score": 0.21479554,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f9af7e9a-1a06-4046-b437-840a749b181d",
+   "title": {
+    "en": "Sekai no Hate ni mo Kaze wa Fuku"
+   },
+   "contentRating": "safe",
+   "score": 0.21405016,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dac6ea5a-cf4b-4420-9e89-0c6330d562f0",
    "title": {
     "en": "Donyatsu"
    },
    "contentRating": "safe",
-   "score": 0.20350023,
+   "score": 0.20316997,
    "languages": [
     "pt-br",
     "en",
     "hu"
+   ]
+  },
+  {
+   "id": "5490db60-019e-4a3a-a2dc-c9d3d83b289d",
+   "title": {
+    "en": "Twin Doll no Hakoniwa"
+   },
+   "contentRating": "safe",
+   "score": 0.18507402,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -66,12 +111,12 @@
    ]
   },
   {
-   "id": "f1d65976-1ed7-4843-bb03-fa7a5cbe0715",
+   "id": "a6675d43-3fa7-4c7a-9ffc-ee91e64dff17",
    "title": {
-    "en": "Grandeek ReeL"
+    "en": "Kimi ni Aitai"
    },
    "contentRating": "safe",
-   "score": 0.17466788,
+   "score": 0.17523299,
    "languages": [
     "en"
    ]
@@ -95,7 +140,29 @@
     "en": "Tales of the World - Radiant Mythology"
    },
    "contentRating": "safe",
-   "score": 0.16787505,
+   "score": 0.16740663,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f1d65976-1ed7-4843-bb03-fa7a5cbe0715",
+   "title": {
+    "en": "Grandeek ReeL"
+   },
+   "contentRating": "safe",
+   "score": 0.16622055,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Snow and Ink"
+   },
+   "contentRating": "safe",
+   "score": 0.16277115,
    "languages": [
     "en"
    ]
@@ -106,93 +173,24 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.16156028,
+   "score": 0.16092618,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
+   "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
    "title": {
-    "en": "Wizards Nation"
+    "en": "Dorara"
    },
    "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b8b3752-9a1a-4c05-858b-b05afec9614d",
-   "title": {
-    "en": "Makimodoshi"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
-   "title": {
-    "en": "Myctophids"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "fr",
-    "en",
-    "hi"
-   ]
-  },
-  {
-   "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
-   "title": {
-    "en": "Arashi no Hana Murakumo no Uta"
-   },
-   "contentRating": "safe",
-   "score": 0.15612088,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77c7d3eb-16e9-4ef2-81f0-4d3876a037c5",
-   "title": {
-    "en": "Star Tripper: Planetarium Ghost Travel"
-   },
-   "contentRating": "safe",
-   "score": 0.15612088,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b46e2e33-b8a6-46cc-9504-b3d4c0ebce35",
-   "title": {
-    "en": "A Country Without Humans"
-   },
-   "contentRating": "safe",
-   "score": 0.1495784,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.14882094,
+   "score": 0.15959229,
    "languages": [
     "en",
-    "es"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:48+00:00"
+ "updatedAt": "2023-12-10T18:14:02+00:00"
 }

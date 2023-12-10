@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f55d2517-e0f8-4035-91a3-55ff23518842",
+   "title": {
+    "en": "King of the East"
+   },
+   "contentRating": "safe",
+   "score": 0.25647256,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
    "title": {
     "en": "Rakshasa Street"
    },
    "contentRating": "safe",
-   "score": 0.25581923,
+   "score": 0.25302014,
    "languages": [
     "fr",
     "en",
@@ -20,23 +31,53 @@
    ]
   },
   {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "id": "f2560480-8b67-457b-8895-9de643f681e9",
    "title": {
-    "en": "Kishin Douji Zenki"
+    "en": "Soul Land IV - The Ultimate Combat"
    },
    "contentRating": "safe",
-   "score": 0.24060875,
+   "score": 0.25213504,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "th",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "48910afe-3676-4a64-93c1-066b2cce4aa2",
+   "title": {
+    "en": "BLEACH the unforgivens"
+   },
+   "contentRating": "safe",
+   "score": 0.24489798,
+   "languages": [
+    "tr",
+    "it",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "aa8b06df-f622-4d84-851a-2dd6a06cbfe0",
+   "title": {
+    "en": "Granblue Fantasy Side Story: Memories of Arshivelle"
+   },
+   "contentRating": "safe",
+   "score": 0.24147265,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9419ddb3-7c92-4737-a5fa-cee2e00973c8",
+   "id": "933add13-9433-46d5-a444-7b177330fb4c",
    "title": {
-    "en": "The Grand Legend Ramayana"
+    "en": "Kono Hi, \"Itsuwari no Yuusha\" de Aru Ore wa \"Shin no Yuusha\" de Aru Kare wo Party kara Tsuihou shita"
    },
    "contentRating": "safe",
-   "score": 0.23906285,
+   "score": 0.24147265,
    "languages": [
     "en"
    ]
@@ -47,8 +88,31 @@
     "en": "Kill No More"
    },
    "contentRating": "safe",
-   "score": 0.23791546,
+   "score": 0.23702626,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9419ddb3-7c92-4737-a5fa-cee2e00973c8",
+   "title": {
+    "en": "The Grand Legend Ramayana"
+   },
+   "contentRating": "safe",
+   "score": 0.23672849,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9f87f85d-06ea-49f8-b4e2-decb48315854",
+   "title": {
+    "en": "The Legend of the Ancient Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.23662108,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -58,145 +122,90 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.23114353,
+   "score": 0.23288214,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "69feb00e-c706-4367-adf3-b79e07286373",
+   "id": "a6a6fe8c-340b-428c-9220-8cd307b47475",
    "title": {
-    "en": "Yi Bi Zhi Ming"
+    "en": "Ore no Saenai Osananajimi ga S-Rank Yuusha ni Natteita Ken"
    },
    "contentRating": "safe",
-   "score": 0.22467174,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8781b2c-7677-44d1-a0b4-b2a3c4752601",
-   "title": {
-    "en": "Naruto Gaiden: Michita Tsuki ga Terasu Michi"
-   },
-   "contentRating": "safe",
-   "score": 0.22043337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7155ec9f-2941-4cd7-93af-71a5c4da79b4",
-   "title": {
-    "en": "Past Lives of the Thunder God"
-   },
-   "contentRating": "safe",
-   "score": 0.21808484,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7be5fbde-2524-4124-9463-dc36b99f1d5d",
-   "title": {
-    "en": "Kamisama no Tsukurikata"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c41af7f-8bde-4d97-a8d2-45d7bcc0bfaf",
-   "title": {
-    "en": "Nephilim John"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
-   "title": {
-    "en": "Scrapped Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.21569173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2cb9465-c314-46a3-97fd-05210d3af0a7",
-   "title": {
-    "en": "The Scholar's Reincarnation"
-   },
-   "contentRating": "safe",
-   "score": 0.21558546,
+   "score": 0.23062617,
    "languages": [
     "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "95cecdad-de3b-4e47-ade1-57c7add60dc1",
+   "title": {
+    "en": "Romelia Senki ~Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita~"
+   },
+   "contentRating": "safe",
+   "score": 0.22947474,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
+   "title": {
+    "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
+   },
+   "contentRating": "safe",
+   "score": 0.22908106,
+   "languages": [
     "en",
     "ru",
+    "pt-br",
     "pl",
-    "fr",
+    "ar",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
+   "title": {
+    "en": "Kishin Douji Zenki"
+   },
+   "contentRating": "safe",
+   "score": 0.22886355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7e6782d0-d693-4af1-b3f6-7550ddb5b5a1",
+   "title": {
+    "en": "Tensai Saijaku Mamonotsukai ha Kikan Shitai ~Saikyou no Juusha to Hikihanasarete Mishiranu Chi ni Tobasaremashita.~"
+   },
+   "contentRating": "safe",
+   "score": 0.22835095,
+   "languages": [
     "id",
-    "it"
-   ]
-  },
-  {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
-   "title": {
-    "en": "Joou Kishi Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.21540332,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89bcfe0b-caa3-4d1b-9679-139b44a0b505",
-   "title": {
-    "en": "The Conqueror From a Dying Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.21367842,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.20995869,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc8dc41e-1f7e-4e52-9a8f-2e24de5e5c9c",
-   "title": {
-    "en": "RWBY: Ice Queendom"
-   },
-   "contentRating": "safe",
-   "score": 0.20674619,
-   "languages": [
-    "ru",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a3b6acf5-9815-4f83-b79a-e5f21e22a1a5",
+   "title": {
+    "en": "Kuro Elf ni Kawareta Ore no Dungeon Seikatsu: Sanshoku Furo to Jigoku-tsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.22471555,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:24+00:00"
+ "updatedAt": "2023-12-10T18:29:03+00:00"
 }

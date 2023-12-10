@@ -6,6 +6,41 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8d23c30d-65ce-4d86-bb6b-a2f0e134d389",
+   "title": {
+    "en": "Kimi no Kokoro Boku no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.27161834,
+   "languages": [
+    "en",
+    "bg"
+   ]
+  },
+  {
+   "id": "27642b7f-d0be-45bb-97c3-9f7f4668d44f",
+   "title": {
+    "en": "Inferno"
+   },
+   "contentRating": "safe",
+   "score": 0.26220316,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "6c56ecf3-3256-4ada-9ed4-1271f961a155",
+   "title": {
+    "en": "Weiss Kreuz"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "513e5dc0-f328-48f3-892e-bdbf18ea9331",
    "title": {
     "en": "Onohara Henshindou"
@@ -22,7 +57,18 @@
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.22869113,
+   "score": 0.22854663,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.21290138,
    "languages": [
     "en"
    ]
@@ -33,10 +79,25 @@
     "en": "The Animal Sacrifice"
    },
    "contentRating": "safe",
-   "score": 0.20407556,
+   "score": 0.20299281,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
+   "title": {
+    "en": "Satsuriku no Tenshi: Episode.0"
+   },
+   "contentRating": "safe",
+   "score": 0.20279983,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "es",
+    "pl"
    ]
   },
   {
@@ -58,15 +119,15 @@
     "en": "The Undying Engagement Seal of the Doomed Witch and the Young Master Who Leapt Through Time"
    },
    "contentRating": "safe",
-   "score": 0.19294986,
+   "score": 0.191241,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "af454a9c-5006-456b-b6f6-d23e8f84a8e7",
+   "id": "4d409efb-c7a0-4ba5-bdb8-ab658c5f2215",
    "title": {
-    "en": "Yami ni Naku Oni"
+    "en": "Princess Nazotoki is a Detective"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -78,6 +139,17 @@
    "id": "eb1080e6-77cd-4e9f-90c6-9ee13179a88c",
    "title": {
     "en": "Boukyaku no Cradle"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "af454a9c-5006-456b-b6f6-d23e8f84a8e7",
+   "title": {
+    "en": "Yami ni Naku Oni"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -102,7 +174,7 @@
     "en": "Blind Game - New Age Hakkenden"
    },
    "contentRating": "safe",
-   "score": 0.19014502,
+   "score": 0.18922968,
    "languages": [
     "en"
    ]
@@ -117,77 +189,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "97a1c13d-0443-4e12-8a86-ad84d1c18c17",
-   "title": {
-    "en": "Bodyguard"
-   },
-   "contentRating": "safe",
-   "score": 0.1808166,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d872bcf3-2e1a-461e-aef2-5db25bf08d99",
-   "title": {
-    "en": "Elegant Men"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
-   "title": {
-    "en": "Tactics"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "ru",
-    "ko"
-   ]
-  },
-  {
-   "id": "7dad2def-bf82-49b3-a4f0-beb6a3c2bf79",
-   "title": {
-    "en": "Hakkenden: Touhou Hakken Ibun"
-   },
-   "contentRating": "safe",
-   "score": 0.17242835,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "5d46b7b5-90de-409a-9ddb-51879948eef4",
-   "title": {
-    "en": "Tale of Nezha"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c22275fe-3f06-44e4-97d6-66ffa0c8688f",
-   "title": {
-    "en": "Sunflower"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:30+00:00"
+ "updatedAt": "2023-12-10T18:18:31+00:00"
 }

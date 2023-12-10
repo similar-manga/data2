@@ -6,12 +6,64 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7e94cb72-3b6d-4776-b1b4-57741417f363",
+   "title": {
+    "en": "Devilman Side Story -Human War-"
+   },
+   "contentRating": "safe",
+   "score": 0.29797593
+  },
+  {
+   "id": "50d08e7c-3a99-44a7-a7be-c87e88aba34b",
+   "title": {
+    "en": "Chitose Oni"
+   },
+   "contentRating": "safe",
+   "score": 0.22427136
+  },
+  {
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
+   "title": {
+    "en": "re CERVIN"
+   },
+   "contentRating": "safe",
+   "score": 0.22379342,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "45771057-bcb9-40a7-a3a7-2aae119a145e",
+   "title": {
+    "en": "Shoujo, Akuma to Naru ni wa"
+   },
+   "contentRating": "safe",
+   "score": 0.22114788,
+   "languages": [
+    "it",
+    "id",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "6a105229-dde1-4058-9545-91d5bfb89314",
+   "title": {
+    "en": "Kakuriyo Sennichi Hina"
+   },
+   "contentRating": "safe",
+   "score": 0.21810059
+  },
+  {
    "id": "5ad9757a-3d14-4504-a6a7-56db27a38220",
    "title": {
     "en": "Oni Goroshi"
    },
    "contentRating": "safe",
-   "score": 0.21962523,
+   "score": 0.21642481,
    "languages": [
     "vi"
    ]
@@ -22,7 +74,7 @@
     "en": "More Than Human: Spiderman Another Story!!"
    },
    "contentRating": "safe",
-   "score": 0.21456505,
+   "score": 0.21381888,
    "languages": [
     "en",
     "pt-br"
@@ -34,21 +86,34 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.21042301,
+   "score": 0.2058729,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "id": "bb44c651-8b6c-4977-aa63-cab6ad478f2b",
    "title": {
-    "en": "Shin Megami Tensei - Kahn"
+    "en": "Haikaisha"
    },
    "contentRating": "safe",
-   "score": 0.20383227,
+   "score": 0.20391524,
    "languages": [
-    "en"
+    "vi"
+   ]
+  },
+  {
+   "id": "ebdcb990-a71b-4259-979c-fa65abe0c24a",
+   "title": {
+    "en": "Zanmu"
+   },
+   "contentRating": "safe",
+   "score": 0.20217864,
+   "languages": [
+    "vi",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -57,7 +122,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.20336524,
+   "score": 0.20074506,
    "languages": [
     "zh-hk",
     "en",
@@ -82,7 +147,7 @@
     "en": "Kono Ko ja Nai!"
    },
    "contentRating": "safe",
-   "score": 0.20203754,
+   "score": 0.2007158,
    "languages": [
     "en",
     "fr",
@@ -91,127 +156,47 @@
    ]
   },
   {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
+   "id": "ed348503-16f7-4083-9458-fc6583e54791",
    "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
+    "en": "GARO - The Bible"
    },
    "contentRating": "safe",
-   "score": 0.19392037,
+   "score": 0.20011617
+  },
+  {
+   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
+   "title": {
+    "en": "Shin Megami Tensei - Kahn"
+   },
+   "contentRating": "safe",
+   "score": 0.19956408,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ab00ccb4-a736-4008-837e-e1cc154e21f4",
+   "id": "cd93c380-1882-436c-8667-22070736da5d",
    "title": {
-    "en": "Tokyo Bardo"
+    "en": "Everyone's Loose Screw"
    },
    "contentRating": "safe",
-   "score": 0.19195908,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "f2e355b4-18c1-4fa8-a21e-b2ec8963892d",
-   "title": {
-    "en": "Gestation of Kalavinka"
-   },
-   "contentRating": "safe",
-   "score": 0.18456301,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
-   "title": {
-    "en": "Ankoku Jiten"
-   },
-   "contentRating": "safe",
-   "score": 0.1798882,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "ea34c5c0-7534-458a-a922-df1e66b51098",
-   "title": {
-    "en": "Le Chevalier d'Eon"
-   },
-   "contentRating": "safe",
-   "score": 0.17869726,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
-   "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
-   },
-   "contentRating": "safe",
-   "score": 0.17764832,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
-   "title": {
-    "en": "Jinjori Barai"
-   },
-   "contentRating": "safe",
-   "score": 0.17659578,
-   "languages": [
-    "id",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "41908d13-7ce6-4d64-8422-1740f9c6944c",
-   "title": {
-    "en": "Chloroform"
-   },
-   "contentRating": "safe",
-   "score": 0.17583838,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "e23e9bc7-8495-4d9b-9320-0c4bfb68b14c",
-   "title": {
-    "en": "The Betrayed Hero Who Was Reincarnated as the Strongest Demon Lord"
-   },
-   "contentRating": "safe",
-   "score": 0.17543237,
+   "score": 0.19619592,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
+   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
    "title": {
-    "en": "Peephole"
+    "en": "Arthur Pyuty wa Yoru no Majo"
    },
    "contentRating": "safe",
-   "score": 0.17357424,
+   "score": 0.19218831,
    "languages": [
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:43+00:00"
+ "updatedAt": "2023-12-10T18:13:47+00:00"
 }

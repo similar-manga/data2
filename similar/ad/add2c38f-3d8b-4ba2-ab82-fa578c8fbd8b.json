@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e156c7f8-5fa9-490b-98a9-a0696f5e7e3b",
+   "title": {
+    "en": "Tamayomi"
+   },
+   "contentRating": "safe",
+   "score": 0.3230684,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c79bdd6c-3af0-4338-91c6-daa2697f34af",
+   "title": {
+    "en": "Jansou no Saeko-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2956756,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6d16184b-c951-4370-968f-ef6befc29377",
    "title": {
     "en": "Magi-Cu 4-koma - Steins;Gate - Sekaisen Hendouritsu x. 091015%"
    },
    "contentRating": "safe",
-   "score": 0.29298633,
+   "score": 0.28672692,
    "languages": [
     "en"
    ]
@@ -22,10 +44,21 @@
     "en": "Poyopoyo Kansatsu Nikki"
    },
    "contentRating": "safe",
-   "score": 0.28272352,
+   "score": 0.2802342,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "13a949d5-b0cc-4698-a8eb-e7efbf6083ba",
+   "title": {
+    "en": "Yuka's Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.27808976,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,7 +67,29 @@
     "en": "THE iDOLM@STER Cinderella Girls - Ensemble!"
    },
    "contentRating": "safe",
-   "score": 0.27742252,
+   "score": 0.27478567,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5de7ee35-8a9c-4316-b70e-39f2b187ee14",
+   "title": {
+    "en": "Poncho."
+   },
+   "contentRating": "safe",
+   "score": 0.26490453,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d017bdb3-7009-4060-99a2-94985e915e27",
+   "title": {
+    "en": "Nomi Joshi"
+   },
+   "contentRating": "safe",
+   "score": 0.25861186,
    "languages": [
     "en"
    ]
@@ -45,32 +100,19 @@
     "en": "Little Busters! EX The 4koma"
    },
    "contentRating": "safe",
-   "score": 0.26135543,
+   "score": 0.25651392,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "id": "df11ebcf-de54-4eb9-8601-9fe90aa85d66",
    "title": {
-    "en": "Ookiku Furikabutte"
+    "en": "Hanebado! Bocchi"
    },
    "contentRating": "safe",
-   "score": 0.25340882,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
-   "title": {
-    "en": "Utsurundesu"
-   },
-   "contentRating": "safe",
-   "score": 0.25055227,
+   "score": 0.25013304,
    "languages": [
     "en"
    ]
@@ -81,10 +123,45 @@
     "en": "Dekoboko Girlish"
    },
    "contentRating": "safe",
-   "score": 0.24920368,
+   "score": 0.24893025,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "4af7c4b1-262c-426f-b86a-051c99b9f503",
+   "title": {
+    "en": "Mio's Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.24868804,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
+   "title": {
+    "en": "Utsurundesu"
+   },
+   "contentRating": "safe",
+   "score": 0.2486348,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "title": {
+    "en": "Ookiku Furikabutte"
+   },
+   "contentRating": "safe",
+   "score": 0.24513836,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -93,7 +170,7 @@
     "en": "Stopper Busujima"
    },
    "contentRating": "safe",
-   "score": 0.2484606,
+   "score": 0.2435262,
    "languages": [
     "en"
    ]
@@ -104,95 +181,12 @@
     "en": "Puchimasu!"
    },
    "contentRating": "safe",
-   "score": 0.2477463,
+   "score": 0.24335898,
    "languages": [
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "5853b091-5849-4303-81ad-0e06b071dee0",
-   "title": {
-    "en": "Yuyushiki"
-   },
-   "contentRating": "safe",
-   "score": 0.2428985,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5043289e-596b-4734-8a5d-37943fe515c7",
-   "title": {
-    "en": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku"
-   },
-   "contentRating": "safe",
-   "score": 0.24259704,
-   "languages": [
-    "en",
-    "vi",
-    "de"
-   ]
-  },
-  {
-   "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
-   "title": {
-    "en": "Yurumates"
-   },
-   "contentRating": "safe",
-   "score": 0.24051252,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d5c22e5-2f38-4254-9c02-4b51cc4a7a60",
-   "title": {
-    "en": "A Chinese Wife and an Otaku Husband"
-   },
-   "contentRating": "safe",
-   "score": 0.23078442,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ad665f6c-f932-44c1-aad4-8307441a9756",
-   "title": {
-    "en": "Kiniro Mosaic"
-   },
-   "contentRating": "safe",
-   "score": 0.23032926,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "2448d740-72f0-47bd-beee-2c22e6381b8d",
-   "title": {
-    "en": "Satsuki Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.22989789,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "07500447-533b-4d64-93e3-4fbb8458a42d",
-   "title": {
-    "en": "A-Channel"
-   },
-   "contentRating": "safe",
-   "score": 0.2266089,
-   "languages": [
-    "en",
-    "es",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:56+00:00"
+ "updatedAt": "2023-12-10T18:27:46+00:00"
 }

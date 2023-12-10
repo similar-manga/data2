@@ -6,12 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c3d3d5b6-7a44-4f12-a625-8af3f716d815",
+   "title": {
+    "en": "Kare ni Irai Shite wa Ikemasen"
+   },
+   "contentRating": "safe",
+   "score": 0.2476165,
+   "languages": [
+    "en",
+    "es",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
    "id": "edcfb308-b228-4588-9c6b-2148e8fa63c0",
    "title": {
     "en": "Usemono Ari no Houichi"
    },
    "contentRating": "safe",
-   "score": 0.19867744,
+   "score": 0.19753166,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9fb2e43a-a422-40b9-b478-5dc896a29e50",
+   "title": {
+    "en": "Uryuudou Yumebanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.17380536,
    "languages": [
     "en"
    ]
@@ -22,7 +47,7 @@
     "en": "Layers of Fear"
    },
    "contentRating": "safe",
-   "score": 0.16831978,
+   "score": 0.16778804,
    "languages": [
     "en"
    ]
@@ -33,9 +58,33 @@
     "en": "Ghost Speaker"
    },
    "contentRating": "safe",
-   "score": 0.16741487,
+   "score": 0.16582845,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "67455606-f291-45eb-8bb1-87ffa0ebefac",
+   "title": {
+    "en": "Urameshiya"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22439875-ccf0-435d-917b-e714255e27cc",
+   "title": {
+    "en": "Higyaku no Noel"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -53,32 +102,71 @@
    ]
   },
   {
+   "id": "1b6f9358-64ef-4000-bb02-5a2fb9f1b81e",
+   "title": {
+    "en": "Henjin Tantei Emu"
+   },
+   "contentRating": "safe",
+   "score": 0.15846968,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d8e3b97-c875-4090-b52c-1b5a63f591a9",
+   "title": {
+    "en": "Kashoku no Shiro"
+   },
+   "contentRating": "safe",
+   "score": 0.15752451,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dbd208cd-31fd-4c68-a377-d2bfec53ea8b",
+   "title": {
+    "en": "Kara no Kioku"
+   },
+   "contentRating": "safe",
+   "score": 0.15717891,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "it",
+    "tr",
+    "es-la",
+    "pl"
+   ]
+  },
+  {
    "id": "b156b9a0-4bcf-49ac-97e2-7232addd134b",
    "title": {
     "en": "Junji Ito: A Study From the Abyss of Horror"
    },
    "contentRating": "safe",
-   "score": 0.15674417,
+   "score": 0.15623692,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "58817a2f-4c7b-4fe1-95ba-3bb3767fff94",
+   "id": "1a88b5f8-1109-432d-9faa-545bfdc8bf98",
    "title": {
-    "en": "Hyakki Yakoushou"
+    "en": "Who Saw the Peacock Dance in the Jungle?"
    },
    "contentRating": "safe",
-   "score": 0.14763476,
+   "score": 0.14754222,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "17da48bf-095f-4b53-a365-96e2da3ba67c",
+   "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
    "title": {
-    "en": "Mahoutsukai Syd \u0026 Lid"
+    "en": "Katana"
    },
    "contentRating": "safe",
    "score": 0.14754222,
@@ -100,103 +188,16 @@
    ]
   },
   {
-   "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
+   "id": "17da48bf-095f-4b53-a365-96e2da3ba67c",
    "title": {
-    "en": "Katana"
+    "en": "Mahoutsukai Syd \u0026 Lid"
    },
    "contentRating": "safe",
    "score": 0.14754222,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "fdb3ae24-7e0d-4fa9-94e2-b194ee4d8217",
-   "title": {
-    "en": "Bokura no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "60d8aa66-3b06-446b-b6ca-e3c788ade41e",
-   "title": {
-    "en": "Aruosumente"
-   },
-   "contentRating": "safe",
-   "score": 0.134687,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "07d3503f-d35e-4dd2-aeb3-3973f7d20750",
-   "title": {
-    "en": "Don't Call it Mystery"
-   },
-   "contentRating": "safe",
-   "score": 0.134687,
-   "languages": [
-    "en",
-    "zh-hk",
-    "zh"
-   ]
-  },
-  {
-   "id": "8e5f7fcf-18d8-4da8-ae6c-f771cbd274b1",
-   "title": {
-    "en": "Sunny \u0026 Rainy"
-   },
-   "contentRating": "safe",
-   "score": 0.12853156,
-   "languages": [
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "7889434b-d9a5-454c-8ea1-8c7a4509fc51",
-   "title": {
-    "en": "Servamp"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "es",
-    "en",
-    "hu",
-    "ru"
-   ]
-  },
-  {
-   "id": "f5d9ebc1-2271-413b-9500-b03ae1934f0c",
-   "title": {
-    "en": "Absorb; Ability"
-   },
-   "contentRating": "safe",
-   "score": 0.12394172,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a3125acb-3aba-4c29-bd4d-c1b88ec375b2",
-   "title": {
-    "en": "My Fiancé is in Love with My Little Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "en",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:22+00:00"
+ "updatedAt": "2023-12-10T18:33:56+00:00"
 }

@@ -11,11 +11,22 @@
     "en": "GATE 7"
    },
    "contentRating": "safe",
-   "score": 0.26076725,
+   "score": 0.2579147,
    "languages": [
     "pt-br",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
+   "title": {
+    "en": "Rewrite: SIDE-TERRA"
+   },
+   "contentRating": "safe",
+   "score": 0.23746529,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -24,7 +35,7 @@
     "en": "Pokémon"
    },
    "contentRating": "safe",
-   "score": 0.23233621,
+   "score": 0.23280624,
    "languages": [
     "en"
    ]
@@ -35,7 +46,7 @@
     "en": "Ikusaba Animation"
    },
    "contentRating": "safe",
-   "score": 0.22935797,
+   "score": 0.22993976,
    "languages": [
     "en",
     "fr"
@@ -63,7 +74,7 @@
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.22531976,
+   "score": 0.22507954,
    "languages": [
     "en",
     "pl"
@@ -93,12 +104,12 @@
    ]
   },
   {
-   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
+   "id": "1d2e905c-09a5-40ff-b0b6-7fca01c817c1",
    "title": {
-    "en": "Hana to Harinezumi"
+    "en": "Dream Life: Yume no Isekai Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.20796295,
+   "score": 0.2085614,
    "languages": [
     "en"
    ]
@@ -115,12 +126,64 @@
    ]
   },
   {
+   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
+   "title": {
+    "en": "Hana to Harinezumi"
+   },
+   "contentRating": "safe",
+   "score": 0.20635884,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
+   "title": {
+    "en": "A-Presto"
+   },
+   "contentRating": "safe",
+   "score": 0.20393603,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
+   "title": {
+    "en": "Beast Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.20196089,
+   "languages": [
+    "ru",
+    "vi",
+    "en",
+    "it",
+    "zh-hk",
+    "pt-br",
+    "es-la",
+    "id",
+    "fr"
+   ]
+  },
+  {
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
+   "title": {
+    "en": "Madara"
+   },
+   "contentRating": "safe",
+   "score": 0.1998573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
    "title": {
     "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.20011345,
+   "score": 0.19976838,
    "languages": [
     "en"
    ]
@@ -136,77 +199,7 @@
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "895c5435-2d38-469f-a3f2-3c990390339d",
-   "title": {
-    "en": "Suzuran is Going Strong!"
-   },
-   "contentRating": "safe",
-   "score": 0.19907954,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
-   "title": {
-    "en": "BEASTARS (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.1982142,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "8477d4e3-fab7-422b-b6fe-c699ec5f5789",
-   "title": {
-    "en": "Arata Kangatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19617327,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
-   "title": {
-    "en": "Sand Land Full Color"
-   },
-   "contentRating": "safe",
-   "score": 0.19556023,
-   "languages": [
-    "es-la",
-    "pl"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.19310378,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:04+00:00"
+ "updatedAt": "2023-12-10T18:09:12+00:00"
 }

@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b03e9841-fc09-4841-86ad-d55d4edcc26c",
+   "title": {
+    "en": "Tang Yin"
+   },
+   "contentRating": "safe",
+   "score": 0.27649987,
+   "languages": [
+    "es-la",
+    "en",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "0eb6e9df-eb84-495b-a4d5-59b0d7dd427e",
    "title": {
     "en": "Kinniku Jorei"
    },
    "contentRating": "safe",
-   "score": 0.22786984,
+   "score": 0.21769631,
    "languages": [
     "en"
    ]
@@ -22,7 +36,7 @@
     "en": "Transcending The Nine Heavens"
    },
    "contentRating": "safe",
-   "score": 0.19577272,
+   "score": 0.1897105,
    "languages": [
     "en",
     "fr"
@@ -34,7 +48,18 @@
     "en": "One in a Hundred"
    },
    "contentRating": "safe",
-   "score": 0.18775691,
+   "score": 0.18320134,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
+   "title": {
+    "en": "Mobile Suit MOON Gundam"
+   },
+   "contentRating": "safe",
+   "score": 0.18120909,
    "languages": [
     "en"
    ]
@@ -54,17 +79,6 @@
    "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
    "title": {
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
-   },
-   "contentRating": "safe",
-   "score": 0.18120909,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
-   "title": {
-    "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
    "score": 0.18120909,
@@ -96,6 +110,38 @@
    ]
   },
   {
+   "id": "1b45ddae-88e8-4b78-9a51-684e2f10616d",
+   "title": {
+    "en": "How to Be God"
+   },
+   "contentRating": "safe",
+   "score": 0.17764157,
+   "languages": [
+    "id",
+    "fa",
+    "en",
+    "tr",
+    "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "92e8a648-c3e3-456c-8234-4f3c4e0612de",
+   "title": {
+    "en": "Reborn 80,000 Years"
+   },
+   "contentRating": "safe",
+   "score": 0.17648803,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "it",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ddd44276-89d1-4b8c-89e6-f5ea24e44079",
    "title": {
     "en": "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart"
@@ -115,6 +161,17 @@
    },
    "contentRating": "safe",
    "score": 0.17287943,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ca2a39e1-8cc7-4d2a-a231-3b1f9a113d5e",
+   "title": {
+    "en": "Liu Jia Heavenly Book"
+   },
+   "contentRating": "safe",
+   "score": 0.1719762,
    "languages": [
     "en"
    ]
@@ -140,51 +197,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.16893661,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.16893661,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.16694514,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
-   "title": {
-    "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
-   },
-   "contentRating": "safe",
-   "score": 0.16638546,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:22+00:00"
+ "updatedAt": "2023-12-10T18:29:00+00:00"
 }

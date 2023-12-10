@@ -6,34 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
-   "title": {
-    "en": "I Know What He Is"
-   },
-   "contentRating": "safe",
-   "score": 0.38301706,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ccf19b16-e6c5-4f16-b327-8399e61c2e5b",
-   "title": {
-    "en": "It’s Time to Change the Genre"
-   },
-   "contentRating": "safe",
-   "score": 0.37826255,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "91a6fbb8-d14d-4617-94d6-ec9e430f6b14",
    "title": {
     "en": "Apparently I Have a Tsundere Girlfriend after Getting Memory Loss"
    },
    "contentRating": "safe",
-   "score": 0.3773255,
+   "score": 0.38118905,
    "languages": [
     "vi",
     "pt-br",
@@ -43,12 +21,23 @@
    ]
   },
   {
+   "id": "1fad2582-24e0-47ff-86b0-f9ba68860123",
+   "title": {
+    "en": "Ano Ko no Kodomo"
+   },
+   "contentRating": "safe",
+   "score": 0.38113436,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "6df75eb5-beba-4163-9810-1a684d9a8dea",
    "title": {
     "en": "Apparently I Have a Gyaru Girlfriend After Getting Memory Loss"
    },
    "contentRating": "safe",
-   "score": 0.37690926,
+   "score": 0.3805624,
    "languages": [
     "pt-br",
     "en",
@@ -62,7 +51,7 @@
     "en": "Kioku Soushitsu No Suki Na Hito"
    },
    "contentRating": "safe",
-   "score": 0.37660924,
+   "score": 0.3799479,
    "languages": [
     "en",
     "es-la",
@@ -71,30 +60,14 @@
    ]
   },
   {
-   "id": "5b50c04b-0cf4-4028-ad5d-ef30140b223c",
+   "id": "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
    "title": {
-    "en": "I Can’t Tell What the Girl I Like Is Thinking"
+    "en": "I Know What He Is"
    },
    "contentRating": "safe",
-   "score": 0.37504712,
+   "score": 0.37988204,
    "languages": [
-    "en",
-    "ru",
-    "pl",
-    "pt-br",
-    "it",
-    "id"
-   ]
-  },
-  {
-   "id": "e18d990e-6763-44c6-9152-a4d54e3c8849",
-   "title": {
-    "en": "I'm a Villainess, but I Picked up the Male Lead"
-   },
-   "contentRating": "safe",
-   "score": 0.3746621,
-   "languages": [
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -103,7 +76,7 @@
     "en": "Ore Ga Kioku Soshitsuna No o Ii Koto Ni Guigui Kuru Tsundere Dokyusei"
    },
    "contentRating": "safe",
-   "score": 0.37258774,
+   "score": 0.37587103,
    "languages": [
     "pt-br",
     "en",
@@ -117,7 +90,7 @@
     "en": "Ani Ga Kioku Soushitsu na no o Ii Koto ni Icha Icha shitai Imouto"
    },
    "contentRating": "safe",
-   "score": 0.37252557,
+   "score": 0.3758127,
    "languages": [
     "es-la",
     "id",
@@ -127,26 +100,12 @@
    ]
   },
   {
-   "id": "8a7c02b8-7ac1-41e6-8961-760e92648dd1",
-   "title": {
-    "en": "A Story About a Senpai Who Can't Get Better Test Scores and a Kouhai Who Actually Can"
-   },
-   "contentRating": "safe",
-   "score": 0.37247545,
-   "languages": [
-    "en",
-    "id",
-    "ms",
-    "it"
-   ]
-  },
-  {
    "id": "154ca29c-ea72-4526-856d-1b4ce9f1ee60",
    "title": {
     "en": "Kioku Soushitsu No Ore O Sukina Kouhai Ga Chotto Kowai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.37094337,
+   "score": 0.37480843,
    "languages": [
     "en",
     "pt-br",
@@ -155,16 +114,57 @@
    ]
   },
   {
+   "id": "ccf19b16-e6c5-4f16-b327-8399e61c2e5b",
+   "title": {
+    "en": "It’s Time to Change the Genre"
+   },
+   "contentRating": "safe",
+   "score": 0.37443596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cb51c238-5544-4c71-ba79-048f8ea3fd91",
    "title": {
     "en": "Kioku Soushitsu no Ore ni wa Kanojo ga Iru Rashii"
    },
    "contentRating": "safe",
-   "score": 0.37085474,
+   "score": 0.37376976,
    "languages": [
     "pt-br",
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "5b50c04b-0cf4-4028-ad5d-ef30140b223c",
+   "title": {
+    "en": "I Can’t Tell What the Girl I Like Is Thinking"
+   },
+   "contentRating": "safe",
+   "score": 0.37224597,
+   "languages": [
+    "en",
+    "ru",
+    "pl",
+    "pt-br",
+    "it",
+    "id"
+   ]
+  },
+  {
+   "id": "8a7c02b8-7ac1-41e6-8961-760e92648dd1",
+   "title": {
+    "en": "A Story About a Senpai Who Can't Get Better Test Scores and a Kouhai Who Actually Can"
+   },
+   "contentRating": "safe",
+   "score": 0.37208784,
+   "languages": [
+    "en",
+    "id",
+    "ms",
+    "it"
    ]
   },
   {
@@ -173,11 +173,34 @@
     "en": "Kioku Soushitsu No Ore o Karakatte Kuru Imouto"
    },
    "contentRating": "safe",
-   "score": 0.36799154,
+   "score": 0.37138966,
    "languages": [
     "en",
     "id",
     "pt-br"
+   ]
+  },
+  {
+   "id": "e18d990e-6763-44c6-9152-a4d54e3c8849",
+   "title": {
+    "en": "I'm a Villainess, but I Picked up the Male Lead"
+   },
+   "contentRating": "safe",
+   "score": 0.3707977,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e7f43b28-0b5d-40ff-8481-7e0f6f7384d7",
+   "title": {
+    "en": "Sensei 〆Shimekiri made Matte!"
+   },
+   "contentRating": "safe",
+   "score": 0.37032655,
+   "languages": [
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -186,40 +209,13 @@
     "en": "Kioku Soushitsu no Ore to Tsundere Doukyuusei no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3664997,
+   "score": 0.370213,
    "languages": [
     "en",
     "pt-br",
     "id"
    ]
-  },
-  {
-   "id": "dda00004-a344-4671-b29e-2b0c62d257ae",
-   "title": {
-    "en": "Ore Ga Kioku Soushitsu no o Ii Koto ni Guigui Kuru Kouhai"
-   },
-   "contentRating": "safe",
-   "score": 0.3662158,
-   "languages": [
-    "vi",
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "81879fde-a10d-4a64-959a-08538519c7c1",
-   "title": {
-    "en": "Kioku Soushitsu No Ore To Dokusenyoku Tsuyoi Gyaru"
-   },
-   "contentRating": "safe",
-   "score": 0.3653775,
-   "languages": [
-    "id",
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:05+00:00"
+ "updatedAt": "2023-12-10T18:35:43+00:00"
 }

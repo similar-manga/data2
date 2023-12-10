@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d0a49ab6-3172-4e10-bc38-a6c88c76c432",
+   "title": {
+    "en": "Dramatic Irony"
+   },
+   "contentRating": "safe",
+   "score": 0.35062474,
+   "languages": [
+    "fr",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "167689d9-f80e-4ffe-8f59-44d0b41a5f4f",
    "title": {
     "en": "Hand-in-Hand Lovers"
    },
    "contentRating": "safe",
-   "score": 0.3199314,
+   "score": 0.33112374,
    "languages": [
     "en",
     "pl"
@@ -23,7 +36,7 @@
     "en": "Hairstyle Amanojaku Shiyou"
    },
    "contentRating": "safe",
-   "score": 0.3148929,
+   "score": 0.3142157,
    "languages": [
     "en",
     "pt-br"
@@ -35,7 +48,7 @@
     "en": "Shoujo Ningyo"
    },
    "contentRating": "safe",
-   "score": 0.31244487,
+   "score": 0.31257254,
    "languages": [
     "en"
    ]
@@ -46,7 +59,7 @@
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.31121832,
+   "score": 0.31045026,
    "languages": [
     "pt-br",
     "en"
@@ -58,7 +71,7 @@
     "en": "Amber"
    },
    "contentRating": "safe",
-   "score": 0.30798963,
+   "score": 0.307913,
    "languages": [
     "en",
     "id"
@@ -70,7 +83,7 @@
     "en": "Hot Cherry"
    },
    "contentRating": "safe",
-   "score": 0.30505782,
+   "score": 0.3043813,
    "languages": [
     "en",
     "fr"
@@ -82,7 +95,7 @@
     "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
    },
    "contentRating": "safe",
-   "score": 0.30268493,
+   "score": 0.3021962,
    "languages": [
     "pl",
     "pt-br"
@@ -94,7 +107,26 @@
     "en": "Sokubaku Master"
    },
    "contentRating": "safe",
-   "score": 0.302413,
+   "score": 0.30040872,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cac52e47-1e15-4fa5-86b5-e6561f6f1dff",
+   "title": {
+    "en": "Diamond ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.29941386
+  },
+  {
+   "id": "e94dbe86-535e-464b-bc38-4180099b8597",
+   "title": {
+    "en": "Hatsukoi Kaoru"
+   },
+   "contentRating": "safe",
+   "score": 0.29926348,
    "languages": [
     "en"
    ]
@@ -105,26 +137,7 @@
     "en": "Look at me"
    },
    "contentRating": "safe",
-   "score": 0.30084977
-  },
-  {
-   "id": "cac52e47-1e15-4fa5-86b5-e6561f6f1dff",
-   "title": {
-    "en": "Diamond ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.29997477
-  },
-  {
-   "id": "e94dbe86-535e-464b-bc38-4180099b8597",
-   "title": {
-    "en": "Hatsukoi Kaoru"
-   },
-   "contentRating": "safe",
-   "score": 0.29939696,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2977182
   },
   {
    "id": "bbe3d360-dc89-41d2-8b40-a6f02a4b1a00",
@@ -132,7 +145,7 @@
     "en": "Ichinen no Koi wa Gantan ni Ari"
    },
    "contentRating": "safe",
-   "score": 0.29626307,
+   "score": 0.29585874,
    "languages": [
     "pt-br"
    ]
@@ -143,7 +156,7 @@
     "en": "Kimi no Ai de Motenashite"
    },
    "contentRating": "safe",
-   "score": 0.2960041,
+   "score": 0.2955291,
    "languages": [
     "pt-br"
    ]
@@ -154,7 +167,7 @@
     "en": "Hatsukoi to Akanezora"
    },
    "contentRating": "safe",
-   "score": 0.29440647
+   "score": 0.2944261
   },
   {
    "id": "b2ee1964-3f27-4c57-a39f-6839c8bd6cd7",
@@ -162,16 +175,8 @@
     "en": "Idol ga Maiban Heya ni Shinnyuu Shitekuru"
    },
    "contentRating": "safe",
-   "score": 0.29433233
-  },
-  {
-   "id": "903d4f2e-bb21-4757-a772-6545c6957902",
-   "title": {
-    "en": "Twenty Love"
-   },
-   "contentRating": "safe",
-   "score": 0.29324523
+   "score": 0.29387066
   }
  ],
- "updatedAt": "2023-12-10T01:06:57+00:00"
+ "updatedAt": "2023-12-10T18:27:50+00:00"
 }

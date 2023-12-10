@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d8a0375d-c5ab-46ee-ab8c-536c6a559287",
+   "title": {
+    "en": "Six Sense Minus One"
+   },
+   "contentRating": "safe",
+   "score": 0.30410594
+  },
+  {
    "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
    "title": {
     "en": "Natsume Yuujinchou"
    },
    "contentRating": "safe",
-   "score": 0.27639657,
+   "score": 0.27058402,
    "languages": [
     "en",
     "pt-br",
@@ -20,38 +28,27 @@
    ]
   },
   {
-   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
-   "title": {
-    "en": "Hyakkiyakou Juliet"
-   },
-   "contentRating": "safe",
-   "score": 0.27127525,
-   "languages": [
-    "hu",
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "c6a8967b-2b61-4e14-8aca-1525a37b63f7",
    "title": {
     "en": "Yururira  (Yuru Rira)"
    },
    "contentRating": "safe",
-   "score": 0.26730165,
+   "score": 0.26563394,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "7c75bea5-e4d2-41dc-a13e-f65f8d279f92",
+   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
    "title": {
-    "en": "Hagure Roji"
+    "en": "Hyakkiyakou Juliet"
    },
    "contentRating": "safe",
-   "score": 0.26261494,
+   "score": 0.26378688,
    "languages": [
+    "hu",
+    "pl",
     "en"
    ]
   },
@@ -61,20 +58,9 @@
     "en": "Dog and My Family Circumstance"
    },
    "contentRating": "safe",
-   "score": 0.2618296,
+   "score": 0.25911176,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
-   "title": {
-    "en": "Tsumi to Bachi"
-   },
-   "contentRating": "safe",
-   "score": 0.26122704,
-   "languages": [
     "en"
    ]
   },
@@ -84,10 +70,21 @@
     "en": "Kemono Ni Botsuraku Ojousama"
    },
    "contentRating": "safe",
-   "score": 0.25964427,
+   "score": 0.25696298,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
+   "title": {
+    "en": "Tsumi to Bachi"
+   },
+   "contentRating": "safe",
+   "score": 0.2564386,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -102,52 +99,43 @@
    ]
   },
   {
+   "id": "7c75bea5-e4d2-41dc-a13e-f65f8d279f92",
+   "title": {
+    "en": "Hagure Roji"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0b02b55c-3f43-42a7-8d0e-cad5432c0307",
    "title": {
     "en": "Elemental"
    },
    "contentRating": "safe",
-   "score": 0.2549143,
+   "score": 0.25057933,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
+   "id": "3c519f0f-22bf-4150-8e84-c641c8351629",
    "title": {
-    "en": "Family!"
+    "en": "Gokuto Jihen Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.2503963,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24983473
   },
   {
-   "id": "efd97845-84e4-495d-9143-597ee4021044",
+   "id": "413e7bbe-7e26-4976-a8b7-ecf37285371a",
    "title": {
-    "en": "Plant Plan"
+    "en": "Maou-sama to Shun-kun"
    },
    "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "pl",
-    "ca",
-    "hu"
-   ]
-  },
-  {
-   "id": "934e9693-31f5-4469-b7a7-c27839d777e6",
-   "title": {
-    "en": "Little Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24983473
   },
   {
    "id": "d0c8e130-5b93-4645-b000-55b3096f496c",
@@ -162,36 +150,32 @@
    ]
   },
   {
-   "id": "9eaae11f-888c-43fe-b4ad-4d80d39c091e",
+   "id": "6f87bf86-41a7-45b2-a347-3880e60cc8f8",
    "title": {
-    "en": "Seimei desu ga nani ka?"
+    "en": "Wonder Honey"
    },
    "contentRating": "safe",
-   "score": 0.23847859,
+   "score": 0.24983473
+  },
+  {
+   "id": "3ab01e1e-2a5b-4d58-91c4-c15be7fee83f",
+   "title": {
+    "en": "Saiai Living Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473
+  },
+  {
+   "id": "934e9693-31f5-4469-b7a7-c27839d777e6",
+   "title": {
+    "en": "Little Sister"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "e23069ed-9166-476c-b0c2-8765b16c90eb",
-   "title": {
-    "en": "Rocker in Locker"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "76f7b28b-c0ed-41f1-844c-96651c5deabf",
-   "title": {
-    "en": "Mebuki Kimidori"
-   },
-   "contentRating": "safe",
-   "score": 0.23690903
   }
  ],
- "updatedAt": "2023-12-10T01:04:19+00:00"
+ "updatedAt": "2023-12-10T18:20:44+00:00"
 }

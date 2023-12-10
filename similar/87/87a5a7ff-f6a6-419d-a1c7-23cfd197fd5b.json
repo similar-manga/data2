@@ -6,12 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a3bc925d-d02a-498c-b3b6-fa588568410b",
+   "title": {
+    "en": "Kono Setsugen de Kimi ga Zutto Waratte Irareru you ni"
+   },
+   "contentRating": "safe",
+   "score": 0.29039994,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "6e27167a-92ad-4a66-a877-60bf079e000f",
+   "title": {
+    "en": "I Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.26977625,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ffa0fdfd-8755-42ea-82a3-a278801aeb78",
+   "title": {
+    "en": "Douse Naku Nara Koi ga ii"
+   },
+   "contentRating": "safe",
+   "score": 0.26860824,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
    "title": {
     "en": "Nocturne"
    },
    "contentRating": "safe",
-   "score": 0.26362172,
+   "score": 0.26260787,
    "languages": [
     "en",
     "pl",
@@ -24,18 +58,18 @@
     "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.26002482,
+   "score": 0.2594904,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
+   "id": "dc1fe50d-2817-452f-853d-62bc3cba5029",
    "title": {
-    "en": "Insomnia"
+    "en": "Kamisama no Orgel"
    },
    "contentRating": "safe",
-   "score": 0.25030777,
+   "score": 0.24983473,
    "languages": [
     "en"
    ]
@@ -54,12 +88,34 @@
    ]
   },
   {
-   "id": "dc1fe50d-2817-452f-853d-62bc3cba5029",
+   "id": "3e4799d2-d587-4c85-a996-c4b674a18647",
    "title": {
-    "en": "Kamisama no Orgel"
+    "en": "Itsudemo Otenki Kibun"
    },
    "contentRating": "safe",
    "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "58bb34a5-452a-49a3-bd08-e167d654dbe4",
+   "title": {
+    "en": "3"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
+   "title": {
+    "en": "Insomnia"
+   },
+   "contentRating": "safe",
+   "score": 0.24931008,
    "languages": [
     "en"
    ]
@@ -70,10 +126,23 @@
     "en": "Watashi no Itoshii Kutsu"
    },
    "contentRating": "safe",
-   "score": 0.24047965,
+   "score": 0.24140958,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
+   "title": {
+    "en": "Good-bye, My 19 year Old Self"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "fr",
+    "en",
+    "it"
    ]
   },
   {
@@ -82,122 +151,46 @@
     "en": "Delinquent Cinderella"
    },
    "contentRating": "safe",
-   "score": 0.23746051,
+   "score": 0.23684035,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fadbf83b-7ef8-4cd3-b321-6772eb6457a9",
+   "id": "3b375c26-b9ef-4480-9a90-b7e4c05744b1",
    "title": {
-    "en": "Honey Hunt"
+    "en": "Ppoi!"
    },
    "contentRating": "safe",
-   "score": 0.22939582,
+   "score": 0.23379761,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "af7d5f96-1cf4-44de-9661-6f6f74ec2ec1",
+   "id": "d8f0caa6-793c-4957-80e9-13a40827270f",
    "title": {
-    "en": "Boku no Ie ni Oide"
+    "en": "Hana to Kuchizuke"
    },
    "contentRating": "safe",
-   "score": 0.22641465,
+   "score": 0.233771,
    "languages": [
     "en",
-    "pl",
+    "es-la",
     "pt-br"
    ]
   },
   {
-   "id": "5307712b-a34a-498b-89ef-51949f133a1d",
+   "id": "5c60d071-882d-4cf8-8ae9-277a331c9cfb",
    "title": {
-    "en": "The Night We Become More Than Friends"
+    "en": "Houtai Gokko"
    },
    "contentRating": "safe",
-   "score": 0.22640857,
+   "score": 0.22950117,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "bf23d8f0-ea3f-4ced-bfd3-a589ba487bb8",
-   "title": {
-    "en": "Oneichan to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.22582406,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23036c3f-4e61-4dd1-8414-58fe14f9ad8b",
-   "title": {
-    "en": "Koi suru 1/4"
-   },
-   "contentRating": "safe",
-   "score": 0.22546256,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
-   "title": {
-    "en": "Junai Rosen"
-   },
-   "contentRating": "safe",
-   "score": 0.2243259,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.22369194,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
-   "title": {
-    "en": "Skip Beat!"
-   },
-   "contentRating": "safe",
-   "score": 0.22356431,
-   "languages": [
-    "en",
-    "pl",
-    "ar",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "0b2beaa6-08df-44e5-a404-ecee109744fc",
-   "title": {
-    "en": "Candy Candy"
-   },
-   "contentRating": "safe",
-   "score": 0.22296704,
-   "languages": [
-    "pt-br",
-    "en",
-    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:15+00:00"
+ "updatedAt": "2023-12-10T18:23:13+00:00"
 }

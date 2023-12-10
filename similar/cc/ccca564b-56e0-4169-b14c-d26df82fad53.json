@@ -11,7 +11,7 @@
     "en": "Negative Twin-Tower!"
    },
    "contentRating": "suggestive",
-   "score": 0.2654656,
+   "score": 0.26302692,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "One Piece (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.2593216,
+   "score": 0.25952545,
    "languages": [
     "pt-br"
    ]
@@ -33,7 +33,7 @@
     "en": "One Piece - Digital Colored Comics"
    },
    "contentRating": "suggestive",
-   "score": 0.25596774,
+   "score": 0.2561206,
    "languages": [
     "it",
     "uk",
@@ -44,6 +44,18 @@
     "ar",
     "tr",
     "fr"
+   ]
+  },
+  {
+   "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
+   "title": {
+    "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
+   },
+   "contentRating": "suggestive",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -74,18 +86,6 @@
    ]
   },
   {
-   "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
-   "title": {
-    "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
-   },
-   "contentRating": "suggestive",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "7c5ba525-4888-4b80-8117-46fc7d9fe9ac",
    "title": {
     "en": "Slayers Special"
@@ -102,7 +102,7 @@
     "en": "2.5 Dimensional Seduction"
    },
    "contentRating": "suggestive",
-   "score": 0.22508526,
+   "score": 0.22294933,
    "languages": [
     "pt-br",
     "th",
@@ -111,6 +111,18 @@
     "en",
     "zh",
     "id"
+   ]
+  },
+  {
+   "id": "d12ce7b4-515a-491a-90fd-015157a7a434",
+   "title": {
+    "en": "Kurenai no Ansatsusha"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22043337,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -128,24 +140,23 @@
    ]
   },
   {
-   "id": "d12ce7b4-515a-491a-90fd-015157a7a434",
-   "title": {
-    "en": "Kurenai no Ansatsusha"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22043337,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "e31f7b4b-cc4e-4ac0-989f-3012497b44a2",
    "title": {
     "en": "The Strongest Virus"
    },
    "contentRating": "suggestive",
-   "score": 0.20966448,
+   "score": 0.20948806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
+   "title": {
+    "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
@@ -175,17 +186,6 @@
    ]
   },
   {
-   "id": "2f74f6ff-e935-46ca-8b05-371be80d55cf",
-   "title": {
-    "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "43f2cb51-b4d5-4859-a768-848fe46c318a",
    "title": {
     "en": "Hisshou Dungeon Unei Houhou"
@@ -211,5 +211,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:12+00:00"
+ "updatedAt": "2023-12-10T18:31:03+00:00"
 }

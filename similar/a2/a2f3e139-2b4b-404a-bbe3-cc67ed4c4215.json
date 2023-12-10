@@ -6,12 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4710b856-0585-40d2-a87e-099fc032511f",
+   "title": {
+    "en": "Isekai Izakaya \"Nobu\""
+   },
+   "contentRating": "safe",
+   "score": 0.32606238,
+   "languages": [
+    "es-la",
+    "id",
+    "en",
+    "vi",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
+   "title": {
+    "en": "K-ON! Story Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.27744055,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3e0a8f2d-488a-452d-8166-c42a9fa21dac",
    "title": {
     "en": "Kyousogiga"
    },
    "contentRating": "safe",
-   "score": 0.23174469,
+   "score": 0.22719048,
    "languages": [
     "en"
    ]
@@ -44,7 +70,7 @@
     "en": "School Zone"
    },
    "contentRating": "safe",
-   "score": 0.19572236,
+   "score": 0.19489715,
    "languages": [
     "en",
     "fr"
@@ -80,14 +106,19 @@
    ]
   },
   {
-   "id": "f631e43f-d306-4b4d-9deb-185652bca70d",
+   "id": "a1dc8c93-f83d-4410-a3e3-4051a007d83f",
    "title": {
-    "en": "Kuudanshi"
+    "en": "Lili-Men"
    },
    "contentRating": "safe",
-   "score": 0.17945091,
+   "score": 0.18499067,
    "languages": [
-    "en"
+    "pt-br",
+    "id",
+    "en",
+    "fa",
+    "pl",
+    "es"
    ]
   },
   {
@@ -96,10 +127,49 @@
     "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.17861639,
+   "score": 0.17870982,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "f631e43f-d306-4b4d-9deb-185652bca70d",
+   "title": {
+    "en": "Kuudanshi"
+   },
+   "contentRating": "safe",
+   "score": 0.17826821,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.17441088,
+   "languages": [
+    "en",
+    "es-la",
+    "zh-hk",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "46f8faf8-3a4a-41ea-82c0-aadb9b5e9086",
+   "title": {
+    "en": "Iwamoto-senpai no Suisen"
+   },
+   "contentRating": "safe",
+   "score": 0.1731459,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -130,86 +200,16 @@
    ]
   },
   {
-   "id": "027df837-7a15-4893-9dc3-e2ae11b94717",
+   "id": "4d383dc5-8acb-415f-ba64-0cfec2e4f7cb",
    "title": {
-    "en": "Onii-chan Is Done For! Official Anthology Comic"
+    "en": "Mugen no Gunkan Yamato"
    },
    "contentRating": "safe",
-   "score": 0.17050956,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh-hk",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
-   "title": {
-    "en": "Historie"
-   },
-   "contentRating": "safe",
-   "score": 0.16147311,
-   "languages": [
-    "tr",
-    "en",
-    "pt-br",
-    "fr",
-    "it",
-    "id"
-   ]
-  },
-  {
-   "id": "c2758fe6-4a7b-4b7e-9531-4b6ff2d82df2",
-   "title": {
-    "en": "Kami no CAVEIRA"
-   },
-   "contentRating": "safe",
-   "score": 0.16020662,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9cf439ab-6122-43cf-8ec2-8b3778577850",
-   "title": {
-    "en": "CONTRACTORS"
-   },
-   "contentRating": "safe",
-   "score": 0.1551194,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "62952d0b-52e5-4c5c-bb57-4bda60e27356",
-   "title": {
-    "en": "Kingdom (fan-colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.15104425,
+   "score": 0.16957478,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "dc332d04-d3b0-413c-a767-70f5e451b031",
-   "title": {
-    "en": "Kuro no Shoukanshi"
-   },
-   "contentRating": "safe",
-   "score": 0.14645095,
-   "languages": [
-    "en",
-    "fr",
-    "ru",
-    "pt-br",
-    "it",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:29+00:00"
+ "updatedAt": "2023-12-10T18:26:29+00:00"
 }

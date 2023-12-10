@@ -11,7 +11,7 @@
     "en": "Sengoku Self-Defense Force"
    },
    "contentRating": "safe",
-   "score": 0.24213876
+   "score": 0.24112992
   },
   {
    "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
@@ -19,7 +19,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.2309744,
+   "score": 0.23101278,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
-   "score": 0.21636114,
+   "score": 0.21588765,
    "languages": [
     "en"
    ]
@@ -41,18 +41,10 @@
     "en": "Scavengers Another Sky"
    },
    "contentRating": "safe",
-   "score": 0.21605541,
+   "score": 0.2152827,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "98189b0c-d1c8-47aa-bdb2-a7de67d680f9",
-   "title": {
-    "en": "Yuugai Chouju"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
   },
   {
    "id": "b964c8aa-662b-4d3e-a130-215a0144bf44",
@@ -66,12 +58,20 @@
    ]
   },
   {
+   "id": "98189b0c-d1c8-47aa-bdb2-a7de67d680f9",
+   "title": {
+    "en": "Yuugai Chouju"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
    "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
    "title": {
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.18210615,
+   "score": 0.18501714,
    "languages": [
     "pt-br",
     "en",
@@ -81,12 +81,31 @@
    ]
   },
   {
+   "id": "25bd1c40-c632-4e61-834a-3d8ebaad8630",
+   "title": {
+    "en": "W Redline"
+   },
+   "contentRating": "safe",
+   "score": 0.18052742
+  },
+  {
+   "id": "366d164c-d2a4-46b0-876f-933ae69bc1d0",
+   "title": {
+    "en": "Roppen"
+   },
+   "contentRating": "safe",
+   "score": 0.16761276,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
    "title": {
     "en": "Tetsuzin"
    },
    "contentRating": "safe",
-   "score": 0.16770771
+   "score": 0.16669098
   },
   {
    "id": "9019d5a3-c06f-4b8a-8eef-25991d7e953e",
@@ -94,12 +113,31 @@
     "en": "Shuumatsu no Majo to Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.16718416
+   "score": 0.16637784
   },
   {
-   "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
+   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
    "title": {
-    "en": "V - The Visitors"
+    "en": "Ghost in the Shell: Global Neural Network"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e8ec78a-db6e-438d-ae37-488b3e81ae5b",
+   "title": {
+    "en": "Doku Doku Doku"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723
+  },
+  {
+   "id": "168ace0b-6743-44c8-b085-cd1365f8e635",
+   "title": {
+    "en": "Meteoron Dyne"
    },
    "contentRating": "safe",
    "score": 0.16495723
@@ -113,48 +151,16 @@
    "score": 0.16495723
   },
   {
-   "id": "6e8ec78a-db6e-438d-ae37-488b3e81ae5b",
+   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
    "title": {
-    "en": "Doku Doku Doku"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "8d2a7bad-f34f-4e9b-9159-e08c8f996c29",
-   "title": {
-    "en": "Astronauts"
+    "en": "Moon Edge"
    },
    "contentRating": "safe",
    "score": 0.16495723,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "2edd4230-44ba-49b3-b172-72dd1999b361",
-   "title": {
-    "en": "Tengoku no Shima Season 2"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "935cfed6-8756-4f8e-88f1-11aefba5f5c6",
-   "title": {
-    "en": "Bug Girl."
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "93903dae-0860-42da-a78b-8c09d8afcf00",
-   "title": {
-    "en": "Coke Code"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
   }
  ],
- "updatedAt": "2023-12-10T01:09:28+00:00"
+ "updatedAt": "2023-12-10T18:34:10+00:00"
 }

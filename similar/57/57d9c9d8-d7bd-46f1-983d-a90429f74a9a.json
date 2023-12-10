@@ -11,7 +11,7 @@
     "en": "Sense of Justice"
    },
    "contentRating": "safe",
-   "score": 0.36087412
+   "score": 0.3638631
   },
   {
    "id": "eaf58b68-82e0-4235-bec8-b1cac3f2e455",
@@ -19,7 +19,7 @@
     "en": "El Perro del Gorro Atornillado al Cráneo"
    },
    "contentRating": "safe",
-   "score": 0.3502342
+   "score": 0.351928
   },
   {
    "id": "213f876b-e4ac-4f77-af60-c028ebb71d98",
@@ -27,23 +27,23 @@
     "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.30464,
+   "score": 0.30653667,
    "languages": [
     "en"
    ]
   },
   {
+   "id": "4136fde7-7a9b-4496-a2cf-3577bf7815c7",
+   "title": {
+    "en": "Cosmic Arc Travel"
+   },
+   "contentRating": "safe",
+   "score": 0.28620896
+  },
+  {
    "id": "97397d79-3ae7-477a-abf2-61ae25e0c34e",
    "title": {
     "en": "Paper Plane"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "ee34b5e5-aa9d-4732-854a-a2454ca89e44",
-   "title": {
-    "en": "Skeleton Bolt"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -57,12 +57,12 @@
    "score": 0.2857143
   },
   {
-   "id": "4136fde7-7a9b-4496-a2cf-3577bf7815c7",
+   "id": "ee34b5e5-aa9d-4732-854a-a2454ca89e44",
    "title": {
-    "en": "Cosmic Arc Travel"
+    "en": "Skeleton Bolt"
    },
    "contentRating": "safe",
-   "score": 0.2849984
+   "score": 0.2857143
   },
   {
    "id": "e6a495d5-8289-4487-8e6c-d24ff1b59497",
@@ -70,7 +70,7 @@
     "en": "Bookhead"
    },
    "contentRating": "safe",
-   "score": 0.28189456,
+   "score": 0.2805494,
    "languages": [
     "it"
    ]
@@ -81,28 +81,9 @@
     "en": "Sekaiseifuku Doukoukai"
    },
    "contentRating": "safe",
-   "score": 0.25712144,
+   "score": 0.2586041,
    "languages": [
     "es-la"
-   ]
-  },
-  {
-   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
-   "title": {
-    "en": "ERROR US"
-   },
-   "contentRating": "safe",
-   "score": 0.2538617
-  },
-  {
-   "id": "d989ccc3-cd54-4ce2-aa83-0a7c54a6a267",
-   "title": {
-    "en": "Dancing Heihou Hehou"
-   },
-   "contentRating": "safe",
-   "score": 0.25385234,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -111,23 +92,7 @@
     "en": "Light"
    },
    "contentRating": "safe",
-   "score": 0.25273374
-  },
-  {
-   "id": "23cbfc01-5e4a-4c04-841e-036927d51fa1",
-   "title": {
-    "en": "Alma De Un Solo Color"
-   },
-   "contentRating": "safe",
-   "score": 0.25128403
-  },
-  {
-   "id": "01345e9b-ecac-442e-b5fd-52bbd2831665",
-   "title": {
-    "en": "I know! Moonlight Mask-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.24224503
+   "score": 0.25559556
   },
   {
    "id": "fa6a46a3-5d93-4812-916f-a8ff8362b066",
@@ -135,19 +100,54 @@
     "en": "Me, Him and Her"
    },
    "contentRating": "safe",
-   "score": 0.23886694,
+   "score": 0.25420803,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a09ed591-8440-40e2-8d33-2fc684c18fbb",
+   "id": "d989ccc3-cd54-4ce2-aa83-0a7c54a6a267",
    "title": {
-    "en": "Shoujotachi no Asobi"
+    "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.25404167,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
+   "title": {
+    "en": "ERROR US"
+   },
+   "contentRating": "safe",
+   "score": 0.2526663
+  },
+  {
+   "id": "23cbfc01-5e4a-4c04-841e-036927d51fa1",
+   "title": {
+    "en": "Alma De Un Solo Color"
+   },
+   "contentRating": "safe",
+   "score": 0.2518611
+  },
+  {
+   "id": "01345e9b-ecac-442e-b5fd-52bbd2831665",
+   "title": {
+    "en": "I know! Moonlight Mask-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.24327715
+  },
+  {
+   "id": "def2a662-f52b-4765-9539-5d02cf1c760e",
+   "title": {
+    "en": "Fierce battle! Tamiya RC F-1 Grand Prix"
+   },
+   "contentRating": "safe",
+   "score": 0.23383527
   }
  ],
- "updatedAt": "2023-12-10T01:03:13+00:00"
+ "updatedAt": "2023-12-10T18:17:49+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Medarot 7"
    },
    "contentRating": "safe",
-   "score": 0.34614137,
+   "score": 0.35568416,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Gekitotsu no Hexennacht"
    },
    "contentRating": "safe",
-   "score": 0.24830113,
+   "score": 0.24961336,
    "languages": [
     "es-la"
    ]
@@ -33,7 +33,7 @@
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.2345903,
+   "score": 0.23420905,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.2328518,
+   "score": 0.23224646,
    "languages": [
     "en"
    ]
@@ -75,6 +75,17 @@
    ]
   },
   {
+   "id": "ee1e2e44-7002-422e-bf35-ae106bf6b2c3",
+   "title": {
+    "en": "Ad Astra Per Aspera"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
    "title": {
     "en": "Mobile Suit Gundam Valpurgis EVE"
@@ -92,6 +103,17 @@
    },
    "contentRating": "safe",
    "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
+   "title": {
+    "en": "Monkz"
+   },
+   "contentRating": "safe",
+   "score": 0.22280042,
    "languages": [
     "en"
    ]
@@ -125,10 +147,21 @@
     "en": "GOD EATER - the spiral fate"
    },
    "contentRating": "safe",
-   "score": 0.21887784,
+   "score": 0.2208951,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "1bc9283b-af5d-4ac6-8268-4f9c014e250d",
+   "title": {
+    "en": "SLASH"
+   },
+   "contentRating": "safe",
+   "score": 0.21483447,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -137,7 +170,7 @@
     "en": "Mobile Suit Gundam N-Extreme"
    },
    "contentRating": "safe",
-   "score": 0.21551622,
+   "score": 0.21423389,
    "languages": [
     "en"
    ]
@@ -154,47 +187,7 @@
     "en",
     "ar"
    ]
-  },
-  {
-   "id": "dcc3f064-9eee-44c1-b409-f6df242a3496",
-   "title": {
-    "en": "Heart Gear"
-   },
-   "contentRating": "safe",
-   "score": 0.20694579,
-   "languages": [
-    "id",
-    "en",
-    "es-la",
-    "vi",
-    "pt-br",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "e6e0b418-ca33-4919-8b62-50aa28908dc7",
-   "title": {
-    "en": "Mega Man: The Deadly Struggle on Mu Arc"
-   },
-   "contentRating": "safe",
-   "score": 0.20619501,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "73420787-570b-4548-8911-b225b8d25dd8",
-   "title": {
-    "en": "Iron Fist Chinmi Legends"
-   },
-   "contentRating": "safe",
-   "score": 0.20564,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:25+00:00"
+ "updatedAt": "2023-12-10T18:12:56+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.42290017,
+   "score": 0.41850445,
    "languages": [
     "pt-br",
     "tr",
@@ -25,7 +25,7 @@
     "en": "Smile Death Match"
    },
    "contentRating": "safe",
-   "score": 0.2851246,
+   "score": 0.28544796,
    "languages": [
     "en",
     "ru"
@@ -37,7 +37,7 @@
     "en": "Death of the Wallflower"
    },
    "contentRating": "safe",
-   "score": 0.27209514,
+   "score": 0.26836535,
    "languages": [
     "en"
    ]
@@ -48,7 +48,7 @@
     "en": "Motetai no de ore wo Party Kara Tsuihō Shite Kudasai!"
    },
    "contentRating": "safe",
-   "score": 0.2564634,
+   "score": 0.25622174,
    "languages": [
     "id",
     "pt-br",
@@ -82,30 +82,6 @@
    ]
   },
   {
-   "id": "84a2945e-0018-4301-9a54-f305971477a9",
-   "title": {
-    "en": "Birthday"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
-   "title": {
-    "en": "V no Akuma"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "7b568fa0-42d3-4c20-860f-ca202a79728f",
    "title": {
     "en": "The Results of Awakening to Over-Strong Power"
@@ -116,6 +92,17 @@
     "vi",
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "7312c0fa-2a2c-4333-b48f-c11ca7864177",
+   "title": {
+    "en": "Ah knew in mah head, but..."
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -132,28 +119,6 @@
    ]
   },
   {
-   "id": "7a14a386-a068-452a-b395-73908a7f74b5",
-   "title": {
-    "en": "Yoru to Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7312c0fa-2a2c-4333-b48f-c11ca7864177",
-   "title": {
-    "en": "Ah knew in mah head, but..."
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
    "title": {
     "en": "Peach Pluck"
@@ -166,12 +131,47 @@
    ]
   },
   {
+   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
+   "title": {
+    "en": "V no Akuma"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "7a14a386-a068-452a-b395-73908a7f74b5",
+   "title": {
+    "en": "Yoru to Yakusoku"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "84a2945e-0018-4301-9a54-f305971477a9",
+   "title": {
+    "en": "Birthday"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "662eafe3-345b-4e3a-9989-605741167561",
    "title": {
     "en": "Cremators"
    },
    "contentRating": "safe",
-   "score": 0.24500743,
+   "score": 0.2455292,
    "languages": [
     "en",
     "pt-br",
@@ -184,7 +184,7 @@
     "en": "Gyo"
    },
    "contentRating": "safe",
-   "score": 0.24448538,
+   "score": 0.24507488,
    "languages": [
     "en",
     "fr"
@@ -196,7 +196,7 @@
     "en": "The Wolf Brothers and Little Red Riding Hood"
    },
    "contentRating": "safe",
-   "score": 0.2268941,
+   "score": 0.2251921,
    "languages": [
     "hu",
     "pl",
@@ -205,5 +205,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:56+00:00"
+ "updatedAt": "2023-12-10T18:35:20+00:00"
 }

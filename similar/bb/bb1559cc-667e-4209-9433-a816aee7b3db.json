@@ -6,15 +6,82 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e0a49848-1973-4f66-9616-4aab36a43463",
+   "title": {
+    "en": "Life of a Quack Healer"
+   },
+   "contentRating": "safe",
+   "score": 0.39017457,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "6a7c117a-a473-4a93-903b-34189c4261c8",
+   "title": {
+    "en": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru"
+   },
+   "contentRating": "safe",
+   "score": 0.35854286,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f0933b14-091a-4540-a395-287e38f74260",
    "title": {
     "en": "Murabito Tensei: Saikyou no Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.34673756,
+   "score": 0.34475452,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "5f20aded-1216-41e3-b48d-87b0c4d9957c",
+   "title": {
+    "en": "Kono Healer, Mendokusai"
+   },
+   "contentRating": "safe",
+   "score": 0.34027135,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "b5e3b32e-5d96-4ebd-b37e-3caa0b258824",
+   "title": {
+    "en": "Kanzen Kaihi Healer no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.33646536,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "id",
+    "ru"
+   ]
+  },
+  {
+   "id": "f2d8a9aa-3617-4034-91bf-05c494fd7516",
+   "title": {
+    "en": "Ossan Teihen Chiyu-shi to Manasume no Henkyou Life"
+   },
+   "contentRating": "safe",
+   "score": 0.31535363,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -23,7 +90,18 @@
     "en": "Kitsuen-sha ga isekai ni tensei shita manga"
    },
    "contentRating": "safe",
-   "score": 0.3060168,
+   "score": 0.3039321,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a02b7d24-9e17-4c83-8ace-54dbdd7c8828",
+   "title": {
+    "en": "Overpowered Healer"
+   },
+   "contentRating": "safe",
+   "score": 0.30299103,
    "languages": [
     "en"
    ]
@@ -34,8 +112,45 @@
     "en": "The Ladykiller in Another World"
    },
    "contentRating": "safe",
-   "score": 0.30021724,
+   "score": 0.30124855,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "215dee67-5901-436a-b9a5-9c7fb4e8d577",
+   "title": {
+    "en": "Huff"
+   },
+   "contentRating": "safe",
+   "score": 0.29694533,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9a26c98f-ce6d-4809-b69e-d8e23924ec1c",
+   "title": {
+    "en": "Party kara Tsuihou Sareta Sono Chiyushi, Jitsu wa Saikyou Nitsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.2941486,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "th"
+   ]
+  },
+  {
+   "id": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
+   "title": {
+    "en": "Thank You, Isekai!"
+   },
+   "contentRating": "safe",
+   "score": 0.29336286,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -45,7 +160,7 @@
     "en": "Tensei Shite Inaka de Slowlife wo Okuritai"
    },
    "contentRating": "safe",
-   "score": 0.2938043,
+   "score": 0.29228923,
    "languages": [
     "tr",
     "en",
@@ -59,32 +174,8 @@
     "en": "Youjo Musou: Nakama ni Uragirareta Shoukanshi, Mazoku no Oujo ni Natte \"Eirei Shoukan\" de Dekiai Slow Life wo Okuru"
    },
    "contentRating": "safe",
-   "score": 0.2906115,
+   "score": 0.2916972,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e51aec5-7df3-4961-aa8f-5645d34f8944",
-   "title": {
-    "en": "Thank You, Isekai!"
-   },
-   "contentRating": "safe",
-   "score": 0.28970224,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "68f816a9-1921-4e2b-8542-6e55830cd42d",
-   "title": {
-    "en": "Isekai Transporter"
-   },
-   "contentRating": "safe",
-   "score": 0.278872,
-   "languages": [
-    "ru",
     "en"
    ]
   },
@@ -94,7 +185,7 @@
     "en": "Isekai Truck"
    },
    "contentRating": "safe",
-   "score": 0.27870297,
+   "score": 0.28137705,
    "languages": [
     "en",
     "vi",
@@ -103,105 +194,17 @@
    ]
   },
   {
-   "id": "5d13b733-7204-4870-b96a-cf69ba00475e",
+   "id": "68f816a9-1921-4e2b-8542-6e55830cd42d",
    "title": {
-    "en": "Thank You, Isekai (Webtoon)"
+    "en": "Isekai Transporter"
    },
    "contentRating": "safe",
-   "score": 0.276138,
+   "score": 0.2800063,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "42b42edb-4bbb-4d01-93c2-f95c05b1a936",
-   "title": {
-    "en": "Kaifuku Lotion de Maou wo Taosu Koto ni Natta. ~Isekai Byurubyuru Kouryakuki~"
-   },
-   "contentRating": "safe",
-   "score": 0.2758671,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f0a073ef-ab63-4ec0-9d50-b36dca4a41eb",
-   "title": {
-    "en": "Isekai Ten’i-sha no My Pace Kouryaku-ki"
-   },
-   "contentRating": "safe",
-   "score": 0.27055386,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3757c92-c07c-4f1a-96b4-4f4a12f79908",
-   "title": {
-    "en": "The Poisonous Genius Consort is too Arrogant"
-   },
-   "contentRating": "safe",
-   "score": 0.26630002,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
-   "title": {
-    "en": "Kojiin Tamer"
-   },
-   "contentRating": "safe",
-   "score": 0.26503018,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "fr",
-    "ar",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
-   "title": {
-    "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
-   },
-   "contentRating": "safe",
-   "score": 0.26377264,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "es-la",
-    "ko"
-   ]
-  },
-  {
-   "id": "3d3dda69-7387-4732-b114-e4bb3de67180",
-   "title": {
-    "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.25876558,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b4348043-b081-4fcb-ad92-b30eb0ecbaf0",
-   "title": {
-    "en": "Boukensha no Fuku, Tsukurimasu! ~Isekai de Hajimeru Designer Seikatsu~"
-   },
-   "contentRating": "safe",
-   "score": 0.25519368,
-   "languages": [
+    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:28+00:00"
+ "updatedAt": "2023-12-10T18:29:14+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Two Cups of Coffee"
    },
    "contentRating": "safe",
-   "score": 0.42006817,
+   "score": 0.42575517,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "a cup of..."
    },
    "contentRating": "safe",
-   "score": 0.35612112,
+   "score": 0.36200085,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.35205585,
+   "score": 0.3529118,
    "languages": [
     "de",
     "es-la",
@@ -47,7 +47,7 @@
     "en": "Yuuto no Shinro Kibou"
    },
    "contentRating": "safe",
-   "score": 0.3481514,
+   "score": 0.3493712,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.34073097,
+   "score": 0.343207,
    "languages": [
     "en",
     "fr"
@@ -70,7 +70,7 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.3317229,
+   "score": 0.33522287,
    "languages": [
     "fr",
     "pt-br",
@@ -83,7 +83,15 @@
     "en": "Megane-chan no Akai ito"
    },
    "contentRating": "safe",
-   "score": 0.3209526
+   "score": 0.3216394
+  },
+  {
+   "id": "eae431dc-6083-4795-bccf-cea7930d90b6",
+   "title": {
+    "en": "Majin Noodle"
+   },
+   "contentRating": "safe",
+   "score": 0.31797892
   },
   {
    "id": "b0caff29-25ae-451e-be0f-c0a046e8b602",
@@ -91,7 +99,7 @@
     "en": "Boy the Gold"
    },
    "contentRating": "safe",
-   "score": 0.30888978
+   "score": 0.3141231
   },
   {
    "id": "c87ff310-6275-4bce-b91a-b5a39d0de9f0",
@@ -99,7 +107,7 @@
     "en": "no title"
    },
    "contentRating": "safe",
-   "score": 0.30875838,
+   "score": 0.30872604,
    "languages": [
     "en"
    ]
@@ -110,7 +118,7 @@
     "en": "Tokyo Photograph"
    },
    "contentRating": "safe",
-   "score": 0.30341193,
+   "score": 0.30342633,
    "languages": [
     "fr",
     "en"
@@ -122,7 +130,7 @@
     "en": "Taketori Tsuki Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.30311832
+   "score": 0.30325723
   },
   {
    "id": "a98a95fd-cf4b-4218-b412-9d65b78e8986",
@@ -130,18 +138,7 @@
     "en": "Crazy People"
    },
    "contentRating": "safe",
-   "score": 0.29706082,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "85d5256c-6c40-4dc2-8969-3c13cd851bd8",
-   "title": {
-    "en": "Mayokohama Ramen Sanshimai"
-   },
-   "contentRating": "safe",
-   "score": 0.29329216,
+   "score": 0.29911613,
    "languages": [
     "en"
    ]
@@ -152,28 +149,26 @@
     "en": "Mukashi no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2861998,
+   "score": 0.28741437,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f12f3563-356d-4a19-879a-8c88d70104ce",
+   "id": "357edf8c-a728-462f-817c-33ee12e785c3",
    "title": {
-    "en": "The Love's Red Signals"
+    "en": "Anne-chan Tarou"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "bg",
-    "pl",
     "en"
    ]
   },
   {
-   "id": "4db29a32-6218-4321-be4b-6d9aa829d399",
+   "id": "1afdb236-0b29-4820-b6b7-8b7ddcf82742",
    "title": {
-    "en": "Nandemo Arisa"
+    "en": "Lovely Banchou"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -182,5 +177,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:56+00:00"
+ "updatedAt": "2023-12-10T18:22:27+00:00"
 }

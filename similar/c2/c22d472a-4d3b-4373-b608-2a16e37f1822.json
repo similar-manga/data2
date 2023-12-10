@@ -11,7 +11,29 @@
     "en": "2 x Bone"
    },
    "contentRating": "safe",
-   "score": 0.27377552,
+   "score": 0.2726223,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22cc151f-63f7-4342-b224-1223f43007ec",
+   "title": {
+    "en": "Kurenai no Senkan"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.24208482,
    "languages": [
     "en"
    ]
@@ -22,9 +44,21 @@
     "en": "Venus Versus Virus"
    },
    "contentRating": "safe",
-   "score": 0.23024046,
+   "score": 0.22886954,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "67a021af-30c8-4f1e-a914-169097c5f34b",
+   "title": {
+    "en": "Ni Luo Ya - Niraya"
+   },
+   "contentRating": "safe",
+   "score": 0.22513062,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -33,7 +67,7 @@
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.22459616,
+   "score": 0.22373945,
    "languages": [
     "pt-br",
     "en",
@@ -47,7 +81,7 @@
     "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.21987043,
+   "score": 0.21916169,
    "languages": [
     "en"
    ]
@@ -58,18 +92,7 @@
     "en": "Strobo"
    },
    "contentRating": "safe",
-   "score": 0.21735045,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
-   "title": {
-    "en": "Yuuyami Tokkoutai"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
+   "score": 0.21655093,
    "languages": [
     "en"
    ]
@@ -78,6 +101,17 @@
    "id": "4a0e8517-749c-4f86-b31c-3fbb32ed1c84",
    "title": {
     "en": "Mist no Kaiboroku"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
+   "title": {
+    "en": "Yuuyami Tokkoutai"
    },
    "contentRating": "safe",
    "score": 0.2163632,
@@ -109,12 +143,34 @@
    ]
   },
   {
+   "id": "2bb86240-1f2a-4061-88d5-f3db0b1a19e2",
+   "title": {
+    "en": "Kaijin Reijou"
+   },
+   "contentRating": "safe",
+   "score": 0.21516636,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "6f70226e-52f1-410f-87dd-c59f5c462fbb",
+   "title": {
+    "en": "The Last Dynasty"
+   },
+   "contentRating": "safe",
+   "score": 0.21407339,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "981a344e-ad3d-4f99-95b9-72991b7b3034",
    "title": {
     "en": "Became King After Being Bitten"
    },
    "contentRating": "safe",
-   "score": 0.21380152,
+   "score": 0.21313238,
    "languages": [
     "en",
     "id"
@@ -126,68 +182,11 @@
     "en": "Crescent Noise"
    },
    "contentRating": "safe",
-   "score": 0.21155156,
+   "score": 0.21115097,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "baa0c2b8-c4ae-4951-bb4d-4f44e311c934",
-   "title": {
-    "en": "Izanaeru"
-   },
-   "contentRating": "safe",
-   "score": 0.21052593,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
-   "title": {
-    "en": "Parabellum"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
-   "title": {
-    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fb45bda2-a387-475a-b0d6-18eeed806391",
-   "title": {
-    "en": "Zettai Karen Children: THE UNLIMITED - Hyoubu Kyousuke"
-   },
-   "contentRating": "safe",
-   "score": 0.20377342,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "e51c97d7-0ef9-4edb-9b3f-3a6feb21d18e",
-   "title": {
-    "en": "Mahou Shounen X"
-   },
-   "contentRating": "safe",
-   "score": 0.2032611,
-   "languages": [
-    "en",
-    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:46+00:00"
+ "updatedAt": "2023-12-10T18:29:57+00:00"
 }

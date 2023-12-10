@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "792c4dcf-9024-43fa-961e-c3143cfe5629",
+   "title": {
+    "en": "I My Me Mine"
+   },
+   "contentRating": "safe",
+   "score": 0.28030437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6e5d6387-0738-4297-bf1c-5642d411ce08",
    "title": {
     "en": "X'Mas Heart"
    },
    "contentRating": "safe",
-   "score": 0.27081582,
+   "score": 0.27500194,
    "languages": [
     "en",
     "tr"
@@ -23,7 +34,7 @@
     "en": "Ibara no Koi"
    },
    "contentRating": "safe",
-   "score": 0.26915348,
+   "score": 0.26682225,
    "languages": [
     "en"
    ]
@@ -34,9 +45,27 @@
     "en": "Ten yori Takaku"
    },
    "contentRating": "safe",
-   "score": 0.26359093,
+   "score": 0.2655543,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "1bb5448d-fb00-4346-8b38-b9d739d40e1b",
+   "title": {
+    "en": "Christmas ni Omoi o Nosete"
+   },
+   "contentRating": "safe",
+   "score": 0.2633462,
+   "languages": [
+    "pt-br",
+    "it",
+    "es-la",
+    "de",
+    "pl",
+    "tr",
+    "hu",
     "en"
    ]
   },
@@ -48,24 +77,6 @@
    "contentRating": "safe",
    "score": 0.2603029,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1bb5448d-fb00-4346-8b38-b9d739d40e1b",
-   "title": {
-    "en": "Christmas ni Omoi o Nosete"
-   },
-   "contentRating": "safe",
-   "score": 0.2599455,
-   "languages": [
-    "pt-br",
-    "it",
-    "es-la",
-    "de",
-    "pl",
-    "tr",
-    "hu",
     "en"
    ]
   },
@@ -86,12 +97,25 @@
    ]
   },
   {
+   "id": "3f91f110-a015-401b-b919-c9ac7a6cc519",
+   "title": {
+    "en": "Christmas Romance"
+   },
+   "contentRating": "safe",
+   "score": 0.25405568,
+   "languages": [
+    "fr",
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "87ebb83f-4e9d-47cd-8a48-c9bb5fd9c42b",
    "title": {
     "en": "The Things I Hate About You"
    },
    "contentRating": "safe",
-   "score": 0.25629565,
+   "score": 0.25338683,
    "languages": [
     "de",
     "en"
@@ -103,7 +127,7 @@
     "en": "Ashita wa Kitto Tomodachi Janai, Yone"
    },
    "contentRating": "safe",
-   "score": 0.25327286,
+   "score": 0.25231344,
    "languages": [
     "vi",
     "ru",
@@ -116,32 +140,32 @@
     "en": "Kokyuu no Aida ni Koi ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.25055656,
+   "score": 0.24973193,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3f91f110-a015-401b-b919-c9ac7a6cc519",
+   "id": "76024a28-e3da-47b5-927d-2da6e760304e",
    "title": {
-    "en": "Christmas Romance"
+    "en": "Hohoemi Ouji to Shinderera"
    },
    "contentRating": "safe",
-   "score": 0.24941434,
+   "score": 0.24926691,
    "languages": [
-    "fr",
-    "it",
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "03f2e3e8-206f-40d9-b38f-8803b14245ce",
+   "id": "eaa170e8-95b3-40bf-a928-c537377d7019",
    "title": {
-    "en": "Oretachi One Set"
+    "en": "And twinkle"
    },
    "contentRating": "safe",
-   "score": 0.24712045,
+   "score": 0.24831355,
    "languages": [
+    "pl",
     "en"
    ]
   },
@@ -151,20 +175,19 @@
     "en": "Hitotsu no Shigusa mo"
    },
    "contentRating": "safe",
-   "score": 0.24649747,
+   "score": 0.24668628,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eaa170e8-95b3-40bf-a928-c537377d7019",
+   "id": "03f2e3e8-206f-40d9-b38f-8803b14245ce",
    "title": {
-    "en": "And twinkle"
+    "en": "Oretachi One Set"
    },
    "contentRating": "safe",
-   "score": 0.24284425,
+   "score": 0.24647179,
    "languages": [
-    "pl",
     "en"
    ]
   },
@@ -174,33 +197,11 @@
     "en": "Love and Terrarium"
    },
    "contentRating": "safe",
-   "score": 0.23711522,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fb128a83-82bb-411d-9401-cc2baf1f69f3",
-   "title": {
-    "en": "Yuri Iro no Koibito"
-   },
-   "contentRating": "safe",
-   "score": 0.23663898,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d6a69ea-2e51-458b-9d36-b0a16a9a705e",
-   "title": {
-    "en": "Koyubi wa Amaku Sasayaku"
-   },
-   "contentRating": "safe",
-   "score": 0.23663898,
+   "score": 0.23956576,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:35+00:00"
+ "updatedAt": "2023-12-10T18:34:29+00:00"
 }

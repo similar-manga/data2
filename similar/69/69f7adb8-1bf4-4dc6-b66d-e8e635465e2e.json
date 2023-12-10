@@ -6,12 +6,68 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "070bc563-823d-48e3-8bd1-911a0314f7f5",
+   "title": {
+    "en": "Mahjong of the North Star"
+   },
+   "contentRating": "safe",
+   "score": 0.24730648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92a46ccf-cf75-41dd-8a69-7016e4521102",
+   "title": {
+    "en": "Yamima no Mamiya"
+   },
+   "contentRating": "safe",
+   "score": 0.2130168,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "019dd911-cd1f-4bfb-839c-642be1472ba4",
    "title": {
     "en": "Gambling Outcast Kaiji: The 2.4 Billion Escape Arc - Kaiji Part 6"
    },
    "contentRating": "safe",
-   "score": 0.20015547,
+   "score": 0.20010196,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4daee0fc-c770-4b4d-90bb-cb3ed4a5e19c",
+   "title": {
+    "en": "Mukoubuchi: The High-Stakes Underground Mahjong Series"
+   },
+   "contentRating": "safe",
+   "score": 0.19974202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ccd9f11a-b8fd-4ca3-ac07-30b3662f00f9",
+   "title": {
+    "en": "Insect Detective Yoshimi Yoshida"
+   },
+   "contentRating": "safe",
+   "score": 0.18273874,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f9d854ea-6787-40f5-a30c-5d72eef9e0cb",
+   "title": {
+    "en": "Junket Bank"
+   },
+   "contentRating": "safe",
+   "score": 0.17261958,
    "languages": [
     "en"
    ]
@@ -35,7 +91,7 @@
     "en": "Saki: Achiga-hen - episode of side-A"
    },
    "contentRating": "safe",
-   "score": 0.16925427,
+   "score": 0.16659597,
    "languages": [
     "en",
     "pt-br"
@@ -47,7 +103,7 @@
     "en": "Jintori Game"
    },
    "contentRating": "safe",
-   "score": 0.16650921,
+   "score": 0.16567475,
    "languages": [
     "en"
    ]
@@ -68,14 +124,14 @@
    ]
   },
   {
-   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
    "title": {
-    "en": "What's Michael?"
+    "en": "S. Flight"
    },
    "contentRating": "safe",
-   "score": 0.15895604,
+   "score": 0.16164388,
    "languages": [
-    "de",
+    "zh",
     "en"
    ]
   },
@@ -108,16 +164,15 @@
    ]
   },
   {
-   "id": "7a9ea386-c960-4752-9035-7c652c1b97af",
+   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
    "title": {
-    "en": "Shinohayu - The Dawn of Age"
+    "en": "What's Michael?"
    },
    "contentRating": "safe",
-   "score": 0.15746902,
+   "score": 0.15736929,
    "languages": [
-    "pt-br",
-    "en",
-    "he"
+    "de",
+    "en"
    ]
   },
   {
@@ -134,80 +189,17 @@
    ]
   },
   {
-   "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
+   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
    "title": {
-    "en": "Eiyuu Densetsu - Sora no Kiseki"
+    "en": "Black Night Parade"
    },
    "contentRating": "safe",
    "score": 0.15659206,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3c3d1cd2-a609-4450-bf30-76b8d4a503af",
-   "title": {
-    "en": "Great Pretender"
-   },
-   "contentRating": "safe",
-   "score": 0.15474612,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "970cf604-b773-47fb-8cf1-75b8f1513b19",
-   "title": {
-    "en": "Riman Gambler Mouse"
-   },
-   "contentRating": "safe",
-   "score": 0.15158542,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5dfe9757-34c9-4c34-9f0e-b3a5d382317c",
-   "title": {
-    "en": "Meitantei no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.14589603,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f77c9587-ebb7-4fc1-8798-c6c6948e91cf",
-   "title": {
-    "en": "GABULI"
-   },
-   "contentRating": "safe",
-   "score": 0.14589603,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
-   "title": {
-    "en": "Bungou Stray Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.14589603,
-   "languages": [
-    "tr",
-    "pt-br",
     "en",
-    "pl",
-    "fr",
-    "id",
-    "es-la",
-    "ru",
-    "uk"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:58+00:00"
+ "updatedAt": "2023-12-10T18:19:46+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Ayako"
    },
    "contentRating": "safe",
-   "score": 0.1833186,
+   "score": 0.18319277,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Crest of the Pharaoh"
    },
    "contentRating": "safe",
-   "score": 0.17630114,
+   "score": 0.17602178,
    "languages": [
     "en",
     "pt-br"
@@ -40,12 +40,23 @@
    ]
   },
   {
+   "id": "ecf3d4ce-6e5d-4cc0-a80d-062ff8f92607",
+   "title": {
+    "en": "Thirteenth Night"
+   },
+   "contentRating": "safe",
+   "score": 0.15721183,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
    "title": {
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.14905384,
+   "score": 0.14878085,
    "languages": [
     "en"
    ]
@@ -62,12 +73,40 @@
    ]
   },
   {
+   "id": "e0c9100e-287d-4417-8c17-b4e696254dc7",
+   "title": {
+    "en": "Kumicho Musume to Sewa-gakari"
+   },
+   "contentRating": "safe",
+   "score": 0.14209174,
+   "languages": [
+    "pt-br",
+    "tr",
+    "vi",
+    "en",
+    "es-la",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "c6177bae-3fa2-4830-9df2-ab6349b615e6",
    "title": {
     "en": "The Dreadful Beaks"
    },
    "contentRating": "safe",
    "score": 0.13532807,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9b7d94cb-d0aa-4c39-9fb9-490d793083b5",
+   "title": {
+    "en": "Sleeping Beauty Age"
+   },
+   "contentRating": "safe",
+   "score": 0.13417599,
    "languages": [
     "en"
    ]
@@ -109,14 +148,15 @@
    ]
   },
   {
-   "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
+   "id": "8b05479c-2151-4c33-8d3e-309da013f056",
    "title": {
-    "en": "Mane of the Wind"
+    "en": "The Yuzuki Household's 4 Brothers."
    },
    "contentRating": "safe",
-   "score": 0.1265662,
+   "score": 0.12754032,
    "languages": [
-    "en"
+    "en",
+    "es"
    ]
   },
   {
@@ -133,63 +173,27 @@
    ]
   },
   {
-   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
-   "title": {
-    "en": "Dress-up Yuka-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.12580736,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e05c279-67e1-4ae7-b0d2-a3b126671b1f",
-   "title": {
-    "en": "Lucky Dog 1 Blast"
-   },
-   "contentRating": "safe",
-   "score": 0.12532814,
-   "languages": [
-    "en",
-    "vi",
-    "pl"
-   ]
-  },
-  {
    "id": "9103a1c9-e6f8-42f6-9055-ae06c5834028",
    "title": {
     "en": "Little Red Riding Hood Cha-Cha"
    },
    "contentRating": "safe",
-   "score": 0.12445831,
+   "score": 0.12628984,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d46b7b5-90de-409a-9ddb-51879948eef4",
+   "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
    "title": {
-    "en": "Tale of Nezha"
+    "en": "Mane of the Wind"
    },
    "contentRating": "safe",
-   "score": 0.123560406,
+   "score": 0.12594412,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "43932ac8-d6af-4dfb-95af-2c878424f81d",
-   "title": {
-    "en": "Haru Meguru"
-   },
-   "contentRating": "safe",
-   "score": 0.12344025,
-   "languages": [
-    "en",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:08+00:00"
+ "updatedAt": "2023-12-10T18:25:29+00:00"
 }

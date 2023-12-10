@@ -11,7 +11,7 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.3322765
+   "score": 0.33408967
   },
   {
    "id": "d798d74d-bccc-47f4-831e-4b2494ea94a9",
@@ -19,7 +19,7 @@
     "en": "Outlaw Man"
    },
    "contentRating": "safe",
-   "score": 0.2461326,
+   "score": 0.24493136,
    "languages": [
     "en"
    ]
@@ -30,7 +30,15 @@
     "en": "Wild Boy Isamu"
    },
    "contentRating": "safe",
-   "score": 0.22599155
+   "score": 0.22560167
+  },
+  {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.22203077
   },
   {
    "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
@@ -49,7 +57,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.21544497,
+   "score": 0.2139213,
    "languages": [
     "en"
    ]
@@ -83,19 +91,11 @@
     "en": "Sand Land Full Color"
    },
    "contentRating": "safe",
-   "score": 0.19638716,
+   "score": 0.19654451,
    "languages": [
     "es-la",
     "pl"
    ]
-  },
-  {
-   "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
-   "title": {
-    "en": "Teito Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19270383
   },
   {
    "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
@@ -103,7 +103,18 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.19097377
+   "score": 0.190985
+  },
+  {
+   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
+   "title": {
+    "en": "Locke the Superman"
+   },
+   "contentRating": "safe",
+   "score": 0.1909328,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
@@ -129,15 +140,12 @@
    "score": 0.1909328
   },
   {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
+   "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
    "title": {
-    "en": "Locke the Superman"
+    "en": "Teito Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.1909328,
-   "languages": [
-    "en"
-   ]
+   "score": 0.19023666
   },
   {
    "id": "9a7515a7-2c1a-40bc-b8d6-556d7f6d48fe",
@@ -156,31 +164,12 @@
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.18832251,
+   "score": 0.18774176,
    "languages": [
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
-   "title": {
-    "en": "Dragon Ball Super"
-   },
-   "contentRating": "safe",
-   "score": 0.18612775,
-   "languages": [
-    "pt-br",
-    "es",
-    "en",
-    "it",
-    "de",
-    "ar",
-    "ms",
-    "pt",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:51+00:00"
+ "updatedAt": "2023-12-10T18:30:10+00:00"
 }

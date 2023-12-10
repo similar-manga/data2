@@ -6,9 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
+   "id": "43ee2a60-3cce-4409-a396-367bfaafcadf",
    "title": {
-    "en": "Strobo"
+    "en": "Nazotoki Drill"
+   },
+   "contentRating": "safe",
+   "score": 0.21269841,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9234bfdd-297c-4741-888e-e626e43a8d13",
+   "title": {
+    "en": "The Seventh Victim"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -28,12 +39,23 @@
    ]
   },
   {
+   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
+   "title": {
+    "en": "Strobo"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.19775768,
+   "score": 0.19360183,
    "languages": [
     "id",
     "en",
@@ -54,15 +76,59 @@
    ]
   },
   {
+   "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
+   "title": {
+    "en": "Yggdra Silver"
+   },
+   "contentRating": "safe",
+   "score": 0.19345339,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53b8595f-50ff-4926-a91a-37a7d6f1e10c",
+   "title": {
+    "en": "Diary Mystery"
+   },
+   "contentRating": "safe",
+   "score": 0.19315045,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.1921517,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
    "title": {
     "en": "Shirasunamura"
    },
    "contentRating": "safe",
-   "score": 0.18768354,
+   "score": 0.18540749,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
+   "title": {
+    "en": "A-Presto"
+   },
+   "contentRating": "safe",
+   "score": 0.18456157,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -71,22 +137,9 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.18401682,
+   "score": 0.1831896,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "e9190a5b-5de7-4383-ba41-1aeb20128451",
-   "title": {
-    "en": "Shitauke Tantei Nokori Kasuhiro"
-   },
-   "contentRating": "safe",
-   "score": 0.18135552,
-   "languages": [
-    "de",
-    "pt-br",
     "en"
    ]
   },
@@ -94,6 +147,32 @@
    "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
    "title": {
     "en": "Segregated World"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f3f7f135-a648-498f-8ce7-04f135b78f3e",
+   "title": {
+    "en": "Aragane no Ko"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "zh-hk",
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "7440a0a2-6083-400f-a6ec-eb6f0f8bf332",
+   "title": {
+    "en": "A Gust of Wind Blows at Daybreak"
    },
    "contentRating": "safe",
    "score": 0.18070157,
@@ -113,97 +192,18 @@
    ]
   },
   {
-   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
+   "id": "e9190a5b-5de7-4383-ba41-1aeb20128451",
    "title": {
-    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
+    "en": "Shitauke Tantei Nokori Kasuhiro"
    },
    "contentRating": "safe",
-   "score": 0.17643076,
+   "score": 0.17586234,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
-   "title": {
-    "en": "Japanese History Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.17451493,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
-   "title": {
-    "en": "Bible of Black"
-   },
-   "contentRating": "safe",
-   "score": 0.17388552,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "147e7e1b-26c8-42f6-92e1-fbd7a43e9c03",
-   "title": {
-    "en": "Shitabashiri"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "uk",
-    "ru"
-   ]
-  },
-  {
-   "id": "553ca95d-c865-4548-97e4-a38d20ec29e0",
-   "title": {
-    "en": "In to You"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
-   "title": {
-    "en": "Meikai no Pendulum"
-   },
-   "contentRating": "safe",
-   "score": 0.16067858,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
-   "title": {
-    "en": "Shikigami Twilight Days"
-   },
-   "contentRating": "safe",
-   "score": 0.16024245,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "79192941-5a06-4e23-95d5-88106e639c78",
-   "title": {
-    "en": "Tanteiken Sherdock"
-   },
-   "contentRating": "safe",
-   "score": 0.15731208,
-   "languages": [
+    "de",
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:13+00:00"
+ "updatedAt": "2023-12-10T18:25:42+00:00"
 }

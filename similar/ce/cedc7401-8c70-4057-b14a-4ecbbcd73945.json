@@ -11,7 +11,7 @@
     "en": "Tsukihana Otome ha Mouken ga Suki"
    },
    "contentRating": "suggestive",
-   "score": 0.21174078,
+   "score": 0.2101408,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Rome Futari Gurashi"
    },
    "contentRating": "suggestive",
-   "score": 0.20848043,
+   "score": 0.20693414,
    "languages": [
     "en"
    ]
@@ -40,23 +40,12 @@
    ]
   },
   {
-   "id": "3f04bb00-4ff0-40b8-b464-b10a33320f2c",
-   "title": {
-    "en": "Shishuugoku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19802307,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
    "id": "ee6264df-0a88-46a8-bb64-5bc64446813c",
    "title": {
     "en": "La La La"
    },
    "contentRating": "suggestive",
-   "score": 0.19563313,
+   "score": 0.1953664,
    "languages": [
     "en"
    ]
@@ -74,6 +63,17 @@
     "en",
     "id",
     "fr"
+   ]
+  },
+  {
+   "id": "3f04bb00-4ff0-40b8-b464-b10a33320f2c",
+   "title": {
+    "en": "Shishuugoku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19064635,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -111,7 +111,7 @@
     "en": "Oku-san"
    },
    "contentRating": "suggestive",
-   "score": 0.17886952,
+   "score": 0.17799255,
    "languages": [
     "en",
     "de",
@@ -125,7 +125,7 @@
     "en": "One Night Morning"
    },
    "contentRating": "suggestive",
-   "score": 0.17839421,
+   "score": 0.17755593,
    "languages": [
     "en"
    ]
@@ -136,11 +136,22 @@
     "en": "Kannou Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.17680465,
+   "score": 0.17596364,
    "languages": [
     "es-la",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "243795f3-555f-4aeb-b44d-45c27f620fa8",
+   "title": {
+    "en": "You're Full of Surprises, Yamada-san!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17220227,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -149,7 +160,7 @@
     "en": "Mijuku na Futari de Gozaimasu ga"
    },
    "contentRating": "suggestive",
-   "score": 0.17287047,
+   "score": 0.1720836,
    "languages": [
     "en",
     "id",
@@ -163,7 +174,7 @@
     "en": "Fuufu Ijou, Koibito Miman."
    },
    "contentRating": "suggestive",
-   "score": 0.17245999,
+   "score": 0.1706314,
    "languages": [
     "vi",
     "fr",
@@ -178,7 +189,7 @@
     "en": "The Shiunji Family Children"
    },
    "contentRating": "suggestive",
-   "score": 0.17240244,
+   "score": 0.16872683,
    "languages": [
     "pt-br",
     "fr",
@@ -191,35 +202,18 @@
    ]
   },
   {
-   "id": "243795f3-555f-4aeb-b44d-45c27f620fa8",
+   "id": "a9a664d6-4ea7-4f3b-b96b-4861673c8e5d",
    "title": {
-    "en": "You're Full of Surprises, Yamada-san!!"
+    "en": "Misato-san wa Amasugi Joushi ni Chotto Kibishii"
    },
    "contentRating": "suggestive",
-   "score": 0.17226817,
+   "score": 0.16808417,
    "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bc24c75e-1c73-43bc-80aa-024ebb041e34",
-   "title": {
-    "en": "Musume Janakute, Watashi (Mama) ga Suki Nano!?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1681289,
-   "languages": [
-    "vi",
     "pt-br",
-    "es-la",
-    "en",
-    "id",
-    "fr",
-    "es",
-    "ar",
-    "tr"
+    "vi",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:18+00:00"
+ "updatedAt": "2023-12-10T18:31:16+00:00"
 }

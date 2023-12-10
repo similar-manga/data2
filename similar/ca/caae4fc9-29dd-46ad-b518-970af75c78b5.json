@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "637b4eab-d063-4ff6-ba64-6e93d2e7775e",
+   "title": {
+    "en": "Cosmos"
+   },
+   "contentRating": "safe",
+   "score": 0.6202762,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
    "title": {
     "en": "Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.39590567,
+   "score": 0.3983964,
    "languages": [
     "es",
     "fr",
@@ -25,7 +37,7 @@
     "en": "Watashi no Hakoniwa"
    },
    "contentRating": "safe",
-   "score": 0.34852177,
+   "score": 0.35075042,
    "languages": [
     "en",
     "pl"
@@ -37,20 +49,8 @@
     "en": "Hakoniwa Angel"
    },
    "contentRating": "safe",
-   "score": 0.33358362,
+   "score": 0.33237216,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "637b4eab-d063-4ff6-ba64-6e93d2e7775e",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.30360606,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -60,7 +60,18 @@
     "en": "Rakka Ryuusui"
    },
    "contentRating": "safe",
-   "score": 0.28881088,
+   "score": 0.28735203,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "54e7001b-6112-4d5f-8b0e-d8df33abf72d",
+   "title": {
+    "en": "Shikanoko Nokonoko Koshitantan"
+   },
+   "contentRating": "safe",
+   "score": 0.26650566,
    "languages": [
     "en"
    ]
@@ -71,9 +82,55 @@
     "en": "Reset!"
    },
    "contentRating": "safe",
-   "score": 0.26217368,
+   "score": 0.26150885,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f6338d1a-fe85-4d4f-807a-9351597f65bb",
+   "title": {
+    "en": "Love Runs From the Nose"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0f2bdb5c-2177-468d-a60b-4b79f3955218",
+   "title": {
+    "en": "Snow \u0026 Sunflower"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "574528a4-f215-4766-8051-507be352ccda",
+   "title": {
+    "en": "Na*Na*Ki!!"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d7c7da95-d1b3-4db9-9155-98c5547d08b9",
+   "title": {
+    "en": "Komada-san wo Komarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en",
+    "pt-br",
+    "ko"
    ]
   },
   {
@@ -82,113 +139,55 @@
     "en": "Hanagui"
    },
    "contentRating": "safe",
-   "score": 0.24606416,
+   "score": 0.24491115,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "adfdca67-8874-4ad3-91d3-9bb1fa461d5c",
+   "id": "f7269745-4974-4da5-817b-747c226e969a",
    "title": {
-    "en": "Zettai x Roman"
+    "en": "A Sukeban, a Transfer Student, and Their Silly Little Game"
    },
    "contentRating": "safe",
-   "score": 0.22913007,
+   "score": 0.2402392,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e13cdfac-2450-4c60-8a7f-151249a33808",
+   "id": "0b2905f1-cd34-4a5e-a890-c6f4ca57b28e",
    "title": {
-    "en": "Beyond the Feeling"
+    "en": "SOS, Study God"
    },
    "contentRating": "safe",
-   "score": 0.22793521,
+   "score": 0.23882492,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5f2448b3-5ead-4cd5-8289-fd2ac164fae1",
+   "id": "87b13245-24df-4edc-b619-d4eb125e0664",
    "title": {
-    "en": "Hana no Android Gakuen"
+    "en": "Sexy in Pink"
    },
    "contentRating": "safe",
-   "score": 0.22758184,
+   "score": 0.23820324,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e39a34a0-1455-4597-ab9b-a7087a91c955",
+   "id": "5e3c435f-bd7f-4534-a0da-8f15d41ece9e",
    "title": {
-    "en": "Yuri Manga for Studying Japanese"
+    "en": "Ultimate Special High School"
    },
    "contentRating": "safe",
-   "score": 0.2269792,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f1cf8e4-768e-4e05-bfd0-2b1ac30d3775",
-   "title": {
-    "en": "Giving a Present to a Transfer Student"
-   },
-   "contentRating": "safe",
-   "score": 0.22633012,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "88dc8dd3-50f4-4c08-bc0d-cbd7c1a12331",
-   "title": {
-    "en": "Hitori Yogari"
-   },
-   "contentRating": "safe",
-   "score": 0.22173046,
-   "languages": [
-    "it",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "310e661f-7284-417d-b2a6-0282ffa45c05",
-   "title": {
-    "en": "Koubai no Procyon"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d569d8ab-75b0-4ceb-b308-b401cdb80835",
-   "title": {
-    "en": "Princess Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "40250ea4-20c7-45a6-a099-8e02811cd01b",
-   "title": {
-    "en": "I Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
+   "score": 0.23760541,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:07+00:00"
+ "updatedAt": "2023-12-10T18:30:50+00:00"
 }

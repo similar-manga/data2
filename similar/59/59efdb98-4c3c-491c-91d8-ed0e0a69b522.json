@@ -11,7 +11,7 @@
     "en": "Last Boss"
    },
    "contentRating": "safe",
-   "score": 0.3008491,
+   "score": 0.2954052,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.29398808,
+   "score": 0.291696,
    "languages": [
     "en",
     "fr"
@@ -34,7 +34,7 @@
     "en": "Magical Hero Hour"
    },
    "contentRating": "safe",
-   "score": 0.28913966,
+   "score": 0.28746295,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.28063273,
+   "score": 0.27806,
    "languages": [
     "fr",
     "en",
@@ -54,15 +54,17 @@
    ]
   },
   {
-   "id": "f9a8e813-57ab-4fc9-82dc-06a592ecb656",
+   "id": "e739399f-c2e6-49e7-982b-51ddbfe206d0",
    "title": {
-    "en": "I Was Raised by the Boss"
+    "en": "A Hero Can't Go on a Journey"
    },
    "contentRating": "safe",
-   "score": 0.276645,
+   "score": 0.26930434,
    "languages": [
     "en",
-    "id"
+    "pt-br",
+    "fr",
+    "tr"
    ]
   },
   {
@@ -71,11 +73,23 @@
     "en": "Demon Lord and the Hero"
    },
    "contentRating": "safe",
-   "score": 0.2688404,
+   "score": 0.2676369,
    "languages": [
     "en",
     "vi",
     "pt-br"
+   ]
+  },
+  {
+   "id": "f9a8e813-57ab-4fc9-82dc-06a592ecb656",
+   "title": {
+    "en": "I Was Raised by the Boss"
+   },
+   "contentRating": "safe",
+   "score": 0.26509982,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -84,26 +98,12 @@
     "en": "Yuusha ni Naretara"
    },
    "contentRating": "safe",
-   "score": 0.26847282,
+   "score": 0.2636729,
    "languages": [
     "es-la",
     "pt-br",
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "f82a5179-ad2a-491a-b1a1-6cabbd36c6b8",
-   "title": {
-    "en": "Looks Don't Really Matter Much at the Job"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "id",
-    "en",
-    "es-la",
-    "pt-br"
    ]
   },
   {
@@ -116,30 +116,6 @@
    "languages": [
     "es-la",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "f93697cd-ee8c-472c-a0c8-9479d3df09db",
-   "title": {
-    "en": "Jekyll no Tsukaima"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "69489ecb-cb30-49bc-9d5f-fc47de896a86",
-   "title": {
-    "en": "Boruto: Road to \"B\""
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "es",
     "en"
    ]
   },
@@ -157,52 +133,78 @@
    ]
   },
   {
-   "id": "36cc6ade-0220-4dc4-b0b3-7a9ffd78105d",
+   "id": "67e38fec-4bf7-4838-8aa3-66961a34389d",
    "title": {
-    "en": "Okaeri Kudasai Yuushasama!"
+    "en": "Rojiura no Mahou Tantei Jimusho"
    },
    "contentRating": "safe",
-   "score": 0.2530753,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
-   "title": {
-    "en": "Selling Me Softly"
-   },
-   "contentRating": "safe",
-   "score": 0.24928962,
+   "score": 0.25555065,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "841cae32-be4c-45fe-89b1-4b635d421261",
+   "id": "f82a5179-ad2a-491a-b1a1-6cabbd36c6b8",
    "title": {
-    "en": "The One Who Did Not Subjugate the Demon King"
+    "en": "Looks Don't Really Matter Much at the Job"
    },
    "contentRating": "safe",
-   "score": 0.24153136,
+   "score": 0.25555065,
    "languages": [
+    "id",
     "en",
-    "fr",
+    "es-la",
     "pt-br"
    ]
   },
   {
-   "id": "4d654a0e-2334-44d1-9da6-55aabfd16ee1",
+   "id": "69489ecb-cb30-49bc-9d5f-fc47de896a86",
    "title": {
-    "en": "A Man Who Goes to Another World Only Receiving the Skill to Open a Status Screen"
+    "en": "Boruto: Road to \"B\""
    },
    "contentRating": "safe",
-   "score": 0.24147265,
+   "score": 0.25555065,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "f93697cd-ee8c-472c-a0c8-9479d3df09db",
+   "title": {
+    "en": "Jekyll no Tsukaima"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "024221fb-fc4c-4d17-b0c0-22d9d21d683d",
+   "title": {
+    "en": "I Am The Final Boss"
+   },
+   "contentRating": "safe",
+   "score": 0.2524083,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "36cc6ade-0220-4dc4-b0b3-7a9ffd78105d",
+   "title": {
+    "en": "Okaeri Kudasai Yuushasama!"
+   },
+   "contentRating": "safe",
+   "score": 0.25129306,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:19+00:00"
+ "updatedAt": "2023-12-10T18:18:03+00:00"
 }

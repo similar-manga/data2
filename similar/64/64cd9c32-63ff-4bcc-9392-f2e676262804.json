@@ -11,7 +11,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.2486714
+   "score": 0.24880514
   },
   {
    "id": "5bcae92e-322e-4c22-9b26-45dd5e7edd51",
@@ -19,7 +19,7 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.22441997
+   "score": 0.22468312
   },
   {
    "id": "dc33209f-d9d4-40df-a468-cca047b63979",
@@ -27,7 +27,7 @@
     "en": "Neon Genesis Evangelion - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.22333418,
+   "score": 0.22318457,
    "languages": [
     "fr"
    ]
@@ -38,7 +38,7 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.21805379,
+   "score": 0.21744941,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.21254013,
+   "score": 0.21186896,
    "languages": [
     "it",
     "en",
@@ -62,7 +62,7 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.21166812,
+   "score": 0.21153846,
    "languages": [
     "en"
    ]
@@ -73,18 +73,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.20987399,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
-   "title": {
-    "en": "Mobile Suit Gundam F90 FF"
-   },
-   "contentRating": "safe",
-   "score": 0.20756193,
+   "score": 0.20927915,
    "languages": [
     "en"
    ]
@@ -95,7 +84,7 @@
     "en": "Mobile Suit Gundam NT (NARRATIVE)"
    },
    "contentRating": "safe",
-   "score": 0.20562653,
+   "score": 0.2052303,
    "languages": [
     "en"
    ]
@@ -106,7 +95,7 @@
     "en": "Mobile Suit Zeta Gundam Define"
    },
    "contentRating": "safe",
-   "score": 0.20452753,
+   "score": 0.20423162,
    "languages": [
     "en"
    ]
@@ -117,7 +106,18 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.20192626,
+   "score": 0.20141421,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.20134343,
    "languages": [
     "en"
    ]
@@ -142,23 +142,23 @@
    "score": 0.20134343
   },
   {
-   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.20134343,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
    "title": {
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.20129609,
+   "score": 0.20107563,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
+   "title": {
+    "en": "Mobile Suit Gundam F90 FF"
+   },
+   "contentRating": "safe",
+   "score": 0.20033418,
    "languages": [
     "en"
    ]
@@ -175,5 +175,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:45+00:00"
+ "updatedAt": "2023-12-10T18:19:13+00:00"
 }

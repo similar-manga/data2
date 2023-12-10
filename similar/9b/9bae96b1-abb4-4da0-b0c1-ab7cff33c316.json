@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5786e730-541b-4e35-9c2f-9932784fc1c3",
+   "title": {
+    "en": "Far East Chimera"
+   },
+   "contentRating": "safe",
+   "score": 0.18862182,
+   "languages": [
+    "en",
+    "vi",
+    "id",
+    "pt-br",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
    "id": "b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
    "title": {
     "en": "One Punch Man (Webcomic/Original)"
    },
    "contentRating": "safe",
-   "score": 0.18762314,
+   "score": 0.18734096,
    "languages": [
     "en",
     "fr",
@@ -24,6 +40,18 @@
     "vi",
     "ru",
     "tr"
+   ]
+  },
+  {
+   "id": "84d6b69d-9003-49b0-b90b-652ad1b4725f",
+   "title": {
+    "en": "Brave Universe Sworgrader"
+   },
+   "contentRating": "safe",
+   "score": 0.1787909,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -40,24 +68,23 @@
    ]
   },
   {
-   "id": "84d6b69d-9003-49b0-b90b-652ad1b4725f",
-   "title": {
-    "en": "Brave Universe Sworgrader"
-   },
-   "contentRating": "safe",
-   "score": 0.1787909,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "d5144250-b44a-4fa3-b608-30b63772909d",
    "title": {
     "en": "Gekitotsu no Hexennacht"
    },
    "contentRating": "safe",
-   "score": 0.17633928,
+   "score": 0.17572907,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "6f79c90d-fa6d-4783-aba3-38144f951fa9",
+   "title": {
+    "en": "Boku no Hero Academia (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.1752547,
    "languages": [
     "es-la"
    ]
@@ -68,7 +95,7 @@
     "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
    },
    "contentRating": "safe",
-   "score": 0.17331506,
+   "score": 0.17316762,
    "languages": [
     "en",
     "es-la",
@@ -108,7 +135,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.16800378,
+   "score": 0.16832747,
    "languages": [
     "ar",
     "uk",
@@ -131,7 +158,7 @@
     "en": "Sakamoto Days"
    },
    "contentRating": "safe",
-   "score": 0.16675006,
+   "score": 0.16618922,
    "languages": [
     "pt-br",
     "it",
@@ -150,12 +177,26 @@
    ]
   },
   {
+   "id": "38109f1a-6b8c-49e9-a46f-8149967f4a3e",
+   "title": {
+    "en": "Boku no Hero Academia: Team Up Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.16469686,
+   "languages": [
+    "en",
+    "pt-br",
+    "ar",
+    "es-la"
+   ]
+  },
+  {
    "id": "cc1b8669-82b2-4232-99c1-40d48fc2d988",
    "title": {
     "en": "Undead Unluck"
    },
    "contentRating": "safe",
-   "score": 0.16273393,
+   "score": 0.16201577,
    "languages": [
     "ru",
     "fr",
@@ -193,68 +234,23 @@
    ]
   },
   {
-   "id": "29ab6984-7c1d-4d45-b925-25aa082b492e",
+   "id": "96471a2c-59f3-4a08-be7d-640bc0c022a4",
    "title": {
-    "en": "Shangri-La Frontier"
+    "en": "Saigo ni Hitotsu Dake Onegai Shite mo Yoroshii Deshou ka"
    },
    "contentRating": "safe",
-   "score": 0.1377091,
+   "score": 0.1398215,
    "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
-   "title": {
-    "en": "SHY"
-   },
-   "contentRating": "safe",
-   "score": 0.13548139,
-   "languages": [
-    "ru",
-    "fr",
-    "pt-br",
-    "es-la",
-    "en",
-    "id",
-    "th",
     "tr",
-    "it",
-    "vi"
-   ]
-  },
-  {
-   "id": "dcc3f064-9eee-44c1-b409-f6df242a3496",
-   "title": {
-    "en": "Heart Gear"
-   },
-   "contentRating": "safe",
-   "score": 0.13515322,
-   "languages": [
+    "fr",
+    "pl",
     "id",
-    "en",
     "es-la",
-    "vi",
     "pt-br",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "4c408bb7-4207-44f2-a953-b08936eef9a8",
-   "title": {
-    "en": "Macross 7th Chord"
-   },
-   "contentRating": "safe",
-   "score": 0.13433132,
-   "languages": [
     "en",
-    "es-la"
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:12+00:00"
+ "updatedAt": "2023-12-10T18:25:38+00:00"
 }

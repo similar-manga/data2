@@ -6,12 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "81e440d1-8b48-4b15-a030-4b376ba26b6c",
+   "title": {
+    "en": "Kikenai Yoru wa Nai"
+   },
+   "contentRating": "safe",
+   "score": 0.25852838,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
    "title": {
     "en": "Sorairo Square."
    },
    "contentRating": "safe",
    "score": 0.25509605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "c8e3ef99-430a-4ac5-8a38-8907f4048494",
+   "title": {
+    "en": "Dark Twilight Sanctuary"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
    "languages": [
     "en"
    ]
@@ -28,12 +62,46 @@
    ]
   },
   {
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
+   "title": {
+    "en": "Anata ga Shitekurenakute mo"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "25febdc9-da45-43c1-b347-70df711fc43b",
    "title": {
     "en": "Kurashi no Izumi"
    },
    "contentRating": "safe",
-   "score": 0.23322806,
+   "score": 0.23314853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e1e9e826-96b3-4e1c-baf2-7f33a69f598b",
+   "title": {
+    "en": "The Chef"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
+   "title": {
+    "en": "Under the Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
    "languages": [
     "en"
    ]
@@ -44,23 +112,11 @@
     "en": "Golondrina"
    },
    "contentRating": "safe",
-   "score": 0.22889078,
+   "score": 0.22906114,
    "languages": [
     "pl",
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "350257d7-4535-4cc7-b83b-1c0c5cb06557",
-   "title": {
-    "en": "See you soon."
-   },
-   "contentRating": "safe",
-   "score": 0.22361092,
-   "languages": [
-    "hu",
-    "en"
    ]
   },
   {
@@ -69,22 +125,21 @@
     "en": "Monbushou Chokuzoku no Satsuriku Heiki"
    },
    "contentRating": "safe",
-   "score": 0.22214288,
+   "score": 0.22562498,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "03c9078a-0730-4637-bb3f-339a226ae3ac",
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
    "title": {
-    "en": "Kaiji Gaiden"
+    "en": "Takaga Tasogare"
    },
    "contentRating": "safe",
-   "score": 0.2217259,
+   "score": 0.2212552,
    "languages": [
-    "en",
-    "ru",
-    "pt-br"
+    "it",
+    "en"
    ]
   },
   {
@@ -93,111 +148,50 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.2203591,
+   "score": 0.21807909,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
+   "id": "010a2e68-b80f-4546-a146-54406544b4dc",
    "title": {
-    "en": "Deep Love - Real"
+    "en": "Yoru no Manimani"
+   },
+   "contentRating": "safe",
+   "score": 0.2171857,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "03c9078a-0730-4637-bb3f-339a226ae3ac",
+   "title": {
+    "en": "Kaiji Gaiden"
+   },
+   "contentRating": "safe",
+   "score": 0.21712045,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e6406d41-b31f-41a0-b985-22c496c50762",
+   "title": {
+    "en": "Mame Coordinate"
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
-   "title": {
-    "en": "Nineteen"
-   },
-   "contentRating": "safe",
-   "score": 0.2139012,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd54a429-ea24-469f-b4c0-23eaa76a6e5d",
-   "title": {
-    "en": "Love Letter"
-   },
-   "contentRating": "safe",
-   "score": 0.21181513,
-   "languages": [
-    "tr",
-    "ca",
-    "fa",
-    "fr",
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0bd1bde1-0975-4308-ba12-aea13dba5dd0",
-   "title": {
-    "en": "Blood Alone"
-   },
-   "contentRating": "safe",
-   "score": 0.20345353,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "1f166f50-5e4e-4a4a-8863-4ac4e7e5da50",
-   "title": {
-    "en": "The Day I Became My Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.19976333,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "53af0017-83cb-41e7-97eb-25bba200940d",
-   "title": {
-    "en": "Last One"
-   },
-   "contentRating": "safe",
-   "score": 0.19636227,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "a37d2a4a-6caa-4ff3-84fe-f137f97b207c",
-   "title": {
-    "ja-ro": "Alma-chan wa Kazoku ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.19503519,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "518faa34-1e7c-4424-b93e-66203d85f00b",
-   "title": {
-    "en": "Pact"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:22+00:00"
+ "updatedAt": "2023-12-10T18:23:33+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1727175e-da36-4469-ae2e-5dc14a7a269a",
+   "title": {
+    "en": "My Little Bookstore"
+   },
+   "contentRating": "safe",
+   "score": 0.6191598,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5cb76f8b-602f-4c3a-b70f-64c1a6dbcc56",
    "title": {
     "en": "Book-bound Battle"
    },
    "contentRating": "safe",
-   "score": 0.2863918,
+   "score": 0.28268602,
    "languages": [
     "en"
    ]
@@ -22,21 +33,32 @@
     "en": "Night Bookstore"
    },
    "contentRating": "safe",
-   "score": 0.24259065,
+   "score": 0.23783337,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c8bdb9c4-64ad-42a7-b23d-24550cd6ff61",
+   "id": "8cf8d10f-7a81-4e70-8cd3-d64e485f1c0c",
    "title": {
-    "en": "21h19min19s"
+    "en": "I Became a Genius Salesman"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.23722936,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7b8446e7-9905-43d7-a826-a646bdbf60f9",
+   "title": {
+    "en": "Our House is a Haunted Rental Bookstore"
+   },
+   "contentRating": "safe",
+   "score": 0.22347672,
    "languages": [
     "en",
-    "fr"
+    "es"
    ]
   },
   {
@@ -56,15 +78,51 @@
    ]
   },
   {
+   "id": "c8bdb9c4-64ad-42a7-b23d-24550cd6ff61",
+   "title": {
+    "en": "21h19min19s"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "5285a32d-3a95-43e9-b2aa-fd7def64f824",
    "title": {
     "en": "BaDoom"
    },
    "contentRating": "safe",
-   "score": 0.21440685,
+   "score": 0.21370728,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "d42ac71c-dab2-4e51-83af-b461d6be3169",
+   "title": {
+    "en": "Karakida-ke no Kosho Gurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2091195,
+   "languages": [
+    "zh",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "09219153-8c84-4bfb-ba7a-b782f7f3dcbb",
+   "title": {
+    "en": "Alphabet[a]"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -73,7 +131,7 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.2142068,
+   "score": 0.20808935,
    "languages": [
     "de",
     "en",
@@ -99,7 +157,7 @@
     "en": "Perman"
    },
    "contentRating": "safe",
-   "score": 0.18301064,
+   "score": 0.18218394,
    "languages": [
     "en"
    ]
@@ -110,18 +168,7 @@
     "en": "Salted Fish Flying on the Road"
    },
    "contentRating": "safe",
-   "score": 0.18082014,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a397c8b4-28c2-4b0e-a8a0-f2a5faadb3ab",
-   "title": {
-    "en": "The Tale of the Antique Dealer: An Uramachi Sakaba Side Story"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
+   "score": 0.17857954,
    "languages": [
     "en"
    ]
@@ -135,30 +182,6 @@
    "score": 0.17142858,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c8da884e-b4a3-400a-b34c-cd36fa3305a2",
-   "title": {
-    "en": "Me ×2"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9b6e214-d809-4dfc-b72b-a3a4aa43a8e7",
-   "title": {
-    "en": "The Dark Archaeologist and the Guard"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en",
-    "id",
-    "fr"
    ]
   },
   {
@@ -179,35 +202,7 @@
     "ar",
     "fr"
    ]
-  },
-  {
-   "id": "7339adb1-7370-477b-80fb-989629a4cb83",
-   "title": {
-    "en": "Of Machines and Beasts"
-   },
-   "contentRating": "safe",
-   "score": 0.17036709,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "cb217579-43e6-4510-b38d-e28f3e907b93",
-   "title": {
-    "en": "Trace of Doomsday"
-   },
-   "contentRating": "safe",
-   "score": 0.17036709,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:08+00:00"
+ "updatedAt": "2023-12-10T18:14:59+00:00"
 }

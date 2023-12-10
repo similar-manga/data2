@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8734fee2-6552-4cef-acf5-9709d2f6c87d",
+   "title": {
+    "en": "Mantra"
+   },
+   "contentRating": "safe",
+   "score": 0.4360782
+  },
+  {
    "id": "fc5c1033-19d9-41ad-baf6-67bb7142e470",
    "title": {
     "en": "Shishosei"
@@ -27,7 +35,26 @@
     "en": "Chang'an Fantastic Night"
    },
    "contentRating": "safe",
-   "score": 0.25245583,
+   "score": 0.2532074,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3c6e95ed-d813-428b-8cf6-02a214fe621d",
+   "title": {
+    "en": "Doku Otome: Taishou Seikei Kikan"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473
+  },
+  {
+   "id": "75258695-9083-4e45-b16a-2caff499cb56",
+   "title": {
+    "en": "Sooper Spooky"
+   },
+   "contentRating": "safe",
+   "score": 0.24271744,
    "languages": [
     "en"
    ]
@@ -41,12 +68,28 @@
    "score": 0.23847859
   },
   {
+   "id": "fcc600ad-2a6e-4883-82af-2885cf1dafe3",
+   "title": {
+    "en": "Ajari Souun Reigen Kai Shimatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.235788
+  },
+  {
    "id": "a4d737c4-529d-4eb4-aaf2-51b1dbb77f60",
    "title": {
     "en": "The Story of Liechtenstein"
    },
    "contentRating": "safe",
-   "score": 0.2337949
+   "score": 0.23438318
+  },
+  {
+   "id": "cf50c737-4683-4363-a847-0d142b0780b1",
+   "title": {
+    "en": "Kobayashi Shounen to Futei no Kaijin"
+   },
+   "contentRating": "safe",
+   "score": 0.2312392
   },
   {
    "id": "711c7ca2-e528-4f9a-bc7b-936075cdc0ed",
@@ -54,7 +97,7 @@
     "en": "House of Riddles"
    },
    "contentRating": "safe",
-   "score": 0.22405624,
+   "score": 0.22372329,
    "languages": [
     "en"
    ]
@@ -65,22 +108,36 @@
     "en": "Gekkou -the lunatic-"
    },
    "contentRating": "safe",
-   "score": 0.22389013,
+   "score": 0.2234721,
    "languages": [
     "zh"
    ]
   },
   {
-   "id": "a7283edb-9542-4ada-aaf7-a63f6d471e71",
+   "id": "d9da4c37-3db7-4b89-be0b-3b25abe104c7",
    "title": {
-    "en": "Ephemeral"
+    "en": "Keishichou Soushi -Fuutarou Meiji Gekijou-"
    },
    "contentRating": "safe",
-   "score": 0.21762997,
+   "score": 0.22000645
+  },
+  {
+   "id": "2cebfd95-76d0-46c0-b843-0d930b8cddb0",
+   "title": {
+    "en": "Tenshi ga Nozokimi: Eikoku Kizoku to Ryoumin-tachi no Himitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.2188874
+  },
+  {
+   "id": "8a11b40e-2b3b-4445-ab51-5019cfce5ee6",
+   "title": {
+    "en": "Detective Lady"
+   },
+   "contentRating": "safe",
+   "score": 0.21762106,
    "languages": [
-    "pl",
-    "tr",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -89,73 +146,8 @@
     "en": "Ravenend no Hitobito"
    },
    "contentRating": "safe",
-   "score": 0.21750595
-  },
-  {
-   "id": "c7479612-d93d-4520-8423-c644f0f0f23b",
-   "title": {
-    "en": "The Dreaming"
-   },
-   "contentRating": "safe",
-   "score": 0.21441364,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "88fc9af8-da45-4450-9031-1b8cada2ffdc",
-   "title": {
-    "en": "Cassandra"
-   },
-   "contentRating": "safe",
-   "score": 0.21077205,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "79a569a8-32d4-4d94-a180-2fcf399b0851",
-   "title": {
-    "en": "KAFKA: Fukashigi na Jikenbo"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853
-  },
-  {
-   "id": "e3e12108-c2b0-4db2-856f-7452c258a2d6",
-   "title": {
-    "en": "King's Room"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853
-  },
-  {
-   "id": "e7685ec4-1bc9-4417-bf08-270164d3dad4",
-   "title": {
-    "en": "Night Actors"
-   },
-   "contentRating": "safe",
-   "score": 0.20588784,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0ed1f30-7258-4cbc-ac80-01826967ab8d",
-   "title": {
-    "en": "Roar: Naraku no Heroine"
-   },
-   "contentRating": "safe",
-   "score": 0.20406336
-  },
-  {
-   "id": "6e4cad01-fd44-4174-85d8-10b73ff7f787",
-   "title": {
-    "en": "Tokyo Salad Bowl"
-   },
-   "contentRating": "safe",
-   "score": 0.20334262
+   "score": 0.21733586
   }
  ],
- "updatedAt": "2023-12-10T01:08:55+00:00"
+ "updatedAt": "2023-12-10T18:32:54+00:00"
 }

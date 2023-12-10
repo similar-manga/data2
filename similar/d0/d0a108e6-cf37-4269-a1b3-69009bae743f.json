@@ -6,27 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
-   "title": {
-    "en": "bit by bit"
-   },
-   "contentRating": "safe",
-   "score": 0.36432904,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "cc1a424c-0fe3-475a-a05c-d678576340c8",
    "title": {
     "en": "\"Hajimete\" Ageru!"
    },
    "contentRating": "safe",
-   "score": 0.3634914,
+   "score": 0.36375096,
    "languages": [
     "pl",
     "en",
     "ro"
+   ]
+  },
+  {
+   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
+   "title": {
+    "en": "bit by bit"
+   },
+   "contentRating": "safe",
+   "score": 0.3621742,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.35075322,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -35,18 +46,7 @@
     "en": "Cinderella Lesson"
    },
    "contentRating": "safe",
-   "score": 0.3578972,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
-   "title": {
-    "en": "Daruma no Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.3340784,
+   "score": 0.34824675,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Oishii Kimi List"
    },
    "contentRating": "safe",
-   "score": 0.333335,
+   "score": 0.336403,
    "languages": [
     "fr",
     "en"
@@ -69,7 +69,18 @@
     "en": "Hajimete no Koi no Sodatekata"
    },
    "contentRating": "safe",
-   "score": 0.332828,
+   "score": 0.33606452,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
+   "title": {
+    "en": "Daruma no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.33310053,
    "languages": [
     "en"
    ]
@@ -80,22 +91,11 @@
     "en": "Enren Lover"
    },
    "contentRating": "safe",
-   "score": 0.33235833,
+   "score": 0.33163804,
    "languages": [
     "pl",
     "ca",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "a1102449-1b47-479f-8968-99023b9c5d30",
-   "title": {
-    "en": "Onkochisin na Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.32781228,
-   "languages": [
     "en"
    ]
   },
@@ -105,7 +105,7 @@
     "en": "Spring One Year Later"
    },
    "contentRating": "safe",
-   "score": 0.32718894,
+   "score": 0.3264111,
    "languages": [
     "en"
    ]
@@ -116,7 +116,7 @@
     "en": "Futsu Hyakkei"
    },
    "contentRating": "safe",
-   "score": 0.32037902,
+   "score": 0.3190169,
    "languages": [
     "en"
    ]
@@ -127,11 +127,22 @@
     "en": "Tokubetsu ni Naritai"
    },
    "contentRating": "safe",
-   "score": 0.31989148,
+   "score": 0.318785,
    "languages": [
     "en",
     "th",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a1102449-1b47-479f-8968-99023b9c5d30",
+   "title": {
+    "en": "Onkochisin na Kanojo"
+   },
+   "contentRating": "safe",
+   "score": 0.3173565,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -140,7 +151,7 @@
     "en": "Daikyou Enmusubi"
    },
    "contentRating": "safe",
-   "score": 0.316835,
+   "score": 0.3158199,
    "languages": [
     "pl",
     "en",
@@ -153,7 +164,7 @@
     "en": "Hirahira to Gunjou"
    },
    "contentRating": "safe",
-   "score": 0.3162633,
+   "score": 0.31546387,
    "languages": [
     "pt-br",
     "en",
@@ -167,7 +178,7 @@
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.31081003,
+   "score": 0.3105284,
    "languages": [
     "pt-br",
     "en"
@@ -179,27 +190,11 @@
     "en": "Kirihara Mika no Yuuutsu"
    },
    "contentRating": "safe",
-   "score": 0.30740157,
+   "score": 0.3064925,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d3e1b39d-8727-472d-b4b0-5c01c94cc370",
-   "title": {
-    "en": "The Sound of Something New"
-   },
-   "contentRating": "safe",
-   "score": 0.30606285,
-   "languages": [
-    "id",
-    "fr",
-    "es-la",
-    "pt-br",
-    "en",
-    "he"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:22+00:00"
+ "updatedAt": "2023-12-10T18:31:28+00:00"
 }

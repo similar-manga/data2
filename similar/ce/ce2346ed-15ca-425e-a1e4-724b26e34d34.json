@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f731427c-4101-4763-8ef4-dfc82212182e",
+   "title": {
+    "en": "Kodomo Gakkyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.29548877,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "248807b9-f596-4f87-820c-407b175fe8cc",
    "title": {
     "en": "God Bless the Mistaken"
@@ -18,15 +29,47 @@
    ]
   },
   {
+   "id": "3dda9dc7-be06-4f27-af07-670786ceee4e",
+   "title": {
+    "en": "Shibuya Near Family"
+   },
+   "contentRating": "safe",
+   "score": 0.27196306,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a43509ba-f5a9-4a41-b693-0674e7709dc6",
+   "title": {
+    "en": "Non-Special Day"
+   },
+   "contentRating": "safe",
+   "score": 0.2684154,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "489888be-8d95-4dae-bf93-f8e3edb58b48",
    "title": {
     "en": "Maison de Pilote"
    },
    "contentRating": "safe",
-   "score": 0.26823297,
+   "score": 0.26719835,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "107309fe-b9d7-4c27-a201-81fd46cebb1b",
+   "title": {
+    "en": "Lunatic Nightmare -TYPE-MOON Masterpiece Selection-"
+   },
+   "contentRating": "safe",
+   "score": 0.26402286
   },
   {
    "id": "e242133d-3fef-4d68-a3cc-fbb198170863",
@@ -34,7 +77,7 @@
     "en": "Aka Pro!!! - Akarui Sanshimai Project"
    },
    "contentRating": "safe",
-   "score": 0.26538777,
+   "score": 0.2630612,
    "languages": [
     "en",
     "uk"
@@ -46,7 +89,23 @@
     "en": "Marude Dameo"
    },
    "contentRating": "safe",
-   "score": 0.26316842
+   "score": 0.26194865
+  },
+  {
+   "id": "d1b3a74b-071c-4a24-8ae1-994c9e031061",
+   "title": {
+    "en": "Bon Bon"
+   },
+   "contentRating": "safe",
+   "score": 0.2526343
+  },
+  {
+   "id": "014f6923-acfe-4104-95a3-9d84fbdb71b5",
+   "title": {
+    "en": "Yoiko"
+   },
+   "contentRating": "safe",
+   "score": 0.25052777
   },
   {
    "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
@@ -54,11 +113,33 @@
     "en": "Miyakawa-ke no Kuufuku"
    },
    "contentRating": "safe",
-   "score": 0.25104415,
+   "score": 0.25001037,
    "languages": [
     "en",
     "it",
     "pt-br"
+   ]
+  },
+  {
+   "id": "c948484d-7c1f-413e-afc2-94de8a920b1d",
+   "title": {
+    "en": "Obaa-chan to Game"
+   },
+   "contentRating": "safe",
+   "score": 0.24842311,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2a9c293f-9513-40ed-ae1b-fe84221ada28",
+   "title": {
+    "en": "Shiro to Kujira"
+   },
+   "contentRating": "safe",
+   "score": 0.24756445,
+   "languages": [
+    "zh"
    ]
   },
   {
@@ -87,91 +168,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d7800fc7-1015-4742-9c74-c7879f11f82d",
-   "title": {
-    "en": "Marude Dameo (Comic BONBON)"
-   },
-   "contentRating": "safe",
-   "score": 0.24229899
-  },
-  {
-   "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
-   "title": {
-    "en": "Ikusaba Animation"
-   },
-   "contentRating": "safe",
-   "score": 0.2407516,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "df5821b1-4000-4d5f-a444-f1c1f6e7abf6",
-   "title": {
-    "en": "Try! Try! Try!"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "tr"
-   ]
-  },
-  {
-   "id": "840ebe1f-d1a5-4205-9dd0-58124bdda8f7",
-   "title": {
-    "en": "Ichigo Mashimaro"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "pl",
-    "en",
-    "es-la",
-    "zh-hk",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "beb8ef7c-67de-47c9-8c76-3e90db2b86f4",
-   "title": {
-    "en": "Zannen Hakase"
-   },
-   "contentRating": "safe",
-   "score": 0.22222224
-  },
-  {
-   "id": "0580c34c-9f37-405f-b437-d846598b7355",
-   "title": {
-    "en": "Sayori's Parallel"
-   },
-   "contentRating": "safe",
-   "score": 0.22196838
-  },
-  {
-   "id": "6130f038-0c1c-479c-a9f0-9d3cb453ceb1",
-   "title": {
-    "en": "Kawaisugi Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57172578-6ac7-405c-bf38-b7109beee935",
-   "title": {
-    "en": "Ultra Flying Kaiju Land!"
-   },
-   "contentRating": "safe",
-   "score": 0.2201895
   }
  ],
- "updatedAt": "2023-12-10T01:08:16+00:00"
+ "updatedAt": "2023-12-10T18:31:12+00:00"
 }

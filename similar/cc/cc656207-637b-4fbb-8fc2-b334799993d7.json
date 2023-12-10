@@ -11,7 +11,7 @@
     "en": "The Frog Boy: The Haunting of the Toad"
    },
    "contentRating": "safe",
-   "score": 0.6418913
+   "score": 0.64131373
   },
   {
    "id": "05efb37a-ff88-4e90-858e-ffa801410d5d",
@@ -19,20 +19,32 @@
     "en": "Zoids Genesis"
    },
    "contentRating": "safe",
-   "score": 0.39661336
+   "score": 0.38649663
   },
   {
-   "id": "51bbb771-ded1-4d00-b403-666d41a109a9",
+   "id": "0f7ce666-8834-4386-ae7f-e13f560c9425",
    "title": {
-    "en": "Scary Cat"
+    "en": "Nyaight of the Living Cat"
    },
    "contentRating": "safe",
-   "score": 0.2851258
+   "score": 0.31906268,
+   "languages": [
+    "ru",
+    "vi"
+   ]
   },
   {
    "id": "3b6e0aa9-f395-4f97-88ed-87036ec77e11",
    "title": {
     "en": "The Black Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
+   "id": "51bbb771-ded1-4d00-b403-666d41a109a9",
+   "title": {
+    "en": "Scary Cat"
    },
    "contentRating": "safe",
    "score": 0.2851258
@@ -51,7 +63,7 @@
     "en": "Invitation to Hell"
    },
    "contentRating": "safe",
-   "score": 0.27781498
+   "score": 0.27429035
   },
   {
    "id": "864d3e66-7f7b-40ba-88b9-497ce470cb1a",
@@ -60,6 +72,14 @@
    },
    "contentRating": "safe",
    "score": 0.24692619
+  },
+  {
+   "id": "0c3f5216-4598-4b8c-9b29-3fbf2a0ffc7b",
+   "title": {
+    "en": "Vampire Spider"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
   },
   {
    "id": "25937d78-d7a2-4502-b064-68c76c0b8bec",
@@ -78,12 +98,12 @@
    "score": 0.23809525
   },
   {
-   "id": "ed8ca44a-14ac-4ae1-827e-4a03b9791f2b",
+   "id": "1c11a25c-d665-4e05-9eae-ccf5c9a6c581",
    "title": {
-    "en": "The Legend of Zelda: Ocarina of Time (Hyper CoroCoro)"
+    "en": "Skull spider Wriggling in the Darkness"
    },
    "contentRating": "safe",
-   "score": 0.2282996
+   "score": 0.23809525
   },
   {
    "id": "8ec03e03-ef79-4df8-8c18-482955e6577a",
@@ -91,7 +111,7 @@
     "en": "Momotaro Infiltration"
    },
    "contentRating": "safe",
-   "score": 0.22394943
+   "score": 0.22680119
   },
   {
    "id": "8b170d91-2f58-4a69-b0fb-fad324706912",
@@ -99,54 +119,27 @@
     "en": "My Two Mommies"
    },
    "contentRating": "safe",
-   "score": 0.21695122,
+   "score": 0.21538283,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e15cdd9e-9444-4b3a-968a-e7fb20cf8da5",
+   "id": "ed8ca44a-14ac-4ae1-827e-4a03b9791f2b",
    "title": {
-    "en": "Toy Paradise"
+    "en": "The Legend of Zelda: Ocarina of Time (Hyper CoroCoro)"
    },
    "contentRating": "safe",
-   "score": 0.20931605,
-   "languages": [
-    "en",
-    "fr"
-   ]
+   "score": 0.21344164
   },
   {
-   "id": "0424a8a4-500d-4ba1-b7cf-214ae7792136",
+   "id": "86df1856-f618-457b-ae01-5847ed79e583",
    "title": {
-    "en": "with CAT"
+    "en": "Revival! Cyborg Kuro-chan Gatling Selection"
    },
    "contentRating": "safe",
-   "score": 0.20651631,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "3da73784-468b-4f5f-82d6-13b30e7e9c15",
-   "title": {
-    "en": "Tonky's Story"
-   },
-   "contentRating": "safe",
-   "score": 0.20006485
-  },
-  {
-   "id": "c26656ba-9f0a-47bc-b95b-facfcd86840c",
-   "title": {
-    "en": "Survival of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21160954
   }
  ],
- "updatedAt": "2023-12-10T01:08:11+00:00"
+ "updatedAt": "2023-12-10T18:31:01+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.40585962,
+   "score": 0.40434796,
    "languages": [
     "en",
     "tr"
@@ -23,7 +23,7 @@
     "en": "Gomora-chan"
    },
    "contentRating": "safe",
-   "score": 0.2594865,
+   "score": 0.2589385,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Kinnikuman Jump"
    },
    "contentRating": "safe",
-   "score": 0.24873868,
+   "score": 0.24803507,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Armados"
    },
    "contentRating": "safe",
-   "score": 0.24222675,
+   "score": 0.24387884,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Magazine Boys' Valentine!"
    },
    "contentRating": "safe",
-   "score": 0.24138394,
+   "score": 0.24055067,
    "languages": [
     "fr",
     "en"
@@ -68,8 +68,20 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.23874584,
+   "score": 0.24046664,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c329dd29-c760-4d53-8871-cc780873d5ee",
+   "title": {
+    "en": "Joze, the Faithful Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.23716944,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -79,7 +91,7 @@
     "en": "Asagaya Geijutu Koukou Eizouka e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.23704603,
+   "score": 0.23692538,
    "languages": [
     "ru",
     "en",
@@ -87,15 +99,26 @@
    ]
   },
   {
-   "id": "c329dd29-c760-4d53-8871-cc780873d5ee",
+   "id": "df366369-53f2-462a-bcd9-5dd932df2dc4",
    "title": {
-    "en": "Joze, the Faithful Dog"
+    "en": "People Are Free to Think of What They Want -Her Anger Management-"
    },
    "contentRating": "safe",
-   "score": 0.23662625,
+   "score": 0.23328476,
    "languages": [
-    "fr",
     "en"
+   ]
+  },
+  {
+   "id": "eeb46920-bef3-4065-ae62-d2c11b152575",
+   "title": {
+    "en": "Nonverbal"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -124,6 +147,18 @@
    ]
   },
   {
+   "id": "e5bf6c64-e9e3-4e87-97a2-2d4eaa51bfee",
+   "title": {
+    "en": "Yankee-kun na Yamada-kun to Megane-chan to Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ca",
+    "en"
+   ]
+  },
+  {
    "id": "434b37d0-b96c-40b8-8f74-132e72859c36",
    "title": {
     "en": "Nekura Musume to Internet"
@@ -136,25 +171,14 @@
    ]
   },
   {
-   "id": "df366369-53f2-462a-bcd9-5dd932df2dc4",
+   "id": "4c26ce69-f83b-412a-8648-569f1d35aa4a",
    "title": {
-    "en": "People Are Free to Think of What They Want -Her Anger Management-"
+    "en": "Ren-Chin Girl"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e5bf6c64-e9e3-4e87-97a2-2d4eaa51bfee",
-   "title": {
-    "en": "Yankee-kun na Yamada-kun to Megane-chan to Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "ca",
+    "es-la",
     "en"
    ]
   },
@@ -171,31 +195,7 @@
     "ca",
     "en"
    ]
-  },
-  {
-   "id": "eeb46920-bef3-4065-ae62-d2c11b152575",
-   "title": {
-    "en": "Nonverbal"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "184cdbab-e7f3-4970-bcca-878504889d6f",
-   "title": {
-    "en": "Forest Bear"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "ro"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:44+00:00"
+ "updatedAt": "2023-12-10T18:32:24+00:00"
 }

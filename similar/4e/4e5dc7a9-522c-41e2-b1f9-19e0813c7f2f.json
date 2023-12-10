@@ -6,14 +6,44 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e13620e7-98d7-4316-9ccd-3c624be455af",
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
    "title": {
-    "en": "Cha Cha Cha"
+    "en": "Hirayasumi"
    },
    "contentRating": "safe",
-   "score": 0.2758064,
+   "score": 0.28620446,
+   "languages": [
+    "ar",
+    "uk",
+    "en",
+    "tr",
+    "it",
+    "pt-br",
+    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "476498bc-6aea-41ce-932a-49b5f0213fd7",
+   "title": {
+    "en": "Between"
+   },
+   "contentRating": "safe",
+   "score": 0.28484643,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4bd6fce8-b276-4a42-b925-2059e7cf5202",
+   "title": {
+    "en": "Who Killed The Rabbit?"
+   },
+   "contentRating": "safe",
+   "score": 0.27793175,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -22,7 +52,7 @@
     "en": "Hanirabi!"
    },
    "contentRating": "safe",
-   "score": 0.27556297,
+   "score": 0.27553013,
    "languages": [
     "ro",
     "en",
@@ -31,14 +61,82 @@
    ]
   },
   {
+   "id": "e13620e7-98d7-4316-9ccd-3c624be455af",
+   "title": {
+    "en": "Cha Cha Cha"
+   },
+   "contentRating": "safe",
+   "score": 0.27458924,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+   "title": {
+    "en": "Madoromi Barmaid"
+   },
+   "contentRating": "safe",
+   "score": 0.26896003,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "c7ab2ddd-5899-4d44-9c84-1958f2ea3858",
+   "title": {
+    "en": "Welcome to Cafe Schrödinger"
+   },
+   "contentRating": "safe",
+   "score": 0.26777747,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ebfcc465-c7d0-4285-88e4-233b1e4ff932",
    "title": {
     "en": "Dr. Rabbit"
    },
    "contentRating": "safe",
-   "score": 0.2619841,
+   "score": 0.2630694,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "652c74f2-67fa-492f-85a7-38e6b27186f2",
+   "title": {
+    "en": "Semimaru Zanjitsuroku"
+   },
+   "contentRating": "safe",
+   "score": 0.2594931,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5ad82f6a-4898-4f5b-ae0d-f1cc42f1a031",
+   "title": {
+    "en": "Kakeau Tsukihi"
+   },
+   "contentRating": "safe",
+   "score": 0.2572242,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57251354-9a01-49bd-8126-b8bed45b5dd8",
+   "title": {
+    "en": "Ashita Mata, Kono Sekai De"
+   },
+   "contentRating": "safe",
+   "score": 0.25536057,
+   "languages": [
     "en"
    ]
   },
@@ -54,142 +152,49 @@
    ]
   },
   {
-   "id": "c09971b9-0a6c-47cf-a566-41f3c6fe575f",
+   "id": "9f4a619a-9f5d-484b-93b4-d822a505c573",
    "title": {
-    "en": "Atashin'chi"
+    "en": "Ingress GO"
    },
    "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "de",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
-   "title": {
-    "en": "Café Velomano"
-   },
-   "contentRating": "safe",
-   "score": 0.24882504,
+   "score": 0.25509605,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5accdd22-7ef4-4f7a-8681-a0a620ff4168",
+   "id": "1e2278b9-bf4e-40bf-bc3d-02e6a7e071f2",
    "title": {
-    "en": "Wakako-Zake"
+    "en": "Wo Bei Zongcai hei shangle!"
    },
    "contentRating": "safe",
-   "score": 0.23031656,
+   "score": 0.25509605,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d070b3f4-edb5-4064-bdcc-f70269e122e7",
+   "id": "05aa9a87-506c-45f9-a880-64654951b60c",
    "title": {
-    "en": "Battle Rabbits"
+    "en": "Though I didn't prepare much"
    },
    "contentRating": "safe",
-   "score": 0.22644478,
+   "score": 0.25509605,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f09f5515-dec7-434f-b38e-dc3bba107efb",
+   "id": "6467c779-7645-45b3-8089-7049446457a1",
    "title": {
-    "en": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita"
+    "en": "Yichan: The Little Monk"
    },
    "contentRating": "safe",
-   "score": 0.2264362,
+   "score": 0.25509605,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "31902210-8ad9-4c58-acec-220e357b3bc8",
-   "title": {
-    "en": "Harta Cover Stories"
-   },
-   "contentRating": "safe",
-   "score": 0.22540197,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "94c7c216-8925-4625-9f04-447cb434ac42",
-   "title": {
-    "en": "Ikioku - The Cooler Half"
-   },
-   "contentRating": "safe",
-   "score": 0.22384603,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37c9174a-2cf5-4baf-a784-68f1df28b049",
-   "title": {
-    "en": "Running Man"
-   },
-   "contentRating": "safe",
-   "score": 0.21953571,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e242133d-3fef-4d68-a3cc-fbb198170863",
-   "title": {
-    "en": "Aka Pro!!! - Akarui Sanshimai Project"
-   },
-   "contentRating": "safe",
-   "score": 0.21857698,
-   "languages": [
-    "en",
-    "uk"
-   ]
-  },
-  {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
-   "title": {
-    "en": "Say Love"
-   },
-   "contentRating": "safe",
-   "score": 0.21845917,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53236043-6250-45ad-b6c1-852a85fdf4f4",
-   "title": {
-    "en": "Momokan"
-   },
-   "contentRating": "safe",
-   "score": 0.21807669,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "183fa2fa-9034-4188-9c94-9858434f8b8d",
-   "title": {
-    "en": "School in the Wild"
-   },
-   "contentRating": "safe",
-   "score": 0.21800606,
-   "languages": [
-    "en",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:49+00:00"
+ "updatedAt": "2023-12-10T18:16:46+00:00"
 }

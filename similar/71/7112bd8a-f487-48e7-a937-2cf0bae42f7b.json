@@ -11,7 +11,7 @@
     "en": "Koibito Asobi"
    },
    "contentRating": "safe",
-   "score": 0.42092502,
+   "score": 0.42466867,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Lens no Mukou"
    },
    "contentRating": "safe",
-   "score": 0.32853177,
+   "score": 0.329564,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "For You, My Beloved"
    },
    "contentRating": "safe",
-   "score": 0.31020364,
+   "score": 0.30971986,
    "languages": [
     "en"
    ]
@@ -44,22 +44,11 @@
     "en": "Melon Soda and Vanilla Ice Cream"
    },
    "contentRating": "safe",
-   "score": 0.29423323,
+   "score": 0.29287213,
    "languages": [
     "ru",
     "uk",
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "082b320c-e18d-4bdd-a45a-255b3a69b3f7",
-   "title": {
-    "en": "Kiri no Mori Hotel"
-   },
-   "contentRating": "safe",
-   "score": 0.2847169,
-   "languages": [
     "en"
    ]
   },
@@ -69,11 +58,22 @@
     "en": "Netsu wo Obiru Veil"
    },
    "contentRating": "safe",
-   "score": 0.28382835,
+   "score": 0.29150066,
    "languages": [
     "th",
     "es-la",
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "082b320c-e18d-4bdd-a45a-255b3a69b3f7",
+   "title": {
+    "en": "Kiri no Mori Hotel"
+   },
+   "contentRating": "safe",
+   "score": 0.2866659,
+   "languages": [
     "en"
    ]
   },
@@ -91,17 +91,15 @@
    ]
   },
   {
-   "id": "a1551ed7-dd4a-4f8e-a61c-b65ef1c20a91",
+   "id": "3e342d67-2c50-4c1f-b872-7831eb9c48d2",
    "title": {
-    "en": "Silent Snow"
+    "en": "A Cruel God"
    },
    "contentRating": "safe",
    "score": 0.28382835,
    "languages": [
-    "ko",
-    "en",
-    "fr",
-    "es"
+    "tr",
+    "en"
    ]
   },
   {
@@ -117,15 +115,17 @@
    ]
   },
   {
-   "id": "3e342d67-2c50-4c1f-b872-7831eb9c48d2",
+   "id": "a1551ed7-dd4a-4f8e-a61c-b65ef1c20a91",
    "title": {
-    "en": "A Cruel God"
+    "en": "Silent Snow"
    },
    "contentRating": "safe",
    "score": 0.28382835,
    "languages": [
-    "tr",
-    "en"
+    "ko",
+    "en",
+    "fr",
+    "es"
    ]
   },
   {
@@ -145,7 +145,7 @@
     "en": "To Where the Rail Goes"
    },
    "contentRating": "safe",
-   "score": 0.28211957,
+   "score": 0.28376275,
    "languages": [
     "en"
    ]
@@ -156,7 +156,7 @@
     "en": "Pai o Agemasho, Anata ni Pai o ne"
    },
    "contentRating": "safe",
-   "score": 0.28143278,
+   "score": 0.28131795,
    "languages": [
     "en"
    ]
@@ -167,7 +167,7 @@
     "en": "Hyakuoku Nengo no Kimi no Koe mo"
    },
    "contentRating": "safe",
-   "score": 0.27978328,
+   "score": 0.2796612,
    "languages": [
     "it",
     "en"
@@ -179,7 +179,7 @@
     "en": "Haru Natsu Aki Fuyu"
    },
    "contentRating": "safe",
-   "score": 0.2673872,
+   "score": 0.2665658,
    "languages": [
     "en",
     "it",
@@ -192,7 +192,7 @@
     "en": "Roundabout"
    },
    "contentRating": "safe",
-   "score": 0.2665588,
+   "score": 0.265921,
    "languages": [
     "en",
     "ko",
@@ -200,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:16+00:00"
+ "updatedAt": "2023-12-10T18:20:35+00:00"
 }

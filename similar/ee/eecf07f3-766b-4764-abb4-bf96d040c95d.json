@@ -11,7 +11,7 @@
     "en": "Wakaba Mariji"
    },
    "contentRating": "suggestive",
-   "score": 0.27097946,
+   "score": 0.26379523,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "The Unattainable Flower's Twisted Bloom"
    },
    "contentRating": "suggestive",
-   "score": 0.23705074,
+   "score": 0.23679073,
    "languages": [
     "en",
     "es-la",
@@ -36,7 +36,7 @@
     "en": "Shoujo Nyuumon"
    },
    "contentRating": "suggestive",
-   "score": 0.23256445,
+   "score": 0.23082191,
    "languages": [
     "id",
     "en"
@@ -64,22 +64,9 @@
     "en": "Remake・Relife 30-sai ni Naru to Jiyuu ni Seibetsu to Karada wo Tsukurinaoseru Sekai no Hanashi"
    },
    "contentRating": "suggestive",
-   "score": 0.22417893,
+   "score": 0.22302084,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8c701f22-8ef9-4b0d-ae4e-0e17ac3cd074",
-   "title": {
-    "en": "Nanjou-san wa Boku ni Dakaretai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22040828,
-   "languages": [
-    "en",
-    "vi",
-    "pl"
    ]
   },
   {
@@ -88,7 +75,7 @@
     "en": "Ladies versus Butlers!"
    },
    "contentRating": "suggestive",
-   "score": 0.21942571,
+   "score": 0.21921946,
    "languages": [
     "pt-br",
     "en"
@@ -100,7 +87,7 @@
     "en": "Grand Blue"
    },
    "contentRating": "suggestive",
-   "score": 0.21809287,
+   "score": 0.21885358,
    "languages": [
     "pt-br",
     "en",
@@ -114,12 +101,25 @@
    ]
   },
   {
+   "id": "8c701f22-8ef9-4b0d-ae4e-0e17ac3cd074",
+   "title": {
+    "en": "Nanjou-san wa Boku ni Dakaretai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21812956,
+   "languages": [
+    "en",
+    "vi",
+    "pl"
+   ]
+  },
+  {
    "id": "0c760cc8-24f2-429c-8b16-e72befe4e862",
    "title": {
     "en": "Maria Sensei wa Imouto Gachizei!"
    },
    "contentRating": "suggestive",
-   "score": 0.21675937,
+   "score": 0.21483685,
    "languages": [
     "en"
    ]
@@ -130,7 +130,7 @@
     "en": "Mikudashi Ibari wa Mikudashitai!"
    },
    "contentRating": "suggestive",
-   "score": 0.21354252,
+   "score": 0.21226181,
    "languages": [
     "en",
     "es-la"
@@ -142,7 +142,7 @@
     "en": "Hijiri-kun wa Kiyoku Ikitai"
    },
    "contentRating": "suggestive",
-   "score": 0.2030056,
+   "score": 0.2011577,
    "languages": [
     "es-la",
     "id",
@@ -150,35 +150,9 @@
    ]
   },
   {
-   "id": "ded54f3d-99bc-406a-bca1-4a1d4d618730",
+   "id": "e113ab5a-ae4b-47d7-9016-d8f1f5b0e654",
    "title": {
-    "en": "Yomega Kiss"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1989959,
-   "languages": [
-    "id",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "48e800b9-7dfb-4fa9-8344-eda37d555e1b",
-   "title": {
-    "en": "Hikaru to Hikaru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19896455,
-   "languages": [
-    "id",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "72e0cfc5-1163-448f-bd56-9313dd313447",
-   "title": {
-    "en": "Kujibiki Unbalance"
+    "en": "Onaidoshi no Onee-san"
    },
    "contentRating": "suggestive",
    "score": 0.19867985,
@@ -187,14 +161,43 @@
    ]
   },
   {
-   "id": "408ce531-4044-4aec-b72d-a4b4eba00366",
+   "id": "5328b7f4-0698-4cec-94a4-a558ec5dedb7",
    "title": {
-    "en": "Gampuku"
+    "en": "Cos-Chu"
    },
    "contentRating": "suggestive",
    "score": 0.19867985,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
+   "title": {
+    "en": "Tackle Shoujo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19867985,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
+   "title": {
+    "en": "The Shiunji Family Children"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19867985,
+   "languages": [
+    "pt-br",
+    "fr",
+    "es-la",
+    "ar",
+    "en",
+    "vi",
+    "ru",
+    "es"
    ]
   },
   {
@@ -211,5 +214,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:37+00:00"
+ "updatedAt": "2023-12-10T18:34:34+00:00"
 }

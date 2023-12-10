@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5df61121-3e7b-4383-89ae-387c4930b987",
+   "title": {
+    "en": "Houkago - Kindan no Lesson"
+   },
+   "contentRating": "safe",
+   "score": 0.34645084,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c98d2953-2aad-4505-abd2-97da2579bedf",
    "title": {
     "en": "12-Sai"
    },
    "contentRating": "safe",
-   "score": 0.3175985,
+   "score": 0.3132361,
    "languages": [
     "en"
    ]
@@ -22,7 +33,18 @@
     "en": "Dakara Koi to Yobanaide"
    },
    "contentRating": "safe",
-   "score": 0.2921203,
+   "score": 0.29498464,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e736596b-c8b1-4797-8f30-6c8137b3628f",
+   "title": {
+    "en": "17-sai no Real"
+   },
+   "contentRating": "safe",
+   "score": 0.29176986,
    "languages": [
     "en"
    ]
@@ -33,10 +55,23 @@
     "en": "Tsuyogari"
    },
    "contentRating": "safe",
-   "score": 0.28683928,
+   "score": 0.28757986,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "d0a49ab6-3172-4e10-bc38-a6c88c76c432",
+   "title": {
+    "en": "Dramatic Irony"
+   },
+   "contentRating": "safe",
+   "score": 0.28737482,
+   "languages": [
+    "fr",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -45,7 +80,7 @@
     "en": "Merry Go Round In Wonderland"
    },
    "contentRating": "safe",
-   "score": 0.283775,
+   "score": 0.28492975,
    "languages": [
     "en"
    ]
@@ -56,7 +91,7 @@
     "en": "Watashi no Mahoutsukai-sama"
    },
    "contentRating": "safe",
-   "score": 0.28237605,
+   "score": 0.2816183,
    "languages": [
     "en"
    ]
@@ -67,7 +102,7 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.27845678,
+   "score": 0.2797928,
    "languages": [
     "en",
     "tl"
@@ -79,7 +114,7 @@
     "en": "Hitotsu no Shigusa mo"
    },
    "contentRating": "safe",
-   "score": 0.27716097,
+   "score": 0.27883464,
    "languages": [
     "en"
    ]
@@ -90,18 +125,31 @@
     "en": "Goshimei! Host Kyoushi J"
    },
    "contentRating": "safe",
-   "score": 0.27347934,
+   "score": 0.2737143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5024b327-33b9-4f5a-923f-d07bf84d59e3",
+   "id": "39084c4c-85a1-4ca0-ac8a-c420987a00f7",
    "title": {
-    "en": "A Love Guard"
+    "en": "Territory M no Juunin"
    },
    "contentRating": "safe",
-   "score": 0.27111456,
+   "score": 0.2722827,
+   "languages": [
+    "es-la",
+    "es",
+    "fr"
+   ]
+  },
+  {
+   "id": "ae4e5ec4-9090-4cbf-9305-a53097528705",
+   "title": {
+    "en": "Sensei no Koto Ga Suki nan Desu"
+   },
+   "contentRating": "safe",
+   "score": 0.27104577,
    "languages": [
     "en"
    ]
@@ -112,18 +160,18 @@
     "en": "Viva Love You"
    },
    "contentRating": "safe",
-   "score": 0.2683339,
+   "score": 0.26769856,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ae4e5ec4-9090-4cbf-9305-a53097528705",
+   "id": "5024b327-33b9-4f5a-923f-d07bf84d59e3",
    "title": {
-    "en": "Sensei no Koto Ga Suki nan Desu"
+    "en": "A Love Guard"
    },
    "contentRating": "safe",
-   "score": 0.26808095,
+   "score": 0.2667932,
    "languages": [
     "en"
    ]
@@ -134,55 +182,11 @@
     "en": "Ko no Ren ni Namidasuru!"
    },
    "contentRating": "safe",
-   "score": 0.26580018,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1d95229d-2056-4006-8f56-eb27928297ae",
-   "title": {
-    "en": "Kiss, Zekkou, Kiss Bokura no Baai"
-   },
-   "contentRating": "safe",
-   "score": 0.26465964,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
-   "title": {
-    "en": "Butterfly in the Air"
-   },
-   "contentRating": "safe",
-   "score": 0.26360112,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
-   "title": {
-    "en": "Koi*Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.2633919,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
-   "title": {
-    "en": "Insomnia"
-   },
-   "contentRating": "safe",
-   "score": 0.26115757,
+   "score": 0.26503235,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:15+00:00"
+ "updatedAt": "2023-12-10T18:31:11+00:00"
 }

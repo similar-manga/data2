@@ -11,7 +11,7 @@
     "en": "Love Hunter Akazukin"
    },
    "contentRating": "safe",
-   "score": 0.33759275,
+   "score": 0.33623156,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "The Wolf Brothers and Little Red Riding Hood"
    },
    "contentRating": "safe",
-   "score": 0.33419567,
+   "score": 0.3313556,
    "languages": [
     "hu",
     "pl",
@@ -38,7 +38,7 @@
     "en": "Koroshiya Akazukin"
    },
    "contentRating": "safe",
-   "score": 0.2866514,
+   "score": 0.2853888,
    "languages": [
     "en",
     "hu"
@@ -65,7 +65,7 @@
     "en": "Fuseikai no Shiro Madoushi"
    },
    "contentRating": "safe",
-   "score": 0.26603585,
+   "score": 0.2644485,
    "languages": [
     "ru",
     "en"
@@ -77,7 +77,7 @@
     "en": "Koyubi-sensei’s Paranormal Challenge"
    },
    "contentRating": "safe",
-   "score": 0.25884223,
+   "score": 0.25732386,
    "languages": [
     "en"
    ]
@@ -88,7 +88,7 @@
     "en": "Atrocious Fairy Tales for Adults"
    },
    "contentRating": "safe",
-   "score": 0.25852737,
+   "score": 0.25343338,
    "languages": [
     "en"
    ]
@@ -99,7 +99,7 @@
     "en": "Fairytale,"
    },
    "contentRating": "safe",
-   "score": 0.25583914,
+   "score": 0.25275445,
    "languages": [
     "vi",
     "en"
@@ -111,20 +111,9 @@
     "en": "Snow White's Secret"
    },
    "contentRating": "safe",
-   "score": 0.25570667,
+   "score": 0.25246996,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a5b4be47-405a-41c4-9f80-54973e70dac8",
-   "title": {
-    "en": "HUNGER"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
     "en"
    ]
   },
@@ -142,12 +131,23 @@
    ]
   },
   {
+   "id": "a5b4be47-405a-41c4-9f80-54973e70dac8",
+   "title": {
+    "en": "HUNGER"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5f89025e-5792-42b6-82a4-a7a741993396",
    "title": {
     "en": "The White Witch and the Snow-Viewing Tea Party"
    },
    "contentRating": "safe",
-   "score": 0.24425201,
+   "score": 0.24342589,
    "languages": [
     "en",
     "pl",
@@ -161,7 +161,7 @@
     "en": "Noël la neige"
    },
    "contentRating": "safe",
-   "score": 0.2407667,
+   "score": 0.24029355,
    "languages": [
     "de",
     "fr",
@@ -172,9 +172,9 @@
    ]
   },
   {
-   "id": "7275875a-7713-4895-969f-a5e15186ba67",
+   "id": "b6fb4946-801d-4191-9a1d-20f9fbf99211",
    "title": {
-    "en": "Phantom Mansion"
+    "en": "Kurenai Kuraki"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -183,9 +183,9 @@
    ]
   },
   {
-   "id": "8304c70b-18ef-4d37-8d60-a9dcb951cb74",
+   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
    "title": {
-    "en": "Occult Club - Normanda the Medium's Phone"
+    "en": "Forest Breeding Farm"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -194,19 +194,19 @@
    ]
   },
   {
-   "id": "f4acaf90-ce56-415e-98a1-a409fac70978",
+   "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
    "title": {
-    "en": "Scary Manju of the Dead"
+    "en": "Fasting"
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
-    "it",
+    "es",
+    "pt-br",
     "pl",
-    "tr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:21+00:00"
+ "updatedAt": "2023-12-10T18:23:28+00:00"
 }

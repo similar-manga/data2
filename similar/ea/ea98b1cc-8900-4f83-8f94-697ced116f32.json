@@ -6,16 +6,50 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fd892499-3ef9-4c08-b35b-98221533cb24",
+   "title": {
+    "en": "Today's Hamster"
+   },
+   "contentRating": "safe",
+   "score": 0.66709894,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "916c72bf-ceaa-44a0-ab88-843f80027a69",
+   "title": {
+    "en": "Da Ji Da Li"
+   },
+   "contentRating": "safe",
+   "score": 0.42763042,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "81608566-8eb5-4ced-8902-13e2eaac0929",
    "title": {
     "en": "Sunshine Doll"
    },
    "contentRating": "safe",
-   "score": 0.39672434,
+   "score": 0.38997242,
    "languages": [
     "tr",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "ec836827-8ff5-4f88-aec5-b4382d28e6c0",
+   "title": {
+    "en": "Love War's Victory"
+   },
+   "contentRating": "safe",
+   "score": 0.31575334,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -24,7 +58,7 @@
     "en": "Boku no Petto ni Narinasai."
    },
    "contentRating": "safe",
-   "score": 0.31690782,
+   "score": 0.30845988,
    "languages": [
     "pl"
    ]
@@ -35,20 +69,41 @@
     "en": "Terrace House Dust"
    },
    "contentRating": "safe",
-   "score": 0.2851493,
+   "score": 0.2863343,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a92129b6-bc2d-488b-859b-0e4982eab386",
+   "id": "dacfcc51-9ebe-48af-b1a8-77233c1d6e4b",
    "title": {
-    "en": "Kuu-chan ga Iku!"
+    "en": "I Like How You Hate Me but Can't Get Rid of Me"
    },
    "contentRating": "safe",
-   "score": 0.26144844,
+   "score": 0.2843841,
    "languages": [
-    "hu",
+    "en"
+   ]
+  },
+  {
+   "id": "66d25a61-e290-4b6a-8975-bfdce8404bfb",
+   "title": {
+    "en": "Newlywed Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.28208,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "title": {
+    "en": "My Cat Is a Bit Different"
+   },
+   "contentRating": "safe",
+   "score": 0.27964947,
+   "languages": [
     "en"
    ]
   },
@@ -58,11 +113,58 @@
     "en": "But You’re the One Who Taught Me!"
    },
    "contentRating": "safe",
-   "score": 0.2605383,
+   "score": 0.26315293,
    "languages": [
     "en",
     "id",
     "vi"
+   ]
+  },
+  {
+   "id": "659de046-8b67-4de6-9fcb-22953268bc74",
+   "title": {
+    "en": "This Is My Home"
+   },
+   "contentRating": "safe",
+   "score": 0.26272646,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d2649191-83ad-4e05-b2b5-d48e6e75562f",
+   "title": {
+    "en": "The Salary Man \u0026 Tofu the Funny Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.26243338,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "a92129b6-bc2d-488b-859b-0e4982eab386",
+   "title": {
+    "en": "Kuu-chan ga Iku!"
+   },
+   "contentRating": "safe",
+   "score": 0.26043987,
+   "languages": [
+    "hu",
+    "en"
+   ]
+  },
+  {
+   "id": "4abaeb4f-82c4-4290-be3d-fc62fd69de0a",
+   "title": {
+    "en": "Aman's Animal Tales"
+   },
+   "contentRating": "safe",
+   "score": 0.25808495,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -71,7 +173,7 @@
     "en": "Cat Gravity"
    },
    "contentRating": "safe",
-   "score": 0.25799838,
+   "score": 0.25772506,
    "languages": [
     "en",
     "vi",
@@ -83,127 +185,16 @@
    ]
   },
   {
-   "id": "af114f0e-a4fa-4f43-ae6a-8f7f40f614cc",
+   "id": "96be7ca5-370b-4ae2-9db5-4d17e53cac06",
    "title": {
-    "en": "Veronica"
+    "en": "Hotpot Family"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "4abaeb4f-82c4-4290-be3d-fc62fd69de0a",
-   "title": {
-    "en": "Aman's Animal Tales"
-   },
-   "contentRating": "safe",
-   "score": 0.25527197,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "81c5cba7-69f2-4f9b-b00a-fbbb86603955",
-   "title": {
-    "en": "Maid-san to Obocchama"
-   },
-   "contentRating": "safe",
-   "score": 0.25259522,
-   "languages": [
-    "vi",
-    "pt-br",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "82961290-e17e-4aa2-bc7d-b1bb0c171293",
-   "title": {
-    "en": "Let's be polite, and not upset one another"
-   },
-   "contentRating": "safe",
-   "score": 0.24862409,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da7144c5-3b9c-401b-8c22-9faa664bc152",
-   "title": {
-    "en": "Height Gap x Age Gap"
-   },
-   "contentRating": "safe",
-   "score": 0.24032111,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "ru",
-    "it"
-   ]
-  },
-  {
-   "id": "22a3b429-d5b7-4850-a7e6-299218adc559",
-   "title": {
-    "en": "Windfall of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.2399984,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "523ecb65-8e86-4a41-9be1-97b554a5bc1b",
-   "title": {
-    "en": "Shoujo no Tsukurikata"
-   },
-   "contentRating": "safe",
-   "score": 0.23963484,
-   "languages": [
-    "pl",
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "038a98d5-1b9e-4176-8c85-bc0baeffe3f2",
-   "title": {
-    "en": "Fate/Prototype - Selfish Just for Today"
-   },
-   "contentRating": "safe",
-   "score": 0.23917544,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "d54f4b2f-aabb-4846-889f-c3a5c91e6693",
-   "title": {
-    "en": "Osananajimi no Onnanoko ga Zubunure de Ie ni Oshikakete Kita!!"
-   },
-   "contentRating": "safe",
-   "score": 0.2309801,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "577401f3-1612-4f82-bd81-6d57e101e9cd",
-   "title": {
-    "en": "Pick-Up General Store"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:27+00:00"
+ "updatedAt": "2023-12-10T18:34:09+00:00"
 }

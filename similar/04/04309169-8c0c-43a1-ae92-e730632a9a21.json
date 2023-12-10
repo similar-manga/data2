@@ -11,7 +11,7 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.26644456
+   "score": 0.26646477
   },
   {
    "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
@@ -19,10 +19,21 @@
     "en": "One Pound Gospel"
    },
    "contentRating": "safe",
-   "score": 0.21195076,
+   "score": 0.21153475,
    "languages": [
     "fr",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a1f8bce7-08e4-42c4-966c-ed1c0a4ecffb",
+   "title": {
+    "en": "Glittering and Glaring: My Destiny  Romance with Violence"
+   },
+   "contentRating": "safe",
+   "score": 0.20595881,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -31,7 +42,7 @@
     "en": "Shikigami no Shiro"
    },
    "contentRating": "safe",
-   "score": 0.1971072
+   "score": 0.19794258
   },
   {
    "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
@@ -39,7 +50,7 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.19693214,
+   "score": 0.19644111,
    "languages": [
     "es-la",
     "en",
@@ -63,18 +74,7 @@
     "en": "Outside of the Universe"
    },
    "contentRating": "safe",
-   "score": 0.19197318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
-   "title": {
-    "en": "The Darwin Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.186178,
+   "score": 0.19095896,
    "languages": [
     "en"
    ]
@@ -88,12 +88,23 @@
    "score": 0.186178
   },
   {
+   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "title": {
+    "en": "The Darwin Incident"
+   },
+   "contentRating": "safe",
+   "score": 0.186178,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ccb80916-89e6-4037-8278-04edc98c496c",
    "title": {
     "en": "Without Loss, Even in the Rain"
    },
    "contentRating": "safe",
-   "score": 0.18516633
+   "score": 0.185497
   },
   {
    "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
@@ -101,7 +112,7 @@
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.18463536,
+   "score": 0.18429965,
    "languages": [
     "en"
    ]
@@ -112,7 +123,7 @@
     "en": "New Normal"
    },
    "contentRating": "safe",
-   "score": 0.18407002,
+   "score": 0.18341148,
    "languages": [
     "tr",
     "en",
@@ -127,12 +138,28 @@
    ]
   },
   {
+   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
+   "title": {
+    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
+   },
+   "contentRating": "safe",
+   "score": 0.18304127,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "fr",
+    "it"
+   ]
+  },
+  {
    "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
    "title": {
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.18164909,
+   "score": 0.18145163,
    "languages": [
     "en",
     "ru"
@@ -151,31 +178,6 @@
    ]
   },
   {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
-   "title": {
-    "en": "【Oshi no Ko】"
-   },
-   "contentRating": "safe",
-   "score": 0.17685156,
-   "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
    "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
    "title": {
     "en": "Doraemon"
@@ -189,21 +191,7 @@
     "en",
     "ar"
    ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.17595282,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:55+00:00"
+ "updatedAt": "2023-12-10T18:08:48+00:00"
 }

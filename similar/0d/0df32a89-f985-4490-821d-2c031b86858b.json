@@ -11,7 +11,7 @@
     "en": "Nagisa Round"
    },
    "contentRating": "safe",
-   "score": 0.25416487,
+   "score": 0.25103417,
    "languages": [
     "en"
    ]
@@ -29,17 +29,14 @@
    ]
   },
   {
-   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "id": "d5ffe970-d842-418b-b00b-264b57de3f3a",
    "title": {
-    "en": "The Misadventures of the Small Anime Club"
+    "en": "Yuri Espoir"
    },
    "contentRating": "safe",
-   "score": 0.22434829,
+   "score": 0.23125662,
    "languages": [
-    "it",
-    "en",
-    "pt-br",
-    "id"
+    "en"
    ]
   },
   {
@@ -67,6 +64,20 @@
    ]
   },
   {
+   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "title": {
+    "en": "The Misadventures of the Small Anime Club"
+   },
+   "contentRating": "safe",
+   "score": 0.22434829,
+   "languages": [
+    "it",
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "5b33a0a8-e7dd-4fc8-bff1-f75770fe3971",
    "title": {
     "en": "The Popular Girl and the Artist Otako-chan"
@@ -79,6 +90,21 @@
     "ru",
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "0ae578ee-22e5-4e10-9160-f1d8495346a7",
+   "title": {
+    "en": "Strawberry Syrup"
+   },
+   "contentRating": "safe",
+   "score": 0.2151709,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -113,7 +139,7 @@
     "en": "Kowareta Bokura no Senryaku Ren'ai"
    },
    "contentRating": "safe",
-   "score": 0.21011971,
+   "score": 0.20912488,
    "languages": [
     "vi",
     "en",
@@ -135,14 +161,30 @@
    ]
   },
   {
-   "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
+   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
    "title": {
-    "en": "Tasukete! Hinaemon"
+    "en": "Sora kara Onna no Ko ga!"
    },
    "contentRating": "safe",
-   "score": 0.19652456,
+   "score": 0.20066321,
    "languages": [
+    "ru",
+    "tr",
+    "vi",
     "en"
+   ]
+  },
+  {
+   "id": "b6784e2b-f31d-4f29-8dc7-7e2e414bbae1",
+   "title": {
+    "en": "Oshi ga Imouto Ni Narimashite"
+   },
+   "contentRating": "safe",
+   "score": 0.19964147,
+   "languages": [
+    "th",
+    "en",
+    "ko"
    ]
   },
   {
@@ -169,49 +211,7 @@
     "it",
     "en"
    ]
-  },
-  {
-   "id": "262ed105-86c5-4ee2-a3dc-b864525b2648",
-   "title": {
-    "en": "The Terrifying Devil Won't Let Me Go Back to Work"
-   },
-   "contentRating": "safe",
-   "score": 0.19652456,
-   "languages": [
-    "id",
-    "it",
-    "vi",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "411707e3-cc42-4c01-bc5a-16fe79d3fa28",
-   "title": {
-    "en": "Unconfirmed Love"
-   },
-   "contentRating": "safe",
-   "score": 0.19581269,
-   "languages": [
-    "pt-br",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "161aa86b-1b91-4fe9-88d9-2b09d8c17f5a",
-   "title": {
-    "en": "My Roommate Found Out That I Drew Her in a Yuri Manhua!"
-   },
-   "contentRating": "safe",
-   "score": 0.18905947,
-   "languages": [
-    "it",
-    "fr",
-    "en",
-    "vi"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:18+00:00"
+ "updatedAt": "2023-12-10T18:09:50+00:00"
 }

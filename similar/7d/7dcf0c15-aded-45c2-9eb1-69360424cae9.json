@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.35850883,
+   "languages": [
+    "en",
+    "pt-br",
+    "uk",
+    "vi",
+    "id",
+    "es-la"
+   ]
+  },
+  {
    "id": "95940960-764c-4e09-a294-e08d5dd2c386",
    "title": {
     "en": "I'm Not Spy"
    },
    "contentRating": "safe",
-   "score": 0.299165,
+   "score": 0.302297,
    "languages": [
     "en"
    ]
@@ -22,7 +38,7 @@
     "en": "The Story of How My Best Friend and the Person I Like Changed Bodies"
    },
    "contentRating": "safe",
-   "score": 0.28156412,
+   "score": 0.28710282,
    "languages": [
     "id",
     "en"
@@ -34,25 +50,10 @@
     "en": "Kareshi Tokidoki Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.27481982,
+   "score": 0.2736529,
    "languages": [
     "es-la",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "b65fbf0e-6768-407d-ba79-fa9fcb319155",
-   "title": {
-    "en": "Hope You're Happy, Lemon"
-   },
-   "contentRating": "safe",
-   "score": 0.2575398,
-   "languages": [
-    "pt-br",
-    "vi",
-    "es-la",
-    "pl",
     "en"
    ]
   },
@@ -62,7 +63,7 @@
     "en": "One Morning I Woke Up"
    },
    "contentRating": "safe",
-   "score": 0.25657886,
+   "score": 0.2606953,
    "languages": [
     "fr",
     "en",
@@ -71,16 +72,69 @@
    ]
   },
   {
+   "id": "b65fbf0e-6768-407d-ba79-fa9fcb319155",
+   "title": {
+    "en": "Hope You're Happy, Lemon"
+   },
+   "contentRating": "safe",
+   "score": 0.25929806,
+   "languages": [
+    "pt-br",
+    "vi",
+    "es-la",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "d2746874-023e-4a24-9257-dd8130f98281",
    "title": {
     "en": "Asa Okitara Onnanoko ni Natteta Manga"
    },
    "contentRating": "safe",
-   "score": 0.2520084,
+   "score": 0.25266454,
    "languages": [
     "en",
     "id",
     "zh"
+   ]
+  },
+  {
+   "id": "84b8110c-b14f-42fe-bd95-72d821ac489d",
+   "title": {
+    "ja": "Sensei, Kongetsu Dou Desu ka"
+   },
+   "contentRating": "safe",
+   "score": 0.2498237,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "50165dc6-d7d8-4d66-811f-bb079641d772",
+   "title": {
+    "en": "Kiitarou Shounen no Youkai Enikki"
+   },
+   "contentRating": "safe",
+   "score": 0.2498237,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5af50da5-c3f6-4f67-9888-89df886757f6",
+   "title": {
+    "en": "Tenkoi in Hachioji"
+   },
+   "contentRating": "safe",
+   "score": 0.2498237,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -89,9 +143,20 @@
     "en": "Nomino"
    },
    "contentRating": "safe",
-   "score": 0.24439014,
+   "score": 0.24235615,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "0ecf7c0d-e33e-47a3-b87b-1c5665d2ec10",
+   "title": {
+    "en": "Okuremashite Seishun"
+   },
+   "contentRating": "safe",
+   "score": 0.24093632,
+   "languages": [
     "en"
    ]
   },
@@ -101,7 +166,7 @@
     "en": "Milk Crown Lovers"
    },
    "contentRating": "safe",
-   "score": 0.24155775,
+   "score": 0.23931791,
    "languages": [
     "en"
    ]
@@ -112,103 +177,44 @@
     "en": "Youkai Apaato no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.24087839,
+   "score": 0.2391526,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "0cd2268e-1c75-419e-8e6a-31a7339d72c9",
+   "id": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
    "title": {
-    "en": "Strange Pension"
+    "en": "Jii-san to Baa-san Wakagaeru"
    },
    "contentRating": "safe",
-   "score": 0.23326972,
+   "score": 0.23760848,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "11fb2472-a1e2-4860-86a6-ba5c17ac2e0c",
-   "title": {
-    "en": "Seishun no Hekireki"
-   },
-   "contentRating": "safe",
-   "score": 0.23115425,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93f8f571-5e98-4df1-bb4a-7c97fe10abef",
-   "title": {
-    "en": "A Boy Who Loves Genderswap Got Genderswapped, so He Acts Out His Ideal Genderswap Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.22878776,
-   "languages": [
-    "vi",
     "fr",
-    "pt-br",
-    "en",
     "id",
-    "it"
-   ]
-  },
-  {
-   "id": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
-   "title": {
-    "en": "Dou ka Ore wo Houtte Oitekure"
-   },
-   "contentRating": "safe",
-   "score": 0.2272204,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c44b3e3b-a7e0-4101-b43a-6d58768e7726",
-   "title": {
-    "en": "Ten yori Takaku"
-   },
-   "contentRating": "safe",
-   "score": 0.22651304,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "fbdc7c08-cab0-408c-8779-ed1418470654",
-   "title": {
-    "en": "Boarding House in Wonderland"
-   },
-   "contentRating": "safe",
-   "score": 0.22560167,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "71a72715-c6ba-42fe-af9f-a030b751ce27",
-   "title": {
-    "en": "I Guess My Roommate Is Pretty?"
-   },
-   "contentRating": "safe",
-   "score": 0.22538362,
-   "languages": [
-    "en",
-    "id",
-    "tr",
-    "fr",
-    "de",
     "ru",
-    "vi",
     "pt-br",
+    "uk",
+    "es-la",
+    "en",
+    "tr",
+    "pl",
+    "it",
     "es"
+   ]
+  },
+  {
+   "id": "d9b78c9f-7389-4781-999c-f0f809abe60c",
+   "title": {
+    "en": "Asahi-kun tono Kurashi wa Dekiai ga Sugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.23563816,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:49+00:00"
+ "updatedAt": "2023-12-10T18:22:06+00:00"
 }

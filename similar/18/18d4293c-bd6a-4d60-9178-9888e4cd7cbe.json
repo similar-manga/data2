@@ -11,7 +11,7 @@
     "en": "Isekai Tensei no Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.25069153,
+   "score": 0.24307336,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.22684202,
+   "score": 0.22743696,
    "languages": [
     "en",
     "pt-br",
@@ -40,7 +40,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.22317299,
+   "score": 0.22238775,
    "languages": [
     "en"
    ]
@@ -51,9 +51,42 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.22220527,
+   "score": 0.22181387,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e7088461-d8ce-4c4c-9fa3-02108387cd51",
+   "title": {
+    "en": "HIGH CARD -♢9 No Mercy"
+   },
+   "contentRating": "safe",
+   "score": 0.21644197,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.21592635,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -62,21 +95,10 @@
     "en": "The Heroic Legend of Arslan"
    },
    "contentRating": "safe",
-   "score": 0.2160857,
+   "score": 0.21415943,
    "languages": [
     "pt-br",
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "3d87d62a-c520-4a7a-9595-e3d27c526c1d",
-   "title": {
-    "en": "Pokémon Card GB The Comix"
-   },
-   "contentRating": "safe",
-   "score": 0.2120474,
-   "languages": [
     "en"
    ]
   },
@@ -99,6 +121,20 @@
    ]
   },
   {
+   "id": "1c258c7a-5529-4fde-b6c0-f8028223993b",
+   "title": {
+    "en": "Yu-Gi-Oh! OCG Structures"
+   },
+   "contentRating": "safe",
+   "score": 0.20923018,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
    "title": {
     "en": "Thus Spoke Rohan Kishibe"
@@ -117,12 +153,23 @@
    ]
   },
   {
+   "id": "3d87d62a-c520-4a7a-9595-e3d27c526c1d",
+   "title": {
+    "en": "Pokémon Card GB The Comix"
+   },
+   "contentRating": "safe",
+   "score": 0.20741527,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
    "title": {
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.20512874,
+   "score": 0.20451014,
    "languages": [
     "pt-br",
     "es",
@@ -174,7 +221,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.20221639,
+   "score": 0.20245725,
    "languages": [
     "en"
    ]
@@ -197,40 +244,7 @@
     "es-la",
     "es"
    ]
-  },
-  {
-   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
-   "title": {
-    "en": "Valkyrie Profile - The Dark Alchemist"
-   },
-   "contentRating": "safe",
-   "score": 0.2009281,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.19758974,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
-   "title": {
-    "en": "Locke the Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.19442974,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:43+00:00"
+ "updatedAt": "2023-12-10T18:10:59+00:00"
 }

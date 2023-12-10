@@ -6,15 +6,50 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "12999fc5-325e-46d1-8406-ff8b63237d2e",
+   "title": {
+    "en": "Doubt!!"
+   },
+   "contentRating": "safe",
+   "score": 0.36339444
+  },
+  {
    "id": "a46b7ba2-4b1b-4976-8b6a-07eee7f42ac6",
    "title": {
     "en": "Konya, Kimi ni Ai ni Iku"
    },
    "contentRating": "safe",
-   "score": 0.34184518,
+   "score": 0.34112155,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
+   "title": {
+    "en": "Princess Ai Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.33944154,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "31d95a90-9d3e-466c-b76a-967e36921eca",
+   "title": {
+    "en": "Go Go Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.33451197
+  },
+  {
+   "id": "e835d636-8f3d-4cc2-bfb9-849c906cdbff",
+   "title": {
+    "en": "Café de Romance"
+   },
+   "contentRating": "safe",
+   "score": 0.3260573
   },
   {
    "id": "a3431853-9d5e-4e6e-a2ad-427de76e5247",
@@ -22,20 +57,9 @@
     "en": "Zoku Shishunki Miman Okotowari"
    },
    "contentRating": "safe",
-   "score": 0.32012093,
+   "score": 0.3186441,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "56e9cf0b-4ae4-4b77-8b22-5b51ae70a239",
-   "title": {
-    "en": "Suspicious Scandal"
-   },
-   "contentRating": "safe",
-   "score": 0.3157344,
-   "languages": [
-    "hu"
    ]
   },
   {
@@ -44,7 +68,29 @@
     "en": "Koi no Jitsuryoku Ai no Sainou"
    },
    "contentRating": "safe",
-   "score": 0.31480706
+   "score": 0.3158121
+  },
+  {
+   "id": "56e9cf0b-4ae4-4b77-8b22-5b51ae70a239",
+   "title": {
+    "en": "Suspicious Scandal"
+   },
+   "contentRating": "safe",
+   "score": 0.31484243,
+   "languages": [
+    "hu"
+   ]
+  },
+  {
+   "id": "85203b57-742c-4f0b-aa02-002b37b384e1",
+   "title": {
+    "en": "Airin Dream"
+   },
+   "contentRating": "safe",
+   "score": 0.31390753,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "818f15ed-d200-4fe0-a04c-033e74fcb9c2",
@@ -52,7 +98,23 @@
     "en": "Oniisamakata, Goranshin!"
    },
    "contentRating": "safe",
-   "score": 0.31150073
+   "score": 0.3102782
+  },
+  {
+   "id": "76b49d4c-e7f8-4db0-9468-cda97d1c9abe",
+   "title": {
+    "en": "Kore ga Ryoute ni Hana desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.309615
+  },
+  {
+   "id": "d0e7f2fe-ef70-405a-a8bc-1d97891387f6",
+   "title": {
+    "en": "Onzoushi wa Osananajimi o Hitorijime shite Aishitai"
+   },
+   "contentRating": "safe",
+   "score": 0.3092785
   },
   {
    "id": "e09be586-ac43-4278-9099-cb6ab8c9ca56",
@@ -60,107 +122,35 @@
     "en": "Teens Blues"
    },
    "contentRating": "safe",
-   "score": 0.3070151,
+   "score": 0.30743274,
    "languages": [
     "it"
    ]
   },
   {
-   "id": "956e7c1c-9be3-4863-a106-dd9a68c87645",
+   "id": "c44ea012-8c91-4ed6-8af5-0bfd6aa1537a",
    "title": {
-    "en": "Funky Yobikou"
+    "en": "Ai wa Utsukushi Koiseyo Otome"
    },
    "contentRating": "safe",
-   "score": 0.30525413,
-   "languages": [
-    "ro"
-   ]
+   "score": 0.30719858
   },
   {
-   "id": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+   "id": "b93228b3-fc48-4a83-b13c-2063d2e25d64",
    "title": {
-    "en": "Otome Holic"
+    "en": "Haru no Higurashi"
    },
    "contentRating": "safe",
-   "score": 0.30493644,
-   "languages": [
-    "fr",
-    "en"
-   ]
+   "score": 0.30704147
   },
   {
-   "id": "f70b81c4-e4b6-4974-9044-32d42b2bf996",
+   "id": "32381aff-0b30-4ac1-bd4b-7aa0ff6035be",
    "title": {
-    "en": "Senpai to Issho"
+    "en": "Wake Atte Oji-san ga Watashi no Koi o Ouen Shite Imasu (Nounai)"
    },
    "contentRating": "safe",
-   "score": 0.3009515,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "4cd03ffa-a9cb-4d45-8218-1f50dcf26367",
-   "title": {
-    "en": "You Are My Everything"
-   },
-   "contentRating": "safe",
-   "score": 0.30008078,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "16da0502-dfbf-46e5-829f-93aa45615e8b",
-   "title": {
-    "en": "Sensei Addict"
-   },
-   "contentRating": "safe",
-   "score": 0.29976308
-  },
-  {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
-   "title": {
-    "en": "Funny Money Rich Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.2960921,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "799c6f51-f932-4498-ad2c-0f8973c114ef",
-   "title": {
-    "en": "Tama Tama! Kingyosou"
-   },
-   "contentRating": "safe",
-   "score": 0.2934407
-  },
-  {
-   "id": "4fd64191-bce0-4ccb-936e-596d03be0da9",
-   "title": {
-    "en": "Shout!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "9b05da2e-d4cd-4b33-b668-f358ae12a3a5",
-   "title": {
-    "en": "Aquamarine (HA Sung-Hyun)"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "b385d196-8184-4d54-a7a0-541d799c7fba",
-   "title": {
-    "en": "Beautiful Guy"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.30602705
   }
  ],
- "updatedAt": "2023-12-10T00:59:49+00:00"
+ "updatedAt": "2023-12-10T18:08:30+00:00"
 }

@@ -11,9 +11,20 @@
     "en": "Dominion"
    },
    "contentRating": "safe",
-   "score": 0.38253275,
+   "score": 0.3845279,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "c770c58f-dfec-47f1-be8b-efd8231cf262",
+   "title": {
+    "en": "Red Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.28710046,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -22,7 +33,15 @@
     "en": "Tank Knights Fortress"
    },
    "contentRating": "safe",
-   "score": 0.26219523
+   "score": 0.2637988
+  },
+  {
+   "id": "7f5e5bd3-a357-48d7-8373-1408c046cf5c",
+   "title": {
+    "en": "Do Your Best, Shonen Giants"
+   },
+   "contentRating": "safe",
+   "score": 0.24354193
   },
   {
    "id": "7c58c1b0-b595-4f9d-8fa9-a710c4cac3e6",
@@ -30,7 +49,7 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.24565174
+   "score": 0.24108975
   },
   {
    "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
@@ -38,7 +57,7 @@
     "en": "Star of the Giants"
    },
    "contentRating": "safe",
-   "score": 0.23099266
+   "score": 0.23101419
   },
   {
    "id": "ef598a74-006e-44ed-a469-561013213932",
@@ -46,7 +65,7 @@
     "en": "Lightning Boy Spark Dan"
    },
    "contentRating": "safe",
-   "score": 0.2272699
+   "score": 0.22747132
   },
   {
    "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
@@ -54,7 +73,7 @@
     "en": "Sand Land Full Color"
    },
    "contentRating": "safe",
-   "score": 0.2188291,
+   "score": 0.22013895,
    "languages": [
     "es-la",
     "pl"
@@ -66,7 +85,7 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.21799861
+   "score": 0.21856318
   },
   {
    "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
@@ -74,18 +93,7 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.21477903
-  },
-  {
-   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
-   "title": {
-    "en": "Mobile Suit Gundam F90 FF"
-   },
-   "contentRating": "safe",
-   "score": 0.21164688,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2145496
   },
   {
    "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
@@ -99,12 +107,23 @@
    ]
   },
   {
-   "id": "37fd04eb-b674-4558-a1a6-9b27c78054c5",
+   "id": "7c2c41c1-731a-4f9e-ab84-d6a00af0cbe1",
    "title": {
-    "en": "X-Man"
+    "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.20258571
+   "score": 0.21164688,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a088575b-51e6-47ce-b0a4-c40b89a99863",
+   "title": {
+    "en": "Abare! Hayabusa"
+   },
+   "contentRating": "safe",
+   "score": 0.20609005
   },
   {
    "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
@@ -113,6 +132,14 @@
    },
    "contentRating": "safe",
    "score": 0.2016976
+  },
+  {
+   "id": "37fd04eb-b674-4558-a1a6-9b27c78054c5",
+   "title": {
+    "en": "X-Man"
+   },
+   "contentRating": "safe",
+   "score": 0.20163356
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -124,40 +151,7 @@
    "languages": [
     "pt-br"
    ]
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.20078588,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.20078588,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.20078588,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:33+00:00"
+ "updatedAt": "2023-12-10T18:34:23+00:00"
 }

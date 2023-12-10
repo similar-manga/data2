@@ -6,16 +6,53 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7f797a03-f5ee-4f2f-be93-b2248d5082e0",
+   "title": {
+    "en": "Sputnik"
+   },
+   "contentRating": "safe",
+   "score": 0.3527949,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "b21bb660-b3cd-408e-a421-251087cc6e8d",
+   "title": {
+    "en": "Dakishimete Tsuide ni Kiss mo"
+   },
+   "contentRating": "safe",
+   "score": 0.3140336,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "cffb9e9d-d7a2-4293-b19d-e351eaf2d20c",
    "title": {
     "en": "Denpatou"
    },
    "contentRating": "safe",
-   "score": 0.29867122,
+   "score": 0.30050448,
    "languages": [
     "fr",
     "en",
     "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "61d53bb7-b868-4ab2-ac1f-d309581e275e",
+   "title": {
+    "en": "Encounter Between Polar Opposites and Their Dogs"
+   },
+   "contentRating": "safe",
+   "score": 0.2962259,
+   "languages": [
+    "en",
+    "es-la",
     "pt-br"
    ]
   },
@@ -25,10 +62,24 @@
     "en": "Genso Ginekokurasy"
    },
    "contentRating": "safe",
-   "score": 0.29477635,
+   "score": 0.29513744,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
+   "title": {
+    "en": "Watashi-tachi wa Douka shiteiru"
+   },
+   "contentRating": "safe",
+   "score": 0.29413304,
+   "languages": [
+    "pt-br",
+    "ru",
+    "es-la",
+    "en"
    ]
   },
   {
@@ -37,12 +88,26 @@
     "en": "Transparent Museum"
    },
    "contentRating": "safe",
-   "score": 0.29430038,
+   "score": 0.29357266,
    "languages": [
     "ru",
     "tr",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "140e8eef-2f6f-42e8-a7f7-965534ab142d",
+   "title": {
+    "en": "Omae, Tanuki ni Naranee ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -60,169 +125,94 @@
    ]
   },
   {
-   "id": "2f467a6a-7140-4dce-a688-4f35be44f39c",
+   "id": "184a5930-47b2-4817-b7bd-f24ee8590f27",
    "title": {
-    "en": "Watashitachi, Rikon Shimasu"
+    "en": "Watashi no Koibito wa Kyou mo Kawaii"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "pt-br",
-    "en",
-    "fr",
-    "uk",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "301e6eaa-6bbe-4661-9ec6-25069aa4f4c4",
-   "title": {
-    "en": "Waltz"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "it",
-    "pt-br",
-    "es-la",
-    "fr",
     "en"
    ]
   },
   {
-   "id": "416e63e0-a641-4338-b9e8-2461e81ff152",
+   "id": "1bba1946-c313-491c-b2de-3ccc84647d17",
    "title": {
-    "en": "How to Survive as a Maid in a Horror Game"
+    "en": "Blood Strangers"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "47d4b3fb-7096-4788-8110-894ca116c212",
-   "title": {
-    "en": "Bad Secretary"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "4ad70bf0-369a-4720-8d06-7bf53f0c7d22",
-   "title": {
-    "en": "The Willow Tree"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "hi",
-    "ar",
-    "pt-br",
+    "es-la",
     "tr",
-    "hu"
-   ]
-  },
-  {
-   "id": "60483fce-b8a5-4744-a1ba-4d702dd8fbcb",
-   "title": {
-    "en": "Marriage B"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
     "pt-br"
    ]
   },
   {
-   "id": "0a29b87c-f6eb-4e6d-98b4-3cd8adb3ab8f",
+   "id": "1ca05f40-c50b-46f8-ba86-5ad4f9c5b26e",
    "title": {
-    "en": "Moto Ansatsusha, Tensei Shite Kizoku no Reijou ni Narimashita"
+    "en": "Tokyo Tarareba Girls Returns"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
-    "id",
     "pt-br"
    ]
   },
   {
-   "id": "70e3336d-c55e-4eee-be72-45cc82eb46dd",
+   "id": "22439875-ccf0-435d-917b-e714255e27cc",
    "title": {
-    "en": "Please Don't Eat Me!"
+    "en": "Higyaku no Noel"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "mn",
     "en",
-    "pl",
-    "pt-br",
     "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "9e6e858c-b271-4754-9a18-ca6866a441d7",
-   "title": {
-    "en": "Preventing the Making of a Tyrant"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
+   "id": "2748775c-1362-4df6-a820-eb222aa7958f",
    "title": {
-    "en": "Shoujikimono ga Baka wo Miru"
+    "en": "Otona-Najimi"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en",
-    "pt-br",
-    "es-la"
+    "it",
+    "es-la",
+    "pt-br"
    ]
   },
   {
-   "id": "a7283edb-9542-4ada-aaf7-a63f6d471e71",
+   "id": "29ae7262-b282-42ec-a833-1b03e33ed063",
    "title": {
-    "en": "Ephemeral"
+    "en": "Only Realized After Losing You"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "pl",
-    "tr",
+    "en",
     "pt-br"
    ]
   },
   {
-   "id": "b3583a62-1184-4a61-b18e-9497a81b1673",
+   "id": "2ba04256-b285-481e-a864-78fe40525140",
    "title": {
-    "en": "Onna no Sono no Hoshi"
+    "en": "Hikikomori Reijou wa Hanashi no Wakaru Seijuuban"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en",
-    "zh-hk",
+    "es",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:59+00:00"
+ "updatedAt": "2023-12-10T18:35:29+00:00"
 }

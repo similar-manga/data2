@@ -11,7 +11,7 @@
     "en": "March Comes in Like a Lion"
    },
    "contentRating": "safe",
-   "score": 0.2963034,
+   "score": 0.30995062,
    "languages": [
     "en",
     "pt-br",
@@ -25,7 +25,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.27687708,
+   "score": 0.28420156,
    "languages": [
     "pt-br",
     "es-la",
@@ -43,7 +43,7 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.25670925,
+   "score": 0.2645058,
    "languages": [
     "vi",
     "en"
@@ -55,7 +55,7 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.25084278,
+   "score": 0.25268686,
    "languages": [
     "en"
    ]
@@ -66,7 +66,7 @@
     "en": "What Did You Eat Yesterday?"
    },
    "contentRating": "safe",
-   "score": 0.24198219,
+   "score": 0.24561301,
    "languages": [
     "en",
     "fr"
@@ -78,7 +78,7 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.23701613,
+   "score": 0.24221762,
    "languages": [
     "en",
     "es-la"
@@ -90,7 +90,7 @@
     "en": "Brother"
    },
    "contentRating": "safe",
-   "score": 0.23652914,
+   "score": 0.2352324,
    "languages": [
     "en"
    ]
@@ -101,10 +101,36 @@
     "en": "He Was My Brother"
    },
    "contentRating": "safe",
-   "score": 0.22987264,
+   "score": 0.22850806,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "d0b31614-5690-4d25-86bc-5d506aeedf55",
+   "title": {
+    "en": "Why Can’t We Stay as Children?"
+   },
+   "contentRating": "safe",
+   "score": 0.22825639,
+   "languages": [
+    "en",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "title": {
+    "en": "Ookiku Furikabutte"
+   },
+   "contentRating": "safe",
+   "score": 0.22433941,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -113,7 +139,7 @@
     "en": "Sunny"
    },
    "contentRating": "safe",
-   "score": 0.22521298,
+   "score": 0.22395271,
    "languages": [
     "en"
    ]
@@ -124,7 +150,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.22075944,
+   "score": 0.22212148,
    "languages": [
     "en",
     "pt-br",
@@ -138,39 +164,32 @@
    ]
   },
   {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
-   "title": {
-    "en": "Ookiku Furikabutte"
-   },
-   "contentRating": "safe",
-   "score": 0.21952364,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.21650325,
+   "score": 0.21626282,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
+   "id": "6204ff54-c3d5-4645-b21f-f83f6fa303d0",
    "title": {
-    "en": "Sorairo Square."
+    "en": "Ani no Yome to Kurashite Imasu."
    },
    "contentRating": "safe",
-   "score": 0.21030743,
+   "score": 0.21473102,
    "languages": [
-    "en"
+    "ru",
+    "id",
+    "en",
+    "es",
+    "pt-br",
+    "ko",
+    "de"
    ]
   },
   {
@@ -179,7 +198,7 @@
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.20746048,
+   "score": 0.21107274,
    "languages": [
     "en",
     "pt-br",
@@ -194,29 +213,16 @@
    ]
   },
   {
-   "id": "53af0017-83cb-41e7-97eb-25bba200940d",
+   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
    "title": {
-    "en": "Last One"
+    "en": "Sorairo Square."
    },
    "contentRating": "safe",
-   "score": 0.20604785,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
-   "title": {
-    "en": "The Darwin Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.2060119,
+   "score": 0.21009554,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:17+00:00"
+ "updatedAt": "2023-12-10T18:17:57+00:00"
 }

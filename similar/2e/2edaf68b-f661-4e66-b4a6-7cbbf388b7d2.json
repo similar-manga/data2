@@ -11,7 +11,7 @@
     "en": "Dekiai Robot"
    },
    "contentRating": "safe",
-   "score": 0.259885,
+   "score": 0.2648022,
    "languages": [
     "tr",
     "pl",
@@ -26,7 +26,7 @@
     "en": "Detroit: Become Human - Tokyo Stories"
    },
    "contentRating": "safe",
-   "score": 0.23778911,
+   "score": 0.2354344,
    "languages": [
     "en",
     "ru",
@@ -35,12 +35,23 @@
    ]
   },
   {
+   "id": "a35f2737-ac1f-4f34-babf-9e11ea7ddbdb",
+   "title": {
+    "en": "Kiseki no Riyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23450758,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6418b33a-4274-4ee8-82f0-cbb0011d7921",
    "title": {
     "en": "Bremen 5"
    },
    "contentRating": "safe",
-   "score": 0.23015602,
+   "score": 0.22958577,
    "languages": [
     "en"
    ]
@@ -51,7 +62,7 @@
     "en": "Blind Game - New Age Hakkenden"
    },
    "contentRating": "safe",
-   "score": 0.22790775,
+   "score": 0.22752161,
    "languages": [
     "en"
    ]
@@ -62,7 +73,31 @@
     "en": "Chulso and Younghui's Story"
    },
    "contentRating": "safe",
-   "score": 0.22306241,
+   "score": 0.22198896,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "729940e6-e49e-4ce0-9011-12c10b80f97e",
+   "title": {
+    "en": "Golden Japanesque"
+   },
+   "contentRating": "safe",
+   "score": 0.21168756,
+   "languages": [
+    "es",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "1cc1a2af-0226-4b3e-841b-f58ed866a3ee",
+   "title": {
+    "en": "Whited Nighttime"
+   },
+   "contentRating": "safe",
+   "score": 0.21023948,
    "languages": [
     "en"
    ]
@@ -73,40 +108,7 @@
     "en": "Summer Blue"
    },
    "contentRating": "safe",
-   "score": 0.208441,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d77dc0f-749b-4167-a4ab-44e08b11dfdc",
-   "title": {
-    "en": "A House in Venice"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21f71c14-ebb8-40bf-8e85-48b642d961fe",
-   "title": {
-    "en": "Sayonara Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
-   "title": {
-    "en": "Kimi o Matsu -\u003e Akaiito"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20693089,
    "languages": [
     "en"
    ]
@@ -123,21 +125,31 @@
    ]
   },
   {
-   "id": "e509dab4-ee9d-443e-903a-2c175f374b99",
+   "id": "dac61fbb-f32b-4f53-917a-1e33c11b16d9",
    "title": {
-    "en": "B-Wanted"
+    "en": "Ex-husband, Please Go Away!"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en",
-    "it"
+    "en"
    ]
   },
   {
-   "id": "36320572-a99d-4f8f-904e-630312cc963c",
+   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
    "title": {
-    "en": "12 Months"
+    "en": "Anne the Lover"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d77dc0f-749b-4167-a4ab-44e08b11dfdc",
+   "title": {
+    "en": "A House in Venice"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -158,9 +170,9 @@
    ]
   },
   {
-   "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
+   "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
    "title": {
-    "en": "Anne the Lover"
+    "en": "Kimi o Matsu -\u003e Akaiito"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -169,29 +181,16 @@
    ]
   },
   {
-   "id": "62159afc-acdf-49e9-af96-cad03f94520b",
+   "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
    "title": {
-    "en": "Koigokoro Telepathy"
+    "en": "Hajimari no Kotoba"
    },
    "contentRating": "safe",
-   "score": 0.19348289,
+   "score": 0.20203052,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "7e3710b1-154b-4180-b8f6-a2e33b781267",
-   "title": {
-    "en": "Hoshino Heartbeat"
-   },
-   "contentRating": "safe",
-   "score": 0.19213389,
-   "languages": [
-    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:33+00:00"
+ "updatedAt": "2023-12-10T18:13:19+00:00"
 }

@@ -6,6 +6,51 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
+   "title": {
+    "en": "Material Polka"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
+   "title": {
+    "en": "Kono Ko Shirimasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "759c4b10-af8f-4e0a-ae1d-1be33a34080f",
+   "title": {
+    "en": "Fly - Tondemo Teleport Girl Yumi"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "78a72c7b-b19d-4c05-a0b7-176e3ecf7441",
+   "title": {
+    "en": "Dark Metro"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
    "title": {
     "en": "Red Garden"
@@ -17,16 +62,26 @@
    ]
   },
   {
-   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
+   "id": "6e5c0ebf-86ee-4a60-83e4-fbdbe68a126e",
    "title": {
-    "en": "Shadowman"
+    "en": "Kyouka Ayakashi Hichou Kanzenban"
    },
    "contentRating": "safe",
-   "score": 0.19512899,
+   "score": 0.21483447,
    "languages": [
-    "pt-br",
-    "es",
     "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.20935708,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -52,6 +107,19 @@
    ]
   },
   {
+   "id": "fbd2ccea-7121-468f-b46f-cd5b3b918bcf",
+   "title": {
+    "en": "Mononobe Koshoten Kaikitan"
+   },
+   "contentRating": "safe",
+   "score": 0.19422014,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
    "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
    "title": {
     "en": "Second Coming"
@@ -63,12 +131,37 @@
    ]
   },
   {
+   "id": "cd93c380-1882-436c-8667-22070736da5d",
+   "title": {
+    "en": "Everyone's Loose Screw"
+   },
+   "contentRating": "safe",
+   "score": 0.19422014,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
+   "title": {
+    "en": "Shadowman"
+   },
+   "contentRating": "safe",
+   "score": 0.19372441,
+   "languages": [
+    "pt-br",
+    "es",
+    "en"
+   ]
+  },
+  {
    "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
    "title": {
     "en": "Revenge Doll"
    },
    "contentRating": "safe",
-   "score": 0.19416292,
+   "score": 0.193253,
    "languages": [
     "en",
     "es"
@@ -80,7 +173,7 @@
     "en": "PTSD Radio"
    },
    "contentRating": "safe",
-   "score": 0.19156593,
+   "score": 0.19214584,
    "languages": [
     "pt-br",
     "pl",
@@ -89,108 +182,17 @@
    ]
   },
   {
-   "id": "65f1f473-c7fa-4de2-adf5-00167af31740",
+   "id": "b1fe996c-6ed6-4dc4-b655-8d2525b51846",
    "title": {
-    "en": "Higurashi no Naku Koro ni Rei - Irotoutoshi-hen"
+    "en": "Crescent Moon"
    },
    "contentRating": "safe",
-   "score": 0.18218535,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b32e1324-9e5c-4f19-b5d8-9421510ebc3b",
-   "title": {
-    "en": "Kakeru"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
-   "title": {
-    "en": "Atrocious Fairy Tales for Adults"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
-   "title": {
-    "en": "Semi-Eternal Happy End"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
+   "score": 0.187941,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "10fc6d27-79b2-45de-ac5c-142bdb8fe74b",
-   "title": {
-    "en": "Sake to Sakana"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41908d13-7ce6-4d64-8422-1740f9c6944c",
-   "title": {
-    "en": "Chloroform"
-   },
-   "contentRating": "safe",
-   "score": 0.17128606,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "70281eed-7252-4207-b6a7-71fc6b92eabf",
-   "title": {
-    "en": "Ishiguro Masakazu's Kyoufu Tanpen"
-   },
-   "contentRating": "safe",
-   "score": 0.16647355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
-   "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
-   },
-   "contentRating": "safe",
-   "score": 0.16641006,
-   "languages": [
-    "ru",
-    "en"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:18+00:00"
+ "updatedAt": "2023-12-10T18:36:12+00:00"
 }

@@ -6,12 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e36c959b-f739-4b37-a74c-070cc0f0d057",
+   "title": {
+    "en": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl",
+    "tr",
+    "de"
+   ]
+  },
+  {
+   "id": "5cd03b52-4816-4697-9da3-5adf873a65c3",
+   "title": {
+    "en": "Hana to Shokutaku"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "3935f730-ecbd-4c65-b537-e20aa6a4125d",
    "title": {
     "en": "Hatsukoi Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.2526059,
+   "score": 0.25180387,
    "languages": [
     "en"
    ]
@@ -22,7 +48,7 @@
     "en": "Akai Ito"
    },
    "contentRating": "safe",
-   "score": 0.25112382,
+   "score": 0.2501385,
    "languages": [
     "pt-br",
     "en",
@@ -36,10 +62,45 @@
     "en": "Phantom Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.24803112,
+   "score": 0.2478107,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
+   "title": {
+    "en": "Princess Ai Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.24753432,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b3969be8-0c6e-47f0-bc73-86360a1aee3b",
+   "title": {
+    "en": "Beloved Kunitama"
+   },
+   "contentRating": "safe",
+   "score": 0.24706955,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "a13dfdf0-64f0-4e86-a4c5-94e9213e3148",
+   "title": {
+    "en": "6-Gatsu no Love Letter"
+   },
+   "contentRating": "safe",
+   "score": 0.24566704,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -48,18 +109,53 @@
     "en": "Strange Pension"
    },
    "contentRating": "safe",
-   "score": 0.24531718,
+   "score": 0.24471173,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c34a27d5-a670-4bb1-b805-3e78bc2f7f39",
+   "id": "174361bb-6f60-4400-9e47-990f686fd1b3",
    "title": {
-    "en": "Sasagu Omoi wa Hana Meguri"
+    "en": "Gomen, Nanami-kun to wa Tsukiaenai"
    },
    "contentRating": "safe",
-   "score": 0.24045925,
+   "score": 0.24429469,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e677b6d0-2b58-478a-84d5-29d732a0257e",
+   "title": {
+    "en": "Koi suru Moon Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.2428149,
+   "languages": [
+    "ru",
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "c47be674-b0ff-4b2e-8757-b5b95ee8ea66",
+   "title": {
+    "en": "0 Second Proposal: My Friend's Brother Asked to Marry Me"
+   },
+   "contentRating": "safe",
+   "score": 0.23970647,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "317e9733-2561-4cfb-87ec-8fba0860ff3a",
+   "title": {
+    "en": "Seikon Sacrifice"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
@@ -77,39 +173,6 @@
    ]
   },
   {
-   "id": "1eb6d594-ad42-4586-8b96-fc3c0e6ddbca",
-   "title": {
-    "en": "Michibata no Tenshi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0e4c009e-5bf1-4a0e-b110-d09eaf3a7cc9",
-   "title": {
-    "en": "Milk Crown Lovers"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c525947d-ee5a-4c97-ae6a-ef7555e8bcf1",
-   "title": {
-    "en": "Kira*Kira Crystal"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6588c71d-1e53-4b9d-9485-292f39eb5780",
    "title": {
     "en": "Cheon Gi dot com"
@@ -121,74 +184,16 @@
    ]
   },
   {
-   "id": "52686925-ebf6-418e-85a2-3e65d49a73d9",
+   "id": "c34a27d5-a670-4bb1-b805-3e78bc2f7f39",
    "title": {
-    "en": "Shinigami no Aria"
+    "en": "Sasagu Omoi wa Hana Meguri"
    },
    "contentRating": "safe",
    "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a654785-5fe4-41f8-a44f-97625d8ebdb5",
-   "title": {
-    "en": "Ai wo Hamu Akuma"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "7423e5fc-4e1a-4163-9ee6-cf737e5bae1f",
-   "title": {
-    "en": "Dare mo Shiranai 29-nichi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4bf56d82-97f5-479c-a1c9-e4f1516606c1",
-   "title": {
-    "en": "Zen'yasai Patroller"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c40d85e0-ef6d-43ce-9701-5345c21c3e30",
-   "title": {
-    "en": "Little Star"
-   },
-   "contentRating": "safe",
-   "score": 0.22593886,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5024b327-33b9-4f5a-923f-d07bf84d59e3",
-   "title": {
-    "en": "A Love Guard"
-   },
-   "contentRating": "safe",
-   "score": 0.22204487,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:48+00:00"
+ "updatedAt": "2023-12-10T18:08:28+00:00"
 }

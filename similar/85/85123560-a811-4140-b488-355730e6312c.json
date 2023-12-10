@@ -11,7 +11,7 @@
     "en": "Deisui Kanojo"
    },
    "contentRating": "suggestive",
-   "score": 0.33787194,
+   "score": 0.33582118,
    "languages": [
     "pt-br"
    ]
@@ -22,7 +22,7 @@
     "en": "Adventurer's Guild Universal Advisor"
    },
    "contentRating": "suggestive",
-   "score": 0.330563,
+   "score": 0.33015382,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +34,7 @@
     "en": "Atsumare! Fushigi Kenkyu-bu"
    },
    "contentRating": "suggestive",
-   "score": 0.32056284,
+   "score": 0.31861174,
    "languages": [
     "en",
     "pt-br",
@@ -44,20 +44,12 @@
    ]
   },
   {
-   "id": "454aee04-16cb-454d-8950-f2fbae64f0b0",
-   "title": {
-    "en": "It's Time for Boro-dono"
-   },
-   "contentRating": "suggestive",
-   "score": 0.31837142
-  },
-  {
    "id": "cb30c8e7-133a-47eb-8ac8-06b7cc998706",
    "title": {
     "en": "Yozakura Quartet"
    },
    "contentRating": "suggestive",
-   "score": 0.31643423,
+   "score": 0.316178,
    "languages": [
     "vi",
     "en",
@@ -70,7 +62,7 @@
     "en": "Chieri no Koi wa 8 Meter"
    },
    "contentRating": "suggestive",
-   "score": 0.31632015,
+   "score": 0.31610832,
    "languages": [
     "es-la",
     "en",
@@ -82,12 +74,20 @@
    ]
   },
   {
+   "id": "454aee04-16cb-454d-8950-f2fbae64f0b0",
+   "title": {
+    "en": "It's Time for Boro-dono"
+   },
+   "contentRating": "suggestive",
+   "score": 0.31604072
+  },
+  {
    "id": "45ed7ed8-23b3-45bf-9b9c-da6e9e88f747",
    "title": {
     "en": "Isekai de Tochi o Katte Noujou o Tsukurou"
    },
    "contentRating": "suggestive",
-   "score": 0.3152592,
+   "score": 0.31425288,
    "languages": [
     "pt-br",
     "es-la",
@@ -102,7 +102,7 @@
     "en": "Stairway to Heaven"
    },
    "contentRating": "suggestive",
-   "score": 0.31476623
+   "score": 0.31368145
   },
   {
    "id": "566ba4f6-c26e-4af2-a800-c1fdf5fe17aa",
@@ -110,7 +110,7 @@
     "en": "Futari Switch"
    },
    "contentRating": "suggestive",
-   "score": 0.31463575,
+   "score": 0.313602,
    "languages": [
     "es-la",
     "ru",
@@ -128,7 +128,7 @@
     "en": "Demoted to a Teacher, the Strongest Sage Raises an Unbeatable Class"
    },
    "contentRating": "suggestive",
-   "score": 0.31340203,
+   "score": 0.31339964,
    "languages": [
     "en"
    ]
@@ -139,22 +139,9 @@
     "en": "Ryou Kataomoi Overkill!"
    },
    "contentRating": "suggestive",
-   "score": 0.31337765,
+   "score": 0.3126884,
    "languages": [
     "es-la"
-   ]
-  },
-  {
-   "id": "16b43442-e674-46c0-8442-f705cb35cdc4",
-   "title": {
-    "en": "Tsurara-chan wa Yuki Gyaru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.31229755,
-   "languages": [
-    "pt-br",
-    "id",
-    "en"
    ]
   },
   {
@@ -163,7 +150,7 @@
     "en": "Ani Yome-san no Sewa wo Yaku"
    },
    "contentRating": "suggestive",
-   "score": 0.3120901,
+   "score": 0.31181747,
    "languages": [
     "fr",
     "en",
@@ -171,17 +158,16 @@
    ]
   },
   {
-   "id": "43f2cb51-b4d5-4859-a768-848fe46c318a",
+   "id": "16b43442-e674-46c0-8442-f705cb35cdc4",
    "title": {
-    "en": "Hisshou Dungeon Unei Houhou"
+    "en": "Tsurara-chan wa Yuki Gyaru"
    },
    "contentRating": "suggestive",
-   "score": 0.31197122,
+   "score": 0.31077042,
    "languages": [
-    "en",
-    "ru",
-    "vi",
-    "fr"
+    "pt-br",
+    "id",
+    "en"
    ]
   },
   {
@@ -190,7 +176,7 @@
     "en": "Superman High School Class F"
    },
    "contentRating": "suggestive",
-   "score": 0.3111415,
+   "score": 0.3107319,
    "languages": [
     "id"
    ]
@@ -201,7 +187,7 @@
     "en": "Kou 1 Desu ga Isekai de Joushu Hajimemashita"
    },
    "contentRating": "suggestive",
-   "score": 0.3104583,
+   "score": 0.31049904,
    "languages": [
     "pt-br",
     "fr",
@@ -209,7 +195,21 @@
     "en",
     "es-la"
    ]
+  },
+  {
+   "id": "43f2cb51-b4d5-4859-a768-848fe46c318a",
+   "title": {
+    "en": "Hisshou Dungeon Unei Houhou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3096,
+   "languages": [
+    "en",
+    "ru",
+    "vi",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:07+00:00"
+ "updatedAt": "2023-12-10T18:22:55+00:00"
 }

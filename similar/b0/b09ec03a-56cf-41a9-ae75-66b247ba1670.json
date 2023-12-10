@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "eb4edf03-d0f8-494c-83d1-b42995a37e4b",
+   "title": {
+    "en": "Thunder Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.2684444
+  },
+  {
    "id": "fe118f30-bff8-4f52-b5c4-2143d26a0fb4",
    "title": {
     "en": "Super Electromagnetic War Victory Five"
    },
    "contentRating": "safe",
-   "score": 0.24510308
+   "score": 0.24518023
   },
   {
    "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
@@ -19,7 +27,7 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.23579645,
+   "score": 0.23658271,
    "languages": [
     "en"
    ]
@@ -52,15 +60,31 @@
    "score": 0.2053538
   },
   {
+   "id": "469bb043-6afe-4de4-b705-f35586b4be94",
+   "title": {
+    "en": "Casshern Sins"
+   },
+   "contentRating": "safe",
+   "score": 0.20466338
+  },
+  {
    "id": "2ecf4cea-5c52-422e-b1b6-d6b76e7e7cf3",
    "title": {
     "en": "Microman: The Small Giant + Red Powers"
    },
    "contentRating": "safe",
-   "score": 0.20488048,
+   "score": 0.20384267,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e2f4142b-7609-4c92-a588-150edd214305",
+   "title": {
+    "en": "Hachi-chan of Mars"
+   },
+   "contentRating": "safe",
+   "score": 0.20314316
   },
   {
    "id": "8309963a-ec84-4fed-b5f6-efbeeee6fa3f",
@@ -74,20 +98,12 @@
    ]
   },
   {
-   "id": "e2f4142b-7609-4c92-a588-150edd214305",
+   "id": "7f389dc2-2be1-4231-93f6-eba281050fe3",
    "title": {
-    "en": "Hachi-chan of Mars"
+    "en": "Metal Guardian Faust"
    },
    "contentRating": "safe",
-   "score": 0.20280793
-  },
-  {
-   "id": "469bb043-6afe-4de4-b705-f35586b4be94",
-   "title": {
-    "en": "Casshern Sins"
-   },
-   "contentRating": "safe",
-   "score": 0.20133816
+   "score": 0.20086984
   },
   {
    "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
@@ -95,7 +111,31 @@
     "en": "Super Giants"
    },
    "contentRating": "safe",
-   "score": 0.19909273
+   "score": 0.19924171
+  },
+  {
+   "id": "d5a82198-a429-4435-8024-156031a256bf",
+   "title": {
+    "en": "Fumio Hisamatsu Masterpiece Collection: Silver 77"
+   },
+   "contentRating": "safe",
+   "score": 0.19818653
+  },
+  {
+   "id": "58b7c8e9-71e3-4a86-9978-6ec8eeaeec8c",
+   "title": {
+    "en": "Kaiketsu Zorori's Aladdin and the Magic Lamp"
+   },
+   "contentRating": "safe",
+   "score": 0.19781211
+  },
+  {
+   "id": "20a10c57-e2cb-480b-85ee-42a2cc8e1005",
+   "title": {
+    "en": "Robot Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.19759628
   },
   {
    "id": "7f1647e4-e27f-4094-9630-8d4699a4bfda",
@@ -103,52 +143,8 @@
     "en": "Miracle 1/Sora Poko/Sora Dog Toppi"
    },
    "contentRating": "safe",
-   "score": 0.19726518
-  },
-  {
-   "id": "7f389dc2-2be1-4231-93f6-eba281050fe3",
-   "title": {
-    "en": "Metal Guardian Faust"
-   },
-   "contentRating": "safe",
-   "score": 0.19634716
-  },
-  {
-   "id": "ddebc630-499c-4d17-8ab7-7011843edf2a",
-   "title": {
-    "en": "Ultra Seven: The Best"
-   },
-   "contentRating": "safe",
-   "score": 0.18958606
-  },
-  {
-   "id": "9660c79b-0b65-4f13-956c-03364651800b",
-   "title": {
-    "en": "Zense wa Kentei. Konjou Kuzu Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.18379058,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "349ec062-a0f2-41ad-aee0-ff49894f995a",
-   "title": {
-    "en": "Chōdenji Robo Combattler V"
-   },
-   "contentRating": "safe",
-   "score": 0.18367404
-  },
-  {
-   "id": "30881dec-6118-452d-99d8-5582665cb1f3",
-   "title": {
-    "en": "Compatible Hero World: The Great Battle III"
-   },
-   "contentRating": "safe",
-   "score": 0.18367404
+   "score": 0.19717298
   }
  ],
- "updatedAt": "2023-12-10T01:07:02+00:00"
+ "updatedAt": "2023-12-10T18:28:06+00:00"
 }

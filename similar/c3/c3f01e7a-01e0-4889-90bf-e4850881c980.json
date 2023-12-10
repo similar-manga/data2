@@ -11,7 +11,7 @@
     "en": "Dragon Ball Minus"
    },
    "contentRating": "safe",
-   "score": 0.27317464,
+   "score": 0.2793775,
    "languages": [
     "it",
     "en",
@@ -24,21 +24,9 @@
     "en": "Leftover Prince"
    },
    "contentRating": "safe",
-   "score": 0.26065254,
+   "score": 0.2561766,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "27f88fe6-d89b-4f54-b5d8-383564863797",
-   "title": {
-    "en": "Doragagaga"
-   },
-   "contentRating": "safe",
-   "score": 0.2370723,
-   "languages": [
-    "ru",
     "en"
    ]
   },
@@ -48,10 +36,22 @@
     "en": "Dragon Ball Heroes - Victory Mission"
    },
    "contentRating": "safe",
-   "score": 0.23563437,
+   "score": 0.2294536,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "27f88fe6-d89b-4f54-b5d8-383564863797",
+   "title": {
+    "en": "Doragagaga"
+   },
+   "contentRating": "safe",
+   "score": 0.2292844,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -60,7 +60,7 @@
     "en": "Dragon Ball X One Piece - Cross Epoch"
    },
    "contentRating": "safe",
-   "score": 0.21333987,
+   "score": 0.20780303,
    "languages": [
     "ca",
     "it",
@@ -71,51 +71,12 @@
    ]
   },
   {
-   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
-   "title": {
-    "en": "Sengoku Basara 3 -Roar of Dragon-"
-   },
-   "contentRating": "safe",
-   "score": 0.2108901,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cdb173d8-51be-40ed-8b88-6ded1b012334",
-   "title": {
-    "en": "The Dragon That Lost Its Eggs Started Raising Me for Some Reason!"
-   },
-   "contentRating": "safe",
-   "score": 0.20726104,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
-   "title": {
-    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
-   },
-   "contentRating": "safe",
-   "score": 0.20720701,
-   "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "it",
-    "fr"
-   ]
-  },
-  {
    "id": "cdae359d-5fa9-4d4e-b11a-69dd32b09742",
    "title": {
     "en": "Apotheosis – Ascension to Godhood"
    },
    "contentRating": "safe",
-   "score": 0.20674825,
+   "score": 0.20676757,
    "languages": [
     "fr",
     "ar",
@@ -123,30 +84,6 @@
     "ru",
     "en",
     "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
-   "title": {
-    "en": "PutOn"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "980afc65-7534-4c58-9954-15ed944fd585",
-   "title": {
-    "en": "Black Mind"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853,
-   "languages": [
-    "en",
     "pl"
    ]
   },
@@ -176,12 +113,62 @@
    ]
   },
   {
+   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
+   "title": {
+    "en": "PutOn"
+   },
+   "contentRating": "safe",
+   "score": 0.20652853,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "980afc65-7534-4c58-9954-15ed944fd585",
+   "title": {
+    "en": "Black Mind"
+   },
+   "contentRating": "safe",
+   "score": 0.20652853,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
+   "title": {
+    "en": "Sengoku Basara 3 -Roar of Dragon-"
+   },
+   "contentRating": "safe",
+   "score": 0.20640515,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92b24841-b7a7-4427-9bb1-df660a301674",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.20331173,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "it",
+    "fr"
+   ]
+  },
+  {
    "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
     "en": "Karakuri"
    },
    "contentRating": "safe",
-   "score": 0.20326222,
+   "score": 0.20312849,
    "languages": [
     "en",
     "pl",
@@ -189,27 +176,40 @@
    ]
   },
   {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
+   "id": "cdb173d8-51be-40ed-8b88-6ded1b012334",
    "title": {
-    "en": "Chou Kasoku Ningen Leo"
+    "en": "The Dragon That Lost Its Eggs Started Raising Me for Some Reason!"
+   },
+   "contentRating": "safe",
+   "score": 0.19906947,
+   "languages": [
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "8ddc80c4-1e38-446a-a3ef-ef17012aea75",
+   "title": {
+    "en": "Dragon Ball Super (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.19896084,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "title": {
+    "en": "Ryuudan Shounen"
    },
    "contentRating": "safe",
    "score": 0.19471695,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "d3b647a4-6b90-4b37-99a1-936f38cd3586",
-   "title": {
-    "en": "レンタルキラー"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695,
-   "languages": [
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:50+00:00"
+ "updatedAt": "2023-12-10T18:30:08+00:00"
 }

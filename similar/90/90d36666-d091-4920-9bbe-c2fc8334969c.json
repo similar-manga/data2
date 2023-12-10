@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "892ed11e-74ba-43a3-a97f-1a48d28052d1",
+   "title": {
+    "en": "Onii-chan wa Se ga Chiisai"
+   },
+   "contentRating": "safe",
+   "score": 0.36133605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ade4a857-7881-4104-9e4c-b004abbcc7fc",
+   "title": {
+    "en": "Minami Nanami Wishes to Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.30113846,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "25886ab0-17f1-4801-b929-6b36fe4e5214",
    "title": {
     "en": "Minami-ke"
    },
    "contentRating": "safe",
-   "score": 0.29636782,
+   "score": 0.2962269,
    "languages": [
     "fr",
     "pt-br",
@@ -24,9 +47,44 @@
    ]
   },
   {
+   "id": "02f05f8c-3beb-4a63-bccb-9d47a563005e",
+   "title": {
+    "en": "Madoka☆Engawa"
+   },
+   "contentRating": "safe",
+   "score": 0.28931078,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
    "title": {
     "en": "Beshari-Gurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5112a67b-7aa4-4a09-b300-0feb67e75222",
+   "title": {
+    "en": "Wana Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "5aa5b618-2634-4863-9338-9d9e5c465965",
+   "title": {
+    "en": "Uchuu Toka to Kurabetara Chippoke na Mondai desu ga"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -49,23 +107,34 @@
    ]
   },
   {
-   "id": "a4430215-86ef-43e8-963d-787f6f8193ae",
+   "id": "c13517e6-49b2-4689-831f-37c305ac4f60",
    "title": {
-    "en": "Queen of the Apartment Complex"
+    "en": "Makabe-sensei's Perfect Plan"
    },
    "contentRating": "safe",
-   "score": 0.2595136,
+   "score": 0.2851258,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fea614e7-a24d-4352-a755-905fa2c63dbe",
+   "id": "31c3ee3e-d806-4499-8a0f-1d7a45b119b9",
    "title": {
-    "en": "Comic Master J"
+    "en": "Oneechan Biyori"
    },
    "contentRating": "safe",
-   "score": 0.24884477,
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
+   "title": {
+    "en": "K-ON! Story Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.28195697,
    "languages": [
     "en"
    ]
@@ -76,144 +145,65 @@
     "en": "Blood Alone"
    },
    "contentRating": "safe",
-   "score": 0.248296,
+   "score": 0.2629999,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "id": "a4430215-86ef-43e8-963d-787f6f8193ae",
    "title": {
-    "en": "Tenshi-chan to Akuma-kun"
+    "en": "Queen of the Apartment Complex"
    },
    "contentRating": "safe",
-   "score": 0.24692619,
+   "score": 0.25959185,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3512d948-2886-4a9a-b0dc-44e02bb67c87",
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
    "title": {
-    "en": "Kagaku Chop"
+    "en": "Kimi no Love o Misetekure!"
    },
    "contentRating": "safe",
-   "score": 0.24692619,
+   "score": 0.25875166,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "881e28c6-2cda-4203-a00d-b00bbebe29bb",
-   "title": {
-    "en": "Otonaninattara Bijinninaruko-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
-   "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "th",
-    "en",
-    "pt-br",
-    "ru",
     "es-la",
-    "de"
-   ]
-  },
-  {
-   "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
-   "title": {
-    "en": "Saki: Achiga-hen - episode of side-A"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "38d84b01-64b6-452c-acde-66d13ecd762b",
-   "title": {
-    "en": "That’s a Bit Much, Kikuchi!!"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "94c7c216-8925-4625-9f04-447cb434ac42",
-   "title": {
-    "en": "Ikioku - The Cooler Half"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ffebdc2-51d3-445c-af11-ab49e01c3f48",
-   "title": {
-    "en": "Kachou Baka Ichidachi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4c156fd-2478-462f-bd33-756521cdc5e5",
-   "title": {
-    "en": "Flat \u0026 Flow"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ed996855-70de-449f-bba2-e8e24224c14d",
-   "title": {
-    "en": "Onii-chan Is Done For!"
-   },
-   "contentRating": "safe",
-   "score": 0.23775491,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "pl",
-    "zh-hk",
-    "it",
-    "fr",
-    "hu",
     "ru",
     "vi",
-    "tr",
-    "cs",
+    "en"
+   ]
+  },
+  {
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+   "title": {
+    "en": "Skip and Loafer"
+   },
+   "contentRating": "safe",
+   "score": 0.25595894,
+   "languages": [
+    "pt-br",
+    "uk",
+    "en",
+    "vi",
     "es-la",
-    "es",
-    "hi",
-    "de"
+    "ru"
+   ]
+  },
+  {
+   "id": "02efd1cb-45bc-4fd2-b34b-73e644e7b4f6",
+   "title": {
+    "en": "Outsider Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.25595018,
+   "languages": [
+    "en",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:42+00:00"
+ "updatedAt": "2023-12-10T18:24:22+00:00"
 }

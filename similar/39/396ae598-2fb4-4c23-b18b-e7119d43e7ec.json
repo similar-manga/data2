@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.23202889,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "25d11bea-fe4e-444c-8199-e74de82474db",
    "title": {
     "en": "Pokémon the Movie 2000: The Power of One"
    },
    "contentRating": "safe",
-   "score": 0.21761525
+   "score": 0.21378721
   },
   {
    "id": "e9c964d8-c840-43c8-b992-9ed82040d94a",
@@ -27,7 +41,7 @@
     "en": "Invitation to Hell"
    },
    "contentRating": "safe",
-   "score": 0.19094768
+   "score": 0.18998097
   },
   {
    "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
@@ -60,9 +74,33 @@
    ]
   },
   {
+   "id": "f3164b36-7009-4ed8-83e3-a67f5c08b32d",
+   "title": {
+    "en": "Nightmare Hunt"
+   },
+   "contentRating": "safe",
+   "score": 0.17988577
+  },
+  {
+   "id": "6246bcc1-19c7-490f-891a-cb09e240d5c5",
+   "title": {
+    "en": "Fushigi-kun School"
+   },
+   "contentRating": "safe",
+   "score": 0.17988577
+  },
+  {
    "id": "64cda4ff-ad53-44cd-b6fb-070b13ebcd0b",
    "title": {
     "en": "Human Face Inuta"
+   },
+   "contentRating": "safe",
+   "score": 0.17988577
+  },
+  {
+   "id": "21cd0234-240b-4d31-8409-12b4486e24f6",
+   "title": {
+    "en": "Gegege no Kitaro (Shigenobu Matsumoto)"
    },
    "contentRating": "safe",
    "score": 0.17988577
@@ -84,24 +122,28 @@
    "score": 0.17988577
   },
   {
-   "id": "6246bcc1-19c7-490f-891a-cb09e240d5c5",
-   "title": {
-    "en": "Fushigi-kun School"
-   },
-   "contentRating": "safe",
-   "score": 0.17988577
-  },
-  {
    "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
    "title": {
     "en": "Naruto: Road to Ninja"
    },
    "contentRating": "safe",
-   "score": 0.17684172,
+   "score": 0.1711167,
    "languages": [
     "en",
     "ru",
     "ro"
+   ]
+  },
+  {
+   "id": "68824871-4838-4683-a1ca-4b86ff2a6638",
+   "title": {
+    "en": "Yu-Gi-Oh! The Movie - Anime Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.17075296,
+   "languages": [
+    "de",
+    "fr"
    ]
   },
   {
@@ -117,66 +159,13 @@
    ]
   },
   {
-   "id": "a9ded06f-15aa-46c5-bb6e-7245161e1de2",
+   "id": "3dab1d7e-959e-4059-b94c-e2be2cec0dae",
    "title": {
-    "en": "I Was Wrong"
+    "en": "Devilman (Masaru Isako)"
    },
    "contentRating": "safe",
-   "score": 0.16767068,
-   "languages": [
-    "pt-br",
-    "it",
-    "uk",
-    "id",
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "9a60ebaa-3b80-4f44-ae78-39fe032e39eb",
-   "title": {
-    "en": "Happy Happy Endorphin"
-   },
-   "contentRating": "safe",
-   "score": 0.16188893,
-   "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "60bb8a16-bba4-482f-bf18-b99701e50b15",
-   "title": {
-    "en": "Oni ni Itaru Doro"
-   },
-   "contentRating": "safe",
-   "score": 0.16188893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3d3ef577-bbd3-455b-92f1-50c5ffd19ef9",
-   "title": {
-    "en": "Hakamo Shonen Jujuhenkei"
-   },
-   "contentRating": "safe",
-   "score": 0.16122681
-  },
-  {
-   "id": "abd66cdc-406c-4bf1-bbd1-29d91c6bc6fc",
-   "title": {
-    "en": "Kyouka-sama no sweet sweet boro house"
-   },
-   "contentRating": "safe",
-   "score": 0.15655757,
-   "languages": [
-    "es-la"
-   ]
+   "score": 0.1695748
   }
  ],
- "updatedAt": "2023-12-10T01:01:57+00:00"
+ "updatedAt": "2023-12-10T18:14:27+00:00"
 }

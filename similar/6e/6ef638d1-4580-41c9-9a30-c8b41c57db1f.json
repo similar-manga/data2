@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "341f197a-6fdf-4f06-931e-ef1eb6e2371e",
+   "title": {
+    "en": "Shadow Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "02c072ca-05d9-4c38-8c9f-0464f75e62a6",
    "title": {
     "en": "City of Sanctuary"
    },
    "contentRating": "safe",
-   "score": 0.21073046,
+   "score": 0.21020725,
    "languages": [
     "pt-br",
     "en",
@@ -24,7 +36,7 @@
     "en": "Zoombie City"
    },
    "contentRating": "safe",
-   "score": 0.20503707,
+   "score": 0.2048498,
    "languages": [
     "en",
     "fr"
@@ -48,10 +60,24 @@
     "en": "21h19min19s"
    },
    "contentRating": "safe",
-   "score": 0.20018573,
+   "score": 0.2000393,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.19867161,
+   "languages": [
+    "en",
+    "ar",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -62,19 +88,6 @@
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "eb76755d-be29-4c9e-84b5-a9120cb402d4",
-   "title": {
-    "en": "Ruler of the Dark Region"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "tr",
     "fr",
     "en"
    ]
@@ -93,15 +106,38 @@
    ]
   },
   {
-   "id": "24e7400d-dbad-4ff4-9ae0-9660102ce823",
+   "id": "efebd87c-1d8e-41db-a9a4-ded4e51aad32",
    "title": {
-    "en": "Rise From the Rubble"
+    "en": "Bokutachi Wa Isekai Geinin Desu"
    },
    "contentRating": "safe",
-   "score": 0.1870439,
+   "score": 0.19047621,
    "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "366d6935-6b2f-4139-8b5f-8221eb0134f7",
+   "title": {
+    "en": "Deception"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "eb76755d-be29-4c9e-84b5-a9120cb402d4",
+   "title": {
+    "en": "Ruler of the Dark Region"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "tr",
     "fr",
-    "pt-br",
     "en"
    ]
   },
@@ -118,12 +154,25 @@
    ]
   },
   {
+   "id": "24e7400d-dbad-4ff4-9ae0-9660102ce823",
+   "title": {
+    "en": "Rise From the Rubble"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "69aa984a-f5c0-4505-a11f-fe50e5fd16c9",
    "title": {
     "en": "Toaru Anbu no ITEM"
    },
    "contentRating": "safe",
-   "score": 0.18547004,
+   "score": 0.18486921,
    "languages": [
     "zh",
     "ru",
@@ -131,6 +180,20 @@
     "en",
     "fr",
     "es-la"
+   ]
+  },
+  {
+   "id": "585c764f-9479-4791-a2d1-ce091d516c69",
+   "title": {
+    "en": "The Magic Chef of Ice and Fire"
+   },
+   "contentRating": "safe",
+   "score": 0.17578904,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "pl"
    ]
   },
   {
@@ -145,72 +208,7 @@
     "id",
     "en"
    ]
-  },
-  {
-   "id": "0491bc8a-bfaf-4732-9503-3ac5c4208aba",
-   "title": {
-    "en": "Bigger Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.17352566,
-   "languages": [
-    "pl",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "9bd8ac10-9f44-4447-8c99-c312ed7a3e7f",
-   "title": {
-    "en": "Element Line"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "bg"
-   ]
-  },
-  {
-   "id": "2900fb63-05c7-4826-8a72-17791730d452",
-   "title": {
-    "en": "Thirsty"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "95fa7d3e-5fcd-4974-85e2-21fbb87a532f",
-   "title": {
-    "en": "Askr Yggdrasil's Wood"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "id",
-    "es",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "08a58ea9-d768-4359-a116-97f5c93407c5",
-   "title": {
-    "en": "Demon Lord Exchange!!"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "vi",
-    "en",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:10+00:00"
+ "updatedAt": "2023-12-10T18:20:20+00:00"
 }

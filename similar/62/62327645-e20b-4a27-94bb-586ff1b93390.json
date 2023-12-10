@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "39ec0116-54af-4b40-87d2-3ffbb28577f0",
+   "title": {
+    "en": "Meiji Tokyo Renka - Moonlight Memories (Anthology)"
+   },
+   "contentRating": "safe",
+   "score": 0.40874043,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "15a15de0-9acc-46e7-816f-1f328311c700",
    "title": {
     "en": "Hanameguri Awase"
    },
    "contentRating": "safe",
-   "score": 0.2982329,
+   "score": 0.29207018,
    "languages": [
     "en"
    ]
@@ -22,22 +33,20 @@
     "en": "My Young Master"
    },
    "contentRating": "safe",
-   "score": 0.28990868,
+   "score": 0.28997314,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
+   "id": "f5a6063b-75bc-4051-af17-9427392ea64a",
    "title": {
-    "en": "Soleil"
+    "en": "Mitsuba Ouji to Ibara no Shukujo"
    },
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
-    "en",
-    "bg",
-    "pl"
+    "en"
    ]
   },
   {
@@ -53,27 +62,16 @@
    ]
   },
   {
-   "id": "5b11ea17-333e-4a70-9589-f986a2b4250f",
+   "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
    "title": {
-    "en": "Hymn of Love"
+    "en": "Soleil"
    },
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
     "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "f5a6063b-75bc-4051-af17-9427392ea64a",
-   "title": {
-    "en": "Mitsuba Ouji to Ibara no Shukujo"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
+    "bg",
+    "pl"
    ]
   },
   {
@@ -91,12 +89,25 @@
    ]
   },
   {
+   "id": "5b11ea17-333e-4a70-9589-f986a2b4250f",
+   "title": {
+    "en": "Hymn of Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
    "title": {
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.2761893,
+   "score": 0.27604362,
    "languages": [
     "es",
     "en"
@@ -108,7 +119,7 @@
     "en": "The Stubborn Tomboy and The Flower"
    },
    "contentRating": "safe",
-   "score": 0.2736411,
+   "score": 0.27377263,
    "languages": [
     "en"
    ]
@@ -119,7 +130,7 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.2690551,
+   "score": 0.26984432,
    "languages": [
     "en",
     "pt-br"
@@ -131,7 +142,7 @@
     "en": "Akuma no Yuuwaku ni, Amaku to Rokeru"
    },
    "contentRating": "safe",
-   "score": 0.25836948,
+   "score": 0.25791925,
    "languages": [
     "pl",
     "pt-br"
@@ -143,7 +154,7 @@
     "en": "Shisei"
    },
    "contentRating": "safe",
-   "score": 0.25671956,
+   "score": 0.25558695,
    "languages": [
     "uk",
     "en",
@@ -151,14 +162,25 @@
    ]
   },
   {
-   "id": "ccd571a0-850d-4b90-a077-53ab0523f008",
+   "id": "8461b426-550d-49f2-89b2-a03429698d77",
    "title": {
-    "en": "Hachimitsu no Hana"
+    "en": "Hana Musubu Kimi e"
    },
    "contentRating": "safe",
-   "score": 0.2561405,
+   "score": 0.25510368,
    "languages": [
-    "pl",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
+   "title": {
+    "en": "Daruma no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.2534157,
+   "languages": [
     "en"
    ]
   },
@@ -168,34 +190,11 @@
     "en": "Ichinen no Koi wa Gantan ni Ari"
    },
    "contentRating": "safe",
-   "score": 0.2536895,
+   "score": 0.2532148,
    "languages": [
     "pt-br"
    ]
-  },
-  {
-   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
-   "title": {
-    "en": "First Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2536197,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
-   "title": {
-    "en": "Daruma no Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.25301823,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:40+00:00"
+ "updatedAt": "2023-12-10T18:18:57+00:00"
 }

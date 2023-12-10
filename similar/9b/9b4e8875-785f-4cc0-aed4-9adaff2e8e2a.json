@@ -11,7 +11,7 @@
     "en": "Space Battleship Yamato 2199: Scarlet-Eyes Ace"
    },
    "contentRating": "safe",
-   "score": 0.36278534
+   "score": 0.36188653
   },
   {
    "id": "64cd0472-db8b-4686-b039-c1b8ffb44cb0",
@@ -19,7 +19,7 @@
     "en": "Yamato Takeru (WATSUKI Nobuhiro)"
    },
    "contentRating": "safe",
-   "score": 0.31096825,
+   "score": 0.30540442,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Queen Emeraldas"
    },
    "contentRating": "safe",
-   "score": 0.29057658,
+   "score": 0.2899577,
    "languages": [
     "es-la"
    ]
@@ -41,29 +41,10 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.28127044,
+   "score": 0.2828688,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Define"
-   },
-   "contentRating": "safe",
-   "score": 0.26556897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
-   "title": {
-    "en": "The Devil Garon"
-   },
-   "contentRating": "safe",
-   "score": 0.26400638
   },
   {
    "id": "37b87be0-b1f4-4507-affa-06c99ebb27f8",
@@ -71,7 +52,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.26359108,
+   "score": 0.26578662,
    "languages": [
     "pt-br",
     "es",
@@ -85,12 +66,31 @@
    ]
   },
   {
+   "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam Define"
+   },
+   "contentRating": "safe",
+   "score": 0.26509637,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
+   "title": {
+    "en": "The Devil Garon"
+   },
+   "contentRating": "safe",
+   "score": 0.2643882
+  },
+  {
    "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
    "title": {
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.24907045,
+   "score": 0.25012964,
    "languages": [
     "en"
    ]
@@ -101,7 +101,7 @@
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.24416625,
+   "score": 0.24323204,
    "languages": [
     "en"
    ]
@@ -112,7 +112,7 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.24274513,
+   "score": 0.24307826,
    "languages": [
     "en"
    ]
@@ -123,7 +123,7 @@
     "en": "Neon Genesis Evangelion - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.24206847,
+   "score": 0.24208142,
    "languages": [
     "fr"
    ]
@@ -134,7 +134,7 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.23878753,
+   "score": 0.23920085,
    "languages": [
     "en"
    ]
@@ -145,7 +145,7 @@
     "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
-   "score": 0.23866329,
+   "score": 0.23882478,
    "languages": [
     "en"
    ]
@@ -156,18 +156,10 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.23780423,
+   "score": 0.2378191,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c7665fcd-6e62-4283-8651-5e5b0aed9d73",
-   "title": {
-    "en": "Z Gundam - Side Story"
-   },
-   "contentRating": "safe",
-   "score": 0.23203322
   },
   {
    "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
@@ -175,11 +167,19 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.23156886,
+   "score": 0.23154587,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "affdac0b-b91e-40d5-81bd-642ece74bb0d",
+   "title": {
+    "en": "Mobile Suit Gundam: Iron-Blooded Orphans"
+   },
+   "contentRating": "safe",
+   "score": 0.23136719
   }
  ],
- "updatedAt": "2023-12-10T01:06:11+00:00"
+ "updatedAt": "2023-12-10T18:25:36+00:00"
 }

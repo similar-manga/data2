@@ -6,38 +6,105 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "18b65fea-2344-4fd2-9fb2-f44e40070219",
+   "title": {
+    "en": "The Elegant Sea of Savagery"
+   },
+   "contentRating": "safe",
+   "score": 0.31329656,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "86a379af-e252-4173-a36a-d2398b8af0b8",
+   "title": {
+    "en": "Don't Tempt Me, Oppa"
+   },
+   "contentRating": "safe",
+   "score": 0.28109875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0579795d-b500-4308-bfee-9af4b44d97dc",
    "title": {
     "en": "Zenith"
    },
    "contentRating": "safe",
-   "score": 0.28107995,
+   "score": 0.2803759,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "45856dc8-e838-4faa-8a4f-7b5afc33bc6b",
+   "id": "87805d71-2e41-4cca-b91b-bb6833324736",
    "title": {
-    "en": "The Duchess of the Glass House"
+    "en": "Step Aside, I Will Choose the Ending"
    },
    "contentRating": "safe",
-   "score": 0.2800804,
+   "score": 0.27709088,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e1960cba-b7bc-46eb-a91d-d817089a5718",
+   "title": {
+    "en": "Choppy Waters"
+   },
+   "contentRating": "safe",
+   "score": 0.26909277,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9f43e744-1e80-40c1-979a-4e4b9d469ccc",
+   "id": "4863cc89-5c2b-4f9f-a6a8-b81c4de9baa3",
    "title": {
-    "en": "Love Hawk"
+    "en": "Justice for the Villainess"
    },
    "contentRating": "safe",
-   "score": 0.2586163,
+   "score": 0.2680592,
    "languages": [
-    "en",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "80024c98-4498-4fa6-8328-61ceed882267",
+   "title": {
+    "en": "Cinderella Wasn't Me"
+   },
+   "contentRating": "safe",
+   "score": 0.26649642,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c486616e-e991-4f13-b429-ed9671ff3569",
+   "title": {
+    "en": "Elizabeth"
+   },
+   "contentRating": "safe",
+   "score": 0.25876215,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1255ce2-8367-46a5-aa69-325651e045b1",
+   "title": {
+    "en": "Once Married"
+   },
+   "contentRating": "safe",
+   "score": 0.25728124,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -46,12 +113,24 @@
     "en": "Revolutionary Princess Eve"
    },
    "contentRating": "safe",
-   "score": 0.25840312,
+   "score": 0.2570062,
    "languages": [
     "en",
     "es-la",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "9f43e744-1e80-40c1-979a-4e4b9d469ccc",
+   "title": {
+    "en": "Love Hawk"
+   },
+   "contentRating": "safe",
+   "score": 0.25656503,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -60,154 +139,58 @@
     "en": "Marriage B"
    },
    "contentRating": "safe",
-   "score": 0.25637144,
+   "score": 0.25562897,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "30034224-4f37-4c6b-87bb-e986f8ef55e6",
+   "id": "288dc5a9-9fab-40ee-86d7-db74e3c589bd",
    "title": {
-    "en": "This Wasn't My Plan"
+    "en": "The Duke's Imposter Sister"
    },
    "contentRating": "safe",
-   "score": 0.25242096,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2c76e57a-cb98-417b-b37a-8b140f8b0c41",
-   "title": {
-    "en": "Ugly Woman’s Harem Code"
-   },
-   "contentRating": "safe",
-   "score": 0.24489798,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "b5e63a2f-f4bc-4c3d-8b25-7b137385abb3",
-   "title": {
-    "en": "Reborn to Be a Movie Queen"
-   },
-   "contentRating": "safe",
-   "score": 0.24143237,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2a7b6835-b00e-44a2-af9d-74a7e0aef038",
-   "title": {
-    "en": "Pink Lady Classic"
-   },
-   "contentRating": "safe",
-   "score": 0.22908106,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0f8aafc-6338-4f97-a988-4400bf0e5f0c",
-   "title": {
-    "ko": "The Essence of a Perfect Marriage"
-   },
-   "contentRating": "safe",
-   "score": 0.22756676,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "ec2f9e28-2b9d-49ad-a6fd-6b7cf47fbd6a",
-   "title": {
-    "en": "Marriage and Sword"
-   },
-   "contentRating": "safe",
-   "score": 0.22578605,
+   "score": 0.25532612,
    "languages": [
     "es-la",
-    "pl",
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "79cdea01-85bc-40be-b1a2-ff41004cb7bf",
+   "id": "02541091-9e86-4dee-ba4a-765be5c9671d",
    "title": {
-    "en": "I Will Become the Hero's Mother"
+    "en": "Reluctant To Go"
    },
    "contentRating": "safe",
-   "score": 0.22420856,
-   "languages": [
-    "en",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "70e3336d-c55e-4eee-be72-45cc82eb46dd",
-   "title": {
-    "en": "Please Don't Eat Me!"
-   },
-   "contentRating": "safe",
-   "score": 0.2181453,
-   "languages": [
-    "mn",
-    "en",
-    "pl",
-    "pt-br",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "e1847df1-db22-4279-95e2-9dbbbd1bbfbc",
-   "title": {
-    "en": "Father, I Don't Want This Marriage!"
-   },
-   "contentRating": "safe",
-   "score": 0.21775417,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "fr",
-    "vi",
-    "uk",
-    "my",
-    "es",
-    "pl",
-    "id"
-   ]
-  },
-  {
-   "id": "bfcc8c6d-b846-44ee-ae29-54360fdeef47",
-   "title": {
-    "en": "Pink Blossoms Mirror Your Beauty"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
+   "score": 0.2551566,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fc710f38-1698-4fa5-9d57-3799eb2ba29d",
+   "id": "73d08129-ab40-4cdc-b2d4-c091b3789f08",
    "title": {
-    "en": "My Hubby Is Too Cute!"
+    "en": "The Problematic Prince"
    },
    "contentRating": "safe",
-   "score": 0.21411915,
+   "score": 0.25431642,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "0998984d-78ba-4c6d-b2b7-7c3bbe3a9759",
+   "title": {
+    "en": "My Reason to Die"
+   },
+   "contentRating": "safe",
+   "score": 0.25276473,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:10+00:00"
+ "updatedAt": "2023-12-10T18:23:01+00:00"
 }

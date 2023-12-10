@@ -11,7 +11,7 @@
     "en": "PTSD Radio"
    },
    "contentRating": "safe",
-   "score": 0.2081311,
+   "score": 0.21128364,
    "languages": [
     "pt-br",
     "pl",
@@ -44,6 +44,18 @@
    ]
   },
   {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.18148153,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
    "title": {
     "en": "Fool Night"
@@ -68,17 +80,6 @@
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
-   "title": {
-    "en": "Godzilla vs. Destroyah Red"
-   },
-   "contentRating": "safe",
-   "score": 0.17156892,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -148,9 +149,33 @@
     "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.16081217,
+   "score": 0.16373654,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
+   "title": {
+    "en": "Kono Ko Shirimasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.16149099,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "ff965654-6783-430e-91bb-27307d88109c",
+   "title": {
+    "en": "Impermanence Resonating: An Attempt at a SF Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.16009445,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -167,18 +192,6 @@
    ]
   },
   {
-   "id": "ff965654-6783-430e-91bb-27307d88109c",
-   "title": {
-    "en": "Impermanence Resonating: An Attempt at a SF Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.158306,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
    "title": {
     "en": "The Comeback of the Demon King"
@@ -189,21 +202,7 @@
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "9ef6e461-033b-4976-b222-943856c94a97",
-   "title": {
-    "en": "Smiley"
-   },
-   "contentRating": "safe",
-   "score": 0.1541505,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:58+00:00"
+ "updatedAt": "2023-12-10T18:11:42+00:00"
 }

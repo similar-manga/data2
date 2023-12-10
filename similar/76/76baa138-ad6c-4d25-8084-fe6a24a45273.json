@@ -11,7 +11,7 @@
     "en": "It Was Almost As If"
    },
    "contentRating": "safe",
-   "score": 0.3279764,
+   "score": 0.32651505,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "A Violet at Zero Degrees Kelvin"
    },
    "contentRating": "safe",
-   "score": 0.31606382,
+   "score": 0.31413463,
    "languages": [
     "en"
    ]
@@ -34,9 +34,21 @@
     "en": "The Student Council President's Intention... (♡)"
    },
    "contentRating": "safe",
-   "score": 0.2961144,
+   "score": 0.29202285,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "2d23ea8c-6368-4a98-a7b0-6e90ac782d0c",
+   "title": {
+    "en": "Tousled Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
+    "it",
     "en"
    ]
   },
@@ -63,25 +75,13 @@
    ]
   },
   {
-   "id": "4ccbf4dd-3ac0-4e2a-b9f4-1c253f60a2be",
+   "id": "c555aad2-ade9-4995-acff-9fbec7e1b140",
    "title": {
-    "en": "The Devil and Me and Ichikawa-san"
+    "en": "Ma Chérie"
    },
    "contentRating": "safe",
    "score": 0.2841444,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d23ea8c-6368-4a98-a7b0-6e90ac782d0c",
-   "title": {
-    "en": "Tousled Melancholy"
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "it",
     "en"
    ]
   },
@@ -111,28 +111,6 @@
    ]
   },
   {
-   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
-   "title": {
-    "en": "Love Story ~Aiwa~"
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c555aad2-ade9-4995-acff-9fbec7e1b140",
-   "title": {
-    "en": "Ma Chérie"
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8fdd8766-398a-4015-b594-24c8d0e155e6",
    "title": {
     "en": "Senpai no Tokubetsu"
@@ -145,12 +123,34 @@
    ]
   },
   {
+   "id": "4ccbf4dd-3ac0-4e2a-b9f4-1c253f60a2be",
+   "title": {
+    "en": "The Devil and Me and Ichikawa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
+   "title": {
+    "en": "Love Story ~Aiwa~"
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c66f6b4e-9540-4d4a-a6c2-59ef81bfea0d",
    "title": {
     "en": "Omote demo Ura demo Ijimerareteru (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.28114823,
+   "score": 0.27699196,
    "languages": [
     "en"
    ]
@@ -161,7 +161,7 @@
     "en": "The Popular Prince and the Sharp-Tongued Girl"
    },
    "contentRating": "safe",
-   "score": 0.26592833,
+   "score": 0.263843,
    "languages": [
     "en",
     "vi"
@@ -173,7 +173,7 @@
     "en": "A Story About a Senpai Who Can't Get Better Test Scores and a Kouhai Who Actually Can"
    },
    "contentRating": "safe",
-   "score": 0.26382512,
+   "score": 0.2622795,
    "languages": [
     "en",
     "id",
@@ -187,7 +187,7 @@
     "en": "Haru Natsu Aki Fuyu"
    },
    "contentRating": "safe",
-   "score": 0.26184788,
+   "score": 0.26111248,
    "languages": [
     "en",
     "it",
@@ -195,5 +195,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:29+00:00"
+ "updatedAt": "2023-12-10T18:21:14+00:00"
 }

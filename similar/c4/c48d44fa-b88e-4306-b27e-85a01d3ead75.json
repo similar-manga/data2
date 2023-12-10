@@ -6,12 +6,47 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f5a96d49-5af0-4831-93bc-71c54fb30f0d",
+   "id": "b5fe36a6-a45b-48a9-baff-1fef19012abf",
    "title": {
-    "en": "Buddy Complex"
+    "en": "Harahara Sensei"
    },
    "contentRating": "safe",
-   "score": 0.19751832
+   "score": 0.22642861,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
+   "id": "fea2cd57-51b9-46bb-8383-fdc85e4e19c7",
+   "title": {
+    "en": "Matinee to Soiree"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "594da5f8-a665-4199-be91-365b8ff1992f",
+   "title": {
+    "en": "Jinrou Game: Lost Eden"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "c366c4c7-67eb-4c8b-a6bb-a12b0537415a",
+   "title": {
+    "en": "Gatenshi"
+   },
+   "contentRating": "safe",
+   "score": 0.20975593
+  },
+  {
+   "id": "8449a8da-389f-4370-8c24-96b21915e48d",
+   "title": {
+    "en": "Tsukimonogakari"
+   },
+   "contentRating": "safe",
+   "score": 0.20631869
   },
   {
    "id": "3de7d8ae-6411-4d3f-8181-d2baefe04516",
@@ -19,7 +54,7 @@
     "en": "Shingeki no Kyojin (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.19734307,
+   "score": 0.19676079,
    "languages": [
     "fr",
     "en",
@@ -27,15 +62,31 @@
    ]
   },
   {
+   "id": "f5a96d49-5af0-4831-93bc-71c54fb30f0d",
+   "title": {
+    "en": "Buddy Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.1965817
+  },
+  {
    "id": "ba21f941-44c7-466b-9682-18b3776b8c83",
    "title": {
     "en": "Venus Versus Virus"
    },
    "contentRating": "safe",
-   "score": 0.19578676,
+   "score": 0.1952655,
    "languages": [
     "pl"
    ]
+  },
+  {
+   "id": "f2c5bc1e-7987-4220-b7a5-55c2c459e840",
+   "title": {
+    "en": "Kaibutsu Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.19497678
   },
   {
    "id": "84a9b1ee-26ac-48df-9d9c-532b140a0324",
@@ -50,6 +101,14 @@
    ]
   },
   {
+   "id": "5e747404-cee0-4e76-9172-1522f2028268",
+   "title": {
+    "en": "Seigi no Satsujinki"
+   },
+   "contentRating": "safe",
+   "score": 0.19422014
+  },
+  {
    "id": "3eaf2fe0-ec49-4f97-8611-5e1b76dc41f5",
    "title": {
     "en": "After Darkness"
@@ -62,12 +121,20 @@
    ]
   },
   {
+   "id": "b71eb333-f282-4dfc-86c0-8bbdedd0ad47",
+   "title": {
+    "en": "Sangekitou no Mowgli"
+   },
+   "contentRating": "safe",
+   "score": 0.19032334
+  },
+  {
    "id": "cd4abe42-ebff-42b6-a684-3295b1b39202",
    "title": {
     "en": "Avengers / Zombies Assemble"
    },
    "contentRating": "safe",
-   "score": 0.18738692
+   "score": 0.18687482
   },
   {
    "id": "0a393e6f-c8ac-4231-862e-f8f4ea735532",
@@ -81,104 +148,16 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
-   "title": {
-    "en": "Watashi wa Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.18179902,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "107dfe51-caf8-4deb-9c60-a73c6fe2d9b6",
    "title": {
     "en": "Maya - Midnight Girl"
    },
    "contentRating": "safe",
-   "score": 0.18165304,
+   "score": 0.18111113,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "07bb19d8-7ea3-47b1-b998-3f5a5b0389e1",
-   "title": {
-    "en": "Yaoguai Faan"
-   },
-   "contentRating": "safe",
-   "score": 0.17780721,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
-   "title": {
-    "en": "2 x Bone"
-   },
-   "contentRating": "safe",
-   "score": 0.17598277,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.1747999,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "d9612742-4d61-4f25-9de7-8e341e66e18c",
-   "title": {
-    "en": "Higurashi no Naku Koro ni Meguri"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "it",
-    "es-la"
-   ]
-  },
-  {
-   "id": "17b910e5-7fd1-4aef-8904-c0bd3820ae04",
-   "title": {
-    "en": "Guyver"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
-   "title": {
-    "en": "Pilot Ace"
-   },
-   "contentRating": "safe",
-   "score": 0.1684416
-  },
-  {
-   "id": "c307ed94-24eb-4aab-84b3-59229b240401",
-   "title": {
-    "en": "DIGITAL DEVIL SAGA: Avatar Tuner: Magic Tower of the Abyss"
-   },
-   "contentRating": "safe",
-   "score": 0.16641006
   }
  ],
- "updatedAt": "2023-12-10T01:07:52+00:00"
+ "updatedAt": "2023-12-10T18:30:12+00:00"
 }

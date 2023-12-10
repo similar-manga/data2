@@ -6,6 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "192f8421-55f9-46e2-9c6e-87a88c2f048a",
+   "title": {
+    "en": "Hametsu no Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.2116623,
+   "languages": [
+    "vi",
+    "en",
+    "es",
+    "pt-br"
+   ]
+  },
+  {
    "id": "9ef6e461-033b-4976-b222-943856c94a97",
    "title": {
     "en": "Smiley"
@@ -25,7 +39,7 @@
     "en": "【Oshi no Ko】"
    },
    "contentRating": "safe",
-   "score": 0.19499232,
+   "score": 0.19518152,
    "languages": [
     "fr",
     "en",
@@ -60,12 +74,47 @@
    ]
   },
   {
+   "id": "89b23664-94b6-4dda-b0b0-ebee71f67653",
+   "title": {
+    "en": "Happy Family - Fukushuu no Rental Okaa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
+   "title": {
+    "en": "Kono Ko Shirimasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.17441186,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "f052fabc-7687-4140-ba3a-22e43009cd3d",
    "title": {
     "en": "Oni (KANNO Osamu)"
    },
    "contentRating": "safe",
    "score": 0.16495723,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "ecea082b-7340-4cff-959e-4dacca53ba82",
+   "title": {
+    "en": "Shepherd House Hotel"
+   },
+   "contentRating": "safe",
+   "score": 0.15166584,
    "languages": [
     "vi",
     "en"
@@ -95,6 +144,18 @@
    ]
   },
   {
+   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
+   "title": {
+    "en": "Rewrite: SIDE-R"
+   },
+   "contentRating": "safe",
+   "score": 0.14067599,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "8af33c74-2779-4e2e-94ab-d614762ab499",
    "title": {
     "en": "My Home Hero"
@@ -109,18 +170,6 @@
     "zh-hk",
     "vi",
     "id"
-   ]
-  },
-  {
-   "id": "81a56f27-14dd-485e-b56f-ef950f504653",
-   "title": {
-    "en": "Rewrite: SIDE-B"
-   },
-   "contentRating": "safe",
-   "score": 0.134687,
-   "languages": [
-    "vi",
-    "es-la"
    ]
   },
   {
@@ -141,106 +190,53 @@
    ]
   },
   {
+   "id": "67258389-41e4-4e3e-8d1b-ac7eed806623",
+   "title": {
+    "en": "My Arika"
+   },
+   "contentRating": "safe",
+   "score": 0.134687,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "81a56f27-14dd-485e-b56f-ef950f504653",
+   "title": {
+    "en": "Rewrite: SIDE-B"
+   },
+   "contentRating": "safe",
+   "score": 0.134687,
+   "languages": [
+    "vi",
+    "es-la"
+   ]
+  },
+  {
    "id": "3c02db13-64d2-40b3-8778-ecf4749dbd01",
    "title": {
     "en": "Little Busters!"
    },
    "contentRating": "safe",
-   "score": 0.13457991,
+   "score": 0.13374761,
    "languages": [
     "vi"
    ]
   },
   {
-   "id": "81a83950-5b5c-474d-80b4-c92a864d73c1",
+   "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
    "title": {
-    "en": "Playback I Love You"
+    "en": "Replica Datte, Koi wo suru."
    },
    "contentRating": "safe",
-   "score": 0.11664238,
+   "score": 0.13239998,
    "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
-   "title": {
-    "en": "Double"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "fb7f0a28-4a41-438e-9289-c12e9912627b",
-   "title": {
-    "en": "Twinkling Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.11193732,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
-   "title": {
-    "en": "Rewrite: SIDE-R"
-   },
-   "contentRating": "safe",
-   "score": 0.105506994,
-   "languages": [
+    "ru",
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "82c6b4cd-9137-44cf-ad80-32fae40ca499",
-   "title": {
-    "en": "Renri no Eda"
-   },
-   "contentRating": "safe",
-   "score": 0.10432811,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
-   "title": {
-    "en": "Tsugumi Project"
-   },
-   "contentRating": "safe",
-   "score": 0.10432811,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "511d3218-df57-4cab-8510-d88a5a96a951",
-   "title": {
-    "en": "49th Confession"
-   },
-   "contentRating": "safe",
-   "score": 0.095238104,
-   "languages": [
-    "th",
-    "pt-br",
-    "es-la",
-    "vi",
-    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:39+00:00"
+ "updatedAt": "2023-12-10T18:27:01+00:00"
 }

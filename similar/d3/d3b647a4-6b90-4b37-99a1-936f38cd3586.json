@@ -24,7 +24,7 @@
     "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.24776602,
+   "score": 0.25080785,
    "languages": [
     "en",
     "pt-br",
@@ -37,7 +37,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.24301904,
+   "score": 0.24260677,
    "languages": [
     "pt-br",
     "pl",
@@ -52,7 +52,7 @@
     "en": "Sakamoto"
    },
    "contentRating": "safe",
-   "score": 0.23642598,
+   "score": 0.23534784,
    "languages": [
     "it",
     "vi",
@@ -92,18 +92,18 @@
    ]
   },
   {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
+   "id": "13f600ad-cc77-473d-b08c-a70240643fe0",
    "title": {
-    "en": "Bleach (Pre-Serialization)"
+    "en": "Lawless Kid"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
-    "ru",
     "pt-br",
-    "es",
-    "fr"
+    "fr",
+    "ru",
+    "vi",
+    "en"
    ]
   },
   {
@@ -117,21 +117,6 @@
     "en",
     "vi",
     "pt-br"
-   ]
-  },
-  {
-   "id": "13f600ad-cc77-473d-b08c-a70240643fe0",
-   "title": {
-    "en": "Lawless Kid"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "fr",
-    "ru",
-    "vi",
-    "en"
    ]
   },
   {
@@ -149,12 +134,27 @@
    ]
   },
   {
+   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
+   "title": {
+    "en": "Bleach (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es",
+    "fr"
+   ]
+  },
+  {
    "id": "2f38f1ed-ec14-4225-8ef8-f8400a5dca1b",
    "title": {
     "en": "Megaton Punch!"
    },
    "contentRating": "safe",
-   "score": 0.22068325,
+   "score": 0.22094968,
    "languages": [
     "pt-br"
    ]
@@ -165,7 +165,7 @@
     "en": "Janpu ru-ki-! No koukoku shuunyuu ha zengaku, sakusha ni hairu hanashi"
    },
    "contentRating": "safe",
-   "score": 0.21283828,
+   "score": 0.21214609,
    "languages": [
     "pt-br"
    ]
@@ -176,11 +176,35 @@
     "en": "13"
    },
    "contentRating": "safe",
-   "score": 0.210362,
+   "score": 0.20956784,
    "languages": [
     "es",
     "ca",
     "pl",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f1040779-1ea2-4d22-99e3-e53aeec85cff",
+   "title": {
+    "en": "Zaji of the Thunder Special Arc: Haruka Kanata"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e7078d3c-a46b-44e6-af95-0f69f54e8562",
+   "title": {
+    "en": "Leftover Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
     "pt-br",
     "en"
    ]
@@ -198,36 +222,7 @@
     "zh-hk",
     "en"
    ]
-  },
-  {
-   "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
-   "title": {
-    "en": "Space Battleship Silver Seven"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "fr",
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c3f01e7a-01e0-4889-90bf-e4850881c980",
-   "title": {
-    "en": "Tiger Dragon Brothers"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl",
-    "id",
-    "pt-br",
-    "en",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:29+00:00"
+ "updatedAt": "2023-12-10T18:31:47+00:00"
 }

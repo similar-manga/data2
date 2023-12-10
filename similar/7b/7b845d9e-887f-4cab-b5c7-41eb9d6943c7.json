@@ -6,6 +6,43 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dba7fa3a-2d13-4e07-b504-2dce265a1387",
+   "title": {
+    "en": "BATMAN and THE JUSTICE LEAGUE"
+   },
+   "contentRating": "safe",
+   "score": 0.7146789,
+   "languages": [
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "c5b2a1ce-051e-4e8e-a2fa-6a2866b1784a",
+   "title": {
+    "en": "Batman: Justice Buster"
+   },
+   "contentRating": "safe",
+   "score": 0.35704663,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c5b39130-c0ab-453a-8061-a9b4ab12875f",
+   "title": {
+    "en": "League of Legends Hero's Faith"
+   },
+   "contentRating": "safe",
+   "score": 0.27139115,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
    "title": {
     "en": "Rad and Rinpu"
@@ -70,17 +107,17 @@
    ]
   },
   {
-   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
    "title": {
-    "en": "Joreishi Rentaro no Yakusoku"
+    "en": "Junk the Black Shadow"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "it",
+    "en",
+    "id",
     "pt-br",
-    "zh-hk",
-    "en"
+    "it"
    ]
   },
   {
@@ -98,12 +135,65 @@
    ]
   },
   {
+   "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
+   "title": {
+    "en": "Zhan Long 2"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
+   "title": {
+    "en": "Joreishi Rentaro no Yakusoku"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "it",
+    "pt-br",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "12516ba2-94b0-4a20-abff-f1e488e0da39",
+   "title": {
+    "en": "The Doctor's Supremacy"
+   },
+   "contentRating": "safe",
+   "score": 0.24586181,
+   "languages": [
+    "id",
+    "en",
+    "tr",
+    "fr",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "229870d1-ec63-47f0-83d6-3d237ce7dc71",
+   "title": {
+    "en": "The First Ancestor In History"
+   },
+   "contentRating": "safe",
+   "score": 0.24400994,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "057f5360-c37c-4619-a6a4-cb5aea7f5f6a",
    "title": {
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.24212837,
+   "score": 0.24376482,
    "languages": [
     "en",
     "ca",
@@ -111,112 +201,16 @@
    ]
   },
   {
-   "id": "7336ba26-68f6-4b02-8b26-6199562f8033",
+   "id": "2056148a-14da-4acb-a27f-bd5aa3c40b44",
    "title": {
-    "en": "Shounen Endless"
+    "en": "Saint Seiya - Golden Age"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "d97fe2cf-6a94-4a2a-ab54-8ede4501172f",
-   "title": {
-    "en": "Dorachuu"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "af1cb4ae-eab2-464e-b8cf-d2535b22d8ba",
-   "title": {
-    "en": "Tropicalia"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "de"
-   ]
-  },
-  {
-   "id": "5126cf3d-7d9b-470d-85c4-67158d5d06be",
-   "title": {
-    "en": "Saint Seiya - Tenkai-hen Joso Overture"
-   },
-   "contentRating": "safe",
-   "score": 0.22706765,
+   "score": 0.23435542,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "cc278f6d-3030-4f53-9987-eab57e184738",
-   "title": {
-    "en": "The Return of the Four Great Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.22441462,
-   "languages": [
-    "ru",
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
-   "title": {
-    "en": "Can You Fall in Love With the Skeleton?"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en",
-    "fr",
-    "it",
-    "es-la",
-    "pt-br",
-    "tr",
-    "vi"
-   ]
-  },
-  {
-   "id": "ce4c29b4-dd3f-46ef-b7a3-f68c59596344",
-   "title": {
-    "en": "Magical Record Lyrical Nanoha Force"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a6941e9c-c584-4fca-bed7-04facd58af5b",
-   "title": {
-    "en": "Fate/Grand Order: Qin Shi Huang's Interlude - The Melancholy of a Ruler"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pt-br",
-    "id",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:43+00:00"
+ "updatedAt": "2023-12-10T18:21:50+00:00"
 }

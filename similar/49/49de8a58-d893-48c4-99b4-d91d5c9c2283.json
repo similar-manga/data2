@@ -6,35 +6,93 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cf4e99ba-3156-4c1d-99ab-e7c4c0c40173",
+   "title": {
+    "en": "Sekai de Ichiban Daikirai"
+   },
+   "contentRating": "safe",
+   "score": 0.30392325,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a46b7ba2-4b1b-4976-8b6a-07eee7f42ac6",
    "title": {
     "en": "Konya, Kimi ni Ai ni Iku"
    },
    "contentRating": "safe",
-   "score": 0.30487818,
+   "score": 0.30376804,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
+   "id": "fe076f6b-1200-478b-81b4-716004998a8c",
    "title": {
-    "en": "Funny Money Rich Girl"
+    "en": "Murai's Love"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.30318996,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
+   "id": "13e214c3-965b-4e05-9f68-e53a62c9be62",
    "title": {
-    "en": "Otome Holic"
+    "en": "Pujo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.30257404,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "31d2421e-d94b-4549-89a8-a0cf0286bd29",
+   "title": {
+    "en": "Love Story, Not!"
+   },
+   "contentRating": "safe",
+   "score": 0.30212033,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b88ba0fd-9332-4207-b3d9-5dd8e21f966b",
+   "title": {
+    "en": "Yokubari na Bokura"
+   },
+   "contentRating": "safe",
+   "score": 0.2983002,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "85203b57-742c-4f0b-aa02-002b37b384e1",
+   "title": {
+    "en": "Airin Dream"
+   },
+   "contentRating": "safe",
+   "score": 0.29431534,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "853f628b-ac25-4865-9f72-3f45d86f798b",
+   "title": {
+    "en": "Tonari no Stella"
+   },
+   "contentRating": "safe",
+   "score": 0.29430366,
+   "languages": [
+    "pt-br",
+    "vi",
+    "ru",
     "fr",
     "en"
    ]
@@ -43,28 +101,6 @@
    "id": "4cd03ffa-a9cb-4d45-8218-1f50dcf26367",
    "title": {
     "en": "You Are My Everything"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "584dc44c-62af-4ab2-adb6-efcf7eee77da",
-   "title": {
-    "en": "Café Café"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a47e7c2e-7e4b-4236-a137-215b76110197",
-   "title": {
-    "en": "Afternoon Lavendar"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -84,107 +120,73 @@
    ]
   },
   {
-   "id": "4db29a32-6218-4321-be4b-6d9aa829d399",
+   "id": "70f32566-2e99-4d75-98ca-e870d206ece8",
    "title": {
-    "en": "Nandemo Arisa"
+    "en": "Fukigen na Majou to Uchiki na Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.27813923,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ce02c6b3-2537-4fa2-af4d-93cd81c9973c",
+   "id": "94617c4c-c997-4d2c-8888-64c8134ba187",
    "title": {
-    "en": "Big Sister VS Big Brother"
+    "en": "I'm Not a Maid!"
    },
    "contentRating": "safe",
-   "score": 0.27694178,
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f16e3d37-0a3e-47f3-bae6-6689491718a3",
+   "title": {
+    "en": "Tsuzuki wa Mata Ashita"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a47e7c2e-7e4b-4236-a137-215b76110197",
+   "title": {
+    "en": "Afternoon Lavendar"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37e8bcef-918f-4220-ac81-53f3a5919304",
+   "title": {
+    "en": "Noraneko to Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en",
-    "fr"
+    "pt-br"
    ]
   },
   {
-   "id": "e43f128a-9514-4e50-bb9f-3abae4ffa4d8",
+   "id": "a985f6c8-e021-41c8-91b9-b3bbd2f60502",
    "title": {
-    "en": "Romanticist Egoist"
+    "en": "My Idol Came to My House!"
    },
    "contentRating": "safe",
-   "score": 0.27617648,
+   "score": 0.2857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "948d4500-2069-44d8-8221-ec28f7c3c1e0",
-   "title": {
-    "en": "Yuan Wei Cu Ji"
-   },
-   "contentRating": "safe",
-   "score": 0.26527447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1fec680f-b416-4f46-b6a0-a27470871572",
-   "title": {
-    "en": "Darling Only You!"
-   },
-   "contentRating": "safe",
-   "score": 0.2640043,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "5d475ef5-6afb-4ce7-9890-9a216de9efc4",
-   "title": {
-    "en": "Hadashi no Aitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.2624726,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b513a831-e785-41d3-9c3a-02144a62b7f3",
-   "title": {
-    "en": "Snow Gift"
-   },
-   "contentRating": "safe",
-   "score": 0.25935256,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "eda7ada1-5f8d-4b85-bf89-73add83e8458",
-   "title": {
-    "en": "Goshimei Arigatou Gozaimasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.25836158,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e161f886-ec1a-44ff-8769-0831f2348e06",
-   "title": {
-    "en": "Don't Believe Her"
-   },
-   "contentRating": "safe",
-   "score": 0.25768694,
-   "languages": [
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:37+00:00"
+ "updatedAt": "2023-12-10T18:16:17+00:00"
 }

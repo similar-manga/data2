@@ -6,6 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
+   "title": {
+    "en": "Minecraft: Journey to the World's End"
+   },
+   "contentRating": "safe",
+   "score": 0.20945321,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a12bbc1f-06f7-4793-9538-7bf4da66ba0f",
+   "title": {
+    "en": "Rockman world 5"
+   },
+   "contentRating": "safe",
+   "score": 0.20649998,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
    "id": "6b3008ad-3642-4152-b0de-b7aed387898a",
    "title": {
     "en": "Wonder X"
@@ -36,7 +59,7 @@
     "en": "NEO: The World Ends with You"
    },
    "contentRating": "safe",
-   "score": 0.19953345,
+   "score": 0.1965259,
    "languages": [
     "en"
    ]
@@ -47,26 +70,36 @@
     "en": "Infinite Dendrogram"
    },
    "contentRating": "safe",
-   "score": 0.19803503,
+   "score": 0.19554089,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "932158c8-1f78-4f8d-be23-b205c479fe80",
+   "id": "78fa40bc-59eb-499f-a485-774f0bf5d446",
    "title": {
-    "en": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu"
+    "en": "Naka no Hito Genome [Jikkyouchuu]"
    },
    "contentRating": "safe",
-   "score": 0.19275504,
+   "score": 0.1943671,
    "languages": [
-    "es-la",
-    "it",
-    "en",
-    "de",
     "id",
+    "fa",
     "pt-br",
-    "ru"
+    "en",
+    "pl",
+    "es"
+   ]
+  },
+  {
+   "id": "8440b7c1-e076-424c-874c-6944dcbb3b89",
+   "title": {
+    "en": "Dark Edge"
+   },
+   "contentRating": "safe",
+   "score": 0.19243102,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -83,15 +116,20 @@
    ]
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "932158c8-1f78-4f8d-be23-b205c479fe80",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu"
    },
    "contentRating": "safe",
-   "score": 0.19008502,
+   "score": 0.19221567,
    "languages": [
+    "es-la",
+    "it",
     "en",
-    "pl"
+    "de",
+    "id",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -100,7 +138,7 @@
     "en": "Blue Archive: Problem Solver 68 Business Diary"
    },
    "contentRating": "safe",
-   "score": 0.18744165,
+   "score": 0.18661036,
    "languages": [
     "en",
     "vi",
@@ -110,12 +148,39 @@
    ]
   },
   {
+   "id": "82e06016-c23f-49a5-97d5-f0a535080fec",
+   "title": {
+    "en": "Taiyou Shounen Jango"
+   },
+   "contentRating": "safe",
+   "score": 0.18561381,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai"
+   },
+   "contentRating": "safe",
+   "score": 0.18509719,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
+   ]
+  },
+  {
    "id": "f4904da8-2250-461b-bb29-3ec177c40bb9",
    "title": {
     "en": "Splatoon"
    },
    "contentRating": "safe",
-   "score": 0.18618211,
+   "score": 0.1835843,
    "languages": [
     "en",
     "it",
@@ -127,85 +192,28 @@
    ]
   },
   {
+   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "title": {
+    "en": "Online - The Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.18117523,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "819cf49e-8e5b-4f0c-89ac-ca47e4e0bdf9",
    "title": {
     "en": "Super Dragon Ball Heroes: AVATARS!!"
    },
    "contentRating": "safe",
-   "score": 0.18223053,
+   "score": 0.18114725,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "18868868-ef41-45c6-b811-9ca8a17c9041",
-   "title": {
-    "en": "Spray King"
-   },
-   "contentRating": "safe",
-   "score": 0.1808249,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
-   "title": {
-    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
-   },
-   "contentRating": "safe",
-   "score": 0.1794295,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
-   "title": {
-    "en": "Yuuyami Tokkoutai"
-   },
-   "contentRating": "safe",
-   "score": 0.1787909,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e3c4933c-3e8b-4e86-9472-5e666079843c",
-   "title": {
-    "en": "Shape of Happiness"
-   },
-   "contentRating": "safe",
-   "score": 0.17822877,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
-   "title": {
-    "en": "Shirasunamura"
-   },
-   "contentRating": "safe",
-   "score": 0.17815651,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.17705436,
-   "languages": [
-    "en",
-    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:23+00:00"
+ "updatedAt": "2023-12-10T18:23:34+00:00"
 }

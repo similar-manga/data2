@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b9c16c69-df27-4c6e-9676-8a260403758f",
+   "title": {
+    "en": "Uchi no Otouto-domo ga sumimasen"
+   },
+   "contentRating": "safe",
+   "score": 0.2860069,
+   "languages": [
+    "en",
+    "es-la",
+    "vi",
+    "it"
+   ]
+  },
+  {
    "id": "e7b1c27b-1f58-4cc7-85d1-99bdded62a83",
    "title": {
     "en": "Saitei na Hito wo Suki ni Narimashita"
    },
    "contentRating": "safe",
-   "score": 0.2777871,
+   "score": 0.27788097,
    "languages": [
     "en",
     "fr",
@@ -25,7 +39,7 @@
     "en": "The Hatsukoi Chronicle"
    },
    "contentRating": "safe",
-   "score": 0.26790437,
+   "score": 0.2681694,
    "languages": [
     "en"
    ]
@@ -36,10 +50,21 @@
     "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.263008,
+   "score": 0.26438534,
    "languages": [
     "pl",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "829d9d9f-579f-4e0a-b24d-aec0b2fb5051",
+   "title": {
+    "en": "Mint Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.26215565,
+   "languages": [
     "en"
    ]
   },
@@ -49,7 +74,7 @@
     "en": "Kiss x Miss"
    },
    "contentRating": "safe",
-   "score": 0.26001853,
+   "score": 0.25994506,
    "languages": [
     "en",
     "pl"
@@ -61,7 +86,7 @@
     "en": "Momoten Musume"
    },
    "contentRating": "safe",
-   "score": 0.25948757,
+   "score": 0.25851855,
    "languages": [
     "en",
     "pt-br"
@@ -73,7 +98,32 @@
     "en": "Hajimete..."
    },
    "contentRating": "safe",
-   "score": 0.2548316,
+   "score": 0.2568545,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4c087a01-072a-4e0f-b4d1-46bca6a82cf7",
+   "title": {
+    "en": "Netsuai Prince - Onii-chan wa Kimi ga Suki"
+   },
+   "contentRating": "safe",
+   "score": 0.25608546,
+   "languages": [
+    "es",
+    "en",
+    "it",
+    "id"
+   ]
+  },
+  {
+   "id": "6e805b06-e507-4b57-9c53-8c3a31edc60f",
+   "title": {
+    "en": "Madokana Tsuki to Encore"
+   },
+   "contentRating": "safe",
+   "score": 0.2539567,
    "languages": [
     "en"
    ]
@@ -84,7 +134,7 @@
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.25311387,
+   "score": 0.2528255,
    "languages": [
     "es",
     "en"
@@ -96,22 +146,11 @@
     "en": "Ame Tokidoki Koi Moyou"
    },
    "contentRating": "safe",
-   "score": 0.25249583,
+   "score": 0.2516984,
    "languages": [
     "en",
     "hu",
     "id"
-   ]
-  },
-  {
-   "id": "6e805b06-e507-4b57-9c53-8c3a31edc60f",
-   "title": {
-    "en": "Madokana Tsuki to Encore"
-   },
-   "contentRating": "safe",
-   "score": 0.25249076,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -120,7 +159,7 @@
     "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.25069925,
+   "score": 0.25029024,
    "languages": [
     "en"
    ]
@@ -131,7 +170,7 @@
     "en": "Gakuen Joou"
    },
    "contentRating": "safe",
-   "score": 0.2504015,
+   "score": 0.24885201,
    "languages": [
     "en"
    ]
@@ -142,7 +181,7 @@
     "en": "Ama Iro Omoi"
    },
    "contentRating": "safe",
-   "score": 0.24649698,
+   "score": 0.24580002,
    "languages": [
     "pl",
     "en"
@@ -154,45 +193,12 @@
     "en": "Tsubame-chan Chi no Kateinai Renai"
    },
    "contentRating": "safe",
-   "score": 0.24486527,
+   "score": 0.24428685,
    "languages": [
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "c9a96eab-fdc5-4bae-a78c-84a80dc98208",
-   "title": {
-    "en": "Hoshi ni Memai wo"
-   },
-   "contentRating": "safe",
-   "score": 0.24364315,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0c19c3fa-53cb-46d6-bf80-7faecf170e6f",
-   "title": {
-    "en": "Senpai no Pocket"
-   },
-   "contentRating": "safe",
-   "score": 0.24182782,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b1dae931-3331-4846-9738-dfce2c3aafc9",
-   "title": {
-    "en": "Hajimete no Koi no Sodatekata"
-   },
-   "contentRating": "safe",
-   "score": 0.23911302,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:52+00:00"
+ "updatedAt": "2023-12-10T18:30:13+00:00"
 }

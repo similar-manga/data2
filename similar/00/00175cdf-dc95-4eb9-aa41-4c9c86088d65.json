@@ -11,7 +11,7 @@
     "en": "Comic ☆ Shinichi"
    },
    "contentRating": "safe",
-   "score": 0.21493584,
+   "score": 0.211647,
    "languages": [
     "es-la",
     "en",
@@ -26,7 +26,7 @@
     "en": "New Normal"
    },
    "contentRating": "safe",
-   "score": 0.1523739,
+   "score": 0.1512052,
    "languages": [
     "tr",
     "en",
@@ -54,6 +54,22 @@
    ]
   },
   {
+   "id": "b716dd00-fc58-4266-b3e4-49bfd78f8a35",
+   "title": {
+    "en": "Like Wind on a Dry Branch"
+   },
+   "contentRating": "safe",
+   "score": 0.14427264,
+   "languages": [
+    "en",
+    "pl",
+    "fr",
+    "pt-br",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
    "id": "c1fa97be-0f1f-4686-84bc-806881c97d53",
    "title": {
     "en": "Otome Youkai Zakuro"
@@ -64,17 +80,6 @@
     "en",
     "pt-br",
     "es",
-    "tr"
-   ]
-  },
-  {
-   "id": "13b626b5-479b-48a3-9cd6-8e3593587de4",
-   "title": {
-    "en": "The Infernal Devices"
-   },
-   "contentRating": "safe",
-   "score": 0.13506402,
-   "languages": [
     "tr"
    ]
   },
@@ -132,14 +137,13 @@
    ]
   },
   {
-   "id": "859ac2c3-bdc1-4ab0-bbf8-a81c6d809157",
+   "id": "13b626b5-479b-48a3-9cd6-8e3593587de4",
    "title": {
-    "en": "Tenma no Ketsuzoku"
+    "en": "The Infernal Devices"
    },
    "contentRating": "safe",
-   "score": 0.12765801,
+   "score": 0.13196735,
    "languages": [
-    "en",
     "tr"
    ]
   },
@@ -149,7 +153,7 @@
     "en": "Land of the Lustrous"
    },
    "contentRating": "safe",
-   "score": 0.12738992,
+   "score": 0.12746806,
    "languages": [
     "ru",
     "en",
@@ -184,12 +188,31 @@
    ]
   },
   {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Yuukoku no Moriarty"
+   },
+   "contentRating": "safe",
+   "score": 0.12509039,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "uk",
+    "ar",
+    "tr",
+    "vi",
+    "hu"
+   ]
+  },
+  {
    "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
    "title": {
     "en": "Shojo Manga"
    },
    "contentRating": "safe",
-   "score": 0.121172085,
+   "score": 0.12408432,
    "languages": [
     "it",
     "tr",
@@ -199,45 +222,32 @@
    ]
   },
   {
-   "id": "c994ae64-8cf9-45fd-8375-43b4d8e218b0",
+   "id": "859ac2c3-bdc1-4ab0-bbf8-a81c6d809157",
    "title": {
-    "en": "Wisteria-Colored Sky Apartment"
+    "en": "Tenma no Ketsuzoku"
    },
    "contentRating": "safe",
-   "score": 0.12071052,
+   "score": 0.119404465,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
+   "title": {
+    "en": "The Nightmare of Fabrication"
+   },
+   "contentRating": "safe",
+   "score": 0.119404465,
    "languages": [
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "5aa9cad2-0853-4826-ba6a-c659e23e974b",
-   "title": {
-    "en": "False"
-   },
-   "contentRating": "safe",
-   "score": 0.120704226,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
     "it",
-    "tr"
-   ]
-  },
-  {
-   "id": "74e431fc-f310-4d79-a3dc-b80607116f89",
-   "title": {
-    "en": "The Love That Binds Us to Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.12048548,
-   "languages": [
     "en",
-    "ru",
-    "tr"
+    "pl",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:46+00:00"
+ "updatedAt": "2023-12-10T18:08:21+00:00"
 }

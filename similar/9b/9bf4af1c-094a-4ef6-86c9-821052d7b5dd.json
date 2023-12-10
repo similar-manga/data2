@@ -11,7 +11,7 @@
     "en": "Umineko When They Cry Episode Collection"
    },
    "contentRating": "suggestive",
-   "score": 0.21665944,
+   "score": 0.21700524,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Final Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.19684549,
+   "score": 0.19627921,
    "languages": [
     "vi",
     "pt-br",
@@ -30,6 +30,19 @@
     "tr",
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "808ae9f4-0289-4bbf-81bb-3177b577ac4a",
+   "title": {
+    "en": "Zombie no Oshigoto"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18498357,
+   "languages": [
+    "pl",
+    "id",
+    "en"
    ]
   },
   {
@@ -48,25 +61,12 @@
    ]
   },
   {
-   "id": "808ae9f4-0289-4bbf-81bb-3177b577ac4a",
-   "title": {
-    "en": "Zombie no Oshigoto"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18498357,
-   "languages": [
-    "pl",
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "a7f6b2a0-a0db-4664-83fd-64b22e4b77b8",
    "title": {
     "en": "Eirrizo's Dead by Daylight Collection"
    },
    "contentRating": "suggestive",
-   "score": 0.18321468,
+   "score": 0.18356651,
    "languages": [
     "en",
     "tr"
@@ -96,16 +96,14 @@
    ]
   },
   {
-   "id": "efd02206-1cd8-4823-b497-02bb8b8d09ca",
+   "id": "e4121f7e-41c1-448f-98df-a019d764c17a",
    "title": {
-    "en": "Zom 100 ~100 Things I Want to do Before I Become a Zombie~"
+    "en": "Reiwa no Dara-san"
    },
    "contentRating": "suggestive",
    "score": 0.17303628,
    "languages": [
-    "ru",
     "en",
-    "es-la",
     "pt-br"
    ]
   },
@@ -148,14 +146,16 @@
    ]
   },
   {
-   "id": "e4121f7e-41c1-448f-98df-a019d764c17a",
+   "id": "efd02206-1cd8-4823-b497-02bb8b8d09ca",
    "title": {
-    "en": "Reiwa no Dara-san"
+    "en": "Zom 100 ~100 Things I Want to do Before I Become a Zombie~"
    },
    "contentRating": "suggestive",
    "score": 0.17303628,
    "languages": [
+    "ru",
     "en",
+    "es-la",
     "pt-br"
    ]
   },
@@ -188,20 +188,9 @@
    ]
   },
   {
-   "id": "dbdc7659-a5a9-4671-87db-983b039f2a95",
+   "id": "c616db88-d7ba-4621-823c-f43eef5d74d3",
    "title": {
-    "en": "Tenshi no Hi Manga"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16045499,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e6a2b11b-1fa1-454c-ad54-3922476cff54",
-   "title": {
-    "en": "Mad Miniscape"
+    "en": "Akuru no Shima"
    },
    "contentRating": "suggestive",
    "score": 0.15759036,
@@ -210,9 +199,9 @@
    ]
   },
   {
-   "id": "c616db88-d7ba-4621-823c-f43eef5d74d3",
+   "id": "e6a2b11b-1fa1-454c-ad54-3922476cff54",
    "title": {
-    "en": "Akuru no Shima"
+    "en": "Mad Miniscape"
    },
    "contentRating": "suggestive",
    "score": 0.15759036,
@@ -230,7 +219,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "dbdc7659-a5a9-4671-87db-983b039f2a95",
+   "title": {
+    "en": "Tenshi no Hi Manga"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15158865,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:12+00:00"
+ "updatedAt": "2023-12-10T18:25:40+00:00"
 }

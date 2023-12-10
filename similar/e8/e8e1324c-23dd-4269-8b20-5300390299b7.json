@@ -6,17 +6,6 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "3d2ee4f2-a511-4c40-ae2a-5787552d1fa3",
-   "title": {
-    "en": "Sokoni Osuwari!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fc942cd3-41bd-4cf4-8686-ffdaf9827431",
    "title": {
     "en": "Ladies versus Butlers!"
@@ -40,12 +29,34 @@
    ]
   },
   {
+   "id": "3d2ee4f2-a511-4c40-ae2a-5787552d1fa3",
+   "title": {
+    "en": "Sokoni Osuwari!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "66c5df5b-8e3a-4165-b9f2-35c18cdb9894",
    "title": {
     "en": "Otoko o Misete yo Kurata-kun!"
    },
    "contentRating": "suggestive",
-   "score": 0.2691914,
+   "score": 0.2692369,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9584c446-4c65-4028-aaa1-b02f1ab91afa",
+   "title": {
+    "en": "Love Yume Mix"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26331064,
    "languages": [
     "en"
    ]
@@ -56,7 +67,7 @@
     "en": "TenPuru -No One Can Live on Loneliness-"
    },
    "contentRating": "suggestive",
-   "score": 0.2641116,
+   "score": 0.26327726,
    "languages": [
     "en",
     "fr",
@@ -67,17 +78,6 @@
     "ru",
     "vi",
     "tr"
-   ]
-  },
-  {
-   "id": "9584c446-4c65-4028-aaa1-b02f1ab91afa",
-   "title": {
-    "en": "Love Yume Mix"
-   },
-   "contentRating": "suggestive",
-   "score": 0.26356605,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -96,18 +96,6 @@
    ]
   },
   {
-   "id": "fd21b080-26c6-4ef7-84f3-c65a8838bcdf",
-   "title": {
-    "en": "Union!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25509605,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "dcfe5bbe-5e6a-4a50-9e1e-28639f662645",
    "title": {
     "en": "Hijiri-kun wa Kiyoku Ikitai"
@@ -118,6 +106,18 @@
     "es-la",
     "id",
     "en"
+   ]
+  },
+  {
+   "id": "fd21b080-26c6-4ef7-84f3-c65a8838bcdf",
+   "title": {
+    "en": "Union!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25509605,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -137,7 +137,7 @@
     "en": "Akuma no Ikenie"
    },
    "contentRating": "suggestive",
-   "score": 0.2460965,
+   "score": 0.24564897,
    "languages": [
     "en"
    ]
@@ -148,7 +148,7 @@
     "en": "Joshikousei Girls-Live"
    },
    "contentRating": "suggestive",
-   "score": 0.2447142,
+   "score": 0.24195726,
    "languages": [
     "en"
    ]
@@ -200,7 +200,7 @@
     "en": "Tonari no Nobukuni-san wa Ore no Koto ga Sukina Ki ga Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.22955735,
+   "score": 0.22806916,
    "languages": [
     "id",
     "en",
@@ -208,5 +208,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:23+00:00"
+ "updatedAt": "2023-12-10T18:33:59+00:00"
 }

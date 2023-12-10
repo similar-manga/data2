@@ -11,7 +11,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.24962336,
+   "score": 0.24896707,
    "languages": [
     "en",
     "fr",
@@ -21,12 +21,23 @@
    ]
   },
   {
+   "id": "e26cef28-dae7-4f4c-a5fc-14097dd38856",
+   "title": {
+    "en": "Howling"
+   },
+   "contentRating": "safe",
+   "score": 0.23113692,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c29fb8fd-f053-4f33-90ee-331b3e112133",
    "title": {
     "en": "Jitsuryokuha Elite Jin"
    },
    "contentRating": "safe",
-   "score": 0.22705232,
+   "score": 0.22501831,
    "languages": [
     "en"
    ]
@@ -37,7 +48,7 @@
     "en": "Street Fighter II"
    },
    "contentRating": "safe",
-   "score": 0.20175238,
+   "score": 0.201203,
    "languages": [
     "en"
    ]
@@ -48,7 +59,7 @@
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.19588877,
+   "score": 0.19545728,
    "languages": [
     "en",
     "pl"
@@ -66,12 +77,25 @@
    ]
   },
   {
+   "id": "947cdce5-182e-4ff3-9484-218c638e88ac",
+   "title": {
+    "en": "Ao no Miburo"
+   },
+   "contentRating": "safe",
+   "score": 0.18541926,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "a025d065-ec7f-4962-a874-45903f5dc618",
    "title": {
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.18678854,
+   "score": 0.1850651,
    "languages": [
     "en"
    ]
@@ -82,9 +106,26 @@
     "en": "Uso to Makoto"
    },
    "contentRating": "safe",
-   "score": 0.18610513,
+   "score": 0.18493478,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.18314779,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -93,7 +134,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.18147577,
+   "score": 0.18109469,
    "languages": [
     "pl",
     "en",
@@ -107,6 +148,17 @@
     "fr",
     "es-la",
     "uk"
+   ]
+  },
+  {
+   "id": "c2175854-f51f-43f5-ae65-60c9d324a91e",
+   "title": {
+    "en": "Samurai Spirits - Haoumaru Jigokuyuki"
+   },
+   "contentRating": "safe",
+   "score": 0.18040925,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -146,63 +198,16 @@
    ]
   },
   {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
    "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+    "en": "Sarutobi"
    },
    "contentRating": "safe",
-   "score": 0.17523438,
+   "score": 0.1735252,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7985d8fd-4f28-4aa7-956a-2a7314d93fc0",
-   "title": {
-    "en": "Gintama - Digital Colored Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.1743206,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
-   "title": {
-    "en": "Valkyrie Profile 2"
-   },
-   "contentRating": "safe",
-   "score": 0.17257836,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
-   "title": {
-    "en": "The Playground of Yin and Yang"
-   },
-   "contentRating": "safe",
-   "score": 0.1717074,
-   "languages": [
-    "es",
-    "ja",
-    "en"
-   ]
-  },
-  {
-   "id": "24a002f6-6129-4366-8fe2-5d1a8759cb46",
-   "title": {
-    "en": "Sand Land Full Color"
-   },
-   "contentRating": "safe",
-   "score": 0.17111409,
-   "languages": [
-    "es-la",
-    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:39+00:00"
+ "updatedAt": "2023-12-10T18:32:11+00:00"
 }

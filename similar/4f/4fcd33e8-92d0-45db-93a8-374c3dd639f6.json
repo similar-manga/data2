@@ -14,6 +14,17 @@
    "score": 0.23021396
   },
   {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.22723648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
    "title": {
     "ja": "Raid on Tokyo"
@@ -72,28 +83,6 @@
    ]
   },
   {
-   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
-   "title": {
-    "en": "The Planet of Sutakola"
-   },
-   "contentRating": "safe",
-   "score": 0.18855664,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.18855664,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
    "title": {
     "en": "Fool Night"
@@ -109,6 +98,17 @@
    ]
   },
   {
+   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
+   "title": {
+    "en": "The Planet of Sutakola"
+   },
+   "contentRating": "safe",
+   "score": 0.18855664,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fe18fe91-fa82-441c-9d87-66414d59a622",
    "title": {
     "en": "Vagabond: The LAST Manga Exhibition Complete Catalogue"
@@ -121,6 +121,14 @@
     "it",
     "fr"
    ]
+  },
+  {
+   "id": "832cce77-102a-4f3c-80ca-ea4b082592a8",
+   "title": {
+    "en": "The World, Foreseen by a Master of the Manga World"
+   },
+   "contentRating": "safe",
+   "score": 0.18518461
   },
   {
    "id": "cade38b7-64c4-4a29-8e3c-8c283291d6c6",
@@ -146,16 +154,12 @@
    ]
   },
   {
-   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
+   "id": "602e6a0e-c581-4e1c-af54-605570b2020d",
    "title": {
-    "en": "The Comeback of the Demon King"
+    "en": "Chill"
    },
    "contentRating": "safe",
-   "score": 0.18010801,
-   "languages": [
-    "en",
-    "ru"
-   ]
+   "score": 0.18065844
   },
   {
    "id": "7b31c7a6-66f3-4bb9-8fa4-a7034c8c4bcd",
@@ -166,6 +170,18 @@
    "score": 0.17985466,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
+   "title": {
+    "en": "The Comeback of the Demon King"
+   },
+   "contentRating": "safe",
+   "score": 0.17976482,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -181,27 +197,7 @@
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "832cce77-102a-4f3c-80ca-ea4b082592a8",
-   "title": {
-    "en": "The World, Foreseen by a Master of the Manga World"
-   },
-   "contentRating": "safe",
-   "score": 0.17756492
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.17756492,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:53+00:00"
+ "updatedAt": "2023-12-10T18:16:56+00:00"
 }

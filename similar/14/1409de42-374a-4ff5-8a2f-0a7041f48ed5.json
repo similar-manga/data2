@@ -11,7 +11,7 @@
     "en": "Cu-Cu-Cute!"
    },
    "contentRating": "suggestive",
-   "score": 0.21735922,
+   "score": 0.2169295,
    "languages": [
     "en"
    ]
@@ -22,18 +22,7 @@
     "en": "Usagi-chan de Cue!!"
    },
    "contentRating": "suggestive",
-   "score": 0.21132438,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0dbd17b8-3778-4759-b056-5f31815d91b2",
-   "title": {
-    "en": "Choice of Error Hero"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20865622,
+   "score": 0.2108618,
    "languages": [
     "en"
    ]
@@ -51,12 +40,12 @@
    ]
   },
   {
-   "id": "b5bf9dae-9177-4912-b2ea-b599ff97a812",
+   "id": "0dbd17b8-3778-4759-b056-5f31815d91b2",
    "title": {
-    "en": "Happiness!"
+    "en": "Choice of Error Hero"
    },
    "contentRating": "suggestive",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
@@ -76,6 +65,17 @@
    "id": "0730d8c0-620e-4452-882a-c1c4d7a45229",
    "title": {
     "en": "Shokushuhime"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b5bf9dae-9177-4912-b2ea-b599ff97a812",
+   "title": {
+    "en": "Happiness!"
    },
    "contentRating": "suggestive",
    "score": 0.20203052,
@@ -111,27 +111,12 @@
    ]
   },
   {
-   "id": "a1f8f17a-6c51-4a35-9205-bc70bb5fa826",
-   "title": {
-    "en": "Tsurenai Hodo Aokute Azatoi Kurai ni Akai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18617365,
-   "languages": [
-    "ru",
-    "es-la",
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
    "title": {
     "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
    },
    "contentRating": "suggestive",
-   "score": 0.18453568,
+   "score": 0.18361828,
    "languages": [
     "pt-br",
     "en",
@@ -149,12 +134,27 @@
    ]
   },
   {
+   "id": "a1f8f17a-6c51-4a35-9205-bc70bb5fa826",
+   "title": {
+    "en": "Tsurenai Hodo Aokute Azatoi Kurai ni Akai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18334702,
+   "languages": [
+    "ru",
+    "es-la",
+    "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "d4341560-3715-4912-9b12-c1869e914310",
    "title": {
     "en": "Seirei-tachi no Rakuen to Risou no Isekai Seikatsu"
    },
    "contentRating": "suggestive",
-   "score": 0.18362667,
+   "score": 0.18252893,
    "languages": [
     "en",
     "ru",
@@ -167,18 +167,7 @@
     "en": "Battleship Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.18019366,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2080de4-f335-4680-a16c-4ed10cde514d",
-   "title": {
-    "en": "Asobi ni Iku yo!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17634669,
+   "score": 0.17951584,
    "languages": [
     "en"
    ]
@@ -197,6 +186,19 @@
    ]
   },
   {
+   "id": "892950a0-2dc9-4f08-b3ae-648efe20aa11",
+   "title": {
+    "en": "Gang of Yuusha"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17634669,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "b03cddef-748a-4c6e-9ebe-2579ac9d19b4",
    "title": {
     "en": "Erotical Wizard to 12-nin no Hanayome"
@@ -210,5 +212,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:32+00:00"
+ "updatedAt": "2023-12-10T18:10:29+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Tonight The Night"
    },
    "contentRating": "safe",
-   "score": 0.30468133,
+   "score": 0.30076572,
    "languages": [
     "it",
     "en",
@@ -24,15 +24,27 @@
     "en": "Intoxicated East Wind"
    },
    "contentRating": "safe",
-   "score": 0.26540852,
+   "score": 0.2655309,
    "languages": [
     "tr"
    ]
   },
   {
-   "id": "ae1b5ff7-965d-4d04-9ad7-6836e1e4a4c1",
+   "id": "2ea23160-2137-418a-91a0-01eefc72caa8",
    "title": {
-    "en": "Hitodenashi to Koi"
+    "en": "Wistful Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.2594177,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "f04190b0-d537-4eb9-b467-2cc4eeef7abc",
+   "title": {
+    "en": "Sensei nimo Tsugou ga Aru"
    },
    "contentRating": "safe",
    "score": 0.25126484,
@@ -56,18 +68,6 @@
    ]
   },
   {
-   "id": "f04190b0-d537-4eb9-b467-2cc4eeef7abc",
-   "title": {
-    "en": "Sensei nimo Tsugou ga Aru"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "52beaeff-1a0c-43d3-a423-8b4910cb0f3a",
    "title": {
     "en": "Fine Play"
@@ -80,16 +80,64 @@
    ]
   },
   {
+   "id": "ae1b5ff7-965d-4d04-9ad7-6836e1e4a4c1",
+   "title": {
+    "en": "Hitodenashi to Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "24a1e300-64ef-4896-99a6-ff0d6143ac25",
+   "title": {
+    "en": "Hold Me Tight"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
+   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
+   "title": {
+    "en": "Unmei no Koi ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.24994904,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "dffca36b-387f-4131-b99c-f7c834286253",
    "title": {
     "en": "Boku wa Sakana"
    },
    "contentRating": "safe",
-   "score": 0.24236429,
+   "score": 0.24260817,
    "languages": [
     "en",
     "pl",
     "tr"
+   ]
+  },
+  {
+   "id": "ceedc13b-3f92-4f92-9e84-40227045383b",
+   "title": {
+    "en": "Shinon"
+   },
+   "contentRating": "safe",
+   "score": 0.24196807,
+   "languages": [
+    "en",
+    "tr",
+    "it"
    ]
   },
   {
@@ -122,7 +170,7 @@
     "en": "Ashita mo Koko de Aou"
    },
    "contentRating": "safe",
-   "score": 0.23172617,
+   "score": 0.23103257,
    "languages": [
     "en",
     "tr"
@@ -134,7 +182,7 @@
     "en": "Omairi Desu yo"
    },
    "contentRating": "safe",
-   "score": 0.2311823,
+   "score": 0.23082732,
    "languages": [
     "tr",
     "en"
@@ -153,61 +201,7 @@
     "pl",
     "fr"
    ]
-  },
-  {
-   "id": "3056c12c-050b-4852-b4e0-f5b2f3e58347",
-   "title": {
-    "en": "Candy Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.22941573,
-   "languages": [
-    "fr",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
-   "title": {
-    "en": "Unmei no Koi ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.22745542,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "f65eb2ef-0b96-4a96-a330-1a1ebc18af14",
-   "title": {
-    "en": "5000"
-   },
-   "contentRating": "safe",
-   "score": 0.2260463,
-   "languages": [
-    "en",
-    "bg",
-    "tr",
-    "pt-br",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "6a89003e-214c-4622-b444-b733afbfac77",
-   "title": {
-    "en": "Out"
-   },
-   "contentRating": "safe",
-   "score": 0.22562905,
-   "languages": [
-    "it",
-    "en",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:43+00:00"
+ "updatedAt": "2023-12-10T18:34:48+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
    "title": {
     "en": "Cloud"
    },
    "contentRating": "safe",
-   "score": 0.2626569,
+   "score": 0.2629221,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.26098144,
+   "score": 0.26104432,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Atrocious Fairy Tales for Adults"
    },
    "contentRating": "safe",
-   "score": 0.24966824,
+   "score": 0.24944092,
    "languages": [
     "en"
    ]
@@ -51,15 +62,27 @@
    ]
   },
   {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "Sherlock"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "es-la",
     "en",
-    "tr"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -74,9 +97,32 @@
    ]
   },
   {
+   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
+   "title": {
+    "en": "Sherlock"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
    "title": {
     "en": "Hanzai Koushounin Minegishi Eitarou"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
+   "title": {
+    "en": "Souzoku Tantei"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -98,6 +144,18 @@
    ]
   },
   {
+   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
+   "title": {
+    "en": "Super Danganronpa 2: Goodbye Despair Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "eace40fd-0bcd-4016-9475-24459996302b",
    "title": {
     "en": "Reinouryokusha Odagiri Kyouko no Uso"
@@ -114,7 +172,7 @@
     "en": "Red Garden"
    },
    "contentRating": "safe",
-   "score": 0.21688506,
+   "score": 0.21706626,
    "languages": [
     "en"
    ]
@@ -125,7 +183,7 @@
     "en": "Snow Blind"
    },
    "contentRating": "safe",
-   "score": 0.21475077,
+   "score": 0.21464655,
    "languages": [
     "fr",
     "es-la",
@@ -135,79 +193,7 @@
     "vi",
     "pl"
    ]
-  },
-  {
-   "id": "9ef6e461-033b-4976-b222-943856c94a97",
-   "title": {
-    "en": "Smiley"
-   },
-   "contentRating": "safe",
-   "score": 0.20501155,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "cade38b7-64c4-4a29-8e3c-8c283291d6c6",
-   "title": {
-    "en": "Land of the Lustrous"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ru",
-    "en",
-    "es-la",
-    "id",
-    "tr",
-    "fr",
-    "fa",
-    "uk",
-    "pt-br",
-    "ar",
-    "vi",
-    "pl",
-    "az"
-   ]
-  },
-  {
-   "id": "4584b7cf-6079-4fcd-ac77-c5e1f1731ee8",
-   "title": {
-    "en": "Ukongebbo"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
-   "title": {
-    "en": "The Song of the Voiceless Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca41dac5-08ca-46a6-8b84-ebdec6baa75d",
-   "title": {
-    "en": "Akumu no Elevator"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:58+00:00"
+ "updatedAt": "2023-12-10T18:25:03+00:00"
 }

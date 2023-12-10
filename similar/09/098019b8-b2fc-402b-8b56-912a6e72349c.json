@@ -11,7 +11,7 @@
     "en": "Modern Konosuba (Doujinshi)"
    },
    "contentRating": "suggestive",
-   "score": 0.679956,
+   "score": 0.683167,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Modern MoGal"
    },
    "contentRating": "suggestive",
-   "score": 0.24337213,
+   "score": 0.23737814,
    "languages": [
     "fr",
     "en",
@@ -31,17 +31,6 @@
     "ru",
     "pt-br",
     "uk"
-   ]
-  },
-  {
-   "id": "c9fa7bf8-9de7-4744-a070-0737d7616d83",
-   "title": {
-    "en": "THE iDOLM@STER - Yandesoude Yandenai Chotto Yanderu Mayu. (Doujinshi)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22434829,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -56,12 +45,31 @@
    ]
   },
   {
+   "id": "c9fa7bf8-9de7-4744-a070-0737d7616d83",
+   "title": {
+    "en": "THE iDOLM@STER - Yandesoude Yandenai Chotto Yanderu Mayu. (Doujinshi)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22434829,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e65e8dcb-abcf-4161-897e-af79ed9cea9a",
+   "title": {
+    "en": "Boku no Kokoro no Yabai Yatsu - Our Hearts Have Irregular Meters (Doujinshi)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21482229
+  },
+  {
    "id": "d8f1d7da-8bb1-407b-8be3-10ac2894d3c6",
    "title": {
     "en": "Isekai Ojisan"
    },
    "contentRating": "suggestive",
-   "score": 0.21593194,
+   "score": 0.21347998,
    "languages": [
     "en",
     "it",
@@ -73,12 +81,15 @@
    ]
   },
   {
-   "id": "e65e8dcb-abcf-4161-897e-af79ed9cea9a",
+   "id": "5af66444-f7a8-41df-a1c4-0df5d93ee88a",
    "title": {
-    "en": "Boku no Kokoro no Yabai Yatsu - Our Hearts Have Irregular Meters (Doujinshi)"
+    "en": "One Day with My Shameless Maid"
    },
    "contentRating": "suggestive",
-   "score": 0.21510069
+   "score": 0.20925646,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "69dcebee-7446-4eb2-8244-d903f12a6712",
@@ -86,7 +97,7 @@
     "en": "The Modern Strongest Hero Who Came Home"
    },
    "contentRating": "suggestive",
-   "score": 0.21101548,
+   "score": 0.20425521,
    "languages": [
     "es-la",
     "id",
@@ -100,58 +111,14 @@
    ]
   },
   {
-   "id": "5af66444-f7a8-41df-a1c4-0df5d93ee88a",
-   "title": {
-    "en": "One Day with My Shameless Maid"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21037072,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6702555e-1e20-4a06-9344-9c86f3372e4b",
-   "title": {
-    "en": "One Night Morning"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20436047,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "049dbdfb-d906-4213-9ab1-2f750ac1a8fa",
    "title": {
     "en": "Mai Ball! Half Time"
    },
    "contentRating": "suggestive",
-   "score": 0.20222798,
+   "score": 0.20268331,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "15ced587-ec45-48b1-96d7-583b464db6f6",
-   "title": {
-    "en": "Tsuiraku JK to Haijin Kyoushi (Webtoon)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20066321,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "deba04fd-43d0-439b-b918-ec29b789be7a",
-   "title": {
-    "en": "Kusareen moto dokyusei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20066321,
-   "languages": [
-    "ru"
    ]
   },
   {
@@ -177,6 +144,42 @@
    ]
   },
   {
+   "id": "15ced587-ec45-48b1-96d7-583b464db6f6",
+   "title": {
+    "en": "Tsuiraku JK to Haijin Kyoushi (Webtoon)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20066321,
+   "languages": [
+    "id"
+   ]
+  },
+  {
+   "id": "1cec4f31-88a7-48c0-987e-9697afc27f67",
+   "title": {
+    "en": "Kiyowa na Kanojo no ◯◯ nengo…"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20066321,
+   "languages": [
+    "en",
+    "id",
+    "es",
+    "tr"
+   ]
+  },
+  {
+   "id": "deba04fd-43d0-439b-b918-ec29b789be7a",
+   "title": {
+    "en": "Kusareen moto dokyusei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20066321,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "ff3d509c-21a1-455f-a785-ef394e9dbfb7",
    "title": {
     "en": "Ignorant Girl ◯◯ Years Later..."
@@ -192,17 +195,22 @@
    ]
   },
   {
-   "id": "a8cc0758-8543-4272-b403-a8b7fe0cb29b",
+   "id": "66b0511a-528c-43de-b572-a7ff7a30ebd9",
    "title": {
-    "en": "Nakamura-san, the Uninvited Gyaru"
+    "en": "The Cool Classmate ◯◯ Years Later..."
    },
    "contentRating": "suggestive",
-   "score": 0.19793718,
+   "score": 0.20066321,
    "languages": [
+    "id",
+    "pl",
+    "es",
+    "vi",
     "en",
-    "es-la"
+    "pt-br",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:07+00:00"
+ "updatedAt": "2023-12-10T18:09:21+00:00"
 }

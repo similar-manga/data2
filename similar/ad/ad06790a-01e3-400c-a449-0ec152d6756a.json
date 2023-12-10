@@ -11,7 +11,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.26459226,
+   "score": 0.26659447,
    "languages": [
     "es-la",
     "en",
@@ -24,6 +24,20 @@
     "ro",
     "es",
     "it"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.23785312,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -40,17 +54,21 @@
    ]
   },
   {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
    "title": {
-    "en": "March Comes in Like a Lion"
+    "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.21752201,
+   "score": 0.21674532,
    "languages": [
-    "en",
     "pt-br",
     "es-la",
-    "vi"
+    "en",
+    "ru",
+    "id",
+    "tr",
+    "it",
+    "fa"
    ]
   },
   {
@@ -72,27 +90,9 @@
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.21463935,
+   "score": 0.21475175,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
-   "title": {
-    "en": "Blue Period"
-   },
-   "contentRating": "safe",
-   "score": 0.21276224,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "ru",
-    "id",
-    "tr",
-    "it",
-    "fa"
    ]
   },
   {
@@ -101,7 +101,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.20348656,
+   "score": 0.20338483,
    "languages": [
     "en",
     "it",
@@ -125,7 +125,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.20262145,
+   "score": 0.20195447,
    "languages": [
     "zh-hk",
     "en",
@@ -150,22 +150,10 @@
     "en": "What's Michael?"
    },
    "contentRating": "safe",
-   "score": 0.19463527,
+   "score": 0.1969106,
    "languages": [
     "de",
     "en"
-   ]
-  },
-  {
-   "id": "75532241-da34-4afb-a7df-a227b269ed20",
-   "title": {
-    "en": "Pineapple Army"
-   },
-   "contentRating": "safe",
-   "score": 0.19284695,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -174,7 +162,7 @@
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.19201927,
+   "score": 0.19274949,
    "languages": [
     "tr",
     "en",
@@ -185,12 +173,35 @@
    ]
   },
   {
+   "id": "75532241-da34-4afb-a7df-a227b269ed20",
+   "title": {
+    "en": "Pineapple Army"
+   },
+   "contentRating": "safe",
+   "score": 0.19207112,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "title": {
+    "en": "The Darwin Incident"
+   },
+   "contentRating": "safe",
+   "score": 0.18995109,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ba7908db-5c9e-4f78-9fc1-3b3581f752e9",
    "title": {
     "en": "Look Back"
    },
    "contentRating": "safe",
-   "score": 0.19044787,
+   "score": 0.18930401,
    "languages": [
     "sr",
     "ru",
@@ -202,25 +213,26 @@
    ]
   },
   {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
-   "title": {
-    "en": "The Darwin Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.18937616,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
    "title": {
     "en": "Cooking Papa"
    },
    "contentRating": "safe",
-   "score": 0.17842005,
+   "score": 0.1832222,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
+   "title": {
+    "en": "Tokyo Ghoul (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.17877896,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -233,19 +245,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.17465028,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:54+00:00"
+ "updatedAt": "2023-12-10T18:27:41+00:00"
 }

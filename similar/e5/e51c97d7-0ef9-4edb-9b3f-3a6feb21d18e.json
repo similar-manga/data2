@@ -11,7 +11,7 @@
     "en": "Kitan Jojishi Mother Goose"
    },
    "contentRating": "safe",
-   "score": 0.30538315,
+   "score": 0.30505532,
    "languages": [
     "fr",
     "en"
@@ -23,7 +23,7 @@
     "en": "Mana Sorcerer"
    },
    "contentRating": "safe",
-   "score": 0.29588085,
+   "score": 0.29236633,
    "languages": [
     "en"
    ]
@@ -40,9 +40,21 @@
    ]
   },
   {
-   "id": "127574ba-7797-48dd-b6f1-ff2e10525d4f",
+   "id": "f5f9c2f1-bc44-40cd-bb79-710819ac0a91",
    "title": {
-    "en": "Clown"
+    "en": "Fate/stay night x Mahou Shoujo Lyrical Nanoha"
+   },
+   "contentRating": "safe",
+   "score": 0.25148237,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
+   "title": {
+    "en": "Hane no Ichizoku"
    },
    "contentRating": "safe",
    "score": 0.24806947,
@@ -51,9 +63,9 @@
    ]
   },
   {
-   "id": "234ab325-2f9c-4b87-b452-0cbd08440d58",
+   "id": "127574ba-7797-48dd-b6f1-ff2e10525d4f",
    "title": {
-    "en": "Hane no Ichizoku"
+    "en": "Clown"
    },
    "contentRating": "safe",
    "score": 0.24806947,
@@ -76,15 +88,15 @@
    ]
   },
   {
-   "id": "f5f9c2f1-bc44-40cd-bb79-710819ac0a91",
+   "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
    "title": {
-    "en": "Fate/stay night x Mahou Shoujo Lyrical Nanoha"
+    "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.24105664,
+   "score": 0.23745932,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
@@ -93,18 +105,18 @@
     "en": "Shimatsuya K"
    },
    "contentRating": "safe",
-   "score": 0.2400549,
+   "score": 0.23677844,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
+   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
    "title": {
-    "en": "Nejimaki Shoukougun"
+    "en": "2 x Bone"
    },
    "contentRating": "safe",
-   "score": 0.23619889,
+   "score": 0.23576055,
    "languages": [
     "en"
    ]
@@ -115,42 +127,19 @@
     "en": "Blood-Coloured Forbidden Territory"
    },
    "contentRating": "safe",
-   "score": 0.23555338,
+   "score": 0.2344265,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
+   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
    "title": {
-    "en": "Chrono Mansion"
+    "en": "Nejimaki Shoukougun"
    },
    "contentRating": "safe",
-   "score": 0.23548031,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
-   "title": {
-    "en": "2 x Bone"
-   },
-   "contentRating": "safe",
-   "score": 0.23526652,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15331b78-1801-4a45-8678-c48a9161c92e",
-   "title": {
-    "en": "Mob Psycho 100×Hito Kui"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
+   "score": 0.23260142,
    "languages": [
     "en"
    ]
@@ -170,12 +159,12 @@
    ]
   },
   {
-   "id": "5505e114-a90b-4d5b-a3a3-de24fc313a95",
+   "id": "15331b78-1801-4a45-8678-c48a9161c92e",
    "title": {
-    "en": "Goblin Knight"
+    "en": "Mob Psycho 100×Hito Kui"
    },
    "contentRating": "safe",
-   "score": 0.22969547,
+   "score": 0.22980437,
    "languages": [
     "en"
    ]
@@ -186,11 +175,22 @@
     "en": "Dandelion"
    },
    "contentRating": "safe",
-   "score": 0.22856452,
+   "score": 0.2276656,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5505e114-a90b-4d5b-a3a3-de24fc313a95",
+   "title": {
+    "en": "Goblin Knight"
+   },
+   "contentRating": "safe",
+   "score": 0.22740488,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:13+00:00"
+ "updatedAt": "2023-12-10T18:33:35+00:00"
 }

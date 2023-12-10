@@ -11,7 +11,7 @@
     "en": "Layers of Fear"
    },
    "contentRating": "safe",
-   "score": 0.23791999,
+   "score": 0.24062072,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Junji Ito: A Study From the Abyss of Horror"
    },
    "contentRating": "safe",
-   "score": 0.1905823,
+   "score": 0.19328524,
    "languages": [
     "en",
     "pl"
@@ -34,7 +34,7 @@
     "en": "Hyakki Yakoushou"
    },
    "contentRating": "safe",
-   "score": 0.17935921,
+   "score": 0.17879531,
    "languages": [
     "en"
    ]
@@ -64,23 +64,34 @@
    ]
   },
   {
-   "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
+   "id": "8ac0855f-5f95-41cb-a1cc-7ac6714980b7",
    "title": {
-    "en": "Katana"
+    "en": "Dark Angel"
    },
    "contentRating": "safe",
-   "score": 0.15188387,
+   "score": 0.1610772,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "abf7336b-3c0e-4e82-a530-978a7c7d9daa",
+   "id": "8e94c71f-de0b-45f0-a922-43bec8934911",
    "title": {
-    "en": "Treasure Chest"
+    "en": "Katana"
    },
    "contentRating": "safe",
-   "score": 0.14871216,
+   "score": 0.15109324,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "60d05f87-f4a2-4ff1-b553-ecd3b7112ebc",
+   "title": {
+    "en": "The Phantom of the Opera"
+   },
+   "contentRating": "safe",
+   "score": 0.14843364,
    "languages": [
     "en"
    ]
@@ -99,6 +110,28 @@
    ]
   },
   {
+   "id": "abf7336b-3c0e-4e82-a530-978a7c7d9daa",
+   "title": {
+    "en": "Treasure Chest"
+   },
+   "contentRating": "safe",
+   "score": 0.14735068,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b6f9358-64ef-4000-bb02-5a2fb9f1b81e",
+   "title": {
+    "en": "Henjin Tantei Emu"
+   },
+   "contentRating": "safe",
+   "score": 0.14326228,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f062be82-3d8f-4441-885a-0d0bf7771196",
    "title": {
     "en": "Hiruko"
@@ -110,93 +143,50 @@
    ]
   },
   {
-   "id": "e9571041-4804-47f1-a6df-77eca5d0843a",
+   "id": "17da48bf-095f-4b53-a365-96e2da3ba67c",
    "title": {
-    "en": "Record of the Dead"
+    "en": "Mahoutsukai Syd \u0026 Lid"
    },
    "contentRating": "safe",
-   "score": 0.13077998,
+   "score": 0.14326228,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1a3fb67c-a339-4ec0-aa7d-32c2794a6b7f",
+   "id": "1915e6a3-3291-4b02-95df-f4aa951e8b54",
    "title": {
-    "en": "Cain"
+    "en": "Made in Heaven"
    },
    "contentRating": "safe",
-   "score": 0.12847556,
+   "score": 0.14326228,
    "languages": [
-    "en"
+    "pl"
    ]
   },
   {
-   "id": "2f467a6a-7140-4dce-a688-4f35be44f39c",
+   "id": "7b8446e7-9905-43d7-a826-a646bdbf60f9",
    "title": {
-    "en": "Watashitachi, Rikon Shimasu"
+    "en": "Our House is a Haunted Rental Bookstore"
    },
    "contentRating": "safe",
-   "score": 0.12735999,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "uk",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "60d8aa66-3b06-446b-b6ca-e3c788ade41e",
-   "title": {
-    "en": "Aruosumente"
-   },
-   "contentRating": "safe",
-   "score": 0.12627032,
+   "score": 0.14269286,
    "languages": [
     "en",
-    "fr"
+    "es"
    ]
   },
   {
-   "id": "4ad70bf0-369a-4720-8d06-7bf53f0c7d22",
+   "id": "2e24d72e-4307-4fd5-af77-ec3bfdafeffb",
    "title": {
-    "en": "The Willow Tree"
+    "en": "Gene Bride"
    },
    "contentRating": "safe",
-   "score": 0.12150988,
-   "languages": [
-    "en",
-    "hi",
-    "ar",
-    "pt-br",
-    "tr",
-    "hu"
-   ]
-  },
-  {
-   "id": "cfdc5375-facb-477a-a229-d75a7d326064",
-   "title": {
-    "en": "Message"
-   },
-   "contentRating": "safe",
-   "score": 0.12150988,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "edcfb308-b228-4588-9c6b-2148e8fa63c0",
-   "title": {
-    "en": "Usemono Ari no Houichi"
-   },
-   "contentRating": "safe",
-   "score": 0.12150988,
+   "score": 0.14227815,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:05+00:00"
+ "updatedAt": "2023-12-10T18:22:50+00:00"
 }

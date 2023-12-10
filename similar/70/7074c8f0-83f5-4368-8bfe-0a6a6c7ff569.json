@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0fd1faae-f561-4fe6-947f-a6e3db2cd981",
+   "title": {
+    "en": "Hametsu End Masshigura no Akuyaku Reijou ni Tensei shita no de, Oishii Gohan wo Tsukutte Kurashimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.30400795
+  },
+  {
    "id": "47b61340-1d50-48be-8761-994abbd66f31",
    "title": {
     "en": "Isekai Maid no Mitsuboshi Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.2866682
+   "score": 0.28744256
   },
   {
    "id": "d3b4bb3e-5912-4f42-af99-b0c907dbef02",
@@ -19,7 +27,7 @@
     "en": "Maid kara Haha ni Narimashita"
    },
    "contentRating": "safe",
-   "score": 0.27884528,
+   "score": 0.28000996,
    "languages": [
     "pl",
     "pt-br",
@@ -43,32 +51,23 @@
    "score": 0.26603287
   },
   {
+   "id": "3901bbfd-9142-4a41-a800-c952044a5111",
+   "title": {
+    "en": "I Was Reincarnated, and Now I'm a Maid!"
+   },
+   "contentRating": "safe",
+   "score": 0.26437467,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8da62fd8-37eb-4e7b-b6bb-c29e7da206c8",
    "title": {
     "en": "Konyaku Haki no Tetsuzuki wa Osumi desu ka? - Daini no Jinsei wo Ouka Shiyou to Omottara, Guild wo Tatenaosu Koto ni narimashita."
    },
    "contentRating": "safe",
    "score": 0.26082027
-  },
-  {
-   "id": "62471284-d1c2-4f55-842e-055a2bfa7ff0",
-   "title": {
-    "en": "Koori no Koushaku-sama ni Amayakasaretai! ~Shiriasu Tenkai Shikanai Youjo ni Tensei Shite Shimatta Watashi no Funtouki~ @COMIC"
-   },
-   "contentRating": "safe",
-   "score": 0.25927848
-  },
-  {
-   "id": "f5e2d07c-7f19-4192-aebc-723134956093",
-   "title": {
-    "en": "Tensei-saki de Suterareta Node, Mofumofu-tachi to Oryouri Shimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.2508182,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   },
   {
    "id": "092d4920-0bf3-4b3c-8c84-5027ade69e35",
@@ -87,21 +86,53 @@
    ]
   },
   {
+   "id": "f5e2d07c-7f19-4192-aebc-723134956093",
+   "title": {
+    "en": "Tensei-saki de Suterareta Node, Mofumofu-tachi to Oryouri Shimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.2508182,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "21cde143-531f-4e60-916d-2e7daaee4647",
    "title": {
     "en": "Honobono Isekai Tensei Days ~Level Count, Item Mochi Goshi! Watashi wa Saikyou Youjo Desu~"
    },
    "contentRating": "safe",
-   "score": 0.24811843,
+   "score": 0.24976261,
    "languages": [
     "th",
     "en"
    ]
   },
   {
-   "id": "14e157c3-7856-4f86-a2d2-8faa86660744",
+   "id": "27589628-3704-468f-a464-361a8a76c3aa",
    "title": {
-    "en": "Mob Nanoni Makikomarete Imasu ~Ouji no Ibukuro wo Tsukandarashii~"
+    "en": "Isekai de Café wo Kaiten Shimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.24761905,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "4a601b26-e723-49ca-b4b1-f7ad0be9b29b",
+   "title": {
+    "en": "Danzaisareteiru Akuyaku Reijou to Irekawatte Konyakusha-tachi wo Buttobashitara, Dekiai ga Matte Imashita"
+   },
+   "contentRating": "safe",
+   "score": 0.24154766
+  },
+  {
+   "id": "f90a87ef-6e42-4879-ad97-30fe5613da5c",
+   "title": {
+    "en": "Byoujaku na Akuyaku Reijou desu ga, Konyakusha ga Kahogo sugite Nigedashitai (Watashitachi Kenen no Naka deshita yo ne!?)"
    },
    "contentRating": "safe",
    "score": 0.24147265,
@@ -121,9 +152,9 @@
    ]
   },
   {
-   "id": "f90a87ef-6e42-4879-ad97-30fe5613da5c",
+   "id": "14e157c3-7856-4f86-a2d2-8faa86660744",
    "title": {
-    "en": "Byoujaku na Akuyaku Reijou desu ga, Konyakusha ga Kahogo sugite Nigedashitai (Watashitachi Kenen no Naka deshita yo ne!?)"
+    "en": "Mob Nanoni Makikomarete Imasu ~Ouji no Ibukuro wo Tsukandarashii~"
    },
    "contentRating": "safe",
    "score": 0.24147265,
@@ -132,40 +163,16 @@
    ]
   },
   {
-   "id": "4a601b26-e723-49ca-b4b1-f7ad0be9b29b",
+   "id": "955866f7-6b87-4099-9c7d-b1305845b5f2",
    "title": {
-    "en": "Danzaisareteiru Akuyaku Reijou to Irekawatte Konyakusha-tachi wo Buttobashitara, Dekiai ga Matte Imashita"
+    "en": "Maid nara Touzen desu. ~Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita.~"
    },
    "contentRating": "safe",
-   "score": 0.23872046
-  },
-  {
-   "id": "badc77af-c9ed-4bff-9a2d-0fccd8fe6b92",
-   "title": {
-    "en": "Konyaku Hakisareta no de, Suki ni suru Koto ni Shita."
-   },
-   "contentRating": "safe",
-   "score": 0.2361741
-  },
-  {
-   "id": "d2a61f87-c74f-4ba3-93a4-c00a226dc02f",
-   "title": {
-    "en": "Moto Juui no Reijou wa Konyaku Haki Saremashitaga, Mofumofu-tachi ni Daininkidesu!"
-   },
-   "contentRating": "safe",
-   "score": 0.23567954,
+   "score": 0.24139832,
    "languages": [
-    "en"
+    "th"
    ]
-  },
-  {
-   "id": "d659e6fe-aa0a-4ad9-9a01-17b236833a23",
-   "title": {
-    "en": "Jiki Koushaku Fujin no Yakuwari Dake wo Motomete Kita, Kouri no Bara to Utawareru Danna-sama ga Kateinai Stalker to Kashita Ken"
-   },
-   "contentRating": "safe",
-   "score": 0.23492064
   }
  ],
- "updatedAt": "2023-12-10T01:04:14+00:00"
+ "updatedAt": "2023-12-10T18:20:30+00:00"
 }

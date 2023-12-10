@@ -11,7 +11,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.2600622,
+   "score": 0.25944102,
    "languages": [
     "en",
     "pt-br",
@@ -29,7 +29,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.23258026,
+   "score": 0.23217636,
    "languages": [
     "en"
    ]
@@ -54,14 +54,23 @@
    ]
   },
   {
-   "id": "1fa988a1-eea6-486a-a280-7b17cb9a5aea",
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
    "title": {
-    "en": "ELEMENTS: Users Of The Universe"
+    "en": "Hunter x Hunter"
    },
    "contentRating": "safe",
-   "score": 0.20727064,
+   "score": 0.21222432,
    "languages": [
-    "en"
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -83,6 +92,28 @@
    ]
   },
   {
+   "id": "1fa988a1-eea6-486a-a280-7b17cb9a5aea",
+   "title": {
+    "en": "ELEMENTS: Users Of The Universe"
+   },
+   "contentRating": "safe",
+   "score": 0.20638163,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
+   "title": {
+    "en": "Pokémon Diamond and Pearl"
+   },
+   "contentRating": "safe",
+   "score": 0.20115826,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
    "title": {
     "en": "Onikirimaru"
@@ -94,23 +125,12 @@
    ]
   },
   {
-   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
-   "title": {
-    "en": "Pokémon Diamond and Pearl"
-   },
-   "contentRating": "safe",
-   "score": 0.1986667,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
    "title": {
     "en": "Persona 5"
    },
    "contentRating": "safe",
-   "score": 0.19790582,
+   "score": 0.19740596,
    "languages": [
     "pt-br",
     "ru",
@@ -142,12 +162,28 @@
    ]
   },
   {
+   "id": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+   "title": {
+    "en": "Wistoria: Wand and Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.18466915,
+   "languages": [
+    "id",
+    "en",
+    "ru",
+    "pt-br",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
    "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
    "title": {
     "en": "Jujutsu Kaisen"
    },
    "contentRating": "safe",
-   "score": 0.18525386,
+   "score": 0.18439937,
    "languages": [
     "it",
     "hu",
@@ -173,23 +209,23 @@
    ]
   },
   {
-   "id": "45599047-f246-49e9-be3a-48cc70ca675f",
-   "title": {
-    "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
-   },
-   "contentRating": "safe",
-   "score": 0.18422282,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
    "title": {
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
    "score": 0.18385857,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "45599047-f246-49e9-be3a-48cc70ca675f",
+   "title": {
+    "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
+   },
+   "contentRating": "safe",
+   "score": 0.18311352,
    "languages": [
     "en"
    ]
@@ -204,30 +240,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
-   "title": {
-    "en": "Cyborg 009"
-   },
-   "contentRating": "safe",
-   "score": 0.18124653,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
-   "title": {
-    "en": "Valkyrie Profile - The Dark Alchemist"
-   },
-   "contentRating": "safe",
-   "score": 0.178537,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:32+00:00"
+ "updatedAt": "2023-12-10T18:18:36+00:00"
 }

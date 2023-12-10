@@ -6,14 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6e36473c-5e50-4bc1-84d3-f857fed0f5ea",
+   "title": {
+    "en": "RH Plus"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eacb6eea-737f-4ae8-88cf-7cd0645ba339",
+   "title": {
+    "en": "God and Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.26084667,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
    "title": {
     "en": "Tsumi to Bachi"
    },
    "contentRating": "safe",
-   "score": 0.2557635,
+   "score": 0.25434276,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
+   "title": {
+    "en": "Nukoduke!"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "ru",
+    "es",
+    "pl"
    ]
   },
   {
@@ -29,17 +67,47 @@
    ]
   },
   {
-   "id": "90b88312-18b2-4a87-99fd-ccca64288e7b",
+   "id": "2da17e6d-5ddf-4dcf-a31f-11e2da9df38c",
    "title": {
-    "en": "Nukoduke!"
+    "en": "What Do You Need?"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "en",
-    "ru",
-    "es",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "589a2e7f-be8f-4a2b-8ee3-5bf937c410aa",
+   "title": {
+    "en": "Ozone"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "48e93eeb-297f-429a-b7c8-c6f418751772",
+   "title": {
+    "en": "Taste"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "11c61a59-449a-434d-8ae7-0b08fae3257e",
+   "title": {
+    "en": "A3!"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -99,10 +167,26 @@
     "en": "Dog and My Family Circumstance"
    },
    "contentRating": "safe",
-   "score": 0.21866228,
+   "score": 0.2183606,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
+   "title": {
+    "en": "Majo-senpai Nippou"
+   },
+   "contentRating": "safe",
+   "score": 0.21205045,
+   "languages": [
+    "en",
+    "it",
+    "ru",
+    "pt-br",
+    "fr",
+    "id"
    ]
   },
   {
@@ -111,95 +195,11 @@
     "en": "Otome wa Inoru - Himitsu no Dormitory"
    },
    "contentRating": "safe",
-   "score": 0.207393,
+   "score": 0.20651542,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc1fe50d-2817-452f-853d-62bc3cba5029",
-   "title": {
-    "en": "Kamisama no Orgel"
-   },
-   "contentRating": "safe",
-   "score": 0.20481259,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "48a38e35-37a9-4407-9bfe-5d673753bedb",
-   "title": {
-    "en": "Jasmine"
-   },
-   "contentRating": "safe",
-   "score": 0.1968127,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
-   "title": {
-    "en": "Nocturne"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "4310ed20-58bb-4a5f-8fec-ed873b7bbee7",
-   "title": {
-    "en": "Sumika's Home"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d3f2a6b-afcb-438a-b718-d24fe25efead",
-   "title": {
-    "en": "Triangle"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "c7564951-ae8a-43b7-b122-1ca0cbd9469c",
-   "title": {
-    "en": "Then, I'll Go First"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "41b0ebf9-7e2e-4b27-9d91-9a778b2ebbb3",
-   "title": {
-    "en": "Hitori-tachi"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pl",
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:43+00:00"
+ "updatedAt": "2023-12-10T18:10:59+00:00"
 }

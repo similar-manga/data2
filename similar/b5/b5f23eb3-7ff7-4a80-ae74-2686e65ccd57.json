@@ -11,7 +11,7 @@
     "en": "Tomodachi Game"
    },
    "contentRating": "suggestive",
-   "score": 0.24288987,
+   "score": 0.24032123,
    "languages": [
     "pt-br",
     "fr",
@@ -29,7 +29,7 @@
     "en": "Shoutai Fumei to Kyoufu"
    },
    "contentRating": "suggestive",
-   "score": 0.21988387,
+   "score": 0.22431898,
    "languages": [
     "vi",
     "id",
@@ -43,7 +43,7 @@
     "en": "The God of \"Game of Gods\""
    },
    "contentRating": "suggestive",
-   "score": 0.20269516,
+   "score": 0.19976082,
    "languages": [
     "en",
     "pt-br",
@@ -56,26 +56,9 @@
     "en": "Zettai Kami no Yuugi"
    },
    "contentRating": "suggestive",
-   "score": 0.18523446,
+   "score": 0.18250345,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "229e5177-2e71-4642-bd56-a9b0b0ba0e60",
-   "title": {
-    "en": "Toaru Majutsu no Index"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18112898,
-   "languages": [
-    "pl",
-    "en",
-    "es-la",
-    "ar",
-    "pt-br",
-    "zh",
-    "fr"
    ]
   },
   {
@@ -84,7 +67,7 @@
     "en": "Kaminagashijima - Rinne no Miko"
    },
    "contentRating": "suggestive",
-   "score": 0.18071835,
+   "score": 0.1805293,
    "languages": [
     "en",
     "ru",
@@ -98,7 +81,7 @@
     "en": "Genshi"
    },
    "contentRating": "suggestive",
-   "score": 0.17893253,
+   "score": 0.17809103,
    "languages": [
     "en"
    ]
@@ -109,7 +92,7 @@
     "en": "Otomege Sekai wa Mob ni Kibishii Sekai desu"
    },
    "contentRating": "suggestive",
-   "score": 0.17812139,
+   "score": 0.17508763,
    "languages": [
     "it",
     "pt-br",
@@ -125,16 +108,44 @@
    ]
   },
   {
+   "id": "229e5177-2e71-4642-bd56-a9b0b0ba0e60",
+   "title": {
+    "en": "Toaru Majutsu no Index"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17359273,
+   "languages": [
+    "pl",
+    "en",
+    "es-la",
+    "ar",
+    "pt-br",
+    "zh",
+    "fr"
+   ]
+  },
+  {
    "id": "f111b97d-d3bc-4aa9-8d82-959db6592e00",
    "title": {
     "en": "Eternal Torment"
    },
    "contentRating": "suggestive",
-   "score": 0.17087802,
+   "score": 0.17032848,
    "languages": [
     "ru",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "53f750df-53b0-4823-aa7b-0d69b90d853a",
+   "title": {
+    "en": "Mobile Suit Gundam Pulitzer - Amuro Ray Beyond the Aurora"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16683328,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -150,23 +161,12 @@
    ]
   },
   {
-   "id": "53f750df-53b0-4823-aa7b-0d69b90d853a",
-   "title": {
-    "en": "Mobile Suit Gundam Pulitzer - Amuro Ray Beyond the Aurora"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16618302,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "dfffa880-4154-40d1-abd2-0dff94248908",
    "title": {
     "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
    },
    "contentRating": "suggestive",
-   "score": 0.16616407,
+   "score": 0.16605823,
    "languages": [
     "en",
     "es",
@@ -186,23 +186,23 @@
    ]
   },
   {
-   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
-   "title": {
-    "en": "Akiba's Trip"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16122793,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c616db88-d7ba-4621-823c-f43eef5d74d3",
    "title": {
     "en": "Akuru no Shima"
    },
    "contentRating": "suggestive",
-   "score": 0.16115686,
+   "score": 0.16033262,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
+   "title": {
+    "en": "Akiba's Trip"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16009668,
    "languages": [
     "en"
    ]
@@ -213,7 +213,7 @@
     "en": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
    },
    "contentRating": "suggestive",
-   "score": 0.15975146,
+   "score": 0.15866105,
    "languages": [
     "it",
     "es-la",
@@ -226,5 +226,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:16+00:00"
+ "updatedAt": "2023-12-10T18:28:42+00:00"
 }

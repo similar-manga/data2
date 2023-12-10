@@ -11,11 +11,22 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.28736818,
+   "score": 0.2885818,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.21495272,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -24,10 +35,27 @@
     "en": "Levius/est"
    },
    "contentRating": "safe",
-   "score": 0.214555,
+   "score": 0.21460617,
    "languages": [
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "b757d730-1d01-4ab9-8909-c6a9b1f79a0c",
+   "title": {
+    "en": "Baikoku Kikan"
+   },
+   "contentRating": "safe",
+   "score": 0.21418522,
+   "languages": [
+    "pl",
+    "en",
+    "hu",
+    "ru",
+    "id",
+    "uk",
+    "es-la"
    ]
   },
   {
@@ -36,7 +64,7 @@
     "en": "Gunka no Baltzar"
    },
    "contentRating": "safe",
-   "score": 0.20705695,
+   "score": 0.20641918,
    "languages": [
     "en",
     "pt-br"
@@ -48,7 +76,7 @@
     "en": "Star Wars - The Mandalorian"
    },
    "contentRating": "safe",
-   "score": 0.20662542,
+   "score": 0.2062347,
    "languages": [
     "pt-br",
     "en"
@@ -60,7 +88,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.20359987,
+   "score": 0.20337646,
    "languages": [
     "en"
    ]
@@ -71,7 +99,7 @@
     "en": "Nigoru Hitomi de Nani wo Negau - Highserk Senki"
    },
    "contentRating": "safe",
-   "score": 0.20252936,
+   "score": 0.20157407,
    "languages": [
     "pt-br",
     "en",
@@ -82,12 +110,24 @@
    ]
   },
   {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.20022395,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
    "title": {
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.19854951,
+   "score": 0.19770363,
    "languages": [
     "en"
    ]
@@ -98,18 +138,7 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.1954683,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "374b1da0-90c0-490e-b8e8-c74aaa468da6",
-   "title": {
-    "en": "Eirun Last Code"
-   },
-   "contentRating": "safe",
-   "score": 0.19486149,
+   "score": 0.19436015,
    "languages": [
     "en"
    ]
@@ -131,13 +160,24 @@
     "en": "Tank Chair"
    },
    "contentRating": "safe",
-   "score": 0.192594,
+   "score": 0.19231933,
    "languages": [
     "vi",
     "en",
     "pt-br",
     "id",
     "es-la"
+   ]
+  },
+  {
+   "id": "374b1da0-90c0-490e-b8e8-c74aaa468da6",
+   "title": {
+    "en": "Eirun Last Code"
+   },
+   "contentRating": "safe",
+   "score": 0.19217221,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -159,70 +199,14 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.18966635,
+   "score": 0.18885031,
    "languages": [
     "ru",
     "en",
     "zh-hk",
     "pt-br"
    ]
-  },
-  {
-   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
-   "title": {
-    "en": "Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.18690465,
-   "languages": [
-    "en",
-    "it",
-    "vi",
-    "ar",
-    "ru",
-    "es",
-    "pt-br",
-    "pl",
-    "tr",
-    "ro",
-    "id",
-    "es-la",
-    "fr",
-    "de"
-   ]
-  },
-  {
-   "id": "d773c8be-8e82-4ff1-a4e9-46171395319b",
-   "title": {
-    "en": "The Saga of Tanya the Evil"
-   },
-   "contentRating": "safe",
-   "score": 0.18378848,
-   "languages": [
-    "hu",
-    "pt-br",
-    "ru",
-    "en",
-    "vi",
-    "id",
-    "uk",
-    "es-la",
-    "es",
-    "pl"
-   ]
-  },
-  {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
-   "title": {
-    "en": "Crest of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.18289158,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:09+00:00"
+ "updatedAt": "2023-12-10T18:20:16+00:00"
 }

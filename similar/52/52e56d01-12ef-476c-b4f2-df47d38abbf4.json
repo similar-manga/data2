@@ -11,7 +11,7 @@
     "en": "Eiyuu Densetsu - Sora no Kiseki"
    },
    "contentRating": "safe",
-   "score": 0.26296267,
+   "score": 0.26291436,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Moonlight Mile"
    },
    "contentRating": "safe",
-   "score": 0.24293853,
+   "score": 0.24448107,
    "languages": [
     "it",
     "ru",
@@ -47,7 +47,7 @@
     "en": "Boku no Tsuma wa Kanjou ga Nai"
    },
    "contentRating": "safe",
-   "score": 0.21573402,
+   "score": 0.2168764,
    "languages": [
     "en",
     "vi",
@@ -76,9 +76,20 @@
     "en": "The Unwavering Planets"
    },
    "contentRating": "safe",
-   "score": 0.19667047,
+   "score": 0.19777581,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
+   "title": {
+    "en": "Like a Laika"
+   },
+   "contentRating": "safe",
+   "score": 0.19326155,
+   "languages": [
     "en"
    ]
   },
@@ -106,34 +117,12 @@
    ]
   },
   {
-   "id": "2970916f-3710-4344-a236-b67ccc50a965",
-   "title": {
-    "en": "Bengo!"
-   },
-   "contentRating": "safe",
-   "score": 0.19152099,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
-   "title": {
-    "en": "Like a Laika"
-   },
-   "contentRating": "safe",
-   "score": 0.19118342,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a29bd145-116e-49c8-bc2f-b15857299304",
    "title": {
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.18987903,
+   "score": 0.19074932,
    "languages": [
     "en",
     "ru",
@@ -141,13 +130,36 @@
    ]
   },
   {
-   "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
+   "id": "2970916f-3710-4344-a236-b67ccc50a965",
    "title": {
-    "en": "Laika in Space"
+    "en": "Bengo!"
    },
    "contentRating": "safe",
-   "score": 0.18230437,
+   "score": 0.1903292,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f9d854ea-6787-40f5-a30c-5d72eef9e0cb",
+   "title": {
+    "en": "Junket Bank"
+   },
+   "contentRating": "safe",
+   "score": 0.18908821,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
+   "title": {
+    "en": "S. Flight"
+   },
+   "contentRating": "safe",
+   "score": 0.17792504,
+   "languages": [
+    "zh",
     "en"
    ]
   },
@@ -157,7 +169,7 @@
     "en": "Uchuu Kyoudai"
    },
    "contentRating": "safe",
-   "score": 0.17334387,
+   "score": 0.17515445,
    "languages": [
     "en",
     "pt-br",
@@ -168,14 +180,15 @@
    ]
   },
   {
-   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
+   "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
-    "en": "Saber Cats"
+    "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
    "score": 0.17142858,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -188,19 +201,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:01+00:00"
+ "updatedAt": "2023-12-10T18:17:16+00:00"
 }

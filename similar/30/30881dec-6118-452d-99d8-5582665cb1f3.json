@@ -11,7 +11,7 @@
     "en": "Final Battle of the Seven Riders!"
    },
    "contentRating": "safe",
-   "score": 0.34751126
+   "score": 0.34600386
   },
   {
    "id": "8397bdd0-0f58-4324-b830-8d79eed7eaf5",
@@ -19,7 +19,15 @@
     "en": "Movie Story Doraemon Nobita's New Great Adventure in the Makai Seven Magicians"
    },
    "contentRating": "safe",
-   "score": 0.32911217
+   "score": 0.3232423
+  },
+  {
+   "id": "d3b8e0b0-7851-450f-9cbc-72e7248f5baf",
+   "title": {
+    "en": "Battle Spirits: Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.2949794
   },
   {
    "id": "80d5dc70-982b-4348-afe8-87ed6a2ed785",
@@ -27,7 +35,7 @@
     "en": "Ultraman: The Next"
    },
    "contentRating": "safe",
-   "score": 0.291926
+   "score": 0.29135865
   },
   {
    "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
@@ -35,7 +43,7 @@
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.28925684,
+   "score": 0.28666458,
    "languages": [
     "en"
    ]
@@ -49,12 +57,36 @@
    "score": 0.2852744
   },
   {
+   "id": "acf9f213-803d-4da6-ad2e-9edef2d3f86f",
+   "title": {
+    "en": "SD Gundam Eiyuden"
+   },
+   "contentRating": "safe",
+   "score": 0.28176975
+  },
+  {
    "id": "e163f8ff-9a79-4aac-9c31-c01a6aa548a8",
    "title": {
     "en": "Shin Musha Gundam Super Mobile General"
    },
    "contentRating": "safe",
-   "score": 0.28410769
+   "score": 0.27958974
+  },
+  {
+   "id": "66afb086-ca1e-4160-85f0-5c1224e7d714",
+   "title": {
+    "en": "Battle Thunder"
+   },
+   "contentRating": "safe",
+   "score": 0.2721903
+  },
+  {
+   "id": "65c254d3-fb52-4982-9df3-c276ed39b17a",
+   "title": {
+    "en": "Great Mazinger (TV Land)"
+   },
+   "contentRating": "safe",
+   "score": 0.26739907
   },
   {
    "id": "39801903-3b03-4704-98ea-a9f2d80bdadf",
@@ -62,7 +94,15 @@
     "en": "Ultraman (KAZUMINE Daiji)"
    },
    "contentRating": "safe",
-   "score": 0.26577583
+   "score": 0.26554084
+  },
+  {
+   "id": "b8269ed9-5166-456a-8f18-9c8399392e59",
+   "title": {
+    "en": "Qualidea Code"
+   },
+   "contentRating": "safe",
+   "score": 0.260158
   },
   {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
@@ -70,37 +110,10 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.26232818,
+   "score": 0.2599824,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "a0de647a-1035-46dd-b052-4c45553fd07e",
-   "title": {
-    "en": "Mobile Suit Gundam Side Story - The Blue Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.25819877,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "512c6201-61b4-49a8-a627-6a4ef4582d9a",
-   "title": {
-    "en": "Combattler V"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
-  },
-  {
-   "id": "c104c83c-d952-4f07-bafe-1b77bf108488",
-   "title": {
-    "en": "Space Knight Tekkaman Blade II"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
   },
   {
    "id": "c673728f-332a-4474-87af-9c66b9096d5b",
@@ -114,25 +127,6 @@
    ]
   },
   {
-   "id": "9bedcc63-63e5-47c9-97ef-12f5303cb0aa",
-   "title": {
-    "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fe118f30-bff8-4f52-b5c4-2143d26a0fb4",
-   "title": {
-    "en": "Super Electromagnetic War Victory Five"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
-  },
-  {
    "id": "372774de-b310-47b3-a21b-b42d9644c7ce",
    "title": {
     "en": "Groizer X"
@@ -141,13 +135,13 @@
    "score": 0.2569291
   },
   {
-   "id": "f022dc71-e2c3-4edc-9774-54f563e12d4e",
+   "id": "fe118f30-bff8-4f52-b5c4-2143d26a0fb4",
    "title": {
-    "en": "SD Gundam: Musha Maruden 2"
+    "en": "Super Electromagnetic War Victory Five"
    },
    "contentRating": "safe",
-   "score": 0.25197622
+   "score": 0.2569291
   }
  ],
- "updatedAt": "2023-12-10T01:01:36+00:00"
+ "updatedAt": "2023-12-10T18:13:29+00:00"
 }

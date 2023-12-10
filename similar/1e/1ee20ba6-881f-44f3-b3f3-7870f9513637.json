@@ -11,7 +11,7 @@
     "en": "Garaku"
    },
    "contentRating": "safe",
-   "score": 0.19308655,
+   "score": 0.19262297,
    "languages": [
     "en",
     "it"
@@ -29,9 +29,9 @@
    ]
   },
   {
-   "id": "f18a36d8-0225-4187-bbc2-c603ae6140bf",
+   "id": "292677c4-d994-47f9-b451-303ef836af79",
    "title": {
-    "en": "Kakugo no Susume - Voltex"
+    "en": "Kakugo no Susume - Oujou no Susume"
    },
    "contentRating": "safe",
    "score": 0.18458807,
@@ -40,9 +40,9 @@
    ]
   },
   {
-   "id": "292677c4-d994-47f9-b451-303ef836af79",
+   "id": "f18a36d8-0225-4187-bbc2-c603ae6140bf",
    "title": {
-    "en": "Kakugo no Susume - Oujou no Susume"
+    "en": "Kakugo no Susume - Voltex"
    },
    "contentRating": "safe",
    "score": 0.18458807,
@@ -56,7 +56,7 @@
     "en": "Jujutsu Kaisen"
    },
    "contentRating": "safe",
-   "score": 0.18050288,
+   "score": 0.17954847,
    "languages": [
     "it",
     "hu",
@@ -87,7 +87,7 @@
     "en": "Kinniku Jorei"
    },
    "contentRating": "safe",
-   "score": 0.17695135,
+   "score": 0.176097,
    "languages": [
     "en"
    ]
@@ -98,9 +98,22 @@
     "en": "レンタルキラー"
    },
    "contentRating": "safe",
-   "score": 0.17274854,
+   "score": 0.17219505,
    "languages": [
     "pt-br"
+   ]
+  },
+  {
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "title": {
+    "en": "Little War"
+   },
+   "contentRating": "safe",
+   "score": 0.17092815,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -115,29 +128,16 @@
    ]
   },
   {
-   "id": "0c6ad667-d786-4d5f-a354-d4014f318b4f",
+   "id": "48db4722-3e23-46f2-9132-680dddb67266",
    "title": {
-    "en": "Mikoto Hako"
+    "en": "Meikyuu no Ou"
    },
    "contentRating": "safe",
-   "score": 0.16531318,
+   "score": 0.1651006,
    "languages": [
-    "es-la",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
-   "title": {
-    "en": "Little War"
-   },
-   "contentRating": "safe",
-   "score": 0.16483521,
-   "languages": [
-    "fr",
     "pt-br",
-    "en"
+    "en",
+    "tr"
    ]
   },
   {
@@ -146,9 +146,22 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.16277033,
+   "score": 0.16428356,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0c6ad667-d786-4d5f-a354-d4014f318b4f",
+   "title": {
+    "en": "Mikoto Hako"
+   },
+   "contentRating": "safe",
+   "score": 0.16406697,
+   "languages": [
+    "es-la",
+    "en",
+    "vi"
    ]
   },
   {
@@ -169,7 +182,7 @@
     "en": "Mario"
    },
    "contentRating": "safe",
-   "score": 0.15577945,
+   "score": 0.15439789,
    "languages": [
     "pl",
     "id",
@@ -186,23 +199,10 @@
     "en": "Digimon Story: Cyber Sleuth"
    },
    "contentRating": "safe",
-   "score": 0.15237173,
+   "score": 0.15344983,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
-   "title": {
-    "en": "Karakuri"
-   },
-   "contentRating": "safe",
-   "score": 0.1522774,
-   "languages": [
-    "en",
-    "pl",
-    "it"
    ]
   },
   {
@@ -218,5 +218,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:57+00:00"
+ "updatedAt": "2023-12-10T18:11:37+00:00"
 }

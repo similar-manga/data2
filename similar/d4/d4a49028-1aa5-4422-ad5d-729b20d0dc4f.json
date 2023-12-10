@@ -45,7 +45,7 @@
     "en": "Chloroform"
    },
    "contentRating": "safe",
-   "score": 0.18653913,
+   "score": 0.18627423,
    "languages": [
     "es-la",
     "en"
@@ -57,7 +57,7 @@
     "en": "Tell Me a Lie"
    },
    "contentRating": "safe",
-   "score": 0.18626577,
+   "score": 0.18593346,
    "languages": [
     "en"
    ]
@@ -68,9 +68,25 @@
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.18451774,
+   "score": 0.18316145,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "66452183-f3d9-48aa-b58e-9b19ab082c1f",
+   "title": {
+    "en": "Edogawa Osamu's Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.18151994,
+   "languages": [
+    "es-la",
+    "en",
+    "ru",
+    "vi",
+    "pt-br",
+    "pl"
    ]
   },
   {
@@ -79,9 +95,21 @@
     "en": "Kakeru"
    },
    "contentRating": "safe",
-   "score": 0.18089648,
+   "score": 0.18052478,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "89b73d5e-bc60-4cfd-969d-133a76e89ecb",
+   "title": {
+    "en": "Shinomiya Kouta wa Mada Shinenai -Border of the Dead-"
+   },
+   "contentRating": "safe",
+   "score": 0.1797305,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -99,15 +127,14 @@
    ]
   },
   {
-   "id": "43e0daab-eda3-4ae2-bf2c-5fe4bf19fb7c",
+   "id": "40c4d38c-cae3-45e3-b984-a7a4569dd4ed",
    "title": {
-    "en": "Koukai no Naraku"
+    "en": "Teppen Gurarin - Nippon Mukashi Banashi Hanzai Sousa"
    },
    "contentRating": "safe",
-   "score": 0.17814174,
+   "score": 0.17796074,
    "languages": [
-    "en",
-    "pl"
+    "zh-hk"
    ]
   },
   {
@@ -119,6 +146,30 @@
    "score": 0.17796074,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "43e0daab-eda3-4ae2-bf2c-5fe4bf19fb7c",
+   "title": {
+    "en": "Koukai no Naraku"
+   },
+   "contentRating": "safe",
+   "score": 0.1771293,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.17356898,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -134,69 +185,17 @@
    ]
   },
   {
-   "id": "5e9e50a7-39cc-447c-a5b3-a459bebd7f62",
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
    "title": {
-    "en": "Human Chair"
+    "en": "Ghost Story Loop"
    },
    "contentRating": "safe",
-   "score": 0.16882838,
+   "score": 0.17353812,
    "languages": [
     "en",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "6f77013d-334c-43cc-a979-629ed4ebbd6d",
-   "title": {
-    "en": "The Long Cavern"
-   },
-   "contentRating": "safe",
-   "score": 0.16882838,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
-   "title": {
-    "en": "Fool Night"
-   },
-   "contentRating": "safe",
-   "score": 0.1688024,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
     "id"
-   ]
-  },
-  {
-   "id": "757733e5-7654-48c0-a2bf-ff2223d6d62a",
-   "title": {
-    "en": "Yoshibo's Crime"
-   },
-   "contentRating": "safe",
-   "score": 0.16610517,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2954a23f-22c1-4bce-a2fc-0a0dc3e201a7",
-   "title": {
-    "en": "PTSD Radio"
-   },
-   "contentRating": "safe",
-   "score": 0.16233005,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en",
-    "uk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:32+00:00"
+ "updatedAt": "2023-12-10T18:31:53+00:00"
 }

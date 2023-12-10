@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d4961a26-f837-43c7-ad5a-ccd193be97bf",
+   "title": {
+    "en": "99.9"
+   },
+   "contentRating": "safe",
+   "score": 0.29382876,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
    "title": {
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.2994788,
+   "score": 0.27280423,
    "languages": [
     "fr",
     "pt-br",
@@ -19,12 +30,12 @@
    ]
   },
   {
-   "id": "d4961a26-f837-43c7-ad5a-ccd193be97bf",
+   "id": "5cc5c71c-311d-42c8-8eef-f306cb92e7ef",
    "title": {
-    "en": "99.9"
+    "en": "Waon Nijuusou"
    },
    "contentRating": "safe",
-   "score": 0.29927674,
+   "score": 0.25553614,
    "languages": [
     "en"
    ]
@@ -35,19 +46,20 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.25014356,
+   "score": 0.24421056,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2f410254-75ea-42f4-826e-60921d498c3a",
+   "id": "8493c7cd-8c28-4c67-a711-509e19307105",
    "title": {
-    "en": "Dangan Tenshi Fan Club"
+    "en": "Zenei no Archer"
    },
    "contentRating": "safe",
-   "score": 0.23767479,
+   "score": 0.24002278,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -112,12 +124,23 @@
    ]
   },
   {
+   "id": "2f410254-75ea-42f4-826e-60921d498c3a",
+   "title": {
+    "en": "Dangan Tenshi Fan Club"
+   },
+   "contentRating": "safe",
+   "score": 0.2026141,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
    "title": {
     "en": "Shikigami Twilight Days"
    },
    "contentRating": "safe",
-   "score": 0.20702565,
+   "score": 0.19981395,
    "languages": [
     "en"
    ]
@@ -128,22 +151,9 @@
     "en": "Sasabunechou Konjaku"
    },
    "contentRating": "safe",
-   "score": 0.20582408,
+   "score": 0.19943993,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
-   "title": {
-    "en": "Gazer"
-   },
-   "contentRating": "safe",
-   "score": 0.20337671,
-   "languages": [
-    "pt-br",
-    "en",
-    "es"
    ]
   },
   {
@@ -152,7 +162,7 @@
     "en": "Armados"
    },
    "contentRating": "safe",
-   "score": 0.20166802,
+   "score": 0.19568267,
    "languages": [
     "en"
    ]
@@ -163,7 +173,7 @@
     "en": "SKY CLAW"
    },
    "contentRating": "safe",
-   "score": 0.20051076,
+   "score": 0.19047621,
    "languages": [
     "fr",
     "en"
@@ -175,24 +185,12 @@
     "en": "Fantasies"
    },
    "contentRating": "safe",
-   "score": 0.20027205,
+   "score": 0.19047621,
    "languages": [
     "en",
     "de"
    ]
-  },
-  {
-   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
-   "title": {
-    "en": "Meikai no Pendulum"
-   },
-   "contentRating": "safe",
-   "score": 0.19946218,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:56+00:00"
+ "updatedAt": "2023-12-10T18:30:22+00:00"
 }

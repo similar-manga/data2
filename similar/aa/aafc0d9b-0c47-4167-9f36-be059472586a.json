@@ -11,7 +11,7 @@
     "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
    },
    "contentRating": "safe",
-   "score": 0.26683044,
+   "score": 0.26563984,
    "languages": [
     "th",
     "en"
@@ -23,7 +23,7 @@
     "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.2556177
+   "score": 0.2551013
   },
   {
    "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
@@ -31,21 +31,31 @@
     "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
    },
    "contentRating": "safe",
-   "score": 0.23550883,
+   "score": 0.2337253,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
+   "id": "24c75b6c-fd19-4938-b829-7bd883154e42",
    "title": {
-    "en": "Alien Nine Special"
+    "en": "BLACK999"
    },
    "contentRating": "safe",
-   "score": 0.22999132,
+   "score": 0.23076668,
    "languages": [
+    "id",
+    "es-la",
     "en"
    ]
+  },
+  {
+   "id": "8aa4a496-2515-46bc-a842-ef85809d2be1",
+   "title": {
+    "en": "Black Bike General"
+   },
+   "contentRating": "safe",
+   "score": 0.22981617
   },
   {
    "id": "37fd04eb-b674-4558-a1a6-9b27c78054c5",
@@ -56,31 +66,23 @@
    "score": 0.22908106
   },
   {
-   "id": "ef598a74-006e-44ed-a469-561013213932",
+   "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
    "title": {
-    "en": "Lightning Boy Spark Dan"
+    "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.22847131
-  },
-  {
-   "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
-   "title": {
-    "en": "Bear Hunter — Fubuki-gō"
-   },
-   "contentRating": "safe",
-   "score": 0.22337724,
+   "score": 0.22893782,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
+   "id": "ef598a74-006e-44ed-a469-561013213932",
    "title": {
-    "en": "Night Bird"
+    "en": "Lightning Boy Spark Dan"
    },
    "contentRating": "safe",
-   "score": 0.22043337
+   "score": 0.22845703
   },
   {
    "id": "46d3e9f0-8892-48c8-9fe1-816efec04d4f",
@@ -96,33 +98,8 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.2181109,
+   "score": 0.21749277,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
-   "title": {
-    "en": "Dr. Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
-   "title": {
-    "en": "Count Over"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "pt-br",
-    "id",
-    "zh-hk",
     "en"
    ]
   },
@@ -146,6 +123,39 @@
    ]
   },
   {
+   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
+   "title": {
+    "en": "Dr. Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d95cdef-ee4b-465d-a263-142efde13397",
+   "title": {
+    "en": "Phoenix 2772"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971
+  },
+  {
+   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
+   "title": {
+    "en": "Count Over"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "pt-br",
+    "id",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
    "title": {
     "en": "MY LITTLE MARS"
@@ -157,15 +167,7 @@
     "en",
     "zh-hk"
    ]
-  },
-  {
-   "id": "3d95cdef-ee4b-465d-a263-142efde13397",
-   "title": {
-    "en": "Phoenix 2772"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971
   }
  ],
- "updatedAt": "2023-12-10T01:06:48+00:00"
+ "updatedAt": "2023-12-10T18:27:26+00:00"
 }

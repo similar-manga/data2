@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+   "title": {
+    "en": "Replica Datte, Koi wo suru."
+   },
+   "contentRating": "safe",
+   "score": 0.23062308,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "5dfe9757-34c9-4c34-9f0e-b3a5d382317c",
    "title": {
     "en": "Meitantei no Jouken"
@@ -17,15 +30,76 @@
    ]
   },
   {
+   "id": "8cb6b378-b2ef-487a-8d2a-9347ce3a41fe",
+   "title": {
+    "en": "Back to the Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.21439953,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "7b1317e0-2185-4295-b05b-aca02ec5dd04",
    "title": {
     "en": "Akunin no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.20716842,
+   "score": 0.2066006,
    "languages": [
     "es-la",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
+   "title": {
+    "en": "Kimi no Love o Misetekure!"
+   },
+   "contentRating": "safe",
+   "score": 0.20490515,
+   "languages": [
+    "es-la",
+    "ru",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
+   "title": {
+    "en": "One Pound Gospel"
+   },
+   "contentRating": "safe",
+   "score": 0.19367523,
+   "languages": [
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "eace40fd-0bcd-4016-9475-24459996302b",
+   "title": {
+    "en": "Reinouryokusha Odagiri Kyouko no Uso"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
     "en"
    ]
   },
@@ -41,12 +115,12 @@
    ]
   },
   {
-   "id": "eace40fd-0bcd-4016-9475-24459996302b",
+   "id": "27fbbb95-b5d9-4ac9-8df6-7a5d09fcb898",
    "title": {
-    "en": "Reinouryokusha Odagiri Kyouko no Uso"
+    "en": "Distance Love Between A Con Man \u0026 A Police Officer"
    },
    "contentRating": "safe",
-   "score": 0.19317813,
+   "score": 0.19284049,
    "languages": [
     "en"
    ]
@@ -63,66 +137,18 @@
    ]
   },
   {
-   "id": "aa5a2ddb-ca91-4537-8618-a0c1f583b403",
+   "id": "cabaab27-e76f-4737-807b-7dc948fca35a",
    "title": {
-    "en": "One Pound Gospel"
+    "en": "Tantei wa Mou, Shindeiru"
    },
    "contentRating": "safe",
-   "score": 0.19047944,
+   "score": 0.19060616,
    "languages": [
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
-   "title": {
-    "en": "White Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.1899659,
-   "languages": [
-    "pl",
     "en",
     "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9ef6e461-033b-4976-b222-943856c94a97",
-   "title": {
-    "en": "Smiley"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "ca41dac5-08ca-46a6-8b84-ebdec6baa75d",
-   "title": {
-    "en": "Akumu no Elevator"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "1958cb33-4cd4-4d43-afd9-0cc1c33c89ae",
-   "title": {
-    "en": "Ottori Sousa"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
+    "id",
+    "it",
+    "tr"
    ]
   },
   {
@@ -131,7 +157,7 @@
     "en": "【Oshi no Ko】"
    },
    "contentRating": "safe",
-   "score": 0.18565404,
+   "score": 0.18734145,
    "languages": [
     "fr",
     "en",
@@ -151,65 +177,40 @@
    ]
   },
   {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "id": "1958cb33-4cd4-4d43-afd9-0cc1c33c89ae",
    "title": {
-    "en": "AGAPE"
+    "en": "Ottori Sousa"
    },
    "contentRating": "safe",
-   "score": 0.17981425,
+   "score": 0.1870439,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
    "title": {
-    "en": "Nineteen"
+    "en": "JUMBO MAX"
    },
    "contentRating": "safe",
-   "score": 0.17574936,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
-   "title": {
-    "en": "He Was My Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.1736838,
+   "score": 0.1870439,
    "languages": [
     "en",
-    "es-la"
+    "zh-hk"
    ]
   },
   {
-   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
+   "id": "ca41dac5-08ca-46a6-8b84-ebdec6baa75d",
    "title": {
-    "en": "Tales of the Kingdom"
+    "en": "Akumu no Elevator"
    },
    "contentRating": "safe",
-   "score": 0.17074695,
+   "score": 0.1870439,
    "languages": [
-    "vi",
     "en",
-    "pl",
-    "it",
-    "ru"
-   ]
-  },
-  {
-   "id": "7a4ff526-0aea-432b-872c-863493525ddf",
-   "title": {
-    "en": "Hero Company"
-   },
-   "contentRating": "safe",
-   "score": 0.16729715,
-   "languages": [
-    "en"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:28+00:00"
+ "updatedAt": "2023-12-10T18:18:26+00:00"
 }

@@ -6,23 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac",
-   "title": {
-    "en": "Onimushi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2493963,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
    "title": {
     "en": "Aoki Hagane no Arpeggio"
    },
    "contentRating": "suggestive",
-   "score": 0.24388114,
+   "score": 0.24313721,
    "languages": [
     "en",
     "pt-br",
@@ -38,7 +27,7 @@
     "ja-ro": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.22837467,
+   "score": 0.22581457,
    "languages": [
     "en",
     "ru",
@@ -46,6 +35,29 @@
     "pt-br",
     "tr",
     "id"
+   ]
+  },
+  {
+   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
+   "title": {
+    "en": "Crimson Grave"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21729086,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
+   "title": {
+    "en": "Rose × Marie"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1946576,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -71,19 +83,6 @@
    ]
   },
   {
-   "id": "ca5fb826-a0be-4c9b-8b38-13c0a444c86b",
-   "title": {
-    "en": "she is beautiful"
-   },
-   "contentRating": "suggestive",
-   "score": 0.179716,
-   "languages": [
-    "en",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
    "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
    "title": {
     "en": "Mobile Suit Gundam Thunderbolt"
@@ -96,14 +95,16 @@
    ]
   },
   {
-   "id": "c3ebdd8c-65b9-4bd7-b8a5-b378cfc83748",
+   "id": "ca5fb826-a0be-4c9b-8b38-13c0a444c86b",
    "title": {
-    "en": "Jenny of the Morning Star"
+    "en": "she is beautiful"
    },
    "contentRating": "suggestive",
-   "score": 0.17797393,
+   "score": 0.17772365,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -112,7 +113,7 @@
     "en": "Ansatsu Skill de Isekai Saikyou ~Renkinjutsu to Ansatsujutsu o Kiwameta Ore wa, Sekai o Kage kara Shihai suru~"
    },
    "contentRating": "suggestive",
-   "score": 0.17613102,
+   "score": 0.17422143,
    "languages": [
     "fr",
     "vi",
@@ -122,12 +123,23 @@
    ]
   },
   {
+   "id": "8eb92cda-ea0b-45f9-8cd2-42d31c5cdaac",
+   "title": {
+    "en": "Onimushi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17400835,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3c157222-4425-46d4-a7e7-321bc0bb61de",
    "title": {
     "en": "Kinnikuman Lady"
    },
    "contentRating": "suggestive",
-   "score": 0.17393751,
+   "score": 0.1729927,
    "languages": [
     "en"
    ]
@@ -138,7 +150,7 @@
     "en": "Isekai Ryouridou"
    },
    "contentRating": "suggestive",
-   "score": 0.17284031,
+   "score": 0.17180476,
    "languages": [
     "ru",
     "en",
@@ -147,6 +159,17 @@
     "es-la",
     "it",
     "fr"
+   ]
+  },
+  {
+   "id": "c3ebdd8c-65b9-4bd7-b8a5-b378cfc83748",
+   "title": {
+    "en": "Jenny of the Morning Star"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17036709,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -172,18 +195,6 @@
    ]
   },
   {
-   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
-   "title": {
-    "en": "Crimson Grave"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17036709,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "6e96f17a-0aa1-411a-82bd-1171c0ee95f3",
    "title": {
     "en": "37 Year Old Kindaichi Case Files"
@@ -195,19 +206,7 @@
     "es",
     "id"
    ]
-  },
-  {
-   "id": "ebc8fc23-a6c6-4df2-9940-6b668389401e",
-   "title": {
-    "en": "Shikabane Hime"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:49+00:00"
+ "updatedAt": "2023-12-10T18:27:27+00:00"
 }

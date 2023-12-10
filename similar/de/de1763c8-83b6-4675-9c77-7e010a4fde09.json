@@ -11,7 +11,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.41731524,
+   "score": 0.40842253,
    "languages": [
     "en",
     "pt-br",
@@ -23,12 +23,25 @@
    ]
   },
   {
+   "id": "a86a2dae-e38a-4603-a518-503db8d5e369",
+   "title": {
+    "en": "Dance Dance Danseur"
+   },
+   "contentRating": "safe",
+   "score": 0.37716505,
+   "languages": [
+    "en",
+    "pt-br",
+    "de"
+   ]
+  },
+  {
    "id": "4a66c2bc-76c4-4cbe-a010-111ac4068b41",
    "title": {
     "en": "Lovely"
    },
    "contentRating": "safe",
-   "score": 0.34753507,
+   "score": 0.34058985,
    "languages": [
     "en"
    ]
@@ -39,7 +52,29 @@
     "en": "Welcome to the Competitive Dance Club"
    },
    "contentRating": "safe",
-   "score": 0.33121213,
+   "score": 0.32901323,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c14bc2f8-2e0a-44ee-80e0-937e71c9ba53",
+   "title": {
+    "en": "Shadow Cross"
+   },
+   "contentRating": "safe",
+   "score": 0.32506347,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ffa7df26-8c4d-481e-81d7-145254297f16",
+   "title": {
+    "en": "Murasaki"
+   },
+   "contentRating": "safe",
+   "score": 0.2761463,
    "languages": [
     "en"
    ]
@@ -50,7 +85,7 @@
     "en": "Tenshi no Kiss"
    },
    "contentRating": "safe",
-   "score": 0.27904797,
+   "score": 0.2751713,
    "languages": [
     "pl"
    ]
@@ -61,9 +96,20 @@
     "en": "Goshujinsama ni Amai Ringo no Okashi"
    },
    "contentRating": "safe",
-   "score": 0.2736305,
+   "score": 0.2704328,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2c5a8ece-32b7-4c32-8246-8bfe551f5198",
+   "title": {
+    "en": "Butoukai no Techou"
+   },
+   "contentRating": "safe",
+   "score": 0.2699511,
+   "languages": [
+    "pl"
    ]
   },
   {
@@ -72,7 +118,43 @@
     "en": "The Magnificent Grand Scene"
    },
    "contentRating": "safe",
-   "score": 0.27104086,
+   "score": 0.2681533,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "74e44c42-2a0d-4654-a149-312d8af244e1",
+   "title": {
+    "en": "Hatsukoi Dance!"
+   },
+   "contentRating": "safe",
+   "score": 0.26486325,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "5531aa57-c72f-473c-9094-58b0391ad865",
+   "title": {
+    "en": "The One Business Smile Suzuki Can't See Through"
+   },
+   "contentRating": "safe",
+   "score": 0.26183566,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "553d4b8f-9ab9-4711-8ed2-ef337d8e7923",
+   "title": {
+    "en": "Wandance"
+   },
+   "contentRating": "safe",
+   "score": 0.25661558,
    "languages": [
     "en",
     "pt-br",
@@ -85,117 +167,34 @@
     "en": "Clover"
    },
    "contentRating": "safe",
-   "score": 0.25477248,
+   "score": 0.25488448,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2213e3de-e007-4446-926b-65ae364875d6",
+   "id": "890710f8-9a15-4dfa-854d-5c54a8b128bb",
    "title": {
-    "en": "Shitsuren Mania"
+    "en": "Dancing Together"
    },
    "contentRating": "safe",
-   "score": 0.25140628,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bb2d6941-cf7e-4823-a85b-9c8e3cf96f68",
-   "title": {
-    "en": "Ameiro Paradox"
-   },
-   "contentRating": "safe",
-   "score": 0.25140628,
-   "languages": [
-    "pl",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "c016c07a-4dfe-4fdb-a302-f4b1662b60db",
-   "title": {
-    "en": "Warui Ko no Tame no Wasuremono Techou"
-   },
-   "contentRating": "safe",
-   "score": 0.25140628,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d4c05a1-8fc2-4dbd-955a-1c8a6bd5fa03",
-   "title": {
-    "en": "Secret Dance"
-   },
-   "contentRating": "safe",
-   "score": 0.24654339,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4199bccd-6ba7-4eee-ac64-1414dd3fcad7",
-   "title": {
-    "en": "KiraKira"
-   },
-   "contentRating": "safe",
-   "score": 0.23755619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "530163d8-e607-4fec-ba9a-f6e0cf345a59",
-   "title": {
-    "en": "Junjou Romantica"
-   },
-   "contentRating": "safe",
-   "score": 0.2368784,
+   "score": 0.2545266,
    "languages": [
     "en",
-    "es",
-    "tr",
-    "pl"
+    "pt-br"
    ]
   },
   {
-   "id": "3441adb5-24ef-4eab-85b3-bc982f1b0b00",
+   "id": "ec97fe49-387a-40dc-8659-0cd02e2b08ed",
    "title": {
-    "en": "Aitsu no Daihonmei"
+    "en": "Tsunagaru Koi"
    },
    "contentRating": "safe",
-   "score": 0.2295015,
-   "languages": [
-    "pl",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "83ddd508-d0a2-4f18-a0bf-d236301caaca",
-   "title": {
-    "en": "Boku no Yasashii Oniisan"
-   },
-   "contentRating": "safe",
-   "score": 0.22930273,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d51751b-8649-49b8-a7b3-e9f9aa78bfba",
-   "title": {
-    "en": "Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.22930273,
+   "score": 0.2532757,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:55+00:00"
+ "updatedAt": "2023-12-10T18:32:52+00:00"
 }

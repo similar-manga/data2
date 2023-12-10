@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "86fc67c8-e3fa-45e9-9dff-694b4833da59",
+   "title": {
+    "en": "Megalo Box: Shukumei no Souken"
+   },
+   "contentRating": "safe",
+   "score": 0.3064854
+  },
+  {
    "id": "a9bf14be-fcff-4eea-9c45-ba3e40d399fa",
    "title": {
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.2202795
+   "score": 0.2197972
   },
   {
    "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
@@ -33,12 +41,28 @@
    "score": 0.2097181
   },
   {
+   "id": "72ff7504-dd77-439c-bd5a-5c9da017e302",
+   "title": {
+    "en": "Magnum Lily"
+   },
+   "contentRating": "safe",
+   "score": 0.20875636
+  },
+  {
+   "id": "2083ff21-bdb7-4845-8b3f-4acf50e149c7",
+   "title": {
+    "en": "Sunset Bancho"
+   },
+   "contentRating": "safe",
+   "score": 0.20842798
+  },
+  {
    "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
    "title": {
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.20845069,
+   "score": 0.2058542,
    "languages": [
     "en",
     "zh",
@@ -52,12 +76,35 @@
    ]
   },
   {
+   "id": "3ffc6b64-bab5-48bb-b566-a6e6e4e13339",
+   "title": {
+    "en": "Baki Gaiden: SCARFACE"
+   },
+   "contentRating": "safe",
+   "score": 0.20222782,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "a44673b0-3287-469a-a540-8e4457bd68a4",
+   "title": {
+    "en": "Ryuu to Ichigo"
+   },
+   "contentRating": "safe",
+   "score": 0.20210753,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
    "title": {
     "en": "My Hero Academia"
    },
    "contentRating": "safe",
-   "score": 0.20221724,
+   "score": 0.2012124,
    "languages": [
     "pt-br",
     "it",
@@ -76,40 +123,15 @@
    ]
   },
   {
-   "id": "3ffc6b64-bab5-48bb-b566-a6e6e4e13339",
-   "title": {
-    "en": "Baki Gaiden: SCARFACE"
-   },
-   "contentRating": "safe",
-   "score": 0.20146434,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "3805fc64-44f0-46b6-b972-5c14ce7e856c",
    "title": {
     "en": "Maple Purple"
    },
    "contentRating": "safe",
-   "score": 0.19741565,
+   "score": 0.1963659,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
-   "title": {
-    "en": "Mix"
-   },
-   "contentRating": "safe",
-   "score": 0.19517444,
-   "languages": [
-    "ru",
-    "en",
-    "es"
    ]
   },
   {
@@ -121,12 +143,25 @@
    "score": 0.194345
   },
   {
+   "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
+   "title": {
+    "en": "Mix"
+   },
+   "contentRating": "safe",
+   "score": 0.1943107,
+   "languages": [
+    "ru",
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
    "title": {
     "en": "Prince of Tennis II"
    },
    "contentRating": "safe",
-   "score": 0.19363497,
+   "score": 0.19333933,
    "languages": [
     "pl",
     "es",
@@ -139,30 +174,7 @@
     "en": "Hungry Heart"
    },
    "contentRating": "safe",
-   "score": 0.19261606
-  },
-  {
-   "id": "9f6f80c3-7447-4c77-be63-d954b83afdf6",
-   "title": {
-    "en": "NOA"
-   },
-   "contentRating": "safe",
-   "score": 0.1887118,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "it",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
-   "title": {
-    "en": "Tuberculose"
-   },
-   "contentRating": "safe",
-   "score": 0.1887118
+   "score": 0.19171424
   },
   {
    "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
@@ -174,23 +186,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
-   "title": {
-    "en": "Countryside General"
-   },
-   "contentRating": "safe",
-   "score": 0.18789111
-  },
-  {
-   "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
-   "title": {
-    "en": "Star of the Giants"
-   },
-   "contentRating": "safe",
-   "score": 0.18747526
   }
  ],
- "updatedAt": "2023-12-10T01:05:32+00:00"
+ "updatedAt": "2023-12-10T18:23:59+00:00"
 }

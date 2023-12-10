@@ -6,14 +6,48 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4d6decd4-835d-4905-9534-2571dae07bcd",
+   "title": {
+    "en": "Lord El-Melloi II-sei no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.2144278,
+   "languages": [
+    "vi",
+    "en",
+    "ru",
+    "id",
+    "es-la",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
    "id": "7ae6d689-18d0-40d9-a3bc-a769d194a877",
    "title": {
     "en": "Outside of the Universe"
    },
    "contentRating": "safe",
-   "score": 0.21218404,
+   "score": 0.21158312,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d41afbd7-3fbf-45b1-813c-b2d8244d69b2",
+   "title": {
+    "en": "Death March kara Hajimaru Isekai Kyousoukyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.19915952,
+   "languages": [
+    "it",
+    "fr",
+    "es-la",
+    "en",
+    "pt-br",
+    "id",
+    "pl"
    ]
   },
   {
@@ -57,7 +91,18 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.18718219,
+   "score": 0.18573667,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "89393959-9749-4b7d-b199-cf25f1a52d86",
+   "title": {
+    "en": "Shinmai Renkinjutsushi no Tenpo Keiei"
+   },
+   "contentRating": "safe",
+   "score": 0.18205518,
    "languages": [
     "en"
    ]
@@ -68,7 +113,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.18167819,
+   "score": 0.18158023,
    "languages": [
     "pt-br",
     "en",
@@ -83,7 +128,7 @@
     "en": "A Certain Middle-Aged Man's VRMMO Activity Log"
    },
    "contentRating": "safe",
-   "score": 0.18115486,
+   "score": 0.18038884,
    "languages": [
     "es-la",
     "en",
@@ -98,7 +143,7 @@
     "en": "The New Gate"
    },
    "contentRating": "safe",
-   "score": 0.18067299,
+   "score": 0.17932644,
    "languages": [
     "ru",
     "id",
@@ -130,7 +175,7 @@
     "en": "Resident Evil: Phantom Beast of the North Sea"
    },
    "contentRating": "safe",
-   "score": 0.17627771,
+   "score": 0.17580299,
    "languages": [
     "en"
    ]
@@ -141,7 +186,7 @@
     "en": "Shoukan sareta Kenja wa Isekai wo Yuku"
    },
    "contentRating": "safe",
-   "score": 0.17574872,
+   "score": 0.17498294,
    "languages": [
     "fr",
     "pt-br",
@@ -162,54 +207,17 @@
    ]
   },
   {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
+   "id": "70ba8db6-8a91-4f87-9e6f-63e8eeff13ce",
    "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
+    "en": "Furuki Okite no Mahou Kishi"
    },
    "contentRating": "safe",
-   "score": 0.17207216,
+   "score": 0.1735252,
    "languages": [
     "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6e44705b-9f80-42f6-9ebb-1141fbe8320e",
-   "title": {
-    "en": "Nozomanu Fushi no Boukensha"
-   },
-   "contentRating": "safe",
-   "score": 0.16943476,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "fd2334d7-c610-4e79-9471-c4efe3a7c16c",
-   "title": {
-    "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.16776173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.16754156,
-   "languages": [
-    "en",
-    "es"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:58+00:00"
+ "updatedAt": "2023-12-10T18:22:33+00:00"
 }

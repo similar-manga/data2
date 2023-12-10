@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2d6a9bc7-ed14-4b08-9137-a0648319c301",
+   "title": {
+    "en": "Tantei no Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.26628193,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
    "title": {
     "en": "Torikago Gakkyuu"
@@ -23,7 +34,7 @@
     "en": "Bible of Black"
    },
    "contentRating": "safe",
-   "score": 0.24259813,
+   "score": 0.24212523,
    "languages": [
     "en",
     "ru"
@@ -35,20 +46,9 @@
     "en": "Shikigami Twilight Days"
    },
    "contentRating": "safe",
-   "score": 0.23039126,
+   "score": 0.22796287,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "18b1d68a-3396-4063-949d-f399439ebad7",
-   "title": {
-    "en": "Hokuriku Ghost Story"
-   },
-   "contentRating": "safe",
-   "score": 0.22926378,
-   "languages": [
-    "hu"
    ]
   },
   {
@@ -63,27 +63,58 @@
    ]
   },
   {
-   "id": "29cd02a4-a429-439e-8356-fbb2abcac4dd",
+   "id": "18b1d68a-3396-4063-949d-f399439ebad7",
    "title": {
-    "en": "Akatsuki no Ageha"
+    "en": "Hokuriku Ghost Story"
    },
    "contentRating": "safe",
-   "score": 0.20484708,
+   "score": 0.22131334,
+   "languages": [
+    "hu"
+   ]
+  },
+  {
+   "id": "7a934a6e-8d31-4c1f-a49b-69705303071b",
+   "title": {
+    "en": "Twin Spirit Detectives"
+   },
+   "contentRating": "safe",
+   "score": 0.22058631,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
    "title": {
-    "en": "Gazer"
+    "en": "Strange Moon"
    },
    "contentRating": "safe",
-   "score": 0.20414527,
+   "score": 0.2157616,
    "languages": [
-    "pt-br",
-    "en",
-    "es"
+    "en"
+   ]
+  },
+  {
+   "id": "5e8929dc-bc8a-4d93-b4da-2d3b2485f22f",
+   "title": {
+    "en": "Tokyo Kigo Tanpou"
+   },
+   "contentRating": "safe",
+   "score": 0.20217846,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "29cd02a4-a429-439e-8356-fbb2abcac4dd",
+   "title": {
+    "en": "Akatsuki no Ageha"
+   },
+   "contentRating": "safe",
+   "score": 0.20205483,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -109,101 +140,52 @@
    ]
   },
   {
-   "id": "5515114e-079e-473d-a702-09dcad91da07",
+   "id": "0026052c-9091-4dc7-915c-dffce9559234",
    "title": {
-    "en": "Arborist"
+    "en": "Shinigami no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.20203052,
    "languages": [
-    "en",
-    "fr"
+    "vi",
+    "en"
    ]
   },
   {
-   "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
+   "id": "f8cb571e-01e3-4c44-a62e-2fda89ef3564",
    "title": {
-    "en": "Meikai no Pendulum"
+    "en": "Yumekui Kenbun"
    },
    "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "2a3fff79-557b-4008-8fc3-c5abdde5573e",
-   "title": {
-    "en": "Telepathy Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
+   "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
    "title": {
-    "en": "Detective Conan"
+    "en": "Gazer"
    },
    "contentRating": "safe",
-   "score": 0.18620908,
+   "score": 0.20112559,
    "languages": [
-    "id",
-    "en",
-    "pl",
     "pt-br",
-    "it",
-    "ru",
-    "es-la",
-    "es",
-    "vi",
-    "ca",
-    "ar",
-    "tr",
-    "fr",
-    "mn",
-    "bg",
-    "uk"
-   ]
-  },
-  {
-   "id": "6cd8a940-c4b4-4f44-b3cc-b94dd8d18081",
-   "title": {
-    "en": "Paradise Rule"
-   },
-   "contentRating": "safe",
-   "score": 0.18440007,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
-   "title": {
-    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
-   },
-   "contentRating": "safe",
-   "score": 0.17949452,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1f8d193-8d13-4a63-9838-863e76e2d922",
-   "title": {
-    "en": "Graineliers"
-   },
-   "contentRating": "safe",
-   "score": 0.17833447,
-   "languages": [
-    "vi",
     "en",
-    "pl"
+    "es"
+   ]
+  },
+  {
+   "id": "2ab9e47a-df90-456e-9ce9-c0930cf3c390",
+   "title": {
+    "en": "Mind Assassin"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:02+00:00"
+ "updatedAt": "2023-12-10T18:35:36+00:00"
 }

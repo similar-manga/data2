@@ -11,7 +11,7 @@
     "en": "Bound Love"
    },
    "contentRating": "safe",
-   "score": 0.31410244,
+   "score": 0.31553924,
    "languages": [
     "en",
     "tr",
@@ -24,7 +24,7 @@
     "en": "Home for Lost Children"
    },
    "contentRating": "safe",
-   "score": 0.29428646,
+   "score": 0.2909446,
    "languages": [
     "en"
    ]
@@ -35,11 +35,22 @@
     "en": "The Girl's Winter"
    },
    "contentRating": "safe",
-   "score": 0.2885298,
+   "score": 0.2898356,
    "languages": [
     "en",
     "pt-br",
     "pl"
+   ]
+  },
+  {
+   "id": "5da83ad0-3d15-4402-ae1d-6ffa1a61e001",
+   "title": {
+    "en": "Wagamama Mille-Feuille"
+   },
+   "contentRating": "safe",
+   "score": 0.25470695,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -67,14 +78,15 @@
    ]
   },
   {
-   "id": "5da83ad0-3d15-4402-ae1d-6ffa1a61e001",
+   "id": "ff743bfe-233e-429a-bb1c-c0c8f01bff86",
    "title": {
-    "en": "Wagamama Mille-Feuille"
+    "en": "Maria-sama ga Miteru"
    },
    "contentRating": "safe",
-   "score": 0.25327668,
+   "score": 0.25126484,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -101,24 +113,12 @@
    ]
   },
   {
-   "id": "ff743bfe-233e-429a-bb1c-c0c8f01bff86",
-   "title": {
-    "en": "Maria-sama ga Miteru"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "2124b898-a137-4592-9431-2a9e1ab3ab00",
    "title": {
     "en": "Jane and Harlequin"
    },
    "contentRating": "safe",
-   "score": 0.24424277,
+   "score": 0.2468709,
    "languages": [
     "en"
    ]
@@ -129,7 +129,7 @@
     "en": "Happy End no Uragawa"
    },
    "contentRating": "safe",
-   "score": 0.2434499,
+   "score": 0.24557514,
    "languages": [
     "pl",
     "en"
@@ -141,7 +141,7 @@
     "en": "Wasureyuki"
    },
    "contentRating": "safe",
-   "score": 0.24188916,
+   "score": 0.24172257,
    "languages": [
     "en",
     "pl"
@@ -153,7 +153,7 @@
     "en": "Bara to Zirconia"
    },
    "contentRating": "safe",
-   "score": 0.23420486,
+   "score": 0.23525126,
    "languages": [
     "en"
    ]
@@ -170,17 +170,6 @@
    ]
   },
   {
-   "id": "db5553b3-c599-41fe-8fc6-7b2d7723850d",
-   "title": {
-    "en": "Sayonara Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.22963458,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "24f5e397-d3b1-4cb8-ae46-c46355e945d2",
    "title": {
     "en": "Kizuna Baton"
@@ -190,7 +179,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "db5553b3-c599-41fe-8fc6-7b2d7723850d",
+   "title": {
+    "en": "Sayonara Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.22840202,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:53+00:00"
+ "updatedAt": "2023-12-10T18:08:43+00:00"
 }

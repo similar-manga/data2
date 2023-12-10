@@ -11,7 +11,7 @@
     "en": "Albaroze no Neko"
    },
    "contentRating": "safe",
-   "score": 0.28084627,
+   "score": 0.27926722,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Satsuki's Sky"
    },
    "contentRating": "safe",
-   "score": 0.24183169,
+   "score": 0.24002452,
    "languages": [
     "pt-br",
     "en",
@@ -42,9 +42,9 @@
    ]
   },
   {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
    "title": {
-    "en": "Gwisin Byeolgok"
+    "en": "Rewrite: SIDE-TERRA"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -53,16 +53,14 @@
    ]
   },
   {
-   "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
+   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
    "title": {
-    "en": "GATE 7"
+    "en": "Gwisin Byeolgok"
    },
    "contentRating": "safe",
-   "score": 0.22043337,
+   "score": 0.22131334,
    "languages": [
-    "pt-br",
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -80,12 +78,36 @@
    ]
   },
   {
+   "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
+   "title": {
+    "en": "GATE 7"
+   },
+   "contentRating": "safe",
+   "score": 0.22043337,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
    "title": {
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.21726055,
+   "score": 0.21699049,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "727bda2a-d15f-456b-b34e-4daa43ab653c",
+   "title": {
+    "en": "Nanatsu no Taizai (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.2167797,
    "languages": [
     "en"
    ]
@@ -96,32 +118,9 @@
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.21550928,
+   "score": 0.21530043,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "dc5a908c-ddf9-4a0d-94f3-1f1c4cb368bd",
-   "title": {
-    "en": "Gesu to Kami-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09c3e582-02b0-4c5d-8693-5c89099677d1",
-   "title": {
-    "en": "Aku no Meshitsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -153,6 +152,43 @@
    ]
   },
   {
+   "id": "09c3e582-02b0-4c5d-8693-5c89099677d1",
+   "title": {
+    "en": "Aku no Meshitsukai"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "d1a04156-400d-4032-b885-007c29a8a3c0",
+   "title": {
+    "en": "Return From the World of Immortals"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "ru",
+    "id",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "dc5a908c-ddf9-4a0d-94f3-1f1c4cb368bd",
+   "title": {
+    "en": "Gesu to Kami-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3de7d8ae-6411-4d3f-8181-d2baefe04516",
    "title": {
     "en": "Shingeki no Kyojin (Fan Colored)"
@@ -164,50 +200,7 @@
     "en",
     "ar"
    ]
-  },
-  {
-   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
-   "title": {
-    "en": "To Your Eternity"
-   },
-   "contentRating": "safe",
-   "score": 0.20278503,
-   "languages": [
-    "ru",
-    "pt-br",
-    "es",
-    "en",
-    "es-la",
-    "tr",
-    "mn",
-    "uk"
-   ]
-  },
-  {
-   "id": "893a6989-50af-42be-a5bd-0acdf78824ef",
-   "title": {
-    "en": "Kokodake no Himitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20216012,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "4a996091-0244-45dc-99d4-94b5d3f0cb76",
-   "title": {
-    "en": "Sol Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:45+00:00"
+ "updatedAt": "2023-12-10T18:13:54+00:00"
 }

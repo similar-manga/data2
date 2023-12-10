@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.21161422,
+   "score": 0.21493167,
    "languages": [
     "en"
    ]
@@ -40,6 +40,25 @@
    ]
   },
   {
+   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
+   "title": {
+    "en": "Dr. Thrill"
+   },
+   "contentRating": "safe",
+   "score": 0.19950876
+  },
+  {
+   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "title": {
+    "en": "Dragon Quest: Sora in the Blue Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.19949186,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
    "title": {
     "en": "Shiden Kai Hawk"
@@ -48,23 +67,12 @@
    "score": 0.1992976
   },
   {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "id": "f0566129-581e-4be6-874a-88e72a10c7de",
    "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
+    "en": "The Son of the Godfather"
    },
    "contentRating": "safe",
-   "score": 0.19845761,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
-   "title": {
-    "en": "Dr. Thrill"
-   },
-   "contentRating": "safe",
-   "score": 0.19509412
+   "score": 0.19619344
   },
   {
    "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
@@ -75,12 +83,15 @@
    "score": 0.194816
   },
   {
-   "id": "f0566129-581e-4be6-874a-88e72a10c7de",
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
    "title": {
-    "en": "The Son of the Godfather"
+    "en": "Sarutobi"
    },
    "contentRating": "safe",
-   "score": 0.19151981
+   "score": 0.19457404,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
@@ -88,7 +99,7 @@
     "en": "Star of the Giants"
    },
    "contentRating": "safe",
-   "score": 0.18903086
+   "score": 0.19005257
   },
   {
    "id": "7c58c1b0-b595-4f9d-8fa9-a710c4cac3e6",
@@ -96,7 +107,15 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.18662015
+   "score": 0.18966477
+  },
+  {
+   "id": "8e3cde8c-5a4c-401b-9c55-771b236212cb",
+   "title": {
+    "en": "Animal 1"
+   },
+   "contentRating": "safe",
+   "score": 0.1853323
   },
   {
    "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
@@ -104,7 +123,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.185188,
+   "score": 0.18518014,
    "languages": [
     "en"
    ]
@@ -126,7 +145,7 @@
     "en": "The Dashing Harimau"
    },
    "contentRating": "safe",
-   "score": 0.17609376
+   "score": 0.17792113
   },
   {
    "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
@@ -140,31 +159,7 @@
     "es",
     "en"
    ]
-  },
-  {
-   "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
-   "title": {
-    "en": "Mix"
-   },
-   "contentRating": "safe",
-   "score": 0.17407197,
-   "languages": [
-    "ru",
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "7032ad8e-79d7-4270-b32a-3675495b318e",
-   "title": {
-    "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
-   },
-   "contentRating": "safe",
-   "score": 0.17172287,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:28+00:00"
+ "updatedAt": "2023-12-10T18:21:12+00:00"
 }

@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.19950095,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4fc6392d-0d9a-4bf5-90fa-f8943b1cacb1",
+   "title": {
+    "en": "Kyoumeigai"
+   },
+   "contentRating": "safe",
+   "score": 0.19528557,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
    "title": {
     "en": "Atrocious Fairy Tales for Adults"
@@ -29,15 +51,75 @@
    ]
   },
   {
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
+   "title": {
+    "en": "Material Polka"
+   },
+   "contentRating": "safe",
+   "score": 0.17466153,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.17458296,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
    "title": {
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.17328066,
+   "score": 0.1729144,
    "languages": [
     "pt-br",
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "2954a23f-22c1-4bce-a2fc-0a0dc3e201a7",
+   "title": {
+    "en": "PTSD Radio"
+   },
+   "contentRating": "safe",
+   "score": 0.16957471,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en",
+    "uk"
+   ]
+  },
+  {
+   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
+   "title": {
+    "en": "Red Colored Elegy"
+   },
+   "contentRating": "safe",
+   "score": 0.1682176,
+   "languages": [
+    "ar",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
+   "title": {
+    "en": "Cooking Papa"
+   },
+   "contentRating": "safe",
+   "score": 0.16749835,
+   "languages": [
     "en"
    ]
   },
@@ -47,7 +129,7 @@
     "en": "Dai Dark"
    },
    "contentRating": "safe",
-   "score": 0.17179108,
+   "score": 0.16687122,
    "languages": [
     "ru",
     "pt-br",
@@ -62,41 +144,6 @@
    ]
   },
   {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.16893426,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
-   "title": {
-    "en": "Cooking Papa"
-   },
-   "contentRating": "safe",
-   "score": 0.16719739,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
-   "title": {
-    "en": "He Was My Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.16688055,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
     "en": "Kokushi no Shima"
@@ -108,124 +155,52 @@
    ]
   },
   {
-   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
    "title": {
-    "en": "Jungle Boy"
+    "en": "Yorukumo"
    },
    "contentRating": "safe",
-   "score": 0.16053279,
+   "score": 0.16638115,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
+   "title": {
+    "en": "He Was My Brother"
+   },
+   "contentRating": "safe",
+   "score": 0.16617891,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.16566357,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
    "title": {
-    "en": "【Oshi no Ko】"
+    "en": "Balemount"
    },
    "contentRating": "safe",
-   "score": 0.16002889,
+   "score": 0.16562103,
    "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
     "ru",
-    "vi",
-    "id",
-    "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
-   "id": "1860fa21-5e26-49d1-a0ac-09aa959f4fbc",
-   "title": {
-    "en": "Shokujin Shokuyuujou"
-   },
-   "contentRating": "safe",
-   "score": 0.15821795,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "73886e64-61f0-4469-81c9-781ad62c15e8",
-   "title": {
-    "en": "Pumpkin Night Gaiden - Naoko"
-   },
-   "contentRating": "safe",
-   "score": 0.15655327,
-   "languages": [
-    "es",
-    "it"
-   ]
-  },
-  {
-   "id": "11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
-   "title": {
-    "en": "Choujin X"
-   },
-   "contentRating": "safe",
-   "score": 0.15579294,
-   "languages": [
-    "pt-br",
-    "ar",
-    "ru",
-    "uk",
-    "vi",
-    "en",
-    "fa",
-    "es-la",
-    "id",
-    "mn"
-   ]
-  },
-  {
-   "id": "2954a23f-22c1-4bce-a2fc-0a0dc3e201a7",
-   "title": {
-    "en": "PTSD Radio"
-   },
-   "contentRating": "safe",
-   "score": 0.15465906,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en",
-    "uk"
-   ]
-  },
-  {
-   "id": "5e9e50a7-39cc-447c-a5b3-a459bebd7f62",
-   "title": {
-    "en": "Human Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.15439135,
-   "languages": [
-    "en",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "b245e178-31f8-4c9a-9b75-8bd49ae671e2",
-   "title": {
-    "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
-   },
-   "contentRating": "safe",
-   "score": 0.15280245,
-   "languages": [
-    "en",
-    "it"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:27+00:00"
+ "updatedAt": "2023-12-10T18:23:45+00:00"
 }

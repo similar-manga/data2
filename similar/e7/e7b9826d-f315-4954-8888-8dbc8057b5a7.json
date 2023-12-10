@@ -6,15 +6,47 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "65f17ce0-4c16-4b4e-b59f-dc5232c8d185",
+   "title": {
+    "en": "Godzilla vs. King Ghidorah"
+   },
+   "contentRating": "safe",
+   "score": 0.6740076
+  },
+  {
+   "id": "56d59879-2afa-4d57-b899-b963bd165ae5",
+   "title": {
+    "en": "Battle on Monster Island: Son of Godzilla"
+   },
+   "contentRating": "safe",
+   "score": 0.6590712
+  },
+  {
+   "id": "8413e145-ea82-4190-a9bd-98ae45508fc5",
+   "title": {
+    "en": "Earth Attack Order: Godzilla vs. Gigan"
+   },
+   "contentRating": "safe",
+   "score": 0.6171997
+  },
+  {
    "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
    "title": {
     "en": "Godzilla vs. Destroyah Red"
    },
    "contentRating": "safe",
-   "score": 0.58187443,
+   "score": 0.5515908,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "80937294-f9d8-48e2-876f-ee549b6bb63b",
+   "title": {
+    "en": "Godzilla vs. Mechagodzilla II (KAWAISHI Tetsuya)"
+   },
+   "contentRating": "safe",
+   "score": 0.44292626
   },
   {
    "id": "79431f93-2754-4050-8404-0de230241018",
@@ -22,7 +54,7 @@
     "en": "Godzilla vs Mechagodzilla"
    },
    "contentRating": "safe",
-   "score": 0.36062142
+   "score": 0.3508855
   },
   {
    "id": "9628814f-b4c8-47bc-b6e0-05ef3db64865",
@@ -30,7 +62,7 @@
     "en": "Resident Evil: Phantom Beast of the North Sea"
    },
    "contentRating": "safe",
-   "score": 0.25595686,
+   "score": 0.2543751,
    "languages": [
     "en"
    ]
@@ -41,10 +73,18 @@
     "en": "Someday He's Gonna Get Me"
    },
    "contentRating": "safe",
-   "score": 0.25306424,
+   "score": 0.24820018,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "98aafd18-cd7b-486a-a1ae-1483ffe08e4b",
+   "title": {
+    "en": "Go Go! Godzilla!! Matsui-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.24211429
   },
   {
    "id": "b2240452-09ac-4d03-919d-a2660925dbd9",
@@ -52,7 +92,7 @@
     "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
-   "score": 0.24087325,
+   "score": 0.24051435,
    "languages": [
     "en"
    ]
@@ -63,7 +103,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.23676239,
+   "score": 0.23637964,
    "languages": [
     "en"
    ]
@@ -85,7 +125,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.23257647,
+   "score": 0.23245616,
    "languages": [
     "en"
    ]
@@ -96,20 +136,9 @@
     "en": "Neon Genesis Evangelion - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.23085277,
+   "score": 0.23059912,
    "languages": [
     "fr"
-   ]
-  },
-  {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
-   "title": {
-    "en": "Shin Megami Tensei - Kahn"
-   },
-   "contentRating": "safe",
-   "score": 0.22965445,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -118,68 +147,22 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.22948988,
+   "score": 0.22994448,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c9907241-770f-4764-82d0-f0b15f46709e",
+   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
    "title": {
-    "en": "Dino Crisis"
+    "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.22358982,
+   "score": 0.22988005,
    "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
-   "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.22291984,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.22291984,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3ea4ab81-dc2f-4536-bca3-f37831adafc1",
-   "title": {
-    "en": "Advance of Zeta Re-Boot: Gundam Inle - Black Rabbit Had a Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.22291984,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.21705605,
-   "languages": [
-    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:20+00:00"
+ "updatedAt": "2023-12-10T18:33:51+00:00"
 }

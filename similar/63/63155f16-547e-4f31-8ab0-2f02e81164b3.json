@@ -11,7 +11,7 @@
     "en": "Fuuto PI"
    },
    "contentRating": "suggestive",
-   "score": 0.17787492,
+   "score": 0.17745148,
    "languages": [
     "id",
     "en",
@@ -26,7 +26,7 @@
     "en": "Aoki Hagane no Arpeggio"
    },
    "contentRating": "suggestive",
-   "score": 0.14990348,
+   "score": 0.14985023,
    "languages": [
     "en",
     "pt-br",
@@ -42,7 +42,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.14778085,
+   "score": 0.14731364,
    "languages": [
     "id",
     "ru",
@@ -50,6 +50,19 @@
     "pt-br",
     "es-la",
     "it"
+   ]
+  },
+  {
+   "id": "7d57ab90-c312-4eae-9f2d-a744592476be",
+   "title": {
+    "en": "Liar Liar"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14285715,
+   "languages": [
+    "en",
+    "tl",
+    "pt-br"
    ]
   },
   {
@@ -67,50 +80,6 @@
     "en",
     "ru",
     "es-la"
-   ]
-  },
-  {
-   "id": "7d57ab90-c312-4eae-9f2d-a744592476be",
-   "title": {
-    "en": "Liar Liar"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "892950a0-2dc9-4f08-b3ae-648efe20aa11",
-   "title": {
-    "en": "Gang of Yuusha"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14109805,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "60773286-5af5-4ebe-98ae-5495bfcc1fcb",
-   "title": {
-    "en": "Magika Swordsman and Summoner"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14067599,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br",
-    "id",
-    "fr",
-    "vi",
-    "es",
-    "tr"
    ]
   },
   {
@@ -133,16 +102,34 @@
    ]
   },
   {
-   "id": "23d49e6b-73b8-4d91-9544-1292a4ce68f8",
+   "id": "60773286-5af5-4ebe-98ae-5495bfcc1fcb",
    "title": {
-    "en": "Imada Nakunatte Inai Hito"
+    "en": "Magika Swordsman and Summoner"
    },
    "contentRating": "suggestive",
-   "score": 0.134687,
+   "score": 0.14067599,
    "languages": [
-    "pt-br",
+    "en",
     "es-la",
-    "vi"
+    "pt-br",
+    "id",
+    "fr",
+    "vi",
+    "es",
+    "tr"
+   ]
+  },
+  {
+   "id": "892950a0-2dc9-4f08-b3ae-648efe20aa11",
+   "title": {
+    "en": "Gang of Yuusha"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14067172,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -157,6 +144,19 @@
     "pt-br",
     "es-la",
     "fr"
+   ]
+  },
+  {
+   "id": "23d49e6b-73b8-4d91-9544-1292a4ce68f8",
+   "title": {
+    "en": "Imada Nakunatte Inai Hito"
+   },
+   "contentRating": "suggestive",
+   "score": 0.134687,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -184,7 +184,7 @@
     "en": "Bijo to Kenja to Majin no Ken"
    },
    "contentRating": "suggestive",
-   "score": 0.13234995,
+   "score": 0.13126996,
    "languages": [
     "en",
     "fr",
@@ -199,7 +199,7 @@
     "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
    },
    "contentRating": "suggestive",
-   "score": 0.12715074,
+   "score": 0.12589227,
    "languages": [
     "pt-br",
     "en",
@@ -222,7 +222,7 @@
     "ja-ro": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.12627132,
+   "score": 0.12543638,
    "languages": [
     "en",
     "ru",
@@ -260,5 +260,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:42+00:00"
+ "updatedAt": "2023-12-10T18:19:03+00:00"
 }

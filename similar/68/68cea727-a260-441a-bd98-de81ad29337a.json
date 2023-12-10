@@ -6,23 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
-   "title": {
-    "en": "Blue Blazes"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1823599,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
    "title": {
     "en": "Witch Hunter"
    },
    "contentRating": "suggestive",
-   "score": 0.18227673,
+   "score": 0.18241335,
    "languages": [
     "ro",
     "en",
@@ -30,6 +19,17 @@
     "pl",
     "ar",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
+   "title": {
+    "en": "Blue Blazes"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18219984,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -49,7 +49,7 @@
     "en": "One Piece - Digital Colored Comics"
    },
    "contentRating": "suggestive",
-   "score": 0.17427056,
+   "score": 0.17356546,
    "languages": [
     "it",
     "uk",
@@ -68,7 +68,7 @@
     "en": "Fate/EXTRA CCC FoxTail"
    },
    "contentRating": "suggestive",
-   "score": 0.17270918,
+   "score": 0.17263307,
    "languages": [
     "en",
     "vi",
@@ -94,21 +94,10 @@
     "en": "7th Garden"
    },
    "contentRating": "suggestive",
-   "score": 0.17162822,
+   "score": 0.17180866,
    "languages": [
     "es",
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
-   "title": {
-    "en": "Akiba's Trip"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16713156,
-   "languages": [
     "en"
    ]
   },
@@ -124,12 +113,23 @@
    ]
   },
   {
+   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
+   "title": {
+    "en": "Akiba's Trip"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16713156,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b38731a5-42e9-4e8d-9847-88ca02cc14fe",
    "title": {
     "en": "Grenadier"
    },
    "contentRating": "suggestive",
-   "score": 0.1646064,
+   "score": 0.16301821,
    "languages": [
     "en"
    ]
@@ -140,7 +140,7 @@
     "en": "Oniwaka to Ushiwaka - Edge of the World"
    },
    "contentRating": "suggestive",
-   "score": 0.1631075,
+   "score": 0.16272788,
    "languages": [
     "en",
     "es-la"
@@ -152,20 +152,8 @@
     "en": "Izoraba!"
    },
    "contentRating": "suggestive",
-   "score": 0.1609653,
+   "score": 0.16036199,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a51fcac5-47a6-47aa-81d1-b10fefdc80ad",
-   "title": {
-    "en": "Ningen Card"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15995029,
-   "languages": [
-    "id",
     "en"
    ]
   },
@@ -182,12 +170,24 @@
    ]
   },
   {
+   "id": "a51fcac5-47a6-47aa-81d1-b10fefdc80ad",
+   "title": {
+    "en": "Ningen Card"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15976954,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "e1be381a-7d04-43b7-8b2a-fbcb053669c4",
    "title": {
     "en": "Super Journey"
    },
    "contentRating": "suggestive",
-   "score": 0.15972973,
+   "score": 0.157856,
    "languages": [
     "en"
    ]
@@ -198,7 +198,7 @@
     "en": "The God of \"Game of Gods\""
    },
    "contentRating": "suggestive",
-   "score": 0.1589874,
+   "score": 0.15768427,
    "languages": [
     "en",
     "pt-br",
@@ -206,5 +206,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:55+00:00"
+ "updatedAt": "2023-12-10T18:19:39+00:00"
 }

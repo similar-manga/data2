@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
+   "title": {
+    "en": "Hyper Ultra Girlish"
+   },
+   "contentRating": "safe",
+   "score": 0.29697683,
+   "languages": [
+    "ru",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "06338c21-dfd9-4ab0-a0c6-1d973821b992",
+   "title": {
+    "en": "Bad Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.29156727,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
    "title": {
     "en": "Lucky☆Star"
    },
    "contentRating": "safe",
-   "score": 0.29140618,
+   "score": 0.29111877,
    "languages": [
     "it",
     "pl",
@@ -27,9 +51,22 @@
     "en": "Quick Start!!"
    },
    "contentRating": "safe",
-   "score": 0.29109243,
+   "score": 0.29103318,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3c30229a-e6a3-44fa-a1ac-61a208c2ebad",
+   "title": {
+    "en": "Yaotome x 2"
+   },
+   "contentRating": "safe",
+   "score": 0.29077485,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -38,7 +75,18 @@
     "en": "Chitose Get You!!"
    },
    "contentRating": "safe",
-   "score": 0.2908562,
+   "score": 0.29057693,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "be4148c6-0f0f-4415-95a9-a1ad56f6e0a7",
+   "title": {
+    "en": "Poison Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.29012358,
    "languages": [
     "en"
    ]
@@ -49,7 +97,7 @@
     "en": "A-Channel"
    },
    "contentRating": "safe",
-   "score": 0.2907667,
+   "score": 0.29007146,
    "languages": [
     "en",
     "es",
@@ -62,22 +110,9 @@
     "en": "Yuyushiki"
    },
    "contentRating": "safe",
-   "score": 0.28992411,
+   "score": 0.2897161,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
-   "title": {
-    "en": "Sketchbook"
-   },
-   "contentRating": "safe",
-   "score": 0.28980705,
-   "languages": [
-    "en",
-    "pl",
-    "it"
    ]
   },
   {
@@ -94,49 +129,28 @@
    ]
   },
   {
-   "id": "3ca034f1-8523-4d73-94a8-d9891325ff56",
+   "id": "e1d41734-f7c9-4887-a82c-d095c436dfd1",
    "title": {
-    "en": "Morita-san wa Mukuchi"
-   },
-   "contentRating": "safe",
-   "score": 0.2824238,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "871f6e9b-8ead-4dfc-854b-e64cf2f59307",
-   "title": {
-    "en": "Kounago Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.2824238,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53a84ca6-a6ef-4273-92f4-8f894d86fafe",
-   "title": {
-    "en": "Gu-Pan!"
+    "en": "Stella no Mahou"
    },
    "contentRating": "safe",
    "score": 0.2824238,
    "languages": [
     "en",
-    "ru"
+    "ru",
+    "es-la"
    ]
   },
   {
-   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
+   "id": "f16dc40c-8388-4284-863d-aeb9f47539d0",
    "title": {
-    "en": "Little Busters! EX The 4koma"
+    "en": "The Embarrassing Daily Life of Hazu-kun and Kashii-san"
    },
    "contentRating": "safe",
    "score": 0.2824238,
    "languages": [
-    "en",
-    "vi"
+    "ru",
+    "en"
    ]
   },
   {
@@ -153,57 +167,41 @@
    ]
   },
   {
-   "id": "ad665f6c-f932-44c1-aad4-8307441a9756",
+   "id": "a7b82846-b7b3-4697-bbd0-e4461eef6aa6",
    "title": {
-    "en": "Kiniro Mosaic"
+    "en": "Custom Maid!"
    },
    "contentRating": "safe",
    "score": 0.2824238,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "99ecc886-a9e8-4dd7-9979-bac2f5bd68c6",
-   "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Ensemble!"
-   },
-   "contentRating": "safe",
-   "score": 0.26482394,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c02343b3-74e4-4057-b34a-90e08d93f95a",
+   "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
    "title": {
-    "en": "Gochuumon wa Usagi desu ka?"
+    "en": "Sketchbook"
    },
    "contentRating": "safe",
-   "score": 0.26331714,
+   "score": 0.2824238,
    "languages": [
     "en",
-    "pt-br",
-    "id",
-    "es-la"
+    "pl",
+    "it"
    ]
   },
   {
-   "id": "8599405b-b87b-432f-a08e-0649f53b364a",
+   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
    "title": {
-    "en": "Acchi Kocchi"
+    "en": "Little Busters! EX The 4koma"
    },
    "contentRating": "safe",
-   "score": 0.26088288,
+   "score": 0.2824238,
    "languages": [
     "en",
-    "ru",
-    "pt-br",
-    "fr",
-    "de"
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:07+00:00"
+ "updatedAt": "2023-12-10T18:35:48+00:00"
 }

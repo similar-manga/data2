@@ -11,18 +11,29 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.27750602,
+   "score": 0.27800348,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5582b37d-b99f-497a-b405-71fa69917333",
+   "id": "399f4c2b-8405-4c98-ad48-0b645afe5769",
    "title": {
-    "en": "Night Bird"
+    "en": "DEAD ROCK"
    },
    "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.24267444,
+   "languages": [
+    "it",
+    "fr",
+    "pt-br",
+    "de",
+    "ru",
+    "en",
+    "vi",
+    "id",
+    "es-la"
+   ]
   },
   {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
@@ -30,18 +41,7 @@
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.22600462
-  },
-  {
-   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
-   "title": {
-    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
-   },
-   "contentRating": "safe",
-   "score": 0.2225532,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22823338
   },
   {
    "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
@@ -71,14 +71,14 @@
    ]
   },
   {
-   "id": "869ad120-7341-4ea9-a980-f3545bc0503c",
+   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
    "title": {
-    "en": "Dr. Stone: 4D Science"
+    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.21597971,
+   "score": 0.21950313,
    "languages": [
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -98,12 +98,23 @@
    "score": 0.21597971
   },
   {
-   "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
+   "id": "869ad120-7341-4ea9-a980-f3545bc0503c",
    "title": {
-    "en": "Super Giants"
+    "en": "Dr. Stone: 4D Science"
    },
    "contentRating": "safe",
-   "score": 0.211372
+   "score": 0.21597971,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ca5444a5-70de-4b31-8ccd-627c0b518fb9",
+   "title": {
+    "en": "Tibetan Mastiff Rock Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.21453287
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -117,12 +128,28 @@
    ]
   },
   {
+   "id": "af535425-4085-4b14-8306-b0cf97f4d2e3",
+   "title": {
+    "en": "Super Giants"
+   },
+   "contentRating": "safe",
+   "score": 0.21011591
+  },
+  {
+   "id": "7f2442b1-7caa-40c7-b85c-6e20ab71d8a9",
+   "title": {
+    "en": "Beatless Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.20572518
+  },
+  {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
    "title": {
     "en": "Pilot Ace"
    },
    "contentRating": "safe",
-   "score": 0.20561922
+   "score": 0.20511217
   },
   {
    "id": "774d7f24-bb07-4d45-be66-6b74ef0e7e6b",
@@ -130,7 +157,7 @@
     "en": "Mojako"
    },
    "contentRating": "safe",
-   "score": 0.20533751
+   "score": 0.2034151
   },
   {
    "id": "869dbbc9-7330-49e4-a1a2-b2ade4a14f1d",
@@ -142,29 +169,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
-   "title": {
-    "en": "Scrapped Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.20196985,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3377cf71-173a-4fb5-9ecc-cff33b22fb04",
-   "title": {
-    "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.20100756,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:41+00:00"
+ "updatedAt": "2023-12-10T18:27:06+00:00"
 }

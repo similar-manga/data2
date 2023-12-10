@@ -11,7 +11,7 @@
     "en": "Zenei no Archer"
    },
    "contentRating": "safe",
-   "score": 0.2626237,
+   "score": 0.26209226,
    "languages": [
     "ru",
     "en"
@@ -41,12 +41,23 @@
    ]
   },
   {
+   "id": "5b78b883-2de4-4b79-be67-2d37041413a8",
+   "title": {
+    "en": "Soukai Kessen"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
    "title": {
     "en": "Joreishi Rentaro no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.24982475,
+   "score": 0.24928953,
    "languages": [
     "it",
     "pt-br",
@@ -60,32 +71,8 @@
     "en": "Mononoke Hime"
    },
    "contentRating": "safe",
-   "score": 0.24021937,
+   "score": 0.24749659,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
-   "title": {
-    "en": "Roll"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
-   "title": {
-    "en": "SKY CLAW"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -104,12 +91,48 @@
    ]
   },
   {
+   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "title": {
+    "en": "SKY CLAW"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
+   "title": {
+    "en": "Roll"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "5c1da05c-5632-4eca-89ae-d9cf0b2d5fae",
+   "title": {
+    "en": "Zao Saga"
+   },
+   "contentRating": "safe",
+   "score": 0.22883005,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "5505e114-a90b-4d5b-a3a3-de24fc313a95",
    "title": {
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.22927538,
+   "score": 0.22874527,
    "languages": [
     "en"
    ]
@@ -120,7 +143,7 @@
     "en": "Amanusya"
    },
    "contentRating": "safe",
-   "score": 0.2263664,
+   "score": 0.22569576,
    "languages": [
     "pl",
     "en"
@@ -132,10 +155,21 @@
     "en": "Jekyll no Tsukaima"
    },
    "contentRating": "safe",
-   "score": 0.2255847,
+   "score": 0.22452538,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "b120f8d9-643b-4e89-8364-fe5525ca3db5",
+   "title": {
+    "en": "Onigoroki"
+   },
+   "contentRating": "safe",
+   "score": 0.22362545,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -144,21 +178,9 @@
     "en": "Mana Sorcerer"
    },
    "contentRating": "safe",
-   "score": 0.22371407,
+   "score": 0.22261484,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "565f9056-f7aa-419a-9f73-db0a8f057339",
-   "title": {
-    "en": "Kavukizumu"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -171,32 +193,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "db9f4edc-6678-4495-9753-ad9fafd1bdee",
-   "title": {
-    "en": "Prison Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.21356829,
-   "languages": [
-    "ru",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "41382cf2-feaf-4fa9-83a0-97f173ba2419",
-   "title": {
-    "en": "The God Who Can't Clean Up"
-   },
-   "contentRating": "safe",
-   "score": 0.21239994,
-   "languages": [
-    "es-la",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:29+00:00"
+ "updatedAt": "2023-12-10T18:21:15+00:00"
 }

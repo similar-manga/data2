@@ -11,7 +11,7 @@
     "en": "Steal Moon"
    },
    "contentRating": "suggestive",
-   "score": 0.22659619
+   "score": 0.22620663
   },
   {
    "id": "8c1299d4-ed4d-4b10-bc2c-b715b364343a",
@@ -38,7 +38,7 @@
     "en": "Shoujo Jihen"
    },
    "contentRating": "suggestive",
-   "score": 0.21238387,
+   "score": 0.21220846,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Psychometrer"
    },
    "contentRating": "suggestive",
-   "score": 0.20835917,
+   "score": 0.2077342,
    "languages": [
     "en"
    ]
@@ -67,6 +67,17 @@
    ]
   },
   {
+   "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
+   "title": {
+    "en": "Rose × Marie"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19693266,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "04498a37-d4dc-47f9-b474-ecbf69c5444b",
    "title": {
     "en": "A Man Called the Count"
@@ -75,23 +86,23 @@
    "score": 0.19462892
   },
   {
-   "id": "4e98b9c8-f2cd-41a6-a175-2dec25cb2995",
-   "title": {
-    "en": "Couple Games"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19395584,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "0a8ad452-7392-43f5-8229-328276dd784f",
    "title": {
     "en": "Love So Pure"
    },
    "contentRating": "suggestive",
-   "score": 0.19368891
+   "score": 0.19395182
+  },
+  {
+   "id": "4e98b9c8-f2cd-41a6-a175-2dec25cb2995",
+   "title": {
+    "en": "Couple Games"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1938499,
+   "languages": [
+    "es-la"
+   ]
   },
   {
    "id": "e1e12d0c-e8a4-4afe-9b7f-43a3595d28ed",
@@ -110,20 +121,12 @@
     "en": "You Don't Even Know My Feelings"
    },
    "contentRating": "suggestive",
-   "score": 0.18867786
+   "score": 0.18858759
   },
   {
    "id": "294d3292-98ae-4cc6-bd97-dd7d395bdc8c",
    "title": {
     "en": "Otona Damashi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18731716
-  },
-  {
-   "id": "b765b2bb-7c8c-4659-87f6-e6e651f73062",
-   "title": {
-    "en": "Samurai Nongrata"
    },
    "contentRating": "suggestive",
    "score": 0.18731716
@@ -137,38 +140,24 @@
    "score": 0.18731716
   },
   {
+   "id": "b765b2bb-7c8c-4659-87f6-e6e651f73062",
+   "title": {
+    "en": "Samurai Nongrata"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18731716
+  },
+  {
    "id": "8ad6c985-c319-4f69-99fc-aaac83b26aa8",
    "title": {
     "en": "A Moonlit Spring River"
    },
    "contentRating": "suggestive",
-   "score": 0.18587694,
+   "score": 0.18471698,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "2ab11b28-0203-47cc-8a78-1edf6bd5a3ae",
-   "title": {
-    "en": "Burn the Witch"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18397008,
-   "languages": [
-    "de",
-    "he",
-    "hu",
-    "ar",
-    "pt-br",
-    "ru",
-    "uk",
-    "pl",
-    "tr",
-    "it",
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:18+00:00"
+ "updatedAt": "2023-12-10T18:23:21+00:00"
 }

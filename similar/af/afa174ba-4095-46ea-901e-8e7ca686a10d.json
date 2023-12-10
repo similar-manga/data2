@@ -6,14 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.3257548,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
    "title": {
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.23988813,
+   "score": 0.2457621,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "301ab80a-b198-4858-b778-9c52da836930",
+   "title": {
+    "en": "Nami Uraraka ni, Meoto Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.24206676,
+   "languages": [
     "en"
    ]
   },
@@ -23,7 +47,29 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.23600851,
+   "score": 0.23863502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c8e3ef99-430a-4ac5-8a38-8907f4048494",
+   "title": {
+    "en": "Dark Twilight Sanctuary"
+   },
+   "contentRating": "safe",
+   "score": 0.23679699,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "301c797b-e198-4f4a-88ca-41b677ca1971",
+   "title": {
+    "en": "Cecil no Joou"
+   },
+   "contentRating": "safe",
+   "score": 0.23676623,
    "languages": [
     "en"
    ]
@@ -34,7 +80,7 @@
     "en": "Kurashi no Izumi"
    },
    "contentRating": "safe",
-   "score": 0.23204981,
+   "score": 0.22755596,
    "languages": [
     "en"
    ]
@@ -45,7 +91,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.22321273,
+   "score": 0.22482757,
    "languages": [
     "en",
     "pt-br",
@@ -59,12 +105,23 @@
    ]
   },
   {
+   "id": "683117b1-e326-4bc8-b189-e4f17940bf56",
+   "title": {
+    "en": "Chiisai Tomodachi"
+   },
+   "contentRating": "safe",
+   "score": 0.2241067,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c",
    "title": {
     "en": "The Apothecary Diaries"
    },
    "contentRating": "safe",
-   "score": 0.22150566,
+   "score": 0.22129163,
    "languages": [
     "tr",
     "en",
@@ -89,12 +146,38 @@
    ]
   },
   {
-   "id": "1e167d35-6b1f-4d5d-af00-be83160741fc",
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
    "title": {
-    "en": "Skyscraper Blues"
+    "en": "Anata ga Shitekurenakute mo"
    },
    "contentRating": "safe",
-   "score": 0.21305636,
+   "score": 0.21884048,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.21831322,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
+   "title": {
+    "en": "Otona no Zukan Kaiteiban"
+   },
+   "contentRating": "safe",
+   "score": 0.21753038,
    "languages": [
     "en"
    ]
@@ -105,115 +188,22 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.2128275,
+   "score": 0.21478473,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5ae5d282-bd56-4844-ab9a-8eb8e7970b62",
+   "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
    "title": {
-    "en": "Fude to Kizu"
+    "en": "Ai to Ao no Kyoukai"
    },
    "contentRating": "safe",
-   "score": 0.20922476,
+   "score": 0.21367568,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53af0017-83cb-41e7-97eb-25bba200940d",
-   "title": {
-    "en": "Last One"
-   },
-   "contentRating": "safe",
-   "score": 0.20398019,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "6f16cf7e-0865-4c98-8709-1fbcdb74591e",
-   "title": {
-    "en": "Kingdom of Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.20398019,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
-   "title": {
-    "en": "March Comes in Like a Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.20311151,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "b73371d4-02dd-4db0-b448-d9afa3d698f1",
-   "title": {
-    "en": "Ao Ashi"
-   },
-   "contentRating": "safe",
-   "score": 0.20056705,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr",
-    "id",
-    "ru",
-    "ar",
-    "it",
-    "fa",
-    "es"
-   ]
-  },
-  {
-   "id": "927a1b0a-9e74-4066-b4da-bd538b4413f2",
-   "title": {
-    "en": "Untouchable Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.19981648,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1ace7ef5-adfc-460e-af93-876f3ab6fc45",
-   "title": {
-    "en": "Cherry"
-   },
-   "contentRating": "safe",
-   "score": 0.1963558,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f86def88-af8d-4f82-94d8-057367e0db2a",
-   "title": {
-    "en": "Hitori de Shinitai"
-   },
-   "contentRating": "safe",
-   "score": 0.18990287,
-   "languages": [
-    "zh",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:00+00:00"
+ "updatedAt": "2023-12-10T18:27:59+00:00"
 }

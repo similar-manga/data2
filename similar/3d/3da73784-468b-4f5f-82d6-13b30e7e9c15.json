@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1f6a67a6-1eb9-4330-94c5-4f66b7d37aa4",
+   "title": {
+    "en": "6 Billion Lice"
+   },
+   "contentRating": "safe",
+   "score": 0.28496033
+  },
+  {
    "id": "ebe83cd0-ad06-4bf2-b9a2-f052d6c57b93",
    "title": {
     "en": "Ben-Hur"
@@ -14,9 +22,17 @@
    "score": 0.24692619
   },
   {
-   "id": "5b7c9259-a0fa-48ae-91a1-9c938c7d34cf",
+   "id": "bc5d83f5-3107-43a3-8a1d-22a07f4549a0",
    "title": {
-    "en": "Yowamushi Rollo"
+    "en": "Wind Santa"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "86f7ccaa-4936-45f1-ad2a-11098b83c458",
+   "title": {
+    "en": "Snow Illusion"
    },
    "contentRating": "safe",
    "score": 0.23809525
@@ -30,6 +46,38 @@
    "score": 0.23809525
   },
   {
+   "id": "f17b9840-d2c6-409c-b3f2-7c024ffd34be",
+   "title": {
+    "en": "Sorori Shinzaemon"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "5b7c9259-a0fa-48ae-91a1-9c938c7d34cf",
+   "title": {
+    "en": "Yowamushi Rollo"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "f0664003-4db8-468c-8018-276ddfdc52b5",
+   "title": {
+    "en": "Genkotsu Priest"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "f30e7d50-59e7-47de-855b-e71d1e4b25f4",
+   "title": {
+    "en": "Mukashibanashi Manga Theater"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
    "id": "34af10f2-f9ac-43d6-8624-9e0ef77b86a0",
    "title": {
     "en": "Protruding Zukko"
@@ -38,108 +86,53 @@
    "score": 0.23809525
   },
   {
-   "id": "cc656207-637b-4fbb-8fc2-b334799993d7",
+   "id": "18521da4-b310-4e12-8a66-eb38ce45d311",
    "title": {
-    "en": "Fear of the Cursed Cat"
+    "en": "Mysterious Power Kuritaro"
    },
    "contentRating": "safe",
-   "score": 0.20006485
+   "score": 0.23809525
   },
   {
-   "id": "bfcd88ca-5c8e-4e1f-901f-ac7f25c22337",
+   "id": "4070cfc7-ed14-4551-8823-8e9eb9592437",
    "title": {
-    "en": "Sarutobi Sasuke (One-Shot)"
+    "en": "Doraemon's Mysterious Exploration Series"
    },
    "contentRating": "safe",
-   "score": 0.19440396
+   "score": 0.23809525
   },
   {
-   "id": "174ed0bd-4c92-4942-bb28-9a2fec6b8c19",
+   "id": "db449662-ff55-4662-9d7e-9d2ca1ce094f",
    "title": {
-    "en": "Kenshiro Otonashi"
+    "en": "Big Hippo Soldier"
    },
    "contentRating": "safe",
-   "score": 0.19440396
+   "score": 0.23809525
   },
   {
-   "id": "91b7246e-71d8-463a-9fb8-47ee386c4c60",
+   "id": "d8a85664-3d32-4f25-8b06-8b751d5ee2fb",
    "title": {
-    "en": "Old Iron Martial Arts Book"
+    "en": "Acorn Tengu"
    },
    "contentRating": "safe",
-   "score": 0.19440396
+   "score": 0.23809525
   },
   {
-   "id": "25f1038e-0436-45a9-a8de-f57373091ded",
+   "id": "ff805c9d-c4c2-4746-8db0-dbc12f655ee9",
    "title": {
-    "en": "Sassurai-chan"
+    "en": "Mito Komon"
    },
    "contentRating": "safe",
-   "score": 0.19440396
+   "score": 0.23809525
   },
   {
-   "id": "76abfbdc-ebc8-401d-892e-7696cc55e203",
+   "id": "4cc9e5af-3e89-4040-9a3c-bd84f13176c6",
    "title": {
-    "en": "$100 Is Too Cheap"
+    "en": "Good luck Mamesuke-san"
    },
    "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "04c9f575-8034-4c16-b7c5-684db5c5f780",
-   "title": {
-    "en": "Geronimo no Hanran"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "3d61c9a5-9f70-46e8-bf5e-d753db389aa3",
-   "title": {
-    "en": "Megumi-style ninja art Sawayaka-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "5a86eebd-acb4-4ae6-98b3-d53076e8de9e",
-   "title": {
-    "en": "Dragon Bodyguard Hissatsuken-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "cbe56c87-0a41-4692-b280-15855d1c63dc",
-   "title": {
-    "en": "Edo is a Blue Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "5c5ad462-2dae-4c84-a41a-e89144d5411e",
-   "title": {
-    "en": "Chibi Wakamaru"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396
-  },
-  {
-   "id": "70cf0231-4ef9-42b9-800b-4e26477d7299",
-   "title": {
-    "en": "Rurouni Kenshin: Yahiko no Sakabatou"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "pt"
-   ]
+   "score": 0.23809525
   }
  ],
- "updatedAt": "2023-12-10T01:02:07+00:00"
+ "updatedAt": "2023-12-10T18:14:55+00:00"
 }

@@ -6,29 +6,178 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9a83c4fb-467a-4636-b367-7100d170c10e",
+   "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
    "title": {
-    "en": "Assembler OX"
+    "en": "Replica Datte, Koi wo suru."
    },
    "contentRating": "safe",
-   "score": 0.19957858,
+   "score": 0.2491153,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "d0b31614-5690-4d25-86bc-5d506aeedf55",
+   "title": {
+    "en": "Why Can’t We Stay as Children?"
+   },
+   "contentRating": "safe",
+   "score": 0.23668468,
+   "languages": [
+    "en",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "f43aab98-8bfe-4275-97cc-9a7b7635eb80",
+   "title": {
+    "en": "Rikei ga Koi ni Ochita no de Shoumei shitemita"
+   },
+   "contentRating": "safe",
+   "score": 0.23579477,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "a532122f-565b-4cf9-93bd-486aebf54ef1",
+   "title": {
+    "en": "Asahina-san no Bentou Tabetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2321736,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
+   "id": "4db25702-e695-4b86-8bda-e74a7266f4db",
    "title": {
-    "en": "I Love You, Kyouko-san."
+    "en": "Dullahan-chan is Head Over Heels"
    },
    "contentRating": "safe",
-   "score": 0.19896786,
+   "score": 0.23213814,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7873dd0e-131f-4f40-8a92-32601713e1da",
+   "title": {
+    "ja": "The Neat and Beautiful Girl at My New School is My Childhood Friend Who I Used to Play With Thinking She Was a Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.23108341,
    "languages": [
     "en",
-    "zh-hk",
-    "id",
-    "it",
+    "vi",
+    "pt-br",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
+   "title": {
+    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.2050863,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "667e2bfe-0ff8-49bf-9d09-cd2cb7e5fe2d",
+   "title": {
+    "en": "Dokuzetsu Shoujo wa Amanojaku"
+   },
+   "contentRating": "safe",
+   "score": 0.20195387,
+   "languages": [
+    "vi",
+    "en",
+    "th",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "0bac7be9-490a-4019-ae87-9b5b324af65a",
+   "title": {
+    "en": "Yano-kun no Futsuu no Hibi"
+   },
+   "contentRating": "safe",
+   "score": 0.2017345,
+   "languages": [
+    "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "5bcaec47-4a25-4ffb-a127-dcc485b63328",
+   "title": {
+    "en": "Class de In-cha no Ore ga Jitsu wa Daininki Band no Vocal na Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.20014758,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9a83c4fb-467a-4636-b367-7100d170c10e",
+   "title": {
+    "en": "Assembler OX"
+   },
+   "contentRating": "safe",
+   "score": 0.19963565,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3fe2a894-23da-4b36-a429-6c80e40a6162",
+   "title": {
+    "en": "Seishun Protagonist"
+   },
+   "contentRating": "safe",
+   "score": 0.19933715,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
+   "title": {
+    "en": "Houkago no Idol ni wa Himitsu ga aru"
+   },
+   "contentRating": "safe",
+   "score": 0.19916856,
+   "languages": [
+    "en",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
+   "title": {
+    "en": "Yoka-san ga Nameru"
+   },
+   "contentRating": "safe",
+   "score": 0.19723418,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -37,7 +186,7 @@
     "en": "Shokujin Shokuyuujou"
    },
    "contentRating": "safe",
-   "score": 0.19803032,
+   "score": 0.19527395,
    "languages": [
     "en",
     "id"
@@ -49,170 +198,14 @@
     "en": "Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.19207858,
+   "score": 0.195017,
    "languages": [
     "es",
     "fr",
     "pt-br",
     "en"
    ]
-  },
-  {
-   "id": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
-   "title": {
-    "en": "New Normal"
-   },
-   "contentRating": "safe",
-   "score": 0.18827204,
-   "languages": [
-    "tr",
-    "en",
-    "ru",
-    "pt-br",
-    "pl",
-    "fr",
-    "th",
-    "es-la",
-    "it",
-    "tl"
-   ]
-  },
-  {
-   "id": "9ed7759e-3a3e-4850-b1ef-0b039add6f75",
-   "title": {
-    "en": "Alien 9 Complete"
-   },
-   "contentRating": "safe",
-   "score": 0.18795468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "38d6eab3-8231-4e97-85bd-dbdb65123522",
-   "title": {
-    "en": "Maou-sama to Kekkon shitai (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.1860628,
-   "languages": [
-    "es-la",
-    "uk",
-    "fr",
-    "bg",
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.18514498,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0acb9ae2-3061-4d35-a2ee-2e414fc6547e",
-   "title": {
-    "en": "The Class President's Circumstances"
-   },
-   "contentRating": "safe",
-   "score": 0.18286368,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b34220a4-ae89-4f53-b3b8-f6edd86b1292",
-   "title": {
-    "en": "Super Oresama Love Story"
-   },
-   "contentRating": "safe",
-   "score": 0.18264014,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "0296dc0b-7635-4154-927a-33c2244c4503",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru.: Monologue"
-   },
-   "contentRating": "safe",
-   "score": 0.17647891,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "dab0f51c-9858-41bd-9087-dbe729cc55c0",
-   "title": {
-    "en": "Hen-Zemi"
-   },
-   "contentRating": "safe",
-   "score": 0.17412382,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
-   "title": {
-    "en": "Koaka Head"
-   },
-   "contentRating": "safe",
-   "score": 0.17341623,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3512d948-2886-4a9a-b0dc-44e02bb67c87",
-   "title": {
-    "en": "Kagaku Chop"
-   },
-   "contentRating": "safe",
-   "score": 0.1731294,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "00fc012b-8d52-489c-9529-ee60934cbb0e",
-   "title": {
-    "en": "Keron"
-   },
-   "contentRating": "safe",
-   "score": 0.17286535,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "97091cd3-28be-42ff-bfd4-367d3eea3dab",
-   "title": {
-    "en": "Kuginashi Bon ni Kaze ga Fuku!"
-   },
-   "contentRating": "safe",
-   "score": 0.16998208,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:26+00:00"
+ "updatedAt": "2023-12-10T18:31:39+00:00"
 }

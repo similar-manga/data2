@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
+   "title": {
+    "en": "Higan no Orca"
+   },
+   "contentRating": "safe",
+   "score": 0.27088758,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
    "title": {
     "en": "Moon Edge"
    },
    "contentRating": "safe",
-   "score": 0.24961787,
+   "score": 0.2495688,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.24918437,
+   "score": 0.24889901,
    "languages": [
     "pt-br",
     "en",
@@ -37,7 +49,7 @@
     "en": "Dogs / Bullets \u0026 Carnage"
    },
    "contentRating": "safe",
-   "score": 0.23758748,
+   "score": 0.2376813,
    "languages": [
     "en",
     "bg",
@@ -50,11 +62,23 @@
     "en": "Lucky Dog 1 Blast"
    },
    "contentRating": "safe",
-   "score": 0.23139471,
+   "score": 0.2310636,
    "languages": [
     "en",
     "vi",
     "pl"
+   ]
+  },
+  {
+   "id": "72e51451-4d0c-4a3f-97ff-afb3f819fbfa",
+   "title": {
+    "en": "Link Click"
+   },
+   "contentRating": "safe",
+   "score": 0.22587697,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -63,7 +87,7 @@
     "en": "Umihara Kawase Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.22523263,
+   "score": 0.22502522,
    "languages": [
     "en"
    ]
@@ -80,12 +104,24 @@
    ]
   },
   {
+   "id": "218041a6-9243-4360-9810-e5810cf14af4",
+   "title": {
+    "en": "Harmony"
+   },
+   "contentRating": "safe",
+   "score": 0.2146332,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
    "title": {
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.21371084,
+   "score": 0.2123606,
    "languages": [
     "ru",
     "fr",
@@ -97,28 +133,6 @@
     "tr",
     "it",
     "vi"
-   ]
-  },
-  {
-   "id": "f87ef97f-2c89-4525-9f25-d53f848ad85b",
-   "title": {
-    "en": "Stop The World"
-   },
-   "contentRating": "safe",
-   "score": 0.20981897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
-   "title": {
-    "en": "Kuusou Kagaku Edison"
-   },
-   "contentRating": "safe",
-   "score": 0.20906009,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -136,34 +150,20 @@
    ]
   },
   {
-   "id": "60b951e3-d36b-4487-8eaa-aea9e53b71ca",
-   "title": {
-    "en": "Baraduke II"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "f20fd674-d661-4736-9b2d-b07b51841923",
    "title": {
     "en": "Gamera Vs. Barugon"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "60b951e3-d36b-4487-8eaa-aea9e53b71ca",
+   "title": {
+    "en": "Baraduke II"
    },
    "contentRating": "safe",
    "score": 0.20865622,
@@ -184,28 +184,30 @@
    ]
   },
   {
-   "id": "9b815665-7f50-48c1-af81-4fc756eef672",
+   "id": "6ed53a0e-1980-4384-82d4-ed27a7aad6d9",
    "title": {
-    "en": "Blind Game - New Age Hakkenden"
+    "en": "Gasaraki"
    },
    "contentRating": "safe",
-   "score": 0.20825718,
+   "score": 0.20865622,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
    "title": {
-    "en": "Ultra Heaven"
+    "en": "Cosmos"
    },
    "contentRating": "safe",
-   "score": 0.20757003,
+   "score": 0.20865622,
    "languages": [
-    "en",
-    "pt-br"
+    "es",
+    "fr",
+    "pt-br",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:24+00:00"
+ "updatedAt": "2023-12-10T18:18:15+00:00"
 }

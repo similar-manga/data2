@@ -11,7 +11,7 @@
     "en": "CROSS"
    },
    "contentRating": "safe",
-   "score": 0.4054933,
+   "score": 0.36576122,
    "languages": [
     "en",
     "de"
@@ -23,30 +23,11 @@
     "en": "Prison Princess"
    },
    "contentRating": "safe",
-   "score": 0.34599638,
+   "score": 0.3547244,
    "languages": [
     "ru",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "f44fd5d1-f18b-4947-b325-91f6dc477ac6",
-   "title": {
-    "en": "Unblessed"
-   },
-   "contentRating": "safe",
-   "score": 0.3028531
-  },
-  {
-   "id": "0f0b303d-0536-41df-a61a-7edb3eb0d39f",
-   "title": {
-    "en": "Checkmate"
-   },
-   "contentRating": "safe",
-   "score": 0.30209354,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -55,11 +36,22 @@
     "en": "Heroes of Fury"
    },
    "contentRating": "safe",
-   "score": 0.29801193,
+   "score": 0.30778027,
    "languages": [
     "it",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0f0b303d-0536-41df-a61a-7edb3eb0d39f",
+   "title": {
+    "en": "Checkmate"
+   },
+   "contentRating": "safe",
+   "score": 0.30646545,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -68,7 +60,7 @@
     "en": "The Story of the Gatekeeper"
    },
    "contentRating": "safe",
-   "score": 0.2896173,
+   "score": 0.29622114,
    "languages": [
     "bg",
     "ar",
@@ -77,9 +69,29 @@
    ]
   },
   {
-   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
+   "id": "585835d9-ac00-4c70-83ef-baa53e39a0a1",
    "title": {
-    "en": "29 de Bukiyou de"
+    "en": "Dongara Three Musketeers"
+   },
+   "contentRating": "safe",
+   "score": 0.29016474
+  },
+  {
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "title": {
+    "en": "Otter No.11"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4d3b51fc-272b-44cf-9cb5-e6195a94bd06",
+   "title": {
+    "en": "Please Take a Seat"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -100,6 +112,17 @@
    ]
   },
   {
+   "id": "8febc255-5147-4d52-80b0-997544bae506",
+   "title": {
+    "en": "CHAIN"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6c583845-8276-4f80-b90b-902959b5d240",
    "title": {
     "en": "Tokyo Depato Sensou Taikenki"
@@ -113,25 +136,25 @@
    ]
   },
   {
-   "id": "8febc255-5147-4d52-80b0-997544bae506",
+   "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
    "title": {
-    "en": "CHAIN"
+    "en": "The Tiger of Omertà"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "fr",
     "en"
    ]
   },
   {
-   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
    "title": {
-    "en": "Otter No.11"
+    "en": "29 de Bukiyou de"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pl",
     "en"
    ]
   },
@@ -151,29 +174,6 @@
    ]
   },
   {
-   "id": "b7943955-2708-4975-9bb2-ae1edac8af73",
-   "title": {
-    "en": "The Tiger of Omertà"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "4d3b51fc-272b-44cf-9cb5-e6195a94bd06",
-   "title": {
-    "en": "Please Take a Seat"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ef09c916-6924-4241-9185-5315e8168ab8",
    "title": {
     "en": "Poltergeist"
@@ -182,21 +182,13 @@
    "score": 0.2857143
   },
   {
-   "id": "96bc8859-a7e3-4e89-afa6-5ec6be278286",
+   "id": "f44fd5d1-f18b-4947-b325-91f6dc477ac6",
    "title": {
-    "en": "Street Crossing Manga"
+    "en": "Unblessed"
    },
    "contentRating": "safe",
-   "score": 0.2798623,
-   "languages": [
-    "ru",
-    "es-la",
-    "id",
-    "pt-br",
-    "it",
-    "en"
-   ]
+   "score": 0.2841545
   }
  ],
- "updatedAt": "2023-12-10T01:09:10+00:00"
+ "updatedAt": "2023-12-10T18:33:29+00:00"
 }

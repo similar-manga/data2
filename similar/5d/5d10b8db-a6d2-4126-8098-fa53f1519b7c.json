@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4e7d3eb6-6b0d-4855-bc99-79c04a27c2d6",
+   "title": {
+    "en": "Kuma to Karasu"
+   },
+   "contentRating": "safe",
+   "score": 0.35425648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2f90e7e5-16b4-41f5-b717-137cf9783b5b",
    "title": {
     "en": "Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole"
    },
    "contentRating": "safe",
-   "score": 0.25036734,
+   "score": 0.24997565,
    "languages": [
     "en",
     "id",
@@ -24,7 +35,7 @@
     "en": "Hokkaidou no Geneki Hunter ga Isekai ni Hourikoma Rete Mita ~Elf Yome to Meguru Isekai Shuryou Life~"
    },
    "contentRating": "safe",
-   "score": 0.23970808,
+   "score": 0.23838782,
    "languages": [
     "fr",
     "en",
@@ -38,7 +49,7 @@
     "en": "Tensei Shitara Slime Datta Ken: Mamono no Kuni no Arukikata"
    },
    "contentRating": "safe",
-   "score": 0.23164916,
+   "score": 0.23133257,
    "languages": [
     "en",
     "pt-br",
@@ -53,7 +64,7 @@
     "en": "Kojiin Tamer"
    },
    "contentRating": "safe",
-   "score": 0.23092175,
+   "score": 0.23063152,
    "languages": [
     "en",
     "pt-br",
@@ -69,7 +80,7 @@
     "en": "Starvation and Reincarnation"
    },
    "contentRating": "safe",
-   "score": 0.23078957,
+   "score": 0.23018263,
    "languages": [
     "en",
     "es-la"
@@ -81,7 +92,7 @@
     "en": "The Great Cleric"
    },
    "contentRating": "safe",
-   "score": 0.22969495,
+   "score": 0.2293826,
    "languages": [
     "pt-br",
     "ru",
@@ -89,31 +100,15 @@
    ]
   },
   {
-   "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
+   "id": "a92fcfb2-27b7-476f-a9d5-4cd557ae39c0",
    "title": {
-    "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
+    "en": "Tondemo Skill de Isekai Hourou Meshi: Sui no Daibouken"
    },
    "contentRating": "safe",
-   "score": 0.22950132,
+   "score": 0.22667477,
    "languages": [
-    "id",
-    "pt-br",
+    "es-la",
     "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
-   "title": {
-    "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
-   },
-   "contentRating": "safe",
-   "score": 0.22613762,
-   "languages": [
-    "ru",
-    "en",
-    "id",
-    "fr",
     "pt-br"
    ]
   },
@@ -132,6 +127,35 @@
    ]
   },
   {
+   "id": "fa197a3e-6dd6-470d-91e4-c0130a1392d3",
+   "title": {
+    "en": "Tensei Shitara Dragon no Tamago Datta - Ibara no Dragon Road"
+   },
+   "contentRating": "safe",
+   "score": 0.22613762,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
+   "title": {
+    "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.22231564,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "4c28fa92-d88a-4686-b068-348c4e72f3e1",
    "title": {
     "en": "Jimi na Kensei wa Sore Demo Saikyou Desu"
@@ -144,6 +168,35 @@
     "pt-br",
     "es-la",
     "ko"
+   ]
+  },
+  {
+   "id": "258d2691-ffea-4e77-8968-ce5c24ffc6f7",
+   "title": {
+    "en": "Isekai Tensei de Kenja ni Natte Boukensha Seikatsu ~[Mahou Kairyou] de Isekai Saikyou~"
+   },
+   "contentRating": "safe",
+   "score": 0.22231564,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "1c83c0e9-c74f-491c-97d8-db0e4e7dc707",
+   "title": {
+    "en": "Ore No Zensei No Chishiki De Teihen Shoku Tamer Ga Joukyuu Shoku Ni Natte Shimai Sou Na Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.22231564,
+   "languages": [
+    "en",
+    "id",
+    "fr",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -170,62 +223,7 @@
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "f1c79d23-d306-40e5-8b47-17cab7408f1a",
-   "title": {
-    "en": "Tensei Shitara Slime Datta Ken: Bangaihen - Toaru Kyuuka no Sugoshikata"
-   },
-   "contentRating": "safe",
-   "score": 0.22060114,
-   "languages": [
-    "en",
-    "ar",
-    "es-la"
-   ]
-  },
-  {
-   "id": "829d27e8-3d50-48bc-ab1d-9d1c3bfba615",
-   "title": {
-    "en": "Isekai no Binbou Nouka ni Tensei Shita Node, Renga wo Tsukutte Shiro wo Tateru Koto ni Shimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.21484874,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "es"
-   ]
-  },
-  {
-   "id": "0007a2ed-2a91-472d-b161-bfd011b4ba1b",
-   "title": {
-    "en": "Boku igai Zennin Tenseisha ka yo!?"
-   },
-   "contentRating": "safe",
-   "score": 0.21430746,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "da7bb886-7e6b-4174-83a9-2c478475b846",
-   "title": {
-    "en": "Isekai Yakkyoku"
-   },
-   "contentRating": "safe",
-   "score": 0.2097762,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "fr",
-    "es-la",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:28+00:00"
+ "updatedAt": "2023-12-10T18:18:25+00:00"
 }

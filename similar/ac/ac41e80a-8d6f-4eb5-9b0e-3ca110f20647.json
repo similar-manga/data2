@@ -11,7 +11,7 @@
     "en": "Butterfly"
    },
    "contentRating": "safe",
-   "score": 0.25426015,
+   "score": 0.25402656,
    "languages": [
     "en",
     "pl"
@@ -23,10 +23,22 @@
     "en": "Akumu no Elevator"
    },
    "contentRating": "safe",
-   "score": 0.19164571,
+   "score": 0.1914088,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "af7b5b97-f630-4586-8e39-a395870ccaef",
+   "title": {
+    "en": "My Dear Detective: Mitsuko’s Case Files"
+   },
+   "contentRating": "safe",
+   "score": 0.19040394,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -35,7 +47,7 @@
     "en": "888"
    },
    "contentRating": "safe",
-   "score": 0.18901676,
+   "score": 0.18876813,
    "languages": [
     "en"
    ]
@@ -57,7 +69,18 @@
     "en": "Jintori Game"
    },
    "contentRating": "safe",
-   "score": 0.17674944,
+   "score": 0.17493728,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d0201467-28ac-40e5-a3e1-553c1201b5a8",
+   "title": {
+    "en": "Smoking Maid Romance"
+   },
+   "contentRating": "safe",
+   "score": 0.1685667,
    "languages": [
     "en"
    ]
@@ -74,20 +97,66 @@
    ]
   },
   {
-   "id": "65e7cc2d-3454-4e44-92c5-90ae9010cc16",
+   "id": "5c168b43-b8b4-4ada-b91d-add97b8055a9",
    "title": {
-    "en": "Water Cube"
+    "en": "Manga de Wakaru Shinryou Naika"
    },
    "contentRating": "safe",
-   "score": 0.15722975,
+   "score": 0.15713485,
    "languages": [
-    "en"
+    "en",
+    "es"
    ]
   },
   {
    "id": "32dfa93d-cee2-47c2-8d48-7c0ba57fb75d",
    "title": {
     "en": "Merry-chan to Hitsuji"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e3643db9-0cac-41c0-a071-946f678f0702",
+   "title": {
+    "en": "Mizukami Satoshi no Manga Sadou"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "918fbd19-8973-49de-bb86-96596960375e",
+   "title": {
+    "en": "Animeta!"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2211b153-a31d-419c-b940-c33aa31ede75",
+   "title": {
+    "en": "Ebisu Yoshikazu Collection SF \u0026 Mystery Hen - Utsukushiki Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "8cb6b378-b2ef-487a-8d2a-9347ce3a41fe",
+   "title": {
+    "en": "Back to the Hero"
    },
    "contentRating": "safe",
    "score": 0.15713485,
@@ -107,91 +176,21 @@
    ]
   },
   {
-   "id": "9c1cd558-fba3-40f1-bb84-b320f5d1eab1",
+   "id": "569963c5-6b0b-4f92-b561-e1304b78b0dc",
    "title": {
-    "en": "Bug Ego"
+    "en": "Bungo Stray Dogs Wan!"
    },
    "contentRating": "safe",
-   "score": 0.15016927,
+   "score": 0.15713485,
    "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "333f5f0b-473b-4184-aa72-23af3c8a3a90",
-   "title": {
-    "en": "Moonlight Mile"
-   },
-   "contentRating": "safe",
-   "score": 0.1411167,
-   "languages": [
-    "it",
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "eace40fd-0bcd-4016-9475-24459996302b",
-   "title": {
-    "en": "Reinouryokusha Odagiri Kyouko no Uso"
-   },
-   "contentRating": "safe",
-   "score": 0.14054568,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1f6b847c-d1ba-4a1b-a5f8-b1891c4ba470",
-   "title": {
-    "en": "Vivarium de Choushoku wo"
-   },
-   "contentRating": "safe",
-   "score": 0.14054568,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52d529f3-f12c-4aea-94cf-49808ab3e0c3",
-   "title": {
-    "en": "The Flowers Have Blossomed"
-   },
-   "contentRating": "safe",
-   "score": 0.14054568,
-   "languages": [
+    "en",
+    "ar",
+    "pl",
     "id",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "dac6ea5a-cf4b-4420-9e89-0c6330d562f0",
-   "title": {
-    "en": "Donyatsu"
-   },
-   "contentRating": "safe",
-   "score": 0.14054568,
-   "languages": [
-    "pt-br",
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
-   "title": {
-    "en": "xxxHOLiC Rei"
-   },
-   "contentRating": "safe",
-   "score": 0.13903217,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:52+00:00"
+ "updatedAt": "2023-12-10T18:27:34+00:00"
 }

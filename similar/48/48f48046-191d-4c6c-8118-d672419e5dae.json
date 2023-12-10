@@ -11,7 +11,7 @@
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.22989333,
+   "score": 0.2269397,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.22312093,
+   "score": 0.22067939,
    "languages": [
     "en",
     "ru"
@@ -46,7 +46,7 @@
     "en": "Jigoku Kurayami Hana mo Naki"
    },
    "contentRating": "safe",
-   "score": 0.19225581,
+   "score": 0.19168901,
    "languages": [
     "zh",
     "ru",
@@ -60,7 +60,7 @@
     "en": "Iris Zero"
    },
    "contentRating": "safe",
-   "score": 0.19100356,
+   "score": 0.1894473,
    "languages": [
     "pl",
     "it",
@@ -74,18 +74,30 @@
     "en": "Vampir"
    },
    "contentRating": "safe",
-   "score": 0.1882845,
+   "score": 0.1875096,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1481bb8c-e782-4f95-b638-bf2b449551a1",
+   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
    "title": {
-    "en": "Jigoku no Ashita"
+    "en": "Rewrite: SIDE-R"
    },
    "contentRating": "safe",
-   "score": 0.18784681,
+   "score": 0.18517467,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "89b73d5e-bc60-4cfd-969d-133a76e89ecb",
+   "title": {
+    "en": "Shinomiya Kouta wa Mada Shinenai -Border of the Dead-"
+   },
+   "contentRating": "safe",
+   "score": 0.18482207,
    "languages": [
     "en",
     "vi"
@@ -97,10 +109,22 @@
     "en": "Death Edge"
    },
    "contentRating": "safe",
-   "score": 0.18371816,
+   "score": 0.1838999,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.18323427,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -109,10 +133,21 @@
     "en": "He Was My Brother"
    },
    "contentRating": "safe",
-   "score": 0.17996816,
+   "score": 0.18035291,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "a1f8bce7-08e4-42c4-966c-ed1c0a4ecffb",
+   "title": {
+    "en": "Glittering and Glaring: My Destiny  Romance with Violence"
+   },
+   "contentRating": "safe",
+   "score": 0.1802933,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -127,6 +162,21 @@
     "pt-br",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
+   "title": {
+    "en": "Fushi no Sougishi"
+   },
+   "contentRating": "safe",
+   "score": 0.1764045,
+   "languages": [
+    "vi",
+    "en",
+    "id",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -155,67 +205,16 @@
    ]
   },
   {
-   "id": "c9494b8e-9cf0-4d52-a99c-7db2ef255e73",
+   "id": "e82ce4a8-4b7b-4ada-80ef-85efa33f38be",
    "title": {
-    "en": "Meiou-sama ga Tooru no desu yo!"
+    "en": "Maou ga Inaka ni Totsuidara"
    },
    "contentRating": "safe",
-   "score": 0.17217006,
+   "score": 0.17482202,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "43e0daab-eda3-4ae2-bf2c-5fe4bf19fb7c",
-   "title": {
-    "en": "Koukai no Naraku"
-   },
-   "contentRating": "safe",
-   "score": 0.1708464,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
-   "title": {
-    "en": "Fool Night"
-   },
-   "contentRating": "safe",
-   "score": 0.17033593,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "a2f4703c-e966-4e5b-bb6c-9b663f361173",
-   "title": {
-    "en": "Ware wa Ken-ou!!"
-   },
-   "contentRating": "safe",
-   "score": 0.16989024,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.16954443,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:35+00:00"
+ "updatedAt": "2023-12-10T18:16:12+00:00"
 }

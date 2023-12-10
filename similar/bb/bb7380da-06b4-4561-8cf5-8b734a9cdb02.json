@@ -11,7 +11,7 @@
     "en": "Boku Dake o Mite Kure"
    },
    "contentRating": "suggestive",
-   "score": 0.29665524,
+   "score": 0.29608554,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Utsukushii Kare"
    },
    "contentRating": "suggestive",
-   "score": 0.27606228,
+   "score": 0.2751595,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Kimi to Janakya Koi mo Dekinai"
    },
    "contentRating": "suggestive",
-   "score": 0.2678957,
+   "score": 0.2675642,
    "languages": [
     "en"
    ]
@@ -55,21 +55,10 @@
     "en": "Zenbu Kimi no Sei"
    },
    "contentRating": "suggestive",
-   "score": 0.24198858,
+   "score": 0.24336736,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "b4a74e62-30c7-48b2-8dad-e18e1100efef",
-   "title": {
-    "en": "Dousei Ai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23031825,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -85,9 +74,20 @@
    ]
   },
   {
-   "id": "af28a67b-3731-4daf-9f0a-91fb885f11ba",
+   "id": "b4a74e62-30c7-48b2-8dad-e18e1100efef",
    "title": {
-    "en": "Kami no Fune de Nemuru"
+    "en": "Dousei Ai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23031825,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a98559ca-beab-4ff8-b259-b69d8f0a328e",
+   "title": {
+    "en": "Saikyou Kyoushi"
    },
    "contentRating": "suggestive",
    "score": 0.23031825,
@@ -107,12 +107,23 @@
    ]
   },
   {
-   "id": "a98559ca-beab-4ff8-b259-b69d8f0a328e",
+   "id": "af28a67b-3731-4daf-9f0a-91fb885f11ba",
    "title": {
-    "en": "Saikyou Kyoushi"
+    "en": "Kami no Fune de Nemuru"
    },
    "contentRating": "suggestive",
    "score": 0.23031825,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4067d8f8-8b18-4a1e-a39b-4be66ae6e6cc",
+   "title": {
+    "en": "Lethal Dose of Love"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22796033,
    "languages": [
     "en"
    ]
@@ -141,14 +152,17 @@
    ]
   },
   {
-   "id": "4067d8f8-8b18-4a1e-a39b-4be66ae6e6cc",
+   "id": "e696696e-4aee-4c45-ac8a-caa7ead09ee2",
    "title": {
-    "en": "Lethal Dose of Love"
+    "en": "My Childhood Friend Was a God"
    },
    "contentRating": "suggestive",
-   "score": 0.22796033,
+   "score": 0.22257619,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "it",
+    "tr"
    ]
   },
   {
@@ -157,7 +171,7 @@
     "en": "Killing Line"
    },
    "contentRating": "suggestive",
-   "score": 0.21728407,
+   "score": 0.21701545,
    "languages": [
     "en"
    ]
@@ -172,18 +186,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c4f748f5-9711-4860-9383-ca93b01fc6d0",
-   "title": {
-    "en": "Netsuai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2104103,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:30+00:00"
+ "updatedAt": "2023-12-10T18:29:17+00:00"
 }

@@ -11,20 +11,19 @@
     "en": "No Strategy, No Bullshit."
    },
    "contentRating": "safe",
-   "score": 0.3133017,
+   "score": 0.31358746,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e89d4b05-714f-4e64-8105-4243858909f0",
+   "id": "0cee3ca4-e1a2-4fd0-8e76-f332f06b43c3",
    "title": {
-    "en": "Sono Koi, Damasarete Imasenka?"
+    "en": "Soredemo Hikareau Futari"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "fr",
     "en"
    ]
   },
@@ -42,13 +41,14 @@
    ]
   },
   {
-   "id": "0cee3ca4-e1a2-4fd0-8e76-f332f06b43c3",
+   "id": "e89d4b05-714f-4e64-8105-4243858909f0",
    "title": {
-    "en": "Soredemo Hikareau Futari"
+    "en": "Sono Koi, Damasarete Imasenka?"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "fr",
     "en"
    ]
   },
@@ -58,7 +58,7 @@
     "en": "Love Suicide"
    },
    "contentRating": "safe",
-   "score": 0.2755509,
+   "score": 0.27400517,
    "languages": [
     "en",
     "it",
@@ -73,7 +73,7 @@
     "en": "Love Lunch Time"
    },
    "contentRating": "safe",
-   "score": 0.26707622,
+   "score": 0.2677962,
    "languages": [
     "th",
     "vi",
@@ -87,7 +87,7 @@
     "en": "Masamune-kun no Revenge: Rental Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.26436424,
+   "score": 0.26509348,
    "languages": [
     "th",
     "en",
@@ -100,7 +100,7 @@
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.25887412,
+   "score": 0.25948057,
    "languages": [
     "fr",
     "id",
@@ -114,27 +114,27 @@
    ]
   },
   {
-   "id": "00dfe856-ba57-4a4d-a6a3-3e873a27f98d",
-   "title": {
-    "en": "Hasebe, the Back-Alley Doctor"
-   },
-   "contentRating": "safe",
-   "score": 0.258003,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "c2750bc5-a50b-4e9b-ba22-dcc90dca63c9",
    "title": {
     "en": "Herbivore Girl Paopao-senpai"
    },
    "contentRating": "safe",
-   "score": 0.2579866,
+   "score": 0.258821,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "00dfe856-ba57-4a4d-a6a3-3e873a27f98d",
+   "title": {
+    "en": "Hasebe, the Back-Alley Doctor"
+   },
+   "contentRating": "safe",
+   "score": 0.25768727,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -143,7 +143,7 @@
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.25543636,
+   "score": 0.25504225,
    "languages": [
     "en",
     "vi"
@@ -161,52 +161,56 @@
    ]
   },
   {
-   "id": "ab0421f3-a97b-4d76-8dbe-3bb4c294ef6f",
+   "id": "7c01c790-da04-4a86-8fca-20b9cab6fefa",
    "title": {
-    "en": "Change Boy"
+    "en": "Note wo Otoshita dake nanoni"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "id",
     "en"
    ]
   },
   {
-   "id": "5e29d71a-cc93-4b76-8684-938d7909c951",
+   "id": "69f5bcd1-e733-413f-9a6b-85d34e4c8efd",
    "title": {
-    "en": "My Girlfriend's a BL Author, What Do I Do?"
+    "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "pt-br",
     "en",
-    "vi",
+    "tr"
+   ]
+  },
+  {
+   "id": "c8218590-c812-4f79-9cf5-294070502ed5",
+   "title": {
+    "en": "The Closest We've Ever Been"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "th",
+    "en",
+    "ru",
+    "pt-br",
     "id"
    ]
   },
   {
-   "id": "f0379ab7-1fba-46a4-b4e1-f7781d45095d",
+   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
    "title": {
-    "en": "Higajo no Mon"
+    "en": "Jibun Daisuki Aise-san"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
-   "title": {
-    "en": "Toufuu (Fu)kenbunroku"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
+    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:48+00:00"
+ "updatedAt": "2023-12-10T18:14:02+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Kaze no Yubiwa to Hikari no Udewa"
    },
    "contentRating": "safe",
-   "score": 0.34965104,
+   "score": 0.35269147,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Six AM Love Affair"
    },
    "contentRating": "safe",
-   "score": 0.31711885,
+   "score": 0.31561932,
    "languages": [
     "en",
     "it"
@@ -34,7 +34,7 @@
     "en": "My First Love"
    },
    "contentRating": "safe",
-   "score": 0.31366083,
+   "score": 0.3131929,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Girls' Lives"
    },
    "contentRating": "safe",
-   "score": 0.30106494,
+   "score": 0.30033395,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Bound Love"
    },
    "contentRating": "safe",
-   "score": 0.2951356,
+   "score": 0.29457596,
    "languages": [
     "en",
     "tr",
@@ -69,23 +69,11 @@
     "en": "Wishing on the Moon"
    },
    "contentRating": "safe",
-   "score": 0.28818926,
+   "score": 0.2869037,
    "languages": [
     "en",
     "tr",
     "es"
-   ]
-  },
-  {
-   "id": "d70c0e14-1732-426a-8a51-439dfdff08c4",
-   "title": {
-    "en": "Goodbye Kastor"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "tr",
-    "en"
    ]
   },
   {
@@ -100,6 +88,18 @@
    ]
   },
   {
+   "id": "89bf2017-0be7-4bdd-b83d-66cc146b04fd",
+   "title": {
+    "en": "Alice"
+   },
+   "contentRating": "safe",
+   "score": 0.28382835,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "09cac72c-61ca-43a4-b0ec-9b2e78430eb4",
    "title": {
     "en": "P=NP?"
@@ -108,6 +108,17 @@
    "score": 0.28382835,
    "languages": [
     "tr"
+   ]
+  },
+  {
+   "id": "3d6a76cc-6a45-4212-9e44-af59140ef2ea",
+   "title": {
+    "en": "Friends"
+   },
+   "contentRating": "safe",
+   "score": 0.28382835,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -128,25 +139,40 @@
    ]
   },
   {
-   "id": "3d6a76cc-6a45-4212-9e44-af59140ef2ea",
+   "id": "d70c0e14-1732-426a-8a51-439dfdff08c4",
    "title": {
-    "en": "Friends"
+    "en": "Goodbye Kastor"
    },
    "contentRating": "safe",
    "score": 0.28382835,
    "languages": [
+    "tr",
     "en"
    ]
   },
   {
-   "id": "89bf2017-0be7-4bdd-b83d-66cc146b04fd",
+   "id": "4f5f5117-e06f-4bf5-bc7e-8fbcd4dfbafb",
    "title": {
-    "en": "Alice"
+    "en": "Liberty"
    },
    "contentRating": "safe",
-   "score": 0.28382835,
+   "score": 0.2717099,
    "languages": [
-    "es-la",
+    "en",
+    "es",
+    "it",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "75b49f78-bb1e-481a-93ec-7f8a8331e8f2",
+   "title": {
+    "en": "Yume no Naka de Kimi wo Sagashite"
+   },
+   "contentRating": "safe",
+   "score": 0.27120602,
+   "languages": [
     "en"
    ]
   },
@@ -156,7 +182,7 @@
     "en": "Only Need to Love Once"
    },
    "contentRating": "safe",
-   "score": 0.26670575,
+   "score": 0.26599368,
    "languages": [
     "en",
     "pt-br",
@@ -171,36 +197,12 @@
     "en": "That's Puberty For You ❤"
    },
    "contentRating": "safe",
-   "score": 0.2643853,
+   "score": 0.26359144,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "1de44b9c-29b2-4c21-b4f7-baaa36cebef9",
-   "title": {
-    "en": "Dear My Teacher"
-   },
-   "contentRating": "safe",
-   "score": 0.2636927,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e8c3b94-566d-4f61-9f21-1deb1901c739",
-   "title": {
-    "en": "Nakasete? Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.26242754,
-   "languages": [
-    "ru",
-    "en",
-    "th"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:48+00:00"
+ "updatedAt": "2023-12-10T18:30:02+00:00"
 }

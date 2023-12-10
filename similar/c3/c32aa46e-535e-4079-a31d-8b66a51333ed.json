@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.2463816,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "45013df7-7a13-429b-acd2-53a086b2ef92",
    "title": {
     "en": "Atrocious Fairy Tales for Adults"
@@ -17,15 +30,39 @@
    ]
   },
   {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.22048701,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
    "title": {
     "en": "Koaka Head"
    },
    "contentRating": "safe",
-   "score": 0.2147087,
+   "score": 0.21327867,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "3fe2a894-23da-4b36-a429-6c80e40a6162",
+   "title": {
+    "en": "Seishun Protagonist"
+   },
+   "contentRating": "safe",
+   "score": 0.20621817,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -34,7 +71,7 @@
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.2039777,
+   "score": 0.20508572,
    "languages": [
     "en"
    ]
@@ -51,12 +88,24 @@
    ]
   },
   {
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
+   "title": {
+    "en": "Yorukumo"
+   },
+   "contentRating": "safe",
+   "score": 0.20167112,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
    "title": {
     "en": "Sorairo Square."
    },
    "contentRating": "safe",
-   "score": 0.20146504,
+   "score": 0.20094748,
    "languages": [
     "en"
    ]
@@ -67,7 +116,7 @@
     "en": "【Oshi no Ko】"
    },
    "contentRating": "safe",
-   "score": 0.20003134,
+   "score": 0.19957997,
    "languages": [
     "fr",
     "en",
@@ -87,17 +136,6 @@
    ]
   },
   {
-   "id": "403721a8-0793-431f-b47c-89eb04f402ae",
-   "title": {
-    "en": "Ousama Game - Kigen"
-   },
-   "contentRating": "safe",
-   "score": 0.19919543,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
    "title": {
     "en": "She’s Coming Tonight"
@@ -110,87 +148,34 @@
    ]
   },
   {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
+   "id": "403721a8-0793-431f-b47c-89eb04f402ae",
    "title": {
-    "en": "Iris Zero"
+    "en": "Ousama Game - Kigen"
    },
    "contentRating": "safe",
-   "score": 0.18413082,
+   "score": 0.19864562,
    "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
+    "es-la"
    ]
   },
   {
-   "id": "3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
    "title": {
-    "en": "Awajima Hyakkei"
+    "en": "Material Polka"
    },
    "contentRating": "safe",
-   "score": 0.18383737,
+   "score": 0.1980692,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "43e0daab-eda3-4ae2-bf2c-5fe4bf19fb7c",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "Koukai no Naraku"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
-   "score": 0.17665982,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
-   "title": {
-    "en": "I Love You, Kyouko-san."
-   },
-   "contentRating": "safe",
-   "score": 0.17255512,
-   "languages": [
-    "en",
-    "zh-hk",
-    "id",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f556bf5c-1035-47b7-8ef2-416f28cb5e91",
-   "title": {
-    "en": "Marriage Royale"
-   },
-   "contentRating": "safe",
-   "score": 0.17208688,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
-   "title": {
-    "en": "Saki: Achiga-hen - episode of side-A"
-   },
-   "contentRating": "safe",
-   "score": 0.17085302,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bed2ef5e-99b1-4809-8f65-5866391f839b",
-   "title": {
-    "en": "The Gender of Mona Lisa"
-   },
-   "contentRating": "safe",
-   "score": 0.1674616,
+   "score": 0.19471695,
    "languages": [
     "es-la",
     "en",
@@ -198,16 +183,28 @@
    ]
   },
   {
-   "id": "286da3e0-4981-42b1-9f8f-c59a7e91d3de",
+   "id": "5bcaec47-4a25-4ffb-a127-dcc485b63328",
    "title": {
-    "en": "Shoujo Fight"
+    "en": "Class de In-cha no Ore ga Jitsu wa Daininki Band no Vocal na Ken"
    },
    "contentRating": "safe",
-   "score": 0.1670812,
+   "score": 0.1847292,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
+   "title": {
+    "en": "Kono Ko Shirimasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.18434133,
+   "languages": [
+    "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:48+00:00"
+ "updatedAt": "2023-12-10T18:30:03+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Toilet-bound Hanako-kun"
    },
    "contentRating": "safe",
-   "score": 0.23204885,
+   "score": 0.23125093,
    "languages": [
     "vi",
     "ru",
@@ -30,7 +30,7 @@
     "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.2181282,
+   "score": 0.22010006,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "R the Ultimate Superman"
    },
    "contentRating": "safe",
-   "score": 0.21588396,
+   "score": 0.21973081,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "Yotsuba\u0026!"
    },
    "contentRating": "safe",
-   "score": 0.20949881,
+   "score": 0.21196291,
    "languages": [
     "pt-br",
     "ru",
@@ -66,12 +66,29 @@
    ]
   },
   {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.20412305,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
    "id": "587d905c-7b4a-401b-a23b-946535ce4d5d",
    "title": {
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.20000659,
+   "score": 0.20269327,
    "languages": [
     "en"
    ]
@@ -82,7 +99,7 @@
     "en": "Ojisama to Neko"
    },
    "contentRating": "safe",
-   "score": 0.19734113,
+   "score": 0.19990906,
    "languages": [
     "ru",
     "pt-br",
@@ -94,12 +111,32 @@
    ]
   },
   {
+   "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+   "title": {
+    "en": "Blue Box"
+   },
+   "contentRating": "safe",
+   "score": 0.19864038,
+   "languages": [
+    "vi",
+    "fr",
+    "pt-br",
+    "id",
+    "tr",
+    "ro",
+    "en",
+    "es-la",
+    "th",
+    "hu"
+   ]
+  },
+  {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
    "title": {
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.19480361,
+   "score": 0.19541971,
    "languages": [
     "en",
     "fr",
@@ -109,25 +146,12 @@
    ]
   },
   {
-   "id": "b34fd04a-eadb-4462-8d97-94980083ed25",
-   "title": {
-    "en": "Dragon Ball SD"
-   },
-   "contentRating": "safe",
-   "score": 0.19040893,
-   "languages": [
-    "en",
-    "it",
-    "pl"
-   ]
-  },
-  {
    "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
    "title": {
     "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.1881272,
+   "score": 0.19405313,
    "languages": [
     "pt-br",
     "en",
@@ -144,7 +168,7 @@
     "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.18797922,
+   "score": 0.19227113,
    "languages": [
     "ru",
     "pt-br",
@@ -157,47 +181,27 @@
    ]
   },
   {
+   "id": "b34fd04a-eadb-4462-8d97-94980083ed25",
+   "title": {
+    "en": "Dragon Ball SD"
+   },
+   "contentRating": "safe",
+   "score": 0.19040893,
+   "languages": [
+    "en",
+    "it",
+    "pl"
+   ]
+  },
+  {
    "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
    "title": {
     "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.184025,
+   "score": 0.18701403,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
-   "title": {
-    "en": "Dragon Quest: Sora in the Blue Sky"
-   },
-   "contentRating": "safe",
-   "score": 0.18270536,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.18121037,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
    ]
   },
   {
@@ -206,7 +210,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.18118897,
+   "score": 0.18307063,
    "languages": [
     "ru",
     "vi",
@@ -223,12 +227,23 @@
    ]
   },
   {
+   "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
+   "title": {
+    "en": "Dragon Quest: Sora in the Blue Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.18270536,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cc1b8669-82b2-4232-99c1-40d48fc2d988",
    "title": {
     "en": "Undead Unluck"
    },
    "contentRating": "safe",
-   "score": 0.1795876,
+   "score": 0.18128976,
    "languages": [
     "ru",
     "fr",
@@ -240,18 +255,7 @@
     "fa",
     "id"
    ]
-  },
-  {
-   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
-   "title": {
-    "en": "Ultra Marriage Galaxy"
-   },
-   "contentRating": "safe",
-   "score": 0.17491017,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:01+00:00"
+ "updatedAt": "2023-12-10T18:19:57+00:00"
 }

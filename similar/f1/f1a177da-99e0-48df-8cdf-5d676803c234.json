@@ -6,20 +6,20 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "8524e4a8-ffab-4646-8e2f-e3db65e1d04b",
-   "title": {
-    "en": "Sword Spirit's Cohabitation Diary"
-   },
-   "contentRating": "suggestive",
-   "score": 0.27092674
-  },
-  {
    "id": "9121f286-441f-4793-ad06-18e14f8bf1f3",
    "title": {
     "en": "Nostalgia World Online"
    },
    "contentRating": "suggestive",
-   "score": 0.26908344
+   "score": 0.2685791
+  },
+  {
+   "id": "8524e4a8-ffab-4646-8e2f-e3db65e1d04b",
+   "title": {
+    "en": "Sword Spirit's Cohabitation Diary"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2677261
   },
   {
    "id": "43f2cb51-b4d5-4859-a768-848fe46c318a",
@@ -27,7 +27,7 @@
     "en": "Hisshou Dungeon Unei Houhou"
    },
    "contentRating": "suggestive",
-   "score": 0.24651183,
+   "score": 0.24023782,
    "languages": [
     "en",
     "ru",
@@ -41,7 +41,7 @@
     "en": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
    },
    "contentRating": "suggestive",
-   "score": 0.2379937,
+   "score": 0.23724492,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "Blade Skill Online: Gomi Shokugyou de Saijaku Bukide Kuso Status no Ore, Itsunomanika \"Last Boss\" ni Nariagarimasu!"
    },
    "contentRating": "suggestive",
-   "score": 0.23547167,
+   "score": 0.23535237,
    "languages": [
     "en",
     "id"
@@ -64,7 +64,7 @@
     "en": "The Real Other World I Logged Out From There, Not a VRMMO"
    },
    "contentRating": "suggestive",
-   "score": 0.23235202
+   "score": 0.23204419
   },
   {
    "id": "66f1298e-68c0-4cc8-9a9d-640104092bf5",
@@ -81,17 +81,6 @@
    ]
   },
   {
-   "id": "74c5a46f-186c-4442-82a9-9612465e5ebf",
-   "title": {
-    "en": "Kami Skill (Kokyuu) Suru Dake De Level Up Suru Boku Wa, Kamigami No Dungeon E Idomu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22663414,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2981ae90-8133-47dc-92bc-29e902cd0ded",
    "title": {
     "en": "Xanadu: Legend of the Dragon Slayer"
@@ -100,12 +89,23 @@
    "score": 0.22587697
   },
   {
+   "id": "74c5a46f-186c-4442-82a9-9612465e5ebf",
+   "title": {
+    "en": "Kami Skill (Kokyuu) Suru Dake De Level Up Suru Boku Wa, Kamigami No Dungeon E Idomu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22577375,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a2320293-f00e-43a0-8d08-1110cf26a894",
    "title": {
     "en": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru."
    },
    "contentRating": "suggestive",
-   "score": 0.21998768,
+   "score": 0.21963356,
    "languages": [
     "en",
     "es-la"
@@ -117,7 +117,7 @@
     "en": "Ore Dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou"
    },
    "contentRating": "suggestive",
-   "score": 0.21749835,
+   "score": 0.21661498,
    "languages": [
     "pt-br",
     "ru",
@@ -132,7 +132,7 @@
     "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka - Familia Chronicle: Episode Freya"
    },
    "contentRating": "suggestive",
-   "score": 0.21401513,
+   "score": 0.21377183,
    "languages": [
     "en",
     "it",
@@ -141,12 +141,20 @@
    ]
   },
   {
+   "id": "5e85e5c1-40d5-44f1-9eaa-f3744f626768",
+   "title": {
+    "en": "Tensei Saki wa Kaifuku no Izumi no Naka ~Kurushikute mo Shinenai Jigoku wo Norikoeta Ore wa Sekai Saikyou~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20992179
+  },
+  {
    "id": "13e0a7a7-ed1f-4e1f-8ed0-00443f7c134a",
    "title": {
     "en": "Mowang Yu Yongzhe Yu Sheng Jian Shendian"
    },
    "contentRating": "suggestive",
-   "score": 0.21216519,
+   "score": 0.20968397,
    "languages": [
     "en"
    ]
@@ -157,19 +165,11 @@
     "en": "Gakuen Dragon Slayer"
    },
    "contentRating": "suggestive",
-   "score": 0.2120687,
+   "score": 0.20888095,
    "languages": [
     "it",
     "en"
    ]
-  },
-  {
-   "id": "5e85e5c1-40d5-44f1-9eaa-f3744f626768",
-   "title": {
-    "en": "Tensei Saki wa Kaifuku no Izumi no Naka ~Kurushikute mo Shinenai Jigoku wo Norikoeta Ore wa Sekai Saikyou~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21015316
   },
   {
    "id": "9dbd08c3-a4ed-4fa3-82e2-18a400f80627",
@@ -177,12 +177,12 @@
     "en": "Nimotsu Mochi no Nousuji Musou"
    },
    "contentRating": "suggestive",
-   "score": 0.20657787,
+   "score": 0.20608172,
    "languages": [
     "en",
     "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:44+00:00"
+ "updatedAt": "2023-12-10T18:34:52+00:00"
 }

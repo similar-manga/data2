@@ -11,7 +11,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.32735795,
+   "score": 0.33153108,
    "languages": [
     "pt-br",
     "es",
@@ -30,8 +30,20 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.25797942,
+   "score": 0.25931135,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
+   "title": {
+    "en": "High Energy Core"
+   },
+   "contentRating": "safe",
+   "score": 0.24953271,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -41,7 +53,7 @@
     "en": "Sentai Daishikkaku"
    },
    "contentRating": "safe",
-   "score": 0.24576142,
+   "score": 0.24322242,
    "languages": [
     "pt-br",
     "en",
@@ -54,24 +66,12 @@
    ]
   },
   {
-   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
-   "title": {
-    "en": "High Energy Core"
-   },
-   "contentRating": "safe",
-   "score": 0.24472731,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
    "title": {
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.24181052,
+   "score": 0.24092488,
    "languages": [
     "en"
    ]
@@ -82,7 +82,7 @@
     "en": "Mobile Suit Zeta Gundam Define"
    },
    "contentRating": "safe",
-   "score": 0.22775891,
+   "score": 0.22761904,
    "languages": [
     "en"
    ]
@@ -93,7 +93,7 @@
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.22575523,
+   "score": 0.22605288,
    "languages": [
     "en"
    ]
@@ -104,7 +104,7 @@
     "en": "Barefoot Gen"
    },
    "contentRating": "safe",
-   "score": 0.22432296,
+   "score": 0.22382662,
    "languages": [
     "en"
    ]
@@ -115,21 +115,10 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.22318451,
+   "score": 0.22254123,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.21986236,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -138,7 +127,18 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.21962973,
+   "score": 0.22082786,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.21880652,
    "languages": [
     "en"
    ]
@@ -149,7 +149,7 @@
     "en": "Mobile Suit Gundam NT (NARRATIVE)"
    },
    "contentRating": "safe",
-   "score": 0.2176833,
+   "score": 0.21694663,
    "languages": [
     "en"
    ]
@@ -160,7 +160,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.2162474,
+   "score": 0.21558623,
    "languages": [
     "it",
     "id",
@@ -176,7 +176,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.21126696,
+   "score": 0.2119546,
    "languages": [
     "pt-br",
     "fr",
@@ -190,27 +190,32 @@
    ]
   },
   {
-   "id": "f8aa7ce7-e951-428d-9494-000002b34237",
+   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
    "title": {
-    "en": "Geniearth"
+    "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.21107708,
+   "score": 0.21068478,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "pl",
+    "es-la",
+    "de",
+    "tr"
    ]
   },
   {
-   "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
+   "id": "08c93044-cc1d-4016-8ef5-c36bd5ebc5d7",
    "title": {
-    "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
+    "en": "Ultra Marriage Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.20966172,
+   "score": 0.21059997,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:16+00:00"
+ "updatedAt": "2023-12-10T18:33:43+00:00"
 }

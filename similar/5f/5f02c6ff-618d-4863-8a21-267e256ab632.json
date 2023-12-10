@@ -25,14 +25,6 @@
    ]
   },
   {
-   "id": "6a53b870-1a36-44a7-a676-ad08caefb800",
-   "title": {
-    "en": "Dame Oyaji"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16297083
-  },
-  {
    "id": "4cbcf157-ef13-4f3e-8de1-c2febe21a5c9",
    "title": {
     "en": "Mobile Suit Zeta Gundam Sayonara"
@@ -50,6 +42,14 @@
    },
    "contentRating": "suggestive",
    "score": 0.16222142
+  },
+  {
+   "id": "6a53b870-1a36-44a7-a676-ad08caefb800",
+   "title": {
+    "en": "Dame Oyaji"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16184181
   },
   {
    "id": "8df2eede-b88b-4528-b668-77159a7661a3",
@@ -72,20 +72,12 @@
    "score": 0.15294383
   },
   {
-   "id": "58699618-0883-410b-adaa-922838731f2d",
-   "title": {
-    "en": "Drakuun - Ryūkihei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14898628
-  },
-  {
    "id": "28c77530-dfa1-4b05-8ec3-998960ba24d4",
    "title": {
     "en": "Otomege Sekai wa Mob ni Kibishii Sekai desu"
    },
    "contentRating": "suggestive",
-   "score": 0.14542958,
+   "score": 0.14456709,
    "languages": [
     "it",
     "pt-br",
@@ -101,12 +93,12 @@
    ]
   },
   {
-   "id": "066c6d2a-d6a5-4735-9ff7-2b0666966e98",
+   "id": "58699618-0883-410b-adaa-922838731f2d",
    "title": {
-    "en": "Star Lord of God"
+    "en": "Drakuun - Ryūkihei"
    },
    "contentRating": "suggestive",
-   "score": 0.14048788
+   "score": 0.14159846
   },
   {
    "id": "65215b33-d402-4847-8d6b-7e247f76b44e",
@@ -118,6 +110,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "066c6d2a-d6a5-4735-9ff7-2b0666966e98",
+   "title": {
+    "en": "Star Lord of God"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14048788
   },
   {
    "id": "815eaaf1-51ff-4c18-8af2-0972147e4309",
@@ -133,15 +133,7 @@
     "en": "Burai The Kid"
    },
    "contentRating": "suggestive",
-   "score": 0.13790148
-  },
-  {
-   "id": "a19744cb-143e-4cfd-8627-385d66aec964",
-   "title": {
-    "en": "Gun Driver"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13758555
+   "score": 0.13793263
   },
   {
    "id": "3f003932-49a3-4a30-9653-701b79b026aa",
@@ -149,7 +141,15 @@
     "en": "The King of Fighters '94"
    },
    "contentRating": "suggestive",
-   "score": 0.1373123
+   "score": 0.1374284
+  },
+  {
+   "id": "a19744cb-143e-4cfd-8627-385d66aec964",
+   "title": {
+    "en": "Gun Driver"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13727944
   },
   {
    "id": "cc357586-5c2e-4834-8cb1-de870cf933ae",
@@ -160,5 +160,5 @@
    "score": 0.13718371
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:38+00:00"
 }

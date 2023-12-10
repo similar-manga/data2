@@ -6,15 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cf87e6da-56b3-42d1-acf4-3c545e326072",
+   "id": "c016374f-4670-4d80-9299-46cea9a567ae",
    "title": {
-    "en": "A Story with an Absolute Bad End"
+    "en": "Bad Guy"
    },
    "contentRating": "safe",
-   "score": 0.25734684,
+   "score": 0.27726477,
    "languages": [
     "en",
-    "id"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
+   "title": {
+    "en": "Red House"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "fr",
+    "ro",
+    "pt-br",
+    "en",
+    "de",
+    "pl"
    ]
   },
   {
@@ -46,19 +62,78 @@
    ]
   },
   {
-   "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
+   "id": "8541a27c-8a0b-4b82-a229-e3cadb673041",
    "title": {
-    "en": "Red House"
+    "en": "Death Field"
    },
    "contentRating": "safe",
    "score": 0.25509605,
    "languages": [
+    "ru",
+    "it",
     "fr",
-    "ro",
-    "pt-br",
     "en",
-    "de",
-    "pl"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "cf87e6da-56b3-42d1-acf4-3c545e326072",
+   "title": {
+    "en": "A Story with an Absolute Bad End"
+   },
+   "contentRating": "safe",
+   "score": 0.25237474,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "b4f06043-150b-4b36-a45b-53349cab97fc",
+   "title": {
+    "en": "Bizenghast"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "759c4b10-af8f-4e0a-ae1d-1be33a34080f",
+   "title": {
+    "en": "Fly - Tondemo Teleport Girl Yumi"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "09b6eec8-adcb-4813-90c6-ee5f1e209083",
+   "title": {
+    "en": "Hen na Ie"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -67,7 +142,18 @@
     "en": "Honogurai Mizu no Soko kara"
    },
    "contentRating": "safe",
-   "score": 0.24759327,
+   "score": 0.24843617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.24196793,
    "languages": [
     "en"
    ]
@@ -78,132 +164,45 @@
     "en": "Tale of the Nameless Children — NoNameD"
    },
    "contentRating": "safe",
-   "score": 0.24080604,
+   "score": 0.24058136,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "08e503f6-2ec1-488d-bc25-3b3222524296",
+   "id": "6df8030d-8170-4f91-a89c-ace4f10a7176",
    "title": {
-    "en": "Killer Dream"
+    "en": "Extreme Fear"
    },
    "contentRating": "safe",
-   "score": 0.21896073,
+   "score": 0.23893677,
    "languages": [
-    "fr",
-    "ar",
-    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "d3ddbc36-1293-402a-9089-253168bdcff3",
+   "title": {
+    "en": "Tesso no Ori"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d7fee4a-41cf-4f9f-9d68-dc4bc4834016",
+   "title": {
+    "en": "Ghost Story Loop"
+   },
+   "contentRating": "safe",
+   "score": 0.22986461,
+   "languages": [
     "en",
-    "tr",
     "id"
-   ]
-  },
-  {
-   "id": "18a5117e-1cc1-406b-820a-417503886de7",
-   "title": {
-    "en": "Aphorism"
-   },
-   "contentRating": "safe",
-   "score": 0.2174789,
-   "languages": [
-    "pl",
-    "en",
-    "de",
-    "es"
-   ]
-  },
-  {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
-   "title": {
-    "en": "Kokushi no Shima"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f3fb4701-4958-4a92-8529-59f3cb99f938",
-   "title": {
-    "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
-   "title": {
-    "en": "Peephole"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "f22f4bf8-11da-4f21-a63d-89eea1bf08c1",
-   "title": {
-    "en": "Black Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c909df0-09c3-4462-8e88-614cdf52018c",
-   "title": {
-    "en": "The Looming Figure"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0245ccce-fa98-4881-b882-96a7c8552eac",
-   "title": {
-    "en": "Fork in the Road"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "it",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "cfdc5375-facb-477a-a229-d75a7d326064",
-   "title": {
-    "en": "Message"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a0e8517-749c-4f86-b31c-3fbb32ed1c84",
-   "title": {
-    "en": "Mist no Kaiboroku"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:02+00:00"
+ "updatedAt": "2023-12-10T18:09:06+00:00"
 }

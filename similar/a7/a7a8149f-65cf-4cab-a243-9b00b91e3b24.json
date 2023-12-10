@@ -11,21 +11,9 @@
     "en": "The Gods of Laughter: The Final Chapter"
    },
    "contentRating": "safe",
-   "score": 0.24864961,
+   "score": 0.2585901,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
-   "title": {
-    "en": "Momomoke Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.21893208,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -34,7 +22,7 @@
     "en": "Hunter x Hunter"
    },
    "contentRating": "safe",
-   "score": 0.2136787,
+   "score": 0.25515673,
    "languages": [
     "pl",
     "en",
@@ -54,28 +42,84 @@
     "en": "Memories with Oda-san's Manga!"
    },
    "contentRating": "safe",
-   "score": 0.2091945,
+   "score": 0.23654902,
    "languages": [
     "en",
     "ca"
    ]
   },
   {
-   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+   "id": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
    "title": {
-    "en": "Mao"
+    "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
    },
    "contentRating": "safe",
-   "score": 0.20805751,
+   "score": 0.21945839,
    "languages": [
     "en",
-    "pt-br",
-    "zh-hk",
-    "ca",
-    "zh",
-    "pl",
     "ru",
-    "es"
+    "pt-br",
+    "pl",
+    "ar",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
+   "title": {
+    "en": "Momomoke Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.21498853,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f2e91f99-6c3b-4a66-a3f7-9da13f68c416",
+   "title": {
+    "en": "Ragna Crimson"
+   },
+   "contentRating": "safe",
+   "score": 0.21364981,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "ru",
+    "es",
+    "ar",
+    "id"
+   ]
+  },
+  {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.21177109,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.20798822,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -90,12 +134,30 @@
    ]
   },
   {
+   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+   "title": {
+    "en": "Mao"
+   },
+   "contentRating": "safe",
+   "score": 0.20689316,
+   "languages": [
+    "en",
+    "pt-br",
+    "zh-hk",
+    "ca",
+    "zh",
+    "pl",
+    "ru",
+    "es"
+   ]
+  },
+  {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
    "title": {
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.20726192,
+   "score": 0.206732,
    "languages": [
     "ru",
     "tr",
@@ -108,12 +170,49 @@
    ]
   },
   {
+   "id": "474f4e95-7731-4d92-badb-bfd52e601df0",
+   "title": {
+    "en": "Lisa's Table of Inedibles"
+   },
+   "contentRating": "safe",
+   "score": 0.20311631,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1d2e905c-09a5-40ff-b0b6-7fca01c817c1",
+   "title": {
+    "en": "Dream Life: Yume no Isekai Seikatsu"
+   },
+   "contentRating": "safe",
+   "score": 0.19888102,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8352a9ca-22e0-4a1c-bf1f-89f23d95262a",
+   "title": {
+    "en": "Tondemo Skill de Isekai Hourou Meshi"
+   },
+   "contentRating": "safe",
+   "score": 0.19852528,
+   "languages": [
+    "en",
+    "fr",
+    "es-la",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
    "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
    "title": {
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.19786786,
+   "score": 0.19763204,
    "languages": [
     "en"
    ]
@@ -134,95 +233,7 @@
     "it",
     "ru"
    ]
-  },
-  {
-   "id": "e02341d5-a4ca-46d2-ad62-1a0c789f3645",
-   "title": {
-    "en": "Mr. Mobile Suit Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.19611157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
-   "title": {
-    "en": "Valkyrie Profile 2"
-   },
-   "contentRating": "safe",
-   "score": 0.19554807,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b9bea559-b3e2-4459-80aa-73fac6c3e7bf",
-   "title": {
-    "en": "Meiten Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.19302507,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5f709f1b-e481-4e73-86d8-92369545d6f4",
-   "title": {
-    "en": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!"
-   },
-   "contentRating": "safe",
-   "score": 0.18926837,
-   "languages": [
-    "th",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
-   "title": {
-    "en": "Pokémon"
-   },
-   "contentRating": "safe",
-   "score": 0.189015,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dace5c92-43cd-4051-b5b2-8119a9110107",
-   "title": {
-    "en": "Red Hood (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.18882424,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
-   "title": {
-    "en": "Thus Spoke Rohan Kishibe"
-   },
-   "contentRating": "safe",
-   "score": 0.18766463,
-   "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "it",
-    "pt-br",
-    "id",
-    "ru",
-    "zh"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:40+00:00"
+ "updatedAt": "2023-12-10T18:27:01+00:00"
 }

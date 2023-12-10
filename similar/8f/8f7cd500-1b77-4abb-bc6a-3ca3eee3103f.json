@@ -11,7 +11,7 @@
     "en": "Lady Detective"
    },
    "contentRating": "safe",
-   "score": 0.25741395,
+   "score": 0.25709057,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Soleil"
    },
    "contentRating": "safe",
-   "score": 0.24125355,
+   "score": 0.24121621,
    "languages": [
     "en",
     "bg",
@@ -46,9 +46,22 @@
     "en": "Nandemo Arisa"
    },
    "contentRating": "safe",
-   "score": 0.23365277,
+   "score": 0.23356238,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f83f3629-415a-4f27-9952-d9490624b030",
+   "title": {
+    "en": "Barairo no Yakusoku"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pl",
+    "es-la"
    ]
   },
   {
@@ -68,7 +81,7 @@
     "en": "Doyou Wide Club e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.22700071,
+   "score": 0.22636428,
    "languages": [
     "en"
    ]
@@ -87,6 +100,28 @@
    ]
   },
   {
+   "id": "979af063-321a-4459-bf71-a0f7d2f0ce9d",
+   "title": {
+    "en": "I Will Not Get Married"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7dc1b113-f82e-47a6-aedd-593f032a14ea",
+   "title": {
+    "en": "Katsuben Ouji no Hanayome-san"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1818f6c8-ef24-4495-b8e1-3ed172441aae",
    "title": {
     "en": "Sono Te wa Atatakai"
@@ -99,9 +134,9 @@
    ]
   },
   {
-   "id": "f5a6063b-75bc-4051-af17-9427392ea64a",
+   "id": "aef6086c-092e-4475-b6e6-f59e776ef916",
    "title": {
-    "en": "Mitsuba Ouji to Ibara no Shukujo"
+    "en": "Touran Merry Rose"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -110,9 +145,20 @@
    ]
   },
   {
-   "id": "aef6086c-092e-4475-b6e6-f59e776ef916",
+   "id": "175a491a-9be4-4456-a424-055dda222aca",
    "title": {
-    "en": "Touran Merry Rose"
+    "en": "Li Ren Man"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f5a6063b-75bc-4051-af17-9427392ea64a",
+   "title": {
+    "en": "Mitsuba Ouji to Ibara no Shukujo"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -135,55 +181,9 @@
    ]
   },
   {
-   "id": "175a491a-9be4-4456-a424-055dda222aca",
+   "id": "712ba0c7-b3cc-41c7-a7a0-acb9eb174fe6",
    "title": {
-    "en": "Li Ren Man"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "34af5093-d70f-4bcc-b577-1b559822e3f8",
-   "title": {
-    "en": "Himitsu no Sakana-pan"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "468f56e2-6a7f-4cef-a873-51729ecf4050",
-   "title": {
-    "en": "Kawaii Oresama"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en",
-    "bg",
-    "pl"
-   ]
-  },
-  {
-   "id": "9b626116-ce75-445a-a63e-553f5e9d8937",
-   "title": {
-    "en": "Girl's☆Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bc178865-36da-4914-8a43-8978501ec91f",
-   "title": {
-    "en": "Why Not"
+    "en": "Gift"
    },
    "contentRating": "safe",
    "score": 0.21483447,
@@ -192,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:38+00:00"
+ "updatedAt": "2023-12-10T18:24:12+00:00"
 }

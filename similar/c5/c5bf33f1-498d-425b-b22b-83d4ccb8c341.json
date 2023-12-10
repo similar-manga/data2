@@ -6,15 +6,54 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fbf95c63-dc64-4518-9ed8-362805165fd6",
+   "title": {
+    "en": "Isekai Yururi Kikou"
+   },
+   "contentRating": "safe",
+   "score": 0.33815917,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "id",
+    "ru"
+   ]
+  },
+  {
+   "id": "cdfa03bf-ae04-48b3-835c-997ee981ecb9",
+   "title": {
+    "en": "The Strongest and Fastest Unlimited Level Up: With the Skills [1000x Exp] and [Level Free], I Broke the Upper Level Limit and Rose to the Top!"
+   },
+   "contentRating": "safe",
+   "score": 0.32635176,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
    "title": {
     "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
    },
    "contentRating": "safe",
-   "score": 0.33181822,
+   "score": 0.32619852,
    "languages": [
     "id",
     "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "139f1064-0b65-4d19-9dc1-27b9019dec35",
+   "title": {
+    "en": "Level Drain"
+   },
+   "contentRating": "safe",
+   "score": 0.3240389,
+   "languages": [
     "en",
     "fr"
    ]
@@ -25,7 +64,7 @@
     "en": "Tensei Kizoku no Isekai Boukenroku ~Jichou wo Shiranai Kamigami no Shito~"
    },
    "contentRating": "safe",
-   "score": 0.32190758,
+   "score": 0.31821734,
    "languages": [
     "id",
     "en",
@@ -36,17 +75,19 @@
    ]
   },
   {
-   "id": "a21eab2d-781d-40b2-a666-7b2d72551927",
+   "id": "babc3f06-f618-487b-be06-c213ea75f489",
    "title": {
-    "en": "Akuninzura shita B-kyuu Boukensha"
+    "en": "Isekai Cheat Magician"
    },
    "contentRating": "safe",
-   "score": 0.31727472,
+   "score": 0.31691182,
    "languages": [
-    "it",
-    "pt-br",
+    "en",
     "id",
-    "en"
+    "it",
+    "ru",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -55,7 +96,7 @@
     "en": "Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.31727186,
+   "score": 0.3122322,
    "languages": [
     "fr",
     "en",
@@ -63,15 +104,42 @@
    ]
   },
   {
-   "id": "ded667f1-a499-4805-b930-2b06d138aca5",
+   "id": "77a51837-c2d0-479d-9de8-25942b404d4f",
    "title": {
-    "en": "Kuroneko Nyango no Bouken ~ Rare Zokusei o Hikiatetanode, Kimamana Bouken-sha o Mezashimasu ~"
+    "en": "Ishura - Shin Maou Sensou"
    },
    "contentRating": "safe",
-   "score": 0.31504467,
+   "score": 0.31217736,
    "languages": [
     "en",
-    "pl"
+    "vi"
+   ]
+  },
+  {
+   "id": "32ee048e-c84a-4478-bfbb-af134ee99200",
+   "title": {
+    "en": "Isekai Nation Archimaira: The Weakest King and his Unparalleled Army"
+   },
+   "contentRating": "safe",
+   "score": 0.31132573,
+   "languages": [
+    "en",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "a21eab2d-781d-40b2-a666-7b2d72551927",
+   "title": {
+    "en": "Akuninzura shita B-kyuu Boukensha"
+   },
+   "contentRating": "safe",
+   "score": 0.31014305,
+   "languages": [
+    "it",
+    "pt-br",
+    "id",
+    "en"
    ]
   },
   {
@@ -80,9 +148,52 @@
     "en": "Isekai de Item Collector"
    },
    "contentRating": "safe",
-   "score": 0.31211105,
+   "score": 0.30978793,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0fa5dab2-250a-4f69-bd15-9ceea54176fa",
+   "title": {
+    "en": "Assassin de Aru Ore no Sutetasu ga Yuusha Yori mo Akiraka ni Tsuyoi Nodaga"
+   },
+   "contentRating": "safe",
+   "score": 0.30867583,
+   "languages": [
+    "it",
+    "en",
+    "pt-br",
+    "tr",
+    "zh-hk",
+    "ru",
+    "id",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "ded667f1-a499-4805-b930-2b06d138aca5",
+   "title": {
+    "en": "Kuroneko Nyango no Bouken ~ Rare Zokusei o Hikiatetanode, Kimamana Bouken-sha o Mezashimasu ~"
+   },
+   "contentRating": "safe",
+   "score": 0.30858505,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "80e699b3-b75b-4141-b82b-4dbb5d50f3a0",
+   "title": {
+    "en": "Teihen Boukensha Dakedo Mahou wo Kiwamete Miru Koto ni Shita: Munou Skill kara Kami Skill ni Shinka Shita \"Mahou Souzou\" to \"Item Sakusei\" de Musou Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.30614173,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -91,125 +202,22 @@
     "en": "Isekai Tensei no Boukensha"
    },
    "contentRating": "safe",
-   "score": 0.30577746,
+   "score": 0.30383623,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "585e6941-5cfb-4f06-8813-4343c6c1bd5c",
+   "id": "ec19b836-df48-43ba-b62f-0864d801a1ca",
    "title": {
-    "en": "The World's Fastest Level Up!"
+    "en": "Salaryman no Fushigi na Dungeon"
    },
    "contentRating": "safe",
-   "score": 0.3009164,
+   "score": 0.30177912,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "cbb22826-963e-4602-a5cd-a50c75723d59",
-   "title": {
-    "en": "Maseki Gurume: Mamono no Chikara wo Tabeta Ore wa Saikyou!"
-   },
-   "contentRating": "safe",
-   "score": 0.2959751,
-   "languages": [
-    "es-la",
-    "en",
-    "id",
-    "pt-br",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "9937f7da-7913-49cb-a354-2e4ecd9cbd52",
-   "title": {
-    "en": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
-   },
-   "contentRating": "safe",
-   "score": 0.29468533,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
-   "title": {
-    "en": "Monogatari no Kuromaku ni Tensei Shite"
-   },
-   "contentRating": "safe",
-   "score": 0.29378515,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "032f800d-d632-4442-8830-d037d616ead4",
-   "title": {
-    "en": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru"
-   },
-   "contentRating": "safe",
-   "score": 0.2919588,
-   "languages": [
-    "en",
-    "vi",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0007a2ed-2a91-472d-b161-bfd011b4ba1b",
-   "title": {
-    "en": "Boku igai Zennin Tenseisha ka yo!?"
-   },
-   "contentRating": "safe",
-   "score": 0.29021373,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "345d29ab-46ae-4c0b-93e8-d4b9984df628",
-   "title": {
-    "en": "Maou to Yuusha no Tatakai no Ura de"
-   },
-   "contentRating": "safe",
-   "score": 0.28744787,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "59e04a79-435e-418d-8b64-c8d4315693ab",
-   "title": {
-    "en": "Akuma Koujo"
-   },
-   "contentRating": "safe",
-   "score": 0.2855393,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89bcfe0b-caa3-4d1b-9679-139b44a0b505",
-   "title": {
-    "en": "The Conqueror From a Dying Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.28297806,
-   "languages": [
-    "en",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:55+00:00"
+ "updatedAt": "2023-12-10T18:30:20+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.45807064,
+   "score": 0.46673408,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.31144935,
+   "score": 0.31545803,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.22068146,
+   "score": 0.21994095,
    "languages": [
     "ru",
     "tr",
@@ -57,12 +57,30 @@
    ]
   },
   {
+   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
+   "title": {
+    "en": "Mao"
+   },
+   "contentRating": "safe",
+   "score": 0.21355698,
+   "languages": [
+    "en",
+    "pt-br",
+    "zh-hk",
+    "ca",
+    "zh",
+    "pl",
+    "ru",
+    "es"
+   ]
+  },
+  {
    "id": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
    "title": {
     "en": "VERSUS"
    },
    "contentRating": "safe",
-   "score": 0.21493141,
+   "score": 0.21293901,
    "languages": [
     "uk",
     "pt-br",
@@ -78,30 +96,12 @@
    ]
   },
   {
-   "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
-   "title": {
-    "en": "Mao"
-   },
-   "contentRating": "safe",
-   "score": 0.21420205,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh-hk",
-    "ca",
-    "zh",
-    "pl",
-    "ru",
-    "es"
-   ]
-  },
-  {
    "id": "70642969-4090-4e8b-bde7-e8331e25b458",
    "title": {
     "en": "Shin Kamen Rider - Prologue"
    },
    "contentRating": "safe",
-   "score": 0.21130694,
+   "score": 0.21160667,
    "languages": [
     "pt-br",
     "en"
@@ -113,7 +113,7 @@
     "en": "Dragon Ball Super"
    },
    "contentRating": "safe",
-   "score": 0.20967104,
+   "score": 0.2094685,
    "languages": [
     "pt-br",
     "es",
@@ -124,6 +124,26 @@
     "ms",
     "pt",
     "es-la"
+   ]
+  },
+  {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "Hunter x Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.20196253,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "vi"
    ]
   },
   {
@@ -169,23 +189,12 @@
    ]
   },
   {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.1886652,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "17ce37ea-1cda-4429-b062-c4b627814225",
    "title": {
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.18823135,
+   "score": 0.18870108,
    "languages": [
     "pt-br",
     "fr",
@@ -196,6 +205,17 @@
     "tr",
     "id",
     "it"
+   ]
+  },
+  {
+   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
+   "title": {
+    "en": "Onikirimaru"
+   },
+   "contentRating": "safe",
+   "score": 0.1886652,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -230,18 +250,7 @@
     "es-la",
     "es"
    ]
-  },
-  {
-   "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
-   "title": {
-    "en": "Valkyrie Profile 2"
-   },
-   "contentRating": "safe",
-   "score": 0.18673371,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:48+00:00"
+ "updatedAt": "2023-12-10T18:27:26+00:00"
 }

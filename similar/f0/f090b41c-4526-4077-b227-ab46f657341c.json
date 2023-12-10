@@ -6,23 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3c68f637-63cc-4c54-93fb-39a61a0ae54e",
+   "title": {
+    "en": "Raiders Rely on Login Rewards"
+   },
+   "contentRating": "safe",
+   "score": 0.3168908
+  },
+  {
+   "id": "5b6853e2-8173-43ad-afe5-f091da2e6089",
+   "title": {
+    "en": "Log in With Max Level"
+   },
+   "contentRating": "safe",
+   "score": 0.31580412,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8be0bf51-c540-47b1-8a7d-88fc05815a66",
+   "title": {
+    "en": "Doomsday Wonderland"
+   },
+   "contentRating": "safe",
+   "score": 0.30582726,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "73d56781-5497-48bd-a80f-88472c599ac9",
    "title": {
     "en": "Abandoned Universe"
    },
    "contentRating": "safe",
-   "score": 0.2975837,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
-   "title": {
-    "en": "Super God System"
-   },
-   "contentRating": "safe",
-   "score": 0.29459134,
+   "score": 0.30087012,
    "languages": [
     "en"
    ]
@@ -33,7 +55,7 @@
     "en": "Immortal Cultivation Do Over"
    },
    "contentRating": "safe",
-   "score": 0.29295367,
+   "score": 0.2891574,
    "languages": [
     "en"
    ]
@@ -44,7 +66,18 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.28972438,
+   "score": 0.2877816,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8fcbfd66-bdcd-4f6a-9f34-09e134843a90",
+   "title": {
+    "en": "The Great Venerable Demon Has Returned"
+   },
+   "contentRating": "safe",
+   "score": 0.28545365,
    "languages": [
     "en"
    ]
@@ -55,7 +88,7 @@
     "en": "Logging in as a Monster"
    },
    "contentRating": "safe",
-   "score": 0.28588107,
+   "score": 0.28499848,
    "languages": [
     "en",
     "fr",
@@ -68,18 +101,18 @@
     "en": "I, The Villain of Destiny Will Become the Righteous Patriarch"
    },
    "contentRating": "safe",
-   "score": 0.28524056,
+   "score": 0.28135067,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8fcbfd66-bdcd-4f6a-9f34-09e134843a90",
+   "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
    "title": {
-    "en": "The Great Venerable Demon Has Returned"
+    "en": "Super God System"
    },
    "contentRating": "safe",
-   "score": 0.2843479,
+   "score": 0.2768255,
    "languages": [
     "en"
    ]
@@ -90,12 +123,35 @@
     "en": "Meng Shi Zai Shang"
    },
    "contentRating": "safe",
-   "score": 0.2820517,
+   "score": 0.2758293,
    "languages": [
     "en",
     "pt-br",
     "fr",
     "id"
+   ]
+  },
+  {
+   "id": "49f5db0c-00e2-4fd4-83fb-eac51ec513a3",
+   "title": {
+    "en": "I Dominate The Game"
+   },
+   "contentRating": "safe",
+   "score": 0.27311257,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "057c89e8-40f2-4215-9bd0-754d7e5572b6",
+   "title": {
+    "en": "Monster"
+   },
+   "contentRating": "safe",
+   "score": 0.27203596,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -104,10 +160,22 @@
     "en": "Billions of Options for Becoming a God"
    },
    "contentRating": "safe",
-   "score": 0.2758491,
+   "score": 0.26989,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "7da14c05-5a2b-4a6e-bef1-8bf994bf86c5",
+   "title": {
+    "en": "Dragon Prince Yuan"
+   },
+   "contentRating": "safe",
+   "score": 0.26937822,
+   "languages": [
+    "en",
+    "hu"
    ]
   },
   {
@@ -116,82 +184,13 @@
     "en": "Becoming a Witch in a World Full of Monster Stories"
    },
    "contentRating": "safe",
-   "score": 0.26865804,
+   "score": 0.26742166,
    "languages": [
     "id",
     "en",
     "tr"
    ]
-  },
-  {
-   "id": "8697fae8-e0df-446c-88d0-d8c366a48e2f",
-   "title": {
-    "en": "Immortal, Invincible"
-   },
-   "contentRating": "safe",
-   "score": 0.26576844,
-   "languages": [
-    "fr",
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "514faf4a-b05e-4ea7-8375-c8212390891c",
-   "title": {
-    "en": "Lin Fei Chronicles"
-   },
-   "contentRating": "safe",
-   "score": 0.2635044,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "33d43bb9-da74-43f7-b5a7-bb597c19406a",
-   "title": {
-    "en": "The Constellations Are My Disciples"
-   },
-   "contentRating": "safe",
-   "score": 0.26289633,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
-   "title": {
-    "en": "The Game Invades the Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.26176608,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b99cfe41-e70c-4f4a-9722-bf386b17c86b",
-   "title": {
-    "en": "Unemployed Monster Player"
-   },
-   "contentRating": "safe",
-   "score": 0.26121712,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6cc2e441-b61b-4178-b773-ce26da036f93",
-   "title": {
-    "en": "A Sword's Evolution Begins From Killing"
-   },
-   "contentRating": "safe",
-   "score": 0.26092064
   }
  ],
- "updatedAt": "2023-12-10T01:09:42+00:00"
+ "updatedAt": "2023-12-10T18:34:45+00:00"
 }

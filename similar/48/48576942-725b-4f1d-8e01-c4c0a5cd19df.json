@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.15919794,
+   "score": 0.16377407,
    "languages": [
     "en",
     "ru",
@@ -35,7 +35,7 @@
     "en": "Henshuu no Isshou"
    },
    "contentRating": "suggestive",
-   "score": 0.12954518,
+   "score": 0.1282133,
    "languages": [
     "vi",
     "es-la",
@@ -48,7 +48,7 @@
     "en": "Otoyomegatari"
    },
    "contentRating": "suggestive",
-   "score": 0.12851393,
+   "score": 0.12682836,
    "languages": [
     "ru",
     "pt-br",
@@ -56,6 +56,17 @@
     "hu",
     "en",
     "kk"
+   ]
+  },
+  {
+   "id": "8cd63fa3-b3d9-4f80-a06d-cbd408af3c2d",
+   "title": {
+    "en": "Mugen Tengoku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12671238,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -70,23 +81,12 @@
    ]
   },
   {
-   "id": "8cd63fa3-b3d9-4f80-a06d-cbd408af3c2d",
-   "title": {
-    "en": "Mugen Tengoku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12518303,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fc78e153-e70a-4179-9f35-ff159643b6ac",
    "title": {
     "en": "Senren * Banka"
    },
    "contentRating": "suggestive",
-   "score": 0.12460103,
+   "score": 0.12130017,
    "languages": [
     "en"
    ]
@@ -143,22 +143,14 @@
    ]
   },
   {
-   "id": "bc24c75e-1c73-43bc-80aa-024ebb041e34",
+   "id": "67f8fd50-07d8-49b5-99c1-741dfc69fac4",
    "title": {
-    "en": "Musume Janakute, Watashi (Mama) ga Suki Nano!?"
+    "en": "Satsujin Piero no Shitsumon"
    },
    "contentRating": "suggestive",
-   "score": 0.106759116,
+   "score": 0.1067053,
    "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en",
-    "id",
-    "fr",
-    "es",
-    "ar",
-    "tr"
+    "en"
    ]
   },
   {
@@ -187,17 +179,6 @@
    ]
   },
   {
-   "id": "67f8fd50-07d8-49b5-99c1-741dfc69fac4",
-   "title": {
-    "en": "Satsujin Piero no Shitsumon"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1067053,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
    "title": {
     "en": "Gangsta"
@@ -214,7 +195,26 @@
     "pl",
     "it"
    ]
+  },
+  {
+   "id": "bc24c75e-1c73-43bc-80aa-024ebb041e34",
+   "title": {
+    "en": "Musume Janakute, Watashi (Mama) ga Suki Nano!?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.10476943,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en",
+    "id",
+    "fr",
+    "es",
+    "ar",
+    "tr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:34+00:00"
+ "updatedAt": "2023-12-10T18:16:08+00:00"
 }

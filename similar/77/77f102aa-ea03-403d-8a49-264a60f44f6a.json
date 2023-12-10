@@ -11,7 +11,7 @@
     "en": "100 Days Dream"
    },
    "contentRating": "safe",
-   "score": 0.38565525,
+   "score": 0.38626042,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "To My Sister"
    },
    "contentRating": "safe",
-   "score": 0.28463617,
+   "score": 0.2700351,
    "languages": [
     "pl",
     "tr",
@@ -38,7 +38,7 @@
     "en": "80's Video Trip"
    },
    "contentRating": "safe",
-   "score": 0.2596466,
+   "score": 0.26065126,
    "languages": [
     "vi",
     "en",
@@ -52,7 +52,7 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.2536621,
+   "score": 0.25247705,
    "languages": [
     "en",
     "ca",
@@ -65,7 +65,18 @@
     "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
    },
    "contentRating": "safe",
-   "score": 0.24957645,
+   "score": 0.24938479,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d25c5d14-df5e-49af-8a06-2de7abfb62e8",
+   "title": {
+    "en": "NES Manga: The Legend of Zelda"
+   },
+   "contentRating": "safe",
+   "score": 0.24694626,
    "languages": [
     "en"
    ]
@@ -76,7 +87,7 @@
     "en": "Shooting Girl"
    },
    "contentRating": "safe",
-   "score": 0.24803202,
+   "score": 0.24681452,
    "languages": [
     "en",
     "fr",
@@ -85,37 +96,12 @@
    ]
   },
   {
-   "id": "d25c5d14-df5e-49af-8a06-2de7abfb62e8",
-   "title": {
-    "en": "NES Manga: The Legend of Zelda"
-   },
-   "contentRating": "safe",
-   "score": 0.24746238,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e922707-49e8-4277-8fe1-36cbc6759f38",
-   "title": {
-    "en": "The Legend of Zelda - Ocarina of Time 3D"
-   },
-   "contentRating": "safe",
-   "score": 0.24371712,
-   "languages": [
-    "es-la",
-    "de",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "ce8497d7-a29a-43dd-9fa0-19b2e17f6e81",
    "title": {
     "en": "A Christmas Manga"
    },
    "contentRating": "safe",
-   "score": 0.24251263,
+   "score": 0.24467453,
    "languages": [
     "en",
     "es-la",
@@ -124,16 +110,17 @@
    ]
   },
   {
-   "id": "91ec66fd-1bfe-4a2f-a734-44922e0f012e",
+   "id": "7e922707-49e8-4277-8fe1-36cbc6759f38",
    "title": {
-    "en": "Otousan's Short Story: Little Witch Tries to Fly With a Broom"
+    "en": "The Legend of Zelda - Ocarina of Time 3D"
    },
    "contentRating": "safe",
-   "score": 0.2420929,
+   "score": 0.24295437,
    "languages": [
-    "fr",
+    "es-la",
+    "de",
     "en",
-    "es-la"
+    "fr"
    ]
   },
   {
@@ -142,7 +129,7 @@
     "en": "Curtain Call"
    },
    "contentRating": "safe",
-   "score": 0.2409979,
+   "score": 0.24207686,
    "languages": [
     "en",
     "ru",
@@ -153,12 +140,25 @@
    ]
   },
   {
+   "id": "91ec66fd-1bfe-4a2f-a734-44922e0f012e",
+   "title": {
+    "en": "Otousan's Short Story: Little Witch Tries to Fly With a Broom"
+   },
+   "contentRating": "safe",
+   "score": 0.2408466,
+   "languages": [
+    "fr",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
    "title": {
     "en": "Mayonaka Sanpo"
    },
    "contentRating": "safe",
-   "score": 0.23487988,
+   "score": 0.23665391,
    "languages": [
     "fa",
     "ar",
@@ -174,8 +174,20 @@
     "en": "Sora no Kakera"
    },
    "contentRating": "safe",
-   "score": 0.2305804,
+   "score": 0.23092787,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cb63772c-cf98-4735-811f-5e8302331acd",
+   "title": {
+    "en": "Game Demon King"
+   },
+   "contentRating": "safe",
+   "score": 0.22994648,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -185,7 +197,7 @@
     "en": "We Can Fly!"
    },
    "contentRating": "safe",
-   "score": 0.22770056,
+   "score": 0.22609,
    "languages": [
     "en",
     "pt-br",
@@ -199,24 +211,12 @@
     "en": "No Game No Life Zero"
    },
    "contentRating": "safe",
-   "score": 0.22729227,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cffdf571-7cf8-4f23-b2b0-423ac51edd3f",
-   "title": {
-    "en": "Layla to Mayonaka 3-ji no Daibouken"
-   },
-   "contentRating": "safe",
-   "score": 0.22009249,
+   "score": 0.22509265,
    "languages": [
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:32+00:00"
+ "updatedAt": "2023-12-10T18:21:24+00:00"
 }

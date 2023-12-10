@@ -11,13 +11,21 @@
     "en": "Family Fight"
    },
    "contentRating": "safe",
-   "score": 0.28150162,
+   "score": 0.28627416,
    "languages": [
     "it",
     "pl",
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "aa59fdc5-4e8e-4807-b579-542318f557a1",
+   "title": {
+    "en": "Giv'er a Ride"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
   },
   {
    "id": "a37d2a4a-6caa-4ff3-84fe-f137f97b207c",
@@ -31,6 +39,22 @@
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "da529315-e879-47ca-bc2a-cfb015074d33",
+   "title": {
+    "en": "Yuugata made ni Kaeru yo"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
+  },
+  {
+   "id": "cea5dfa1-0769-4028-afc2-1ed2c16a3423",
+   "title": {
+    "en": "Koyoi no Maid wa Korosenai"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
   },
   {
    "id": "cda25787-5154-4a96-ba3c-4e7a4e6a9385",
@@ -49,20 +73,41 @@
     "en": "Make way for the☆Super Express"
    },
    "contentRating": "safe",
-   "score": 0.24546175,
+   "score": 0.24361528,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "90d36666-d091-4920-9bbe-c2fc8334969c",
+   "id": "5dc5917b-01f7-4f24-baee-17b515c888f9",
    "title": {
-    "en": "Watashi no Oniichan"
+    "en": "Shimokitazawa Backyard Story"
    },
    "contentRating": "safe",
-   "score": 0.23015986,
+   "score": 0.23993875
+  },
+  {
+   "id": "16da5065-92f3-4895-82ab-626f08b90990",
+   "title": {
+    "en": "Orenchi no Maid-san 2 (Hobby)"
+   },
+   "contentRating": "safe",
+   "score": 0.23911174,
    "languages": [
-    "en"
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "bda927f7-df67-4842-b830-19c931159e41",
+   "title": {
+    "en": "Itonami Itonamezu"
+   },
+   "contentRating": "safe",
+   "score": 0.23878883,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -71,15 +116,29 @@
     "en": "Tiger \u0026 Bunny 2 - No one is perfect."
    },
    "contentRating": "safe",
-   "score": 0.23009802,
+   "score": 0.23092408,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
+   "id": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
    "title": {
-    "en": "Tamariba"
+    "en": "Kyou mo Veranda de"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "es-la",
+    "uk",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
+   "title": {
+    "en": "Mozuku, Walking!"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -88,9 +147,17 @@
    ]
   },
   {
-   "id": "daf02c06-dcd5-4a03-b9fa-0cc5fa01f91c",
+   "id": "5c6ab575-9884-4de8-b762-921c650ea134",
    "title": {
-    "en": "Caramel Theater"
+    "en": "Oshi Korosu"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "8f9cf4e5-3605-4adc-8254-5bae9acf7177",
+   "title": {
+    "en": "Koroshiya wa Smartwatch ni Sakaraenai"
    },
    "contentRating": "safe",
    "score": 0.22506468
@@ -106,85 +173,7 @@
     "en",
     "vi"
    ]
-  },
-  {
-   "id": "c44b3e3b-a7e0-4101-b43a-6d58768e7726",
-   "title": {
-    "en": "Ten yori Takaku"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
-   "title": {
-    "en": "Jinjya no Susume"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "68e0fc95-935e-45c2-b3d7-6249f4e8c115",
-   "title": {
-    "en": "Parallel Leap Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.2237452
-  },
-  {
-   "id": "935cfed6-8756-4f8e-88f1-11aefba5f5c6",
-   "title": {
-    "en": "Bug Girl."
-   },
-   "contentRating": "safe",
-   "score": 0.21483447
-  },
-  {
-   "id": "f8354643-cd09-46e0-91bb-cc4069d6d417",
-   "title": {
-    "en": "Super Galaxy Bad Girl Leona"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172
-  },
-  {
-   "id": "e1d0056a-fdd3-4f32-af19-50eeb37280ac",
-   "title": {
-    "en": "New Normal"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "tr",
-    "en",
-    "ru",
-    "pt-br",
-    "pl",
-    "fr",
-    "th",
-    "es-la",
-    "it",
-    "tl"
-   ]
-  },
-  {
-   "id": "3512d948-2886-4a9a-b0dc-44e02bb67c87",
-   "title": {
-    "en": "Kagaku Chop"
-   },
-   "contentRating": "safe",
-   "score": 0.20892625,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:33+00:00"
+ "updatedAt": "2023-12-10T18:10:33+00:00"
 }

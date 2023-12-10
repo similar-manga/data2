@@ -11,7 +11,7 @@
     "en": "Wings"
    },
    "contentRating": "safe",
-   "score": 0.2425596,
+   "score": 0.2354605,
    "languages": [
     "fr",
     "bg",
@@ -29,9 +29,32 @@
     "en": "La clé de la cage"
    },
    "contentRating": "safe",
-   "score": 0.22003661,
+   "score": 0.21529521,
    "languages": [
     "fr"
+   ]
+  },
+  {
+   "id": "feb8788a-9c36-44f6-b616-607c2c374ace",
+   "title": {
+    "en": "The Legend of Midgardia"
+   },
+   "contentRating": "safe",
+   "score": 0.1991394,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "64e4a2fa-98ed-40f6-a51b-368648e27970",
+   "title": {
+    "en": "Living with the Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.18781249,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -40,7 +63,7 @@
     "en": "Psychic Curse // One-shot // Le combat entre Fuko et le Shadoueruda."
    },
    "contentRating": "safe",
-   "score": 0.18456875,
+   "score": 0.17884678,
    "languages": [
     "en",
     "fr"
@@ -61,14 +84,13 @@
    ]
   },
   {
-   "id": "c8bdb9c4-64ad-42a7-b23d-24550cd6ff61",
+   "id": "69508764-8043-4a32-a93e-5c002c6333d7",
    "title": {
-    "en": "21h19min19s"
+    "en": "Everfallen - The Beginning of the world"
    },
    "contentRating": "safe",
-   "score": 0.16392502,
+   "score": 0.16577396,
    "languages": [
-    "en",
     "fr"
    ]
   },
@@ -78,23 +100,10 @@
     "en": "Yu Huo Du Ni"
    },
    "contentRating": "safe",
-   "score": 0.16298576,
+   "score": 0.15708365,
    "languages": [
     "fr",
     "it"
-   ]
-  },
-  {
-   "id": "d0752cb8-62fa-4f0d-9f42-e55d58d2da68",
-   "title": {
-    "en": "The Fairy and the Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.16273586,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
    ]
   },
   {
@@ -103,24 +112,9 @@
     "en": "Lintegrame"
    },
    "contentRating": "safe",
-   "score": 0.16131064,
+   "score": 0.15680061,
    "languages": [
     "fr"
-   ]
-  },
-  {
-   "id": "a2f64037-fccf-4c2d-9a1f-b72924fee2cf",
-   "title": {
-    "en": "God of the City"
-   },
-   "contentRating": "safe",
-   "score": 0.15512805,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "fr",
-    "en",
-    "tr"
    ]
   },
   {
@@ -139,18 +133,41 @@
    ]
   },
   {
-   "id": "9c702064-ffab-4e63-9c50-36ebbcf03952",
+   "id": "d0752cb8-62fa-4f0d-9f42-e55d58d2da68",
    "title": {
-    "en": "The Dream of an Elephant"
+    "en": "The Fairy and the Hunter"
    },
    "contentRating": "safe",
-   "score": 0.14920941,
+   "score": 0.15471387,
    "languages": [
-    "vi",
-    "fr",
     "pl",
-    "tr",
-    "en"
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "c8bdb9c4-64ad-42a7-b23d-24550cd6ff61",
+   "title": {
+    "en": "21h19min19s"
+   },
+   "contentRating": "safe",
+   "score": 0.15346247,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "440ea178-2267-4d01-88bf-39d3c85b4c6f",
+   "title": {
+    "en": "Deep Sea’s Song"
+   },
+   "contentRating": "safe",
+   "score": 0.15166272,
+   "languages": [
+    "fr",
+    "en",
+    "ru"
    ]
   },
   {
@@ -180,41 +197,20 @@
    ]
   },
   {
-   "id": "5b11ea17-333e-4a70-9589-f986a2b4250f",
+   "id": "9c702064-ffab-4e63-9c50-36ebbcf03952",
    "title": {
-    "en": "Hymn of Love"
+    "en": "The Dream of an Elephant"
    },
    "contentRating": "safe",
    "score": 0.14920941,
    "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "5a39a5e9-b6ec-4ba7-a5de-35700db933f1",
-   "title": {
-    "en": "Konami-sensei no konami-kan"
-   },
-   "contentRating": "safe",
-   "score": 0.14392915,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "33f1397b-07d1-4dfc-b42a-a428a41fe55b",
-   "title": {
-    "en": "Tenko"
-   },
-   "contentRating": "safe",
-   "score": 0.14326473,
-   "languages": [
+    "vi",
     "fr",
+    "pl",
+    "tr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:30+00:00"
+ "updatedAt": "2023-12-10T18:29:18+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Shojo Null"
    },
    "contentRating": "safe",
-   "score": 0.2759939,
+   "score": 0.27474096,
    "languages": [
     "id",
     "it",
@@ -19,23 +19,20 @@
    ]
   },
   {
+   "id": "e65a8ca4-40e7-4c81-9ff9-bace0d5cbe17",
+   "title": {
+    "en": "DROP"
+   },
+   "contentRating": "safe",
+   "score": 0.1991936
+  },
+  {
    "id": "18cdc34b-e11b-471c-bf71-33f1d7044c9a",
    "title": {
     "en": "Verbellum - Kotoba no Sensou"
    },
    "contentRating": "safe",
-   "score": 0.1877342
-  },
-  {
-   "id": "6a5f475c-e79e-4f53-8deb-01523f12df95",
-   "title": {
-    "en": "Ewokaku Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.17879097,
-   "languages": [
-    "zh-hk"
-   ]
+   "score": 0.18726102
   },
   {
    "id": "e8ea2aea-0c5c-4452-8208-e3db1074b352",
@@ -66,12 +63,23 @@
    "score": 0.17812262
   },
   {
+   "id": "6a5f475c-e79e-4f53-8deb-01523f12df95",
+   "title": {
+    "en": "Ewokaku Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.17808762,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
    "id": "f461f95e-0ee1-4a2d-a16b-4a6f67093748",
    "title": {
     "en": "Kamen Rider Stronger"
    },
    "contentRating": "safe",
-   "score": 0.1755425
+   "score": 0.1756051
   },
   {
    "id": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
@@ -79,7 +87,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.16589227,
+   "score": 0.16558038,
    "languages": [
     "it",
     "id",
@@ -95,7 +103,7 @@
     "en": "Eat Chicken and Save the World"
    },
    "contentRating": "safe",
-   "score": 0.16356719,
+   "score": 0.16271368,
    "languages": [
     "en"
    ]
@@ -106,7 +114,7 @@
     "en": "Heishi to Burikiya"
    },
    "contentRating": "safe",
-   "score": 0.1617682
+   "score": 0.16095148
   },
   {
    "id": "df91995f-ee8b-4ff3-8518-cb2020ca3218",
@@ -114,7 +122,7 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.16006044,
+   "score": 0.15948863,
    "languages": [
     "en",
     "pt-br",
@@ -128,18 +136,18 @@
     "en": "World Record of the Holy Mother"
    },
    "contentRating": "safe",
-   "score": 0.15927176,
+   "score": 0.15835759,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e65a8ca4-40e7-4c81-9ff9-bace0d5cbe17",
+   "id": "3d95cdef-ee4b-465d-a263-142efde13397",
    "title": {
-    "en": "DROP"
+    "en": "Phoenix 2772"
    },
    "contentRating": "safe",
-   "score": 0.15849309
+   "score": 0.15775381
   },
   {
    "id": "c875bebb-8d03-4c8e-89dd-a3235f28df62",
@@ -147,7 +155,7 @@
     "en": "Rooster Fighter"
    },
    "contentRating": "safe",
-   "score": 0.15822788,
+   "score": 0.15686825,
    "languages": [
     "id",
     "en",
@@ -161,21 +169,24 @@
    ]
   },
   {
-   "id": "3d95cdef-ee4b-465d-a263-142efde13397",
+   "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
    "title": {
-    "en": "Phoenix 2772"
+    "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.1578642
-  },
-  {
-   "id": "27d6d971-d278-4a88-b963-2dd8b2143464",
-   "title": {
-    "en": "Mechanical Gods' War Gigantic Formula"
-   },
-   "contentRating": "safe",
-   "score": 0.15601268
+   "score": 0.15425873,
+   "languages": [
+    "en",
+    "zh",
+    "es-la",
+    "id",
+    "pt-br",
+    "it",
+    "es",
+    "pl",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:36+00:00"
+ "updatedAt": "2023-12-10T18:16:13+00:00"
 }

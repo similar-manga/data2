@@ -24,7 +24,7 @@
     "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident"
    },
    "contentRating": "safe",
-   "score": 0.1810029,
+   "score": 0.18074368,
    "languages": [
     "en",
     "fr",
@@ -40,7 +40,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.17871629,
+   "score": 0.17862572,
    "languages": [
     "ar",
     "uk",
@@ -63,7 +63,7 @@
     "en": "Became King After Being Bitten"
    },
    "contentRating": "safe",
-   "score": 0.17601284,
+   "score": 0.17459908,
    "languages": [
     "en",
     "id"
@@ -75,7 +75,7 @@
     "en": "Spray King"
    },
    "contentRating": "safe",
-   "score": 0.17201418,
+   "score": 0.17034753,
    "languages": [
     "pl",
     "en"
@@ -87,7 +87,30 @@
     "en": "CROSS Blood"
    },
    "contentRating": "safe",
-   "score": 0.16936368,
+   "score": 0.16814092,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5725100d-81bd-467d-b680-1f4dff43adbd",
+   "title": {
+    "en": "The Vampire Dies in No Time"
+   },
+   "contentRating": "safe",
+   "score": 0.16796502,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "c3be71c6-014a-4bca-ba10-5137ffed90a3",
+   "title": {
+    "en": "Dragon Ball GT"
+   },
+   "contentRating": "safe",
+   "score": 0.16561574,
    "languages": [
     "en"
    ]
@@ -98,7 +121,7 @@
     "en": "Fate/Grand Order -turas réalta-"
    },
    "contentRating": "safe",
-   "score": 0.1668133,
+   "score": 0.16546866,
    "languages": [
     "es",
     "vi",
@@ -114,20 +137,32 @@
     "en": "NEO: The World Ends with You"
    },
    "contentRating": "safe",
-   "score": 0.16653407,
+   "score": 0.16526401,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c3be71c6-014a-4bca-ba10-5137ffed90a3",
+   "id": "e7a2288f-a7bb-45e2-a0aa-928a60f4bc52",
    "title": {
-    "en": "Dragon Ball GT"
+    "en": "Undercover Cops"
    },
    "contentRating": "safe",
-   "score": 0.16561574,
+   "score": 0.16513932,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "75f0eea5-1b99-4f96-9f4b-2e6814bb9b8c",
+   "title": {
+    "en": "I Kill Zombies in Wasteland"
+   },
+   "contentRating": "safe",
+   "score": 0.16397002,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -136,7 +171,7 @@
     "en": "Brothers"
    },
    "contentRating": "safe",
-   "score": 0.16501205,
+   "score": 0.16393743,
    "languages": [
     "en"
    ]
@@ -149,6 +184,21 @@
    "contentRating": "safe",
    "score": 0.16329932,
    "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "a81d7f35-eaca-43a8-9928-2b1b521556b2",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Meteor Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.16329932,
+   "languages": [
+    "es-la",
+    "fr",
+    "pl",
     "en",
     "es"
    ]
@@ -167,74 +217,7 @@
     "it",
     "fr"
    ]
-  },
-  {
-   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
-   "title": {
-    "en": "Pokémon"
-   },
-   "contentRating": "safe",
-   "score": 0.16322099,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b7d069cb-4ab9-4c21-a20b-38f7c269be4e",
-   "title": {
-    "en": "One Punch Man (Webcomic/Original)"
-   },
-   "contentRating": "safe",
-   "score": 0.16277216,
-   "languages": [
-    "en",
-    "fr",
-    "it",
-    "ar",
-    "pt-br",
-    "es-la",
-    "th",
-    "ro",
-    "vi",
-    "ru",
-    "tr"
-   ]
-  },
-  {
-   "id": "cc1b8669-82b2-4232-99c1-40d48fc2d988",
-   "title": {
-    "en": "Undead Unluck"
-   },
-   "contentRating": "safe",
-   "score": 0.16165808,
-   "languages": [
-    "ru",
-    "fr",
-    "pt-br",
-    "en",
-    "it",
-    "zh-hk",
-    "es-la",
-    "fa",
-    "id"
-   ]
-  },
-  {
-   "id": "6c6236b0-0fd7-4926-8a1a-cc346a6627e3",
-   "title": {
-    "en": "Dragon Ball X One Piece - Cross Epoch"
-   },
-   "contentRating": "safe",
-   "score": 0.16165808,
-   "languages": [
-    "ca",
-    "it",
-    "en",
-    "pt-br",
-    "bg",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:28+00:00"
+ "updatedAt": "2023-12-10T18:26:28+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Red Colored Elegy"
    },
    "contentRating": "safe",
-   "score": 0.21524444,
+   "score": 0.21455382,
    "languages": [
     "ar",
     "pt-br"
@@ -48,7 +48,7 @@
     "en": "Years"
    },
    "contentRating": "safe",
-   "score": 0.18652877,
+   "score": 0.1858726,
    "languages": [
     "es",
     "en",
@@ -74,12 +74,39 @@
    ]
   },
   {
+   "id": "27179c2f-72d7-4a49-a577-2fa6eaf9df4d",
+   "title": {
+    "en": "Joshikousei no Mudazukai"
+   },
+   "contentRating": "safe",
+   "score": 0.18304034,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "id",
+    "it"
+   ]
+  },
+  {
+   "id": "ade4a857-7881-4104-9e4c-b004abbcc7fc",
+   "title": {
+    "en": "Minami Nanami Wishes to Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.18211707,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
    "title": {
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.1828233,
+   "score": 0.1819386,
    "languages": [
     "es-la",
     "en",
@@ -95,33 +122,39 @@
    ]
   },
   {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.18151745,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1591c256-e561-4e4b-a57c-64079ef1958e",
+   "title": {
+    "en": "Mathematics Golden"
+   },
+   "contentRating": "safe",
+   "score": 0.1805661,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "c4048cf1-f60f-48a9-abbb-27ab5283f8b7",
    "title": {
     "en": "The School Girl's Glasses"
    },
    "contentRating": "safe",
-   "score": 0.18180351,
+   "score": 0.17998311,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
-   "title": {
-    "en": "Blue Period"
-   },
-   "contentRating": "safe",
-   "score": 0.17944926,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "ru",
-    "id",
-    "tr",
-    "it",
-    "fa"
    ]
   },
   {
@@ -130,12 +163,26 @@
     "en": "Jigoku Kurayami Hana mo Naki"
    },
    "contentRating": "safe",
-   "score": 0.17895867,
+   "score": 0.17865732,
    "languages": [
     "zh",
     "ru",
     "zh-hk",
     "en"
+   ]
+  },
+  {
+   "id": "83acc901-c42e-4468-a6dd-f5d8b9d48567",
+   "title": {
+    "en": "Trillion Game"
+   },
+   "contentRating": "safe",
+   "score": 0.17784286,
+   "languages": [
+    "en",
+    "ru",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -151,6 +198,24 @@
    ]
   },
   {
+   "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
+   "title": {
+    "en": "Blue Period"
+   },
+   "contentRating": "safe",
+   "score": 0.17694308,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "ru",
+    "id",
+    "tr",
+    "it",
+    "fa"
+   ]
+  },
+  {
    "id": "288a9b95-fead-43e2-99e8-ac0e85802e59",
    "title": {
     "en": "Kono Ko ja Nai!"
@@ -163,76 +228,7 @@
     "de",
     "tr"
    ]
-  },
-  {
-   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
-   "title": {
-    "en": "Jinjori Barai"
-   },
-   "contentRating": "safe",
-   "score": 0.17674164,
-   "languages": [
-    "id",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
-   "title": {
-    "en": "Doraemon"
-   },
-   "contentRating": "safe",
-   "score": 0.17465818,
-   "languages": [
-    "it",
-    "fr",
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
-   "title": {
-    "en": "Ookiku Furikabutte"
-   },
-   "contentRating": "safe",
-   "score": 0.17227373,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "41abf1ac-ea76-4f1f-8e04-25852993d853",
-   "title": {
-    "en": "School Zone"
-   },
-   "contentRating": "safe",
-   "score": 0.17197153,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
-   "title": {
-    "en": "Shojo Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.17037022,
-   "languages": [
-    "it",
-    "tr",
-    "pt-br",
-    "en",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:27+00:00"
+ "updatedAt": "2023-12-10T18:29:10+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "499c4444-f8cb-42c3-b612-a9a082808b77",
+   "title": {
+    "en": "Truth of a Lily"
+   },
+   "contentRating": "safe",
+   "score": 0.2627705,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
    "title": {
     "en": "Insomnia"
    },
    "contentRating": "safe",
-   "score": 0.26009175,
+   "score": 0.25920385,
    "languages": [
     "en"
    ]
@@ -40,17 +51,6 @@
    ]
   },
   {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
-   "title": {
-    "en": "Without the Sun"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
     "en": "Nageku Shinigami"
@@ -63,42 +63,27 @@
    ]
   },
   {
-   "id": "499c4444-f8cb-42c3-b612-a9a082808b77",
+   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
    "title": {
-    "en": "Truth of a Lily"
+    "en": "Without the Sun"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
    "title": {
-    "en": "Kon no Ki Konoha"
+    "en": "Good-bye, My 19 year Old Self"
    },
    "contentRating": "safe",
-   "score": 0.2543435,
+   "score": 0.25553665,
    "languages": [
     "fr",
-    "id",
-    "pt-br",
     "en",
-    "pl",
-    "ca",
-    "uk"
-   ]
-  },
-  {
-   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
-   "title": {
-    "en": "Butterfly in the Air"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
+    "it"
    ]
   },
   {
@@ -114,26 +99,42 @@
    ]
   },
   {
-   "id": "20c47a70-480f-4ad8-a6cf-cbfd1bb46128",
+   "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
    "title": {
-    "en": "1 + 1"
+    "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.23815486,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
+   "id": "20c47a70-480f-4ad8-a6cf-cbfd1bb46128",
    "title": {
-    "en": "Winter Flowers"
+    "en": "1 + 1"
+   },
+   "contentRating": "safe",
+   "score": 0.23807043,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
+   "title": {
+    "en": "Kon no Ki Konoha"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "fr",
+    "id",
+    "pt-br",
+    "en",
     "pl",
-    "en"
+    "ca",
+    "uk"
    ]
   },
   {
@@ -150,54 +151,51 @@
    ]
   },
   {
+   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
+   "title": {
+    "en": "Winter Flowers"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "76b8a1c8-5d84-470f-8a96-c8c216b8fa96",
+   "title": {
+    "en": "Haru x Mei"
+   },
+   "contentRating": "safe",
+   "score": 0.23305888,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4980a6ec-f87e-4a95-90c0-3942b9d6fd63",
    "title": {
     "en": "Mei-chan no Shitsuji"
    },
    "contentRating": "safe",
-   "score": 0.2299642,
+   "score": 0.22952466,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "6f0df0eb-9670-4977-9bed-720211c073bf",
+   "id": "9fe65996-bbab-41c4-8553-d677f409c342",
    "title": {
-    "en": "Saigo no Negai ~Last Pray~"
+    "en": "Trouble G"
    },
    "contentRating": "safe",
-   "score": 0.22573797,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
-   "title": {
-    "en": "Tsuki no Kanon"
-   },
-   "contentRating": "safe",
-   "score": 0.22478111,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "de"
-   ]
-  },
-  {
-   "id": "47f42174-e68c-462d-a37a-7eead32858c6",
-   "title": {
-    "en": "Asura"
-   },
-   "contentRating": "safe",
-   "score": 0.22375086,
+   "score": 0.22770186,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:10+00:00"
+ "updatedAt": "2023-12-10T18:35:56+00:00"
 }

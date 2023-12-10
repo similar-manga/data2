@@ -11,7 +11,7 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.26450706,
+   "score": 0.29869238,
    "languages": [
     "pl",
     "en",
@@ -25,22 +25,10 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.25938144,
+   "score": 0.28208208,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.24523109,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -49,9 +37,21 @@
     "en": "Arthur Pyuty wa Yoru no Majo"
    },
    "contentRating": "safe",
-   "score": 0.24427965,
+   "score": 0.24787925,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
+   "title": {
+    "en": "Sakasama no Babel"
+   },
+   "contentRating": "safe",
+   "score": 0.24185313,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -60,7 +60,7 @@
     "en": "Death Edge"
    },
    "contentRating": "safe",
-   "score": 0.22786863,
+   "score": 0.23870762,
    "languages": [
     "pl",
     "en"
@@ -72,20 +72,48 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.218702,
+   "score": 0.23104157,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
+   "id": "3683f667-c23d-4688-b872-0ade276aaafa",
    "title": {
-    "en": "The Far East Incident"
+    "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.21642636,
+   "score": 0.22854705,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
+   "id": "239efce0-8af9-45ee-bcae-a5d3047f58e4",
+   "title": {
+    "en": "It's Time to Go to His Stomach, OK?"
+   },
+   "contentRating": "safe",
+   "score": 0.22167061,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
+   "title": {
+    "en": "Kara no Kyoukai - The Garden of Sinners"
+   },
+   "contentRating": "safe",
+   "score": 0.21763821,
+   "languages": [
+    "ru",
+    "en",
+    "fr",
+    "es-la",
+    "pl"
    ]
   },
   {
@@ -100,63 +128,47 @@
    ]
   },
   {
+   "id": "c2ff08bd-88a9-4523-bed3-6e7cdeb8fe9b",
+   "title": {
+    "en": "OREN'S"
+   },
+   "contentRating": "safe",
+   "score": 0.21451168,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.21422285,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
    "title": {
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.21092589,
+   "score": 0.21283798,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "3683f667-c23d-4688-b872-0ade276aaafa",
+   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
    "title": {
-    "en": "Rekkyou Sensen"
+    "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.21016611,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
-   "title": {
-    "en": "Kara no Kyoukai - The Garden of Sinners"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "ru",
-    "en",
-    "fr",
-    "es-la",
-    "pl"
-   ]
-  },
-  {
-   "id": "b964c8aa-662b-4d3e-a130-215a0144bf44",
-   "title": {
-    "en": "Frame Saber"
-   },
-   "contentRating": "safe",
-   "score": 0.19991332,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
-   "title": {
-    "en": "Chaos Rings"
-   },
-   "contentRating": "safe",
-   "score": 0.19367442,
+   "score": 0.21233872,
    "languages": [
     "en"
    ]
@@ -167,34 +179,23 @@
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.19193842,
+   "score": 0.20366658,
    "languages": [
     "zh-hk",
     "en"
    ]
   },
   {
-   "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
+   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
    "title": {
-    "en": "Omega Tribe Kingdom"
+    "en": "Chaos Rings"
    },
    "contentRating": "safe",
-   "score": 0.18961038,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c81db64f-3561-48db-8799-2376ffe54f49",
-   "title": {
-    "en": "Yugo"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
+   "score": 0.19776697,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:25+00:00"
+ "updatedAt": "2023-12-10T18:18:19+00:00"
 }

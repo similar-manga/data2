@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b0e1f2df-7de7-4b32-ac04-ca84b6c33a0e",
+   "title": {
+    "en": "A LOT A NOT"
+   },
+   "contentRating": "safe",
+   "score": 0.5591502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b95e7634-5cde-449f-bf7e-a9d82c92344b",
    "title": {
     "en": "Square (apricot+)"
    },
    "contentRating": "safe",
-   "score": 0.55139047,
+   "score": 0.5489717,
    "languages": [
     "en"
    ]
@@ -22,21 +33,20 @@
     "en": "laugh illust"
    },
    "contentRating": "safe",
-   "score": 0.4926387,
+   "score": 0.4836903,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1ffe2e08-d172-43c3-9fd4-82224dc55746",
+   "id": "adac4606-4a89-4229-b04a-96e5b706d3d9",
    "title": {
-    "en": "School Kill"
+    "en": "Ume to Momo no Futsuu no Kurashi"
    },
    "contentRating": "safe",
-   "score": 0.40597427,
+   "score": 0.47178662,
    "languages": [
-    "en",
-    "vi"
+    "en"
    ]
   },
   {
@@ -45,7 +55,7 @@
     "en": "Hidamari Sketch - Singing in The Rain★ (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.40531713,
+   "score": 0.41016865,
    "languages": [
     "en"
    ]
@@ -56,7 +66,7 @@
     "en": "Liv"
    },
    "contentRating": "safe",
-   "score": 0.40296295,
+   "score": 0.4021245,
    "languages": [
     "pl",
     "tr",
@@ -70,12 +80,46 @@
    ]
   },
   {
+   "id": "1ffe2e08-d172-43c3-9fd4-82224dc55746",
+   "title": {
+    "en": "School Kill"
+   },
+   "contentRating": "safe",
+   "score": 0.4015524,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "8ae93046-b5f5-4055-b9d7-60ff695bc20a",
+   "title": {
+    "en": "With Love to \"From Eroica with Love\"!!"
+   },
+   "contentRating": "safe",
+   "score": 0.40063486,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "42a3033e-2dd4-4591-a153-9201bccf313f",
    "title": {
     "en": "Aoki Ao no Atopos"
    },
    "contentRating": "safe",
-   "score": 0.3897899,
+   "score": 0.388275,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a4dc41c9-281f-4a75-9d82-a8eae15ed3ad",
+   "title": {
+    "en": "Teiso-Hukugen is NEVER ENDING!"
+   },
+   "contentRating": "safe",
+   "score": 0.38316426,
    "languages": [
     "en"
    ]
@@ -86,11 +130,27 @@
     "en": "Escarlate - The Guardian Witch"
    },
    "contentRating": "safe",
-   "score": 0.38453987,
+   "score": 0.3787094,
    "languages": [
     "fr",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "d234a8d0-de2d-4bcd-b6a4-0c349254bccb",
+   "title": {
+    "en": "Bocchan to Maid"
+   },
+   "contentRating": "safe",
+   "score": 0.37657252,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en",
+    "id",
+    "tr"
    ]
   },
   {
@@ -99,7 +159,7 @@
     "en": "Sorette Hontoni Gyaru desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.37725,
+   "score": 0.37225863,
    "languages": [
     "en"
    ]
@@ -110,7 +170,7 @@
     "en": "Tropicalia"
    },
    "contentRating": "safe",
-   "score": 0.37142417,
+   "score": 0.36560792,
    "languages": [
     "pl",
     "en",
@@ -124,81 +184,22 @@
     "en": "apreha."
    },
    "contentRating": "safe",
-   "score": 0.36609668,
+   "score": 0.36166868,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7f90eae3-0156-408f-8afe-901fe34ffd08",
+   "id": "5501d637-dba4-4d5a-bb18-73219958ca6a",
    "title": {
-    "en": "Boku to Kimi wa"
+    "en": "Kaleido Star Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.35199735,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "abd3495e-106e-4112-9252-36bcb98d0633",
-   "title": {
-    "en": "TokoTokoNatsu"
-   },
-   "contentRating": "safe",
-   "score": 0.34962064,
+   "score": 0.35865715,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "eb1ecf82-a6c9-4aac-ba1f-32f2f1a2ef5b",
-   "title": {
-    "en": "Touhou - Kimi e no Tobira (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.33953348,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d84b1fe0-42e1-470f-928f-190c0aeab916",
-   "title": {
-    "en": "Touhou - Otomodachi ga Dekimashita (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.33553097,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ad1c6e74-37be-4f58-858f-1a3bacb06da3",
-   "title": {
-    "en": "Touhou - Shin ga Oreru Koro ni (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.33450815,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "37346398-d9ff-40e8-bc14-6c9847d559e5",
-   "title": {
-    "en": "Tensei Shichattayo (Iya, Gomen)"
-   },
-   "contentRating": "safe",
-   "score": 0.3326199,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:41+00:00"
+ "updatedAt": "2023-12-10T18:32:17+00:00"
 }

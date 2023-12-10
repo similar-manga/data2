@@ -54,7 +54,7 @@
     "en": "White Lover"
    },
    "contentRating": "safe",
-   "score": 0.17195816,
+   "score": 0.16959262,
    "languages": [
     "pl",
     "en",
@@ -92,15 +92,15 @@
    ]
   },
   {
-   "id": "936b0977-3aa4-45e0-b5eb-561964d7456c",
+   "id": "447f141d-84e4-4db8-ab12-dfe9f0be5508",
    "title": {
-    "en": "Bloody Little Circus"
+    "en": "No no Kagi"
    },
    "contentRating": "safe",
    "score": 0.14054568,
    "languages": [
-    "en",
-    "pl"
+    "pl",
+    "en"
    ]
   },
   {
@@ -118,15 +118,15 @@
    ]
   },
   {
-   "id": "447f141d-84e4-4db8-ab12-dfe9f0be5508",
+   "id": "936b0977-3aa4-45e0-b5eb-561964d7456c",
    "title": {
-    "en": "No no Kagi"
+    "en": "Bloody Little Circus"
    },
    "contentRating": "safe",
    "score": 0.14054568,
    "languages": [
-    "pl",
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -143,6 +143,17 @@
    ]
   },
   {
+   "id": "d7acd022-1bc5-447b-94a2-0ff2021aad14",
+   "title": {
+    "en": "Shounen Onmyouji"
+   },
+   "contentRating": "safe",
+   "score": 0.12000741,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
    "id": "00fc012b-8d52-489c-9529-ee60934cbb0e",
    "title": {
     "en": "Keron"
@@ -152,20 +163,6 @@
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
-   "title": {
-    "en": "The White Witch and the Snow-Viewing Tea Party"
-   },
-   "contentRating": "safe",
-   "score": 0.11111112,
-   "languages": [
-    "en",
-    "pl",
-    "it",
-    "fr"
    ]
   },
   {
@@ -181,27 +178,14 @@
    ]
   },
   {
-   "id": "2507de0a-4466-43f8-b315-6075c6b155a8",
+   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
    "title": {
-    "en": "Sabu the Bruiser"
+    "en": "Suwaru Onna"
    },
    "contentRating": "safe",
    "score": 0.11111112,
    "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
-   "title": {
-    "en": "Fasting"
-   },
-   "contentRating": "safe",
-   "score": 0.11111112,
-   "languages": [
-    "es",
-    "pt-br",
+    "id",
     "pl",
     "en"
    ]
@@ -224,7 +208,23 @@
     "id",
     "fa"
    ]
+  },
+  {
+   "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
+   "title": {
+    "en": "Hatarakanai Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.11111112,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "pt-br",
+    "tr",
+    "es"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:41+00:00"
+ "updatedAt": "2023-12-10T18:21:47+00:00"
 }

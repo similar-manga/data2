@@ -6,15 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6aa049b7-a8b8-4b42-a831-a3e8267b39ad",
+   "title": {
+    "en": "Legend of the Galactic Heroes - Portraits of Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.29458144,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
    "title": {
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.20209268,
+   "score": 0.20084803,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
+   "title": {
+    "en": "Kage no Eiyuu no Nichijou-tan"
+   },
+   "contentRating": "safe",
+   "score": 0.19574715,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -23,7 +48,7 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.19633734,
+   "score": 0.19531786,
    "languages": [
     "en",
     "ru"
@@ -49,7 +74,7 @@
     "en": "My Home Hero"
    },
    "contentRating": "safe",
-   "score": 0.19252294,
+   "score": 0.18933508,
    "languages": [
     "ar",
     "zh",
@@ -58,6 +83,23 @@
     "zh-hk",
     "vi",
     "id"
+   ]
+  },
+  {
+   "id": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
+   "title": {
+    "en": "Isekai Meikyuu no Saishinbu o Mezasou"
+   },
+   "contentRating": "safe",
+   "score": 0.17998308,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "es-la",
+    "fr",
+    "pt-br",
+    "es"
    ]
   },
   {
@@ -84,6 +126,44 @@
    ]
   },
   {
+   "id": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
+   "title": {
+    "en": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
+   },
+   "contentRating": "safe",
+   "score": 0.17337291,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.1632653,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.1632653,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
    "title": {
     "en": "Levius/est"
@@ -96,12 +176,24 @@
    ]
   },
   {
+   "id": "bd1c3b26-5f26-4f35-8de7-d9f629a9d73c",
+   "title": {
+    "en": "Katabami to Ougon"
+   },
+   "contentRating": "safe",
+   "score": 0.16015376,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "dc935f08-da21-44a6-ba57-ddfade8216d0",
    "title": {
     "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.15768196,
+   "score": 0.15715367,
    "languages": [
     "en",
     "ru"
@@ -128,124 +220,15 @@
     "en": "Kara no Kyoukai - The Garden of Sinners"
    },
    "contentRating": "safe",
-   "score": 0.14839774,
+   "score": 0.1476585,
    "languages": [
     "ru",
     "en",
     "fr",
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
-   "title": {
-    "en": "Tsugumi Project"
-   },
-   "contentRating": "safe",
-   "score": 0.14488359,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
-   "title": {
-    "en": "Tales of the Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.13659756,
-   "languages": [
-    "vi",
-    "en",
-    "pl",
-    "it",
-    "ru"
-   ]
-  },
-  {
-   "id": "03c9078a-0730-4637-bb3f-339a226ae3ac",
-   "title": {
-    "en": "Kaiji Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.1362963,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7888380e-b90a-432d-ad0d-a20cdda8d595",
-   "title": {
-    "en": "Me \u0026 the Devil Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.13599034,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0f237a5f-07ad-4e43-bbd9-2a320694434d",
-   "title": {
-    "en": "The Rising of the Shield Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.13511376,
-   "languages": [
-    "pl",
-    "es-la",
-    "hu",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "uk",
-    "ar",
-    "it",
-    "id"
-   ]
-  },
-  {
-   "id": "52725394-b8b1-4a9b-b264-8f3c038eb892",
-   "title": {
-    "en": "Tokoshie x Bullet: Kaijuu Gakuen"
-   },
-   "contentRating": "safe",
-   "score": 0.13226001,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
-   "title": {
-    "en": "Bungou Stray Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.1261829,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en",
-    "pl",
-    "fr",
-    "id",
-    "es-la",
-    "ru",
-    "uk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:14+00:00"
+ "updatedAt": "2023-12-10T18:12:28+00:00"
 }

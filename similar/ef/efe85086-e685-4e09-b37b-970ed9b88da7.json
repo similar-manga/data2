@@ -11,7 +11,23 @@
     "en": "Marude Dameo (Comic BONBON)"
    },
    "contentRating": "safe",
-   "score": 0.3092375
+   "score": 0.3071947
+  },
+  {
+   "id": "02ac8a93-e038-4d3b-97f9-9413eabd6929",
+   "title": {
+    "en": "Ponpoko Robo Ato \u0026 Suu"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "beb8ef7c-67de-47c9-8c76-3e90db2b86f4",
+   "title": {
+    "en": "Zannen Hakase"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "8b0145b1-947c-4f72-936e-be87b3d72b5d",
@@ -34,28 +50,12 @@
    "score": 0.2857143
   },
   {
-   "id": "02ac8a93-e038-4d3b-97f9-9413eabd6929",
-   "title": {
-    "en": "Ponpoko Robo Ato \u0026 Suu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "beb8ef7c-67de-47c9-8c76-3e90db2b86f4",
-   "title": {
-    "en": "Zannen Hakase"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "0eb1c1ac-34cd-42d3-b88d-e780d54eed8b",
    "title": {
     "en": "Satellite Coin Laundry"
    },
    "contentRating": "safe",
-   "score": 0.26273063,
+   "score": 0.25877517,
    "languages": [
     "en"
    ]
@@ -66,7 +66,7 @@
     "en": "Development Planet C-9"
    },
    "contentRating": "safe",
-   "score": 0.25616434
+   "score": 0.25686178
   },
   {
    "id": "56e0d38c-3026-47ab-bc2b-42630a60fa4f",
@@ -74,7 +74,7 @@
     "en": "King City"
    },
    "contentRating": "safe",
-   "score": 0.24936125,
+   "score": 0.2485527,
    "languages": [
     "en"
    ]
@@ -85,7 +85,7 @@
     "en": "Alien Manga: The Uninvited Guest"
    },
    "contentRating": "safe",
-   "score": 0.24642834,
+   "score": 0.2463363,
    "languages": [
     "en"
    ]
@@ -96,19 +96,15 @@
     "en": "Kochira Uchuu Hito Chousa-tai"
    },
    "contentRating": "safe",
-   "score": 0.24341656
+   "score": 0.23882511
   },
   {
-   "id": "248807b9-f596-4f87-820c-407b175fe8cc",
+   "id": "29358a51-bb9a-4fb9-8500-19705042abb4",
    "title": {
-    "en": "God Bless the Mistaken"
+    "en": "Mizushina Takayuki's Ms. Cinema"
    },
    "contentRating": "safe",
-   "score": 0.24106689,
-   "languages": [
-    "zh",
-    "it"
-   ]
+   "score": 0.23555516
   },
   {
    "id": "8d8ac2b6-9fbf-4df9-b022-c6890e6ef222",
@@ -116,36 +112,26 @@
     "en": "Perman"
    },
    "contentRating": "safe",
-   "score": 0.236506,
+   "score": 0.23399158,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
+   "id": "5b639656-8d51-4970-b7bb-9e652ff83d46",
    "title": {
-    "en": "Galaxy Gangs"
+    "en": "N is N for Null"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "de",
-    "es-la",
-    "en"
+    "zh-hk"
    ]
   },
   {
-   "id": "be0b843d-ec6a-4339-9ba2-19cb30066408",
+   "id": "dcdd2cb2-df50-4334-9f18-3a7cd77ac0bc",
    "title": {
-    "en": "Doraemon Latest Secret Encyclopedia"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "8846e162-05c5-479b-ad18-4afadbd9022e",
-   "title": {
-    "en": "My Girlfriend Is A Bit Weird, but She Is Very Cute"
+    "en": "Densou Dorothy"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -154,13 +140,30 @@
    ]
   },
   {
-   "id": "cae2278d-f8e8-4a61-9058-f4096508f5ab",
+   "id": "333f5f0b-473b-4184-aa72-23af3c8a3a90",
    "title": {
-    "en": "Tomorrow's God Land"
+    "en": "Moonlight Mile"
    },
    "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.23328476,
+   "languages": [
+    "it",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "248807b9-f596-4f87-820c-407b175fe8cc",
+   "title": {
+    "en": "God Bless the Mistaken"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "zh",
+    "it"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:40+00:00"
+ "updatedAt": "2023-12-10T18:34:42+00:00"
 }

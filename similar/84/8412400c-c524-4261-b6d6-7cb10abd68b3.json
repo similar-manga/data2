@@ -11,7 +11,7 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.3928589,
+   "score": 0.39649978,
    "languages": [
     "fr",
     "pt-br",
@@ -24,7 +24,7 @@
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.3609555,
+   "score": 0.35884616,
    "languages": [
     "de",
     "es-la",
@@ -37,7 +37,7 @@
     "en": "Beelzebub (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.3337527,
+   "score": 0.33477274,
    "languages": [
     "en",
     "pl",
@@ -50,7 +50,7 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.33090916,
+   "score": 0.3319011,
    "languages": [
     "en"
    ]
@@ -61,7 +61,7 @@
     "en": "Section 459"
    },
    "contentRating": "safe",
-   "score": 0.32187766,
+   "score": 0.32285076,
    "languages": [
     "fr"
    ]
@@ -72,7 +72,7 @@
     "en": "SNOW SMILE"
    },
    "contentRating": "safe",
-   "score": 0.31556007,
+   "score": 0.3162032,
    "languages": [
     "en"
    ]
@@ -83,7 +83,7 @@
     "en": "Yuuto no Shinro Kibou"
    },
    "contentRating": "safe",
-   "score": 0.30419895,
+   "score": 0.305595,
    "languages": [
     "en"
    ]
@@ -94,7 +94,7 @@
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.29677844,
+   "score": 0.29692915,
    "languages": [
     "en"
    ]
@@ -105,7 +105,7 @@
     "en": "Jekyll no Tsukaima"
    },
    "contentRating": "safe",
-   "score": 0.29351723,
+   "score": 0.29293814,
    "languages": [
     "en",
     "pl"
@@ -117,13 +117,25 @@
     "en": "Apollo"
    },
    "contentRating": "safe",
-   "score": 0.29092208,
+   "score": 0.2887296,
    "languages": [
     "pt-br",
     "ru",
     "zh-hk",
     "ar",
     "en"
+   ]
+  },
+  {
+   "id": "67e38fec-4bf7-4838-8aa3-66961a34389d",
+   "title": {
+    "en": "Rojiura no Mahou Tantei Jimusho"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -144,8 +156,21 @@
     "en": "Monster and Child"
    },
    "contentRating": "safe",
-   "score": 0.28376254,
+   "score": 0.28177828,
    "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "1f68439a-24eb-4baa-b48f-184a2f5f07de",
+   "title": {
+    "en": "Ganbare Chrono-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.2817651,
+   "languages": [
+    "fr",
     "en",
     "de"
    ]
@@ -156,7 +181,7 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.2814575,
+   "score": 0.28020746,
    "languages": [
     "fr",
     "en",
@@ -165,37 +190,12 @@
    ]
   },
   {
-   "id": "03c42f22-3397-47b5-86d6-43def0cd5e7c",
-   "title": {
-    "en": "Yahabe"
-   },
-   "contentRating": "safe",
-   "score": 0.28115976,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "1f68439a-24eb-4baa-b48f-184a2f5f07de",
-   "title": {
-    "en": "Ganbare Chrono-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.27991024,
-   "languages": [
-    "fr",
-    "en",
-    "de"
-   ]
-  },
-  {
    "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
    "title": {
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.27923432,
+   "score": 0.27974796,
    "languages": [
     "pt-br",
     "pl",
@@ -205,5 +205,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:04+00:00"
+ "updatedAt": "2023-12-10T18:22:48+00:00"
 }

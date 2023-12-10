@@ -11,7 +11,7 @@
     "en": "Orient"
    },
    "contentRating": "suggestive",
-   "score": 0.20158783,
+   "score": 0.20118414,
    "languages": [
     "pt-br",
     "en",
@@ -45,28 +45,10 @@
     "en": "Engage Kiss"
    },
    "contentRating": "suggestive",
-   "score": 0.17468403,
+   "score": 0.172381,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
-   "title": {
-    "en": "Dandadan"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1705105,
-   "languages": [
-    "pt-br",
-    "ru",
-    "uk",
-    "fr",
-    "en",
-    "es-la",
-    "fa",
-    "th"
    ]
   },
   {
@@ -75,7 +57,7 @@
     "en": "Burn the Witch"
    },
    "contentRating": "suggestive",
-   "score": 0.17025198,
+   "score": 0.16947065,
    "languages": [
     "de",
     "he",
@@ -103,12 +85,30 @@
    ]
   },
   {
+   "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+   "title": {
+    "en": "Dandadan"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16322787,
+   "languages": [
+    "pt-br",
+    "ru",
+    "uk",
+    "fr",
+    "en",
+    "es-la",
+    "fa",
+    "th"
+   ]
+  },
+  {
    "id": "cb30c8e7-133a-47eb-8ac8-06b7cc998706",
    "title": {
     "en": "Yozakura Quartet"
    },
    "contentRating": "suggestive",
-   "score": 0.15412568,
+   "score": 0.15372935,
    "languages": [
     "vi",
     "en",
@@ -121,7 +121,7 @@
     "en": "Trinity Seven"
    },
    "contentRating": "suggestive",
-   "score": 0.1479784,
+   "score": 0.14811042,
    "languages": [
     "de",
     "en",
@@ -137,7 +137,7 @@
     "en": "Saigo No Furyou"
    },
    "contentRating": "suggestive",
-   "score": 0.14792828,
+   "score": 0.14674935,
    "languages": [
     "vi"
    ]
@@ -148,7 +148,7 @@
     "en": "Keroro Gunsou"
    },
    "contentRating": "suggestive",
-   "score": 0.14630899,
+   "score": 0.14602269,
    "languages": [
     "en"
    ]
@@ -159,7 +159,7 @@
     "en": "Ultra Positive Energy Demon King"
    },
    "contentRating": "suggestive",
-   "score": 0.14444792,
+   "score": 0.14442469,
    "languages": [
     "en"
    ]
@@ -184,7 +184,7 @@
     "en": "Ningen Card"
    },
    "contentRating": "suggestive",
-   "score": 0.1422369,
+   "score": 0.14210372,
    "languages": [
     "id",
     "en"
@@ -196,7 +196,7 @@
     "en": "Debby the Corsifa wa Makezugirai"
    },
    "contentRating": "suggestive",
-   "score": 0.13901128,
+   "score": 0.13880646,
    "languages": [
     "en",
     "th",
@@ -209,7 +209,7 @@
     "en": "Giant Ojou-sama"
    },
    "contentRating": "suggestive",
-   "score": 0.13694389,
+   "score": 0.13602167,
    "languages": [
     "en",
     "es-la"
@@ -231,5 +231,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:31+00:00"
+ "updatedAt": "2023-12-10T18:34:20+00:00"
 }

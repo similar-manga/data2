@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b06a0002-c27b-4cbe-8c4a-a8e61a4bc37c",
+   "title": {
+    "en": "Song of Baseball Fans"
+   },
+   "contentRating": "safe",
+   "score": 0.30740073
+  },
+  {
    "id": "d362fd89-f15c-481f-8bf1-17e59e125d03",
    "title": {
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.31227612,
+   "score": 0.306311,
    "languages": [
     "ru",
     "en",
@@ -19,12 +27,20 @@
    ]
   },
   {
-   "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
+   "id": "d71bb5fd-5d09-4397-aa42-b2753050f2c0",
    "title": {
-    "en": "Play Ball"
+    "en": "Pro Baseball Arc - Dokaben Part 3"
    },
    "contentRating": "safe",
-   "score": 0.3089112
+   "score": 0.29726872
+  },
+  {
+   "id": "c9684ff2-709a-4135-9a88-f47f206f7e05",
+   "title": {
+    "en": "Dokaben - Dokaben Part 1"
+   },
+   "contentRating": "safe",
+   "score": 0.29651698
   },
   {
    "id": "b296f8e8-1f16-4ca1-8233-ecffebae0b15",
@@ -32,7 +48,23 @@
     "en": "Hungry Heart"
    },
    "contentRating": "safe",
-   "score": 0.29874554
+   "score": 0.29525405
+  },
+  {
+   "id": "7f5e5bd3-a357-48d7-8373-1408c046cf5c",
+   "title": {
+    "en": "Do Your Best, Shonen Giants"
+   },
+   "contentRating": "safe",
+   "score": 0.2889075
+  },
+  {
+   "id": "5d223901-4df0-4952-b569-c7cdf1357e4e",
+   "title": {
+    "en": "Bat-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.2844957
   },
   {
    "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
@@ -40,7 +72,7 @@
     "en": "Prince of Tennis II"
    },
    "contentRating": "safe",
-   "score": 0.2792298,
+   "score": 0.27862856,
    "languages": [
     "pl",
     "es",
@@ -53,19 +85,59 @@
     "en": "Otoko do Ahou Koushien"
    },
    "contentRating": "safe",
-   "score": 0.26258624
+   "score": 0.25872064
   },
   {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "id": "436730b8-282a-4f1f-b02c-b9c534b2ee66",
    "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+    "en": "Irregulars"
    },
    "contentRating": "safe",
-   "score": 0.24563487,
+   "score": 0.24892557,
    "languages": [
-    "it",
+    "vi",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "85b3c17d-68fb-4c70-8641-0ced19ca9006",
+   "title": {
+    "en": "Boukyaku Battery"
+   },
+   "contentRating": "safe",
+   "score": 0.24580012,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
+   "title": {
+    "en": "Fairway no Koe wo Kikasete"
+   },
+   "contentRating": "safe",
+   "score": 0.24558593,
+   "languages": [
     "en"
    ]
+  },
+  {
+   "id": "3d663521-feb5-4f61-ad5c-1187688c3013",
+   "title": {
+    "en": "The Ace's Condition"
+   },
+   "contentRating": "safe",
+   "score": 0.24534571
+  },
+  {
+   "id": "1f1f43b4-9a72-4d5e-817e-44883a375fb9",
+   "title": {
+    "en": "Dai Koshien - Dokaben Part 2"
+   },
+   "contentRating": "safe",
+   "score": 0.24488017
   },
   {
    "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
@@ -73,7 +145,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.24446602,
+   "score": 0.24407762,
    "languages": [
     "en",
     "pt-br",
@@ -85,111 +157,16 @@
    ]
   },
   {
-   "id": "3805fc64-44f0-46b6-b972-5c14ce7e856c",
+   "id": "7f854d21-0d00-4f24-a835-b28834daacc9",
    "title": {
-    "en": "Maple Purple"
+    "en": "Hachigatsu no Cinderella Nine S"
    },
    "contentRating": "safe",
-   "score": 0.24304612,
+   "score": 0.24376683,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
-  },
-  {
-   "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
-   "title": {
-    "en": "Star of the Giants"
-   },
-   "contentRating": "safe",
-   "score": 0.24258022
-  },
-  {
-   "id": "a03f3f71-b6ac-4851-b2a2-93d9a2845d6f",
-   "title": {
-    "en": "Hand Command"
-   },
-   "contentRating": "safe",
-   "score": 0.23906146
-  },
-  {
-   "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
-   "title": {
-    "en": "Blue Lock"
-   },
-   "contentRating": "safe",
-   "score": 0.23471737,
-   "languages": [
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "pt-br",
-    "en",
-    "it",
-    "tr",
-    "uk",
-    "fr",
-    "hu",
-    "de"
-   ]
-  },
-  {
-   "id": "ff483bb4-416c-4bfa-934b-11407da72530",
-   "title": {
-    "en": "Captain Tsubasa Special Arc: Dream of a Pro-Debut in Brazil"
-   },
-   "contentRating": "safe",
-   "score": 0.234087,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
-   "title": {
-    "en": "Yowamushi Pedal"
-   },
-   "contentRating": "safe",
-   "score": 0.22908811,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.22899085,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
-   "title": {
-    "en": "Kickoff to Tomorrow"
-   },
-   "contentRating": "safe",
-   "score": 0.22407773
-  },
-  {
-   "id": "015a8a99-4368-4859-8437-bf903d3aa9a1",
-   "title": {
-    "en": "Footballman Taka"
-   },
-   "contentRating": "safe",
-   "score": 0.22353269
   }
  ],
- "updatedAt": "2023-12-10T01:10:15+00:00"
+ "updatedAt": "2023-12-10T18:36:07+00:00"
 }

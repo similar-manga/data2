@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+   "title": {
+    "en": "Charm Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.295111,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "0d288362-7f31-4cc8-b4ab-07f9bab596e5",
    "title": {
     "en": "Hakoniwa Angel"
    },
    "contentRating": "safe",
-   "score": 0.28659588,
+   "score": 0.2841753,
    "languages": [
     "en"
    ]
@@ -22,7 +34,18 @@
     "en": "Honey Holic"
    },
    "contentRating": "safe",
-   "score": 0.2838224,
+   "score": 0.28137222,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
+   "title": {
+    "en": "Dress-up Yuka-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.2804785,
    "languages": [
     "en"
    ]
@@ -33,7 +56,7 @@
     "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.27450556,
+   "score": 0.27374378,
    "languages": [
     "en"
    ]
@@ -44,7 +67,7 @@
     "en": "Lovely"
    },
    "contentRating": "safe",
-   "score": 0.2719217,
+   "score": 0.2710957,
    "languages": [
     "en"
    ]
@@ -55,7 +78,7 @@
     "en": "She's Scary"
    },
    "contentRating": "safe",
-   "score": 0.27149606,
+   "score": 0.27055445,
    "languages": [
     "en"
    ]
@@ -66,7 +89,7 @@
     "en": "Gakkou no Ojikan"
    },
    "contentRating": "safe",
-   "score": 0.26728958,
+   "score": 0.2663499,
    "languages": [
     "pl",
     "en"
@@ -78,9 +101,21 @@
     "en": "Anesan Countdown!"
    },
    "contentRating": "safe",
-   "score": 0.266971,
+   "score": 0.26589814,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.26310155,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -89,7 +124,7 @@
     "en": "Kirara no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.26561803,
+   "score": 0.26220655,
    "languages": [
     "en"
    ]
@@ -100,38 +135,26 @@
     "en": "Say Love"
    },
    "contentRating": "safe",
-   "score": 0.2650247,
+   "score": 0.26164478,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f903065a-0031-4356-a699-17dec02c5759",
+   "id": "731387bd-2ec8-42bb-8159-40f4be58c620",
    "title": {
-    "en": "Miunohri to Swan"
+    "en": "Angel on Demand"
    },
    "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "fb89fa17-5674-4ad6-ad3c-1c7b50830aeb",
-   "title": {
-    "en": "H³ School!"
-   },
-   "contentRating": "safe",
-   "score": 0.25775465,
+   "score": 0.25887424,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "17ec48a1-5930-444e-a1f4-8b5453b1d101",
+   "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
    "title": {
-    "en": "Orera Kourin! Ai toka Koi toka Sekai toka"
+    "en": "Cream"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -140,38 +163,15 @@
    ]
   },
   {
-   "id": "1acf9ab1-cee1-486a-b71e-70a8b2a508ee",
+   "id": "4dc16407-9fc9-49f7-8a44-aada787df91c",
    "title": {
-    "en": "MISS"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "399028d9-bfb2-446c-98d0-c91fc81089cf",
-   "title": {
-    "en": "Hoshigami-kun wa douka shite iru"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
-   "title": {
-    "en": "Aozora Pop"
+    "en": "The Guy Who Will Give a Kiss for ₩ 5000"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
     "en",
-    "pl"
+    "fr"
    ]
   },
   {
@@ -186,5 +186,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:02+00:00"
+ "updatedAt": "2023-12-10T18:14:40+00:00"
 }

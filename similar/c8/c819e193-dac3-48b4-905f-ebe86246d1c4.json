@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+   "title": {
+    "en": "Charm Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.27723727,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
    "title": {
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.2730913,
+   "score": 0.27258244,
    "languages": [
     "en"
    ]
@@ -33,7 +45,7 @@
     "en": "One Thousand and One Nights in Wonder Land"
    },
    "contentRating": "safe",
-   "score": 0.25201565,
+   "score": 0.25172308,
    "languages": [
     "en"
    ]
@@ -44,10 +56,21 @@
     "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.2433262,
+   "score": 0.24258165,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "2cb946ee-db33-4521-a208-02a970ce328c",
+   "title": {
+    "en": "Ayakashiou no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.2404987,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -56,7 +79,29 @@
     "en": "Asura"
    },
    "contentRating": "safe",
-   "score": 0.24033132,
+   "score": 0.23964617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "67fca05f-56eb-452c-b325-4402ab8fd544",
+   "title": {
+    "en": "Dragon and the Phoenix"
+   },
+   "contentRating": "safe",
+   "score": 0.23893408,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9fe65996-bbab-41c4-8553-d677f409c342",
+   "title": {
+    "en": "Trouble G"
+   },
+   "contentRating": "safe",
+   "score": 0.23795871,
    "languages": [
     "en"
    ]
@@ -67,7 +112,7 @@
     "en": "Luna Lunatic"
    },
    "contentRating": "safe",
-   "score": 0.2375536,
+   "score": 0.23739092,
    "languages": [
     "en"
    ]
@@ -78,9 +123,20 @@
     "en": "Gender Bug ga Hassei Shimashita!?"
    },
    "contentRating": "safe",
-   "score": 0.23484543,
+   "score": 0.23620997,
    "languages": [
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "06a61440-6cb4-412f-93f2-5a4b96b86216",
+   "title": {
+    "en": "Let Love Rule"
+   },
+   "contentRating": "safe",
+   "score": 0.23224436,
+   "languages": [
     "en"
    ]
   },
@@ -101,27 +157,15 @@
     "en": "Angel Hunt"
    },
    "contentRating": "safe",
-   "score": 0.23145057,
+   "score": 0.23109683,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1994a996-069e-41b9-a54b-417f566b3f0b",
+   "id": "52452bbe-ce25-4c84-bd3a-c061b9afa253",
    "title": {
-    "en": "A Love in 100 Days"
-   },
-   "contentRating": "safe",
-   "score": 0.22845426,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "87a0aaf6-9fc7-48a7-a18b-b1dd165fd200",
-   "title": {
-    "en": "Hakamori Majo Bianca"
+    "en": "Alice in Junk Box  ~Dia~"
    },
    "contentRating": "safe",
    "score": 0.22755206,
@@ -139,51 +183,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "edfc095d-7867-4dac-9a45-5429c3f009b7",
-   "title": {
-    "en": "Oh, My Romantic Kumiho"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "db590d5b-875c-4c33-aa86-4f9db879508a",
-   "title": {
-    "en": "The Cinderella's Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.22698107,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf44b0a9-707c-4bcd-9c0c-e8cc195ff926",
-   "title": {
-    "en": "Prince of the Night"
-   },
-   "contentRating": "safe",
-   "score": 0.22212441,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5d82f372-f640-4101-838b-03085eb95d67",
-   "title": {
-    "en": "Don't Cheat on Me!"
-   },
-   "contentRating": "safe",
-   "score": 0.21726082,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:00+00:00"
+ "updatedAt": "2023-12-10T18:30:34+00:00"
 }

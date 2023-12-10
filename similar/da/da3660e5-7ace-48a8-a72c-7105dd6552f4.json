@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a3d7c321-07aa-4aec-ad28-48811473bae0",
+   "title": {
+    "en": "Kakemen"
+   },
+   "contentRating": "safe",
+   "score": 0.25206885
+  },
+  {
    "id": "02ac8a93-e038-4d3b-97f9-9413eabd6929",
    "title": {
     "en": "Ponpoko Robo Ato \u0026 Suu"
@@ -14,12 +22,50 @@
    "score": 0.23328476
   },
   {
+   "id": "f3e8cdf6-0d32-4fb4-b749-7cbab50a2bd9",
+   "title": {
+    "en": "Kiss XXXX"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b36689e-955b-4e8a-b480-124b76912da8",
+   "title": {
+    "en": "The 31st Consort"
+   },
+   "contentRating": "safe",
+   "score": 0.23264466,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "56301413-bdd7-49b6-9cab-a02e4066065e",
    "title": {
     "en": "Bremen II"
    },
    "contentRating": "safe",
-   "score": 0.22888967
+   "score": 0.2286457
+  },
+  {
+   "id": "500cd906-12ee-4e64-942c-467615ebd46e",
+   "title": {
+    "en": "Yoru Nimo Makezu!"
+   },
+   "contentRating": "safe",
+   "score": 0.19964461
+  },
+  {
+   "id": "9df20eed-2835-4923-91bd-2f8360dad053",
+   "title": {
+    "en": "Kuroi Tulip"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621
   },
   {
    "id": "dcdd2cb2-df50-4334-9f18-3a7cd77ac0bc",
@@ -33,17 +79,17 @@
    ]
   },
   {
-   "id": "9df20eed-2835-4923-91bd-2f8360dad053",
+   "id": "f41af064-40cc-4bc9-bc12-c07f7a00feba",
    "title": {
-    "en": "Kuroi Tulip"
+    "en": "Chou Kanden Shoujo Mona"
    },
    "contentRating": "safe",
    "score": 0.19047621
   },
   {
-   "id": "f41af064-40cc-4bc9-bc12-c07f7a00feba",
+   "id": "d6ab66bd-e2c3-4b20-bbd6-0b0372862181",
    "title": {
-    "en": "Chou Kanden Shoujo Mona"
+    "en": "Tsukiuta. The Animation"
    },
    "contentRating": "safe",
    "score": 0.19047621
@@ -54,7 +100,7 @@
     "en": "2-ri wa S x S"
    },
    "contentRating": "safe",
-   "score": 0.18240544
+   "score": 0.18102902
   },
   {
    "id": "3f8ae564-7691-43e0-92b6-954d0e17cc43",
@@ -62,7 +108,7 @@
     "en": "Sono Te o Dokero"
    },
    "contentRating": "safe",
-   "score": 0.17754948
+   "score": 0.17660472
   },
   {
    "id": "b3821054-2d1f-4068-a793-89eab14c9c43",
@@ -70,7 +116,7 @@
     "en": "Star Red"
    },
    "contentRating": "safe",
-   "score": 0.17650953
+   "score": 0.1754571
   },
   {
    "id": "4067baf3-045a-47cb-93ce-4a77f406a288",
@@ -78,67 +124,24 @@
     "en": "So What?"
    },
    "contentRating": "safe",
-   "score": 0.1754181
+   "score": 0.17510577
   },
   {
-   "id": "e4078c9e-ce22-4c0d-b14c-5368fb764c05",
+   "id": "44a04215-1743-47ea-81c9-53a0ee843aea",
    "title": {
-    "en": "Kuchibiru kara Hatsunetsu"
+    "en": "Mio-san, Kyou mo Zurui desu!"
    },
    "contentRating": "safe",
-   "score": 0.1651088
+   "score": 0.17215593
   },
   {
-   "id": "a92ba861-1f17-4297-9d05-b36a450cfb61",
+   "id": "06d8e50e-9f48-4199-8d3d-67eb5f34e48f",
    "title": {
-    "en": "Space Travers"
+    "en": "Chuubyou Gekihatsu Boy NEO"
    },
    "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "1489f779-9471-4872-bf91-261d7f4e2f95",
-   "title": {
-    "en": "Rozen Maiden - Dolls Talk"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "67c8b9a3-0d24-4f64-9679-6cf55ad1d291",
-   "title": {
-    "en": "Harattama Kiyottama"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "b161b78a-512b-4915-876b-738a948b192e",
-   "title": {
-    "en": "Baka Demo Kakeru Manga Kyoushitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "62c858e5-15f5-4153-be67-6dc909d7b773",
-   "title": {
-    "en": "Girl Meat Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
-  },
-  {
-   "id": "eef87c03-9b2d-4793-9927-d841d2f730a6",
-   "title": {
-    "en": "Puripuri Chii-chan!!"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723
+   "score": 0.16907822
   }
  ],
- "updatedAt": "2023-12-10T01:08:46+00:00"
+ "updatedAt": "2023-12-10T18:32:29+00:00"
 }

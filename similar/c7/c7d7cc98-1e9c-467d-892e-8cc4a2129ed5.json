@@ -6,12 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.44302857,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "2b37189e-0bb2-4586-9757-b3fe6acd77b3",
+   "title": {
+    "en": "Majo Taisen - The War of Greedy Witches"
+   },
+   "contentRating": "safe",
+   "score": 0.32117373,
+   "languages": [
+    "en",
+    "fr",
+    "id",
+    "pt-br",
+    "uk",
+    "tr",
+    "es-la",
+    "vi",
+    "ru"
+   ]
+  },
+  {
    "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
    "title": {
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.3196921,
+   "score": 0.31598797,
    "languages": [
     "my",
     "es-la",
@@ -28,8 +61,54 @@
     "en": "Arthur Pyuty wa Yoru no Majo"
    },
    "contentRating": "safe",
-   "score": 0.28077742,
+   "score": 0.27748898,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "628aa506-6510-40ee-9bd1-298cef71fba5",
+   "title": {
+    "en": "Grenimal no Shokeinin"
+   },
+   "contentRating": "safe",
+   "score": 0.2761475,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2964c73a-5ab4-4517-80b7-86bc2872e3ed",
+   "title": {
+    "en": "Pilgrim Jager"
+   },
+   "contentRating": "safe",
+   "score": 0.26334655,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
+   "title": {
+    "en": "The Twin Empires"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+   "title": {
+    "en": "RDB"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -39,7 +118,7 @@
     "en": "King's Proposal"
    },
    "contentRating": "safe",
-   "score": 0.25841472,
+   "score": 0.25480342,
    "languages": [
     "id",
     "uk",
@@ -63,7 +142,7 @@
     "en": "Uncanny Brains"
    },
    "contentRating": "safe",
-   "score": 0.24038303,
+   "score": 0.24118024,
    "languages": [
     "en"
    ]
@@ -74,7 +153,7 @@
     "en": "Arashi no Hana Murakumo no Uta"
    },
    "contentRating": "safe",
-   "score": 0.23815913,
+   "score": 0.2376232,
    "languages": [
     "en"
    ]
@@ -85,7 +164,7 @@
     "en": "Vermillion"
    },
    "contentRating": "safe",
-   "score": 0.23796067,
+   "score": 0.23729761,
    "languages": [
     "en"
    ]
@@ -96,7 +175,7 @@
     "en": "Death Edge"
    },
    "contentRating": "safe",
-   "score": 0.2354373,
+   "score": 0.23532683,
    "languages": [
     "pl",
     "en"
@@ -108,7 +187,7 @@
     "en": "Evil Eater"
    },
    "contentRating": "safe",
-   "score": 0.23540944,
+   "score": 0.2352547,
    "languages": [
     "en"
    ]
@@ -123,76 +202,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "04987753-1655-4149-aa40-fa732c753a41",
-   "title": {
-    "en": "Godspeed 0.1"
-   },
-   "contentRating": "safe",
-   "score": 0.23318832,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
-   "title": {
-    "en": "Chaos Rings"
-   },
-   "contentRating": "safe",
-   "score": 0.2240614,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.21457407,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
-   "title": {
-    "en": "Kishibe no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "es-la",
-    "tr"
-   ]
-  },
-  {
-   "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
-   "title": {
-    "en": "Omega Tribe Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.21396111,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a2f4703c-e966-4e5b-bb6c-9b663f361173",
-   "title": {
-    "en": "Ware wa Ken-ou!!"
-   },
-   "contentRating": "safe",
-   "score": 0.20595257,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:00+00:00"
+ "updatedAt": "2023-12-10T18:30:32+00:00"
 }

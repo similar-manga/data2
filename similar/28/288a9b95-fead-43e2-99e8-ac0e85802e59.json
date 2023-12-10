@@ -25,7 +25,7 @@
     "en": "Kan no Mushi"
    },
    "contentRating": "safe",
-   "score": 0.26935378,
+   "score": 0.2691287,
    "languages": [
     "en",
     "pt-br"
@@ -49,7 +49,7 @@
     "en": "More Than Human: Spiderman Another Story!!"
    },
    "contentRating": "safe",
-   "score": 0.24945721,
+   "score": 0.24832554,
    "languages": [
     "en",
     "pt-br"
@@ -61,7 +61,7 @@
     "en": "A Meek Little Brother Like Me"
    },
    "contentRating": "safe",
-   "score": 0.24604832,
+   "score": 0.2454556,
    "languages": [
     "en"
    ]
@@ -83,15 +83,15 @@
     "en": "Merboy"
    },
    "contentRating": "safe",
-   "score": 0.22646385,
+   "score": 0.22589527,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
+   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
    "title": {
-    "en": "Breakaway"
+    "en": "Ringwanderung"
    },
    "contentRating": "safe",
    "score": 0.224204,
@@ -111,9 +111,9 @@
    ]
   },
   {
-   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
+   "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
    "title": {
-    "en": "Ringwanderung"
+    "en": "Breakaway"
    },
    "contentRating": "safe",
    "score": 0.224204,
@@ -138,9 +138,22 @@
     "en": "Honogurai Mizu no Soko kara"
    },
    "contentRating": "safe",
-   "score": 0.21224084,
+   "score": 0.21147281,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ebdcb990-a71b-4259-979c-fa65abe0c24a",
+   "title": {
+    "en": "Zanmu"
+   },
+   "contentRating": "safe",
+   "score": 0.20492966,
+   "languages": [
+    "vi",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -149,24 +162,11 @@
     "en": "The Mysterious Tale of Yumi-chan"
    },
    "contentRating": "safe",
-   "score": 0.20011598,
+   "score": 0.20018041,
    "languages": [
     "pt-br",
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
-   "title": {
-    "en": "Hitogata"
-   },
-   "contentRating": "safe",
-   "score": 0.19991998,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
    ]
   },
   {
@@ -182,17 +182,18 @@
    ]
   },
   {
-   "id": "0b1867cd-edfe-49f9-8711-b44b5d4ac714",
+   "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
    "title": {
-    "en": "Peephole"
+    "en": "Hitogata"
    },
    "contentRating": "safe",
-   "score": 0.19416638,
+   "score": 0.19906457,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "es-la",
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:19+00:00"
+ "updatedAt": "2023-12-10T18:12:40+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1e38f546-9007-4914-8131-17c707713b9e",
+   "title": {
+    "en": "Paladin Dad"
+   },
+   "contentRating": "safe",
+   "score": 0.29126477,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "64113fcd-4f8c-41bc-8fa4-18a83076da2e",
    "title": {
     "en": "The Last Human"
    },
    "contentRating": "safe",
-   "score": 0.2882322,
+   "score": 0.2712095,
    "languages": [
     "it",
     "en",
@@ -22,12 +33,24 @@
    ]
   },
   {
+   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
+   "title": {
+    "en": "Nightmare Game"
+   },
+   "contentRating": "safe",
+   "score": 0.23633434,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "1116821f-0141-45ef-b91d-a8131343dd87",
    "title": {
     "en": "The Mask of Truth"
    },
    "contentRating": "safe",
-   "score": 0.23490317,
+   "score": 0.23503958,
    "languages": [
     "pt-br",
     "en",
@@ -40,9 +63,22 @@
     "en": "The Heavenly Prince"
    },
    "contentRating": "safe",
-   "score": 0.23357937,
+   "score": 0.23384552,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "93667e0c-bbb5-405e-8698-3539a3c994fc",
+   "title": {
+    "en": "The Saviour's Time"
+   },
+   "contentRating": "safe",
+   "score": 0.23358762,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -57,16 +93,14 @@
    ]
   },
   {
-   "id": "93667e0c-bbb5-405e-8698-3539a3c994fc",
+   "id": "0d1e110b-99a6-41e9-a8b1-67f39ceabe68",
    "title": {
-    "en": "The Saviour's Time"
+    "en": "The Misfit Chronicles"
    },
    "contentRating": "safe",
-   "score": 0.23272662,
+   "score": 0.23103555,
    "languages": [
-    "en",
-    "ru",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -86,21 +120,9 @@
     "en": "Division 8's Record of Secrets"
    },
    "contentRating": "safe",
-   "score": 0.2275652,
+   "score": 0.2294644,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a2f02247-2bfc-4bdf-b3cc-7ba31cdaad20",
-   "title": {
-    "en": "Nightmare Game"
-   },
-   "contentRating": "safe",
-   "score": 0.21512486,
-   "languages": [
-    "en",
-    "ru"
    ]
   },
   {
@@ -109,7 +131,7 @@
     "en": "Checkpoint"
    },
    "contentRating": "safe",
-   "score": 0.21503042,
+   "score": 0.2151376,
    "languages": [
     "en"
    ]
@@ -120,7 +142,7 @@
     "en": "S.I.D. - Supernatural Investigation Department"
    },
    "contentRating": "safe",
-   "score": 0.2136979,
+   "score": 0.21324867,
    "languages": [
     "en",
     "pt-br"
@@ -162,38 +184,16 @@
    ]
   },
   {
-   "id": "338fd64d-37c5-410a-929a-938cda8234e2",
-   "title": {
-    "en": "The End Of A Relationship"
-   },
-   "contentRating": "safe",
-   "score": 0.20645477,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "05fecbc0-e8f2-4faa-9e56-21d55352fe31",
    "title": {
     "en": "Dark Hole: Another Survivor"
    },
    "contentRating": "safe",
-   "score": 0.20561472,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "467eee07-6c0b-49c5-a1bf-2b5d8686d514",
-   "title": {
-    "en": "Doom Spore"
-   },
-   "contentRating": "safe",
-   "score": 0.2018335,
+   "score": 0.2066613,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:52+00:00"
+ "updatedAt": "2023-12-10T18:27:35+00:00"
 }

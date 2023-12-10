@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "468bfe80-5869-4661-a1ee-d288c5491fc3",
+   "title": {
+    "en": "Harebare Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.31781247,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
    "id": "9031254b-142e-4341-a88a-ae025aecd2e3",
    "title": {
     "en": "Baby Lips"
    },
    "contentRating": "safe",
-   "score": 0.3066245,
+   "score": 0.3061028,
    "languages": [
     "en",
     "tr"
@@ -23,7 +36,7 @@
     "en": "Hyakuoku Nengo no Kimi no Koe mo"
    },
    "contentRating": "safe",
-   "score": 0.29389322,
+   "score": 0.29351696,
    "languages": [
     "it",
     "en"
@@ -35,7 +48,7 @@
     "en": "Lemon's"
    },
    "contentRating": "safe",
-   "score": 0.292182,
+   "score": 0.29131487,
    "languages": [
     "en",
     "fr"
@@ -53,12 +66,23 @@
    ]
   },
   {
+   "id": "e9418542-04e4-4e61-a860-dff4547fd69b",
+   "title": {
+    "en": "Bentouya-san no Omotenashi"
+   },
+   "contentRating": "safe",
+   "score": 0.276032,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ab9f56a8-b3f8-4485-afea-fb83b6795a84",
    "title": {
     "en": "Arata no Tsukumogami"
    },
    "contentRating": "safe",
-   "score": 0.27111506,
+   "score": 0.2725507,
    "languages": [
     "en"
    ]
@@ -69,7 +93,7 @@
     "en": "This Was in the Wallet of My Childhood Friend"
    },
    "contentRating": "safe",
-   "score": 0.2691943,
+   "score": 0.2688229,
    "languages": [
     "en",
     "vi"
@@ -81,7 +105,7 @@
     "en": "Heart-Pounding Dive!!"
    },
    "contentRating": "safe",
-   "score": 0.26866892,
+   "score": 0.26822615,
    "languages": [
     "en"
    ]
@@ -92,7 +116,7 @@
     "en": "Najo Line"
    },
    "contentRating": "safe",
-   "score": 0.2671987,
+   "score": 0.26641223,
    "languages": [
     "en"
    ]
@@ -103,7 +127,7 @@
     "en": "The Night We Become More Than Friends"
    },
    "contentRating": "safe",
-   "score": 0.2656809,
+   "score": 0.26526582,
    "languages": [
     "en"
    ]
@@ -114,8 +138,21 @@
     "en": "Your Warmth (Winter Never Ends)"
    },
    "contentRating": "safe",
-   "score": 0.26349744,
+   "score": 0.26285967,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "74aa4ebc-b67f-4f56-bdf1-719d7aa0d162",
+   "title": {
+    "en": "Osananajimi ni Kisu shichatta Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.25938717,
+   "languages": [
+    "fr",
+    "vi",
     "en"
    ]
   },
@@ -143,54 +180,17 @@
    ]
   },
   {
-   "id": "74aa4ebc-b67f-4f56-bdf1-719d7aa0d162",
+   "id": "08c3523d-ce0e-4754-84bf-a6eead70b49e",
    "title": {
-    "en": "Osananajimi ni Kisu shichatta Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.25938717,
-   "languages": [
-    "fr",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "2d9e2b65-213a-4c33-96b9-7013e12ff255",
-   "title": {
-    "en": "Girlfriend"
+    "en": "Predawn Girls"
    },
    "contentRating": "safe",
    "score": 0.25916255,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a1f390cc-5eac-49b3-9a08-e2fefe4252a5",
-   "title": {
-    "en": "Off Time"
-   },
-   "contentRating": "safe",
-   "score": 0.25916255,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "c0f4d94c-7c61-4e9e-928e-25397b450813",
-   "title": {
-    "en": "Yuri Between a Science Major and Her Yankee Kouhai"
-   },
-   "contentRating": "safe",
-   "score": 0.25916255,
-   "languages": [
-    "pt-br",
+    "it",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:14+00:00"
+ "updatedAt": "2023-12-10T18:15:18+00:00"
 }

@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f486a183-6660-492b-b94b-aa80960d8326",
+   "title": {
+    "en": "Dragon Ball Super - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.28875133,
+   "languages": [
+    "ar",
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
    "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
    "title": {
     "en": "Star Ocean - The Second Story"
    },
    "contentRating": "safe",
-   "score": 0.26938286,
+   "score": 0.27387017,
    "languages": [
     "en"
    ]
@@ -22,21 +36,9 @@
     "en": "Star Ocean - Blue Sphere"
    },
    "contentRating": "safe",
-   "score": 0.26206616,
+   "score": 0.26812625,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
-   "title": {
-    "en": "Dragon Ball Heroes - Victory Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -55,14 +57,41 @@
    ]
   },
   {
+   "id": "4b1a60d8-d7f0-4c6b-b64f-43a192089f34",
+   "title": {
+    "en": "Dragon Ball Heroes - Victory Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
    "title": {
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.2550613,
+   "score": 0.25428802,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a81d7f35-eaca-43a8-9928-2b1b521556b2",
+   "title": {
+    "en": "Super Dragon Ball Heroes: Meteor Mission!"
+   },
+   "contentRating": "safe",
+   "score": 0.25036117,
+   "languages": [
+    "es-la",
+    "fr",
+    "pl",
+    "en",
+    "es"
    ]
   },
   {
@@ -71,7 +100,7 @@
     "en": "The Game Invades the Earth"
    },
    "contentRating": "safe",
-   "score": 0.25038445,
+   "score": 0.24863182,
    "languages": [
     "en"
    ]
@@ -82,7 +111,7 @@
     "en": "RWBY: Ice Queendom"
    },
    "contentRating": "safe",
-   "score": 0.23856685,
+   "score": 0.237854,
    "languages": [
     "ru",
     "en",
@@ -95,7 +124,7 @@
     "en": "Dragon Ball GT"
    },
    "contentRating": "safe",
-   "score": 0.23393638,
+   "score": 0.23488648,
    "languages": [
     "en"
    ]
@@ -106,7 +135,7 @@
     "en": "Different Kings"
    },
    "contentRating": "safe",
-   "score": 0.23290496,
+   "score": 0.23274992,
    "languages": [
     "en"
    ]
@@ -117,7 +146,7 @@
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.23146178,
+   "score": 0.23053564,
    "languages": [
     "pt-br",
     "id",
@@ -131,7 +160,7 @@
     "en": "Gekitotsu no Hexennacht"
    },
    "contentRating": "safe",
-   "score": 0.22748892,
+   "score": 0.22757359,
    "languages": [
     "es-la"
    ]
@@ -142,8 +171,20 @@
     "en": "NOW"
    },
    "contentRating": "safe",
-   "score": 0.22410949,
+   "score": 0.22396731,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9f87f85d-06ea-49f8-b4e2-decb48315854",
+   "title": {
+    "en": "The Legend of the Ancient Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.22381674,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -153,45 +194,12 @@
     "en": "Saint Seiya - Saintia Sho"
    },
    "contentRating": "safe",
-   "score": 0.22171998,
+   "score": 0.22280023,
    "languages": [
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "73420787-570b-4548-8911-b225b8d25dd8",
-   "title": {
-    "en": "Iron Fist Chinmi Legends"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
-   "title": {
-    "en": "Version"
-   },
-   "contentRating": "safe",
-   "score": 0.21254666,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "05a04e0b-43fa-46a5-a9bf-673b20f692a3",
-   "title": {
-    "en": "Cat's World"
-   },
-   "contentRating": "safe",
-   "score": 0.20719938,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:02+00:00"
+ "updatedAt": "2023-12-10T18:28:04+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Three Months Since You Called Me Mama"
    },
    "contentRating": "safe",
-   "score": 0.3486359,
+   "score": 0.35283488,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.28774774,
+   "score": 0.29410195,
    "languages": [
     "en",
     "it"
@@ -34,22 +34,10 @@
     "en": "Keron"
    },
    "contentRating": "safe",
-   "score": 0.2877354,
+   "score": 0.29161763,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
-   "title": {
-    "en": "Fugitives"
-   },
-   "contentRating": "safe",
-   "score": 0.27650186,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -58,7 +46,7 @@
     "en": "Oni (KANNO Osamu)"
    },
    "contentRating": "safe",
-   "score": 0.27237716,
+   "score": 0.27572212,
    "languages": [
     "vi",
     "en"
@@ -70,7 +58,7 @@
     "en": "Lighter"
    },
    "contentRating": "safe",
-   "score": 0.2631039,
+   "score": 0.2693058,
    "languages": [
     "en"
    ]
@@ -81,9 +69,21 @@
     "en": "Kappa Love Story"
    },
    "contentRating": "safe",
-   "score": 0.26052502,
+   "score": 0.26595217,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "91cf274a-27eb-4b8c-ba5b-d9c1dd74a878",
+   "title": {
+    "en": "Fugitives"
+   },
+   "contentRating": "safe",
+   "score": 0.2646966,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -92,10 +92,21 @@
     "en": "Planet (MIZUKI Shigeru)"
    },
    "contentRating": "safe",
-   "score": 0.24373351,
+   "score": 0.25073817,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b82573c8-719a-41f2-86c6-9d7952318c58",
+   "title": {
+    "en": "\"Garo\" Keisai Sakuhin (Mizuki Shigeru Manga Taizenshuu)"
+   },
+   "contentRating": "safe",
+   "score": 0.24655867,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -104,7 +115,7 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.23278373,
+   "score": 0.23950969,
    "languages": [
     "it",
     "en"
@@ -116,22 +127,10 @@
     "en": "Impermanence Resonating: An Attempt at a SF Manga"
    },
    "contentRating": "safe",
-   "score": 0.2231291,
+   "score": 0.2271843,
    "languages": [
     "en",
     "it"
-   ]
-  },
-  {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
-   "title": {
-    "en": "Revenge Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.19702588,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -140,9 +139,33 @@
     "en": "Aria on the Holy String"
    },
    "contentRating": "safe",
-   "score": 0.19603871,
+   "score": 0.1989835,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.19758685,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "title": {
+    "en": "Revenge Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.19562542,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -164,60 +187,11 @@
     "en": "Someday He's Gonna Get Me"
    },
    "contentRating": "safe",
-   "score": 0.19237563,
+   "score": 0.19116381,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
-   "title": {
-    "en": "Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.19140238,
-   "languages": [
-    "en",
-    "it",
-    "vi",
-    "ar",
-    "ru",
-    "es",
-    "pt-br",
-    "pl",
-    "tr",
-    "ro",
-    "id",
-    "es-la",
-    "fr",
-    "de"
-   ]
-  },
-  {
-   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
-   "title": {
-    "en": "Record of Ragnarok"
-   },
-   "contentRating": "safe",
-   "score": 0.18689911,
-   "languages": [
-    "zh-hk",
-    "en",
-    "fr",
-    "tr",
-    "es-la",
-    "ru",
-    "pt-br",
-    "bg",
-    "uk",
-    "id",
-    "it",
-    "vi",
-    "fa",
-    "ar",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:15+00:00"
+ "updatedAt": "2023-12-10T18:36:07+00:00"
 }

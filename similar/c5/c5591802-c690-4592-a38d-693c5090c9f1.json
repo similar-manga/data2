@@ -11,7 +11,7 @@
     "en": "Full Metal Panic! 0"
    },
    "contentRating": "safe",
-   "score": 0.33125314
+   "score": 0.32755277
   },
   {
    "id": "224db38f-3582-4f1f-b211-66929b9cdb7a",
@@ -19,7 +19,7 @@
     "en": "Final Fantasy Type-0"
    },
    "contentRating": "safe",
-   "score": 0.29628602
+   "score": 0.2963706
   },
   {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
@@ -27,7 +27,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.28346246
+   "score": 0.28352317
   },
   {
    "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
@@ -35,9 +35,23 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.2592609,
+   "score": 0.25809324,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
+   "title": {
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.25506395,
+   "languages": [
+    "id",
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -46,7 +60,7 @@
     "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.2524675
+   "score": 0.25140655
   },
   {
    "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
@@ -54,7 +68,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.25146005,
+   "score": 0.2512268,
    "languages": [
     "en"
    ]
@@ -71,12 +85,20 @@
    ]
   },
   {
+   "id": "476cb5ed-671c-4309-a1b8-d26053ad7534",
+   "title": {
+    "en": "0 Sen Kamen + Aircraft Carrier Island"
+   },
+   "contentRating": "safe",
+   "score": 0.2431983
+  },
+  {
    "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
    "title": {
     "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
    },
    "contentRating": "safe",
-   "score": 0.24262603,
+   "score": 0.24230011,
    "languages": [
     "en"
    ]
@@ -87,7 +109,7 @@
     "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
    },
    "contentRating": "safe",
-   "score": 0.23900275,
+   "score": 0.23839183,
    "languages": [
     "en"
    ]
@@ -98,7 +120,7 @@
     "en": "Miraizer Vam"
    },
    "contentRating": "safe",
-   "score": 0.23644938
+   "score": 0.23666292
   },
   {
    "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
@@ -106,7 +128,21 @@
     "en": "Wild Eagle Boys Unit"
    },
    "contentRating": "safe",
-   "score": 0.23105435
+   "score": 0.23180105
+  },
+  {
+   "id": "fdb14889-59ef-48dd-a883-7558f04c2060",
+   "title": {
+    "en": "Ryoumin 0-nin Start no Henkyou Ryoushusama"
+   },
+   "contentRating": "safe",
+   "score": 0.23034099,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es-la"
+   ]
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -125,7 +161,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.22786482,
+   "score": 0.22743766,
    "languages": [
     "en",
     "fr",
@@ -133,37 +169,7 @@
     "vi",
     "es-la"
    ]
-  },
-  {
-   "id": "dc33209f-d9d4-40df-a468-cca047b63979",
-   "title": {
-    "en": "Neon Genesis Evangelion - Digital Colored Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.22689004,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "da6fc5c2-c9ab-42f8-9671-ef2bfcc16ee4",
-   "title": {
-    "en": "Space Ironman Kyodain (NARUI Toshio)"
-   },
-   "contentRating": "safe",
-   "score": 0.224521
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.22397731,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:54+00:00"
+ "updatedAt": "2023-12-10T18:30:17+00:00"
 }

@@ -11,25 +11,10 @@
     "en": "The Last Question"
    },
    "contentRating": "safe",
-   "score": 0.24979445,
+   "score": 0.253152,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
-   "title": {
-    "en": "The Nightmare of Fabrication"
-   },
-   "contentRating": "safe",
-   "score": 0.24760216,
-   "languages": [
-    "tr",
-    "it",
-    "en",
-    "pl",
-    "pt-br"
    ]
   },
   {
@@ -45,15 +30,18 @@
    ]
   },
   {
-   "id": "b57303a2-ae06-4a50-bd25-7701d4c517ec",
+   "id": "9ba83841-f8f0-4ea6-934a-f3e1df40eb34",
    "title": {
-    "en": "Die Quarry Proie"
+    "en": "The Nightmare of Fabrication"
    },
    "contentRating": "safe",
-   "score": 0.23726906,
+   "score": 0.24639659,
    "languages": [
+    "tr",
+    "it",
+    "en",
     "pl",
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -62,15 +50,27 @@
     "en": "Densou Dorothy"
    },
    "contentRating": "safe",
-   "score": 0.23722047,
+   "score": 0.2345015,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bedb570e-e613-4a70-b776-51d7c76feec1",
+   "id": "b57303a2-ae06-4a50-bd25-7701d4c517ec",
    "title": {
-    "en": "A Trip to Tynemouth"
+    "en": "Die Quarry Proie"
+   },
+   "contentRating": "safe",
+   "score": 0.2342444,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "540de780-4a3b-4079-b94b-e5720c667c95",
+   "title": {
+    "en": "Cyborg 009 - Owari Nobunaga-hen"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -79,44 +79,21 @@
    ]
   },
   {
-   "id": "af04e4bd-18e3-40e5-ba04-cf8eb91f20ca",
+   "id": "860c7fbe-7aae-40a8-95da-18d0845d7c3f",
    "title": {
-    "en": "3/14"
+    "en": "Hazel \u0026 Gretel"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "1ee932fa-5e4c-462b-88d2-c00d5d5946a9",
-   "title": {
-    "en": "2/14"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "vi",
+    "pl",
     "en"
    ]
   },
   {
-   "id": "505c449b-69f0-4cf1-acbd-e0cae2bac5a4",
+   "id": "c0cf3736-adab-4276-b01f-910cb8aa93c9",
    "title": {
-    "en": "Mon année"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b71a931d-2b98-4ff0-9fd4-e385e897f54e",
-   "title": {
-    "en": "If I Should Compare It to the Sound of a Mosquito."
+    "en": "Star Wars Leia, Princess of Alderaan"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -137,14 +114,41 @@
    ]
   },
   {
-   "id": "8901b981-362b-4eb3-941e-e30edfcb8cb5",
+   "id": "1ee932fa-5e4c-462b-88d2-c00d5d5946a9",
    "title": {
-    "en": "Gadget Space"
+    "en": "2/14"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "f19d9356-2f53-4aa2-bf96-4abbcac920e4",
+   "title": {
+    "en": "World's End Sabotage"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "vi",
     "fr",
+    "it",
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "36ed2095-2062-42fb-8b63-774f15a17398",
+   "title": {
+    "en": "Return"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "en"
    ]
   },
@@ -161,21 +165,9 @@
    ]
   },
   {
-   "id": "077805b7-727f-4771-965f-e3ce5aa8ad0a",
+   "id": "b71a931d-2b98-4ff0-9fd4-e385e897f54e",
    "title": {
-    "en": "Cyborg 009 Tribute"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "14dd7ff1-9265-45bf-a048-af2a5fb745c7",
-   "title": {
-    "en": "Cyborg 009 - Trump Tower-hen"
+    "en": "If I Should Compare It to the Sound of a Mosquito."
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -184,16 +176,30 @@
    ]
   },
   {
-   "id": "c0cf3736-adab-4276-b01f-910cb8aa93c9",
+   "id": "71a08ea8-ec56-49f2-85e5-f94247aafbcb",
    "title": {
-    "en": "Star Wars Leia, Princess of Alderaan"
+    "en": "Liliwords"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "af04e4bd-18e3-40e5-ba04-cf8eb91f20ca",
+   "title": {
+    "en": "3/14"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:03+00:00"
+ "updatedAt": "2023-12-10T18:33:13+00:00"
 }

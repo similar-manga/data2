@@ -11,7 +11,7 @@
     "en": "Human Life Scroll"
    },
    "contentRating": "suggestive",
-   "score": 0.3644417
+   "score": 0.36261833
   },
   {
    "id": "928b5a8b-3a62-4cea-b1d9-68a14155e78e",
@@ -19,7 +19,7 @@
     "en": "I Want to Live"
    },
    "contentRating": "suggestive",
-   "score": 0.34358364
+   "score": 0.34126088
   },
   {
    "id": "0e2d1e59-9954-4afc-8881-9e1b7057db4d",
@@ -27,7 +27,7 @@
     "en": "All Star Collaboration Comic"
    },
    "contentRating": "suggestive",
-   "score": 0.33953273,
+   "score": 0.33623567,
    "languages": [
     "en"
    ]
@@ -38,18 +38,10 @@
     "en": "Dr. Hitomi's Infirmary"
    },
    "contentRating": "suggestive",
-   "score": 0.33174878,
+   "score": 0.3309783,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "a41c549b-9a7e-44f6-9d3f-7258917c8d5c",
-   "title": {
-    "en": "Ah! It's So"
-   },
-   "contentRating": "suggestive",
-   "score": 0.32635716
   },
   {
    "id": "d316907a-38e2-49a0-868b-4b68e4c6472f",
@@ -57,7 +49,15 @@
     "en": "Fire Fire Fire - Black Sword"
    },
    "contentRating": "suggestive",
-   "score": 0.32525858
+   "score": 0.32434145
+  },
+  {
+   "id": "a41c549b-9a7e-44f6-9d3f-7258917c8d5c",
+   "title": {
+    "en": "Ah! It's So"
+   },
+   "contentRating": "suggestive",
+   "score": 0.32314247
   },
   {
    "id": "82476383-e6a9-41a7-b98c-87cc8be9efbb",
@@ -65,21 +65,10 @@
     "en": "Zenbu Kimi no Sei"
    },
    "contentRating": "suggestive",
-   "score": 0.32107794,
+   "score": 0.31827208,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "aad496ed-7aa9-47bc-9ea3-35e5bfd6982e",
-   "title": {
-    "en": "Ghost Writer"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3183165,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -88,7 +77,18 @@
     "en": "War of War"
    },
    "contentRating": "suggestive",
-   "score": 0.3159212
+   "score": 0.3155264
+  },
+  {
+   "id": "aad496ed-7aa9-47bc-9ea3-35e5bfd6982e",
+   "title": {
+    "en": "Ghost Writer"
+   },
+   "contentRating": "suggestive",
+   "score": 0.31540906,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "1a855b0d-f815-441a-a401-493de143a4e3",
@@ -96,19 +96,7 @@
     "en": "To the Sky of Monaco 2 ALAS ~ Shining Wings ~"
    },
    "contentRating": "suggestive",
-   "score": 0.31432557
-  },
-  {
-   "id": "563ccf5a-7078-4411-b05b-3985295a2e43",
-   "title": {
-    "en": "100-nen no Oshi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.31415802,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
+   "score": 0.31369126
   },
   {
    "id": "004e6dbe-b8cf-4f95-8ab2-e5f112ead297",
@@ -116,10 +104,18 @@
     "en": "Watashi no Koi de Shindekure"
    },
    "contentRating": "suggestive",
-   "score": 0.31413853,
+   "score": 0.31288406,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "abaeeeb7-c54c-420c-905c-7fff8bc26d74",
+   "title": {
+    "en": "Mikage Wants to Go Home!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3126051
   },
   {
    "id": "aa6c76f7-5f5f-46b6-a800-911145f81b9b",
@@ -127,7 +123,7 @@
     "en": "Sono Bisque Doll wa Koi wo Suru"
    },
    "contentRating": "suggestive",
-   "score": 0.31285417,
+   "score": 0.31176654,
    "languages": [
     "en",
     "pt-br",
@@ -144,12 +140,24 @@
    ]
   },
   {
+   "id": "563ccf5a-7078-4411-b05b-3985295a2e43",
+   "title": {
+    "en": "100-nen no Oshi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.31107643,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "abb00169-966d-438f-9ac6-6f7bf716d6a0",
    "title": {
     "en": "Nanami-chan wa Machikogareu"
    },
    "contentRating": "suggestive",
-   "score": 0.3123461,
+   "score": 0.3104706,
    "languages": [
     "es-la"
    ]
@@ -160,7 +168,7 @@
     "en": "Musume Janakute, Watashi (Mama) ga Suki Nano!?"
    },
    "contentRating": "suggestive",
-   "score": 0.31203854,
+   "score": 0.310347,
    "languages": [
     "vi",
     "pt-br",
@@ -172,18 +180,7 @@
     "ar",
     "tr"
    ]
-  },
-  {
-   "id": "3f04bb00-4ff0-40b8-b464-b10a33320f2c",
-   "title": {
-    "en": "Shishuugoku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.31177387,
-   "languages": [
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:14+00:00"
+ "updatedAt": "2023-12-10T18:31:06+00:00"
 }

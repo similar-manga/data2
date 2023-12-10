@@ -11,7 +11,7 @@
     "en": "E's"
    },
    "contentRating": "safe",
-   "score": 0.21138611,
+   "score": 0.19750707,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.20118742,
+   "score": 0.19429843,
    "languages": [
     "pt-br",
     "en"
@@ -56,6 +56,18 @@
    ]
   },
   {
+   "id": "77a51837-c2d0-479d-9de8-25942b404d4f",
+   "title": {
+    "en": "Ishura - Shin Maou Sensou"
+   },
+   "contentRating": "safe",
+   "score": 0.18361706,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
    "title": {
     "en": "Kingdom Hearts III"
@@ -83,17 +95,6 @@
    ]
   },
   {
-   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
-   "title": {
-    "en": "Valkyrie Profile - The Dark Alchemist"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9debf709-4d0a-47f8-aa1a-b656bcd54727",
    "title": {
     "en": "The Heavenly Demon Can't Live a Normal Life"
@@ -108,6 +109,17 @@
    ]
   },
   {
+   "id": "a025d065-ec7f-4962-a874-45903f5dc618",
+   "title": {
+    "en": "Valkyrie Profile - The Dark Alchemist"
+   },
+   "contentRating": "safe",
+   "score": 0.17634669,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7032ad8e-79d7-4270-b32a-3675495b318e",
    "title": {
     "en": "Shin Megami Tensei IV Dengeki Comic Anthology"
@@ -116,6 +128,75 @@
    "score": 0.17584498,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "13f3dbaa-8d1e-493d-935a-7dccb06e5792",
+   "title": {
+    "en": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezashimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "26dd4eae-1bf7-4834-986b-40914cbd5816",
+   "title": {
+    "en": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Oukasuru"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "34019331-7377-4e2c-837e-f6e1ab2b5ef7",
+   "title": {
+    "en": "The Seven Deadly Sins: Four Knights of the Apocalypse"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "id",
+    "ru",
+    "pt-br",
+    "pl",
+    "fr",
+    "en",
+    "tr",
+    "es-la",
+    "ar",
+    "es",
+    "mn",
+    "it",
+    "vi"
+   ]
+  },
+  {
+   "id": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
+   "title": {
+    "en": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "es-la",
+    "en",
+    "it",
+    "zh-hk",
+    "id",
+    "pt-br",
+    "ru",
+    "fr",
+    "tr",
+    "pl"
    ]
   },
   {
@@ -144,76 +225,7 @@
     "pt-br",
     "ru"
    ]
-  },
-  {
-   "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
-   "title": {
-    "en": "The Legend of Heroes VI: Trails of Cold Steel"
-   },
-   "contentRating": "safe",
-   "score": 0.17036709,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49e785f7-4213-4266-8b86-146bb55674be",
-   "title": {
-    "en": "Bloodline - Fantasy Day"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93d98bf7-9dbc-4ee1-9d93-d5dafd1035c8",
-   "title": {
-    "en": "Bliss~End Of Gods"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77bee52c-d2d6-44ad-a33a-1734c1fe696a",
-   "title": {
-    "ja-ro": "Kage no Jitsuryokusha ni Naritakute"
-   },
-   "contentRating": "safe",
-   "score": 0.16666667,
-   "languages": [
-    "pl",
-    "uk",
-    "id",
-    "ru",
-    "vi",
-    "es-la",
-    "en",
-    "it",
-    "pt-br",
-    "fr",
-    "tr",
-    "ar",
-    "hu",
-    "de",
-    "fa"
-   ]
-  },
-  {
-   "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
-   "title": {
-    "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
-   },
-   "contentRating": "safe",
-   "score": 0.165985,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:24+00:00"
+ "updatedAt": "2023-12-10T18:10:07+00:00"
 }

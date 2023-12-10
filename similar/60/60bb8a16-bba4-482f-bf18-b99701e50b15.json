@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9b46337d-8ad4-45de-8857-7cbe8bddec0b",
+   "title": {
+    "en": "After School Exorcism"
+   },
+   "contentRating": "safe",
+   "score": 0.24054,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "1436ef54-436d-49d8-b1a7-15ffe7d08123",
    "title": {
     "en": "Blood Type V"
@@ -36,7 +49,7 @@
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.22503066,
+   "score": 0.22480436,
    "languages": [
     "pt-br",
     "en",
@@ -50,7 +63,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.22423744,
+   "score": 0.22348523,
    "languages": [
     "id",
     "ru",
@@ -66,21 +79,10 @@
     "en": "Child Hazard"
    },
    "contentRating": "safe",
-   "score": 0.21806487,
+   "score": 0.21746589,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "dae4fe08-40b7-4f00-9f38-796cc688e82f",
-   "title": {
-    "en": "Dandelion"
-   },
-   "contentRating": "safe",
-   "score": 0.21773943,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -89,7 +91,18 @@
     "en": "Composi!"
    },
    "contentRating": "safe",
-   "score": 0.21761654,
+   "score": 0.21723552,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dae4fe08-40b7-4f00-9f38-796cc688e82f",
+   "title": {
+    "en": "Dandelion"
+   },
+   "contentRating": "safe",
+   "score": 0.21687065,
    "languages": [
     "en"
    ]
@@ -100,7 +113,7 @@
     "en": "Nemuri Netarou Awararu!!"
    },
    "contentRating": "safe",
-   "score": 0.2169092,
+   "score": 0.21584614,
    "languages": [
     "en",
     "es"
@@ -112,9 +125,24 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.21263434,
+   "score": 0.211939,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c5bd7460-644e-40c6-aa66-40d1efaddb58",
+   "title": {
+    "en": "Zatch Bell! 2"
+   },
+   "contentRating": "safe",
+   "score": 0.21095261,
+   "languages": [
+    "en",
+    "es",
+    "it",
+    "pt-br",
+    "vi"
    ]
   },
   {
@@ -136,9 +164,38 @@
     "en": "Mukuchi na Bakemono wa Yoru ni Naku"
    },
    "contentRating": "safe",
-   "score": 0.20819473,
+   "score": 0.20770454,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7e866932-b408-4ded-ae02-c1331579a4d8",
+   "title": {
+    "en": "Ruirui Senki"
+   },
+   "contentRating": "safe",
+   "score": 0.20496908,
+   "languages": [
+    "pt-br",
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
+   "title": {
+    "en": "Battle in 5 Seconds After Meeting"
+   },
+   "contentRating": "safe",
+   "score": 0.20331758,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "ru",
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -147,62 +204,11 @@
     "en": "A Foolish Avenger"
    },
    "contentRating": "safe",
-   "score": 0.20582035,
+   "score": 0.20310256,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.20310114,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
-   "title": {
-    "en": "Blood-Coloured Forbidden Territory"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "77e41751-a5d7-47ac-af24-e3463d5dfbd8",
-   "title": {
-    "en": "Justice League Origins: Wonder Woman"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "it",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:37+00:00"
+ "updatedAt": "2023-12-10T18:18:49+00:00"
 }

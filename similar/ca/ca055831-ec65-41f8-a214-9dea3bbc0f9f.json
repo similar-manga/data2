@@ -11,24 +11,11 @@
     "en": "The King's Choice"
    },
    "contentRating": "safe",
-   "score": 0.3098712,
+   "score": 0.29978025,
    "languages": [
     "pl",
     "en",
     "bg"
-   ]
-  },
-  {
-   "id": "66b4689a-0da4-4341-bd21-048d66fdf23d",
-   "title": {
-    "en": "Heroes of Fury"
-   },
-   "contentRating": "safe",
-   "score": 0.28059256,
-   "languages": [
-    "it",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -37,21 +24,21 @@
     "en": "Boku no Pet"
    },
    "contentRating": "safe",
-   "score": 0.2717763,
+   "score": 0.27489957,
    "languages": [
     "bg",
     "en"
    ]
   },
   {
-   "id": "2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
+   "id": "66b4689a-0da4-4341-bd21-048d66fdf23d",
    "title": {
-    "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
+    "en": "Heroes of Fury"
    },
    "contentRating": "safe",
-   "score": 0.26605862,
+   "score": 0.27265844,
    "languages": [
-    "ru",
+    "it",
     "en",
     "pt-br"
    ]
@@ -68,35 +55,37 @@
    ]
   },
   {
+   "id": "2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
+   "title": {
+    "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2596843,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "f29b09a5-1c24-449d-b319-b4d2c60d3a61",
    "title": {
     "en": "Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.25321475,
+   "score": 0.2525748,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "3499e772-395c-4fc6-91a4-fc6761d99775",
+   "id": "e5f34b94-babc-41f6-aa88-85b1e81b3be2",
    "title": {
-    "en": "Fuyu no Ou to Haru no Hime"
+    "en": "Flowering"
    },
    "contentRating": "safe",
-   "score": 0.24933034,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "351a75ea-ca0d-403d-9cfc-53d7ec6d1c16",
-   "title": {
-    "en": "Saka no Ue no Mahoutsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.24823606,
+   "score": 0.24766769,
    "languages": [
     "en"
    ]
@@ -107,22 +96,20 @@
     "en": "Boku ga Otouto to Nakayoku Naru Houhou"
    },
    "contentRating": "safe",
-   "score": 0.2470757,
+   "score": 0.24763185,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "841cae32-be4c-45fe-89b1-4b635d421261",
+   "id": "351a75ea-ca0d-403d-9cfc-53d7ec6d1c16",
    "title": {
-    "en": "The One Who Did Not Subjugate the Demon King"
+    "en": "Saka no Ue no Mahoutsukai"
    },
    "contentRating": "safe",
-   "score": 0.2465251,
+   "score": 0.24586178,
    "languages": [
-    "en",
-    "fr",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -131,19 +118,19 @@
     "en": "Mousou Otoko"
    },
    "contentRating": "safe",
-   "score": 0.24422495,
+   "score": 0.24496415,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "a5f1e36e-3041-45d1-a38e-1840513a33fc",
+   "id": "2d333e55-ceb8-4590-98f1-94283ee98c0e",
    "title": {
-    "en": "Alice Royale"
+    "en": "The 9 Lives"
    },
    "contentRating": "safe",
-   "score": 0.24148017,
+   "score": 0.2420239,
    "languages": [
     "en"
    ]
@@ -163,6 +150,17 @@
    "id": "b86c1c21-ac77-4b2b-ba40-e65ade270462",
    "title": {
     "en": "Bokura no Hentai another"
+   },
+   "contentRating": "safe",
+   "score": 0.23982058,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1d2c4e8e-206b-46f6-bb5f-695765a5de6a",
+   "title": {
+    "en": "Mister Gossip"
    },
    "contentRating": "safe",
    "score": 0.23982058,
@@ -195,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:05+00:00"
+ "updatedAt": "2023-12-10T18:30:46+00:00"
 }

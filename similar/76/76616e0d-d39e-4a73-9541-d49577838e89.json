@@ -11,21 +11,8 @@
     "en": "\"Boku wa Nannin Koroshimashita ka?\""
    },
    "contentRating": "suggestive",
-   "score": 0.20299792,
+   "score": 0.20242634,
    "languages": [
-    "vi"
-   ]
-  },
-  {
-   "id": "23d49e6b-73b8-4d91-9544-1292a4ce68f8",
-   "title": {
-    "en": "Imada Nakunatte Inai Hito"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14754222,
-   "languages": [
-    "pt-br",
-    "es-la",
     "vi"
    ]
   },
@@ -49,13 +36,15 @@
    ]
   },
   {
-   "id": "ab5c12e3-6065-4109-9f38-7c0744053082",
+   "id": "23d49e6b-73b8-4d91-9544-1292a4ce68f8",
    "title": {
-    "en": "Michio"
+    "en": "Imada Nakunatte Inai Hito"
    },
    "contentRating": "suggestive",
-   "score": 0.12777533,
+   "score": 0.14754222,
    "languages": [
+    "pt-br",
+    "es-la",
     "vi"
    ]
   },
@@ -71,6 +60,17 @@
     "fr",
     "en",
     "it",
+    "vi"
+   ]
+  },
+  {
+   "id": "ab5c12e3-6065-4109-9f38-7c0744053082",
+   "title": {
+    "en": "Michio"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12777533,
+   "languages": [
     "vi"
    ]
   },
@@ -97,7 +97,7 @@
     "en": "Issho ni Kurashite ii desu ka?"
    },
    "contentRating": "suggestive",
-   "score": 0.09256703,
+   "score": 0.09348101,
    "languages": [
     "fr",
     "pt-br",
@@ -152,26 +152,16 @@
    ]
   },
   {
-   "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
+   "id": "a9a664d6-4ea7-4f3b-b96b-4861673c8e5d",
    "title": {
-    "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
+    "en": "Misato-san wa Amasugi Joushi ni Chotto Kibishii"
    },
    "contentRating": "suggestive",
-   "score": 0.05787535,
+   "score": 0.057142857,
    "languages": [
     "pt-br",
-    "en",
-    "it",
-    "pl",
-    "es-la",
-    "ru",
-    "tr",
-    "ar",
-    "id",
     "vi",
-    "uk",
-    "fr",
-    "hu"
+    "en"
    ]
   },
   {
@@ -187,19 +177,6 @@
    ]
   },
   {
-   "id": "a9a664d6-4ea7-4f3b-b96b-4861673c8e5d",
-   "title": {
-    "en": "Misato-san wa Amasugi Joushi ni Chotto Kibishii"
-   },
-   "contentRating": "suggestive",
-   "score": 0.057142857,
-   "languages": [
-    "pt-br",
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "d281a884-85e4-4a34-bb90-70ae08a18203",
    "title": {
     "en": "Nando, Toki wo Kurikaeshitemo Honnouji ga Moerun ja ga!?"
@@ -208,6 +185,29 @@
    "score": 0.057142857,
    "languages": [
     "vi"
+   ]
+  },
+  {
+   "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
+   "title": {
+    "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.057097893,
+   "languages": [
+    "pt-br",
+    "en",
+    "it",
+    "pl",
+    "es-la",
+    "ru",
+    "tr",
+    "ar",
+    "id",
+    "vi",
+    "uk",
+    "fr",
+    "hu"
    ]
   },
   {
@@ -241,5 +241,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:28+00:00"
+ "updatedAt": "2023-12-10T18:21:12+00:00"
 }

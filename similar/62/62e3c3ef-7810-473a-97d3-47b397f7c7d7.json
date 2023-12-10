@@ -11,7 +11,7 @@
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.25463387,
+   "score": 0.2541677,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "Owari no Seraph"
    },
    "contentRating": "safe",
-   "score": 0.24479121,
+   "score": 0.24537195,
    "languages": [
     "pt-br",
     "fr",
@@ -53,7 +53,7 @@
     "en": "Rooster Fighter"
    },
    "contentRating": "safe",
-   "score": 0.22902726,
+   "score": 0.2258775,
    "languages": [
     "id",
     "en",
@@ -67,12 +67,28 @@
    ]
   },
   {
+   "id": "d64b0768-bebe-433c-b923-99870503c0a3",
+   "title": {
+    "en": "Dark Gathering"
+   },
+   "contentRating": "safe",
+   "score": 0.21099243,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "es",
+    "es-la",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "7878c129-a33d-4bf9-b5d2-ff98cbe85bd6",
    "title": {
     "en": "Sentai Daishikkaku"
    },
    "contentRating": "safe",
-   "score": 0.2084737,
+   "score": 0.2087545,
    "languages": [
     "pt-br",
     "en",
@@ -85,12 +101,23 @@
    ]
   },
   {
+   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
+   "title": {
+    "en": "Onikirimaru"
+   },
+   "contentRating": "safe",
+   "score": 0.2074556,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
    "title": {
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.20779242,
+   "score": 0.20743671,
    "languages": [
     "it",
     "id",
@@ -101,23 +128,12 @@
    ]
   },
   {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.20777859,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c977b0d1-32ee-49d3-88ef-fdf515962f56",
    "title": {
     "en": "Locke the Superman"
    },
    "contentRating": "safe",
-   "score": 0.20136237,
+   "score": 0.20075941,
    "languages": [
     "en"
    ]
@@ -139,7 +155,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.19360392,
+   "score": 0.19405791,
    "languages": [
     "en"
    ]
@@ -179,27 +195,21 @@
    ]
   },
   {
-   "id": "8e244c4f-7468-4b06-8fa8-0ed53fba1214",
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
    "title": {
-    "en": "81 Fatal Questions"
+    "en": "Yomi no Tsugai"
    },
    "contentRating": "safe",
-   "score": 0.18040572,
+   "score": 0.18059476,
    "languages": [
+    "hu",
     "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "fb23dd32-296d-4463-8d44-8630c5e42c44",
-   "title": {
-    "en": "Zodiac Game"
-   },
-   "contentRating": "safe",
-   "score": 0.1802492,
-   "languages": [
-    "en",
-    "fr"
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
    ]
   },
   {
@@ -214,26 +224,17 @@
    ]
   },
   {
-   "id": "09bbbb75-1086-4e7c-b775-ae9ee1816e0d",
+   "id": "fb23dd32-296d-4463-8d44-8630c5e42c44",
    "title": {
-    "en": "VERSUS"
+    "en": "Zodiac Game"
    },
    "contentRating": "safe",
-   "score": 0.17870164,
+   "score": 0.17926951,
    "languages": [
-    "uk",
-    "pt-br",
-    "tr",
     "en",
-    "fr",
-    "es-la",
-    "ru",
-    "vi",
-    "id",
-    "de",
-    "cs"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:41+00:00"
+ "updatedAt": "2023-12-10T18:19:02+00:00"
 }

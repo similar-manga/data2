@@ -11,7 +11,7 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.30584237,
+   "score": 0.30900925,
    "languages": [
     "en"
    ]
@@ -22,21 +22,9 @@
     "en": "My Biggest Regret"
    },
    "contentRating": "safe",
-   "score": 0.29738954,
+   "score": 0.2711459,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
-   "title": {
-    "en": "Hoshi no Alien ni Doryokushou wo."
-   },
-   "contentRating": "safe",
-   "score": 0.2649356,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -46,8 +34,20 @@
     "en": "A Fleeting Time"
    },
    "contentRating": "safe",
-   "score": 0.2636216,
+   "score": 0.2690932,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
+   "title": {
+    "en": "Hoshi no Alien ni Doryokushou wo."
+   },
+   "contentRating": "safe",
+   "score": 0.26446235,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -57,7 +57,7 @@
     "en": "Inochi o Odoru"
    },
    "contentRating": "safe",
-   "score": 0.25928807,
+   "score": 0.26260433,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.25911918,
+   "score": 0.25902876,
    "languages": [
     "en",
     "pt-br"
@@ -93,10 +93,28 @@
     "en": "One Summer's Kids Game"
    },
    "contentRating": "safe",
-   "score": 0.2507255,
+   "score": 0.25207683,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
+   "title": {
+    "en": "Kanojo wa Itsumo Kagayaiteita"
+   },
+   "contentRating": "safe",
+   "score": 0.2161664,
+   "languages": [
+    "hu",
+    "de",
+    "en",
+    "fa",
+    "tr",
+    "id",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -135,30 +153,12 @@
    ]
   },
   {
-   "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
-   "title": {
-    "en": "Kanojo wa Itsumo Kagayaiteita"
-   },
-   "contentRating": "safe",
-   "score": 0.21357813,
-   "languages": [
-    "hu",
-    "de",
-    "en",
-    "fa",
-    "tr",
-    "id",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
    "id": "22e929e9-785b-4a71-9b2d-29df517e9fa8",
    "title": {
     "en": "A Foolish Avenger"
    },
    "contentRating": "safe",
-   "score": 0.20527118,
+   "score": 0.20791776,
    "languages": [
     "en"
    ]
@@ -169,18 +169,7 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.20251805,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8234db2f-6912-49e6-a17f-7353c814e69a",
-   "title": {
-    "en": "Mama Gomen, Watashi Corona ka ni Hosuto Kayotteru"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20236488,
    "languages": [
     "en"
    ]
@@ -195,7 +184,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8234db2f-6912-49e6-a17f-7353c814e69a",
+   "title": {
+    "en": "Mama Gomen, Watashi Corona ka ni Hosuto Kayotteru"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:37+00:00"
+ "updatedAt": "2023-12-10T18:34:34+00:00"
 }

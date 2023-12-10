@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7bdf8349-1523-43b0-861a-1eff0c3d32ed",
+   "title": {
+    "en": "Kiss Tokidoki Kiss Tokoro ni Yori Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.33240268,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d0a108e6-cf37-4269-a1b3-69009bae743f",
    "title": {
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.32827544,
+   "score": 0.32971135,
    "languages": [
     "en",
     "pt-br"
@@ -23,15 +34,15 @@
     "en": "Hajimete Nandesu"
    },
    "contentRating": "safe",
-   "score": 0.32089064
+   "score": 0.3206357
   },
   {
-   "id": "3ee868db-b4d0-4887-bb66-47a666d9ce82",
+   "id": "31fc5718-bbfe-43df-a793-c4d047ba6f34",
    "title": {
-    "en": "The Hatsukoi Chronicle"
+    "en": "Ubawareta Kiss"
    },
    "contentRating": "safe",
-   "score": 0.31806707,
+   "score": 0.31974173,
    "languages": [
     "en"
    ]
@@ -42,98 +53,21 @@
     "en": "Kiss x Miss"
    },
    "contentRating": "safe",
-   "score": 0.31789255,
+   "score": 0.31918174,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "31fc5718-bbfe-43df-a793-c4d047ba6f34",
+   "id": "3ee868db-b4d0-4887-bb66-47a666d9ce82",
    "title": {
-    "en": "Ubawareta Kiss"
+    "en": "The Hatsukoi Chronicle"
    },
    "contentRating": "safe",
-   "score": 0.31746662,
+   "score": 0.31834435,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "86c7b091-3e99-49c0-b2aa-cec92d664d37",
-   "title": {
-    "en": "Saigo no Page"
-   },
-   "contentRating": "safe",
-   "score": 0.31479087
-  },
-  {
-   "id": "d9da4002-bab5-4ec7-90d8-5eea6e2ab1d3",
-   "title": {
-    "en": "My Wife Is a High School Student"
-   },
-   "contentRating": "safe",
-   "score": 0.31236288
-  },
-  {
-   "id": "be3d1276-5480-4b14-bb7f-af7fadee7117",
-   "title": {
-    "en": "Kenka, Tokidoki Kiss."
-   },
-   "contentRating": "safe",
-   "score": 0.30985874
-  },
-  {
-   "id": "011a0e55-4e70-4280-8544-5426101e6ad8",
-   "title": {
-    "en": "NG × Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.30679694,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53708f5a-720d-4110-84b0-579b5d1bd312",
-   "title": {
-    "en": "Kiss wa, Kokuhaku no Mae ni"
-   },
-   "contentRating": "safe",
-   "score": 0.30651298,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "337f7df5-c813-4cd7-abdf-402194676b26",
-   "title": {
-    "en": "Otome no Honki"
-   },
-   "contentRating": "safe",
-   "score": 0.30575654
-  },
-  {
-   "id": "7d46e6a0-27fe-43ab-934b-4f00ce5b844d",
-   "title": {
-    "en": "Ouji-sama ni Nemuri Hime no Kiss wo"
-   },
-   "contentRating": "safe",
-   "score": 0.30489257,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "7b994300-333d-4b07-a0b5-c7a20ab7f55b",
-   "title": {
-    "en": "Yuki, Tokidoki Suki"
-   },
-   "contentRating": "safe",
-   "score": 0.30415094,
-   "languages": [
-    "pl"
    ]
   },
   {
@@ -142,9 +76,66 @@
     "en": "My Wonderful Sweets"
    },
    "contentRating": "safe",
-   "score": 0.30377832,
+   "score": 0.3150358,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "be3d1276-5480-4b14-bb7f-af7fadee7117",
+   "title": {
+    "en": "Kenka, Tokidoki Kiss."
+   },
+   "contentRating": "safe",
+   "score": 0.31042975
+  },
+  {
+   "id": "d9da4002-bab5-4ec7-90d8-5eea6e2ab1d3",
+   "title": {
+    "en": "My Wife Is a High School Student"
+   },
+   "contentRating": "safe",
+   "score": 0.3074956
+  },
+  {
+   "id": "011a0e55-4e70-4280-8544-5426101e6ad8",
+   "title": {
+    "en": "NG × Baby"
+   },
+   "contentRating": "safe",
+   "score": 0.3058666,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "337f7df5-c813-4cd7-abdf-402194676b26",
+   "title": {
+    "en": "Otome no Honki"
+   },
+   "contentRating": "safe",
+   "score": 0.30581635
+  },
+  {
+   "id": "53708f5a-720d-4110-84b0-579b5d1bd312",
+   "title": {
+    "en": "Kiss wa, Kokuhaku no Mae ni"
+   },
+   "contentRating": "safe",
+   "score": 0.30540127,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "7b994300-333d-4b07-a0b5-c7a20ab7f55b",
+   "title": {
+    "en": "Yuki, Tokidoki Suki"
+   },
+   "contentRating": "safe",
+   "score": 0.3042463,
+   "languages": [
+    "pl"
    ]
   },
   {
@@ -153,10 +144,22 @@
     "en": "Hard Luck Woman"
    },
    "contentRating": "safe",
-   "score": 0.3036755,
+   "score": 0.3035047,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "7d46e6a0-27fe-43ab-934b-4f00ce5b844d",
+   "title": {
+    "en": "Ouji-sama ni Nemuri Hime no Kiss wo"
+   },
+   "contentRating": "safe",
+   "score": 0.3026029,
+   "languages": [
+    "tr",
+    "en"
    ]
   },
   {
@@ -165,11 +168,11 @@
     "en": "Kumori Nochi Saku"
    },
    "contentRating": "safe",
-   "score": 0.30256724,
+   "score": 0.30212668,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:40+00:00"
 }

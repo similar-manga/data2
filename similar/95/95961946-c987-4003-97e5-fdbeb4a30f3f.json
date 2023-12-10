@@ -11,7 +11,7 @@
     "en": "A Life"
    },
    "contentRating": "safe",
-   "score": 0.2955123,
+   "score": 0.2943388,
    "languages": [
     "pt-br",
     "it",
@@ -25,7 +25,7 @@
     "en": "Kishibe no Yume"
    },
    "contentRating": "safe",
-   "score": 0.29377913,
+   "score": 0.290603,
    "languages": [
     "en",
     "es-la",
@@ -50,7 +50,7 @@
     "en": "The Negatibrain"
    },
    "contentRating": "safe",
-   "score": 0.276078,
+   "score": 0.27345565,
    "languages": [
     "pl",
     "fr",
@@ -63,7 +63,7 @@
     "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.2731397,
+   "score": 0.26646233,
    "languages": [
     "en",
     "it"
@@ -75,7 +75,7 @@
     "en": "The Dream I Had When I Died"
    },
    "contentRating": "safe",
-   "score": 0.24934058,
+   "score": 0.24709642,
    "languages": [
     "pt-br",
     "en"
@@ -87,16 +87,16 @@
     "en": "Night at the Aquarium"
    },
    "contentRating": "safe",
-   "score": 0.2441943,
+   "score": 0.24307235,
    "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "111aece9-5206-4245-b4db-56b805d6e63f",
+   "id": "da7c2f82-68af-432f-8a57-2b2271ed1db4",
    "title": {
-    "en": "The Pool That Night"
+    "en": "Utsutsu Kujira"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -116,42 +116,38 @@
    ]
   },
   {
+   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
+   "title": {
+    "en": "Assassin's Plan"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ro",
+    "en"
+   ]
+  },
+  {
+   "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
+   "title": {
+    "en": "Snow Blind"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr",
+    "es-la",
+    "it",
+    "en",
+    "uk",
+    "vi",
+    "pl"
+   ]
+  },
+  {
    "id": "dd0f25f5-4006-42d1-9969-76ade2717617",
    "title": {
     "en": "A Meek Little Brother Like Me"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
-   "title": {
-    "en": "Breakaway"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da7c2f82-68af-432f-8a57-2b2271ed1db4",
-   "title": {
-    "en": "Utsutsu Kujira"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
-   "title": {
-    "en": "Ringwanderung"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -172,29 +168,38 @@
    ]
   },
   {
-   "id": "372cdcb7-0fad-4043-9abd-7fa2437ee9f8",
+   "id": "111aece9-5206-4245-b4db-56b805d6e63f",
    "title": {
-    "en": "Ice Blade: The Lost File"
+    "en": "The Pool That Night"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "1c6b567a-e318-4b60-b677-84a882bb85dd",
+   "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
    "title": {
-    "en": "After Snowfall, Wonder"
+    "en": "Ijimerarekko ga Kuru!"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
+   "title": {
+    "en": "Breakaway"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:55+00:00"
+ "updatedAt": "2023-12-10T18:24:57+00:00"
 }

@@ -6,6 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3042be64-5561-448b-98c9-4ad1e67bd681",
+   "title": {
+    "en": "Aitsu to Ore."
+   },
+   "contentRating": "safe",
+   "score": 0.29555163,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1fd53e93-3956-4fc6-95a5-33342931b159",
+   "title": {
+    "en": "Boku no Suki na Sensei (Gokurakuin Sakurako)"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5ea87b7a-accc-4cc2-beb0-f6f5a70d8a0a",
+   "title": {
+    "en": "Kare o Dakishimeru Houkago"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "da58afe6-eab1-4847-bb97-d34f59a905d2",
    "title": {
     "en": "Wakaba no - Shounenki"
@@ -17,12 +50,45 @@
    ]
   },
   {
+   "id": "9e7d8711-b517-456c-890f-f714ab723386",
+   "title": {
+    "en": "Ani wa Motokare"
+   },
+   "contentRating": "safe",
+   "score": 0.25879973,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2edeabd4-a97e-4ae4-866b-39d82cd161a2",
    "title": {
     "en": "Kokui no Mure"
    },
    "contentRating": "safe",
-   "score": 0.25601295,
+   "score": 0.25525904,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "534e868e-97ea-426f-b760-58bc3baeb0bb",
+   "title": {
+    "en": "Tasogare, Kimi ni Ai ni Iku"
+   },
+   "contentRating": "safe",
+   "score": 0.25510085,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "beadccb5-3ff5-4a84-9ce6-e4ec9f91ce17",
+   "title": {
+    "en": "Koishiteru to Iu Koto ni Shita"
+   },
+   "contentRating": "safe",
+   "score": 0.25404316,
    "languages": [
     "en"
    ]
@@ -33,7 +99,7 @@
     "en": "Takumi-kun Series"
    },
    "contentRating": "safe",
-   "score": 0.25364166,
+   "score": 0.25343594,
    "languages": [
     "en"
    ]
@@ -44,15 +110,37 @@
     "en": "Saijoukyuu FORTUNE"
    },
    "contentRating": "safe",
-   "score": 0.25235724,
+   "score": 0.25134653,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "93051580-99ba-415b-86c7-ba36e909ce42",
+   "id": "af1a94c9-7a96-47b4-9639-f41bc216b33c",
    "title": {
-    "en": "Akiru made Hanasou yo"
+    "en": "Amai Hari"
+   },
+   "contentRating": "safe",
+   "score": 0.25015432,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ff3c410e-9bfe-471c-ad2a-328c15d71d09",
+   "title": {
+    "en": "Ani no Yuujin"
+   },
+   "contentRating": "safe",
+   "score": 0.24674836,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d17e8ee3-1e73-4627-ad65-aff5b88702aa",
+   "title": {
+    "en": "Utsusemi ni Akari"
    },
    "contentRating": "safe",
    "score": 0.24558583,
@@ -61,9 +149,21 @@
    ]
   },
   {
-   "id": "7dbf493a-b544-4cc4-be45-2f6ff7f80a9f",
+   "id": "c7525ee2-136d-40cd-aca3-b36b6ad2104f",
    "title": {
-    "en": "Bara to Lion"
+    "en": "Rainy Days, Yesterday"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
+   "title": {
+    "en": "Hello Again"
    },
    "contentRating": "safe",
    "score": 0.24558583,
@@ -82,109 +182,7 @@
     "en",
     "tr"
    ]
-  },
-  {
-   "id": "581386fe-af21-43d5-91de-e24f2c672e87",
-   "title": {
-    "en": "Moony - Oukaryou Trilogy"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d43832dd-756a-4758-909f-6c2684f74484",
-   "title": {
-    "en": "Jig + Zag"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "10623183-149e-40d3-84cd-ae888158dc42",
-   "title": {
-    "en": "Soshite Shunpuu ni Sasayaite"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "44a2ba95-9721-482b-a23d-c060ee392ed9",
-   "title": {
-    "en": "Koi to Mirror"
-   },
-   "contentRating": "safe",
-   "score": 0.23494998,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98eb1113-4481-47a7-823d-cce1bb0bcb6e",
-   "title": {
-    "en": "Boys Love"
-   },
-   "contentRating": "safe",
-   "score": 0.23268653,
-   "languages": [
-    "bg",
-    "ru",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "cf1a4be2-5288-405e-930f-d4e79699470f",
-   "title": {
-    "en": "Dekichatta Danshi"
-   },
-   "contentRating": "safe",
-   "score": 0.22909234,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5dca493c-3eec-4280-b6b6-ea683797855d",
-   "title": {
-    "en": "Papa's Assassin"
-   },
-   "contentRating": "safe",
-   "score": 0.22701551,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c13e9af1-e301-40d7-b246-277432407886",
-   "title": {
-    "en": "Close Your Eyes"
-   },
-   "contentRating": "safe",
-   "score": 0.21965864,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6fb8103f-0889-4496-8086-9bc09d08cb16",
-   "title": {
-    "en": "Nidome no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.21965864,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:14+00:00"
+ "updatedAt": "2023-12-10T18:20:28+00:00"
 }

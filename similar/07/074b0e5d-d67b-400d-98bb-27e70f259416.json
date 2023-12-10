@@ -6,12 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "51a0cd0c-3254-47f0-a7fd-4b9bb178f813",
+   "title": {
+    "en": "True Beauty"
+   },
+   "contentRating": "safe",
+   "score": 0.36780772,
+   "languages": [
+    "ru",
+    "es-la",
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c0e58581-330e-4c2a-9942-8fda6538c269",
+   "title": {
+    "en": "Boy Meets Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.32546437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
    "title": {
     "en": "Cream"
    },
    "contentRating": "safe",
-   "score": 0.32269397,
+   "score": 0.3220648,
    "languages": [
     "en"
    ]
@@ -22,18 +48,53 @@
     "en": "Honey Holic"
    },
    "contentRating": "safe",
-   "score": 0.30493376,
+   "score": 0.30313504,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
+   "id": "c82afd11-07c0-4ce5-a2e8-a5ec5998d171",
    "title": {
-    "en": "Say Love"
+    "en": "Moekare wa Orenji-iro"
    },
    "contentRating": "safe",
-   "score": 0.27555078,
+   "score": 0.29468235,
+   "languages": [
+    "it",
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "d47104f8-f77b-4dfd-8b35-b9d5f1bf4c83",
+   "title": {
+    "en": "Milky Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.29379246,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c81e365-3393-4be4-96e9-c5937d903a66",
+   "title": {
+    "en": "Her Weird Hobby"
+   },
+   "contentRating": "safe",
+   "score": 0.29015523,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "894e9cab-c0ec-4c5d-88f6-fcbc8bd244d5",
+   "title": {
+    "en": "My Boyfriend"
+   },
+   "contentRating": "safe",
+   "score": 0.28877962,
    "languages": [
     "en"
    ]
@@ -44,9 +105,33 @@
     "en": "ZIG★ZAG"
    },
    "contentRating": "safe",
-   "score": 0.27511758,
+   "score": 0.28846022,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "03c994de-ee9d-465d-bd32-d8a8c3b4cb4f",
+   "title": {
+    "en": "Hush"
+   },
+   "contentRating": "safe",
+   "score": 0.2787711,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4aecf422-7afe-405f-b2d4-e5b80a1872ac",
+   "title": {
+    "en": "Megane, Tokidoki, Yankee-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.2767352,
+   "languages": [
+    "en",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -55,139 +140,57 @@
     "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.27450094,
+   "score": 0.27534255,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fb89fa17-5674-4ad6-ad3c-1c7b50830aeb",
+   "id": "9b945b10-0368-467b-8b20-ca99b8938a9b",
    "title": {
-    "en": "H³ School!"
+    "en": "Beware of the Great Beauty"
    },
    "contentRating": "safe",
-   "score": 0.27051356,
+   "score": 0.27425605,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9058357-b9e4-48df-b2b4-6343f049273c",
-   "title": {
-    "en": "Dear Future You"
-   },
-   "contentRating": "safe",
-   "score": 0.27031025,
-   "languages": [
-    "en",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "1d471302-deae-4554-a699-c26ae18c8740",
-   "title": {
-    "en": "She's Scary"
-   },
-   "contentRating": "safe",
-   "score": 0.26967517,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
-   "title": {
-    "en": "High School Debut"
-   },
-   "contentRating": "safe",
-   "score": 0.26256508,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e161f886-ec1a-44ff-8769-0831f2348e06",
-   "title": {
-    "en": "Don't Believe Her"
-   },
-   "contentRating": "safe",
-   "score": 0.2585402,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
-   "title": {
-    "en": "Usotsuki na Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.25692484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a7fb9fb3-d67e-4b54-9e98-29428293f93f",
-   "title": {
-    "en": "Gakkou no Ojikan"
-   },
-   "contentRating": "safe",
-   "score": 0.2564538,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "ec085bb9-49a8-4bcc-85ff-eb4217271524",
-   "title": {
-    "en": "Invincible Yeonbyeongeol"
-   },
-   "contentRating": "safe",
-   "score": 0.25643867,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de7e2ca9-38ab-4094-aa4c-dedb67e0b600",
-   "title": {
-    "en": "Dramatic Love Album"
-   },
-   "contentRating": "safe",
-   "score": 0.25592625,
-   "languages": [
-    "pl",
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
+   "id": "b6a4b905-537a-4719-8759-dc470779796e",
    "title": {
-    "en": "Anesan Countdown!"
+    "en": "Say Love"
    },
    "contentRating": "safe",
-   "score": 0.25588557,
+   "score": 0.27297547,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d4446656-30a0-4e01-92c2-6d06e538fa70",
+   "id": "a7de22de-abd5-4e7d-a49f-14955ccafaa3",
    "title": {
-    "en": "Renjou Sparkle"
+    "en": "How to Start a Relationship With Crossdressing"
    },
    "contentRating": "safe",
-   "score": 0.25446486,
+   "score": 0.271278,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.27118725,
+   "languages": [
+    "en",
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:02+00:00"
+ "updatedAt": "2023-12-10T18:09:07+00:00"
 }

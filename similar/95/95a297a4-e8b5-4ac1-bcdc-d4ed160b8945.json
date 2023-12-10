@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "685408cf-b6eb-457e-841b-122b9780acca",
+   "title": {
+    "en": "Blade of the Immortal - Bakumatsu Arc"
+   },
+   "contentRating": "safe",
+   "score": 0.2864349,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
    "title": {
     "en": "Mercy"
    },
    "contentRating": "safe",
-   "score": 0.30687773,
+   "score": 0.28234097,
    "languages": [
     "ru",
     "en"
@@ -23,7 +35,7 @@
     "en": "Shounen Endless"
    },
    "contentRating": "safe",
-   "score": 0.27288955,
+   "score": 0.26003015,
    "languages": [
     "pt-br",
     "en",
@@ -36,7 +48,7 @@
     "en": "Me \u0026 the Devil Blues"
    },
    "contentRating": "safe",
-   "score": 0.22110978,
+   "score": 0.21234253,
    "languages": [
     "ru",
     "pt-br",
@@ -50,7 +62,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.21295522,
+   "score": 0.20601276,
    "languages": [
     "en"
    ]
@@ -61,18 +73,18 @@
     "en": "Arthur Pyuty wa Yoru no Majo"
    },
    "contentRating": "safe",
-   "score": 0.20431228,
+   "score": 0.20436,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
+   "id": "74eb3db8-84c9-4e6f-99a3-647bde6d1d68",
    "title": {
-    "en": "Arashi no Hana Murakumo no Uta"
+    "en": "Fist of the North Star Gaiden - Garuda of the Golden Wing - Prehistory of the Nanto Goshasei"
    },
    "contentRating": "safe",
-   "score": 0.19090089,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -90,42 +102,58 @@
    ]
   },
   {
+   "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
+   "title": {
+    "en": "Arashi no Hana Murakumo no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.19090089,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b245e178-31f8-4c9a-9b75-8bd49ae671e2",
    "title": {
     "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
    },
    "contentRating": "safe",
-   "score": 0.18730293,
+   "score": 0.18732576,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
+   "id": "556239d8-7bb0-4e22-bf7b-48a4e35478d7",
    "title": {
-    "en": "Crest of the Stars"
+    "en": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai"
    },
    "contentRating": "safe",
-   "score": 0.1770158,
+   "score": 0.18311325,
    "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
-   "title": {
-    "en": "Kara no Kyoukai - The Garden of Sinners"
-   },
-   "contentRating": "safe",
-   "score": 0.17621848,
-   "languages": [
+    "es-la",
+    "pl",
+    "pt-br",
     "ru",
     "en",
     "fr",
-    "es-la",
-    "pl"
+    "id"
+   ]
+  },
+  {
+   "id": "9ef7698f-9a77-4622-bd7c-a73fcbbc03af",
+   "title": {
+    "en": "Kuitsume Youhei no Gensou Kitan"
+   },
+   "contentRating": "safe",
+   "score": 0.18254428,
+   "languages": [
+    "en",
+    "ru",
+    "fr",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -134,7 +162,7 @@
     "en": "Amon Game"
    },
    "contentRating": "safe",
-   "score": 0.17462811,
+   "score": 0.17899856,
    "languages": [
     "id",
     "pt-br",
@@ -142,68 +170,48 @@
    ]
   },
   {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
+   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
    "title": {
-    "en": "Tail Star"
+    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
    },
    "contentRating": "safe",
-   "score": 0.1744124,
+   "score": 0.1788418,
    "languages": [
-    "pl",
     "en",
-    "es",
+    "ru",
+    "id",
+    "pt-br",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
+   "title": {
+    "en": "Fushi no Sougishi"
+   },
+   "contentRating": "safe",
+   "score": 0.17691815,
+   "languages": [
+    "vi",
+    "en",
+    "id",
+    "es-la",
     "pt-br"
    ]
   },
   {
-   "id": "c9494b8e-9cf0-4d52-a99c-7db2ef255e73",
+   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
    "title": {
-    "en": "Meiou-sama ga Tooru no desu yo!"
+    "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.17381908,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1fa97be-0f1f-4686-84bc-806881c97d53",
-   "title": {
-    "en": "Otome Youkai Zakuro"
-   },
-   "contentRating": "safe",
-   "score": 0.1686162,
-   "languages": [
-    "en",
-    "pt-br",
-    "es",
-    "tr"
-   ]
-  },
-  {
-   "id": "ea875336-eaad-42c0-ad62-c0986af975ad",
-   "title": {
-    "en": "Asahinagu"
-   },
-   "contentRating": "safe",
-   "score": 0.1673684,
+   "score": 0.1764805,
    "languages": [
     "ru",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "bf8de2ce-9cec-469b-b58d-b1e8b3f46fc7",
-   "title": {
-    "en": "Arthur Bright"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:55+00:00"
+ "updatedAt": "2023-12-10T18:24:57+00:00"
 }

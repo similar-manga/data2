@@ -11,7 +11,18 @@
     "en": "Atrocious Fairy Tales for Adults"
    },
    "contentRating": "safe",
-   "score": 0.26597238,
+   "score": 0.26537314,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
@@ -22,10 +33,21 @@
     "en": "Akunin no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.23591393,
+   "score": 0.23509268,
    "languages": [
     "es-la",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Snow and Ink"
+   },
+   "contentRating": "safe",
+   "score": 0.22596051,
+   "languages": [
     "en"
    ]
   },
@@ -35,7 +57,7 @@
     "en": "Reinouryokusha Odagiri Kyouko no Uso"
    },
    "contentRating": "safe",
-   "score": 0.22134104,
+   "score": 0.21979563,
    "languages": [
     "en"
    ]
@@ -71,42 +93,46 @@
    ]
   },
   {
-   "id": "741ae1bd-a964-4cb1-a08b-e43edea42a7e",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "Nineteen"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
-   "score": 0.2143352,
+   "score": 0.21428573,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8cb6b378-b2ef-487a-8d2a-9347ce3a41fe",
+   "title": {
+    "en": "Back to the Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "68b2e777-5d66-4270-ba45-93ed0595270b",
+   "title": {
+    "en": "Seinen Shoujo yo, Haru wo Musabore"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
    ]
   },
   {
    "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
    "title": {
     "en": "AGAPE"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
-   "title": {
-    "en": "Kokushi no Shima"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -139,62 +165,39 @@
    ]
   },
   {
-   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
    "title": {
-    "en": "Hanzai Koushounin Minegishi Eitarou"
+    "en": "Hyakki Tsurezure Bukuro"
    },
    "contentRating": "safe",
-   "score": 0.2094769,
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3a8ba0f9-4f46-4157-b568-c09f9cac3d55",
+   "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
    "title": {
-    "en": "Awajima Hyakkei"
+    "en": "Yorukumo"
    },
    "contentRating": "safe",
-   "score": 0.20663741,
+   "score": 0.21428573,
    "languages": [
+    "ru",
     "en"
    ]
   },
   {
-   "id": "c64b830b-9118-4525-a462-36b5f2f1a545",
+   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
-    "en": "Jouou"
+    "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
-   "title": {
-    "en": "Mu-kai"
-   },
-   "contentRating": "safe",
-   "score": 0.19942312,
-   "languages": [
-    "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
-   "title": {
-    "en": "Black Coffee"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:12+00:00"
+ "updatedAt": "2023-12-10T18:33:33+00:00"
 }

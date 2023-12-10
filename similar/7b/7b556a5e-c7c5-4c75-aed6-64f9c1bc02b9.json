@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1ef8926c-80d9-47bd-b083-4e8339bd6e75",
+   "title": {
+    "en": "Choco Latte"
+   },
+   "contentRating": "safe",
+   "score": 0.32888007,
+   "languages": [
+    "es-la",
+    "tr",
+    "fr"
+   ]
+  },
+  {
    "id": "c4e777a0-97b2-412d-a23b-3b194a0a5ea2",
    "title": {
     "en": "Mahou Shoujo Lyrical Nanoha - Halloween Magic (Doujinshi)"
@@ -30,15 +43,17 @@
    ]
   },
   {
-   "id": "75dd862c-efae-4151-982f-d613034ebf94",
+   "id": "a80749fa-a4e1-4ee8-bf87-5d73473d116f",
    "title": {
-    "en": "Pokémon Sun and Moon - MOON LIGHT (Doujinshi)"
+    "en": "Uso de Ii node"
    },
    "contentRating": "safe",
    "score": 0.25126484,
    "languages": [
-    "fr",
-    "en"
+    "id",
+    "",
+    "en",
+    "fr"
    ]
   },
   {
@@ -66,20 +81,6 @@
    ]
   },
   {
-   "id": "a80749fa-a4e1-4ee8-bf87-5d73473d116f",
-   "title": {
-    "en": "Uso de Ii node"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "id",
-    "",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "8e25cffc-9858-4535-a4f7-e77a8e2d5caa",
    "title": {
     "en": "August 31"
@@ -93,17 +94,53 @@
    ]
   },
   {
+   "id": "820bfe51-c878-46a6-9a0a-9fd546dc9ef8",
+   "title": {
+    "en": "Love Live! - Ame ga Suki ni Natta Umi-chan (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "75dd862c-efae-4151-982f-d613034ebf94",
+   "title": {
+    "en": "Pokémon Sun and Moon - MOON LIGHT (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "45517abc-50d9-4410-b164-a7d04490bf18",
    "title": {
     "en": "The Art Teacher and the High School Girl"
    },
    "contentRating": "safe",
-   "score": 0.23233797,
+   "score": 0.23314993,
    "languages": [
     "en",
     "ru",
     "fr",
     "it"
+   ]
+  },
+  {
+   "id": "b6a99217-05a4-4015-8706-4e14041f74f8",
+   "title": {
+    "en": "Suletta's secret list"
+   },
+   "contentRating": "safe",
+   "score": 0.23174489,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -121,15 +158,15 @@
    ]
   },
   {
-   "id": "b6a99217-05a4-4015-8706-4e14041f74f8",
+   "id": "f411b1fc-0981-487e-89d1-526326524379",
    "title": {
-    "en": "Suletta's secret list"
+    "en": "GIRLS und PANZER - Anata-tachi Kenkanasai! (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.23174489,
+   "score": 0.22794046,
    "languages": [
-    "en",
-    "fr"
+    "fr",
+    "en"
    ]
   },
   {
@@ -138,7 +175,7 @@
     "en": "If It Rains Next Week"
    },
    "contentRating": "safe",
-   "score": 0.22849362,
+   "score": 0.2277347,
    "languages": [
     "fr",
     "en",
@@ -147,24 +184,12 @@
    ]
   },
   {
-   "id": "f411b1fc-0981-487e-89d1-526326524379",
-   "title": {
-    "en": "GIRLS und PANZER - Anata-tachi Kenkanasai! (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.22768998,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "bc8576ef-53d4-46bb-8e7c-e9d4edb1ab63",
    "title": {
     "en": "A Goldfish's Love"
    },
    "contentRating": "safe",
-   "score": 0.22720695,
+   "score": 0.22726047,
    "languages": [
     "id",
     "fr",
@@ -173,45 +198,21 @@
    ]
   },
   {
-   "id": "93e4dd08-9f3d-42c5-b3e6-f50af33050d3",
+   "id": "9aed499c-d0db-4cdd-8714-cd5c4596073b",
    "title": {
-    "en": "Tsuyoki na Watashi no Semeta Ichinichi"
+    "en": "Kimi ni Sasageru Negaigoto"
    },
    "contentRating": "safe",
    "score": 0.21760175,
    "languages": [
-    "en",
-    "hu",
     "id",
-    "fr"
-   ]
-  },
-  {
-   "id": "2fb77b8c-8a86-4b58-b0c8-339509dc7b1e",
-   "title": {
-    "en": "Kuuchuu Sampo"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "a1551ed7-dd4a-4f8e-a61c-b65ef1c20a91",
-   "title": {
-    "en": "Silent Snow"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
-   "languages": [
-    "ko",
-    "en",
     "fr",
-    "es"
+    "en",
+    "et",
+    "pt-br",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:42+00:00"
+ "updatedAt": "2023-12-10T18:21:49+00:00"
 }

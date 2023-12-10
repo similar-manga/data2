@@ -22,7 +22,7 @@
     "en": "Sekai de Ichiban, Ore ga ◯◯"
    },
    "contentRating": "safe",
-   "score": 0.23551646,
+   "score": 0.23406814,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Vivarium de Choushoku wo"
    },
    "contentRating": "safe",
-   "score": 0.20166089,
+   "score": 0.20094633,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Uncanny Brains"
    },
    "contentRating": "safe",
-   "score": 0.20037144,
+   "score": 0.20000637,
    "languages": [
     "en"
    ]
@@ -66,7 +66,7 @@
     "en": "After Snowfall, Wonder"
    },
    "contentRating": "safe",
-   "score": 0.19523124,
+   "score": 0.19350538,
    "languages": [
     "fr",
     "en"
@@ -84,27 +84,27 @@
    ]
   },
   {
-   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
-   "title": {
-    "en": "Wizards Nation"
-   },
-   "contentRating": "safe",
-   "score": 0.18448044,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
    "title": {
     "en": "xxxHOLiC Rei"
    },
    "contentRating": "safe",
-   "score": 0.18335775,
+   "score": 0.18287836,
    "languages": [
     "pt-br",
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
+   "title": {
+    "en": "Wizards Nation"
+   },
+   "contentRating": "safe",
+   "score": 0.18143073,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -128,7 +128,7 @@
     "en": "Kurage no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.17884178,
+   "score": 0.17874788,
    "languages": [
     "es-la",
     "en"
@@ -140,7 +140,7 @@
     "en": "Outside of the Universe"
    },
    "contentRating": "safe",
-   "score": 0.17776698,
+   "score": 0.1772239,
    "languages": [
     "en"
    ]
@@ -151,10 +151,24 @@
     "en": "Fushigi na Shounen"
    },
    "contentRating": "safe",
-   "score": 0.17155105,
+   "score": 0.17167775,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "da36a727-7686-4e92-8fac-94bc292b8e91",
+   "title": {
+    "en": "Magus of the Library"
+   },
+   "contentRating": "safe",
+   "score": 0.17144234,
+   "languages": [
+    "id",
+    "ar",
+    "en",
+    "tr"
    ]
   },
   {
@@ -163,7 +177,7 @@
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.17071322,
+   "score": 0.17032422,
    "languages": [
     "zh-hk",
     "en"
@@ -175,7 +189,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.16688974,
+   "score": 0.16674644,
    "languages": [
     "pt-br",
     "ru",
@@ -183,18 +197,7 @@
     "uk",
     "id"
    ]
-  },
-  {
-   "id": "da7c2f82-68af-432f-8a57-2b2271ed1db4",
-   "title": {
-    "en": "Utsutsu Kujira"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:03+00:00"
+ "updatedAt": "2023-12-10T18:14:43+00:00"
 }

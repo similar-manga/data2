@@ -11,7 +11,7 @@
     "en": "Anne-chan Tarou"
    },
    "contentRating": "safe",
-   "score": 0.3133017,
+   "score": 0.31358746,
    "languages": [
     "en"
    ]
@@ -22,24 +22,10 @@
     "en": "Sono Koi, Damasarete Imasenka?"
    },
    "contentRating": "safe",
-   "score": 0.30324063,
+   "score": 0.30225644,
    "languages": [
     "fr",
     "en"
-   ]
-  },
-  {
-   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
-   "title": {
-    "en": "My Girlfriend will be a Mangaka"
-   },
-   "contentRating": "safe",
-   "score": 0.29623055,
-   "languages": [
-    "id",
-    "vi",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -48,7 +34,7 @@
     "en": "Love Lunch Time"
    },
    "contentRating": "safe",
-   "score": 0.29310313,
+   "score": 0.29463065,
    "languages": [
     "th",
     "vi",
@@ -57,14 +43,17 @@
    ]
   },
   {
-   "id": "0cee3ca4-e1a2-4fd0-8e76-f332f06b43c3",
+   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
    "title": {
-    "en": "Soredemo Hikareau Futari"
+    "en": "My Girlfriend will be a Mangaka"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29256302,
    "languages": [
-    "en"
+    "id",
+    "vi",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -81,12 +70,23 @@
    ]
   },
   {
+   "id": "0cee3ca4-e1a2-4fd0-8e76-f332f06b43c3",
+   "title": {
+    "en": "Soredemo Hikareau Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
    "title": {
     "en": "Jibun Daisuki Aise-san"
    },
    "contentRating": "safe",
-   "score": 0.28467014,
+   "score": 0.28164575,
    "languages": [
     "id",
     "en"
@@ -98,7 +98,7 @@
     "en": "Masamune-kun no Revenge: Rental Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.27363235,
+   "score": 0.2745009,
    "languages": [
     "th",
     "en",
@@ -111,10 +111,47 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.27354333,
+   "score": 0.27343538,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "c2750bc5-a50b-4e9b-ba22-dcc90dca63c9",
+   "title": {
+    "en": "Herbivore Girl Paopao-senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.26906154,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "66381aec-a89d-4b33-982b-cca9e87a1e9e",
+   "title": {
+    "en": "She Looks Especially Cute to Me"
+   },
+   "contentRating": "safe",
+   "score": 0.26792115,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "51b6b7c4-0123-4eed-b224-a8c1dbd1fff3",
+   "title": {
+    "en": "Yagami-kun's Family Affairs"
+   },
+   "contentRating": "safe",
+   "score": 0.2676827,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -123,7 +160,7 @@
     "en": "My Girlfriend's a BL Author, What Do I Do?"
    },
    "contentRating": "safe",
-   "score": 0.26859358,
+   "score": 0.26745397,
    "languages": [
     "pt-br",
     "en",
@@ -137,22 +174,10 @@
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.2684116,
+   "score": 0.26681024,
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "c2750bc5-a50b-4e9b-ba22-dcc90dca63c9",
-   "title": {
-    "en": "Herbivore Girl Paopao-senpai"
-   },
-   "contentRating": "safe",
-   "score": 0.26791328,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -161,7 +186,7 @@
     "en": "Toufuu (Fu)kenbunroku"
    },
    "contentRating": "safe",
-   "score": 0.26776287,
+   "score": 0.26653504,
    "languages": [
     "en"
    ]
@@ -172,7 +197,7 @@
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.26108524,
+   "score": 0.2617919,
    "languages": [
     "fr",
     "id",
@@ -184,31 +209,7 @@
     "th",
     "ro"
    ]
-  },
-  {
-   "id": "d007a661-3933-450a-9247-9e5455dbdf7e",
-   "title": {
-    "en": "Hasumi-kun to Hasumi-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2589326,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "84d5742f-f5cd-408b-8f15-23e2c799f292",
-   "title": {
-    "en": "Hanseishite Kameda-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.2588619,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:57+00:00"
+ "updatedAt": "2023-12-10T18:22:30+00:00"
 }

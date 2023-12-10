@@ -11,7 +11,7 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.27365422,
+   "score": 0.28326213,
    "languages": [
     "vi",
     "en"
@@ -23,7 +23,7 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.2724122,
+   "score": 0.27346176,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.24502549,
+   "score": 0.24687633,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.23976941,
+   "score": 0.24401778,
    "languages": [
     "pt-br",
     "es-la",
@@ -63,7 +63,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.23354329,
+   "score": 0.23410428,
    "languages": [
     "en",
     "pt-br",
@@ -77,37 +77,40 @@
    ]
   },
   {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
-   "title": {
-    "en": "Deep Love - Real"
-   },
-   "contentRating": "safe",
-   "score": 0.23005009,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
    "title": {
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.22648685,
+   "score": 0.22968212,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
    "title": {
-    "en": "The Darwin Incident"
+    "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.21388774,
+   "score": 0.22949843,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.22942314,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -116,9 +119,32 @@
     "en": "What's Michael?"
    },
    "contentRating": "safe",
-   "score": 0.21297796,
+   "score": 0.21511585,
    "languages": [
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
+   "title": {
+    "en": "The Legend of the Strongest Man Nakane"
+   },
+   "contentRating": "safe",
+   "score": 0.21422262,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "title": {
+    "en": "The Darwin Incident"
+   },
+   "contentRating": "safe",
+   "score": 0.2140531,
+   "languages": [
     "en"
    ]
   },
@@ -128,7 +154,7 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.20926048,
+   "score": 0.21131292,
    "languages": [
     "en",
     "es-la",
@@ -136,29 +162,15 @@
    ]
   },
   {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
    "title": {
-    "en": "March Comes in Like a Lion"
+    "en": "Unmapped Place"
    },
    "contentRating": "safe",
-   "score": 0.20886256,
+   "score": 0.20631044,
    "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
-   "title": {
-    "en": "Boy's Summer"
-   },
-   "contentRating": "safe",
-   "score": 0.20649354,
-   "languages": [
-    "en",
-    "pt-br"
+    "zh-hk",
+    "en"
    ]
   },
   {
@@ -167,9 +179,21 @@
     "en": "Fragile - Byourii Kishi Keiichirou no Shoken"
    },
    "contentRating": "safe",
-   "score": 0.2045025,
+   "score": 0.20620604,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
+   "title": {
+    "en": "Boy's Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.20613715,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -178,7 +202,7 @@
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.20004044,
+   "score": 0.2026135,
    "languages": [
     "en",
     "pt-br",
@@ -191,42 +215,7 @@
     "fa",
     "es"
    ]
-  },
-  {
-   "id": "970cf604-b773-47fb-8cf1-75b8f1513b19",
-   "title": {
-    "en": "Riman Gambler Mouse"
-   },
-   "contentRating": "safe",
-   "score": 0.19471563,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89daf9dc-075a-4aa5-873a-cc76bb287108",
-   "title": {
-    "en": "Gokushufudou: The Way of the House Husband"
-   },
-   "contentRating": "safe",
-   "score": 0.19465117,
-   "languages": [
-    "pt-br",
-    "tr",
-    "fa",
-    "ar",
-    "es-la",
-    "ru",
-    "id",
-    "uk",
-    "pt",
-    "fr",
-    "it",
-    "sv",
-    "hi",
-    "de"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:48+00:00"
+ "updatedAt": "2023-12-10T18:24:38+00:00"
 }

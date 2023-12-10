@@ -6,12 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "691557a3-ca52-4e5a-9dc6-5c32c90fd2f0",
+   "title": {
+    "en": "Ami! Nonstop"
+   },
+   "contentRating": "safe",
+   "score": 0.41553843,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec482098-7ce2-4bbb-bb1e-ab64873c36ac",
+   "title": {
+    "en": "Awa Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.3274637,
+   "languages": [
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "21676a6b-cb66-4351-9177-e27bc6dc381d",
+   "title": {
+    "en": "Goshujinsama to Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.32359123,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9bcc20c4-e1b1-49c4-9e1b-2ac3a5a99a29",
    "title": {
     "en": "Kiss Me on the Apple of My Eye"
    },
    "contentRating": "safe",
-   "score": 0.31162122,
+   "score": 0.3107771,
    "languages": [
     "en"
    ]
@@ -22,7 +56,63 @@
     "en": "City of Dreams"
    },
    "contentRating": "safe",
-   "score": 0.3087241,
+   "score": 0.307793,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec355e43-91e3-4997-813e-e02d19da0546",
+   "title": {
+    "en": "Na no ni, Chigira-kun ga Amasugiru."
+   },
+   "contentRating": "safe",
+   "score": 0.30337986,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "51f91c6b-555c-4d65-8f3b-3039155649b7",
+   "title": {
+    "en": "Uirabu. - Uiuishii Love no Ohanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.30048183,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "d13c946e-3fb2-4388-8098-1dbcda772166",
+   "title": {
+    "en": "Haru wa Mijikashi Koiseyo Danshi."
+   },
+   "contentRating": "safe",
+   "score": 0.30041957,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "e3a3859d-90e4-4d3d-8ac5-282f75401567",
+   "title": {
+    "en": "Eien no Omoi wo Kimi ni"
+   },
+   "contentRating": "safe",
+   "score": 0.2995525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "060f34d5-adb3-4242-b39f-e67e15a7e3a8",
+   "title": {
+    "en": "16-sai nanode Kekkon Shimasu!!"
+   },
+   "contentRating": "safe",
+   "score": 0.29831627,
    "languages": [
     "en"
    ]
@@ -33,7 +123,7 @@
     "en": "My Beast"
    },
    "contentRating": "safe",
-   "score": 0.29816455,
+   "score": 0.2978689,
    "languages": [
     "en"
    ]
@@ -44,7 +134,7 @@
     "en": "Kimi Dake ni Ai wo."
    },
    "contentRating": "safe",
-   "score": 0.2979098,
+   "score": 0.29750547,
    "languages": [
     "fr",
     "en"
@@ -56,7 +146,7 @@
     "en": "Enren Lover"
    },
    "contentRating": "safe",
-   "score": 0.29673335,
+   "score": 0.2966102,
    "languages": [
     "pl",
     "ca",
@@ -65,131 +155,41 @@
    ]
   },
   {
-   "id": "5b43d484-e97a-4e43-8483-5ca9cdc71dc1",
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
    "title": {
-    "en": "Viva Love You"
+    "en": "1-ko Shita kara, Kiss Sasete."
    },
    "contentRating": "safe",
-   "score": 0.29379588,
+   "score": 0.2953439,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2de048a9-9aa8-4d68-9dbd-6b0dc0d43cab",
-   "title": {
-    "en": "Kare no 1-Ban ni Naru Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.29292402,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bed659b3-6cdc-41de-a274-cc1846ae5978",
-   "title": {
-    "en": "Ookami Lover"
-   },
-   "contentRating": "safe",
-   "score": 0.28761274,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "95f466af-2585-42ba-b2e1-699e3fc5c8b9",
-   "title": {
-    "en": "Seishun Location"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
+    "vi",
     "en",
-    "pt-br"
+    "es"
    ]
   },
   {
-   "id": "5727a6e3-c061-4b24-a37c-d8653c6a35fd",
+   "id": "057dda2a-268a-44eb-8e73-cee6a54cbdc4",
    "title": {
-    "en": "Double Sentiment"
+    "en": "Mayonaka no Stellarium"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29529518,
    "languages": [
+    "es-la",
     "en"
    ]
   },
   {
-   "id": "628c364b-4389-41ab-abb9-5b9e4f0238cd",
+   "id": "0cc9fe54-8850-437e-8488-28921e26394e",
    "title": {
-    "en": "Kanpeki Kareshi Kanojo"
+    "en": "Kimi ga Tonari ni Iru Nante"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29422978,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0db791cc-9806-43df-9e54-bf0adfc96d9c",
-   "title": {
-    "en": "Onee-chan Dorobou"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "bg",
-    "en",
-    "mn"
-   ]
-  },
-  {
-   "id": "52d33a2d-1a4b-4b2e-9383-66bbcd7ac348",
-   "title": {
-    "en": "Primo Prima!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "108ab831-0ddd-472f-9e15-3093d94924a3",
-   "title": {
-    "en": "Dakara Koi to Yobanaide"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "90973f4b-b1b0-4b58-b9cf-85e38df41779",
-   "title": {
-    "en": "To Attract a Junior"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "7162c4de-b082-4d05-acdd-c7ceb8b59b96",
-   "title": {
-    "en": "Pink de Ikou!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:48+00:00"
+ "updatedAt": "2023-12-10T18:16:42+00:00"
 }

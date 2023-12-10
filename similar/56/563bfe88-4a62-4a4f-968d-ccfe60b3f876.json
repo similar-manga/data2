@@ -11,7 +11,7 @@
     "en": "I Will Grant You Three Wishes"
    },
    "contentRating": "safe",
-   "score": 0.3280564,
+   "score": 0.32887977,
    "languages": [
     "en"
    ]
@@ -22,9 +22,22 @@
     "en": "My Sweet Dragon"
    },
    "contentRating": "safe",
-   "score": 0.28802913,
+   "score": 0.28722078,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "08a69168-3adb-4f78-adaa-088b7663e0ff",
+   "title": {
+    "en": "Umi ga Hashiru End Roll"
+   },
+   "contentRating": "safe",
+   "score": 0.2678015,
+   "languages": [
+    "es-la",
+    "en",
+    "vi"
    ]
   },
   {
@@ -54,12 +67,23 @@
    ]
   },
   {
+   "id": "f65e76c4-e4fb-40be-bc9b-bf6285d72d0b",
+   "title": {
+    "en": "Love Battle Manual"
+   },
+   "contentRating": "safe",
+   "score": 0.24166578,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
    "title": {
     "en": "Renai Catalog"
    },
    "contentRating": "safe",
-   "score": 0.24079673,
+   "score": 0.24057522,
    "languages": [
     "en"
    ]
@@ -70,15 +94,15 @@
     "en": "8 mm"
    },
    "contentRating": "safe",
-   "score": 0.23723397,
+   "score": 0.2370724,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
+   "id": "b6a4b905-537a-4719-8759-dc470779796e",
    "title": {
-    "en": "The Tale of Taro Yamada"
+    "en": "Say Love"
    },
    "contentRating": "safe",
    "score": 0.22980437,
@@ -99,23 +123,9 @@
    ]
   },
   {
-   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
+   "id": "8f1cdce9-c9a1-4c35-a157-0b7e72c5b4b3",
    "title": {
-    "en": "Natsume Yuujinchou"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "pt-br",
-    "hu",
-    "tr"
-   ]
-  },
-  {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
-   "title": {
-    "en": "Say Love"
+    "en": "Hoshi no Ouka"
    },
    "contentRating": "safe",
    "score": 0.22980437,
@@ -135,62 +145,53 @@
    ]
   },
   {
-   "id": "21a8efa7-8b64-41de-b61c-b4f94e2aed62",
+   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
    "title": {
-    "en": "Chibi Maruko-chan"
+    "en": "The Tale of Taro Yamada"
    },
    "contentRating": "safe",
-   "score": 0.22506468,
+   "score": 0.22980437,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "39cb5817-e559-425b-bba3-cea656a6fd87",
+   "id": "d87dd658-2741-493c-905b-fd3fae4fda0c",
    "title": {
-    "en": "Otome wa Inoru - Himitsu no Dormitory"
+    "en": "Kimi ni Todoke Special ～Soulmate～"
    },
    "contentRating": "safe",
-   "score": 0.22506468,
+   "score": 0.22980437,
+   "languages": [
+    "ar",
+    "en"
+   ]
+  },
+  {
+   "id": "161c7304-dbfc-4c9b-9670-d8ddd352db1b",
+   "title": {
+    "en": "Shitsuji Kuroboshi wa Kashizukanai"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "18ef6f62-d72f-4d8b-b734-efc8ee8d52d2",
+   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
    "title": {
-    "en": "Twink Twink"
+    "en": "Natsume Yuujinchou"
    },
    "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "38e121fe-2a2e-40d8-8a0a-e91d79a99ca9",
-   "title": {
-    "en": "The Noble Farmer"
-   },
-   "contentRating": "safe",
-   "score": 0.22216067,
+   "score": 0.22980437,
    "languages": [
     "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "1994a996-069e-41b9-a54b-417f566b3f0b",
-   "title": {
-    "en": "A Love in 100 Days"
-   },
-   "contentRating": "safe",
-   "score": 0.22188008,
-   "languages": [
-    "en",
-    "fr"
+    "pt-br",
+    "hu",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:09+00:00"
+ "updatedAt": "2023-12-10T18:17:38+00:00"
 }

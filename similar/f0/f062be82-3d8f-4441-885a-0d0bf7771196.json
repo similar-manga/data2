@@ -22,7 +22,7 @@
     "en": "Unconscious World"
    },
    "contentRating": "safe",
-   "score": 0.23815854,
+   "score": 0.23780759,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Record of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.22221023,
+   "score": 0.22164021,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Layers of Fear"
    },
    "contentRating": "safe",
-   "score": 0.21581422,
+   "score": 0.21505232,
    "languages": [
     "en"
    ]
@@ -66,7 +66,7 @@
     "en": "Message"
    },
    "contentRating": "safe",
-   "score": 0.21033536,
+   "score": 0.20969868,
    "languages": [
     "en"
    ]
@@ -77,7 +77,7 @@
     "en": "Primal"
    },
    "contentRating": "safe",
-   "score": 0.19463111,
+   "score": 0.19802678,
    "languages": [
     "en"
    ]
@@ -88,7 +88,18 @@
     "en": "A Happy Child"
    },
    "contentRating": "safe",
-   "score": 0.17595911,
+   "score": 0.17556223,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8ac0855f-5f95-41cb-a1cc-7ac6714980b7",
+   "title": {
+    "en": "Dark Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
    "languages": [
     "en"
    ]
@@ -106,15 +117,50 @@
    ]
   },
   {
+   "id": "60d05f87-f4a2-4ff1-b553-ecd3b7112ebc",
+   "title": {
+    "en": "The Phantom of the Opera"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c994ae64-8cf9-45fd-8375-43b4d8e218b0",
    "title": {
     "en": "Wisteria-Colored Sky Apartment"
    },
    "contentRating": "safe",
-   "score": 0.17388624,
+   "score": 0.17351191,
    "languages": [
     "tr",
     "en"
+   ]
+  },
+  {
+   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
+   "title": {
+    "en": "Leave"
+   },
+   "contentRating": "safe",
+   "score": 0.16641006,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b6b3003-1ffd-4833-875c-eb2e39a21453",
+   "title": {
+    "en": "After Meruhen"
+   },
+   "contentRating": "safe",
+   "score": 0.16641006,
+   "languages": [
+    "en",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -134,60 +180,19 @@
    ]
   },
   {
-   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
+   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
    "title": {
-    "en": "Leave"
+    "en": "Watashi-tachi wa Douka shiteiru"
    },
    "contentRating": "safe",
    "score": 0.16641006,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "545b6c2b-603c-45fb-ad5b-54f508aac44c",
-   "title": {
-    "en": "Bokura no Kiseki ~another stories~"
-   },
-   "contentRating": "safe",
-   "score": 0.16537964,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "58817a2f-4c7b-4fe1-95ba-3bb3767fff94",
-   "title": {
-    "en": "Hyakki Yakoushou"
-   },
-   "contentRating": "safe",
-   "score": 0.16029495,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "01920f2c-57f7-402e-b950-5fa8dc1c561d",
-   "title": {
-    "en": "Hirahira no Tree"
-   },
-   "contentRating": "safe",
-   "score": 0.15996267,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f529c7b2-2a07-4012-b5e0-0ef063a8c864",
-   "title": {
-    "en": "Queen"
-   },
-   "contentRating": "safe",
-   "score": 0.15982972,
-   "languages": [
+    "pt-br",
+    "ru",
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:41+00:00"
+ "updatedAt": "2023-12-10T18:34:44+00:00"
 }

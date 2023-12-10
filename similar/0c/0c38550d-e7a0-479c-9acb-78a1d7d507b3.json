@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "77d20601-2fe7-4b79-9f2e-609d5def4be5",
+   "title": {
+    "en": "Hypnosis"
+   },
+   "contentRating": "safe",
+   "score": 0.7101209,
+   "languages": [
+    "en",
+    "ru",
+    "it"
+   ]
+  },
+  {
+   "id": "f4e6c234-4c3b-4e7f-a684-e074264142fd",
+   "title": {
+    "en": "Are You A Cat?"
+   },
+   "contentRating": "safe",
+   "score": 0.3375851,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e201b6a2-3b4d-422b-8b71-1a082c2312c4",
    "title": {
     "en": "Miss Korai and the Cat God"
    },
    "contentRating": "safe",
-   "score": 0.3392183,
+   "score": 0.3282154,
    "languages": [
     "en"
    ]
@@ -22,11 +46,35 @@
     "en": "Nekoppoi kanojo tte kawaii yo ne tte iitai dake no manga"
    },
    "contentRating": "safe",
-   "score": 0.3308978,
+   "score": 0.32771358,
    "languages": [
     "en",
     "vi",
     "pt-br"
+   ]
+  },
+  {
+   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
+   "title": {
+    "en": "Rain and a Slow Runner"
+   },
+   "contentRating": "safe",
+   "score": 0.3204376,
+   "languages": [
+    "en",
+    "fr",
+    "tr"
+   ]
+  },
+  {
+   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "title": {
+    "en": "My Cat Is a Bit Different"
+   },
+   "contentRating": "safe",
+   "score": 0.3123785,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -35,7 +83,7 @@
     "en": "Cat Gravity"
    },
    "contentRating": "safe",
-   "score": 0.32032955,
+   "score": 0.31098735,
    "languages": [
     "en",
     "vi",
@@ -47,12 +95,48 @@
    ]
   },
   {
+   "id": "f24fd4ff-05ea-4de7-8d91-7b268d1eaac8",
+   "title": {
+    "en": "The Girl From The Class Next Door Looks At Me Every Time She Changes Classrooms"
+   },
+   "contentRating": "safe",
+   "score": 0.30337355,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
+   "title": {
+    "en": "Yamamoto's Ear Cleaning Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.30079973,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "677471fb-50b5-4f5a-ac2f-0ed057e2d8fe",
+   "title": {
+    "en": "Cat, Child, and Mother"
+   },
+   "contentRating": "safe",
+   "score": 0.2985635,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "642bf922-094b-4a98-b0b7-8d6add31b729",
    "title": {
     "en": "The Old Man Who Was Reincarnated as a Cat"
    },
    "contentRating": "safe",
-   "score": 0.30961487,
+   "score": 0.29839098,
    "languages": [
     "vi",
     "pt-br",
@@ -66,7 +150,7 @@
     "en": "Ojisama to Neko"
    },
    "contentRating": "safe",
-   "score": 0.3059938,
+   "score": 0.2980685,
    "languages": [
     "ru",
     "pt-br",
@@ -78,89 +162,26 @@
    ]
   },
   {
-   "id": "f24fd4ff-05ea-4de7-8d91-7b268d1eaac8",
-   "title": {
-    "en": "The Girl From The Class Next Door Looks At Me Every Time She Changes Classrooms"
-   },
-   "contentRating": "safe",
-   "score": 0.30540144,
-   "languages": [
-    "ru",
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
-   "title": {
-    "en": "Rain and a Slow Runner"
-   },
-   "contentRating": "safe",
-   "score": 0.303308,
-   "languages": [
-    "en",
-    "fr",
-    "tr"
-   ]
-  },
-  {
-   "id": "677471fb-50b5-4f5a-ac2f-0ed057e2d8fe",
-   "title": {
-    "en": "Cat, Child, and Mother"
-   },
-   "contentRating": "safe",
-   "score": 0.30301395,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
-   "title": {
-    "en": "Yamamoto's Ear Cleaning Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.30286086,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e881d0e9-cc1d-4b25-846c-db5a56cbe562",
    "title": {
     "en": "Inu Mitai na Ko to Neko Mitai na Ko"
    },
    "contentRating": "safe",
-   "score": 0.29819226,
+   "score": 0.2955531,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7761e235-41f0-4f8f-a83a-78263efab02a",
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
    "title": {
-    "en": "When I Came to See a Movie With My Childhood Friend, We Became a Couple"
+    "en": "Coffee \u0026 Cat"
    },
    "contentRating": "safe",
-   "score": 0.28709674,
+   "score": 0.2947512,
    "languages": [
-    "th",
     "en",
-    "pt-br",
-    "vi",
     "id"
-   ]
-  },
-  {
-   "id": "12a7bc68-8f29-4a2a-936b-62a04ea11c28",
-   "title": {
-    "en": "Endo Ryoko Doesn't Hold Back"
-   },
-   "contentRating": "safe",
-   "score": 0.28616387,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -178,46 +199,20 @@
    ]
   },
   {
-   "id": "96bc8859-a7e3-4e89-afa6-5ec6be278286",
+   "id": "7761e235-41f0-4f8f-a83a-78263efab02a",
    "title": {
-    "en": "Street Crossing Manga"
+    "en": "When I Came to See a Movie With My Childhood Friend, We Became a Couple"
    },
    "contentRating": "safe",
-   "score": 0.28451577,
+   "score": 0.284699,
    "languages": [
-    "ru",
-    "es-la",
-    "id",
-    "pt-br",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "681aae2f-a81f-40c1-8555-499946d093c7",
-   "title": {
-    "en": "Nekomahime"
-   },
-   "contentRating": "safe",
-   "score": 0.28274643,
-   "languages": [
+    "th",
     "en",
-    "tr",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "5323e619-61b8-4490-8a12-12afe1df1893",
-   "title": {
-    "en": "Detective Cat Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.28146642,
-   "languages": [
-    "en"
+    "pt-br",
+    "vi",
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:14+00:00"
+ "updatedAt": "2023-12-10T18:09:39+00:00"
 }

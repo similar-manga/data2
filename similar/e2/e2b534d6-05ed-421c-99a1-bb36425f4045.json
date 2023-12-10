@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f7271ac9-3d83-4df3-8acd-97478b8067a8",
+   "title": {
+    "en": "No Entry Mr Grim Reaper"
+   },
+   "contentRating": "safe",
+   "score": 0.31845823,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
    "title": {
     "en": "At the End of 4 Minutes"
    },
    "contentRating": "safe",
-   "score": 0.30484438,
+   "score": 0.29856187,
    "languages": [
     "vi",
     "fr",
@@ -38,9 +49,31 @@
     "en": "Getsu in no Onmyouji"
    },
    "contentRating": "safe",
-   "score": 0.28488436,
+   "score": 0.28427914,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e8d803c9-f759-42fc-8129-253fce42bbd8",
+   "title": {
+    "en": "White Reaper"
+   },
+   "contentRating": "safe",
+   "score": 0.27550846,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3b87b22d-e539-46f4-a990-aa8bd2f41afd",
+   "title": {
+    "en": "Azrael (PARK Jung-Yul)"
+   },
+   "contentRating": "safe",
+   "score": 0.2753908,
+   "languages": [
     "en"
    ]
   },
@@ -50,7 +83,7 @@
     "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.2777637,
+   "score": 0.27067617,
    "languages": [
     "pt-br",
     "tr",
@@ -59,27 +92,12 @@
    ]
   },
   {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.2726934,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
-   ]
-  },
-  {
    "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
    "title": {
     "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.2703571,
+   "score": 0.27019066,
    "languages": [
     "ca",
     "en",
@@ -90,64 +108,30 @@
    ]
   },
   {
-   "id": "f61e1d39-43c0-4e7d-86e9-063a9c2f2245",
+   "id": "f3bbb091-a512-4b9f-bcf7-97980cae958a",
    "title": {
-    "en": "Grim Reaper, Kill Me Please!"
+    "en": "Grim Reaper Online"
    },
    "contentRating": "safe",
-   "score": 0.25819165,
-   "languages": [
-    "id",
-    "vi",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
-   "title": {
-    "en": "Frog and Haru's Super Beast Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f0df0eb-9670-4977-9bed-720211c073bf",
-   "title": {
-    "en": "Saigo no Negai ~Last Pray~"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.26997855,
    "languages": [
     "en",
-    "it"
+    "pt-br"
    ]
   },
   {
-   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
+   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
    "title": {
-    "en": "Dr. Chanbelee"
+    "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.26911086,
    "languages": [
-    "ro",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
-   "title": {
-    "en": "Tokyo X Day"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
+    "en",
+    "ru",
+    "pt-br",
+    "es",
+    "fr"
    ]
   },
   {
@@ -176,6 +160,30 @@
    ]
   },
   {
+   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
+   "title": {
+    "en": "Tokyo X Day"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
+   "title": {
+    "en": "Dr. Chanbelee"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "ro",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
    "title": {
     "en": "The Animal Sacrifice"
@@ -188,38 +196,16 @@
    ]
   },
   {
-   "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
+   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
    "title": {
-    "en": "One-Armed Amy"
+    "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.246433,
+   "score": 0.25555065,
    "languages": [
-    "fr",
-    "hi",
-    "he",
-    "uk",
-    "en",
-    "it",
-    "pt-br",
-    "id",
-    "es-la",
-    "pl",
-    "ru"
-   ]
-  },
-  {
-   "id": "390009ac-c723-43d6-a146-84129eeddb93",
-   "title": {
-    "en": "Yongbyeong Maluhan"
-   },
-   "contentRating": "safe",
-   "score": 0.24220347,
-   "languages": [
-    "en",
-    "ar"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:06+00:00"
+ "updatedAt": "2023-12-10T18:33:19+00:00"
 }

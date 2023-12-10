@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "07e7f841-eea2-4eb4-9b92-8eaa4cfdd19c",
+   "title": {
+    "en": "Tales of the Prehistoric Animal Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.25255126,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "39cf8670-c06a-4a46-a61d-5d4a6e9796ac",
+   "title": {
+    "en": "The Memory Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.24952881,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4e300bd1-5b4f-4fa6-8a09-4f224974b034",
    "title": {
     "en": "Ain, the One who Surpasses Humans"
    },
    "contentRating": "safe",
-   "score": 0.22807571
+   "score": 0.22656041
   },
   {
    "id": "27a9c956-4c7c-41e6-9a4d-b016e4e5d41b",
@@ -19,7 +41,37 @@
     "en": "Monty Paradise: Ijiwaru na Ousama to Himitsu no Kioku"
    },
    "contentRating": "safe",
-   "score": 0.221183
+   "score": 0.2171507
+  },
+  {
+   "id": "ac77b7b5-bf62-4486-983a-a6899075bbf4",
+   "title": {
+    "en": "Isekai Cat and Grumpy Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.2163833,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ad8768e5-65ee-4722-b986-cbaee80e2d06",
+   "title": {
+    "en": "Quickly Put the Animal Inside the Fridge"
+   },
+   "contentRating": "safe",
+   "score": 0.21469602,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9ef8e2e9-3357-4ac5-9c19-a51d4604485f",
+   "title": {
+    "en": "Hijiri Yuki's Selected Collection"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657
   },
   {
    "id": "2e88d765-ba74-40d0-8861-ec49d6ea18be",
@@ -38,20 +90,26 @@
    "score": 0.21140657
   },
   {
-   "id": "9ef8e2e9-3357-4ac5-9c19-a51d4604485f",
+   "id": "15726085-b8c8-4578-9bd7-70ffd2a05963",
    "title": {
-    "en": "Hijiri Yuki's Selected Collection"
+    "en": "The King of Gaming Bugs!"
    },
    "contentRating": "safe",
-   "score": 0.21140657
+   "score": 0.20933512,
+   "languages": [
+    "en",
+    "fr",
+    "id",
+    "pt-br"
+   ]
   },
   {
-   "id": "fc5e7617-8a78-4f76-a7eb-62880c74b4d5",
+   "id": "287bd2ad-2cf2-4485-b6d2-017b085f33d0",
    "title": {
-    "en": "Cross Zone ~Conqueror of the Earth~"
+    "en": "HeartXBreak"
    },
    "contentRating": "safe",
-   "score": 0.21092887
+   "score": 0.20800917
   },
   {
    "id": "173827ff-32f8-4529-8327-4da1bd44b6b0",
@@ -59,30 +117,15 @@
     "en": "Shark Girl"
    },
    "contentRating": "safe",
-   "score": 0.20902056
+   "score": 0.20653576
   },
   {
-   "id": "4abaeb4f-82c4-4290-be3d-fc62fd69de0a",
+   "id": "fc5e7617-8a78-4f76-a7eb-62880c74b4d5",
    "title": {
-    "en": "Aman's Animal Tales"
+    "en": "Cross Zone ~Conqueror of the Earth~"
    },
    "contentRating": "safe",
-   "score": 0.20826969,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "39cf8670-c06a-4a46-a61d-5d4a6e9796ac",
-   "title": {
-    "en": "The Memory Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.20767726,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20602514
   },
   {
    "id": "b3a73241-042e-4c4e-952d-29c56bf1e3a5",
@@ -90,7 +133,7 @@
     "en": "Neko Me(waku)"
    },
    "contentRating": "safe",
-   "score": 0.20305887
+   "score": 0.19663408
   },
   {
    "id": "56e0d38c-3026-47ab-bc2b-42630a60fa4f",
@@ -98,60 +141,23 @@
     "en": "King City"
    },
    "contentRating": "safe",
-   "score": 0.1978904,
+   "score": 0.19554737,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
+   "id": "4abaeb4f-82c4-4290-be3d-fc62fd69de0a",
    "title": {
-    "en": "Mobile Suit Gundam N-Extreme"
+    "en": "Aman's Animal Tales"
    },
    "contentRating": "safe",
-   "score": 0.19332606,
+   "score": 0.19547254,
    "languages": [
-    "en"
+    "en",
+    "fr"
    ]
-  },
-  {
-   "id": "59807770-c066-4fd4-b39a-d0f273c5d44b",
-   "title": {
-    "en": "Dinosaurs Sanctuary"
-   },
-   "contentRating": "safe",
-   "score": 0.19302431,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efb5fe8d-4e3f-404b-875f-45d2511d378e",
-   "title": {
-    "en": "Genjuu no Kuni Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19278641
-  },
-  {
-   "id": "417d2d14-4c31-4af3-8dbd-4d31686cef5a",
-   "title": {
-    "en": "Anime Shop Manager"
-   },
-   "contentRating": "safe",
-   "score": 0.1918143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4faf3361-7305-4cbc-b1c0-0ba6f9f3ddd6",
-   "title": {
-    "en": "The Thinker"
-   },
-   "contentRating": "safe",
-   "score": 0.18822157
   }
  ],
- "updatedAt": "2023-12-10T01:08:40+00:00"
+ "updatedAt": "2023-12-10T18:32:13+00:00"
 }

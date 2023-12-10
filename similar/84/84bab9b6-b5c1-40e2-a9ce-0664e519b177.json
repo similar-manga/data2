@@ -11,7 +11,7 @@
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.28968975,
+   "score": 0.29241076,
    "languages": [
     "tr",
     "en",
@@ -27,7 +27,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2789893,
+   "score": 0.2811783,
    "languages": [
     "en",
     "it",
@@ -51,7 +51,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.24316452,
+   "score": 0.24414729,
    "languages": [
     "es-la",
     "en",
@@ -67,12 +67,23 @@
    ]
   },
   {
+   "id": "62952d0b-52e5-4c5c-bb57-4bda60e27356",
+   "title": {
+    "en": "Kingdom (fan-colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.22919528,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "title": {
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.22933468,
+   "score": 0.22880544,
    "languages": [
     "zh-hk",
     "en",
@@ -92,12 +103,12 @@
    ]
   },
   {
-   "id": "62952d0b-52e5-4c5c-bb57-4bda60e27356",
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
    "title": {
-    "en": "Kingdom (fan-colored)"
+    "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.22747098,
+   "score": 0.21615037,
    "languages": [
     "en"
    ]
@@ -108,7 +119,7 @@
     "en": "Issak"
    },
    "contentRating": "safe",
-   "score": 0.22041763,
+   "score": 0.21325524,
    "languages": [
     "pt-br",
     "en",
@@ -118,12 +129,12 @@
    ]
   },
   {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "id": "831eef36-be1c-43eb-bedb-48b207e4a975",
    "title": {
-    "en": "Sunny Sunny Ann!"
+    "en": "Burazamurai"
    },
    "contentRating": "safe",
-   "score": 0.21107905,
+   "score": 0.20436172,
    "languages": [
     "en"
    ]
@@ -134,9 +145,21 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.18965372,
+   "score": 0.18918388,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.18837549,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -175,6 +198,18 @@
    ]
   },
   {
+   "id": "685408cf-b6eb-457e-841b-122b9780acca",
+   "title": {
+    "en": "Blade of the Immortal - Bakumatsu Arc"
+   },
+   "contentRating": "safe",
+   "score": 0.17943534,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "a055644f-4efa-42c7-b3c0-dfedcdbe4df5",
    "title": {
     "en": "Golden Bat - A Mysterious Story of the Taisho Era's Skull"
@@ -186,51 +221,19 @@
    ]
   },
   {
-   "id": "e6109f9b-c393-4c71-84f8-10e978265cae",
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
    "title": {
-    "en": "Battle Angel Alita: Mars Chronicle"
+    "en": "March Comes in Like a Lion"
    },
    "contentRating": "safe",
-   "score": 0.17326868,
+   "score": 0.17489675,
    "languages": [
-    "zh-hk",
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a1de21f0-3007-4cde-b45a-d71462b70e8e",
-   "title": {
-    "en": "Napoleon - Age of the Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.1706042,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf8de2ce-9cec-469b-b58d-b1e8b3f46fc7",
-   "title": {
-    "en": "Arthur Bright"
-   },
-   "contentRating": "safe",
-   "score": 0.16878876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
-   "title": {
-    "en": "Kirisuke and Johnny, The Slaying of 499"
-   },
-   "contentRating": "safe",
-   "score": 0.16313794,
-   "languages": [
-    "en"
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:07+00:00"
+ "updatedAt": "2023-12-10T18:22:53+00:00"
 }

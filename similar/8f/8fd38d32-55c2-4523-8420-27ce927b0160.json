@@ -11,7 +11,40 @@
     "en": "Kanpeki Kareshi Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.3707645,
+   "score": 0.37407577,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
+   "title": {
+    "en": "bit by bit"
+   },
+   "contentRating": "safe",
+   "score": 0.34269196,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "53708f5a-720d-4110-84b0-579b5d1bd312",
+   "title": {
+    "en": "Kiss wa, Kokuhaku no Mae ni"
+   },
+   "contentRating": "safe",
+   "score": 0.338313,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "8ec999a7-8f49-42bd-b02e-9969d27f8742",
+   "title": {
+    "en": "Sunshine After"
+   },
+   "contentRating": "safe",
+   "score": 0.32910556,
    "languages": [
     "en"
    ]
@@ -22,40 +55,7 @@
     "en": "Saigo no Page"
    },
    "contentRating": "safe",
-   "score": 0.366436
-  },
-  {
-   "id": "53708f5a-720d-4110-84b0-579b5d1bd312",
-   "title": {
-    "en": "Kiss wa, Kokuhaku no Mae ni"
-   },
-   "contentRating": "safe",
-   "score": 0.34823528,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "d8ac06c8-2849-402f-9bd0-30c8c001adf5",
-   "title": {
-    "en": "bit by bit"
-   },
-   "contentRating": "safe",
-   "score": 0.3449095,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8ec999a7-8f49-42bd-b02e-9969d27f8742",
-   "title": {
-    "en": "Sunshine After"
-   },
-   "contentRating": "safe",
-   "score": 0.32864624,
-   "languages": [
-    "en"
-   ]
+   "score": 0.3253103
   },
   {
    "id": "d0a108e6-cf37-4269-a1b3-69009bae743f",
@@ -63,7 +63,7 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.32177934,
+   "score": 0.32019,
    "languages": [
     "en",
     "pt-br"
@@ -75,7 +75,7 @@
     "en": "Kimi wa Riaru Hero"
    },
    "contentRating": "safe",
-   "score": 0.32147083
+   "score": 0.31978706
   },
   {
    "id": "c9898cf2-4f29-46e5-a00c-34de97c6b030",
@@ -83,7 +83,7 @@
     "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.32062876,
+   "score": 0.3194852,
    "languages": [
     "en"
    ]
@@ -94,7 +94,7 @@
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.31925255,
+   "score": 0.31785792,
    "languages": [
     "pt-br",
     "en"
@@ -106,7 +106,7 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.31815922,
+   "score": 0.31687987,
    "languages": [
     "en",
     "tl"
@@ -118,7 +118,7 @@
     "en": "Kimi Hayate"
    },
    "contentRating": "safe",
-   "score": 0.31755188,
+   "score": 0.31640595,
    "languages": [
     "es",
     "en"
@@ -130,22 +130,9 @@
     "en": "Giant Cinderella"
    },
    "contentRating": "safe",
-   "score": 0.3148305,
+   "score": 0.3145532,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "cc1a424c-0fe3-475a-a05c-d678576340c8",
-   "title": {
-    "en": "\"Hajimete\" Ageru!"
-   },
-   "contentRating": "safe",
-   "score": 0.31353623,
-   "languages": [
-    "pl",
-    "en",
-    "ro"
    ]
   },
   {
@@ -154,10 +141,23 @@
     "en": "Christmas ni Kagayaku"
    },
    "contentRating": "safe",
-   "score": 0.31293494,
+   "score": 0.31308284,
    "languages": [
     "hu",
     "pl"
+   ]
+  },
+  {
+   "id": "cc1a424c-0fe3-475a-a05c-d678576340c8",
+   "title": {
+    "en": "\"Hajimete\" Ageru!"
+   },
+   "contentRating": "safe",
+   "score": 0.3119543,
+   "languages": [
+    "pl",
+    "en",
+    "ro"
    ]
   },
   {
@@ -166,7 +166,7 @@
     "en": "Ame Tokidoki Koi Moyou"
    },
    "contentRating": "safe",
-   "score": 0.3128487,
+   "score": 0.3118312,
    "languages": [
     "en",
     "hu",
@@ -179,8 +179,8 @@
     "en": "Ichikyuu"
    },
    "contentRating": "safe",
-   "score": 0.31059548
+   "score": 0.3098033
   }
  ],
- "updatedAt": "2023-12-10T01:05:39+00:00"
+ "updatedAt": "2023-12-10T18:24:15+00:00"
 }

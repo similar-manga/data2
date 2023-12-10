@@ -11,7 +11,7 @@
     "en": "Fate/stay night x Mahou Shoujo Lyrical Nanoha"
    },
    "contentRating": "safe",
-   "score": 0.29238975,
+   "score": 0.3141903,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Kyoshi: Webcomic Adaptation"
    },
    "contentRating": "safe",
-   "score": 0.258268,
+   "score": 0.2572072,
    "languages": [
     "pt-br",
     "en"
@@ -35,7 +35,7 @@
     "en": "All Around Type-Moon"
    },
    "contentRating": "safe",
-   "score": 0.25413376,
+   "score": 0.25617445,
    "languages": [
     "en",
     "pt-br",
@@ -48,7 +48,7 @@
     "en": "NiGHTS: You Don't Need Wings to Fly"
    },
    "contentRating": "safe",
-   "score": 0.2409979,
+   "score": 0.24207686,
    "languages": [
     "en"
    ]
@@ -59,7 +59,7 @@
     "en": "Mayonaka Sanpo"
    },
    "contentRating": "safe",
-   "score": 0.23564707,
+   "score": 0.23597667,
    "languages": [
     "fa",
     "ar",
@@ -81,19 +81,6 @@
    ]
   },
   {
-   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
-   "title": {
-    "en": "Kishibe no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "es-la",
-    "tr"
-   ]
-  },
-  {
    "id": "6283287d-0ec9-4ab0-b561-381c46b9bef9",
    "title": {
     "en": "Mermaid Bay"
@@ -108,14 +95,16 @@
    ]
   },
   {
-   "id": "b8714875-dd43-47f5-a619-cb0cd1b62a0f",
+   "id": "41a2b7d1-ae30-4e4e-8044-9f8c84fd7b15",
    "title": {
-    "en": "Higan Hikou Shoujo Naeko"
+    "en": "Kishibe no Yume"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "tr"
    ]
   },
   {
@@ -131,17 +120,54 @@
    ]
   },
   {
+   "id": "b8714875-dd43-47f5-a619-cb0cd1b62a0f",
+   "title": {
+    "en": "Higan Hikou Shoujo Naeko"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ce8497d7-a29a-43dd-9fa0-19b2e17f6e81",
    "title": {
     "en": "A Christmas Manga"
    },
    "contentRating": "safe",
-   "score": 0.22974074,
+   "score": 0.22899526,
    "languages": [
     "en",
     "es-la",
     "fr",
     "pl"
+   ]
+  },
+  {
+   "id": "f29d4785-396a-494e-b48f-47d02f583276",
+   "title": {
+    "en": "Fate/stay night [Unlimited Blade Works]"
+   },
+   "contentRating": "safe",
+   "score": 0.22337027,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "uk",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "94f9ed79-7423-4dea-843a-e9a9304d03a8",
+   "title": {
+    "en": "Ao Bara Antique no Shoukoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.22043337,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -174,34 +200,11 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.21546477,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "529d28c3-cd3e-44dd-b265-6366f86438a0",
-   "title": {
-    "en": "Cut the Angel with a Scythe"
-   },
-   "contentRating": "safe",
-   "score": 0.21298315,
-   "languages": [
-    "en",
-    "bg"
-   ]
-  },
-  {
-   "id": "c282a4d4-3c9a-4914-a508-e4224e842ccc",
-   "title": {
-    "en": "ECO"
-   },
-   "contentRating": "safe",
-   "score": 0.20922951,
+   "score": 0.21751969,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:13+00:00"
+ "updatedAt": "2023-12-10T18:36:01+00:00"
 }

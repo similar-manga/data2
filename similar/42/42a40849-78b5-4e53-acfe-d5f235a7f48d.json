@@ -11,7 +11,7 @@
     "en": "Megane Ouji"
    },
    "contentRating": "safe",
-   "score": 0.3457505,
+   "score": 0.3403814,
    "languages": [
     "pl"
    ]
@@ -22,22 +22,10 @@
     "en": "Cinderella Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.32027054,
+   "score": 0.31070656,
    "languages": [
     "pl",
     "pt-br"
-   ]
-  },
-  {
-   "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
-   "title": {
-    "en": "Aozora Pop"
-   },
-   "contentRating": "safe",
-   "score": 0.3012788,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -46,10 +34,22 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.30066425,
+   "score": 0.30530956,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "34e82409-cbb4-4906-a0cd-5e849f9ccbc6",
+   "title": {
+    "en": "Aozora Pop"
+   },
+   "contentRating": "safe",
+   "score": 0.30044958,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -58,7 +58,7 @@
     "en": "By Hero"
    },
    "contentRating": "safe",
-   "score": 0.29803202,
+   "score": 0.2942404,
    "languages": [
     "vi",
     "ro",
@@ -74,8 +74,20 @@
     "en": "Suki Nan Desu"
    },
    "contentRating": "safe",
-   "score": 0.2977448,
+   "score": 0.2938301,
    "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.29359898,
+   "languages": [
+    "en",
     "pl"
    ]
   },
@@ -97,7 +109,7 @@
     "en": "Crash!"
    },
    "contentRating": "safe",
-   "score": 0.27619955,
+   "score": 0.2731434,
    "languages": [
     "en",
     "pl"
@@ -109,22 +121,9 @@
     "en": "Hatsu Haru"
    },
    "contentRating": "safe",
-   "score": 0.26875412,
+   "score": 0.26773608,
    "languages": [
     "pl"
-   ]
-  },
-  {
-   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
-   "title": {
-    "en": "Hana-kun to Koisuru Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.26821983,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en"
    ]
   },
   {
@@ -133,7 +132,7 @@
     "en": "99% Love"
    },
    "contentRating": "safe",
-   "score": 0.2681382,
+   "score": 0.26716283,
    "languages": [
     "en",
     "bg",
@@ -147,7 +146,7 @@
     "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.26721874,
+   "score": 0.26658168,
    "languages": [
     "pl",
     "pt-br",
@@ -160,10 +159,35 @@
     "en": "Mei-chan no Shitsuji"
    },
    "contentRating": "safe",
-   "score": 0.26708087,
+   "score": 0.2663011,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
+   "title": {
+    "en": "Hana-kun to Koisuru Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.26479587,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e8b28147-a921-495e-b9b7-4d1c517675aa",
+   "title": {
+    "en": "The Astrometry"
+   },
+   "contentRating": "safe",
+   "score": 0.26297203,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -172,35 +196,11 @@
     "en": "Hissing"
    },
    "contentRating": "safe",
-   "score": 0.26583117,
+   "score": 0.25968012,
    "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "a6ec8f9e-62a9-4575-9096-09cbfda0f8ad",
-   "title": {
-    "en": "Koigokoro Senpukuchuu"
-   },
-   "contentRating": "safe",
-   "score": 0.2580401,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "53693fc4-0841-4a38-9d87-2dc032b156ce",
-   "title": {
-    "en": "Mairunovich"
-   },
-   "contentRating": "safe",
-   "score": 0.25613502,
-   "languages": [
-    "en",
-    "pt-br",
     "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:19+00:00"
+ "updatedAt": "2023-12-10T18:15:32+00:00"
 }

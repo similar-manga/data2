@@ -11,7 +11,7 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.290454,
+   "score": 0.29768005,
    "languages": [
     "en"
    ]
@@ -22,10 +22,24 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.2886665,
+   "score": 0.28598836,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.26624462,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -34,7 +48,7 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.25660986,
+   "score": 0.25810984,
    "languages": [
     "en"
    ]
@@ -45,7 +59,7 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.24627666,
+   "score": 0.24864246,
    "languages": [
     "en",
     "es-la",
@@ -58,10 +72,22 @@
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.2446235,
+   "score": 0.24644978,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "title": {
+    "en": "Double"
+   },
+   "contentRating": "safe",
+   "score": 0.24047528,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -70,7 +96,7 @@
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.2375114,
+   "score": 0.23875098,
    "languages": [
     "en",
     "pt-br",
@@ -84,27 +110,26 @@
    ]
   },
   {
-   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
-   "title": {
-    "en": "Double"
-   },
-   "contentRating": "safe",
-   "score": 0.23635927,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "3fe4d4c0-60d2-482f-9009-f9e4e44812f7",
    "title": {
     "en": "As for Time..."
    },
    "contentRating": "safe",
-   "score": 0.2328265,
+   "score": 0.23486519,
    "languages": [
     "fr",
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.23303851,
+   "languages": [
     "en"
    ]
   },
@@ -114,7 +139,7 @@
     "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.22106129,
+   "score": 0.22445033,
    "languages": [
     "en"
    ]
@@ -125,8 +150,20 @@
     "en": "Shinya Shokudou"
    },
    "contentRating": "safe",
-   "score": 0.22097208,
+   "score": 0.223381,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
+   "title": {
+    "en": "The Legend of the Strongest Man Nakane"
+   },
+   "contentRating": "safe",
+   "score": 0.21951665,
+   "languages": [
+    "tr",
     "en"
    ]
   },
@@ -136,7 +173,7 @@
     "en": "Gallery Fake"
    },
    "contentRating": "safe",
-   "score": 0.2202833,
+   "score": 0.2190176,
    "languages": [
     "en"
    ]
@@ -153,61 +190,18 @@
    ]
   },
   {
-   "id": "927a1b0a-9e74-4066-b4da-bd538b4413f2",
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
    "title": {
-    "en": "Untouchable Lover"
+    "en": "Arte"
    },
    "contentRating": "safe",
-   "score": 0.20644635,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c",
-   "title": {
-    "en": "The Apothecary Diaries"
-   },
-   "contentRating": "safe",
-   "score": 0.2039892,
-   "languages": [
-    "tr",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la",
-    "de",
-    "it",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.20167112,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
-   "title": {
-    "en": "March Comes in Like a Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.20121391,
+   "score": 0.21345933,
    "languages": [
     "en",
     "pt-br",
-    "es-la",
-    "vi"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:06+00:00"
+ "updatedAt": "2023-12-10T18:17:31+00:00"
 }

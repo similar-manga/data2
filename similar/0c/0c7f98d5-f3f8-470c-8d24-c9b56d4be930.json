@@ -11,7 +11,7 @@
     "en": "The Love That Binds Us to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.24319634,
+   "score": 0.2431018,
    "languages": [
     "en",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Ryuukei no Sora"
    },
    "contentRating": "safe",
-   "score": 0.16145399,
+   "score": 0.16118686,
    "languages": [
     "fr",
     "en",
@@ -37,7 +37,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.15622684,
+   "score": 0.15577179,
    "languages": [
     "pt-br",
     "ru",
@@ -52,7 +52,7 @@
     "en": "Centaur no Nayami"
    },
    "contentRating": "safe",
-   "score": 0.15097703,
+   "score": 0.15050916,
    "languages": [
     "ru",
     "pt-br",
@@ -74,6 +74,18 @@
     "it",
     "pl",
     "ca"
+   ]
+  },
+  {
+   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
+   "title": {
+    "en": "Dodoitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.14814815,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -109,18 +121,6 @@
    ]
   },
   {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
-   "title": {
-    "en": "Dodoitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.14814815,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
    "title": {
     "en": "Sayonara Bye-Bye"
@@ -134,12 +134,36 @@
    ]
   },
   {
+   "id": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
+   "title": {
+    "en": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
+   },
+   "contentRating": "safe",
+   "score": 0.14748546,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "c5d731f9-c1cf-4a69-a797-cd9c2a58316b",
+   "title": {
+    "en": "Anemone is in Heat"
+   },
+   "contentRating": "safe",
+   "score": 0.14662865,
+   "languages": [
+    "ru",
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
    "title": {
     "en": "White Lover"
    },
    "contentRating": "safe",
-   "score": 0.143302,
+   "score": 0.14087366,
    "languages": [
     "pl",
     "en",
@@ -181,18 +205,6 @@
    ]
   },
   {
-   "id": "a87dd7ce-c93a-4e32-97b7-a865ef4092a5",
-   "title": {
-    "en": "Gun"
-   },
-   "contentRating": "safe",
-   "score": 0.12830007,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
    "title": {
     "en": "Schizanthus"
@@ -205,29 +217,17 @@
    ]
   },
   {
-   "id": "25707e09-1afb-48da-a04e-36b4daa7cce6",
+   "id": "a87dd7ce-c93a-4e32-97b7-a865ef4092a5",
    "title": {
-    "en": "Nobunaga no Chef"
+    "en": "Gun"
    },
    "contentRating": "safe",
-   "score": 0.11958157,
+   "score": 0.12830007,
    "languages": [
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
-   "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
-   },
-   "contentRating": "safe",
-   "score": 0.11475507,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:14+00:00"
+ "updatedAt": "2023-12-10T18:09:41+00:00"
 }

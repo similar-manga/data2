@@ -6,14 +6,93 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.27503183,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ec0d8a40-f503-44ce-922f-a9b7620f0288",
    "title": {
     "en": "Hataraki Man"
    },
    "contentRating": "safe",
-   "score": 0.26890925,
+   "score": 0.2660462,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "83acc901-c42e-4468-a6dd-f5d8b9d48567",
+   "title": {
+    "en": "Trillion Game"
+   },
+   "contentRating": "safe",
+   "score": 0.25151154,
+   "languages": [
+    "en",
+    "ru",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
+   "title": {
+    "en": "Challenging the Manga Dojos"
+   },
+   "contentRating": "safe",
+   "score": 0.2513532,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
+   "title": {
+    "en": "The Legend of the Strongest Man Nakane"
+   },
+   "contentRating": "safe",
+   "score": 0.24347542,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "6204ff54-c3d5-4645-b21f-f83f6fa303d0",
+   "title": {
+    "en": "Ani no Yome to Kurashite Imasu."
+   },
+   "contentRating": "safe",
+   "score": 0.23961811,
+   "languages": [
+    "ru",
+    "id",
+    "en",
+    "es",
+    "pt-br",
+    "ko",
+    "de"
+   ]
+  },
+  {
+   "id": "e563a8e9-a730-4216-ba42-734aee59b3f3",
+   "title": {
+    "en": "Genkai Dokushin Joshi (26) Gohan"
+   },
+   "contentRating": "safe",
+   "score": 0.2347941,
+   "languages": [
+    "en",
+    "ru",
+    "id"
    ]
   },
   {
@@ -35,18 +114,7 @@
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.22819787,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e6d0ff06-0c00-4b24-ae78-e4a5087a9656",
-   "title": {
-    "en": "Lighter"
-   },
-   "contentRating": "safe",
-   "score": 0.22668223,
+   "score": 0.2276579,
    "languages": [
     "en"
    ]
@@ -57,7 +125,18 @@
     "en": "The Sorrows of Young Werther (Variety Art Works)"
    },
    "contentRating": "safe",
-   "score": 0.22643307,
+   "score": 0.22569938,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6d0ff06-0c00-4b24-ae78-e4a5087a9656",
+   "title": {
+    "en": "Lighter"
+   },
+   "contentRating": "safe",
+   "score": 0.22549093,
    "languages": [
     "en"
    ]
@@ -68,7 +147,7 @@
     "en": "Boku no Tsuma wa Kanjou ga Nai"
    },
    "contentRating": "safe",
-   "score": 0.22283651,
+   "score": 0.22242223,
    "languages": [
     "en",
     "vi",
@@ -82,8 +161,31 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.2198581,
+   "score": 0.2206685,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6406d41-b31f-41a0-b985-22c496c50762",
+   "title": {
+    "en": "Mame Coordinate"
+   },
+   "contentRating": "safe",
+   "score": 0.21895681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.21141206,
+   "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -93,108 +195,12 @@
     "en": "School Zone"
    },
    "contentRating": "safe",
-   "score": 0.20967185,
+   "score": 0.21021058,
    "languages": [
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
-   "title": {
-    "en": "Boy's Summer"
-   },
-   "contentRating": "safe",
-   "score": 0.20625396,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
-   "title": {
-    "en": "Saint☆Young Men"
-   },
-   "contentRating": "safe",
-   "score": 0.20378071,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f052fabc-7687-4140-ba3a-22e43009cd3d",
-   "title": {
-    "en": "Oni (KANNO Osamu)"
-   },
-   "contentRating": "safe",
-   "score": 0.20209877,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.19249186,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
-   "title": {
-    "en": "Black Humor Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.1921976,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "760ef322-4c63-4709-b005-caafac6a2b71",
-   "title": {
-    "en": "Golondrina"
-   },
-   "contentRating": "safe",
-   "score": 0.19112249,
-   "languages": [
-    "pl",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6f77013d-334c-43cc-a979-629ed4ebbd6d",
-   "title": {
-    "en": "The Long Cavern"
-   },
-   "contentRating": "safe",
-   "score": 0.19106264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3fe4d4c0-60d2-482f-9009-f9e4e44812f7",
-   "title": {
-    "en": "As for Time..."
-   },
-   "contentRating": "safe",
-   "score": 0.18964125,
-   "languages": [
-    "fr",
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:52+00:00"
+ "updatedAt": "2023-12-10T18:30:13+00:00"
 }

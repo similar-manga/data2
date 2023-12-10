@@ -35,7 +35,7 @@
     "en": "Kao no Nai Otoko"
    },
    "contentRating": "safe",
-   "score": 0.25146428,
+   "score": 0.2514554,
    "languages": [
     "pl",
     "en",
@@ -48,7 +48,7 @@
     "en": "00 Day of Summer Holiday"
    },
    "contentRating": "safe",
-   "score": 0.24234512,
+   "score": 0.2473666,
    "languages": [
     "pl",
     "bg",
@@ -57,29 +57,14 @@
    ]
   },
   {
-   "id": "95833cbf-be5c-41c6-b5a4-8c80b99ffdd3",
+   "id": "c9898cf2-4f29-46e5-a00c-34de97c6b030",
    "title": {
-    "en": "Sora ni Haeru"
+    "en": "The End of Summer"
    },
    "contentRating": "safe",
-   "score": 0.2421623,
+   "score": 0.2426878,
    "languages": [
-    "fr",
     "en"
-   ]
-  },
-  {
-   "id": "71bf78cf-cc88-4766-a0d5-dfb488438a79",
-   "title": {
-    "en": "Ningyo ga Fuchi"
-   },
-   "contentRating": "safe",
-   "score": 0.24171834,
-   "languages": [
-    "en",
-    "hu",
-    "fr",
-    "pl"
    ]
   },
   {
@@ -88,7 +73,7 @@
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.24160977,
+   "score": 0.24204142,
    "languages": [
     "fr",
     "en",
@@ -97,25 +82,40 @@
    ]
   },
   {
-   "id": "2bda909e-35d3-46f5-99a8-0b671736f598",
+   "id": "71bf78cf-cc88-4766-a0d5-dfb488438a79",
    "title": {
-    "en": "Hadaka no Ouji-sama"
+    "en": "Ningyo ga Fuchi"
    },
    "contentRating": "safe",
-   "score": 0.23994201,
+   "score": 0.24198188,
+   "languages": [
+    "en",
+    "hu",
+    "fr",
+    "pl"
+   ]
+  },
+  {
+   "id": "95833cbf-be5c-41c6-b5a4-8c80b99ffdd3",
+   "title": {
+    "en": "Sora ni Haeru"
+   },
+   "contentRating": "safe",
+   "score": 0.24182998,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "c9898cf2-4f29-46e5-a00c-34de97c6b030",
+   "id": "2bda909e-35d3-46f5-99a8-0b671736f598",
    "title": {
-    "en": "The End of Summer"
+    "en": "Hadaka no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.23916864,
+   "score": 0.23923257,
    "languages": [
+    "fr",
     "en"
    ]
   },
@@ -131,25 +131,47 @@
    ]
   },
   {
-   "id": "66f05752-e27f-4c3e-a2c3-deb5c4d1406d",
+   "id": "0ad41966-9c35-426e-a852-13dacc91408b",
    "title": {
-    "en": "Kimi Ochi"
+    "en": "Natsu no Zangai"
    },
    "contentRating": "safe",
-   "score": 0.23695253,
+   "score": 0.23731956,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
+   "id": "66f05752-e27f-4c3e-a2c3-deb5c4d1406d",
    "title": {
-    "en": "Kachuu no Ou"
+    "en": "Kimi Ochi"
+   },
+   "contentRating": "safe",
+   "score": 0.23652904,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
+   "title": {
+    "en": "Cold Game"
+   },
+   "contentRating": "safe",
+   "score": 0.2363225,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e0d047b8-b878-4cdc-b3a8-e0a5887ddab6",
+   "title": {
+    "en": "Sora ni Saitara"
    },
    "contentRating": "safe",
    "score": 0.23567893,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -165,45 +187,17 @@
    ]
   },
   {
-   "id": "e0d047b8-b878-4cdc-b3a8-e0a5887ddab6",
+   "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
    "title": {
-    "en": "Sora ni Saitara"
+    "en": "Kachuu no Ou"
    },
    "contentRating": "safe",
    "score": 0.23567893,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
-   "title": {
-    "en": "Kon no Ki Konoha"
-   },
-   "contentRating": "safe",
-   "score": 0.23224436,
-   "languages": [
-    "fr",
-    "id",
     "pt-br",
-    "en",
-    "pl",
-    "ca",
-    "uk"
-   ]
-  },
-  {
-   "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
-   "title": {
-    "en": "Winter Flowers"
-   },
-   "contentRating": "safe",
-   "score": 0.23224436,
-   "languages": [
-    "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:02+00:00"
+ "updatedAt": "2023-12-10T18:22:41+00:00"
 }

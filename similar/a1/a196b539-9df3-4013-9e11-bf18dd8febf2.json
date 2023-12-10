@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "63fefbed-fb2a-479b-8ef1-c209902cfd5b",
-   "title": {
-    "en": "Today's an 〇!"
-   },
-   "contentRating": "safe",
-   "score": 0.332645,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "22108eaa-ed56-4344-aa17-a9f28f29ca22",
    "title": {
     "en": "PikaPika"
    },
    "contentRating": "safe",
-   "score": 0.32322547,
+   "score": 0.38494578,
    "languages": [
     "en"
    ]
@@ -33,7 +22,18 @@
     "en": "MAMAGOTO"
    },
    "contentRating": "safe",
-   "score": 0.3023936,
+   "score": 0.30833706,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "63fefbed-fb2a-479b-8ef1-c209902cfd5b",
+   "title": {
+    "en": "Today's an 〇!"
+   },
+   "contentRating": "safe",
+   "score": 0.291727,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "City Hall"
    },
    "contentRating": "safe",
-   "score": 0.28222853,
+   "score": 0.27721798,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "I Am a Wolf After All"
    },
    "contentRating": "safe",
-   "score": 0.26243111,
+   "score": 0.25916457,
    "languages": [
     "en",
     "pt-br"
@@ -67,7 +67,7 @@
     "en": "Adabana"
    },
    "contentRating": "safe",
-   "score": 0.25357363,
+   "score": 0.25371227,
    "languages": [
     "ca",
     "en",
@@ -77,12 +77,32 @@
    ]
   },
   {
+   "id": "5ea474b8-b34a-458c-abee-d6eb92b931ae",
+   "title": {
+    "en": "The Western Magic Hall"
+   },
+   "contentRating": "safe",
+   "score": 0.24619618
+  },
+  {
+   "id": "45e2fd38-6387-4a38-958f-b6d3b7a03e37",
+   "title": {
+    "en": "My Flatmate at -18°C"
+   },
+   "contentRating": "safe",
+   "score": 0.24563752,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
    "title": {
     "en": "Can You Fall in Love With the Skeleton?"
    },
    "contentRating": "safe",
-   "score": 0.2423731,
+   "score": 0.24409305,
    "languages": [
     "en",
     "fr",
@@ -111,7 +131,7 @@
     "en": "I'm Sorry, I Can't Come to the Phone Right Now."
    },
    "contentRating": "safe",
-   "score": 0.2380931
+   "score": 0.23970613
   },
   {
    "id": "9398d1bb-825c-4aeb-bf14-6fb6a2424721",
@@ -119,7 +139,7 @@
     "en": "The Journey of the Hero and the Wolf"
    },
    "contentRating": "safe",
-   "score": 0.23618843,
+   "score": 0.2364463,
    "languages": [
     "hi",
     "en",
@@ -128,12 +148,23 @@
    ]
   },
   {
+   "id": "7b845d9e-887f-4cab-b5c7-41eb9d6943c7",
+   "title": {
+    "en": "Justice League Origins"
+   },
+   "contentRating": "safe",
+   "score": 0.2296777,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "cc52d4fd-dafd-45b0-bb98-3eff8bdd6836",
    "title": {
     "en": "The Guardian of Mt. Moon"
    },
    "contentRating": "safe",
-   "score": 0.2295549,
+   "score": 0.22904928,
    "languages": [
     "en"
    ]
@@ -144,57 +175,19 @@
     "en": "Everyone in My Solo Party ~ Summon Us From Another World and Be Unmatch"
    },
    "contentRating": "safe",
-   "score": 0.22902176,
+   "score": 0.22795479,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7b845d9e-887f-4cab-b5c7-41eb9d6943c7",
+   "id": "816a6a8c-9136-44d2-9e7a-4ec498621e10",
    "title": {
-    "en": "Justice League Origins"
+    "en": "The Trainer Lives Surrounded by Monsters ~ Abandoned by the Hero Party, He Became the Strongest after Meeting with a Legendary Monster ~"
    },
    "contentRating": "safe",
-   "score": 0.22837052,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f31cae03-d1ee-4f38-bd9e-45f910775ca4",
-   "title": {
-    "en": "Drug It!"
-   },
-   "contentRating": "safe",
-   "score": 0.2216139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fcffdecb-2324-481a-9f41-960dec67e02f",
-   "title": {
-    "en": "Chin Piece"
-   },
-   "contentRating": "safe",
-   "score": 0.22043337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "38d3bf39-b98e-40af-b90a-d9dd8aaf00b6",
-   "title": {
-    "en": "A Town of Things Discarded and Forgotten"
-   },
-   "contentRating": "safe",
-   "score": 0.21995458,
-   "languages": [
-    "en",
-    "it",
-    "ru"
-   ]
+   "score": 0.2259822
   }
  ],
- "updatedAt": "2023-12-10T01:06:25+00:00"
+ "updatedAt": "2023-12-10T18:26:19+00:00"
 }

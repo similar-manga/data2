@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
+   "title": {
+    "en": "S. Flight"
+   },
+   "contentRating": "safe",
+   "score": 0.3343247,
+   "languages": [
+    "zh",
+    "en"
+   ]
+  },
+  {
    "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
    "title": {
     "en": "Hanzai Koushounin Minegishi Eitarou"
    },
    "contentRating": "safe",
-   "score": 0.33548188,
+   "score": 0.33324134,
    "languages": [
     "en"
    ]
@@ -22,9 +34,23 @@
     "en": "Godzilla vs. Destroyah Red"
    },
    "contentRating": "safe",
-   "score": 0.32711175,
+   "score": 0.32532862,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ef97dcf8-9ecb-4a71-96c2-c09302dc6d7d",
+   "title": {
+    "en": "Saikyou Mahoushi no Inton Keikaku: The Alternative"
+   },
+   "contentRating": "safe",
+   "score": 0.32499453,
+   "languages": [
+    "id",
+    "en",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -33,9 +59,25 @@
     "en": "Seikai Suru Kado"
    },
    "contentRating": "safe",
-   "score": 0.3244942,
+   "score": 0.3234552,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1ee97895-4796-4bcf-bcd1-5ef99c011f8b",
+   "title": {
+    "en": "Yurucamp △"
+   },
+   "contentRating": "safe",
+   "score": 0.32327917,
+   "languages": [
+    "es-la",
+    "en",
+    "it",
+    "ru",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -44,7 +86,7 @@
     "en": "The Traveler"
    },
    "contentRating": "safe",
-   "score": 0.3197175,
+   "score": 0.3189223,
    "languages": [
     "it",
     "de",
@@ -59,7 +101,7 @@
     "en": "MAMAGOTO"
    },
    "contentRating": "safe",
-   "score": 0.3165072,
+   "score": 0.31599876,
    "languages": [
     "en"
    ]
@@ -70,10 +112,30 @@
     "en": "Kamisama to"
    },
    "contentRating": "safe",
-   "score": 0.31567404,
+   "score": 0.31482008,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "733fc3ac-deca-444e-bb79-14186e00ccf1",
+   "title": {
+    "en": "Shadows House - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.31338325,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "ru",
+    "id",
+    "tr",
+    "es",
+    "fr",
+    "es-la",
+    "it"
    ]
   },
   {
@@ -82,7 +144,7 @@
     "en": "Maou-sama to Kekkon shitai (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.31306806,
+   "score": 0.31247297,
    "languages": [
     "es-la",
     "uk",
@@ -94,118 +156,64 @@
    ]
   },
   {
+   "id": "47607aaf-54e2-4aa0-b281-ac943370261c",
+   "title": {
+    "en": "Nana-Hon no Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.31221822,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dfdd79ad-eae8-489f-8843-bfae7e08e74b",
+   "title": {
+    "en": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita"
+   },
+   "contentRating": "safe",
+   "score": 0.31153765,
+   "languages": [
+    "es-la",
+    "id",
+    "en",
+    "ru",
+    "vi"
+   ]
+  },
+  {
+   "id": "3c0ea6e5-2202-4e18-82d8-2a078e0ac336",
+   "title": {
+    "en": "SA07"
+   },
+   "contentRating": "safe",
+   "score": 0.30999056,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f556bf5c-1035-47b7-8ef2-416f28cb5e91",
    "title": {
     "en": "Marriage Royale"
    },
    "contentRating": "safe",
-   "score": 0.30926332,
+   "score": 0.30922025,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e18fe8c6-f6dc-4f05-8462-7b2083ff9a6c",
+   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
    "title": {
-    "en": "The Apothecary Diaries"
+    "en": "Channel wa Sonomama!"
    },
    "contentRating": "safe",
-   "score": 0.30920973,
-   "languages": [
-    "tr",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la",
-    "de",
-    "it",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "9ed7759e-3a3e-4850-b1ef-0b039add6f75",
-   "title": {
-    "en": "Alien 9 Complete"
-   },
-   "contentRating": "safe",
-   "score": 0.30822894,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
-   "title": {
-    "en": "Schizanthus"
-   },
-   "contentRating": "safe",
-   "score": 0.3080862,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "b40792b9-88f2-41a1-9cf4-73c26fa687da",
-   "title": {
-    "en": "Gedara"
-   },
-   "contentRating": "safe",
-   "score": 0.30755907,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "af78e5b6-2a61-4645-a0ca-4887c40dea23",
-   "title": {
-    "en": "Silver Plan to Redo From JK"
-   },
-   "contentRating": "safe",
-   "score": 0.30755237,
-   "languages": [
-    "en",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.30754632,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "d798a4e9-8d2d-4ae4-9c9c-fe142495d65e",
-   "title": {
-    "en": "Magic Bloomers"
-   },
-   "contentRating": "safe",
-   "score": 0.30691624,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
-   "title": {
-    "en": "Dero Dero"
-   },
-   "contentRating": "safe",
-   "score": 0.30668136,
+   "score": 0.30894107,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:53+00:00"
+ "updatedAt": "2023-12-10T18:27:40+00:00"
 }

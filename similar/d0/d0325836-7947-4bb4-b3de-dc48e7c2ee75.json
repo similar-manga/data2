@@ -18,23 +18,23 @@
    ]
   },
   {
-   "id": "86412a4e-3ec1-49b4-91a2-4f9cabd3f7c4",
-   "title": {
-    "en": "Radio Heads"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1773,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
    "title": {
     "en": "Tackle Shoujo"
    },
    "contentRating": "suggestive",
-   "score": 0.17723164,
+   "score": 0.17603388,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "86412a4e-3ec1-49b4-91a2-4f9cabd3f7c4",
+   "title": {
+    "en": "Radio Heads"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17413346,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Hijiri-kun wa Kiyoku Ikitai"
    },
    "contentRating": "suggestive",
-   "score": 0.17645042,
+   "score": 0.17292613,
    "languages": [
     "es-la",
     "id",
@@ -58,32 +58,22 @@
     "en": "Onaidoshi no Onee-san"
    },
    "contentRating": "suggestive",
-   "score": 0.16863695,
+   "score": 0.1674546,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0013b0ec-9b15-4e7f-a22b-05de7127a219",
+   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
    "title": {
-    "en": "Work I Really Want To Do!!!"
+    "en": "Takidani Koukou Manga Club"
    },
    "contentRating": "suggestive",
    "score": 0.15713485,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ba2de983-d0b3-490c-a1f9-ef924375eb4b",
-   "title": {
-    "en": "Circumstances of a Vegetarian Child Werewolf"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15713485,
-   "languages": [
-    "pl",
-    "en"
+    "fr",
+    "en",
+    "pl"
    ]
   },
   {
@@ -123,16 +113,26 @@
    ]
   },
   {
-   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
+   "id": "ba2de983-d0b3-490c-a1f9-ef924375eb4b",
    "title": {
-    "en": "Takidani Koukou Manga Club"
+    "en": "Circumstances of a Vegetarian Child Werewolf"
    },
    "contentRating": "suggestive",
    "score": 0.15713485,
    "languages": [
-    "fr",
-    "en",
-    "pl"
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "0013b0ec-9b15-4e7f-a22b-05de7127a219",
+   "title": {
+    "en": "Work I Really Want To Do!!!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15713485,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -163,7 +163,7 @@
     "en": "Boku no Suki na Hito ga Suki na Hito"
    },
    "contentRating": "suggestive",
-   "score": 0.14963327,
+   "score": 0.14743377,
    "languages": [
     "es-la",
     "pt-br",
@@ -171,21 +171,6 @@
     "en",
     "th",
     "ru"
-   ]
-  },
-  {
-   "id": "3f7fe442-17b6-4297-9a16-6a8efb26d132",
-   "title": {
-    "en": "Frogman (Oneshot)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14054568,
-   "languages": [
-    "fr",
-    "en",
-    "de",
-    "ru",
-    "pt-br"
    ]
   },
   {
@@ -200,7 +185,18 @@
     "pt-br",
     "fr"
    ]
+  },
+  {
+   "id": "5e859450-e78a-457a-a8d0-cfe12cb66b31",
+   "title": {
+    "en": "The Night of Chijyo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14054568,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:21+00:00"
+ "updatedAt": "2023-12-10T18:31:25+00:00"
 }

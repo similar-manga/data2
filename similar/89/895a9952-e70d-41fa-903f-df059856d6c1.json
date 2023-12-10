@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "64693133-e34c-412b-a51a-a1608cadd9ce",
+   "title": {
+    "en": "Treat Me Tender"
+   },
+   "contentRating": "safe",
+   "score": 0.27368692,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e57bd9a1-420a-4e47-ace2-6fb5e4edfa1e",
+   "title": {
+    "en": "I Became the Mad Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.26873195,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "7d7be623-acac-4b2a-9239-e35e53394082",
    "title": {
     "en": "G-Defend"
    },
    "contentRating": "safe",
-   "score": 0.26110744,
+   "score": 0.26000437,
    "languages": [
     "en"
    ]
@@ -22,7 +45,29 @@
     "en": "Battle Rabbits"
    },
    "contentRating": "safe",
-   "score": 0.25980496,
+   "score": 0.259004,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "85c7da77-81a3-4164-a84e-30e0799554e7",
+   "title": {
+    "en": "Graduated From You"
+   },
+   "contentRating": "safe",
+   "score": 0.24941117,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "276e8d27-2814-4d32-9cae-c900cee2517e",
+   "title": {
+    "en": "Elysium no Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.24283358,
    "languages": [
     "en"
    ]
@@ -33,19 +78,19 @@
     "en": "Aoi Hitsuji no Yume"
    },
    "contentRating": "safe",
-   "score": 0.2430733,
+   "score": 0.24274461,
    "languages": [
     "it",
     "pl"
    ]
   },
   {
-   "id": "b046bcc7-7494-45cc-bdeb-887219d73d50",
+   "id": "9bfb803f-2465-41cc-8664-7a7efee2fc89",
    "title": {
-    "en": "Egoism"
+    "en": "Midnight Sun"
    },
    "contentRating": "safe",
-   "score": 0.2352704,
+   "score": 0.23903264,
    "languages": [
     "en"
    ]
@@ -68,7 +113,7 @@
     "en": "Return of the Mad Demon"
    },
    "contentRating": "safe",
-   "score": 0.22817531,
+   "score": 0.23025283,
    "languages": [
     "pl",
     "pt-br",
@@ -89,107 +134,61 @@
    ]
   },
   {
-   "id": "e27a8fc7-965e-4a4c-a348-5f2c99516efe",
+   "id": "39fba322-8ca7-48ff-b334-6ef28ca6926d",
    "title": {
-    "en": "Meteod"
+    "en": "Itsushika Kimi no Toriko"
    },
    "contentRating": "safe",
-   "score": 0.22632919,
+   "score": 0.22796033,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "76303330-2a52-45e9-b4fd-27f6743248ce",
+   "title": {
+    "en": "Wagamama Romeo"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "bd74265a-5968-40b7-a3f6-b30b8bec6b70",
+   "id": "50e4877c-8aec-4573-94aa-5429d3a95b72",
    "title": {
-    "en": "Sex Pistols"
+    "en": "Yuigonjou Yori Ai wo Komete"
    },
    "contentRating": "safe",
-   "score": 0.22212188,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "88c682c2-b72c-4d98-a6bc-e547da07c3ba",
-   "title": {
-    "en": "Hanger ―Shikkounin―"
-   },
-   "contentRating": "safe",
-   "score": 0.21743053,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "24c47dc1-9aa3-4301-ac31-7260d2945371",
-   "title": {
-    "en": "Wild Adapter"
-   },
-   "contentRating": "safe",
-   "score": 0.21643728,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "853ecbe1-bd78-4543-a194-007dfcb5505a",
-   "title": {
-    "en": "Kishin Douji Zenki"
-   },
-   "contentRating": "safe",
-   "score": 0.21555135,
+   "score": 0.22796033,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
+   "id": "fec5084b-3334-497c-8886-05d70ab56f07",
    "title": {
-    "en": "Eiyuu Densetsu - Sora no Kiseki"
+    "en": "Gray"
    },
    "contentRating": "safe",
-   "score": 0.21496369,
+   "score": 0.22796033,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bbe605e5-bbe6-4091-bb6b-e8aa8dbf8fe6",
+   "id": "b046bcc7-7494-45cc-bdeb-887219d73d50",
    "title": {
-    "en": "Gyakushuu no Dragon Rider"
+    "en": "Egoism"
    },
    "contentRating": "safe",
-   "score": 0.21496369,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
-   "title": {
-    "en": "Scrapped Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.21475717,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2b779fd-b395-4faf-beb1-1a406b403d55",
-   "title": {
-    "en": "Oujisama Lv1"
-   },
-   "contentRating": "safe",
-   "score": 0.21344781,
+   "score": 0.22796033,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:20+00:00"
+ "updatedAt": "2023-12-10T18:23:26+00:00"
 }

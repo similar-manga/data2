@@ -11,7 +11,7 @@
     "en": "Oni (KANNO Osamu)"
    },
    "contentRating": "safe",
-   "score": 0.23834187,
+   "score": 0.23730162,
    "languages": [
     "vi",
     "en"
@@ -23,7 +23,7 @@
     "en": "Boy's Summer"
    },
    "contentRating": "safe",
-   "score": 0.23213813,
+   "score": 0.23153532,
    "languages": [
     "en",
     "pt-br"
@@ -35,7 +35,7 @@
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.22353062,
+   "score": 0.22270946,
    "languages": [
     "en"
    ]
@@ -46,18 +46,7 @@
     "en": "Train Man:  Do Your Best, Poison Man!"
    },
    "contentRating": "safe",
-   "score": 0.22233944
-  },
-  {
-   "id": "30ebc162-0332-4059-b016-cb7159621756",
-   "title": {
-    "en": "Firescooter☆"
-   },
-   "contentRating": "safe",
-   "score": 0.22004567,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2196368
   },
   {
    "id": "e6d0ff06-0c00-4b24-ae78-e4a5087a9656",
@@ -65,7 +54,18 @@
     "en": "Lighter"
    },
    "contentRating": "safe",
-   "score": 0.22002243,
+   "score": 0.21909916,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "30ebc162-0332-4059-b016-cb7159621756",
+   "title": {
+    "en": "Firescooter☆"
+   },
+   "contentRating": "safe",
+   "score": 0.216756,
    "languages": [
     "en"
    ]
@@ -76,7 +76,7 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.21434739,
+   "score": 0.21502085,
    "languages": [
     "en"
    ]
@@ -87,7 +87,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.20973761,
+   "score": 0.20950489,
    "languages": [
     "pt-br",
     "ru",
@@ -97,20 +97,47 @@
    ]
   },
   {
+   "id": "4a378fde-e143-485b-a938-44eeffee34b9",
+   "title": {
+    "en": "Inspector Daimajin"
+   },
+   "contentRating": "safe",
+   "score": 0.20656659,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
+   "title": {
+    "en": "The Legend of the Strongest Man Nakane"
+   },
+   "contentRating": "safe",
+   "score": 0.20534226,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "832cce77-102a-4f3c-80ca-ea4b082592a8",
    "title": {
     "en": "The World, Foreseen by a Master of the Manga World"
    },
    "contentRating": "safe",
-   "score": 0.20584701
+   "score": 0.2052232
   },
   {
-   "id": "65466967-d516-4936-a14b-8016f9dc40bb",
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
    "title": {
-    "en": "Shinikaeri"
+    "en": "Unmapped Place"
    },
    "contentRating": "safe",
-   "score": 0.2036195
+   "score": 0.20299473,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
   },
   {
    "id": "8cf89dc0-667f-43ec-bfd6-931244d4045b",
@@ -124,55 +151,37 @@
    ]
   },
   {
+   "id": "65466967-d516-4936-a14b-8016f9dc40bb",
+   "title": {
+    "en": "Shinikaeri"
+   },
+   "contentRating": "safe",
+   "score": 0.2022137
+  },
+  {
    "id": "6f77013d-334c-43cc-a979-629ed4ebbd6d",
    "title": {
     "en": "The Long Cavern"
    },
    "contentRating": "safe",
-   "score": 0.2018017,
+   "score": 0.2017949,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "63116561-d411-4edb-9b06-06259a66713a",
+   "id": "e563a8e9-a730-4216-ba42-734aee59b3f3",
    "title": {
-    "en": "Kotei no Himawari"
+    "en": "Genkai Dokushin Joshi (26) Gohan"
    },
    "contentRating": "safe",
-   "score": 0.19825767
-  },
-  {
-   "id": "edba4793-6c16-42ad-b437-82daceb52f30",
-   "title": {
-    "en": "Night at the Aquarium"
-   },
-   "contentRating": "safe",
-   "score": 0.19751008,
+   "score": 0.20040193,
    "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "0439be77-eb1b-455f-8e7f-6621a5bc60e3",
-   "title": {
-    "en": "Aldnoah.Zero Extra Episode"
-   },
-   "contentRating": "safe",
-   "score": 0.1954315
-  },
-  {
-   "id": "ec0d8a40-f503-44ce-922f-a9b7620f0288",
-   "title": {
-    "en": "Hataraki Man"
-   },
-   "contentRating": "safe",
-   "score": 0.19510894,
-   "languages": [
-    "en"
+    "en",
+    "ru",
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:34+00:00"
+ "updatedAt": "2023-12-10T18:18:41+00:00"
 }

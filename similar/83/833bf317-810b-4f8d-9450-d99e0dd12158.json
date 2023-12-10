@@ -11,7 +11,7 @@
     "en": "The Devil Grants a Girl's Last Wish"
    },
    "contentRating": "safe",
-   "score": 0.32562366,
+   "score": 0.32744518,
    "languages": [
     "en",
     "id"
@@ -23,7 +23,7 @@
     "en": "Anata no Kage wo Ou"
    },
    "contentRating": "safe",
-   "score": 0.29771325,
+   "score": 0.29845056,
    "languages": [
     "it",
     "ru",
@@ -42,7 +42,7 @@
     "en": "Koukai no Nai Jinsei wo"
    },
    "contentRating": "safe",
-   "score": 0.2923423,
+   "score": 0.2918178,
    "languages": [
     "pt-br",
     "ru",
@@ -59,7 +59,7 @@
     "en": "Talking to a Girl on the Train to School"
    },
    "contentRating": "safe",
-   "score": 0.29166067,
+   "score": 0.29158205,
    "languages": [
     "zh",
     "it",
@@ -89,11 +89,22 @@
     "en": "A Girl Who Only Appears on Snowy Days"
    },
    "contentRating": "safe",
-   "score": 0.27850932,
+   "score": 0.27981257,
    "languages": [
     "id",
     "ru",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "675f7b9c-21b5-4f72-aa1a-d99b2cd1e8d8",
+   "title": {
+    "en": "Aniota JK ga Ossan Kyara ni Natteshimau Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2741565,
+   "languages": [
     "en"
    ]
   },
@@ -103,23 +114,12 @@
     "en": "A Story About a High School Girl Staying Over"
    },
    "contentRating": "safe",
-   "score": 0.2776242,
+   "score": 0.2733559,
    "languages": [
     "it",
     "vi",
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "675f7b9c-21b5-4f72-aa1a-d99b2cd1e8d8",
-   "title": {
-    "en": "Aniota JK ga Ossan Kyara ni Natteshimau Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.27463055,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -140,7 +140,7 @@
     "en": "Hoshi ni Negai o Futatabi"
    },
    "contentRating": "safe",
-   "score": 0.2542978,
+   "score": 0.2541973,
    "languages": [
     "tr",
     "en"
@@ -152,7 +152,7 @@
     "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.25306702,
+   "score": 0.25132766,
    "languages": [
     "pt-br",
     "tr",
@@ -166,7 +166,7 @@
     "en": "Kareshi ni matowaritsuku yuurei"
    },
    "contentRating": "safe",
-   "score": 0.25212622,
+   "score": 0.25125787,
    "languages": [
     "it",
     "th",
@@ -176,23 +176,12 @@
    ]
   },
   {
-   "id": "e96547cd-039c-4a0b-9f98-31e0996569c6",
-   "title": {
-    "en": "Enjoy Ghost Company Life!"
-   },
-   "contentRating": "safe",
-   "score": 0.2507238,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ade51b4d-9d62-47af-8e11-d2bf1fc1a615",
    "title": {
     "en": "Time Letter"
    },
    "contentRating": "safe",
-   "score": 0.24955541,
+   "score": 0.25045744,
    "languages": [
     "fr",
     "ca",
@@ -203,29 +192,42 @@
    ]
   },
   {
+   "id": "e96547cd-039c-4a0b-9f98-31e0996569c6",
+   "title": {
+    "en": "Enjoy Ghost Company Life!"
+   },
+   "contentRating": "safe",
+   "score": 0.2504392,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5f25b477-970d-4f7b-ae56-e5ab0bb68bcb",
    "title": {
     "en": "Proof that Hell Exists"
    },
    "contentRating": "safe",
-   "score": 0.24840544,
+   "score": 0.24922112,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "cb6372ab-c1af-43f0-8706-0f04bf29cd52",
+   "id": "befdc96e-3254-4564-bcd4-1fc3ac5801f9",
    "title": {
-    "en": "Hardcore Santa and the Spirit's Wail"
+    "en": "Dekinai-ko"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en",
-    "pt-br"
+    "fr",
+    "ru",
+    "id",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:02+00:00"
+ "updatedAt": "2023-12-10T18:22:43+00:00"
 }

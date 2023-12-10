@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "482208ae-5688-42e7-b60e-7030de2b2726",
+   "title": {
+    "en": "Ultra Ninja Scroll Super"
+   },
+   "contentRating": "safe",
+   "score": 0.4248758
+  },
+  {
    "id": "fbac337b-ec78-477d-b9ef-24ebe3ecb857",
    "title": {
     "en": "Black Wild Ox"
    },
    "contentRating": "safe",
-   "score": 0.4234456
+   "score": 0.41732737
   },
   {
    "id": "2fd79ba7-007f-4120-8b96-c25cdf0f2e0c",
@@ -19,7 +27,7 @@
     "en": "Tonari no Ninja"
    },
    "contentRating": "safe",
-   "score": 0.40219015,
+   "score": 0.397268,
    "languages": [
     "fr",
     "en",
@@ -27,12 +35,36 @@
    ]
   },
   {
+   "id": "ee1383c0-09ec-4c78-80b8-7aeed888ad0e",
+   "title": {
+    "en": "Ninja Boy Style"
+   },
+   "contentRating": "safe",
+   "score": 0.38713238
+  },
+  {
+   "id": "279f4166-0e8e-43f6-819f-c05f1135797f",
+   "title": {
+    "en": "Gale Ultra Ninja Scroll"
+   },
+   "contentRating": "safe",
+   "score": 0.3869158
+  },
+  {
+   "id": "ce9318fa-f066-4a5c-8c69-ffb86159889f",
+   "title": {
+    "en": "Nintama Rantaro"
+   },
+   "contentRating": "safe",
+   "score": 0.35581034
+  },
+  {
    "id": "cb2ed96a-1a91-4f72-9dfd-d6cfb3b587d4",
    "title": {
     "en": "Dropout Ninja Rantaro"
    },
    "contentRating": "safe",
-   "score": 0.35734734,
+   "score": 0.35421735,
    "languages": [
     "en"
    ]
@@ -43,7 +75,23 @@
     "en": "Ninja Awatemaru"
    },
    "contentRating": "safe",
-   "score": 0.31722626
+   "score": 0.30937487
+  },
+  {
+   "id": "85a91236-d027-4b2a-b0d0-3b5df04a36f5",
+   "title": {
+    "en": "Ninja Man Ippei"
+   },
+   "contentRating": "safe",
+   "score": 0.30131367
+  },
+  {
+   "id": "430435ab-f359-48de-b79c-6cf262721d9b",
+   "title": {
+    "en": "E.T.O."
+   },
+   "contentRating": "safe",
+   "score": 0.28069112
   },
   {
    "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
@@ -51,7 +99,7 @@
     "en": "Naruto: Road to Ninja"
    },
    "contentRating": "safe",
-   "score": 0.27817023,
+   "score": 0.2752678,
    "languages": [
     "en",
     "ru",
@@ -59,26 +107,31 @@
    ]
   },
   {
-   "id": "2f38f1ed-ec14-4225-8ef8-f8400a5dca1b",
+   "id": "c5db38b5-4b6b-43a1-908b-894bdcdbf120",
    "title": {
-    "en": "Megaton Punch!"
+    "en": "Ninja Hattori-Kun"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "pt-br"
-   ]
+   "score": 0.2725129
   },
   {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
+   "id": "9842df90-53a8-4a26-8696-2b47a6a52cf9",
    "title": {
-    "en": "Foo Fighter Fuji"
+    "en": "Mononoke no Ran"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.26321456,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "fdd6074a-3652-418c-b893-6c94a0164f76",
+   "title": {
+    "en": "Ultra Ninpo Joju"
+   },
+   "contentRating": "safe",
+   "score": 0.25643876
   },
   {
    "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
@@ -92,96 +145,16 @@
    ]
   },
   {
-   "id": "1d4b6f66-5484-497a-8117-2af6736e7cf6",
+   "id": "2f38f1ed-ec14-4225-8ef8-f8400a5dca1b",
    "title": {
-    "en": "Puppy Love"
+    "en": "Megaton Punch!"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "09d51cdd-e3c1-4537-8f58-2fb959bee5bc",
-   "title": {
-    "en": "Bokuretsu Manken Love Gun"
-   },
-   "contentRating": "safe",
-   "score": 0.2546082,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
-   "title": {
-    "en": "Love Attack"
-   },
-   "contentRating": "safe",
-   "score": 0.25214574,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e89d4b05-714f-4e64-8105-4243858909f0",
-   "title": {
-    "en": "Sono Koi, Damasarete Imasenka?"
-   },
-   "contentRating": "safe",
-   "score": 0.2410369,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
-   "title": {
-    "en": "Selling Me Softly"
-   },
-   "contentRating": "safe",
-   "score": 0.23856232,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.23273963,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "ab9f56a8-b3f8-4485-afea-fb83b6795a84",
-   "title": {
-    "en": "Arata no Tsukumogami"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc30f1e2-506b-4e51-8ad5-e2b77ede5949",
-   "title": {
-    "en": "Lemonade Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:36+00:00"
+ "updatedAt": "2023-12-10T18:24:08+00:00"
 }

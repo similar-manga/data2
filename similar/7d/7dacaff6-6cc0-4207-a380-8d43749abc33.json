@@ -11,7 +11,7 @@
     "en": "Maiden Rose"
    },
    "contentRating": "erotica",
-   "score": 0.23683794,
+   "score": 0.23591328,
    "languages": [
     "it",
     "pl",
@@ -24,7 +24,7 @@
     "en": "Kiss no Jikan desu, Goshujin-sama"
    },
    "contentRating": "erotica",
-   "score": 0.22024672,
+   "score": 0.2169547,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "S.E.X \u0026 Love"
    },
    "contentRating": "erotica",
-   "score": 0.17873949,
+   "score": 0.17992909,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "Leopard Hakusho"
    },
    "contentRating": "erotica",
-   "score": 0.17368096,
+   "score": 0.1736441,
    "languages": [
     "en"
    ]
@@ -100,13 +100,15 @@
    ]
   },
   {
-   "id": "e76951dd-0ae4-4198-ade2-4766f462729d",
+   "id": "49d11064-d5ae-4b40-b9a4-30247e6c4acc",
    "title": {
-    "en": "Haginokouji Seiya-sama no Ran"
+    "en": "Teito Hatsukoi Shinjyu"
    },
    "contentRating": "erotica",
-   "score": 0.17176527,
+   "score": 0.16970126,
    "languages": [
+    "pt-br",
+    "es-la",
     "en"
    ]
   },
@@ -124,49 +126,14 @@
    ]
   },
   {
-   "id": "49d11064-d5ae-4b40-b9a4-30247e6c4acc",
-   "title": {
-    "en": "Teito Hatsukoi Shinjyu"
-   },
-   "contentRating": "erotica",
-   "score": 0.16913037,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "6283716b-ce86-4905-b037-720489f750aa",
    "title": {
     "en": "Spy Game A.D. 1600"
    },
    "contentRating": "erotica",
-   "score": 0.1667222,
+   "score": 0.16558981,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c32ff781-1df2-404b-8cd4-dcb5c643f090",
-   "title": {
-    "en": "Kimochi no Yukue"
-   },
-   "contentRating": "erotica",
-   "score": 0.1636834,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "16881234-9826-459f-9311-45298b351a38",
-   "title": {
-    "en": "Toushu-sama wa Itazura ga Osuki"
-   },
-   "contentRating": "erotica",
-   "score": 0.1636834,
-   "languages": [
     "en"
    ]
   },
@@ -185,17 +152,54 @@
    ]
   },
   {
-   "id": "42b91beb-686e-4177-87a0-7fd28995089b",
+   "id": "16881234-9826-459f-9311-45298b351a38",
    "title": {
-    "en": "Goshujinsama To Boku"
+    "en": "Toushu-sama wa Itazura ga Osuki"
    },
    "contentRating": "erotica",
-   "score": 0.16342962,
+   "score": 0.1636834,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e76951dd-0ae4-4198-ade2-4766f462729d",
+   "title": {
+    "en": "Haginokouji Seiya-sama no Ran"
+   },
+   "contentRating": "erotica",
+   "score": 0.1636834,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c32ff781-1df2-404b-8cd4-dcb5c643f090",
+   "title": {
+    "en": "Kimochi no Yukue"
+   },
+   "contentRating": "erotica",
+   "score": 0.1636834,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4ac6b38d-8a29-4d31-b02a-ae512ee8eccc",
+   "title": {
+    "en": "The Ghost's Nocturne"
+   },
+   "contentRating": "erotica",
+   "score": 0.16259706,
    "languages": [
     "en",
-    "es-la"
+    "es-la",
+    "uk",
+    "id",
+    "es",
+    "cs"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:48+00:00"
+ "updatedAt": "2023-12-10T18:22:05+00:00"
 }

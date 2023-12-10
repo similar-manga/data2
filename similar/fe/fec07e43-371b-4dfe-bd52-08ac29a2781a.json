@@ -11,10 +11,22 @@
     "en": "Boys'n Girl"
    },
    "contentRating": "safe",
-   "score": 0.22800486,
+   "score": 0.22725402,
    "languages": [
     "pl",
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "37cc2607-ba1a-428d-baa0-b749de820979",
+   "title": {
+    "en": "Ba-thump Ba-thump Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.19462892,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -32,15 +44,17 @@
    ]
   },
   {
-   "id": "37cc2607-ba1a-428d-baa0-b749de820979",
+   "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
    "title": {
-    "en": "Ba-thump Ba-thump Diary"
+    "en": "Queen's Quality"
    },
    "contentRating": "safe",
-   "score": 0.19462892,
+   "score": 0.19090438,
    "languages": [
+    "hu",
+    "en",
     "pl",
-    "en"
+    "ar"
    ]
   },
   {
@@ -49,10 +63,35 @@
     "en": "Nekomori-kun no Himitsu no Tobira"
    },
    "contentRating": "safe",
-   "score": 0.19012727,
+   "score": 0.18965945,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "f4d9e9e0-9108-44ff-b152-fdebc6f42fb5",
+   "title": {
+    "en": "Attacker You!"
+   },
+   "contentRating": "safe",
+   "score": 0.18815988,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "e36c959b-f739-4b37-a74c-070cc0f0d057",
+   "title": {
+    "en": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.18731716,
+   "languages": [
+    "en",
+    "pl",
+    "tr",
+    "de"
    ]
   },
   {
@@ -61,7 +100,7 @@
     "en": "18 Years Old, We Got Married"
    },
    "contentRating": "safe",
-   "score": 0.18718709,
+   "score": 0.18695389,
    "languages": [
     "pl",
     "fr"
@@ -73,7 +112,7 @@
     "en": "World End Garden"
    },
    "contentRating": "safe",
-   "score": 0.18274638,
+   "score": 0.18254521,
    "languages": [
     "en",
     "fr",
@@ -117,6 +156,19 @@
    ]
   },
   {
+   "id": "8e91c90d-26ab-4474-94d5-9026cf081716",
+   "title": {
+    "en": "Kigurumi Guardians"
+   },
+   "contentRating": "safe",
+   "score": 0.16222142,
+   "languages": [
+    "pl",
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
    "title": {
     "en": "Birthday Presents"
@@ -141,66 +193,17 @@
    ]
   },
   {
-   "id": "8e91c90d-26ab-4474-94d5-9026cf081716",
-   "title": {
-    "en": "Kigurumi Guardians"
-   },
-   "contentRating": "safe",
-   "score": 0.16222142,
-   "languages": [
-    "pl",
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
    "title": {
     "en": "Phantom Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.16116558,
+   "score": 0.16101731,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
-   "title": {
-    "en": "Hatenkou Yuugi"
-   },
-   "contentRating": "safe",
-   "score": 0.15603347,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "c48ba8b2-41da-4a80-ade6-89e53b5d3fd5",
-   "title": {
-    "en": "Mahou de Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.1555847,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0ba0ccba-048e-47ab-8175-3d28faeec7ef",
-   "title": {
-    "en": "Ayakashi Hisen"
-   },
-   "contentRating": "safe",
-   "score": 0.15543102,
-   "languages": [
-    "hu",
     "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:19+00:00"
+ "updatedAt": "2023-12-10T18:36:15+00:00"
 }

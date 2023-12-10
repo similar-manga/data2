@@ -19,7 +19,7 @@
     "en": "Missing (2023)"
    },
    "contentRating": "suggestive",
-   "score": 0.24856995
+   "score": 0.24725531
   },
   {
    "id": "16a16845-90d1-4895-b2b8-4895624588c7",
@@ -27,7 +27,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.24539083,
+   "score": 0.24357243,
    "languages": [
     "id",
     "ru",
@@ -54,7 +54,7 @@
     "en": "Diestrammena"
    },
    "contentRating": "suggestive",
-   "score": 0.23871833,
+   "score": 0.2381956,
    "languages": [
     "en"
    ]
@@ -115,6 +115,14 @@
    "score": 0.21483447
   },
   {
+   "id": "2ee25c07-4766-428d-9ac5-25ed54829500",
+   "title": {
+    "en": "Satsujin Ryoudan - Mad Men"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20978172
+  },
+  {
    "id": "356d0653-78ea-4056-acfc-8ba432dc42b7",
    "title": {
     "en": "BLASSREITER -genetic-"
@@ -126,31 +134,12 @@
    ]
   },
   {
-   "id": "2ee25c07-4766-428d-9ac5-25ed54829500",
-   "title": {
-    "en": "Satsujin Ryoudan - Mad Men"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20978172
-  },
-  {
-   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
-   "title": {
-    "en": "The Time Leaper Yuki"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20380485,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "452513a9-c698-410e-9bf9-fe90309780d2",
    "title": {
     "en": "Fate/EXTRA CCC FoxTail"
    },
    "contentRating": "suggestive",
-   "score": 0.20353003,
+   "score": 0.20258318,
    "languages": [
     "en",
     "vi",
@@ -166,7 +155,18 @@
    },
    "contentRating": "suggestive",
    "score": 0.20254786
+  },
+  {
+   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
+   "title": {
+    "en": "The Time Leaper Yuki"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20138368,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:38+00:00"
+ "updatedAt": "2023-12-10T18:21:39+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Misaki Number One!!"
    },
    "contentRating": "safe",
-   "score": 0.35563615,
+   "score": 0.361476,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Sunday Scandal"
    },
    "contentRating": "safe",
-   "score": 0.29931802,
+   "score": 0.29817596,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Girls' Lives"
    },
    "contentRating": "safe",
-   "score": 0.28917164,
+   "score": 0.2879501,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "God's in His Heaven"
    },
    "contentRating": "safe",
-   "score": 0.27576655,
+   "score": 0.28343415,
    "languages": [
     "en",
     "pl"
@@ -56,7 +56,7 @@
     "en": "Yappari♥Idol"
    },
    "contentRating": "safe",
-   "score": 0.27443284,
+   "score": 0.27142602,
    "languages": [
     "en"
    ]
@@ -67,7 +67,18 @@
     "en": "My First Love"
    },
    "contentRating": "safe",
-   "score": 0.26888213,
+   "score": 0.26856202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8f87fc03-a238-4f56-841d-1998f735b49d",
+   "title": {
+    "en": "Tutor Maid"
+   },
+   "contentRating": "safe",
+   "score": 0.26728407,
    "languages": [
     "en"
    ]
@@ -78,7 +89,7 @@
     "en": "Ningyo ga Fuchi"
    },
    "contentRating": "safe",
-   "score": 0.2654304,
+   "score": 0.2632143,
    "languages": [
     "en",
     "hu",
@@ -87,13 +98,14 @@
    ]
   },
   {
-   "id": "8f87fc03-a238-4f56-841d-1998f735b49d",
+   "id": "287901b6-1d6a-4bbc-b149-63c034f1326e",
    "title": {
-    "en": "Tutor Maid"
+    "en": "Clear as Day"
    },
    "contentRating": "safe",
-   "score": 0.26362917,
+   "score": 0.2611033,
    "languages": [
+    "vi",
     "en"
    ]
   },
@@ -103,7 +115,18 @@
     "en": "Mousou Artifact"
    },
    "contentRating": "safe",
-   "score": 0.2606706,
+   "score": 0.2606849,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ddd5371a-6683-43ba-bf50-538d9a487c5a",
+   "title": {
+    "en": "The things you like"
+   },
+   "contentRating": "safe",
+   "score": 0.25930935,
    "languages": [
     "en"
    ]
@@ -121,17 +144,6 @@
    ]
   },
   {
-   "id": "ddd5371a-6683-43ba-bf50-538d9a487c5a",
-   "title": {
-    "en": "The things you like"
-   },
-   "contentRating": "safe",
-   "score": 0.25930935,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "77286463-bd68-47dd-9087-807952e635d6",
    "title": {
     "en": "GAE GAE"
@@ -143,53 +155,39 @@
    ]
   },
   {
-   "id": "287901b6-1d6a-4bbc-b149-63c034f1326e",
+   "id": "3d6a76cc-6a45-4212-9e44-af59140ef2ea",
    "title": {
-    "en": "Clear as Day"
+    "en": "Friends"
    },
    "contentRating": "safe",
-   "score": 0.25864717,
+   "score": 0.25750363,
    "languages": [
-    "vi",
     "en"
    ]
   },
   {
-   "id": "9031254b-142e-4341-a88a-ae025aecd2e3",
+   "id": "d569d8ab-75b0-4ceb-b308-b401cdb80835",
    "title": {
-    "en": "Baby Lips"
+    "en": "Princess Princess"
    },
    "contentRating": "safe",
    "score": 0.25750363,
    "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "d70c0e14-1732-426a-8a51-439dfdff08c4",
-   "title": {
-    "en": "Goodbye Kastor"
-   },
-   "contentRating": "safe",
-   "score": 0.25750363,
-   "languages": [
-    "tr",
     "en"
    ]
   },
   {
-   "id": "c301a43a-c651-4578-b73a-6e6651631591",
+   "id": "89bf2017-0be7-4bdd-b83d-66cc146b04fd",
    "title": {
-    "en": "Fortune Ring"
+    "en": "Alice"
    },
    "contentRating": "safe",
    "score": 0.25750363,
    "languages": [
-    "en",
-    "tr"
+    "es-la",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:34+00:00"
+ "updatedAt": "2023-12-10T18:26:46+00:00"
 }

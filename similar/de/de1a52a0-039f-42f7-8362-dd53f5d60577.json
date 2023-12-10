@@ -11,7 +11,7 @@
     "en": "Teddy Bear Tengoku"
    },
    "contentRating": "safe",
-   "score": 0.29691157,
+   "score": 0.29858047,
    "languages": [
     "en"
    ]
@@ -20,6 +20,17 @@
    "id": "ad47a46d-abdd-48b5-b460-968ffd1b288b",
    "title": {
     "en": "One + One"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "11b0ab67-6eee-4cdc-8f64-559eb4c10378",
+   "title": {
+    "en": "Ai-chan"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -41,28 +52,6 @@
    ]
   },
   {
-   "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
-   "title": {
-    "en": "Neko Hiroimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "11b0ab67-6eee-4cdc-8f64-559eb4c10378",
-   "title": {
-    "en": "Ai-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c3db3fa6-190c-4e24-8ed3-a2f76b6d9198",
    "title": {
     "en": "I Know What He Is"
@@ -74,9 +63,9 @@
    ]
   },
   {
-   "id": "8c5a8dc2-70a7-45ce-8ed1-4fa6ebef2035",
+   "id": "f55d7f38-f328-4cea-b80a-cd3f83fd24cb",
    "title": {
-    "en": "I Can't Get!!"
+    "en": "Home for Lost Children"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -97,9 +86,20 @@
    ]
   },
   {
-   "id": "f55d7f38-f328-4cea-b80a-cd3f83fd24cb",
+   "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
    "title": {
-    "en": "Home for Lost Children"
+    "en": "Neko Hiroimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c5a8dc2-70a7-45ce-8ed1-4fa6ebef2035",
+   "title": {
+    "en": "I Can't Get!!"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -113,7 +113,7 @@
     "en": "Densou Dorothy"
    },
    "contentRating": "safe",
-   "score": 0.25386354,
+   "score": 0.25305834,
    "languages": [
     "en"
    ]
@@ -124,7 +124,18 @@
     "en": "A Small World"
    },
    "contentRating": "safe",
-   "score": 0.25194097,
+   "score": 0.2511048,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9b626116-ce75-445a-a63e-553f5e9d8937",
+   "title": {
+    "en": "Girl's☆Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.24132363,
    "languages": [
     "en"
    ]
@@ -135,27 +146,27 @@
     "en": "Watashi no Hakoniwa"
    },
    "contentRating": "safe",
-   "score": 0.24167,
+   "score": 0.2410235,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "9b626116-ce75-445a-a63e-553f5e9d8937",
+   "id": "433a4a29-3e69-485f-aef7-ff4216e4d18f",
    "title": {
-    "en": "Girl's☆Complex"
+    "en": "Even Lunatics Need Love"
    },
    "contentRating": "safe",
-   "score": 0.24160437,
+   "score": 0.23550163,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "46f34163-f932-488a-9c4a-b7e3cae2bd9d",
+   "id": "2adcfd01-6b04-4b33-858d-4c0353fc5861",
    "title": {
-    "en": "Kyou Kara Onnanoko!?"
+    "en": "Shonen Linda"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -164,29 +175,18 @@
    ]
   },
   {
-   "id": "1afdb236-0b29-4820-b6b7-8b7ddcf82742",
+   "id": "0fae2dd9-96de-4fc7-a3f2-7dc379185bc1",
    "title": {
-    "en": "Lovely Banchou"
+    "en": "Wolf-kun and goat-chan"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "ru",
+    "fr",
     "en"
-   ]
-  },
-  {
-   "id": "5ed8e403-639b-4fd7-9b8b-aa88f563a9cd",
-   "title": {
-    "en": "The King's Choice"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en",
-    "bg"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:55+00:00"
+ "updatedAt": "2023-12-10T18:32:52+00:00"
 }

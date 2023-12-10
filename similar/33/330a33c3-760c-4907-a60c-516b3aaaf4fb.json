@@ -6,12 +6,41 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "343711f1-99f7-4f85-86c6-9918956c1ea3",
+   "title": {
+    "en": "Zombie Breakers"
+   },
+   "contentRating": "safe",
+   "score": 0.23500462,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b340d77a-6bfe-4f33-8352-4d305ecf264c",
+   "title": {
+    "en": "Yomi no Tsugai"
+   },
+   "contentRating": "safe",
+   "score": 0.23342603,
+   "languages": [
+    "hu",
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "ar",
+    "hi",
+    "ms"
+   ]
+  },
+  {
    "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
    "title": {
     "en": "Hitogata"
    },
    "contentRating": "safe",
-   "score": 0.23917824,
+   "score": 0.23169269,
    "languages": [
     "en",
     "es-la",
@@ -19,25 +48,14 @@
    ]
   },
   {
-   "id": "b117a6de-874c-4083-ae15-b9389c3c7f95",
+   "id": "c5eb230c-7955-4753-857e-6d4b73fd0d26",
    "title": {
-    "en": "God Pretender"
+    "en": "Doomsday Revenge Agency"
    },
    "contentRating": "safe",
-   "score": 0.23359899,
+   "score": 0.2291295,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "403721a8-0793-431f-b47c-89eb04f402ae",
-   "title": {
-    "en": "Ousama Game - Kigen"
-   },
-   "contentRating": "safe",
-   "score": 0.22939444,
-   "languages": [
-    "es-la"
    ]
   },
   {
@@ -47,6 +65,52 @@
    },
    "contentRating": "safe",
    "score": 0.22840741
+  },
+  {
+   "id": "b117a6de-874c-4083-ae15-b9389c3c7f95",
+   "title": {
+    "en": "God Pretender"
+   },
+   "contentRating": "safe",
+   "score": 0.22535819,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
+   "title": {
+    "en": "Balemount"
+   },
+   "contentRating": "safe",
+   "score": 0.21408106,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "403721a8-0793-431f-b47c-89eb04f402ae",
+   "title": {
+    "en": "Ousama Game - Kigen"
+   },
+   "contentRating": "safe",
+   "score": 0.21278132,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "21e80bd8-cabf-4c49-86da-72f92255f248",
+   "title": {
+    "en": "Shin Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.21019451,
+   "languages": [
+    "en",
+    "it"
+   ]
   },
   {
    "id": "91bc9dde-5381-4228-a082-9bc8eae13d19",
@@ -62,41 +126,18 @@
     "en": "Dracula in White"
    },
    "contentRating": "safe",
-   "score": 0.20870818
+   "score": 0.20688075
   },
   {
-   "id": "981a344e-ad3d-4f99-95b9-72991b7b3034",
+   "id": "18c5e5c1-0ee8-47e1-ac81-2aab77619ca1",
    "title": {
-    "en": "Became King After Being Bitten"
+    "en": "HOPE"
    },
    "contentRating": "safe",
-   "score": 0.2084432,
+   "score": 0.20670547,
    "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "ea34c5c0-7534-458a-a922-df1e66b51098",
-   "title": {
-    "en": "Le Chevalier d'Eon"
-   },
-   "contentRating": "safe",
-   "score": 0.20734556,
-   "languages": [
+    "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
-   "title": {
-    "en": "Shirasunamura"
-   },
-   "contentRating": "safe",
-   "score": 0.20656882,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -113,15 +154,14 @@
    ]
   },
   {
-   "id": "73886e64-61f0-4469-81c9-781ad62c15e8",
+   "id": "ea34c5c0-7534-458a-a922-df1e66b51098",
    "title": {
-    "en": "Pumpkin Night Gaiden - Naoko"
+    "en": "Le Chevalier d'Eon"
    },
    "contentRating": "safe",
-   "score": 0.20143642,
+   "score": 0.20494486,
    "languages": [
-    "es",
-    "it"
+    "en"
    ]
   },
   {
@@ -133,54 +173,17 @@
    "score": 0.20143642
   },
   {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
+   "id": "73886e64-61f0-4469-81c9-781ad62c15e8",
    "title": {
-    "en": "Ankoku Jiten"
+    "en": "Pumpkin Night Gaiden - Naoko"
    },
    "contentRating": "safe",
-   "score": 0.19841674,
+   "score": 0.20143642,
    "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "924bdfaf-6740-4f2f-941d-4ed0cddf23a9",
-   "title": {
-    "en": "Monkey Mountain"
-   },
-   "contentRating": "safe",
-   "score": 0.19707571,
-   "languages": [
-    "en",
-    "pt-br",
-    "it",
-    "ru",
-    "ca"
-   ]
-  },
-  {
-   "id": "3fcda2bf-d322-4e2e-a50e-66de955949be",
-   "title": {
-    "en": "Puppet"
-   },
-   "contentRating": "safe",
-   "score": 0.1949849,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5ad9757a-3d14-4504-a6a7-56db27a38220",
-   "title": {
-    "en": "Oni Goroshi"
-   },
-   "contentRating": "safe",
-   "score": 0.19364977,
-   "languages": [
-    "vi"
+    "es",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:42+00:00"
+ "updatedAt": "2023-12-10T18:13:46+00:00"
 }

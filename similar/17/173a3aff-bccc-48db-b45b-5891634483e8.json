@@ -11,7 +11,7 @@
     "en": "Miori to Yamagami-sama"
    },
    "contentRating": "safe",
-   "score": 0.33032587,
+   "score": 0.32950932,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Shitto na Watashi to Shikku na Aitsu"
    },
    "contentRating": "safe",
-   "score": 0.2378096,
+   "score": 0.23790264,
    "languages": [
     "en",
     "it",
@@ -35,11 +35,22 @@
     "en": "Monster Cage"
    },
    "contentRating": "safe",
-   "score": 0.23383158,
+   "score": 0.23147285,
    "languages": [
     "en",
     "pl",
     "bg"
+   ]
+  },
+  {
+   "id": "c5eb230c-7955-4753-857e-6d4b73fd0d26",
+   "title": {
+    "en": "Doomsday Revenge Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.22979178,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -48,21 +59,20 @@
     "en": "Mahou Shounen X"
    },
    "contentRating": "safe",
-   "score": 0.23098925,
+   "score": 0.2282583,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "0740efb1-4932-43ef-8889-ffb51bf71dd7",
+   "id": "cc271ca7-3c81-4d1c-994f-004a9c07169d",
    "title": {
-    "en": "Nightmare Syndrome"
+    "en": "From a Twisted Mind"
    },
    "contentRating": "safe",
-   "score": 0.21646126,
+   "score": 0.22076775,
    "languages": [
-    "it",
     "en"
    ]
   },
@@ -78,16 +88,41 @@
    ]
   },
   {
+   "id": "0740efb1-4932-43ef-8889-ffb51bf71dd7",
+   "title": {
+    "en": "Nightmare Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.21646126,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "1703a43b-76ed-47f0-a512-aa52cc0f169b",
    "title": {
     "en": "Zansatsu! Ponytail"
    },
    "contentRating": "safe",
-   "score": 0.21303065,
+   "score": 0.21349974,
    "languages": [
     "fr",
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "19dca456-59dd-466f-8d89-9709984ab10f",
+   "title": {
+    "en": "DOOOOM!"
+   },
+   "contentRating": "safe",
+   "score": 0.21005194,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -96,7 +131,7 @@
     "ja": "Saikyo Kyonshi"
    },
    "contentRating": "safe",
-   "score": 0.20968959,
+   "score": 0.20929563,
    "languages": [
     "en"
    ]
@@ -113,18 +148,6 @@
    ]
   },
   {
-   "id": "8d48cdcc-606c-4142-9547-288c77e12df2",
-   "title": {
-    "en": "Jisatsu Yuugi"
-   },
-   "contentRating": "safe",
-   "score": 0.20828995,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "16df95f5-2734-452c-aac5-38b06799d7ff",
    "title": {
     "en": "Collector (TSUTSUI Tetsuya)"
@@ -136,16 +159,15 @@
    ]
   },
   {
-   "id": "78245f07-8313-4245-81d6-5e7a7f05eb85",
+   "id": "8d48cdcc-606c-4142-9547-288c77e12df2",
    "title": {
-    "en": "Ayashii Houmonsha"
+    "en": "Jisatsu Yuugi"
    },
    "contentRating": "safe",
-   "score": 0.20651609,
+   "score": 0.20828995,
    "languages": [
-    "vi",
     "en",
-    "id"
+    "ru"
    ]
   },
   {
@@ -160,46 +182,18 @@
    ]
   },
   {
-   "id": "924bdfaf-6740-4f2f-941d-4ed0cddf23a9",
+   "id": "78245f07-8313-4245-81d6-5e7a7f05eb85",
    "title": {
-    "en": "Monkey Mountain"
+    "en": "Ayashii Houmonsha"
    },
    "contentRating": "safe",
-   "score": 0.2060473,
+   "score": 0.20651609,
    "languages": [
+    "vi",
     "en",
-    "pt-br",
-    "it",
-    "ru",
-    "ca"
-   ]
-  },
-  {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
-   "title": {
-    "en": "Mercy"
-   },
-   "contentRating": "safe",
-   "score": 0.20231792,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
-   "title": {
-    "en": "Continue"
-   },
-   "contentRating": "safe",
-   "score": 0.20149831,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl",
-    "bg"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:39+00:00"
+ "updatedAt": "2023-12-10T18:10:49+00:00"
 }

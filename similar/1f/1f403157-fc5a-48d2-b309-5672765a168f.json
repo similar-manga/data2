@@ -11,7 +11,7 @@
     "en": "Ningen Card"
    },
    "contentRating": "suggestive",
-   "score": 0.18465722,
+   "score": 0.18432066,
    "languages": [
     "id",
     "en"
@@ -34,7 +34,7 @@
     "en": "Burai The Kid"
    },
    "contentRating": "suggestive",
-   "score": 0.1717846
+   "score": 0.17143822
   },
   {
    "id": "da1673e3-849a-4d95-a5f5-072760e57534",
@@ -50,9 +50,22 @@
     "en": "Enen no Shouboutai (Fan Colored)"
    },
    "contentRating": "suggestive",
-   "score": 0.16148801,
+   "score": 0.16044128,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b26e8021-c35f-4057-9ddc-2fa534f49b7a",
+   "title": {
+    "en": "Re:LIVE"
+   },
+   "contentRating": "suggestive",
+   "score": 0.14252028,
+   "languages": [
+    "it",
+    "pt-br",
+    "ro"
    ]
   },
   {
@@ -64,17 +77,28 @@
    "score": 0.14144965
   },
   {
-   "id": "b26e8021-c35f-4057-9ddc-2fa534f49b7a",
+   "id": "f49d962c-c2cc-46bd-bb51-629ce19f0aab",
    "title": {
-    "en": "Re:LIVE"
+    "en": "Organ"
    },
    "contentRating": "suggestive",
-   "score": 0.14079516,
+   "score": 0.13528925,
    "languages": [
     "it",
-    "pt-br",
-    "ro"
+    "en",
+    "he",
+    "de",
+    "es-la",
+    "pl"
    ]
+  },
+  {
+   "id": "a19744cb-143e-4cfd-8627-385d66aec964",
+   "title": {
+    "en": "Gun Driver"
+   },
+   "contentRating": "suggestive",
+   "score": 0.134687
   },
   {
    "id": "4cbcf157-ef13-4f3e-8de1-c2febe21a5c9",
@@ -104,30 +128,6 @@
    "score": 0.134687
   },
   {
-   "id": "a19744cb-143e-4cfd-8627-385d66aec964",
-   "title": {
-    "en": "Gun Driver"
-   },
-   "contentRating": "suggestive",
-   "score": 0.134687
-  },
-  {
-   "id": "f49d962c-c2cc-46bd-bb51-629ce19f0aab",
-   "title": {
-    "en": "Organ"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13425015,
-   "languages": [
-    "it",
-    "en",
-    "he",
-    "de",
-    "es-la",
-    "pl"
-   ]
-  },
-  {
    "id": "58533498-e740-45f6-9c34-3d4250971610",
    "title": {
     "en": "Umidori Tougetsu no \"Detarame\" na Jijou"
@@ -141,7 +141,7 @@
     "en": "Tomodachi Game"
    },
    "contentRating": "suggestive",
-   "score": 0.12805027,
+   "score": 0.12782435,
    "languages": [
     "pt-br",
     "fr",
@@ -175,12 +175,12 @@
     "en": "Tenchi Mission"
    },
    "contentRating": "suggestive",
-   "score": 0.11950798,
+   "score": 0.11934173,
    "languages": [
     "pt-br",
     "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:57+00:00"
+ "updatedAt": "2023-12-10T18:11:40+00:00"
 }

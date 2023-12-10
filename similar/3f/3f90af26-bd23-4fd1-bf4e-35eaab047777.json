@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
+   "title": {
+    "en": "Atom - The Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.3429246,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
    "title": {
     "en": "Levius/est"
    },
    "contentRating": "safe",
-   "score": 0.29353565,
+   "score": 0.29326823,
    "languages": [
     "pt-br",
     "ru"
@@ -42,7 +55,7 @@
     "en": "Cronos Haze (2014)"
    },
    "contentRating": "safe",
-   "score": 0.2758369
+   "score": 0.27632466
   },
   {
    "id": "aa80067a-9832-4cd8-8b10-2fcd226f6d6e",
@@ -50,7 +63,7 @@
     "en": "Armored Trooper Votoms - AT Stories"
    },
    "contentRating": "safe",
-   "score": 0.2749478
+   "score": 0.27492335
   },
   {
    "id": "5ee080e0-feb5-4de8-9cb1-98a70f9ad4e4",
@@ -66,7 +79,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.2517805,
+   "score": 0.25131273,
    "languages": [
     "pt-br",
     "en",
@@ -92,18 +105,10 @@
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.23914908,
+   "score": 0.23987468,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "89512c3f-7467-42c0-9a64-24b051253d94",
-   "title": {
-    "en": "Hellhound"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859
   },
   {
    "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
@@ -114,12 +119,20 @@
    "score": 0.23847859
   },
   {
+   "id": "89512c3f-7467-42c0-9a64-24b051253d94",
+   "title": {
+    "en": "Hellhound"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859
+  },
+  {
    "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
    "title": {
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.2359326,
+   "score": 0.23631163,
    "languages": [
     "en",
     "pt-br"
@@ -131,15 +144,7 @@
     "en": "Shuumatsu no Majo to Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.23346584
-  },
-  {
-   "id": "ba752895-ca3f-406e-a07b-82dfb030eede",
-   "title": {
-    "en": "Mobile Suit Gundam: Almarya"
-   },
-   "contentRating": "safe",
-   "score": 0.23286977
+   "score": 0.23316893
   },
   {
    "id": "309366b9-6420-42f5-b413-f647e839b2d7",
@@ -150,13 +155,13 @@
    "score": 0.23286977
   },
   {
-   "id": "ff42bb0e-87f1-4341-9d31-0b43136f5de7",
+   "id": "ba752895-ca3f-406e-a07b-82dfb030eede",
    "title": {
-    "en": "Get truth Fang of the Sun Dougram"
+    "en": "Mobile Suit Gundam: Almarya"
    },
    "contentRating": "safe",
-   "score": 0.2278365
+   "score": 0.23286977
   }
  ],
- "updatedAt": "2023-12-10T01:02:12+00:00"
+ "updatedAt": "2023-12-10T18:15:10+00:00"
 }

@@ -6,9 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
+   "id": "8daa7be0-5c76-4fbf-9ad7-1f87e72b5911",
    "title": {
-    "en": "Vermillion"
+    "en": "The Brave and the Demon King"
+   },
+   "contentRating": "safe",
+   "score": 0.24633695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
+   "title": {
+    "en": "Sekiryuu no Otome"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -29,14 +40,6 @@
    ]
   },
   {
-   "id": "dbe10182-75ac-4099-8575-de4fe09a465e",
-   "title": {
-    "en": "The Shadow Commander"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
    "id": "24260bd1-20b5-4fcd-9625-a2c7ad1c5288",
    "title": {
     "en": "Tori no Adagaeshi"
@@ -45,14 +48,21 @@
    "score": 0.23328476
   },
   {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "id": "dbe10182-75ac-4099-8575-de4fe09a465e",
    "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+    "en": "The Shadow Commander"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.23328476
+  },
+  {
+   "id": "d2036d2c-9fe3-4542-8288-cf5f4cfbc1b7",
+   "title": {
+    "en": "Vermillion"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -65,6 +75,18 @@
    "score": 0.22131334,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "title": {
+    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -86,7 +108,7 @@
     "en": "Ryuukei no Sora"
    },
    "contentRating": "safe",
-   "score": 0.20810317,
+   "score": 0.20717262,
    "languages": [
     "fr",
     "en",
@@ -99,35 +121,12 @@
     "en": "Fukugaeru"
    },
    "contentRating": "safe",
-   "score": 0.20378375,
+   "score": 0.20290971,
    "languages": [
     "bg",
     "en",
     "pl",
     "de"
-   ]
-  },
-  {
-   "id": "70f068b7-3afa-46ce-be2a-1b818740c7a6",
-   "title": {
-    "en": "Tiger \u0026 Bunny 2: The Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.20319894,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
-   "title": {
-    "en": "Mercy"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ru",
-    "en"
    ]
   },
   {
@@ -146,48 +145,44 @@
    ]
   },
   {
+   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
+   "title": {
+    "en": "Mercy"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "70f068b7-3afa-46ce-be2a-1b818740c7a6",
+   "title": {
+    "en": "Tiger \u0026 Bunny 2: The Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.20080388,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8b44b195-d82f-487f-9f3c-5d8eadd17b9e",
    "title": {
     "en": "Shikigami no Shiro"
    },
    "contentRating": "safe",
-   "score": 0.20004924
+   "score": 0.2000812
   },
   {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
+   "id": "d1509dd2-887b-4601-8e8d-0a74d9bda1c6",
    "title": {
-    "en": "The Tale of That Forest"
+    "en": "Dangerous 1969"
    },
    "contentRating": "safe",
-   "score": 0.19907245,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c6b567a-e318-4b60-b677-84a882bb85dd",
-   "title": {
-    "en": "After Snowfall, Wonder"
-   },
-   "contentRating": "safe",
-   "score": 0.1987002,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
-   "title": {
-    "en": "Crown Gear"
-   },
-   "contentRating": "safe",
-   "score": 0.19656573,
-   "languages": [
-    "en",
-    "hu"
-   ]
+   "score": 0.19971529
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:12:00+00:00"
 }

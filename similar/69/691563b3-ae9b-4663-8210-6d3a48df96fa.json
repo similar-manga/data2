@@ -6,12 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f4a41c9a-2d72-492a-863d-3b9d1fb1a16d",
+   "title": {
+    "en": "Yajin"
+   },
+   "contentRating": "safe",
+   "score": 0.26997274,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b093bc50-be43-470c-8594-d79ab9fa5b90",
+   "title": {
+    "en": "Youkai Gakkou no Sensei Hajimemashita!"
+   },
+   "contentRating": "safe",
+   "score": 0.25510085,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "ea0957d9-1c31-49c7-973a-34a9ef6459d1",
+   "title": {
+    "en": "Shachiku-san wa Youjo Yuurei ni Iyasaretai."
+   },
+   "contentRating": "safe",
+   "score": 0.24138245,
+   "languages": [
+    "en",
+    "ru",
+    "tr",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "a4b39b6e-a448-4644-a540-64ceff1d8305",
    "title": {
     "en": "Toilet-bound Hanako-kun"
    },
    "contentRating": "safe",
-   "score": 0.21488397,
+   "score": 0.21393317,
    "languages": [
     "vi",
     "ru",
@@ -30,7 +70,7 @@
     "en": "Koorihime Kitan"
    },
    "contentRating": "safe",
-   "score": 0.21001413,
+   "score": 0.20546684,
    "languages": [
     "it",
     "fr",
@@ -39,12 +79,35 @@
    ]
   },
   {
+   "id": "f2176ac2-007e-47be-902c-6d56642eb05b",
+   "title": {
+    "en": "Become the Lord of Cthulhu"
+   },
+   "contentRating": "safe",
+   "score": 0.20507683,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "6ef63fa1-e394-4255-8183-bf25aa7a3e25",
    "title": {
     "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
    },
    "contentRating": "safe",
-   "score": 0.20507866,
+   "score": 0.20299886,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ee80e31f-0d55-4cd5-9a67-c0bcee3ecc95",
+   "title": {
+    "en": "Black Channel"
+   },
+   "contentRating": "safe",
+   "score": 0.19872206,
    "languages": [
     "en"
    ]
@@ -55,10 +118,44 @@
     "en": "Ghost Logic"
    },
    "contentRating": "safe",
-   "score": 0.19481972,
+   "score": 0.19156735,
    "languages": [
     "de",
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
+   "title": {
+    "en": "A-Presto"
+   },
+   "contentRating": "safe",
+   "score": 0.1902242,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
+   "title": {
+    "en": "One Piece Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.18952715,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
+   "title": {
+    "en": "Gwisin Byeolgok"
+   },
+   "contentRating": "safe",
+   "score": 0.18863255,
+   "languages": [
     "en"
    ]
   },
@@ -68,18 +165,7 @@
     "en": "Urban Legend Professor Uramon"
    },
    "contentRating": "safe",
-   "score": 0.19175652,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.19174519,
+   "score": 0.18821491,
    "languages": [
     "en"
    ]
@@ -90,9 +176,25 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.1875925,
+   "score": 0.18795465,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7c0dbcc2-f990-4d15-b084-4853050f02d3",
+   "title": {
+    "en": "After-School Boy Hanako-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.18580694,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "hu",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -101,118 +203,13 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.1819998,
+   "score": 0.18130808,
    "languages": [
     "ru",
     "en",
     "es"
    ]
-  },
-  {
-   "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
-   "title": {
-    "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
-   },
-   "contentRating": "safe",
-   "score": 0.17810929,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.17691652,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "1aec6b5e-6641-43db-8589-ace2abc14e5f",
-   "title": {
-    "en": "Magu-chan: God of Destruction"
-   },
-   "contentRating": "safe",
-   "score": 0.17491983,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
-   "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
-   },
-   "contentRating": "safe",
-   "score": 0.171154,
-   "languages": [
-    "en",
-    "pt-br",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "it",
-    "es"
-   ]
-  },
-  {
-   "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
-   "title": {
-    "en": "His Killing Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.1699878,
-   "languages": [
-    "fr",
-    "es",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "86d25eac-eb2f-4ec0-a341-f1a5cbbe80b8",
-   "title": {
-    "en": "Dou ka Ore wo Houtte Oitekure"
-   },
-   "contentRating": "safe",
-   "score": 0.16992135,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b65fbf0e-6768-407d-ba79-fa9fcb319155",
-   "title": {
-    "en": "Hope You're Happy, Lemon"
-   },
-   "contentRating": "safe",
-   "score": 0.16732448,
-   "languages": [
-    "pt-br",
-    "vi",
-    "es-la",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d91f8813-bd02-4bb7-8c95-3228a56b5875",
-   "title": {
-    "en": "Noritama"
-   },
-   "contentRating": "safe",
-   "score": 0.16722515,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:55+00:00"
+ "updatedAt": "2023-12-10T18:19:41+00:00"
 }

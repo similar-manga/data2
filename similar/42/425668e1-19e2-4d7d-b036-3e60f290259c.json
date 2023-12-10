@@ -6,14 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9234bfdd-297c-4741-888e-e626e43a8d13",
+   "title": {
+    "en": "The Seventh Victim"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9b3e22de-ab9e-4891-8d20-c11711906a40",
    "title": {
     "en": "The Last Male"
    },
    "contentRating": "safe",
-   "score": 0.22589773,
+   "score": 0.22396888,
    "languages": [
     "ru"
+   ]
+  },
+  {
+   "id": "a5453fe1-61f9-44bd-bf89-6d6a258341ee",
+   "title": {
+    "en": "Empira's Awakening"
+   },
+   "contentRating": "safe",
+   "score": 0.21692936,
+   "languages": [
+    "en",
+    "ru",
+    "id"
    ]
   },
   {
@@ -22,7 +46,7 @@
     "en": "The Game Invades the Earth"
    },
    "contentRating": "safe",
-   "score": 0.21617304,
+   "score": 0.21393909,
    "languages": [
     "en"
    ]
@@ -33,7 +57,7 @@
     "en": "Rise From the Rubble"
    },
    "contentRating": "safe",
-   "score": 0.20153746,
+   "score": 0.20099272,
    "languages": [
     "fr",
     "pt-br",
@@ -41,17 +65,18 @@
    ]
   },
   {
-   "id": "d1fa8ce7-ad9d-475d-9311-2a850b1f3336",
+   "id": "f3f7f135-a648-498f-8ce7-04f135b78f3e",
    "title": {
-    "en": "Sekai wa Owattemo Ikirutte Tanoshii"
+    "en": "Aragane no Ko"
    },
    "contentRating": "safe",
-   "score": 0.19549891,
+   "score": 0.19512385,
    "languages": [
-    "ru",
+    "pt-br",
+    "es-la",
+    "zh-hk",
     "en",
-    "th",
-    "id"
+    "zh"
    ]
   },
   {
@@ -60,7 +85,7 @@
     "en": "Success Rate"
    },
    "contentRating": "safe",
-   "score": 0.19459783,
+   "score": 0.19391839,
    "languages": [
     "pt-br",
     "en"
@@ -79,126 +104,102 @@
    ]
   },
   {
+   "id": "d1fa8ce7-ad9d-475d-9311-2a850b1f3336",
+   "title": {
+    "en": "Sekai wa Owattemo Ikirutte Tanoshii"
+   },
+   "contentRating": "safe",
+   "score": 0.192077,
+   "languages": [
+    "ru",
+    "en",
+    "th",
+    "id"
+   ]
+  },
+  {
+   "id": "2a5be63f-a85c-4626-bb54-435dab4167f7",
+   "title": {
+    "en": "Endeavor’s Cross"
+   },
+   "contentRating": "safe",
+   "score": 0.1882711,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "8a2b323b-acb2-4304-88ff-6dd8b3b1a680",
+   "title": {
+    "en": "The Return of the Heavenly Sage"
+   },
+   "contentRating": "safe",
+   "score": 0.18747002,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fec51f29-32ea-4a7e-8e83-3ba93eb552cd",
+   "title": {
+    "en": "Fukushuu no Taishi - Level 9999 no Bakumatsu Isekai Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.18584669,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
    "title": {
     "en": "Super God System"
    },
    "contentRating": "safe",
-   "score": 0.19057606,
+   "score": 0.18089646,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bcbf10c8-f75f-4f7c-befd-6459db3b7cfc",
+   "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
    "title": {
-    "en": "CHR-47"
+    "en": "Yggdra Silver"
    },
    "contentRating": "safe",
-   "score": 0.1830709,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "818f32c4-8585-465a-b2a9-dcab764cd947",
-   "title": {
-    "en": "Aola Star - Parallel Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.1763695,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "add5e886-ec4b-4383-bbe6-881b5142e84e",
-   "title": {
-    "en": "Campus Flower Guard"
-   },
-   "contentRating": "safe",
-   "score": 0.17333223,
-   "languages": [
-    "en",
-    "fr",
-    "id"
-   ]
-  },
-  {
-   "id": "e54a7615-ee0a-4af0-979b-d8b8c50332cc",
-   "title": {
-    "en": "Boundary Apocalypse - Starfall"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "979803e0-9f06-49a7-bd09-98daabbbddec",
-   "title": {
-    "en": "The Witch at the End of the World"
-   },
-   "contentRating": "safe",
-   "score": 0.16936988,
+   "score": 0.18077801,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9f5899a0-2b30-4feb-a7c8-bd4be85fe58a",
+   "id": "8c524461-f074-40fa-b3e4-9b58b301fe77",
    "title": {
-    "en": "The Sword of Dawn"
+    "en": "Lalin's Curse"
    },
    "contentRating": "safe",
-   "score": 0.16918637,
+   "score": 0.17985727,
    "languages": [
-    "en",
-    "fr",
-    "it"
+    "uk",
+    "tr",
+    "ru",
+    "id",
+    "pt-br"
    ]
   },
   {
-   "id": "10a65ac1-3203-4f9d-a17b-17c08652f89f",
+   "id": "dd164e52-455a-49c4-a4fa-e9990641beb4",
    "title": {
-    "en": "The Undefeated Newbie"
+    "en": "I Defy My Ascension"
    },
    "contentRating": "safe",
-   "score": 0.16761468,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "849bd266-864d-4d46-9381-cb95765b817a",
-   "title": {
-    "en": "Post-apocalyptic Dispatch Company"
-   },
-   "contentRating": "safe",
-   "score": 0.16725892,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "95cf98f0-06b1-4d3f-9b5d-ce4e216ff8fe",
-   "title": {
-    "en": "Babysitting the Secret Weapon Lolita"
-   },
-   "contentRating": "safe",
-   "score": 0.16597255,
+   "score": 0.17941365,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:18+00:00"
+ "updatedAt": "2023-12-10T18:15:29+00:00"
 }

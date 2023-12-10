@@ -6,26 +6,48 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
+   "title": {
+    "en": "Torikago Gakkyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.30394232,
+   "languages": [
+    "de",
+    "en"
+   ]
+  },
+  {
    "id": "0059301b-9aa5-4dbe-98a0-a1cdde873332",
    "title": {
     "en": "Kuro Tenkousei"
    },
    "contentRating": "safe",
-   "score": 0.31809738,
+   "score": 0.29887933,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
+   "id": "1fd53e93-3956-4fc6-95a5-33342931b159",
    "title": {
-    "en": "Torikago Gakkyuu"
+    "en": "Boku no Suki na Sensei (Gokurakuin Sakurako)"
    },
    "contentRating": "safe",
-   "score": 0.29816684,
+   "score": 0.25381342,
    "languages": [
-    "de",
+    "en"
+   ]
+  },
+  {
+   "id": "9c25a61e-3718-4394-82eb-223e92304daf",
+   "title": {
+    "en": "Ichigo Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.23591886,
+   "languages": [
     "en"
    ]
   },
@@ -41,26 +63,26 @@
    ]
   },
   {
+   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
+   "title": {
+    "en": "Super Danganronpa 2: Goodbye Despair Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.2276211,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "6cd8a940-c4b4-4f44-b3cc-b94dd8d18081",
    "title": {
     "en": "Paradise Rule"
    },
    "contentRating": "safe",
-   "score": 0.22800097,
+   "score": 0.22586359,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "785e1f78-0b5b-4fc8-a681-4087b3006a45",
-   "title": {
-    "en": "Saiyaku wa Boku o Suki Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.22008042,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -69,53 +91,87 @@
     "en": "Yokoshima Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.21314546,
+   "score": 0.21910428,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "da58afe6-eab1-4847-bb97-d34f59a905d2",
+   "id": "785e1f78-0b5b-4fc8-a681-4087b3006a45",
    "title": {
-    "en": "Wakaba no - Shounenki"
+    "en": "Saiyaku wa Boku o Suki Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.2054575,
+   "score": 0.21840143,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "14eaf55b-9bcb-4bfb-8fa1-57865bb3b303",
+   "title": {
+    "en": "God of Knowledge"
+   },
+   "contentRating": "safe",
+   "score": 0.21812029,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "666c67d3-a88f-4050-99c6-d03970cb8127",
+   "id": "3042be64-5561-448b-98c9-4ad1e67bd681",
    "title": {
-    "en": "Kuchizuke wa Uso no Aji"
+    "en": "Aitsu to Ore."
    },
    "contentRating": "safe",
-   "score": 0.2054575,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8238d378-db7e-4149-95e4-ae4a82c79dbc",
-   "title": {
-    "en": "Takumi-kun Series"
-   },
-   "contentRating": "safe",
-   "score": 0.2044906,
+   "score": 0.21607934,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9aa7047e-186f-4a26-b623-0197ea5cfa56",
+   "id": "df4de629-bc56-4290-a68d-ab41c7ea8d6b",
    "title": {
-    "en": "Reset Game"
+    "en": "Dorm 95"
    },
    "contentRating": "safe",
-   "score": 0.20267273,
+   "score": 0.21599634,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
+   "title": {
+    "en": "Sayonara Miniskirt"
+   },
+   "contentRating": "safe",
+   "score": 0.21292657,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "429673d7-6a2f-4f0c-999d-bae93300ffb6",
+   "title": {
+    "en": "Doukyonin no Tenohira de"
+   },
+   "contentRating": "safe",
+   "score": 0.21269798,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.21140559,
    "languages": [
     "en"
    ]
@@ -126,66 +182,11 @@
     "en": "Tamago no Torikago"
    },
    "contentRating": "safe",
-   "score": 0.20152786,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "581386fe-af21-43d5-91de-e24f2c672e87",
-   "title": {
-    "en": "Moony - Oukaryou Trilogy"
-   },
-   "contentRating": "safe",
-   "score": 0.20066072,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2edeabd4-a97e-4ae4-866b-39d82cd161a2",
-   "title": {
-    "en": "Kokui no Mure"
-   },
-   "contentRating": "safe",
-   "score": 0.1983098,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9d0b1d0-b31a-4614-b68a-2e550ff82d5b",
-   "title": {
-    "en": "Mukuchi na Bakemono wa Yoru ni Naku"
-   },
-   "contentRating": "safe",
-   "score": 0.19727641,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
-   "title": {
-    "en": "Deguchi Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.19405231,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93051580-99ba-415b-86c7-ba36e909ce42",
-   "title": {
-    "en": "Akiru made Hanasou yo"
-   },
-   "contentRating": "safe",
-   "score": 0.1938226,
+   "score": 0.20736778,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:30+00:00"
+ "updatedAt": "2023-12-10T18:21:16+00:00"
 }

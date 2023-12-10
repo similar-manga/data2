@@ -6,23 +6,90 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "112eaa14-d7cc-44f8-9a48-f050e9638326",
+   "title": {
+    "en": "The Campus Daily Life"
+   },
+   "contentRating": "safe",
+   "score": 0.4313448,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "f03bc5c5-88b7-42aa-92a6-1a0f34adc47e",
+   "title": {
+    "en": "The Prince's Romance Gambit"
+   },
+   "contentRating": "safe",
+   "score": 0.35781702,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "6a9f201b-7f91-4596-baf7-505ab198476c",
    "title": {
     "en": "Love x Joint"
    },
    "contentRating": "safe",
-   "score": 0.3278765,
+   "score": 0.32559744,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9d9f196d-760e-47d5-ace0-49313798dac1",
+   "id": "0f4e9922-e84f-46f2-958b-e34a4e27a4a8",
    "title": {
-    "en": "Oh! my Prince"
+    "en": "Uruwashi no Yoi no Tsuki"
    },
    "contentRating": "safe",
-   "score": 0.3033568,
+   "score": 0.31409252,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "hu",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "2d6dfcde-805b-4a39-a877-0c05109177e2",
+   "title": {
+    "en": "Seishun Heavy Rotation"
+   },
+   "contentRating": "safe",
+   "score": 0.30606225,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f6aebf39-07b8-4959-ba73-fa852b96913b",
+   "title": {
+    "en": "Koiseyo Mayakashi Tenshi-domo"
+   },
+   "contentRating": "safe",
+   "score": 0.30494967,
+   "languages": [
+    "en",
+    "fr",
+    "vi",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "abc711a1-aa8c-40d3-bed1-541b0d975725",
+   "title": {
+    "en": "Futarijime Romantic"
+   },
+   "contentRating": "safe",
+   "score": 0.30367246,
    "languages": [
     "en"
    ]
@@ -33,10 +100,43 @@
     "en": "Hana-kun to Koisuru Watashi"
    },
    "contentRating": "safe",
-   "score": 0.30177993,
+   "score": 0.30168793,
    "languages": [
     "pt-br",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "34336f60-f2f9-437e-bdf7-74b5d10ab9c8",
+   "title": {
+    "en": "Tenkousei ga Oshi Seiyuu Datta Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.3016348,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9d9f196d-760e-47d5-ace0-49313798dac1",
+   "title": {
+    "en": "Oh! my Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.2999287,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ba5d5f15-d36d-42bb-8cc3-bf0dcf9bac63",
+   "title": {
+    "en": "ABO!! -Which Type Do You Like?-"
+   },
+   "contentRating": "safe",
+   "score": 0.2966894,
+   "languages": [
     "en"
    ]
   },
@@ -46,7 +146,18 @@
     "en": "Kirameki Gingachou Shoutengai"
    },
    "contentRating": "safe",
-   "score": 0.2966342,
+   "score": 0.29649678,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c23accf2-46ac-4e03-96d2-a98176d62b48",
+   "title": {
+    "en": "Himitsu no Otsukiai wo Shiteimasu."
+   },
+   "contentRating": "safe",
+   "score": 0.29619268,
    "languages": [
     "en"
    ]
@@ -57,132 +168,34 @@
     "en": "Koko Kara Saki wa NG!"
    },
    "contentRating": "safe",
-   "score": 0.29540774,
+   "score": 0.29569837,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eb6dee39-20ab-4546-bca9-ba6debd7a1a9",
+   "id": "15a79a9d-c588-4b3f-9ac1-ce3c61f82d7a",
    "title": {
-    "en": "Manabiya Ouji"
+    "en": "Rui ni Tokimeku Hazuganai!"
    },
    "contentRating": "safe",
-   "score": 0.2933207,
+   "score": 0.29315493,
    "languages": [
+    "vi",
     "en"
    ]
   },
   {
-   "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
+   "id": "a9779082-e501-4f7b-a6d6-e42de4dd9b23",
    "title": {
-    "en": "Unbeatable Youth"
+    "ja": "Hashiba Kaede wa Tokimekitai"
    },
    "contentRating": "safe",
-   "score": 0.2862674,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5594eff-90e2-4e66-b328-c5c78ddd0637",
-   "title": {
-    "en": "Kagehinata"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bcf9f938-4d78-446c-8915-3561057f5497",
-   "title": {
-    "en": "Kirarin Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "edb667c3-0c6f-45f9-8d8f-069a3c08143c",
-   "title": {
-    "en": "Yasuko and Kenji"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efe14e44-b634-4042-b562-edd066b81b34",
-   "title": {
-    "en": "Tokimeki Tonight"
-   },
-   "contentRating": "safe",
-   "score": 0.2845023,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5e55d8c-f8df-42e8-8bcc-8ad336a09904",
-   "title": {
-    "en": "Idol Clubs"
-   },
-   "contentRating": "safe",
-   "score": 0.28443357,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "214a442e-4dc4-4de4-9df0-538d18a04f83",
-   "title": {
-    "en": "Damage Danshi"
-   },
-   "contentRating": "safe",
-   "score": 0.2837526,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
-   "title": {
-    "en": "The Tale of Taro Yamada"
-   },
-   "contentRating": "safe",
-   "score": 0.27928242,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "65c6cd08-8642-4a30-acd0-0d158670a309",
-   "title": {
-    "en": "Tonari no Hoshi no Ouji-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.27371112,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
-   "title": {
-    "en": "Like to Be Ordinary!"
-   },
-   "contentRating": "safe",
-   "score": 0.27232212,
+   "score": 0.29253072,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:45+00:00"
+ "updatedAt": "2023-12-10T18:13:55+00:00"
 }

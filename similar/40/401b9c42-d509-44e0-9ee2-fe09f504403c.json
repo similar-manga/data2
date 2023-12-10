@@ -22,7 +22,7 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.2504546,
+   "score": 0.25032923,
    "languages": [
     "en"
    ]
@@ -51,31 +51,20 @@
    ]
   },
   {
-   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
-   "title": {
-    "en": "Parasite B"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69373c97-2794-4304-97b7-7477975f962f",
-   "title": {
-    "en": "Mobile Suit Gundam Valpurgis EVE"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
    "title": {
     "en": "Shin Henkei Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
+   "title": {
+    "en": "Parasite B"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -95,12 +84,45 @@
    ]
   },
   {
+   "id": "69373c97-2794-4304-97b7-7477975f962f",
+   "title": {
+    "en": "Mobile Suit Gundam Valpurgis EVE"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
+   "title": {
+    "en": "Dr. Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.21071489,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f5c2a23-1268-4dc8-8b85-1632583fbb35",
+   "title": {
+    "en": "CROSS Blood"
+   },
+   "contentRating": "safe",
+   "score": 0.21030608,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "26e25ef7-57fc-4543-9765-162691a9995f",
    "title": {
     "en": "Godly Mobile Game"
    },
    "contentRating": "safe",
-   "score": 0.2186767,
+   "score": 0.2082554,
    "languages": [
     "en",
     "fr",
@@ -113,7 +135,7 @@
     "en": "RWBY: Ice Queendom"
    },
    "contentRating": "safe",
-   "score": 0.21072477,
+   "score": 0.20719226,
    "languages": [
     "ru",
     "en",
@@ -121,31 +143,36 @@
    ]
   },
   {
-   "id": "7f5c2a23-1268-4dc8-8b85-1632583fbb35",
+   "id": "bcbf10c8-f75f-4f7c-befd-6459db3b7cfc",
    "title": {
-    "en": "CROSS Blood"
+    "en": "CHR-47"
    },
    "contentRating": "safe",
-   "score": 0.21067956,
+   "score": 0.20203052,
    "languages": [
+    "en",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
+   "title": {
+    "en": "Space Battleship Silver Seven"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "fr",
+    "es-la",
+    "pt-br",
     "en"
    ]
   },
   {
-   "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
+   "id": "a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c",
    "title": {
-    "en": "Dr. Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.21064587,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9bedcc63-63e5-47c9-97ef-12f5303cb0aa",
-   "title": {
-    "en": "King of Ruin ~Gaogaigar vs Betterman~ the COMIC"
+    "en": "Murahagane"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -154,38 +181,17 @@
    ]
   },
   {
-   "id": "c673728f-332a-4474-87af-9c66b9096d5b",
+   "id": "84d6b69d-9003-49b0-b90b-652ad1b4725f",
    "title": {
-    "en": "Mecha-Ude: Mechanical Arms"
+    "en": "Brave Universe Sworgrader"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "be84db84-0eec-4748-b539-ee6c3897a254",
-   "title": {
-    "en": "Chaosic Rune ES"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
-   "title": {
-    "en": "Mobile Suit Gundam N-Extreme"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
+    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:13+00:00"
+ "updatedAt": "2023-12-10T18:15:13+00:00"
 }

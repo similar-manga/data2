@@ -6,12 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6faf8b9c-3cfa-4f5b-8d93-9dca7509ca70",
+   "title": {
+    "en": "Hoshikiri no Kenshi"
+   },
+   "contentRating": "safe",
+   "score": 0.3325421,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "ac31a504-1cff-4880-8e13-47af4489d433",
+   "title": {
+    "en": "Destined Pair? I Disagree!"
+   },
+   "contentRating": "safe",
+   "score": 0.30148727,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "55d4dec1-60db-4560-b1ce-b6d9e94aa370",
    "title": {
     "en": "I Became a Renowned Family’s Sword Prodigy"
    },
    "contentRating": "safe",
-   "score": 0.29595065,
+   "score": 0.29724947,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +48,7 @@
     "en": "The Rebirth of an 8th Circled Wizard"
    },
    "contentRating": "safe",
-   "score": 0.29512382,
+   "score": 0.29401523,
    "languages": [
     "pt-br",
     "en",
@@ -38,7 +63,7 @@
     "en": "Kill the Emperor"
    },
    "contentRating": "safe",
-   "score": 0.29033962,
+   "score": 0.28741014,
    "languages": [
     "en"
    ]
@@ -49,34 +74,22 @@
     "en": "Swordsman Of Red Light"
    },
    "contentRating": "safe",
-   "score": 0.28728527,
+   "score": 0.28267455,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
+   "id": "a3b5d77f-3fd3-45ce-8e9b-5e6fd3a5849a",
    "title": {
-    "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
+    "en": "Rebirth of the Strongest Sword God"
    },
    "contentRating": "safe",
-   "score": 0.28186065,
+   "score": 0.28232944,
    "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "b828bd28-9a19-4cab-81df-ac03d33f33e2",
-   "title": {
-    "en": "I Am the Main Characters' Child"
-   },
-   "contentRating": "safe",
-   "score": 0.27934986,
-   "languages": [
-    "pl",
-    "en"
+    "en",
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -85,10 +98,23 @@
     "en": "I Became a Dragon in the Sorceress's Hand"
    },
    "contentRating": "safe",
-   "score": 0.27760488,
+   "score": 0.27705216,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "c4e4daf8-f236-4b3f-ad5b-36d91deaafd7",
+   "title": {
+    "en": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
+   },
+   "contentRating": "safe",
+   "score": 0.27673978,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en"
    ]
   },
   {
@@ -97,7 +123,7 @@
     "en": "The Lady Wants to Rest"
    },
    "contentRating": "safe",
-   "score": 0.27668476,
+   "score": 0.2738147,
    "languages": [
     "pt-br",
     "fr",
@@ -108,12 +134,46 @@
    ]
   },
   {
+   "id": "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
+   "title": {
+    "en": "The Infinite Mage"
+   },
+   "contentRating": "safe",
+   "score": 0.27225474,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "it",
+    "pl"
+   ]
+  },
+  {
+   "id": "03eb6c43-9006-477b-9297-7c4bacb6f694",
+   "title": {
+    "en": "Genshin Impact"
+   },
+   "contentRating": "safe",
+   "score": 0.27006614,
+   "languages": [
+    "it",
+    "en",
+    "he",
+    "fr",
+    "es",
+    "pt-br",
+    "cs",
+    "es-la",
+    "fa"
+   ]
+  },
+  {
    "id": "633d470a-4146-4dd3-b841-93dd648c23a5",
    "title": {
     "en": "The Academy's Genius Swordsman"
    },
    "contentRating": "safe",
-   "score": 0.27513212,
+   "score": 0.2698518,
    "languages": [
     "hu",
     "fr",
@@ -122,16 +182,15 @@
    ]
   },
   {
-   "id": "ac31a504-1cff-4880-8e13-47af4489d433",
+   "id": "b828bd28-9a19-4cab-81df-ac03d33f33e2",
    "title": {
-    "en": "Destined Pair? I Disagree!"
+    "en": "I Am the Main Characters' Child"
    },
    "contentRating": "safe",
-   "score": 0.2698817,
+   "score": 0.26976487,
    "languages": [
-    "en",
-    "pt-br",
-    "id"
+    "pl",
+    "en"
    ]
   },
   {
@@ -140,7 +199,7 @@
     "en": "Damn Reincarnation"
    },
    "contentRating": "safe",
-   "score": 0.26841092,
+   "score": 0.2680946,
    "languages": [
     "en",
     "pt-br",
@@ -151,69 +210,19 @@
    ]
   },
   {
-   "id": "c68e79bd-af1a-4522-91f8-332c3b15323e",
+   "id": "8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
    "title": {
-    "en": "A Saint Who Was Adopted by the Grand Duke"
+    "en": "Genius of the Unique Lineage"
    },
    "contentRating": "safe",
-   "score": 0.26658255,
+   "score": 0.26786327,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "53c12cd2-f7ff-4976-b16a-c83efdeedb6f",
-   "title": {
-    "en": "Elqueeness"
-   },
-   "contentRating": "safe",
-   "score": 0.26579288,
-   "languages": [
     "en",
-    "fr",
     "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "92800fce-9996-4e66-94b6-6d43c1da5213",
-   "title": {
-    "en": "The Obsessive Second Male Lead Has Gone Wild"
-   },
-   "contentRating": "safe",
-   "score": 0.26417917,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "9debf709-4d0a-47f8-aa1a-b656bcd54727",
-   "title": {
-    "en": "The Heavenly Demon Can't Live a Normal Life"
-   },
-   "contentRating": "safe",
-   "score": 0.262744,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "uk"
-   ]
-  },
-  {
-   "id": "85b4d2f6-b4bc-42ba-b478-7ecde3b706e1",
-   "title": {
-    "en": "Saving the Villain from the Heroine"
-   },
-   "contentRating": "safe",
-   "score": 0.26199472,
-   "languages": [
-    "en",
-    "id"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:00+00:00"
+ "updatedAt": "2023-12-10T18:33:04+00:00"
 }

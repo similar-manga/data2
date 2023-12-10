@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8eff593c-e769-4005-8382-0951aa4443e7",
+   "title": {
+    "en": "Shinda Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.30264923
+  },
+  {
+   "id": "e7a246cd-7339-4a6d-8787-dc12a5c5f753",
+   "title": {
+    "en": "Fukigen na Meitantei Division-0"
+   },
+   "contentRating": "safe",
+   "score": 0.28422332
+  },
+  {
    "id": "69b7aae1-f4e9-4276-a505-0a012c0ba97c",
    "title": {
     "en": "Bokura no Natsu ga Saketeiku"
    },
    "contentRating": "safe",
-   "score": 0.27738747
+   "score": 0.2781938
   },
   {
    "id": "97666c13-2c14-4f7b-b2dd-904424466ea8",
@@ -19,10 +35,21 @@
     "en": "Biohazard: Death Island"
    },
    "contentRating": "safe",
-   "score": 0.27426308,
+   "score": 0.2739003,
    "languages": [
     "uk",
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "d76ba52a-1aaa-488f-8863-af3282b646aa",
+   "title": {
+    "en": "Escape Death Island"
+   },
+   "contentRating": "safe",
+   "score": 0.27249297,
+   "languages": [
     "en"
    ]
   },
@@ -32,17 +59,25 @@
     "en": "Uichi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.27173367
+   "score": 0.2715017
   },
   {
-   "id": "d76ba52a-1aaa-488f-8863-af3282b646aa",
+   "id": "b487ba99-d5b4-4337-8aba-04e36f33cc2f",
    "title": {
-    "en": "Escape Death Island"
+    "en": "Guardian Devil"
    },
    "contentRating": "safe",
-   "score": 0.27171186,
+   "score": 0.25922194
+  },
+  {
+   "id": "cbb93dde-b2b7-4760-996f-fd9fe3c712d9",
+   "title": {
+    "en": "Broke Island"
+   },
+   "contentRating": "safe",
+   "score": 0.2501099,
    "languages": [
-    "en"
+    "es"
    ]
   },
   {
@@ -51,8 +86,20 @@
     "en": "Zange"
    },
    "contentRating": "safe",
-   "score": 0.24628724,
+   "score": 0.24488652,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
+   "title": {
+    "en": "Balemount"
+   },
+   "contentRating": "safe",
+   "score": 0.2433135,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -62,8 +109,20 @@
     "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.23832801,
+   "score": 0.23819882,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
+   "title": {
+    "en": "Ankoku Jiten"
+   },
+   "contentRating": "safe",
+   "score": 0.23384665,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -81,97 +140,29 @@
    ]
   },
   {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
+   "id": "5301ab0a-9621-4f75-9a84-f0e0472f491e",
    "title": {
-    "en": "Ankoku Jiten"
+    "en": "Co-Doku Game"
    },
    "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "ru",
-    "en"
-   ]
+   "score": 0.23384665
   },
   {
-   "id": "b0ed1f30-7258-4cbc-ac80-01826967ab8d",
+   "id": "902ddcf1-1c58-4e43-b05a-0b23ab903a86",
    "title": {
-    "en": "Roar: Naraku no Heroine"
+    "en": "Watashi no Kare ga Ane no Otto ni Natta Riyuu"
    },
    "contentRating": "safe",
-   "score": 0.23135598
+   "score": 0.23329459
   },
   {
-   "id": "a5a16212-c1ed-43ce-9453-4ede7b882f11",
+   "id": "0d0cb3e8-576d-42ec-825b-442d59c6b3d1",
    "title": {
-    "en": "Hell 58"
+    "en": "The Illusionary Island"
    },
    "contentRating": "safe",
-   "score": 0.22800246,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "73be335c-bcdf-4668-b757-3730010932e2",
-   "title": {
-    "en": "Jigoku Mushi o Kuu! Oninbo"
-   },
-   "contentRating": "safe",
-   "score": 0.22449279,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "85e5cb4a-e38a-4f5d-99d4-02c283dc27f5",
-   "title": {
-    "en": "Yakoudou Kitan"
-   },
-   "contentRating": "safe",
-   "score": 0.22091864
-  },
-  {
-   "id": "9be148dc-e8fc-4ca5-bd78-e0a142a27ca8",
-   "title": {
-    "en": "Survive Romance"
-   },
-   "contentRating": "safe",
-   "score": 0.2207663,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "1c265381-d3df-4624-a6a4-24388e336af6",
-   "title": {
-    "en": "Chou Tantei Jikenbo: Rain Code"
-   },
-   "contentRating": "safe",
-   "score": 0.21943474
-  },
-  {
-   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
-   "title": {
-    "en": "Kurosagi Shitai Takuhaibin"
-   },
-   "contentRating": "safe",
-   "score": 0.21939133,
-   "languages": [
-    "en",
-    "zh"
-   ]
-  },
-  {
-   "id": "b1015a1e-eb48-4ef3-8025-822aed0e0a73",
-   "title": {
-    "en": "Lightning Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.21857816
+   "score": 0.23218492
   }
  ],
- "updatedAt": "2023-12-10T01:05:00+00:00"
+ "updatedAt": "2023-12-10T18:22:36+00:00"
 }

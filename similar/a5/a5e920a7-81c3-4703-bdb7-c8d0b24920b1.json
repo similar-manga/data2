@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
-   "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
-   },
-   "contentRating": "safe",
-   "score": 0.2933285,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "42289724-53ab-4016-9812-cdb6a7d7ea0a",
    "title": {
     "en": "Scavengers Another Sky"
    },
    "contentRating": "safe",
-   "score": 0.28918704,
+   "score": 0.2894811,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
+   "title": {
+    "en": "Ghost in the Shell: Global Neural Network"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.27648297,
+   "score": 0.27502614,
    "languages": [
     "en",
     "pt-br"
@@ -45,7 +45,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.24959141,
+   "score": 0.24869703,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
-   "score": 0.24377696,
+   "score": 0.2433004,
    "languages": [
     "en"
    ]
@@ -67,7 +67,7 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.23923437,
+   "score": 0.23796938,
    "languages": [
     "en",
     "es"
@@ -96,37 +96,26 @@
    ]
   },
   {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
-   "title": {
-    "en": "Crest of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.21181673,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "fe7f3f02-3758-4380-8411-cbb9cd121ba3",
    "title": {
     "en": "Kurage no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.21160956,
+   "score": 0.21181703,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "f1d65976-1ed7-4843-bb03-fa7a5cbe0715",
+   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
    "title": {
-    "en": "Grandeek ReeL"
+    "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.20605509,
+   "score": 0.21080905,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -136,7 +125,7 @@
     "en": "Tales of the World - Radiant Mythology"
    },
    "contentRating": "safe",
-   "score": 0.20602593,
+   "score": 0.20468424,
    "languages": [
     "en"
    ]
@@ -147,7 +136,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.20413287,
+   "score": 0.20351785,
    "languages": [
     "en"
    ]
@@ -158,19 +147,31 @@
     "en": "Magical Record Lyrical Nanoha Force"
    },
    "contentRating": "safe",
-   "score": 0.20023406,
+   "score": 0.19994247,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "30e8e05f-1450-41e5-b8f4-922ff4799c19",
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
    "title": {
-    "en": "Ninja Papa"
+    "en": "S. Flight"
    },
    "contentRating": "safe",
-   "score": 0.19095235,
+   "score": 0.19047621,
+   "languages": [
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "f31cae03-d1ee-4f38-bd9e-45f910775ca4",
+   "title": {
+    "en": "Drug It!"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
    "languages": [
     "en"
    ]
@@ -187,5 +188,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:36+00:00"
+ "updatedAt": "2023-12-10T18:26:50+00:00"
 }

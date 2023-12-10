@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f",
+   "title": {
+    "en": "A Smartphone in Love (Preserialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.3969083,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "39e06332-937e-4a5c-afe0-ab903550027d",
    "title": {
     "en": "Oretachi ga Osananajimi Janaku Natta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3864745,
+   "score": 0.38659802,
    "languages": [
     "id"
    ]
@@ -22,7 +34,7 @@
     "en": "Oka no Ue no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3616207,
+   "score": 0.36130646,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +46,7 @@
     "en": "Mahou ga Kagaku ni Koisuru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.34150022,
+   "score": 0.34029993,
    "languages": [
     "es-la",
     "en"
@@ -46,7 +58,7 @@
     "en": "Omotta ijou ni otokomaedatta hanashi"
    },
    "contentRating": "safe",
-   "score": 0.32010448,
+   "score": 0.3174936,
    "languages": [
     "en",
     "pt-br",
@@ -59,7 +71,7 @@
     "en": "Kimi no Jinsei Zenbu wo Shiawase ni Shite Agetai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3177938,
+   "score": 0.3162696,
    "languages": [
     "en",
     "fr"
@@ -71,7 +83,7 @@
     "en": "Makezugirai na Onna no Ko ga Shoubu wo Idondekuru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.31611365,
+   "score": 0.31578076,
    "languages": [
     "en",
     "id"
@@ -83,10 +95,23 @@
     "en": "I’m Home and Welcome Back"
    },
    "contentRating": "safe",
-   "score": 0.3099515,
+   "score": 0.3100183,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "e33662cd-2e31-4158-8f32-0ccc8ef1bd76",
+   "title": {
+    "en": "Me Tsuki Warui Hito ga Konomi no Taipuna Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.30723408,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -95,7 +120,7 @@
     "en": "Gamanshiteiru Oku-san no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.30765295,
+   "score": 0.30629757,
    "languages": [
     "fr",
     "vi",
@@ -107,25 +132,12 @@
    ]
   },
   {
-   "id": "e33662cd-2e31-4158-8f32-0ccc8ef1bd76",
-   "title": {
-    "en": "Me Tsuki Warui Hito ga Konomi no Taipuna Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.30641785,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
    "id": "2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
    "title": {
     "en": "Yoroi no Ou-sama to Toraware no Himegimi no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3054177,
+   "score": 0.3046602,
    "languages": [
     "ru",
     "en",
@@ -138,7 +150,7 @@
     "en": "Guutara na Onna no Ko ni Furimawaseru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.30464774,
+   "score": 0.30326524,
    "languages": [
     "en",
     "es-la",
@@ -151,7 +163,7 @@
     "en": "The Story of a Boy Confused by Changes During Adolescence"
    },
    "contentRating": "safe",
-   "score": 0.3031971,
+   "score": 0.30214584,
    "languages": [
     "en",
     "pt-br",
@@ -165,7 +177,7 @@
     "en": "Tsurai toki mo 'daijoubudayo' to kimi ni wa itte shimau hanashi."
    },
    "contentRating": "safe",
-   "score": 0.30123273,
+   "score": 0.2998115,
    "languages": [
     "id",
     "ru",
@@ -178,7 +190,7 @@
     "en": "A Story about a Former Delinquent Girl Who Is Proposed to by a Yandere Man Whom She Got into a Fight with in the Past"
    },
    "contentRating": "safe",
-   "score": 0.29789186,
+   "score": 0.29717705,
    "languages": [
     "uk",
     "pt-br",
@@ -193,28 +205,14 @@
     "en": "The Girl Who Could See Emotions"
    },
    "contentRating": "safe",
-   "score": 0.2952146,
+   "score": 0.29529375,
    "languages": [
     "en",
     "es-la",
     "vi",
     "it"
    ]
-  },
-  {
-   "id": "3ccb3bb4-43fb-4384-a235-7baaf1bdb3e6",
-   "title": {
-    "en": "Ryuunen Shita Senpai to Moto Kouhai no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.29339486,
-   "languages": [
-    "it",
-    "es-la",
-    "en",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:17+00:00"
+ "updatedAt": "2023-12-10T18:17:59+00:00"
 }

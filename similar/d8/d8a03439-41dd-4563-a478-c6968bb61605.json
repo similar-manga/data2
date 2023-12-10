@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9b945b10-0368-467b-8b20-ca99b8938a9b",
+   "title": {
+    "en": "Beware of the Great Beauty"
+   },
+   "contentRating": "safe",
+   "score": 0.34080365,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "50de54db-2c69-4953-96f9-30b038001ac3",
    "title": {
     "en": "Ai no Kotoba"
    },
    "contentRating": "safe",
-   "score": 0.33536783,
+   "score": 0.33423898,
    "languages": [
     "en"
    ]
@@ -22,9 +34,22 @@
     "en": "Kiss, Zekkou, Kiss Bokura no Baai"
    },
    "contentRating": "safe",
-   "score": 0.32364076,
+   "score": 0.3227169,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
+   "title": {
+    "en": "1-ko Shita kara, Kiss Sasete."
+   },
+   "contentRating": "safe",
+   "score": 0.31958672,
+   "languages": [
+    "vi",
+    "en",
+    "es"
    ]
   },
   {
@@ -33,8 +58,66 @@
     "en": "My Lovely Master"
    },
    "contentRating": "safe",
-   "score": 0.32257137,
+   "score": 0.318696,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aceae7a9-54ba-4fb5-999f-29528a7e4a2a",
+   "title": {
+    "en": "Bokura no Suki wa Warikirenai"
+   },
+   "contentRating": "safe",
+   "score": 0.31449088,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a5eb010a-8441-4f4d-8e62-4c4559c37d66",
+   "title": {
+    "en": "Kimi to Boku no Junjou Renai Jijou"
+   },
+   "contentRating": "safe",
+   "score": 0.31298324,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "a2cae001-a83a-4b00-b74b-acb958bec356",
+   "title": {
+    "en": "Anagura Amelie"
+   },
+   "contentRating": "safe",
+   "score": 0.30869198,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
+   "title": {
+    "en": "Kimi no Yokogao wo Miteita"
+   },
+   "contentRating": "safe",
+   "score": 0.30797747,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "title": {
+    "en": "Hana ni Kedamono"
+   },
+   "contentRating": "safe",
+   "score": 0.30634955,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -44,7 +127,7 @@
     "en": "Renjou Sparkle"
    },
    "contentRating": "safe",
-   "score": 0.30887458,
+   "score": 0.30556542,
    "languages": [
     "en"
    ]
@@ -55,7 +138,7 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.30595854,
+   "score": 0.30283463,
    "languages": [
     "en",
     "pt-br"
@@ -67,122 +150,49 @@
     "en": "Ko no Ren ni Namidasuru!"
    },
    "contentRating": "safe",
-   "score": 0.30234855,
+   "score": 0.30234256,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
+   "id": "e668e628-9d4d-44d2-b95b-edf87a369712",
    "title": {
-    "en": "a cup of..."
+    "en": "Flower"
    },
    "contentRating": "safe",
-   "score": 0.29965982,
+   "score": 0.30228493,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fa1a6fb9-835b-4000-a280-a52ad36b1d14",
+   "id": "d0a49ab6-3172-4e10-bc38-a6c88c76c432",
    "title": {
-    "en": "Kazekou Engekibu!"
+    "en": "Dramatic Irony"
    },
    "contentRating": "safe",
-   "score": 0.29572177,
+   "score": 0.2980811,
    "languages": [
-    "en"
+    "fr",
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
    "title": {
-    "en": "Hana ni Kedamono"
+    "en": "Shigatsu no Kimi, Spica."
    },
    "contentRating": "safe",
-   "score": 0.29407176,
+   "score": 0.29730392,
    "languages": [
+    "es-la",
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
-   "title": {
-    "en": "Like to Be Ordinary!"
-   },
-   "contentRating": "safe",
-   "score": 0.2926315,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
-   "title": {
-    "en": "Usotsuki na Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
-   "title": {
-    "en": "Koi*Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a110e7d0-e6b8-4f9d-859a-0863e4bdad62",
-   "title": {
-    "en": "Goshimei! Host Kyoushi J"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aac8ccca-d5e0-4da0-a170-3cf4cdeddea8",
-   "title": {
-    "en": "Kare Made Love ♥ km"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c733b54b-91c0-4be4-ac91-270943e85929",
-   "title": {
-    "en": "Natsumeki!!"
-   },
-   "contentRating": "safe",
-   "score": 0.28359127,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1d471302-deae-4554-a699-c26ae18c8740",
-   "title": {
-    "en": "She's Scary"
-   },
-   "contentRating": "safe",
-   "score": 0.27896902,
-   "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:42+00:00"
+ "updatedAt": "2023-12-10T18:32:19+00:00"
 }

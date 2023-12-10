@@ -11,7 +11,7 @@
     "en": "Life Maker"
    },
    "contentRating": "safe",
-   "score": 0.27454284,
+   "score": 0.2722951,
    "languages": [
     "en"
    ]
@@ -22,7 +22,18 @@
     "en": "Madara"
    },
    "contentRating": "safe",
-   "score": 0.21789277,
+   "score": 0.21827306,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ab9e47a-df90-456e-9ce9-c0930cf3c390",
+   "title": {
+    "en": "Mind Assassin"
+   },
+   "contentRating": "safe",
+   "score": 0.21573797,
    "languages": [
     "en"
    ]
@@ -33,10 +44,25 @@
     "en": "Kousaten Chindouchuu"
    },
    "contentRating": "safe",
-   "score": 0.20575775,
+   "score": 0.20524243,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
+   "title": {
+    "en": "Dragon and Chameleon"
+   },
+   "contentRating": "safe",
+   "score": 0.20385295,
+   "languages": [
+    "vi",
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -45,7 +71,7 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.20289648,
+   "score": 0.20217681,
    "languages": [
     "en",
     "pt-br",
@@ -54,12 +80,12 @@
    ]
   },
   {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
+   "id": "49ca82c8-2f37-43cb-915c-a0a060842836",
    "title": {
-    "en": "E's"
+    "en": "Fueru Tsuma"
    },
    "contentRating": "safe",
-   "score": 0.20280096,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -88,34 +114,23 @@
    ]
   },
   {
-   "id": "49ca82c8-2f37-43cb-915c-a0a060842836",
-   "title": {
-    "en": "Fueru Tsuma"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b211df18-36f0-40eb-9838-5afdd29cca19",
    "title": {
     "en": "A Lantern's Light"
    },
    "contentRating": "safe",
-   "score": 0.20175733,
+   "score": 0.20090327,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
    "title": {
-    "en": "Watashi wa Kagome"
+    "en": "E's"
    },
    "contentRating": "safe",
-   "score": 0.19116867,
+   "score": 0.19977997,
    "languages": [
     "en"
    ]
@@ -154,45 +169,27 @@
    ]
   },
   {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "id": "498e95c9-292f-4c19-994d-7281b2253a02",
    "title": {
-    "en": "World Trigger"
+    "en": "Ivory Dark"
    },
    "contentRating": "safe",
-   "score": 0.18437344,
+   "score": 0.19047621,
    "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "es-la",
-    "de",
-    "tr"
-   ]
-  },
-  {
-   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
-   "title": {
-    "en": "Dr. Chanbelee"
-   },
-   "contentRating": "safe",
-   "score": 0.18394579,
-   "languages": [
-    "ro",
-    "pl",
     "en"
    ]
   },
   {
-   "id": "2a3fff79-557b-4008-8fc3-c5abdde5573e",
+   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
    "title": {
-    "en": "Telepathy Shoujo"
+    "en": "Watashi wa Kagome"
    },
    "contentRating": "safe",
-   "score": 0.1820429,
+   "score": 0.1894112,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:40+00:00"
+ "updatedAt": "2023-12-10T18:32:13+00:00"
 }

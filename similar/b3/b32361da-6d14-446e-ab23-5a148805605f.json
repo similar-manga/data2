@@ -11,7 +11,7 @@
     "en": "This person will be my Tutor ??!"
    },
    "contentRating": "safe",
-   "score": 0.29611373,
+   "score": 0.29970002,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Aosora"
    },
    "contentRating": "safe",
-   "score": 0.29385796,
+   "score": 0.29312372,
    "languages": [
     "en",
     "fr"
@@ -53,7 +53,7 @@
     "en": "Shounen A to Naisho no 7-ka kan."
    },
    "contentRating": "safe",
-   "score": 0.27464962,
+   "score": 0.2739244,
    "languages": [
     "es-la"
    ]
@@ -64,10 +64,18 @@
     "en": "Esora Hikouki"
    },
    "contentRating": "safe",
-   "score": 0.27018583,
+   "score": 0.26919428,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1f280efb-60ce-410d-bf97-8987aa24c908",
+   "title": {
+    "en": "Toudai no Sanshimai"
+   },
+   "contentRating": "safe",
+   "score": 0.2612005
   },
   {
    "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
@@ -75,11 +83,22 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.2605865,
+   "score": 0.25969532,
    "languages": [
     "de",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "8a4faf5c-564c-46fc-8f89-ec0bdd7a441f",
+   "title": {
+    "en": "Bokka"
+   },
+   "contentRating": "safe",
+   "score": 0.25899068,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -88,7 +107,7 @@
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.25782266,
+   "score": 0.256886,
    "languages": [
     "fr",
     "en"
@@ -123,52 +142,12 @@
    ]
   },
   {
-   "id": "bcdaf1f9-f065-49e0-af43-809af34f194e",
+   "id": "a4accb73-d507-47c4-b5db-8e1b21f51d86",
    "title": {
-    "en": "Hamidashi Gelopa"
+    "en": "Shinkansen E5 Series Hayabusa Monogatari"
    },
    "contentRating": "safe",
    "score": 0.23809525
-  },
-  {
-   "id": "154e0eb4-5d41-4ecd-8617-7f95d9c639d8",
-   "title": {
-    "en": "My Sweet Sunday"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
-   "id": "18222c48-53a1-420b-bd57-3455e758809e",
-   "title": {
-    "en": "Today's Another Great Day"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "es",
-    "fr",
-    "ru",
-    "en",
-    "es-la",
-    "it"
-   ]
-  },
-  {
-   "id": "ad45fc82-85c2-409c-b781-6e863511af2c",
-   "title": {
-    "en": "Bassen"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
   },
   {
    "id": "c80b5f40-b4e1-42ad-a97f-38063ab34202",
@@ -179,6 +158,19 @@
    "score": 0.23809525,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2a89f625-195e-41f1-a1df-96a25131679e",
+   "title": {
+    "en": "What if Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "kk",
+    "ru"
    ]
   },
   {
@@ -195,5 +187,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:08+00:00"
+ "updatedAt": "2023-12-10T18:28:23+00:00"
 }

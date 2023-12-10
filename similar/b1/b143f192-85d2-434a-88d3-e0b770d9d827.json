@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5b21ae0e-966e-43be-9f96-ee08ebfde5d0",
+   "title": {
+    "en": "The Call of Animals"
+   },
+   "contentRating": "safe",
+   "score": 0.26719365,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.25506836,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0a393e6f-c8ac-4231-862e-f8f4ea735532",
    "title": {
     "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.24752507,
+   "score": 0.24660224,
    "languages": [
     "en"
    ]
@@ -34,33 +56,37 @@
     "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.22633085,
+   "score": 0.22525498,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
+   "id": "486e0188-49d3-4093-9422-6faf3508a4a1",
    "title": {
-    "en": "E's"
+    "en": "Hammer Session! R"
    },
    "contentRating": "safe",
-   "score": 0.21456817,
+   "score": 0.21436442,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
+   "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.20832919,
+   "score": 0.21428573,
    "languages": [
+    "en",
+    "id",
+    "es-la",
     "ru",
-    "en"
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -69,7 +95,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.20704144,
+   "score": 0.20714273,
    "languages": [
     "id",
     "en",
@@ -90,12 +116,46 @@
    ]
   },
   {
+   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
+   "title": {
+    "en": "Tiger \u0026 Bunny"
+   },
+   "contentRating": "safe",
+   "score": 0.2040594,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "21666dcf-1257-497d-9647-e4bb63411137",
+   "title": {
+    "en": "Atrail - Nisekawiteki Nichijou to Senmitsu Element"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
+   "title": {
+    "en": "Yggdra Silver"
+   },
+   "contentRating": "safe",
+   "score": 0.20161897,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
    "title": {
     "en": "Rakshasa Street"
    },
    "contentRating": "safe",
-   "score": 0.19614938,
+   "score": 0.1960145,
    "languages": [
     "fr",
     "en",
@@ -109,20 +169,9 @@
     "en": "Logout Disabled in VR Chat"
    },
    "contentRating": "safe",
-   "score": 0.19506517,
+   "score": 0.19506785,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "07bb19d8-7ea3-47b1-b998-3f5a5b0389e1",
-   "title": {
-    "en": "Yaoguai Faan"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "pt-br"
    ]
   },
   {
@@ -137,85 +186,35 @@
    ]
   },
   {
-   "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
    "title": {
-    "en": "Segregated World"
+    "en": "Yuukoku no Moriarty"
    },
    "contentRating": "safe",
    "score": 0.19166298,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bb865d49-0dd4-49b2-b2a8-6b609e3bba4a",
-   "title": {
-    "en": "Ana no Mujina"
-   },
-   "contentRating": "safe",
-   "score": 0.1845003,
-   "languages": [
     "en",
-    "it",
-    "es-la",
-    "es"
-   ]
-  },
-  {
-   "id": "6a34facc-98c1-4bce-901c-b2661b7c9ae4",
-   "title": {
-    "en": "Succeed"
-   },
-   "contentRating": "safe",
-   "score": 0.18360025,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "97d299f1-1c93-4146-8ac2-7238a59d49bf",
-   "title": {
-    "en": "Gwisin Byeolgok"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d82c15b0-2a81-45bf-add2-1a79905ac419",
-   "title": {
-    "en": "Detective Conan - Zero the Enforcer"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
-   "title": {
-    "en": "Blue Lock"
-   },
-   "contentRating": "safe",
-   "score": 0.18001026,
-   "languages": [
     "ru",
-    "vi",
     "id",
-    "es-la",
     "pt-br",
-    "en",
-    "it",
-    "tr",
     "uk",
-    "fr",
-    "hu",
-    "de"
+    "ar",
+    "tr",
+    "vi",
+    "hu"
+   ]
+  },
+  {
+   "id": "07bb19d8-7ea3-47b1-b998-3f5a5b0389e1",
+   "title": {
+    "en": "Yaoguai Faan"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:04+00:00"
+ "updatedAt": "2023-12-10T18:28:11+00:00"
 }

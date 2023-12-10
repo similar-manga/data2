@@ -6,16 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8a66908a-40aa-4e57-adcb-885c54d90029",
+   "title": {
+    "en": "Nanatsuiro Drops"
+   },
+   "contentRating": "safe",
+   "score": 0.25910494,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
    "title": {
     "en": "Iris Zero"
    },
    "contentRating": "safe",
-   "score": 0.23433492,
+   "score": 0.2340258,
    "languages": [
     "pl",
     "it",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
+   "title": {
+    "en": "Material Polka"
+   },
+   "contentRating": "safe",
+   "score": 0.22830883,
+   "languages": [
     "en"
    ]
   },
@@ -25,10 +47,73 @@
     "en": "Bug Ego"
    },
    "contentRating": "safe",
-   "score": 0.22493738,
+   "score": 0.22509077,
    "languages": [
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "5ecf58d2-fcac-44f1-8341-97b7ef4fe82e",
+   "title": {
+    "en": "Replica Datte, Koi wo suru."
+   },
+   "contentRating": "safe",
+   "score": 0.22141783,
+   "languages": [
+    "ru",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
+   "title": {
+    "en": "Rewrite: SIDE-R"
+   },
+   "contentRating": "safe",
+   "score": 0.20923509,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
+   "title": {
+    "en": "Yoka-san ga Nameru"
+   },
+   "contentRating": "safe",
+   "score": 0.20802705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4db25702-e695-4b86-8bda-e74a7266f4db",
+   "title": {
+    "en": "Dullahan-chan is Head Over Heels"
+   },
+   "contentRating": "safe",
+   "score": 0.2078109,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ef4b0094-cc78-489f-978e-d56e0ff28347",
+   "title": {
+    "en": "Otome Kaijuu Caramelize"
+   },
+   "contentRating": "safe",
+   "score": 0.20700672,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en",
+    "id",
+    "fr",
+    "es-la"
    ]
   },
   {
@@ -37,20 +122,9 @@
     "en": "Death Edge"
    },
    "contentRating": "safe",
-   "score": 0.20602135,
+   "score": 0.2056552,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
-   "title": {
-    "en": "Dero Dero"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
     "en"
    ]
   },
@@ -66,23 +140,12 @@
    ]
   },
   {
-   "id": "51cf8887-e776-4f96-8978-9a74e7e61535",
+   "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
    "title": {
-    "en": "Pui Pui!"
+    "en": "Dero Dero"
    },
    "contentRating": "safe",
-   "score": 0.20236118,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a2f4703c-e966-4e5b-bb6c-9b663f361173",
-   "title": {
-    "en": "Ware wa Ken-ou!!"
-   },
-   "contentRating": "safe",
-   "score": 0.20236118,
+   "score": 0.2053538,
    "languages": [
     "en"
    ]
@@ -100,6 +163,32 @@
    ]
   },
   {
+   "id": "cabaab27-e76f-4737-807b-7dc948fca35a",
+   "title": {
+    "en": "Tantei wa Mou, Shindeiru"
+   },
+   "contentRating": "safe",
+   "score": 0.20236118,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "it",
+    "tr"
+   ]
+  },
+  {
+   "id": "a2f4703c-e966-4e5b-bb6c-9b663f361173",
+   "title": {
+    "en": "Ware wa Ken-ou!!"
+   },
+   "contentRating": "safe",
+   "score": 0.20236118,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5dfe9757-34c9-4c34-9f0e-b3a5d382317c",
    "title": {
     "en": "Meitantei no Jouken"
@@ -109,102 +198,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "724c84bd-803d-4999-b05b-8e88ad13a411",
-   "title": {
-    "en": "Kamisama Kazoku"
-   },
-   "contentRating": "safe",
-   "score": 0.19827265,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
-   "title": {
-    "en": "Tena on S-String"
-   },
-   "contentRating": "safe",
-   "score": 0.19827265,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6de510fb-cb39-45e9-8548-b211cdb0b771",
-   "title": {
-    "en": "Dantalian no Shoka"
-   },
-   "contentRating": "safe",
-   "score": 0.1927029,
-   "languages": [
-    "es",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
-   "title": {
-    "en": "Semi-Eternal Happy End"
-   },
-   "contentRating": "safe",
-   "score": 0.18865128,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
-   "title": {
-    "en": "【Oshi no Ko】"
-   },
-   "contentRating": "safe",
-   "score": 0.18809794,
-   "languages": [
-    "fr",
-    "en",
-    "fa",
-    "pt-br",
-    "ru",
-    "vi",
-    "id",
-    "es-la",
-    "el",
-    "it",
-    "ar",
-    "uk",
-    "tr",
-    "th",
-    "cs"
-   ]
-  },
-  {
-   "id": "3e0a8f2d-488a-452d-8166-c42a9fa21dac",
-   "title": {
-    "en": "Kyousogiga"
-   },
-   "contentRating": "safe",
-   "score": 0.18735005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
-   "title": {
-    "en": "Arashi no Hana Murakumo no Uta"
-   },
-   "contentRating": "safe",
-   "score": 0.18735005,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:25+00:00"
+ "updatedAt": "2023-12-10T18:15:46+00:00"
 }

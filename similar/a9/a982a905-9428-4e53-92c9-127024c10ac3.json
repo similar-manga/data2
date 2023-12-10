@@ -11,7 +11,7 @@
     "en": "Black Pink"
    },
    "contentRating": "safe",
-   "score": 0.22549652
+   "score": 0.22568926
   },
   {
    "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
@@ -19,7 +19,7 @@
     "en": "Sakamoto"
    },
    "contentRating": "safe",
-   "score": 0.21655048,
+   "score": 0.21810855,
    "languages": [
     "it",
     "vi",
@@ -33,7 +33,7 @@
     "en": "No.9"
    },
    "contentRating": "safe",
-   "score": 0.21401037,
+   "score": 0.21417513,
    "languages": [
     "fr",
     "pt-br",
@@ -46,9 +46,22 @@
     "en": "Devil Clutch"
    },
    "contentRating": "safe",
-   "score": 0.21354426,
+   "score": 0.20953575,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
+   "title": {
+    "en": "KILLER PARENT"
+   },
+   "contentRating": "safe",
+   "score": 0.20164528,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
    ]
   },
   {
@@ -57,7 +70,7 @@
     "en": "Roku's Dark Pact"
    },
    "contentRating": "safe",
-   "score": 0.20193289,
+   "score": 0.20143682,
    "languages": [
     "en"
    ]
@@ -75,36 +88,12 @@
    ]
   },
   {
-   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
-   "title": {
-    "en": "KILLER PARENT"
-   },
-   "contentRating": "safe",
-   "score": 0.19881034,
-   "languages": [
-    "tr",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
-   "title": {
-    "en": "Armados"
-   },
-   "contentRating": "safe",
-   "score": 0.19499953,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
    "title": {
     "en": "Sakamoto Days"
    },
    "contentRating": "safe",
-   "score": 0.19388278,
+   "score": 0.19541949,
    "languages": [
     "pt-br",
     "it",
@@ -120,6 +109,44 @@
     "bn",
     "fa",
     "th"
+   ]
+  },
+  {
+   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
+   "title": {
+    "en": "Armados"
+   },
+   "contentRating": "safe",
+   "score": 0.19499953,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "40c058a2-430e-4ced-b663-369dcf38583f",
+   "title": {
+    "en": "Gokurakugai"
+   },
+   "contentRating": "safe",
+   "score": 0.19499953,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "fr",
+    "id",
+    "fa"
+   ]
+  },
+  {
+   "id": "f48bbb5f-8a23-4dea-8177-eb2dbbcbf4fa",
+   "title": {
+    "en": "Call of the Night (Fan-Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.19463752,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -139,14 +166,6 @@
    "score": 0.19039917
   },
   {
-   "id": "7b8aaa94-e7bd-4265-bd9d-baa9714742b6",
-   "title": {
-    "en": "Godzilla vs. Mechagodzilla II (SAKAI Takayuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.19039917
-  },
-  {
    "id": "f819bdb3-5230-401e-9156-f6f55c9fb1f7",
    "title": {
     "en": "Garaku"
@@ -159,51 +178,21 @@
    ]
   },
   {
+   "id": "7b8aaa94-e7bd-4265-bd9d-baa9714742b6",
+   "title": {
+    "en": "Godzilla vs. Mechagodzilla II (SAKAI Takayuki)"
+   },
+   "contentRating": "safe",
+   "score": 0.19039917
+  },
+  {
    "id": "25d11bea-fe4e-444c-8199-e74de82474db",
    "title": {
     "en": "Pokémon the Movie 2000: The Power of One"
    },
    "contentRating": "safe",
-   "score": 0.18860647
-  },
-  {
-   "id": "94eb0afc-293c-4323-96b8-89c46de463e6",
-   "title": {
-    "en": "Gokurakugai Sanbandori no Ken"
-   },
-   "contentRating": "safe",
-   "score": 0.18240537,
-   "languages": [
-    "pl",
-    "ru",
-    "en",
-    "fr",
-    "pt-br",
-    "es-la",
-    "uk",
-    "ca",
-    "it",
-    "hu",
-    "vi",
-    "id",
-    "ar"
-   ]
-  },
-  {
-   "id": "6557eb65-86a8-4d3a-8258-7354f7972a96",
-   "title": {
-    "en": "13"
-   },
-   "contentRating": "safe",
-   "score": 0.17993534,
-   "languages": [
-    "es",
-    "ca",
-    "pl",
-    "pt-br",
-    "en"
-   ]
+   "score": 0.18795723
   }
  ],
- "updatedAt": "2023-12-10T01:06:44+00:00"
+ "updatedAt": "2023-12-10T18:27:15+00:00"
 }

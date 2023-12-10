@@ -6,16 +6,13 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "98eb1113-4481-47a7-823d-cce1bb0bcb6e",
+   "id": "d70964f2-8964-4b81-b656-20a67301a1b8",
    "title": {
-    "en": "Boys Love"
+    "en": "Dragon ni Koi"
    },
    "contentRating": "safe",
-   "score": 0.30854955,
+   "score": 0.30752665,
    "languages": [
-    "bg",
-    "ru",
-    "pl",
     "en"
    ]
   },
@@ -25,43 +22,22 @@
     "en": "Shining Star"
    },
    "contentRating": "safe",
-   "score": 0.3057868,
+   "score": 0.30659306,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d70964f2-8964-4b81-b656-20a67301a1b8",
+   "id": "98eb1113-4481-47a7-823d-cce1bb0bcb6e",
    "title": {
-    "en": "Dragon ni Koi"
+    "en": "Boys Love"
    },
    "contentRating": "safe",
-   "score": 0.30569392,
+   "score": 0.30624074,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2edeabd4-a97e-4ae4-866b-39d82cd161a2",
-   "title": {
-    "en": "Kokui no Mure"
-   },
-   "contentRating": "safe",
-   "score": 0.30249155,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9f64063d-1fb3-44cd-bb96-d33f526841ae",
-   "title": {
-    "en": "Body Yori Soul"
-   },
-   "contentRating": "safe",
-   "score": 0.3014784,
-   "languages": [
+    "bg",
+    "ru",
     "pl",
-    "tr",
     "en"
    ]
   },
@@ -71,7 +47,7 @@
     "en": "Boku wa Sakana"
    },
    "contentRating": "safe",
-   "score": 0.30111906,
+   "score": 0.30292225,
    "languages": [
     "en",
     "pl",
@@ -79,15 +55,27 @@
    ]
   },
   {
-   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
+   "id": "9f64063d-1fb3-44cd-bb96-d33f526841ae",
    "title": {
-    "en": "Unmei no Koi ni Naritai"
+    "en": "Body Yori Soul"
    },
    "contentRating": "safe",
-   "score": 0.29256028,
+   "score": 0.301799,
    "languages": [
-    "en",
-    "tr"
+    "pl",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "2edeabd4-a97e-4ae4-866b-39d82cd161a2",
+   "title": {
+    "en": "Kokui no Mure"
+   },
+   "contentRating": "safe",
+   "score": 0.29871497,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -96,20 +84,9 @@
     "en": "Momomimi Pheromone"
    },
    "contentRating": "safe",
-   "score": 0.29227048,
+   "score": 0.29187283,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "eaa718b1-af3b-4b36-aa8a-77d5852ba0b7",
-   "title": {
-    "en": "The Microcosm Among Us Is Much Further Ahead"
-   },
-   "contentRating": "safe",
-   "score": 0.29177245,
-   "languages": [
     "en"
    ]
   },
@@ -119,9 +96,21 @@
     "en": "Poker Face"
    },
    "contentRating": "safe",
-   "score": 0.2915628,
+   "score": 0.29090992,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
+   "title": {
+    "en": "Unmei no Koi ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.2882062,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -130,18 +119,7 @@
     "en": "Princess♂ of the All Boys School (Napping)"
    },
    "contentRating": "safe",
-   "score": 0.28548536,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "22481d57-3088-4d81-9a68-fa185732f1f5",
-   "title": {
-    "en": "Kokyuu no Aida ni Koi ni Naru"
-   },
-   "contentRating": "safe",
-   "score": 0.28481233,
+   "score": 0.2872264,
    "languages": [
     "en"
    ]
@@ -158,12 +136,34 @@
    ]
   },
   {
+   "id": "22481d57-3088-4d81-9a68-fa185732f1f5",
+   "title": {
+    "en": "Kokyuu no Aida ni Koi ni Naru"
+   },
+   "contentRating": "safe",
+   "score": 0.2833697,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eaa718b1-af3b-4b36-aa8a-77d5852ba0b7",
+   "title": {
+    "en": "The Microcosm Among Us Is Much Further Ahead"
+   },
+   "contentRating": "safe",
+   "score": 0.28311384,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e297e294-9ab5-4900-91c7-7198b9dfe3f9",
    "title": {
     "en": "Issho na Dakejya"
    },
    "contentRating": "safe",
-   "score": 0.28274006,
+   "score": 0.28219244,
    "languages": [
     "en"
    ]
@@ -174,23 +174,23 @@
     "en": "Kimi ga Terasu Koi no Hikari"
    },
    "contentRating": "safe",
-   "score": 0.2791897,
+   "score": 0.27783749,
    "languages": [
     "tr",
     "en"
    ]
   },
   {
-   "id": "8b4d653b-dc14-4ae0-83b2-f2cf6ca6d2a6",
+   "id": "a0ba63e8-a42f-4040-8b3a-bb1b19304319",
    "title": {
-    "en": "Tittle Tattle"
+    "en": "Mayoi Neko to Koi no Ashiato"
    },
    "contentRating": "safe",
-   "score": 0.2721743,
+   "score": 0.27208498,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:43+00:00"
+ "updatedAt": "2023-12-10T18:27:13+00:00"
 }

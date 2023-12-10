@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
+   "id": "72b3ae65-f936-42b7-966a-891014ddebf4",
    "title": {
-    "en": "inGrid"
+    "en": "Fushigi Yuugi - Byakko Senki"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.22908106,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b8d4e5b-20f5-42ee-985a-cb66ab1af7f9",
+   "title": {
+    "en": "Madame Joker"
+   },
+   "contentRating": "safe",
+   "score": 0.21682683,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37bf1c2f-7974-456a-ab6a-c7534b70638e",
+   "title": {
+    "en": "Avian Wander"
+   },
+   "contentRating": "safe",
+   "score": 0.21105015,
    "languages": [
     "en"
    ]
@@ -50,12 +72,23 @@
    ]
   },
   {
+   "id": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
+   "title": {
+    "en": "inGrid"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "34c4c281-d0a9-4a28-b64c-2b99fe9ed432",
    "title": {
     "en": "Neko Mix Genkitan Toraji"
    },
    "contentRating": "safe",
-   "score": 0.19311443,
+   "score": 0.19221883,
    "languages": [
     "en"
    ]
@@ -72,12 +105,12 @@
    ]
   },
   {
-   "id": "a3330cdc-3983-4ec0-9df1-e70354a7db95",
+   "id": "937bc8b0-e092-46a0-b438-df3b0b3d94fb",
    "title": {
-    "en": "Manga Masterpiece Opera"
+    "en": "Reijou Elizabeth no Kareinaru Migawari Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.18598351,
+   "score": 0.18841222,
    "languages": [
     "en"
    ]
@@ -88,7 +121,18 @@
     "en": "The Boy from the Moon"
    },
    "contentRating": "safe",
-   "score": 0.18585235,
+   "score": 0.18527617,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a3330cdc-3983-4ec0-9df1-e70354a7db95",
+   "title": {
+    "en": "Manga Masterpiece Opera"
+   },
+   "contentRating": "safe",
+   "score": 0.18510054,
    "languages": [
     "en"
    ]
@@ -105,85 +149,41 @@
    ]
   },
   {
-   "id": "c7d93139-b172-42d9-b5d8-56c0cdb606a3",
+   "id": "b6c0eba7-858c-49ab-ba90-c7deda0ed9f5",
    "title": {
-    "en": "City Hunter - Rebirth"
+    "en": "A Side Character's Love Story"
    },
    "contentRating": "safe",
-   "score": 0.17857143,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "fdb3ae24-7e0d-4fa9-94e2-b194ee4d8217",
-   "title": {
-    "en": "Bokura no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
+   "score": 0.18070157,
    "languages": [
     "en",
     "pt-br",
+    "es-la",
     "id"
    ]
   },
   {
-   "id": "082b320c-e18d-4bdd-a45a-255b3a69b3f7",
+   "id": "532c5114-d0bc-45e8-9534-f242b12abdc4",
    "title": {
-    "en": "Kiri no Mori Hotel"
+    "en": "The Ring of the Nibelung"
    },
    "contentRating": "safe",
-   "score": 0.17496355,
+   "score": 0.18070157,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
+   "id": "31b1ffbe-37c6-41e1-b084-161d65aa5417",
    "title": {
-    "en": "Mr. Applicant"
+    "en": "The Girl Who Was Forced by Her Stepsister to Marry the Cursed Duke"
    },
    "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "295fae10-1905-4064-bde9-21faef922471",
-   "title": {
-    "en": "Amai Sasayaki"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d257e030-9dca-4024-b2c9-73f5dad54ced",
-   "title": {
-    "en": "Kechonpa"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2bd6ad1b-2712-4203-b93d-b146c2f47a9c",
-   "title": {
-    "en": "The Guide to a Perfect Love"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
+   "score": 0.18070157,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:41+00:00"
+ "updatedAt": "2023-12-10T18:13:42+00:00"
 }

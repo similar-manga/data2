@@ -11,7 +11,7 @@
     "en": "Dare mo Shiranai 29-nichi"
    },
    "contentRating": "safe",
-   "score": 0.30638322,
+   "score": 0.30650353,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Ai wo Hamu Akuma"
    },
    "contentRating": "safe",
-   "score": 0.30319926,
+   "score": 0.30267206,
    "languages": [
     "en",
     "pt-br",
@@ -30,9 +30,20 @@
    ]
   },
   {
-   "id": "c34a27d5-a670-4bb1-b805-3e78bc2f7f39",
+   "id": "52686925-ebf6-418e-85a2-3e65d49a73d9",
    "title": {
-    "en": "Sasagu Omoi wa Hana Meguri"
+    "en": "Shinigami no Aria"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c525947d-ee5a-4c97-ae6a-ef7555e8bcf1",
+   "title": {
+    "en": "Kira*Kira Crystal"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -49,28 +60,6 @@
    "score": 0.2857143,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "c525947d-ee5a-4c97-ae6a-ef7555e8bcf1",
-   "title": {
-    "en": "Kira*Kira Crystal"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52686925-ebf6-418e-85a2-3e65d49a73d9",
-   "title": {
-    "en": "Shinigami no Aria"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
     "en"
    ]
   },
@@ -100,12 +89,34 @@
    ]
   },
   {
+   "id": "c34a27d5-a670-4bb1-b805-3e78bc2f7f39",
+   "title": {
+    "en": "Sasagu Omoi wa Hana Meguri"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "057cbb2f-2c25-4f86-a4b0-66c8b0c90892",
    "title": {
     "en": "Heartland no Juunin"
    },
    "contentRating": "safe",
-   "score": 0.28530228,
+   "score": 0.2854424,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.2716433,
    "languages": [
     "en"
    ]
@@ -116,7 +127,7 @@
     "en": "Amber"
    },
    "contentRating": "safe",
-   "score": 0.2717501,
+   "score": 0.2704465,
    "languages": [
     "en",
     "id"
@@ -128,7 +139,7 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.26849565,
+   "score": 0.26951882,
    "languages": [
     "en"
    ]
@@ -139,23 +150,10 @@
     "en": "Chupa!"
    },
    "contentRating": "safe",
-   "score": 0.26620588,
+   "score": 0.26410922,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "a5da08f4-344e-4250-8cec-9f7c99dc59b8",
-   "title": {
-    "en": "Chekera!"
-   },
-   "contentRating": "safe",
-   "score": 0.2651891,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
    ]
   },
   {
@@ -164,36 +162,37 @@
     "en": "White Carol"
    },
    "contentRating": "safe",
-   "score": 0.2642583,
+   "score": 0.26403305,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
+   "id": "a5da08f4-344e-4250-8cec-9f7c99dc59b8",
    "title": {
-    "en": "Liar Kiss"
+    "en": "Chekera!"
    },
    "contentRating": "safe",
-   "score": 0.2633601,
+   "score": 0.26307252,
    "languages": [
+    "en",
     "pl",
-    "en"
+    "pt-br"
    ]
   },
   {
-   "id": "248df036-335e-4aa6-bbde-e973ea25d82a",
+   "id": "3375e927-2365-457a-81a8-dce99e90a583",
    "title": {
-    "en": "Mugen Himitsu"
+    "en": "Red Road"
    },
    "contentRating": "safe",
-   "score": 0.26139942,
+   "score": 0.2613393,
    "languages": [
-    "tr",
-    "pt-br",
-    "en"
+    "pl",
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:43+00:00"
+ "updatedAt": "2023-12-10T18:16:31+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "she is beautiful"
    },
    "contentRating": "suggestive",
-   "score": 0.19645664,
+   "score": 0.19391799,
    "languages": [
     "en",
     "es-la",
@@ -37,7 +37,7 @@
     "en": "RED Es"
    },
    "contentRating": "suggestive",
-   "score": 0.17753778,
+   "score": 0.17604199,
    "languages": [
     "en"
    ]
@@ -59,7 +59,7 @@
     "en": "Mysteries, Maidens, and Mysterious Disappearances"
    },
    "contentRating": "suggestive",
-   "score": 0.16655001,
+   "score": 0.16223201,
    "languages": [
     "id",
     "ru",
@@ -75,22 +75,11 @@
     "en": "37 Year Old Kindaichi Case Files"
    },
    "contentRating": "suggestive",
-   "score": 0.16096339,
+   "score": 0.16048793,
    "languages": [
     "en",
     "es",
     "id"
-   ]
-  },
-  {
-   "id": "eef9c561-26eb-4284-9052-2c87026e48bc",
-   "title": {
-    "en": "Seiheki Club"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15898573,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -105,12 +94,23 @@
    ]
   },
   {
+   "id": "eef9c561-26eb-4284-9052-2c87026e48bc",
+   "title": {
+    "en": "Seiheki Club"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15898573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5",
    "title": {
     "en": "Fuuto PI"
    },
    "contentRating": "suggestive",
-   "score": 0.13766249,
+   "score": 0.13669176,
    "languages": [
     "id",
     "en",
@@ -125,7 +125,7 @@
     "en": "Pen to Wappa to Jijitsu-kon"
    },
    "contentRating": "suggestive",
-   "score": 0.13106163,
+   "score": 0.13058686,
    "languages": [
     "vi",
     "en"
@@ -143,17 +143,6 @@
    ]
   },
   {
-   "id": "ed43b219-0016-4395-aca5-8aa5c5cda7cf",
-   "title": {
-    "en": "To Read The Criminal Tells"
-   },
-   "contentRating": "suggestive",
-   "score": 0.12314982,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "047a9427-dfcb-4bb6-a6d7-f762479f22ea",
    "title": {
     "en": "Kagerou Meikyuu"
@@ -163,6 +152,17 @@
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "ed43b219-0016-4395-aca5-8aa5c5cda7cf",
+   "title": {
+    "en": "To Read The Criminal Tells"
+   },
+   "contentRating": "suggestive",
+   "score": 0.12314982,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -184,7 +184,7 @@
     "en": "Raise wa Tanin ga Ii"
    },
    "contentRating": "suggestive",
-   "score": 0.11416031,
+   "score": 0.1144317,
    "languages": [
     "en",
     "pt-br",
@@ -205,5 +205,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:48+00:00"
+ "updatedAt": "2023-12-10T18:19:22+00:00"
 }

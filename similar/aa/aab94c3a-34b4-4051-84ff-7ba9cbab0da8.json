@@ -6,26 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
+   "title": {
+    "en": "One Piece Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.41939694,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "6936894a-d42c-4e7f-a363-c54ac91ac435",
    "title": {
     "en": "Toriko (2002) (Pre-serialization)"
    },
    "contentRating": "safe",
-   "score": 0.41086844,
+   "score": 0.4176701,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "487f1f04-75f3-4a2e-a4af-76e615e32585",
-   "title": {
-    "en": "One Piece Omake"
-   },
-   "contentRating": "safe",
-   "score": 0.34606445,
-   "languages": [
-    "tr",
-    "pt-br",
     "en"
    ]
   },
@@ -35,10 +34,23 @@
     "en": "Memories with Oda-san's Manga!"
    },
    "contentRating": "safe",
-   "score": 0.34249422,
+   "score": 0.38184485,
    "languages": [
     "en",
     "ca"
+   ]
+  },
+  {
+   "id": "487f1f04-75f3-4a2e-a4af-76e615e32585",
+   "title": {
+    "en": "One Piece Omake"
+   },
+   "contentRating": "safe",
+   "score": 0.3416199,
+   "languages": [
+    "tr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -47,7 +59,7 @@
     "en": "Chin Piece"
    },
    "contentRating": "safe",
-   "score": 0.33642313,
+   "score": 0.33471784,
    "languages": [
     "en"
    ]
@@ -58,7 +70,7 @@
     "en": "Dragon Ball X One Piece - Cross Epoch"
    },
    "contentRating": "safe",
-   "score": 0.3314512,
+   "score": 0.33077317,
    "languages": [
     "ca",
     "it",
@@ -74,7 +86,29 @@
     "en": "The Gods of Laughter: The Final Chapter"
    },
    "contentRating": "safe",
-   "score": 0.29544854,
+   "score": 0.30532396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
+   "title": {
+    "en": "One Piece in Love"
+   },
+   "contentRating": "safe",
+   "score": 0.26882952,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9af3f534-f031-40c5-acad-1578c8704010",
+   "title": {
+    "en": "Ganesha Power"
+   },
+   "contentRating": "safe",
+   "score": 0.23513697,
    "languages": [
     "en"
    ]
@@ -102,21 +136,6 @@
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
-   "title": {
-    "en": "Jump Super Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.21879648,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en",
-    "it",
-    "hu"
    ]
   },
   {
@@ -169,42 +188,20 @@
    ]
   },
   {
-   "id": "03a0487f-b933-40b8-8675-ab51b1984390",
+   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
    "title": {
-    "en": "Kobito no Tsumamigui"
+    "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.2086253,
+   "score": 0.21768086,
    "languages": [
-    "fr",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "47d1c9ff-f946-435d-a085-5bade1dade99",
-   "title": {
-    "en": "Papa's Cooking"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6c583845-8276-4f80-b90b-902959b5d240",
-   "title": {
-    "en": "Tokyo Depato Sensou Taikenki"
-   },
-   "contentRating": "safe",
-   "score": 0.2050712,
-   "languages": [
-    "en",
+    "pt-br",
     "pl",
-    "tr"
+    "en",
+    "it",
+    "hu"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:47+00:00"
+ "updatedAt": "2023-12-10T18:27:24+00:00"
 }

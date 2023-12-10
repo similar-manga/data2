@@ -11,7 +11,7 @@
     "en": "Shin Japan Archipelago of Toads and Frogs - The Mornings That Ring"
    },
    "contentRating": "suggestive",
-   "score": 0.2443826
+   "score": 0.24385445
   },
   {
    "id": "90f2f5ac-b914-42fb-9d8a-0171961f12f5",
@@ -19,7 +19,7 @@
     "en": "The Black and Red Staircase"
    },
    "contentRating": "suggestive",
-   "score": 0.19071245
+   "score": 0.18969387
   },
   {
    "id": "84278d95-6fad-46a8-8151-2a21a4a894b3",
@@ -27,7 +27,7 @@
     "en": "Diestrammena"
    },
    "contentRating": "suggestive",
-   "score": 0.1850235,
+   "score": 0.18334344,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Kyuuketsuki Maruguritto to Kuenai Gokinjo"
    },
    "contentRating": "suggestive",
-   "score": 0.17833292,
+   "score": 0.17819162,
    "languages": [
     "th",
     "en",
@@ -68,12 +68,27 @@
    ]
   },
   {
+   "id": "68262507-c506-4918-967a-25f1a8390dbb",
+   "title": {
+    "en": "White Beard and Boyne"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17705259,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "it",
+    "vi"
+   ]
+  },
+  {
    "id": "c4d5228c-846d-47c5-8659-0aa70d5c0d41",
    "title": {
     "en": "Kumamiko"
    },
    "contentRating": "suggestive",
-   "score": 0.16850543,
+   "score": 0.16781023,
    "languages": [
     "ru",
     "en"
@@ -91,23 +106,12 @@
    ]
   },
   {
-   "id": "97b19647-b6d4-4ff9-b5c2-d08373e74bcc",
-   "title": {
-    "en": "RIKON SHINAI OTOKO CASE２"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16456607,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
    "id": "abaeeeb7-c54c-420c-905c-7fff8bc26d74",
    "title": {
     "en": "Mikage Wants to Go Home!"
    },
    "contentRating": "suggestive",
-   "score": 0.16279565
+   "score": 0.16384749
   },
   {
    "id": "ff4669dd-c512-4d30-aeb7-6ceec5308a76",
@@ -115,7 +119,7 @@
     "en": "Saihate ni Madou"
    },
    "contentRating": "suggestive",
-   "score": 0.16239758,
+   "score": 0.16188051,
    "languages": [
     "pt-br",
     "vi",
@@ -127,25 +131,6 @@
     "ru",
     "ar"
    ]
-  },
-  {
-   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
-   "title": {
-    "en": "The Time Leaper Yuki"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16225393,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06519bb7-c4bf-4751-bd33-0ae4824dc79f",
-   "title": {
-    "en": "Aa Detective Agency"
-   },
-   "contentRating": "suggestive",
-   "score": 0.161589
   },
   {
    "id": "4052eaa7-966e-43c8-9b28-d7a79052ca1b",
@@ -163,6 +148,25 @@
     "ru",
     "es-la",
     "it"
+   ]
+  },
+  {
+   "id": "06519bb7-c4bf-4751-bd33-0ae4824dc79f",
+   "title": {
+    "en": "Aa Detective Agency"
+   },
+   "contentRating": "suggestive",
+   "score": 0.161589
+  },
+  {
+   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
+   "title": {
+    "en": "The Time Leaper Yuki"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16111258,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -189,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:56+00:00"
+ "updatedAt": "2023-12-10T18:30:22+00:00"
 }

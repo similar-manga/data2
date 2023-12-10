@@ -11,7 +11,7 @@
     "en": "Boys Love"
    },
    "contentRating": "safe",
-   "score": 0.35915962,
+   "score": 0.35953766,
    "languages": [
     "bg",
     "ru",
@@ -25,11 +25,23 @@
     "en": "Boku wa Sakana"
    },
    "contentRating": "safe",
-   "score": 0.28968418,
+   "score": 0.28937095,
    "languages": [
     "en",
     "pl",
     "tr"
+   ]
+  },
+  {
+   "id": "9c8bb5f0-55df-4f1e-853b-2ff8ff22d9c7",
+   "title": {
+    "en": "Gakuen Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.28218564,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -38,7 +50,7 @@
     "en": "2 Kaime no Hajimete no Koi"
    },
    "contentRating": "safe",
-   "score": 0.26796082,
+   "score": 0.26694185,
    "languages": [
     "pl",
     "pt-br"
@@ -50,7 +62,7 @@
     "en": "Tsuyogari"
    },
    "contentRating": "safe",
-   "score": 0.26508307,
+   "score": 0.2651044,
    "languages": [
     "en",
     "pl"
@@ -75,7 +87,7 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.25639382,
+   "score": 0.25574458,
    "languages": [
     "en",
     "pl",
@@ -89,7 +101,7 @@
     "en": "Suki Nan Desu"
    },
    "contentRating": "safe",
-   "score": 0.2488926,
+   "score": 0.24926971,
    "languages": [
     "pl"
    ]
@@ -100,22 +112,10 @@
     "en": "Non-chan to Watashi"
    },
    "contentRating": "safe",
-   "score": 0.24786058,
+   "score": 0.24771537,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "0059301b-9aa5-4dbe-98a0-a1cdde873332",
-   "title": {
-    "en": "Kuro Tenkousei"
-   },
-   "contentRating": "safe",
-   "score": 0.24404715,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -124,22 +124,10 @@
     "en": "7 Nenme no Dou Kyonin"
    },
    "contentRating": "safe",
-   "score": 0.24125898,
+   "score": 0.24086106,
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "cb7b76f7-fdab-40b8-ad23-e50665db47ae",
-   "title": {
-    "en": "Cinderella Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.2403367,
-   "languages": [
-    "pl",
-    "pt-br"
    ]
   },
   {
@@ -157,6 +145,18 @@
    ]
   },
   {
+   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
+   "title": {
+    "en": "Happy End no Uragawa"
+   },
+   "contentRating": "safe",
+   "score": 0.2403367,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "e92e99e0-d3ff-4169-9395-350deb9dc1b1",
    "title": {
     "en": "Koi Gokoro Gekokujou"
@@ -170,15 +170,15 @@
    ]
   },
   {
-   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
+   "id": "cb7b76f7-fdab-40b8-ad23-e50665db47ae",
    "title": {
-    "en": "Happy End no Uragawa"
+    "en": "Cinderella Syndrome"
    },
    "contentRating": "safe",
    "score": 0.2403367,
    "languages": [
     "pl",
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -187,7 +187,7 @@
     "en": "Body Yori Soul"
    },
    "contentRating": "safe",
-   "score": 0.2402159,
+   "score": 0.23989792,
    "languages": [
     "pl",
     "tr",
@@ -195,17 +195,16 @@
    ]
   },
   {
-   "id": "feb05ef8-e842-44a8-ba05-5a9bea9e69f7",
+   "id": "ad6b4a60-ce15-451a-b745-392481d99233",
    "title": {
-    "en": "Flying Bunny"
+    "en": "Usotsuki wa Koi wo Suru"
    },
    "contentRating": "safe",
-   "score": 0.23568973,
+   "score": 0.23576501,
    "languages": [
-    "en",
     "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:42+00:00"
+ "updatedAt": "2023-12-10T18:32:18+00:00"
 }

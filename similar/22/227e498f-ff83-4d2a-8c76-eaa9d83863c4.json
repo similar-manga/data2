@@ -6,15 +6,72 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
+   "title": {
+    "en": "Bocchi the Rock!"
+   },
+   "contentRating": "safe",
+   "score": 0.3844066,
+   "languages": [
+    "es-la",
+    "en",
+    "it",
+    "pt-br",
+    "id",
+    "fr",
+    "vi",
+    "eo",
+    "pl",
+    "ru",
+    "uk",
+    "tr"
+   ]
+  },
+  {
    "id": "ad665f6c-f932-44c1-aad4-8307441a9756",
    "title": {
     "en": "Kiniro Mosaic"
    },
    "contentRating": "safe",
-   "score": 0.3156097,
+   "score": 0.31660295,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "aa9d695d-c884-446d-a4d8-cc9ef78f826c",
+   "title": {
+    "en": "Hayashitate Matsuri♪"
+   },
+   "contentRating": "safe",
+   "score": 0.30775878,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "42a1a7bc-36c5-4fda-aae1-886d8fbc2e2c",
+   "title": {
+    "en": "Guitar Shop Rosie"
+   },
+   "contentRating": "safe",
+   "score": 0.30376187,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e1d41734-f7c9-4887-a82c-d095c436dfd1",
+   "title": {
+    "en": "Stella no Mahou"
+   },
+   "contentRating": "safe",
+   "score": 0.2863089,
+   "languages": [
+    "en",
+    "ru",
+    "es-la"
    ]
   },
   {
@@ -23,7 +80,7 @@
     "en": "Yuyushiki"
    },
    "contentRating": "safe",
-   "score": 0.28539208,
+   "score": 0.28612143,
    "languages": [
     "en"
    ]
@@ -34,11 +91,49 @@
     "en": "Hidamari Sketch"
    },
    "contentRating": "safe",
-   "score": 0.2838903,
+   "score": 0.28178906,
    "languages": [
     "en",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "06338c21-dfd9-4ab0-a0c6-1d973821b992",
+   "title": {
+    "en": "Bad Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.27484754,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "484ce390-f74b-46d1-9840-3b285d2b372e",
+   "title": {
+    "en": "Koisuru Asteroid"
+   },
+   "contentRating": "safe",
+   "score": 0.27396297,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
+   "title": {
+    "en": "Hyper Ultra Girlish"
+   },
+   "contentRating": "safe",
+   "score": 0.27285275,
+   "languages": [
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -47,7 +142,7 @@
     "en": "Gu-Pan!"
    },
    "contentRating": "safe",
-   "score": 0.2687115,
+   "score": 0.26808807,
    "languages": [
     "en",
     "ru"
@@ -59,7 +154,7 @@
     "en": "A-Channel"
    },
    "contentRating": "safe",
-   "score": 0.268312,
+   "score": 0.26763362,
    "languages": [
     "en",
     "es",
@@ -91,21 +186,9 @@
    ]
   },
   {
-   "id": "876f9862-64ba-493e-88d4-65ccb433525c",
+   "id": "4af7c4b1-262c-426f-b86a-051c99b9f503",
    "title": {
-    "en": "Little Busters! EX The 4koma"
-   },
-   "contentRating": "safe",
-   "score": 0.25922194,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "3ca034f1-8523-4d73-94a8-d9891325ff56",
-   "title": {
-    "en": "Morita-san wa Mukuchi"
+    "en": "Mio's Diary"
    },
    "contentRating": "safe",
    "score": 0.25922194,
@@ -114,93 +197,16 @@
    ]
   },
   {
-   "id": "0025e816-e52c-47da-88fe-fdd5a5170299",
+   "id": "be4148c6-0f0f-4415-95a9-a1ad56f6e0a7",
    "title": {
-    "en": "Komori-san wa Kotowarenai!"
+    "en": "Poison Girl"
    },
    "contentRating": "safe",
-   "score": 0.24592,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "4c64f461-8562-44f3-a13f-aea2a0382d63",
-   "title": {
-    "en": "Null Meta"
-   },
-   "contentRating": "safe",
-   "score": 0.24101424,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4665f772-9fea-4137-966c-b0ceb0162666",
-   "title": {
-    "en": "Yo-Jo Life!"
-   },
-   "contentRating": "safe",
-   "score": 0.23903514,
-   "languages": [
-    "id",
-    "en",
-    "ru",
-    "pl",
-    "vi"
-   ]
-  },
-  {
-   "id": "d58abdf4-9268-41d8-9920-f8fe8858a173",
-   "title": {
-    "en": "Shiori Experience: My Plain Self and an Odd Old Man"
-   },
-   "contentRating": "safe",
-   "score": 0.23620376,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "es-la",
-    "de"
-   ]
-  },
-  {
-   "id": "cc077710-3f9a-4acb-8319-a80f80ca4c45",
-   "title": {
-    "en": "Poyopoyo Kansatsu Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "651e0896-dc17-4399-a2f3-f85eb93402d4",
-   "title": {
-    "en": "Dekoboko Girlish"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "6d16184b-c951-4370-968f-ef6befc29377",
-   "title": {
-    "en": "Magi-Cu 4-koma - Steins;Gate - Sekaisen Hendouritsu x. 091015%"
-   },
-   "contentRating": "safe",
-   "score": 0.23384665,
+   "score": 0.25922194,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:05+00:00"
+ "updatedAt": "2023-12-10T18:12:00+00:00"
 }

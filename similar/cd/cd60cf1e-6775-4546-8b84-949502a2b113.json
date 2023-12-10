@@ -11,7 +11,7 @@
     "en": "Diasporaiser"
    },
    "contentRating": "safe",
-   "score": 0.25071844,
+   "score": 0.25210953,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Kawaisugi Crisis"
    },
    "contentRating": "safe",
-   "score": 0.23115112,
+   "score": 0.23285095,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.22297125,
+   "score": 0.22566342,
    "languages": [
     "en"
    ]
@@ -44,21 +44,10 @@
     "en": "Youkai Apaato no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.21896754,
+   "score": 0.21821144,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
-   "title": {
-    "en": "Sensou Gekijou"
-   },
-   "contentRating": "safe",
-   "score": 0.2122413,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -67,7 +56,7 @@
     "en": "Space Battleship Silver Seven"
    },
    "contentRating": "safe",
-   "score": 0.21026358,
+   "score": 0.21239832,
    "languages": [
     "fr",
     "es-la",
@@ -81,9 +70,35 @@
     "en": "Ultra Marriage Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.20763345,
+   "score": 0.21040611,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "afc36581-3f00-4888-83de-fcffbd88b3ae",
+   "title": {
+    "en": "Sensou Gekijou"
+   },
+   "contentRating": "safe",
+   "score": 0.20968233,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f8f3f045-01b5-4216-8f41-d947d8b448b0",
+   "title": {
+    "en": "Youchien Wars"
+   },
+   "contentRating": "safe",
+   "score": 0.2081791,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "th",
+    "pt-br"
    ]
   },
   {
@@ -122,6 +137,22 @@
    ]
   },
   {
+   "id": "3843d4d1-ddde-430e-91d7-7f9a322b1116",
+   "title": {
+    "en": "Tokyo Aliens"
+   },
+   "contentRating": "safe",
+   "score": 0.20580743,
+   "languages": [
+    "es-la",
+    "fa",
+    "en",
+    "fr",
+    "ru",
+    "vi"
+   ]
+  },
+  {
    "id": "2eb953ff-80a1-4cec-83d2-e7910dcbb96a",
    "title": {
     "en": "Undead Unluck - Digital Colored Comics"
@@ -140,34 +171,18 @@
     "en": "Ichigeki Sacchu!! Hoihoi-san"
    },
    "contentRating": "safe",
-   "score": 0.20328163,
+   "score": 0.20291716,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3843d4d1-ddde-430e-91d7-7f9a322b1116",
+   "id": "9842df90-53a8-4a26-8696-2b47a6a52cf9",
    "title": {
-    "en": "Tokyo Aliens"
+    "en": "Mononoke no Ran"
    },
    "contentRating": "safe",
-   "score": 0.20285048,
-   "languages": [
-    "es-la",
-    "fa",
-    "en",
-    "fr",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.198591,
+   "score": 0.19957273,
    "languages": [
     "en"
    ]
@@ -193,18 +208,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "1fa988a1-eea6-486a-a280-7b17cb9a5aea",
-   "title": {
-    "en": "ELEMENTS: Users Of The Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.1953491,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:14+00:00"
+ "updatedAt": "2023-12-10T18:31:07+00:00"
 }

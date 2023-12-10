@@ -6,40 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1765cc34-f1bd-4984-baa0-b3810d2744a9",
-   "title": {
-    "en": "Like a Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.29739818,
-   "languages": [
-    "hu",
-    "ro",
-    "tr"
-   ]
-  },
-  {
    "id": "0d59a446-10ab-4444-80be-4e4a391c123b",
    "title": {
     "en": "Truth"
    },
    "contentRating": "safe",
-   "score": 0.2805756,
+   "score": 0.28910363,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "88dc8dd3-50f4-4c08-bc0d-cbd7c1a12331",
-   "title": {
-    "en": "Hitori Yogari"
-   },
-   "contentRating": "safe",
-   "score": 0.27807122,
-   "languages": [
-    "it",
-    "en",
-    "id"
    ]
   },
   {
@@ -48,7 +22,7 @@
     "en": "The Sound of Something New"
    },
    "contentRating": "safe",
-   "score": 0.26961356,
+   "score": 0.2831643,
    "languages": [
     "id",
     "fr",
@@ -59,14 +33,16 @@
    ]
   },
   {
-   "id": "66bb13da-2f34-4646-8671-e67c75c7164e",
+   "id": "88dc8dd3-50f4-4c08-bc0d-cbd7c1a12331",
    "title": {
-    "en": "Rocks and Murderous Intents"
+    "en": "Hitori Yogari"
    },
    "contentRating": "safe",
-   "score": 0.26285315,
+   "score": 0.28138602,
    "languages": [
-    "en"
+    "it",
+    "en",
+    "id"
    ]
   },
   {
@@ -75,9 +51,20 @@
     "en": "Splash"
    },
    "contentRating": "safe",
-   "score": 0.26266146,
+   "score": 0.27026588,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "66bb13da-2f34-4646-8671-e67c75c7164e",
+   "title": {
+    "en": "Rocks and Murderous Intents"
+   },
+   "contentRating": "safe",
+   "score": 0.26452985,
+   "languages": [
     "en"
    ]
   },
@@ -87,7 +74,69 @@
     "en": "Afterschool Girl"
    },
    "contentRating": "safe",
-   "score": 0.26132277,
+   "score": 0.26261753,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "09cfda10-4366-4bd7-a22c-26a294ea66bc",
+   "title": {
+    "en": "Tsuki to Drop"
+   },
+   "contentRating": "safe",
+   "score": 0.2614705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "45517abc-50d9-4410-b164-a7d04490bf18",
+   "title": {
+    "en": "The Art Teacher and the High School Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.25609493,
+   "languages": [
+    "en",
+    "ru",
+    "fr",
+    "it"
+   ]
+  },
+  {
+   "id": "2b6feefd-bd93-4ebb-b188-71e94d0791dd",
+   "title": {
+    "en": "Little Birds of Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
+   "languages": [
+    "en",
+    "hu",
+    "tr"
+   ]
+  },
+  {
+   "id": "aa552710-3e2c-4ceb-a7f3-9ee2a6074a90",
+   "title": {
+    "en": "The Club's Princess Was Made the Flashy Senpai's Plaything"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
+   "languages": [
+    "en",
+    "tr",
+    "it"
+   ]
+  },
+  {
+   "id": "ae7d9e05-2c90-4cd5-a572-7160e85ee51e",
+   "title": {
+    "en": "Sneaking into School Yuri"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
    "languages": [
     "en"
    ]
@@ -106,99 +155,54 @@
    ]
   },
   {
-   "id": "aa552710-3e2c-4ceb-a7f3-9ee2a6074a90",
+   "id": "d3dbcb20-f635-49df-9329-10f78da6d6d7",
    "title": {
-    "en": "The Club's Princess Was Made the Flashy Senpai's Plaything"
+    "en": "Hoshi and Yozora"
    },
    "contentRating": "safe",
-   "score": 0.2538638,
+   "score": 0.25126484,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "52e3f3a6-bba8-4b15-b300-db701f1016e5",
+   "title": {
+    "en": "Lunch"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "0ccd4344-0e1d-44bf-9cde-4405eb58e22e",
+   "title": {
+    "en": "Sumire-chan's Tears"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
    "languages": [
     "en",
-    "tr",
     "it"
    ]
   },
   {
-   "id": "2b6feefd-bd93-4ebb-b188-71e94d0791dd",
+   "id": "010c4077-14d2-48b8-ae1c-c30851b74ff7",
    "title": {
-    "en": "Little Birds of Paradise"
-   },
-   "contentRating": "safe",
-   "score": 0.2538638,
-   "languages": [
-    "en",
-    "hu",
-    "tr"
-   ]
-  },
-  {
-   "id": "ae7d9e05-2c90-4cd5-a572-7160e85ee51e",
-   "title": {
-    "en": "Sneaking into School Yuri"
-   },
-   "contentRating": "safe",
-   "score": 0.2538638,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09cfda10-4366-4bd7-a22c-26a294ea66bc",
-   "title": {
-    "en": "Tsuki to Drop"
-   },
-   "contentRating": "safe",
-   "score": 0.25220627,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2762436-6cff-4902-a0a7-97d402200132",
-   "title": {
-    "en": "Kimi no Waratta Kao ga Mitai"
+    "en": "A Story About Kissing"
    },
    "contentRating": "safe",
    "score": 0.25126484,
    "languages": [
-    "ko",
-    "en"
-   ]
-  },
-  {
-   "id": "50a8ea91-e60f-4238-b54a-b3f312f3638a",
-   "title": {
-    "en": "Foreign Communication"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "9e9116b2-8b04-420e-a360-07cc5037e806",
-   "title": {
-    "en": "She's So Easy To Read."
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9be08b7a-84d1-4825-ad46-49e9feca88d7",
-   "title": {
-    "en": "Crackling Palms"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
+    "fa",
+    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:50+00:00"
+ "updatedAt": "2023-12-10T18:08:33+00:00"
 }

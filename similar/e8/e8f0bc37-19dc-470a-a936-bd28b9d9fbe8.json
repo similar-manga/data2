@@ -6,27 +6,22 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9a6cdfbe-b618-4f3a-84be-a385c8aa465e",
+   "title": {
+    "en": "Rontai Baby"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781
+  },
+  {
    "id": "36f0f00f-a28c-4b44-b543-fa747c59cfbc",
    "title": {
     "en": "Applause"
    },
    "contentRating": "safe",
-   "score": 0.25399405,
+   "score": 0.2538607,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "96478e7c-452b-4731-93d7-95a089535d17",
-   "title": {
-    "en": "Bound Love"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br"
    ]
   },
   {
@@ -47,12 +42,33 @@
    ]
   },
   {
+   "id": "388f0b81-5641-409a-88cd-916bcf1d988e",
+   "title": {
+    "en": "Kanojotachi"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583
+  },
+  {
+   "id": "96478e7c-452b-4731-93d7-95a089535d17",
+   "title": {
+    "en": "Bound Love"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "0ad41966-9c35-426e-a852-13dacc91408b",
    "title": {
     "en": "Natsu no Zangai"
    },
    "contentRating": "safe",
-   "score": 0.23469064,
+   "score": 0.23462552,
    "languages": [
     "en"
    ]
@@ -63,9 +79,29 @@
     "en": "Cute and Cruel"
    },
    "contentRating": "safe",
-   "score": 0.22918129,
+   "score": 0.22844443,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "dc826620-c3ab-4383-bf2b-abd9c747dedb",
+   "title": {
+    "en": "Spring Storm"
+   },
+   "contentRating": "safe",
+   "score": 0.22208263
+  },
+  {
+   "id": "caf7e86a-1fc7-4dcd-820a-17d267153654",
+   "title": {
+    "en": "A Witch’s Love at the End of the World"
+   },
+   "contentRating": "safe",
+   "score": 0.22022004,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -82,110 +118,59 @@
    ]
   },
   {
-   "id": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
+   "id": "173cfcda-764c-43bd-b4ba-4bb4cc2d481d",
    "title": {
-    "en": "Usotsuki na Kanojo"
+    "en": "The Saint of Atonement"
    },
    "contentRating": "safe",
-   "score": 0.202381,
+   "score": 0.21884273
+  },
+  {
+   "id": "8422198f-45cb-4d69-a547-33bab336878f",
+   "title": {
+    "en": "Kanjani ∞ - Watashitachi, Saikou de Saikyou no Heroine"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657
+  },
+  {
+   "id": "d3225064-9a42-4054-8aa1-9b5713d64824",
+   "title": {
+    "en": "Watashitachi wa Gakkou ni Iku no wo Yameta"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657
+  },
+  {
+   "id": "137db17d-2329-47f1-95b4-f8b39fb0b6c6",
+   "title": {
+    "en": "Hana to Ouji to Himitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657
+  },
+  {
+   "id": "8e4c5a81-ae62-4180-9fc0-f9a59469b469",
+   "title": {
+    "en": "Megane Danshi na Kare."
+   },
+   "contentRating": "safe",
+   "score": 0.20605087,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ddd5371a-6683-43ba-bf50-538d9a487c5a",
+   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
    "title": {
-    "en": "The things you like"
+    "en": "Kimi no Yokogao wo Miteita"
    },
    "contentRating": "safe",
-   "score": 0.20052,
+   "score": 0.20537788,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0664dc68-906a-49a3-ab7c-cc88b585039c",
-   "title": {
-    "en": "Sore Wa Shoujo no Zettai Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.1972717,
-   "languages": [
-    "es"
-   ]
-  },
-  {
-   "id": "633bfe48-a65d-431d-a50a-2bec729500bc",
-   "title": {
-    "en": "It's Your/The Yolk's Fault"
-   },
-   "contentRating": "safe",
-   "score": 0.1972717,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "7f02a978-5474-4516-a7b9-9a564e2c0e18",
-   "title": {
-    "en": "Momoiro Toiki."
-   },
-   "contentRating": "safe",
-   "score": 0.1972717,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "24f5e397-d3b1-4cb8-ae46-c46355e945d2",
-   "title": {
-    "en": "Kizuna Baton"
-   },
-   "contentRating": "safe",
-   "score": 0.1965772,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e4a69f69-2593-40c5-9c2f-a9a1c32559d8",
-   "title": {
-    "en": "Kira Kira no Natsu"
-   },
-   "contentRating": "safe",
-   "score": 0.1921976,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ec81b0f5-dc84-4521-92ab-4f6a3cdbff28",
-   "title": {
-    "en": "Imperial Academy"
-   },
-   "contentRating": "safe",
-   "score": 0.18336448
-  },
-  {
-   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
-   "title": {
-    "en": "Koi*Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.18235533,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f84aa39-2c0a-4f76-876c-4510e3a2fef1",
-   "title": {
-    "en": "Koisuru Melody Musume. - Love Song Trilogy"
-   },
-   "contentRating": "safe",
-   "score": 0.18177396
   }
  ],
- "updatedAt": "2023-12-10T01:09:23+00:00"
+ "updatedAt": "2023-12-10T18:33:59+00:00"
 }

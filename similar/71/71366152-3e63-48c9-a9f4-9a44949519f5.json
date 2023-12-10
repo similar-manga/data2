@@ -6,17 +6,29 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
+   "id": "8f883600-9655-4498-b87c-65328cada285",
    "title": {
-    "en": "V - The Visitors"
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "935cfed6-8756-4f8e-88f1-11aefba5f5c6",
+   "title": {
+    "en": "Bug Girl."
    },
    "contentRating": "safe",
    "score": 0.24743582
   },
   {
-   "id": "89512c3f-7467-42c0-9a64-24b051253d94",
+   "id": "fde2c3b9-eeb3-45ef-bd0b-3ebdce8ac756",
    "title": {
-    "en": "Hellhound"
+    "en": "Jirai Ninja Ruru no Shitsuren"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -35,9 +47,17 @@
    ]
   },
   {
-   "id": "935cfed6-8756-4f8e-88f1-11aefba5f5c6",
+   "id": "89512c3f-7467-42c0-9a64-24b051253d94",
    "title": {
-    "en": "Bug Girl."
+    "en": "Hellhound"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
+   "title": {
+    "en": "V - The Visitors"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -48,7 +68,7 @@
     "en": "Sono Hen No Akuta"
    },
    "contentRating": "safe",
-   "score": 0.23952618
+   "score": 0.23783197
   },
   {
    "id": "27d58bfa-6467-4204-972c-b23939f3d932",
@@ -64,7 +84,7 @@
     "en": "Tiger \u0026 Bunny 2 - No one is perfect."
    },
    "contentRating": "safe",
-   "score": 0.2311929,
+   "score": 0.23033567,
    "languages": [
     "en"
    ]
@@ -75,18 +95,10 @@
     "en": "Frame Saber"
    },
    "contentRating": "safe",
-   "score": 0.2170259,
+   "score": 0.21649863,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "1ddc2881-c633-45fa-bffe-980d6e4c9604",
-   "title": {
-    "en": "100-nen no Tateito"
-   },
-   "contentRating": "safe",
-   "score": 0.21603443
   },
   {
    "id": "e93ebfeb-a1e2-4937-ada0-34987df05199",
@@ -108,55 +120,37 @@
    ]
   },
   {
-   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
+   "id": "1ddc2881-c633-45fa-bffe-980d6e4c9604",
    "title": {
-    "en": "Crown Gear"
+    "en": "100-nen no Tateito"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "hu"
-   ]
+   "score": 0.21595441
   },
   {
-   "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
+   "id": "83e95476-f38c-4f53-96f5-d1ff8015cacd",
    "title": {
-    "en": "Bone Crusher"
+    "en": "Danzai Lock"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
+   "score": 0.21506244
   },
   {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "id": "1c3dd053-70bd-43f8-a092-e150d4faf3ca",
    "title": {
-    "en": "Kuusou Kagaku Edison"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "adb158ad-2bec-48a4-8e52-1b95d7b77b5b",
-   "title": {
-    "en": "Let's go! GIGA GREEN"
+    "en": "Sengoku Basara: Ranse Ranbu"
    },
    "contentRating": "safe",
    "score": 0.21428573
   },
   {
-   "id": "e287772e-0d2b-4d96-8040-98a8741b71eb",
+   "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
    "title": {
-    "en": "Space Combat Forward"
+    "en": "Tetsuzin"
    },
    "contentRating": "safe",
    "score": 0.21428573
   }
  ],
- "updatedAt": "2023-12-10T01:04:16+00:00"
+ "updatedAt": "2023-12-10T18:20:35+00:00"
 }

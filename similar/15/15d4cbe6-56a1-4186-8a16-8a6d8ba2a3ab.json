@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5508dfbb-c2be-46f6-98ac-3d3b58c25fb9",
-   "title": {
-    "en": "Sasaki-kun and Sakaki-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.1723967,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "daa01939-6575-480b-9150-304cea7ca3dc",
    "title": {
     "en": "Wagashi no Majo ni Yotte Tai-yaki no Ningyo ni Sarete Shimau Danshi Seito-tachi"
@@ -52,12 +40,23 @@
    ]
   },
   {
+   "id": "cbf083b0-1d1c-4fea-8337-fe18850511be",
+   "title": {
+    "en": "Bilocators"
+   },
+   "contentRating": "safe",
+   "score": 0.14076133,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f61e1d39-43c0-4e7d-86e9-063a9c2f2245",
    "title": {
     "en": "Grim Reaper, Kill Me Please!"
    },
    "contentRating": "safe",
-   "score": 0.14316341,
+   "score": 0.1400286,
    "languages": [
     "id",
     "vi",
@@ -66,12 +65,12 @@
    ]
   },
   {
-   "id": "cbf083b0-1d1c-4fea-8337-fe18850511be",
+   "id": "c58d2ef0-c5b6-4c4b-938c-15db1914d393",
    "title": {
-    "en": "Bilocators"
+    "en": "SIRIUS"
    },
    "contentRating": "safe",
-   "score": 0.14076133,
+   "score": 0.12224776,
    "languages": [
     "en"
    ]
@@ -88,15 +87,46 @@
    ]
   },
   {
-   "id": "8c4a2d5d-9705-465b-b8e9-6d57171fb17c",
+   "id": "adf63281-281d-448f-a618-dee15c47e7e5",
    "title": {
-    "en": "Kareshi Tokidoki Kanojo"
+    "en": "Sachiroku - Sachi no Mokushiroku"
    },
    "contentRating": "safe",
-   "score": 0.11198692,
+   "score": 0.11377603,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "35b9f818-926b-4f4a-aa2b-0ac068986a73",
+   "title": {
+    "en": "Kabushiki Gaisha Magi Lumiere"
+   },
+   "contentRating": "safe",
+   "score": 0.11377603,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "es-la",
+    "ru",
+    "th"
+   ]
+  },
+  {
+   "id": "a92bd70d-a716-4e48-90c6-137682742137",
+   "title": {
+    "en": "Ron Kamonohashi: Deranged Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.11377603,
    "languages": [
     "es-la",
     "pt-br",
+    "th",
+    "id",
+    "ru",
     "en"
    ]
   },
@@ -128,12 +158,24 @@
    ]
   },
   {
-   "id": "51643b03-ba9f-435d-a70a-d2e5b35e6cea",
+   "id": "d1e87ef6-2202-4a5f-91ce-200dcd166b62",
    "title": {
-    "en": "Sexy☆Socks"
+    "en": "My friend Mono"
    },
    "contentRating": "safe",
-   "score": 0.10176437,
+   "score": 0.10291429,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "64b3118d-2ffd-4ebc-a4ca-aa4238a92544",
+   "title": {
+    "en": "Uncanny Counter"
+   },
+   "contentRating": "safe",
+   "score": 0.10291429,
    "languages": [
     "en"
    ]
@@ -150,56 +192,16 @@
    ]
   },
   {
-   "id": "6b7c793b-1ec7-4434-ad66-e91b9df85f9d",
+   "id": "eeadb168-0efc-4f44-b5be-01649a77988f",
    "title": {
-    "en": "She's Convinced That I Can See 'Something'"
+    "en": "TransFormer"
    },
    "contentRating": "safe",
    "score": 0.10176437,
    "languages": [
-    "en",
-    "pl",
-    "id",
-    "uk"
-   ]
-  },
-  {
-   "id": "16cbc4ea-81cd-49f8-b25d-69ec014b195d",
-   "title": {
-    "en": "A Monster in Cat's Clothing"
-   },
-   "contentRating": "safe",
-   "score": 0.10176437,
-   "languages": [
-    "en",
-    "pl",
-    "zh"
-   ]
-  },
-  {
-   "id": "2f410254-75ea-42f4-826e-60921d498c3a",
-   "title": {
-    "en": "Dangan Tenshi Fan Club"
-   },
-   "contentRating": "safe",
-   "score": 0.10176437,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
-   "title": {
-    "en": "No.9"
-   },
-   "contentRating": "safe",
-   "score": 0.10176437,
-   "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:36+00:00"
+ "updatedAt": "2023-12-10T18:10:40+00:00"
 }

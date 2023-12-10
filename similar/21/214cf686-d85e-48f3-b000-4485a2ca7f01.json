@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4a359b87-30b3-478b-841f-47133d19fcf4",
+   "title": {
+    "en": "Masato-sama no Urei Aru Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.28876644,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "71d51fb0-fc54-400a-8819-c12ae212ed73",
+   "title": {
+    "en": "Happiness Rides a Broomstick"
+   },
+   "contentRating": "safe",
+   "score": 0.28417856,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "192cda11-baeb-4a78-8f4e-41bc2533380b",
    "title": {
     "en": "Narcissus Twins"
    },
    "contentRating": "safe",
-   "score": 0.2687264,
+   "score": 0.26786575,
    "languages": [
     "en"
    ]
@@ -22,7 +44,7 @@
     "en": "Noenoto"
    },
    "contentRating": "safe",
-   "score": 0.2571643,
+   "score": 0.25614193,
    "languages": [
     "en",
     "ru"
@@ -34,7 +56,7 @@
     "en": "Angel's Smile For Those Who Wish to Die"
    },
    "contentRating": "safe",
-   "score": 0.2523042,
+   "score": 0.25224847,
    "languages": [
     "ru",
     "en"
@@ -46,7 +68,7 @@
     "en": "Damatte Watashi no Iu Koto Kikinasai!"
    },
    "contentRating": "safe",
-   "score": 0.24859567,
+   "score": 0.24732831,
    "languages": [
     "en"
    ]
@@ -57,7 +79,7 @@
     "en": "Sensei nimo Tsugou ga Aru"
    },
    "contentRating": "safe",
-   "score": 0.2466312,
+   "score": 0.2466071,
    "languages": [
     "en",
     "tr"
@@ -69,7 +91,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.24590279,
+   "score": 0.2458927,
    "languages": [
     "en",
     "pl",
@@ -77,6 +99,17 @@
     "hu",
     "it",
     "fr"
+   ]
+  },
+  {
+   "id": "300b4f6c-d8ca-4a2f-9f6e-7280a31ce1af",
+   "title": {
+    "en": "A Yuri Story Between Goddesses"
+   },
+   "contentRating": "safe",
+   "score": 0.24380578,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -93,23 +126,12 @@
    ]
   },
   {
-   "id": "300b4f6c-d8ca-4a2f-9f6e-7280a31ce1af",
-   "title": {
-    "en": "A Yuri Story Between Goddesses"
-   },
-   "contentRating": "safe",
-   "score": 0.24380578,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
    "title": {
     "en": "Parasol Alliance"
    },
    "contentRating": "safe",
-   "score": 0.23896842,
+   "score": 0.23818243,
    "languages": [
     "es-la",
     "pt-br",
@@ -125,7 +147,7 @@
     "en": "Body Swapped Fraternal Twins"
    },
    "contentRating": "safe",
-   "score": 0.23638889,
+   "score": 0.23473972,
    "languages": [
     "en"
    ]
@@ -136,23 +158,21 @@
     "en": "Atatta Hitotachi"
    },
    "contentRating": "safe",
-   "score": 0.23499413,
+   "score": 0.23465051,
    "languages": [
     "tr",
     "en"
    ]
   },
   {
-   "id": "d39f3dcb-d623-4427-a677-1c1ac8d47d04",
+   "id": "ee88b81c-54cb-4e0a-8ea2-f8a94123720c",
    "title": {
-    "en": "Anata Dake Houseki"
+    "en": "Twin Connect"
    },
    "contentRating": "safe",
-   "score": 0.23260428,
+   "score": 0.23390087,
    "languages": [
-    "en",
-    "hu",
-    "tr"
+    "en"
    ]
   },
   {
@@ -169,38 +189,18 @@
    ]
   },
   {
-   "id": "741c2dc1-ccb5-4651-9940-ff5ced52be0c",
+   "id": "d39f3dcb-d623-4427-a677-1c1ac8d47d04",
    "title": {
-    "en": "Nidome no Koi"
+    "en": "Anata Dake Houseki"
    },
    "contentRating": "safe",
-   "score": 0.22724412,
+   "score": 0.23260428,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d9bac10b-786b-41e1-aadc-d0c60c6ebeed",
-   "title": {
-    "en": "Shishunki ni Rikai no Aru Ane no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.2265697,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca73d562-37ee-4fdb-b9b9-375203002b76",
-   "title": {
-    "en": "Kimi to Mitai Race ga Aru"
-   },
-   "contentRating": "safe",
-   "score": 0.22564523,
-   "languages": [
-    "en"
+    "en",
+    "hu",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:02+00:00"
+ "updatedAt": "2023-12-10T18:11:52+00:00"
 }

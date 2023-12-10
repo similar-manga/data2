@@ -11,7 +11,7 @@
     "en": "Mist no Kaiboroku"
    },
    "contentRating": "safe",
-   "score": 0.27523133,
+   "score": 0.27449495,
    "languages": [
     "en"
    ]
@@ -22,18 +22,7 @@
     "en": "Replay"
    },
    "contentRating": "safe",
-   "score": 0.25957888,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
-   "title": {
-    "en": "Kaeremasen."
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
+   "score": 0.25855038,
    "languages": [
     "en"
    ]
@@ -50,12 +39,47 @@
    ]
   },
   {
+   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
+   "title": {
+    "en": "Kaeremasen."
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "84241883-b687-4930-9bc5-219758a62cc5",
    "title": {
     "en": "Returning Home"
    },
    "contentRating": "safe",
-   "score": 0.2535118,
+   "score": 0.25232863,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3e36f4b5-37f3-4413-8aa4-67dd80275972",
+   "title": {
+    "en": "Zashisu"
+   },
+   "contentRating": "safe",
+   "score": 0.24494523,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
+   "title": {
+    "en": "Second Coming"
+   },
+   "contentRating": "safe",
+   "score": 0.24110086,
    "languages": [
     "en"
    ]
@@ -74,23 +98,12 @@
    ]
   },
   {
-   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
-   "title": {
-    "en": "Second Coming"
-   },
-   "contentRating": "safe",
-   "score": 0.24110086,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
    "title": {
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.23962203,
+   "score": 0.23858066,
    "languages": [
     "en",
     "ru"
@@ -102,35 +115,11 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.23898299,
+   "score": 0.23801307,
    "languages": [
     "it",
     "pl",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "5e9e50a7-39cc-447c-a5b3-a459bebd7f62",
-   "title": {
-    "en": "Human Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.23003875,
-   "languages": [
-    "en",
-    "pl",
-    "uk"
-   ]
-  },
-  {
-   "id": "7acb4956-4e89-4cc2-a897-71c5e43023bb",
-   "title": {
-    "en": "The Way Home"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
     "en"
    ]
   },
@@ -143,31 +132,6 @@
    "score": 0.22980437,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
-   "title": {
-    "en": "The Dress"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "pl",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "b156b9a0-4bcf-49ac-97e2-7232addd134b",
-   "title": {
-    "en": "Junji Ito: A Study From the Abyss of Horror"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -200,7 +164,42 @@
     "fr",
     "pt-br"
    ]
+  },
+  {
+   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
+   "title": {
+    "en": "The Dress"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "pl",
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "b94dc367-174b-48d1-81b5-c6faef2f77d2",
+   "title": {
+    "en": "Gui Mo"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "add0537c-c323-450f-beb0-7ca2590c99a9",
+   "title": {
+    "en": "Hanao"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:34+00:00"
+ "updatedAt": "2023-12-10T18:10:34+00:00"
 }

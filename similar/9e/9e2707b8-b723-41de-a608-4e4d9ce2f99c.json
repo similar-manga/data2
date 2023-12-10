@@ -11,7 +11,7 @@
     "en": "Shiganai Tensei Reijou wa Heion ni Kurashitai"
    },
    "contentRating": "safe",
-   "score": 0.26992646,
+   "score": 0.26973578,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tensei Oujo wa Kyou mo Hata wo Tatakioru"
    },
    "contentRating": "safe",
-   "score": 0.26233414,
+   "score": 0.2638313,
    "languages": [
     "en",
     "es-la",
@@ -31,29 +31,27 @@
    ]
   },
   {
+   "id": "2b5a3b43-effb-4f54-aa9b-d6093d523452",
+   "title": {
+    "ja": "Silent Witch Chinmoku no Majo no Kakushigoto"
+   },
+   "contentRating": "safe",
+   "score": 0.26340443,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "e8b6d229-8feb-4994-ac77-9dd3af12aa6a",
    "title": {
     "en": "The Reincarnated Young Lady Aims to Be an Adventurer!"
    },
    "contentRating": "safe",
-   "score": 0.26012206,
+   "score": 0.2579992,
    "languages": [
     "en",
     "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2ea8f5bc-31a7-472e-9c60-705d586f0c83",
-   "title": {
-    "en": "Tensei Akujo no Kuro Rekishi"
-   },
-   "contentRating": "safe",
-   "score": 0.25864187,
-   "languages": [
-    "vi",
-    "es-la",
-    "en",
     "pt-br"
    ]
   },
@@ -63,7 +61,7 @@
     "en": "Tenseisha wa Cheat o Nozomanai"
    },
    "contentRating": "safe",
-   "score": 0.25799048,
+   "score": 0.25781393,
    "languages": [
     "en",
     "pt-br",
@@ -72,14 +70,28 @@
    ]
   },
   {
-   "id": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
+   "id": "2ea8f5bc-31a7-472e-9c60-705d586f0c83",
    "title": {
-    "en": "The Reborn Witch Foretells Destruction"
+    "en": "Tensei Akujo no Kuro Rekishi"
    },
    "contentRating": "safe",
-   "score": 0.24517651,
+   "score": 0.2567764,
    "languages": [
-    "pt-br",
+    "vi",
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dc5e52b4-4fd3-4878-abd0-6ca45b4445e0",
+   "title": {
+    "en": "Usotsuki Majo to Haiiro no Niji"
+   },
+   "contentRating": "safe",
+   "score": 0.2442795,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -89,29 +101,7 @@
     "en": "I've Reincarnated as a Villainess, However I Became a Teacher who Magically Punishes My Students who have Fallen Behind!"
    },
    "contentRating": "safe",
-   "score": 0.24345686,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "30fe857c-cf42-4f50-9e5a-0904ac97c10c",
-   "title": {
-    "en": "Akuyaku Reijou wa Nightingale wo Mezasu"
-   },
-   "contentRating": "safe",
-   "score": 0.2432207,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4242693e-ea37-4fee-964d-524849f48692",
-   "title": {
-    "en": "I'm the Villainess, but the Capture Targets Are Too Abnormal"
-   },
-   "contentRating": "safe",
-   "score": 0.24306084,
+   "score": 0.24321735,
    "languages": [
     "en"
    ]
@@ -128,27 +118,60 @@
    ]
   },
   {
-   "id": "a72bfe60-1cb9-4f28-b790-3d4f4dbccf6d",
+   "id": "30fe857c-cf42-4f50-9e5a-0904ac97c10c",
    "title": {
-    "en": "100-nen Go ni Tensei Shita Watashi, Zense no Joukishi ni Kyuukonsaremashita"
+    "en": "Akuyaku Reijou wa Nightingale wo Mezasu"
    },
    "contentRating": "safe",
-   "score": 0.2405782,
+   "score": 0.24165088,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "19b15b6a-3ac2-43b0-8307-d7d25c4b3153",
+   "id": "a72bfe60-1cb9-4f28-b790-3d4f4dbccf6d",
    "title": {
-    "en": "Tenseisaki ga Shoujo Manga no Shirobuta Reijou datta reBoooot!"
+    "en": "100-nen Go ni Tensei Shita Watashi, Zense no Joukishi ni Kyuukonsaremashita"
    },
    "contentRating": "safe",
-   "score": 0.23797576,
+   "score": 0.24084072,
    "languages": [
-    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
+   "title": {
+    "en": "The Reborn Witch Foretells Destruction"
+   },
+   "contentRating": "safe",
+   "score": 0.23909225,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "4242693e-ea37-4fee-964d-524849f48692",
+   "title": {
+    "en": "I'm the Villainess, but the Capture Targets Are Too Abnormal"
+   },
+   "contentRating": "safe",
+   "score": 0.23859419,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c756e83-1032-4338-82ca-47ae9d7f999a",
+   "title": {
+    "en": "Doumo, Suki na hito ni Horegusuri wo Iraisareta Majo desu"
+   },
+   "contentRating": "safe",
+   "score": 0.23664124,
+   "languages": [
     "en",
-    "es-la"
+    "pt-br"
    ]
   },
   {
@@ -157,7 +180,7 @@
     "en": "The Lady Wants to Rest"
    },
    "contentRating": "safe",
-   "score": 0.23774152,
+   "score": 0.23588824,
    "languages": [
     "pt-br",
     "fr",
@@ -168,41 +191,17 @@
    ]
   },
   {
-   "id": "5befd020-cd2d-49c4-a2cc-a2d6d9c8212b",
-   "title": {
-    "en": "It Seems My Lady Is the Villainess with Only a Bad End, so I'm Thinking of Saving Her"
-   },
-   "contentRating": "safe",
-   "score": 0.23284023,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7c42109e-37bb-4312-b41b-3ce9a2420ef2",
    "title": {
     "en": "Akuyaku Reijou wa Ouji no Honsou (Dekiai) wo Shiranai"
    },
    "contentRating": "safe",
-   "score": 0.23246937,
+   "score": 0.23318078,
    "languages": [
     "zh-hk",
     "en"
    ]
-  },
-  {
-   "id": "896a437a-6f12-4728-a6c7-2961b1e300c6",
-   "title": {
-    "en": "Osake no Tame ni Otome Game Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.23135656,
-   "languages": [
-    "en",
-    "th",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:17+00:00"
+ "updatedAt": "2023-12-10T18:25:55+00:00"
 }

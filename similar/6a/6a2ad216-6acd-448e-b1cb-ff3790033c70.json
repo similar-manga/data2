@@ -6,23 +6,59 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5ac45000-7df6-4fb4-b482-3a6cbf942e07",
+   "title": {
+    "zh": "Absolute Resonance"
+   },
+   "contentRating": "safe",
+   "score": 0.40289855,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "28074f2b-f393-474a-8b13-ec196c4be75e",
+   "title": {
+    "en": "Haru no Arashi to Monster"
+   },
+   "contentRating": "safe",
+   "score": 0.3866212,
+   "languages": [
+    "ar",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "dd56399e-6594-4466-ac34-64908b360b98",
    "title": {
     "en": "The Tale of That Forest"
    },
    "contentRating": "safe",
-   "score": 0.36925068,
+   "score": 0.36371437,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
+   "id": "04987753-1655-4149-aa40-fa732c753a41",
    "title": {
-    "en": "Forest Breeding Farm"
+    "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.3587476,
+   "score": 0.35970637,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21f25940-b18a-4e00-b0a6-8e7ec633eaf4",
+   "title": {
+    "en": "Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.3564781,
    "languages": [
     "en"
    ]
@@ -33,30 +69,18 @@
     "en": "The Workaday Life of a Certain Manga Artist"
    },
    "contentRating": "safe",
-   "score": 0.35606262,
+   "score": 0.35478663,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
+   "id": "9437975f-d464-42e9-b010-cb7d96edd302",
    "title": {
-    "en": "Monster and Child"
+    "en": "Ark Angels"
    },
    "contentRating": "safe",
-   "score": 0.3555382,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "04987753-1655-4149-aa40-fa732c753a41",
-   "title": {
-    "en": "Godspeed 0.1"
-   },
-   "contentRating": "safe",
-   "score": 0.3545427,
+   "score": 0.3544193,
    "languages": [
     "en"
    ]
@@ -67,7 +91,66 @@
     "en": "Terror Infinity"
    },
    "contentRating": "safe",
-   "score": 0.35390726,
+   "score": 0.3526028,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
+   "title": {
+    "en": "Monster and Child"
+   },
+   "contentRating": "safe",
+   "score": 0.35212493,
+   "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "2842bdca-6f81-495f-aab2-51eaa3a566f0",
+   "title": {
+    "en": "The Lady Who Summons Monsters"
+   },
+   "contentRating": "safe",
+   "score": 0.35101968,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "38367fae-d72b-41e9-850e-f64163da583a",
+   "title": {
+    "en": "Ze Tian Ji"
+   },
+   "contentRating": "safe",
+   "score": 0.35006338,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "36cf8f19-ce18-486d-9d92-2055c89ec410",
+   "title": {
+    "en": "Tang Yin in Another Realm II: The Rise of Feng Nation"
+   },
+   "contentRating": "safe",
+   "score": 0.3498988,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "69d23d57-57e7-4b6d-9cf1-50cf6b65a696",
+   "title": {
+    "en": "Division 89"
+   },
+   "contentRating": "safe",
+   "score": 0.34931505,
    "languages": [
     "en"
    ]
@@ -78,51 +161,7 @@
     "en": "Toumeiningen no Shissou"
    },
    "contentRating": "safe",
-   "score": 0.35194105,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69d23d57-57e7-4b6d-9cf1-50cf6b65a696",
-   "title": {
-    "en": "Division 89"
-   },
-   "contentRating": "safe",
-   "score": 0.3501855,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fae012cb-2824-4809-a241-299809d50241",
-   "title": {
-    "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.34617803,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dcb9341c-ecb1-4086-aad8-c62ac7b9ab7e",
-   "title": {
-    "en": "Trace 2.0"
-   },
-   "contentRating": "safe",
-   "score": 0.34520528,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aaffda00-2402-4054-b110-68908231acae",
-   "title": {
-    "en": "Trick And Treat"
-   },
-   "contentRating": "safe",
-   "score": 0.34437817,
+   "score": 0.34780112,
    "languages": [
     "en"
    ]
@@ -133,7 +172,7 @@
     "en": "Giant Killing"
    },
    "contentRating": "safe",
-   "score": 0.34397012,
+   "score": 0.34665096,
    "languages": [
     "ar",
     "pt-br",
@@ -145,54 +184,16 @@
    ]
   },
   {
-   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
+   "id": "dcb9341c-ecb1-4086-aad8-c62ac7b9ab7e",
    "title": {
-    "en": "Monster Cage"
+    "en": "Trace 2.0"
    },
    "contentRating": "safe",
-   "score": 0.3438135,
-   "languages": [
-    "en",
-    "pl",
-    "bg"
-   ]
-  },
-  {
-   "id": "7336ba26-68f6-4b02-8b26-6199562f8033",
-   "title": {
-    "en": "Shounen Endless"
-   },
-   "contentRating": "safe",
-   "score": 0.34281653,
-   "languages": [
-    "pt-br",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "d95c867c-a099-4086-8ac0-884c69e2debf",
-   "title": {
-    "en": "Mori no Naka"
-   },
-   "contentRating": "safe",
-   "score": 0.3426247,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "a792382c-31c0-4d3a-bbee-cdc1b9efeadd",
-   "title": {
-    "en": "Hollow Souls"
-   },
-   "contentRating": "safe",
-   "score": 0.3387951,
+   "score": 0.34525862,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:58+00:00"
+ "updatedAt": "2023-12-10T18:19:48+00:00"
 }

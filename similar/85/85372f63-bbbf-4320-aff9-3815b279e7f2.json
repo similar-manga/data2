@@ -27,7 +27,7 @@
     "en": "Ushiro no Shindere-san"
    },
    "contentRating": "safe",
-   "score": 0.2798938,
+   "score": 0.27861503,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "Nyan Koi!"
    },
    "contentRating": "safe",
-   "score": 0.26530477,
+   "score": 0.26485682,
    "languages": [
     "pl",
     "en",
@@ -51,7 +51,18 @@
     "en": "Hana to Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.26244664,
+   "score": 0.26179245,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5e3c435f-bd7f-4534-a0da-8f15d41ece9e",
+   "title": {
+    "en": "Ultimate Special High School"
+   },
+   "contentRating": "safe",
+   "score": 0.2609853,
    "languages": [
     "en"
    ]
@@ -62,9 +73,21 @@
     "en": "Hadaka no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.26096606,
+   "score": 0.2603947,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
+   "title": {
+    "en": "Kimi to Warui Koto ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.25935075,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -73,20 +96,25 @@
     "en": "Sweety"
    },
    "contentRating": "safe",
-   "score": 0.25992137,
+   "score": 0.25923496,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5039789f-8fcb-4996-9788-e68147db360c",
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
    "title": {
-    "en": "AniKoi"
+    "en": "Aishiteru Game wo Owarasetai"
    },
    "contentRating": "safe",
-   "score": 0.25559783,
+   "score": 0.25820476,
    "languages": [
-    "en"
+    "fr",
+    "en",
+    "pt-br",
+    "uk",
+    "ru",
+    "tr"
    ]
   },
   {
@@ -102,12 +130,46 @@
    ]
   },
   {
+   "id": "29887775-6909-40ab-a826-f459c4fbc617",
+   "title": {
+    "en": "Kanojo wa Rokurokubi - Drafts"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c7d873e5-c7d7-4430-81a8-f745ac93f70b",
    "title": {
     "en": "Moeru Seito Kaichou"
    },
    "contentRating": "safe",
    "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dc05b910-8f11-469b-b2cf-ee22dd21e976",
+   "title": {
+    "en": "Himura-san Will Get It"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5039789f-8fcb-4996-9788-e68147db360c",
+   "title": {
+    "en": "AniKoi"
+   },
+   "contentRating": "safe",
+   "score": 0.2551294,
    "languages": [
     "en"
    ]
@@ -124,76 +186,17 @@
    ]
   },
   {
-   "id": "8c4a2d5d-9705-465b-b8e9-6d57171fb17c",
+   "id": "808dc5fa-0c7f-466e-b9e4-eea271f60a13",
    "title": {
-    "en": "Kareshi Tokidoki Kanojo"
+    "en": "Ponko Tsundere na Osananajimi"
    },
    "contentRating": "safe",
-   "score": 0.24641314,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "66297109-c52d-41fa-82f1-506092dc00b9",
-   "title": {
-    "en": "17-sai Kara Yarinaosu Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.23525813,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "81683b23-a3d6-4200-8fec-82b2ea1a89b1",
-   "title": {
-    "en": "Irekawarare Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ecdf624-7c90-4043-b222-52edbacd7ad7",
-   "title": {
-    "en": "Crescent Love"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "d2b034a9-a996-41b8-985e-763b9ce40369",
-   "title": {
-    "en": "Youkai no Oisha-san"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fd2bb15d-9b3c-42d2-9c28-c3660d22b63a",
-   "title": {
-    "en": "Chick Bomb"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
    "languages": [
     "en",
     "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:08+00:00"
+ "updatedAt": "2023-12-10T18:22:56+00:00"
 }

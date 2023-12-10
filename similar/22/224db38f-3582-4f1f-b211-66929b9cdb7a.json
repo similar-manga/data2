@@ -11,7 +11,7 @@
     "en": "Final Fantasy Type-0 Gaiden - The Ice Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.517147
+   "score": 0.5131853
   },
   {
    "id": "1ed6b683-9db2-42bb-b26e-6d0af38dd48c",
@@ -19,7 +19,7 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.25980648,
+   "score": 0.2595214,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Full Metal Panic! 0"
    },
    "contentRating": "safe",
-   "score": 0.25562918
+   "score": 0.25402895
   },
   {
    "id": "45599047-f246-49e9-be3a-48cc70ca675f",
@@ -38,9 +38,23 @@
     "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
    },
    "contentRating": "safe",
-   "score": 0.24810244,
+   "score": 0.24731828,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "55a25a79-59f6-45cd-b6c7-2e059b457a4f",
+   "title": {
+    "en": "Arifureta Shokugyou de Sekai Saikyou Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.24125725,
+   "languages": [
+    "id",
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -66,16 +80,38 @@
    ]
   },
   {
+   "id": "fdb14889-59ef-48dd-a883-7558f04c2060",
+   "title": {
+    "en": "Ryoumin 0-nin Start no Henkyou Ryoushusama"
+   },
+   "contentRating": "safe",
+   "score": 0.21548495,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
    "title": {
     "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.21689068,
+   "score": 0.21535933,
    "languages": [
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "f99af50e-1da9-463f-81ad-0c7858bed8b1",
+   "title": {
+    "en": "Dragon Quest IV - Princess Alena"
+   },
+   "contentRating": "safe",
+   "score": 0.21212354
   },
   {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
@@ -83,7 +119,7 @@
     "en": "Shiden Kai Hawk"
    },
    "contentRating": "safe",
-   "score": 0.20834222
+   "score": 0.20859088
   },
   {
    "id": "b009f62d-7a65-417d-990a-2e671b036069",
@@ -109,12 +145,20 @@
    ]
   },
   {
+   "id": "a0f07593-c72d-4a6a-888e-e455c25406f5",
+   "title": {
+    "en": "Dragon Quest VI - Land of Illusion"
+   },
+   "contentRating": "safe",
+   "score": 0.20519568
+  },
+  {
    "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
    "title": {
     "en": "Persona 5"
    },
    "contentRating": "safe",
-   "score": 0.20521785,
+   "score": 0.20484224,
    "languages": [
     "pt-br",
     "ru",
@@ -124,51 +168,13 @@
    ]
   },
   {
-   "id": "a0f07593-c72d-4a6a-888e-e455c25406f5",
-   "title": {
-    "en": "Dragon Quest VI - Land of Illusion"
-   },
-   "contentRating": "safe",
-   "score": 0.20519568
-  },
-  {
    "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
    "title": {
     "en": "Kickoff to Tomorrow"
    },
    "contentRating": "safe",
-   "score": 0.20212173
-  },
-  {
-   "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
-   "title": {
-    "en": "Kingdom Hearts III"
-   },
-   "contentRating": "safe",
-   "score": 0.20204756,
-   "languages": [
-    "it",
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
-   "title": {
-    "en": "Wild Eagle Boys Unit"
-   },
-   "contentRating": "safe",
-   "score": 0.19941355
-  },
-  {
-   "id": "d83798f7-a148-4ff9-a28c-7ad50424cd6f",
-   "title": {
-    "en": "Dragon Quest IV Gaiden - Labyrinth of Hell"
-   },
-   "contentRating": "safe",
-   "score": 0.19867985
+   "score": 0.20214084
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:11:59+00:00"
 }

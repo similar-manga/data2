@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "406d9733-804c-4c1a-8489-3bb7e04db516",
+   "title": {
+    "en": "Zelda II: The Adventure of Link (Ran Maru)"
+   },
+   "contentRating": "safe",
+   "score": 0.36785668,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "057f5360-c37c-4619-a6a4-cb5aea7f5f6a",
    "title": {
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.35095668,
+   "score": 0.35511193,
    "languages": [
     "en",
     "ca",
@@ -24,7 +35,7 @@
     "en": "The Legend of Zelda - Ocarina of Time 3D"
    },
    "contentRating": "safe",
-   "score": 0.32196444,
+   "score": 0.32169762,
    "languages": [
     "es-la",
     "de",
@@ -38,7 +49,7 @@
     "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.3039015,
+   "score": 0.30289596,
    "languages": [
     "ru",
     "en"
@@ -50,9 +61,23 @@
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.2790991,
+   "score": 0.28477377,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "26dd4eae-1bf7-4834-986b-40914cbd5816",
+   "title": {
+    "en": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Oukasuru"
+   },
+   "contentRating": "safe",
+   "score": 0.26091963,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "ru"
    ]
   },
   {
@@ -61,11 +86,35 @@
     "en": "Kamigoroshi no Maou, Saijyaku Shuzoku ni Tensei shi Shijyou Saikyou ni naru"
    },
    "contentRating": "safe",
-   "score": 0.26066983,
+   "score": 0.25988197,
    "languages": [
     "en",
     "fr",
     "tr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d587a5c2-842a-4fc5-a323-cddb5e41a2cb",
+   "title": {
+    "en": "Yuusha Party wo Tsuihousareta Hakuma Doushi, S Rank Boukensha ni Hirowareru ~Kono Hakuma Doushi ga Kikakugai Sugiru~"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "71fed45e-57a9-406e-8fd9-2225544ed78d",
+   "title": {
+    "en": "Summoned by Being Involved?! And I Was \"God\"??"
+   },
+   "contentRating": "safe",
+   "score": 0.2469859,
+   "languages": [
+    "en",
     "pt-br"
    ]
   },
@@ -75,20 +124,60 @@
     "en": "Joou Kishi Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.24613145,
+   "score": 0.24559166,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b00f5d5f-0801-4ad5-b343-1f229a7bd404",
+   "id": "ed60cc05-d3c9-4fc5-af1b-695889a51721",
    "title": {
-    "en": "Jukokuin no Tensei Boukensha"
+    "en": "Magician of the Abyss – I Was Imprisoned as a Traitor, but I Obtained an Immortal Body and the Strongest Power to Rise as an Adventurer"
    },
    "contentRating": "safe",
-   "score": 0.22908106,
+   "score": 0.24030536,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
+   "title": {
+    "en": "A Sword Master Childhood Friend Power Harassed Me Harshly, so I Broke off Our Relationship and Made a Fresh Start at the Frontier as a Magic Swordsman"
+   },
+   "contentRating": "safe",
+   "score": 0.23570228,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ae0447b2-cdf6-4f18-951b-576cca485a9e",
+   "title": {
+    "en": "\"Mou.... Hatarakitakunaindesu\" Boukensha Nanka Yamete yaru. Imasara, Taiguu wo Kaerukara to Onegai sarete mo Okotowaridesu. Boku wa Zettai Hatarakimasen."
+   },
+   "contentRating": "safe",
+   "score": 0.23460382,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "77252074-f9b5-478e-99e9-74c631c69d40",
+   "title": {
+    "en": "Isekai Mahou wa Okureteru!"
+   },
+   "contentRating": "safe",
+   "score": 0.2323222,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "es-la"
    ]
   },
   {
@@ -97,7 +186,7 @@
     "en": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru"
    },
    "contentRating": "safe",
-   "score": 0.22799242,
+   "score": 0.22920638,
    "languages": [
     "zh-hk",
     "pt-br",
@@ -106,103 +195,19 @@
    ]
   },
   {
-   "id": "1bd78711-2fe0-412d-8570-cea963c50a92",
+   "id": "9a26c98f-ce6d-4809-b69e-d8e23924ec1c",
    "title": {
-    "en": "Toki Majutsushi no Tsuyokute New Game ~Kako ni Modotte Sekai Saikyou kara Yarinaosu~"
+    "en": "Party kara Tsuihou Sareta Sono Chiyushi, Jitsu wa Saikyou Nitsuki"
    },
    "contentRating": "safe",
-   "score": 0.22689168,
+   "score": 0.22908106,
    "languages": [
     "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "27f88fe6-d89b-4f54-b5d8-383564863797",
-   "title": {
-    "en": "Doragagaga"
-   },
-   "contentRating": "safe",
-   "score": 0.22587697,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "90dfa8d2-6f74-4da1-a30b-10965d5f117d",
-   "title": {
-    "en": "Yumil no Majin"
-   },
-   "contentRating": "safe",
-   "score": 0.22587697,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a7b1cda-c622-4184-9a77-df6ac9fe50c8",
-   "title": {
-    "en": "Golden Sun - Dark Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.21730441,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1b0c80ec-c8db-43c1-840c-6d126c78d09f",
-   "title": {
-    "en": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
     "id",
     "pt-br",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "39c9c088-3a83-4e61-a129-35fe299bbe3c",
-   "title": {
-    "en": "Monogatari no Kuromaku ni Tensei Shite"
-   },
-   "contentRating": "safe",
-   "score": 0.21306008,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
-   "title": {
-    "en": "Pokémon Diamond and Pearl"
-   },
-   "contentRating": "safe",
-   "score": 0.20846525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4e70460-dffd-4f0d-b0e6-aee7b8e26a11",
-   "title": {
-    "en": "Game of Champions"
-   },
-   "contentRating": "safe",
-   "score": 0.20619653,
-   "languages": [
-    "en",
-    "id"
+    "th"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:52+00:00"
+ "updatedAt": "2023-12-10T18:14:12+00:00"
 }

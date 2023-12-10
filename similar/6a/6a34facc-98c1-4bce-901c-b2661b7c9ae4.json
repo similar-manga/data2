@@ -11,7 +11,7 @@
     "en": "How to Colonize Space"
    },
    "contentRating": "safe",
-   "score": 0.20421848,
+   "score": 0.20202243,
    "languages": [
     "pt-br",
     "en"
@@ -23,12 +23,23 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.1999738,
+   "score": 0.2013489,
    "languages": [
     "en",
     "pt-br",
     "ru",
     "it"
+   ]
+  },
+  {
+   "id": "e8748409-955b-4e6f-a288-e8f8fd2d22cd",
+   "title": {
+    "en": "Joshikousei Joreishi Akane!"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -43,14 +54,52 @@
    ]
   },
   {
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
+   "title": {
+    "en": "A-Presto"
+   },
+   "contentRating": "safe",
+   "score": 0.18880025,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "91fff6d2-c99e-453d-9d31-236670e03e01",
+   "title": {
+    "en": "Tantei Wa Mou Shindeiru - The Lost Memory"
+   },
+   "contentRating": "safe",
+   "score": 0.18492787,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
    "title": {
     "en": "Japanese History Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.17993692,
+   "score": 0.17667003,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "5fbf2f57-c4cf-478a-b80e-7816ebb1c4a1",
+   "title": {
+    "en": "Poppy's Wish"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "ru",
+    "fa",
+    "it"
    ]
   },
   {
@@ -74,22 +123,6 @@
    ]
   },
   {
-   "id": "5fbf2f57-c4cf-478a-b80e-7816ebb1c4a1",
-   "title": {
-    "en": "Poppy's Wish"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ru",
-    "fa",
-    "it"
-   ]
-  },
-  {
    "id": "146e72de-2e59-4f0e-8803-b5f8312cb8c4",
    "title": {
     "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
@@ -107,7 +140,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.1739738,
+   "score": 0.17384493,
    "languages": [
     "en",
     "pt-br",
@@ -118,13 +151,14 @@
    ]
   },
   {
-   "id": "112fc0f3-3661-4428-a2dc-3715d72b6ab6",
+   "id": "ab13d94c-1e51-4f2c-909c-258ecbdfd3a1",
    "title": {
-    "en": "Jamais Vu"
+    "en": "Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei"
    },
    "contentRating": "safe",
-   "score": 0.16495723,
+   "score": 0.16664141,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -132,55 +166,6 @@
    "id": "29cd02a4-a429-439e-8356-fbb2abcac4dd",
    "title": {
     "en": "Akatsuki no Ageha"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc0d97d7-1ad0-4922-8442-267f5d425505",
-   "title": {
-    "en": "EDEN"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1f8d193-8d13-4a63-9838-863e76e2d922",
-   "title": {
-    "en": "Graineliers"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "vi",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "99d52813-c48c-4692-a2cf-b5028c63d556",
-   "title": {
-    "en": "Jibun Kaigi: The Meeting of Myself"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "tr",
-    "en",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "224d2cf6-890d-4f81-92a0-84427b3eb353",
-   "title": {
-    "en": "Life Maker"
    },
    "contentRating": "safe",
    "score": 0.16495723,
@@ -200,16 +185,32 @@
    ]
   },
   {
-   "id": "fa2363d3-318a-45e7-a597-cea5543aaaf2",
+   "id": "99d52813-c48c-4692-a2cf-b5028c63d556",
    "title": {
-    "en": "THE iDOLM@STER Innocent Blue for Dearly Stars"
+    "en": "Jibun Kaigi: The Meeting of Myself"
    },
    "contentRating": "safe",
    "score": 0.16495723,
    "languages": [
-    "en"
+    "tr",
+    "en",
+    "pt-br",
+    "ar"
+   ]
+  },
+  {
+   "id": "c1f8d193-8d13-4a63-9838-863e76e2d922",
+   "title": {
+    "en": "Graineliers"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "vi",
+    "en",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:58+00:00"
+ "updatedAt": "2023-12-10T18:19:48+00:00"
 }

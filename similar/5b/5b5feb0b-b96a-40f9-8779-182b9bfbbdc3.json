@@ -11,7 +11,7 @@
     "en": "Chainsaw Man"
    },
    "contentRating": "suggestive",
-   "score": 0.1669455,
+   "score": 0.16611381,
    "languages": [
     "fa",
     "cs",
@@ -44,12 +44,23 @@
    ]
   },
   {
+   "id": "8693b518-67a7-490e-ae18-14ead6043140",
+   "title": {
+    "en": "Muv-Luv Alternative: Total Eclipse Rising"
+   },
+   "contentRating": "suggestive",
+   "score": 0.13651699,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "e896c48c-3150-437d-ba57-d8567eb399ae",
    "title": {
     "en": "Chainsaw Man - Digital Colored Comics"
    },
    "contentRating": "suggestive",
-   "score": 0.14126241,
+   "score": 0.13387598,
    "languages": [
     "it",
     "en",
@@ -64,17 +75,6 @@
     "ta",
     "id",
     "ar"
-   ]
-  },
-  {
-   "id": "8693b518-67a7-490e-ae18-14ead6043140",
-   "title": {
-    "en": "Muv-Luv Alternative: Total Eclipse Rising"
-   },
-   "contentRating": "suggestive",
-   "score": 0.13651699,
-   "languages": [
-    "es-la"
    ]
   },
   {
@@ -99,7 +99,7 @@
     "en": "Ore wa Seikan Kokka no Akutoku Ryoshu"
    },
    "contentRating": "suggestive",
-   "score": 0.12496211,
+   "score": 0.12296725,
    "languages": [
     "pt-br",
     "cs",
@@ -114,7 +114,7 @@
     "en": "Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku na no ni Cheat Dungeon o Tsukutteshimatta Kekka"
    },
    "contentRating": "suggestive",
-   "score": 0.11786773,
+   "score": 0.11446051,
    "languages": [
     "tr",
     "es-la",
@@ -122,26 +122,6 @@
     "en",
     "fr",
     "ru"
-   ]
-  },
-  {
-   "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
-   "title": {
-    "en": "Orient"
-   },
-   "contentRating": "suggestive",
-   "score": 0.09799451,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "ru",
-    "it",
-    "el",
-    "fr",
-    "es",
-    "ar",
-    "id"
    ]
   },
   {
@@ -158,6 +138,26 @@
     "pl",
     "es-la",
     "en",
+    "id"
+   ]
+  },
+  {
+   "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+   "title": {
+    "en": "Orient"
+   },
+   "contentRating": "suggestive",
+   "score": 0.09513035,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "ru",
+    "it",
+    "el",
+    "fr",
+    "es",
+    "ar",
     "id"
    ]
   },
@@ -260,7 +260,7 @@
     "en": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life"
    },
    "contentRating": "suggestive",
-   "score": 0.0727246,
+   "score": 0.071534604,
    "languages": [
     "es-la",
     "uk",
@@ -272,21 +272,6 @@
     "cs",
     "id",
     "tr"
-   ]
-  },
-  {
-   "id": "d3608ab4-fed0-4f65-856e-55466c931ebe",
-   "title": {
-    "en": "Maou no Musume, Sugoku Choroi."
-   },
-   "contentRating": "suggestive",
-   "score": 0.07158486,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "zh",
-    "id"
    ]
   },
   {
@@ -309,7 +294,22 @@
     "pl",
     "vi"
    ]
+  },
+  {
+   "id": "d3608ab4-fed0-4f65-856e-55466c931ebe",
+   "title": {
+    "en": "Maou no Musume, Sugoku Choroi."
+   },
+   "contentRating": "suggestive",
+   "score": 0.069495454,
+   "languages": [
+    "es-la",
+    "en",
+    "vi",
+    "zh",
+    "id"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:23+00:00"
+ "updatedAt": "2023-12-10T18:18:13+00:00"
 }

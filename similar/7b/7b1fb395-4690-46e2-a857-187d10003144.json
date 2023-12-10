@@ -11,7 +11,18 @@
     "en": "Cheap Thrill"
    },
    "contentRating": "safe",
-   "score": 0.46058422,
+   "score": 0.46389177,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
+   "title": {
+    "en": "Hello Again"
+   },
+   "contentRating": "safe",
+   "score": 0.46206602,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Tomo no Kowai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.40962136,
+   "score": 0.41197208,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Tonari no Oniisan"
    },
    "contentRating": "safe",
-   "score": 0.3901193,
+   "score": 0.3926076,
    "languages": [
     "pl",
     "en"
@@ -45,7 +56,7 @@
     "en": "Escape"
    },
    "contentRating": "safe",
-   "score": 0.32334897,
+   "score": 0.32358098,
    "languages": [
     "en",
     "pl"
@@ -57,22 +68,9 @@
     "en": "Run, Tomoe!"
    },
    "contentRating": "safe",
-   "score": 0.31378916,
+   "score": 0.3164763,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
-   "title": {
-    "en": "Tonight The Night"
-   },
-   "contentRating": "safe",
-   "score": 0.30681357,
-   "languages": [
-    "it",
-    "en",
-    "tr"
    ]
   },
   {
@@ -81,8 +79,21 @@
     "en": "Hitodenashi to Koi"
    },
    "contentRating": "safe",
-   "score": 0.2989718,
+   "score": 0.2989542,
    "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "41fb3170-135d-4d0f-847d-d967dbd2f40e",
+   "title": {
+    "en": "Tonight The Night"
+   },
+   "contentRating": "safe",
+   "score": 0.2964934,
+   "languages": [
+    "it",
     "en",
     "tr"
    ]
@@ -93,34 +104,12 @@
     "en": "Mimi ni Nokoru Kimi no Koe wa"
    },
    "contentRating": "safe",
-   "score": 0.29145774,
+   "score": 0.2909943,
    "languages": [
     "en",
     "pl",
     "tr",
     "fr"
-   ]
-  },
-  {
-   "id": "524b2a0f-4658-4a48-8d25-a69ae68b8c7c",
-   "title": {
-    "en": "Wakaresaseya no Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.29106787,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f5839f6-7f08-4283-8628-7973662a5908",
-   "title": {
-    "en": "Hakanakumo"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -135,9 +124,9 @@
    ]
   },
   {
-   "id": "f78b871c-fb60-4517-83cb-f150f0e8e763",
+   "id": "2eb733cb-bce8-40a9-a1f4-0e70cd7fef44",
    "title": {
-    "en": "Kago no Uchi"
+    "en": "Trap"
    },
    "contentRating": "safe",
    "score": 0.2835781,
@@ -146,9 +135,9 @@
    ]
   },
   {
-   "id": "2eb733cb-bce8-40a9-a1f4-0e70cd7fef44",
+   "id": "f78b871c-fb60-4517-83cb-f150f0e8e763",
    "title": {
-    "en": "Trap"
+    "en": "Kago no Uchi"
    },
    "contentRating": "safe",
    "score": 0.2835781,
@@ -169,27 +158,45 @@
    ]
   },
   {
-   "id": "3175f068-471c-41f8-ad5a-19a49c09aeda",
+   "id": "2f5839f6-7f08-4283-8628-7973662a5908",
    "title": {
-    "en": "One day, Suddenly, Like Love"
+    "en": "Hakanakumo"
    },
    "contentRating": "safe",
-   "score": 0.2658734,
+   "score": 0.2835781,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "26ef63fb-d977-4ac0-8d29-6bb05aa1402e",
+   "id": "524b2a0f-4658-4a48-8d25-a69ae68b8c7c",
    "title": {
-    "en": "Call My Name"
+    "en": "Wakaresaseya no Koi"
    },
    "contentRating": "safe",
-   "score": 0.26539683,
+   "score": 0.2835781,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
+   "title": {
+    "en": "Hirayasumi"
+   },
+   "contentRating": "safe",
+   "score": 0.28058943,
+   "languages": [
+    "ar",
+    "uk",
+    "en",
+    "tr",
+    "it",
+    "pt-br",
+    "vi",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:41+00:00"
+ "updatedAt": "2023-12-10T18:21:47+00:00"
 }

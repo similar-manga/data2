@@ -6,15 +6,99 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c3a5f823-c97d-434e-8300-5af3c7c30587",
+   "title": {
+    "en": "Cat Boss and Dog Subordinate"
+   },
+   "contentRating": "safe",
+   "score": 0.28812492
+  },
+  {
+   "id": "27b6f9de-34df-4210-813f-868f3f43f3f4",
+   "title": {
+    "en": "The Juniors Office Worker is not a Maid Hina-san"
+   },
+   "contentRating": "safe",
+   "score": 0.27939168,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "dc61b85d-4336-469e-8274-632899c9cac8",
+   "title": {
+    "en": "Danbooru Bachelor"
+   },
+   "contentRating": "safe",
+   "score": 0.2676584
+  },
+  {
+   "id": "1026e605-61f4-4b43-bfb4-06782c110236",
+   "title": {
+    "en": "Kyou mo Kitansu ka, Yoda-senpai."
+   },
+   "contentRating": "safe",
+   "score": 0.2645518,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28ed63af-61f8-43af-bac3-762030c72963",
+   "title": {
+    "en": "Uchi no Kaisha no Chiisai Senpai no Hanashi (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.2622191,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "tr",
+    "ru"
+   ]
+  },
+  {
+   "id": "6a109fbb-8777-41ef-b338-62e893907926",
+   "title": {
+    "en": "Omiai ni Sugoi Komyu Sawa ga Kita"
+   },
+   "contentRating": "safe",
+   "score": 0.2571195
+  },
+  {
    "id": "f730a35b-61f9-475f-b48d-7225cad36dd3",
    "title": {
     "en": "Tonari no Koitsu"
    },
    "contentRating": "safe",
-   "score": 0.2565187,
+   "score": 0.2547612,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "6fc6363d-8ff9-4c42-a4e9-085cc5507c66",
+   "title": {
+    "en": "Koi Suru Fukurahagi"
+   },
+   "contentRating": "safe",
+   "score": 0.2530945,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6b8ab373-d2cc-4f01-b37a-7f142ac2f16c",
+   "title": {
+    "en": "Gokumane!"
+   },
+   "contentRating": "safe",
+   "score": 0.25057414,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -23,23 +107,11 @@
     "en": "7 Days Diner"
    },
    "contentRating": "safe",
-   "score": 0.24327911,
+   "score": 0.24220586,
    "languages": [
     "en",
     "vi",
     "pt-br"
-   ]
-  },
-  {
-   "id": "6735a8c9-506b-413a-bf6c-cd33ede35bb0",
-   "title": {
-    "en": "Motokano to no Jirettai Gisou Kekkon"
-   },
-   "contentRating": "safe",
-   "score": 0.23815864,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -48,70 +120,27 @@
     "en": "Ryuujin-sama wa nakenai"
    },
    "contentRating": "safe",
-   "score": 0.23657848
+   "score": 0.23787367
   },
   {
-   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
+   "id": "6735a8c9-506b-413a-bf6c-cd33ede35bb0",
    "title": {
-    "en": "Toufuu (Fu)kenbunroku"
+    "en": "Motokano to no Jirettai Gisou Kekkon"
    },
    "contentRating": "safe",
-   "score": 0.23567893,
+   "score": 0.23657165,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e29d71a-cc93-4b76-8684-938d7909c951",
-   "title": {
-    "en": "My Girlfriend's a BL Author, What Do I Do?"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "pt-br",
     "en",
-    "vi",
     "id"
    ]
   },
   {
-   "id": "3f8fe4f2-2037-4fc1-9b3f-cf09d5b57fa6",
+   "id": "a493f2d6-6e38-484c-ade0-c81550e7457c",
    "title": {
-    "en": "Shounen A to Naisho no 7-ka kan."
+    "en": "Hero Kojin Sakuhinshuu"
    },
    "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "c8218590-c812-4f79-9cf5-294070502ed5",
-   "title": {
-    "en": "The Closest We've Ever Been"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "th",
-    "en",
-    "ru",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "65a0e567-5db6-46ac-bdef-b6ae3da3e9ff",
-   "title": {
-    "en": "Memories with Oda-san's Manga!"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en",
-    "ca"
-   ]
+   "score": 0.23567893
   },
   {
    "id": "f4a3f498-4751-4821-8560-df0dbcacb194",
@@ -128,86 +157,27 @@
    ]
   },
   {
-   "id": "9964ea10-6a8c-49d5-9a2b-12d72747e721",
+   "id": "4e4c3cf1-4ac7-4d8b-ab6e-b34f061b904c",
    "title": {
-    "en": "A Story About Spending a Little More Time With an Eccentric Girl"
+    "en": "Chicchai Onna Senpai ga Dandan Koi ni Ochiru Hanashi"
    },
    "contentRating": "safe",
    "score": 0.23567893,
    "languages": [
-    "fr",
-    "id",
-    "en",
-    "vi",
-    "ms",
-    "pt-br",
-    "ru",
-    "th",
-    "ro"
+    "es-la"
    ]
   },
   {
-   "id": "e9910ced-1503-401c-b1b0-23145dcc3c92",
+   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
    "title": {
-    "en": "Nice to Meet You! The Pure-Hearted Fellow"
+    "en": "Toufuu (Fu)kenbunroku"
    },
    "contentRating": "safe",
-   "score": 0.23284982,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
-   "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
-   },
-   "contentRating": "safe",
-   "score": 0.23253752,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
-   "title": {
-    "en": "My Girlfriend will be a Mangaka"
-   },
-   "contentRating": "safe",
-   "score": 0.23056214,
-   "languages": [
-    "id",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c1373f26-7af9-4633-ae7b-2596c1adee48",
-   "title": {
-    "en": "Shihatsu Densha"
-   },
-   "contentRating": "safe",
-   "score": 0.22901936,
-   "languages": [
-    "en",
-    "vi",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
-   "title": {
-    "en": "Love You"
-   },
-   "contentRating": "safe",
-   "score": 0.22780965,
+   "score": 0.23567893,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:07+00:00"
+ "updatedAt": "2023-12-10T18:28:19+00:00"
 }

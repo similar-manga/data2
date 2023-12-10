@@ -11,7 +11,7 @@
     "en": "Mail"
    },
    "contentRating": "safe",
-   "score": 0.21479903
+   "score": 0.2145767
   },
   {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
@@ -22,12 +22,94 @@
    "score": 0.19317813
   },
   {
-   "id": "143cf24d-b940-4819-b0c2-5c7e16339be2",
+   "id": "3c36f9f9-8f43-41d6-a1a1-eae1e1e24b27",
    "title": {
-    "en": "Phantom Thief of the 20th Century"
+    "en": "Meitantei Conan: Terebi Anime-ban"
    },
    "contentRating": "safe",
    "score": 0.19166298
+  },
+  {
+   "id": "624ed573-725f-43a1-a3a0-a468f0375bac",
+   "title": {
+    "en": "Bohemian - Kigeki Yakusha"
+   },
+   "contentRating": "safe",
+   "score": 0.19000162
+  },
+  {
+   "id": "ab13d94c-1e51-4f2c-909c-258ecbdfd3a1",
+   "title": {
+    "en": "Danganronpa - Kibou no Gakuen to Zetsubou no Koukousei"
+   },
+   "contentRating": "safe",
+   "score": 0.18097967,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "cf50c737-4683-4363-a847-0d142b0780b1",
+   "title": {
+    "en": "Kobayashi Shounen to Futei no Kaijin"
+   },
+   "contentRating": "safe",
+   "score": 0.1781195
+  },
+  {
+   "id": "43ee2a60-3cce-4409-a396-367bfaafcadf",
+   "title": {
+    "en": "Nazotoki Drill"
+   },
+   "contentRating": "safe",
+   "score": 0.17788288,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cc444f09-9f6d-4f54-bb3e-7a85e1399158",
+   "title": {
+    "en": "Bad Tripper"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Yuukoku no Moriarty"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "en",
+    "ru",
+    "id",
+    "pt-br",
+    "uk",
+    "ar",
+    "tr",
+    "vi",
+    "hu"
+   ]
+  },
+  {
+   "id": "9aa7047e-186f-4a26-b623-0197ea5cfa56",
+   "title": {
+    "en": "Reset Game"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "d9612742-4d61-4f25-9de7-8e341e66e18c",
@@ -45,28 +127,12 @@
    ]
   },
   {
-   "id": "9aa7047e-186f-4a26-b623-0197ea5cfa56",
+   "id": "e5db5933-3804-4cca-a511-726a481f9eed",
    "title": {
-    "en": "Reset Game"
+    "en": "Seijo ni Uso wa Tsuujinai"
    },
    "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc444f09-9f6d-4f54-bb3e-7a85e1399158",
-   "title": {
-    "en": "Bad Tripper"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "pt-br",
-    "id",
-    "en"
-   ]
+   "score": 0.16381072
   },
   {
    "id": "d82c15b0-2a81-45bf-add2-1a79905ac419",
@@ -88,97 +154,27 @@
    "score": 0.1616244
   },
   {
+   "id": "f4bbb127-3951-44af-8c31-2d7aecc5c086",
+   "title": {
+    "en": "Who Killed Sho Okudera?"
+   },
+   "contentRating": "safe",
+   "score": 0.158495
+  },
+  {
    "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
    "title": {
     "en": "His Killing Plan"
    },
    "contentRating": "safe",
-   "score": 0.16144171,
+   "score": 0.15671907,
    "languages": [
     "fr",
     "es",
     "en",
     "it"
    ]
-  },
-  {
-   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
-   "title": {
-    "en": "Nee Nee, Nene-san."
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "5773dde5-2098-41de-8332-1f68ff67d337",
-   "title": {
-    "en": "Mahou Tsukai no Deshi ga Warau Toki."
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f552da3a-977c-45a9-8d4b-421c68a0c738",
-   "title": {
-    "en": "Engan no Cyclops"
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "en",
-    "pt-br",
-    "ar",
-    "th",
-    "ru"
-   ]
-  },
-  {
-   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
-   "title": {
-    "en": "Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "eab0bc6a-ed24-40a0-bdda-b6949b78421c",
-   "title": {
-    "en": "Wild Eagle Boys Unit"
-   },
-   "contentRating": "safe",
-   "score": 0.15483332
-  },
-  {
-   "id": "1c94d62b-0c19-4501-9eaa-a63935b64b85",
-   "title": {
-    "en": "Star-Lit Survival"
-   },
-   "contentRating": "safe",
-   "score": 0.15459554,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b48d224-b21b-49af-a318-3f430a3c2c17",
-   "title": {
-    "en": "The Doberman Detective"
-   },
-   "contentRating": "safe",
-   "score": 0.15410283
   }
  ],
- "updatedAt": "2023-12-10T01:04:12+00:00"
+ "updatedAt": "2023-12-10T18:20:24+00:00"
 }

@@ -11,19 +11,7 @@
     "en": "Oni Yashiki"
    },
    "contentRating": "safe",
-   "score": 0.2829216,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "f953367c-4bba-4e12-a85b-abeecd8daff8",
-   "title": {
-    "en": "Kyoukai no Shinigami"
-   },
-   "contentRating": "safe",
-   "score": 0.2814342,
+   "score": 0.28479677,
    "languages": [
     "en",
     "pl"
@@ -35,7 +23,7 @@
     "en": "Once Again, I'd Like to Love You"
    },
    "contentRating": "safe",
-   "score": 0.2807822,
+   "score": 0.28346094,
    "languages": [
     "en"
    ]
@@ -46,9 +34,21 @@
     "en": "Hatsukoi Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.2782417,
+   "score": 0.27970937,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f953367c-4bba-4e12-a85b-abeecd8daff8",
+   "title": {
+    "en": "Kyoukai no Shinigami"
+   },
+   "contentRating": "safe",
+   "score": 0.273466,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -57,7 +57,7 @@
     "en": "Kira*Kira Crystal"
    },
    "contentRating": "safe",
-   "score": 0.2731832,
+   "score": 0.27217424,
    "languages": [
     "en"
    ]
@@ -68,11 +68,22 @@
     "en": "Ai wo Hamu Akuma"
    },
    "contentRating": "safe",
-   "score": 0.24934109,
+   "score": 0.24909057,
    "languages": [
     "en",
     "pt-br",
     "pl"
+   ]
+  },
+  {
+   "id": "b6331cb6-45a9-4a6c-bd4e-5a91234a1a5c",
+   "title": {
+    "en": "Single Father"
+   },
+   "contentRating": "safe",
+   "score": 0.24698268,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -81,15 +92,41 @@
     "en": "Yadokari Honpo"
    },
    "contentRating": "safe",
-   "score": 0.24353601,
+   "score": 0.2434166,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "52686925-ebf6-418e-85a2-3e65d49a73d9",
+   "id": "a56e8245-220a-4f62-a605-d10ead7bda31",
    "title": {
-    "en": "Shinigami no Aria"
+    "en": "Akuma to Tsuki no Yoru"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
+   "title": {
+    "en": "Akai Ito"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "pt-br",
+    "en",
+    "hu",
+    "pl"
+   ]
+  },
+  {
+   "id": "7423e5fc-4e1a-4163-9ee6-cf737e5bae1f",
+   "title": {
+    "en": "Dare mo Shiranai 29-nichi"
    },
    "contentRating": "safe",
    "score": 0.23847859,
@@ -109,43 +146,6 @@
    ]
   },
   {
-   "id": "7423e5fc-4e1a-4163-9ee6-cf737e5bae1f",
-   "title": {
-    "en": "Dare mo Shiranai 29-nichi"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4b039a48-c4c9-4e19-90ca-ced5779e5810",
-   "title": {
-    "en": "Akai Ito"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "pt-br",
-    "en",
-    "hu",
-    "pl"
-   ]
-  },
-  {
-   "id": "a56e8245-220a-4f62-a605-d10ead7bda31",
-   "title": {
-    "en": "Akuma to Tsuki no Yoru"
-   },
-   "contentRating": "safe",
-   "score": 0.23847859,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "4bf56d82-97f5-479c-a1c9-e4f1516606c1",
    "title": {
     "en": "Zen'yasai Patroller"
@@ -154,6 +154,28 @@
    "score": 0.23847859,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "52686925-ebf6-418e-85a2-3e65d49a73d9",
+   "title": {
+    "en": "Shinigami no Aria"
+   },
+   "contentRating": "safe",
+   "score": 0.23847859,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b0f064d9-7bbb-403c-9491-c55e6dbfbaa7",
+   "title": {
+    "en": "Maigo no Obakeyashiki"
+   },
+   "contentRating": "safe",
+   "score": 0.2332945,
+   "languages": [
     "en"
    ]
   },
@@ -169,30 +191,7 @@
     "en",
     "de"
    ]
-  },
-  {
-   "id": "b0f064d9-7bbb-403c-9491-c55e6dbfbaa7",
-   "title": {
-    "en": "Maigo no Obakeyashiki"
-   },
-   "contentRating": "safe",
-   "score": 0.2328212,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ccb03ab9-94e3-4a81-8bb8-44398edf51e0",
-   "title": {
-    "en": "Mokume Neko no Ie"
-   },
-   "contentRating": "safe",
-   "score": 0.23142436,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:00+00:00"
+ "updatedAt": "2023-12-10T18:19:54+00:00"
 }

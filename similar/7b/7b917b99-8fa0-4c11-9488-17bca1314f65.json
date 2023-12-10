@@ -11,7 +11,7 @@
     "en": "Fairy King"
    },
    "contentRating": "safe",
-   "score": 0.24811424,
+   "score": 0.24801071,
    "languages": [
     "en"
    ]
@@ -26,6 +26,18 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "8d1a4a97-26f5-4bcd-a41c-398048ba29d0",
+   "title": {
+    "en": "Accidental Warrior"
+   },
+   "contentRating": "safe",
+   "score": 0.18704657,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -45,7 +57,7 @@
     "en": "The Undying Engagement Seal of the Doomed Witch and the Young Master Who Leapt Through Time"
    },
    "contentRating": "safe",
-   "score": 0.17506036,
+   "score": 0.17416652,
    "languages": [
     "en"
    ]
@@ -56,7 +68,7 @@
     "en": "Hakkenden: Touhou Hakken Ibun"
    },
    "contentRating": "safe",
-   "score": 0.1744614,
+   "score": 0.17357877,
    "languages": [
     "en",
     "ru"
@@ -68,10 +80,21 @@
     "en": "Otogi Moyou Ayanishiki Futatabi"
    },
    "contentRating": "safe",
-   "score": 0.17319238,
+   "score": 0.17318383,
    "languages": [
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
+   "title": {
+    "en": "Dragon Knights - Search For the Legendary King"
+   },
+   "contentRating": "safe",
+   "score": 0.16771361,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -80,7 +103,7 @@
     "en": "Tiara"
    },
    "contentRating": "safe",
-   "score": 0.16920066,
+   "score": 0.16763996,
    "languages": [
     "en"
    ]
@@ -91,11 +114,37 @@
     "en": "Tactics"
    },
    "contentRating": "safe",
-   "score": 0.16674665,
+   "score": 0.16509604,
    "languages": [
     "en",
     "ru",
     "ko"
+   ]
+  },
+  {
+   "id": "a5f50025-d093-48c8-89da-35e23e289705",
+   "title": {
+    "en": "Charlotte and Her 5 Disciples"
+   },
+   "contentRating": "safe",
+   "score": 0.16446927,
+   "languages": [
+    "ru",
+    "en",
+    "tr",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "29c3cd32-10e9-485f-9f8a-a378294bbea8",
+   "title": {
+    "en": "Wife's Punishment"
+   },
+   "contentRating": "safe",
+   "score": 0.16310753,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -116,20 +165,21 @@
     "en": "Knights of Alfheim"
    },
    "contentRating": "safe",
-   "score": 0.16246256,
+   "score": 0.16095777,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "16ebf1f7-5d5d-4126-ab05-d670a719bb23",
+   "id": "5cc956f2-5033-41f9-8e0d-91e2cfe3a733",
    "title": {
-    "en": "Tale of Felluah"
+    "en": "Princess to the Rescue!"
    },
    "contentRating": "safe",
-   "score": 0.16002618,
+   "score": 0.15959705,
    "languages": [
+    "id",
     "en"
    ]
   },
@@ -143,54 +193,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "fdcb49b8-44de-487a-a1dd-526c5ac9a4f9",
-   "title": {
-    "en": "Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.15839939,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57e586e4-d60d-47e1-8f4a-683273b57e68",
-   "title": {
-    "en": "Cannon Fodder’s Record of Counterattacks"
-   },
-   "contentRating": "safe",
-   "score": 0.15680775,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ea25c92-c07f-43ff-a05a-3def92d15810",
-   "title": {
-    "en": "The Witch and Me"
-   },
-   "contentRating": "safe",
-   "score": 0.15615027,
-   "languages": [
-    "fr",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "d5fe36ba-42bc-4763-acfe-d690e6544a85",
-   "title": {
-    "en": "Anti Anti Angel"
-   },
-   "contentRating": "safe",
-   "score": 0.15344943,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:43+00:00"
+ "updatedAt": "2023-12-10T18:21:50+00:00"
 }

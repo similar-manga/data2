@@ -6,12 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
+   "title": {
+    "en": "Junk the Black Shadow"
+   },
+   "contentRating": "safe",
+   "score": 0.34200597,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "38109f1a-6b8c-49e9-a46f-8149967f4a3e",
+   "title": {
+    "en": "Boku no Hero Academia: Team Up Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.23901571,
+   "languages": [
+    "en",
+    "pt-br",
+    "ar",
+    "es-la"
+   ]
+  },
+  {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
    "title": {
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.2258935,
+   "score": 0.22480655,
    "languages": [
     "ru",
     "fr",
@@ -31,29 +59,7 @@
     "en": "Barom-1"
    },
    "contentRating": "safe",
-   "score": 0.22079352,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b8fbb0f-e422-4ff4-91bf-408a94c16f0d",
-   "title": {
-    "en": "A Story about a Giant Hero Having Trouble with Money"
-   },
-   "contentRating": "safe",
-   "score": 0.21608059,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
-   "title": {
-    "en": "Astral Walker"
-   },
-   "contentRating": "safe",
-   "score": 0.21293968,
+   "score": 0.21998385,
    "languages": [
     "en"
    ]
@@ -64,7 +70,29 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.21198857,
+   "score": 0.21387626,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b8fbb0f-e422-4ff4-91bf-408a94c16f0d",
+   "title": {
+    "en": "A Story about a Giant Hero Having Trouble with Money"
+   },
+   "contentRating": "safe",
+   "score": 0.21377794,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
+   "title": {
+    "en": "Astral Walker"
+   },
+   "contentRating": "safe",
+   "score": 0.21281867,
    "languages": [
     "en"
    ]
@@ -75,7 +103,7 @@
     "en": "Beyond the Sky"
    },
    "contentRating": "safe",
-   "score": 0.20582147,
+   "score": 0.20726909,
    "languages": [
     "pl",
     "en"
@@ -87,18 +115,18 @@
     "en": "ELEMENTS: Users Of The Universe"
    },
    "contentRating": "safe",
-   "score": 0.2038272,
+   "score": 0.20378743,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "819cf49e-8e5b-4f0c-89ac-ca47e4e0bdf9",
+   "id": "486e0188-49d3-4093-9422-6faf3508a4a1",
    "title": {
-    "en": "Super Dragon Ball Heroes: AVATARS!!"
+    "en": "Hammer Session! R"
    },
    "contentRating": "safe",
-   "score": 0.20311746,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
@@ -115,23 +143,45 @@
    ]
   },
   {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "id": "21666dcf-1257-497d-9647-e4bb63411137",
    "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+    "en": "Atrail - Nisekawiteki Nichijou to Senmitsu Element"
    },
    "contentRating": "safe",
-   "score": 0.19993791,
+   "score": 0.20203052,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8db880d5-a6ba-40fb-a56c-11f19c08d176",
+   "id": "819cf49e-8e5b-4f0c-89ac-ca47e4e0bdf9",
    "title": {
-    "en": "Yu-Gi-Oh! Rush Duel: Yarouze! Rush Duel!!"
+    "en": "Super Dragon Ball Heroes: AVATARS!!"
    },
    "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.20106672,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+   },
+   "contentRating": "safe",
+   "score": 0.19978467,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "933add13-9433-46d5-a444-7b177330fb4c",
+   "title": {
+    "en": "Kono Hi, \"Itsuwari no Yuusha\" de Aru Ore wa \"Shin no Yuusha\" de Aru Kare wo Party kara Tsuihou shita"
+   },
+   "contentRating": "safe",
+   "score": 0.19785692,
    "languages": [
     "en"
    ]
@@ -150,51 +200,7 @@
     "fr",
     "ru"
    ]
-  },
-  {
-   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
-   "title": {
-    "en": "Mobile Suit Gundam Aggressor"
-   },
-   "contentRating": "safe",
-   "score": 0.19072114,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8a538cb0-1928-4a09-89f5-4f5716cccaac",
-   "title": {
-    "en": "Fight! Osper"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69373c97-2794-4304-97b7-7477975f962f",
-   "title": {
-    "en": "Mobile Suit Gundam Valpurgis EVE"
-   },
-   "contentRating": "safe",
-   "score": 0.18920639,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "328442dc-4731-4189-9dce-2621bca1a3c6",
-   "title": {
-    "en": "Star Children (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.18694131,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:32+00:00"
+ "updatedAt": "2023-12-10T18:21:23+00:00"
 }

@@ -11,10 +11,32 @@
     "en": "Cesare Edizione Speciale - I Grandi Maestri"
    },
    "contentRating": "safe",
-   "score": 0.28836855,
+   "score": 0.28529748,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "6b6b6848-77c9-4b8b-aa54-5840741d2011",
+   "title": {
+    "en": "Yoshihime to Ushio"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0a3850c4-9337-4b6f-8102-3b2465210747",
+   "title": {
+    "en": "The Man of the Sun and the Woman of the Earth"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -30,34 +52,12 @@
    ]
   },
   {
-   "id": "0a3850c4-9337-4b6f-8102-3b2465210747",
-   "title": {
-    "en": "The Man of the Sun and the Woman of the Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6b6b6848-77c9-4b8b-aa54-5840741d2011",
-   "title": {
-    "en": "Yoshihime to Ushio"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "caf6c980-09e2-4cc2-8728-6c86fa83e662",
    "title": {
     "en": "The Locked-up Maiden"
    },
    "contentRating": "safe",
-   "score": 0.2569896,
+   "score": 0.25865793,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Mi to Shounen"
    },
    "contentRating": "safe",
-   "score": 0.24637774,
+   "score": 0.24624152,
    "languages": [
     "pl",
     "en"
@@ -80,7 +80,18 @@
     "en": "The Draw of Cambyses"
    },
    "contentRating": "safe",
-   "score": 0.24297424,
+   "score": 0.2423616,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "76abfbdc-ebc8-401d-892e-7696cc55e203",
+   "title": {
+    "en": "$100 Is Too Cheap"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
    "languages": [
     "en"
    ]
@@ -94,6 +105,32 @@
    "score": 0.23276806,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2235a7e0-43d0-4598-9d8a-345e62100925",
+   "title": {
+    "en": "Red Chrysanthamum"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "72b871bc-d4a7-4d4c-9e78-cf803e7ff6d2",
+   "title": {
+    "en": "Adele to Darius"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "tr",
+    "en",
+    "fr",
+    "pl"
    ]
   },
   {
@@ -120,51 +157,16 @@
    ]
   },
   {
-   "id": "5b11ea17-333e-4a70-9589-f986a2b4250f",
+   "id": "376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b",
    "title": {
-    "en": "Hymn of Love"
+    "en": "Ruru Chouchou"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
     "en",
     "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "e2658114-89ec-4d5d-af0b-db191fae38e3",
-   "title": {
-    "en": "Inochi no Katamari"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "18eb2a8c-a351-41c7-82e5-07d95eb19c16",
-   "title": {
-    "en": "The Black Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en",
-    "es",
     "pl"
-   ]
-  },
-  {
-   "id": "73fa6816-6cc0-465e-8c2a-a4e2096c8bb4",
-   "title": {
-    "en": "Tir na Nog"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -180,18 +182,18 @@
    ]
   },
   {
-   "id": "376231b2-e7f7-4d6b-b8e8-7ce2b933fd3b",
+   "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
    "title": {
-    "en": "Ruru Chouchou"
+    "en": "Soleil"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
     "en",
-    "pt-br",
+    "bg",
     "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:47+00:00"
+ "updatedAt": "2023-12-10T18:27:23+00:00"
 }

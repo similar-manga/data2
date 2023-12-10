@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ebe999db-0a6c-4176-8e8e-bf702ec68f43",
+   "title": {
+    "en": "Story of The White Phoenix"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
    "title": {
     "en": "Star Ocean - The Second Story"
    },
    "contentRating": "safe",
-   "score": 0.22074425,
+   "score": 0.22056788,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "04274aef-2b83-4425-89f9-a1028fe58138",
+   "title": {
+    "en": "Goldfisch"
+   },
+   "contentRating": "safe",
+   "score": 0.21125206,
    "languages": [
     "en"
    ]
@@ -22,7 +44,30 @@
     "en": "Western Shotgun"
    },
    "contentRating": "safe",
-   "score": 0.20880103,
+   "score": 0.20745742,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9f87f85d-06ea-49f8-b4e2-decb48315854",
+   "title": {
+    "en": "The Legend of the Ancient Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.20619653,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "06f2469a-b19c-4e22-9efd-9078fe2e58e8",
+   "title": {
+    "en": "A Book of Dreams"
+   },
+   "contentRating": "safe",
+   "score": 0.20619653,
    "languages": [
     "en"
    ]
@@ -39,12 +84,12 @@
    ]
   },
   {
-   "id": "06f2469a-b19c-4e22-9efd-9078fe2e58e8",
+   "id": "e819be3d-3733-4c5d-9c68-6c135d10aa4b",
    "title": {
-    "en": "A Book of Dreams"
+    "en": "Dream Gold"
    },
    "contentRating": "safe",
-   "score": 0.20619653,
+   "score": 0.20448068,
    "languages": [
     "en"
    ]
@@ -62,9 +107,56 @@
    ]
   },
   {
-   "id": "69feb00e-c706-4367-adf3-b79e07286373",
+   "id": "f203c952-84f0-466d-aa68-9287448ec34b",
    "title": {
-    "en": "Yi Bi Zhi Ming"
+    "en": "Saint Seiya - Episode G Requiem"
+   },
+   "contentRating": "safe",
+   "score": 0.2034514,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0b1db5e1-205b-44e7-9471-0951d721fe2e",
+   "title": {
+    "en": "Renai Jikai Ningyou Koisuru Sartain"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ead9c7ca-d4f6-4f48-8683-1126a0cff4af",
+   "title": {
+    "en": "The Great Sage"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
+   "title": {
+    "en": "Saint Seiya - Another Story of Hades: Dark Wing"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
+   "title": {
+    "en": "13 Game"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -85,40 +177,6 @@
    ]
   },
   {
-   "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
-   "title": {
-    "en": "13 Game"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b1db5e1-205b-44e7-9471-0951d721fe2e",
-   "title": {
-    "en": "Renai Jikai Ningyou Koisuru Sartain"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
-   "title": {
-    "en": "Radiata Stories - The Song of Ridley"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9b0e8b9a-98d5-413d-9fb8-b2bf3731a35c",
    "title": {
     "en": "Super God System"
@@ -128,67 +186,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "cc8dc41e-1f7e-4e52-9a8f-2e24de5e5c9c",
-   "title": {
-    "en": "RWBY: Ice Queendom"
-   },
-   "contentRating": "safe",
-   "score": 0.2018146,
-   "languages": [
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "39f8ef92-d5d7-44e1-8a4e-85db6fc9c42d",
-   "title": {
-    "en": "GATE 7"
-   },
-   "contentRating": "safe",
-   "score": 0.1984259,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "907cfc9d-2700-435b-af9e-6d5f3364971a",
-   "title": {
-    "en": "Hunter Academy’s Strongest Battle God"
-   },
-   "contentRating": "safe",
-   "score": 0.19795348,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "af07500f-099c-4c9f-88be-bd6051ecf307",
-   "title": {
-    "en": "Deep Blue Ice"
-   },
-   "contentRating": "safe",
-   "score": 0.19662564,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
-   "title": {
-    "en": "Cafe Occult"
-   },
-   "contentRating": "safe",
-   "score": 0.19653772,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:44+00:00"
+ "updatedAt": "2023-12-10T18:24:28+00:00"
 }

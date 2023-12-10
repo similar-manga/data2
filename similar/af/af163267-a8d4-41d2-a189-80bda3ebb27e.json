@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "62384b63-0367-4339-8374-2c1ca3d3ccf3",
+   "title": {
+    "en": "Enemy Inside"
+   },
+   "contentRating": "safe",
+   "score": 0.24199942
+  },
+  {
    "id": "5abf36e6-b42e-4840-896b-b4b22b17fcd7",
    "title": {
     "en": "Kamisama, Kisama wo Koroshitai."
@@ -22,7 +30,7 @@
     "en": "Bokura no Natsu ga Saketeiku"
    },
    "contentRating": "safe",
-   "score": 0.21886377
+   "score": 0.21863359
   },
   {
    "id": "8725a979-ee7d-47df-a288-a2db107c1734",
@@ -31,6 +39,14 @@
    },
    "contentRating": "safe",
    "score": 0.21134098
+  },
+  {
+   "id": "41b0daf3-9871-4269-9404-e5f8d5ec5c0a",
+   "title": {
+    "en": "Middle School Girl, Quitting the Serial Killer Life"
+   },
+   "contentRating": "safe",
+   "score": 0.21029244
   },
   {
    "id": "e031796b-8719-41e8-b164-ac53e162dc71",
@@ -57,7 +73,7 @@
     "en": "Pumpkin Night Gaiden - Naoko"
    },
    "contentRating": "safe",
-   "score": 0.19627944,
+   "score": 0.1959664,
    "languages": [
     "es",
     "it"
@@ -83,6 +99,17 @@
    "score": 0.19257675
   },
   {
+   "id": "9b7c8f21-1842-4b13-adf5-22ae6a1367be",
+   "title": {
+    "en": "The Story of Our Corpse Hunt"
+   },
+   "contentRating": "safe",
+   "score": 0.19200616,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1bba399c-8bd0-4858-ad41-36bf0507c5b6",
    "title": {
     "en": "Iro Moyo Chotto Karimame"
@@ -99,10 +126,18 @@
     "en": "Ex vs. Stalker"
    },
    "contentRating": "safe",
-   "score": 0.18900588,
+   "score": 0.18745738,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1412e01a-de2d-4883-bbe3-8bc5f85bfd86",
+   "title": {
+    "en": "Outlast: The Murkoff Account"
+   },
+   "contentRating": "safe",
+   "score": 0.18745391
   },
   {
    "id": "00446151-d199-45d6-8671-821db1151e6c",
@@ -129,56 +164,7 @@
    },
    "contentRating": "safe",
    "score": 0.18505469
-  },
-  {
-   "id": "3f5bc21d-6575-4fe0-b03f-50c8bb88dc6b",
-   "title": {
-    "en": "Unhinged"
-   },
-   "contentRating": "safe",
-   "score": 0.18142875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6afeec8e-6d75-4feb-9fe6-0255bcaf0c1a",
-   "title": {
-    "en": "The Bethlem of Magicians"
-   },
-   "contentRating": "safe",
-   "score": 0.1786959,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ce89adb4-63fc-422e-9fbc-40ea6af4525c",
-   "title": {
-    "en": "Terra Formars"
-   },
-   "contentRating": "safe",
-   "score": 0.1786959,
-   "languages": [
-    "en",
-    "pt-br",
-    "es",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "34ccdf7c-6324-4cd9-a649-9c4c437ee4c4",
-   "title": {
-    "en": "The Tree Of Sacrifice"
-   },
-   "contentRating": "safe",
-   "score": 0.17829141,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:59+00:00"
+ "updatedAt": "2023-12-10T18:27:56+00:00"
 }

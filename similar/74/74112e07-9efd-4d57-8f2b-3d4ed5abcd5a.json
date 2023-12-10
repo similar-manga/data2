@@ -11,19 +11,20 @@
     "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.20381936,
+   "score": 0.20367914,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8c4e2d74-6e6c-438b-ad29-5ddaf8dbbfc2",
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
    "title": {
-    "en": "D"
+    "en": "Unmapped Place"
    },
    "contentRating": "safe",
-   "score": 0.20046799,
+   "score": 0.19940813,
    "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -33,7 +34,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.19953905,
+   "score": 0.19858092,
    "languages": [
     "pt-br",
     "ru",
@@ -48,23 +49,11 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.19879282,
+   "score": 0.19809444,
    "languages": [
     "es-la",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
-   "title": {
-    "en": "What's Michael?"
-   },
-   "contentRating": "safe",
-   "score": 0.19505292,
-   "languages": [
-    "de",
-    "en"
    ]
   },
   {
@@ -73,7 +62,18 @@
     "en": "The Darwin Incident"
    },
    "contentRating": "safe",
-   "score": 0.19449829,
+   "score": 0.19418888,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c4e2d74-6e6c-438b-ad29-5ddaf8dbbfc2",
+   "title": {
+    "en": "D"
+   },
+   "contentRating": "safe",
+   "score": 0.19367957,
    "languages": [
     "en"
    ]
@@ -84,8 +84,20 @@
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.19382048,
+   "score": 0.19346431,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
+   "title": {
+    "en": "What's Michael?"
+   },
+   "contentRating": "safe",
+   "score": 0.19324146,
+   "languages": [
+    "de",
     "en"
    ]
   },
@@ -95,7 +107,7 @@
     "en": "【Oshi no Ko】"
    },
    "contentRating": "safe",
-   "score": 0.18757933,
+   "score": 0.18696351,
    "languages": [
     "fr",
     "en",
@@ -112,6 +124,18 @@
     "tr",
     "th",
     "cs"
+   ]
+  },
+  {
+   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
+   "title": {
+    "en": "Rewrite: SIDE-R"
+   },
+   "contentRating": "safe",
+   "score": 0.18570136,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -134,9 +158,22 @@
     "en": "Chloroform"
    },
    "contentRating": "safe",
-   "score": 0.18469238,
+   "score": 0.18394794,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
+   "title": {
+    "en": "Heaven's Design Team"
+   },
+   "contentRating": "safe",
+   "score": 0.18045056,
+   "languages": [
+    "pt-br",
+    "ru",
     "en"
    ]
   },
@@ -146,21 +183,9 @@
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.18002315,
+   "score": 0.17962912,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "836d92b9-1a55-4293-b72b-c9803f068aad",
-   "title": {
-    "en": "[Oshi no Ko] (Fan Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.17925988,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -178,42 +203,17 @@
    ]
   },
   {
-   "id": "6f77013d-334c-43cc-a979-629ed4ebbd6d",
+   "id": "836d92b9-1a55-4293-b72b-c9803f068aad",
    "title": {
-    "en": "The Long Cavern"
+    "en": "[Oshi no Ko] (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.1776904,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.17676516,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
-   "title": {
-    "en": "Fushigi na Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.17521636,
+   "score": 0.178648,
    "languages": [
     "en",
-    "pl"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:23+00:00"
+ "updatedAt": "2023-12-10T18:20:56+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.35910377,
+   "score": 0.35605323,
    "languages": [
     "en",
     "bg"
@@ -23,7 +23,7 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.33473617,
+   "score": 0.3328939,
    "languages": [
     "en",
     "tl"
@@ -35,7 +35,7 @@
     "en": "Otome no Honki"
    },
    "contentRating": "safe",
-   "score": 0.3294945
+   "score": 0.32842246
   },
   {
    "id": "2e571be3-c634-48ab-a813-4834d08f2806",
@@ -43,7 +43,7 @@
     "en": "Yumeiro Button"
    },
    "contentRating": "safe",
-   "score": 0.3290942,
+   "score": 0.3283811,
    "languages": [
     "it"
    ]
@@ -54,18 +54,10 @@
     "en": "Okitsune no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.32710886,
+   "score": 0.3264694,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "12afb5b7-13b9-4685-8246-a3ffecea2571",
-   "title": {
-    "en": "Atashi o mamotte mi nasai!!"
-   },
-   "contentRating": "safe",
-   "score": 0.3260676
   },
   {
    "id": "d318167b-ca14-409f-a43b-6d5ad70ef5c3",
@@ -73,7 +65,15 @@
     "en": "Toaru Neko Kaburi Shounen no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.32470387
+   "score": 0.32591176
+  },
+  {
+   "id": "12afb5b7-13b9-4685-8246-a3ffecea2571",
+   "title": {
+    "en": "Atashi o mamotte mi nasai!!"
+   },
+   "contentRating": "safe",
+   "score": 0.32374752
   },
   {
    "id": "3486eb06-10ba-4634-9b92-9baada32cd6d",
@@ -81,7 +81,7 @@
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.324089,
+   "score": 0.32352653,
    "languages": [
     "pt-br",
     "en"
@@ -93,20 +93,9 @@
     "en": "Mikami-kun no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.31907418,
+   "score": 0.320698,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "6ee4053d-530c-4439-9c48-ec7ae11dc16e",
-   "title": {
-    "en": "Hajimari no Aizu"
-   },
-   "contentRating": "safe",
-   "score": 0.3171623,
-   "languages": [
     "en"
    ]
   },
@@ -116,47 +105,19 @@
     "en": "Danshi Ryou de Himitsu no Kiss"
    },
    "contentRating": "safe",
-   "score": 0.3149908,
+   "score": 0.31822687,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "79c183ce-f6d1-4a80-b424-61f7064925eb",
+   "id": "6ee4053d-530c-4439-9c48-ec7ae11dc16e",
    "title": {
-    "en": "1-2000 Byou no Koi ~Watashi Dake ni Misete~"
+    "en": "Hajimari no Aizu"
    },
    "contentRating": "safe",
-   "score": 0.3132791
-  },
-  {
-   "id": "5da4159b-6b86-4a3d-abfb-b67371876bfe",
-   "title": {
-    "en": "Once Again, I'd Like to Love You"
-   },
-   "contentRating": "safe",
-   "score": 0.3131987,
+   "score": 0.31676567,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bc844c35-d981-450d-bd42-309bd7914f39",
-   "title": {
-    "en": "Kimi Dake no Shirushi."
-   },
-   "contentRating": "safe",
-   "score": 0.31316897
-  },
-  {
-   "id": "bb42db8c-ca7f-4c55-8872-3a67746f0ed0",
-   "title": {
-    "en": "Anata no Uta ni Koishite Mita"
-   },
-   "contentRating": "safe",
-   "score": 0.3125706,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -166,11 +127,50 @@
     "en": "Ubawareta Kiss"
    },
    "contentRating": "safe",
-   "score": 0.3117617,
+   "score": 0.31401402,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "79c183ce-f6d1-4a80-b424-61f7064925eb",
+   "title": {
+    "en": "1-2000 Byou no Koi ~Watashi Dake ni Misete~"
+   },
+   "contentRating": "safe",
+   "score": 0.3127184
+  },
+  {
+   "id": "bc844c35-d981-450d-bd42-309bd7914f39",
+   "title": {
+    "en": "Kimi Dake no Shirushi."
+   },
+   "contentRating": "safe",
+   "score": 0.31266657
+  },
+  {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.3115808,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bb42db8c-ca7f-4c55-8872-3a67746f0ed0",
+   "title": {
+    "en": "Anata no Uta ni Koishite Mita"
+   },
+   "contentRating": "safe",
+   "score": 0.3115524,
+   "languages": [
+    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:51+00:00"
+ "updatedAt": "2023-12-10T18:27:34+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Returning Home"
    },
    "contentRating": "safe",
-   "score": 0.25492093,
+   "score": 0.25333843,
    "languages": [
     "en"
    ]
@@ -33,7 +33,18 @@
     "en": "Nothing is a Taboo"
    },
    "contentRating": "safe",
-   "score": 0.24763687,
+   "score": 0.23936112,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "830c4a7d-7dbc-4f6c-a361-ddeb4fc925f8",
+   "title": {
+    "en": "Terror Infinity"
+   },
+   "contentRating": "safe",
+   "score": 0.23815788,
    "languages": [
     "en"
    ]
@@ -44,22 +55,11 @@
     "en": "My Civil Servant Life Reborn in the Strange World"
    },
    "contentRating": "safe",
-   "score": 0.24714245,
+   "score": 0.23774837,
    "languages": [
     "en",
     "fr",
     "uk"
-   ]
-  },
-  {
-   "id": "830c4a7d-7dbc-4f6c-a361-ddeb4fc925f8",
-   "title": {
-    "en": "Terror Infinity"
-   },
-   "contentRating": "safe",
-   "score": 0.23636281,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -68,18 +68,7 @@
     "en": "404 Case Manual: 30 Seconds Till Apocalypse"
    },
    "contentRating": "safe",
-   "score": 0.23355915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "63e55f35-b6ce-436c-99f8-a19ce71e4845",
-   "title": {
-    "en": "Knights of Night"
-   },
-   "contentRating": "safe",
-   "score": 0.23140202,
+   "score": 0.2331277,
    "languages": [
     "en"
    ]
@@ -90,7 +79,18 @@
     "en": "Strange Invasion"
    },
    "contentRating": "safe",
-   "score": 0.22724234,
+   "score": 0.22795911,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "63e55f35-b6ce-436c-99f8-a19ce71e4845",
+   "title": {
+    "en": "Knights of Night"
+   },
+   "contentRating": "safe",
+   "score": 0.22695655,
    "languages": [
     "en"
    ]
@@ -101,7 +101,7 @@
     "en": "Shivers: Symphony"
    },
    "contentRating": "safe",
-   "score": 0.225224,
+   "score": 0.22493656,
    "languages": [
     "en"
    ]
@@ -112,7 +112,7 @@
     "en": "Toy Paradise"
    },
    "contentRating": "safe",
-   "score": 0.22463971,
+   "score": 0.22392029,
    "languages": [
     "en",
     "fr"
@@ -124,7 +124,7 @@
     "en": "Midnight Walk of Wonders"
    },
    "contentRating": "safe",
-   "score": 0.21881272,
+   "score": 0.21831386,
    "languages": [
     "en",
     "pt-br"
@@ -136,20 +136,9 @@
     "en": "HUVAHH"
    },
    "contentRating": "safe",
-   "score": 0.21770962,
+   "score": 0.21730696,
    "languages": [
     "uk",
-    "en"
-   ]
-  },
-  {
-   "id": "6ab281b6-0c9c-4299-8f80-5bf1fefb4677",
-   "title": {
-    "en": "A Collection of Horror Comics"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
     "en"
    ]
   },
@@ -166,12 +155,23 @@
    ]
   },
   {
+   "id": "6ab281b6-0c9c-4299-8f80-5bf1fefb4677",
+   "title": {
+    "en": "A Collection of Horror Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b6fb4946-801d-4191-9a1d-20f9fbf99211",
    "title": {
     "en": "Kurenai Kuraki"
    },
    "contentRating": "safe",
-   "score": 0.21590255,
+   "score": 0.21628095,
    "languages": [
     "en"
    ]
@@ -182,11 +182,11 @@
     "en": "Shivers: Prelude"
    },
    "contentRating": "safe",
-   "score": 0.21480657,
+   "score": 0.21509588,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:08+00:00"
+ "updatedAt": "2023-12-10T18:09:25+00:00"
 }

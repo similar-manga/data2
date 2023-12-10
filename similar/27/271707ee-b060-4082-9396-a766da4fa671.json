@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "07d69599-62a9-4461-ad2e-acf3aa6244b9",
+   "title": {
+    "en": "Nine Songs"
+   },
+   "contentRating": "safe",
+   "score": 0.26247647,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d333e55-ceb8-4590-98f1-94283ee98c0e",
+   "title": {
+    "en": "The 9 Lives"
+   },
+   "contentRating": "safe",
+   "score": 0.26056057,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "04fe7b0d-a5f2-4ee5-b652-32d33abd76a2",
    "title": {
     "en": "Hakobunjaa"
    },
    "contentRating": "safe",
-   "score": 0.25329465,
+   "score": 0.25316986,
    "languages": [
     "en"
    ]
@@ -28,12 +50,35 @@
    ]
   },
   {
+   "id": "5490db60-019e-4a3a-a2dc-c9d3d83b289d",
+   "title": {
+    "en": "Twin Doll no Hakoniwa"
+   },
+   "contentRating": "safe",
+   "score": 0.24263485,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "b68dae45-db4b-4163-86bb-e16c5833cd82",
    "title": {
     "en": "Night Walk"
    },
    "contentRating": "safe",
-   "score": 0.23054643,
+   "score": 0.23231964,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c056190c-ba36-4039-bd40-6fd6cb55fd2f",
+   "title": {
+    "en": "Abareru Inu"
+   },
+   "contentRating": "safe",
+   "score": 0.23044947,
    "languages": [
     "en"
    ]
@@ -44,7 +89,7 @@
     "en": "A Doll and His Master"
    },
    "contentRating": "safe",
-   "score": 0.22626318,
+   "score": 0.22566572,
    "languages": [
     "en",
     "it",
@@ -58,7 +103,18 @@
     "en": "Namaiki na Ryouken no Shitsukekata"
    },
    "contentRating": "safe",
-   "score": 0.22588547,
+   "score": 0.22541712,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b2aa54d4-e71a-4680-9f76-93a1b5817cd7",
+   "title": {
+    "en": "Ryokunohara Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.22197902,
    "languages": [
     "en"
    ]
@@ -69,29 +125,7 @@
     "en": "Kare no Niwa ni Saku Hana"
    },
    "contentRating": "safe",
-   "score": 0.22077993,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "69032a58-7bb7-4ebd-8a74-cf73f0b3945c",
-   "title": {
-    "en": "Hippocrate In Another World"
-   },
-   "contentRating": "safe",
-   "score": 0.21896337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89fda578-ef81-4669-907e-df837c74627a",
-   "title": {
-    "en": "Combination"
-   },
-   "contentRating": "safe",
-   "score": 0.21760175,
+   "score": 0.22018556,
    "languages": [
     "en"
    ]
@@ -109,6 +143,39 @@
    ]
   },
   {
+   "id": "89fda578-ef81-4669-907e-df837c74627a",
+   "title": {
+    "en": "Combination"
+   },
+   "contentRating": "safe",
+   "score": 0.21760175,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d6c40d0b-5a4c-4579-ae13-e256e7abbf4d",
+   "title": {
+    "en": "Give Up on Love"
+   },
+   "contentRating": "safe",
+   "score": 0.21760175,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "43a86034-349c-414d-8098-cd72cdd76da6",
+   "title": {
+    "en": "Lifeless Man"
+   },
+   "contentRating": "safe",
+   "score": 0.21760175,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
    "id": "97cd10dc-c384-4eab-8e19-9e62b8a442ba",
    "title": {
     "en": "Lamento - Beyond the Void"
@@ -118,78 +185,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c619fde7-c5db-40f6-ac1f-e68c6d81f68f",
-   "title": {
-    "en": "Saijoukyuu FORTUNE"
-   },
-   "contentRating": "safe",
-   "score": 0.21407677,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
-   "title": {
-    "en": "Red Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.21054323,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "19f4cec0-c462-4877-9bbb-023fd21a0111",
-   "title": {
-    "en": "Loveless"
-   },
-   "contentRating": "safe",
-   "score": 0.20861462,
-   "languages": [
-    "en",
-    "hu",
-    "tr"
-   ]
-  },
-  {
-   "id": "61fa06a2-e06f-49c1-806e-91ef3be4cc85",
-   "title": {
-    "en": "Kikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.19980095,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
-   "title": {
-    "en": "inGrid"
-   },
-   "contentRating": "safe",
-   "score": 0.19867985,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1f8d193-8d13-4a63-9838-863e76e2d922",
-   "title": {
-    "en": "Graineliers"
-   },
-   "contentRating": "safe",
-   "score": 0.19867985,
-   "languages": [
-    "vi",
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:15+00:00"
+ "updatedAt": "2023-12-10T18:12:30+00:00"
 }

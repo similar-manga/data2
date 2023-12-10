@@ -11,7 +11,7 @@
     "en": "Korisu Ballet"
    },
    "contentRating": "safe",
-   "score": 0.2606981,
+   "score": 0.26066732,
    "languages": [
     "en",
     "fr",
@@ -25,7 +25,7 @@
     "en": "Holy Night"
    },
    "contentRating": "safe",
-   "score": 0.20797555,
+   "score": 0.20719278,
    "languages": [
     "en",
     "pl"
@@ -49,7 +49,18 @@
     "en": "Little Sister"
    },
    "contentRating": "safe",
-   "score": 0.19705872,
+   "score": 0.19669059,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2e67555f-2300-4b23-bf70-406d4e6ab03e",
+   "title": {
+    "en": "Good Dog, Cerberus!"
+   },
+   "contentRating": "safe",
+   "score": 0.19616254,
    "languages": [
     "en"
    ]
@@ -60,10 +71,21 @@
     "en": "The Noble Farmer"
    },
    "contentRating": "safe",
-   "score": 0.19133921,
+   "score": 0.19078557,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "eadf806d-d2c1-4fd8-849a-04db389387fb",
+   "title": {
+    "en": "Together with Suzunyan"
+   },
+   "contentRating": "safe",
+   "score": 0.18763448,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -121,7 +143,7 @@
     "en": "Aka-chan to Boku"
    },
    "contentRating": "safe",
-   "score": 0.17701791,
+   "score": 0.17751695,
    "languages": [
     "en"
    ]
@@ -138,15 +160,14 @@
    ]
   },
   {
-   "id": "b8ed112b-b98f-4e41-a4bb-ad1973744345",
+   "id": "36e672ed-1b39-4266-9dfb-3ca9b5337e3e",
    "title": {
-    "en": "Manpuku niku Tarō no TS"
+    "en": "Good Morning Leon"
    },
    "contentRating": "safe",
-   "score": 0.17128606,
+   "score": 0.17229506,
    "languages": [
-    "en",
-    "id"
+    "en"
    ]
   },
   {
@@ -155,7 +176,7 @@
     "en": "Senpai ga Uzai Kouhai no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.17114045,
+   "score": 0.17128879,
    "languages": [
     "en",
     "fr",
@@ -173,41 +194,16 @@
    ]
   },
   {
-   "id": "9345eb96-92bf-4223-9bee-886307475528",
+   "id": "6f2a2474-6b38-4e85-9efe-4a4a8ac50103",
    "title": {
-    "en": "Sayonara Terminal"
+    "en": "Ramboo and Panboo"
    },
    "contentRating": "safe",
-   "score": 0.17077687,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2f25d83c-eaac-4ddb-ba04-96e933e1d7e8",
-   "title": {
-    "en": "Chibi to Pocchari de Renai Shimasu kedo, Nani ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.16951664,
+   "score": 0.17128606,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "35a02480-b71d-4aae-9a29-b53d50fb6309",
-   "title": {
-    "en": "A Gentle Time"
-   },
-   "contentRating": "safe",
-   "score": 0.16689637,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:43+00:00"
+ "updatedAt": "2023-12-10T18:13:48+00:00"
 }

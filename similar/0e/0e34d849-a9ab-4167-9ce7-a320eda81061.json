@@ -6,12 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c43e3893-ab66-4dad-86d2-3b5ff0bf0346",
+   "title": {
+    "en": "Jingga dan Senja"
+   },
+   "contentRating": "safe",
+   "score": 0.26162782
+  },
+  {
    "id": "391ccd89-8662-4df0-9f3d-8f0ae3e20b85",
    "title": {
     "en": "Only Human"
    },
    "contentRating": "safe",
-   "score": 0.26128176
+   "score": 0.2607673
+  },
+  {
+   "id": "5be99c39-e216-4de5-8690-23b95665740e",
+   "title": {
+    "en": "Galleys"
+   },
+   "contentRating": "safe",
+   "score": 0.25192466
   },
   {
    "id": "f5c031c8-a9ff-4be1-bb47-d12f3f688bb6",
@@ -31,7 +47,19 @@
     "en": "100-nen no Tateito"
    },
    "contentRating": "safe",
-   "score": 0.23327038
+   "score": 0.23221998
+  },
+  {
+   "id": "c2ff08bd-88a9-4523-bed3-6e7cdeb8fe9b",
+   "title": {
+    "en": "OREN'S"
+   },
+   "contentRating": "safe",
+   "score": 0.22873276,
+   "languages": [
+    "it",
+    "en"
+   ]
   },
   {
    "id": "22540ed5-3961-416f-81da-c22ba7cc13ec",
@@ -39,18 +67,7 @@
     "en": "Masked Rider Ryuuki - 13 Riders the Comic"
    },
    "contentRating": "safe",
-   "score": 0.22768639
-  },
-  {
-   "id": "610f10ee-0008-4456-9119-65b76d7c3458",
-   "title": {
-    "en": "Boukyou Tarou"
-   },
-   "contentRating": "safe",
-   "score": 0.22630402,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22745569
   },
   {
    "id": "e05dd982-6d09-4f3d-8e8e-6c9ae65b5857",
@@ -58,7 +75,7 @@
     "en": "Usuzumi no Hate"
    },
    "contentRating": "safe",
-   "score": 0.22577812,
+   "score": 0.22679959,
    "languages": [
     "id",
     "en",
@@ -72,12 +89,23 @@
    ]
   },
   {
+   "id": "610f10ee-0008-4456-9119-65b76d7c3458",
+   "title": {
+    "en": "Boukyou Tarou"
+   },
+   "contentRating": "safe",
+   "score": 0.22467045,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "da9fbf8a-c7c0-4185-a5fc-87d39b38b599",
    "title": {
     "en": "Code Age Archives"
    },
    "contentRating": "safe",
-   "score": 0.22169697
+   "score": 0.2207474
   },
   {
    "id": "2bbda6fb-da9a-4204-a64e-de14579ed3b0",
@@ -86,22 +114,6 @@
    },
    "contentRating": "safe",
    "score": 0.21597971
-  },
-  {
-   "id": "1f4ccc84-ecb8-43b7-a19d-2774597d0e4c",
-   "title": {
-    "en": "Rixa: A Dream for Space"
-   },
-   "contentRating": "safe",
-   "score": 0.21437222
-  },
-  {
-   "id": "3b915db8-61f9-4f56-a08c-a44277a6e0f6",
-   "title": {
-    "en": "Wind Rider"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
   },
   {
    "id": "5baa3347-0e37-40c0-8177-5972706c85de",
@@ -120,41 +132,29 @@
    "score": 0.21428573
   },
   {
+   "id": "3b915db8-61f9-4f56-a08c-a44277a6e0f6",
+   "title": {
+    "en": "Wind Rider"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573
+  },
+  {
+   "id": "1f4ccc84-ecb8-43b7-a19d-2774597d0e4c",
+   "title": {
+    "en": "Rixa: A Dream for Space"
+   },
+   "contentRating": "safe",
+   "score": 0.21359806
+  },
+  {
    "id": "1be82b83-41ca-44d8-b358-405c03e0817e",
    "title": {
     "en": "Green Mechanic"
    },
    "contentRating": "safe",
-   "score": 0.21104106
-  },
-  {
-   "id": "58761a40-3058-423f-91db-13426db8937b",
-   "title": {
-    "en": "Tsuzure no leghorn"
-   },
-   "contentRating": "safe",
-   "score": 0.2105506
-  },
-  {
-   "id": "56301413-bdd7-49b6-9cab-a02e4066065e",
-   "title": {
-    "en": "Bremen II"
-   },
-   "contentRating": "safe",
-   "score": 0.20962466
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.2085786,
-   "languages": [
-    "en",
-    "es"
-   ]
+   "score": 0.21039222
   }
  ],
- "updatedAt": "2023-12-10T01:00:18+00:00"
+ "updatedAt": "2023-12-10T18:09:52+00:00"
 }

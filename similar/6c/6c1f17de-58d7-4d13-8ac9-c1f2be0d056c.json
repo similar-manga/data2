@@ -11,7 +11,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.31556007,
+   "score": 0.3162032,
    "languages": [
     "en",
     "fr"
@@ -23,7 +23,7 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.29274675,
+   "score": 0.29580668,
    "languages": [
     "fr",
     "pt-br",
@@ -36,21 +36,24 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.27901873,
+   "score": 0.28043172,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e7078d3c-a46b-44e6-af95-0f69f54e8562",
+   "id": "003097c2-c8ee-4eda-908f-7c427f417245",
    "title": {
-    "en": "Leftover Prince"
+    "en": "Nikai Bongai Barabarujura"
    },
    "contentRating": "safe",
-   "score": 0.22915654,
+   "score": 0.24274382,
    "languages": [
-    "pt-br",
-    "en"
+    "ru",
+    "vi",
+    "en",
+    "fr",
+    "pt-br"
    ]
   },
   {
@@ -59,11 +62,23 @@
     "en": "Beelzebub (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.2285219,
+   "score": 0.23121323,
    "languages": [
     "en",
     "pl",
     "it"
+   ]
+  },
+  {
+   "id": "e7078d3c-a46b-44e6-af95-0f69f54e8562",
+   "title": {
+    "en": "Leftover Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.23030518,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -72,7 +87,7 @@
     "en": "Happy Happy Endorphin"
    },
    "contentRating": "safe",
-   "score": 0.22659062,
+   "score": 0.22654651,
    "languages": [
     "vi",
     "pt-br",
@@ -81,28 +96,12 @@
    ]
   },
   {
-   "id": "4c1f7ca8-4a03-493f-8d88-e0a404605977",
-   "title": {
-    "en": "GALAXIAS"
-   },
-   "contentRating": "safe",
-   "score": 0.21020366,
-   "languages": [
-    "fa",
-    "es-la",
-    "id",
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "1c94d62b-0c19-4501-9eaa-a63935b64b85",
    "title": {
     "en": "Star-Lit Survival"
    },
    "contentRating": "safe",
-   "score": 0.2091252,
+   "score": 0.2095745,
    "languages": [
     "en"
    ]
@@ -119,28 +118,31 @@
    ]
   },
   {
+   "id": "4c1f7ca8-4a03-493f-8d88-e0a404605977",
+   "title": {
+    "en": "GALAXIAS"
+   },
+   "contentRating": "safe",
+   "score": 0.20859465,
+   "languages": [
+    "fa",
+    "es-la",
+    "id",
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
    "title": {
     "en": "Galaxy Gangs"
    },
    "contentRating": "safe",
-   "score": 0.20410949,
+   "score": 0.20427401,
    "languages": [
     "de",
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
-   "title": {
-    "en": "No.9"
-   },
-   "contentRating": "safe",
-   "score": 0.20230922,
-   "languages": [
-    "fr",
-    "pt-br",
     "en"
    ]
   },
@@ -150,24 +152,22 @@
     "en": "Sample No. 9"
    },
    "contentRating": "safe",
-   "score": 0.20212902,
+   "score": 0.20313098,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "003097c2-c8ee-4eda-908f-7c427f417245",
+   "id": "60092c98-9a8d-4fe6-8d9c-a55b4a74e251",
    "title": {
-    "en": "Nikai Bongai Barabarujura"
+    "en": "No.9"
    },
    "contentRating": "safe",
-   "score": 0.20136155,
+   "score": 0.20278452,
    "languages": [
-    "ru",
-    "vi",
-    "en",
     "fr",
-    "pt-br"
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -176,9 +176,20 @@
     "en": "Doragagaga"
    },
    "contentRating": "safe",
-   "score": 0.20016089,
+   "score": 0.20101063,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "c1cb567a-a4e8-41ef-a520-095324fb0d77",
+   "title": {
+    "en": "Sand Storm Boarders"
+   },
+   "contentRating": "safe",
+   "score": 0.19412,
+   "languages": [
     "en"
    ]
   },
@@ -188,23 +199,12 @@
     "en": "Zodiac Game"
    },
    "contentRating": "safe",
-   "score": 0.19329283,
+   "score": 0.19247311,
    "languages": [
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "c1cb567a-a4e8-41ef-a520-095324fb0d77",
-   "title": {
-    "en": "Sand Storm Boarders"
-   },
-   "contentRating": "safe",
-   "score": 0.1930647,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:03+00:00"
+ "updatedAt": "2023-12-10T18:20:01+00:00"
 }

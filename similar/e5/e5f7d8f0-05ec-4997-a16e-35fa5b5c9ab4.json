@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9c25a61e-3718-4394-82eb-223e92304daf",
+   "title": {
+    "en": "Ichigo Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.31175324,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cb7b76f7-fdab-40b8-ad23-e50665db47ae",
    "title": {
     "en": "Cinderella Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.281478,
+   "score": 0.28592187,
    "languages": [
     "pl",
     "pt-br"
@@ -23,7 +34,7 @@
     "en": "Ayakashi Hisen"
    },
    "contentRating": "safe",
-   "score": 0.26578104,
+   "score": 0.26525578,
    "languages": [
     "hu",
     "pl"
@@ -35,21 +46,23 @@
     "en": "Ao to Umibe no Nostalgia"
    },
    "contentRating": "safe",
-   "score": 0.26407075,
+   "score": 0.26387215,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+   "id": "0149daa5-89c9-4e05-bf4f-f2440e0d2db7",
    "title": {
-    "en": "Kamisama Game"
+    "en": "Kimi no Koe"
    },
    "contentRating": "safe",
-   "score": 0.25799137,
+   "score": 0.25923508,
    "languages": [
-    "en"
+    "en",
+    "it",
+    "id"
    ]
   },
   {
@@ -58,10 +71,43 @@
     "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.25751102,
+   "score": 0.2562352,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "52b8f6a3-2e0f-4bfc-ae27-b15ad6952dfa",
+   "title": {
+    "en": "Kamisama Game"
+   },
+   "contentRating": "safe",
+   "score": 0.25581008,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a6ac5208-81ac-40fd-8ce2-ccb7971287f5",
+   "title": {
+    "en": "Hajimari no Kotoba"
+   },
+   "contentRating": "safe",
+   "score": 0.25204033,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a35f2737-ac1f-4f34-babf-9e11ea7ddbdb",
+   "title": {
+    "en": "Kiseki no Riyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.2503113,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -70,9 +116,31 @@
     "en": "Kyoukai no Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.25082898,
+   "score": 0.24985313,
    "languages": [
     "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "2cb946ee-db33-4521-a208-02a970ce328c",
+   "title": {
+    "en": "Ayakashiou no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "672032b6-0691-4161-92a7-77bc65e15d5d",
+   "title": {
+    "en": "Kyoukasho wa Oshiete Kurenai"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "pl"
    ]
   },
@@ -99,6 +167,17 @@
    ]
   },
   {
+   "id": "9fe65996-bbab-41c4-8553-d677f409c342",
+   "title": {
+    "en": "Trouble G"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
    "title": {
     "en": "a cup of..."
@@ -108,88 +187,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "684d282e-5422-49ea-ac5d-3e7b4190a924",
-   "title": {
-    "en": "Kimi ga Hikari"
-   },
-   "contentRating": "safe",
-   "score": 0.24645655,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "03d50963-b105-4dc4-a413-c1bab9048491",
-   "title": {
-    "en": "Nan Eomma Nun Appa"
-   },
-   "contentRating": "safe",
-   "score": 0.24605139,
-   "languages": [
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "21f71c14-ebb8-40bf-8e85-48b642d961fe",
-   "title": {
-    "en": "Sayonara Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.24530593,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf44b0a9-707c-4bcd-9c0c-e8cc195ff926",
-   "title": {
-    "en": "Prince of the Night"
-   },
-   "contentRating": "safe",
-   "score": 0.24131109,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efa08476-d5e7-4147-a5ed-be8a638cb8f6",
-   "title": {
-    "en": "Tomorrow -Yasashisa ni Kawaru made-"
-   },
-   "contentRating": "safe",
-   "score": 0.23979817,
-   "languages": [
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.23775601,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "dd2fd269-4294-466c-8346-31fecf49e286",
-   "title": {
-    "en": "18 Years Old, We Got Married"
-   },
-   "contentRating": "safe",
-   "score": 0.23526035,
-   "languages": [
-    "pl",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:15+00:00"
+ "updatedAt": "2023-12-10T18:33:40+00:00"
 }

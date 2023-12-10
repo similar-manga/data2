@@ -6,23 +6,23 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "bed7d3fa-64b0-4716-8c8c-370fd03cfdbe",
-   "title": {
-    "en": "Kabuto"
-   },
-   "contentRating": "suggestive",
-   "score": 0.32220888,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8d5c1cd9-70fe-4b49-9e64-1bef888acd4d",
    "title": {
     "en": "Mazinger Z (Outa Gosaku)"
    },
    "contentRating": "suggestive",
-   "score": 0.3167877,
+   "score": 0.32854235,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bed7d3fa-64b0-4716-8c8c-370fd03cfdbe",
+   "title": {
+    "en": "Kabuto"
+   },
+   "contentRating": "suggestive",
+   "score": 0.32364616,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "One Piece"
    },
    "contentRating": "suggestive",
-   "score": 0.21331349,
+   "score": 0.21165206,
    "languages": [
     "ca",
     "pt-br",
@@ -77,20 +77,6 @@
    ]
   },
   {
-   "id": "dfffa880-4154-40d1-abd2-0dff94248908",
-   "title": {
-    "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19438018,
-   "languages": [
-    "en",
-    "es",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
    "id": "f111b97d-d3bc-4aa9-8d82-959db6592e00",
    "title": {
     "en": "Eternal Torment"
@@ -115,14 +101,17 @@
    ]
   },
   {
-   "id": "6cde8524-b52c-4b39-aba6-dc5d1104c29a",
+   "id": "dfffa880-4154-40d1-abd2-0dff94248908",
    "title": {
-    "en": "Deathdeus: Hero of the Dead"
+    "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
    },
    "contentRating": "suggestive",
-   "score": 0.18492039,
+   "score": 0.18669993,
    "languages": [
-    "en"
+    "en",
+    "es",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -137,23 +126,14 @@
    ]
   },
   {
-   "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+   "id": "6cde8524-b52c-4b39-aba6-dc5d1104c29a",
    "title": {
-    "en": "Orient"
+    "en": "Deathdeus: Hero of the Dead"
    },
    "contentRating": "suggestive",
-   "score": 0.17918098,
+   "score": 0.18417145,
    "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "ru",
-    "it",
-    "el",
-    "fr",
-    "es",
-    "ar",
-    "id"
+    "en"
    ]
   },
   {
@@ -169,12 +149,32 @@
    ]
   },
   {
+   "id": "55a96d76-10a2-4c4b-bc60-3a4aa8325e50",
+   "title": {
+    "en": "Orient"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17842557,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "ru",
+    "it",
+    "el",
+    "fr",
+    "es",
+    "ar",
+    "id"
+   ]
+  },
+  {
    "id": "178d3cd8-4624-4afc-81b0-b2f260a1b28b",
    "title": {
     "en": "Hime Kishi wa Barbaroi no Yome"
    },
    "contentRating": "suggestive",
-   "score": 0.1778638,
+   "score": 0.17712922,
    "languages": [
     "vi",
     "id",
@@ -191,7 +191,7 @@
     "en": "Mobile Suit Zeta Gundam Sayonara"
    },
    "contentRating": "suggestive",
-   "score": 0.17350195,
+   "score": 0.17310804,
    "languages": [
     "en"
    ]
@@ -208,17 +208,6 @@
    ]
   },
   {
-   "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
-   "title": {
-    "en": "Blue Blazes"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16453764,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "306466c7-bd1a-411d-a1c0-f58db01f23a9",
    "title": {
     "en": "King of the Ants"
@@ -229,7 +218,18 @@
     "en",
     "vi"
    ]
+  },
+  {
+   "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
+   "title": {
+    "en": "Blue Blazes"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16289368,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:09+00:00"
+ "updatedAt": "2023-12-10T18:15:01+00:00"
 }

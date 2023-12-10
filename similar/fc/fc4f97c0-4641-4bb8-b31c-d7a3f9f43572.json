@@ -11,7 +11,7 @@
     "en": "Arcadia of the Moonlight"
    },
    "contentRating": "safe",
-   "score": 0.25682768,
+   "score": 0.2611752,
    "languages": [
     "en",
     "es-la",
@@ -37,7 +37,7 @@
     "en": "Window Washer Park"
    },
    "contentRating": "safe",
-   "score": 0.23777196,
+   "score": 0.2362261,
    "languages": [
     "en",
     "pl"
@@ -49,7 +49,18 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.2347,
+   "score": 0.23432322,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1936f579-124a-40d6-85d1-96c5af6f22c7",
+   "title": {
+    "en": "Madara"
+   },
+   "contentRating": "safe",
+   "score": 0.23136276,
    "languages": [
     "en"
    ]
@@ -60,22 +71,10 @@
     "en": "Medabot Reloaded"
    },
    "contentRating": "safe",
-   "score": 0.22538319,
+   "score": 0.22493654,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "8a6bd8df-82a0-4b37-abba-0c97e6959b11",
-   "title": {
-    "en": "Haco"
-   },
-   "contentRating": "safe",
-   "score": 0.22417977,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -84,8 +83,20 @@
     "en": "Dffrnt Strks"
    },
    "contentRating": "safe",
-   "score": 0.22382264,
+   "score": 0.22329564,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8a6bd8df-82a0-4b37-abba-0c97e6959b11",
+   "title": {
+    "en": "Haco"
+   },
+   "contentRating": "safe",
+   "score": 0.2223281,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -106,37 +117,23 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.21920586,
+   "score": 0.21843557,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3f27338e-3966-4c39-83e9-af5864526ed9",
+   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
    "title": {
-    "en": "Pumpkin Scissors"
+    "en": "Shaman King: The Super Star"
    },
    "contentRating": "safe",
-   "score": 0.21643403,
+   "score": 0.21617892,
    "languages": [
+    "es-la",
+    "ru",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
-   "title": {
-    "en": "Kojiin Tamer"
-   },
-   "contentRating": "safe",
-   "score": 0.21590902,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "fr",
-    "ar",
-    "es-la"
+    "fr"
    ]
   },
   {
@@ -145,7 +142,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.21554832,
+   "score": 0.2157312,
    "languages": [
     "en",
     "pt-br",
@@ -156,12 +153,23 @@
    ]
   },
   {
+   "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
+   "title": {
+    "en": "Monkz"
+   },
+   "contentRating": "safe",
+   "score": 0.21527852,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "146e72de-2e59-4f0e-8803-b5f8312cb8c4",
    "title": {
     "en": "Mobile Suit Gundam MSV-R - Return of Johnny Ridden"
    },
    "contentRating": "safe",
-   "score": 0.2152844,
+   "score": 0.21493211,
    "languages": [
     "th",
     "en"
@@ -173,33 +181,27 @@
     "en": "SPY×FAMILY - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.21511687,
+   "score": 0.21406792,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
+   "id": "05c2917a-e0a4-4c55-abac-8be0f8b213e4",
    "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
+    "en": "Kojiin Tamer"
    },
    "contentRating": "safe",
-   "score": 0.2090017,
+   "score": 0.21406253,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
-   "title": {
-    "en": "Western Shotgun"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "id",
+    "fr",
+    "ar",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:12+00:00"
+ "updatedAt": "2023-12-10T18:35:59+00:00"
 }

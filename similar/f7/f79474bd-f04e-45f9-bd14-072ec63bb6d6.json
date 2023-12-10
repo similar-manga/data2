@@ -11,7 +11,18 @@
     "en": "Airport"
    },
    "contentRating": "safe",
-   "score": 0.25708842
+   "score": 0.2587846
+  },
+  {
+   "id": "5bc8c314-13c8-4be9-aa51-59e8d60db3be",
+   "title": {
+    "en": "THE iDOLM@STER Million Live! Theater Days - Brand New Song"
+   },
+   "contentRating": "safe",
+   "score": 0.24180193,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "0aa2520a-a18f-406d-8908-32cec22b88ac",
@@ -19,7 +30,7 @@
     "en": "Kono Sekai ga Izure Horobu Koto wo, Ore dake ga Shitte Iru"
    },
    "contentRating": "safe",
-   "score": 0.25597206,
+   "score": 0.2390214,
    "languages": [
     "en",
     "id"
@@ -31,10 +42,26 @@
     "en": "Sunny"
    },
    "contentRating": "safe",
-   "score": 0.23335187,
+   "score": 0.23557557,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2d7db7db-5429-4fbe-9805-4a5112ad9f8f",
+   "title": {
+    "en": "Yume Tefumono wa Tanomi Someteki - Daydream Believers"
+   },
+   "contentRating": "safe",
+   "score": 0.21153162
+  },
+  {
+   "id": "41b0daf3-9871-4269-9404-e5f8d5ec5c0a",
+   "title": {
+    "en": "Middle School Girl, Quitting the Serial Killer Life"
+   },
+   "contentRating": "safe",
+   "score": 0.21059825
   },
   {
    "id": "73886e64-61f0-4469-81c9-781ad62c15e8",
@@ -42,10 +69,21 @@
     "en": "Pumpkin Night Gaiden - Naoko"
    },
    "contentRating": "safe",
-   "score": 0.20068054,
+   "score": 0.20017974,
    "languages": [
     "es",
     "it"
+   ]
+  },
+  {
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "title": {
+    "en": "Mashira"
+   },
+   "contentRating": "safe",
+   "score": 0.19608547,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -54,7 +92,7 @@
     "en": "Bokura no Natsu ga Saketeiku"
    },
    "contentRating": "safe",
-   "score": 0.19286308
+   "score": 0.19265573
   },
   {
    "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
@@ -96,12 +134,23 @@
    ]
   },
   {
+   "id": "6e11edac-eb6c-46d5-9cd4-04e1e817e1ba",
+   "title": {
+    "en": "Ousama Game - Rinjou"
+   },
+   "contentRating": "safe",
+   "score": 0.18597278,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
    "title": {
     "en": "Jungle King"
    },
    "contentRating": "safe",
-   "score": 0.18482207
+   "score": 0.18569025
   },
   {
    "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
@@ -109,79 +158,22 @@
     "en": "Zange"
    },
    "contentRating": "safe",
-   "score": 0.18328494,
+   "score": 0.1830235,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0e90a578-24bb-4682-af40-799511326204",
+   "id": "0186ae61-8ac8-495a-98fe-f47eed4d783c",
    "title": {
-    "en": "Sukina Kare no Papa Hajimemasu"
+    "en": "Gyuges no Futari"
    },
    "contentRating": "safe",
-   "score": 0.18060023
-  },
-  {
-   "id": "7888380e-b90a-432d-ad0d-a20cdda8d595",
-   "title": {
-    "en": "Me \u0026 the Devil Blues"
-   },
-   "contentRating": "safe",
-   "score": 0.17895237,
+   "score": 0.17981708,
    "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.17360698,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "460e98d7-74ce-4c61-9f38-e248be115829",
-   "title": {
-    "en": "Shuuenchi"
-   },
-   "contentRating": "safe",
-   "score": 0.17341337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "47add7f5-5625-4808-af49-022ed332492a",
-   "title": {
-    "en": "SNS Tantei Ononoki Tsukasa"
-   },
-   "contentRating": "safe",
-   "score": 0.17166717,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
-   "title": {
-    "en": "Ankoku Jiten"
-   },
-   "contentRating": "safe",
-   "score": 0.17156075,
-   "languages": [
-    "ru",
-    "en"
+    "zh-hk"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:00+00:00"
+ "updatedAt": "2023-12-10T18:35:29+00:00"
 }

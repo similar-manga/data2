@@ -11,7 +11,7 @@
     "en": "Hajimete no Koi no Sodatekata"
    },
    "contentRating": "safe",
-   "score": 0.3008516,
+   "score": 0.29954946,
    "languages": [
     "en"
    ]
@@ -22,9 +22,42 @@
     "en": "Tousled Melancholy"
    },
    "contentRating": "safe",
-   "score": 0.29217982,
+   "score": 0.29170996,
    "languages": [
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "c555aad2-ade9-4995-acff-9fbec7e1b140",
+   "title": {
+    "en": "Ma Chérie"
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4ccbf4dd-3ac0-4e2a-b9f4-1c253f60a2be",
+   "title": {
+    "en": "The Devil and Me and Ichikawa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
+   "title": {
+    "en": "Love Story ~Aiwa~"
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
     "en"
    ]
   },
@@ -34,15 +67,15 @@
     "en": "Aoi Honoo Kaoru Tsuchi"
    },
    "contentRating": "safe",
-   "score": 0.2915751,
+   "score": 0.2841444,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4ccbf4dd-3ac0-4e2a-b9f4-1c253f60a2be",
+   "id": "76baa138-ad6c-4d25-8084-fe6a24a45273",
    "title": {
-    "en": "The Devil and Me and Ichikawa-san"
+    "en": "Oniyuri-san and Himeyuri-san"
    },
    "contentRating": "safe",
    "score": 0.2841444,
@@ -64,6 +97,17 @@
    ]
   },
   {
+   "id": "bafbd13b-0192-4eda-be72-4951c4fdae58",
+   "title": {
+    "en": "Watashi ga Riaru de, Yuri Nante."
+   },
+   "contentRating": "safe",
+   "score": 0.2841444,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8fdd8766-398a-4015-b594-24c8d0e155e6",
    "title": {
     "en": "Senpai no Tokubetsu"
@@ -76,56 +120,12 @@
    ]
   },
   {
-   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
-   "title": {
-    "en": "Love Story ~Aiwa~"
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bafbd13b-0192-4eda-be72-4951c4fdae58",
-   "title": {
-    "en": "Watashi ga Riaru de, Yuri Nante."
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76baa138-ad6c-4d25-8084-fe6a24a45273",
-   "title": {
-    "en": "Oniyuri-san and Himeyuri-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c555aad2-ade9-4995-acff-9fbec7e1b140",
-   "title": {
-    "en": "Ma Chérie"
-   },
-   "contentRating": "safe",
-   "score": 0.2841444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "07de32c6-cbc5-4ac7-a40b-df462cca70d5",
    "title": {
     "en": "Ano Ko ga Watashi wo Onna ni Suru"
    },
    "contentRating": "safe",
-   "score": 0.27908882,
+   "score": 0.27917796,
    "languages": [
     "pt-br",
     "en",
@@ -133,14 +133,16 @@
    ]
   },
   {
-   "id": "4caaf0a3-5488-457b-8a2b-3ad19f706f9c",
+   "id": "b6784e2b-f31d-4f29-8dc7-7e2e414bbae1",
    "title": {
-    "en": "Najo Line"
+    "en": "Oshi ga Imouto Ni Narimashite"
    },
    "contentRating": "safe",
-   "score": 0.27467015,
+   "score": 0.27665254,
    "languages": [
-    "en"
+    "th",
+    "en",
+    "ko"
    ]
   },
   {
@@ -149,10 +151,32 @@
     "en": "Ashita no Kimi ni Hanataba wo"
    },
    "contentRating": "safe",
-   "score": 0.2730947,
+   "score": 0.27368212,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "4caaf0a3-5488-457b-8a2b-3ad19f706f9c",
+   "title": {
+    "en": "Najo Line"
+   },
+   "contentRating": "safe",
+   "score": 0.2732602,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f079703-7894-435c-8864-bc0bdac6fdb5",
+   "title": {
+    "en": "Futsuu no Koitte Nani?"
+   },
+   "contentRating": "safe",
+   "score": 0.2715933,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -161,36 +185,14 @@
     "en": "Amagoi no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.27080226,
+   "score": 0.26984072,
    "languages": [
     "en",
     "id",
     "de",
     "ko"
    ]
-  },
-  {
-   "id": "29a4f9e3-7394-4b64-97a0-6e9bf5a5b2fd",
-   "title": {
-    "en": "Kirika-sama wa Kishi ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.26747224,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ca73d562-37ee-4fdb-b9b9-375203002b76",
-   "title": {
-    "en": "Kimi to Mitai Race ga Aru"
-   },
-   "contentRating": "safe",
-   "score": 0.2663328,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:22+00:00"
+ "updatedAt": "2023-12-10T18:33:58+00:00"
 }

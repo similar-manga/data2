@@ -11,7 +11,7 @@
     "en": "The Nightmare of Fabrication"
    },
    "contentRating": "safe",
-   "score": 0.2114874,
+   "score": 0.20945507,
    "languages": [
     "tr",
     "it",
@@ -56,14 +56,13 @@
    ]
   },
   {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
+   "id": "b82573c8-719a-41f2-86c6-9d7952318c58",
    "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
+    "en": "\"Garo\" Keisai Sakuhin (Mizuki Shigeru Manga Taizenshuu)"
    },
    "contentRating": "safe",
-   "score": 0.15413637,
+   "score": 0.15831414,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -73,20 +72,21 @@
     "en": "The Watchman"
    },
    "contentRating": "safe",
-   "score": 0.15292804,
+   "score": 0.15333776,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
+   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
    "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
+    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.14754222,
+   "score": 0.1532412,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -103,12 +103,35 @@
    ]
   },
   {
+   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
+   "title": {
+    "en": "Ghost in the Shell: Global Neural Network"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a59b7c50-cb6d-497a-9ae2-a49648908c40",
+   "title": {
+    "en": "Morris ~Tsuno ga Haeta Neko no Bouken~"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "c81db64f-3561-48db-8799-2376ffe54f49",
    "title": {
     "en": "Yugo"
    },
    "contentRating": "safe",
-   "score": 0.13969186,
+   "score": 0.1397363,
    "languages": [
     "en"
    ]
@@ -136,12 +159,23 @@
    ]
   },
   {
-   "id": "1f6b847c-d1ba-4a1b-a5f8-b1891c4ba470",
+   "id": "e56c2f8d-ec7f-4695-ba02-1572b290c787",
    "title": {
-    "en": "Vivarium de Choushoku wo"
+    "en": "Kanata e -Dr. Kant And The Creation Of The Universe-"
    },
    "contentRating": "safe",
-   "score": 0.1280402,
+   "score": 0.12777533,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
+   "title": {
+    "en": "Sekai de Ichiban, Ore ga ◯◯"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
    "languages": [
     "en"
    ]
@@ -158,42 +192,7 @@
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "cb174ea9-4ff7-4c30-870f-83fd76001b9c",
-   "title": {
-    "en": "Armadillo"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
-   "title": {
-    "en": "Snowball Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:41+00:00"
+ "updatedAt": "2023-12-10T18:13:41+00:00"
 }

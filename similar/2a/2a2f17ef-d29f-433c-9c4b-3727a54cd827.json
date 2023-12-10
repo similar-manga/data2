@@ -6,14 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "503de5b7-ddf3-4a84-b9d7-30468e518444",
+   "title": {
+    "en": "Koi Yori Kiss Yori Daikirai!!"
+   },
+   "contentRating": "safe",
+   "score": 0.31763262,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f13f91dc-ac6c-4907-bb55-e9b78278b5a3",
    "title": {
     "en": "Jiujiu"
    },
    "contentRating": "safe",
-   "score": 0.30184868,
+   "score": 0.3009123,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "586c9e6d-28db-46ab-9575-31e26d578f04",
+   "title": {
+    "en": "Queen's Quality"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "hu",
+    "en",
+    "pl",
+    "ar"
    ]
   },
   {
@@ -29,12 +54,26 @@
    ]
   },
   {
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
+   "title": {
+    "en": "Shigatsu no Kimi, Spica."
+   },
+   "contentRating": "safe",
+   "score": 0.28508013,
+   "languages": [
+    "es-la",
+    "pl",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "468404b6-b4c3-4205-9481-ddf462d0faa5",
    "title": {
     "en": "Unbeatable Youth"
    },
    "contentRating": "safe",
-   "score": 0.2822959,
+   "score": 0.28218833,
    "languages": [
     "en"
    ]
@@ -45,7 +84,7 @@
     "en": "Hadashi no Aitsu"
    },
    "contentRating": "safe",
-   "score": 0.28050905,
+   "score": 0.27774623,
    "languages": [
     "en"
    ]
@@ -56,7 +95,7 @@
     "en": "Bitter Trap"
    },
    "contentRating": "safe",
-   "score": 0.2801935,
+   "score": 0.27768773,
    "languages": [
     "en",
     "bg",
@@ -69,7 +108,7 @@
     "en": "Asura"
    },
    "contentRating": "safe",
-   "score": 0.27709666,
+   "score": 0.2753984,
    "languages": [
     "en"
    ]
@@ -80,7 +119,7 @@
     "en": "Invincible Yeonbyeongeol"
    },
    "contentRating": "safe",
-   "score": 0.27406952,
+   "score": 0.27254587,
    "languages": [
     "en"
    ]
@@ -91,7 +130,7 @@
     "en": "1 + 1"
    },
    "contentRating": "safe",
-   "score": 0.2697168,
+   "score": 0.2694876,
    "languages": [
     "en"
    ]
@@ -102,21 +141,31 @@
     "en": "Sweetheart Devil"
    },
    "contentRating": "safe",
-   "score": 0.2687863,
+   "score": 0.26870456,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e4230768-9803-4a21-81c3-d01d604bdb47",
+   "id": "672032b6-0691-4161-92a7-77bc65e15d5d",
    "title": {
-    "en": "Kono Mama ja Dame Mitai desu"
+    "en": "Kyoukasho wa Oshiete Kurenai"
    },
    "contentRating": "safe",
-   "score": 0.2685094,
+   "score": 0.26683325,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.2660748,
    "languages": [
     "en",
-    "pt-br",
     "pl"
    ]
   },
@@ -126,69 +175,22 @@
     "en": "Megane Ouji"
    },
    "contentRating": "safe",
-   "score": 0.26708746,
+   "score": 0.2660631,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
+   "id": "5df61121-3e7b-4383-89ae-387c4930b987",
    "title": {
-    "en": "Family!"
+    "en": "Houkago - Kindan no Lesson"
    },
    "contentRating": "safe",
-   "score": 0.26514968,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4dc16407-9fc9-49f7-8a44-aada787df91c",
-   "title": {
-    "en": "The Guy Who Will Give a Kiss for ₩ 5000"
-   },
-   "contentRating": "safe",
-   "score": 0.26457474,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "a7fb9fb3-d67e-4b54-9e98-29428293f93f",
-   "title": {
-    "en": "Gakkou no Ojikan"
-   },
-   "contentRating": "safe",
-   "score": 0.26355973,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f903065a-0031-4356-a699-17dec02c5759",
-   "title": {
-    "en": "Miunohri to Swan"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "4dcf7f9c-b76e-488d-97f2-c7d55a4f430d",
-   "title": {
-    "en": "My Sweet Dragon"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
+   "score": 0.2658171,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:23+00:00"
+ "updatedAt": "2023-12-10T18:12:51+00:00"
 }

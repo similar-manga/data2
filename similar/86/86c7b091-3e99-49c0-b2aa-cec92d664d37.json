@@ -6,39 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b6998730-02bb-4251-b396-c425253cac1b",
+   "title": {
+    "en": "Nakimushi Gakuran Musume"
+   },
+   "contentRating": "safe",
+   "score": 0.42740083
+  },
+  {
    "id": "7a0fa439-3bfc-4495-a651-15c84c7b4d6e",
    "title": {
     "en": "Hajimete Nandesu"
    },
    "contentRating": "safe",
-   "score": 0.39577922
-  },
-  {
-   "id": "8fd38d32-55c2-4523-8420-27ce927b0160",
-   "title": {
-    "en": "Kokuhaku Mamire"
-   },
-   "contentRating": "safe",
-   "score": 0.366436
-  },
-  {
-   "id": "2e571be3-c634-48ab-a813-4834d08f2806",
-   "title": {
-    "en": "Yumeiro Button"
-   },
-   "contentRating": "safe",
-   "score": 0.3549037,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "818fe1b6-6ec6-45ca-b13f-34b5a4dcfc44",
-   "title": {
-    "en": "Amai Doku Osananajimi"
-   },
-   "contentRating": "safe",
-   "score": 0.34880754
+   "score": 0.35590425
   },
   {
    "id": "e86709a7-ae39-498e-beb1-89fd0a84d2ed",
@@ -46,7 +27,7 @@
     "en": "Hirahira to Gunjou"
    },
    "contentRating": "safe",
-   "score": 0.3424228,
+   "score": 0.3285743,
    "languages": [
     "pt-br",
     "en",
@@ -55,12 +36,42 @@
    ]
   },
   {
+   "id": "2e571be3-c634-48ab-a813-4834d08f2806",
+   "title": {
+    "en": "Yumeiro Button"
+   },
+   "contentRating": "safe",
+   "score": 0.3260716,
+   "languages": [
+    "it"
+   ]
+  },
+  {
+   "id": "8fd38d32-55c2-4523-8420-27ce927b0160",
+   "title": {
+    "en": "Kokuhaku Mamire"
+   },
+   "contentRating": "safe",
+   "score": 0.3253103
+  },
+  {
+   "id": "1199738b-af3a-42ea-ab6a-ca4f796ae04c",
+   "title": {
+    "en": "Spring One Year Later"
+   },
+   "contentRating": "safe",
+   "score": 0.3248842,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3d7c6186-75d7-44bf-91d2-e111b7258f43",
    "title": {
     "en": "Latent Heat"
    },
    "contentRating": "safe",
-   "score": 0.33599877,
+   "score": 0.31747583,
    "languages": [
     "en"
    ]
@@ -71,56 +82,10 @@
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.33548063,
+   "score": 0.3173421,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
-   "title": {
-    "en": "After Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.33489928,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "f5a0c719-6fd7-4116-9227-6d4b55180ce2",
-   "title": {
-    "en": "Navy Blue no Hoshizora"
-   },
-   "contentRating": "safe",
-   "score": 0.327445,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1199738b-af3a-42ea-ab6a-ca4f796ae04c",
-   "title": {
-    "en": "Spring One Year Later"
-   },
-   "contentRating": "safe",
-   "score": 0.32602873,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "051f3400-6e8b-4b60-8679-da219d49d9ff",
-   "title": {
-    "en": "Yorimichi :RE"
-   },
-   "contentRating": "safe",
-   "score": 0.31879535,
-   "languages": [
-    "en",
-    "tr"
    ]
   },
   {
@@ -129,7 +94,7 @@
     "en": "Seitoshidoushitsu no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.3162657,
+   "score": 0.31550834,
    "languages": [
     "en"
    ]
@@ -140,29 +105,21 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.31546038,
+   "score": 0.31431597,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "5f50db01-9ee9-49c0-90d9-f3ccda54d8f8",
+   "id": "f5a0c719-6fd7-4116-9227-6d4b55180ce2",
    "title": {
-    "en": "Konyaku 0-Nichi Kon wa Dou desu ka?"
+    "en": "Navy Blue no Hoshizora"
    },
    "contentRating": "safe",
-   "score": 0.31479087
-  },
-  {
-   "id": "c3b76091-082d-4679-b40e-d8147553042b",
-   "title": {
-    "en": "0x0 Memories"
-   },
-   "contentRating": "safe",
-   "score": 0.31428596,
+   "score": 0.3138868,
    "languages": [
-    "es-la"
+    "en"
    ]
   },
   {
@@ -171,11 +128,57 @@
     "en": "Trouble in the Classroom"
    },
    "contentRating": "safe",
-   "score": 0.31328377,
+   "score": 0.31168094,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b1dae931-3331-4846-9738-dfce2c3aafc9",
+   "title": {
+    "en": "Hajimete no Koi no Sodatekata"
+   },
+   "contentRating": "safe",
+   "score": 0.31029347,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3ee868db-b4d0-4887-bb66-47a666d9ce82",
+   "title": {
+    "en": "The Hatsukoi Chronicle"
+   },
+   "contentRating": "safe",
+   "score": 0.30952236,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
+   "title": {
+    "en": "Namae mo Shiranai"
+   },
+   "contentRating": "safe",
+   "score": 0.30890435,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "0c78b56d-8780-4617-a0aa-ceacf71c981e",
+   "title": {
+    "en": "Ama Iro Omoi"
+   },
+   "contentRating": "safe",
+   "score": 0.3069552,
+   "languages": [
+    "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:12+00:00"
+ "updatedAt": "2023-12-10T18:23:07+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Tamago Tsuki"
    },
    "contentRating": "safe",
-   "score": 0.27357033,
+   "score": 0.27492717,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "A Spring Evening in the Forest of Mystery"
    },
    "contentRating": "safe",
-   "score": 0.26395234,
+   "score": 0.26847807,
    "languages": [
     "es",
     "en"
@@ -34,7 +34,7 @@
     "en": "MAMAGOTO"
    },
    "contentRating": "safe",
-   "score": 0.24522561,
+   "score": 0.24627139,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Busujima Kyouju no Tamago"
    },
    "contentRating": "safe",
-   "score": 0.23807211,
+   "score": 0.23857489,
    "languages": [
     "en",
     "fr"
@@ -57,7 +57,7 @@
     "en": "Inochi o Odoru"
    },
    "contentRating": "safe",
-   "score": 0.23140861,
+   "score": 0.23198156,
    "languages": [
     "en"
    ]
@@ -68,7 +68,18 @@
     "en": "Change Mark"
    },
    "contentRating": "safe",
-   "score": 0.22767492,
+   "score": 0.23014171,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22108eaa-ed56-4344-aa17-a9f28f29ca22",
+   "title": {
+    "en": "PikaPika"
+   },
+   "contentRating": "safe",
+   "score": 0.22043376,
    "languages": [
     "en"
    ]
@@ -79,7 +90,7 @@
     "en": "Beyond the Mirror"
    },
    "contentRating": "safe",
-   "score": 0.21788768,
+   "score": 0.21985616,
    "languages": [
     "ar",
     "en",
@@ -103,27 +114,46 @@
    ]
   },
   {
-   "id": "b083f65f-a56d-4bf1-b7d0-475c05cf0253",
-   "title": {
-    "en": "In the White"
-   },
-   "contentRating": "safe",
-   "score": 0.21512826,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e3792f0d-57a6-455f-90bd-2e68d7ea5a04",
    "title": {
     "en": "Monster's Child"
    },
    "contentRating": "safe",
-   "score": 0.21456365,
+   "score": 0.21331358,
    "languages": [
     "ru",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "69ce0790-d96b-4ff5-9a55-3974199b6b78",
+   "title": {
+    "ja": "Kyojin Sumai no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.20801225,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd9b65e3-b9e2-4d8b-b9dd-0bc8be59f312",
+   "title": {
+    "en": "Beast Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.2078999,
+   "languages": [
+    "ru",
+    "vi",
+    "en",
+    "it",
+    "zh-hk",
+    "pt-br",
+    "es-la",
+    "id",
+    "fr"
    ]
   },
   {
@@ -132,7 +162,7 @@
     "en": "A Boy Who Fishes Dreams"
    },
    "contentRating": "safe",
-   "score": 0.208511,
+   "score": 0.20727704,
    "languages": [
     "en",
     "es-la"
@@ -144,7 +174,7 @@
     "en": "Oni (KANNO Osamu)"
    },
    "contentRating": "safe",
-   "score": 0.2052097,
+   "score": 0.20547852,
    "languages": [
     "vi",
     "en"
@@ -156,7 +186,7 @@
     "en": "Rules for Keeping a Dragon"
    },
    "contentRating": "safe",
-   "score": 0.20516478,
+   "score": 0.20445007,
    "languages": [
     "es-la",
     "vi",
@@ -166,39 +196,17 @@
    ]
   },
   {
-   "id": "63fefbed-fb2a-479b-8ef1-c209902cfd5b",
+   "id": "57eb8cb4-795e-4a62-9ee0-a62e8bc2baf5",
    "title": {
-    "en": "Today's an 〇!"
+    "en": "Fox-Masked Guardian Spirit"
    },
    "contentRating": "safe",
-   "score": 0.20402943,
+   "score": 0.2009679,
    "languages": [
+    "th",
     "en"
-   ]
-  },
-  {
-   "id": "22108eaa-ed56-4344-aa17-a9f28f29ca22",
-   "title": {
-    "en": "PikaPika"
-   },
-   "contentRating": "safe",
-   "score": 0.2008801,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "529d28c3-cd3e-44dd-b265-6366f86438a0",
-   "title": {
-    "en": "Cut the Angel with a Scythe"
-   },
-   "contentRating": "safe",
-   "score": 0.20054479,
-   "languages": [
-    "en",
-    "bg"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:07+00:00"
+ "updatedAt": "2023-12-10T18:25:27+00:00"
 }

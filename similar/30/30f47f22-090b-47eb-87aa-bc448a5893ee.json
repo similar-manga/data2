@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
     "en": "Nageku Shinigami"
@@ -30,13 +18,14 @@
    ]
   },
   {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
    "title": {
-    "en": "Without the Sun"
+    "en": "Taiyou no Yuki"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "pl",
     "en"
    ]
   },
@@ -52,12 +41,23 @@
    ]
   },
   {
+   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "title": {
+    "en": "Without the Sun"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
    "title": {
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.2762163,
+   "score": 0.27565494,
    "languages": [
     "pl",
     "en"
@@ -69,7 +69,7 @@
     "en": "18 Years Old, We Got Married"
    },
    "contentRating": "safe",
-   "score": 0.27010053,
+   "score": 0.27009943,
    "languages": [
     "pl",
     "fr"
@@ -81,7 +81,7 @@
     "en": "Saigo no Negai ~Last Pray~"
    },
    "contentRating": "safe",
-   "score": 0.26915225,
+   "score": 0.2687399,
    "languages": [
     "en",
     "it"
@@ -93,7 +93,7 @@
     "en": "Dana's Garden"
    },
    "contentRating": "safe",
-   "score": 0.26441756,
+   "score": 0.26364097,
    "languages": [
     "en"
    ]
@@ -129,17 +129,15 @@
    ]
   },
   {
-   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
+   "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
    "title": {
-    "en": "Tsuki no Kanon"
+    "en": "The Animal Sacrifice"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "fr",
-    "en",
-    "ru",
-    "de"
+    "pl",
+    "en"
    ]
   },
   {
@@ -166,15 +164,17 @@
    ]
   },
   {
-   "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
+   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
    "title": {
-    "en": "The Animal Sacrifice"
+    "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "pl",
-    "en"
+    "fr",
+    "en",
+    "ru",
+    "de"
    ]
   },
   {
@@ -183,7 +183,7 @@
     "en": "Koigokoro Telepathy"
    },
    "contentRating": "safe",
-   "score": 0.24533528,
+   "score": 0.24399608,
    "languages": [
     "en",
     "pl"
@@ -195,11 +195,11 @@
     "en": "Usurai ni Saku"
    },
    "contentRating": "safe",
-   "score": 0.23892967,
+   "score": 0.23839757,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:37+00:00"
+ "updatedAt": "2023-12-10T18:13:32+00:00"
 }

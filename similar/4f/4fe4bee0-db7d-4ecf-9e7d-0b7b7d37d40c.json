@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "167689d9-f80e-4ffe-8f59-44d0b41a5f4f",
+   "title": {
+    "en": "Hand-in-Hand Lovers"
+   },
+   "contentRating": "safe",
+   "score": 0.32053536,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "8305911a-7aa9-4537-9d5d-74bc299bf8f0",
    "title": {
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.3206539,
+   "score": 0.31997642,
    "languages": [
     "pt-br",
     "en"
@@ -23,8 +35,20 @@
     "en": "Boyish na Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.31665453,
+   "score": 0.31789023,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
+   "title": {
+    "en": "Liar Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.31352186,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -34,19 +58,7 @@
     "en": "Heart Throbbing Holidays - Are You Ready?"
    },
    "contentRating": "safe",
-   "score": 0.3121565
-  },
-  {
-   "id": "167689d9-f80e-4ffe-8f59-44d0b41a5f4f",
-   "title": {
-    "en": "Hand-in-Hand Lovers"
-   },
-   "contentRating": "safe",
-   "score": 0.3116898,
-   "languages": [
-    "en",
-    "pl"
-   ]
+   "score": 0.31037724
   },
   {
    "id": "6a94ab1b-a0f3-4b90-9cbf-38b1aa8a05c1",
@@ -54,7 +66,7 @@
     "en": "Kon no Ki Konoha"
    },
    "contentRating": "safe",
-   "score": 0.30944192,
+   "score": 0.3039824,
    "languages": [
     "fr",
     "id",
@@ -66,25 +78,38 @@
    ]
   },
   {
-   "id": "4ea8819d-ae1d-4d86-9180-ad0a8f255983",
-   "title": {
-    "en": "Liar Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.30653965,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "db12d3fc-9863-488a-a432-fe0664f964e3",
    "title": {
     "en": "I Love My Sister's Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.30270296,
+   "score": 0.30282006,
    "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "9bb430cd-73d0-4eb1-b419-caed206e6dfd",
+   "title": {
+    "en": "Three Feminine Sisters"
+   },
+   "contentRating": "safe",
+   "score": 0.30132666,
+   "languages": [
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
+   "title": {
+    "en": "Hoshi ni Negau"
+   },
+   "contentRating": "safe",
+   "score": 0.30004683,
+   "languages": [
+    "pt-br",
+    "en",
     "pl"
    ]
   },
@@ -94,7 +119,7 @@
     "en": "Hana, Saita."
    },
    "contentRating": "safe",
-   "score": 0.30080268,
+   "score": 0.2998126,
    "languages": [
     "en",
     "pl"
@@ -106,19 +131,18 @@
     "en": "Idol ga Maiban Heya ni Shinnyuu Shitekuru"
    },
    "contentRating": "safe",
-   "score": 0.29953948
+   "score": 0.2992307
   },
   {
-   "id": "65232122-a33b-4330-aa4a-8b1bba591d2d",
+   "id": "4b85991b-ee4e-4f72-9016-b9ccca09d1a7",
    "title": {
-    "en": "Hoshi ni Negau"
+    "en": "No Use Crying Over Spilt Milk"
    },
    "contentRating": "safe",
-   "score": 0.29938298,
+   "score": 0.29798555,
    "languages": [
-    "pt-br",
     "en",
-    "pl"
+    "pt-br"
    ]
   },
   {
@@ -127,21 +151,9 @@
     "en": "Go Isshou ni Heart mo Atatamemasuka?"
    },
    "contentRating": "safe",
-   "score": 0.29824123,
+   "score": 0.29792643,
    "languages": [
     "pl"
-   ]
-  },
-  {
-   "id": "4b85991b-ee4e-4f72-9016-b9ccca09d1a7",
-   "title": {
-    "en": "No Use Crying Over Spilt Milk"
-   },
-   "contentRating": "safe",
-   "score": 0.2979364,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -150,7 +162,7 @@
     "en": "Gameko no Chouhoroku"
    },
    "contentRating": "safe",
-   "score": 0.2977046
+   "score": 0.29788214
   },
   {
    "id": "5a691c66-3e67-424b-b361-a56ea71ee9bc",
@@ -158,7 +170,7 @@
     "en": "Amber"
    },
    "contentRating": "safe",
-   "score": 0.2968011,
+   "score": 0.29718408,
    "languages": [
     "en",
     "id"
@@ -170,22 +182,11 @@
     "en": "Yuki no Koi"
    },
    "contentRating": "safe",
-   "score": 0.2958361,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e805b06-e507-4b57-9c53-8c3a31edc60f",
-   "title": {
-    "en": "Madokana Tsuki to Encore"
-   },
-   "contentRating": "safe",
-   "score": 0.29549146,
+   "score": 0.2958603,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:53+00:00"
+ "updatedAt": "2023-12-10T18:16:56+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "The End in Common Ruin"
    },
    "contentRating": "safe",
-   "score": 0.6837857,
+   "score": 0.69024014,
    "languages": [
     "bg",
     "pl",
@@ -20,12 +20,12 @@
    ]
   },
   {
-   "id": "c029ec76-3bfb-4469-beb7-c6ca3d981eb8",
+   "id": "86f2b731-aec3-4596-9f87-5573a201d561",
    "title": {
-    "en": "Alice in Underground"
+    "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.6087356,
+   "score": 0.61684597,
    "languages": [
     "pl",
     "en",
@@ -33,12 +33,12 @@
    ]
   },
   {
-   "id": "86f2b731-aec3-4596-9f87-5573a201d561",
+   "id": "c029ec76-3bfb-4469-beb7-c6ca3d981eb8",
    "title": {
-    "en": "Deserted Place"
+    "en": "Alice in Underground"
    },
    "contentRating": "safe",
-   "score": 0.6079219,
+   "score": 0.6133751,
    "languages": [
     "pl",
     "en",
@@ -51,37 +51,12 @@
     "en": "Slice of Black Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.49784508,
+   "score": 0.50306123,
    "languages": [
     "en",
     "hu",
     "bg",
     "ro"
-   ]
-  },
-  {
-   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
-   "title": {
-    "en": "We Can Fly!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "it"
-   ]
-  },
-  {
-   "id": "541892c9-c8c2-4e39-ad0f-56adf282723d",
-   "title": {
-    "en": "uturu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -107,15 +82,17 @@
    ]
   },
   {
-   "id": "4797ccc1-5bfc-48d7-9d2e-e57aebcaf9d7",
+   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
    "title": {
-    "en": "The Straw Hat and the Carp"
+    "en": "We Can Fly!"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en",
-    "hu"
+    "pt-br",
+    "pl",
+    "it"
    ]
   },
   {
@@ -127,6 +104,29 @@
    "score": 0.2857143,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "541892c9-c8c2-4e39-ad0f-56adf282723d",
+   "title": {
+    "en": "uturu"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4797ccc1-5bfc-48d7-9d2e-e57aebcaf9d7",
+   "title": {
+    "en": "The Straw Hat and the Carp"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "hu"
    ]
   },
   {
@@ -155,6 +155,21 @@
    ]
   },
   {
+   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
+   "title": {
+    "en": "In the Rose Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "ru",
+    "vi",
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
    "title": {
     "en": "Ougon no Koku"
@@ -172,7 +187,7 @@
     "en": "Watashi, Idol Yamemasu"
    },
    "contentRating": "safe",
-   "score": 0.28106532,
+   "score": 0.2803067,
    "languages": [
     "en"
    ]
@@ -183,7 +198,7 @@
     "en": "0°C no Mahou"
    },
    "contentRating": "safe",
-   "score": 0.27688485,
+   "score": 0.27552104,
    "languages": [
     "tr",
     "de",
@@ -194,19 +209,7 @@
     "fr",
     "ca"
    ]
-  },
-  {
-   "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
-   "title": {
-    "en": "Schizanthus"
-   },
-   "contentRating": "safe",
-   "score": 0.264828,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:00+00:00"
+ "updatedAt": "2023-12-10T18:17:14+00:00"
 }

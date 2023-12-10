@@ -11,7 +11,7 @@
     "en": "Oshimai"
    },
    "contentRating": "suggestive",
-   "score": 0.2654415,
+   "score": 0.26484096,
    "languages": [
     "en",
     "vi",
@@ -28,22 +28,28 @@
     "en": "Boku to Iris-sensei to"
    },
    "contentRating": "suggestive",
-   "score": 0.26268062
+   "score": 0.26301593
   },
   {
-   "id": "e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
+   "id": "cdc99c04-f44d-4936-be94-d172d689a063",
    "title": {
-    "en": "Boku no Suki na Hito ga Suki na Hito"
+    "en": "Sowasowa Drawing"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24743582
+  },
+  {
+   "id": "e1bede76-6ec6-4918-bdf3-4b36733ba646",
+   "title": {
+    "en": "The Unattainable Flower's Twisted Bloom"
    },
    "contentRating": "suggestive",
    "score": 0.24743582,
    "languages": [
-    "es-la",
-    "pt-br",
-    "vi",
     "en",
-    "th",
-    "ru"
+    "es-la",
+    "ru",
+    "vi"
    ]
   },
   {
@@ -71,28 +77,6 @@
    "score": 0.24743582
   },
   {
-   "id": "cdc99c04-f44d-4936-be94-d172d689a063",
-   "title": {
-    "en": "Sowasowa Drawing"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24743582
-  },
-  {
-   "id": "e1bede76-6ec6-4918-bdf3-4b36733ba646",
-   "title": {
-    "en": "The Unattainable Flower's Twisted Bloom"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "es-la",
-    "ru",
-    "vi"
-   ]
-  },
-  {
    "id": "51ee4682-2951-4989-8d6e-30dc553050e4",
    "title": {
     "en": "Asahi Ojo-sama and Kashima-kun"
@@ -101,12 +85,28 @@
    "score": 0.24743582
   },
   {
+   "id": "e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
+   "title": {
+    "en": "Boku no Suki na Hito ga Suki na Hito"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24743582,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "vi",
+    "en",
+    "th",
+    "ru"
+   ]
+  },
+  {
    "id": "7015d042-0e11-427c-885f-6870b29e577c",
    "title": {
     "en": "Kimi no Inmou ga Mitai!!!"
    },
    "contentRating": "suggestive",
-   "score": 0.24244913
+   "score": 0.24154271
   },
   {
    "id": "89fe9820-c2e4-4866-9b84-e068c5dee3f5",
@@ -117,6 +117,29 @@
    "score": 0.21597971,
    "languages": [
     "zh"
+   ]
+  },
+  {
+   "id": "5328b7f4-0698-4cec-94a4-a558ec5dedb7",
+   "title": {
+    "en": "Cos-Chu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f2fa82a7-cf98-48cd-886c-86c35fc6d223",
+   "title": {
+    "en": "Shoujo Nyuumon"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21428573,
+   "languages": [
+    "id",
+    "en"
    ]
   },
   {
@@ -138,22 +161,9 @@
    ]
   },
   {
-   "id": "8c701f22-8ef9-4b0d-ae4e-0e17ac3cd074",
+   "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
    "title": {
-    "en": "Nanjou-san wa Boku ni Dakaretai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "vi",
-    "pl"
-   ]
-  },
-  {
-   "id": "408ce531-4044-4aec-b72d-a4b4eba00366",
-   "title": {
-    "en": "Gampuku"
+    "en": "Tackle Shoujo"
    },
    "contentRating": "suggestive",
    "score": 0.21428573,
@@ -171,18 +181,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0c760cc8-24f2-429c-8b16-e72befe4e862",
-   "title": {
-    "en": "Maria Sensei wa Imouto Gachizei!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:40+00:00"
 }

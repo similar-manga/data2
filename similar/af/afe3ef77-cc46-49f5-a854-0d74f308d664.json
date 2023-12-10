@@ -35,7 +35,7 @@
     "en": "Joushi no Atsu ga Tsuyo Sugite Koi ga Dekinai"
    },
    "contentRating": "suggestive",
-   "score": 0.23801419,
+   "score": 0.23736735,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Oku-san"
    },
    "contentRating": "suggestive",
-   "score": 0.2344271,
+   "score": 0.23404688,
    "languages": [
     "en",
     "de",
@@ -66,18 +66,6 @@
    ]
   },
   {
-   "id": "c4d5228c-846d-47c5-8659-0aa70d5c0d41",
-   "title": {
-    "en": "Kumamiko"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22980437,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "07b64183-8831-4338-9d98-fada1d0795b8",
    "title": {
     "en": "The Warashiki Zawarashiki"
@@ -87,6 +75,18 @@
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "c4d5228c-846d-47c5-8659-0aa70d5c0d41",
+   "title": {
+    "en": "Kumamiko"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22980437,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -103,17 +103,6 @@
     "tr",
     "id",
     "vi"
-   ]
-  },
-  {
-   "id": "6702555e-1e20-4a06-9344-9c86f3372e4b",
-   "title": {
-    "en": "One Night Morning"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22506468,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -157,34 +146,23 @@
    ]
   },
   {
+   "id": "6702555e-1e20-4a06-9344-9c86f3372e4b",
+   "title": {
+    "en": "One Night Morning"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3d7eeef3-d43a-436c-8aaf-f7f66966c6a7",
    "title": {
     "en": "Fuku Neko"
    },
    "contentRating": "suggestive",
-   "score": 0.22331947,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c6f0478-16c9-460e-8513-487ac7416d5f",
-   "title": {
-    "en": "Ane to Muchi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21057123,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da18a1d0-f9c7-4cd6-a843-5b7fed0cf4c2",
-   "title": {
-    "en": "Kemonona Watashi to Yoimasen ka"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20978172,
+   "score": 0.22308159,
    "languages": [
     "en"
    ]
@@ -200,7 +178,29 @@
     "en",
     "vi"
    ]
+  },
+  {
+   "id": "da18a1d0-f9c7-4cd6-a843-5b7fed0cf4c2",
+   "title": {
+    "en": "Kemonona Watashi to Yoimasen ka"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20978172,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c6f0478-16c9-460e-8513-487ac7416d5f",
+   "title": {
+    "en": "Ane to Muchi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20973365,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:01+00:00"
+ "updatedAt": "2023-12-10T18:28:02+00:00"
 }

@@ -6,14 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6ad1f2f1-daa8-4583-8540-c754299f7e3c",
+   "title": {
+    "en": "Legend of Dragoon"
+   },
+   "contentRating": "safe",
+   "score": 0.3052821,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4dad3ab4-10a6-4e07-8121-12f07e3d6ceb",
    "title": {
     "en": "Chong Tai Ji"
    },
    "contentRating": "safe",
-   "score": 0.2863082,
+   "score": 0.28595042,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "36285540-c2c0-40ae-986a-a839fcd0f08b",
+   "title": {
+    "en": "Hakurai no Kishi"
+   },
+   "contentRating": "safe",
+   "score": 0.26227233,
+   "languages": [
+    "it",
+    "pt-br",
+    "en",
+    "id"
    ]
   },
   {
@@ -22,7 +47,18 @@
     "en": "Gyakushuu no Dragon Rider"
    },
    "contentRating": "safe",
-   "score": 0.2622006,
+   "score": 0.26104614,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "babf5453-f545-4ff4-92c5-68bca1b6f2dd",
+   "title": {
+    "en": "Zassou Tensei: Elf no Sato de Taisetsu no Sodateraretemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
    "languages": [
     "en"
    ]
@@ -68,6 +104,30 @@
    ]
   },
   {
+   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
+   "title": {
+    "en": "The Chronicle of Seven (webcomic version)"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "23f5a027-3c83-484f-8801-9639c604097d",
+   "title": {
+    "en": "Stellar Transformations"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "57642280-65de-4879-a6e2-2e0420237369",
    "title": {
     "en": "Tenkuu Seiryuu ~Innocent Dragon~"
@@ -80,54 +140,32 @@
    ]
   },
   {
-   "id": "babf5453-f545-4ff4-92c5-68bca1b6f2dd",
+   "id": "00fc664e-edfd-42e8-b117-28300e2b1517",
    "title": {
-    "en": "Zassou Tensei: Elf no Sato de Taisetsu no Sodateraretemasu"
+    "en": "Sheng Wang"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c40c0488-627d-49b8-8ff8-a04283700b98",
-   "title": {
-    "en": "The Chronicle of Seven (webcomic version)"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f1d65976-1ed7-4843-bb03-fa7a5cbe0715",
-   "title": {
-    "en": "Grandeek ReeL"
-   },
-   "contentRating": "safe",
-   "score": 0.25886458,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9bd8ac10-9f44-4447-8c99-c312ed7a3e7f",
-   "title": {
-    "en": "Element Line"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
     "en",
-    "bg"
+    "id"
    ]
   },
   {
-   "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
+   "id": "76f0b8b0-2feb-4fbc-b6ec-07b90027fbfb",
    "title": {
-    "en": "Star Ocean - The Second Story"
+    "en": "Henkyou Toshi no Ikuseisha"
+   },
+   "contentRating": "safe",
+   "score": 0.25767562,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37bf1c2f-7974-456a-ab6a-c7534b70638e",
+   "title": {
+    "en": "Avian Wander"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -136,21 +174,9 @@
    ]
   },
   {
-   "id": "c1af11a0-100e-4164-be35-b33a87dcb0e0",
+   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
    "title": {
-    "en": "Tales of Xillia SIDE;MILLA"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
-   "title": {
-    "en": "Radiata Stories - The Song of Ridley"
+    "en": "Niki."
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -159,41 +185,16 @@
    ]
   },
   {
-   "id": "859ac2c3-bdc1-4ab0-bbf8-a81c6d809157",
+   "id": "f9888579-8596-4f82-bda7-056d98dfd29a",
    "title": {
-    "en": "Tenma no Ketsuzoku"
+    "en": "Tales of Xillia SIDE;JUDE"
    },
    "contentRating": "safe",
-   "score": 0.24839053,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "1e440a10-709a-41e9-a546-c20e2fc0406f",
-   "title": {
-    "en": "The Descendant of the Dynasty"
-   },
-   "contentRating": "safe",
-   "score": 0.24743888,
-   "languages": [
-    "en",
-    "fr",
-    "tr"
-   ]
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.2438478,
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:30+00:00"
+ "updatedAt": "2023-12-10T18:34:16+00:00"
 }

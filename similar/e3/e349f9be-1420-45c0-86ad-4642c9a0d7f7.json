@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
+   "title": {
+    "en": "Mr. Applicant"
+   },
+   "contentRating": "safe",
+   "score": 0.26018915,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "98df5987-adac-4232-be58-8718b43aa5e8",
    "title": {
     "en": "Kintoki"
    },
    "contentRating": "safe",
-   "score": 0.26362506,
+   "score": 0.25964558,
    "languages": [
     "en",
     "pt-br",
@@ -20,23 +31,58 @@
    ]
   },
   {
-   "id": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
-   "title": {
-    "en": "Mr. Applicant"
-   },
-   "contentRating": "safe",
-   "score": 0.2605818,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "59fba7da-5364-47a4-9c62-678ba7822b96",
    "title": {
     "en": "Harukanaru Toki no Naka de"
    },
    "contentRating": "safe",
-   "score": 0.2488993,
+   "score": 0.24813633,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
+   "title": {
+    "en": "Star Ocean - The Second Story"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "45d7ddc2-81b8-43c6-8ff2-358a19f37098",
+   "title": {
+    "en": "Lycanthrope Bouken Hoken"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "es-la",
+    "es"
+   ]
+  },
+  {
+   "id": "dd01b0e5-2fe2-4ca0-8ceb-ca69ecc9471d",
+   "title": {
+    "en": "Tsubasa o Motsu Mono"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "560e41b7-2910-4788-b399-bc290b934cf3",
+   "title": {
+    "en": "Nidoto Ie ni wa Kaerimasen!"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
@@ -49,6 +95,42 @@
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5ac5e2ec-9a36-4857-b648-824ee67b7092",
+   "title": {
+    "en": "Maou Voice"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cdbf50ae-91e4-4ede-81c3-69fdc390cca5",
+   "title": {
+    "en": "Mugen Sekai no Amadeus"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "42894459-c805-4110-a332-00d4bc9bff39",
+   "title": {
+    "en": "Tobenai Washi Ouji"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -76,46 +158,12 @@
    ]
   },
   {
-   "id": "42894459-c805-4110-a332-00d4bc9bff39",
-   "title": {
-    "en": "Tobenai Washi Ouji"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "dd01b0e5-2fe2-4ca0-8ceb-ca69ecc9471d",
-   "title": {
-    "en": "Tsubasa o Motsu Mono"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98ce22fd-01aa-48e5-8ded-d96bd438e80f",
-   "title": {
-    "en": "Star Ocean - The Second Story"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "169e622e-308b-406c-84dc-d5df8e4e165c",
    "title": {
     "en": "Kaizoku to Ningyo"
    },
    "contentRating": "safe",
-   "score": 0.24198371,
+   "score": 0.2421237,
    "languages": [
     "en",
     "pl",
@@ -123,9 +171,9 @@
    ]
   },
   {
-   "id": "a77ebe92-b91c-4d64-a4c6-bc7e2b1b9073",
+   "id": "ac4af907-2458-4d27-ad0d-7d238d0514ee",
    "title": {
-    "en": "Betsuma"
+    "en": "Maousa"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -134,61 +182,17 @@
    ]
   },
   {
-   "id": "e509dab4-ee9d-443e-903a-2c175f374b99",
+   "id": "19e75e0a-13e8-44b9-8510-c348bae6fc7c",
    "title": {
-    "en": "B-Wanted"
+    "en": "Chaos Theory"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "22520fbd-2dfe-4328-9cee-0075b95180fc",
-   "title": {
-    "en": "Love Probation Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
-   "title": {
-    "en": "Terranigma"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b32a84d0-bf75-4d9c-a4bb-17c74f83416f",
-   "title": {
-    "en": "Crown"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cd324a28-9dea-4273-ad31-2633f8aaf98e",
-   "title": {
-    "en": "Other Side of the Milky Way"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:08+00:00"
+ "updatedAt": "2023-12-10T18:33:23+00:00"
 }

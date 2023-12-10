@@ -11,7 +11,7 @@
     "en": "Monkey Girl"
    },
    "contentRating": "safe",
-   "score": 0.17769277
+   "score": 0.17741351
   },
   {
    "id": "0f7bb049-e017-4ea3-a18a-61e9c96cd584",
@@ -19,7 +19,7 @@
     "en": "Bloody Bug Mansion"
    },
    "contentRating": "safe",
-   "score": 0.17382587
+   "score": 0.17393729
   },
   {
    "id": "b324fffc-38ba-4da2-9474-ffe01d55aab3",
@@ -27,7 +27,7 @@
     "en": "Fear! Manor of Blood"
    },
    "contentRating": "safe",
-   "score": 0.17086409
+   "score": 0.17069376
   },
   {
    "id": "ee9ddb6a-3918-4d1b-8da9-02e59fb0f10c",
@@ -47,7 +47,7 @@
     "en": "Lightning Girl"
    },
    "contentRating": "safe",
-   "score": 0.1673835
+   "score": 0.16629018
   },
   {
    "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
@@ -58,12 +58,12 @@
    "score": 0.16570288
   },
   {
-   "id": "6d2e3885-381f-4e7b-af5f-63352706e308",
+   "id": "1bd7ade4-51e4-45aa-9b60-58d48e49d5ea",
    "title": {
-    "en": "Shinsetsu Hyakumonogatari"
+    "en": "Himitsu - Season 0"
    },
    "contentRating": "safe",
-   "score": 0.15655158
+   "score": 0.16137408
   },
   {
    "id": "a49a60a5-260d-4763-be56-da93d5b3fcc7",
@@ -71,7 +71,26 @@
     "en": "Hitoribocchi no Kuni"
    },
    "contentRating": "safe",
-   "score": 0.15543695,
+   "score": 0.15509251,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6d2e3885-381f-4e7b-af5f-63352706e308",
+   "title": {
+    "en": "Shinsetsu Hyakumonogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.15475293
+  },
+  {
+   "id": "534c422b-bcd0-4eb2-be39-2c7e0adf1449",
+   "title": {
+    "en": "Ayako"
+   },
+   "contentRating": "safe",
+   "score": 0.15342271,
    "languages": [
     "en"
    ]
@@ -82,18 +101,7 @@
     "en": "Kare wa Hanazono de Yume wo Miru"
    },
    "contentRating": "safe",
-   "score": 0.1526175
-  },
-  {
-   "id": "534c422b-bcd0-4eb2-be39-2c7e0adf1449",
-   "title": {
-    "en": "Ayako"
-   },
-   "contentRating": "safe",
-   "score": 0.15224178,
-   "languages": [
-    "en"
-   ]
+   "score": 0.15260945
   },
   {
    "id": "73971ccf-fbba-4891-8df2-2bd5eebf79ba",
@@ -101,18 +109,7 @@
     "en": "1/2"
    },
    "contentRating": "safe",
-   "score": 0.15049058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "439a7f7e-c43c-4dca-871f-348ab672e72b",
-   "title": {
-    "en": "Usurai ni Saku"
-   },
-   "contentRating": "safe",
-   "score": 0.15040097,
+   "score": 0.15117446,
    "languages": [
     "en"
    ]
@@ -131,41 +128,39 @@
    ]
   },
   {
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
+   "title": {
+    "en": "Detective Kouko Feels Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.15040097,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "439a7f7e-c43c-4dca-871f-348ab672e72b",
+   "title": {
+    "en": "Usurai ni Saku"
+   },
+   "contentRating": "safe",
+   "score": 0.15040097,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
    "title": {
     "en": "Niji no Ikusa"
    },
    "contentRating": "safe",
-   "score": 0.14876717,
+   "score": 0.14906938,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "23f1d1b1-5828-472d-964d-6e55c528f74b",
-   "title": {
-    "en": "Yume Kurai"
-   },
-   "contentRating": "safe",
-   "score": 0.14628662,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
-   "title": {
-    "en": "Mimi ga Kieta Hi"
-   },
-   "contentRating": "safe",
-   "score": 0.14521472,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:37+00:00"
+ "updatedAt": "2023-12-10T18:16:16+00:00"
 }

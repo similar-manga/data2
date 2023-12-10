@@ -11,7 +11,7 @@
     "en": "HELP!!"
    },
    "contentRating": "safe",
-   "score": 0.30103004,
+   "score": 0.30251923,
    "languages": [
     "bg",
     "en",
@@ -24,9 +24,20 @@
     "en": "Bijin Ni Naritai"
    },
    "contentRating": "safe",
-   "score": 0.27760994,
+   "score": 0.27631974,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "74d6b24c-c1f2-456e-8f7d-888d179b0365",
+   "title": {
+    "en": "Kaitou wa Koyoi mo Hanataba wo. - Namida no Jewel"
+   },
+   "contentRating": "safe",
+   "score": 0.2703847,
+   "languages": [
     "en"
    ]
   },
@@ -36,7 +47,7 @@
     "en": "The Straw Hat and the Carp"
    },
    "contentRating": "safe",
-   "score": 0.25831336,
+   "score": 0.25966632,
    "languages": [
     "en",
     "hu"
@@ -48,7 +59,7 @@
     "en": "Marii to Santa"
    },
    "contentRating": "safe",
-   "score": 0.25547227,
+   "score": 0.25526226,
    "languages": [
     "fr",
     "en",
@@ -57,55 +68,9 @@
    ]
   },
   {
-   "id": "161e924c-6184-4b7f-8ac3-8c02e753e316",
-   "title": {
-    "en": "I Will Grant You Three Wishes"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23034301-79c1-4d85-901c-a8f45a856f1b",
-   "title": {
-    "en": "Addolorato"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
-   "title": {
-    "en": "Ougon no Koku"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "1f8c16ad-e600-435c-9e46-c21866af3560",
    "title": {
     "en": "Son of Demon"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df311dc4-d7d6-45d3-9837-b1865a776111",
-   "title": {
-    "en": "A Small World"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -127,17 +92,14 @@
    ]
   },
   {
-   "id": "abd9b3df-3061-4f1b-adbb-e6e3593b2918",
+   "id": "161e924c-6184-4b7f-8ac3-8c02e753e316",
    "title": {
-    "en": "The Story of the Gatekeeper"
+    "en": "I Will Grant You Three Wishes"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "bg",
-    "ar",
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -151,6 +113,70 @@
     "pl",
     "en",
     "bg"
+   ]
+  },
+  {
+   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
+   "title": {
+    "en": "Ougon no Koku"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "23034301-79c1-4d85-901c-a8f45a856f1b",
+   "title": {
+    "en": "Addolorato"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
+   "title": {
+    "en": "In the Rose Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "ru",
+    "vi",
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "df311dc4-d7d6-45d3-9837-b1865a776111",
+   "title": {
+    "en": "A Small World"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "abd9b3df-3061-4f1b-adbb-e6e3593b2918",
+   "title": {
+    "en": "The Story of the Gatekeeper"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "bg",
+    "ar",
+    "en",
+    "pl"
    ]
   },
   {
@@ -177,30 +203,7 @@
     "de",
     "es-la"
    ]
-  },
-  {
-   "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
-   "title": {
-    "en": "Birthday Presents"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "addb1af5-aac3-4232-8456-2647ba3c549d",
-   "title": {
-    "en": "Akujin no Oboshimeshi"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:32+00:00"
+ "updatedAt": "2023-12-10T18:16:06+00:00"
 }

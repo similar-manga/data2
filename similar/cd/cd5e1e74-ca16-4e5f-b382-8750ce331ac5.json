@@ -26,7 +26,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.16362436,
+   "score": 0.16322169,
    "languages": [
     "en",
     "it",
@@ -50,11 +50,31 @@
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.14240494,
+   "score": 0.1422378,
    "languages": [
     "pt-br",
     "es",
     "en"
+   ]
+  },
+  {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.14197348,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -116,7 +136,7 @@
     "en": "Osmotic Pressure"
    },
    "contentRating": "safe",
-   "score": 0.11459675,
+   "score": 0.115101136,
    "languages": [
     "en",
     "es",
@@ -172,6 +192,17 @@
    ]
   },
   {
+   "id": "b1d0e09f-59b5-480d-99a2-0b6bf8e66219",
+   "title": {
+    "en": "Usagi - Yasei no Touhai-"
+   },
+   "contentRating": "safe",
+   "score": 0.09794043,
+   "languages": [
+    "es"
+   ]
+  },
+  {
    "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
    "title": {
     "en": "Kiba no Tabishounin - The Arms Peddler"
@@ -192,7 +223,7 @@
     "en": "The Beautiful Ones"
    },
    "contentRating": "safe",
-   "score": 0.096549116,
+   "score": 0.09608594,
    "languages": [
     "vi",
     "es",
@@ -204,62 +235,39 @@
    ]
   },
   {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "id": "6204ff54-c3d5-4645-b21f-f83f6fa303d0",
    "title": {
-    "en": "Revenge Doll"
+    "en": "Ani no Yome to Kurashite Imasu."
    },
    "contentRating": "safe",
    "score": 0.08481889,
    "languages": [
+    "ru",
+    "id",
     "en",
-    "es"
+    "es",
+    "pt-br",
+    "ko",
+    "de"
    ]
   },
   {
-   "id": "8d163365-15a6-4031-8671-29a11e3b6d69",
+   "id": "c6c428b5-b8e4-42f6-8777-8f548f45e79d",
    "title": {
-    "en": "Koushaku Reijou no Tashinami"
+    "en": "Isekai Meikyuu no Saishinbu o Mezasou"
    },
    "contentRating": "safe",
-   "score": 0.08300153,
+   "score": 0.08481889,
    "languages": [
+    "ru",
     "en",
+    "id",
+    "es-la",
     "fr",
     "pt-br",
-    "es",
-    "id",
-    "it"
-   ]
-  },
-  {
-   "id": "8d982591-4ebb-4a48-8e6c-aca543661e06",
-   "title": {
-    "en": "Lupin III Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.076543614,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "it"
-   ]
-  },
-  {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
-   "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.06925434,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "pt-br"
+    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:14+00:00"
+ "updatedAt": "2023-12-10T18:31:07+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a7c20723-ba1b-4e4b-8253-2bbc87c7e815",
+   "title": {
+    "en": "Fish Tears"
+   },
+   "contentRating": "safe",
+   "score": 0.4128731,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "82f531a2-489b-4b9e-a5a3-f782e90c8a3e",
    "title": {
     "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.28080922,
+   "score": 0.27341476,
    "languages": [
     "en",
     "id"
@@ -23,7 +34,7 @@
     "en": "Ossan wa Ore no 〇〇 ni Kizukanai"
    },
    "contentRating": "safe",
-   "score": 0.23476698,
+   "score": 0.23444298,
    "languages": [
     "vi",
     "id",
@@ -37,7 +48,7 @@
     "en": "Roll"
    },
    "contentRating": "safe",
-   "score": 0.23091261,
+   "score": 0.23329738,
    "languages": [
     "it",
     "en"
@@ -49,7 +60,7 @@
     "en": "Be my baby!"
    },
    "contentRating": "safe",
-   "score": 0.22917707,
+   "score": 0.23105527,
    "languages": [
     "en",
     "pt-br"
@@ -61,11 +72,23 @@
     "en": "Little War"
    },
    "contentRating": "safe",
-   "score": 0.22491403,
+   "score": 0.2268598,
    "languages": [
     "fr",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
+   "title": {
+    "en": "Chissai Shitsuren"
+   },
+   "contentRating": "safe",
+   "score": 0.22462808,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -74,7 +97,7 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.22098447,
+   "score": 0.22244431,
    "languages": [
     "en",
     "fr"
@@ -95,12 +118,12 @@
    ]
   },
   {
-   "id": "e201b6a2-3b4d-422b-8b71-1a082c2312c4",
+   "id": "688795ba-b5aa-4f53-aafc-24466ee8beec",
    "title": {
-    "en": "Miss Korai and the Cat God"
+    "en": "Risk Hunters"
    },
    "contentRating": "safe",
-   "score": 0.21949932,
+   "score": 0.2191995,
    "languages": [
     "en"
    ]
@@ -111,33 +134,37 @@
     "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
-   "score": 0.21611884,
+   "score": 0.21901675,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a77f9078-9ba4-4e87-8458-aae9a657ad32",
+   "id": "e201b6a2-3b4d-422b-8b71-1a082c2312c4",
    "title": {
-    "en": "0°C no Mahou"
+    "en": "Miss Korai and the Cat God"
+   },
+   "contentRating": "safe",
+   "score": 0.21859188,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6a1a5120-fe6e-4fc2-a09d-ee897ed1b26c",
+   "title": {
+    "en": "Aether :Foudre"
    },
    "contentRating": "safe",
    "score": 0.21597971,
    "languages": [
-    "tr",
-    "de",
-    "it",
-    "pt-br",
-    "en",
-    "es-la",
-    "fr",
-    "ca"
+    "en"
    ]
   },
   {
-   "id": "78cad88c-86e1-4f85-9303-267b4d3ac7bc",
+   "id": "55368f4a-bfa0-4677-bd85-b24420cb99bf",
    "title": {
-    "en": "Lol-Immortal Jurney"
+    "en": "Noroi"
    },
    "contentRating": "safe",
    "score": 0.21597971,
@@ -159,53 +186,16 @@
    ]
   },
   {
-   "id": "55368f4a-bfa0-4677-bd85-b24420cb99bf",
+   "id": "78cad88c-86e1-4f85-9303-267b4d3ac7bc",
    "title": {
-    "en": "Noroi"
+    "en": "Lol-Immortal Jurney"
    },
    "contentRating": "safe",
    "score": 0.21597971,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3e60b9bd-7759-4f3c-a62b-0fcff0f85ff3",
-   "title": {
-    "en": "There's This Junior who Always Happens to Run into Me at the End of my Part-time Job..."
-   },
-   "contentRating": "safe",
-   "score": 0.2145022,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "c518b98c-8848-47bc-bc4f-82ce6c8278eb",
-   "title": {
-    "en": "Horns"
-   },
-   "contentRating": "safe",
-   "score": 0.21399099,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
-   "title": {
-    "en": "Chissai Shitsuren"
-   },
-   "contentRating": "safe",
-   "score": 0.20585816,
-   "languages": [
-    "en",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:26+00:00"
+ "updatedAt": "2023-12-10T18:21:04+00:00"
 }

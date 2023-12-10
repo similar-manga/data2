@@ -6,6 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "title": {
+    "en": "The Misadventures of the Small Anime Club"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "it",
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "57cf9f71-f547-43d6-8270-91879a65ee6d",
    "title": {
     "en": "You Can't Do That, Sensei~"
@@ -18,17 +32,26 @@
    ]
   },
   {
-   "id": "72f7bf23-01b2-4fa6-ad50-e1a233beb867",
+   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
    "title": {
-    "en": "The Misadventures of the Small Anime Club"
+    "en": "I want you to ask me first!"
    },
    "contentRating": "safe",
-   "score": 0.28520605,
+   "score": 0.26060647,
    "languages": [
-    "it",
     "en",
-    "pt-br",
-    "id"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
+   "title": {
+    "en": "Nagisa Round"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -60,9 +83,9 @@
    ]
   },
   {
-   "id": "da1e54d0-0fa2-492e-86ce-b93e35ec9708",
+   "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
    "title": {
-    "en": "Nagisa Round"
+    "en": "Tasukete! Hinaemon"
    },
    "contentRating": "safe",
    "score": 0.24983473,
@@ -79,17 +102,6 @@
    "score": 0.24983473,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
-   "title": {
-    "en": "Tasukete! Hinaemon"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
     "en"
    ]
   },
@@ -116,7 +128,7 @@
     "en": "Katsute no Ore ga Suki na Kimi he"
    },
    "contentRating": "safe",
-   "score": 0.23306513,
+   "score": 0.23346636,
    "languages": [
     "es-la"
    ]
@@ -136,17 +148,17 @@
    ]
   },
   {
-   "id": "7dd61a12-4cbe-49f1-8add-d804c99867e2",
+   "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
    "title": {
-    "en": "A Story about A Quiet Gyaru Who Got Confessed by an Extremely Straight-Forward Boy"
+    "en": "Hyoutenka no Nukumori"
    },
    "contentRating": "safe",
    "score": 0.23286977,
    "languages": [
-    "en",
-    "vi",
+    "fr",
     "pt-br",
-    "tl"
+    "en",
+    "pl"
    ]
   },
   {
@@ -163,17 +175,17 @@
    ]
   },
   {
-   "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
+   "id": "7dd61a12-4cbe-49f1-8add-d804c99867e2",
    "title": {
-    "en": "Hyoutenka no Nukumori"
+    "en": "A Story about A Quiet Gyaru Who Got Confessed by an Extremely Straight-Forward Boy"
    },
    "contentRating": "safe",
    "score": 0.23286977,
    "languages": [
-    "fr",
-    "pt-br",
     "en",
-    "pl"
+    "vi",
+    "pt-br",
+    "tl"
    ]
   },
   {
@@ -182,7 +194,7 @@
     "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
-   "score": 0.22727583,
+   "score": 0.22749382,
    "languages": [
     "pl",
     "en"
@@ -194,23 +206,12 @@
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.22541295,
+   "score": 0.22545496,
    "languages": [
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
-   "title": {
-    "en": "Esora Hikouki"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:07+00:00"
+ "updatedAt": "2023-12-10T18:17:31+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Usotsuki Chocolate Syrup"
    },
    "contentRating": "safe",
-   "score": 0.4044979,
+   "score": 0.4110852,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Celeste Blue"
    },
    "contentRating": "safe",
-   "score": 0.34872657,
+   "score": 0.34772798,
    "languages": [
     "pl",
     "en"
@@ -34,7 +34,7 @@
     "en": "38cm"
    },
    "contentRating": "safe",
-   "score": 0.31532213,
+   "score": 0.31584552,
    "languages": [
     "pt-br",
     "en",
@@ -48,7 +48,7 @@
     "en": "Navy Blue no Hoshizora"
    },
    "contentRating": "safe",
-   "score": 0.31058332,
+   "score": 0.3094249,
    "languages": [
     "en"
    ]
@@ -59,7 +59,7 @@
     "en": "Change the World"
    },
    "contentRating": "safe",
-   "score": 0.31012785,
+   "score": 0.30918807,
    "languages": [
     "fr"
    ]
@@ -70,8 +70,20 @@
     "en": "Calling (Hori Mai)"
    },
    "contentRating": "safe",
-   "score": 0.30839413,
+   "score": 0.30825338,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "de95e689-eb64-4e3a-b19f-2488976ce396",
+   "title": {
+    "en": "Sentimental Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.30647737,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -81,7 +93,7 @@
     "en": "A Pudgy Girl's Love"
    },
    "contentRating": "safe",
-   "score": 0.3026367,
+   "score": 0.30242896,
    "languages": [
     "tr",
     "en"
@@ -93,7 +105,7 @@
     "en": "Wish Upon a Glass"
    },
    "contentRating": "safe",
-   "score": 0.30102134,
+   "score": 0.30072433,
    "languages": [
     "tr",
     "en"
@@ -105,7 +117,7 @@
     "en": "Namae mo Shiranai"
    },
    "contentRating": "safe",
-   "score": 0.30040172,
+   "score": 0.299421,
    "languages": [
     "pt-br",
     "en"
@@ -117,26 +129,22 @@
     "en": "It Was Almost As If"
    },
    "contentRating": "safe",
-   "score": 0.2983263,
+   "score": 0.29783964,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "d3e1b39d-8727-472d-b4b0-5c01c94cc370",
+   "id": "c48ba8b2-41da-4a80-ade6-89e53b5d3fd5",
    "title": {
-    "en": "The Sound of Something New"
+    "en": "Mahou de Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.29240838,
+   "score": 0.28914577,
    "languages": [
-    "id",
-    "fr",
-    "es-la",
-    "pt-br",
     "en",
-    "he"
+    "pl"
    ]
   },
   {
@@ -145,35 +153,10 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.28953928,
+   "score": 0.2890843,
    "languages": [
     "en",
     "tl"
-   ]
-  },
-  {
-   "id": "f072cbe6-ea01-433a-a341-6df6d325d0db",
-   "title": {
-    "en": "Story of a Girl Growing Vines on her Body"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fb6af183-14a9-4fbb-ac14-991e3e616ca9",
-   "title": {
-    "en": "00 Day of Summer Holiday"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pl",
-    "bg",
-    "en",
-    "fr"
    ]
   },
   {
@@ -200,7 +183,19 @@
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "49ce762f-9bbb-4876-926b-07ee23183fec",
+   "title": {
+    "en": "Kuji no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pl",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:12+00:00"
+ "updatedAt": "2023-12-10T18:15:10+00:00"
 }

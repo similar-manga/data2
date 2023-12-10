@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
+   "title": {
+    "en": "Balemount"
+   },
+   "contentRating": "safe",
+   "score": 0.2375382,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "460e98d7-74ce-4c61-9f38-e248be115829",
    "title": {
     "en": "Shuuenchi"
@@ -22,11 +34,27 @@
     "en": "Pumpkin Night Gaiden - Naoko"
    },
    "contentRating": "safe",
-   "score": 0.18084565,
+   "score": 0.18081252,
    "languages": [
     "es",
     "it"
    ]
+  },
+  {
+   "id": "3e577b58-8029-4485-9b58-da7b7cb6308b",
+   "title": {
+    "en": "Rakugaki - Noroi no Yakata"
+   },
+   "contentRating": "safe",
+   "score": 0.17326696
+  },
+  {
+   "id": "031fe996-029b-4157-ac1a-830ff8d9d433",
+   "title": {
+    "en": "Goumon Baito-kun no Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.17303559
   },
   {
    "id": "ffdbc599-2857-4ada-acee-cd95fe417a6b",
@@ -34,7 +62,53 @@
     "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
    },
    "contentRating": "safe",
-   "score": 0.16910015,
+   "score": 0.17050396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3e36f4b5-37f3-4413-8aa4-67dd80275972",
+   "title": {
+    "en": "Zashisu"
+   },
+   "contentRating": "safe",
+   "score": 0.16968927,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "d885957b-617d-4609-a892-4ad4b2e256d6",
+   "title": {
+    "en": "77 Billion Disasters"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c5eb230c-7955-4753-857e-6d4b73fd0d26",
+   "title": {
+    "en": "Doomsday Revenge Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e11edac-eb6c-46d5-9cd4-04e1e817e1ba",
+   "title": {
+    "en": "Ousama Game - Rinjou"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
    "languages": [
     "en"
    ]
@@ -71,16 +145,14 @@
    "score": 0.16505538
   },
   {
-   "id": "97666c13-2c14-4f7b-b2dd-904424466ea8",
+   "id": "0186ae61-8ac8-495a-98fe-f47eed4d783c",
    "title": {
-    "en": "Biohazard: Death Island"
+    "en": "Gyuges no Futari"
    },
    "contentRating": "safe",
-   "score": 0.16062362,
+   "score": 0.16400932,
    "languages": [
-    "uk",
-    "id",
-    "en"
+    "zh-hk"
    ]
   },
   {
@@ -95,90 +167,18 @@
    ]
   },
   {
-   "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
+   "id": "97666c13-2c14-4f7b-b2dd-904424466ea8",
    "title": {
-    "en": "More Than Human: Spiderman Another Story!!"
+    "en": "Biohazard: Death Island"
    },
    "contentRating": "safe",
-   "score": 0.1577954,
+   "score": 0.16062362,
    "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f47540b1-5deb-41fb-9d52-790abc972c11",
-   "title": {
-    "en": "Ankoku Jiten"
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "ru",
+    "uk",
+    "id",
     "en"
    ]
-  },
-  {
-   "id": "8d48cdcc-606c-4142-9547-288c77e12df2",
-   "title": {
-    "en": "Jisatsu Yuugi"
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "0c99c470-861d-4366-9a83-e6ad4a863ad7",
-   "title": {
-    "en": "Hitogata"
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
-   "title": {
-    "en": "Kurosagi Shitai Takuhaibin"
-   },
-   "contentRating": "safe",
-   "score": 0.15368982,
-   "languages": [
-    "en",
-    "zh"
-   ]
-  },
-  {
-   "id": "69b7aae1-f4e9-4276-a505-0a012c0ba97c",
-   "title": {
-    "en": "Bokura no Natsu ga Saketeiku"
-   },
-   "contentRating": "safe",
-   "score": 0.15032819
-  },
-  {
-   "id": "59acc713-8a10-4433-ab0d-c7e896e939c2",
-   "title": {
-    "en": "In Hand"
-   },
-   "contentRating": "safe",
-   "score": 0.1490712
-  },
-  {
-   "id": "6ab8a1c6-6926-4c13-9609-164ed900a588",
-   "title": {
-    "en": "Void: No. Nine - 9-banme no Utsuro"
-   },
-   "contentRating": "safe",
-   "score": 0.1490712
   }
  ],
- "updatedAt": "2023-12-10T01:10:08+00:00"
+ "updatedAt": "2023-12-10T18:35:52+00:00"
 }

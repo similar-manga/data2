@@ -11,7 +11,7 @@
     "en": "To Your Eternity"
    },
    "contentRating": "safe",
-   "score": 0.23537187,
+   "score": 0.23626749,
    "languages": [
     "ru",
     "pt-br",
@@ -24,12 +24,29 @@
    ]
   },
   {
+   "id": "e1d8b192-fa28-4651-bdaf-d4e0d4418ea8",
+   "title": {
+    "en": "Vanitas no Carte"
+   },
+   "contentRating": "safe",
+   "score": 0.22956936,
+   "languages": [
+    "pt-br",
+    "es",
+    "ru",
+    "hu",
+    "es-la",
+    "it",
+    "fr"
+   ]
+  },
+  {
    "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
    "title": {
     "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
    },
    "contentRating": "safe",
-   "score": 0.22588561,
+   "score": 0.22537358,
    "languages": [
     "en"
    ]
@@ -40,8 +57,35 @@
     "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.22380829,
+   "score": 0.2234739,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "904e6834-e9d6-45d2-a1ff-f37d29584c0c",
+   "title": {
+    "en": "Tengen Eiyuu Taisen"
+   },
+   "contentRating": "safe",
+   "score": 0.21895681,
+   "languages": [
+    "id",
+    "pt-br",
+    "es-la",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
+   "title": {
+    "en": "Mu Wu's Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.21576592,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -52,17 +96,6 @@
    },
    "contentRating": "safe",
    "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
-   "title": {
-    "en": "Mononoke Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.20695229,
    "languages": [
     "en"
    ]
@@ -80,17 +113,14 @@
    ]
   },
   {
-   "id": "5903e2ec-4134-4926-9ee8-895a77f9162f",
+   "id": "678e3447-37cc-4205-bdc0-c67b933670e7",
    "title": {
-    "en": "CODE VEIN -Memory Echoes-"
+    "en": "Mononoke Hime"
    },
    "contentRating": "safe",
-   "score": 0.20005356,
+   "score": 0.20322381,
    "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "ru"
+    "en"
    ]
   },
   {
@@ -104,6 +134,31 @@
     "pt-br",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "5903e2ec-4134-4926-9ee8-895a77f9162f",
+   "title": {
+    "en": "CODE VEIN -Memory Echoes-"
+   },
+   "contentRating": "safe",
+   "score": 0.19872192,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "ru"
+   ]
+  },
+  {
+   "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
+   "title": {
+    "en": "Yggdra Silver"
+   },
+   "contentRating": "safe",
+   "score": 0.19755329,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -146,17 +201,6 @@
    ]
   },
   {
-   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
-   "title": {
-    "en": "Warabe no Kusa"
-   },
-   "contentRating": "safe",
-   "score": 0.19180173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d5404847-a74f-45c8-82b8-bbaa6b724d63",
    "title": {
     "en": "Shinden Yuuden Kakumei-hen - Ochita Kuroi Yuusha no Densetsu"
@@ -166,41 +210,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
-   "title": {
-    "en": "Cafe Occult"
-   },
-   "contentRating": "safe",
-   "score": 0.18908778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ddc1f94d-08f7-474e-9e2e-4f2bc06d8df3",
-   "title": {
-    "en": "Segregated World"
-   },
-   "contentRating": "safe",
-   "score": 0.18908778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.18908778,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:04+00:00"
+ "updatedAt": "2023-12-10T18:35:40+00:00"
 }

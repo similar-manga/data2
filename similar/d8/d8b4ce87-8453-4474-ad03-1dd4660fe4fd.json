@@ -6,16 +6,52 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "abc711a1-aa8c-40d3-bed1-541b0d975725",
+   "title": {
+    "en": "Futarijime Romantic"
+   },
+   "contentRating": "safe",
+   "score": 0.31172386,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
    "title": {
     "en": "Hana-kun to Koisuru Watashi"
    },
    "contentRating": "safe",
-   "score": 0.30334112,
+   "score": 0.30271837,
    "languages": [
     "pt-br",
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "a9779082-e501-4f7b-a6d6-e42de4dd9b23",
+   "title": {
+    "ja": "Hashiba Kaede wa Tokimekitai"
+   },
+   "contentRating": "safe",
+   "score": 0.3025202,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "398f7bec-4b3c-4dc5-a6ca-f1eaaee95b87",
+   "title": {
+    "en": "Ima, Koi wo Shite Imasu"
+   },
+   "contentRating": "safe",
+   "score": 0.30148706,
+   "languages": [
+    "en",
+    "hu",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -24,7 +60,7 @@
     "en": "Kagehinata"
    },
    "contentRating": "safe",
-   "score": 0.29466963,
+   "score": 0.2944574,
    "languages": [
     "en"
    ]
@@ -35,63 +71,20 @@
     "en": "Quick Witted Boy"
    },
    "contentRating": "safe",
-   "score": 0.29278827,
+   "score": 0.29379195,
    "languages": [
     "pl"
    ]
   },
   {
-   "id": "edb667c3-0c6f-45f9-8d8f-069a3c08143c",
+   "id": "bb90ac5f-87cf-432b-8761-bff9152acfdb",
    "title": {
-    "en": "Yasuko and Kenji"
+    "en": "Kaoru Watashi ni Kiss wo shite."
    },
    "contentRating": "safe",
-   "score": 0.29275912,
+   "score": 0.2928452,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e0c22186-cc5b-42ca-a9f3-5c81257cc78d",
-   "title": {
-    "en": "Koko Kara Saki wa NG!"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6a9f201b-7f91-4596-baf7-505ab198476c",
-   "title": {
-    "en": "Love x Joint"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5bf841c-b59f-4a83-afc3-cd1dec38dc6f",
-   "title": {
-    "en": "Bye Bye Brother"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "bcf9f938-4d78-446c-8915-3561057f5497",
-   "title": {
-    "en": "Kirarin Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
+    "id",
     "en"
    ]
   },
@@ -107,83 +100,107 @@
    ]
   },
   {
-   "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
+   "id": "afd04f19-5f13-4699-afe5-9e431283e214",
    "title": {
-    "en": "Renai Catalog"
+    "en": "Aoharu-sou e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.26905975,
+   "score": 0.28520605,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "id": "dc77b4d7-b82e-4ebb-a0ac-0ece6e5b1505",
    "title": {
-    "en": "Hana ni Kedamono"
+    "en": "Kimi ga Tokubetsu"
    },
    "contentRating": "safe",
-   "score": 0.26542094,
+   "score": 0.28520605,
    "languages": [
-    "pl",
+    "es-la",
+    "pt-br",
     "en"
    ]
   },
   {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
+   "id": "c23accf2-46ac-4e03-96d2-a98176d62b48",
    "title": {
-    "en": "Say Love"
+    "en": "Himitsu no Otsukiai wo Shiteimasu."
    },
    "contentRating": "safe",
-   "score": 0.2653077,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f029d5a-27b5-44c6-a4e2-224f381369d3",
-   "title": {
-    "en": "Manin Densha to Watashi to Kare"
-   },
-   "contentRating": "safe",
-   "score": 0.26256028,
+   "score": 0.28520605,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eb4109f4-cbe8-4b22-b76e-c51be973bbdb",
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
    "title": {
-    "en": "8 mm"
+    "en": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru"
    },
    "contentRating": "safe",
-   "score": 0.25509605,
+   "score": 0.28520605,
    "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
+   "title": {
+    "en": "Kuzuna Kimi Shika Aisenai"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "es-la",
+    "vi",
     "en"
    ]
   },
   {
-   "id": "ae2e57c2-1dce-447f-b1b8-77db62ea74e1",
+   "id": "92a6b94e-f205-46b5-b522-c135c20a7aa4",
    "title": {
-    "en": "Hatsu Haru"
+    "en": "Tsuki no Oki ni Mesu mama"
    },
    "contentRating": "safe",
-   "score": 0.25509605,
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "th",
+    "es-la",
+    "id",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "7c8f676f-e193-4e64-a0b7-31c57f26c762",
+   "title": {
+    "en": "Pink to Habanero"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "d5bf841c-b59f-4a83-afc3-cd1dec38dc6f",
+   "title": {
+    "en": "Bye Bye Brother"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
    "languages": [
     "pl"
    ]
-  },
-  {
-   "id": "214a442e-4dc4-4de4-9df0-538d18a04f83",
-   "title": {
-    "en": "Damage Danshi"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:42+00:00"
+ "updatedAt": "2023-12-10T18:32:20+00:00"
 }

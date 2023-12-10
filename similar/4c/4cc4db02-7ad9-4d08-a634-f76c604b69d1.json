@@ -11,7 +11,7 @@
     "en": "La La La"
    },
    "contentRating": "suggestive",
-   "score": 0.2765932,
+   "score": 0.27288517,
    "languages": [
     "en"
    ]
@@ -25,12 +25,15 @@
    "score": 0.2523742
   },
   {
-   "id": "ac2193aa-4f54-4378-9373-f5995e4dedea",
+   "id": "8881746f-e248-404b-bef8-729ba5e98086",
    "title": {
-    "en": "Boku wa Ikemen"
+    "en": "Tsugou No ii Hate"
    },
    "contentRating": "suggestive",
-   "score": 0.24140142
+   "score": 0.24140142,
+   "languages": [
+    "zh-hk"
+   ]
   },
   {
    "id": "2862555d-a54b-4ece-92a0-aabfaaa472ae",
@@ -46,20 +49,17 @@
    ]
   },
   {
-   "id": "8881746f-e248-404b-bef8-729ba5e98086",
-   "title": {
-    "en": "Tsugou No ii Hate"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24140142,
-   "languages": [
-    "zh-hk"
-   ]
-  },
-  {
    "id": "236781ac-3250-48d4-b48b-9a04b7d2e084",
    "title": {
     "en": "Butter Neko no Paradox"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24140142
+  },
+  {
+   "id": "ac2193aa-4f54-4378-9373-f5995e4dedea",
+   "title": {
+    "en": "Boku wa Ikemen"
    },
    "contentRating": "suggestive",
    "score": 0.24140142
@@ -70,7 +70,7 @@
     "en": "Human Life Scroll"
    },
    "contentRating": "suggestive",
-   "score": 0.2344504
+   "score": 0.2337756
   },
   {
    "id": "e96b9209-2f0f-423b-9736-0c5d3a9788ba",
@@ -78,7 +78,7 @@
     "en": "Shachiku to shoujo no 1800-nichi"
    },
    "contentRating": "suggestive",
-   "score": 0.22512764,
+   "score": 0.22369984,
    "languages": [
     "en",
     "ru",
@@ -102,7 +102,7 @@
     "en": "Ryuu: Ron"
    },
    "contentRating": "suggestive",
-   "score": 0.21081929
+   "score": 0.21067195
   },
   {
    "id": "039a17cf-d9fe-4faf-b54d-bef9a23ef213",
@@ -110,7 +110,15 @@
     "en": "Superwoman Haruko"
    },
    "contentRating": "suggestive",
-   "score": 0.21038318
+   "score": 0.21009721
+  },
+  {
+   "id": "575bf4f2-5c08-4ebf-aafc-b08723846f93",
+   "title": {
+    "en": "Kofukuyo, Kiss to Chire"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20905976
   },
   {
    "id": "26e1e87e-cf0a-4ba8-ba63-60404a6efbaa",
@@ -122,14 +130,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "575bf4f2-5c08-4ebf-aafc-b08723846f93",
-   "title": {
-    "en": "Kofukuyo, Kiss to Chire"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20905976
   },
   {
    "id": "713e5b57-8feb-4540-8eff-5c4cd2b9abaa",
@@ -149,7 +149,7 @@
     "en": "Suzunone"
    },
    "contentRating": "suggestive",
-   "score": 0.20320229,
+   "score": 0.20304053,
    "languages": [
     "en"
    ]
@@ -160,7 +160,7 @@
     "en": "Henshuu no Isshou"
    },
    "contentRating": "suggestive",
-   "score": 0.20277101,
+   "score": 0.2026672,
    "languages": [
     "vi",
     "es-la",
@@ -168,5 +168,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:45+00:00"
+ "updatedAt": "2023-12-10T18:16:37+00:00"
 }

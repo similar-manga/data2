@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+   "title": {
+    "en": "Red Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.2763668,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "e0511fc5-c114-4447-824e-96cb3db37078",
    "title": {
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.25001493,
+   "score": 0.24728054,
    "languages": [
     "en",
     "id",
@@ -46,12 +58,36 @@
    ]
   },
   {
+   "id": "44e0c59b-b058-4c80-ab4b-ca077d505176",
+   "title": {
+    "en": "The Dexter Attack"
+   },
+   "contentRating": "safe",
+   "score": 0.23736377,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6ef9234c-703d-4c8a-97e2-c1fb197ec476",
+   "title": {
+    "en": "Asumi Kakeru"
+   },
+   "contentRating": "safe",
+   "score": 0.23736377,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
    "title": {
     "en": "Hajime no Ippo"
    },
    "contentRating": "safe",
-   "score": 0.22966254,
+   "score": 0.22932707,
    "languages": [
     "en",
     "ar",
@@ -63,9 +99,9 @@
    ]
   },
   {
-   "id": "cf5033f2-0a27-45be-95da-876971af682f",
+   "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
    "title": {
-    "en": "Sitting Down"
+    "en": "Shunkan Heroism"
    },
    "contentRating": "safe",
    "score": 0.22153951,
@@ -74,14 +110,24 @@
    ]
   },
   {
-   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
+   "id": "9d39b254-be64-4dc1-9fad-30699a552e85",
    "title": {
-    "en": "PutOn"
+    "en": "Nanboku Seitokai Sensou"
    },
    "contentRating": "safe",
    "score": 0.22153951,
    "languages": [
-    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "title": {
+    "en": "Chingiri"
+   },
+   "contentRating": "safe",
+   "score": 0.22153951,
+   "languages": [
     "en"
    ]
   },
@@ -119,9 +165,9 @@
    ]
   },
   {
-   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "id": "7ef4a717-d206-4401-8479-5177bf4d7b21",
    "title": {
-    "en": "Chingiri"
+    "en": "Mail Order Ninja"
    },
    "contentRating": "safe",
    "score": 0.22153951,
@@ -130,9 +176,9 @@
    ]
   },
   {
-   "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
+   "id": "cf5033f2-0a27-45be-95da-876971af682f",
    "title": {
-    "en": "Shunkan Heroism"
+    "en": "Sitting Down"
    },
    "contentRating": "safe",
    "score": 0.22153951,
@@ -141,64 +187,17 @@
    ]
   },
   {
-   "id": "9d39b254-be64-4dc1-9fad-30699a552e85",
+   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
    "title": {
-    "en": "Nanboku Seitokai Sensou"
+    "en": "PutOn"
    },
    "contentRating": "safe",
    "score": 0.22153951,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ea875336-eaad-42c0-ad62-c0986af975ad",
-   "title": {
-    "en": "Asahinagu"
-   },
-   "contentRating": "safe",
-   "score": 0.22129717,
    "languages": [
     "ru",
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "0eb6e9df-eb84-495b-a4d5-59b0d7dd427e",
-   "title": {
-    "en": "Kinniku Jorei"
-   },
-   "contentRating": "safe",
-   "score": 0.22129717,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "67bfd1a8-1492-4a05-b169-45f6d4de6e7a",
-   "title": {
-    "en": "Hajime no Ippo Gaiden - Naniwa no Tora"
-   },
-   "contentRating": "safe",
-   "score": 0.21473366,
-   "languages": [
-    "de",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b09543e4-3198-4d41-8db1-f8a2ff6b807c",
-   "title": {
-    "en": "Hajimete..."
-   },
-   "contentRating": "safe",
-   "score": 0.21230459,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:23+00:00"
+ "updatedAt": "2023-12-10T18:36:23+00:00"
 }

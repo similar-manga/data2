@@ -11,18 +11,7 @@
     "en": "Lunar - Lunatic Parade"
    },
    "contentRating": "safe",
-   "score": 0.32548216,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
-   "title": {
-    "en": "Pandora"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.3241791,
    "languages": [
     "en"
    ]
@@ -41,12 +30,23 @@
    ]
   },
   {
+   "id": "76aedc07-e25e-4ebe-b009-891266d1e64a",
+   "title": {
+    "en": "Pandora"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
    "title": {
     "en": "Meikai no Pendulum"
    },
    "contentRating": "safe",
-   "score": 0.25985754,
+   "score": 0.25931656,
    "languages": [
     "en",
     "ru"
@@ -58,7 +58,7 @@
     "en": "Noenoto"
    },
    "contentRating": "safe",
-   "score": 0.25956276,
+   "score": 0.2584683,
    "languages": [
     "en",
     "ru"
@@ -70,7 +70,7 @@
     "en": "Yoru to Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.25680324,
+   "score": 0.25657624,
    "languages": [
     "en"
    ]
@@ -104,32 +104,66 @@
     "en": "Doyou Wide Club e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.25479466,
+   "score": 0.25499055,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
+   "id": "e9190a5b-5de7-4383-ba41-1aeb20128451",
    "title": {
-    "en": "V no Akuma"
+    "en": "Shitauke Tantei Nokori Kasuhiro"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "de",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "da704103-3ba9-4cf4-ab4a-6ba1565e6f20",
+   "title": {
+    "en": "Shikigami Twilight Days"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21934321-84bc-4745-ae41-2a391d8efdb3",
+   "title": {
+    "en": "Grim Reaper Lullaby"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7162028d-2ab1-4c0e-b3d6-166074100cc9",
+   "title": {
+    "en": "Borborygmus"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bd77fe61-07cc-49ac-a802-b12ca9398b79",
+   "title": {
+    "en": "Sakai-kun to Chīsana Kanrinin-san"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "7418eb16-22e0-412d-b9e6-b16719ce7155",
-   "title": {
-    "en": "Matsuri Night"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -146,9 +180,9 @@
    ]
   },
   {
-   "id": "84a2945e-0018-4301-9a54-f305971477a9",
+   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
    "title": {
-    "en": "Birthday"
+    "en": "V no Akuma"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -156,41 +190,7 @@
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "15461980-3d09-4e9e-916e-5b10cb8be99c",
-   "title": {
-    "en": "Ashita wa Kyouso-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cfec5b4c-f13b-4944-a59a-68fa150e9371",
-   "title": {
-    "en": "Loli Baba"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e23069ed-9166-476c-b0c2-8765b16c90eb",
-   "title": {
-    "en": "Rocker in Locker"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:45+00:00"
+ "updatedAt": "2023-12-10T18:24:30+00:00"
 }

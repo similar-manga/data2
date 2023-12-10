@@ -11,18 +11,7 @@
     "en": "MAMAGOTO"
    },
    "contentRating": "safe",
-   "score": 0.432756,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "63fefbed-fb2a-479b-8ef1-c209902cfd5b",
-   "title": {
-    "en": "Today's an 〇!"
-   },
-   "contentRating": "safe",
-   "score": 0.32778165,
+   "score": 0.64220726,
    "languages": [
     "en"
    ]
@@ -33,10 +22,21 @@
     "en": "My Flatmate at -18°C"
    },
    "contentRating": "safe",
-   "score": 0.32312778,
+   "score": 0.41359213,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "63fefbed-fb2a-479b-8ef1-c209902cfd5b",
+   "title": {
+    "en": "Today's an 〇!"
+   },
+   "contentRating": "safe",
+   "score": 0.41065472,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -45,7 +45,7 @@
     "en": "A Spring Evening in the Forest of Mystery"
    },
    "contentRating": "safe",
-   "score": 0.30516797,
+   "score": 0.3129282,
    "languages": [
     "es",
     "en"
@@ -57,7 +57,7 @@
     "en": "Has the Rain Stopped?"
    },
    "contentRating": "safe",
-   "score": 0.3030489,
+   "score": 0.30760616,
    "languages": [
     "it",
     "en"
@@ -69,7 +69,18 @@
     "en": "Change Mark"
    },
    "contentRating": "safe",
-   "score": 0.29962787,
+   "score": 0.30282772,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "544aa740-8afd-42f4-a75c-abdda0a4484e",
+   "title": {
+    "en": "The Soldier Who Guards the Gate of the City Freedom"
+   },
+   "contentRating": "safe",
+   "score": 0.26517084,
    "languages": [
     "en"
    ]
@@ -80,7 +91,7 @@
     "en": "The Competitive Eater Who Leapt Through Time"
    },
    "contentRating": "safe",
-   "score": 0.2576917,
+   "score": 0.26389465,
    "languages": [
     "en"
    ]
@@ -91,45 +102,20 @@
     "en": "Frog Princess"
    },
    "contentRating": "safe",
-   "score": 0.2536644,
+   "score": 0.26169455,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "544aa740-8afd-42f4-a75c-abdda0a4484e",
+   "id": "1d8f855d-7a57-4ae0-858e-ec7cba999a89",
    "title": {
-    "en": "The Soldier Who Guards the Gate of the City Freedom"
+    "en": "Mika and the Rainbow Cat"
    },
    "contentRating": "safe",
-   "score": 0.23838161,
+   "score": 0.2289159,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f03faed-b3e6-4c09-a25f-f3e135d27fb0",
-   "title": {
-    "en": "Part-Time Ghost"
-   },
-   "contentRating": "safe",
-   "score": 0.22231638,
-   "languages": [
-    "pl",
-    "uk",
-    "en"
-   ]
-  },
-  {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
-   "title": {
-    "en": "Mercy"
-   },
-   "contentRating": "safe",
-   "score": 0.2215964,
-   "languages": [
-    "ru",
     "en"
    ]
   },
@@ -139,9 +125,36 @@
     "en": "Sunny \u0026 Rainy"
    },
    "contentRating": "safe",
-   "score": 0.22135366,
+   "score": 0.22526929,
    "languages": [
     "bg",
+    "en"
+   ]
+  },
+  {
+   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
+   "title": {
+    "en": "Mayonaka Sanpo"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "fa",
+    "ar",
+    "fr",
+    "hu",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "a9c401a5-643e-4a36-926f-a5d8c569ca7a",
+   "title": {
+    "en": "Okyaku-sama wa, Kami-sama."
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
     "en"
    ]
   },
@@ -158,9 +171,9 @@
    ]
   },
   {
-   "id": "a9c401a5-643e-4a36-926f-a5d8c569ca7a",
+   "id": "e3c893da-3269-4e12-96c6-8617470ddad2",
    "title": {
-    "en": "Okyaku-sama wa, Kami-sama."
+    "en": "Kurseong South - The Forest of Black Tea"
    },
    "contentRating": "safe",
    "score": 0.22131334,
@@ -178,18 +191,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "ba129667-91ae-414d-bca8-0d316e53b113",
-   "title": {
-    "en": "Demon Accessory"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:04+00:00"
+ "updatedAt": "2023-12-10T18:11:57+00:00"
 }

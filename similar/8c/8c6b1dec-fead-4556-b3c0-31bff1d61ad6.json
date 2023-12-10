@@ -6,12 +6,40 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4aa60a5f-5f76-45f9-8c11-aa089d98e92d",
+   "title": {
+    "en": "Matagi Gunner"
+   },
+   "contentRating": "safe",
+   "score": 0.6136475,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "d0d044cd-5472-4413-81af-d8ff763d01b7",
+   "title": {
+    "en": "The Bear Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.29211906
+  },
+  {
    "id": "a16ce0c1-da89-45c0-b453-4eba7cf6b28d",
    "title": {
     "en": "Yomawari Neko"
    },
    "contentRating": "safe",
-   "score": 0.20580271
+   "score": 0.20640793
+  },
+  {
+   "id": "8d481cbc-9016-4a60-a94b-d82a328905c7",
+   "title": {
+    "en": "Kurogou"
+   },
+   "contentRating": "safe",
+   "score": 0.20477165
   },
   {
    "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
@@ -19,10 +47,18 @@
     "en": "Shinya Shokudou"
    },
    "contentRating": "safe",
-   "score": 0.20099744,
+   "score": 0.203514,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "27346aaf-0cc2-4f9a-bce4-f7d8f8f49e0e",
+   "title": {
+    "en": "Neko to Shinshi no Tea Room"
+   },
+   "contentRating": "safe",
+   "score": 0.19553013
   },
   {
    "id": "0d3591a1-737f-4176-97e4-64cc3c860d92",
@@ -36,16 +72,71 @@
    ]
   },
   {
+   "id": "b189347c-c00c-406b-b38f-48bc76eefb58",
+   "title": {
+    "en": "Kiri Moya Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173
+  },
+  {
    "id": "7f9df789-2372-4cf8-bd54-021de9d757ef",
    "title": {
     "en": "Kokenoshima"
    },
    "contentRating": "safe",
-   "score": 0.19266571,
+   "score": 0.19275519,
    "languages": [
     "tr",
     "en"
    ]
+  },
+  {
+   "id": "70ba8db6-8a91-4f87-9e6f-63e8eeff13ce",
+   "title": {
+    "en": "Furuki Okite no Mahou Kishi"
+   },
+   "contentRating": "safe",
+   "score": 0.19048835,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "54f74f3d-c079-4d24-9ca2-3b15cfa5248b",
+   "title": {
+    "en": "Nekodomo"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "356afaa4-f715-4e3f-9907-332c6f86e79a",
+   "title": {
+    "en": "Pooh Taro the Dog Days Dominated by Two Toy Poodles"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "8a89df06-611e-4e31-be33-195526a8d710",
+   "title": {
+    "en": "Mr. Norakuro's Houseplants: How to Enjoy Greenery and Flowers"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
+  },
+  {
+   "id": "8e37dc77-ed9e-42c9-a0e7-e0e31690275f",
+   "title": {
+    "en": "Penguin in the Wilderness"
+   },
+   "contentRating": "safe",
+   "score": 0.187941
   },
   {
    "id": "3c5703e1-febd-4cf2-adb7-4be69fa0bf55",
@@ -53,113 +144,16 @@
     "en": "Lost Lad London"
    },
    "contentRating": "safe",
-   "score": 0.17726581
+   "score": 0.17788239
   },
   {
-   "id": "58761a40-3058-423f-91db-13426db8937b",
+   "id": "13b86a2c-aaf6-4345-9638-52ce4db1d082",
    "title": {
-    "en": "Tsuzure no leghorn"
+    "en": "Samurai Gun Gekkou"
    },
    "contentRating": "safe",
-   "score": 0.17433435
-  },
-  {
-   "id": "04107609-23b6-4b18-a46e-4df5b1d8b9b6",
-   "title": {
-    "en": "A.-D.O.G.S."
-   },
-   "contentRating": "safe",
-   "score": 0.17433435
-  },
-  {
-   "id": "e9e7af1c-6b46-43f1-957a-890040d207c9",
-   "title": {
-    "en": "Shadows House × Kuro"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "344114c1-b773-4d9f-8a47-fff9cd36021e",
-   "title": {
-    "en": "UnderGrind"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435
-  },
-  {
-   "id": "43c351bc-371b-41d5-8e71-6529fa5e29fd",
-   "title": {
-    "en": "He drove a sky blue car"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435
-  },
-  {
-   "id": "fd2334d7-c610-4e79-9471-c4efe3a7c16c",
-   "title": {
-    "en": "JoJo's Bizarre Adventure Part 8 - JoJolion (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.17051171,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
-   "title": {
-    "en": "JA - Joshi ni Yoru Agriculture"
-   },
-   "contentRating": "safe",
-   "score": 0.1659958,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a887db23-0b0d-47b4-9cd5-74e15348ae6b",
-   "title": {
-    "en": "Gallery Fake"
-   },
-   "contentRating": "safe",
-   "score": 0.15799153,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
-   "title": {
-    "en": "Jungle King"
-   },
-   "contentRating": "safe",
-   "score": 0.15425378
-  },
-  {
-   "id": "59807770-c066-4fd4-b39a-d0f273c5d44b",
-   "title": {
-    "en": "Dinosaurs Sanctuary"
-   },
-   "contentRating": "safe",
-   "score": 0.15345319,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d51ebd99-c505-41fd-afa5-79fcba68d601",
-   "title": {
-    "en": "Diary of a Fishing Fool"
-   },
-   "contentRating": "safe",
-   "score": 0.15345319
+   "score": 0.17541161
   }
  ],
- "updatedAt": "2023-12-10T01:05:28+00:00"
+ "updatedAt": "2023-12-10T18:23:48+00:00"
 }

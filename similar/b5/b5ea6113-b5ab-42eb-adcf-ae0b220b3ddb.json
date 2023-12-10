@@ -11,7 +11,7 @@
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.3624062,
+   "score": 0.35803804,
    "languages": [
     "fr",
     "en"
@@ -45,22 +45,11 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.26387817,
+   "score": 0.26243615,
    "languages": [
     "de",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
-   "title": {
-    "en": "Yoru Naku Suzume"
-   },
-   "contentRating": "safe",
-   "score": 0.25896114,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -69,32 +58,19 @@
     "en": "Inochi o Odoru"
    },
    "contentRating": "safe",
-   "score": 0.25243068,
+   "score": 0.25113824,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
+   "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
    "title": {
-    "en": "Frog and Haru's Super Beast Comic"
+    "en": "Yoru Naku Suzume"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
-   "title": {
-    "en": "Dr. Chanbelee"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "ro",
-    "pl",
     "en"
    ]
   },
@@ -113,13 +89,15 @@
    ]
   },
   {
-   "id": "8787958d-a3f1-4d48-8220-fad148c7c28e",
+   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
    "title": {
-    "en": "Fragment"
+    "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "ro",
+    "pl",
     "en"
    ]
   },
@@ -135,12 +113,23 @@
    ]
   },
   {
-   "id": "48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
+   "id": "8787958d-a3f1-4d48-8220-fad148c7c28e",
    "title": {
-    "en": "Toriya Trip"
+    "en": "Fragment"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
+   "title": {
+    "en": "Frog and Haru's Super Beast Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
@@ -157,28 +146,46 @@
    ]
   },
   {
-   "id": "a79e8284-2fa8-4a16-b708-dc2c4efa04c6",
+   "id": "48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
    "title": {
-    "en": "That Bygone Day When You and I Talked"
+    "en": "Toriya Trip"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "434cd055-dc4d-4fd8-ad80-b285628299a4",
+   "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
    "title": {
-    "en": "Popo"
+    "en": "One-Armed Amy"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "en",
     "fr",
+    "hi",
+    "he",
+    "uk",
+    "en",
     "it",
-    "pt-br"
+    "pt-br",
+    "id",
+    "es-la",
+    "pl",
+    "ru"
+   ]
+  },
+  {
+   "id": "3070be78-046a-4d56-81f4-c053906122c3",
+   "title": {
+    "en": "Ookami to Hitsuji"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -193,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:16+00:00"
+ "updatedAt": "2023-12-10T18:28:42+00:00"
 }

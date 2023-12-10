@@ -6,13 +6,90 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
+   "title": {
+    "en": "Black Night Parade"
+   },
+   "contentRating": "safe",
+   "score": 0.27183738,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.26617992,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "569963c5-6b0b-4f92-b561-e1304b78b0dc",
+   "title": {
+    "en": "Bungo Stray Dogs Wan!"
+   },
+   "contentRating": "safe",
+   "score": 0.2635867,
+   "languages": [
+    "ru",
+    "en",
+    "ar",
+    "pl",
+    "id",
+    "fr"
+   ]
+  },
+  {
+   "id": "b397efc4-e5e0-40e3-99b9-65b2838650ed",
+   "title": {
+    "en": "Bungo Stray Dogs Gaiden - Ayatsuji Yukito VS. Kyougoku Natsuhiko"
+   },
+   "contentRating": "safe",
+   "score": 0.24872291,
+   "languages": [
+    "ru",
+    "en",
+    "uk",
+    "pt-br"
+   ]
+  },
+  {
    "id": "dc2d3f4d-db09-4167-929d-4800b33ea92d",
    "title": {
     "en": "Arashi no Hana Murakumo no Uta"
    },
    "contentRating": "safe",
-   "score": 0.244947,
+   "score": 0.24519412,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d18c567-426e-4c11-8c49-6ec843f53cef",
+   "title": {
+    "en": "Ikigami Sairin"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2a7b7509-1803-4815-8e59-8178a1dc7545",
+   "title": {
+    "en": "Daisaiyuuki Bokuhi Seiden - The Story of a Very Handsome Man"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -22,7 +99,19 @@
     "en": "Ryoko's Case File"
    },
    "contentRating": "safe",
-   "score": 0.23004413,
+   "score": 0.22898445,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
+   "title": {
+    "en": "RDB"
+   },
+   "contentRating": "safe",
+   "score": 0.22695604,
    "languages": [
     "ru",
     "en"
@@ -34,10 +123,34 @@
     "en": "Rewrite: SIDE-B"
    },
    "contentRating": "safe",
-   "score": 0.22047023,
+   "score": 0.21957837,
    "languages": [
     "vi",
     "es-la"
+   ]
+  },
+  {
+   "id": "fbd2ccea-7121-468f-b46f-cd5b3b918bcf",
+   "title": {
+    "en": "Mononobe Koshoten Kaikitan"
+   },
+   "contentRating": "safe",
+   "score": 0.21797377,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "6e5c0ebf-86ee-4a60-83e4-fbdbe68a126e",
+   "title": {
+    "en": "Kyouka Ayakashi Hichou Kanzenban"
+   },
+   "contentRating": "safe",
+   "score": 0.21195804,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -46,61 +159,15 @@
     "en": "ism/i"
    },
    "contentRating": "safe",
-   "score": 0.21270974,
+   "score": 0.21058156,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "id": "95264f28-3ccf-4dea-ad15-5323e4766b4c",
    "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "1f6b847c-d1ba-4a1b-a5f8-b1891c4ba470",
-   "title": {
-    "en": "Vivarium de Choushoku wo"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfa29246-675f-481f-9870-392d2fb23ba0",
-   "title": {
-    "en": "Butterfly"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "e75c8053-00ed-4635-8535-2e976b4be2b0",
-   "title": {
-    "en": "Eiyuu Densetsu - Sora no Kiseki"
+    "en": "Houseki No Kuni (Colored)"
    },
    "contentRating": "safe",
    "score": 0.20865622,
@@ -120,79 +187,17 @@
    ]
   },
   {
-   "id": "5dfe9757-34c9-4c34-9f0e-b3a5d382317c",
+   "id": "37bf7574-641e-4665-b992-f2ba8d4652b8",
    "title": {
-    "en": "Meitantei no Jouken"
+    "en": "Houseki no Kuni (Minimalist Color)"
    },
    "contentRating": "safe",
-   "score": 0.20298734,
+   "score": 0.20865622,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e7f5b2c-5af9-4471-b440-132992d40ee3",
-   "title": {
-    "en": "Red Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c81db64f-3561-48db-8799-2376ffe54f49",
-   "title": {
-    "en": "Yugo"
-   },
-   "contentRating": "safe",
-   "score": 0.19757499,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ebbe576d-48f0-4af5-9b63-75af63ee413c",
-   "title": {
-    "en": "Bokura no Q"
-   },
-   "contentRating": "safe",
-   "score": 0.19741014,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
-   "title": {
-    "en": "Bungou Stray Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.19663602,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en",
     "pl",
-    "fr",
-    "id",
-    "es-la",
-    "ru",
-    "uk"
-   ]
-  },
-  {
-   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
-   "title": {
-    "en": "Asagiri no Miko"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:59+00:00"
+ "updatedAt": "2023-12-10T18:22:35+00:00"
 }

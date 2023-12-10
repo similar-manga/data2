@@ -22,7 +22,7 @@
     "en": "Tide-Line Blue"
    },
    "contentRating": "safe",
-   "score": 0.2812129
+   "score": 0.28199258
   },
   {
    "id": "6b87c642-1852-4cdf-a27f-d5d97a8df72c",
@@ -30,7 +30,15 @@
     "en": "Unfinished Weapon Lunashaft"
    },
    "contentRating": "safe",
-   "score": 0.25157362
+   "score": 0.2512027
+  },
+  {
+   "id": "4575b8cd-7852-4f90-9935-d7f935a386d1",
+   "title": {
+    "en": "Close to the Sky"
+   },
+   "contentRating": "safe",
+   "score": 0.24764155
   },
   {
    "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
@@ -46,12 +54,20 @@
    ]
   },
   {
+   "id": "8aa4a496-2515-46bc-a842-ef85809d2be1",
+   "title": {
+    "en": "Black Bike General"
+   },
+   "contentRating": "safe",
+   "score": 0.24571322
+  },
+  {
    "id": "d5144250-b44a-4fa3-b608-30b63772909d",
    "title": {
     "en": "Gekitotsu no Hexennacht"
    },
    "contentRating": "safe",
-   "score": 0.24618052,
+   "score": 0.24560869,
    "languages": [
     "es-la"
    ]
@@ -62,7 +78,7 @@
     "en": "Elite"
    },
    "contentRating": "safe",
-   "score": 0.245266
+   "score": 0.24474053
   },
   {
    "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
@@ -70,10 +86,18 @@
     "en": "Version"
    },
    "contentRating": "safe",
-   "score": 0.24360749,
+   "score": 0.24325314,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b983c8d6-312a-4ccb-9a8b-b5234bd399c4",
+   "title": {
+    "en": "Blue Jet"
+   },
+   "contentRating": "safe",
+   "score": 0.24315207
   },
   {
    "id": "56e91ed0-99cc-43af-b154-062357d89c54",
@@ -81,12 +105,20 @@
     "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.23547857
+   "score": 0.23556848
   },
   {
-   "id": "56e35328-66b3-424d-bb5a-66bc6bd80505",
+   "id": "be8bc8c0-544c-454e-adfa-0eb28fb4661e",
    "title": {
-    "en": "Gall Force 2: Planet of the Ark"
+    "en": "Biscuit～ビスケット～"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
+  },
+  {
+   "id": "ce402eb5-c0b9-49a5-a28e-d4f0f77be943",
+   "title": {
+    "en": "Super Detective!! Magnum J"
    },
    "contentRating": "safe",
    "score": 0.23328476
@@ -103,30 +135,6 @@
    ]
   },
   {
-   "id": "b9953e8d-1a3c-4c5a-b8ad-0264eb7ab040",
-   "title": {
-    "en": "Kamen Rider ZX"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "b5489869-4dfb-4ee3-9722-6e96286fc60a",
-   "title": {
-    "en": "Dr. Yuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "eca1efd3-69e4-4001-9d40-f455782ba1a8",
-   "title": {
-    "en": "Crisis Buster"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
    "id": "37561c94-4903-45ee-ac89-d1b69fd11a23",
    "title": {
     "en": "Missileman Mummy"
@@ -135,21 +143,13 @@
    "score": 0.23328476
   },
   {
-   "id": "be8bc8c0-544c-454e-adfa-0eb28fb4661e",
+   "id": "37836680-8134-46e7-9d94-adccb61d2ad7",
    "title": {
-    "en": "Biscuit～ビスケット～"
+    "en": "Thunderbirds"
    },
    "contentRating": "safe",
    "score": 0.23328476
-  },
-  {
-   "id": "432fcbf1-0af3-49eb-b7f5-15b6ad583743",
-   "title": {
-    "en": "SD Gundam Sangokuden Brave Battle Warriors Genesis"
-   },
-   "contentRating": "safe",
-   "score": 0.23264635
   }
  ],
- "updatedAt": "2023-12-10T01:00:07+00:00"
+ "updatedAt": "2023-12-10T18:09:21+00:00"
 }

@@ -11,22 +11,11 @@
     "en": "Hidan no Aria"
    },
    "contentRating": "suggestive",
-   "score": 0.26386327,
+   "score": 0.26351458,
    "languages": [
     "en",
     "pt-br",
     "fr"
-   ]
-  },
-  {
-   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
-   "title": {
-    "en": "Akiba's Trip"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25946286,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -35,11 +24,22 @@
     "en": "Kimi wa 008"
    },
    "contentRating": "suggestive",
-   "score": 0.25905308,
+   "score": 0.25887534,
    "languages": [
     "en",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "ea9ed587-21f1-4722-8610-252cdfcf6ada",
+   "title": {
+    "en": "Akiba's Trip"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25776932,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -48,7 +48,7 @@
     "en": "Yozakura Quartet"
    },
    "contentRating": "suggestive",
-   "score": 0.25523654,
+   "score": 0.2530088,
    "languages": [
     "vi",
     "en",
@@ -61,7 +61,7 @@
     "en": "Dosanko Gal wa Namaramenkoi"
    },
    "contentRating": "suggestive",
-   "score": 0.2511748,
+   "score": 0.24870999,
    "languages": [
     "en",
     "es-la",
@@ -78,7 +78,7 @@
     "en": "Ultra Positive Energy Demon King"
    },
    "contentRating": "suggestive",
-   "score": 0.2466271,
+   "score": 0.24551524,
    "languages": [
     "en"
    ]
@@ -89,7 +89,7 @@
     "en": "Futagami Double"
    },
    "contentRating": "suggestive",
-   "score": 0.24025488,
+   "score": 0.2395081,
    "languages": [
     "pl",
     "fr",
@@ -102,7 +102,7 @@
     "en": "Black Yome ni Yoroshiku!"
    },
    "contentRating": "suggestive",
-   "score": 0.23913829,
+   "score": 0.23922975,
    "languages": [
     "fr",
     "en",
@@ -111,12 +111,29 @@
    ]
   },
   {
+   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "title": {
+    "en": "Amagami-san Chi no Enmusubi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23747608,
+   "languages": [
+    "pt-br",
+    "fr",
+    "id",
+    "ar",
+    "en",
+    "ru",
+    "vi"
+   ]
+  },
+  {
    "id": "f71e7fcf-a399-4fb6-8d59-86abae08baf8",
    "title": {
     "en": "Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku na no ni Cheat Dungeon o Tsukutteshimatta Kekka"
    },
    "contentRating": "suggestive",
-   "score": 0.23743851,
+   "score": 0.2371417,
    "languages": [
     "tr",
     "es-la",
@@ -145,7 +162,7 @@
     "en": "Devilchi"
    },
    "contentRating": "suggestive",
-   "score": 0.23112248,
+   "score": 0.2307335,
    "languages": [
     "pt-br",
     "en",
@@ -166,35 +183,15 @@
    ]
   },
   {
-   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "id": "c824574c-ea15-470f-bee4-515a4f13f1c0",
    "title": {
-    "en": "Amagami-san Chi no Enmusubi"
+    "en": "Yoo Ah Dok-Jon"
    },
    "contentRating": "suggestive",
-   "score": 0.2301729,
+   "score": 0.22800915,
    "languages": [
-    "pt-br",
-    "fr",
-    "id",
-    "ar",
-    "en",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "db2227a7-7551-4233-991f-cc9dc1f20be2",
-   "title": {
-    "en": "Kinsou no Vermeil ~Gakeppuchi Majutshi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22889931,
-   "languages": [
-    "pt-br",
-    "en",
     "pl",
-    "id",
-    "vi"
+    "en"
    ]
   },
   {
@@ -209,17 +206,20 @@
    ]
   },
   {
-   "id": "c824574c-ea15-470f-bee4-515a4f13f1c0",
+   "id": "db2227a7-7551-4233-991f-cc9dc1f20be2",
    "title": {
-    "en": "Yoo Ah Dok-Jon"
+    "en": "Kinsou no Vermeil ~Gakeppuchi Majutshi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu~"
    },
    "contentRating": "suggestive",
-   "score": 0.22800915,
+   "score": 0.226769,
    "languages": [
+    "pt-br",
+    "en",
     "pl",
-    "en"
+    "id",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:28+00:00"
+ "updatedAt": "2023-12-10T18:10:20+00:00"
 }

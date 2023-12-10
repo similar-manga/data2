@@ -11,7 +11,7 @@
     "en": "Legend of the Galactic Heroes - Golden Wings"
    },
    "contentRating": "safe",
-   "score": 0.29980576,
+   "score": 0.30080143,
    "languages": [
     "ru"
    ]
@@ -22,11 +22,22 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.25740623,
+   "score": 0.25965574,
    "languages": [
     "en",
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
+   "title": {
+    "en": "TC-225"
+   },
+   "contentRating": "safe",
+   "score": 0.25767416,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -35,9 +46,20 @@
     "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.23013915,
+   "score": 0.2304309,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "539aaad5-1663-4fba-8d03-ea9c4d0c8525",
+   "title": {
+    "ja": "Woll"
+   },
+   "contentRating": "safe",
+   "score": 0.22579247,
+   "languages": [
     "en"
    ]
   },
@@ -47,7 +69,18 @@
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.22405751,
+   "score": 0.22369683,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c64514c-ebb0-4118-a690-700ba22c2a80",
+   "title": {
+    "en": "Beautiful Place"
+   },
+   "contentRating": "safe",
+   "score": 0.21700947,
    "languages": [
     "en"
    ]
@@ -58,75 +91,7 @@
     "en": "Spacedrum"
    },
    "contentRating": "safe",
-   "score": 0.21646826,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5c4d35f1-1e01-44e7-9438-b7faa14961ad",
-   "title": {
-    "en": "Xinghai Rongyao"
-   },
-   "contentRating": "safe",
-   "score": 0.20677824,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
-   "title": {
-    "ja": "Raid on Tokyo"
-   },
-   "contentRating": "safe",
-   "score": 0.20538653,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45c8fab1-a97c-4dd9-ad7a-3de5c740b7d6",
-   "title": {
-    "en": "Hexenhammer"
-   },
-   "contentRating": "safe",
-   "score": 0.2015459,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bcbf10c8-f75f-4f7c-befd-6459db3b7cfc",
-   "title": {
-    "en": "CHR-47"
-   },
-   "contentRating": "safe",
-   "score": 0.20143862,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "12852d22-575e-48db-9292-b2a57f12d1f7",
-   "title": {
-    "en": "Mabaram The School Conqueror"
-   },
-   "contentRating": "safe",
-   "score": 0.20099635,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6de9a4f7-9007-4b74-af6b-81ebec91697e",
-   "title": {
-    "en": "Reversi"
-   },
-   "contentRating": "safe",
-   "score": 0.20044912,
+   "score": 0.21693136,
    "languages": [
     "en"
    ]
@@ -137,60 +102,93 @@
     "en": "Fight Class 3 (Webtoon Version)"
    },
    "contentRating": "safe",
-   "score": 0.19988008,
+   "score": 0.2095151,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "7d76130c-1bc8-4e5a-9add-641f5a1b59f3",
+   "id": "5c4d35f1-1e01-44e7-9438-b7faa14961ad",
    "title": {
-    "en": "Introduction to Survival"
+    "en": "Xinghai Rongyao"
    },
    "contentRating": "safe",
-   "score": 0.19841172,
+   "score": 0.20729214,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.20663588,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
+   "title": {
+    "ja": "Raid on Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.20534068,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "405f14bc-f515-410d-8df3-98b171a6cfbd",
+   "title": {
+    "en": "Evolution"
+   },
+   "contentRating": "safe",
+   "score": 0.20469336,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bd4b3774-0acb-4c7e-a9c5-7160ede8d07a",
+   "title": {
+    "en": "ETRANGERE"
+   },
+   "contentRating": "safe",
+   "score": 0.20463525,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "434ab288-0620-44e9-b0d4-c68d8547ec42",
+   "id": "de78b082-ff57-4fe4-9710-0f3b75e4c7a7",
    "title": {
-    "en": "Mobile Suit Gundam in UC 0099 - Moon Crisis"
+    "en": "Kitchen Soldier"
    },
    "contentRating": "safe",
-   "score": 0.1961848,
+   "score": 0.20417719,
    "languages": [
-    "en"
+    "en",
+    "id"
    ]
   },
   {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+   "id": "f44c1ae4-75d6-4ff6-9e5c-7330773e2dbd",
    "title": {
-    "en": "Cosmos"
+    "en": "Darkness and Death"
    },
    "contentRating": "safe",
-   "score": 0.19597778,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "286da3e0-4981-42b1-9f8f-c59a7e91d3de",
-   "title": {
-    "en": "Shoujo Fight"
-   },
-   "contentRating": "safe",
-   "score": 0.19353281,
+   "score": 0.20306228,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:14+00:00"
+ "updatedAt": "2023-12-10T18:31:07+00:00"
 }

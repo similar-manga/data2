@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "947cdce5-182e-4ff3-9484-218c638e88ac",
+   "title": {
+    "en": "Ao no Miburo"
+   },
+   "contentRating": "safe",
+   "score": 0.26024073,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
    "title": {
     "en": "Warabe no Kusa"
@@ -17,12 +30,12 @@
    ]
   },
   {
-   "id": "a0c607d6-e845-49a1-bd37-8159da029f2a",
+   "id": "e26cef28-dae7-4f4c-a5fc-14097dd38856",
    "title": {
-    "en": "Shinsengumi Chuubou Roku"
+    "en": "Howling"
    },
    "contentRating": "safe",
-   "score": 0.21344934,
+   "score": 0.23996039,
    "languages": [
     "en"
    ]
@@ -33,7 +46,18 @@
     "en": "Uso to Makoto"
    },
    "contentRating": "safe",
-   "score": 0.21063857,
+   "score": 0.21008976,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0c607d6-e845-49a1-bd37-8159da029f2a",
+   "title": {
+    "en": "Shinsengumi Chuubou Roku"
+   },
+   "contentRating": "safe",
+   "score": 0.20656465,
    "languages": [
     "en"
    ]
@@ -44,7 +68,18 @@
     "en": "Mononoke Hime"
    },
    "contentRating": "safe",
-   "score": 0.2051581,
+   "score": 0.20572986,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "539aaad5-1663-4fba-8d03-ea9c4d0c8525",
+   "title": {
+    "ja": "Woll"
+   },
+   "contentRating": "safe",
+   "score": 0.20492397,
    "languages": [
     "en"
    ]
@@ -55,7 +90,40 @@
     "en": "Gintama - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.20163442,
+   "score": 0.20004566,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21666dcf-1257-497d-9647-e4bb63411137",
+   "title": {
+    "en": "Atrail - Nisekawiteki Nichijou to Senmitsu Element"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "486e0188-49d3-4093-9422-6faf3508a4a1",
+   "title": {
+    "en": "Hammer Session! R"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6ed53a0e-1980-4384-82d4-ed27a7aad6d9",
+   "title": {
+    "en": "Gasaraki"
+   },
+   "contentRating": "safe",
+   "score": 0.19006957,
    "languages": [
     "en"
    ]
@@ -66,7 +134,7 @@
     "en": "Niwatori no Umi"
    },
    "contentRating": "safe",
-   "score": 0.18800378,
+   "score": 0.18654515,
    "languages": [
     "en"
    ]
@@ -77,7 +145,7 @@
     "en": "The Elusive Samurai"
    },
    "contentRating": "safe",
-   "score": 0.1822099,
+   "score": 0.18166457,
    "languages": [
     "en",
     "fr",
@@ -87,116 +155,38 @@
    ]
   },
   {
-   "id": "f90c4398-8aad-4f51-8a1f-024ca09fdcbc",
+   "id": "36cdd4d4-1461-49de-bce2-4beac39d7fce",
    "title": {
-    "en": "Souten no Koumori"
+    "en": "World's Strongest Sorcerer Gets Reincarnated"
    },
    "contentRating": "safe",
-   "score": 0.17665982,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ca",
-    "it"
-   ]
-  },
-  {
-   "id": "f263bb25-bc48-465d-bc1b-e29b1b2b9383",
-   "title": {
-    "en": "Amanusya"
-   },
-   "contentRating": "safe",
-   "score": 0.1746099,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "33f1397b-07d1-4dfc-b42a-a428a41fe55b",
-   "title": {
-    "en": "Tenko"
-   },
-   "contentRating": "safe",
-   "score": 0.17365612,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "b5e79d8b-76b9-4ad0-a7fd-d54db67361dd",
-   "title": {
-    "en": "Super Doctor K"
-   },
-   "contentRating": "safe",
-   "score": 0.17216505,
+   "score": 0.18091032,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d5404847-a74f-45c8-82b8-bbaa6b724d63",
+   "id": "0f4b813d-1d59-435a-9c0d-d759023e1c87",
    "title": {
-    "en": "Shinden Yuuden Kakumei-hen - Ochita Kuroi Yuusha no Densetsu"
+    "en": "Mutsu Enmei Ryuu Gaiden - Shura no Toki"
    },
    "contentRating": "safe",
-   "score": 0.17034185,
+   "score": 0.18083085,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "70cf0231-4ef9-42b9-800b-4e26477d7299",
+   "id": "571fbd9b-ebc0-4ebc-b9d8-3d53e50efac6",
    "title": {
-    "en": "Rurouni Kenshin: Yahiko no Sakabatou"
+    "en": "Sarutobi"
    },
    "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "en",
-    "pt"
-   ]
-  },
-  {
-   "id": "75584961-7595-415f-805b-e4bc8937213c",
-   "title": {
-    "en": "NOW"
-   },
-   "contentRating": "safe",
-   "score": 0.16877058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
-   "title": {
-    "en": "Hello Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.16686413,
-   "languages": [
-    "ca",
-    "en",
-    "hu",
-    "pl",
-    "ro",
-    "de"
-   ]
-  },
-  {
-   "id": "8491abb4-6ff0-4be0-a2c0-39fce486da65",
-   "title": {
-    "en": "Shijyushichi Taisen"
-   },
-   "contentRating": "safe",
-   "score": 0.16586652,
+   "score": 0.18038015,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:40+00:00"
+ "updatedAt": "2023-12-10T18:16:23+00:00"
 }

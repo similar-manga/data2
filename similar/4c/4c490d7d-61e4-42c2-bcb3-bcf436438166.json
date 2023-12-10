@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ae141bf0-cd01-442d-b09c-c5592abe5ff6",
+   "title": {
+    "en": "Mibu Gishi Den"
+   },
+   "contentRating": "safe",
+   "score": 0.27700064
+  },
+  {
    "id": "6ccc3f0f-3011-40b7-8d1d-65383f4fb126",
    "title": {
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.2371316,
+   "score": 0.23710544,
    "languages": [
     "en"
    ]
@@ -46,12 +54,27 @@
    "score": 0.23107338
   },
   {
+   "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
+   "title": {
+    "en": "Issak"
+   },
+   "contentRating": "safe",
+   "score": 0.22687852,
+   "languages": [
+    "pt-br",
+    "en",
+    "es",
+    "ru",
+    "tr"
+   ]
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "title": {
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.22717364,
+   "score": 0.22683117,
    "languages": [
     "zh-hk",
     "en",
@@ -71,18 +94,14 @@
    ]
   },
   {
-   "id": "680c9fa4-1c12-4838-97c2-765cba78374c",
+   "id": "ecc1f245-9667-461b-9a96-df6f000f4984",
    "title": {
-    "en": "Issak"
+    "en": "Shinsengumi Jingishou Asagi"
    },
    "contentRating": "safe",
-   "score": 0.22704183,
+   "score": 0.22441629,
    "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "ru",
-    "tr"
+    "en"
    ]
   },
   {
@@ -104,7 +123,7 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.22109944
+   "score": 0.22127889
   },
   {
    "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
@@ -120,7 +139,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.22034638,
+   "score": 0.21987312,
    "languages": [
     "en",
     "it",
@@ -139,12 +158,20 @@
    ]
   },
   {
+   "id": "7d6c2d86-6a2e-427a-a8fa-147e91d970c4",
+   "title": {
+    "en": "Nitobe Inazou"
+   },
+   "contentRating": "safe",
+   "score": 0.21340573
+  },
+  {
    "id": "197a27f5-835f-49eb-a91a-9751fe73335e",
    "title": {
     "en": "Onihei Hankachou"
    },
    "contentRating": "safe",
-   "score": 0.21349902,
+   "score": 0.21241763,
    "languages": [
     "en"
    ]
@@ -155,7 +182,7 @@
     "en": "Kunoichi Ibun - An Angel Has Flown Down"
    },
    "contentRating": "safe",
-   "score": 0.20994385
+   "score": 0.20940542
   },
   {
    "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
@@ -179,39 +206,7 @@
     "en",
     "it"
    ]
-  },
-  {
-   "id": "fc3d7979-7aa9-4417-b289-ffc8c5057c98",
-   "title": {
-    "en": "Africa Army Corps"
-   },
-   "contentRating": "safe",
-   "score": 0.2072443
-  },
-  {
-   "id": "5b302b52-38ba-411d-b89f-90512f1ced44",
-   "title": {
-    "en": "Red Colored Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.2047705,
-   "languages": [
-    "ar",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "0781388e-2fbe-4e35-ada4-5c9bbef210ff",
-   "title": {
-    "en": "Assassine"
-   },
-   "contentRating": "safe",
-   "score": 0.20264268,
-   "languages": [
-    "en",
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:44+00:00"
+ "updatedAt": "2023-12-10T18:16:34+00:00"
 }

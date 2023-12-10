@@ -46,7 +46,18 @@
     "en": "1980"
    },
    "contentRating": "safe",
-   "score": 0.23038521,
+   "score": 0.23035131,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "029993e4-ce0a-4b14-86b6-12a5f51d4fc1",
+   "title": {
+    "en": "Daring Little Red Riding Hood and Herbivorous Wolf-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
    "languages": [
     "en"
    ]
@@ -57,7 +68,7 @@
     "en": "Onee-chan no Imouto"
    },
    "contentRating": "safe",
-   "score": 0.21316886,
+   "score": 0.20885168,
    "languages": [
     "en"
    ]
@@ -68,7 +79,7 @@
     "en": "Gun"
    },
    "contentRating": "safe",
-   "score": 0.1910638,
+   "score": 0.1919858,
    "languages": [
     "en",
     "ru"
@@ -80,18 +91,7 @@
     "en": "Alice Everlasting"
    },
    "contentRating": "safe",
-   "score": 0.18324195,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15812a3c-0cc8-4b73-adf0-eeb1ff7792cf",
-   "title": {
-    "en": "Caterpillar \u0026 Butterfly"
-   },
-   "contentRating": "safe",
-   "score": 0.17930618,
+   "score": 0.18696423,
    "languages": [
     "en"
    ]
@@ -108,44 +108,20 @@
    ]
   },
   {
-   "id": "5e861e11-27bf-4594-8824-72dc2ff72a69",
+   "id": "15812a3c-0cc8-4b73-adf0-eeb1ff7792cf",
    "title": {
-    "en": "Sho Nuff I Do"
+    "en": "Caterpillar \u0026 Butterfly"
    },
    "contentRating": "safe",
-   "score": 0.17541161,
-   "languages": [
-    "fr",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "6a0373f3-0b1e-4924-943b-045e259af189",
-   "title": {
-    "en": "Tsumi to Natsu"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
+   "score": 0.17930618,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3464ce7b-df1b-4572-8354-c72402fc1d25",
+   "id": "e25020b1-17b4-4a4a-876e-67ac6cbab8d6",
    "title": {
-    "en": "Papa wa Uchuujin"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c89a86dc-91f6-4cd6-8957-9f532fdd0378",
-   "title": {
-    "en": "The star with 1000 faces"
+    "en": "Ha wo Migakou"
    },
    "contentRating": "safe",
    "score": 0.17541161,
@@ -177,9 +153,34 @@
    ]
   },
   {
-   "id": "212bd8b3-ba1c-4f68-9307-dcbf53320f0f",
+   "id": "5e861e11-27bf-4594-8824-72dc2ff72a69",
    "title": {
-    "en": "Water Crisis"
+    "en": "Sho Nuff I Do"
+   },
+   "contentRating": "safe",
+   "score": 0.17541161,
+   "languages": [
+    "fr",
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "dbb435fd-02ef-4cd8-8825-0ac79bf2755e",
+   "title": {
+    "en": "Apple Town"
+   },
+   "contentRating": "safe",
+   "score": 0.17541161,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "5c6fbb4b-839e-4678-92b1-845041bd00ae",
+   "title": {
+    "en": "Riajuu Gozen 4-ji"
    },
    "contentRating": "safe",
    "score": 0.17541161,
@@ -188,5 +189,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:19+00:00"
+ "updatedAt": "2023-12-10T18:33:50+00:00"
 }

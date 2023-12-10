@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "86c7b091-3e99-49c0-b2aa-cec92d664d37",
-   "title": {
-    "en": "Saigo no Page"
-   },
-   "contentRating": "safe",
-   "score": 0.39577922
-  },
-  {
    "id": "2e571be3-c634-48ab-a813-4834d08f2806",
    "title": {
     "en": "Yumeiro Button"
    },
    "contentRating": "safe",
-   "score": 0.3728291,
+   "score": 0.37162688,
    "languages": [
     "it"
    ]
@@ -30,9 +22,28 @@
     "en": "Hajimete, Moratte ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.35653105,
+   "score": 0.36021698,
    "languages": [
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "86c7b091-3e99-49c0-b2aa-cec92d664d37",
+   "title": {
+    "en": "Saigo no Page"
+   },
+   "contentRating": "safe",
+   "score": 0.35590425
+  },
+  {
+   "id": "3869d971-abef-4d68-8074-14f171a760a6",
+   "title": {
+    "en": "Kimi no Ai de Motenashite"
+   },
+   "contentRating": "safe",
+   "score": 0.3548595,
+   "languages": [
     "pt-br"
    ]
   },
@@ -42,18 +53,7 @@
     "en": "Amai Doku Osananajimi"
    },
    "contentRating": "safe",
-   "score": 0.3560641
-  },
-  {
-   "id": "3869d971-abef-4d68-8074-14f171a760a6",
-   "title": {
-    "en": "Kimi no Ai de Motenashite"
-   },
-   "contentRating": "safe",
-   "score": 0.35402125,
-   "languages": [
-    "pt-br"
-   ]
+   "score": 0.35436413
   },
   {
    "id": "b1dae931-3331-4846-9738-dfce2c3aafc9",
@@ -61,7 +61,18 @@
     "en": "Hajimete no Koi no Sodatekata"
    },
    "contentRating": "safe",
-   "score": 0.34921953,
+   "score": 0.3516713,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22593bc8-4a73-4d36-86d0-bbe5b2b71b53",
+   "title": {
+    "en": "My Wonderful Sweets"
+   },
+   "contentRating": "safe",
+   "score": 0.35045248,
    "languages": [
     "en"
    ]
@@ -72,7 +83,7 @@
     "en": "Dynamite Star"
    },
    "contentRating": "safe",
-   "score": 0.34394068,
+   "score": 0.34286827,
    "languages": [
     "pl",
     "en",
@@ -85,7 +96,7 @@
     "en": "Latent Heat"
    },
    "contentRating": "safe",
-   "score": 0.34167594,
+   "score": 0.34013292,
    "languages": [
     "en"
    ]
@@ -96,7 +107,7 @@
     "en": "Kimi no Iru Sekai"
    },
    "contentRating": "safe",
-   "score": 0.3330346
+   "score": 0.33140016
   },
   {
    "id": "ef4d5e51-f22c-4b1e-a6c7-e012b9717cb4",
@@ -104,25 +115,10 @@
     "en": "Fumikiri, Kimi no te, Sakuramichi"
    },
    "contentRating": "safe",
-   "score": 0.33000907,
+   "score": 0.32846102,
    "languages": [
     "en",
     "ar"
-   ]
-  },
-  {
-   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
-   "title": {
-    "en": "Shinyuu no Mikami-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.32633623,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "it",
-    "pl"
    ]
   },
   {
@@ -131,7 +127,7 @@
     "en": "Ama Iro Omoi"
    },
    "contentRating": "safe",
-   "score": 0.32552874,
+   "score": 0.32470232,
    "languages": [
     "pl",
     "en"
@@ -143,7 +139,7 @@
     "en": "Hirahira to Gunjou"
    },
    "contentRating": "safe",
-   "score": 0.32523823,
+   "score": 0.32437977,
    "languages": [
     "pt-br",
     "en",
@@ -152,35 +148,44 @@
    ]
   },
   {
+   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
+   "title": {
+    "en": "Shinyuu no Mikami-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.32387352,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "it",
+    "pl"
+   ]
+  },
+  {
    "id": "f5a0c719-6fd7-4116-9227-6d4b55180ce2",
    "title": {
     "en": "Navy Blue no Hoshizora"
    },
    "contentRating": "safe",
-   "score": 0.3217063,
+   "score": 0.32098514,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1199738b-af3a-42ea-ab6a-ca4f796ae04c",
+   "id": "cc1a424c-0fe3-475a-a05c-d678576340c8",
    "title": {
-    "en": "Spring One Year Later"
+    "en": "\"Hajimete\" Ageru!"
    },
    "contentRating": "safe",
-   "score": 0.3211156,
+   "score": 0.32071915,
    "languages": [
-    "en"
+    "pl",
+    "en",
+    "ro"
    ]
-  },
-  {
-   "id": "5f50db01-9ee9-49c0-90d9-f3ccda54d8f8",
-   "title": {
-    "en": "Konyaku 0-Nichi Kon wa Dou desu ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.32089064
   }
  ],
- "updatedAt": "2023-12-10T01:04:38+00:00"
+ "updatedAt": "2023-12-10T18:21:39+00:00"
 }

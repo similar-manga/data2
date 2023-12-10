@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
-   "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
-   },
-   "contentRating": "safe",
-   "score": 0.23748167,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
    "title": {
     "en": "The Planet of Sutakola"
@@ -55,7 +44,7 @@
     "en": "A Genius' Isekai Overlord Legend - Fist of the North Star: Amiba Gaiden - Even if I Go to Another World, I Am a Genius!! Huh? Was I Mistaken..."
    },
    "contentRating": "safe",
-   "score": 0.20956074,
+   "score": 0.2083918,
    "languages": [
     "en"
    ]
@@ -66,7 +55,7 @@
     "en": "The Judgement Day - Fist of the North Star: Ryuken Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.20820716,
+   "score": 0.20557134,
    "languages": [
     "en"
    ]
@@ -77,11 +66,23 @@
     "en": "Kaiji Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.2049052,
+   "score": 0.20205297,
    "languages": [
     "en",
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "e8b887ac-86bc-4f8e-a582-2b22cc283bed",
+   "title": {
+    "en": "341 Sentoudan"
+   },
+   "contentRating": "safe",
+   "score": 0.19475791,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -90,7 +91,7 @@
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.19591956,
+   "score": 0.1947544,
    "languages": [
     "zh-hk",
     "en",
@@ -110,18 +111,14 @@
    ]
   },
   {
-   "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
    "title": {
-    "en": "Shojo Manga"
+    "en": "Groundless"
    },
    "contentRating": "safe",
-   "score": 0.19062462,
+   "score": 0.18878277,
    "languages": [
-    "it",
-    "tr",
-    "pt-br",
-    "en",
-    "fr"
+    "en"
    ]
   },
   {
@@ -130,7 +127,7 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.18851876,
+   "score": 0.18746848,
    "languages": [
     "en",
     "ru"
@@ -158,14 +155,29 @@
    ]
   },
   {
-   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
+   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
    "title": {
-    "ja": "Raid on Tokyo"
+    "en": "Mobile Suit Gundam: One Day - H.D.A."
    },
    "contentRating": "safe",
-   "score": 0.18004923,
+   "score": 0.18385677,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
+   "title": {
+    "en": "Shojo Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.18342535,
+   "languages": [
+    "it",
+    "tr",
+    "pt-br",
+    "en",
+    "fr"
    ]
   },
   {
@@ -175,6 +187,17 @@
    },
    "contentRating": "safe",
    "score": 0.17953677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
+   "title": {
+    "ja": "Raid on Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.17944655,
    "languages": [
     "en"
    ]
@@ -195,31 +218,7 @@
     "fr",
     "ne"
    ]
-  },
-  {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.17662115,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
-   "title": {
-    "en": "Kirisuke and Johnny, The Slaying of 499"
-   },
-   "contentRating": "safe",
-   "score": 0.17541718,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:12+00:00"
+ "updatedAt": "2023-12-10T18:35:58+00:00"
 }

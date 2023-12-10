@@ -11,7 +11,7 @@
     "en": "Candy Candy"
    },
    "contentRating": "safe",
-   "score": 0.2648935,
+   "score": 0.2635116,
    "languages": [
     "pt-br",
     "en",
@@ -25,6 +25,17 @@
    },
    "contentRating": "safe",
    "score": 0.24861515,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0ce96a27-1c3b-4a90-ae33-3c5696e96703",
+   "title": {
+    "en": "Hey Miss, Don't You Know?"
+   },
+   "contentRating": "safe",
+   "score": 0.231209,
    "languages": [
     "en"
    ]
@@ -44,6 +55,29 @@
    ]
   },
   {
+   "id": "9b7d94cb-d0aa-4c39-9fb9-490d793083b5",
+   "title": {
+    "en": "Sleeping Beauty Age"
+   },
+   "contentRating": "safe",
+   "score": 0.21530703,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ababc3e5-b56a-44b1-96c6-d434f141f2ab",
+   "title": {
+    "en": "Kimi ni Todoke: From Me to You x Blue Sky Yell - 45° Eyebrows"
+   },
+   "contentRating": "safe",
+   "score": 0.21530703,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "854933f8-27de-4d65-afb6-3eed5dadeede",
    "title": {
     "en": "High School Debut"
@@ -57,15 +91,25 @@
    ]
   },
   {
-   "id": "ababc3e5-b56a-44b1-96c6-d434f141f2ab",
+   "id": "894e9cab-c0ec-4c5d-88f6-fcbc8bd244d5",
    "title": {
-    "en": "Kimi ni Todoke: From Me to You x Blue Sky Yell - 45° Eyebrows"
+    "en": "My Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.21530703,
+   "score": 0.21303354,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
+   ]
+  },
+  {
+   "id": "8ff391c0-bf32-4e5e-b87b-532fbed43a0c",
+   "title": {
+    "en": "Dress-up Yuka-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.20814292,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -96,81 +140,7 @@
     "en": "Airuika"
    },
    "contentRating": "safe",
-   "score": 0.20796005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "66aea147-01b8-40e1-86fa-276e9ab6fdef",
-   "title": {
-    "en": "A Sloppy Girl Wishes for Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "9356fa3f-9ecd-4ff7-a7fe-241884680079",
-   "title": {
-    "en": "Skip Beat!"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "en",
-    "pl",
-    "ar",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "9345eb96-92bf-4223-9bee-886307475528",
-   "title": {
-    "en": "Sayonara Terminal"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c3740d61-feec-432c-81a6-1cc2a371befb",
-   "title": {
-    "en": "Nemunoki no Geshukusou"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "755bdfd3-0d99-4030-8feb-efe7c0ac8a48",
-   "title": {
-    "en": "Family!"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf23d8f0-ea3f-4ced-bfd3-a589ba487bb8",
-   "title": {
-    "en": "Oneichan to Issho"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
+   "score": 0.20700783,
    "languages": [
     "en"
    ]
@@ -188,16 +158,43 @@
    ]
   },
   {
-   "id": "1fc70f6f-e9cd-4d09-8e02-1209f51a6dee",
+   "id": "66aea147-01b8-40e1-86fa-276e9ab6fdef",
    "title": {
-    "en": "1-Day Idol"
+    "en": "A Sloppy Girl Wishes for Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
+   "title": {
+    "en": "Orgel Garden"
    },
    "contentRating": "safe",
    "score": 0.2053538,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b65df494-fef8-41a9-8e47-f679bc6a6e5f",
+   "title": {
+    "en": "Boku no Kotori-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
+   "languages": [
+    "tr",
+    "fr",
+    "pt-br",
+    "bg",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:13+00:00"
+ "updatedAt": "2023-12-10T18:31:04+00:00"
 }

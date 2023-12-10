@@ -11,10 +11,26 @@
     "en": "Japanese History Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.24536613,
+   "score": 0.24367774,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8a64b09c-09fd-4d8d-919b-b9a4ea9f788e",
+   "title": {
+    "en": "Meiji Kokonoko"
+   },
+   "contentRating": "safe",
+   "score": 0.222198
+  },
+  {
+   "id": "a4fad18f-73b0-45d4-81fe-7073b8ec71ef",
+   "title": {
+    "en": "Who's Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.22041927
   },
   {
    "id": "c307ed94-24eb-4aab-84b3-59229b240401",
@@ -30,15 +46,18 @@
     "en": "The Zero Zero Directive"
    },
    "contentRating": "safe",
-   "score": 0.20878509
+   "score": 0.20848244
   },
   {
-   "id": "b68b9cfa-9bf4-4f2e-9d68-380dac9f3a8e",
+   "id": "b5fe36a6-a45b-48a9-baff-1fef19012abf",
    "title": {
-    "en": "Hi-Fi Cluster"
+    "en": "Harahara Sensei"
    },
    "contentRating": "safe",
-   "score": 0.20557448
+   "score": 0.20562719,
+   "languages": [
+    "vi"
+   ]
   },
   {
    "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
@@ -46,7 +65,7 @@
     "en": "Warabe no Kusa"
    },
    "contentRating": "safe",
-   "score": 0.20347406,
+   "score": 0.20281146,
    "languages": [
     "en"
    ]
@@ -57,7 +76,7 @@
     "en": "T・P Bon"
    },
    "contentRating": "safe",
-   "score": 0.20067616
+   "score": 0.19900937
   },
   {
    "id": "37fd04eb-b674-4558-a1a6-9b27c78054c5",
@@ -73,7 +92,7 @@
     "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.19825889,
+   "score": 0.1981834,
    "languages": [
     "en"
    ]
@@ -84,7 +103,15 @@
     "en": "The Doberman Detective"
    },
    "contentRating": "safe",
-   "score": 0.19299535
+   "score": 0.19231765
+  },
+  {
+   "id": "8449a8da-389f-4370-8c24-96b21915e48d",
+   "title": {
+    "en": "Tsukimonogakari"
+   },
+   "contentRating": "safe",
+   "score": 0.1920404
   },
   {
    "id": "b6595861-b900-44c2-bbc8-5f9faca277ac",
@@ -92,7 +119,29 @@
     "en": "Pilot Ace"
    },
    "contentRating": "safe",
-   "score": 0.19025102
+   "score": 0.19034922
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.19009688,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.18971293,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "ba21f941-44c7-466b-9682-18b3776b8c83",
@@ -104,60 +153,7 @@
    "languages": [
     "pl"
    ]
-  },
-  {
-   "id": "d67d5c53-7480-484a-a59a-bca4ebbccb5f",
-   "title": {
-    "en": "Indigo Police"
-   },
-   "contentRating": "safe",
-   "score": 0.18609504,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78cbfb65-2681-48a4-92ca-8c7dd63737a7",
-   "title": {
-    "en": "Tokyo Jungle"
-   },
-   "contentRating": "safe",
-   "score": 0.1857642,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
-   "title": {
-    "en": "Tiger \u0026 Bunny"
-   },
-   "contentRating": "safe",
-   "score": 0.18396863,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
-   "title": {
-    "en": "E's"
-   },
-   "contentRating": "safe",
-   "score": 0.18025343,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "13c194eb-4a65-4905-8dec-01b46d4f3f24",
-   "title": {
-    "en": "Oshi ga Shinda no de Time Leap shite Seizon Route Kakuho shimasu!"
-   },
-   "contentRating": "safe",
-   "score": 0.17787795
   }
  ],
- "updatedAt": "2023-12-10T01:05:42+00:00"
+ "updatedAt": "2023-12-10T18:24:23+00:00"
 }

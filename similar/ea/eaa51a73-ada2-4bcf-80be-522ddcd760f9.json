@@ -11,7 +11,15 @@
     "en": "The Venomous Spotted Spider"
    },
    "contentRating": "safe",
-   "score": 0.43474323
+   "score": 0.47921196
+  },
+  {
+   "id": "d3af5dfc-a5a6-4e7b-b27b-abcb82242c63",
+   "title": {
+    "en": "The Leeches Cling On"
+   },
+   "contentRating": "safe",
+   "score": 0.30088234
   },
   {
    "id": "944e06ae-7503-43af-bffa-1a817da271de",
@@ -19,7 +27,7 @@
     "en": "Higanbana"
    },
    "contentRating": "safe",
-   "score": 0.2930469,
+   "score": 0.299145,
    "languages": [
     "en"
    ]
@@ -30,7 +38,7 @@
     "en": "Bloody Bug Mansion"
    },
    "contentRating": "safe",
-   "score": 0.2547931
+   "score": 0.25565392
   },
   {
    "id": "b324fffc-38ba-4da2-9474-ffe01d55aab3",
@@ -38,7 +46,7 @@
     "en": "Fear! Manor of Blood"
    },
    "contentRating": "safe",
-   "score": 0.2421778
+   "score": 0.24297783
   },
   {
    "id": "8cfc7113-7174-4154-87c0-f1968723ce8b",
@@ -46,7 +54,7 @@
     "en": "The Wrathful Cat Girl"
    },
    "contentRating": "safe",
-   "score": 0.2296504
+   "score": 0.23077641
   },
   {
    "id": "b1015a1e-eb48-4ef3-8025-822aed0e0a73",
@@ -54,15 +62,18 @@
     "en": "Lightning Girl"
    },
    "contentRating": "safe",
-   "score": 0.21400148
+   "score": 0.21473704
   },
   {
-   "id": "f40c24df-165d-4e72-957b-deaefb4431e3",
+   "id": "e49a5e3a-ea88-42f4-82c1-9d4b06187463",
    "title": {
-    "en": "Monkey Girl"
+    "en": "Zekkyou Daiyogen"
    },
    "contentRating": "safe",
-   "score": 0.21054654
+   "score": 0.21360883,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a633abe8-c107-4e6c-b414-ca31deda535f",
@@ -70,7 +81,15 @@
     "en": "Dracula in White"
    },
    "contentRating": "safe",
-   "score": 0.21020675
+   "score": 0.21151397
+  },
+  {
+   "id": "f40c24df-165d-4e72-957b-deaefb4431e3",
+   "title": {
+    "en": "Monkey Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.21098614
   },
   {
    "id": "b904d62a-ec59-4a3b-a5e7-dac29285d88a",
@@ -78,7 +97,15 @@
     "en": "White Snake Girl"
    },
    "contentRating": "safe",
-   "score": 0.20898177
+   "score": 0.20950797
+  },
+  {
+   "id": "831d7b27-1bee-49fc-b166-0475ab41f5e0",
+   "title": {
+    "en": "Vengeful Spirits - Sacrifice Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.20736225
   },
   {
    "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
@@ -92,56 +119,29 @@
    ]
   },
   {
+   "id": "d1c3c133-9e76-4a54-85cf-7967449c5e8f",
+   "title": {
+    "en": "The Monster Manor, Cursed by Blood"
+   },
+   "contentRating": "safe",
+   "score": 0.19221574
+  },
+  {
+   "id": "59b9ea36-acc9-4c24-b468-0bff5959a647",
+   "title": {
+    "en": "I'm Scared of my Troll Mother!"
+   },
+   "contentRating": "safe",
+   "score": 0.18611887
+  },
+  {
    "id": "91bc9dde-5381-4228-a082-9bc8eae13d19",
    "title": {
     "en": "The Cursed Face on My Skin"
    },
    "contentRating": "safe",
-   "score": 0.18459229
-  },
-  {
-   "id": "bdcebc82-c520-47db-bb43-19ba3c45cb8c",
-   "title": {
-    "en": "Lady Lizard"
-   },
-   "contentRating": "safe",
-   "score": 0.17287675
-  },
-  {
-   "id": "f70230ad-0750-4e82-bbb4-63c31b1b2b53",
-   "title": {
-    "en": "Redrum 327"
-   },
-   "contentRating": "safe",
-   "score": 0.16957478
-  },
-  {
-   "id": "48646469-9805-46d1-97ce-9420031c2d5a",
-   "title": {
-    "en": "Sekai wa Hikari no Naka ni - Kurayami no Meikyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.16957478,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9ae31e5f-809e-406b-928e-dd74669a6b1f",
-   "title": {
-    "en": "She Loved Him, and He Loved Himself"
-   },
-   "contentRating": "safe",
-   "score": 0.16957478
-  },
-  {
-   "id": "7e5e72a5-9c42-4c9b-861c-ab17274d0f88",
-   "title": {
-    "en": "White Snake Manor"
-   },
-   "contentRating": "safe",
-   "score": 0.16678023
+   "score": 0.18553366
   }
  ],
- "updatedAt": "2023-12-10T01:09:27+00:00"
+ "updatedAt": "2023-12-10T18:34:10+00:00"
 }

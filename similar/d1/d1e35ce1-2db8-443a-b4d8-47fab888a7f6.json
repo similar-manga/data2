@@ -6,16 +6,87 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "01b6fdbc-d34e-4bd6-bad1-1a1f41fff246",
+   "title": {
+    "en": "Toumei Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.37633684
+  },
+  {
+   "id": "7abcee0e-a509-4bac-bfe4-e515ba6251f1",
+   "title": {
+    "en": "Dekiai Keiyaku"
+   },
+   "contentRating": "safe",
+   "score": 0.31623632,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a3f93411-c327-4b28-a1c8-ed29deca900c",
+   "title": {
+    "en": "My Weird Roommate"
+   },
+   "contentRating": "safe",
+   "score": 0.31243813
+  },
+  {
    "id": "fd0638a8-2bf3-4e9c-85c2-2e5d72bf34fd",
    "title": {
     "en": "Youkai Apaato no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.29760548,
+   "score": 0.3024443,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "d0f286ac-9ecf-4472-a3d7-1009eb0199e2",
+   "title": {
+    "en": "Hirano to Kagiura"
+   },
+   "contentRating": "safe",
+   "score": 0.2955849,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
+   "id": "93d6838a-e6e0-4b4d-adf2-54ee155cb7fa",
+   "title": {
+    "en": "Seishun Outsider"
+   },
+   "contentRating": "safe",
+   "score": 0.29457328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9985337e-fa25-4b62-a139-8159b8f1a783",
+   "title": {
+    "en": "Your Color"
+   },
+   "contentRating": "safe",
+   "score": 0.29384986,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fdeca855-1eee-4c81-a455-2097d6c969c8",
+   "title": {
+    "en": "Kimi ni wa Fureru to Naru Toko ga Atte"
+   },
+   "contentRating": "safe",
+   "score": 0.284093
   },
   {
    "id": "e400d6da-493f-49e6-ac91-8f4b41fed518",
@@ -29,154 +100,79 @@
    ]
   },
   {
+   "id": "a6b6109b-35e9-4f8e-aaa6-e54c97789a5c",
+   "title": {
+    "en": "Kimi no Sumire"
+   },
+   "contentRating": "safe",
+   "score": 0.284093,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e854deaf-2ac3-41d8-88e8-4ffc79472e25",
+   "title": {
+    "en": "Naisho ni Shite ne"
+   },
+   "contentRating": "safe",
+   "score": 0.284093,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "45cc19e7-e9d2-4a0f-acb0-5a3a9fcbf3fd",
+   "title": {
+    "en": "Perfect Fit"
+   },
+   "contentRating": "safe",
+   "score": 0.284093
+  },
+  {
    "id": "56aa452b-3c0c-4fa5-b4f6-37abd627fe9b",
    "title": {
     "en": "Aisaseteyo Sensei"
    },
    "contentRating": "safe",
-   "score": 0.27434117,
+   "score": 0.27351296,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2da971b9-fad7-438e-a449-3a30f6bf3824",
+   "id": "01b9b9f8-a480-4fba-a28f-153a198f8d07",
    "title": {
-    "en": "Natsuiro Danshi"
+    "en": "Hi-Fi Rendezvous"
    },
    "contentRating": "safe",
-   "score": 0.26351565
-  },
-  {
-   "id": "667f73cc-8e86-4746-a34d-4f0878d5e9d3",
-   "title": {
-    "en": "Komata-kun to Komata-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
+   "score": 0.27141583,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9d64f48c-23b8-43a9-bdb6-6816c554054f",
+   "id": "306560b6-abdc-4de4-a8b8-1531a77f133d",
    "title": {
-    "en": "Hoshikuzu Lemonade"
+    "en": "I’m Kinda Chubby and I’m Your Hero"
    },
    "contentRating": "safe",
-   "score": 0.25396827,
+   "score": 0.27013382
+  },
+  {
+   "id": "3fa1504e-56d7-4bc0-90d9-a0b3fe0ba7cb",
+   "title": {
+    "en": "Motoyan Papa to Hitsuji-sensei Yotsuba"
+   },
+   "contentRating": "safe",
+   "score": 0.27007172,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "bb5a9b11-a497-416e-b3ec-57ab825c5765",
-   "title": {
-    "en": "Doko e mo Yukenai Ki ga Shiteta"
-   },
-   "contentRating": "safe",
-   "score": 0.25396827,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "619939d5-b53c-4c35-a940-675192956883",
-   "title": {
-    "en": "Himekoi, Wakana-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.25129926
-  },
-  {
-   "id": "dbc280ae-48b9-43d5-acbb-a0ec5abd2fa4",
-   "title": {
-    "en": "Bye Bye, Ame."
-   },
-   "contentRating": "safe",
-   "score": 0.24949983,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "c98d2953-2aad-4505-abd2-97da2579bedf",
-   "title": {
-    "en": "12-Sai"
-   },
-   "contentRating": "safe",
-   "score": 0.24601236,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d3e1b39d-8727-472d-b4b0-5c01c94cc370",
-   "title": {
-    "en": "The Sound of Something New"
-   },
-   "contentRating": "safe",
-   "score": 0.2404874,
-   "languages": [
-    "id",
-    "fr",
-    "es-la",
-    "pt-br",
-    "en",
-    "he"
-   ]
-  },
-  {
-   "id": "8a2eeb92-44ae-4c20-b97e-a13624d6c111",
-   "title": {
-    "en": "Urban Cross"
-   },
-   "contentRating": "safe",
-   "score": 0.23902157,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "8238d378-db7e-4149-95e4-ae4a82c79dbc",
-   "title": {
-    "en": "Takumi-kun Series"
-   },
-   "contentRating": "safe",
-   "score": 0.23653358,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
-   "title": {
-    "en": "Oui Oui Days"
-   },
-   "contentRating": "safe",
-   "score": 0.23280422,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b99c44dd-eb54-4399-8927-8e8fccdfc569",
-   "title": {
-    "en": "Pure Love 360°"
-   },
-   "contentRating": "safe",
-   "score": 0.23280422
-  },
-  {
-   "id": "b420aa8d-b9a3-41cd-b40c-dcf5779253f2",
-   "title": {
-    "en": "Nobody as Sweet as You"
-   },
-   "contentRating": "safe",
-   "score": 0.23275174
   }
  ],
- "updatedAt": "2023-12-10T01:08:25+00:00"
+ "updatedAt": "2023-12-10T18:31:36+00:00"
 }

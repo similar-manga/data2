@@ -11,21 +11,10 @@
     "en": "Shuumatsu Touring"
    },
    "contentRating": "safe",
-   "score": 0.36694556,
+   "score": 0.36558905,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
-   "title": {
-    "en": "Deep Love - Real"
-   },
-   "contentRating": "safe",
-   "score": 0.23189436,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -34,9 +23,20 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.22652362,
+   "score": 0.23264651,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
+   "title": {
+    "en": "Deep Love - Real"
+   },
+   "contentRating": "safe",
+   "score": 0.2309937,
+   "languages": [
     "en"
    ]
   },
@@ -46,7 +46,7 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.2200977,
+   "score": 0.22173877,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.21778892,
+   "score": 0.21876736,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.2088854,
+   "score": 0.21168712,
    "languages": [
     "pt-br",
     "es-la",
@@ -81,12 +81,23 @@
    ]
   },
   {
+   "id": "81e440d1-8b48-4b15-a030-4b376ba26b6c",
+   "title": {
+    "en": "Kikenai Yoru wa Nai"
+   },
+   "contentRating": "safe",
+   "score": 0.20613365,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
    "title": {
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.203025,
+   "score": 0.20402479,
    "languages": [
     "en",
     "pt-br",
@@ -105,7 +116,7 @@
     "en": "Uchuu Kyoudai"
    },
    "contentRating": "safe",
-   "score": 0.20049532,
+   "score": 0.20023994,
    "languages": [
     "en",
     "pt-br",
@@ -121,7 +132,19 @@
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.19704922,
+   "score": 0.19666283,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.19458063,
    "languages": [
     "zh-hk",
     "en"
@@ -133,7 +156,7 @@
     "en": "Midori no Daidokoro"
    },
    "contentRating": "safe",
-   "score": 0.19682743,
+   "score": 0.19452532,
    "languages": [
     "zh"
    ]
@@ -144,7 +167,7 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.19189695,
+   "score": 0.19447961,
    "languages": [
     "en",
     "es-la"
@@ -156,13 +179,27 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.1906735,
+   "score": 0.19021909,
    "languages": [
     "pt-br",
     "ru",
     "en",
     "uk",
     "id"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.18844399,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -175,40 +212,7 @@
    "languages": [
     "ru"
    ]
-  },
-  {
-   "id": "b46e2e33-b8a6-46cc-9504-b3d4c0ebce35",
-   "title": {
-    "en": "A Country Without Humans"
-   },
-   "contentRating": "safe",
-   "score": 0.18603592,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31e3af40-9750-4589-8a9c-9854e5fd9d26",
-   "title": {
-    "en": "Laika in Space"
-   },
-   "contentRating": "safe",
-   "score": 0.18510893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
-   "title": {
-    "en": "Kyosuurei"
-   },
-   "contentRating": "safe",
-   "score": 0.18367404,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:24+00:00"
+ "updatedAt": "2023-12-10T18:18:14+00:00"
 }

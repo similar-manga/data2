@@ -6,24 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "eec73453-1711-4320-8bed-dce88a1a3b1d",
-   "title": {
-    "en": "Brother is Not the Villain"
-   },
-   "contentRating": "safe",
-   "score": 0.26848847,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "d25973ae-bcc3-4b88-a069-1cebab3f3099",
    "title": {
     "en": "Uchuujin no Kakushigoto"
    },
    "contentRating": "safe",
-   "score": 0.2679774,
+   "score": 0.26920888,
    "languages": [
     "es-la",
     "en",
@@ -31,17 +19,39 @@
    ]
   },
   {
-   "id": "194b6647-6f74-4783-b262-9815502f0c9f",
+   "id": "eec73453-1711-4320-8bed-dce88a1a3b1d",
    "title": {
-    "en": "For My Hero"
+    "en": "Brother is Not the Villain"
    },
    "contentRating": "safe",
-   "score": 0.2485989,
+   "score": 0.2655965,
    "languages": [
     "en",
-    "pt-br",
-    "tr",
-    "es"
+    "id"
+   ]
+  },
+  {
+   "id": "b8260de0-b1ee-4ea8-80f3-7c88a980d645",
+   "title": {
+    "en": "Universal Raider"
+   },
+   "contentRating": "safe",
+   "score": 0.25653943,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "56e54694-7bf5-4e6d-9fc9-1a1a4b31f10b",
+   "title": {
+    "en": "Tian Lun"
+   },
+   "contentRating": "safe",
+   "score": 0.25091138,
+   "languages": [
+    "en",
+    "fr",
+    "fa"
    ]
   },
   {
@@ -50,7 +60,7 @@
     "en": "Rendezvous"
    },
    "contentRating": "safe",
-   "score": 0.24279344,
+   "score": 0.24389255,
    "languages": [
     "en",
     "fr",
@@ -61,39 +71,43 @@
    ]
   },
   {
+   "id": "194b6647-6f74-4783-b262-9815502f0c9f",
+   "title": {
+    "en": "For My Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.24376775,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "es"
+   ]
+  },
+  {
+   "id": "d7f70d5b-bb5e-4fea-8f29-0004148df5cf",
+   "title": {
+    "en": "Limitless Abyss"
+   },
+   "contentRating": "safe",
+   "score": 0.23830855,
+   "languages": [
+    "it",
+    "en",
+    "fr",
+    "id",
+    "fa",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "62e989da-8d25-4794-a203-66b50885c1e6",
    "title": {
     "en": "Monster Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.23844108,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "161e8bde-914f-4464-a009-071ad6d981ac",
-   "title": {
-    "en": "The Viridescent Tiara"
-   },
-   "contentRating": "safe",
-   "score": 0.23476595,
-   "languages": [
-    "ru",
-    "en",
-    "es",
-    "es-la",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "b8b6c948-3a78-4fd6-b50e-7b310ea51eaa",
-   "title": {
-    "en": "The Macrocosm Era"
-   },
-   "contentRating": "safe",
-   "score": 0.23130769,
+   "score": 0.2363875,
    "languages": [
     "en"
    ]
@@ -104,7 +118,7 @@
     "en": "Looking Into the Theory of Insects Coming From Outer Space"
    },
    "contentRating": "safe",
-   "score": 0.22929905,
+   "score": 0.23601215,
    "languages": [
     "vi",
     "id",
@@ -114,12 +128,77 @@
    ]
   },
   {
-   "id": "8c6f00a0-72d2-4fb6-9c6e-e922b9ce1df5",
+   "id": "c6db0d4c-a0e0-401a-8503-3c84ce30e346",
    "title": {
-    "en": "I took care of him, but he came back obsessed with me"
+    "en": "Is This Hero for Real?"
    },
    "contentRating": "safe",
-   "score": 0.22905274,
+   "score": 0.2347723,
+   "languages": [
+    "uk",
+    "en",
+    "pt-br",
+    "ru",
+    "fr"
+   ]
+  },
+  {
+   "id": "fac40369-3528-4f11-98f1-34beefb72bce",
+   "title": {
+    "en": "I Am Reborn as the Sword God"
+   },
+   "contentRating": "safe",
+   "score": 0.2346064,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b8b6c948-3a78-4fd6-b50e-7b310ea51eaa",
+   "title": {
+    "en": "The Macrocosm Era"
+   },
+   "contentRating": "safe",
+   "score": 0.23427509,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "161e8bde-914f-4464-a009-071ad6d981ac",
+   "title": {
+    "en": "The Viridescent Tiara"
+   },
+   "contentRating": "safe",
+   "score": 0.23114468,
+   "languages": [
+    "ru",
+    "en",
+    "es",
+    "es-la",
+    "pl",
+    "fr"
+   ]
+  },
+  {
+   "id": "7ef39883-0327-4fef-b314-06eb2c6e18b9",
+   "title": {
+    "en": "Reincarnated With a Metal Bat ~Surviving the Monochrome Madness~"
+   },
+   "contentRating": "safe",
+   "score": 0.23004763,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a846b1d7-2e57-4622-acdf-9c584d07ce7f",
+   "title": {
+    "en": "I Became the Tyrant of a Defense Game"
+   },
+   "contentRating": "safe",
+   "score": 0.22999966,
    "languages": [
     "en"
    ]
@@ -130,93 +209,12 @@
     "en": "Introduction to Survival"
    },
    "contentRating": "safe",
-   "score": 0.22877719,
+   "score": 0.22638647,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
-   "title": {
-    "en": "I Shall Master This Family"
-   },
-   "contentRating": "safe",
-   "score": 0.22647016,
-   "languages": [
-    "pl",
-    "fr",
-    "pt-br",
-    "uk",
-    "cs",
-    "en",
-    "id",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "27878fe3-d412-4216-88c1-87116164a09e",
-   "title": {
-    "en": "L.A.G"
-   },
-   "contentRating": "safe",
-   "score": 0.21980032,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec",
-   "title": {
-    "en": "The Wicked Little Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.21925026,
-   "languages": [
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "79ce5860-c37c-4ac5-85b5-f176ba7509a7",
-   "title": {
-    "en": "Plainwalker of the Stigma"
-   },
-   "contentRating": "safe",
-   "score": 0.21655391,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0a34f2ce-bd2b-48ee-a984-e54e44525d95",
-   "title": {
-    "en": "My Family is Obsessed with Me"
-   },
-   "contentRating": "safe",
-   "score": 0.21490246,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "946ff973-95b5-4f57-8e81-7c4674ea50dc",
-   "title": {
-    "en": "The Druid of Seoul Station"
-   },
-   "contentRating": "safe",
-   "score": 0.21362016,
-   "languages": [
-    "pl",
-    "en",
-    "uk",
-    "hu"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:09+00:00"
+ "updatedAt": "2023-12-10T18:30:55+00:00"
 }

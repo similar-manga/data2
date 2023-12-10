@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
+   "title": {
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.3800404,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "55371342-9af0-489d-9c0f-5a839e0a17fd",
    "title": {
     "en": "Cecile's Feelings"
    },
    "contentRating": "safe",
-   "score": 0.27685148,
+   "score": 0.27635416,
    "languages": [
     "en",
     "pl"
@@ -23,7 +34,7 @@
     "en": "Until I Turn Around the Corner"
    },
    "contentRating": "safe",
-   "score": 0.27680865,
+   "score": 0.2755147,
    "languages": [
     "en"
    ]
@@ -34,7 +45,7 @@
     "en": "D"
    },
    "contentRating": "safe",
-   "score": 0.27124503,
+   "score": 0.2704082,
    "languages": [
     "en"
    ]
@@ -45,9 +56,21 @@
     "en": "Sunny"
    },
    "contentRating": "safe",
-   "score": 0.2611048,
+   "score": 0.25931334,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
+   "title": {
+    "en": "Anata ga Shitekurenakute mo"
+   },
+   "contentRating": "safe",
+   "score": 0.24621634,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -56,8 +79,20 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.24514574,
+   "score": 0.24390185,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
+   },
+   "contentRating": "safe",
+   "score": 0.23824464,
+   "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -67,7 +102,7 @@
     "en": "The Pool That Night"
    },
    "contentRating": "safe",
-   "score": 0.2376965,
+   "score": 0.23747496,
    "languages": [
     "en"
    ]
@@ -78,7 +113,7 @@
     "en": "Milk Cake in the Reflection"
    },
    "contentRating": "safe",
-   "score": 0.23632744,
+   "score": 0.23632218,
    "languages": [
     "en",
     "pt-br",
@@ -91,9 +126,20 @@
     "en": "Olga A Yiri"
    },
    "contentRating": "safe",
-   "score": 0.23323748,
+   "score": 0.2325334,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
     "en"
    ]
   },
@@ -106,18 +152,6 @@
    "score": 0.22980437,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
-   "title": {
-    "en": "Boy's Summer"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -135,63 +169,21 @@
    ]
   },
   {
-   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
+   "id": "8f5172c4-2d4e-4372-8e8c-39ff9dc3b8fd",
    "title": {
-    "en": "Service Area"
+    "en": "Boy's Summer"
    },
    "contentRating": "safe",
-   "score": 0.22506468,
+   "score": 0.22980437,
    "languages": [
-    "pt-br",
-    "ru",
-    "it",
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "d6aaba3a-2bb5-4b5a-a799-e5c3ff48d654",
-   "title": {
-    "en": "Tonari no Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
-   "title": {
-    "en": "Komaoto"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "ru",
-    "tr",
     "en",
-    "it",
-    "pl",
-    "ca"
+    "pt-br"
    ]
   },
   {
-   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
+   "id": "c8e3ef99-430a-4ac5-8a38-8907f4048494",
    "title": {
-    "en": "Death"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
-   "title": {
-    "en": "Ijimerarekko ga Kuru!"
+    "en": "Dark Twilight Sanctuary"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -200,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:58+00:00"
+ "updatedAt": "2023-12-10T18:14:28+00:00"
 }

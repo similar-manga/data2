@@ -11,7 +11,18 @@
     "en": "The Song of the Voiceless Bird"
    },
    "contentRating": "safe",
-   "score": 0.30047145,
+   "score": 0.29651192,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
+   "title": {
+    "en": "Diamond no Kouzai"
+   },
+   "contentRating": "safe",
+   "score": 0.22327527,
    "languages": [
     "en"
    ]
@@ -36,9 +47,21 @@
     "en": "Shoujo Fight"
    },
    "contentRating": "safe",
-   "score": 0.1912577,
+   "score": 0.18988518,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "944f5727-7917-4d47-8c9c-654dcf535acb",
+   "title": {
+    "en": "Tough Gaiden - Ryuu wo Tsugu Otoko"
+   },
+   "contentRating": "safe",
+   "score": 0.18881743,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -47,7 +70,7 @@
     "en": "Hero Company"
    },
    "contentRating": "safe",
-   "score": 0.18275315,
+   "score": 0.18264441,
    "languages": [
     "en"
    ]
@@ -58,7 +81,7 @@
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.18053178,
+   "score": 0.18012047,
    "languages": [
     "en"
    ]
@@ -82,7 +105,7 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.17848621,
+   "score": 0.178035,
    "languages": [
     "en"
    ]
@@ -112,12 +135,24 @@
    ]
   },
   {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.1708466,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "2557db08-1d02-4dfc-83da-4e1a2b62d223",
    "title": {
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.16881648,
+   "score": 0.1678376,
    "languages": [
     "en",
     "ru"
@@ -146,50 +181,18 @@
    ]
   },
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
+   "id": "8245c9ac-b9d4-41d4-a8f1-0f68f0fdaefe",
    "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
+    "en": "Put It All In The Ring! 2"
    },
    "contentRating": "safe",
-   "score": 0.16249436,
+   "score": 0.15877463,
    "languages": [
+    "pt-br",
+    "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
-   "title": {
-    "en": "Godzilla vs. Destroyah Red"
-   },
-   "contentRating": "safe",
-   "score": 0.16249436,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
-   "title": {
-    "en": "Cat Shit One' 80"
-   },
-   "contentRating": "safe",
-   "score": 0.1581732,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc935f08-da21-44a6-ba57-ddfade8216d0",
-   "title": {
-    "en": "Task Force for Paranormal Disaster Management"
-   },
-   "contentRating": "safe",
-   "score": 0.1581732,
-   "languages": [
-    "en",
-    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:34+00:00"
+ "updatedAt": "2023-12-10T18:29:28+00:00"
 }

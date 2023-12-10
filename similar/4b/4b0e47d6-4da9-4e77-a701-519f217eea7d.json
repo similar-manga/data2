@@ -6,16 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "22ffa469-b138-4df3-bb46-085635bdd3e4",
+   "title": {
+    "en": "My Wife Could Be A Magical Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.35646534,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ce0da03c-6c6a-4058-a305-95704f2e688c",
+   "title": {
+    "en": "Mahou Shoujo Misoji"
+   },
+   "contentRating": "safe",
+   "score": 0.34568805,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "64c70b9c-d9cd-4f26-94cc-9d93850181a2",
    "title": {
     "en": "Mahou Shoujo Jihen"
    },
    "contentRating": "safe",
-   "score": 0.33873874,
+   "score": 0.338964,
    "languages": [
     "en",
     "vi",
     "ru"
+   ]
+  },
+  {
+   "id": "b4b20bba-f262-43a7-9c2f-b6144d302467",
+   "title": {
+    "en": "Mahou Shoujo Nante Mou Ii desu kara."
+   },
+   "contentRating": "safe",
+   "score": 0.32794374,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -24,7 +57,29 @@
     "en": "Side Business Magical Girl"
    },
    "contentRating": "safe",
-   "score": 0.3287178,
+   "score": 0.32064924,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "921fb112-54c2-457f-8e7b-3a357ee391cc",
+   "title": {
+    "en": "Mahou Shoujo Ikusei Keikaku F2P"
+   },
+   "contentRating": "safe",
+   "score": 0.3151722,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "51747cbe-691b-475e-bb1f-03ee61aa0f60",
+   "title": {
+    "en": "Manga de Wakaru! Magic Story"
+   },
+   "contentRating": "safe",
+   "score": 0.31096178,
    "languages": [
     "en"
    ]
@@ -35,7 +90,53 @@
     "en": "Ore to Hero to Mahou Shoujo (Web Comic)"
    },
    "contentRating": "safe",
-   "score": 0.29661334,
+   "score": 0.29792514,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "61cb116a-8df8-4f3f-a4f7-53037bb071fb",
+   "title": {
+    "en": "Magical Girl Tsubame: I Will (Not) Save The World!"
+   },
+   "contentRating": "safe",
+   "score": 0.28876242,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "0453c4ab-ba0e-4146-841c-96fe83cb2790",
+   "title": {
+    "en": "Ochikobore Majo to Koi wo Shiranai Tensai Majutsushi"
+   },
+   "contentRating": "safe",
+   "score": 0.27439088,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "687e4fb2-28fe-460c-8bbf-710000f51944",
+   "title": {
+    "en": "Magical School Meal"
+   },
+   "contentRating": "safe",
+   "score": 0.27100828,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "6c4b667a-3561-46cb-94df-f18fdfc4f54a",
+   "title": {
+    "en": "Magic Lamp"
+   },
+   "contentRating": "safe",
+   "score": 0.26432347,
    "languages": [
     "en"
    ]
@@ -46,30 +147,20 @@
     "en": "TS Musume no BifoAfu"
    },
    "contentRating": "safe",
-   "score": 0.25958654,
+   "score": 0.25862408,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ff2dc1fa-bad7-4024-8cef-64b0b43249eb",
+   "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
    "title": {
-    "en": "Only Aurora"
+    "en": "Monogatari no Naka no Hito"
    },
    "contentRating": "safe",
-   "score": 0.25801814,
+   "score": 0.2580838,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "437a8147-8eb4-4cbb-86a1-8aa0c10f215a",
-   "title": {
-    "en": "Mobile Magical Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.25722414,
-   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -79,7 +170,7 @@
     "en": "A Manga About High School Boys Who Woke Up as Girls One Morning (Webcomic)"
    },
    "contentRating": "safe",
-   "score": 0.25581446,
+   "score": 0.257273,
    "languages": [
     "fr",
     "id",
@@ -88,116 +179,19 @@
    ]
   },
   {
-   "id": "6a541f3d-b8b2-4eba-892e-c0fd4dc25b2b",
+   "id": "258d2691-ffea-4e77-8968-ce5c24ffc6f7",
    "title": {
-    "en": "Mahou Shoujo La Valliere"
+    "en": "Isekai Tensei de Kenja ni Natte Boukensha Seikatsu ~[Mahou Kairyou] de Isekai Saikyou~"
    },
    "contentRating": "safe",
-   "score": 0.24744134,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "54e260dc-5519-41c3-853c-d5f2a252b10f",
-   "title": {
-    "en": "Mahou Shoujo Ikusei Keikaku: Restart"
-   },
-   "contentRating": "safe",
-   "score": 0.24590665,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aa9b77b8-062a-4e92-a4fc-aa6b74a608b3",
-   "title": {
-    "en": "A Story About a Boy Who Randomly Become a Girl of Various Type When He Wakes Up in The Morning"
-   },
-   "contentRating": "safe",
-   "score": 0.2447744,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "310b669b-2fbd-4e4e-bbd4-40475a954268",
-   "title": {
-    "en": "Mahou ga Kagaku ni Koisuru Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.24348004,
+   "score": 0.25428864,
    "languages": [
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "a77f9078-9ba4-4e87-8458-aae9a657ad32",
-   "title": {
-    "en": "0°C no Mahou"
-   },
-   "contentRating": "safe",
-   "score": 0.23940036,
-   "languages": [
-    "tr",
-    "de",
-    "it",
+    "en",
     "pt-br",
-    "en",
-    "es-la",
-    "fr",
-    "ca"
-   ]
-  },
-  {
-   "id": "e45c1d6c-8070-4d40-b613-5b3e3dba61ea",
-   "title": {
-    "en": "86 -Eighty Six- Mahou Shoujo Regina ☆ Lena ~Tatakae! Ginga Koukou Senkan San Magnolia~"
-   },
-   "contentRating": "safe",
-   "score": 0.23467733,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cd9a9438-67e5-48b4-84bc-d9f1e2ec2bde",
-   "title": {
-    "en": "About a Lazy High School Guy Who Woke Up as a Girl One Morning (web comic)"
-   },
-   "contentRating": "safe",
-   "score": 0.23171219,
-   "languages": [
-    "en",
-    "id",
-    "it",
-    "de"
-   ]
-  },
-  {
-   "id": "5b24eb47-2257-40f0-93f6-e59b61213497",
-   "title": {
-    "en": "Magic Pico Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.22870043,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f183b2f5-987c-400e-8156-8e497eab0082",
-   "title": {
-    "en": "One Thousand and One Nights in Wonder Land"
-   },
-   "contentRating": "safe",
-   "score": 0.22848193,
-   "languages": [
-    "en"
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:41+00:00"
+ "updatedAt": "2023-12-10T18:16:25+00:00"
 }

@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f",
+   "title": {
+    "en": "A Smartphone in Love (Preserialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.34455627,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "abe4f2a6-b31d-4f36-976d-2fac5c21bb28",
+   "title": {
+    "en": "Jimiko na Watashi wa Iroke wo Dashitai (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.34354234,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "2355a333-d58e-454f-9f21-5bc07323f57d",
    "title": {
     "en": "Naruto (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.2866665,
+   "score": 0.27961645,
    "languages": [
     "ar",
     "pt-br",
@@ -19,15 +43,83 @@
    ]
   },
   {
+   "id": "30193c1f-1569-4c2d-8c29-8a365fec322b",
+   "title": {
+    "en": "Akuyuu no Ore ga Ponkotsu Kishi wo Miterarenai n da ga, Dou Sewa wo Yakya Ii?～ Madome Gaiden～"
+   },
+   "contentRating": "safe",
+   "score": 0.27643275,
+   "languages": [
+    "es-la",
+    "ru",
+    "id",
+    "en",
+    "it",
+    "es"
+   ]
+  },
+  {
+   "id": "d5c321e4-af53-4dfd-b6f8-78b0c5d556f8",
+   "title": {
+    "en": "Kizetsu Yuusha to Ansatsu Hime"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "f60532ac-4ed5-49b7-bfc7-774da4855a60",
+   "title": {
+    "en": "Umeidou Hiyo to Danna-sama no Yabou"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "1f88fbc3-5911-43eb-a7b4-5d3e9b6bcb44",
+   "title": {
+    "en": "Legend of the Sun Knight Side Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.25368
+  },
+  {
    "id": "e17291c8-0356-4438-97e7-1346da5faa11",
    "title": {
     "en": "Rebirth Knight"
    },
    "contentRating": "safe",
-   "score": 0.24384382,
+   "score": 0.24199793,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "727bda2a-d15f-456b-b34e-4daa43ab653c",
+   "title": {
+    "en": "Nanatsu no Taizai (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.23592125,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7562156c-3987-4cbd-ad6c-a83cdcca9770",
+   "title": {
+    "en": "A Sword Master Childhood Friend Power Harassed Me Harshly, so I Broke off Our Relationship and Made a Fresh Start at the Frontier as a Magic Swordsman"
+   },
+   "contentRating": "safe",
+   "score": 0.23571311,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -36,9 +128,24 @@
     "en": "The Chronicle of Seven (webcomic version)"
    },
    "contentRating": "safe",
-   "score": 0.23564212,
+   "score": 0.23489438,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "title": {
+    "en": "I Spy"
+   },
+   "contentRating": "safe",
+   "score": 0.2332801,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
    ]
   },
   {
@@ -47,18 +154,18 @@
     "en": "A Book of Dreams"
    },
    "contentRating": "safe",
-   "score": 0.23181416,
+   "score": 0.231984,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "598ae3a9-ac0f-45d6-b33b-8f9f971d9cbe",
+   "id": "23ebf5ec-719c-4f96-9a53-be0cea15ff90",
    "title": {
-    "en": "Kimi to Picopico (Pre-Serialization)"
+    "en": "Chi wo Suu no ga Meccha Heta na Kyuuketsuki (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.22968131,
+   "score": 0.22987977,
    "languages": [
     "en"
    ]
@@ -72,120 +179,18 @@
    "score": 0.22857143
   },
   {
-   "id": "5b24eb47-2257-40f0-93f6-e59b61213497",
+   "id": "3e636c96-b98a-410a-a00d-2f2f530d0309",
    "title": {
-    "en": "Magic Pico Girl"
+    "en": "Magic Domain Mercenary"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b0532d7-00ba-4cfd-ba3c-b58c881f571f",
-   "title": {
-    "en": "Radiata Stories - The Song of Ridley"
-   },
-   "contentRating": "safe",
-   "score": 0.21441077,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "374ae3b7-bb0e-4efe-a48a-84e029a798e5",
-   "title": {
-    "en": "Takamori-kun wo Damarasetai!! (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.21264695,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "be1b8107-ac37-41f3-9cd9-02fe85ac3de7",
-   "title": {
-    "en": "Inazuma Eleven Reloaded"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "f34f2b36-4a30-4ac9-bee1-630b3a37d7d9",
-   "title": {
-    "en": "Fate/hollow ataraxia"
-   },
-   "contentRating": "safe",
-   "score": 0.20338063,
+   "score": 0.22857143,
    "languages": [
     "en",
     "fr",
     "pt-br"
    ]
-  },
-  {
-   "id": "5eee3f85-e774-4a05-9e28-27ab06d1b002",
-   "title": {
-    "en": "Chrome Shelled Regios - Missing Mail"
-   },
-   "contentRating": "safe",
-   "score": 0.20266974,
-   "languages": [
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
-   "title": {
-    "en": "Joou Kishi Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.20190695,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1562997c-ae15-44e2-a8ad-3e4b4f699387",
-   "title": {
-    "en": "Uruha no Sekai de Arisugawa"
-   },
-   "contentRating": "safe",
-   "score": 0.20032942,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59ced5bf-055a-4ab4-9774-fba45d20a298",
-   "title": {
-    "en": "Tokubetsu Kokkakoumuin Kaizousha Taisakuka Tanaka Seiji"
-   },
-   "contentRating": "safe",
-   "score": 0.1959788
-  },
-  {
-   "id": "b46d7513-9255-4cbb-b1c9-15bb758a74ca",
-   "title": {
-    "en": "Tsukimi no Soba"
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:24+00:00"
+ "updatedAt": "2023-12-10T18:10:06+00:00"
 }

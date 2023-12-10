@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6574402f-dc43-4c6d-addf-d80d5aec47df",
+   "title": {
+    "en": "Natsu no Owari"
+   },
+   "contentRating": "safe",
+   "score": 0.21407677,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "561b2ced-8dfc-4577-ab2d-21c9a834a9e8",
    "title": {
     "en": "Catenaccio (Oneshot)"
@@ -17,15 +29,16 @@
    ]
   },
   {
-   "id": "6574402f-dc43-4c6d-addf-d80d5aec47df",
+   "id": "01b749a6-1cff-4880-a748-a32580e1a04e",
    "title": {
-    "en": "Natsu no Owari"
+    "en": "Mabataki yori Hayaku!!"
    },
    "contentRating": "safe",
    "score": 0.21407677,
    "languages": [
-    "it",
-    "en"
+    "es-la",
+    "en",
+    "es"
    ]
   },
   {
@@ -40,20 +53,33 @@
    ]
   },
   {
-   "id": "943fad77-2f37-4b5d-a306-fbd0bae00f61",
+   "id": "c9858bff-2e9a-4f7e-8b3f-06abe9496b59",
    "title": {
-    "en": "Tokuni Maketemo Kamawanai"
+    "en": "Nikaidou Hell Golf"
    },
    "contentRating": "safe",
-   "score": 0.17479295,
+   "score": 0.20148389,
    "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "be35df55-adc2-46e6-83cf-0e9f0356ea39",
+   "title": {
+    "en": "Catenaccio"
+   },
+   "contentRating": "safe",
+   "score": 0.19214082,
+   "languages": [
+    "ru",
     "en"
    ]
   },
   {
-   "id": "8ceedb6c-ea45-4ec5-b99d-2870965eb683",
+   "id": "943fad77-2f37-4b5d-a306-fbd0bae00f61",
    "title": {
-    "en": "Halftime"
+    "en": "Tokuni Maketemo Kamawanai"
    },
    "contentRating": "safe",
    "score": 0.17479295,
@@ -73,9 +99,70 @@
    ]
   },
   {
+   "id": "8ceedb6c-ea45-4ec5-b99d-2870965eb683",
+   "title": {
+    "en": "Halftime"
+   },
+   "contentRating": "safe",
+   "score": 0.17479295,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8245c9ac-b9d4-41d4-a8f1-0f68f0fdaefe",
+   "title": {
+    "en": "Put It All In The Ring! 2"
+   },
+   "contentRating": "safe",
+   "score": 0.17479295,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "2c41a7f5-c021-47ad-aa78-861001890734",
+   "title": {
+    "en": "Shakunetsu no Takkyuu Musume REBURN!!"
+   },
+   "contentRating": "safe",
+   "score": 0.17029701,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "949b20c3-de22-4e7b-989f-b26a8cdf7ecb",
+   "title": {
+    "en": "DOGSRED"
+   },
+   "contentRating": "safe",
+   "score": 0.17029701,
+   "languages": [
+    "en",
+    "pt-br",
+    "bg",
+    "es-la",
+    "uk"
+   ]
+  },
+  {
    "id": "66164b4e-dd16-4f51-a670-174ac822e3ba",
    "title": {
     "en": "Yamato no Hane"
+   },
+   "contentRating": "safe",
+   "score": 0.17029701,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a8c1f264-e95c-4d9a-bbbe-4cd8e5e293d2",
+   "title": {
+    "en": "Zero Angel: Souheki no Datenshi"
    },
    "contentRating": "safe",
    "score": 0.17029701,
@@ -89,103 +176,23 @@
     "en": "Oyaju Rider"
    },
    "contentRating": "safe",
-   "score": 0.1615138,
+   "score": 0.16113973,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d798a4e9-8d2d-4ae4-9c9c-fe142495d65e",
+   "id": "944f5727-7917-4d47-8c9c-654dcf535acb",
    "title": {
-    "en": "Magic Bloomers"
+    "en": "Tough Gaiden - Ryuu wo Tsugu Otoko"
    },
    "contentRating": "safe",
    "score": 0.15137513,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a87dd7ce-c93a-4e32-97b7-a865ef4092a5",
-   "title": {
-    "en": "Gun"
-   },
-   "contentRating": "safe",
-   "score": 0.14055723,
-   "languages": [
     "en",
     "ru"
    ]
-  },
-  {
-   "id": "31902210-8ad9-4c58-acec-220e357b3bc8",
-   "title": {
-    "en": "Harta Cover Stories"
-   },
-   "contentRating": "safe",
-   "score": 0.13539402,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "9704318c-7a2c-4e29-baa9-6206fcef7dd9",
-   "title": {
-    "en": "Stopper Busujima"
-   },
-   "contentRating": "safe",
-   "score": 0.13417526,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57e53258-f128-4b84-b71d-ba2ce940a63e",
-   "title": {
-    "en": "1980"
-   },
-   "contentRating": "safe",
-   "score": 0.13245325,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "db58ba0c-dd1d-485c-969b-6e7986e42e5c",
-   "title": {
-    "en": "Shin Change!! Getter Robo Crater Battle"
-   },
-   "contentRating": "safe",
-   "score": 0.13245325,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "dbb435fd-02ef-4cd8-8825-0ac79bf2755e",
-   "title": {
-    "en": "Apple Town"
-   },
-   "contentRating": "safe",
-   "score": 0.13245325,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6a0373f3-0b1e-4924-943b-045e259af189",
-   "title": {
-    "en": "Tsumi to Natsu"
-   },
-   "contentRating": "safe",
-   "score": 0.13245325,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:09+00:00"
+ "updatedAt": "2023-12-10T18:30:55+00:00"
 }

@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
-   "title": {
-    "en": "Shin Hyataro of the Ushiro"
-   },
-   "contentRating": "safe",
-   "score": 0.2572322
-  },
-  {
    "id": "7cb96219-f9d5-4155-9af3-ccfd2786924c",
    "title": {
     "en": "Room 303"
    },
    "contentRating": "safe",
-   "score": 0.25579756,
+   "score": 0.26340863,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
+   "title": {
+    "en": "Shin Hyataro of the Ushiro"
+   },
+   "contentRating": "safe",
+   "score": 0.25619322
   },
   {
    "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
@@ -30,10 +30,18 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.24821733,
+   "score": 0.24833351,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8449a8da-389f-4370-8c24-96b21915e48d",
+   "title": {
+    "en": "Tsukimonogakari"
+   },
+   "contentRating": "safe",
+   "score": 0.24291107
   },
   {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
@@ -41,7 +49,7 @@
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.2246207,
+   "score": 0.22294739,
    "languages": [
     "id",
     "en",
@@ -67,7 +75,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.21190439,
+   "score": 0.21244943,
    "languages": [
     "en",
     "pt-br",
@@ -91,12 +99,45 @@
    ]
   },
   {
+   "id": "3a7fb06b-f534-41ed-8c5f-6913d6a906a8",
+   "title": {
+    "en": "A-Presto"
+   },
+   "contentRating": "safe",
+   "score": 0.20908304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.20868324,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6fa79789-c6e8-4c8d-a663-109d8bec2bc3",
    "title": {
     "en": "Yochu"
    },
    "contentRating": "safe",
-   "score": 0.20423934
+   "score": 0.20498672
+  },
+  {
+   "id": "53ef0bb0-7620-40be-b282-177b71021222",
+   "title": {
+    "en": "Detective Conan Special"
+   },
+   "contentRating": "safe",
+   "score": 0.20478481,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
@@ -104,7 +145,7 @@
     "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
    },
    "contentRating": "safe",
-   "score": 0.20317125,
+   "score": 0.20398511,
    "languages": [
     "en"
    ]
@@ -146,69 +187,26 @@
    ]
   },
   {
+   "id": "f4a41c9a-2d72-492a-863d-3b9d1fb1a16d",
+   "title": {
+    "en": "Yajin"
+   },
+   "contentRating": "safe",
+   "score": 0.19986738,
+   "languages": [
+    "ru",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "09fb3c54-9193-4885-b023-411533987672",
    "title": {
     "en": "Mail"
    },
    "contentRating": "safe",
-   "score": 0.19481559
-  },
-  {
-   "id": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
-   "title": {
-    "en": "Munou na Nana"
-   },
-   "contentRating": "safe",
-   "score": 0.19463296,
-   "languages": [
-    "it",
-    "id",
-    "es-la",
-    "pt-br",
-    "en",
-    "he"
-   ]
-  },
-  {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
-   "title": {
-    "en": "Cyborg 009"
-   },
-   "contentRating": "safe",
-   "score": 0.19279444,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
-   "title": {
-    "en": "Teito Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19097005
-  },
-  {
-   "id": "b296f8e8-1f16-4ca1-8233-ecffebae0b15",
-   "title": {
-    "en": "Hungry Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.18663263
-  },
-  {
-   "id": "368c4397-dedd-4093-b1c8-3d5585d3d2bb",
-   "title": {
-    "en": "Spirit Photographer Saburo Kono"
-   },
-   "contentRating": "safe",
-   "score": 0.18627419,
-   "languages": [
-    "pt-br",
-    "th"
-   ]
+   "score": 0.19491671
   }
  ],
- "updatedAt": "2023-12-10T01:02:21+00:00"
+ "updatedAt": "2023-12-10T18:15:36+00:00"
 }

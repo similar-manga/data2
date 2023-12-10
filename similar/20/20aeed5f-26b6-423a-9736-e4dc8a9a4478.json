@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "10d0b77d-bf00-4669-b052-29d2a320f712",
+   "title": {
+    "en": "Shinohara Chie Kessakushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
+   "title": {
+    "en": "Zekkyou Gakkyuu Tensei"
+   },
+   "contentRating": "safe",
+   "score": 0.23296995,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a2d74833-959a-4980-ad89-67057b9e882f",
    "title": {
     "en": "The Dress"
@@ -57,12 +79,35 @@
    ]
   },
   {
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
+   "title": {
+    "en": "Sayonara Miniskirt"
+   },
+   "contentRating": "safe",
+   "score": 0.20352875,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "ec21f48d-f162-4d8c-885c-ecde3aaa2b6e",
    "title": {
     "en": "Honey Holic"
    },
    "contentRating": "safe",
-   "score": 0.19288252,
+   "score": 0.19998088,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "27fb3c3d-88ec-4189-9557-b2b3041c10e2",
+   "title": {
+    "en": "Code Name: Charmer"
+   },
+   "contentRating": "safe",
+   "score": 0.19243102,
    "languages": [
     "en"
    ]
@@ -81,23 +126,34 @@
    ]
   },
   {
-   "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
+   "id": "d0292d00-1dd7-4fba-80f6-e5c9345258b2",
    "title": {
-    "en": "Mane of the Wind"
+    "en": "Gekki"
    },
    "contentRating": "safe",
-   "score": 0.18578573,
+   "score": 0.1906954,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8dd6663b-b639-4951-a076-fd8b52225c4e",
+   "id": "1301e46c-d3cf-4fbc-b3cb-f40b3badb14b",
    "title": {
-    "en": "Natsuzora ni, Kimi to Mita Yume"
+    "en": "Mane of the Wind"
    },
    "contentRating": "safe",
-   "score": 0.17957523,
+   "score": 0.18547702,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
+   "title": {
+    "en": "Deguchi Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.1787909,
    "languages": [
     "en"
    ]
@@ -115,9 +171,9 @@
    ]
   },
   {
-   "id": "aca645f3-f3ba-4e80-8ee5-0ad937556172",
+   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
    "title": {
-    "en": "Deguchi Zero"
+    "en": "Kaeremasen."
    },
    "contentRating": "safe",
    "score": 0.1787909,
@@ -135,68 +191,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "2a71c7b1-3681-4e82-88e1-cba4f6e22f0f",
-   "title": {
-    "en": "Kaeremasen."
-   },
-   "contentRating": "safe",
-   "score": 0.1787909,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c9d9138-1e6d-4e6d-b079-29f629ce73f0",
-   "title": {
-    "en": "Ningyou Saisei Koujou"
-   },
-   "contentRating": "safe",
-   "score": 0.17815651,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "48e6aab4-59cc-433c-bec3-7007f9f3597f",
-   "title": {
-    "en": "Yadokari Honpo"
-   },
-   "contentRating": "safe",
-   "score": 0.15991545,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
-   "title": {
-    "en": "Mimi ga Kieta Hi"
-   },
-   "contentRating": "safe",
-   "score": 0.15991545,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bb949242-a716-4bff-a91d-83e5c0412673",
-   "title": {
-    "en": "Comic ☆ Shinichi"
-   },
-   "contentRating": "safe",
-   "score": 0.15700312,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "pl",
-    "tr"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:00+00:00"
+ "updatedAt": "2023-12-10T18:11:49+00:00"
 }

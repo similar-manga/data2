@@ -6,18 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
+   "id": "336fdb39-ebff-4ad5-aa87-7fc7e5d61360",
    "title": {
-    "en": "Arcadia of the Moonlight"
+    "en": "Apollo"
    },
    "contentRating": "safe",
-   "score": 0.20249549,
+   "score": 0.20203052,
    "languages": [
-    "en",
-    "es-la",
+    "pt-br",
+    "ru",
+    "zh-hk",
     "ar",
-    "fr",
-    "ru"
+    "en"
    ]
   },
   {
@@ -43,33 +43,6 @@
    ]
   },
   {
-   "id": "336fdb39-ebff-4ad5-aa87-7fc7e5d61360",
-   "title": {
-    "en": "Apollo"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
-    "ru",
-    "zh-hk",
-    "ar",
-    "en"
-   ]
-  },
-  {
-   "id": "0b1db5e1-205b-44e7-9471-0951d721fe2e",
-   "title": {
-    "en": "Renai Jikai Ningyou Koisuru Sartain"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "69aa984a-f5c0-4505-a11f-fe50e5fd16c9",
    "title": {
     "en": "Toaru Anbu no ITEM"
@@ -86,12 +59,61 @@
    ]
   },
   {
+   "id": "0b1db5e1-205b-44e7-9471-0951d721fe2e",
+   "title": {
+    "en": "Renai Jikai Ningyou Koisuru Sartain"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "f13cf3f1-3b54-4808-aa20-571207040e55",
+   "title": {
+    "en": "The Brilliant Healer's New Life in the Shadows"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a4994e12-6b8c-4f98-98ce-1c2d7efe8e55",
+   "title": {
+    "en": "Apocripha/0"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fcaa3e36-44b4-4bc3-99c3-cbe13c0ec2ff",
+   "title": {
+    "en": "Arcadia of the Moonlight"
+   },
+   "contentRating": "safe",
+   "score": 0.20147403,
+   "languages": [
+    "en",
+    "es-la",
+    "ar",
+    "fr",
+    "ru"
+   ]
+  },
+  {
    "id": "05a04e0b-43fa-46a5-a9bf-673b20f692a3",
    "title": {
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.1911512,
+   "score": 0.1907526,
    "languages": [
     "en"
    ]
@@ -102,7 +124,7 @@
     "en": "Sekai wa Owattemo Ikirutte Tanoshii"
    },
    "contentRating": "safe",
-   "score": 0.18871987,
+   "score": 0.18791348,
    "languages": [
     "ru",
     "en",
@@ -116,7 +138,7 @@
     "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.18629237,
+   "score": 0.18624513,
    "languages": [
     "en"
    ]
@@ -127,30 +149,18 @@
     "en": "The Game Invades the Earth"
    },
    "contentRating": "safe",
-   "score": 0.18110703,
+   "score": 0.18299848,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b346e693-afb9-499f-bbc7-c8d8750b25a0",
+   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
    "title": {
-    "en": "Digimon World Re:Digitize Encode"
+    "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "09f7caca-4c77-4bfd-96e3-0c36fa9e769a",
-   "title": {
-    "en": "MU"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
+   "score": 0.18139301,
    "languages": [
     "en"
    ]
@@ -181,29 +191,17 @@
    ]
   },
   {
-   "id": "cc8dc41e-1f7e-4e52-9a8f-2e24de5e5c9c",
+   "id": "b346e693-afb9-499f-bbc7-c8d8750b25a0",
    "title": {
-    "en": "RWBY: Ice Queendom"
+    "en": "Digimon World Re:Digitize Encode"
    },
    "contentRating": "safe",
    "score": 0.18070157,
    "languages": [
-    "ru",
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
-   "title": {
-    "en": "Mobile Suit MOON Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.18067448,
-   "languages": [
-    "en"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:22+00:00"
+ "updatedAt": "2023-12-10T18:26:11+00:00"
 }

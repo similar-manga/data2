@@ -6,6 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
+   "title": {
+    "en": "White Lover"
+   },
+   "contentRating": "safe",
+   "score": 0.30046353,
+   "languages": [
+    "pl",
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
    "id": "26ab64be-4b23-4f9c-b2f6-93b3f207325f",
    "title": {
     "en": "I Want to See You"
@@ -24,7 +38,7 @@
     "en": "Shuumatsu wa Aoi Haru"
    },
    "contentRating": "safe",
-   "score": 0.28318223,
+   "score": 0.28303906,
    "languages": [
     "id",
     "pt-br",
@@ -37,22 +51,9 @@
     "en": "Teddy Bear Tengoku"
    },
    "contentRating": "safe",
-   "score": 0.27941826,
+   "score": 0.27779782,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4ab03773-02a6-46f1-8ad5-603b755272d7",
-   "title": {
-    "en": "Exorcist and Spirit"
-   },
-   "contentRating": "safe",
-   "score": 0.26014236,
-   "languages": [
-    "id",
-    "en",
-    "vi"
    ]
   },
   {
@@ -61,7 +62,7 @@
     "en": "A Certain Boy and Girl’s Memories of a Valentine’s Day and White Day"
    },
    "contentRating": "safe",
-   "score": 0.26007757,
+   "score": 0.25839284,
    "languages": [
     "pt-br",
     "vi",
@@ -72,36 +73,41 @@
    ]
   },
   {
+   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
+   "title": {
+    "en": "Watashi-tachi wa Douka shiteiru"
+   },
+   "contentRating": "safe",
+   "score": 0.25743282,
+   "languages": [
+    "pt-br",
+    "ru",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "4ab03773-02a6-46f1-8ad5-603b755272d7",
+   "title": {
+    "en": "Exorcist and Spirit"
+   },
+   "contentRating": "safe",
+   "score": 0.2553958,
+   "languages": [
+    "id",
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "9bf41378-6360-4360-8822-c40592c22c9b",
    "title": {
     "en": "Anemone"
    },
    "contentRating": "safe",
-   "score": 0.25583616,
+   "score": 0.25448173,
    "languages": [
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "e7b0586b-ecfe-4343-9a3a-bcf87386ebd7",
-   "title": {
-    "en": "Boku wa Kimi no Shiro"
-   },
-   "contentRating": "safe",
-   "score": 0.2489215,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4b24ef3-f1d1-4988-8ceb-9767c2c789f0",
-   "title": {
-    "en": "Dare mo Shiranai Heya"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
     "en"
    ]
   },
@@ -119,6 +125,17 @@
    ]
   },
   {
+   "id": "b4b24ef3-f1d1-4988-8ceb-9767c2c789f0",
+   "title": {
+    "en": "Dare mo Shiranai Heya"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2ee190a5-4fac-4bb5-af60-2f332837d10e",
    "title": {
     "en": "Xin x Yu"
@@ -130,12 +147,12 @@
    ]
   },
   {
-   "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
+   "id": "e7b0586b-ecfe-4343-9a3a-bcf87386ebd7",
    "title": {
-    "en": "Haru Machi Sakura no Mau Koro ni"
+    "en": "Boku wa Kimi no Shiro"
    },
    "contentRating": "safe",
-   "score": 0.24344473,
+   "score": 0.24713849,
    "languages": [
     "en"
    ]
@@ -146,7 +163,18 @@
     "en": "Summer Blue"
    },
    "contentRating": "safe",
-   "score": 0.24290809,
+   "score": 0.24355765,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
+   "title": {
+    "en": "Haru Machi Sakura no Mau Koro ni"
+   },
+   "contentRating": "safe",
+   "score": 0.24163462,
    "languages": [
     "en"
    ]
@@ -157,7 +185,7 @@
     "en": "Reversi"
    },
    "contentRating": "safe",
-   "score": 0.24159293,
+   "score": 0.2413442,
    "languages": [
     "pt-br",
     "en"
@@ -169,37 +197,12 @@
     "en": "Sakura Yoi Machi, Yahan Mae"
    },
    "contentRating": "safe",
-   "score": 0.24030417,
+   "score": 0.23948742,
    "languages": [
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
-   "title": {
-    "en": "Tsuki no Kanon"
-   },
-   "contentRating": "safe",
-   "score": 0.23873472,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "de"
-   ]
-  },
-  {
-   "id": "746dd334-f271-4bca-b89c-6b46da7c61ed",
-   "title": {
-    "en": "Hananusubito"
-   },
-   "contentRating": "safe",
-   "score": 0.23725827,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:44+00:00"
+ "updatedAt": "2023-12-10T18:19:11+00:00"
 }

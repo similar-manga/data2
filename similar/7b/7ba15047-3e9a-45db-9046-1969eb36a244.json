@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
+   "title": {
+    "en": "Digimon Adventure V-Tamer 01 ~A New Courage~"
+   },
+   "contentRating": "safe",
+   "score": 0.625092,
+   "languages": [
+    "zh-hk",
+    "es-la",
+    "fr",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "5c7b34cb-b32b-4f3e-9a56-a2888693e852",
    "title": {
     "en": "Digimon Dreamers"
    },
    "contentRating": "safe",
-   "score": 0.45940506,
+   "score": 0.46024477,
    "languages": [
     "en",
     "pt-br",
@@ -25,10 +40,24 @@
     "en": "Digimon Story: Cyber Sleuth"
    },
    "contentRating": "safe",
-   "score": 0.3782126,
+   "score": 0.37792233,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
+   "title": {
+    "en": "Junk the Black Shadow"
+   },
+   "contentRating": "safe",
+   "score": 0.2740756,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -37,21 +66,20 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.27216172,
+   "score": 0.27054077,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
+   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
    "title": {
-    "en": "GOD EATER - the spiral fate"
+    "en": "Western Shotgun"
    },
    "contentRating": "safe",
-   "score": 0.25557718,
+   "score": 0.25555065,
    "languages": [
-    "en",
-    "tr"
+    "en"
    ]
   },
   {
@@ -68,31 +96,69 @@
    ]
   },
   {
-   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
-   "title": {
-    "en": "Western Shotgun"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
    "title": {
     "en": "Tales of Destiny 2"
    },
    "contentRating": "safe",
-   "score": 0.25544938,
+   "score": 0.25495297,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
+   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
    "title": {
-    "en": "Juuhime - Sincerely Night"
+    "en": "GOD EATER - the spiral fate"
+   },
+   "contentRating": "safe",
+   "score": 0.2547619,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
+   "title": {
+    "en": "Joou Kishi Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "ar",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
+   "title": {
+    "en": "Zhan Long 2"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "bb1792a0-5887-4dcf-abc4-a733934f6eb1",
+   "title": {
+    "en": "Fire Emblem - Thracia 776"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -112,9 +178,9 @@
    ]
   },
   {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
+   "id": "04274aef-2b83-4425-89f9-a1028fe58138",
    "title": {
-    "en": "Star Ocean - Blue Sphere"
+    "en": "Goldfisch"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -123,71 +189,16 @@
    ]
   },
   {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
+   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
    "title": {
-    "en": "Joou Kishi Monogatari"
+    "en": "Juuhime - Sincerely Night"
    },
    "contentRating": "safe",
    "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93d98bf7-9dbc-4ee1-9d93-d5dafd1035c8",
-   "title": {
-    "en": "Bliss~End Of Gods"
-   },
-   "contentRating": "safe",
-   "score": 0.2432088,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f23e936f-a0c2-4e7c-9a3c-c14e6e3ffe01",
-   "title": {
-    "en": "The Game Invades the Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.23386009,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a92902b-40e3-4909-bd08-5288e0c99a11",
-   "title": {
-    "en": "Scrapped Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ccf0843-5174-45c4-9487-b99995ebc217",
-   "title": {
-    "en": "Tramp."
-   },
-   "contentRating": "safe",
-   "score": 0.22775342,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b7a12a9-c86d-4092-800b-ca3bfaa8d5f9",
-   "title": {
-    "en": "Tales of Phantasia"
-   },
-   "contentRating": "safe",
-   "score": 0.22552863,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:43+00:00"
+ "updatedAt": "2023-12-10T18:21:51+00:00"
 }

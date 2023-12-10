@@ -11,7 +11,7 @@
     "en": "Daikaiju Gaea-Tima"
    },
    "contentRating": "safe",
-   "score": 0.19952689,
+   "score": 0.19899644,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.19930407,
+   "score": 0.19830768,
    "languages": [
     "en",
     "pt-br",
@@ -37,7 +37,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.17838572,
+   "score": 0.17790672,
    "languages": [
     "pt-br",
     "en",
@@ -52,21 +52,10 @@
     "en": "Sukaraiti"
    },
    "contentRating": "safe",
-   "score": 0.17556216,
+   "score": 0.17422922,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "927c73d9-fe7c-4e21-af99-894b86801c39",
-   "title": {
-    "en": "Jinrui Sonbou Cockpit Girls"
-   },
-   "contentRating": "safe",
-   "score": 0.173957,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -75,10 +64,32 @@
     "en": "Ougon no Keikenchi"
    },
    "contentRating": "safe",
-   "score": 0.17314252,
+   "score": 0.17304863,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "927c73d9-fe7c-4e21-af99-894b86801c39",
+   "title": {
+    "en": "Jinrui Sonbou Cockpit Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.17304292,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "03b16158-e216-4385-8796-27ea645d74bb",
+   "title": {
+    "en": "Uchi no Tsukaima ga Sumimasen"
+   },
+   "contentRating": "safe",
+   "score": 0.1700955,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -87,7 +98,7 @@
     "en": "Kyuuseishu ≪MESHIA≫~Isekai wo Sukutta Moto Yuusha ga Mamono no Afureru Genjitsu Sekai wo Musou Suru~"
    },
    "contentRating": "safe",
-   "score": 0.16955106,
+   "score": 0.16704927,
    "languages": [
     "en",
     "pt-br",
@@ -100,7 +111,7 @@
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.16846144,
+   "score": 0.16592142,
    "languages": [
     "en",
     "id",
@@ -113,7 +124,7 @@
     "en": "A Country Without Humans"
    },
    "contentRating": "safe",
-   "score": 0.16560213,
+   "score": 0.16546176,
    "languages": [
     "en"
    ]
@@ -124,23 +135,21 @@
     "en": "Task Force for Paranormal Disaster Management"
    },
    "contentRating": "safe",
-   "score": 0.16399305,
+   "score": 0.16257246,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
+   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
    "title": {
-    "en": "Dogs / Bullets \u0026 Carnage"
+    "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.1616244,
+   "score": 0.16173288,
    "languages": [
-    "en",
-    "bg",
-    "pl"
+    "en"
    ]
   },
   {
@@ -158,14 +167,27 @@
    ]
   },
   {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
+   "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
    "title": {
-    "en": "The Far East Incident"
+    "en": "Dogs / Bullets \u0026 Carnage"
    },
    "contentRating": "safe",
-   "score": 0.16101494,
+   "score": 0.1616244,
    "languages": [
-    "en"
+    "en",
+    "bg",
+    "pl"
+   ]
+  },
+  {
+   "id": "eeb63e2e-2790-460d-8762-96fb3d1d9372",
+   "title": {
+    "en": "Tokyo Kaijin Rhapsody"
+   },
+   "contentRating": "safe",
+   "score": 0.1580259,
+   "languages": [
+    "id"
    ]
   },
   {
@@ -174,34 +196,11 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.1569306,
+   "score": 0.15701339,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
-   "title": {
-    "en": "Moon Edge"
-   },
-   "contentRating": "safe",
-   "score": 0.15649216,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.15606123,
-   "languages": [
-    "en",
-    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:36+00:00"
+ "updatedAt": "2023-12-10T18:18:48+00:00"
 }

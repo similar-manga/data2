@@ -11,7 +11,7 @@
     "en": "Hyakkiyakou Juliet"
    },
    "contentRating": "safe",
-   "score": 0.30579692,
+   "score": 0.30039164,
    "languages": [
     "hu",
     "pl",
@@ -24,7 +24,7 @@
     "en": "I No Longer Lift a Sword"
    },
    "contentRating": "safe",
-   "score": 0.29315832,
+   "score": 0.2863321,
    "languages": [
     "tr",
     "en"
@@ -36,10 +36,21 @@
     "en": "Knights of Alfheim"
    },
    "contentRating": "safe",
-   "score": 0.26056042,
+   "score": 0.256879,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "4520b5e2-2cd9-481f-8254-8fd821c805a0",
+   "title": {
+    "en": "Scarlet Soul"
+   },
+   "contentRating": "safe",
+   "score": 0.2535747,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -48,21 +59,10 @@
     "en": "Elemental"
    },
    "contentRating": "safe",
-   "score": 0.24745002,
+   "score": 0.24465112,
    "languages": [
     "en",
     "it"
-   ]
-  },
-  {
-   "id": "a85210f3-2ec8-4feb-b7fe-1a39eeebf10f",
-   "title": {
-    "en": "Sakura Omoi"
-   },
-   "contentRating": "safe",
-   "score": 0.23485474,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -77,12 +77,23 @@
    ]
   },
   {
+   "id": "a85210f3-2ec8-4feb-b7fe-1a39eeebf10f",
+   "title": {
+    "en": "Sakura Omoi"
+   },
+   "contentRating": "safe",
+   "score": 0.23087609,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "944e06ae-7503-43af-bffa-1a817da271de",
    "title": {
     "en": "Higanbana"
    },
    "contentRating": "safe",
-   "score": 0.23182029,
+   "score": 0.22986402,
    "languages": [
     "en"
    ]
@@ -93,18 +104,7 @@
     "en": "Yami ni Naku Oni"
    },
    "contentRating": "safe",
-   "score": 0.22306862,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
-   "title": {
-    "en": "Kashikomi Mousu!"
-   },
-   "contentRating": "safe",
-   "score": 0.2226962,
+   "score": 0.22171164,
    "languages": [
     "en"
    ]
@@ -121,15 +121,14 @@
    ]
   },
   {
-   "id": "5ebd70a9-2c10-4f7c-b658-eb77768ab87e",
+   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
    "title": {
-    "en": "Seiten ni Tsurugi wo Kazase"
+    "en": "Kashikomi Mousu!"
    },
    "contentRating": "safe",
-   "score": 0.2173307,
+   "score": 0.22088175,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -138,9 +137,21 @@
     "en": "Hitoribocchi no Kuni"
    },
    "contentRating": "safe",
-   "score": 0.21599467,
+   "score": 0.21583103,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "5ebd70a9-2c10-4f7c-b658-eb77768ab87e",
+   "title": {
+    "en": "Seiten ni Tsurugi wo Kazase"
+   },
+   "contentRating": "safe",
+   "score": 0.21534477,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -149,7 +160,7 @@
     "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.21275058,
+   "score": 0.21192698,
    "languages": [
     "en",
     "pl"
@@ -176,18 +187,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "bf44b0a9-707c-4bcd-9c0c-e8cc195ff926",
-   "title": {
-    "en": "Prince of the Night"
-   },
-   "contentRating": "safe",
-   "score": 0.21079762,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:36+00:00"
+ "updatedAt": "2023-12-10T18:13:29+00:00"
 }

@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b713d3bf-27ae-4a96-a52a-ee80e22c667c",
+   "title": {
+    "en": "Shinigami ni Totsugu Hi"
+   },
+   "contentRating": "safe",
+   "score": 0.26601955,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7dc29262-9e02-4544-86d8-4aa8273a86d0",
    "title": {
     "en": "Yami no Matsuei"
@@ -17,26 +28,24 @@
    ]
   },
   {
-   "id": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
+   "id": "e1a50994-af1d-455f-a816-e0f6402de72b",
    "title": {
-    "en": "Akatoki no Yami"
+    "en": "Kiruto S"
    },
    "contentRating": "safe",
-   "score": 0.24078585,
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
+   "id": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
    "title": {
-    "en": "Hyakkiyakou Juliet"
+    "en": "Akatoki no Yami"
    },
    "contentRating": "safe",
-   "score": 0.23256837,
+   "score": 0.24000633,
    "languages": [
-    "hu",
-    "pl",
     "en"
    ]
   },
@@ -46,16 +55,29 @@
     "en": "Hakkenden: Touhou Hakken Ibun"
    },
    "contentRating": "safe",
-   "score": 0.23246948,
+   "score": 0.23052126,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
+   "id": "22adbc9e-ea6e-4e95-89c2-bbd4f67a241a",
    "title": {
-    "en": "Witch Shop"
+    "en": "Hyakkiyakou Juliet"
+   },
+   "contentRating": "safe",
+   "score": 0.22977346,
+   "languages": [
+    "hu",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "631f3306-9045-4611-aed7-87b46f6b9727",
+   "title": {
+    "en": "Magical JxR"
    },
    "contentRating": "safe",
    "score": 0.22857143,
@@ -64,9 +86,9 @@
    ]
   },
   {
-   "id": "631f3306-9045-4611-aed7-87b46f6b9727",
+   "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
    "title": {
-    "en": "Magical JxR"
+    "en": "Witch Shop"
    },
    "contentRating": "safe",
    "score": 0.22857143,
@@ -85,6 +107,17 @@
     "en",
     "ru",
     "ko"
+   ]
+  },
+  {
+   "id": "7d7a388f-a075-4c85-b124-1d2b4bc98d45",
+   "title": {
+    "en": "Tenshi Kinryouku: Tokyo Chronos"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -116,30 +149,7 @@
     "en": "Angel Hunt"
    },
    "contentRating": "safe",
-   "score": 0.21243967,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ab15725e-49db-4ec5-bf00-8ad82f2a79de",
-   "title": {
-    "en": "Birthday Presents"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "4dcf7f9c-b76e-488d-97f2-c7d55a4f430d",
-   "title": {
-    "en": "My Sweet Dragon"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.21048124,
    "languages": [
     "en"
    ]
@@ -158,50 +168,27 @@
    ]
   },
   {
-   "id": "3bb0279f-a01d-4aa4-93e4-305800f4b83e",
+   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
    "title": {
-    "en": "Akatsuki no Yona"
+    "en": "Dragon Knights - Search For the Legendary King"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20865622,
    "languages": [
-    "en",
-    "bg",
-    "ru",
-    "ar",
-    "pt-br",
-    "hu",
-    "tr",
-    "pl",
-    "id"
+    "en"
    ]
   },
   {
-   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
    "title": {
-    "en": "Natsume Yuujinchou"
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
    },
    "contentRating": "safe",
-   "score": 0.19815601,
+   "score": 0.20865622,
    "languages": [
-    "en",
-    "pt-br",
-    "hu",
-    "tr"
-   ]
-  },
-  {
-   "id": "0b02b55c-3f43-42a7-8d0e-cad5432c0307",
-   "title": {
-    "en": "Elemental"
-   },
-   "contentRating": "safe",
-   "score": 0.19774148,
-   "languages": [
-    "en",
-    "it"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:55+00:00"
+ "updatedAt": "2023-12-10T18:30:21+00:00"
 }

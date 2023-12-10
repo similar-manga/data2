@@ -11,7 +11,7 @@
     "en": "Tokyo Doragon Naito"
    },
    "contentRating": "safe",
-   "score": 0.21720111,
+   "score": 0.21721683,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.21627052,
+   "score": 0.21614589,
    "languages": [
     "en",
     "pt-br"
@@ -35,7 +35,7 @@
     "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
    },
    "contentRating": "safe",
-   "score": 0.20659938,
+   "score": 0.20639375,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.2007919,
+   "score": 0.19913603,
    "languages": [
     "en",
     "pt-br",
@@ -62,7 +62,7 @@
     "en": "Teito Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.19824493
+   "score": 0.19559725
   },
   {
    "id": "b2240452-09ac-4d03-919d-a2660925dbd9",
@@ -70,7 +70,7 @@
     "en": "Microman (MORITOU Yoshihiro)"
    },
    "contentRating": "safe",
-   "score": 0.1896957,
+   "score": 0.18923236,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.18640761,
+   "score": 0.18554172,
    "languages": [
     "it",
     "id",
@@ -103,23 +103,23 @@
    ]
   },
   {
-   "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
-   "title": {
-    "en": "Barefoot Gen"
-   },
-   "contentRating": "safe",
-   "score": 0.18433768,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "433ab7c2-9785-49f6-bde2-94a46f9cd385",
    "title": {
     "en": "Cursed Kyosuke PSI Ghost Investigation Room"
    },
    "contentRating": "safe",
-   "score": 0.18373658
+   "score": 0.18448164
+  },
+  {
+   "id": "6e89c386-a263-4c5c-8e3b-30f44e71b9f9",
+   "title": {
+    "en": "Barefoot Gen"
+   },
+   "contentRating": "safe",
+   "score": 0.18390308,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a9bf14be-fcff-4eea-9c45-ba3e40d399fa",
@@ -127,7 +127,7 @@
     "en": "Musashi (KAWASAKI Noboru)"
    },
    "contentRating": "safe",
-   "score": 0.18135881
+   "score": 0.18196021
   },
   {
    "id": "ed5fc9de-1715-47ad-926f-035b6ba19322",
@@ -138,28 +138,6 @@
    "score": 0.17919421,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
-   "title": {
-    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
-   },
-   "contentRating": "safe",
-   "score": 0.17877375,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d82c15b0-2a81-45bf-add2-1a79905ac419",
-   "title": {
-    "en": "Detective Conan - Zero the Enforcer"
-   },
-   "contentRating": "safe",
-   "score": 0.17877375,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -174,13 +152,35 @@
    ]
   },
   {
+   "id": "13cba405-586c-4f5f-8abb-2e1d5607411b",
+   "title": {
+    "en": "Mobile Suit Gundam Aggressor"
+   },
+   "contentRating": "safe",
+   "score": 0.17877375,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
    "title": {
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
    "score": 0.17877375
+  },
+  {
+   "id": "44fa2834-f68b-4de4-8f2d-27fb3d2c248a",
+   "title": {
+    "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
+   },
+   "contentRating": "safe",
+   "score": 0.17877375,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:44+00:00"
+ "updatedAt": "2023-12-10T18:34:51+00:00"
 }

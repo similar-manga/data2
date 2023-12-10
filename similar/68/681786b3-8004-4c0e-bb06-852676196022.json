@@ -6,26 +6,77 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b77705a4-4777-4d01-815d-d7cecf58a6bf",
+   "id": "45c1749f-004e-4d60-b994-badefa9995b1",
    "title": {
-    "en": "Hapi Nabi!"
+    "en": "Purgatory Academy"
    },
    "contentRating": "safe",
-   "score": 0.21762978,
+   "score": 0.23802423,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
+   "id": "27179c2f-72d7-4a49-a577-2fa6eaf9df4d",
    "title": {
-    "en": "Koaka Head"
+    "en": "Joshikousei no Mudazukai"
    },
    "contentRating": "safe",
-   "score": 0.21457556,
+   "score": 0.23182619,
    "languages": [
     "en",
-    "pl"
+    "es-la",
+    "pt-br",
+    "id",
+    "it"
+   ]
+  },
+  {
+   "id": "7e19c079-3a9d-4f61-88e7-b9c72eb69705",
+   "title": {
+    "en": "Kimetsu Gakuen"
+   },
+   "contentRating": "safe",
+   "score": 0.23007178,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "19138796-45e0-46f6-9548-264eb61774f6",
+   "title": {
+    "en": "Aikatsu!"
+   },
+   "contentRating": "safe",
+   "score": 0.21992832,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b77705a4-4777-4d01-815d-d7cecf58a6bf",
+   "title": {
+    "en": "Hapi Nabi!"
+   },
+   "contentRating": "safe",
+   "score": 0.21692881,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5cc03ccb-df43-4bb7-9c0c-c0d9a1dccdff",
+   "title": {
+    "en": "Koukou no Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.21547242,
+   "languages": [
+    "es-la",
+    "en",
+    "fr"
    ]
   },
   {
@@ -43,14 +94,61 @@
    ]
   },
   {
+   "id": "8847ce59-c348-4b7d-8b61-48d50c3245d3",
+   "title": {
+    "en": "The Story of Zoomers in a RomCom"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "89853067-1056-4ae3-9775-4d2b9522107e",
+   "title": {
+    "en": "Cromartie High School: Staff Room"
+   },
+   "contentRating": "safe",
+   "score": 0.21396695,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7a67c3bf-b53e-43d1-847f-270d8ad52e72",
    "title": {
     "en": "Shiritsu Sei Cattlya Shougakkou"
    },
    "contentRating": "safe",
-   "score": 0.21329838,
+   "score": 0.21256158,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7c6c03ca-f818-4c36-a4b4-0e1b2bc3faff",
+   "title": {
+    "en": "Koaka Head"
+   },
+   "contentRating": "safe",
+   "score": 0.20836115,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "7dbc53e8-6571-48ef-8817-231c64e294d0",
+   "title": {
+    "en": "Delicious Desires"
+   },
+   "contentRating": "safe",
+   "score": 0.20555112,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -59,7 +157,7 @@
     "en": "The Worthless Girl Who Wanted to Go to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.20648159,
+   "score": 0.20502555,
    "languages": [
     "de",
     "fr",
@@ -73,7 +171,7 @@
     "en": "Gakuen Rule Kaikaku"
    },
    "contentRating": "safe",
-   "score": 0.20444496,
+   "score": 0.20334834,
    "languages": [
     "en"
    ]
@@ -84,32 +182,10 @@
     "en": "Fetish Berry"
    },
    "contentRating": "safe",
-   "score": 0.20316496,
+   "score": 0.20224714,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "adc6cc47-cec9-44eb-9d18-09235bb4ec08",
-   "title": {
-    "en": "Misaki Number One!!"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b9370e9a-ed6e-4ad9-a28c-a122ba96a9f9",
-   "title": {
-    "en": "Takahashi-san ga Kiite Iru."
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -122,76 +198,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5f2448b3-5ead-4cd5-8289-fd2ac164fae1",
-   "title": {
-    "en": "Hana no Android Gakuen"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "52d33a2d-1a4b-4b2e-9383-66bbcd7ac348",
-   "title": {
-    "en": "Primo Prima!"
-   },
-   "contentRating": "safe",
-   "score": 0.19636825,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fca4ee0a-a0c5-4b8b-942b-91f1da3c8d76",
-   "title": {
-    "en": "In the Classroom"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.18950023,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
-   "title": {
-    "en": "Gakuen Psycho-Pass"
-   },
-   "contentRating": "safe",
-   "score": 0.18885799,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a5fb48b5-fad4-4080-9635-f3a815dd8414",
-   "title": {
-    "en": "Tokyoin Reika, the Billionaire"
-   },
-   "contentRating": "safe",
-   "score": 0.1864001,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:53+00:00"
+ "updatedAt": "2023-12-10T18:19:34+00:00"
 }

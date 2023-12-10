@@ -6,12 +6,34 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1e232820-d044-45f6-94aa-f08101ade2b2",
+   "title": {
+    "en": "Nightingale"
+   },
+   "contentRating": "safe",
+   "score": 0.30297756,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
    "title": {
     "en": "Shin Henkei Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.29587683,
+   "score": 0.29054976,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "33c4f4da-2106-4254-a36f-e2432116d29f",
+   "title": {
+    "en": "Pokémon The Movie XY - The Archdjinni of the Rings: Hoopa"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -28,6 +50,78 @@
    ]
   },
   {
+   "id": "3aa88bf3-33b0-4962-89d1-0723a50112a2",
+   "title": {
+    "en": "HORION"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28590f98-3096-4434-982c-1ee9b0d07100",
+   "title": {
+    "en": "Naozari Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ce570243-2760-4cc9-b47a-b09fc345ef22",
+   "title": {
+    "en": "Steel Fist Attack"
+   },
+   "contentRating": "safe",
+   "score": 0.253793,
+   "languages": [
+    "en",
+    "th"
+   ]
+  },
+  {
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
+   "title": {
+    "en": "Junk the Black Shadow"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "bb1792a0-5887-4dcf-abc4-a733934f6eb1",
+   "title": {
+    "en": "Fire Emblem - Thracia 776"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "89f24355-1d6a-4780-9ce6-6777c6b4498b",
+   "title": {
+    "en": "School Foolishness"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
    "title": {
     "en": "Joou Kishi Monogatari"
@@ -39,16 +133,14 @@
    ]
   },
   {
-   "id": "6b494b6c-791c-446b-9bf3-471cd82ce7e7",
+   "id": "1bc9283b-af5d-4ac6-8268-4f9c014e250d",
    "title": {
-    "en": "Dragon Ball Minus"
+    "en": "SLASH"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "it",
-    "en",
-    "pt"
+    "en"
    ]
   },
   {
@@ -63,40 +155,6 @@
    ]
   },
   {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
-   "title": {
-    "en": "Juuhime - Sincerely Night"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4e13a83b-274d-49e2-9b59-6c87e05b13aa",
-   "title": {
-    "en": "Tales of Vesperia ~Flynn Seinaru Hakugin no Kishi~"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
-   "title": {
-    "en": "GOD EATER - the spiral fate"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
    "title": {
     "en": "Tales of Destiny 2"
@@ -108,85 +166,30 @@
    ]
   },
   {
-   "id": "f227cfe3-7d1a-4fdc-832a-50180afd5f69",
+   "id": "c30266a7-cc5c-48fa-b414-689d8c5cd22c",
    "title": {
-    "en": "Yo-kai Watch Treasure Busters"
+    "en": "Beet the Vandel Buster"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "pt-br",
-    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "en",
-    "es"
-   ]
-  },
-  {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
-   "title": {
-    "en": "Star Ocean - Blue Sphere"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cad1c68e-ece3-4453-9135-aff3918421a3",
-   "title": {
-    "en": "A-kun (17) no Sensou - I, the Tycoon?"
-   },
-   "contentRating": "safe",
-   "score": 0.2100234,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b121ce9e-ced9-4608-8b47-18aedb605498",
-   "title": {
-    "en": "Kikkai vs Omorai"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae92b0f2-80a6-4cbb-b076-c315695d40b8",
-   "title": {
-    "en": "Bear Hunter — Fubuki-gō"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8b95bca5-51d3-41dd-86ee-c718372585be",
-   "title": {
-    "en": "Hakugin no Teiō"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "75584961-7595-415f-805b-e4bc8937213c",
-   "title": {
-    "en": "NOW"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
+    "ar",
+    "fr",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:10:18+00:00"
+ "updatedAt": "2023-12-10T18:36:12+00:00"
 }

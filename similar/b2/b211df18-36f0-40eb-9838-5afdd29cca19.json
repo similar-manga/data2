@@ -11,7 +11,7 @@
     "en": "Light Again"
    },
    "contentRating": "safe",
-   "score": 0.3138112,
+   "score": 0.31105405,
    "languages": [
     "en",
     "pt-br",
@@ -48,21 +48,10 @@
     "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
-   "score": 0.2677257,
+   "score": 0.266614,
    "languages": [
     "ro",
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "21b18592-8925-466b-b909-071b52676a38",
-   "title": {
-    "en": "Teiden Shoujo to Hanemushi no Orchestra"
-   },
-   "contentRating": "safe",
-   "score": 0.25708538,
-   "languages": [
     "en"
    ]
   },
@@ -72,7 +61,7 @@
     "en": "Tengoku no Honya"
    },
    "contentRating": "safe",
-   "score": 0.2565994,
+   "score": 0.25617543,
    "languages": [
     "de",
     "en",
@@ -80,37 +69,12 @@
    ]
   },
   {
-   "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
+   "id": "21b18592-8925-466b-b909-071b52676a38",
    "title": {
-    "en": "Yoru Naku Suzume"
+    "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.25522026,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1d0068f1-c17c-4b82-bc2f-11e529898838",
-   "title": {
-    "en": "Pom the Panda"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "it",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
-   "title": {
-    "en": "Frog and Haru's Super Beast Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.25452596,
    "languages": [
     "en"
    ]
@@ -119,6 +83,17 @@
    "id": "8787958d-a3f1-4d48-8220-fad148c7c28e",
    "title": {
     "en": "Fragment"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
+   "title": {
+    "en": "Yoru Naku Suzume"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -138,20 +113,34 @@
    ]
   },
   {
-   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
+   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
    "title": {
-    "en": "Inochi o Odoru"
+    "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
+   "id": "1d0068f1-c17c-4b82-bc2f-11e529898838",
    "title": {
-    "en": "Toriya Trip"
+    "en": "Pom the Panda"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "it",
+    "pl",
+    "fr"
+   ]
+  },
+  {
+   "id": "b280ea2f-b909-4d43-95f6-2bea982dbe4e",
+   "title": {
+    "en": "Inochi o Odoru"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -171,12 +160,23 @@
    ]
   },
   {
+   "id": "48ab5c2b-baa1-4c93-ba28-f72b550f96c6",
+   "title": {
+    "en": "Toriya Trip"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
    "title": {
     "en": "One-Armed Amy"
    },
    "contentRating": "safe",
-   "score": 0.23114914,
+   "score": 0.23082279,
    "languages": [
     "fr",
     "hi",
@@ -197,11 +197,11 @@
     "en": "Change Boy"
    },
    "contentRating": "safe",
-   "score": 0.22349365,
+   "score": 0.22282536,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:06+00:00"
+ "updatedAt": "2023-12-10T18:28:16+00:00"
 }

@@ -6,12 +6,54 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b3eea7ea-ed6f-42e1-b7b2-dd7a3f98fb47",
+   "title": {
+    "en": "Bucchigiri Stitch"
+   },
+   "contentRating": "safe",
+   "score": 0.28777966
+  },
+  {
    "id": "adb158ad-2bec-48a4-8e52-1b95d7b77b5b",
    "title": {
     "en": "Let's go! GIGA GREEN"
    },
    "contentRating": "safe",
-   "score": 0.27452913
+   "score": 0.27526864
+  },
+  {
+   "id": "b74e639b-0841-4915-8f43-2f9d2d0c8a4e",
+   "title": {
+    "en": "Pikupiku Sentarou Selection"
+   },
+   "contentRating": "safe",
+   "score": 0.2701224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "20b8f512-3872-4201-9f76-ec35166c10b5",
+   "title": {
+    "en": "Shidenkai no Maki"
+   },
+   "contentRating": "safe",
+   "score": 0.26601577,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "4c242b0f-f459-48ec-bd23-2b14c07c9e14",
+   "title": {
+    "en": "Becoming an Adventurer"
+   },
+   "contentRating": "safe",
+   "score": 0.2530991,
+   "languages": [
+    "ru"
+   ]
   },
   {
    "id": "aa9bf395-a3bf-42f9-acca-34b48c83e98b",
@@ -19,7 +61,7 @@
     "en": "Horizon Project"
    },
    "contentRating": "safe",
-   "score": 0.2521942,
+   "score": 0.2509525,
    "languages": [
     "en"
    ]
@@ -30,7 +72,26 @@
     "en": "CHARGE"
    },
    "contentRating": "safe",
-   "score": 0.25196385,
+   "score": 0.24984564,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "812f9b8e-f503-4655-be05-e5260de089f8",
+   "title": {
+    "en": "Konjiki no Karma"
+   },
+   "contentRating": "safe",
+   "score": 0.2470282
+  },
+  {
+   "id": "67e5eedb-ec93-4fcb-89dc-22abad2f33f6",
+   "title": {
+    "en": "Akuma No Yuusha"
+   },
+   "contentRating": "safe",
+   "score": 0.24382173,
    "languages": [
     "en"
    ]
@@ -41,7 +102,7 @@
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.24246968,
+   "score": 0.24166787,
    "languages": [
     "ru",
     "fr",
@@ -56,12 +117,23 @@
    ]
   },
   {
-   "id": "afc62918-ce3b-4c48-af7e-e0b99245a200",
+   "id": "6bc6eb88-6e18-47df-9a49-c710592e7717",
    "title": {
-    "en": "Hell Fists"
+    "en": "McBritain"
    },
    "contentRating": "safe",
-   "score": 0.23657018,
+   "score": 0.23611422,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ec56a3c-57fb-425f-bbe5-6b1a4aea83e9",
+   "title": {
+    "en": "Moontachi Gaiden (Graphic Novel)"
+   },
+   "contentRating": "safe",
+   "score": 0.23426618,
    "languages": [
     "en"
    ]
@@ -72,122 +144,38 @@
     "en": "Renata Tate: Goddess for Hire"
    },
    "contentRating": "safe",
-   "score": 0.23373298,
+   "score": 0.2333467,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "283f8818-43c4-4c1d-9b9e-52a2529414f7",
+   "id": "d7f927c8-c1f5-474e-bb3d-57da04be7662",
    "title": {
-    "en": "Galaxy Express 999 Another Story: Ultimate Journey"
+    "en": "Sentai Red Isekai de Boukensha ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.22789884,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "299519b9-53bf-4abb-bee1-ea1c6960ff67",
-   "title": {
-    "en": "Seed"
-   },
-   "contentRating": "safe",
-   "score": 0.227896,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1fa988a1-eea6-486a-a280-7b17cb9a5aea",
-   "title": {
-    "en": "ELEMENTS: Users Of The Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.22534977,
+   "score": 0.23326449,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "33670468-d5f2-440b-a5f3-fa0601d471f0",
+   "id": "e0216e4f-9b7f-4f3a-ae73-9a609f654971",
    "title": {
-    "en": "Project Curse"
+    "en": "The Silent Protagonist Knows Exactly What He Wants"
    },
    "contentRating": "safe",
-   "score": 0.2181822,
-   "languages": [
-    "en"
-   ]
+   "score": 0.232536
   },
   {
-   "id": "f6730e73-7424-43c5-ac2c-a1cbe2c9d424",
+   "id": "305e96d6-f6fa-4ad4-8fde-3bcfedd723a9",
    "title": {
-    "en": "Nweho (Best Challenge Version)"
+    "en": "Master Arts"
    },
    "contentRating": "safe",
-   "score": 0.21652098,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23cc261e-687e-4b24-9308-fccc93094b98",
-   "title": {
-    "en": "R the Ultimate Superman"
-   },
-   "contentRating": "safe",
-   "score": 0.21468177,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b6ce78f3-fb49-4051-88a8-03c2ef8d0a49",
-   "title": {
-    "en": "Mahouka Koukou no Yuutousei 2nd Season"
-   },
-   "contentRating": "safe",
-   "score": 0.21254599
-  },
-  {
-   "id": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
-   "title": {
-    "en": "Yo-kai Watch"
-   },
-   "contentRating": "safe",
-   "score": 0.21069099,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "1aec6b5e-6641-43db-8589-ace2abc14e5f",
-   "title": {
-    "en": "Magu-chan: God of Destruction"
-   },
-   "contentRating": "safe",
-   "score": 0.21009617,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a21eab2d-781d-40b2-a666-7b2d72551927",
-   "title": {
-    "en": "Akuninzura shita B-kyuu Boukensha"
-   },
-   "contentRating": "safe",
-   "score": 0.20944951,
-   "languages": [
-    "it",
-    "pt-br",
-    "id",
-    "en"
-   ]
+   "score": 0.23157701
   }
  ],
- "updatedAt": "2023-12-10T01:03:21+00:00"
+ "updatedAt": "2023-12-10T18:18:07+00:00"
 }

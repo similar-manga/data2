@@ -6,14 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0f870a08-b87a-471e-ab96-df551d70f902",
+   "title": {
+    "en": "Rhapsody in Red"
+   },
+   "contentRating": "safe",
+   "score": 0.38272378,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "b7f830fe-4196-4d34-979a-587d6abc1f8a",
+   "title": {
+    "en": "Saihate no Serenade"
+   },
+   "contentRating": "safe",
+   "score": 0.31938607,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7875d6b9-fcf1-43fd-b28c-2074a5bda715",
    "title": {
     "en": "Juukinzoku Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.29980534,
+   "score": 0.29566765,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "218041a6-9243-4360-9810-e5810cf14af4",
+   "title": {
+    "en": "Harmony"
+   },
+   "contentRating": "safe",
+   "score": 0.27049524,
+   "languages": [
+    "en",
+    "zh"
    ]
   },
   {
@@ -22,10 +57,21 @@
     "en": "Straight no Chaser"
    },
    "contentRating": "safe",
-   "score": 0.2523477,
+   "score": 0.24961883,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "95fca328-82b9-447e-bae2-6b5151da82be",
+   "title": {
+    "en": "Until my new teacher is totally defeated"
+   },
+   "contentRating": "safe",
+   "score": 0.24647309,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,13 +80,24 @@
     "en": "Shiori Experience: My Plain Self and an Odd Old Man"
    },
    "contentRating": "safe",
-   "score": 0.23635457,
+   "score": 0.23363072,
    "languages": [
     "en",
     "fr",
     "pt-br",
     "es-la",
     "de"
+   ]
+  },
+  {
+   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
+   "title": {
+    "en": "Sorairo Square."
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -55,12 +112,73 @@
    ]
   },
   {
-   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
+   "id": "eea75459-1e4f-4b16-a461-462595d33e11",
    "title": {
-    "en": "Sorairo Square."
+    "en": "Love Live! School Idol Diary"
    },
    "contentRating": "safe",
    "score": 0.22980437,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "a86a2dae-e38a-4603-a518-503db8d5e369",
+   "title": {
+    "en": "Dance Dance Danseur"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pt-br",
+    "de"
+   ]
+  },
+  {
+   "id": "dbdffb51-7817-40af-a090-e6c68f42d7e3",
+   "title": {
+    "en": "Ichizu Bitch-Chan (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+   "title": {
+    "en": "Sunny"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c8e3ef99-430a-4ac5-8a38-8907f4048494",
+   "title": {
+    "en": "Dark Twilight Sanctuary"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "62f1f1bd-edf4-4bce-89f1-61c5cd2dc08a",
+   "title": {
+    "en": "Hop Step Sing!"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
    "languages": [
     "en"
    ]
@@ -76,134 +194,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
-   "title": {
-    "en": "Oui Oui Days"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f16cf7e-0865-4c98-8709-1fbcdb74591e",
-   "title": {
-    "en": "Kingdom of Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "511d3218-df57-4cab-8510-d88a5a96a951",
-   "title": {
-    "en": "49th Confession"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "th",
-    "pt-br",
-    "es-la",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "0296dc0b-7635-4154-927a-33c2244c4503",
-   "title": {
-    "en": "Yahari Ore no Seishun Love Come wa Machigatteiru.: Monologue"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "ru",
-    "tr",
-    "id",
-    "pl"
-   ]
-  },
-  {
-   "id": "bed2ef5e-99b1-4809-8f65-5866391f839b",
-   "title": {
-    "en": "The Gender of Mona Lisa"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "53af0017-83cb-41e7-97eb-25bba200940d",
-   "title": {
-    "en": "Last One"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.20331296,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "4f65c275-ce24-4267-935d-6573cf6e7cd2",
-   "title": {
-    "en": "The Two in the Corner"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "94a0a8c9-75e5-4a69-b8aa-ebac7a0a4578",
-   "title": {
-    "en": "Kiyomizu Iroha Doesn't Know Love"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:40+00:00"
+ "updatedAt": "2023-12-10T18:10:53+00:00"
 }

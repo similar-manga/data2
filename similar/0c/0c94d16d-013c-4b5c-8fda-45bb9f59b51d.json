@@ -11,7 +11,7 @@
     "en": "Get Pokémon!"
    },
    "contentRating": "safe",
-   "score": 0.3066912,
+   "score": 0.30378982,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.29013544,
+   "score": 0.2885386,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Pokémon Card GB The Comix"
    },
    "contentRating": "safe",
-   "score": 0.27689075,
+   "score": 0.27517626,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Pokémon"
    },
    "contentRating": "safe",
-   "score": 0.2758905,
+   "score": 0.27330333,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.2643974,
+   "score": 0.26394162,
    "languages": [
     "pl",
     "en"
@@ -67,7 +67,18 @@
     "en": "Pokémon Mezastar Mezase! Tag master"
    },
    "contentRating": "safe",
-   "score": 0.25561798
+   "score": 0.2549575
+  },
+  {
+   "id": "f9b26533-a516-499b-b2ca-8d095ac5174a",
+   "title": {
+    "en": "Pokémon HGSS"
+   },
+   "contentRating": "safe",
+   "score": 0.24502759,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "7eb0e395-5754-4e0a-bbc7-1b883de9e641",
@@ -75,7 +86,7 @@
     "en": "Pokémon HeartGold SoulSilver: Go! Go! Pokéathlon"
    },
    "contentRating": "safe",
-   "score": 0.23099725,
+   "score": 0.22963355,
    "languages": [
     "pt-br",
     "en",
@@ -115,7 +126,7 @@
     "en": "Valkyrie Profile - The Dark Alchemist"
    },
    "contentRating": "safe",
-   "score": 0.2224798,
+   "score": 0.22112727,
    "languages": [
     "en"
    ]
@@ -140,6 +151,26 @@
    "score": 0.21496369
   },
   {
+   "id": "192aa767-2479-42c1-9780-8d65a2efd36a",
+   "title": {
+    "en": "Gachiakuta"
+   },
+   "contentRating": "safe",
+   "score": 0.21347596,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "ru",
+    "vi",
+    "id",
+    "es-la",
+    "fa",
+    "es",
+    "hi"
+   ]
+  },
+  {
    "id": "2e0d9aa4-e652-4cdc-8d64-b87a74a62d29",
    "title": {
     "en": "Kingdom Hearts III"
@@ -152,30 +183,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
-   "title": {
-    "en": "The Legend of Zelda (Ran Maru)"
-   },
-   "contentRating": "safe",
-   "score": 0.20918626,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
-   "title": {
-    "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
-   },
-   "contentRating": "safe",
-   "score": 0.20270953,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:15+00:00"
+ "updatedAt": "2023-12-10T18:09:42+00:00"
 }

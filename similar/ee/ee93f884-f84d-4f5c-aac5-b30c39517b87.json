@@ -11,7 +11,7 @@
     "en": "Yumemiru Koto"
    },
    "contentRating": "suggestive",
-   "score": 0.24554461,
+   "score": 0.24378628,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Paljae"
    },
    "contentRating": "suggestive",
-   "score": 0.23249432
+   "score": 0.23110177
   },
   {
    "id": "948c8b72-e387-40ea-b505-4ad85fda01fc",
@@ -34,6 +34,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "bd49be14-c998-4429-84a6-519098281fc3",
+   "title": {
+    "en": "Ordinary Daily Life of a Universal Guide"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22184163
   },
   {
    "id": "c531c6ca-63c2-4f9c-94f9-1e5dada0dd24",
@@ -55,20 +63,12 @@
    "score": 0.22131334
   },
   {
-   "id": "bd49be14-c998-4429-84a6-519098281fc3",
-   "title": {
-    "en": "Ordinary Daily Life of a Universal Guide"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22034086
-  },
-  {
    "id": "0c679a7e-06bd-46e5-9cee-d8c3f9c35d67",
    "title": {
     "en": "Onward"
    },
    "contentRating": "suggestive",
-   "score": 0.21731961,
+   "score": 0.21678488,
    "languages": [
     "en"
    ]
@@ -124,7 +124,7 @@
     "en": "Desharow Merman"
    },
    "contentRating": "suggestive",
-   "score": 0.20328368,
+   "score": 0.20288959,
    "languages": [
     "fr",
     "en"
@@ -136,18 +136,7 @@
     "en": "Unseen Immortal for 300 Years"
    },
    "contentRating": "suggestive",
-   "score": 0.2011002,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49287c1e-8677-4925-bccc-20e9a6c7397b",
-   "title": {
-    "en": "Sammy's Children's Day"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19794866,
+   "score": 0.20096861,
    "languages": [
     "en"
    ]
@@ -164,13 +153,27 @@
    ]
   },
   {
-   "id": "d0576e3d-8439-4f93-bb48-0724abdc2d4e",
+   "id": "31e8719a-9009-4acb-965b-2095664a60d2",
    "title": {
-    "en": "Abusing the Scumbag Starting Now"
+    "en": "The Alpha's Story"
    },
    "contentRating": "suggestive",
-   "score": 0.19794866
+   "score": 0.19794866,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ef5b0dd7-091e-4df8-bbc5-168aedfe9504",
+   "title": {
+    "en": "Poor Quality Cream"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19794866,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:37+00:00"
+ "updatedAt": "2023-12-10T18:34:33+00:00"
 }

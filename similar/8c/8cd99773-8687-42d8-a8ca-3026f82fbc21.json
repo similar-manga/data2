@@ -6,15 +6,64 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8dc7fa60-6a03-4b25-af32-338deed70347",
+   "title": {
+    "en": "Aspiration"
+   },
+   "contentRating": "safe",
+   "score": 0.40932533
+  },
+  {
+   "id": "6edc2a6a-dfa4-47b7-a87a-f494381ae1c3",
+   "title": {
+    "en": "Lost Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.39173624,
+   "languages": [
+    "ru",
+    "es",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "b64e7404-f9b6-473f-92db-325f0bf52ce6",
    "title": {
     "en": "Baby Love"
    },
    "contentRating": "safe",
-   "score": 0.39048925,
+   "score": 0.38316804,
    "languages": [
     "es-la"
    ]
+  },
+  {
+   "id": "ff8f5c4c-659f-43ee-8d56-c2080e4fe518",
+   "title": {
+    "en": "Hun Zha Bu Xiu"
+   },
+   "contentRating": "safe",
+   "score": 0.3820879,
+   "languages": [
+    "es"
+   ]
+  },
+  {
+   "id": "950fda6b-666b-40c1-a1c0-846bded37048",
+   "title": {
+    "en": "Tales of Guard"
+   },
+   "contentRating": "safe",
+   "score": 0.37508288
+  },
+  {
+   "id": "8749fe19-1dfe-40e5-9573-fec5add1085e",
+   "title": {
+    "en": "Wanna be my boyfriend?"
+   },
+   "contentRating": "safe",
+   "score": 0.3724203
   },
   {
    "id": "344114c1-b773-4d9f-8a47-fff9cd36021e",
@@ -22,7 +71,61 @@
     "en": "UnderGrind"
    },
    "contentRating": "safe",
-   "score": 0.37643507
+   "score": 0.37129563
+  },
+  {
+   "id": "9066dda7-36e9-496a-bdd4-a338d2ea84cf",
+   "title": {
+    "en": "The Sweet Phony"
+   },
+   "contentRating": "safe",
+   "score": 0.37024248,
+   "languages": [
+    "es"
+   ]
+  },
+  {
+   "id": "5828d435-ed19-43dd-9d3d-74020202d647",
+   "title": {
+    "en": "Double Trouble"
+   },
+   "contentRating": "safe",
+   "score": 0.36730856
+  },
+  {
+   "id": "d8e2f643-5fcf-44a9-b597-71a6c11e7b8c",
+   "title": {
+    "en": "World of legends"
+   },
+   "contentRating": "safe",
+   "score": 0.3670959
+  },
+  {
+   "id": "d351043f-3f2c-4ef0-acf1-0f2ce511181b",
+   "title": {
+    "en": "Da Vinci's Golgotha"
+   },
+   "contentRating": "safe",
+   "score": 0.3604602
+  },
+  {
+   "id": "a86743c0-78e4-4437-9d49-474cba145e79",
+   "title": {
+    "en": "Tou-san na, Death Game Un'ei de Kutte iru n da"
+   },
+   "contentRating": "safe",
+   "score": 0.35969844,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "31c3f898-a2ba-47d9-8651-f3cdc209da9e",
+   "title": {
+    "en": "Watashi wa Pen de Sekai wo Kaeru"
+   },
+   "contentRating": "safe",
+   "score": 0.35741112
   },
   {
    "id": "38b9736d-1de6-4039-add5-7aa5f388cf88",
@@ -30,18 +133,10 @@
     "en": "Bravery in the Depths"
    },
    "contentRating": "safe",
-   "score": 0.36148584,
+   "score": 0.35437253,
    "languages": [
     "es-la"
    ]
-  },
-  {
-   "id": "cec4c4ec-5f1e-4624-883b-44b828c3c465",
-   "title": {
-    "en": "Kenja wa Nemuru - Shinjou Mimei no Houseki Jikenbo"
-   },
-   "contentRating": "safe",
-   "score": 0.35934547
   },
   {
    "id": "c7bd529f-ce03-4c82-b669-86a66d8ca24b",
@@ -49,120 +144,16 @@
     "en": "The dreams in my world"
    },
    "contentRating": "safe",
-   "score": 0.3588123
+   "score": 0.35307714
   },
   {
-   "id": "43194813-c9eb-4331-95a0-065e94723558",
+   "id": "cec4c4ec-5f1e-4624-883b-44b828c3c465",
    "title": {
-    "en": "Season Of Su"
+    "en": "Kenja wa Nemuru - Shinjou Mimei no Houseki Jikenbo"
    },
    "contentRating": "safe",
-   "score": 0.35708913,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5cd1b8eb-58c3-43e8-a1f8-3046f57a3cc5",
-   "title": {
-    "en": "Mnemosyne"
-   },
-   "contentRating": "safe",
-   "score": 0.3547276,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "92effd67-9504-4f94-b6ee-62d9e8a8a9b4",
-   "title": {
-    "en": "In My Rain"
-   },
-   "contentRating": "safe",
-   "score": 0.35213658,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "312ec6f6-f408-4f34-afd8-56f256eb8bd4",
-   "title": {
-    "en": "Aventura"
-   },
-   "contentRating": "safe",
-   "score": 0.34330583
-  },
-  {
-   "id": "0b2beaa6-08df-44e5-a404-ecee109744fc",
-   "title": {
-    "en": "Candy Candy"
-   },
-   "contentRating": "safe",
-   "score": 0.34295398,
-   "languages": [
-    "pt-br",
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "7000898d-e54a-400b-833b-78ff3037e975",
-   "title": {
-    "en": "Star Fruit Candy"
-   },
-   "contentRating": "safe",
-   "score": 0.34016427
-  },
-  {
-   "id": "f77d9912-75a9-4eba-b4bd-90cf7588cbf9",
-   "title": {
-    "en": "Survival Game: 365 Days To Escape"
-   },
-   "contentRating": "safe",
-   "score": 0.339692,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1099c1f9-6034-498b-b636-72a41dde6409",
-   "title": {
-    "en": "Itazura na Ningyo"
-   },
-   "contentRating": "safe",
-   "score": 0.3396806
-  },
-  {
-   "id": "a112160c-1439-41c3-ac69-a821879cd04a",
-   "title": {
-    "en": "Even if you are reborn"
-   },
-   "contentRating": "safe",
-   "score": 0.33876374,
-   "languages": [
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cb996359-b804-43c8-9a32-637c5233e44b",
-   "title": {
-    "en": "Perdiéndonos entre las flores"
-   },
-   "contentRating": "safe",
-   "score": 0.33828762
-  },
-  {
-   "id": "3ba3d4dc-5682-4913-8325-c96017c21d3e",
-   "title": {
-    "en": "Macross the ride - insert manga"
-   },
-   "contentRating": "safe",
-   "score": 0.337432,
-   "languages": [
-    "es-la"
-   ]
+   "score": 0.35288277
   }
  ],
- "updatedAt": "2023-12-10T01:05:29+00:00"
+ "updatedAt": "2023-12-10T18:23:52+00:00"
 }

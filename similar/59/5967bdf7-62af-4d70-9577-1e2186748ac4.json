@@ -6,9 +6,53 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "11c61a59-449a-434d-8ae7-0b08fae3257e",
+   "title": {
+    "en": "A3!"
+   },
+   "contentRating": "safe",
+   "score": 0.36921299,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d46b1ee-88b9-455d-a2b4-f9d68e86c24e",
+   "title": {
+    "en": "Uno-ke no Hitobito"
+   },
+   "contentRating": "safe",
+   "score": 0.30229032,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "59551dad-b15a-49a3-949d-4be34958c5e9",
    "title": {
     "en": "Violin"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "589a2e7f-be8f-4a2b-8ee3-5bf937c410aa",
+   "title": {
+    "en": "Ozone"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "48e93eeb-297f-429a-b7c8-c6f418751772",
+   "title": {
+    "en": "Taste"
    },
    "contentRating": "safe",
    "score": 0.28508148,
@@ -22,9 +66,21 @@
     "en": "Sumika's Home"
    },
    "contentRating": "safe",
-   "score": 0.2801069,
+   "score": 0.27981496,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a3bc925d-d02a-498c-b3b6-fa588568410b",
+   "title": {
+    "en": "Kono Setsugen de Kimi ga Zutto Waratte Irareru you ni"
+   },
+   "contentRating": "safe",
+   "score": 0.2650762,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -33,7 +89,29 @@
     "en": "Boku wa Ne."
    },
    "contentRating": "safe",
-   "score": 0.25622526,
+   "score": 0.25275034,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e36473c-5e50-4bc1-84d3-f857fed0f5ea",
+   "title": {
+    "en": "RH Plus"
+   },
+   "contentRating": "safe",
+   "score": 0.24822052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ffa0fdfd-8755-42ea-82a3-a278801aeb78",
+   "title": {
+    "en": "Douse Naku Nara Koi ga ii"
+   },
+   "contentRating": "safe",
+   "score": 0.24803042,
    "languages": [
     "en"
    ]
@@ -44,21 +122,22 @@
     "en": "Triangle"
    },
    "contentRating": "safe",
-   "score": 0.24745284,
+   "score": 0.24700715,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "2a1a719a-4990-481b-8bfa-37e68bbcbc49",
+   "id": "db82ebdf-31f9-4d37-99f2-8c8766cf5093",
    "title": {
-    "en": "Impatiens"
+    "en": "Mister Cat"
    },
    "contentRating": "safe",
-   "score": 0.24386923,
+   "score": 0.24340317,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -67,11 +146,22 @@
     "en": "Nocturne"
    },
    "contentRating": "safe",
-   "score": 0.24279012,
+   "score": 0.2426071,
    "languages": [
     "en",
     "pl",
     "fr"
+   ]
+  },
+  {
+   "id": "2a1a719a-4990-481b-8bfa-37e68bbcbc49",
+   "title": {
+    "en": "Impatiens"
+   },
+   "contentRating": "safe",
+   "score": 0.24196361,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -80,56 +170,9 @@
     "en": "Jasmine"
    },
    "contentRating": "safe",
-   "score": 0.24204329,
+   "score": 0.24149267,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "c7564951-ae8a-43b7-b122-1ca0cbd9469c",
-   "title": {
-    "en": "Then, I'll Go First"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "41b0ebf9-7e2e-4b27-9d91-9a778b2ebbb3",
-   "title": {
-    "en": "Hitori-tachi"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "83bf6fcf-d9c5-43c8-9098-e44c9ad321c3",
-   "title": {
-    "en": "Watashi to Fukigen na Panya-san"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc1fe50d-2817-452f-853d-62bc3cba5029",
-   "title": {
-    "en": "Kamisama no Orgel"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
     "en"
    ]
   },
@@ -143,53 +186,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "f7fdad46-57dc-45ab-898b-906dcfab177e",
-   "title": {
-    "en": "Dear Girl ~Stories~ Hibiki"
-   },
-   "contentRating": "safe",
-   "score": 0.22240146,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d1bac7e3-c3a4-4663-9dac-7d097fe61298",
-   "title": {
-    "en": "Delinquent Cinderella"
-   },
-   "contentRating": "safe",
-   "score": 0.22058366,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
-   "title": {
-    "en": "Orgel Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.22019528,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "af7d5f96-1cf4-44de-9661-6f6f74ec2ec1",
-   "title": {
-    "en": "Boku no Ie ni Oide"
-   },
-   "contentRating": "safe",
-   "score": 0.21972033,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:18+00:00"
+ "updatedAt": "2023-12-10T18:18:00+00:00"
 }

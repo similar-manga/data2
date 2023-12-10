@@ -11,7 +11,7 @@
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.36992794,
+   "score": 0.3720033,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,7 @@
     "en": "The Girl's Winter"
    },
    "contentRating": "safe",
-   "score": 0.3266882,
+   "score": 0.3278503,
    "languages": [
     "en",
     "pt-br",
@@ -36,7 +36,7 @@
     "en": "Winter Romantic B\u0026B"
    },
    "contentRating": "safe",
-   "score": 0.32112506,
+   "score": 0.32147777,
    "languages": [
     "pl"
    ]
@@ -47,7 +47,7 @@
     "en": "Usurai ni Saku"
    },
    "contentRating": "safe",
-   "score": 0.29110458,
+   "score": 0.29174742,
    "languages": [
     "en"
    ]
@@ -58,24 +58,10 @@
     "en": "18 Years Old, We Got Married"
    },
    "contentRating": "safe",
-   "score": 0.27467716,
+   "score": 0.27376443,
    "languages": [
     "pl",
     "fr"
-   ]
-  },
-  {
-   "id": "22231dea-4bb3-49af-b7b1-82777f3ce713",
-   "title": {
-    "en": "Hanirabi!"
-   },
-   "contentRating": "safe",
-   "score": 0.26980627,
-   "languages": [
-    "ro",
-    "en",
-    "fr",
-    "it"
    ]
   },
   {
@@ -84,32 +70,23 @@
     "en": "Dana's Garden"
    },
    "contentRating": "safe",
-   "score": 0.2688069,
+   "score": 0.2678873,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "id": "22231dea-4bb3-49af-b7b1-82777f3ce713",
    "title": {
-    "en": "Without the Sun"
+    "en": "Hanirabi!"
    },
    "contentRating": "safe",
-   "score": 0.26082027,
+   "score": 0.26684153,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
-   "title": {
-    "en": "Taiyou no Yuki"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "pl",
-    "en"
+    "ro",
+    "en",
+    "fr",
+    "it"
    ]
   },
   {
@@ -135,18 +112,6 @@
    ]
   },
   {
-   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
-   "title": {
-    "en": "Nageku Shinigami"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "8c5e3117-a89b-42e1-ac00-ea1c2ce98c15",
    "title": {
     "en": "God Virgin"
@@ -160,12 +125,36 @@
    ]
   },
   {
-   "id": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
+   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
-    "en": "The Boy Next Door"
+    "en": "Nageku Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.25993034,
+   "score": 0.26082027,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
+   "title": {
+    "en": "Taiyou no Yuki"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "title": {
+    "en": "Without the Sun"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
    "languages": [
     "en"
    ]
@@ -176,7 +165,7 @@
     "en": "Watashi no Hakoniwa"
    },
    "contentRating": "safe",
-   "score": 0.25943777,
+   "score": 0.25906307,
    "languages": [
     "en",
     "pl"
@@ -188,7 +177,7 @@
     "en": "Winter Flower"
    },
    "contentRating": "safe",
-   "score": 0.258022,
+   "score": 0.25836313,
    "languages": [
     "en",
     "pl",
@@ -196,7 +185,18 @@
     "fr",
     "es-la"
    ]
+  },
+  {
+   "id": "dc5c5dcf-3a5b-4e9d-a53b-95071ad68d94",
+   "title": {
+    "en": "The Boy Next Door"
+   },
+   "contentRating": "safe",
+   "score": 0.25805333,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:16+00:00"
+ "updatedAt": "2023-12-10T18:25:53+00:00"
 }

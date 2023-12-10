@@ -11,7 +11,7 @@
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.2658964,
+   "score": 0.26780492,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "The Revolution of Gene X"
    },
    "contentRating": "safe",
-   "score": 0.19743174,
+   "score": 0.19660018,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.19299446,
+   "score": 0.19310008,
    "languages": [
     "en"
    ]
@@ -66,7 +66,7 @@
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.19234417,
+   "score": 0.19208172,
    "languages": [
     "pl",
     "en"
@@ -78,23 +78,12 @@
     "en": "Ana no Mujina"
    },
    "contentRating": "safe",
-   "score": 0.19207278,
+   "score": 0.19190572,
    "languages": [
     "en",
     "it",
     "es-la",
     "es"
-   ]
-  },
-  {
-   "id": "122ff8f1-2ac0-4df6-ba00-986af47d4d40",
-   "title": {
-    "en": "Carpe diem"
-   },
-   "contentRating": "safe",
-   "score": 0.19106063,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -109,12 +98,38 @@
    ]
   },
   {
+   "id": "122ff8f1-2ac0-4df6-ba00-986af47d4d40",
+   "title": {
+    "en": "Carpe diem"
+   },
+   "contentRating": "safe",
+   "score": 0.19053115,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
+   "title": {
+    "en": "Major 2nd"
+   },
+   "contentRating": "safe",
+   "score": 0.19017631,
+   "languages": [
+    "es",
+    "ru",
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
    "title": {
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.18883322,
+   "score": 0.1883923,
    "languages": [
     "en",
     "pt-br",
@@ -142,7 +157,7 @@
     "en": "Star Children (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.18515323,
+   "score": 0.18613923,
    "languages": [
     "en"
    ]
@@ -153,7 +168,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.18270761,
+   "score": 0.18285602,
    "languages": [
     "ar",
     "uk",
@@ -168,17 +183,6 @@
     "es-la",
     "en",
     "th"
-   ]
-  },
-  {
-   "id": "6c5bb541-d314-4140-8842-d96d31eaad53",
-   "title": {
-    "en": "Change Squadron Car Robots"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -204,5 +208,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:14+00:00"
+ "updatedAt": "2023-12-10T18:09:39+00:00"
 }

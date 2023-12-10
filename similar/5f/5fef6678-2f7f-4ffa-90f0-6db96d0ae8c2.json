@@ -6,12 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fbb49a7a-3c3d-4014-8c76-13130f6fd2eb",
+   "title": {
+    "en": "Koukyuu no Kenshi Nyokan"
+   },
+   "contentRating": "safe",
+   "score": 0.28576618
+  },
+  {
    "id": "b88b338a-cd19-460e-b148-8c7ed31155ff",
    "title": {
     "en": "Hyakkakyu no Osoujigakari"
    },
    "contentRating": "safe",
-   "score": 0.2930912
+   "score": 0.28210312
+  },
+  {
+   "id": "8303205b-4be9-4057-869b-39708b9ba57b",
+   "title": {
+    "en": "Koukyuu no Hyakkarin"
+   },
+   "contentRating": "safe",
+   "score": 0.27289268
+  },
+  {
+   "id": "092d3f7d-9f85-432b-badb-ea18f0a56e4f",
+   "title": {
+    "en": "Koukyuu no Dokuka"
+   },
+   "contentRating": "safe",
+   "score": 0.27234018
   },
   {
    "id": "b0fd9fca-7a5f-4c96-91d6-5699e550e5d3",
@@ -27,7 +51,15 @@
     "en": "The Emperor's Mask"
    },
    "contentRating": "safe",
-   "score": 0.2618666
+   "score": 0.25815448
+  },
+  {
+   "id": "5c61de44-f35a-4c73-a47f-cf94528923df",
+   "title": {
+    "en": "Koukyuu mo Nidome nara"
+   },
+   "contentRating": "safe",
+   "score": 0.2556928
   },
   {
    "id": "45cc0bb0-2bfb-4958-88b6-ee2cb8733c82",
@@ -35,15 +67,39 @@
     "en": "Isekai Tensei Jimukyoku no Cool Joushi ni Koi shimashita!"
    },
    "contentRating": "safe",
-   "score": 0.25040197
+   "score": 0.25495118
   },
   {
-   "id": "cae56054-7a5a-4e84-be95-42da8772e8bb",
+   "id": "b5c6b406-0acc-4926-b56d-867922f49ac0",
    "title": {
-    "en": "Rikan Koukoku Hikikomori Zuichou Hiden - Hibi Koukyuu no Nukedashi, Yuunou Kanri Yattemasu."
+    "en": "Megasameru to Hyakunen-go no Koukyuu deshita: Koukyuu Jijo Kougyoku"
    },
    "contentRating": "safe",
-   "score": 0.23758967
+   "score": 0.24833965
+  },
+  {
+   "id": "4d11af03-7cee-4728-bb14-c60cfbd593b7",
+   "title": {
+    "en": "Koutei Heika no Osewagakari ~Jokan Kurashi ga Shiawase sugite Koukyuu kara Deraremasen~"
+   },
+   "contentRating": "safe",
+   "score": 0.24608481
+  },
+  {
+   "id": "3800c421-1902-4049-8590-1f35824b6960",
+   "title": {
+    "en": "Moumoku no Orihime wa Koukyuu de Koutei to no Koi wo Tsumugu"
+   },
+   "contentRating": "safe",
+   "score": 0.24531342
+  },
+  {
+   "id": "a5981880-c468-4882-ba7e-af3cbd9db7c2",
+   "title": {
+    "en": "Mareiro no Kamen Koukyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.2426262
   },
   {
    "id": "77a92f95-7fe2-45e4-a449-72080ed4e3e3",
@@ -51,18 +107,10 @@
     "en": "Shiganai Tensei Reijou wa Heion ni Kurashitai"
    },
    "contentRating": "safe",
-   "score": 0.2375491,
+   "score": 0.24022543,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "363969c3-d2cf-40d0-8f54-9e3d0fb5fef7",
-   "title": {
-    "en": "Akuyaku Reijou wa Oshi Miboujin"
-   },
-   "contentRating": "safe",
-   "score": 0.23562416
   },
   {
    "id": "638b92a8-b686-4168-9087-973c40eeea01",
@@ -70,84 +118,32 @@
     "en": "A Bellicose Lady Got Reincarnated?!"
    },
    "contentRating": "safe",
-   "score": 0.23442163,
+   "score": 0.2387477,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a3495994-9330-4293-a34f-2730fabd8264",
+   "id": "8f4035d6-bfcf-43e5-a7b1-338638184fc3",
    "title": {
-    "en": "Oya kara Misuteraremashita. Jiriki de Ikinuite Misemasu."
+    "en": "The Inner Palace Tale of a Villainess Noble Girl"
    },
    "contentRating": "safe",
-   "score": 0.23184423
-  },
-  {
-   "id": "5c5d3566-89fb-4447-91d2-506f014b97c3",
-   "title": {
-    "en": "Tensei Mae wa Otoko Datta no de Gyaku Harem wa Okotowari Shite Orimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.2317339,
+   "score": 0.23873293,
    "languages": [
-    "en"
+    "es",
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "3bbbce1b-a2ec-40e2-a929-03970a30b0dd",
+   "id": "3aa8a558-f65e-4bac-9ec3-e23e06daa287",
    "title": {
-    "en": "Koukyuu no Hana wa Shinde Zense wo Omoidashita no Jiyuu ni Ikimasu"
+    "en": "Kyuutei no Majinaishi"
    },
    "contentRating": "safe",
-   "score": 0.2303414
-  },
-  {
-   "id": "01ea7299-112c-41f4-b2a0-6d28c272deef",
-   "title": {
-    "en": "Aku no Kadou wo Ikimashou"
-   },
-   "contentRating": "safe",
-   "score": 0.22905894,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e3768358-2fbf-431d-9c4f-8ef6177051cf",
-   "title": {
-    "en": "Hekigyoku no Dansou Kouryoushi wa, Fushigi na Iyashijutsu de Kyuutei Ikan ni narimashita."
-   },
-   "contentRating": "safe",
-   "score": 0.22610918
-  },
-  {
-   "id": "60fc5cf4-ca5d-4522-b91a-9b8b81d6fd52",
-   "title": {
-    "en": "Lottery Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.2252517,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "47b61340-1d50-48be-8761-994abbd66f31",
-   "title": {
-    "en": "Isekai Maid no Mitsuboshi Gourmet"
-   },
-   "contentRating": "safe",
-   "score": 0.22344589
-  },
-  {
-   "id": "b121e2ee-4484-4613-af59-0015436d18c4",
-   "title": {
-    "en": "Botsuraku Hakushaku Reijou wa Kazoku wo Yashinaitai"
-   },
-   "contentRating": "safe",
-   "score": 0.21981768
+   "score": 0.23513724
   }
  ],
- "updatedAt": "2023-12-10T01:03:35+00:00"
+ "updatedAt": "2023-12-10T18:18:44+00:00"
 }

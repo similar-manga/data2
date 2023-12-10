@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
-   "title": {
-    "en": "E's"
-   },
-   "contentRating": "safe",
-   "score": 0.31439897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
    "title": {
     "en": "Little War"
@@ -30,9 +19,9 @@
    ]
   },
   {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
    "title": {
-    "en": "Chou Kasoku Ningen Leo"
+    "en": "Ryuudan Shounen"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -41,9 +30,9 @@
    ]
   },
   {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
-    "en": "Ryuudan Shounen"
+    "en": "Chou Kasoku Ningen Leo"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -65,12 +54,23 @@
    ]
   },
   {
+   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
+   "title": {
+    "en": "E's"
+   },
+   "contentRating": "safe",
+   "score": 0.27323735,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
    "title": {
     "en": "Blust!"
    },
    "contentRating": "safe",
-   "score": 0.2711802,
+   "score": 0.26987043,
    "languages": [
     "ca",
     "it",
@@ -83,7 +83,7 @@
     "en": "The Scum of the Galaxy"
    },
    "contentRating": "safe",
-   "score": 0.25732693,
+   "score": 0.25686216,
    "languages": [
     "ru",
     "it",
@@ -100,7 +100,7 @@
     "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.24682336,
+   "score": 0.24517758,
    "languages": [
     "en",
     "pt-br",
@@ -108,9 +108,9 @@
    ]
   },
   {
-   "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
+   "id": "c6384450-abc7-46ba-abc9-89805f00d104",
    "title": {
-    "en": "Rico"
+    "en": "Matohazure Q-doubu"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -131,21 +131,50 @@
    ]
   },
   {
-   "id": "e28cdf94-e8c3-41e5-8f9a-19e6983504ac",
+   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
    "title": {
-    "en": "Fantasies"
+    "en": "Monster Cage"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "de"
+    "pl",
+    "bg"
    ]
   },
   {
-   "id": "8e88a56f-6ba0-4fd1-890a-5adbb9c76b09",
+   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
    "title": {
-    "en": "Sasabunechou Konjaku"
+    "en": "Jump Super Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en",
+    "it",
+    "hu"
+   ]
+  },
+  {
+   "id": "23760ab0-68bd-43fb-b811-35b7bf62c257",
+   "title": {
+    "en": "Shikigami"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "dae4fe08-40b7-4f00-9f38-796cc688e82f",
+   "title": {
+    "en": "Dandelion"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -154,9 +183,9 @@
    ]
   },
   {
-   "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
+   "id": "9036b5ac-80d7-47b9-96cb-8f0ae7cfd5b1",
    "title": {
-    "en": "Parasite B"
+    "en": "Composi!"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -165,9 +194,9 @@
    ]
   },
   {
-   "id": "f3bbee75-f39d-4853-a51b-81c55df8cc15",
+   "id": "44faf1a4-48f2-486a-85e7-76d8504cb8fb",
    "title": {
-    "en": "Santa X"
+    "en": "Roll"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -175,33 +204,7 @@
     "it",
     "en"
    ]
-  },
-  {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
-   ]
-  },
-  {
-   "id": "4af866e0-8bab-4170-a775-6696dbb4789c",
-   "title": {
-    "en": "Enma"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:47+00:00"
+ "updatedAt": "2023-12-10T18:34:57+00:00"
 }

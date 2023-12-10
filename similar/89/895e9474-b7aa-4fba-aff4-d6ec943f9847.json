@@ -11,7 +11,7 @@
     "en": "Avion en Papier"
    },
    "contentRating": "safe",
-   "score": 0.4134301,
+   "score": 0.40573388,
    "languages": [
     "fr",
     "pt-br",
@@ -26,7 +26,7 @@
     "en": "The Green Chair"
    },
    "contentRating": "safe",
-   "score": 0.37914702,
+   "score": 0.38322046,
    "languages": [
     "en"
    ]
@@ -37,7 +37,7 @@
     "en": "Under the Bridge"
    },
    "contentRating": "safe",
-   "score": 0.3416343,
+   "score": 0.3438453,
    "languages": [
     "pt-br",
     "en"
@@ -49,7 +49,7 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.32758018,
+   "score": 0.32552922,
    "languages": [
     "it",
     "en"
@@ -61,22 +61,11 @@
     "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.31113216,
+   "score": 0.31578508,
    "languages": [
     "pl",
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
-   "title": {
-    "en": "Nostalgia"
-   },
-   "contentRating": "safe",
-   "score": 0.30776542,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -85,7 +74,18 @@
     "en": "03"
    },
    "contentRating": "safe",
-   "score": 0.306074,
+   "score": 0.30960587,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
+   "title": {
+    "en": "Nostalgia"
+   },
+   "contentRating": "safe",
+   "score": 0.30778775,
    "languages": [
     "en"
    ]
@@ -96,18 +96,7 @@
     "en": "Pieces of You"
    },
    "contentRating": "safe",
-   "score": 0.3060375,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "28d7c180-f25f-4d78-9fa5-fe8f38b869e6",
-   "title": {
-    "en": "Onee-chan no Imouto"
-   },
-   "contentRating": "safe",
-   "score": 0.3038635,
+   "score": 0.3069911,
    "languages": [
     "en"
    ]
@@ -118,22 +107,11 @@
     "en": "What if Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.3024357,
+   "score": 0.30546328,
    "languages": [
     "en",
     "kk",
     "ru"
-   ]
-  },
-  {
-   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
-   "title": {
-    "en": "Yamamoto's Ear Cleaning Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.30177495,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -142,11 +120,22 @@
     "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.30084294,
+   "score": 0.3016026,
    "languages": [
     "en",
     "pt-br",
     "it"
+   ]
+  },
+  {
+   "id": "7b5943fd-d2b4-4d5b-9012-2e38df0cd6a9",
+   "title": {
+    "en": "Yamamoto's Ear Cleaning Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.3014934,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -155,29 +144,18 @@
     "en": "A Compulsory Holiday"
    },
    "contentRating": "safe",
-   "score": 0.29835793,
+   "score": 0.30040115,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a3fab004-1fe5-4cbf-be8f-1a1f538d09d7",
+   "id": "28d7c180-f25f-4d78-9fa5-fe8f38b869e6",
    "title": {
-    "en": "Do Not Fight"
+    "en": "Onee-chan no Imouto"
    },
    "contentRating": "safe",
-   "score": 0.298347,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d4451c52-4c55-48f7-b915-0381a092ad07",
-   "title": {
-    "en": "Namida no Suisou"
-   },
-   "contentRating": "safe",
-   "score": 0.29788074,
+   "score": 0.30037698,
    "languages": [
     "en"
    ]
@@ -188,11 +166,33 @@
     "en": "Potechi"
    },
    "contentRating": "safe",
-   "score": 0.29757074,
+   "score": 0.29968977,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d4451c52-4c55-48f7-b915-0381a092ad07",
+   "title": {
+    "en": "Namida no Suisou"
+   },
+   "contentRating": "safe",
+   "score": 0.29888797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a3fab004-1fe5-4cbf-be8f-1a1f538d09d7",
+   "title": {
+    "en": "Do Not Fight"
+   },
+   "contentRating": "safe",
+   "score": 0.2975023,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:20+00:00"
+ "updatedAt": "2023-12-10T18:23:26+00:00"
 }

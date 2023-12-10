@@ -11,7 +11,7 @@
     "en": "Muramasa"
    },
    "contentRating": "suggestive",
-   "score": 0.25994742,
+   "score": 0.25969586,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Ghost Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.24688466,
+   "score": 0.24535923,
    "languages": [
     "ru",
     "fr",
@@ -37,21 +37,10 @@
     "en": "Futagami Double"
    },
    "contentRating": "suggestive",
-   "score": 0.23925051,
+   "score": 0.23831098,
    "languages": [
     "pl",
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "facf7f6f-fa2d-464d-a543-8888bc47a560",
-   "title": {
-    "en": "Morumo 1/10"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2357847,
-   "languages": [
     "en"
    ]
   },
@@ -61,7 +50,18 @@
     "en": "Momoiro Sabbath"
    },
    "contentRating": "suggestive",
-   "score": 0.23566048,
+   "score": 0.23483582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "facf7f6f-fa2d-464d-a543-8888bc47a560",
+   "title": {
+    "en": "Morumo 1/10"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23439386,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Misumi-san Can’t See Through"
    },
    "contentRating": "suggestive",
-   "score": 0.23334362,
+   "score": 0.23299932,
    "languages": [
     "en",
     "vi"
@@ -84,20 +84,22 @@
     "en": "Imouto LoveRu"
    },
    "contentRating": "suggestive",
-   "score": 0.22874673,
+   "score": 0.22810334,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "f10c0c6d-da82-49cf-930d-f389f2c15546",
+   "id": "4a61b19c-384c-4ca4-80dd-c17549e2aff9",
    "title": {
-    "en": "Bee-Be-Beat It!"
+    "en": "Absolute Duo"
    },
    "contentRating": "suggestive",
-   "score": 0.22350742,
+   "score": 0.22140466,
    "languages": [
+    "pl",
+    "it",
     "en"
    ]
   },
@@ -107,7 +109,7 @@
     "en": "Dandadan"
    },
    "contentRating": "suggestive",
-   "score": 0.22251382,
+   "score": 0.2213502,
    "languages": [
     "pt-br",
     "ru",
@@ -120,52 +122,16 @@
    ]
   },
   {
-   "id": "4a61b19c-384c-4ca4-80dd-c17549e2aff9",
-   "title": {
-    "en": "Absolute Duo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22124338,
-   "languages": [
-    "pl",
-    "it",
-    "en"
-   ]
-  },
-  {
    "id": "2ca258f3-f212-49ff-b66c-8ec6ff41ad87",
    "title": {
     "en": "Kimi wa 008"
    },
    "contentRating": "suggestive",
-   "score": 0.21971095,
+   "score": 0.21836798,
    "languages": [
     "en",
     "pt-br",
     "ru"
-   ]
-  },
-  {
-   "id": "daa23083-4799-4bcf-8687-41c7f909ed19",
-   "title": {
-    "en": "Mushijo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21676143,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "3bc31f03-4938-4fb0-8507-6870c5bc3335",
-   "title": {
-    "en": "Little Busters! Ecstasy"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21597971,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -180,12 +146,46 @@
    ]
   },
   {
+   "id": "f10c0c6d-da82-49cf-930d-f389f2c15546",
+   "title": {
+    "en": "Bee-Be-Beat It!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bc31f03-4938-4fb0-8507-6870c5bc3335",
+   "title": {
+    "en": "Little Busters! Ecstasy"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21597971,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "daa23083-4799-4bcf-8687-41c7f909ed19",
+   "title": {
+    "en": "Mushijo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21559377,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "a2a748cb-b2fc-467e-bfff-2c41cbe84a9d",
    "title": {
     "en": "Devilchi"
    },
    "contentRating": "suggestive",
-   "score": 0.2144564,
+   "score": 0.213059,
    "languages": [
     "pt-br",
     "en",
@@ -200,11 +200,11 @@
     "en": "A Boy Who Was Just a Friend for Ten Years Confessed Love to Me"
    },
    "contentRating": "suggestive",
-   "score": 0.21363401,
+   "score": 0.21229301,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:01+00:00"
+ "updatedAt": "2023-12-10T18:14:37+00:00"
 }

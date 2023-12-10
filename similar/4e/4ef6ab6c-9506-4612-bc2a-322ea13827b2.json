@@ -11,7 +11,7 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.23240529,
+   "score": 0.23196298,
    "languages": [
     "en",
     "ru"
@@ -84,7 +84,7 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.1875107,
+   "score": 0.18809624,
    "languages": [
     "en",
     "pt-br"
@@ -96,7 +96,7 @@
     "en": "A Country Without Humans"
    },
    "contentRating": "safe",
-   "score": 0.18741082,
+   "score": 0.18776649,
    "languages": [
     "en"
    ]
@@ -115,12 +115,42 @@
    ]
   },
   {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en",
+    "tr",
+    "ru",
+    "fa"
+   ]
+  },
+  {
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
+   "title": {
+    "en": "Atom - The Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.1754387,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "ccc12615-1015-4e58-ad75-e05e05d8c784",
    "title": {
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.17500915,
+   "score": 0.17506963,
    "languages": [
     "en"
    ]
@@ -131,7 +161,7 @@
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.17183255,
+   "score": 0.17145178,
    "languages": [
     "en"
    ]
@@ -161,40 +191,19 @@
    ]
   },
   {
-   "id": "398a26c5-04fa-4076-b921-0b0fb44edb10",
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
    "title": {
-    "en": "Gunka no Baltzar"
+    "en": "re CERVIN"
    },
    "contentRating": "safe",
-   "score": 0.1616244,
+   "score": 0.16318543,
    "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
-   "title": {
-    "en": "Ultraman (SHIMIZU Eiichi)"
-   },
-   "contentRating": "safe",
-   "score": 0.16045502,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
-   "title": {
-    "en": "The Far East Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.1593638,
-   "languages": [
-    "en"
+    "pt-br",
+    "fr",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:51+00:00"
+ "updatedAt": "2023-12-10T18:16:50+00:00"
 }

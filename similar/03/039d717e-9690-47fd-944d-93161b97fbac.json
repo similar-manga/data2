@@ -11,18 +11,7 @@
     "en": "Gone with the Wind"
    },
    "contentRating": "suggestive",
-   "score": 0.26515567,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59c546fb-2dff-4b3c-8859-9a0b55066830",
-   "title": {
-    "en": "Gunjou Other Half"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23736377,
+   "score": 0.26499057,
    "languages": [
     "en"
    ]
@@ -39,9 +28,9 @@
    ]
   },
   {
-   "id": "5d5ab0e1-2f12-4cd3-8df9-89a074fc6a6e",
+   "id": "b48fdf46-dbdb-4941-bf77-5958e0d5b5a2",
    "title": {
-    "en": "Boku Dake o Mite Kure"
+    "en": "Kimi to Janakya Koi mo Dekinai"
    },
    "contentRating": "suggestive",
    "score": 0.23736377,
@@ -50,9 +39,20 @@
    ]
   },
   {
-   "id": "b48fdf46-dbdb-4941-bf77-5958e0d5b5a2",
+   "id": "59c546fb-2dff-4b3c-8859-9a0b55066830",
    "title": {
-    "en": "Kimi to Janakya Koi mo Dekinai"
+    "en": "Gunjou Other Half"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23736377,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5d5ab0e1-2f12-4cd3-8df9-89a074fc6a6e",
+   "title": {
+    "en": "Boku Dake o Mite Kure"
    },
    "contentRating": "suggestive",
    "score": 0.23736377,
@@ -77,29 +77,7 @@
     "en": "Divine Love, Earthly Passion"
    },
    "contentRating": "suggestive",
-   "score": 0.22865249,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4a74e62-30c7-48b2-8dad-e18e1100efef",
-   "title": {
-    "en": "Dousei Ai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21230459,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a98559ca-beab-4ff8-b259-b69d8f0a328e",
-   "title": {
-    "en": "Saikyou Kyoushi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21230459,
+   "score": 0.22704129,
    "languages": [
     "en"
    ]
@@ -128,23 +106,23 @@
    ]
   },
   {
-   "id": "4067d8f8-8b18-4a1e-a39b-4be66ae6e6cc",
+   "id": "a98559ca-beab-4ff8-b259-b69d8f0a328e",
    "title": {
-    "en": "Lethal Dose of Love"
+    "en": "Saikyou Kyoushi"
    },
    "contentRating": "suggestive",
-   "score": 0.21013111,
+   "score": 0.21230459,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "07dba9b7-843f-423a-8b6b-78e1b27eaed4",
+   "id": "b4a74e62-30c7-48b2-8dad-e18e1100efef",
    "title": {
-    "en": "Otome Yankee wa Unmei no Hito wo Matsu."
+    "en": "Dousei Ai"
    },
    "contentRating": "suggestive",
-   "score": 0.21013111,
+   "score": 0.21230459,
    "languages": [
     "en"
    ]
@@ -159,6 +137,28 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "07dba9b7-843f-423a-8b6b-78e1b27eaed4",
+   "title": {
+    "en": "Otome Yankee wa Unmei no Hito wo Matsu."
+   },
+   "contentRating": "suggestive",
+   "score": 0.21013111,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4067d8f8-8b18-4a1e-a39b-4be66ae6e6cc",
+   "title": {
+    "en": "Lethal Dose of Love"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21013111,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -184,5 +184,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:54+00:00"
+ "updatedAt": "2023-12-10T18:08:44+00:00"
 }

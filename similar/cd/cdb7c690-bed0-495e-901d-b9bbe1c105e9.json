@@ -11,7 +11,7 @@
     "en": "Love Yume Mix"
    },
    "contentRating": "suggestive",
-   "score": 0.33144572,
+   "score": 0.33014607,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Ghost Writer"
    },
    "contentRating": "suggestive",
-   "score": 0.30552584,
+   "score": 0.30441105,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "I Am Worried That My Childhood Friend Is Too Cute!"
    },
    "contentRating": "suggestive",
-   "score": 0.29761413,
+   "score": 0.29533973,
    "languages": [
     "en",
     "id",
@@ -47,7 +47,7 @@
     "en": "Ladies versus Butlers!"
    },
    "contentRating": "suggestive",
-   "score": 0.26871657,
+   "score": 0.27388093,
    "languages": [
     "pt-br",
     "en"
@@ -59,30 +59,37 @@
     "en": "Otoko o Misete yo Kurata-kun!"
    },
    "contentRating": "suggestive",
-   "score": 0.26132575,
+   "score": 0.2607887,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "93a6e9e7-b0c9-4e60-b6c3-7806113405dd",
+   "id": "fc78e153-e70a-4179-9f35-ff159643b6ac",
    "title": {
-    "en": "Boku wa Ayashii Kimi no Mono"
+    "en": "Senren * Banka"
    },
    "contentRating": "suggestive",
-   "score": 0.25254577,
+   "score": 0.24692619,
    "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "id",
-    "ru"
+    "en"
    ]
   },
   {
    "id": "5328b7f4-0698-4cec-94a4-a558ec5dedb7",
    "title": {
     "en": "Cos-Chu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d2ee4f2-a511-4c40-ae2a-5787552d1fa3",
+   "title": {
+    "en": "Sokoni Osuwari!"
    },
    "contentRating": "suggestive",
    "score": 0.24692619,
@@ -103,28 +110,6 @@
    ]
   },
   {
-   "id": "fc78e153-e70a-4179-9f35-ff159643b6ac",
-   "title": {
-    "en": "Senren * Banka"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3d2ee4f2-a511-4c40-ae2a-5787552d1fa3",
-   "title": {
-    "en": "Sokoni Osuwari!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7fa4e324-3077-41fe-9fb8-a8e86dabc2e1",
    "title": {
     "en": "Imokami-sama"
@@ -133,6 +118,21 @@
    "score": 0.24692619,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "93a6e9e7-b0c9-4e60-b6c3-7806113405dd",
+   "title": {
+    "en": "Boku wa Ayashii Kimi no Mono"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24174003,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "id",
+    "ru"
    ]
   },
   {
@@ -152,7 +152,7 @@
     "en": "Nana Shimazaki@Looking for Work"
    },
    "contentRating": "suggestive",
-   "score": 0.23245822,
+   "score": 0.23213723,
    "languages": [
     "pt-br",
     "en",
@@ -166,7 +166,7 @@
     "en": "Onee-chan wa Game o Suruto Hito ga Kawaru Onee-chan"
    },
    "contentRating": "suggestive",
-   "score": 0.23163566,
+   "score": 0.23115237,
    "languages": [
     "pt-br",
     "en",
@@ -183,7 +183,7 @@
     "en": "Hijiri-kun wa Kiyoku Ikitai"
    },
    "contentRating": "suggestive",
-   "score": 0.22931427,
+   "score": 0.2287294,
    "languages": [
     "es-la",
     "id",
@@ -196,7 +196,7 @@
     "en": "Kanojo Shoukan Shimashita!?"
    },
    "contentRating": "suggestive",
-   "score": 0.22893254,
+   "score": 0.22858958,
    "languages": [
     "fr",
     "es-la",
@@ -206,5 +206,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:15+00:00"
+ "updatedAt": "2023-12-10T18:31:09+00:00"
 }

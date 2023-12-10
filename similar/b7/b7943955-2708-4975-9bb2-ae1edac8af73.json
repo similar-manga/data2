@@ -11,7 +11,7 @@
     "en": "Gekisenku Tsun Puni Shokudou"
    },
    "contentRating": "safe",
-   "score": 0.3629019,
+   "score": 0.36372936,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tiger \u0026 Bunny 2 - No one is perfect."
    },
    "contentRating": "safe",
-   "score": 0.2639728,
+   "score": 0.2606365,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Zettai ni Maite wa Ikenai Rozen Maiden"
    },
    "contentRating": "safe",
-   "score": 0.25718963,
+   "score": 0.25515473,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Murikuri"
    },
    "contentRating": "safe",
-   "score": 0.25272727,
+   "score": 0.25068668,
    "languages": [
     "pl",
     "en",
@@ -76,18 +76,6 @@
    ]
   },
   {
-   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
-   "title": {
-    "en": "Crown Gear"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
    "id": "cf5033f2-0a27-45be-95da-876971af682f",
    "title": {
     "en": "Sitting Down"
@@ -99,28 +87,15 @@
    ]
   },
   {
-   "id": "c2856898-2989-4f05-95f3-3dc100d641ec",
+   "id": "b4ddea18-0598-4d3f-b05f-63b8e891965f",
    "title": {
-    "en": "Prisoner"
+    "en": "Crown Gear"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
    "languages": [
     "en",
-    "pt-br",
-    "fr",
-    "vi"
-   ]
-  },
-  {
-   "id": "5a7520ae-fad6-487c-ad87-350ba0d23604",
-   "title": {
-    "en": "Nyanderful"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
+    "hu"
    ]
   },
   {
@@ -158,6 +133,43 @@
    ]
   },
   {
+   "id": "5a7520ae-fad6-487c-ad87-350ba0d23604",
+   "title": {
+    "en": "Nyanderful"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "92001131-f414-4e3d-ad78-cc85d467265d",
+   "title": {
+    "en": "Macho ★ Max"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "c2856898-2989-4f05-95f3-3dc100d641ec",
+   "title": {
+    "en": "Prisoner"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "vi"
+   ]
+  },
+  {
    "id": "c0f3cf5b-97d2-471c-a7e8-9dd37004ac4f",
    "title": {
     "en": "Minna ni Atte Boku ni Nai."
@@ -167,20 +179,6 @@
    "languages": [
     "fr",
     "ru"
-   ]
-  },
-  {
-   "id": "87e9316d-0a51-4bd8-892c-812fd2f06eee",
-   "title": {
-    "en": "Desk War"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "tr",
-    "en",
-    "es-la",
-    "pt-br"
    ]
   },
   {
@@ -198,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:20+00:00"
+ "updatedAt": "2023-12-10T18:28:53+00:00"
 }

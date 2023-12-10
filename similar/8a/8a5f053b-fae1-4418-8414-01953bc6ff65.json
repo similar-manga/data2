@@ -6,25 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
+   "id": "b5c843ee-ae77-41ea-9de7-985b1740bc9f",
    "title": {
-    "en": "Sweet Spot"
-   },
-   "contentRating": "safe",
-   "score": 0.28648734,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
-   "title": {
-    "en": "Sensei, Ote o Douzo?"
+    "en": "Furachi na Yuuwaku"
    },
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -52,15 +42,25 @@
    ]
   },
   {
-   "id": "b5c843ee-ae77-41ea-9de7-985b1740bc9f",
+   "id": "fa28e1dc-a886-49aa-9c32-f0d76221bd85",
    "title": {
-    "en": "Furachi na Yuuwaku"
+    "en": "Sensei, Ote o Douzo?"
    },
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
+   ]
+  },
+  {
+   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
+   "title": {
+    "en": "Sweet Spot"
+   },
+   "contentRating": "safe",
+   "score": 0.28323278,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -69,7 +69,18 @@
     "en": "Catch! Love"
    },
    "contentRating": "safe",
-   "score": 0.27643132,
+   "score": 0.27506623,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf9366fe-afb0-44b2-bf9e-cb050a3fef77",
+   "title": {
+    "en": "Datte Ai wo Shinjiteru"
+   },
+   "contentRating": "safe",
+   "score": 0.26502684,
    "languages": [
     "en"
    ]
@@ -80,21 +91,68 @@
     "en": "Wisteria-Colored Sky Apartment"
    },
    "contentRating": "safe",
-   "score": 0.26470703,
+   "score": 0.26073822,
    "languages": [
     "tr",
     "en"
    ]
   },
   {
-   "id": "bf9366fe-afb0-44b2-bf9e-cb050a3fef77",
+   "id": "fa05d7a1-27dd-46e8-9f58-63668955d7f6",
    "title": {
-    "en": "Datte Ai wo Shinjiteru"
+    "en": "Tamaki and Amane"
    },
    "contentRating": "safe",
-   "score": 0.2641787,
+   "score": 0.25872764,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7242acf0-248f-4dfd-85cb-0910f9abbba4",
+   "title": {
+    "en": "Misaki-kun no Bukiyou na Dekinai"
+   },
+   "contentRating": "safe",
+   "score": 0.25495318,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "e6b98b66-ff0b-46c1-95c7-fdda5a3ea2ca",
+   "title": {
+    "en": "Love Spice"
+   },
+   "contentRating": "safe",
+   "score": 0.25355315,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ae531f1b-d281-4c0b-9a5b-bdb64707d7fa",
+   "title": {
+    "en": "Koi wo Futasaji"
+   },
+   "contentRating": "safe",
+   "score": 0.24917896,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
+   "title": {
+    "en": "Gakusou"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "fr",
+    "ar"
    ]
   },
   {
@@ -123,76 +181,16 @@
    ]
   },
   {
-   "id": "bd6628bd-3c06-46b1-a71d-3040bd3e25fd",
+   "id": "11b451fd-e0d7-4fbe-9466-60dd4b8fcdbd",
    "title": {
-    "en": "Gakusou"
+    "en": "Ten Thousand Kinds of Love"
    },
    "contentRating": "safe",
-   "score": 0.24692619,
+   "score": 0.24585198,
    "languages": [
-    "en",
-    "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "4207cdff-c8cd-4b0e-842f-58b7e34357e2",
-   "title": {
-    "en": "Chibisan Date"
-   },
-   "contentRating": "safe",
-   "score": 0.24548976,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "53236043-6250-45ad-b6c1-852a85fdf4f4",
-   "title": {
-    "en": "Momokan"
-   },
-   "contentRating": "safe",
-   "score": 0.24223372,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bfd9fb29-6843-4bee-b096-7be221d12a52",
-   "title": {
-    "en": "A Dream Woven With a Sheik"
-   },
-   "contentRating": "safe",
-   "score": 0.23920584,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd27c4db-67e3-4786-97de-ca934eb529e1",
-   "title": {
-    "en": "I Can't Throw Away Books"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "355aa5b3-b805-4073-8292-7de639b9145a",
-   "title": {
-    "en": "The Lady of Udon"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "es-la",
-    "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:22+00:00"
+ "updatedAt": "2023-12-10T18:23:33+00:00"
 }

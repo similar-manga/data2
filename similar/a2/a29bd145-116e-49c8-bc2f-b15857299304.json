@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6aa049b7-a8b8-4b42-a831-a3e8267b39ad",
+   "title": {
+    "en": "Legend of the Galactic Heroes - Portraits of Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.32202837,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
    "title": {
     "en": "The Planet of Sutakola"
    },
    "contentRating": "safe",
-   "score": 0.28858763,
+   "score": 0.28923318,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Crest of the Stars"
    },
    "contentRating": "safe",
-   "score": 0.25208315,
+   "score": 0.25085863,
    "languages": [
     "ru",
     "en"
@@ -34,7 +45,7 @@
     "ja": "Class Saiyasune de Urareta Ore wa, Jitsu wa Saikyou Parameter"
    },
    "contentRating": "safe",
-   "score": 0.22599973,
+   "score": 0.2252839,
    "languages": [
     "en",
     "id",
@@ -47,31 +58,45 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.21814673,
+   "score": 0.21779127,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3ce76303-7235-4097-a94f-6712c1ca184f",
+   "id": "47859811-7fd7-488a-963d-bd10c081142e",
    "title": {
-    "en": "Mobile Suit Gundam: One Day - H.D.A."
+    "en": "Shiki"
    },
    "contentRating": "safe",
-   "score": 0.19611615,
+   "score": 0.2147975,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
+   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
    "title": {
-    "en": "Godzilla vs. Destroyah Red"
+    "en": "TC-225"
    },
    "contentRating": "safe",
-   "score": 0.19611615,
+   "score": 0.2104468,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9f682ff4-8cc1-4bf6-98f2-4c1cc6477e97",
+   "title": {
+    "en": "Kage no Eiyuu no Nichijou-tan"
+   },
+   "contentRating": "safe",
+   "score": 0.19949166,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -80,11 +105,22 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.19581638,
+   "score": 0.19635133,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.1959126,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -93,7 +129,7 @@
     "en": "Adou"
    },
    "contentRating": "safe",
-   "score": 0.19499381,
+   "score": 0.19461165,
    "languages": [
     "ru",
     "en",
@@ -102,15 +138,14 @@
    ]
   },
   {
-   "id": "de2338e5-1240-4fc2-8d2e-23c45e67d78d",
+   "id": "5e8b3e5a-9e19-47e7-8921-0bfe5fdc7f46",
    "title": {
-    "en": "Snowball Earth"
+    "en": "Punishment for Brave Hero-9004 Corps Prison Record"
    },
    "contentRating": "safe",
-   "score": 0.19152771,
+   "score": 0.19272454,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -119,7 +154,18 @@
     "en": "Sora ni Mairu"
    },
    "contentRating": "safe",
-   "score": 0.18987903,
+   "score": 0.19074932,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1daf1350-4b1f-4e33-bf1d-996f4089e4a9",
+   "title": {
+    "en": "Tsuihousareta Meika no Chounan – Baka ni Sareta Hazure Skill de Saikyou e to Nobori Tsumeru"
+   },
+   "contentRating": "safe",
+   "score": 0.19060889,
    "languages": [
     "en"
    ]
@@ -130,7 +176,7 @@
     "en": "Sakasama no Babel"
    },
    "contentRating": "safe",
-   "score": 0.18913443,
+   "score": 0.18866055,
    "languages": [
     "en",
     "es"
@@ -142,62 +188,11 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.18846104,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e54c384f-5163-4fdb-9909-968b8d0bd86a",
-   "title": {
-    "en": "Kizoku Tensei ~Megumareta Umare kara Saikyou no Chikara wo Eru~"
-   },
-   "contentRating": "safe",
-   "score": 0.18834609,
-   "languages": [
-    "en",
-    "fr",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "81e9cf75-908b-489e-906d-c7f001673274",
-   "title": {
-    "en": "Fire Emblem - Genealogy of the Holy War (OOSAWA Mitsuki)"
-   },
-   "contentRating": "safe",
-   "score": 0.1878925,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
-   "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.18401763,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8890b470-44c8-41ce-b514-6182bf363c36",
-   "title": {
-    "en": "Ghost in the Shell: Global Neural Network"
-   },
-   "contentRating": "safe",
-   "score": 0.18370926,
+   "score": 0.1884292,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:28+00:00"
+ "updatedAt": "2023-12-10T18:26:27+00:00"
 }

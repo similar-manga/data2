@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dd2f0704-ffa2-4155-a526-9ce2a0d4361a",
+   "title": {
+    "en": "Pochi"
+   },
+   "contentRating": "safe",
+   "score": 0.3562335,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1bb5d4a2-331a-41eb-8671-b802eff3808f",
    "title": {
     "en": "Usotsuki na Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.33710155,
+   "score": 0.3366356,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.31300908,
+   "score": 0.31162778,
    "languages": [
     "en",
     "bg"
@@ -34,7 +45,7 @@
     "en": "Tsuyogari"
    },
    "contentRating": "safe",
-   "score": 0.3119049,
+   "score": 0.3102491,
    "languages": [
     "en",
     "pl"
@@ -46,7 +57,7 @@
     "en": "Everybody Loves Somebody"
    },
    "contentRating": "safe",
-   "score": 0.30994943,
+   "score": 0.3090202,
    "languages": [
     "it",
     "en"
@@ -58,7 +69,7 @@
     "en": "Kimi to Kiss Shite Sono Ato de"
    },
    "contentRating": "safe",
-   "score": 0.3062768,
+   "score": 0.30504677,
    "languages": [
     "it"
    ]
@@ -69,7 +80,7 @@
     "en": "Happy End no Uragawa"
    },
    "contentRating": "safe",
-   "score": 0.30206555,
+   "score": 0.30199206,
    "languages": [
     "pl",
     "en"
@@ -81,7 +92,7 @@
     "en": "Bara to Zirconia"
    },
    "contentRating": "safe",
-   "score": 0.3008889,
+   "score": 0.30027202,
    "languages": [
     "en"
    ]
@@ -92,7 +103,7 @@
     "en": "Merry Go Round In Wonderland"
    },
    "contentRating": "safe",
-   "score": 0.30050778,
+   "score": 0.2998447,
    "languages": [
     "en"
    ]
@@ -103,9 +114,20 @@
     "en": "Koisuru Futari no Mitsu na Yarikata"
    },
    "contentRating": "safe",
-   "score": 0.29675707,
+   "score": 0.2966887,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0c912e1a-3dad-41a7-a401-517840c6b669",
+   "title": {
+    "en": "Ame Nochi Balloon"
+   },
+   "contentRating": "safe",
+   "score": 0.29538316,
+   "languages": [
+    "it"
    ]
   },
   {
@@ -114,23 +136,11 @@
     "en": "black peach flower"
    },
    "contentRating": "safe",
-   "score": 0.29294395,
+   "score": 0.29113698,
    "languages": [
     "en",
     "fr",
     "pl"
-   ]
-  },
-  {
-   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
-   "title": {
-    "en": "Kimi Hayate"
-   },
-   "contentRating": "safe",
-   "score": 0.2893141,
-   "languages": [
-    "es",
-    "en"
    ]
   },
   {
@@ -139,8 +149,20 @@
     "en": "Usotsuki Chocolate Syrup"
    },
    "contentRating": "safe",
-   "score": 0.2886549,
+   "score": 0.28879005,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1192e8cb-bfa2-48db-b5cd-caaee9e0398a",
+   "title": {
+    "en": "Kimi Hayate"
+   },
+   "contentRating": "safe",
+   "score": 0.2867815,
+   "languages": [
+    "es",
     "en"
    ]
   },
@@ -157,31 +179,6 @@
    ]
   },
   {
-   "id": "71bf78cf-cc88-4766-a0d5-dfb488438a79",
-   "title": {
-    "en": "Ningyo ga Fuchi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "hu",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "ce717ac6-5417-4911-b757-87f62e197ea0",
-   "title": {
-    "en": "Ouji to Hime to Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2bda909e-35d3-46f5-99a8-0b671736f598",
    "title": {
     "en": "Hadaka no Ouji-sama"
@@ -194,5 +191,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:02+00:00"
+ "updatedAt": "2023-12-10T18:19:58+00:00"
 }

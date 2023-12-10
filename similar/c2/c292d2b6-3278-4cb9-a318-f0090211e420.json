@@ -11,7 +11,7 @@
     "en": "A Deal With The Devil"
    },
    "contentRating": "safe",
-   "score": 0.36084867,
+   "score": 0.35366833,
    "languages": [
     "en",
     "ro",
@@ -27,21 +27,10 @@
     "en": "The Devil Grants a Girl's Last Wish"
    },
    "contentRating": "safe",
-   "score": 0.3137069,
+   "score": 0.31068572,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "4bf42f80-6ae9-426a-ae4c-9a8df2edbc2a",
-   "title": {
-    "en": "Nostalgic Skirt ~Memory~"
-   },
-   "contentRating": "safe",
-   "score": 0.2863673,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -50,11 +39,34 @@
     "en": "Ponkotsu no Tomodachi"
    },
    "contentRating": "safe",
-   "score": 0.2785391,
+   "score": 0.3089167,
    "languages": [
     "fr",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "4bf42f80-6ae9-426a-ae4c-9a8df2edbc2a",
+   "title": {
+    "en": "Nostalgic Skirt ~Memory~"
+   },
+   "contentRating": "safe",
+   "score": 0.28662887,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
+   "title": {
+    "en": "Sayonara Miniskirt"
+   },
+   "contentRating": "safe",
+   "score": 0.26774076,
+   "languages": [
+    "id",
+    "en"
    ]
   },
   {
@@ -63,7 +75,7 @@
     "en": "Child Hazard"
    },
    "contentRating": "safe",
-   "score": 0.2619387,
+   "score": 0.26128608,
    "languages": [
     "en",
     "fr"
@@ -75,7 +87,7 @@
     "en": "Akuma wa Sasayaku"
    },
    "contentRating": "safe",
-   "score": 0.26007763,
+   "score": 0.2565162,
    "languages": [
     "fr",
     "en",
@@ -89,7 +101,7 @@
     "en": "Ai no Donor"
    },
    "contentRating": "safe",
-   "score": 0.25251946,
+   "score": 0.2522874,
    "languages": [
     "tr",
     "ca",
@@ -108,34 +120,34 @@
     "en": "My Father 68y/o, My Mother 64y/o, Me 24y/o"
    },
    "contentRating": "safe",
-   "score": 0.25131646,
+   "score": 0.25019217,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "937a78f6-ee6f-4706-b189-eaa0abc6a7e2",
+   "id": "697e0731-b28d-4a01-83a3-43bae426212b",
    "title": {
-    "en": "A Hero With a Dissociative Disorder"
+    "en": "The Worthless Girl Who Wanted to Go to Heaven"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.249924,
    "languages": [
-    "en",
-    "es-la",
-    "id"
+    "de",
+    "fr",
+    "pl",
+    "en"
    ]
   },
   {
-   "id": "ac822e97-cb48-4c1c-b822-b4da0f4661c3",
+   "id": "0a26572d-c3c7-4474-87d0-6db0cc904b8d",
    "title": {
-    "en": "The Story of Charging from the Boy Seated Next to Me"
+    "en": "A Story about a Boy Who Wants Valentine’s Day Chocolate"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "fr",
     "en"
    ]
   },
@@ -143,30 +155,6 @@
    "id": "3b58e9a9-ad1b-49cb-a21b-ba4e5cb20402",
    "title": {
     "en": "Expressionless Kashiwada-san and Emotional Oota-kun - Pocky Day"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fedb51f4-c8f5-41ad-833f-3b267315e1c3",
-   "title": {
-    "en": "Letter"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "vi",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "57446b2e-01f2-4f72-bc5d-7475f14b9f59",
-   "title": {
-    "en": "Overly Strict Student Guidance"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -198,16 +186,31 @@
    ]
   },
   {
-   "id": "0a26572d-c3c7-4474-87d0-6db0cc904b8d",
+   "id": "fedb51f4-c8f5-41ad-833f-3b267315e1c3",
    "title": {
-    "en": "A Story about a Boy Who Wants Valentine’s Day Chocolate"
+    "en": "Letter"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "vi",
+    "id",
     "en"
+   ]
+  },
+  {
+   "id": "937a78f6-ee6f-4706-b189-eaa0abc6a7e2",
+   "title": {
+    "en": "A Hero With a Dissociative Disorder"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:47+00:00"
+ "updatedAt": "2023-12-10T18:30:00+00:00"
 }

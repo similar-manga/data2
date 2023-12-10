@@ -11,7 +11,7 @@
     "en": "Last One"
    },
    "contentRating": "safe",
-   "score": 0.33460087,
+   "score": 0.33252496,
    "languages": [
     "pt-br",
     "fr",
@@ -24,7 +24,7 @@
     "en": "The Traveler"
    },
    "contentRating": "safe",
-   "score": 0.28091025,
+   "score": 0.27585635,
    "languages": [
     "it",
     "de",
@@ -62,7 +62,7 @@
     "en": "#Wasurete Shimau Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.24105735,
+   "score": 0.24186118,
    "languages": [
     "en"
    ]
@@ -73,7 +73,7 @@
     "en": "Green"
    },
    "contentRating": "safe",
-   "score": 0.23549455,
+   "score": 0.2352343,
    "languages": [
     "ar",
     "it",
@@ -87,7 +87,7 @@
     "en": "Kiyomizu Iroha Doesn't Know Love"
    },
    "contentRating": "safe",
-   "score": 0.22883818,
+   "score": 0.22852883,
    "languages": [
     "en"
    ]
@@ -104,32 +104,6 @@
     "pt-br",
     "es-la",
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
-   "title": {
-    "en": "Owatte miru no mo Warukunai"
-   },
-   "contentRating": "safe",
-   "score": 0.21926412,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.21921697,
-   "languages": [
-    "pl",
-    "it",
-    "pt-br",
     "en"
    ]
   },
@@ -173,15 +147,41 @@
    ]
   },
   {
-   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
+   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
    "title": {
-    "en": "Kamisama to"
+    "en": "Owatte miru no mo Warukunai"
    },
    "contentRating": "safe",
-   "score": 0.21140657,
+   "score": 0.21874338,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
+   "title": {
+    "en": "Iris Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.21834116,
+   "languages": [
+    "pl",
+    "it",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "7f92852b-92a0-49b6-b26c-9526d287bd71",
+   "title": {
+    "en": "Yumenashi-sensei no Shinroshidou"
+   },
+   "contentRating": "safe",
+   "score": 0.2156347,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -197,16 +197,17 @@
    ]
   },
   {
-   "id": "8196c5b1-bc42-4cd5-b7ff-91bbcff78056",
+   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
    "title": {
-    "en": "Sorairo Square."
+    "en": "Kamisama to"
    },
    "contentRating": "safe",
-   "score": 0.21017186,
+   "score": 0.21140657,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:46+00:00"
+ "updatedAt": "2023-12-10T18:24:34+00:00"
 }

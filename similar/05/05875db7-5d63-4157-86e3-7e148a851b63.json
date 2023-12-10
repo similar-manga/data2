@@ -11,7 +11,7 @@
     "en": "Mirai Nikki Redial"
    },
    "contentRating": "safe",
-   "score": 0.25087062,
+   "score": 0.24950339,
    "languages": [
     "en"
    ]
@@ -28,6 +28,21 @@
    ]
   },
   {
+   "id": "8311ab2d-f034-4e7a-8635-4dce27bf6027",
+   "title": {
+    "en": "Rurouni Kenshin: Hokkaido-hen"
+   },
+   "contentRating": "safe",
+   "score": 0.20586023,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "es"
+   ]
+  },
+  {
    "id": "21b18592-8925-466b-b909-071b52676a38",
    "title": {
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
@@ -39,9 +54,9 @@
    ]
   },
   {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
+   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
    "title": {
-    "en": "2 x Bone"
+    "en": "Warabe no Kusa"
    },
    "contentRating": "safe",
    "score": 0.20161438,
@@ -50,9 +65,31 @@
    ]
   },
   {
-   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
+   "id": "498e95c9-292f-4c19-994d-7281b2253a02",
    "title": {
-    "en": "Warabe no Kusa"
+    "en": "Ivory Dark"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "22cc151f-63f7-4342-b224-1223f43007ec",
+   "title": {
+    "en": "Kurenai no Senkan"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
+   "title": {
+    "en": "2 x Bone"
    },
    "contentRating": "safe",
    "score": 0.20161438,
@@ -83,15 +120,18 @@
    ]
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Dragon and Chameleon"
    },
    "contentRating": "safe",
-   "score": 0.18792383,
+   "score": 0.19245009,
    "languages": [
+    "vi",
     "en",
-    "pl"
+    "ru",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -106,23 +146,24 @@
    ]
   },
   {
+   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "title": {
+    "en": "Online - The Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.18792383,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "18fd28b5-5187-47aa-8bb7-9da42eeaf8bd",
    "title": {
     "en": "Uso to Makoto"
    },
    "contentRating": "safe",
-   "score": 0.18621455,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4e850d21-f74a-4c6b-a07e-ffbc1d51dba9",
-   "title": {
-    "en": "Rurouni Kenshin - Tokuhitsuban"
-   },
-   "contentRating": "safe",
-   "score": 0.18231879,
+   "score": 0.18466051,
    "languages": [
     "en"
    ]
@@ -139,50 +180,17 @@
    ]
   },
   {
-   "id": "84a9b1ee-26ac-48df-9d9c-532b140a0324",
+   "id": "565f9056-f7aa-419a-9f73-db0a8f057339",
    "title": {
-    "en": "GARDEN"
+    "en": "Kavukizumu"
    },
    "contentRating": "safe",
    "score": 0.17460318,
    "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
-   "title": {
-    "en": "Yuuyami Tokkoutai"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ac57875-68fc-4666-927c-9a2e7f34cf1f",
-   "title": {
-    "en": "Peace Maker Kurogane"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a0a41e87-3cc0-4d49-9bad-848030a53dcc",
-   "title": {
-    "en": "Yoru Naku Suzume"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "en"
+    "en",
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:58+00:00"
+ "updatedAt": "2023-12-10T18:08:56+00:00"
 }

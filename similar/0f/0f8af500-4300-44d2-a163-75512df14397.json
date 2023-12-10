@@ -11,7 +11,7 @@
     "en": "Orthoros"
    },
    "contentRating": "safe",
-   "score": 0.30841792,
+   "score": 0.30297405,
    "languages": [
     "ru",
     "hu",
@@ -55,14 +55,15 @@
    ]
   },
   {
-   "id": "59610b00-6072-4f77-ad80-c6989f7a2bee",
+   "id": "67e38fec-4bf7-4838-8aa3-66961a34389d",
    "title": {
-    "en": "Magical Hero Hour"
+    "en": "Rojiura no Mahou Tantei Jimusho"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -77,113 +78,83 @@
    ]
   },
   {
+   "id": "59610b00-6072-4f77-ad80-c6989f7a2bee",
+   "title": {
+    "en": "Magical Hero Hour"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
+   "title": {
+    "en": "Surviving Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.2657338,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eac266c0-2b9b-48fb-9f12-71a8fd71a761",
+   "title": {
+    "en": "Crash Bandicoot"
+   },
+   "contentRating": "safe",
+   "score": 0.26200166,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8bae52fd-be5e-4157-844a-77a0f1bc63f4",
    "title": {
     "en": "Shimatsuya K"
    },
    "contentRating": "safe",
-   "score": 0.26389593,
+   "score": 0.26114544,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4af866e0-8bab-4170-a775-6696dbb4789c",
+   "id": "313aa957-69c2-4102-8bd2-006398b91845",
    "title": {
-    "en": "Enma"
+    "en": "Changan Fantasy"
    },
    "contentRating": "safe",
-   "score": 0.25698227,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.25651067,
+   "score": 0.25938305,
    "languages": [
     "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
+    "id"
    ]
   },
   {
-   "id": "8febc255-5147-4d52-80b0-997544bae506",
+   "id": "a37a44f2-637f-45aa-a4ac-368bc3271a01",
    "title": {
-    "en": "CHAIN"
-   },
-   "contentRating": "safe",
-   "score": 0.25572458,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "41382cf2-feaf-4fa9-83a0-97f173ba2419",
-   "title": {
-    "en": "The God Who Can't Clean Up"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "943b8809-f4d6-4fdb-8530-41064991d0e2",
-   "title": {
-    "en": "Natomatos"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "ru",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "e30589cb-ff3b-4129-b175-ba163e3694ce",
-   "title": {
-    "en": "Black Clover (One-shot)"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "uk"
-   ]
-  },
-  {
-   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
-   "title": {
-    "en": "Naruto: Road to Ninja"
+    "en": "Starbiter Satsuki"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
     "en",
-    "ru",
-    "ro"
+    "pl"
    ]
   },
   {
-   "id": "59efdb98-4c3c-491c-91d8-ed0e0a69b522",
+   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
    "title": {
-    "en": "Boss Battle"
+    "en": "Rad and Rinpu"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "it",
+    "pt-br",
+    "pl",
     "en"
    ]
   },
@@ -200,7 +171,33 @@
     "pt-br",
     "pl"
    ]
+  },
+  {
+   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
+   "title": {
+    "en": "Naruto: Road to Ninja"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "ru",
+    "ro"
+   ]
+  },
+  {
+   "id": "7811e3db-e509-40a1-9c88-2031179b9d6a",
+   "title": {
+    "en": "ANIMORED!!"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:21+00:00"
+ "updatedAt": "2023-12-10T18:10:00+00:00"
 }

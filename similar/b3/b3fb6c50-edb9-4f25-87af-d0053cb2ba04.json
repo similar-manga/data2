@@ -11,7 +11,7 @@
     "en": "Haiiro no Umi"
    },
    "contentRating": "safe",
-   "score": 0.27194497,
+   "score": 0.2721524,
    "languages": [
     "en",
     "tr"
@@ -23,7 +23,7 @@
     "en": "Tonight The Night"
    },
    "contentRating": "safe",
-   "score": 0.27059957,
+   "score": 0.26760057,
    "languages": [
     "it",
     "en",
@@ -36,7 +36,7 @@
     "en": "Hanazakari no Niwa"
    },
    "contentRating": "safe",
-   "score": 0.26234713,
+   "score": 0.26246956,
    "languages": [
     "tr"
    ]
@@ -47,7 +47,7 @@
     "en": "Hitodenashi to Koi"
    },
    "contentRating": "safe",
-   "score": 0.23176207,
+   "score": 0.23174472,
    "languages": [
     "en",
     "tr"
@@ -66,15 +66,27 @@
    ]
   },
   {
-   "id": "52beaeff-1a0c-43d3-a423-8b4910cb0f3a",
+   "id": "271122ba-4ba9-40a1-9000-10c90967faa0",
    "title": {
-    "en": "Fine Play"
+    "en": "As Lovely as the Peach Blossoms"
+   },
+   "contentRating": "safe",
+   "score": 0.22577177,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "24a1e300-64ef-4896-99a6-ff0d6143ac25",
+   "title": {
+    "en": "Hold Me Tight"
    },
    "contentRating": "safe",
    "score": 0.222028,
    "languages": [
-    "tr",
-    "en"
+    "tr"
    ]
   },
   {
@@ -104,16 +116,41 @@
    ]
   },
   {
-   "id": "74e431fc-f310-4d79-a3dc-b80607116f89",
+   "id": "52beaeff-1a0c-43d3-a423-8b4910cb0f3a",
    "title": {
-    "en": "The Love That Binds Us to Heaven"
+    "en": "Fine Play"
+   },
+   "contentRating": "safe",
+   "score": 0.222028,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "2ea23160-2137-418a-91a0-01eefc72caa8",
+   "title": {
+    "en": "Wistful Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.222028,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "72b871bc-d4a7-4d4c-9e78-cf803e7ff6d2",
+   "title": {
+    "en": "Adele to Darius"
    },
    "contentRating": "safe",
    "score": 0.21237461,
    "languages": [
+    "tr",
     "en",
-    "ru",
-    "tr"
+    "fr",
+    "pl"
    ]
   },
   {
@@ -132,6 +169,19 @@
    ]
   },
   {
+   "id": "74e431fc-f310-4d79-a3dc-b80607116f89",
+   "title": {
+    "en": "The Love That Binds Us to Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.21237461,
+   "languages": [
+    "en",
+    "ru",
+    "tr"
+   ]
+  },
+  {
    "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
    "title": {
     "en": "Alpine Rose"
@@ -145,70 +195,18 @@
    ]
   },
   {
-   "id": "72b871bc-d4a7-4d4c-9e78-cf803e7ff6d2",
+   "id": "ceedc13b-3f92-4f92-9e84-40227045383b",
    "title": {
-    "en": "Adele to Darius"
+    "en": "Shinon"
    },
    "contentRating": "safe",
-   "score": 0.21237461,
+   "score": 0.21226917,
    "languages": [
+    "en",
     "tr",
-    "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "82fe9c22-0ef9-43a5-8e20-7768ba6b2553",
-   "title": {
-    "en": "Natsu e no Tobira"
-   },
-   "contentRating": "safe",
-   "score": 0.21152009,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "8f3a103e-7d4d-41da-8ed9-2abfa15a5c38",
-   "title": {
-    "en": "Issho ni Kaero."
-   },
-   "contentRating": "safe",
-   "score": 0.21114166,
-   "languages": [
-    "tr",
-    "en",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "14bbdddd-a4c0-4e91-82ef-865c42ea8953",
-   "title": {
-    "en": "Hosoku Bishou"
-   },
-   "contentRating": "safe",
-   "score": 0.20477936,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "dffca36b-387f-4131-b99c-f7c834286253",
-   "title": {
-    "en": "Boku wa Sakana"
-   },
-   "contentRating": "safe",
-   "score": 0.20477936,
-   "languages": [
-    "en",
-    "pl",
-    "tr"
+    "it"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:11+00:00"
+ "updatedAt": "2023-12-10T18:28:29+00:00"
 }

@@ -11,7 +11,19 @@
     "en": "Fairytale for Wizards"
    },
    "contentRating": "safe",
-   "score": 0.40412244,
+   "score": 0.3955217,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9c756e83-1032-4338-82ca-47ae9d7f999a",
+   "title": {
+    "en": "Doumo, Suki na hito ni Horegusuri wo Iraisareta Majo desu"
+   },
+   "contentRating": "safe",
+   "score": 0.38828096,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +35,7 @@
     "en": "black peach flower"
    },
    "contentRating": "safe",
-   "score": 0.3199917,
+   "score": 0.31979075,
    "languages": [
     "en",
     "fr",
@@ -36,7 +48,29 @@
     "en": "Koi Otome no Nandai Shitsumon"
    },
    "contentRating": "safe",
-   "score": 0.29234928,
+   "score": 0.2908103,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b9f2c125-cac6-4e74-b81e-38623ef62843",
+   "title": {
+    "en": "The Starlight Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7693efe7-767e-4d10-8541-553db61c91e0",
+   "title": {
+    "en": "Sabaki no Mon"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -57,34 +91,12 @@
    ]
   },
   {
-   "id": "7693efe7-767e-4d10-8541-553db61c91e0",
-   "title": {
-    "en": "Sabaki no Mon"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b9f2c125-cac6-4e74-b81e-38623ef62843",
-   "title": {
-    "en": "The Starlight Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
    "title": {
     "en": "Kaze no Kaeru Basho"
    },
    "contentRating": "safe",
-   "score": 0.28209215,
+   "score": 0.28188324,
    "languages": [
     "en",
     "bg",
@@ -97,7 +109,7 @@
     "en": "Merry Unbalance Christmas"
    },
    "contentRating": "safe",
-   "score": 0.27977565,
+   "score": 0.27919197,
    "languages": [
     "en",
     "pl"
@@ -109,7 +121,7 @@
     "en": "HELP!!"
    },
    "contentRating": "safe",
-   "score": 0.27076682,
+   "score": 0.27010778,
    "languages": [
     "bg",
     "en",
@@ -122,22 +134,10 @@
     "en": "A Cat that Loved a Fish"
    },
    "contentRating": "safe",
-   "score": 0.26218483,
+   "score": 0.26136932,
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "b71d0862-c9fb-461c-b173-14104667e8fb",
-   "title": {
-    "en": "Aru Hi Bijin ni Nattara"
-   },
-   "contentRating": "safe",
-   "score": 0.26038066,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -146,9 +146,21 @@
     "en": "Line"
    },
    "contentRating": "safe",
-   "score": 0.2602642,
+   "score": 0.26012748,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b71d0862-c9fb-461c-b173-14104667e8fb",
+   "title": {
+    "en": "Aru Hi Bijin ni Nattara"
+   },
+   "contentRating": "safe",
+   "score": 0.2598872,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -157,7 +169,7 @@
     "en": "Birthday Presents"
    },
    "contentRating": "safe",
-   "score": 0.25867218,
+   "score": 0.25767204,
    "languages": [
     "en",
     "pl"
@@ -169,20 +181,8 @@
     "en": "Hajimari no Haru"
    },
    "contentRating": "safe",
-   "score": 0.25760767,
+   "score": 0.25709656,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efa08476-d5e7-4147-a5ed-be8a638cb8f6",
-   "title": {
-    "en": "Tomorrow -Yasashisa ni Kawaru made-"
-   },
-   "contentRating": "safe",
-   "score": 0.25641632,
-   "languages": [
-    "bg",
     "en"
    ]
   },
@@ -192,7 +192,7 @@
     "en": "Hitomi kara Destiny"
    },
    "contentRating": "safe",
-   "score": 0.25618708,
+   "score": 0.2562461,
    "languages": [
     "en",
     "vi",
@@ -200,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:56+00:00"
+ "updatedAt": "2023-12-10T18:22:28+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Ashita wa Kitto Tomodachi Janai, Yone"
    },
    "contentRating": "safe",
-   "score": 0.27305874,
+   "score": 0.27104086,
    "languages": [
     "vi",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Kokui no Mure"
    },
    "contentRating": "safe",
-   "score": 0.26637965,
+   "score": 0.26455712,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "April Fool"
    },
    "contentRating": "safe",
-   "score": 0.25459313,
+   "score": 0.25436762,
    "languages": [
     "hu",
     "pt-br",
@@ -48,35 +48,11 @@
     "en": "God Virgin"
    },
    "contentRating": "safe",
-   "score": 0.24364159,
+   "score": 0.2409149,
    "languages": [
     "en",
     "pt-br",
     "es-la"
-   ]
-  },
-  {
-   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
-   "title": {
-    "en": "Unmei no Koi ni Naritai"
-   },
-   "contentRating": "safe",
-   "score": 0.23753877,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "0059301b-9aa5-4dbe-98a0-a1cdde873332",
-   "title": {
-    "en": "Kuro Tenkousei"
-   },
-   "contentRating": "safe",
-   "score": 0.23245908,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -85,9 +61,21 @@
     "en": "Moony - Oukaryou Trilogy"
    },
    "contentRating": "safe",
-   "score": 0.23243102,
+   "score": 0.2322413,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7edae277-dd15-4b7f-9087-7a9778de7817",
+   "title": {
+    "en": "Unmei no Koi ni Naritai"
+   },
+   "contentRating": "safe",
+   "score": 0.2317223,
+   "languages": [
+    "en",
+    "tr"
    ]
   },
   {
@@ -96,7 +84,7 @@
     "en": "Kirie"
    },
    "contentRating": "safe",
-   "score": 0.2308959,
+   "score": 0.23032661,
    "languages": [
     "pl"
    ]
@@ -107,18 +95,18 @@
     "en": "Extreme Urameshiya"
    },
    "contentRating": "safe",
-   "score": 0.22993962,
+   "score": 0.22963747,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "70fda916-5204-4d85-9e82-b76a97608702",
+   "id": "1fd53e93-3956-4fc6-95a5-33342931b159",
    "title": {
-    "en": "Tobari"
+    "en": "Boku no Suki na Sensei (Gokurakuin Sakurako)"
    },
    "contentRating": "safe",
-   "score": 0.22855535,
+   "score": 0.22922108,
    "languages": [
     "en"
    ]
@@ -129,21 +117,9 @@
     "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
-   "score": 0.2244309,
+   "score": 0.22337988,
    "languages": [
     "ro",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "5a822cf6-e4c0-4fc0-a8c5-97ef6f2d0cdb",
-   "title": {
-    "en": "Momomimi Pheromone"
-   },
-   "contentRating": "safe",
-   "score": 0.22292723,
-   "languages": [
     "pl",
     "en"
    ]
@@ -154,8 +130,20 @@
     "en": "Haru Machi Sakura no Mau Koro ni"
    },
    "contentRating": "safe",
-   "score": 0.2225309,
+   "score": 0.22178072,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a822cf6-e4c0-4fc0-a8c5-97ef6f2d0cdb",
+   "title": {
+    "en": "Momomimi Pheromone"
+   },
+   "contentRating": "safe",
+   "score": 0.22163789,
+   "languages": [
+    "pl",
     "en"
    ]
   },
@@ -165,7 +153,7 @@
     "en": "Kon no Ki Konoha"
    },
    "contentRating": "safe",
-   "score": 0.2222447,
+   "score": 0.2213953,
    "languages": [
     "fr",
     "id",
@@ -177,17 +165,14 @@
    ]
   },
   {
-   "id": "051a71f8-355f-4426-aac1-56b68fb14ddd",
+   "id": "881ff2ae-3850-4866-9a72-21ef05f8e561",
    "title": {
-    "en": "Mimi ni Nokoru Kimi no Koe wa"
+    "en": "Akuma no Namida"
    },
    "contentRating": "safe",
-   "score": 0.22200768,
+   "score": 0.22131334,
    "languages": [
-    "en",
-    "pl",
-    "tr",
-    "fr"
+    "en"
    ]
   },
   {
@@ -200,7 +185,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9269132f-5eeb-43db-9705-41abb4007bec",
+   "title": {
+    "en": "Kimi wa Machigatteiru"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:07+00:00"
+ "updatedAt": "2023-12-10T18:20:13+00:00"
 }

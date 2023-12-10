@@ -6,12 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3bcebd42-d47e-418a-901c-e18ae48269ee",
+   "title": {
+    "en": "Stripe Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.27746034,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6341b809-53e3-4461-ab3b-160514964685",
+   "title": {
+    "en": "Chiisai Boku no Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.2556393,
+   "languages": [
+    "id",
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "71d07162-16dd-4178-a7ef-003d66360574",
    "title": {
     "en": "Angel Voice"
    },
    "contentRating": "safe",
-   "score": 0.25303474,
+   "score": 0.2529881,
    "languages": [
     "en"
    ]
@@ -24,6 +49,19 @@
    "contentRating": "safe",
    "score": 0.24160752,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28ee14d0-52ab-402a-a86b-939e6a575574",
+   "title": {
+    "en": "Toppu GP"
+   },
+   "contentRating": "safe",
+   "score": 0.24160752,
+   "languages": [
+    "fr",
+    "pt-br",
     "en"
    ]
   },
@@ -44,7 +82,7 @@
     "en": "Rangeman"
    },
    "contentRating": "safe",
-   "score": 0.23662314,
+   "score": 0.23549154,
    "languages": [
     "en"
    ]
@@ -55,7 +93,7 @@
     "en": "Hyoujou Fubu"
    },
    "contentRating": "safe",
-   "score": 0.23082086,
+   "score": 0.23146613,
    "languages": [
     "en"
    ]
@@ -74,14 +112,89 @@
    ]
   },
   {
+   "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+   "title": {
+    "en": "Blue Box"
+   },
+   "contentRating": "safe",
+   "score": 0.21965864,
+   "languages": [
+    "vi",
+    "fr",
+    "pt-br",
+    "id",
+    "tr",
+    "ro",
+    "en",
+    "es-la",
+    "th",
+    "hu"
+   ]
+  },
+  {
+   "id": "51b6b7c4-0123-4eed-b224-a8c1dbd1fff3",
+   "title": {
+    "en": "Yagami-kun's Family Affairs"
+   },
+   "contentRating": "safe",
+   "score": 0.2192092,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2129ddc8-210b-451b-99f8-fa3e7ff1e018",
+   "title": {
+    "en": "Winning Pass"
+   },
+   "contentRating": "safe",
+   "score": 0.21698274,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
    "title": {
     "en": "Sasameke"
    },
    "contentRating": "safe",
-   "score": 0.21420933,
+   "score": 0.21350493,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "title": {
+    "en": "I Spy"
+   },
+   "contentRating": "safe",
+   "score": 0.21294162,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
+   ]
+  },
+  {
+   "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
+   "title": {
+    "en": "That Girl Is Cute... But Dangerous?"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657,
+   "languages": [
+    "vi",
+    "es-la",
+    "en",
+    "fr",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -94,115 +207,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "59d73e0d-9a87-4f67-b6e6-6e92f31768a5",
-   "title": {
-    "en": "Susume!! Seigaku Dennou Kenkyuubu"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "232bd10d-2df7-486a-9f49-320867ce1ea8",
-   "title": {
-    "en": "Orefeti"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
-   "title": {
-    "en": "Kono Oto Tomare!"
-   },
-   "contentRating": "safe",
-   "score": 0.20326836,
-   "languages": [
-    "fr",
-    "vi",
-    "pt-br",
-    "en",
-    "id",
-    "es-la",
-    "ar",
-    "it",
-    "hu"
-   ]
-  },
-  {
-   "id": "d33faee4-ef05-4108-bb0e-b5a82897add0",
-   "title": {
-    "en": "Mitsuru Adachi's Early Complete Works"
-   },
-   "contentRating": "safe",
-   "score": 0.20052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9a247f6f-09f0-4310-ac19-b186147042f8",
-   "title": {
-    "en": "HOT"
-   },
-   "contentRating": "safe",
-   "score": 0.1972717,
-   "languages": [
-    "hu",
-    "zh-hk",
-    "de",
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "029cec9b-fd34-4efd-a2ac-7bd2891342ce",
-   "title": {
-    "en": "Go!! Southern Ice Hockey Club"
-   },
-   "contentRating": "safe",
-   "score": 0.1972717,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5abe4671-afc0-45fb-a0e9-84926893b355",
-   "title": {
-    "en": "Bamboo Blade C"
-   },
-   "contentRating": "safe",
-   "score": 0.1921976,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e0511fc5-c114-4447-824e-96cb3db37078",
-   "title": {
-    "en": "Blue Box (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.1892855,
-   "languages": [
-    "en",
-    "id",
-    "es-la",
-    "th",
-    "ar",
-    "fr",
-    "pt-br",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:08+00:00"
+ "updatedAt": "2023-12-10T18:12:08+00:00"
 }

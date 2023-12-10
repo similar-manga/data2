@@ -11,7 +11,7 @@
     "en": "Mobile Suit Gundam 0080 - War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.23626934,
+   "score": 0.23699655,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Geniearth"
    },
    "contentRating": "safe",
-   "score": 0.20508958,
+   "score": 0.20364174,
    "languages": [
     "en"
    ]
@@ -33,23 +33,10 @@
     "en": "Red Eyes"
    },
    "contentRating": "safe",
-   "score": 0.19981557,
+   "score": 0.19891426,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "cb114652-dbaa-49bc-b49a-ac9483967a78",
-   "title": {
-    "en": "Shojo Null"
-   },
-   "contentRating": "safe",
-   "score": 0.19920573,
-   "languages": [
-    "id",
-    "it",
-    "en"
    ]
   },
   {
@@ -58,7 +45,7 @@
     "en": "Sentai Daishikkaku"
    },
    "contentRating": "safe",
-   "score": 0.19762884,
+   "score": 0.19800796,
    "languages": [
     "pt-br",
     "en",
@@ -71,12 +58,25 @@
    ]
   },
   {
+   "id": "cb114652-dbaa-49bc-b49a-ac9483967a78",
+   "title": {
+    "en": "Shojo Null"
+   },
+   "contentRating": "safe",
+   "score": 0.19752413,
+   "languages": [
+    "id",
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "87d74323-b8e0-43bb-973f-6bada02a8a81",
    "title": {
     "en": "Shin Kamen Rider Spirits"
    },
    "contentRating": "safe",
-   "score": 0.1960493,
+   "score": 0.1964127,
    "languages": [
     "en"
    ]
@@ -87,7 +87,7 @@
     "en": "Space Battleship Silver Seven"
    },
    "contentRating": "safe",
-   "score": 0.18815358,
+   "score": 0.18897064,
    "languages": [
     "fr",
     "es-la",
@@ -101,7 +101,18 @@
     "en": "Mecha-Ude: Mechanical Arms"
    },
    "contentRating": "safe",
-   "score": 0.18431309,
+   "score": 0.18371542,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
+   "title": {
+    "en": "Rairairai"
+   },
+   "contentRating": "safe",
+   "score": 0.18249197,
    "languages": [
     "en"
    ]
@@ -118,23 +129,12 @@
    ]
   },
   {
-   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
-   "title": {
-    "en": "Rairairai"
-   },
-   "contentRating": "safe",
-   "score": 0.1807789,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
    "title": {
     "en": "Esoragoto"
    },
    "contentRating": "safe",
-   "score": 0.1755056,
+   "score": 0.1745153,
    "languages": [
     "en"
    ]
@@ -145,7 +145,7 @@
     "en": "Tokyo Aliens"
    },
    "contentRating": "safe",
-   "score": 0.17131302,
+   "score": 0.17092128,
    "languages": [
     "es-la",
     "fa",
@@ -156,12 +156,29 @@
    ]
   },
   {
+   "id": "bd0d428d-8caf-4747-9b42-a6983ab28a4e",
+   "title": {
+    "en": "The Scum of the Galaxy"
+   },
+   "contentRating": "safe",
+   "score": 0.17035577,
+   "languages": [
+    "ru",
+    "it",
+    "fr",
+    "pt-br",
+    "en",
+    "tr",
+    "de"
+   ]
+  },
+  {
    "id": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
    "title": {
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.1690874,
+   "score": 0.16905296,
    "languages": [
     "en",
     "zh",
@@ -191,7 +208,7 @@
     "en": "NOA"
    },
    "contentRating": "safe",
-   "score": 0.16836385,
+   "score": 0.16609637,
    "languages": [
     "es-la",
     "pt-br",
@@ -199,24 +216,7 @@
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "bd0d428d-8caf-4747-9b42-a6983ab28a4e",
-   "title": {
-    "en": "The Scum of the Galaxy"
-   },
-   "contentRating": "safe",
-   "score": 0.1679653,
-   "languages": [
-    "ru",
-    "it",
-    "fr",
-    "pt-br",
-    "en",
-    "tr",
-    "de"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:41+00:00"
+ "updatedAt": "2023-12-10T18:19:02+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.2867361,
+   "score": 0.2845887,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "MookHyang - Dark Lady"
    },
    "contentRating": "safe",
-   "score": 0.25942174,
+   "score": 0.25601467,
    "languages": [
     "ru",
     "en",
@@ -38,7 +38,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.25362796,
+   "score": 0.25306156,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Majima-kun Goes All Out!!"
    },
    "contentRating": "safe",
-   "score": 0.24122775,
+   "score": 0.24017568,
    "languages": [
     "en"
    ]
@@ -60,7 +60,7 @@
     "en": "Mega Man X5 IF"
    },
    "contentRating": "safe",
-   "score": 0.23267615,
+   "score": 0.23206028,
    "languages": [
     "en",
     "es"
@@ -84,7 +84,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.22521846,
+   "score": 0.22412963,
    "languages": [
     "en"
    ]
@@ -95,7 +95,7 @@
     "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
    },
    "contentRating": "safe",
-   "score": 0.21605799,
+   "score": 0.21507855,
    "languages": [
     "en"
    ]
@@ -147,12 +147,39 @@
    ]
   },
   {
+   "id": "2355a333-d58e-454f-9f21-5bc07323f57d",
+   "title": {
+    "en": "Naruto (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.21021558,
+   "languages": [
+    "ar",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "9c4f1b25-c224-4346-990a-f18c77f4ab9e",
+   "title": {
+    "en": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.20860383,
+   "languages": [
+    "en",
+    "fr",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
    "title": {
     "en": "Hero"
    },
    "contentRating": "safe",
-   "score": 0.20663226,
+   "score": 0.20617436,
    "languages": [
     "pl",
     "en"
@@ -164,34 +191,12 @@
     "en": "Mega Man Battle Network Operate Shooting Star VS"
    },
    "contentRating": "safe",
-   "score": 0.20371072,
+   "score": 0.20407128,
    "languages": [
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "c20350bb-0e53-493f-8c92-71198d57bf8a",
-   "title": {
-    "en": "Mobile Suit Zeta Gundam Gaiden: ADVANCE OF Ζ - The Traitor to Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.20100756,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e4bcff13-c805-41b3-b4c6-e4ebade29b4d",
-   "title": {
-    "en": "Mobile Suit MOON Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.20100756,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:05+00:00"
+ "updatedAt": "2023-12-10T18:09:15+00:00"
 }

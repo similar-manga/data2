@@ -11,7 +11,7 @@
     "en": "Sense of Justice"
    },
    "contentRating": "safe",
-   "score": 0.4394348
+   "score": 0.4440203
   },
   {
    "id": "97397d79-3ae7-477a-abf2-61ae25e0c34e",
@@ -19,7 +19,7 @@
     "en": "Paper Plane"
    },
    "contentRating": "safe",
-   "score": 0.33889854
+   "score": 0.3364264
   },
   {
    "id": "25106536-240e-4fe1-b749-857a8559c45f",
@@ -27,7 +27,7 @@
     "en": "Super Heavy Charge Vanguard"
    },
    "contentRating": "safe",
-   "score": 0.320514
+   "score": 0.3197126
   },
   {
    "id": "90c12eeb-af02-43d4-aafd-d9aa5aafcaba",
@@ -35,7 +35,7 @@
     "en": "Jinzou Ningen 100 (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.30346364,
+   "score": 0.30259097,
    "languages": [
     "zh"
    ]
@@ -46,7 +46,7 @@
     "en": "Kinnikuman Jump"
    },
    "contentRating": "safe",
-   "score": 0.28441918,
+   "score": 0.28325623,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.27505043,
+   "score": 0.27330366,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.27294806,
+   "score": 0.2706897,
    "languages": [
     "en",
     "tr"
@@ -80,7 +80,7 @@
     "en": "Coward Cross World"
    },
    "contentRating": "safe",
-   "score": 0.24433433,
+   "score": 0.2423209,
    "languages": [
     "en",
     "fr"
@@ -92,20 +92,15 @@
     "en": "HEAVY METAL YANKEES"
    },
    "contentRating": "safe",
-   "score": 0.23845756
+   "score": 0.23752917
   },
   {
-   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
+   "id": "3526200b-4a47-4556-9340-60f6110dd54b",
    "title": {
-    "en": "Galaxy Gangs"
+    "en": "Death Flower"
    },
    "contentRating": "safe",
-   "score": 0.23337069,
-   "languages": [
-    "de",
-    "es-la",
-    "en"
-   ]
+   "score": 0.23328476
   },
   {
    "id": "540de780-4a3b-4079-b94b-e5720c667c95",
@@ -119,24 +114,15 @@
    ]
   },
   {
-   "id": "077805b7-727f-4771-965f-e3ce5aa8ad0a",
+   "id": "14dd7ff1-9265-45bf-a048-af2a5fb745c7",
    "title": {
-    "en": "Cyborg 009 Tribute"
+    "en": "Cyborg 009 - Trump Tower-hen"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "ru",
     "en"
    ]
-  },
-  {
-   "id": "3526200b-4a47-4556-9340-60f6110dd54b",
-   "title": {
-    "en": "Death Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
   },
   {
    "id": "71a08ea8-ec56-49f2-85e5-f94247aafbcb",
@@ -152,13 +138,27 @@
    ]
   },
   {
-   "id": "14dd7ff1-9265-45bf-a048-af2a5fb745c7",
+   "id": "077805b7-727f-4771-965f-e3ce5aa8ad0a",
    "title": {
-    "en": "Cyborg 009 - Trump Tower-hen"
+    "en": "Cyborg 009 Tribute"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
+   "title": {
+    "en": "Galaxy Gangs"
+   },
+   "contentRating": "safe",
+   "score": 0.23266374,
+   "languages": [
+    "de",
+    "es-la",
     "en"
    ]
   },
@@ -168,7 +168,7 @@
     "en": "GALAXIAS"
    },
    "contentRating": "safe",
-   "score": 0.22272451,
+   "score": 0.22165403,
    "languages": [
     "fa",
     "es-la",
@@ -179,5 +179,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:15+00:00"
+ "updatedAt": "2023-12-10T18:15:22+00:00"
 }

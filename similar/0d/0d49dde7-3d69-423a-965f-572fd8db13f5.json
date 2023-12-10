@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5cf2da4c-5df3-4ad8-b81d-edb251cb7bce",
+   "title": {
+    "en": "Majima-kun Goes All Out!!"
+   },
+   "contentRating": "safe",
+   "score": 0.6869398,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4ffd1f8f-ab82-4de4-9dea-e0608c043d7b",
    "title": {
     "en": "MookHyang - Dark Lady"
    },
    "contentRating": "safe",
-   "score": 0.6871314,
+   "score": 0.6868952,
    "languages": [
     "ru",
     "en",
@@ -22,14 +33,17 @@
    ]
   },
   {
-   "id": "5cf2da4c-5df3-4ad8-b81d-edb251cb7bce",
+   "id": "9c4f1b25-c224-4346-990a-f18c77f4ab9e",
    "title": {
-    "en": "Majima-kun Goes All Out!!"
+    "en": "Isekai Ten'ishita Node Cheat wo Ikashite Mahou Kenshi Yaru Koto ni Suru"
    },
    "contentRating": "safe",
-   "score": 0.6856744,
+   "score": 0.68318623,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -38,7 +52,7 @@
     "en": "Telepathy Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.6138301,
+   "score": 0.6151436,
    "languages": [
     "en"
    ]
@@ -49,7 +63,7 @@
     "en": "Rental Magica from SOLOMON"
    },
    "contentRating": "safe",
-   "score": 0.31569576,
+   "score": 0.31581786,
    "languages": [
     "en"
    ]
@@ -60,7 +74,7 @@
     "en": "Watashi wa Kagome"
    },
    "contentRating": "safe",
-   "score": 0.30792508,
+   "score": 0.30456483,
    "languages": [
     "en"
    ]
@@ -71,7 +85,7 @@
     "en": "Chaosic Rune ES"
    },
    "contentRating": "safe",
-   "score": 0.2599883,
+   "score": 0.25780833,
    "languages": [
     "en"
    ]
@@ -82,32 +96,10 @@
     "en": "Red Hood (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.2557407,
+   "score": 0.25496703,
    "languages": [
     "pt-br",
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "375b2866-13ca-4df0-98e6-23c75b566e2c",
-   "title": {
-    "en": "Mononokemono"
-   },
-   "contentRating": "safe",
-   "score": 0.23303427,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
-   "title": {
-    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
-   },
-   "contentRating": "safe",
-   "score": 0.23290187,
-   "languages": [
     "en"
    ]
   },
@@ -117,16 +109,64 @@
     "en": "Shirasunamura"
    },
    "contentRating": "safe",
-   "score": 0.23237576,
+   "score": 0.23300344,
    "languages": [
     "en",
     "es"
    ]
   },
   {
-   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
+   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
    "title": {
-    "en": "Parabellum"
+    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
+   },
+   "contentRating": "safe",
+   "score": 0.23193611,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "375b2866-13ca-4df0-98e6-23c75b566e2c",
+   "title": {
+    "en": "Mononokemono"
+   },
+   "contentRating": "safe",
+   "score": 0.23123282,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e7088461-d8ce-4c4c-9fa3-02108387cd51",
+   "title": {
+    "en": "HIGH CARD -♢9 No Mercy"
+   },
+   "contentRating": "safe",
+   "score": 0.22259334,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "d8dcbff1-a8b6-4fcf-88de-3977aa5cef33",
+   "title": {
+    "en": "Bungou Stray Dogs: Dazai, Chuuya, Juugo-sai"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
+   "title": {
+    "en": "Strobo"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -146,56 +186,16 @@
    ]
   },
   {
-   "id": "3330e54b-f6df-41d7-b960-02eea31b0fa7",
+   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
    "title": {
-    "en": "Strobo"
+    "en": "Parabellum"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "70fe972b-3c88-4165-b9a5-3db96d6d2c14",
-   "title": {
-    "en": "Shikkaku Mon no Saikyou Kenja - Sekai Saikyou no Kenja ga Sara ni Tsuyoku naru Tame ni Tensei Shimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.20824596,
-   "languages": [
-    "es-la",
-    "ru",
-    "it",
-    "fr",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "fb23dd32-296d-4463-8d44-8630c5e42c44",
-   "title": {
-    "en": "Zodiac Game"
-   },
-   "contentRating": "safe",
-   "score": 0.20332265,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "84afc98a-ad4d-4b7a-adfa-1a89114183b6",
-   "title": {
-    "en": "The Eighth Consciousness"
-   },
-   "contentRating": "safe",
-   "score": 0.20204519,
-   "languages": [
-    "id",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:16+00:00"
+ "updatedAt": "2023-12-10T18:09:47+00:00"
 }

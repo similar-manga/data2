@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "title": {
+    "en": "Ookiku Furikabutte"
+   },
+   "contentRating": "safe",
+   "score": 0.35577005,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
    "id": "f8e294c0-7c11-4c66-bdd7-4e25df52bf69",
    "title": {
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.303032,
+   "score": 0.34387654,
    "languages": [
     "pt-br",
     "es-la",
@@ -24,16 +37,37 @@
    ]
   },
   {
-   "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
+   "id": "96219963-cc47-4687-9040-9ee354bc407e",
    "title": {
-    "en": "Ookiku Furikabutte"
+    "en": "Gekka no Kishi"
    },
    "contentRating": "safe",
-   "score": 0.29188508,
+   "score": 0.32906166,
    "languages": [
     "en",
-    "es-la",
-    "fr"
+    "es-la"
+   ]
+  },
+  {
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "title": {
+    "en": "Sunny Sunny Ann!"
+   },
+   "contentRating": "safe",
+   "score": 0.2983086,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
+   "title": {
+    "en": "Shinya Shokudou"
+   },
+   "contentRating": "safe",
+   "score": 0.27775759,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -42,22 +76,41 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.24635199,
+   "score": 0.27391753,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "96219963-cc47-4687-9040-9ee354bc407e",
+   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
    "title": {
-    "en": "Gekka no Kishi"
+    "en": "What's Michael?"
    },
    "contentRating": "safe",
-   "score": 0.24001844,
+   "score": 0.2661985,
+   "languages": [
+    "de",
+    "en"
+   ]
+  },
+  {
+   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
+   "title": {
+    "en": "REAL"
+   },
+   "contentRating": "safe",
+   "score": 0.26003602,
    "languages": [
     "en",
-    "es-la"
+    "pt-br",
+    "tr",
+    "id",
+    "ar",
+    "es-la",
+    "pl",
+    "ru",
+    "fr"
    ]
   },
   {
@@ -66,7 +119,7 @@
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.23897816,
+   "score": 0.25972602,
    "languages": [
     "en",
     "pt-br",
@@ -81,68 +134,54 @@
    ]
   },
   {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.2368218,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
-   "title": {
-    "en": "Sunny Sunny Ann!"
-   },
-   "contentRating": "safe",
-   "score": 0.23456036,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
-   "title": {
-    "en": "What's Michael?"
-   },
-   "contentRating": "safe",
-   "score": 0.22919603,
-   "languages": [
-    "de",
-    "en"
-   ]
-  },
-  {
-   "id": "3a1c1aa8-de86-498a-9c6f-87ad80640857",
-   "title": {
-    "en": "Shinya Shokudou"
-   },
-   "contentRating": "safe",
-   "score": 0.22626916,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.22389106,
+   "score": 0.25786352,
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.24721444,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
+   "title": {
+    "en": "Giant Killing"
+   },
+   "contentRating": "safe",
+   "score": 0.24048448,
+   "languages": [
+    "ar",
+    "pt-br",
+    "fr",
+    "en",
+    "pl",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
+   "title": {
+    "en": "Like a Laika"
+   },
+   "contentRating": "safe",
+   "score": 0.23974106,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -151,7 +190,7 @@
     "en": "Gokushufudou: The Way of the House Husband"
    },
    "contentRating": "safe",
-   "score": 0.21843706,
+   "score": 0.23522522,
    "languages": [
     "pt-br",
     "tr",
@@ -170,12 +209,12 @@
    ]
   },
   {
-   "id": "c956a7ba-0cee-4491-a57c-1b24382dfd0a",
+   "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
    "title": {
-    "en": "Like a Laika"
+    "en": "Cooking Papa"
    },
    "contentRating": "safe",
-   "score": 0.21553783,
+   "score": 0.23055905,
    "languages": [
     "en"
    ]
@@ -186,54 +225,12 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.21427485,
+   "score": 0.22973809,
    "languages": [
     "vi",
     "en"
-   ]
-  },
-  {
-   "id": "bb0ec1d7-2606-4ff6-9e6e-a4a87901d85f",
-   "title": {
-    "en": "Cooking Papa"
-   },
-   "contentRating": "safe",
-   "score": 0.2074749,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
-   "title": {
-    "en": "Giant Killing"
-   },
-   "contentRating": "safe",
-   "score": 0.20147848,
-   "languages": [
-    "ar",
-    "pt-br",
-    "fr",
-    "en",
-    "pl",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "509b1474-cb0a-4f9d-8ca4-95cb44c9b8db",
-   "title": {
-    "en": "Boku no Tsuma wa Kanjou ga Nai"
-   },
-   "contentRating": "safe",
-   "score": 0.19764319,
-   "languages": [
-    "en",
-    "vi",
-    "ru",
-    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:15+00:00"
+ "updatedAt": "2023-12-10T18:09:42+00:00"
 }

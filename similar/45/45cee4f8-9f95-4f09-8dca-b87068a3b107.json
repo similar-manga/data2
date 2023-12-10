@@ -11,7 +11,7 @@
     "en": "Online - The Comic"
    },
    "contentRating": "safe",
-   "score": 0.25595388,
+   "score": 0.2521672,
    "languages": [
     "en",
     "pl"
@@ -23,9 +23,20 @@
     "en": "Sono Koi, Damasarete Imasenka?"
    },
    "contentRating": "safe",
-   "score": 0.25205043,
+   "score": 0.24967828,
    "languages": [
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.23554254,
+   "languages": [
     "en"
    ]
   },
@@ -35,8 +46,50 @@
     "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
    },
    "contentRating": "safe",
-   "score": 0.23197645,
+   "score": 0.22996275,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
+   "title": {
+    "en": "Shibatarian"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "78fa40bc-59eb-499f-a485-774f0bf5d446",
+   "title": {
+    "en": "Naka no Hito Genome [Jikkyouchuu]"
+   },
+   "contentRating": "safe",
+   "score": 0.21702453,
+   "languages": [
+    "id",
+    "fa",
+    "pt-br",
+    "en",
+    "pl",
+    "es"
+   ]
+  },
+  {
+   "id": "0026052c-9091-4dc7-915c-dffce9559234",
+   "title": {
+    "en": "Shinigami no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.21375088,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -68,7 +121,7 @@
     "en": "Aphorism"
    },
    "contentRating": "safe",
-   "score": 0.1993045,
+   "score": 0.1990635,
    "languages": [
     "pl",
     "en",
@@ -82,7 +135,7 @@
     "en": "Akatsuki no Ageha"
    },
    "contentRating": "safe",
-   "score": 0.19744526,
+   "score": 0.1972613,
    "languages": [
     "en"
    ]
@@ -93,7 +146,7 @@
     "en": "Metamorcode"
    },
    "contentRating": "safe",
-   "score": 0.19698972,
+   "score": 0.19568697,
    "languages": [
     "en"
    ]
@@ -110,6 +163,23 @@
    ]
   },
   {
+   "id": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+   "title": {
+    "en": "Thus Spoke Kishibe Rohan - Digital Colored Comics"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "fr",
+    "es-la",
+    "pl"
+   ]
+  },
+  {
    "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
    "title": {
     "en": "Obake Life"
@@ -119,18 +189,6 @@
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "31db3ae1-3f3d-4127-a240-d560590f795b",
-   "title": {
-    "en": "Torikago Gakkyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "de",
-    "en"
    ]
   },
   {
@@ -149,55 +207,7 @@
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
-   "title": {
-    "en": "Parabellum"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
-   "title": {
-    "en": "Bible of Black"
-   },
-   "contentRating": "safe",
-   "score": 0.18571606,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
-   "title": {
-    "en": "13 Game"
-   },
-   "contentRating": "safe",
-   "score": 0.1842533,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
-   "title": {
-    "en": "Continue"
-   },
-   "contentRating": "safe",
-   "score": 0.18380417,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl",
-    "bg"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:27+00:00"
+ "updatedAt": "2023-12-10T18:15:52+00:00"
 }

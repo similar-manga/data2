@@ -11,10 +11,21 @@
     "en": "Body Yori Soul"
    },
    "contentRating": "safe",
-   "score": 0.27618,
+   "score": 0.2752806,
    "languages": [
     "pl",
     "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "04c350cd-aa7a-4833-943c-6999495cad35",
+   "title": {
+    "en": "Kurenai Kitsune no Hatsukoi Zoushi"
+   },
+   "contentRating": "safe",
+   "score": 0.27332586,
+   "languages": [
     "en"
    ]
   },
@@ -24,7 +35,7 @@
     "en": "Petto no Neko ga Shinde Ningen ni Natta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.27298045,
+   "score": 0.2720869,
    "languages": [
     "en"
    ]
@@ -35,7 +46,7 @@
     "en": "Itadakimasu, wa Koi no Aji"
    },
    "contentRating": "safe",
-   "score": 0.2683149,
+   "score": 0.2706862,
    "languages": [
     "en",
     "ru"
@@ -47,7 +58,7 @@
     "en": "Akuma no Namida"
    },
    "contentRating": "safe",
-   "score": 0.2676825,
+   "score": 0.26500735,
    "languages": [
     "en"
    ]
@@ -58,11 +69,44 @@
     "en": "An Angel in the Library"
    },
    "contentRating": "safe",
-   "score": 0.26013008,
+   "score": 0.26033828,
    "languages": [
     "vi",
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "d4a473e0-7b72-46b9-b6ca-1ad85b4b883b",
+   "title": {
+    "en": "Gekkou no Garan"
+   },
+   "contentRating": "safe",
+   "score": 0.25168645,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fc06174-6f92-4073-b3ae-0e484c6f41da",
+   "title": {
+    "en": "Yuuwaku"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c04a8b24-d347-407f-9083-b6cf0a873174",
+   "title": {
+    "en": "Hanpamono"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -78,9 +122,20 @@
    ]
   },
   {
-   "id": "c04a8b24-d347-407f-9083-b6cf0a873174",
+   "id": "b8d6199f-f268-429c-b168-e298bb6ba466",
    "title": {
-    "en": "Hanpamono"
+    "en": "Poker Face"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a74622a5-3912-416b-b553-67e8599c4478",
+   "title": {
+    "en": "Oath of Allegiance"
    },
    "contentRating": "safe",
    "score": 0.25126484,
@@ -111,83 +166,27 @@
    ]
   },
   {
-   "id": "b8d6199f-f268-429c-b168-e298bb6ba466",
+   "id": "5480f9db-ee17-4ec1-8300-6e6a025639be",
    "title": {
-    "en": "Poker Face"
+    "en": "Koi to Fukujuu no Et Cetera"
    },
    "contentRating": "safe",
-   "score": 0.25126484,
+   "score": 0.24370222,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a74622a5-3912-416b-b553-67e8599c4478",
+   "id": "2d6a69ea-2e51-458b-9d36-b0a16a9a705e",
    "title": {
-    "en": "Oath of Allegiance"
+    "en": "Koyubi wa Amaku Sasayaku"
    },
    "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0fc06174-6f92-4073-b3ae-0e484c6f41da",
-   "title": {
-    "en": "Yuuwaku"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84f5df21-8cc4-44ff-b1f8-46d4f2cc7e3c",
-   "title": {
-    "en": "Devil Clutch"
-   },
-   "contentRating": "safe",
-   "score": 0.24167715,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
-   "title": {
-    "en": "Junketsu Diablos"
-   },
-   "contentRating": "safe",
-   "score": 0.24015546,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6cd8a940-c4b4-4f44-b3cc-b94dd8d18081",
-   "title": {
-    "en": "Paradise Rule"
-   },
-   "contentRating": "safe",
-   "score": 0.23651797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1fb05ece-008e-4212-8514-1214bb48cfe8",
-   "title": {
-    "en": "Samurai Komachi"
-   },
-   "contentRating": "safe",
-   "score": 0.22941573,
+   "score": 0.23404214,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:20+00:00"
+ "updatedAt": "2023-12-10T18:33:51+00:00"
 }

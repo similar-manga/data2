@@ -6,27 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "37cbe8a9-4a2f-4e71-a8c8-c33be7aee3cc",
-   "title": {
-    "en": "Atsumare! Fushigi Kenkyu-bu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.347286,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "vi",
-    "fr"
-   ]
-  },
-  {
    "id": "7fb957e4-a94b-496d-be91-b7d75fad7b21",
    "title": {
     "en": "Osananajimi to wa Romcom ni Naranai"
    },
    "contentRating": "suggestive",
-   "score": 0.34561405,
+   "score": 0.34383616,
    "languages": [
     "ru",
     "en",
@@ -40,12 +25,27 @@
    ]
   },
   {
+   "id": "37cbe8a9-4a2f-4e71-a8c8-c33be7aee3cc",
+   "title": {
+    "en": "Atsumare! Fushigi Kenkyu-bu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3427985,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "vi",
+    "fr"
+   ]
+  },
+  {
    "id": "4e7a4a0f-8391-4069-839b-de2352297dab",
    "title": {
     "en": "Kakkou no Iinazuke"
    },
    "contentRating": "suggestive",
-   "score": 0.32203007,
+   "score": 0.3212364,
    "languages": [
     "fr",
     "es-la",
@@ -64,7 +64,7 @@
     "en": "Ebiten"
    },
    "contentRating": "suggestive",
-   "score": 0.30577546,
+   "score": 0.30113232,
    "languages": [
     "en",
     "pt-br"
@@ -76,7 +76,7 @@
     "en": "2.5 Dimensional Seduction"
    },
    "contentRating": "suggestive",
-   "score": 0.29766616,
+   "score": 0.2954586,
    "languages": [
     "pt-br",
     "th",
@@ -93,7 +93,7 @@
     "en": "Ojousama no Shimobe"
    },
    "contentRating": "suggestive",
-   "score": 0.29379126,
+   "score": 0.29312086,
    "languages": [
     "en",
     "pt-br",
@@ -108,7 +108,7 @@
     "en": "Rent-A-Girlfriend"
    },
    "contentRating": "suggestive",
-   "score": 0.2883037,
+   "score": 0.28712174,
    "languages": [
     "en",
     "vi",
@@ -123,6 +123,17 @@
     "tr",
     "ar",
     "zh-hk"
+   ]
+  },
+  {
+   "id": "cddddb40-9285-4d83-b2ff-045ee0229b9a",
+   "title": {
+    "en": "Seitokai no Nichijou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28509024,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -142,12 +153,23 @@
    ]
   },
   {
+   "id": "a24d6347-fae3-4b54-af68-ee3e01cd3475",
+   "title": {
+    "en": "Ru~mu! Room No.1301"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28250805,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4b337e56-15c4-4685-bae6-7117fb0d7acb",
    "title": {
     "en": "One Room, Hiatari Futsuu, Tenshi-tsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.28001344,
+   "score": 0.27938357,
    "languages": [
     "en",
     "vi",
@@ -160,21 +182,10 @@
     "en": "Nogizaka Asuka no Himitsu"
    },
    "contentRating": "suggestive",
-   "score": 0.2794028,
+   "score": 0.27818936,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "a24d6347-fae3-4b54-af68-ee3e01cd3475",
-   "title": {
-    "en": "Ru~mu! Room No.1301"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2711419,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -183,7 +194,7 @@
     "en": "Shishunki-chan no Shitsukekata"
    },
    "contentRating": "suggestive",
-   "score": 0.26859164,
+   "score": 0.26847458,
    "languages": [
     "pt-br",
     "es-la",
@@ -194,25 +205,12 @@
    ]
   },
   {
-   "id": "388f639e-7cd1-4493-8242-ae480647479a",
-   "title": {
-    "en": "SM Kanojo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.26430023,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "b198f9b8-7489-44cc-a062-1cb4b32d5507",
    "title": {
     "en": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta."
    },
    "contentRating": "suggestive",
-   "score": 0.26371032,
+   "score": 0.26317507,
    "languages": [
     "en",
     "es-la",
@@ -223,31 +221,30 @@
    ]
   },
   {
+   "id": "388f639e-7cd1-4493-8242-ae480647479a",
+   "title": {
+    "en": "SM Kanojo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26303846,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "e477578d-db2f-47df-ba81-607f2bdafa65",
    "title": {
     "en": "The Number 1 Beautiful Girl in the School is in Love With Me, the XXX Artist."
    },
    "contentRating": "suggestive",
-   "score": 0.26322073,
+   "score": 0.26111233,
    "languages": [
     "en",
     "id"
    ]
-  },
-  {
-   "id": "a19db143-0399-4c72-b999-75544b509cb9",
-   "title": {
-    "en": "Danshi dato Omotteita Osananajimi tono Shinkon Seikatsu ga Umaku Ikisugiru Ken ni Tsuite"
-   },
-   "contentRating": "suggestive",
-   "score": 0.26169088,
-   "languages": [
-    "en",
-    "id",
-    "vi",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:02+00:00"
+ "updatedAt": "2023-12-10T18:28:06+00:00"
 }

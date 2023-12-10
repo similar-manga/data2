@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.25218633,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
    "title": {
     "en": "Chingiri"
    },
    "contentRating": "safe",
-   "score": 0.24546228,
+   "score": 0.24177656,
    "languages": [
     "en"
    ]
@@ -33,7 +22,7 @@
     "en": "Kuzumoto-san Chi no Yonkyoudai"
    },
    "contentRating": "safe",
-   "score": 0.2409913,
+   "score": 0.23982123,
    "languages": [
     "en"
    ]
@@ -44,7 +33,7 @@
     "en": "The Wolf Brothers and Little Red Riding Hood"
    },
    "contentRating": "safe",
-   "score": 0.23863018,
+   "score": 0.23924436,
    "languages": [
     "hu",
     "pl",
@@ -53,40 +42,27 @@
    ]
   },
   {
+   "id": "3f8a6138-a19e-4ba0-b6f3-0b8c8badfe9f",
+   "title": {
+    "en": "Violent Path Martial Arts School"
+   },
+   "contentRating": "safe",
+   "score": 0.23658201,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "485471ff-4502-4af9-aa0f-956af49e7782",
    "title": {
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.22857654,
+   "score": 0.22738351,
    "languages": [
     "en",
     "pl",
     "th"
-   ]
-  },
-  {
-   "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
-   "title": {
-    "en": "The Playground of Yin and Yang"
-   },
-   "contentRating": "safe",
-   "score": 0.22518031,
-   "languages": [
-    "es",
-    "ja",
-    "en"
-   ]
-  },
-  {
-   "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
-   "title": {
-    "en": "Ghostrong"
-   },
-   "contentRating": "safe",
-   "score": 0.2229658,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -101,12 +77,12 @@
    ]
   },
   {
-   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
+   "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
    "title": {
-    "en": "Armados"
+    "en": "Ghostrong"
    },
    "contentRating": "safe",
-   "score": 0.22058967,
+   "score": 0.22203374,
    "languages": [
     "en"
    ]
@@ -117,7 +93,7 @@
     "en": "Sakamoto"
    },
    "contentRating": "safe",
-   "score": 0.2195015,
+   "score": 0.21925445,
    "languages": [
     "it",
     "vi",
@@ -126,15 +102,39 @@
    ]
   },
   {
-   "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
+   "id": "3a73ca4b-f09a-4a49-a9f7-930e11251322",
    "title": {
-    "en": "Obake Life"
+    "en": "Armados"
    },
    "contentRating": "safe",
-   "score": 0.21623443,
+   "score": 0.21849975,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+   "title": {
+    "en": "Red Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.21673167,
    "languages": [
     "en",
-    "pl"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b89f76aa-e5ff-41a4-8c2f-f36ebbe69414",
+   "title": {
+    "en": "The Playground of Yin and Yang"
+   },
+   "contentRating": "safe",
+   "score": 0.21500677,
+   "languages": [
+    "es",
+    "ja",
+    "en"
    ]
   },
   {
@@ -143,7 +143,7 @@
     "en": "Love Attack"
    },
    "contentRating": "safe",
-   "score": 0.21611029,
+   "score": 0.21373793,
    "languages": [
     "en"
    ]
@@ -154,34 +154,35 @@
     "en": "Age!"
    },
    "contentRating": "safe",
-   "score": 0.21270864,
+   "score": 0.21345446,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "46414120-3303-4471-9197-782985312a58",
+   "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
    "title": {
-    "en": "Märchen - The Embodiment of Tales"
+    "en": "Obake Life"
    },
    "contentRating": "safe",
-   "score": 0.21017115,
+   "score": 0.21314555,
    "languages": [
-    "pt-br",
     "en",
-    "es-la",
-    "fr"
+    "pl"
    ]
   },
   {
-   "id": "69207f97-7e67-4c02-9e14-bb69a15c85f6",
+   "id": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
    "title": {
-    "en": "An Unscrupulous Exorcist and a Big Tiddy Girl Burning with Vengeance"
+    "en": "Dead Account"
    },
    "contentRating": "safe",
-   "score": 0.2092881,
+   "score": 0.21076241,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -190,12 +191,12 @@
     "en": "Smile Death Match"
    },
    "contentRating": "safe",
-   "score": 0.20907111,
+   "score": 0.20944971,
    "languages": [
     "en",
     "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:19+00:00"
+ "updatedAt": "2023-12-10T18:09:55+00:00"
 }

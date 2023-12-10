@@ -6,26 +6,45 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "378b2b04-b16b-4616-a601-bfdac646ce95",
+   "title": {
+    "en": "Suterare Yuusha wa Kitakuchuu"
+   },
+   "contentRating": "safe",
+   "score": 0.21492837,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "23cc261e-687e-4b24-9308-fccc93094b98",
    "title": {
     "en": "R the Ultimate Superman"
    },
    "contentRating": "safe",
-   "score": 0.20536755,
+   "score": 0.20685594,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
+   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
    "title": {
-    "en": "Kore Kaite Shine"
+    "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.20217337,
+   "score": 0.20465973,
    "languages": [
+    "pt-br",
     "en",
-    "pt-br"
+    "es-la",
+    "tr",
+    "id",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -34,7 +53,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.20182285,
+   "score": 0.20353507,
    "languages": [
     "ru",
     "vi",
@@ -51,12 +70,24 @@
    ]
   },
   {
+   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
+   "title": {
+    "en": "Kore Kaite Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.20334984,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "aab94c3a-34b4-4051-84ff-7ba9cbab0da8",
    "title": {
     "en": "One Piece x Toriko: Taste of the Devil Fruit"
    },
    "contentRating": "safe",
-   "score": 0.20171686,
+   "score": 0.20126913,
    "languages": [
     "en",
     "ca",
@@ -65,40 +96,12 @@
    ]
   },
   {
-   "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
-   "title": {
-    "en": "The Dangers in My Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.20123936,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "tr",
-    "id",
-    "ar",
-    "fr"
-   ]
-  },
-  {
-   "id": "cf19b4e0-3618-4bf4-8035-a265c3bb3fce",
-   "title": {
-    "en": "Our Hero Studies"
-   },
-   "contentRating": "safe",
-   "score": 0.19952732,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "62608082-d81d-4513-af7d-ae3ffe2423d2",
    "title": {
     "en": "Kiyo in Kyoto: From the Maiko House"
    },
    "contentRating": "safe",
-   "score": 0.1994818,
+   "score": 0.2000664,
    "languages": [
     "en",
     "pt-br",
@@ -107,14 +110,37 @@
    ]
   },
   {
-   "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
+   "id": "cf19b4e0-3618-4bf4-8035-a265c3bb3fce",
    "title": {
-    "ja": "Macaron"
+    "en": "Our Hero Studies"
    },
    "contentRating": "safe",
-   "score": 0.19264017,
+   "score": 0.19989438,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "474f4e95-7731-4d92-badb-bfd52e601df0",
+   "title": {
+    "en": "Lisa's Table of Inedibles"
+   },
+   "contentRating": "safe",
+   "score": 0.19870271,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
+   "title": {
+    "en": "One Piece Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.1934855,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -123,21 +149,34 @@
     "en": "Fisherboy Sanpei"
    },
    "contentRating": "safe",
-   "score": 0.19107331,
+   "score": 0.19246612,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8b08099d-513c-4574-9e5e-bc03d36b65e0",
+   "id": "d059dacb-2be8-4fdb-bc83-4f4af24db6a3",
    "title": {
-    "en": "King Golf"
+    "ja": "Macaron"
    },
    "contentRating": "safe",
-   "score": 0.18250144,
+   "score": 0.19215341,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d1277965-6bd9-457a-9a33-2879832b6d32",
+   "title": {
+    "en": "Shinmai Shimai no Futari Gohan"
+   },
+   "contentRating": "safe",
+   "score": 0.19108368,
    "languages": [
     "en",
-    "pt-br"
+    "fr",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -146,7 +185,7 @@
     "en": "The Kabocha Wine"
    },
    "contentRating": "safe",
-   "score": 0.18026116,
+   "score": 0.18131737,
    "languages": [
     "en"
    ]
@@ -157,18 +196,7 @@
     "en": "Head-Hiding"
    },
    "contentRating": "safe",
-   "score": 0.1799863,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45599047-f246-49e9-be3a-48cc70ca675f",
-   "title": {
-    "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
-   },
-   "contentRating": "safe",
-   "score": 0.17944346,
+   "score": 0.18126854,
    "languages": [
     "en"
    ]
@@ -179,45 +207,12 @@
     "en": "One Summer's Kids Game"
    },
    "contentRating": "safe",
-   "score": 0.17720683,
+   "score": 0.17959039,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "84fe5a6a-6414-48f3-9d87-175c3b4c6089",
-   "title": {
-    "en": "Me \u0026 Roboco"
-   },
-   "contentRating": "safe",
-   "score": 0.17465372,
-   "languages": [
-    "fr",
-    "pt-br",
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
-   "title": {
-    "en": "Yotsuba\u0026!"
-   },
-   "contentRating": "safe",
-   "score": 0.1734865,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "zh-hk",
-    "tr",
-    "es-la",
-    "uk",
-    "vi",
-    "es"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:10+00:00"
+ "updatedAt": "2023-12-10T18:23:01+00:00"
 }

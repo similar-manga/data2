@@ -11,7 +11,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.2503682,
+   "score": 0.24991922,
    "languages": [
     "en",
     "pt-br",
@@ -27,7 +27,7 @@
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.23270468,
+   "score": 0.232645,
    "languages": [
     "ru",
     "fr",
@@ -47,7 +47,7 @@
     "en": "Toilet-bound Hanako-kun"
    },
    "contentRating": "safe",
-   "score": 0.22603258,
+   "score": 0.22494261,
    "languages": [
     "vi",
     "ru",
@@ -66,7 +66,18 @@
     "en": "The Revolution of Gene X"
    },
    "contentRating": "safe",
-   "score": 0.20864446,
+   "score": 0.20799536,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b8fbb0f-e422-4ff4-91bf-408a94c16f0d",
+   "title": {
+    "en": "A Story about a Giant Hero Having Trouble with Money"
+   },
+   "contentRating": "safe",
+   "score": 0.20489633,
    "languages": [
     "en"
    ]
@@ -95,12 +106,23 @@
    ]
   },
   {
+   "id": "dd9fde2a-31d7-4ab5-a03e-1a106c7b676d",
+   "title": {
+    "en": "Rewrite: SIDE-TERRA"
+   },
+   "contentRating": "safe",
+   "score": 0.2,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9f503bc8-6c7a-491d-be26-af40fdfb0026",
    "title": {
     "en": "Thunder 3"
    },
    "contentRating": "safe",
-   "score": 0.19668669,
+   "score": 0.19819452,
    "languages": [
     "es-la",
     "en"
@@ -112,21 +134,10 @@
     "en": "Hameln no Violin Hiki - Shchelkunchik"
    },
    "contentRating": "safe",
-   "score": 0.19475247,
+   "score": 0.19350879,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "8d8ac2b6-9fbf-4df9-b022-c6890e6ef222",
-   "title": {
-    "en": "Perman"
-   },
-   "contentRating": "safe",
-   "score": 0.19420172,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -141,12 +152,43 @@
    ]
   },
   {
+   "id": "8d8ac2b6-9fbf-4df9-b022-c6890e6ef222",
+   "title": {
+    "en": "Perman"
+   },
+   "contentRating": "safe",
+   "score": 0.19134313,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "192aa767-2479-42c1-9780-8d65a2efd36a",
+   "title": {
+    "en": "Gachiakuta"
+   },
+   "contentRating": "safe",
+   "score": 0.18892927,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "ru",
+    "vi",
+    "id",
+    "es-la",
+    "fa",
+    "es",
+    "hi"
+   ]
+  },
+  {
    "id": "e8a758da-6eea-4493-83b5-a283f29bdc3d",
    "title": {
     "en": "Mahouka Koukou no Rettousei - Shiba Tatsuya Ansatsu Keikaku"
    },
    "contentRating": "safe",
-   "score": 0.18738487,
+   "score": 0.1867358,
    "languages": [
     "en"
    ]
@@ -157,20 +199,9 @@
     "en": "Ueki no Housoku"
    },
    "contentRating": "safe",
-   "score": 0.18623674,
+   "score": 0.18608308,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "d2b034a9-a996-41b8-985e-763b9ce40369",
-   "title": {
-    "en": "Youkai no Oisha-san"
-   },
-   "contentRating": "safe",
-   "score": 0.18442778,
-   "languages": [
     "en"
    ]
   },
@@ -187,32 +218,7 @@
     "es-la",
     "es"
    ]
-  },
-  {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
-   "title": {
-    "en": "Wonted"
-   },
-   "contentRating": "safe",
-   "score": 0.18442778,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "84afc98a-ad4d-4b7a-adfa-1a89114183b6",
-   "title": {
-    "en": "The Eighth Consciousness"
-   },
-   "contentRating": "safe",
-   "score": 0.18442778,
-   "languages": [
-    "id",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:17+00:00"
+ "updatedAt": "2023-12-10T18:15:25+00:00"
 }

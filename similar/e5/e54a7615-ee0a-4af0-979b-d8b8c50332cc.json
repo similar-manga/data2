@@ -11,7 +11,7 @@
     "en": "Rise From the Rubble"
    },
    "contentRating": "safe",
-   "score": 0.28677014,
+   "score": 0.28930372,
    "languages": [
     "fr",
     "pt-br",
@@ -24,7 +24,7 @@
     "en": "Aimer"
    },
    "contentRating": "safe",
-   "score": 0.28413883,
+   "score": 0.28383,
    "languages": [
     "en"
    ]
@@ -35,7 +35,7 @@
     "en": "Cat's World"
    },
    "contentRating": "safe",
-   "score": 0.24896498,
+   "score": 0.24767676,
    "languages": [
     "en"
    ]
@@ -46,18 +46,18 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.23815188,
+   "score": 0.24168867,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
+   "id": "21d5fa8b-8484-4a49-ad64-220915a40faf",
    "title": {
-    "en": "Western Shotgun"
+    "en": "Monkz"
    },
    "contentRating": "safe",
-   "score": 0.22857143,
+   "score": 0.23444511,
    "languages": [
     "en"
    ]
@@ -86,14 +86,37 @@
    ]
   },
   {
+   "id": "0f453122-0d7a-4639-9d29-d2c95d62b7b4",
+   "title": {
+    "en": "Western Shotgun"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
    "title": {
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.22726688,
+   "score": 0.22814839,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "758ce66b-8e9f-4a3b-88ee-6c0dbb154cc6",
+   "title": {
+    "en": "Ultramarine Magmel"
+   },
+   "contentRating": "safe",
+   "score": 0.2246714,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -102,9 +125,45 @@
     "en": "Haco"
    },
    "contentRating": "safe",
-   "score": 0.22347319,
+   "score": 0.22373466,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "89f24355-1d6a-4780-9ce6-6777c6b4498b",
+   "title": {
+    "en": "School Foolishness"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "ce570243-2760-4cc9-b47a-b09fc345ef22",
+   "title": {
+    "en": "Steel Fist Attack"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "th"
+   ]
+  },
+  {
+   "id": "1bc9283b-af5d-4ac6-8268-4f9c014e250d",
+   "title": {
+    "en": "SLASH"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
     "en"
    ]
   },
@@ -114,7 +173,7 @@
     "en": "Post-apocalyptic Dispatch Company"
    },
    "contentRating": "safe",
-   "score": 0.21795401,
+   "score": 0.21751985,
    "languages": [
     "en",
     "pt-br",
@@ -127,69 +186,11 @@
     "en": "Scrapped Princess"
    },
    "contentRating": "safe",
-   "score": 0.21702904,
+   "score": 0.21711452,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "647d97e2-ab31-4ce6-9e9c-d43ad14ea3f2",
-   "title": {
-    "en": "Milky Way Customer Service Department"
-   },
-   "contentRating": "safe",
-   "score": 0.21261045,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9f2d7b16-c1b3-4ca5-b448-d41da0bdcf42",
-   "title": {
-    "en": "Ban Shou Dao - Island of Hybrids"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
-   "title": {
-    "en": "Disaster, Old Man and Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "18868868-ef41-45c6-b811-9ca8a17c9041",
-   "title": {
-    "en": "Spray King"
-   },
-   "contentRating": "safe",
-   "score": 0.20770423,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
-   "title": {
-    "en": "High Energy Core"
-   },
-   "contentRating": "safe",
-   "score": 0.20495988,
-   "languages": [
-    "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:13+00:00"
+ "updatedAt": "2023-12-10T18:33:36+00:00"
 }

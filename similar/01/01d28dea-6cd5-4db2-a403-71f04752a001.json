@@ -6,12 +6,49 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ca9c5b50-3539-4024-80cb-0b867708a5c4",
+   "title": {
+    "en": "Hyper Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.3201983,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "685b9ac5-6705-49fa-b296-97487165779a",
+   "title": {
+    "en": "The Challenger"
+   },
+   "contentRating": "safe",
+   "score": 0.31953362,
+   "languages": [
+    "en",
+    "pt-br",
+    "fa"
+   ]
+  },
+  {
+   "id": "050cac22-5706-43c2-9827-d4c699082953",
+   "title": {
+    "en": "One-of-a-Kind Irregular"
+   },
+   "contentRating": "safe",
+   "score": 0.30259532,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1e0e9da4-5f92-49b8-bda0-5415b1e2d701",
    "title": {
     "en": "The God of the Land and Grain’s Mountain River Map"
    },
    "contentRating": "safe",
-   "score": 0.30459276,
+   "score": 0.30046728,
    "languages": [
     "en"
    ]
@@ -22,7 +59,7 @@
     "en": "Eden Game"
    },
    "contentRating": "safe",
-   "score": 0.30304787,
+   "score": 0.2990921,
    "languages": [
     "fr",
     "pt-br",
@@ -31,14 +68,67 @@
    ]
   },
   {
+   "id": "b245f362-46d3-44e2-9373-46becaeaa1ab",
+   "title": {
+    "en": "World's Strongest Troll"
+   },
+   "contentRating": "safe",
+   "score": 0.2977014,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "a8115232-9377-47e1-9e67-247f54c52f60",
+   "title": {
+    "en": "Life Cry"
+   },
+   "contentRating": "safe",
+   "score": 0.2854659,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d65f4c46-9e71-482c-9959-3a3c469eac29",
+   "title": {
+    "en": "Max Level Player"
+   },
+   "contentRating": "safe",
+   "score": 0.28363347,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "a092b1c0-a4ed-4946-ad45-d80f01559971",
    "title": {
     "en": "A Dream"
    },
    "contentRating": "safe",
-   "score": 0.28099644,
+   "score": 0.2807666,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "de943512-1206-4a99-8c54-113e63468c4a",
+   "title": {
+    "en": "Ranker’s Return"
+   },
+   "contentRating": "safe",
+   "score": 0.28002685,
+   "languages": [
+    "id",
+    "tr",
+    "en",
+    "it",
+    "fr",
+    "pt-br"
    ]
   },
   {
@@ -47,7 +137,7 @@
     "en": "City of Sanctuary"
    },
    "contentRating": "safe",
-   "score": 0.28098297,
+   "score": 0.27687702,
    "languages": [
     "pt-br",
     "en",
@@ -55,14 +145,18 @@
    ]
   },
   {
-   "id": "0ab7ae56-2800-4426-819d-0cda91aad12a",
+   "id": "fc84b02b-3b16-40af-89a5-a5f849f20721",
    "title": {
-    "en": "The Blood Knight’s Villains"
+    "en": "I'm Destined for Greatness!"
    },
    "contentRating": "safe",
-   "score": 0.2683828,
+   "score": 0.2743906,
    "languages": [
-    "en"
+    "en",
+    "ru",
+    "pt-br",
+    "fr",
+    "it"
    ]
   },
   {
@@ -71,7 +165,7 @@
     "en": "Player Reborn"
    },
    "contentRating": "safe",
-   "score": 0.26674297,
+   "score": 0.2667336,
    "languages": [
     "en",
     "pt-br",
@@ -84,129 +178,38 @@
    ]
   },
   {
-   "id": "cc21c9a8-3c44-421d-94a3-10e0b82fdfd3",
+   "id": "54fa20c3-3509-40a7-a69c-a1eda2f8702a",
    "title": {
-    "en": "It All Starts with Playing Game Seriously"
+    "en": "ARK"
    },
    "contentRating": "safe",
-   "score": 0.24643518,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "04b138cd-fd73-4d6d-8552-8d1de84821d2",
-   "title": {
-    "en": "Rich Player"
-   },
-   "contentRating": "safe",
-   "score": 0.24574861,
-   "languages": [
-    "en",
-    "pl",
-    "fr",
-    "ru",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f87ef97f-2c89-4525-9f25-d53f848ad85b",
-   "title": {
-    "en": "Stop The World"
-   },
-   "contentRating": "safe",
-   "score": 0.24465649,
+   "score": 0.26672965,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a1d8ce85-ac83-4604-afea-390757564115",
+   "id": "0ab7ae56-2800-4426-819d-0cda91aad12a",
    "title": {
-    "en": "Logging in as a Monster"
+    "en": "The Blood Knight’s Villains"
    },
    "contentRating": "safe",
-   "score": 0.23248518,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "fbf2a6a4-3798-4a50-b720-6b9d94f7210d",
-   "title": {
-    "en": "Omnipotent Warrior"
-   },
-   "contentRating": "safe",
-   "score": 0.22616334,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "72e05e23-84c3-4980-a790-5d2b780a0ba9",
-   "title": {
-    "en": "Escape Game"
-   },
-   "contentRating": "safe",
-   "score": 0.22587697,
+   "score": 0.26476064,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f439aae5-437f-4a67-bfde-157b85ac7d00",
+   "id": "b8e2e934-48f3-4cae-bb77-4da512887cfa",
    "title": {
-    "en": "Veiled Armor: Awakening"
+    "en": "VR HERO"
    },
    "contentRating": "safe",
-   "score": 0.22540636,
+   "score": 0.26152754,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ce1e86cf-fb51-476d-b0f0-59404d78ccd6",
-   "title": {
-    "en": "Serce Mostu"
-   },
-   "contentRating": "safe",
-   "score": 0.22413893,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "065ef689-b7cb-43a7-9b97-786e8daffdbd",
-   "title": {
-    "en": "Get Back"
-   },
-   "contentRating": "safe",
-   "score": 0.22246678,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "0cceb007-46f5-43da-808c-a4afd4286587",
-   "title": {
-    "en": "My Upgradable Artifact"
-   },
-   "contentRating": "safe",
-   "score": 0.22217005,
-   "languages": [
-    "pl",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:50+00:00"
+ "updatedAt": "2023-12-10T18:08:33+00:00"
 }

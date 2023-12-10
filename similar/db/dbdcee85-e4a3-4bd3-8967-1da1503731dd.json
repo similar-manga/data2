@@ -6,14 +6,55 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d84dd0a0-dabe-4021-b722-40faf24071fe",
+   "title": {
+    "en": "About Teddy Bear"
+   },
+   "contentRating": "safe",
+   "score": 0.61143154,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "c675b210-9c7e-4988-b228-725c772ddab8",
+   "title": {
+    "en": "Young Lad's Wool Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.34344685,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5dc6c100-9ec4-4c9c-bbdf-fda4101c2cb2",
    "title": {
     "en": "Teddy Bear Tengoku"
    },
    "contentRating": "safe",
-   "score": 0.34381512,
+   "score": 0.34333625,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "2de0aa99-65fe-4b5e-a6ba-cbc6a1d07a91",
+   "title": {
+    "en": "Cermin Putih"
+   },
+   "contentRating": "safe",
+   "score": 0.29763266
+  },
+  {
+   "id": "ef41af83-eca4-47de-a163-c3a0fe760cfb",
+   "title": {
+    "en": "Feel Free to Hug Me"
+   },
+   "contentRating": "safe",
+   "score": 0.29008827,
+   "languages": [
+    "tr"
    ]
   },
   {
@@ -22,7 +63,46 @@
     "en": "Hokori"
    },
    "contentRating": "safe",
-   "score": 0.2689475,
+   "score": 0.26739115,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c7525ee2-136d-40cd-aca3-b36b6ad2104f",
+   "title": {
+    "en": "Rainy Days, Yesterday"
+   },
+   "contentRating": "safe",
+   "score": 0.2654325,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "d2d6848d-1d4f-4700-970f-fcf056484ade",
+   "title": {
+    "en": "Inu Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.26315904
+  },
+  {
+   "id": "51d3e178-143b-4b1b-b566-51d993e63921",
+   "title": {
+    "en": "Minna Ai no Seine"
+   },
+   "contentRating": "safe",
+   "score": 0.262938
+  },
+  {
+   "id": "c7354f37-45e2-4e84-8749-c2b933948e55",
+   "title": {
+    "en": "Bingo!"
+   },
+   "contentRating": "safe",
+   "score": 0.262938,
    "languages": [
     "en"
    ]
@@ -44,7 +124,7 @@
     "en": "Brother"
    },
    "contentRating": "safe",
-   "score": 0.25987467,
+   "score": 0.26046416,
    "languages": [
     "en"
    ]
@@ -55,10 +135,29 @@
     "en": "Aitsu no Daihonmei"
    },
    "contentRating": "safe",
-   "score": 0.25670415,
+   "score": 0.25623998,
    "languages": [
     "pl",
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "97698810-9f86-4a3c-884e-add6918838e3",
+   "title": {
+    "en": "Boku no Risk"
+   },
+   "contentRating": "safe",
+   "score": 0.25523534
+  },
+  {
+   "id": "59f4c867-478a-4b81-9a68-7917ce7bfc3f",
+   "title": {
+    "en": "Crazy neighbors"
+   },
+   "contentRating": "safe",
+   "score": 0.2530995,
+   "languages": [
     "en"
    ]
   },
@@ -68,129 +167,11 @@
     "en": "Boku no Yasashii Oniisan"
    },
    "contentRating": "safe",
-   "score": 0.253324,
+   "score": 0.25290853,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93051580-99ba-415b-86c7-ba36e909ce42",
-   "title": {
-    "en": "Akiru made Hanasou yo"
-   },
-   "contentRating": "safe",
-   "score": 0.25040427,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c2de9ed-5fab-4337-bd87-78df95cad4af",
-   "title": {
-    "en": "Hidamari ga Kikoeru"
-   },
-   "contentRating": "safe",
-   "score": 0.24790251,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "530163d8-e607-4fec-ba9a-f6e0cf345a59",
-   "title": {
-    "en": "Junjou Romantica"
-   },
-   "contentRating": "safe",
-   "score": 0.24592115,
-   "languages": [
-    "en",
-    "es",
-    "tr",
-    "pl"
-   ]
-  },
-  {
-   "id": "f7a7bcfe-946c-49bb-ad1e-bdaa0783ebd8",
-   "title": {
-    "en": "Edith (Anthology)"
-   },
-   "contentRating": "safe",
-   "score": 0.24002846,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "8238d378-db7e-4149-95e4-ae4a82c79dbc",
-   "title": {
-    "en": "Takumi-kun Series"
-   },
-   "contentRating": "safe",
-   "score": 0.23982058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4199bccd-6ba7-4eee-ac64-1414dd3fcad7",
-   "title": {
-    "en": "KiraKira"
-   },
-   "contentRating": "safe",
-   "score": 0.23982058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf6a6afe-c79a-424c-97ac-aabb0e9562ec",
-   "title": {
-    "en": "Seikimatsu★Darling"
-   },
-   "contentRating": "safe",
-   "score": 0.23982058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "58a992ce-6043-473f-8987-5ce81b3ca177",
-   "title": {
-    "en": "Soshite Watashi wa Kaeru ni Koisuru"
-   },
-   "contentRating": "safe",
-   "score": 0.2373109,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3f8459e4-948b-4a6b-ab7a-ac0340b44c1d",
-   "title": {
-    "en": "100 Days Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.23205854,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "8d242e4c-0b6e-416f-abca-a08e7a3cea60",
-   "title": {
-    "en": "Gingitsune"
-   },
-   "contentRating": "safe",
-   "score": 0.22739539,
-   "languages": [
-    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:50+00:00"
+ "updatedAt": "2023-12-10T18:32:39+00:00"
 }

@@ -11,7 +11,18 @@
     "en": "I Will Grant You Three Wishes"
    },
    "contentRating": "safe",
-   "score": 0.3550919,
+   "score": 0.35646728,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4c033c91-663a-4bc0-867a-c1069939acb5",
+   "title": {
+    "en": "Natalie and Mysterious Takumi"
+   },
+   "contentRating": "safe",
+   "score": 0.34875077,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Hoshi ni Negau"
    },
    "contentRating": "safe",
-   "score": 0.34582347,
+   "score": 0.34541678,
    "languages": [
     "pt-br",
     "en",
@@ -35,7 +46,7 @@
     "en": "Darling Only You!"
    },
    "contentRating": "safe",
-   "score": 0.30458513,
+   "score": 0.30381608,
    "languages": [
     "en",
     "hu"
@@ -47,7 +58,7 @@
     "en": "Tonari no Kimi"
    },
    "contentRating": "safe",
-   "score": 0.30089617,
+   "score": 0.3012108,
    "languages": [
     "en",
     "vi"
@@ -59,7 +70,7 @@
     "en": "Spicy Recipe"
    },
    "contentRating": "safe",
-   "score": 0.29711676,
+   "score": 0.29650316,
    "languages": [
     "pl",
     "en"
@@ -71,7 +82,18 @@
     "en": "Apollo"
    },
    "contentRating": "safe",
-   "score": 0.29623663,
+   "score": 0.29639238,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a901d310-ae15-41a6-80d6-b341fd010e08",
+   "title": {
+    "en": "Loving a Player"
+   },
+   "contentRating": "safe",
+   "score": 0.29572955,
    "languages": [
     "en"
    ]
@@ -82,20 +104,9 @@
     "en": "Tokyo Photograph"
    },
    "contentRating": "safe",
-   "score": 0.29608896,
+   "score": 0.29568627,
    "languages": [
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "a901d310-ae15-41a6-80d6-b341fd010e08",
-   "title": {
-    "en": "Loving a Player"
-   },
-   "contentRating": "safe",
-   "score": 0.29537305,
-   "languages": [
     "en"
    ]
   },
@@ -105,7 +116,7 @@
     "en": "Boku no Kotori-san"
    },
    "contentRating": "safe",
-   "score": 0.29245645,
+   "score": 0.29274607,
    "languages": [
     "tr",
     "fr",
@@ -120,45 +131,11 @@
     "en": "Majo to Yajuu"
    },
    "contentRating": "safe",
-   "score": 0.28939274,
+   "score": 0.29013854,
    "languages": [
     "pl",
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "934e9693-31f5-4469-b7a7-c27839d777e6",
-   "title": {
-    "en": "Little Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.2854528,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e5cc1541-7dd0-417e-85d6-30559978dbfe",
-   "title": {
-    "en": "Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
-   "title": {
-    "en": "Kemono Ni Botsuraku Ojousama"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -171,6 +148,18 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "734adb48-6ba2-45d4-9002-028f3c145f1a",
+   "title": {
+    "en": "Kemono Ni Botsuraku Ojousama"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -187,6 +176,17 @@
    ]
   },
   {
+   "id": "e5cc1541-7dd0-417e-85d6-30559978dbfe",
+   "title": {
+    "en": "Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b833f337-e87f-4c4f-88cf-c405778c277b",
    "title": {
     "en": "08:05 no Hengao-san"
@@ -199,5 +199,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:49+00:00"
+ "updatedAt": "2023-12-10T18:19:25+00:00"
 }

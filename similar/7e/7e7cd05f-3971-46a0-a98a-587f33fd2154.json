@@ -6,17 +6,6 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
-   "title": {
-    "en": "Higanjima - 48 Nichigo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22037728,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fc365b61-0551-4973-be73-19a4ac4a1c4e",
    "title": {
     "en": "TOKYO TRIBE"
@@ -28,12 +17,23 @@
    ]
   },
   {
+   "id": "3f0abf80-7ee1-44c3-9178-d5040d028f48",
+   "title": {
+    "en": "Higanjima - 48 Nichigo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21821542,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
    "title": {
     "en": "Maria no Danzai"
    },
    "contentRating": "suggestive",
-   "score": 0.21625485,
+   "score": 0.2166977,
    "languages": [
     "ru",
     "fr",
@@ -52,7 +52,7 @@
     "en": "Boy's Abyss"
    },
    "contentRating": "suggestive",
-   "score": 0.19966699,
+   "score": 0.19980796,
    "languages": [
     "es-la",
     "fr",
@@ -85,7 +85,7 @@
     "en": "Cockroach Buster"
    },
    "contentRating": "suggestive",
-   "score": 0.18736833,
+   "score": 0.18724544,
    "languages": [
     "en",
     "pl",
@@ -101,7 +101,7 @@
     "en": "Crime Game - Houritsu no Nai Sekai"
    },
    "contentRating": "suggestive",
-   "score": 0.18295045,
+   "score": 0.18248701,
    "languages": [
     "en"
    ]
@@ -112,7 +112,7 @@
     "en": "Yarukkya Knight"
    },
    "contentRating": "suggestive",
-   "score": 0.17798993,
+   "score": 0.17738196,
    "languages": [
     "en"
    ]
@@ -151,7 +151,7 @@
     "en": "Black Joke"
    },
    "contentRating": "suggestive",
-   "score": 0.16412097,
+   "score": 0.16468778,
    "languages": [
     "pt-br",
     "en"
@@ -163,7 +163,7 @@
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.1635592,
+   "score": 0.1635562,
    "languages": [
     "es",
     "en",
@@ -177,7 +177,7 @@
     "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands"
    },
    "contentRating": "suggestive",
-   "score": 0.16018021,
+   "score": 0.16010703,
    "languages": [
     "es",
     "vi",
@@ -223,7 +223,7 @@
     "en": "Berserk"
    },
    "contentRating": "suggestive",
-   "score": 0.15550447,
+   "score": 0.15540357,
    "languages": [
     "fr",
     "pt-br",
@@ -255,5 +255,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:50+00:00"
+ "updatedAt": "2023-12-10T18:22:11+00:00"
 }

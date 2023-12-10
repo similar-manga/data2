@@ -11,7 +11,18 @@
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.24166434,
+   "score": 0.24087176,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52267aef-37aa-482e-beea-44637aacee35",
+   "title": {
+    "en": "Rising Sun R"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
    "languages": [
     "en"
    ]
@@ -57,7 +68,7 @@
     "en": "The Far East Incident"
    },
    "contentRating": "safe",
-   "score": 0.20686992,
+   "score": 0.20640014,
    "languages": [
     "en"
    ]
@@ -68,7 +79,7 @@
     "en": "Rekkyou Sensen"
    },
    "contentRating": "safe",
-   "score": 0.20493855,
+   "score": 0.20462388,
    "languages": [
     "en",
     "pt-br",
@@ -81,9 +92,20 @@
     "en": "Uncanny Brains"
    },
    "contentRating": "safe",
-   "score": 0.20335372,
+   "score": 0.20200579,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b4a8e5ed-1009-4b5b-ab1a-fa33b766ec3a",
+   "title": {
+    "en": "Fujimi no Tokkouhei: Ikitoshi Ikeru Monotachi e"
+   },
+   "contentRating": "safe",
+   "score": 0.20109911,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -92,7 +114,7 @@
     "en": "Omega Tribe Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.19683662,
+   "score": 0.19599436,
    "languages": [
     "en"
    ]
@@ -103,34 +125,11 @@
     "en": "Legend of the Galactic Heroes"
    },
    "contentRating": "safe",
-   "score": 0.19499381,
+   "score": 0.19461165,
    "languages": [
     "en",
     "ru",
     "pt-br"
-   ]
-  },
-  {
-   "id": "14c7c707-17b8-47b2-b980-d575ce37afc6",
-   "title": {
-    "en": "Godzilla vs. Destroyah Red"
-   },
-   "contentRating": "safe",
-   "score": 0.1937301,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.19347636,
-   "languages": [
-    "ru",
-    "en"
    ]
   },
   {
@@ -157,13 +156,14 @@
    ]
   },
   {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
    "title": {
-    "en": "Kuusou Kagaku Edison"
+    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
    },
    "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.19307442,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -180,16 +180,16 @@
    ]
   },
   {
-   "id": "a2e59283-eee1-4fb3-8ee3-fffa701d31d0",
+   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
    "title": {
-    "en": "Yoake Mae ni Shinu"
+    "en": "Kuusou Kagaku Edison"
    },
    "contentRating": "safe",
-   "score": 0.19091079,
+   "score": 0.19166298,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:06+00:00"
+ "updatedAt": "2023-12-10T18:12:05+00:00"
 }

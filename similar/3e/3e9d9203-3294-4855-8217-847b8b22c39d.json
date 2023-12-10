@@ -11,7 +11,7 @@
     "en": "WASTE"
    },
    "contentRating": "safe",
-   "score": 0.20983599
+   "score": 0.20578156
   },
   {
    "id": "a982a905-9428-4e53-92c9-127024c10ac3",
@@ -19,15 +19,20 @@
     "en": "OWL"
    },
    "contentRating": "safe",
-   "score": 0.20039056
+   "score": 0.19990586
   },
   {
-   "id": "89d8e011-ad11-474f-bb7d-d6ee23a30653",
+   "id": "54affdd4-4bd3-499f-b9c9-7f5753639b7e",
    "title": {
-    "en": "Kurogane no Kodou"
+    "en": "Lost At The End Of The World"
    },
    "contentRating": "safe",
-   "score": 0.19172657
+   "score": 0.1975558,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
+   ]
   },
   {
    "id": "25d11bea-fe4e-444c-8199-e74de82474db",
@@ -35,7 +40,37 @@
     "en": "Pokémon the Movie 2000: The Power of One"
    },
    "contentRating": "safe",
-   "score": 0.19153325
+   "score": 0.1887698
+  },
+  {
+   "id": "cc271ca7-3c81-4d1c-994f-004a9c07169d",
+   "title": {
+    "en": "From a Twisted Mind"
+   },
+   "contentRating": "safe",
+   "score": 0.18854648,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "89d8e011-ad11-474f-bb7d-d6ee23a30653",
+   "title": {
+    "en": "Kurogane no Kodou"
+   },
+   "contentRating": "safe",
+   "score": 0.18814944
+  },
+  {
+   "id": "6a7d0f70-e41c-4385-bb1c-3868f53144d8",
+   "title": {
+    "en": "Brave Bell"
+   },
+   "contentRating": "safe",
+   "score": 0.18806262,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "65f3a784-0992-4651-8757-6e28c6a919f2",
@@ -43,7 +78,7 @@
     "en": "The Embodiment of Sins"
    },
    "contentRating": "safe",
-   "score": 0.184827,
+   "score": 0.18576005,
    "languages": [
     "en",
     "pl",
@@ -53,17 +88,47 @@
    ]
   },
   {
-   "id": "40c050de-f0a6-4e1a-b111-7b080b822c05",
+   "id": "f90a91e9-3e16-4bc9-b1f3-fd0eac1d7c82",
    "title": {
-    "en": "Kamen Rider J"
+    "en": "The Unexpectedly Strong Knight in the Elf’s Arena"
    },
    "contentRating": "safe",
-   "score": 0.18458807
+   "score": 0.18537545,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0420262c-baab-4402-96a1-f112f0fdeb41",
+   "title": {
+    "en": "Kamen Rider Black RX (BonBon)"
+   },
+   "contentRating": "safe",
+   "score": 0.18490827
   },
   {
    "id": "7b8aaa94-e7bd-4265-bd9d-baa9714742b6",
    "title": {
     "en": "Godzilla vs. Mechagodzilla II (SAKAI Takayuki)"
+   },
+   "contentRating": "safe",
+   "score": 0.18458807
+  },
+  {
+   "id": "e49a5e3a-ea88-42f4-82c1-9d4b06187463",
+   "title": {
+    "en": "Zekkyou Daiyogen"
+   },
+   "contentRating": "safe",
+   "score": 0.18458807,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bc84c72f-349a-4245-af68-a0574f96c2d5",
+   "title": {
+    "en": "Thunder Mask (Seperate Shonen Sunday)"
    },
    "contentRating": "safe",
    "score": 0.18458807
@@ -80,102 +145,21 @@
    ]
   },
   {
-   "id": "c42725e2-01a4-41f4-917e-1435073d8460",
+   "id": "40c050de-f0a6-4e1a-b111-7b080b822c05",
    "title": {
-    "en": "The Devil King Garon (Go Nagai)"
+    "en": "Kamen Rider J"
    },
    "contentRating": "safe",
-   "score": 0.18035951
+   "score": 0.18458807
   },
   {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
+   "id": "52dfba6d-61fc-419c-89a6-9fb4ea8c829d",
    "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
+    "en": "Battle Fever J (Adventure King)"
    },
    "contentRating": "safe",
-   "score": 0.17795527,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "1decb2ea-fd44-4c33-96c2-7cf3419dc7f5",
-   "title": {
-    "en": "Psychic Curse // One-shot // Le combat entre Fuko et le Shadoueruda."
-   },
-   "contentRating": "safe",
-   "score": 0.17653577,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "d0f57b4a-8a11-4fc4-9d25-de9b0527eab8",
-   "title": {
-    "en": "Shintouki: Teogonia"
-   },
-   "contentRating": "safe",
-   "score": 0.17587635,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "efadf9c9-a46a-4f42-bf53-1c314cb5eb44",
-   "title": {
-    "en": "Cage of Nightmare"
-   },
-   "contentRating": "safe",
-   "score": 0.17218064,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
-   "title": {
-    "en": "Tokyo Doragon Naito"
-   },
-   "contentRating": "safe",
-   "score": 0.17060582,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
-   "title": {
-    "en": "Choujin X"
-   },
-   "contentRating": "safe",
-   "score": 0.16583598,
-   "languages": [
-    "pt-br",
-    "ar",
-    "ru",
-    "uk",
-    "vi",
-    "en",
-    "fa",
-    "es-la",
-    "id",
-    "mn"
-   ]
-  },
-  {
-   "id": "b7f249a9-e65c-4eea-b2e4-11cb8f5e70fb",
-   "title": {
-    "en": "Gamera vs. Viras"
-   },
-   "contentRating": "safe",
-   "score": 0.1651006
+   "score": 0.18458807
   }
  ],
- "updatedAt": "2023-12-10T01:02:09+00:00"
+ "updatedAt": "2023-12-10T18:15:03+00:00"
 }

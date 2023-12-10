@@ -11,7 +11,7 @@
     "en": "Jiro Tsunoda Masterpiece Selection - Song of Women, The Sad Woman Dances"
    },
    "contentRating": "suggestive",
-   "score": 0.34837586
+   "score": 0.347658
   },
   {
    "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
@@ -19,7 +19,7 @@
     "en": "Legend of the Holy Common Man"
    },
    "contentRating": "suggestive",
-   "score": 0.24806534
+   "score": 0.24600613
   },
   {
    "id": "5439fe65-5b3a-420e-9ef4-27c9bcc49c5a",
@@ -27,7 +27,7 @@
     "en": "Boy's Abyss"
    },
    "contentRating": "suggestive",
-   "score": 0.23235,
+   "score": 0.23198073,
    "languages": [
     "es-la",
     "fr",
@@ -44,14 +44,6 @@
    ]
   },
   {
-   "id": "039a17cf-d9fe-4faf-b54d-bef9a23ef213",
-   "title": {
-    "en": "Superwoman Haruko"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19773744
-  },
-  {
    "id": "dfb1718e-6702-4606-bdb5-5ae3fa76b3b9",
    "title": {
     "en": "Shrink ~Psychiatrist Yowai~"
@@ -61,6 +53,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "039a17cf-d9fe-4faf-b54d-bef9a23ef213",
+   "title": {
+    "en": "Superwoman Haruko"
+   },
+   "contentRating": "suggestive",
+   "score": 0.196428
   },
   {
    "id": "eb228f42-f442-4f50-ab2b-b5123ae5eace",
@@ -83,7 +83,7 @@
     "en": "Showa Phantoms - Those Unforgettable Guys"
    },
    "contentRating": "suggestive",
-   "score": 0.18332829
+   "score": 0.18351766
   },
   {
    "id": "957aa2a6-761e-4f7d-8c6c-c4f84d390b20",
@@ -91,63 +91,7 @@
     "en": "What 6 Survivors Told..."
    },
    "contentRating": "suggestive",
-   "score": 0.17658944,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2862555d-a54b-4ece-92a0-aabfaaa472ae",
-   "title": {
-    "en": "Kannou Sensei"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17589879,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "abaeeeb7-c54c-420c-905c-7fff8bc26d74",
-   "title": {
-    "en": "Mikage Wants to Go Home!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17572793
-  },
-  {
-   "id": "abc27014-b522-433e-99d9-3cd5ad34db63",
-   "title": {
-    "en": "Miwa-san Narisumasu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17572793
-  },
-  {
-   "id": "a22ec4df-6292-44e2-af98-3a011a9e009d",
-   "title": {
-    "en": "Red Thimble"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1755487
-  },
-  {
-   "id": "819742bb-21a0-445e-9920-5f8dec6fcf16",
-   "title": {
-    "en": "The Small Tatami of the Great Plain"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1737255
-  },
-  {
-   "id": "8c0c1b1c-a708-435a-b142-2e4cbdab2f18",
-   "title": {
-    "en": "Haibaiyoushi Mizuiro"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16920651,
+   "score": 0.17785087,
    "languages": [
     "en"
    ]
@@ -158,7 +102,63 @@
     "en": "X Saibou wa Fukaku Iki o Suru - Energy"
    },
    "contentRating": "suggestive",
-   "score": 0.16739479,
+   "score": 0.17596537,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "abc27014-b522-433e-99d9-3cd5ad34db63",
+   "title": {
+    "en": "Miwa-san Narisumasu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17572793
+  },
+  {
+   "id": "abaeeeb7-c54c-420c-905c-7fff8bc26d74",
+   "title": {
+    "en": "Mikage Wants to Go Home!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17572793
+  },
+  {
+   "id": "a22ec4df-6292-44e2-af98-3a011a9e009d",
+   "title": {
+    "en": "Red Thimble"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17462038
+  },
+  {
+   "id": "819742bb-21a0-445e-9920-5f8dec6fcf16",
+   "title": {
+    "en": "The Small Tatami of the Great Plain"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17458934
+  },
+  {
+   "id": "2862555d-a54b-4ece-92a0-aabfaaa472ae",
+   "title": {
+    "en": "Kannou Sensei"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17431246,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "8c0c1b1c-a708-435a-b142-2e4cbdab2f18",
+   "title": {
+    "en": "Haibaiyoushi Mizuiro"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16811018,
    "languages": [
     "en"
    ]
@@ -169,8 +169,8 @@
     "en": "Shin Japan Archipelago of Toads and Frogs - The Mornings That Ring"
    },
    "contentRating": "suggestive",
-   "score": 0.16703027
+   "score": 0.16660947
   }
  ],
- "updatedAt": "2023-12-10T01:01:01+00:00"
+ "updatedAt": "2023-12-10T18:11:51+00:00"
 }

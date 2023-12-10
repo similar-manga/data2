@@ -11,7 +11,7 @@
     "en": "Organ"
    },
    "contentRating": "suggestive",
-   "score": 0.29877567,
+   "score": 0.29931396,
    "languages": [
     "it",
     "en",
@@ -27,7 +27,7 @@
     "en": "Wild School"
    },
    "contentRating": "suggestive",
-   "score": 0.23191084,
+   "score": 0.2312501,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "Woman in the Man"
    },
    "contentRating": "suggestive",
-   "score": 0.22932579,
+   "score": 0.2289597,
    "languages": [
     "pt-br",
     "en"
@@ -50,7 +50,7 @@
     "en": "Dear Sir Hannibal"
    },
    "contentRating": "suggestive",
-   "score": 0.22096172,
+   "score": 0.22054756,
    "languages": [
     "en",
     "pl",
@@ -64,7 +64,7 @@
     "en": "Shoujo Nyuumon"
    },
    "contentRating": "suggestive",
-   "score": 0.21933094,
+   "score": 0.22029743,
    "languages": [
     "id",
     "en"
@@ -84,23 +84,23 @@
    ]
   },
   {
-   "id": "d0d8cb68-5b53-47ab-92ce-d53e5bd44148",
-   "title": {
-    "en": "Lady Justice (Pre-Serialization)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20184411,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
    "title": {
     "en": "Tackle Shoujo"
    },
    "contentRating": "suggestive",
-   "score": 0.20170152,
+   "score": 0.20360087,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d0d8cb68-5b53-47ab-92ce-d53e5bd44148",
+   "title": {
+    "en": "Lady Justice (Pre-Serialization)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20182133,
    "languages": [
     "en"
    ]
@@ -111,7 +111,7 @@
     "en": "Muramasa"
    },
    "contentRating": "suggestive",
-   "score": 0.2000543,
+   "score": 0.1998289,
    "languages": [
     "en"
    ]
@@ -122,24 +122,13 @@
     "en": "Ghost Girl"
    },
    "contentRating": "suggestive",
-   "score": 0.19889379,
+   "score": 0.1990583,
    "languages": [
     "ru",
     "fr",
     "pt-br",
     "en",
     "ar"
-   ]
-  },
-  {
-   "id": "cf941ac2-4323-4a2e-a44c-81334575e7ec",
-   "title": {
-    "en": "Dead Soul Revolver"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1961789,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -160,7 +149,18 @@
     "en": "Kaii Bokumetsu Minchi-chan"
    },
    "contentRating": "suggestive",
-   "score": 0.19543529,
+   "score": 0.19512916,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cf941ac2-4323-4a2e-a44c-81334575e7ec",
+   "title": {
+    "en": "Dead Soul Revolver"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19500403,
    "languages": [
     "en"
    ]
@@ -171,7 +171,7 @@
     "en": "Absolute Duo"
    },
    "contentRating": "suggestive",
-   "score": 0.19376709,
+   "score": 0.1930876,
    "languages": [
     "pl",
     "it",
@@ -203,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:53+00:00"
+ "updatedAt": "2023-12-10T18:14:15+00:00"
 }

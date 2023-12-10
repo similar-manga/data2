@@ -11,7 +11,7 @@
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.3847754,
+   "score": 0.37776914,
    "languages": [
     "pt-br",
     "en"
@@ -23,7 +23,7 @@
     "en": "Blood-Coloured Forbidden Territory"
    },
    "contentRating": "safe",
-   "score": 0.3217524,
+   "score": 0.3204545,
    "languages": [
     "en",
     "pl"
@@ -35,7 +35,7 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.31420466,
+   "score": 0.31352603,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Dandelion"
    },
    "contentRating": "safe",
-   "score": 0.3126794,
+   "score": 0.31193858,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "Disaster, Old Man and Monster"
    },
    "contentRating": "safe",
-   "score": 0.30160174,
+   "score": 0.30020586,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Fizon Core"
    },
    "contentRating": "safe",
-   "score": 0.2979302,
+   "score": 0.29727888,
    "languages": [
     "en"
    ]
@@ -79,25 +79,10 @@
     "en": "Monster and Child"
    },
    "contentRating": "safe",
-   "score": 0.29741398,
+   "score": 0.29352334,
    "languages": [
     "en",
     "de"
-   ]
-  },
-  {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
    ]
   },
   {
@@ -108,19 +93,6 @@
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77e41751-a5d7-47ac-af24-e3463d5dfbd8",
-   "title": {
-    "en": "Justice League Origins: Wonder Woman"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "it",
-    "fr",
     "en"
    ]
   },
@@ -172,12 +144,40 @@
    ]
   },
   {
+   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
+   "title": {
+    "en": "Bleach (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es",
+    "fr"
+   ]
+  },
+  {
+   "id": "77e41751-a5d7-47ac-af24-e3463d5dfbd8",
+   "title": {
+    "en": "Justice League Origins: Wonder Woman"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "it",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
    "title": {
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.27929494,
+   "score": 0.27823752,
    "languages": [
     "pt-br",
     "en",
@@ -191,11 +191,11 @@
     "en": "Kamishiro  Sōsa"
    },
    "contentRating": "safe",
-   "score": 0.2716625,
+   "score": 0.27115178,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:55+00:00"
+ "updatedAt": "2023-12-10T18:30:21+00:00"
 }

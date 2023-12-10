@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fcb2b76e-188e-4657-9e1e-759bb2437433",
+   "title": {
+    "en": "Human Rendering"
+   },
+   "contentRating": "safe",
+   "score": 0.28304052,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
     "en": "Evil Eater"
    },
    "contentRating": "safe",
-   "score": 0.2828676,
+   "score": 0.2814684,
    "languages": [
     "en"
    ]
@@ -22,7 +34,29 @@
     "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
    },
    "contentRating": "safe",
-   "score": 0.25024706,
+   "score": 0.24992967,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "942fe629-c1d2-4594-85a8-cb49f7ff47fb",
+   "title": {
+    "en": "The Broken Girl and the Devil's Bride"
+   },
+   "contentRating": "safe",
+   "score": 0.24515559,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f44c1ae4-75d6-4ff6-9e5c-7330773e2dbd",
+   "title": {
+    "en": "Darkness and Death"
+   },
+   "contentRating": "safe",
+   "score": 0.24159469,
    "languages": [
     "en"
    ]
@@ -33,7 +67,7 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.24123512,
+   "score": 0.2409032,
    "languages": [
     "it",
     "pl",
@@ -42,9 +76,34 @@
    ]
   },
   {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "Majo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.24087529,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "2dead4db-6d7e-4853-b4a0-895168555425",
    "title": {
     "en": "Calamity Lost"
+   },
+   "contentRating": "safe",
+   "score": 0.2388799,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
    },
    "contentRating": "safe",
    "score": 0.2388799,
@@ -72,7 +131,7 @@
     "en": "Rakshasa Street"
    },
    "contentRating": "safe",
-   "score": 0.23788565,
+   "score": 0.23768628,
    "languages": [
     "fr",
     "en",
@@ -86,18 +145,18 @@
     "en": "The Code to the Evolutionary Spiral"
    },
    "contentRating": "safe",
-   "score": 0.23711973,
+   "score": 0.23703717,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "3b7a12a9-c86d-4092-800b-ca3bfaa8d5f9",
+   "id": "db2193b1-763e-405b-a290-6113599f24c0",
    "title": {
-    "en": "Tales of Phantasia"
+    "en": "Stray Dog (VanRah)"
    },
    "contentRating": "safe",
-   "score": 0.22937822,
+   "score": 0.23448674,
    "languages": [
     "en"
    ]
@@ -108,98 +167,34 @@
     "en": "Kuma-san to Issho"
    },
    "contentRating": "safe",
-   "score": 0.22874643,
+   "score": 0.22968414,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "663c0803-96a5-4ab9-91c5-795c114c88b1",
+   "id": "3b7a12a9-c86d-4092-800b-ca3bfaa8d5f9",
    "title": {
-    "en": "Haigakura"
+    "en": "Tales of Phantasia"
    },
    "contentRating": "safe",
-   "score": 0.22772494,
+   "score": 0.2287754,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "08e503f6-2ec1-488d-bc25-3b3222524296",
+   "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
    "title": {
-    "en": "Killer Dream"
+    "en": "Dorara"
    },
    "contentRating": "safe",
-   "score": 0.22409512,
-   "languages": [
-    "fr",
-    "ar",
-    "vi",
-    "en",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "011b52e3-4389-4f32-a7e1-1e799078fad2",
-   "title": {
-    "en": "Gui Wang"
-   },
-   "contentRating": "safe",
-   "score": 0.22390136,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
-   "title": {
-    "en": "2 x Bone"
-   },
-   "contentRating": "safe",
-   "score": 0.22334282,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "390009ac-c723-43d6-a146-84129eeddb93",
-   "title": {
-    "en": "Yongbyeong Maluhan"
-   },
-   "contentRating": "safe",
-   "score": 0.22251144,
+   "score": 0.22808148,
    "languages": [
     "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "f0954799-3cbd-4be0-805e-29161edfa312",
-   "title": {
-    "en": "Death Edge"
-   },
-   "contentRating": "safe",
-   "score": 0.22147639,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "7e05f6e9-5724-4a61-9c83-9215934d1bd1",
-   "title": {
-    "en": "Continue"
-   },
-   "contentRating": "safe",
-   "score": 0.22140071,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl",
-    "bg"
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:59+00:00"
+ "updatedAt": "2023-12-10T18:11:45+00:00"
 }

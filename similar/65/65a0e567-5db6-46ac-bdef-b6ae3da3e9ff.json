@@ -11,7 +11,7 @@
     "en": "One Piece x Toriko: Taste of the Devil Fruit"
    },
    "contentRating": "safe",
-   "score": 0.34249422,
+   "score": 0.38184485,
    "languages": [
     "en",
     "ca",
@@ -20,12 +20,24 @@
    ]
   },
   {
+   "id": "3ba413e9-52bc-4ca9-b5f0-f55335e2f880",
+   "title": {
+    "en": "Captain Tsubasa Memories"
+   },
+   "contentRating": "safe",
+   "score": 0.2943747,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
    "title": {
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.28341442,
+   "score": 0.29371682,
    "languages": [
     "en",
     "pt-br"
@@ -37,31 +49,19 @@
     "en": "Aosora"
    },
    "contentRating": "safe",
-   "score": 0.2814671,
+   "score": 0.28947064,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "3ba413e9-52bc-4ca9-b5f0-f55335e2f880",
+   "id": "6936894a-d42c-4e7f-a363-c54ac91ac435",
    "title": {
-    "en": "Captain Tsubasa Memories"
+    "en": "Toriko (2002) (Pre-serialization)"
    },
    "contentRating": "safe",
-   "score": 0.27345893,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "964ea790-bbec-460e-9b20-9cbe26c2518f",
-   "title": {
-    "en": "Terrace House Dust"
-   },
-   "contentRating": "safe",
-   "score": 0.26910654,
+   "score": 0.2875422,
    "languages": [
     "en"
    ]
@@ -72,22 +72,11 @@
     "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.2685092,
+   "score": 0.2835414,
    "languages": [
     "en",
     "pt-br",
     "it"
-   ]
-  },
-  {
-   "id": "6936894a-d42c-4e7f-a363-c54ac91ac435",
-   "title": {
-    "en": "Toriko (2002) (Pre-serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.26465333,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -96,7 +85,7 @@
     "en": "The Time of Cherry Blossoms"
    },
    "contentRating": "safe",
-   "score": 0.25555155,
+   "score": 0.2725428,
    "languages": [
     "en"
    ]
@@ -107,12 +96,23 @@
     "en": "Shihatsu Densha"
    },
    "contentRating": "safe",
-   "score": 0.2554759,
+   "score": 0.26720637,
    "languages": [
     "en",
     "vi",
     "fr",
     "pt-br"
+   ]
+  },
+  {
+   "id": "964ea790-bbec-460e-9b20-9cbe26c2518f",
+   "title": {
+    "en": "Terrace House Dust"
+   },
+   "contentRating": "safe",
+   "score": 0.2617569,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -138,17 +138,6 @@
    ]
   },
   {
-   "id": "95dd56d7-da37-4139-a4f6-7662aef3678b",
-   "title": {
-    "en": "Majime na Papa ni wa Ura ga aru"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "76e7504b-8461-49ab-82d8-253ede464058",
    "title": {
     "en": "Karaoke no Hi"
@@ -160,25 +149,36 @@
    ]
   },
   {
-   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
+   "id": "5ad82f6a-4898-4f5b-ae0d-f1cc42f1a031",
    "title": {
-    "en": "Hoshi no Alien ni Doryokushou wo."
+    "en": "Kakeau Tsukihi"
    },
    "contentRating": "safe",
-   "score": 0.23816082,
+   "score": 0.24983473,
    "languages": [
-    "fr",
     "en"
    ]
   },
   {
-   "id": "6d8a2637-c260-45d9-9b24-bfc6da33c911",
+   "id": "95dd56d7-da37-4139-a4f6-7662aef3678b",
    "title": {
-    "en": "Kunimitsu no Matsuri"
+    "en": "Majime na Papa ni wa Ura ga aru"
    },
    "contentRating": "safe",
-   "score": 0.2379838,
+   "score": 0.24983473,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6b8ab373-d2cc-4f01-b37a-7f142ac2f16c",
+   "title": {
+    "en": "Gokumane!"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -188,7 +188,7 @@
     "en": "But You’re the One Who Taught Me!"
    },
    "contentRating": "safe",
-   "score": 0.23673901,
+   "score": 0.24534298,
    "languages": [
     "en",
     "id",
@@ -196,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:47+00:00"
+ "updatedAt": "2023-12-10T18:19:19+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "One in a Hundred"
    },
    "contentRating": "safe",
-   "score": 0.21136804,
+   "score": 0.20983168,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mobile Suit Gundam NT (NARRATIVE)"
    },
    "contentRating": "safe",
-   "score": 0.20853955,
+   "score": 0.2070576,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity I: Quarantined Territory of Malice, Shinjuku - Shinjuku Phantom Incident"
    },
    "contentRating": "safe",
-   "score": 0.20020106,
+   "score": 0.19868079,
    "languages": [
     "en",
     "fr",
@@ -49,7 +49,7 @@
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.19820745,
+   "score": 0.19861875,
    "languages": [
     "pt-br",
     "en",
@@ -58,25 +58,25 @@
    ]
   },
   {
-   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
-   "title": {
-    "en": "High Energy Core"
-   },
-   "contentRating": "safe",
-   "score": 0.18963166,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
    "title": {
     "en": "Rairairai"
    },
    "contentRating": "safe",
-   "score": 0.18639956,
+   "score": 0.18620992,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b068ed5d-5a41-44ec-9ec0-4f0b5c90bf4a",
+   "title": {
+    "en": "High Energy Core"
+   },
+   "contentRating": "safe",
+   "score": 0.18519774,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -86,7 +86,7 @@
     "en": "Code Geass: Lelouch of the Re;surrection"
    },
    "contentRating": "safe",
-   "score": 0.18326549,
+   "score": 0.18150434,
    "languages": [
     "en"
    ]
@@ -97,7 +97,7 @@
     "en": "CROSS Blood"
    },
    "contentRating": "safe",
-   "score": 0.18006676,
+   "score": 0.17803888,
    "languages": [
     "en"
    ]
@@ -108,7 +108,7 @@
     "en": "Cafe Occult"
    },
    "contentRating": "safe",
-   "score": 0.17873916,
+   "score": 0.1777904,
    "languages": [
     "en"
    ]
@@ -119,7 +119,7 @@
     "en": "Crescent Noise"
    },
    "contentRating": "safe",
-   "score": 0.17849302,
+   "score": 0.17749764,
    "languages": [
     "en"
    ]
@@ -130,7 +130,7 @@
     "en": "Mobile Suit Gundam F90 FF"
    },
    "contentRating": "safe",
-   "score": 0.17535871,
+   "score": 0.17513323,
    "languages": [
     "en"
    ]
@@ -141,7 +141,18 @@
     "en": "Metal Back"
    },
    "contentRating": "safe",
-   "score": 0.17422608,
+   "score": 0.17386234,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "title": {
+    "en": "Strange Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.17330357,
    "languages": [
     "en"
    ]
@@ -152,18 +163,7 @@
     "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
    },
    "contentRating": "safe",
-   "score": 0.17376043,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c6f87e50-3513-4109-8cbc-ddf49b0d4cd7",
-   "title": {
-    "en": "E's"
-   },
-   "contentRating": "safe",
-   "score": 0.17322946,
+   "score": 0.17234483,
    "languages": [
     "en"
    ]
@@ -185,11 +185,11 @@
     "en": "Astral Walker"
    },
    "contentRating": "safe",
-   "score": 0.17189434,
+   "score": 0.17153639,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:19+00:00"
+ "updatedAt": "2023-12-10T18:33:49+00:00"
 }

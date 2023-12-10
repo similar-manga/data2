@@ -6,41 +6,18 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "deb17077-6e45-4c60-b87d-5e323eac8385",
-   "title": {
-    "en": "I Made a Harem in the Underworld"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2719252,
-   "languages": [
-    "pt-br",
-    "id"
-   ]
-  },
-  {
    "id": "69de8c01-d627-4e28-9691-40effef12006",
    "title": {
     "en": "First Rate Master"
    },
    "contentRating": "suggestive",
-   "score": 0.27159578,
+   "score": 0.26909125,
    "languages": [
     "en",
     "ru",
     "pt-br",
     "fr",
     "de"
-   ]
-  },
-  {
-   "id": "ca3692c0-2abe-4fba-91f4-1c76611539c6",
-   "title": {
-    "en": "The Ultimate of All Ages"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2678479,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -55,28 +32,51 @@
    ]
   },
   {
+   "id": "ca3692c0-2abe-4fba-91f4-1c76611539c6",
+   "title": {
+    "en": "The Ultimate of All Ages"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26601154,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "50d42a64-17e5-419e-badb-1bbe0f1f9d7b",
    "title": {
     "en": "Save a Female Assassin"
    },
    "contentRating": "suggestive",
-   "score": 0.2654636,
+   "score": 0.2630157,
    "languages": [
     "pt-br",
     "fr"
    ]
   },
   {
-   "id": "9e4ab6ae-f730-4ce2-a528-97986beb8549",
+   "id": "deb17077-6e45-4c60-b87d-5e323eac8385",
    "title": {
-    "en": "Martial Arts Reigns"
+    "en": "I Made a Harem in the Underworld"
    },
    "contentRating": "suggestive",
-   "score": 0.2585584,
+   "score": 0.26243484,
    "languages": [
-    "fr",
     "pt-br",
-    "en"
+    "id"
+   ]
+  },
+  {
+   "id": "e7ba08c3-1a53-4873-b46a-ff3b8fa8d259",
+   "title": {
+    "en": "God Among Men"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25798813,
+   "languages": [
+    "pl",
+    "en",
+    "fr"
    ]
   },
   {
@@ -94,12 +94,25 @@
    ]
   },
   {
+   "id": "9e4ab6ae-f730-4ce2-a528-97986beb8549",
+   "title": {
+    "en": "Martial Arts Reigns"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25526148,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "1b1ea715-c8f2-437d-ab86-6dec2b2b77ab",
    "title": {
     "en": "Immortal Swordsman In The Reverse World"
    },
    "contentRating": "suggestive",
-   "score": 0.24723239,
+   "score": 0.2467215,
    "languages": [
     "en",
     "pt-br",
@@ -117,22 +130,9 @@
     "en": "Stop Summoning Me!"
    },
    "contentRating": "suggestive",
-   "score": 0.24342532,
+   "score": 0.2433679,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e7ba08c3-1a53-4873-b46a-ff3b8fa8d259",
-   "title": {
-    "en": "God Among Men"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24192853,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
    ]
   },
   {
@@ -141,7 +141,7 @@
     "en": "Treading on Fire, Yuwen Jun!"
    },
    "contentRating": "suggestive",
-   "score": 0.24036855,
+   "score": 0.24005273,
    "languages": [
     "en",
     "id",
@@ -155,7 +155,7 @@
     "en": "Space China Dress"
    },
    "contentRating": "suggestive",
-   "score": 0.23777509,
+   "score": 0.23618549,
    "languages": [
     "en"
    ]
@@ -178,22 +178,9 @@
     "en": "I Signed Killing God in the Wasteland"
    },
    "contentRating": "suggestive",
-   "score": 0.23246457,
+   "score": 0.23219077,
    "languages": [
     "id"
-   ]
-  },
-  {
-   "id": "3ffcd140-1f80-4870-8550-d40836cec5c3",
-   "title": {
-    "en": "I Changed My Life By Signing In"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23046672,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
    ]
   },
   {
@@ -202,11 +189,24 @@
     "en": "Becoming A God By Teaching Six Sisters"
    },
    "contentRating": "suggestive",
-   "score": 0.22773498,
+   "score": 0.23031384,
    "languages": [
     "pt-br"
    ]
+  },
+  {
+   "id": "3ffcd140-1f80-4870-8550-d40836cec5c3",
+   "title": {
+    "en": "I Changed My Life By Signing In"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23018922,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T00:59:51+00:00"
+ "updatedAt": "2023-12-10T18:08:37+00:00"
 }

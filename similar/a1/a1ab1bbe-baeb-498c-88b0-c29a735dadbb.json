@@ -11,7 +11,7 @@
     "en": "Koisuru Twintail"
    },
    "contentRating": "safe",
-   "score": 0.30138156,
+   "score": 0.29954183,
    "languages": [
     "id",
     "en",
@@ -24,7 +24,42 @@
     "en": "Foo Fighter Fuji"
    },
    "contentRating": "safe",
-   "score": 0.29086256,
+   "score": 0.28800955,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77316ee2-aacf-4dab-ae63-eb9998af5ab0",
+   "title": {
+    "en": "Sengoku ARMORS (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.26892367,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e89d4b05-714f-4e64-8105-4243858909f0",
+   "title": {
+    "en": "Sono Koi, Damasarete Imasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.26567528,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "09d51cdd-e3c1-4537-8f58-2fb959bee5bc",
+   "title": {
+    "en": "Bokuretsu Manken Love Gun"
+   },
+   "contentRating": "safe",
+   "score": 0.26512828,
    "languages": [
     "en"
    ]
@@ -35,42 +70,7 @@
     "en": "Money, Romance and Me"
    },
    "contentRating": "safe",
-   "score": 0.27056298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e89d4b05-714f-4e64-8105-4243858909f0",
-   "title": {
-    "en": "Sono Koi, Damasarete Imasenka?"
-   },
-   "contentRating": "safe",
-   "score": 0.26948786,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "77316ee2-aacf-4dab-ae63-eb9998af5ab0",
-   "title": {
-    "en": "Sengoku ARMORS (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.26900372,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "09d51cdd-e3c1-4537-8f58-2fb959bee5bc",
-   "title": {
-    "en": "Bokuretsu Manken Love Gun"
-   },
-   "contentRating": "safe",
-   "score": 0.26697,
+   "score": 0.265021,
    "languages": [
     "en"
    ]
@@ -81,25 +81,11 @@
     "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.26231298,
+   "score": 0.25722542,
    "languages": [
     "en",
     "pt-br",
     "vi"
-   ]
-  },
-  {
-   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
-   "title": {
-    "en": "My Girlfriend will be a Mangaka"
-   },
-   "contentRating": "safe",
-   "score": 0.26131418,
-   "languages": [
-    "id",
-    "vi",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -108,39 +94,16 @@
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.2593082,
+   "score": 0.2571231,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "816b8429-118d-46bd-9cdc-9554c816bde1",
+   "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
    "title": {
-    "en": "No Strategy, No Bullshit."
-   },
-   "contentRating": "safe",
-   "score": 0.25618392,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
-   "title": {
-    "en": "Selling Me Softly"
-   },
-   "contentRating": "safe",
-   "score": 0.2561534,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "6e2bd92d-864a-4326-be63-b5e542e669a9",
-   "title": {
-    "en": "Pupupunopu"
+    "en": "Love You"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -149,9 +112,20 @@
    ]
   },
   {
-   "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
+   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
    "title": {
-    "en": "Love You"
+    "en": "Chingiri"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3f8a6138-a19e-4ba0-b6f3-0b8c8badfe9f",
+   "title": {
+    "en": "Violent Path Martial Arts School"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -172,9 +146,9 @@
    ]
   },
   {
-   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "id": "6e2bd92d-864a-4326-be63-b5e542e669a9",
    "title": {
-    "en": "Chingiri"
+    "en": "Pupupunopu"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -183,16 +157,42 @@
    ]
   },
   {
-   "id": "dc30f1e2-506b-4e51-8ad5-e2b77ede5949",
+   "id": "c486de89-d9a1-48a6-889c-ecc2efc65465",
    "title": {
-    "en": "Lemonade Girl"
+    "en": "Will"
    },
    "contentRating": "safe",
-   "score": 0.24922702,
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "006fa844-b8d0-4fc1-a3ff-ec5ab63223e5",
+   "title": {
+    "en": "My Girlfriend will be a Mangaka"
+   },
+   "contentRating": "safe",
+   "score": 0.25523952,
+   "languages": [
+    "id",
+    "vi",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
+   "title": {
+    "en": "Selling Me Softly"
+   },
+   "contentRating": "safe",
+   "score": 0.25460646,
+   "languages": [
+    "en",
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:25+00:00"
+ "updatedAt": "2023-12-10T18:26:20+00:00"
 }

@@ -6,14 +6,59 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.33517143,
+   "languages": [
+    "en",
+    "es-la",
+    "zh-hk",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "50bf01cf-8485-4806-a070-3ee7b4a52333",
    "title": {
     "en": "Kirisuke and Johnny, The Slaying of 499"
    },
    "contentRating": "safe",
-   "score": 0.23982662,
+   "score": 0.24124548,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.22598648,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
+   "title": {
+    "en": "Out"
+   },
+   "contentRating": "safe",
+   "score": 0.22460489,
+   "languages": [
+    "fr",
+    "pt-br",
+    "es-la",
+    "en",
+    "tr",
+    "ru",
+    "fa"
    ]
   },
   {
@@ -34,7 +79,7 @@
     "en": "86 -Eighty Six- Run Through the Battlefront"
    },
    "contentRating": "safe",
-   "score": 0.18061528,
+   "score": 0.1806343,
    "languages": [
     "en",
     "ru"
@@ -61,11 +106,24 @@
     "en": "Zansatsu! Ponytail"
    },
    "contentRating": "safe",
-   "score": 0.17329155,
+   "score": 0.1747036,
    "languages": [
     "fr",
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "6b71c43c-dacb-46a1-b1a4-d35b1b42ea40",
+   "title": {
+    "en": "Marchioness Emilia's Butler Jack Is Deep in Debt"
+   },
+   "contentRating": "safe",
+   "score": 0.1661518,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
    ]
   },
   {
@@ -74,9 +132,21 @@
     "en": "Please Eat Me, My Darling"
    },
    "contentRating": "safe",
-   "score": 0.16199656,
+   "score": 0.16212633,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "55c4c609-758b-4530-a313-a88d547611ef",
+   "title": {
+    "en": "Never-Ending Afternoon"
+   },
+   "contentRating": "safe",
+   "score": 0.16138251,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -106,15 +176,14 @@
    ]
   },
   {
-   "id": "55c4c609-758b-4530-a313-a88d547611ef",
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
    "title": {
-    "en": "Never-Ending Afternoon"
+    "en": "Groundless"
    },
    "contentRating": "safe",
-   "score": 0.15945789,
+   "score": 0.16058835,
    "languages": [
-    "en",
-    "it"
+    "en"
    ]
   },
   {
@@ -144,64 +213,7 @@
     "de",
     "tr"
    ]
-  },
-  {
-   "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
-   "title": {
-    "en": "More Than Human: Spiderman Another Story!!"
-   },
-   "contentRating": "safe",
-   "score": 0.15861271,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c872ee4c-a5d8-4d55-b603-29161f876d7c",
-   "title": {
-    "en": "Star Wars - The Mandalorian"
-   },
-   "contentRating": "safe",
-   "score": 0.15774544,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
-   "title": {
-    "en": "Shin Megami Tensei - Kahn"
-   },
-   "contentRating": "safe",
-   "score": 0.1555278,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ea34c5c0-7534-458a-a922-df1e66b51098",
-   "title": {
-    "en": "Le Chevalier d'Eon"
-   },
-   "contentRating": "safe",
-   "score": 0.15525864,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "044a058e-71af-4169-a3b7-c319c7e8d99a",
-   "title": {
-    "en": "TC-225"
-   },
-   "contentRating": "safe",
-   "score": 0.15515956,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:21+00:00"
+ "updatedAt": "2023-12-10T18:15:35+00:00"
 }

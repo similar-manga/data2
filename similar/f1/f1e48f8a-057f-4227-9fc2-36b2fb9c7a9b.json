@@ -6,12 +6,37 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a2feaf2a-cbee-44bb-b188-1e9ae3ecc7ab",
+   "title": {
+    "en": "Hanzawa Naoki"
+   },
+   "contentRating": "safe",
+   "score": 0.25830176,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5a9153e4-ec0d-41a8-a3f2-6d0ff4be74a4",
    "title": {
     "en": "Like Shooting Stars in the Twilight"
    },
    "contentRating": "safe",
-   "score": 0.2568982
+   "score": 0.25774232
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.2503457,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
+   ]
   },
   {
    "id": "42713c15-f28d-4e0f-8a3a-1445c74a3cc1",
@@ -19,7 +44,7 @@
     "en": "What's Michael?"
    },
    "contentRating": "safe",
-   "score": 0.24237908,
+   "score": 0.246091,
    "languages": [
     "de",
     "en"
@@ -31,7 +56,7 @@
     "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
-   "score": 0.23782367,
+   "score": 0.24266426,
    "languages": [
     "en"
    ]
@@ -42,7 +67,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.2365186,
+   "score": 0.24214341,
    "languages": [
     "pt-br",
     "es-la",
@@ -60,7 +85,7 @@
     "en": "Golden Gold"
    },
    "contentRating": "safe",
-   "score": 0.2236243,
+   "score": 0.22691067,
    "languages": [
     "en",
     "es-la"
@@ -72,25 +97,40 @@
     "en": "Double"
    },
    "contentRating": "safe",
-   "score": 0.21644104,
+   "score": 0.2257122,
    "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "id": "50cb0480-1baf-4c63-b8c4-0145d1f1cd5e",
    "title": {
-    "en": "March Comes in Like a Lion"
+    "en": "We Shall Now Begin Ethics"
    },
    "contentRating": "safe",
-   "score": 0.21543999,
+   "score": 0.21152778,
    "languages": [
+    "fr",
+    "zh-hk",
     "en",
-    "pt-br",
+    "ru",
     "es-la",
-    "vi"
+    "ro",
+    "pt-br",
+    "tr",
+    "vi",
+    "pl",
+    "id"
    ]
+  },
+  {
+   "id": "c71a8641-2e04-4213-97d8-e8d7f080be23",
+   "title": {
+    "en": "Do your Best, Masako-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.20644674
   },
   {
    "id": "c411bbfb-043e-421e-bafb-e2d206ff7ac4",
@@ -98,11 +138,31 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.19654761,
+   "score": 0.20127289,
    "languages": [
     "en",
     "es-la",
     "fr"
+   ]
+  },
+  {
+   "id": "f591e541-a6ca-4ad1-a18d-2a682891a704",
+   "title": {
+    "en": "The Osamu Tezuka Story"
+   },
+   "contentRating": "safe",
+   "score": 0.1964271
+  },
+  {
+   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
+   "title": {
+    "en": "Meganebashi Hanako no Mitate"
+   },
+   "contentRating": "safe",
+   "score": 0.19398345,
+   "languages": [
+    "zh-hk",
+    "en"
    ]
   },
   {
@@ -111,7 +171,7 @@
     "en": "The Long Cavern"
    },
    "contentRating": "safe",
-   "score": 0.19214197,
+   "score": 0.19270368,
    "languages": [
     "en"
    ]
@@ -122,7 +182,7 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.19166438,
+   "score": 0.19130756,
    "languages": [
     "en"
    ]
@@ -133,66 +193,12 @@
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.19026339,
+   "score": 0.19075632,
    "languages": [
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.18817538,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
-   ]
-  },
-  {
-   "id": "9f03fd07-8012-4032-ad95-31458704b601",
-   "title": {
-    "en": "The Gourmet"
-   },
-   "contentRating": "safe",
-   "score": 0.18808748
-  },
-  {
-   "id": "a16ce0c1-da89-45c0-b453-4eba7cf6b28d",
-   "title": {
-    "en": "Yomawari Neko"
-   },
-   "contentRating": "safe",
-   "score": 0.18671966
-  },
-  {
-   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
-   "title": {
-    "en": "Fragile - Byourii Kishi Keiichirou no Shoken"
-   },
-   "contentRating": "safe",
-   "score": 0.18372896,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "321c153e-3b39-4908-89d8-622fb6e8c813",
-   "title": {
-    "en": "Juuhan Shuttai!"
-   },
-   "contentRating": "safe",
-   "score": 0.17898683
   }
  ],
- "updatedAt": "2023-12-10T01:09:45+00:00"
+ "updatedAt": "2023-12-10T18:34:54+00:00"
 }

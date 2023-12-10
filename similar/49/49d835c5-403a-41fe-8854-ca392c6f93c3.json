@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c71968a9-0c27-451c-a207-e02e669ae3a9",
+   "title": {
+    "en": "Mobile Suit Gundam - MS Generation"
+   },
+   "contentRating": "safe",
+   "score": 0.33990118
+  },
+  {
    "id": "b2cf91e9-f34f-4646-b5c6-9c2fb768f033",
    "title": {
     "en": "Turn A Gundam"
    },
    "contentRating": "safe",
-   "score": 0.32676077
+   "score": 0.33293006
   },
   {
    "id": "69373c97-2794-4304-97b7-7477975f962f",
@@ -19,7 +27,7 @@
     "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
-   "score": 0.30786428,
+   "score": 0.31119305,
    "languages": [
     "en"
    ]
@@ -30,7 +38,7 @@
     "en": "Mobile Suit Gundam 0080: War in the Pocket"
    },
    "contentRating": "safe",
-   "score": 0.29454377
+   "score": 0.30194452
   },
   {
    "id": "61c19ae3-9cab-4266-a0c8-265571a2b055",
@@ -38,7 +46,7 @@
     "en": "Mobile Fighter G Gundam: Revenge of J Gundam"
    },
    "contentRating": "safe",
-   "score": 0.29410928
+   "score": 0.29820788
   },
   {
    "id": "e9adf937-bc19-4d94-8b34-88fd74615737",
@@ -46,7 +54,7 @@
     "en": "Mobile Suit Gundam N-Extreme"
    },
    "contentRating": "safe",
-   "score": 0.27547517,
+   "score": 0.27899337,
    "languages": [
     "en"
    ]
@@ -57,7 +65,7 @@
     "en": "Gundam Reconguista in G"
    },
    "contentRating": "safe",
-   "score": 0.2741774
+   "score": 0.27399722
   },
   {
    "id": "6ea6a544-b6fd-4ca4-b1ec-b3050ab6527a",
@@ -65,37 +73,7 @@
     "en": "New Mobile Report Gundam Wing - Endless Waltz"
    },
    "contentRating": "safe",
-   "score": 0.2635032
-  },
-  {
-   "id": "bf40a110-e476-4940-8e40-6515978d6dea",
-   "title": {
-    "en": "Sleipnir"
-   },
-   "contentRating": "safe",
-   "score": 0.25713792,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc3124ba-1149-434b-aa87-a30415df13a9",
-   "title": {
-    "en": "Yuusha-Ou GaoGaiGar Gaiden King J-Der -Shakunetsu no Fushichou-"
-   },
-   "contentRating": "safe",
-   "score": 0.25705215,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e7ea7865-7afb-4e50-b2ea-18d9e9cd3d86",
-   "title": {
-    "en": "Tamaroid Super C Gundam"
-   },
-   "contentRating": "safe",
-   "score": 0.25518063
+   "score": 0.27192605
   },
   {
    "id": "edeaa692-d882-4957-bf0a-26dcbc3bb6ab",
@@ -103,28 +81,15 @@
     "en": "SD Gundam Sangokuden War God Duel"
    },
    "contentRating": "safe",
-   "score": 0.25299025
+   "score": 0.26024398
   },
   {
-   "id": "7a21e99a-98e6-461f-b7ac-43264ba9ea42",
+   "id": "e7ea7865-7afb-4e50-b2ea-18d9e9cd3d86",
    "title": {
-    "en": "The Legendary Mechanic"
+    "en": "Tamaroid Super C Gundam"
    },
    "contentRating": "safe",
-   "score": 0.25213435,
-   "languages": [
-    "pt-br",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "cdf82c3d-b841-421a-b2ca-c3859d5b77d3",
-   "title": {
-    "en": "Superior Defender Gundam Force"
-   },
-   "contentRating": "safe",
-   "score": 0.25209
+   "score": 0.2594593
   },
   {
    "id": "2eb51dbb-ac18-451e-b186-650723f2d9f1",
@@ -132,27 +97,59 @@
     "en": "Mobile Suit Gundam F91"
    },
    "contentRating": "safe",
-   "score": 0.25182623
+   "score": 0.25877324
   },
   {
-   "id": "c6a9b2c0-5dd1-4724-95e6-2c84eb479dd2",
+   "id": "cdf82c3d-b841-421a-b2ca-c3859d5b77d3",
    "title": {
-    "en": "Dino-Mecha Gaiking"
+    "en": "Superior Defender Gundam Force"
    },
    "contentRating": "safe",
-   "score": 0.24983473
+   "score": 0.2577754
   },
   {
-   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
+   "id": "dc3124ba-1149-434b-aa87-a30415df13a9",
    "title": {
-    "en": "Shin Henkei Shoujo"
+    "en": "Yuusha-Ou GaoGaiGar Gaiden King J-Der -Shakunetsu no Fushichou-"
    },
    "contentRating": "safe",
-   "score": 0.24983473,
+   "score": 0.25753915,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "bf40a110-e476-4940-8e40-6515978d6dea",
+   "title": {
+    "en": "Sleipnir"
+   },
+   "contentRating": "safe",
+   "score": 0.25601304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "43162dea-10f8-4302-adca-3a1d72a5b8a8",
+   "title": {
+    "en": "SD Gundam Force Side Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.25261065
+  },
+  {
+   "id": "7a21e99a-98e6-461f-b7ac-43264ba9ea42",
+   "title": {
+    "en": "The Legendary Mechanic"
+   },
+   "contentRating": "safe",
+   "score": 0.25220004,
+   "languages": [
+    "pt-br",
+    "en",
+    "id"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:37+00:00"
+ "updatedAt": "2023-12-10T18:16:17+00:00"
 }

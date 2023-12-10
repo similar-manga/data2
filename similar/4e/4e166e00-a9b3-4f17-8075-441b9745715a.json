@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4b1b5cc9-1889-4ebc-b613-f7e2142ff2fe",
+   "title": {
+    "en": "Bocchi The Rock! Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.30677935,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "d1ff0c34-fd8e-4632-b475-39aa027cbc1c",
    "title": {
     "en": "13 Sentinels: Aegis Rim Official Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.2712086,
+   "score": 0.26937827,
    "languages": [
     "en"
    ]
@@ -22,7 +36,7 @@
     "en": "13 Sentinels: Aegis Rim Anthology Comic STAR"
    },
    "contentRating": "safe",
-   "score": 0.2685852,
+   "score": 0.26697505,
    "languages": [
     "en"
    ]
@@ -33,9 +47,91 @@
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.22258754,
+   "score": 0.22260392,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f8f3f045-01b5-4216-8f41-d947d8b448b0",
+   "title": {
+    "en": "Youchien Wars"
+   },
+   "contentRating": "safe",
+   "score": 0.21895681,
+   "languages": [
+    "fr",
+    "en",
+    "es-la",
+    "th",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "882e338e-0105-4305-a380-655bc303036b",
+   "title": {
+    "en": "Fate/Grand Order Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.21218994,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ddcebfa2-05a0-4fcd-9cd4-60d779c38f2c",
+   "title": {
+    "en": "Karakai Jouzu no (Moto) Takagi-san"
+   },
+   "contentRating": "safe",
+   "score": 0.21130413,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "id",
+    "ru",
+    "fa",
+    "hi",
+    "it",
+    "fr",
+    "pl",
+    "vi",
+    "pt",
+    "de"
+   ]
+  },
+  {
+   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
+   "title": {
+    "en": "Minecraft: Journey to the World's End"
+   },
+   "contentRating": "safe",
+   "score": 0.21016294,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
+   "title": {
+    "en": "Tonikaku Kawaii"
+   },
+   "contentRating": "safe",
+   "score": 0.2054342,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "es-la",
+    "it",
+    "id",
+    "ru",
+    "fr",
+    "uk",
+    "de",
+    "pl",
+    "es"
    ]
   },
   {
@@ -44,7 +140,7 @@
     "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.19975904,
+   "score": 0.19901125,
    "languages": [
     "en"
    ]
@@ -55,7 +151,7 @@
     "en": "Kimi to Picopico (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.19805685,
+   "score": 0.19698016,
    "languages": [
     "en"
    ]
@@ -72,135 +168,54 @@
    ]
   },
   {
-   "id": "df5821b1-4000-4d5f-a444-f1c1f6e7abf6",
+   "id": "553dc484-274b-47b6-b21b-6d536061d19f",
    "title": {
-    "en": "Try! Try! Try!"
+    "en": "Love Riot"
    },
    "contentRating": "safe",
-   "score": 0.19125898,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "tr"
-   ]
-  },
-  {
-   "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
-   "title": {
-    "en": "Gensou Suikoden V - Anthology Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.19014205,
+   "score": 0.19584092,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5e29d71a-cc93-4b76-8684-938d7909c951",
+   "id": "061ef842-fc90-49c1-bf1c-9106b8660dfb",
    "title": {
-    "en": "My Girlfriend's a BL Author, What Do I Do?"
+    "en": "Tayutau Kemuri wa Tsukamenai"
    },
    "contentRating": "safe",
-   "score": 0.18468726,
+   "score": 0.19180173,
    "languages": [
     "pt-br",
-    "en",
-    "vi",
-    "id"
-   ]
-  },
-  {
-   "id": "fc28aef6-ea63-4d26-97be-feef21c993cb",
-   "title": {
-    "en": "Mischief Makers Story Outline \u0026 Opening Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.18146639,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57f31274-8b36-4f31-8d97-ac1b79f5e409",
-   "title": {
-    "en": "Rockman-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.18120563,
-   "languages": [
-    "es",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
-   "title": {
-    "en": "Aisupe @"
-   },
-   "contentRating": "safe",
-   "score": 0.17986536,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cd60cf1e-6775-4546-8b84-949502a2b113",
-   "title": {
-    "en": "Rairairai"
-   },
-   "contentRating": "safe",
-   "score": 0.17877749,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9fe74929-fc7c-442a-bef2-93059db87cc2",
-   "title": {
-    "en": "Infinite Dendrogram"
-   },
-   "contentRating": "safe",
-   "score": 0.17617214,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
-   "title": {
-    "en": "Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.17190675,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "de",
     "id",
-    "ru",
-    "it"
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "932158c8-1f78-4f8d-be23-b205c479fe80",
+   "id": "8d186d3b-1076-40a7-b61b-86a3a00d43b5",
    "title": {
-    "en": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu"
+    "en": "Boku to Shishou no Himitsu Koubou"
    },
    "contentRating": "safe",
-   "score": 0.17190675,
+   "score": 0.19180173,
    "languages": [
     "es-la",
-    "it",
-    "en",
-    "de",
-    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "8378c61b-0317-4b84-a9fd-eb090f2cac54",
+   "title": {
+    "en": "Welcome Home, Kazu-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.19180173,
+   "languages": [
     "pt-br",
-    "ru"
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:49+00:00"
+ "updatedAt": "2023-12-10T18:16:44+00:00"
 }

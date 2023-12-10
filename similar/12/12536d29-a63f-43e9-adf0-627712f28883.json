@@ -22,7 +22,7 @@
     "en": "First Rate Master"
    },
    "contentRating": "suggestive",
-   "score": 0.23426478,
+   "score": 0.23212934,
    "languages": [
     "en",
     "ru",
@@ -37,7 +37,7 @@
     "en": "Grenadier"
    },
    "contentRating": "suggestive",
-   "score": 0.23030981,
+   "score": 0.22852334,
    "languages": [
     "en"
    ]
@@ -48,7 +48,7 @@
     "en": "GUL"
    },
    "contentRating": "suggestive",
-   "score": 0.22593464,
+   "score": 0.22557254,
    "languages": [
     "en",
     "id",
@@ -62,7 +62,7 @@
     "en": "Mijuku na Futari de Gozaimasu ga"
    },
    "contentRating": "suggestive",
-   "score": 0.2155909,
+   "score": 0.2134952,
    "languages": [
     "en",
     "id",
@@ -82,23 +82,12 @@
    ]
   },
   {
-   "id": "e1be381a-7d04-43b7-8b2a-fbcb053669c4",
-   "title": {
-    "en": "Super Journey"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2032551,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e06e6024-9688-4a38-a8b4-6facd3fe1d80",
    "title": {
     "en": "Mankitsu Shitai Jouren-san"
    },
    "contentRating": "suggestive",
-   "score": 0.20240262,
+   "score": 0.20063017,
    "languages": [
     "id",
     "en",
@@ -121,6 +110,17 @@
     "fr",
     "pt-br",
     "id"
+   ]
+  },
+  {
+   "id": "e1be381a-7d04-43b7-8b2a-fbcb053669c4",
+   "title": {
+    "en": "Super Journey"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20053138,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -152,7 +152,7 @@
     "en": "Immortal Swordsman In The Reverse World"
    },
    "contentRating": "suggestive",
-   "score": 0.19347025,
+   "score": 0.19236842,
    "languages": [
     "en",
     "pt-br",
@@ -165,23 +165,12 @@
    ]
   },
   {
-   "id": "d20ce64c-403b-4f57-8337-5d37424735db",
-   "title": {
-    "en": "I Can Summon God"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1934696,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e41721c0-f7cf-49c1-9712-8543e1ea7c99",
    "title": {
     "en": "Witch Hunter"
    },
    "contentRating": "suggestive",
-   "score": 0.19214988,
+   "score": 0.19193526,
    "languages": [
     "ro",
     "en",
@@ -192,16 +181,17 @@
    ]
   },
   {
-   "id": "4fb8e8e0-971d-44a1-846a-038cd3129e41",
+   "id": "bdfc7777-f1ee-4131-82cb-2fb5861d32e1",
    "title": {
-    "en": "Dakkou Suru Made Ochimasen"
+    "en": "Shingeki no Eroko-san ~Hen na Oneesan wa Danshikousei to Nakayoku Naritai~"
    },
    "contentRating": "suggestive",
    "score": 0.19180173,
    "languages": [
     "en",
-    "es-la",
-    "pt-br"
+    "pt-br",
+    "fr",
+    "es-la"
    ]
   },
   {
@@ -215,7 +205,24 @@
     "en",
     "es-la"
    ]
+  },
+  {
+   "id": "de2c8252-d340-4f8f-a071-0ca69e145c1d",
+   "title": {
+    "en": "Asoko de Hataraku Musubu-san"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19180173,
+   "languages": [
+    "pt-br",
+    "id",
+    "en",
+    "ru",
+    "es-la",
+    "es",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:28+00:00"
+ "updatedAt": "2023-12-10T18:10:17+00:00"
 }

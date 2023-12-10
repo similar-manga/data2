@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3fe8870c-a80f-45e7-8c33-c62a7b9f2c18",
+   "title": {
+    "en": "Harry Potter - Popover (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.3855294,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cf8e30af-46c0-4cdb-8b3d-0dbcfec3845d",
    "title": {
     "en": "THE iDOLM@STER - iM@S (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.28425327,
+   "score": 0.28837264,
    "languages": [
     "en"
    ]
@@ -22,9 +33,21 @@
     "en": "Touhou - Private Touhou Academy (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.26749712,
+   "score": 0.26837012,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b7358ffa-4c04-49d4-b2f7-d10bbcc5ec44",
+   "title": {
+    "en": "Dracorun"
+   },
+   "contentRating": "safe",
+   "score": 0.26716864,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -33,7 +56,7 @@
     "en": "Touhou - Kinou made no Dougyou ga Kyou wa Star ni Natte Iru!! (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.2633969,
+   "score": 0.26553413,
    "languages": [
     "en",
     "ru"
@@ -45,7 +68,7 @@
     "en": "Touhou - Charming Border of Life (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.26250383,
+   "score": 0.26463446,
    "languages": [
     "en"
    ]
@@ -56,7 +79,7 @@
     "en": "Touhou - Futatsu no Yukidaruma (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.26195976,
+   "score": 0.2634066,
    "languages": [
     "en"
    ]
@@ -67,62 +90,7 @@
     "en": "Touhou - Cheshire (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.26144505,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1552bb34-9c22-4f12-b28f-044da1727e00",
-   "title": {
-    "en": "Touhou - The Witch Goes on a Trip Again (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.25990036,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9294fb16-f8de-4b43-bc0b-3b6556c98b53",
-   "title": {
-    "en": "Touhou - Remilia Cooking!! (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.25984576,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08125827-d7d2-479c-b8da-6c6ec2741099",
-   "title": {
-    "en": "Touhou - Hito to Ifuji wa Hito to Hito ga Sasae Atsute Unnun!! (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.25882837,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2a846c7-a91d-4ac6-91ab-1e4dfe15d0fb",
-   "title": {
-    "en": "Touhou - Onee-chan Has Died (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.2588143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "188c3844-4f6e-4c74-a418-fddf7ab56996",
-   "title": {
-    "en": "Touhou - Cover-buy (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.25875083,
+   "score": 0.2631628,
    "languages": [
     "en"
    ]
@@ -133,7 +101,51 @@
     "en": "Touhou - Himitsu no Hanashi (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.2585784,
+   "score": 0.2616908,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9294fb16-f8de-4b43-bc0b-3b6556c98b53",
+   "title": {
+    "en": "Touhou - Remilia Cooking!! (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.2611613,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "08125827-d7d2-479c-b8da-6c6ec2741099",
+   "title": {
+    "en": "Touhou - Hito to Ifuji wa Hito to Hito ga Sasae Atsute Unnun!! (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.26020315,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e2a846c7-a91d-4ac6-91ab-1e4dfe15d0fb",
+   "title": {
+    "en": "Touhou - Onee-chan Has Died (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.26011133,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "188c3844-4f6e-4c74-a418-fddf7ab56996",
+   "title": {
+    "en": "Touhou - Cover-buy (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.2601071,
    "languages": [
     "en"
    ]
@@ -144,7 +156,18 @@
     "en": "Touhou - Angel Fall (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.2569716,
+   "score": 0.2585419,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1552bb34-9c22-4f12-b28f-044da1727e00",
+   "title": {
+    "en": "Touhou - The Witch Goes on a Trip Again (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.25712696,
    "languages": [
     "en"
    ]
@@ -159,29 +182,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "29af099c-bde1-49ff-a89f-ef6bd6da107b",
-   "title": {
-    "en": "Touhou - Anata ni Ichiban Niaumono!! (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc30dfd5-05f9-4a0b-b6ab-9898774bf18d",
-   "title": {
-    "en": "Touhou - The Day When She Couldn't Use Magic (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:06+00:00"
+ "updatedAt": "2023-12-10T18:12:04+00:00"
 }

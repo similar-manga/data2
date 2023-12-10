@@ -6,25 +6,25 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "d51aedc8-9ab5-4bd3-935d-bf4176a59166",
-   "title": {
-    "en": "Ikimono-suki no Anima-san ni wa Honno Choppiri Doku ga aru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.27253267,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "a24d6347-fae3-4b54-af68-ee3e01cd3475",
    "title": {
     "en": "Ru~mu! Room No.1301"
    },
    "contentRating": "suggestive",
-   "score": 0.2690903,
+   "score": 0.27615452,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d51aedc8-9ab5-4bd3-935d-bf4176a59166",
+   "title": {
+    "en": "Ikimono-suki no Anima-san ni wa Honno Choppiri Doku ga aru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.27159393,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -33,7 +33,7 @@
     "en": "Zokusei"
    },
    "contentRating": "suggestive",
-   "score": 0.26420867,
+   "score": 0.26482695,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Puchi Houndo"
    },
    "contentRating": "suggestive",
-   "score": 0.25808623,
+   "score": 0.2619963,
    "languages": [
     "en"
    ]
@@ -71,7 +71,7 @@
     "en": "Ebiten"
    },
    "contentRating": "suggestive",
-   "score": 0.24237056,
+   "score": 0.24151866,
    "languages": [
     "en",
     "pt-br"
@@ -83,47 +83,24 @@
     "en": "Amagami - Various Artists"
    },
    "contentRating": "suggestive",
-   "score": 0.23959531,
+   "score": 0.23873104,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ac1d1995-e123-40d3-b139-3be1e2a93574",
+   "id": "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
    "title": {
-    "en": "Mizuiro Splash"
+    "en": "Ojousama no Shimobe"
    },
    "contentRating": "suggestive",
    "score": 0.22980437,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
-   "title": {
-    "en": "My Charms Are Wasted on Medaka Kuroiwa"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22980437,
-   "languages": [
-    "ru",
     "en",
-    "es-la",
     "pt-br",
+    "es-la",
     "fr",
-    "ar"
-   ]
-  },
-  {
-   "id": "4da46e9b-c828-4376-aefe-942f313bea2f",
-   "title": {
-    "en": "Jutten!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22980437,
-   "languages": [
-    "en"
+    "ru"
    ]
   },
   {
@@ -135,6 +112,28 @@
    "score": 0.22980437,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "cddddb40-9285-4d83-b2ff-045ee0229b9a",
+   "title": {
+    "en": "Seitokai no Nichijou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4da46e9b-c828-4376-aefe-942f313bea2f",
+   "title": {
+    "en": "Jutten!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22980437,
+   "languages": [
     "en"
    ]
   },
@@ -158,6 +157,23 @@
    ]
   },
   {
+   "id": "bf57893c-b1e8-4372-834f-e6beb37787e6",
+   "title": {
+    "en": "To Love-Ru - Kentaro Yabuki 20th Anniversary"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22980437,
+   "languages": [
+    "id",
+    "en",
+    "ru",
+    "es-la",
+    "pl",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "7fb957e4-a94b-496d-be91-b7d75fad7b21",
    "title": {
     "en": "Osananajimi to wa Romcom ni Naranai"
@@ -177,48 +193,32 @@
    ]
   },
   {
-   "id": "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
+   "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
    "title": {
-    "en": "Ojousama no Shimobe"
+    "en": "My Charms Are Wasted on Medaka Kuroiwa"
    },
    "contentRating": "suggestive",
    "score": 0.22980437,
    "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "bf57893c-b1e8-4372-834f-e6beb37787e6",
-   "title": {
-    "en": "To Love-Ru - Kentaro Yabuki 20th Anniversary"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22980437,
-   "languages": [
-    "id",
-    "en",
     "ru",
+    "en",
     "es-la",
-    "pl",
     "pt-br",
-    "fr"
+    "fr",
+    "ar"
    ]
   },
   {
-   "id": "a95e7e4e-a45a-4da0-bac6-e68442548770",
+   "id": "ac1d1995-e123-40d3-b139-3be1e2a93574",
    "title": {
-    "en": "A Boy Who Was Just a Friend for Ten Years Confessed Love to Me"
+    "en": "Mizuiro Splash"
    },
    "contentRating": "suggestive",
-   "score": 0.22690746,
+   "score": 0.22980437,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:44+00:00"
+ "updatedAt": "2023-12-10T18:11:02+00:00"
 }

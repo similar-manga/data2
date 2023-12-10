@@ -11,7 +11,7 @@
     "en": "Hadaka no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.5194187,
+   "score": 0.5296568,
    "languages": [
     "fr",
     "en"
@@ -23,7 +23,18 @@
     "en": "Seitoshidoushitsu no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.31390718,
+   "score": 0.31325442,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c9898cf2-4f29-46e5-a00c-34de97c6b030",
+   "title": {
+    "en": "The End of Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.30747202,
    "languages": [
     "en"
    ]
@@ -34,7 +45,7 @@
     "en": "Enren Lover"
    },
    "contentRating": "safe",
-   "score": 0.3082589,
+   "score": 0.3071106,
    "languages": [
     "pl",
     "ca",
@@ -48,24 +59,9 @@
     "en": "Kuraku naru Made Matte"
    },
    "contentRating": "safe",
-   "score": 0.30666214,
+   "score": 0.30507657,
    "languages": [
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
-   "title": {
-    "en": "Shinyuu no Mikami-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.30407768,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "it",
     "pl"
    ]
   },
@@ -75,31 +71,36 @@
     "en": "Hoshi ni Memai wo"
    },
    "contentRating": "safe",
-   "score": 0.30385044,
+   "score": 0.30382794,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a1102449-1b47-479f-8968-99023b9c5d30",
+   "id": "69d34251-7901-4677-a11b-2670d3ebfa51",
    "title": {
-    "en": "Onkochisin na Kanojo"
+    "en": "Shinyuu no Mikami-kun"
    },
    "contentRating": "safe",
-   "score": 0.30137396,
+   "score": 0.30309197,
    "languages": [
-    "en"
+    "en",
+    "tr",
+    "pt-br",
+    "it",
+    "pl"
    ]
   },
   {
-   "id": "c9898cf2-4f29-46e5-a00c-34de97c6b030",
+   "id": "b948029e-d133-4bcb-aa5b-edfb55918c69",
    "title": {
-    "en": "The End of Summer"
+    "en": "Love Period"
    },
    "contentRating": "safe",
-   "score": 0.3008279,
+   "score": 0.30297363,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -108,7 +109,7 @@
     "en": "Ubawareta Kiss"
    },
    "contentRating": "safe",
-   "score": 0.30053195,
+   "score": 0.3015195,
    "languages": [
     "en"
    ]
@@ -119,7 +120,7 @@
     "en": "Shireba Shiruhodo"
    },
    "contentRating": "safe",
-   "score": 0.29977223,
+   "score": 0.2993887,
    "languages": [
     "pt-br",
     "en"
@@ -131,22 +132,11 @@
     "en": "Tokubetsu ni Naritai"
    },
    "contentRating": "safe",
-   "score": 0.2988375,
+   "score": 0.29825675,
    "languages": [
     "en",
     "th",
     "pt-br"
-   ]
-  },
-  {
-   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
-   "title": {
-    "en": "Daruma no Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.2985186,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -155,10 +145,21 @@
     "en": "Aka no Yuuwaku"
    },
    "contentRating": "safe",
-   "score": 0.29834014,
+   "score": 0.29800588,
    "languages": [
     "en",
     "tl"
+   ]
+  },
+  {
+   "id": "9dc3753e-6e4f-4f0a-a867-f79da2888614",
+   "title": {
+    "en": "Daruma no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.29772896,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -167,7 +168,18 @@
     "en": "First Love Confirmed!"
    },
    "contentRating": "safe",
-   "score": 0.2976005,
+   "score": 0.297452,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1102449-1b47-479f-8968-99023b9c5d30",
+   "title": {
+    "en": "Onkochisin na Kanojo"
+   },
+   "contentRating": "safe",
+   "score": 0.29729548,
    "languages": [
     "en"
    ]
@@ -178,23 +190,11 @@
     "en": "Okitsune no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.29731947,
+   "score": 0.29697025,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b948029e-d133-4bcb-aa5b-edfb55918c69",
-   "title": {
-    "en": "Love Period"
-   },
-   "contentRating": "safe",
-   "score": 0.29688108,
-   "languages": [
-    "en",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:07+00:00"
+ "updatedAt": "2023-12-10T18:17:31+00:00"
 }

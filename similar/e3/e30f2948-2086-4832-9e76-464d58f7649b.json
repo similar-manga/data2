@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2cb946ee-db33-4521-a208-02a970ce328c",
+   "title": {
+    "en": "Ayakashiou no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.36128214,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b1aab26b-137b-4f5a-bc8b-0bb7edac1cb9",
    "title": {
     "en": "Ayakashi's Bride"
    },
    "contentRating": "safe",
-   "score": 0.33554664,
+   "score": 0.33474183,
    "languages": [
     "en",
     "vi"
@@ -23,7 +34,7 @@
     "en": "Hoshikusu to Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.32038274,
+   "score": 0.31570292,
    "languages": [
     "en"
    ]
@@ -34,7 +45,7 @@
     "en": "Yajuu to Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.3012692,
+   "score": 0.29859388,
    "languages": [
     "en",
     "pt-br"
@@ -46,7 +57,58 @@
     "en": "Another Vanguard - Vanguard Frontier"
    },
    "contentRating": "safe",
-   "score": 0.29301924,
+   "score": 0.2951586,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
+   "title": {
+    "en": "Cuprum’s Bride"
+   },
+   "contentRating": "safe",
+   "score": 0.29219928,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "vi",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "42626a03-1575-4b39-9fce-05edecc23500",
+   "title": {
+    "en": "Isekai Gangsters"
+   },
+   "contentRating": "safe",
+   "score": 0.29001817,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f93f5c9e-ae58-4a52-bda8-766ebd2caccb",
+   "title": {
+    "en": "Shinobi denai to!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
+   "title": {
+    "en": "Foo Fighter Fuji"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -85,36 +147,12 @@
    ]
   },
   {
-   "id": "f93f5c9e-ae58-4a52-bda8-766ebd2caccb",
-   "title": {
-    "en": "Shinobi denai to!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
-   "title": {
-    "en": "Foo Fighter Fuji"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d16f9dfb-569f-4d29-aa05-ce8712e36997",
    "title": {
     "en": "The West Wind and the Sun: Zephyr and Sol"
    },
    "contentRating": "safe",
-   "score": 0.27274168,
+   "score": 0.27194378,
    "languages": [
     "fr",
     "en",
@@ -124,14 +162,15 @@
    ]
   },
   {
-   "id": "fe5b0520-48c0-4e49-9a90-100e298be124",
+   "id": "7f838468-a490-4834-8ef3-812b70f45d94",
    "title": {
-    "en": "Okitsune no Hanayome"
+    "en": "5Toubun no Hanayome (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.26121452,
+   "score": 0.26713547,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -140,56 +179,22 @@
     "en": "Lovely Banchou"
    },
    "contentRating": "safe",
-   "score": 0.2604026,
+   "score": 0.26019558,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "01d3b5f5-1809-4b41-9184-69f33aa96f18",
+   "id": "fe5b0520-48c0-4e49-9a90-100e298be124",
    "title": {
-    "en": "The Emperor's Lady-in-Waiting Is Wanted as a Bride"
+    "en": "Okitsune no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.2563308,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "dc30f1e2-506b-4e51-8ad5-e2b77ede5949",
-   "title": {
-    "en": "Lemonade Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
-   "title": {
-    "en": "Love Attack"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ab9f56a8-b3f8-4485-afea-fb83b6795a84",
-   "title": {
-    "en": "Arata no Tsukumogami"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.25800574,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:07+00:00"
+ "updatedAt": "2023-12-10T18:33:22+00:00"
 }

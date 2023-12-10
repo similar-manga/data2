@@ -11,7 +11,7 @@
     "en": "Transparent Museum"
    },
    "contentRating": "safe",
-   "score": 0.2608445,
+   "score": 0.25977263,
    "languages": [
     "ru",
     "tr",
@@ -25,7 +25,18 @@
     "en": "Jakimeshi"
    },
    "contentRating": "safe",
-   "score": 0.21568988,
+   "score": 0.2158965,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9ab08282-039c-400e-8298-6d246f002594",
+   "title": {
+    "en": "Oyozure Gojou"
+   },
+   "contentRating": "safe",
+   "score": 0.21079762,
    "languages": [
     "en"
    ]
@@ -43,17 +54,6 @@
    ]
   },
   {
-   "id": "9ab08282-039c-400e-8298-6d246f002594",
-   "title": {
-    "en": "Oyozure Gojou"
-   },
-   "contentRating": "safe",
-   "score": 0.21079762,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "3dda2717-822f-45a8-95ac-53445c2659cf",
    "title": {
     "en": "Frog Princess"
@@ -63,6 +63,17 @@
    "languages": [
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "1bca995e-07d5-4de3-be07-033f1d823efa",
+   "title": {
+    "en": "Strange Natives: The Forgotten Memories of a Forgetful Old Woman"
+   },
+   "contentRating": "safe",
+   "score": 0.20644996,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -104,15 +115,37 @@
     "en": "Babel (KIM Jung Han)"
    },
    "contentRating": "safe",
-   "score": 0.20510112,
+   "score": 0.20590663,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a9c401a5-643e-4a36-926f-a5d8c569ca7a",
+   "id": "4ba767d6-113d-4bf0-baae-466aa672ea5e",
    "title": {
-    "en": "Okyaku-sama wa, Kami-sama."
+    "en": "Suite Precure"
+   },
+   "contentRating": "safe",
+   "score": 0.19706586,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e3c893da-3269-4e12-96c6-8617470ddad2",
+   "title": {
+    "en": "Kurseong South - The Forest of Black Tea"
+   },
+   "contentRating": "safe",
+   "score": 0.19706586,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "caaf78e0-98be-4630-abfa-745f9b557d51",
+   "title": {
+    "en": "B-Curse"
    },
    "contentRating": "safe",
    "score": 0.19706586,
@@ -137,13 +170,14 @@
    ]
   },
   {
-   "id": "caaf78e0-98be-4630-abfa-745f9b557d51",
+   "id": "ef2bf2ee-265d-461c-a30c-a3ec1782e2f0",
    "title": {
-    "en": "B-Curse"
+    "en": "It to Lily"
    },
    "contentRating": "safe",
    "score": 0.19706586,
    "languages": [
+    "pl",
     "en"
    ]
   },
@@ -157,41 +191,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "4ba767d6-113d-4bf0-baae-466aa672ea5e",
-   "title": {
-    "en": "Suite Precure"
-   },
-   "contentRating": "safe",
-   "score": 0.19706586,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "899ac405-c941-4333-83f6-48bc0193e516",
-   "title": {
-    "en": "Meteor Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.19706586,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "f17675da-3d3a-48b2-910c-f7a1ab38d4bf",
-   "title": {
-    "en": "Kashikomi Mousu!"
-   },
-   "contentRating": "safe",
-   "score": 0.19706586,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:14+00:00"
+ "updatedAt": "2023-12-10T18:15:19+00:00"
 }

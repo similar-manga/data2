@@ -11,13 +11,28 @@
     "en": "Winter Flower"
    },
    "contentRating": "safe",
-   "score": 0.28929552,
+   "score": 0.29616636,
    "languages": [
     "en",
     "pl",
     "ro",
     "fr",
     "es-la"
+   ]
+  },
+  {
+   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
+   "title": {
+    "en": "In the Rose Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "ru",
+    "vi",
+    "pt-br",
+    "fr",
+    "en"
    ]
   },
   {
@@ -38,7 +53,7 @@
     "en": "The Starlight Prince"
    },
    "contentRating": "safe",
-   "score": 0.26339164,
+   "score": 0.2651274,
    "languages": [
     "en"
    ]
@@ -49,7 +64,7 @@
     "en": "Jewel to Canary"
    },
    "contentRating": "safe",
-   "score": 0.25831336,
+   "score": 0.25966632,
    "languages": [
     "en",
     "bg"
@@ -61,8 +76,34 @@
     "en": "Lost Mouse Girl"
    },
    "contentRating": "safe",
-   "score": 0.2531283,
+   "score": 0.255225,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fcabed7-7e5a-403e-a4d8-270efc133ad8",
+   "title": {
+    "en": "Hitomi kara Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.25098497,
+   "languages": [
+    "en",
+    "vi",
+    "ro"
+   ]
+  },
+  {
+   "id": "eacb6eea-737f-4ae8-88cf-7cd0645ba339",
+   "title": {
+    "en": "God and Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.24922772,
+   "languages": [
+    "ru",
+    "pt-br",
     "en"
    ]
   },
@@ -78,39 +119,14 @@
    ]
   },
   {
-   "id": "0fcabed7-7e5a-403e-a4d8-270efc133ad8",
-   "title": {
-    "en": "Hitomi kara Destiny"
-   },
-   "contentRating": "safe",
-   "score": 0.24538013,
-   "languages": [
-    "en",
-    "vi",
-    "ro"
-   ]
-  },
-  {
    "id": "d16af09c-4de8-4867-894a-8fa40d74facb",
    "title": {
     "en": "Summer Blue"
    },
    "contentRating": "safe",
-   "score": 0.23594569,
+   "score": 0.2414316,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4e79ab8c-9f80-4da1-85b2-220860f84746",
-   "title": {
-    "en": "Hokorobi no Lamp"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "hu"
    ]
   },
   {
@@ -126,28 +142,6 @@
    ]
   },
   {
-   "id": "fec70f24-3ecc-469b-8453-3277370811be",
-   "title": {
-    "en": "Dali's Witchcraft"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1d8f855d-7a57-4ae0-858e-ec7cba999a89",
-   "title": {
-    "en": "Mika and the Rainbow Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7083fbad-4f22-491d-9d04-7b51031e6541",
    "title": {
     "en": "Kujira ni Kisusuru Hi"
@@ -155,19 +149,6 @@
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77a3c686-4bd3-439f-908c-72db0fe21fb2",
-   "title": {
-    "en": "Night Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "ar",
-    "fr",
     "en"
    ]
   },
@@ -185,16 +166,41 @@
    ]
   },
   {
-   "id": "2124b898-a137-4592-9431-2a9e1ab3ab00",
+   "id": "fec70f24-3ecc-469b-8453-3277370811be",
    "title": {
-    "en": "Jane and Harlequin"
+    "en": "Dali's Witchcraft"
    },
    "contentRating": "safe",
-   "score": 0.22760102,
+   "score": 0.23328476,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4e79ab8c-9f80-4da1-85b2-220860f84746",
+   "title": {
+    "en": "Hokorobi no Lamp"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "77a3c686-4bd3-439f-908c-72db0fe21fb2",
+   "title": {
+    "en": "Night Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ar",
+    "fr",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:31+00:00"
+ "updatedAt": "2023-12-10T18:16:03+00:00"
 }

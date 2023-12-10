@@ -42,7 +42,7 @@
     "en": "A Silent Greeting"
    },
    "contentRating": "safe",
-   "score": 0.18955438,
+   "score": 0.18879884,
    "languages": [
     "en",
     "pl",
@@ -50,9 +50,33 @@
    ]
   },
   {
+   "id": "1f8734cb-fdf3-4c6e-8e4b-0dc6e2ea21f0",
+   "title": {
+    "en": "Yokubou no Seijo Reijou Terejia"
+   },
+   "contentRating": "safe",
+   "score": 0.17958267
+  },
+  {
+   "id": "44f0e0f2-fbf0-4542-b353-f30efd41b65f",
+   "title": {
+    "en": "Baiou Ryouran - Choushuu Bakumatsu Kyousoukyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876
+  },
+  {
    "id": "cdaff4e8-5f35-48c8-a22d-e57c36cfb13d",
    "title": {
     "en": "Fushigi Yuugi - Byakko Ibun"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876
+  },
+  {
+   "id": "3da715e7-cd4f-4a5b-8fc7-23999a7d0471",
+   "title": {
+    "en": "Kasuga no Tsubone (IKEDA Riyoko)"
    },
    "contentRating": "safe",
    "score": 0.16835876
@@ -64,19 +88,6 @@
    },
    "contentRating": "safe",
    "score": 0.15713485
-  },
-  {
-   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
-   "title": {
-    "en": "Shoujikimono ga Baka wo Miru"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
   },
   {
    "id": "ea2e6b42-53cd-48a0-8178-6ec79f7d3525",
@@ -107,6 +118,19 @@
    ]
   },
   {
+   "id": "a0765ae1-bde3-4f7c-bf2c-c0ccf8be5bc3",
+   "title": {
+    "en": "Shoujikimono ga Baka wo Miru"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
    "id": "877aa28e-5c75-469c-84b1-4730bd321f53",
    "title": {
     "en": "Moto Hagio's Age of The Beatles Oneshot"
@@ -118,12 +142,24 @@
    ]
   },
   {
+   "id": "d379a920-8576-49e5-ba92-c48d466d73e7",
+   "title": {
+    "en": "What Melvin Left Behind"
+   },
+   "contentRating": "safe",
+   "score": 0.14815363,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "d74c4f35-64d2-45a8-81fb-f4b3f7ff2f86",
    "title": {
     "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.14428619,
+   "score": 0.14339845,
    "languages": [
     "pl",
     "en",
@@ -131,50 +167,16 @@
    ]
   },
   {
-   "id": "a7283edb-9542-4ada-aaf7-a63f6d471e71",
+   "id": "2ef0396d-c74e-4c76-b4a1-2eb8c4481eea",
    "title": {
-    "en": "Ephemeral"
+    "en": "The Tale of Princess Atsu"
    },
    "contentRating": "safe",
-   "score": 0.13563363,
+   "score": 0.14297801,
    "languages": [
-    "pl",
-    "tr",
-    "pt-br"
+    "en"
    ]
-  },
-  {
-   "id": "a89ad0f0-02e7-4004-9da3-9c7c4dc96178",
-   "title": {
-    "en": "The Castle in the Woods"
-   },
-   "contentRating": "safe",
-   "score": 0.13538669
-  },
-  {
-   "id": "782a845f-d5be-463e-8da9-3029a7bb8003",
-   "title": {
-    "en": "A Wife in Time"
-   },
-   "contentRating": "safe",
-   "score": 0.12726727
-  },
-  {
-   "id": "60aeb109-7335-4b21-ada3-793c2e68048e",
-   "title": {
-    "en": "Kudoki - Shinyaku Kabukie Maki"
-   },
-   "contentRating": "safe",
-   "score": 0.12726727
-  },
-  {
-   "id": "a7c7fd06-011d-46d5-958b-fc8a8c214ab9",
-   "title": {
-    "en": "Rosenkreuz"
-   },
-   "contentRating": "safe",
-   "score": 0.12698413
   }
  ],
- "updatedAt": "2023-12-10T01:06:47+00:00"
+ "updatedAt": "2023-12-10T18:27:23+00:00"
 }

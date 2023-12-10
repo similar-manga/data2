@@ -11,7 +11,7 @@
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.3798381,
+   "score": 0.38188615,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.29137596,
+   "score": 0.28696892,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.27661553,
+   "score": 0.2786237,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Persona 5"
    },
    "contentRating": "safe",
-   "score": 0.27345166,
+   "score": 0.2701316,
    "languages": [
     "pt-br",
     "ru",
@@ -54,15 +54,16 @@
    ]
   },
   {
-   "id": "89bcfe0b-caa3-4d1b-9679-139b44a0b505",
+   "id": "263deeff-c010-4ac7-bc01-6341f3e698ac",
    "title": {
-    "en": "The Conqueror From a Dying Kingdom"
+    "en": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire"
    },
    "contentRating": "safe",
-   "score": 0.24513055,
+   "score": 0.26438418,
    "languages": [
+    "fr",
     "en",
-    "id"
+    "pt-br"
    ]
   },
   {
@@ -77,15 +78,49 @@
    ]
   },
   {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24007241,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "727bda2a-d15f-456b-b34e-4daa43ab653c",
+   "title": {
+    "en": "Nanatsu no Taizai (Fan Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.23583937,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1237e237-a597-42c2-bd68-fcd5e5e57604",
    "title": {
     "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.23868874,
+   "score": 0.23570429,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "89bcfe0b-caa3-4d1b-9679-139b44a0b505",
+   "title": {
+    "en": "The Conqueror From a Dying Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.23561682,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -94,9 +129,26 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.23341009,
+   "score": 0.23308791,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b0c50912-623b-4bd7-84fc-7811f7961518",
+   "title": {
+    "en": "Wandering Witch: The Journey of Elaina"
+   },
+   "contentRating": "safe",
+   "score": 0.22908106,
+   "languages": [
+    "id",
+    "it",
+    "ru",
+    "en",
+    "es-la",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -105,26 +157,20 @@
     "en": "Atelier Rorona - My Treasure"
    },
    "contentRating": "safe",
-   "score": 0.23027499,
+   "score": 0.22855325,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e3d88382-a2c4-4958-8311-f8bd9a3f1e21",
+   "id": "0cfe2eb8-8334-4531-90a0-e0887d505411",
    "title": {
-    "en": "Konjiki no Word Master - Yuusha Yonin ni Makikomareta Unique Cheat"
+    "en": "Hinekure Ryoushu no Koufukutan"
    },
    "contentRating": "safe",
-   "score": 0.22598858,
+   "score": 0.22780854,
    "languages": [
-    "en",
-    "fr",
-    "pl",
-    "es-la",
-    "it",
-    "ru",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -133,7 +179,7 @@
     "en": "Soul Land II - The Peerless Tang Sect"
    },
    "contentRating": "safe",
-   "score": 0.21973933,
+   "score": 0.2232378,
    "languages": [
     "pt-br",
     "en",
@@ -142,64 +188,17 @@
    ]
   },
   {
-   "id": "f27db797-3d16-40a0-89c6-2741391db7ba",
+   "id": "da469add-1a65-4df5-9393-662c1bd7f5e6",
    "title": {
-    "en": "NEO: The World Ends with You"
+    "en": "Sousei Mahou no Saigensha"
    },
    "contentRating": "safe",
-   "score": 0.21754895,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "45599047-f246-49e9-be3a-48cc70ca675f",
-   "title": {
-    "en": "Final Fantasy XIV - Lalafell-sensei Will Teach You!"
-   },
-   "contentRating": "safe",
-   "score": 0.21499264,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "23a29209-2483-4510-af38-46d67fc0d645",
-   "title": {
-    "en": "Kid Icarus: Uprising"
-   },
-   "contentRating": "safe",
-   "score": 0.21178553,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5f709f1b-e481-4e73-86d8-92369545d6f4",
-   "title": {
-    "en": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!"
-   },
-   "contentRating": "safe",
-   "score": 0.21178553,
-   "languages": [
-    "th",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "823f0015-aa41-49f5-b893-01d48089882e",
-   "title": {
-    "en": "Dragon Raja"
-   },
-   "contentRating": "safe",
-   "score": 0.21178553,
+   "score": 0.22288777,
    "languages": [
     "en",
-    "es",
-    "pt-br"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:39+00:00"
+ "updatedAt": "2023-12-10T18:26:59+00:00"
 }

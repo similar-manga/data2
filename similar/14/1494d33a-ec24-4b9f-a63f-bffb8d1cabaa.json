@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "148d248f-4635-492e-97fc-9f13941000fe",
-   "title": {
-    "en": "Kami-sama no Koibito"
-   },
-   "contentRating": "safe",
-   "score": 0.21177916,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d74845f5-66fa-469e-9932-d8d669c73f3a",
    "title": {
     "en": "Metal Boy"
@@ -37,6 +26,17 @@
     "pt-br",
     "id",
     "es-la"
+   ]
+  },
+  {
+   "id": "148d248f-4635-492e-97fc-9f13941000fe",
+   "title": {
+    "en": "Kami-sama no Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.1765958,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -67,7 +67,7 @@
     "en": "Unreal"
    },
    "contentRating": "safe",
-   "score": 0.1340056,
+   "score": 0.13486403,
    "languages": [
     "fr",
     "en"
@@ -79,7 +79,7 @@
     "en": "The New Gate"
    },
    "contentRating": "safe",
-   "score": 0.13095652,
+   "score": 0.12869814,
    "languages": [
     "ru",
     "id",
@@ -100,27 +100,11 @@
     "en": "Ougon no Keikenchi"
    },
    "contentRating": "safe",
-   "score": 0.1288641,
+   "score": 0.1281784,
    "languages": [
     "fr",
     "en"
    ]
-  },
-  {
-   "id": "1577d596-38c3-4af1-b5e9-63782f861bf5",
-   "title": {
-    "en": "Kochira Uchuu Hito Chousa-tai"
-   },
-   "contentRating": "safe",
-   "score": 0.12809752
-  },
-  {
-   "id": "134e3ea9-e26c-4efa-8330-6542011f1ea4",
-   "title": {
-    "en": "Wings with Closed Eyes MARIA"
-   },
-   "contentRating": "safe",
-   "score": 0.12725694
   },
   {
    "id": "ba1c6284-8e52-472f-b27d-2f10b71dbfe9",
@@ -134,6 +118,14 @@
    ]
   },
   {
+   "id": "4f64b038-44ca-4e64-a811-de365489ab15",
+   "title": {
+    "en": "Gamers x Dungeon - Boku wa Game Izon janai"
+   },
+   "contentRating": "safe",
+   "score": 0.12725694
+  },
+  {
    "id": "774d3d1a-6393-4600-85c3-7cd7cd647d11",
    "title": {
     "en": "Midori no Machi"
@@ -143,6 +135,22 @@
    "languages": [
     "zh"
    ]
+  },
+  {
+   "id": "134e3ea9-e26c-4efa-8330-6542011f1ea4",
+   "title": {
+    "en": "Wings with Closed Eyes MARIA"
+   },
+   "contentRating": "safe",
+   "score": 0.12725694
+  },
+  {
+   "id": "1577d596-38c3-4af1-b5e9-63782f861bf5",
+   "title": {
+    "en": "Kochira Uchuu Hito Chousa-tai"
+   },
+   "contentRating": "safe",
+   "score": 0.12626748
   },
   {
    "id": "fb28c675-3dbd-4983-95a1-26785549cdc1",
@@ -158,7 +166,7 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.12607154,
+   "score": 0.12532151,
    "languages": [
     "en"
    ]
@@ -169,7 +177,7 @@
     "en": "Under Ninja"
    },
    "contentRating": "safe",
-   "score": 0.12437726,
+   "score": 0.12337439,
    "languages": [
     "en",
     "es-la",
@@ -178,22 +186,7 @@
     "pt-br",
     "fr"
    ]
-  },
-  {
-   "id": "71c10c5d-7a31-4594-8927-b9d64235d293",
-   "title": {
-    "en": "A Certain Middle-Aged Man's VRMMO Activity Log"
-   },
-   "contentRating": "safe",
-   "score": 0.12310587,
-   "languages": [
-    "es-la",
-    "en",
-    "ru",
-    "fr",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:33+00:00"
+ "updatedAt": "2023-12-10T18:10:32+00:00"
 }

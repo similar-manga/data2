@@ -11,7 +11,7 @@
     "en": "The New Gate"
    },
    "contentRating": "safe",
-   "score": 0.18081415,
+   "score": 0.1785336,
    "languages": [
     "ru",
     "id",
@@ -32,7 +32,7 @@
     "en": "Gun"
    },
    "contentRating": "safe",
-   "score": 0.14832717,
+   "score": 0.14596424,
    "languages": [
     "en",
     "ru"
@@ -59,10 +59,23 @@
     "en": "Tokoshie x Bullet: Kaijuu Gakuen"
    },
    "contentRating": "safe",
-   "score": 0.11953532,
+   "score": 0.117184736,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "0c19b45d-face-484d-bac3-886dcfbf3d65",
+   "title": {
+    "en": "Heiwa no Kuni no Shimazaki e"
+   },
+   "contentRating": "safe",
+   "score": 0.11632677,
+   "languages": [
+    "en",
+    "id",
+    "ru"
    ]
   },
   {
@@ -71,7 +84,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.11218748,
+   "score": 0.111301236,
    "languages": [
     "pt-br",
     "en",
@@ -86,7 +99,7 @@
     "en": "A Certain Middle-Aged Man's VRMMO Activity Log"
    },
    "contentRating": "safe",
-   "score": 0.11211906,
+   "score": 0.11030555,
    "languages": [
     "es-la",
     "en",
@@ -101,7 +114,7 @@
     "en": "Mercy"
    },
    "contentRating": "safe",
-   "score": 0.10964278,
+   "score": 0.10819743,
    "languages": [
     "ru",
     "en"
@@ -120,6 +133,18 @@
    ]
   },
   {
+   "id": "3ed72a42-147d-4a57-a078-9e3632db4ab9",
+   "title": {
+    "en": "Virtua Fighter 2: Ten Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.107989855,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
    "id": "d754b8d8-cba3-4928-a602-c0fcec60495f",
    "title": {
     "en": "Special Compliance"
@@ -133,14 +158,29 @@
    ]
   },
   {
-   "id": "6e299881-44e9-42d2-9c79-f811b576fdd2",
+   "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
    "title": {
-    "en": "The Great Machine"
+    "en": "Instant Death Cold Syndrome"
    },
    "contentRating": "safe",
    "score": 0.096589066,
    "languages": [
+    "en",
     "ru"
+   ]
+  },
+  {
+   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
+   "title": {
+    "en": "Adou"
+   },
+   "contentRating": "safe",
+   "score": 0.096589066,
+   "languages": [
+    "ru",
+    "en",
+    "zh-hk",
+    "pt-br"
    ]
   },
   {
@@ -169,57 +209,16 @@
    ]
   },
   {
-   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
+   "id": "6e299881-44e9-42d2-9c79-f811b576fdd2",
    "title": {
-    "en": "Adou"
+    "en": "The Great Machine"
    },
    "contentRating": "safe",
    "score": 0.096589066,
    "languages": [
-    "ru",
-    "en",
-    "zh-hk",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "aefff461-ce0f-4db2-b160-3eeb1b03f48e",
-   "title": {
-    "en": "Merry Christmas"
-   },
-   "contentRating": "safe",
-   "score": 0.096589066,
-   "languages": [
-    "it",
-    "en",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
-   "title": {
-    "en": "Instant Death Cold Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.096589066,
-   "languages": [
-    "en",
     "ru"
-   ]
-  },
-  {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
-   "title": {
-    "en": "Crest of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.088173345,
-   "languages": [
-    "ru",
-    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:49+00:00"
+ "updatedAt": "2023-12-10T18:24:42+00:00"
 }

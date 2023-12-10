@@ -11,7 +11,7 @@
     "en": "The Way Home"
    },
    "contentRating": "safe",
-   "score": 0.26792118,
+   "score": 0.26915577,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Junji Ito: A Study From the Abyss of Horror"
    },
    "contentRating": "safe",
-   "score": 0.23472652,
+   "score": 0.23845676,
    "languages": [
     "en",
     "pl"
@@ -34,7 +34,7 @@
     "en": "Death Trap"
    },
    "contentRating": "safe",
-   "score": 0.23407598,
+   "score": 0.23687685,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Hyakki Yakoushou"
    },
    "contentRating": "safe",
-   "score": 0.23077846,
+   "score": 0.23024653,
    "languages": [
     "en"
    ]
@@ -56,21 +56,21 @@
     "en": "Kagenashi no Koibito"
    },
    "contentRating": "safe",
-   "score": 0.22687116,
+   "score": 0.22667621,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ccb03ab9-94e3-4a81-8bb8-44398edf51e0",
+   "id": "09b6eec8-adcb-4813-90c6-ee5f1e209083",
    "title": {
-    "en": "Mokume Neko no Ie"
+    "en": "Hen na Ie"
    },
    "contentRating": "safe",
-   "score": 0.21939445,
+   "score": 0.22195536,
    "languages": [
-    "en",
-    "ru"
+    "id",
+    "en"
    ]
   },
   {
@@ -96,25 +96,15 @@
    ]
   },
   {
-   "id": "b00ab5e6-77dc-4144-bbfb-8f0e7d86599c",
+   "id": "ccb03ab9-94e3-4a81-8bb8-44398edf51e0",
    "title": {
-    "en": "Forest Breeding Farm"
+    "en": "Mokume Neko no Ie"
    },
    "contentRating": "safe",
-   "score": 0.21467803,
+   "score": 0.21817292,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6b0d75b5-443a-49ed-8de1-29356bf4beec",
-   "title": {
-    "en": "Hatsukoi"
-   },
-   "contentRating": "safe",
-   "score": 0.21426149,
-   "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -123,7 +113,29 @@
     "en": "Layers of Fear"
    },
    "contentRating": "safe",
-   "score": 0.20868295,
+   "score": 0.21391565,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b6fb4946-801d-4191-9a1d-20f9fbf99211",
+   "title": {
+    "en": "Kurenai Kuraki"
+   },
+   "contentRating": "safe",
+   "score": 0.21120985,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b5cfd4f2-5bfe-4a0a-a42a-62da6fd3cda8",
+   "title": {
+    "en": "Daybreak"
+   },
+   "contentRating": "safe",
+   "score": 0.21051954,
    "languages": [
     "en"
    ]
@@ -134,18 +146,7 @@
     "en": "Sayonara Limit"
    },
    "contentRating": "safe",
-   "score": 0.20828009,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "85525d54-4a19-4167-8b2c-f01d5eba02eb",
-   "title": {
-    "en": "Ringwanderung"
-   },
-   "contentRating": "safe",
-   "score": 0.20809956,
+   "score": 0.20879833,
    "languages": [
     "en"
    ]
@@ -156,7 +157,7 @@
     "en": "Kareshi ni matowaritsuku yuurei"
    },
    "contentRating": "safe",
-   "score": 0.2074558,
+   "score": 0.20842527,
    "languages": [
     "it",
     "th",
@@ -166,12 +167,23 @@
    ]
   },
   {
+   "id": "759c4b10-af8f-4e0a-ae1d-1be33a34080f",
+   "title": {
+    "en": "Fly - Tondemo Teleport Girl Yumi"
+   },
+   "contentRating": "safe",
+   "score": 0.20781596,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "984b53d5-bd03-474a-aa41-ffae063e058a",
    "title": {
     "en": "The Enigma of Amigara Fault"
    },
    "contentRating": "safe",
-   "score": 0.20616232,
+   "score": 0.20569064,
    "languages": [
     "ca",
     "it",
@@ -179,19 +191,7 @@
     "fr",
     "pt-br"
    ]
-  },
-  {
-   "id": "c2956332-08f8-4adc-9208-c279c2f51c7e",
-   "title": {
-    "en": "The Globe"
-   },
-   "contentRating": "safe",
-   "score": 0.20036834,
-   "languages": [
-    "it",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:22+00:00"
+ "updatedAt": "2023-12-10T18:31:28+00:00"
 }

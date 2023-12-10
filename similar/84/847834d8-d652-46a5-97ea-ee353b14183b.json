@@ -6,12 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "071b7bcb-6248-47e9-ae3a-2d0cbbc6c1c2",
+   "title": {
+    "en": "Satsuriku no Tenshi: Episode.0"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "ru",
+    "en",
+    "pt-br",
+    "es",
+    "pl"
+   ]
+  },
+  {
+   "id": "10d0b77d-bf00-4669-b052-29d2a320f712",
+   "title": {
+    "en": "Shinohara Chie Kessakushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
    "title": {
     "en": "Zero"
    },
    "contentRating": "safe",
-   "score": 0.219918,
+   "score": 0.21883313,
    "languages": [
     "en"
    ]
@@ -22,7 +48,7 @@
     "en": "Kaeremasen."
    },
    "contentRating": "safe",
-   "score": 0.20276298,
+   "score": 0.2032636,
    "languages": [
     "en"
    ]
@@ -33,7 +59,7 @@
     "en": "1/2"
    },
    "contentRating": "safe",
-   "score": 0.19181503,
+   "score": 0.19168313,
    "languages": [
     "en"
    ]
@@ -47,6 +73,17 @@
    "score": 0.1787909,
    "languages": [
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "d0292d00-1dd7-4fba-80f6-e5c9345258b2",
+   "title": {
+    "en": "Gekki"
+   },
+   "contentRating": "safe",
+   "score": 0.1787909,
+   "languages": [
     "en"
    ]
   },
@@ -73,16 +110,28 @@
    ]
   },
   {
-   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
+   "id": "0581c802-2766-4956-aed8-daee0b493c35",
    "title": {
-    "en": "The Dress"
+    "en": "Sayonara Miniskirt"
+   },
+   "contentRating": "safe",
+   "score": 0.16044512,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
+   "title": {
+    "en": "Mimi ga Kieta Hi"
    },
    "contentRating": "safe",
    "score": 0.15991545,
    "languages": [
-    "pl",
-    "it",
-    "en"
+    "en",
+    "fr",
+    "pt-br"
    ]
   },
   {
@@ -113,6 +162,19 @@
    ]
   },
   {
+   "id": "a2d74833-959a-4980-ad89-67057b9e882f",
+   "title": {
+    "en": "The Dress"
+   },
+   "contentRating": "safe",
+   "score": 0.15991545,
+   "languages": [
+    "pl",
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
    "title": {
     "en": "Replay"
@@ -124,80 +186,16 @@
    ]
   },
   {
-   "id": "15fcb60b-e661-4528-8d56-3107d11b1cfc",
+   "id": "665201ac-552a-434d-8b09-c62c6bf6e693",
    "title": {
-    "en": "Mimi ga Kieta Hi"
+    "en": "Zekkyou Gakkyuu Tensei"
    },
    "contentRating": "safe",
-   "score": 0.15991545,
+   "score": 0.15711927,
    "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1e440a10-709a-41e9-a546-c20e2fc0406f",
-   "title": {
-    "en": "The Descendant of the Dynasty"
-   },
-   "contentRating": "safe",
-   "score": 0.14757547,
-   "languages": [
-    "en",
-    "fr",
-    "tr"
-   ]
-  },
-  {
-   "id": "8a38a197-949e-4f83-90cd-5ee6b9ed36d3",
-   "title": {
-    "en": "I Reincarnated as the Little Sister of a Death Game Manga's Murder Mastermind and Failed"
-   },
-   "contentRating": "safe",
-   "score": 0.14598216,
-   "languages": [
-    "en",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "b564f264-d2d4-405d-993b-f9fd0c14d1ff",
-   "title": {
-    "en": "Visukiisu no Akai Ningyou"
-   },
-   "contentRating": "safe",
-   "score": 0.14598216,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "48646469-9805-46d1-97ce-9420031c2d5a",
-   "title": {
-    "en": "Sekai wa Hikari no Naka ni - Kurayami no Meikyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.14076133,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "90c88ddd-07cb-41a5-8f73-448d5485dd55",
-   "title": {
-    "en": "Toshi Densetsu"
-   },
-   "contentRating": "safe",
-   "score": 0.14076133,
-   "languages": [
-    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:06+00:00"
+ "updatedAt": "2023-12-10T18:22:51+00:00"
 }

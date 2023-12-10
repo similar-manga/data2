@@ -11,7 +11,7 @@
     "en": "Death Edge"
    },
    "contentRating": "safe",
-   "score": 0.25164366,
+   "score": 0.2516729,
    "languages": [
     "pl",
     "en"
@@ -23,7 +23,30 @@
     "en": "Wilderness Hut"
    },
    "contentRating": "safe",
-   "score": 0.24909008,
+   "score": 0.24824677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fcb2b76e-188e-4657-9e1e-759bb2437433",
+   "title": {
+    "en": "Human Rendering"
+   },
+   "contentRating": "safe",
+   "score": 0.23657048,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "acf2ab60-cecf-40e7-b768-e140374afa5f",
+   "title": {
+    "en": "Innocent Murder"
+   },
+   "contentRating": "safe",
+   "score": 0.23281036,
    "languages": [
     "en"
    ]
@@ -34,7 +57,7 @@
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.23339002,
+   "score": 0.23209582,
    "languages": [
     "it",
     "pl",
@@ -43,12 +66,26 @@
    ]
   },
   {
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
+   "title": {
+    "en": "re CERVIN"
+   },
+   "contentRating": "safe",
+   "score": 0.22459942,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "ru"
+   ]
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "title": {
     "en": "Record of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.22344846,
+   "score": 0.22283167,
    "languages": [
     "zh-hk",
     "en",
@@ -73,9 +110,21 @@
     "en": "Meitantei no Jouken"
    },
    "contentRating": "safe",
-   "score": 0.22318445,
+   "score": 0.22228424,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "5977811a-0bc6-41c6-8dd0-3ef2441acec4",
+   "title": {
+    "en": "Black Scavenger"
+   },
+   "contentRating": "safe",
+   "score": 0.21989341,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -84,7 +133,7 @@
     "en": "Spider Silk"
    },
    "contentRating": "safe",
-   "score": 0.22097893,
+   "score": 0.21971299,
    "languages": [
     "en"
    ]
@@ -95,7 +144,7 @@
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.21883823,
+   "score": 0.2186192,
    "languages": [
     "en",
     "pt-br",
@@ -105,6 +154,17 @@
     "pl",
     "ru",
     "es"
+   ]
+  },
+  {
+   "id": "5e7cb481-7739-4ae0-99fc-03fbaca59ad7",
+   "title": {
+    "en": "Otherworldly Record of the Magic Stone - Aisha's Salvation"
+   },
+   "contentRating": "safe",
+   "score": 0.2183854,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -124,33 +184,7 @@
     "en": "Vinegirl: Mercy Killing"
    },
    "contentRating": "safe",
-   "score": 0.21563105,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
-   "title": {
-    "en": "Fool Night"
-   },
-   "contentRating": "safe",
-   "score": 0.21431647,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "uk",
-    "id"
-   ]
-  },
-  {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
-   "title": {
-    "en": "Metamorcode"
-   },
-   "contentRating": "safe",
-   "score": 0.21413782,
+   "score": 0.21565191,
    "languages": [
     "en"
    ]
@@ -161,59 +195,27 @@
     "en": "Anti Anti Angel"
    },
    "contentRating": "safe",
-   "score": 0.21382068,
+   "score": 0.21446818,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
+   "id": "e660da42-375c-4fca-80f1-1afbe5342b8f",
    "title": {
-    "en": "Shin Megami Tensei: Devil Survivor 2 —Show Your Free Will—"
+    "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.21344928,
+   "score": 0.21389887,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
-   "title": {
-    "en": "His Killing Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.21221633,
-   "languages": [
-    "fr",
-    "es",
+    "pt-br",
+    "ru",
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.2117924,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "afa526e0-0e7d-401b-bc68-2f5e76999284",
-   "title": {
-    "en": "Strange Invasion"
-   },
-   "contentRating": "safe",
-   "score": 0.2108112,
-   "languages": [
-    "en"
+    "uk",
+    "id"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:07+00:00"
+ "updatedAt": "2023-12-10T18:09:21+00:00"
 }

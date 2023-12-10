@@ -11,7 +11,7 @@
     "en": "Bleach: Special One-Shot - Digital Colored Comics"
    },
    "contentRating": "safe",
-   "score": 0.26045182,
+   "score": 0.2621822,
    "languages": [
     "es-la"
    ]
@@ -42,18 +42,27 @@
    ]
   },
   {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
+   "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
    "title": {
-    "en": "Bleach (Pre-Serialization)"
+    "en": "Peach Pluck"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "899ac405-c941-4333-83f6-48bc0193e516",
+   "title": {
+    "en": "Meteor Syndrome"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr"
+    "es-la"
    ]
   },
   {
@@ -71,18 +80,6 @@
    ]
   },
   {
-   "id": "899ac405-c941-4333-83f6-48bc0193e516",
-   "title": {
-    "en": "Meteor Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "d52003d7-b5c8-48ba-bdd9-143cc68cab7c",
    "title": {
     "en": "Meikai no Pendulum"
@@ -95,15 +92,18 @@
    ]
   },
   {
-   "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
+   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
    "title": {
-    "en": "Peach Pluck"
+    "en": "Bleach (Pre-Serialization)"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "en",
+    "ru",
     "pt-br",
-    "en"
+    "es",
+    "fr"
    ]
   },
   {
@@ -112,7 +112,7 @@
     "en": "Kamidori"
    },
    "contentRating": "safe",
-   "score": 0.2226599,
+   "score": 0.22365707,
    "languages": [
     "pt-br",
     "en",
@@ -121,26 +121,12 @@
    ]
   },
   {
-   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
-   "title": {
-    "en": "Sakamoto"
-   },
-   "contentRating": "safe",
-   "score": 0.22203378,
-   "languages": [
-    "it",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
    "title": {
     "en": "Permanent God"
    },
    "contentRating": "safe",
-   "score": 0.21972957,
+   "score": 0.2220847,
    "languages": [
     "pt-br",
     "bg",
@@ -152,14 +138,70 @@
    ]
   },
   {
+   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
+   "title": {
+    "en": "Sakamoto"
+   },
+   "contentRating": "safe",
+   "score": 0.22110198,
+   "languages": [
+    "it",
+    "vi",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "545ea920-12fc-423a-afe9-70415b9954ae",
    "title": {
     "en": "Tokyo Hell Heavens"
    },
    "contentRating": "safe",
-   "score": 0.2138077,
+   "score": 0.21540485,
    "languages": [
     "ru"
+   ]
+  },
+  {
+   "id": "871cd7b7-8212-45d3-b505-6663d0d9cb1f",
+   "title": {
+    "en": "FREAKS"
+   },
+   "contentRating": "safe",
+   "score": 0.20394154,
+   "languages": [
+    "en",
+    "ru",
+    "it",
+    "th",
+    "hu",
+    "fr"
+   ]
+  },
+  {
+   "id": "1a23bfac-634f-4be0-9085-4197a4e9610a",
+   "title": {
+    "en": "Please Don't Look, Medusa-san"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br",
+    "id",
+    "fr",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "0655ae71-f043-410a-90c1-ce42fa1fc000",
+   "title": {
+    "en": "Ichinose Mirai wa, Erabenai"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -174,44 +216,7 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "148f3e48-0717-4fb2-a3af-6ed908c497ae",
-   "title": {
-    "en": "In Logos Creo"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
-   "id": "ae9c0e74-f059-4a52-a1ad-7bfa5b278d1b",
-   "title": {
-    "en": "-SINS-"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
-    "id",
-    "pl",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "0422bf7b-e8fe-4ea6-8367-2f7e14db2dd6",
-   "title": {
-    "en": "Janpu ru-ki-! No koukoku shuunyuu ha zengaku, sakusha ni hairu hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:06+00:00"
+ "updatedAt": "2023-12-10T18:12:03+00:00"
 }

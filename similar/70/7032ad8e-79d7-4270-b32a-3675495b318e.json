@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.26912594,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
    "id": "907cfc9d-2700-435b-af9e-6d5f3364971a",
    "title": {
     "en": "Hunter Academy’s Strongest Battle God"
    },
    "contentRating": "safe",
-   "score": 0.22511277,
+   "score": 0.22209115,
    "languages": [
     "en",
     "fr"
@@ -29,17 +42,6 @@
    ]
   },
   {
-   "id": "1fc37d8e-4529-4720-bc08-636ff682aa85",
-   "title": {
-    "en": "Fate/Grand Order Comic a la carte PLUS!"
-   },
-   "contentRating": "safe",
-   "score": 0.20998496,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9d2ffef6-127c-4de2-aed0-88041c63009b",
    "title": {
     "en": "Persona 5"
@@ -52,6 +54,17 @@
     "en",
     "id",
     "es"
+   ]
+  },
+  {
+   "id": "1fc37d8e-4529-4720-bc08-636ff682aa85",
+   "title": {
+    "en": "Fate/Grand Order Comic a la carte PLUS!"
+   },
+   "contentRating": "safe",
+   "score": 0.20529829,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -81,6 +94,17 @@
    ]
   },
   {
+   "id": "882e338e-0105-4305-a380-655bc303036b",
+   "title": {
+    "en": "Fate/Grand Order Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.19975911,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
    "title": {
     "en": "Dragon Quest: Sora in the Blue Sky"
@@ -97,7 +121,7 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.19572254,
+   "score": 0.19541745,
    "languages": [
     "en"
    ]
@@ -108,7 +132,18 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.19559582,
+   "score": 0.1951829,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
+   "title": {
+    "en": "Gensou Suikoden V - Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.19460602,
    "languages": [
     "en"
    ]
@@ -125,14 +160,19 @@
    ]
   },
   {
-   "id": "2bac1dd2-711f-4885-9070-75ea949d31ba",
+   "id": "f2560480-8b67-457b-8895-9de643f681e9",
    "title": {
-    "en": "Gensou Suikoden V - Anthology Comic"
+    "en": "Soul Land IV - The Ultimate Combat"
    },
    "contentRating": "safe",
-   "score": 0.19268863,
+   "score": 0.19364189,
    "languages": [
-    "en"
+    "pt-br",
+    "fr",
+    "en",
+    "th",
+    "id",
+    "vi"
    ]
   },
   {
@@ -141,7 +181,7 @@
     "en": "Pikmin (Nintendo DREAM vol. 89)"
    },
    "contentRating": "safe",
-   "score": 0.18487856,
+   "score": 0.184006,
    "languages": [
     "en"
    ]
@@ -156,56 +196,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.18172997,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
-   "title": {
-    "en": "Fate/Grand Order -turas réalta-"
-   },
-   "contentRating": "safe",
-   "score": 0.18056627,
-   "languages": [
-    "es",
-    "vi",
-    "en",
-    "ar",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.18042076,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:14+00:00"
+ "updatedAt": "2023-12-10T18:20:28+00:00"
 }

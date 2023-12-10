@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6341b809-53e3-4461-ab3b-160514964685",
+   "title": {
+    "en": "Chiisai Boku no Haru"
+   },
+   "contentRating": "safe",
+   "score": 0.34912428,
+   "languages": [
+    "id",
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "136e2b50-bce7-4f8a-b4e1-fbe091f69dc6",
    "title": {
     "en": "SWOT (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.34109038,
+   "score": 0.33991325,
    "languages": [
     "pl",
     "en"
@@ -23,7 +37,7 @@
     "en": "Balance Days"
    },
    "contentRating": "safe",
-   "score": 0.31174937,
+   "score": 0.31040108,
    "languages": [
     "pt-br",
     "en"
@@ -35,7 +49,7 @@
     "en": "Henshin Ganbo"
    },
    "contentRating": "safe",
-   "score": 0.30888608,
+   "score": 0.30970496,
    "languages": [
     "ru",
     "en",
@@ -49,12 +63,24 @@
    ]
   },
   {
+   "id": "98b1d0ec-a7e4-4064-84a5-de2fb9595ff5",
+   "title": {
+    "en": "Bench"
+   },
+   "contentRating": "safe",
+   "score": 0.30041128,
+   "languages": [
+    "ca",
+    "en"
+   ]
+  },
+  {
    "id": "2874635c-54c8-43a3-ad46-b901ce6714af",
    "title": {
     "en": "Captain Tsubasa (Weekly Shonen Jump 40th Anniversary)"
    },
    "contentRating": "safe",
-   "score": 0.2870039,
+   "score": 0.29021096,
    "languages": [
     "en"
    ]
@@ -65,7 +91,7 @@
     "en": "Love Lunch Time"
    },
    "contentRating": "safe",
-   "score": 0.2791002,
+   "score": 0.2849803,
    "languages": [
     "th",
     "vi",
@@ -79,8 +105,20 @@
     "en": "Kuromori Climb"
    },
    "contentRating": "safe",
-   "score": 0.26791242,
+   "score": 0.27035233,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3b2b4313-3100-4271-96b7-d5434a76ffb0",
+   "title": {
+    "en": "Garbage Time - Basketball Underdogs"
+   },
+   "contentRating": "safe",
+   "score": 0.26416913,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -90,7 +128,7 @@
     "en": "Ushiro no Pleiades"
    },
    "contentRating": "safe",
-   "score": 0.2623683,
+   "score": 0.2568399,
    "languages": [
     "en"
    ]
@@ -101,11 +139,22 @@
     "en": "Hajime no Ippo Gaiden - Naniwa no Tora"
    },
    "contentRating": "safe",
-   "score": 0.25524127,
+   "score": 0.25442222,
    "languages": [
     "de",
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "061bd274-f485-4413-ba6c-e6bbbaa6dc49",
+   "title": {
+    "en": "Backcourt"
+   },
+   "contentRating": "safe",
+   "score": 0.25295517,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -114,7 +163,7 @@
     "en": "Hyoujou Fubu"
    },
    "contentRating": "safe",
-   "score": 0.24891192,
+   "score": 0.24962741,
    "languages": [
     "en"
    ]
@@ -125,7 +174,7 @@
     "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
    },
    "contentRating": "safe",
-   "score": 0.24508844,
+   "score": 0.2485018,
    "languages": [
     "es",
     "th",
@@ -135,72 +184,28 @@
    ]
   },
   {
-   "id": "01cb0163-df05-43bf-b30c-2c1342ad6675",
-   "title": {
-    "en": "Yokoshima Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.24229522,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "a6999c9e-c0e2-4534-a4da-632d09f010e9",
    "title": {
     "en": "Section 459"
    },
    "contentRating": "safe",
-   "score": 0.23940057,
+   "score": 0.24783838,
    "languages": [
     "fr"
    ]
   },
   {
-   "id": "308bffdc-3544-4faf-aa23-4281e0ba9b28",
+   "id": "01cb0163-df05-43bf-b30c-2c1342ad6675",
    "title": {
-    "en": "Pandora's Cube"
+    "en": "Yokoshima Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.23767668,
+   "score": 0.24222289,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9c6f0ecb-0c39-4d4b-9e5f-5170fce12523",
-   "title": {
-    "en": "Karasuma Suite"
-   },
-   "contentRating": "safe",
-   "score": 0.22941573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "25283fa7-db30-425f-8dc4-5dabe83eefa4",
-   "title": {
-    "en": "Karette Mouretsu"
-   },
-   "contentRating": "safe",
-   "score": 0.22941573,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b242f74d-8001-4be7-a0ee-e25c9f586265",
-   "title": {
-    "en": "Canvas"
-   },
-   "contentRating": "safe",
-   "score": 0.22941573,
-   "languages": [
-    "id"
+    "en",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:00+00:00"
+ "updatedAt": "2023-12-10T18:33:05+00:00"
 }

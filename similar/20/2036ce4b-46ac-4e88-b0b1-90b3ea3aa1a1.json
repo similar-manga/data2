@@ -11,7 +11,7 @@
     "en": "Shuumatsu no Koe"
    },
    "contentRating": "safe",
-   "score": 0.2682772,
+   "score": 0.26813313,
    "languages": [
     "fr",
     "es-la",
@@ -50,7 +50,7 @@
     "en": "Dream to Be an Idol"
    },
    "contentRating": "safe",
-   "score": 0.23179762,
+   "score": 0.22983365,
    "languages": [
     "id",
     "en",
@@ -63,7 +63,7 @@
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.2230636,
+   "score": 0.22168852,
    "languages": [
     "pt-br",
     "id",
@@ -82,25 +82,30 @@
    ]
   },
   {
-   "id": "24856a89-229a-4cca-9fae-8c70ee1eebd9",
+   "id": "0976963e-c0b4-4bdc-abde-831e9cb29cc2",
    "title": {
-    "en": "Nyan-Nyan Oratorio"
+    "en": "Damedol to Sekai ni Hitori Dake no Fan"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21714996,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "pt-br",
+    "es-la",
+    "tr"
    ]
   },
   {
-   "id": "bbb996fa-5d34-49ae-bd09-bdae00431eb5",
+   "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
    "title": {
-    "en": "E ni Kaita Mochi wo Kaita Mochi"
+    "en": "Shuumatsu wa Aoi Haru"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "es-la",
+    "id",
+    "pt-br",
     "en"
    ]
   },
@@ -118,26 +123,14 @@
    ]
   },
   {
-   "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
+   "id": "bbb996fa-5d34-49ae-bd09-bdae00431eb5",
    "title": {
-    "en": "Shuumatsu wa Aoi Haru"
+    "en": "E ni Kaita Mochi wo Kaita Mochi"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "8787958d-a3f1-4d48-8220-fad148c7c28e",
-   "title": {
-    "en": "Fragment"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -154,12 +147,46 @@
    ]
   },
   {
+   "id": "24856a89-229a-4cca-9fae-8c70ee1eebd9",
+   "title": {
+    "en": "Nyan-Nyan Oratorio"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8787958d-a3f1-4d48-8220-fad148c7c28e",
+   "title": {
+    "en": "Fragment"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e50d87b5-04e8-457c-acec-67becdbbd0d7",
+   "title": {
+    "en": "TO-Y"
+   },
+   "contentRating": "safe",
+   "score": 0.21064158,
+   "languages": [
+    "en",
+    "uk"
+   ]
+  },
+  {
    "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
    "title": {
     "en": "Houkago☆Idol"
    },
    "contentRating": "safe",
-   "score": 0.2103323,
+   "score": 0.20757028,
    "languages": [
     "es-la",
     "en"
@@ -171,34 +198,9 @@
     "en": "Nice to Meet You! The Pure-Hearted Fellow"
    },
    "contentRating": "safe",
-   "score": 0.20392616,
+   "score": 0.20329863,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "3070be78-046a-4d56-81f4-c053906122c3",
-   "title": {
-    "en": "Ookami to Hitsuji"
-   },
-   "contentRating": "safe",
-   "score": 0.2023831,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ff1e69ec-31c5-4fd9-ac6b-cb89eaba31ed",
-   "title": {
-    "en": "Ame no Hi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "de",
-    "en",
-    "id",
-    "tr"
    ]
   },
   {
@@ -213,5 +215,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:59+00:00"
+ "updatedAt": "2023-12-10T18:11:46+00:00"
 }

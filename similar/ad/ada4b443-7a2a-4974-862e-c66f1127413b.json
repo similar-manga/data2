@@ -11,9 +11,36 @@
     "en": "Rurouni Kenshin - Tokuhitsuban"
    },
    "contentRating": "safe",
-   "score": 0.71145666,
+   "score": 0.8421953,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8311ab2d-f034-4e7a-8635-4dce27bf6027",
+   "title": {
+    "en": "Rurouni Kenshin: Hokkaido-hen"
+   },
+   "contentRating": "safe",
+   "score": 0.44917867,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "es"
+   ]
+  },
+  {
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
+   "title": {
+    "en": "Red Blue"
+   },
+   "contentRating": "safe",
+   "score": 0.31916037,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -29,13 +56,26 @@
    ]
   },
   {
-   "id": "b121ce9e-ced9-4608-8b47-18aedb605498",
+   "id": "f5fe1552-61e5-488f-b5f8-9929e44be6c8",
    "title": {
-    "en": "Kikkai vs Omorai"
+    "en": "Teriyaki Western"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
+   "title": {
+    "en": "Blust!"
    },
    "contentRating": "safe",
    "score": 0.24806947,
    "languages": [
+    "ca",
+    "it",
     "en"
    ]
   },
@@ -55,15 +95,13 @@
    ]
   },
   {
-   "id": "360b3573-ca0e-492a-8ccd-ba127302e437",
+   "id": "b121ce9e-ced9-4608-8b47-18aedb605498",
    "title": {
-    "en": "Blust!"
+    "en": "Kikkai vs Omorai"
    },
    "contentRating": "safe",
    "score": 0.24806947,
    "languages": [
-    "ca",
-    "it",
     "en"
    ]
   },
@@ -80,9 +118,32 @@
    ]
   },
   {
+   "id": "a4326e7e-cd70-4887-ad8b-cdb378ba1e6e",
+   "title": {
+    "en": "Gamaran: Shura"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "367b0322-39e5-40b6-b288-093d8a41c54c",
    "title": {
     "en": "Nanpuu and Kuuei"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b2221c21-d128-42cc-b602-3e76f98c0eb6",
+   "title": {
+    "en": "O-Edo Ele-Ki"
    },
    "contentRating": "safe",
    "score": 0.22980437,
@@ -116,17 +177,6 @@
    ]
   },
   {
-   "id": "b2221c21-d128-42cc-b602-3e76f98c0eb6",
-   "title": {
-    "en": "O-Edo Ele-Ki"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d5404847-a74f-45c8-82b8-bbaa6b724d63",
    "title": {
     "en": "Shinden Yuuden Kakumei-hen - Ochita Kuroi Yuusha no Densetsu"
@@ -135,19 +185,6 @@
    "score": 0.22506468,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
-   "title": {
-    "en": "Naruto: Road to Ninja"
-   },
-   "contentRating": "safe",
-   "score": 0.22188008,
-   "languages": [
-    "en",
-    "ru",
-    "ro"
    ]
   },
   {
@@ -162,43 +199,7 @@
     "pl",
     "en"
    ]
-  },
-  {
-   "id": "359441d4-63f7-426c-b914-c636578ddcb0",
-   "title": {
-    "en": "Kakuremi"
-   },
-   "contentRating": "safe",
-   "score": 0.22188008,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "a37a44f2-637f-45aa-a4ac-368bc3271a01",
-   "title": {
-    "en": "Starbiter Satsuki"
-   },
-   "contentRating": "safe",
-   "score": 0.22188008,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3a2c5a51-7fab-4427-bd3f-46cd0aa6350d",
-   "title": {
-    "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
-   },
-   "contentRating": "safe",
-   "score": 0.22188008,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:55+00:00"
+ "updatedAt": "2023-12-10T18:27:45+00:00"
 }

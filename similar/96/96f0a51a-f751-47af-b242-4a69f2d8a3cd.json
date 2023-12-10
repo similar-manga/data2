@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ca9db128-9764-4f16-8af5-b7eab3f032b2",
+   "title": {
+    "en": "Student Number Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.25290036,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
    "title": {
     "en": "Gazer"
    },
    "contentRating": "safe",
-   "score": 0.23567368,
+   "score": 0.23354152,
    "languages": [
     "pt-br",
     "en",
@@ -24,18 +35,7 @@
     "en": "Ookami to Hitsuji"
    },
    "contentRating": "safe",
-   "score": 0.21397223,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "437cf232-67aa-41f6-8ee8-8faa0d61e3c3",
-   "title": {
-    "en": "Hyoujou Fubu"
-   },
-   "contentRating": "safe",
-   "score": 0.21230459,
+   "score": 0.21402973,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.21024922,
+   "score": 0.20995855,
    "languages": [
     "en"
    ]
@@ -57,11 +57,29 @@
     "en": "Ghost Logic"
    },
    "contentRating": "safe",
-   "score": 0.20224933,
+   "score": 0.20287581,
    "languages": [
     "de",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "f5795134-9ac6-411f-8526-11d37230a3e9",
+   "title": {
+    "en": "Arrested Love"
+   },
+   "contentRating": "safe",
+   "score": 0.19850367,
+   "languages": [
+    "vi",
+    "pt-br",
+    "ru",
+    "en",
+    "fa",
+    "pl",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -95,9 +113,23 @@
     "en": "Angel Voice"
    },
    "contentRating": "safe",
-   "score": 0.19132489,
+   "score": 0.19151504,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c3c40cb0-7307-4094-8b48-ba1fa35aa889",
+   "title": {
+    "en": "The crow I saved that one time, is just too clumsy for me"
+   },
+   "contentRating": "safe",
+   "score": 0.19067737,
+   "languages": [
+    "pt-br",
+    "en",
+    "id",
+    "ru"
    ]
   },
   {
@@ -106,7 +138,7 @@
     "en": "Kuzumoto-san Chi no Yonkyoudai"
    },
    "contentRating": "safe",
-   "score": 0.18968923,
+   "score": 0.19008964,
    "languages": [
     "en"
    ]
@@ -117,7 +149,7 @@
     "en": "Change Boy"
    },
    "contentRating": "safe",
-   "score": 0.1869839,
+   "score": 0.18737862,
    "languages": [
     "en"
    ]
@@ -128,7 +160,7 @@
     "en": "Majikaru Musou Tenshi Tsuki Irase!! Ryofuko-chan"
    },
    "contentRating": "safe",
-   "score": 0.18391883,
+   "score": 0.18389817,
    "languages": [
     "en"
    ]
@@ -139,7 +171,7 @@
     "en": "Hope You're Happy, Lemon"
    },
    "contentRating": "safe",
-   "score": 0.1832231,
+   "score": 0.18347958,
    "languages": [
     "pt-br",
     "vi",
@@ -149,50 +181,33 @@
    ]
   },
   {
-   "id": "4a90ca8a-5242-430f-990d-99e47258e378",
+   "id": "81013efd-f9ab-4e97-bc94-cf0ed451dcda",
    "title": {
-    "en": "V no Akuma"
+    "en": "An Extremely Attractive Gorilla"
    },
    "contentRating": "safe",
-   "score": 0.18089844,
+   "score": 0.18197888,
    "languages": [
+    "en",
     "fr",
-    "en"
+    "pt-br",
+    "hi"
    ]
   },
   {
-   "id": "78297fda-eed3-441b-acc6-7bae697cd690",
+   "id": "6341b809-53e3-4461-ab3b-160514964685",
    "title": {
-    "en": "Dan Doh!!"
+    "en": "Chiisai Boku no Haru"
    },
    "contentRating": "safe",
-   "score": 0.17903095,
+   "score": 0.18197888,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ef96c2c-25e5-4e1a-bb21-90a36c25096a",
-   "title": {
-    "en": "Age!"
-   },
-   "contentRating": "safe",
-   "score": 0.17903095,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "568d156b-1b9b-4f19-b7e4-0512239d9eb0",
-   "title": {
-    "en": "Cafe Occult"
-   },
-   "contentRating": "safe",
-   "score": 0.17754145,
-   "languages": [
-    "en"
+    "id",
+    "en",
+    "es-la",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:59+00:00"
+ "updatedAt": "2023-12-10T18:25:06+00:00"
 }

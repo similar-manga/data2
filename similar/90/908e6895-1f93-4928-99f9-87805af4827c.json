@@ -19,7 +19,7 @@
     "en": "Legend of the Holy Common Man"
    },
    "contentRating": "suggestive",
-   "score": 0.24522386
+   "score": 0.24465837
   },
   {
    "id": "819742bb-21a0-445e-9920-5f8dec6fcf16",
@@ -27,18 +27,7 @@
     "en": "The Small Tatami of the Great Plain"
    },
    "contentRating": "suggestive",
-   "score": 0.24236168
-  },
-  {
-   "id": "4c12bb7b-4983-4590-bd4e-76828af91977",
-   "title": {
-    "en": "Murder Murder"
-   },
-   "contentRating": "suggestive",
-   "score": 0.23897606,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24166623
   },
   {
    "id": "c4d0c41b-5f1a-4f72-909c-c4d67278bf78",
@@ -46,7 +35,18 @@
     "en": "Showa Phantoms - Those Unforgettable Guys"
    },
    "contentRating": "suggestive",
-   "score": 0.2372148
+   "score": 0.23763031
+  },
+  {
+   "id": "4c12bb7b-4983-4590-bd4e-76828af91977",
+   "title": {
+    "en": "Murder Murder"
+   },
+   "contentRating": "suggestive",
+   "score": 0.23683642,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "b3683a72-dedf-4981-ad2f-d8d1e597718d",
@@ -54,7 +54,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.23145097,
+   "score": 0.23069787,
    "languages": [
     "en",
     "ru",
@@ -86,7 +86,7 @@
     "en": "Gangsta"
    },
    "contentRating": "suggestive",
-   "score": 0.2226534,
+   "score": 0.22208053,
    "languages": [
     "ru",
     "id",
@@ -104,7 +104,15 @@
     "en": "Smooth-Talking Joe"
    },
    "contentRating": "suggestive",
-   "score": 0.21884525
+   "score": 0.21962482
+  },
+  {
+   "id": "ce7699ff-8570-44e6-8edc-813525c6980d",
+   "title": {
+    "en": "Asyl"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20674708
   },
   {
    "id": "b28f1e0b-aeb4-4090-8eb3-46f66d4bf3a7",
@@ -112,7 +120,7 @@
     "en": "Bandit Seven"
    },
    "contentRating": "suggestive",
-   "score": 0.20610102
+   "score": 0.20601645
   },
   {
    "id": "de928b04-2a7f-43b2-b33e-04e1073415c3",
@@ -120,7 +128,7 @@
     "en": "Black Joke"
    },
    "contentRating": "suggestive",
-   "score": 0.20357826,
+   "score": 0.20382051,
    "languages": [
     "pt-br",
     "en"
@@ -132,7 +140,7 @@
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.20051129,
+   "score": 0.20006046,
    "languages": [
     "es",
     "en",
@@ -146,30 +154,7 @@
     "en": "Metropolitan International Incidents Division - Hime Deka"
    },
    "contentRating": "suggestive",
-   "score": 0.19538927
-  },
-  {
-   "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
-   "title": {
-    "en": "\"Boku wa Nannin Koroshimashita ka?\""
-   },
-   "contentRating": "suggestive",
-   "score": 0.19217338,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
-   "id": "340273ab-6f5a-4eb8-abdf-269343213e4e",
-   "title": {
-    "en": "Gekikou Kamen"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19187911,
-   "languages": [
-    "en",
-    "fr"
-   ]
+   "score": 0.19542426
   },
   {
    "id": "6dc91362-a967-4c95-a1b8-17b96e5b3644",
@@ -178,7 +163,18 @@
    },
    "contentRating": "suggestive",
    "score": 0.19180913
+  },
+  {
+   "id": "70c0110f-89d0-4bef-ae22-a9e844bc80f4",
+   "title": {
+    "en": "\"Boku wa Nannin Koroshimashita ka?\""
+   },
+   "contentRating": "suggestive",
+   "score": 0.19086148,
+   "languages": [
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:41+00:00"
+ "updatedAt": "2023-12-10T18:24:20+00:00"
 }

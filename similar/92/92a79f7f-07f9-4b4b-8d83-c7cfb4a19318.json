@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "68de5270-9521-47e5-a6ad-4c2976829ab1",
+   "title": {
+    "en": "Moonlight Mask [MINE Takeshi]"
+   },
+   "contentRating": "safe",
+   "score": 0.28298095
+  },
+  {
    "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
    "title": {
     "en": "Lion Books"
    },
    "contentRating": "safe",
-   "score": 0.2695531,
+   "score": 0.2715559,
    "languages": [
     "en"
    ]
@@ -22,7 +30,7 @@
     "en": "Ao no Exorcist"
    },
    "contentRating": "safe",
-   "score": 0.2596738,
+   "score": 0.25675297,
    "languages": [
     "pt-br",
     "es-la",
@@ -40,7 +48,7 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.24447627
+   "score": 0.24442452
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -48,7 +56,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.2377191,
+   "score": 0.23811261,
    "languages": [
     "ru",
     "tr",
@@ -66,7 +74,15 @@
     "en": "Kamen Rider Stronger"
    },
    "contentRating": "safe",
-   "score": 0.23542914
+   "score": 0.23542424
+  },
+  {
+   "id": "4319bc34-58c0-4b7a-bbf9-06e15f649c62",
+   "title": {
+    "en": "God Sider"
+   },
+   "contentRating": "safe",
+   "score": 0.23264739
   },
   {
    "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
@@ -77,20 +93,12 @@
    "score": 0.23054041
   },
   {
-   "id": "11a0ff12-0da9-4d07-ac4d-0628bd235997",
-   "title": {
-    "en": "Hell Hell"
-   },
-   "contentRating": "safe",
-   "score": 0.23001611
-  },
-  {
    "id": "da7e2b0b-72a9-419c-b667-6a02c2c7c771",
    "title": {
     "en": "Isekai Kuimetsu no Same"
    },
    "contentRating": "safe",
-   "score": 0.22910161,
+   "score": 0.22798179,
    "languages": [
     "en",
     "fr",
@@ -98,12 +106,55 @@
    ]
   },
   {
+   "id": "1d8eb2a5-aff1-47ce-ad0b-46570be652db",
+   "title": {
+    "en": "Demons Can't Be Pretty"
+   },
+   "contentRating": "safe",
+   "score": 0.22674982,
+   "languages": [
+    "es"
+   ]
+  },
+  {
+   "id": "11a0ff12-0da9-4d07-ac4d-0628bd235997",
+   "title": {
+    "en": "Hell Hell"
+   },
+   "contentRating": "safe",
+   "score": 0.22672677
+  },
+  {
+   "id": "e43a7f5b-6ae7-478d-a4d5-53c8dc3ce52f",
+   "title": {
+    "en": "Wistoria: Wand and Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.22655241,
+   "languages": [
+    "id",
+    "en",
+    "ru",
+    "pt-br",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "70daece1-af3e-4475-b3e7-a3bde8de4606",
+   "title": {
+    "en": "Magic Master"
+   },
+   "contentRating": "safe",
+   "score": 0.22404103
+  },
+  {
    "id": "406b37b2-57e3-4bf8-9861-8db69f26b65c",
    "title": {
     "en": "The Devil Garon"
    },
    "contentRating": "safe",
-   "score": 0.22021337
+   "score": 0.22267397
   },
   {
    "id": "8bd19e5c-94f7-4368-a918-50f463857446",
@@ -111,7 +162,7 @@
     "en": "Kuroshitsuji"
    },
    "contentRating": "safe",
-   "score": 0.21911323,
+   "score": 0.21858755,
    "languages": [
     "en",
     "pt-br",
@@ -130,78 +181,11 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.21590967,
+   "score": 0.216344,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
-   "title": {
-    "en": "Thus Spoke Rohan Kishibe"
-   },
-   "contentRating": "safe",
-   "score": 0.21241838,
-   "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "it",
-    "pt-br",
-    "id",
-    "ru",
-    "zh"
-   ]
-  },
-  {
-   "id": "b6886009-e60b-44a7-abc2-a575765277ba",
-   "title": {
-    "en": "D.Gray-man"
-   },
-   "contentRating": "safe",
-   "score": 0.21155703,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "ru",
-    "bg",
-    "pt-br",
-    "tr",
-    "ar",
-    "it",
-    "fr",
-    "es-la",
-    "uk"
-   ]
-  },
-  {
-   "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
-   "title": {
-    "en": "Teito Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.20989834
-  },
-  {
-   "id": "b3ad7b1d-e7e8-4a36-a374-2e73e875c2c1",
-   "title": {
-    "en": "Onikirimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.20833342,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "553f2052-6320-4657-a5f1-ef5713d73be2",
-   "title": {
-    "en": "21st Century Adventure"
-   },
-   "contentRating": "safe",
-   "score": 0.20713143
   }
  ],
- "updatedAt": "2023-12-10T01:05:47+00:00"
+ "updatedAt": "2023-12-10T18:24:35+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Service Area"
    },
    "contentRating": "safe",
-   "score": 0.30964938,
+   "score": 0.31928077,
    "languages": [
     "pt-br",
     "ru",
@@ -21,48 +21,14 @@
    ]
   },
   {
-   "id": "1c6b567a-e318-4b60-b677-84a882bb85dd",
-   "title": {
-    "en": "After Snowfall, Wonder"
-   },
-   "contentRating": "safe",
-   "score": 0.27745944,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "a86d596f-93cf-470a-b18f-06f29665c292",
-   "title": {
-    "en": "Kilroy Was Here"
-   },
-   "contentRating": "safe",
-   "score": 0.27310058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7599c7be-d368-4b75-9fd1-a7c36a707861",
    "title": {
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.26461455,
+   "score": 0.28054902,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "d41b265a-c8be-4011-aead-65527bab1620",
-   "title": {
-    "en": "Ikiru"
-   },
-   "contentRating": "safe",
-   "score": 0.26191366,
-   "languages": [
     "en"
    ]
   },
@@ -72,7 +38,7 @@
     "en": "The Traveler"
    },
    "contentRating": "safe",
-   "score": 0.2605445,
+   "score": 0.27162012,
    "languages": [
     "it",
     "de",
@@ -82,12 +48,34 @@
    ]
   },
   {
+   "id": "20f9b0c2-f5fe-4691-b627-52737ad91d67",
+   "title": {
+    "en": "Nouzen Kazura no Ie"
+   },
+   "contentRating": "safe",
+   "score": 0.26558164,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d41b265a-c8be-4011-aead-65527bab1620",
+   "title": {
+    "en": "Ikiru"
+   },
+   "contentRating": "safe",
+   "score": 0.26376304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1303df82-72d9-4e89-b356-c06d4a7e4dda",
    "title": {
     "en": "Komaoto"
    },
    "contentRating": "safe",
-   "score": 0.25994715,
+   "score": 0.2621199,
    "languages": [
     "ru",
     "tr",
@@ -98,12 +86,23 @@
    ]
   },
   {
+   "id": "25febdc9-da45-43c1-b347-70df711fc43b",
+   "title": {
+    "en": "Kurashi no Izumi"
+   },
+   "contentRating": "safe",
+   "score": 0.26019073,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
    "title": {
     "en": "Fukugaeru"
    },
    "contentRating": "safe",
-   "score": 0.25863603,
+   "score": 0.25970712,
    "languages": [
     "bg",
     "en",
@@ -123,42 +122,6 @@
    ]
   },
   {
-   "id": "20f9b0c2-f5fe-4691-b627-52737ad91d67",
-   "title": {
-    "en": "Nouzen Kazura no Ie"
-   },
-   "contentRating": "safe",
-   "score": 0.25228268,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
-   "title": {
-    "en": "Sayonara Bye-Bye"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "ru",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
-   "title": {
-    "en": "Dodoitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
    "title": {
     "en": "Kanai-kun"
@@ -175,9 +138,9 @@
    ]
   },
   {
-   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
+   "id": "a86d596f-93cf-470a-b18f-06f29665c292",
    "title": {
-    "en": "F.P. Ageha"
+    "en": "Kilroy Was Here"
    },
    "contentRating": "safe",
    "score": 0.24983473,
@@ -200,6 +163,19 @@
    ]
   },
   {
+   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
+   "title": {
+    "en": "Sayonara Bye-Bye"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
    "title": {
     "en": "Olga A Yiri"
@@ -210,7 +186,29 @@
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
+   "title": {
+    "en": "F.P. Ageha"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
+   "title": {
+    "en": "The Message in the Rain Shower"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:12+00:00"
+ "updatedAt": "2023-12-10T18:09:33+00:00"
 }

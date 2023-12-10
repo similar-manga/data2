@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
+   "title": {
+    "en": "I want you to ask me first!"
+   },
+   "contentRating": "safe",
+   "score": 0.36241648,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "ad4a61f4-c3d1-4d4a-a925-e95658a8922d",
    "title": {
     "en": "Lonely for Christmas Senpai and Santa Kouhai"
    },
    "contentRating": "safe",
-   "score": 0.3189144,
+   "score": 0.32720667,
    "languages": [
     "ru",
     "en",
@@ -26,7 +38,7 @@
     "en": "Miracle☆Gift"
    },
    "contentRating": "safe",
-   "score": 0.2928313,
+   "score": 0.29985455,
    "languages": [
     "en",
     "fr"
@@ -68,24 +80,12 @@
    ]
   },
   {
-   "id": "2d5cbe91-efd5-4100-85a1-95c5f8da6eda",
-   "title": {
-    "en": "I want you to ask me first!"
-   },
-   "contentRating": "safe",
-   "score": 0.27873173,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
    "title": {
     "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
    },
    "contentRating": "safe",
-   "score": 0.2640425,
+   "score": 0.26663056,
    "languages": [
     "es",
     "th",
@@ -100,7 +100,7 @@
     "en": "Lunchtime Accomplice"
    },
    "contentRating": "safe",
-   "score": 0.26041505,
+   "score": 0.26224813,
    "languages": [
     "vi",
     "en"
@@ -112,7 +112,7 @@
     "en": "What if Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.25867847,
+   "score": 0.26203474,
    "languages": [
     "en",
     "kk",
@@ -125,7 +125,40 @@
     "en": "Nijou Taka Koukou Rojou Kansatsu-bu"
    },
    "contentRating": "safe",
-   "score": 0.2568446,
+   "score": 0.25828266,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f731427c-4101-4763-8ef4-dfc82212182e",
+   "title": {
+    "en": "Kodomo Gakkyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.2558633,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "850c2342-6ec4-45cb-8702-a6b28e90200c",
+   "title": {
+    "en": "Fuyukoshi-chan no No Pan Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "09bde10b-2bdb-46bd-9ea2-00861eea7365",
+   "title": {
+    "en": "One Bowl of Soupy Cheese Gyudon"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
    "languages": [
     "en"
    ]
@@ -144,36 +177,9 @@
    ]
   },
   {
-   "id": "1a23bfac-634f-4be0-9085-4197a4e9610a",
+   "id": "b1848175-b00b-48f6-8628-5608ad56b13d",
    "title": {
-    "en": "Please Don't Look, Medusa-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "pt-br",
-    "id",
-    "fr",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
-   "title": {
-    "en": "Hoshi no Alien ni Doryokushou wo."
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
-   "title": {
-    "en": "Esora Hikouki"
+    "en": "Bokura no VR"
    },
    "contentRating": "safe",
    "score": 0.24692619,
@@ -182,30 +188,17 @@
    ]
   },
   {
-   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
+   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
    "title": {
-    "en": "The Strongest Legend"
+    "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "it",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "552b57f7-aa15-4434-bd9e-52d1f0842370",
-   "title": {
-    "en": "Suki ni Natta Doukyuusei wa Shuukatsu-sei Deshita"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "es-la"
+    "pl",
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:14+00:00"
+ "updatedAt": "2023-12-10T18:28:37+00:00"
 }

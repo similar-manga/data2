@@ -6,6 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+   "title": {
+    "en": "Pumpkin Night"
+   },
+   "contentRating": "safe",
+   "score": 0.21531229,
+   "languages": [
+    "pt-br",
+    "en",
+    "kk",
+    "es",
+    "tr",
+    "it",
+    "id",
+    "es-la",
+    "ar",
+    "fr"
+   ]
+  },
+  {
    "id": "04598a65-4f1f-4807-a419-d79ca7f67457",
    "title": {
     "en": "Under Ninja"
@@ -48,6 +68,14 @@
    ]
   },
   {
+   "id": "d533df7d-4b42-431c-9e22-6f0bc6e2e426",
+   "title": {
+    "en": "Croket! Black Label"
+   },
+   "contentRating": "safe",
+   "score": 0.18686812
+  },
+  {
    "id": "b3a5d40d-efa3-4b1f-8c92-4f1c06e59759",
    "title": {
     "en": "Collector is Dead ~Tenbaiyā Bokumetsu-Ko-chan Hen~"
@@ -56,15 +84,47 @@
    "score": 0.18232499
   },
   {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
    "title": {
-    "en": "Uncanny Brains"
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.18216708,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
+   "title": {
+    "en": "Usagi ga Nihiki"
+   },
+   "contentRating": "safe",
+   "score": 0.18216708,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "57d6c2fc-a01c-436f-9388-2f37752417ae",
+   "title": {
+    "en": "Unmapped Place"
    },
    "contentRating": "safe",
    "score": 0.18024236,
    "languages": [
+    "zh-hk",
     "en"
    ]
+  },
+  {
+   "id": "581e8f0c-f0ac-48a5-889a-07e5d84cbe0d",
+   "title": {
+    "en": "Lonely Loser Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.18024236
   },
   {
    "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
@@ -77,6 +137,17 @@
     "en",
     "it",
     "fr"
+   ]
+  },
+  {
+   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "title": {
+    "en": "Uncanny Brains"
+   },
+   "contentRating": "safe",
+   "score": 0.18024236,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -93,7 +164,7 @@
     "en": "Red Colored Elegy"
    },
    "contentRating": "safe",
-   "score": 0.17599255,
+   "score": 0.17564557,
    "languages": [
     "ar",
     "pt-br"
@@ -105,7 +176,7 @@
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.1757682,
+   "score": 0.17497708,
    "languages": [
     "pl",
     "en",
@@ -114,71 +185,13 @@
    ]
   },
   {
-   "id": "ee300415-d645-4ff7-b71f-ff948764b746",
-   "title": {
-    "en": "Kimi no Sensou, Boku no Hebi"
-   },
-   "contentRating": "safe",
-   "score": 0.17451893
-  },
-  {
    "id": "89512c3f-7467-42c0-9a64-24b051253d94",
    "title": {
     "en": "Hellhound"
    },
    "contentRating": "safe",
    "score": 0.17451893
-  },
-  {
-   "id": "491f60ac-fa7b-4b13-b0cb-f03b614bddcb",
-   "title": {
-    "en": "V - The Visitors"
-   },
-   "contentRating": "safe",
-   "score": 0.17451893
-  },
-  {
-   "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
-   "title": {
-    "en": "Crest of the Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.17388208,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "1edab9a2-41b0-4873-a3cc-7aa0b68db194",
-   "title": {
-    "en": "The Judgement Day - Fist of the North Star: Ryuken Gaiden"
-   },
-   "contentRating": "safe",
-   "score": 0.17311406,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e39991fd-699b-4477-82cc-87b7dcb8bbb3",
-   "title": {
-    "en": "Inui and Tatsumi: Secret History of the Siberian Intervention"
-   },
-   "contentRating": "safe",
-   "score": 0.17311406
-  },
-  {
-   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
-   "title": {
-    "en": "Jungle Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.17296867,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:48+00:00"
+ "updatedAt": "2023-12-10T18:19:21+00:00"
 }

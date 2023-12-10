@@ -11,7 +11,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.24353851,
+   "score": 0.24307686,
    "languages": [
     "en",
     "ru",
@@ -24,7 +24,7 @@
     "en": "Black Joke"
    },
    "contentRating": "suggestive",
-   "score": 0.23681253,
+   "score": 0.24127527,
    "languages": [
     "pt-br",
     "en"
@@ -36,7 +36,7 @@
     "en": "Gangsta"
    },
    "contentRating": "suggestive",
-   "score": 0.23129702,
+   "score": 0.2306342,
    "languages": [
     "ru",
     "id",
@@ -73,7 +73,7 @@
     "en": "Kamen Rider Kuuga"
    },
    "contentRating": "suggestive",
-   "score": 0.18312036,
+   "score": 0.17594512,
    "languages": [
     "es",
     "en",
@@ -82,26 +82,26 @@
    ]
   },
   {
-   "id": "66342670-3624-4e30-ad98-9e5c8b8eb473",
-   "title": {
-    "en": "Mystery Minzoku Gakusha Yakumo Itsuki"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17253147,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
    "title": {
     "en": "Mobile Suit Gundam Thunderbolt"
    },
    "contentRating": "suggestive",
-   "score": 0.17059115,
+   "score": 0.17048047,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "66342670-3624-4e30-ad98-9e5c8b8eb473",
+   "title": {
+    "en": "Mystery Minzoku Gakusha Yakumo Itsuki"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17037164,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -110,7 +110,7 @@
     "en": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen"
    },
    "contentRating": "suggestive",
-   "score": 0.16996565,
+   "score": 0.16812219,
    "languages": [
     "en",
     "es-la",
@@ -151,7 +151,7 @@
     "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands"
    },
    "contentRating": "suggestive",
-   "score": 0.16113868,
+   "score": 0.16079932,
    "languages": [
     "es",
     "vi",
@@ -176,18 +176,6 @@
    ]
   },
   {
-   "id": "9852bb17-5fb5-40a0-82a0-357d9bcb5286",
-   "title": {
-    "en": "Bukyousouha"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1605742,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
    "id": "97e89fdb-4d66-4a42-a817-873dc99dc4e8",
    "title": {
     "en": "Cockroach Buster"
@@ -204,12 +192,24 @@
    ]
   },
   {
+   "id": "9852bb17-5fb5-40a0-82a0-357d9bcb5286",
+   "title": {
+    "en": "Bukyousouha"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15837821,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "03438804-f9b7-4748-be58-d120d5ffb8e6",
    "title": {
     "en": "Mujina in to The Deep"
    },
    "contentRating": "suggestive",
-   "score": 0.15659417,
+   "score": 0.15611437,
    "languages": [
     "uk",
     "en",
@@ -226,21 +226,9 @@
     "en": "Basilisk: Ouka Ninpou-chou"
    },
    "contentRating": "suggestive",
-   "score": 0.15579806,
+   "score": 0.15539265,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "340273ab-6f5a-4eb8-abdf-269343213e4e",
-   "title": {
-    "en": "Gekikou Kamen"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15415506,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -260,7 +248,19 @@
     "es-la",
     "es"
    ]
+  },
+  {
+   "id": "340273ab-6f5a-4eb8-abdf-269343213e4e",
+   "title": {
+    "en": "Gekikou Kamen"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15330529,
+   "languages": [
+    "en",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:20+00:00"
+ "updatedAt": "2023-12-10T18:20:49+00:00"
 }

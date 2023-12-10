@@ -22,21 +22,8 @@
     "en": "Flowers Rot and You Remain"
    },
    "contentRating": "suggestive",
-   "score": 0.18083686,
+   "score": 0.18075246,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6bb2b075-2cea-4675-8193-c1b05397f1cb",
-   "title": {
-    "en": "Elixir of the Sun"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17203596,
-   "languages": [
-    "pt-br",
-    "pl",
     "en"
    ]
   },
@@ -52,12 +39,25 @@
    ]
   },
   {
+   "id": "6bb2b075-2cea-4675-8193-c1b05397f1cb",
+   "title": {
+    "en": "Elixir of the Sun"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17085917,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "b39c2c39-e840-4e90-b072-d9dd2bf7e671",
    "title": {
     "en": "Koisuru Himon no Senshitachi"
    },
    "contentRating": "suggestive",
-   "score": 0.16679068,
+   "score": 0.16619405,
    "languages": [
     "en"
    ]
@@ -68,10 +68,21 @@
     "en": "The Duchess Has a Deathwish"
    },
    "contentRating": "suggestive",
-   "score": 0.16184896,
+   "score": 0.1615196,
    "languages": [
     "pt-br",
     "pl"
+   ]
+  },
+  {
+   "id": "a294d3bc-74a2-4d1e-b264-2ccd1258d7b9",
+   "title": {
+    "en": "Tracker of Dawn"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15808089,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -80,18 +91,7 @@
     "en": "One Pair Lady"
    },
    "contentRating": "suggestive",
-   "score": 0.16063467
-  },
-  {
-   "id": "a294d3bc-74a2-4d1e-b264-2ccd1258d7b9",
-   "title": {
-    "en": "Tracker of Dawn"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15955365,
-   "languages": [
-    "pt-br"
-   ]
+   "score": 0.15333402
   },
   {
    "id": "552e71ea-bd8e-4f53-90c8-0916f2a861d6",
@@ -124,18 +124,6 @@
    ]
   },
   {
-   "id": "6371d3a6-3663-4fb3-ad0f-e927c627d8ba",
-   "title": {
-    "en": "Past Life Destiny"
-   },
-   "contentRating": "suggestive",
-   "score": 0.14593084,
-   "languages": [
-    "en",
-    "fa"
-   ]
-  },
-  {
    "id": "95375808-6589-4e8e-a016-b4daaa9dd451",
    "title": {
     "en": "Isekai Tensei shitato omottara Sassoku Dorei Auction he Syuppin saretesimaimashita"
@@ -147,12 +135,16 @@
    ]
   },
   {
-   "id": "c0387188-bdfc-4e3d-930e-b74c81fe2cfa",
+   "id": "6371d3a6-3663-4fb3-ad0f-e927c627d8ba",
    "title": {
-    "en": "She Wants It, He Doesn't: A Love Story"
+    "en": "Past Life Destiny"
    },
    "contentRating": "suggestive",
-   "score": 0.14380667
+   "score": 0.14443007,
+   "languages": [
+    "en",
+    "fa"
+   ]
   },
   {
    "id": "5d1029df-16c2-41b9-9816-211f546d8f90",
@@ -173,7 +165,7 @@
     "en": "Under the Oak Tree"
    },
    "contentRating": "suggestive",
-   "score": 0.14305583,
+   "score": 0.1427573,
    "languages": [
     "cs",
     "pl",
@@ -186,7 +178,15 @@
     "hu",
     "fr"
    ]
+  },
+  {
+   "id": "c0387188-bdfc-4e3d-930e-b74c81fe2cfa",
+   "title": {
+    "en": "She Wants It, He Doesn't: A Love Story"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1424173
   }
  ],
- "updatedAt": "2023-12-10T01:07:07+00:00"
+ "updatedAt": "2023-12-10T18:28:19+00:00"
 }

@@ -6,27 +6,27 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "7cc8ef73-a260-494b-9d91-73660ed58471",
-   "title": {
-    "en": "Datenshiron"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2528774,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "074f054b-7c3d-4e3d-ad8b-de6c77329585",
    "title": {
     "en": "Hidan no Aria"
    },
    "contentRating": "suggestive",
-   "score": 0.25060636,
+   "score": 0.24925528,
    "languages": [
     "en",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "7cc8ef73-a260-494b-9d91-73660ed58471",
+   "title": {
+    "en": "Datenshiron"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24909878,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Absolute Duo"
    },
    "contentRating": "suggestive",
-   "score": 0.24592589,
+   "score": 0.24571049,
    "languages": [
     "pl",
     "it",
@@ -64,7 +64,7 @@
     "en": "Heaven"
    },
    "contentRating": "suggestive",
-   "score": 0.2184058,
+   "score": 0.21685226,
    "languages": [
     "en"
    ]
@@ -75,7 +75,7 @@
     "en": "One Room, Hiatari Futsuu, Tenshi-tsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.21794441,
+   "score": 0.21570228,
    "languages": [
     "en",
     "vi",
@@ -99,23 +99,11 @@
     "en": "Inukami!"
    },
    "contentRating": "suggestive",
-   "score": 0.20865102,
+   "score": 0.20853245,
    "languages": [
     "pl",
     "ru",
     "en"
-   ]
-  },
-  {
-   "id": "385fe3df-0ed1-4da1-be11-a7206d3f66e8",
-   "title": {
-    "en": "Engage Kiss"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20591189,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -124,7 +112,7 @@
     "en": "Sono Mono. Nochi ni... ~Kigatsuitara S-kyuu Saikyou!? Yuusha Wazu no Daibouken~"
    },
    "contentRating": "suggestive",
-   "score": 0.20470801,
+   "score": 0.20586678,
    "languages": [
     "fr",
     "pt-br",
@@ -178,12 +166,38 @@
    ]
   },
   {
+   "id": "385fe3df-0ed1-4da1-be11-a7206d3f66e8",
+   "title": {
+    "en": "Engage Kiss"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19867985,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "182f72c5-1949-4b22-8335-a64cafd128cb",
+   "title": {
+    "en": "Hiiragi-san Chi no Kyuuketsu Jijou"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19641474,
+   "languages": [
+    "fr",
+    "en",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
    "id": "a2a748cb-b2fc-467e-bfff-2c41cbe84a9d",
    "title": {
     "en": "Devilchi"
    },
    "contentRating": "suggestive",
-   "score": 0.19839327,
+   "score": 0.19573405,
    "languages": [
     "pt-br",
     "en",
@@ -193,26 +207,12 @@
    ]
   },
   {
-   "id": "182f72c5-1949-4b22-8335-a64cafd128cb",
-   "title": {
-    "en": "Hiiragi-san Chi no Kyuuketsu Jijou"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1981812,
-   "languages": [
-    "fr",
-    "en",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
    "id": "2ca258f3-f212-49ff-b66c-8ec6ff41ad87",
    "title": {
     "en": "Kimi wa 008"
    },
    "contentRating": "suggestive",
-   "score": 0.19448052,
+   "score": 0.19267559,
    "languages": [
     "en",
     "pt-br",
@@ -220,5 +220,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:13+00:00"
+ "updatedAt": "2023-12-10T18:25:43+00:00"
 }

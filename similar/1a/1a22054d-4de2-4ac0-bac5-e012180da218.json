@@ -6,12 +6,32 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e65bd309-c01d-43df-8394-a6fde1ce8ccb",
+   "title": {
+    "en": "\"Ippon\" again!"
+   },
+   "contentRating": "safe",
+   "score": 0.34294227,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
    "title": {
     "en": "Countryside General"
    },
    "contentRating": "safe",
-   "score": 0.31240958
+   "score": 0.30782378
+  },
+  {
+   "id": "7fa3dced-ca47-465a-82b8-10a829b67f4b",
+   "title": {
+    "en": "5th Stage of Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.2907469
   },
   {
    "id": "b2f1be5f-8948-42c0-898f-839b39ab5c59",
@@ -22,12 +42,28 @@
    "score": 0.24644627
   },
   {
+   "id": "49500cb4-a613-4032-bb63-28604dff1452",
+   "title": {
+    "en": "Straight to Judo"
+   },
+   "contentRating": "safe",
+   "score": 0.24477834
+  },
+  {
+   "id": "9f77e9b8-0a56-4f73-8cd2-308b9db6c9eb",
+   "title": {
+    "en": "Moretsu Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.23880646
+  },
+  {
    "id": "ca21d6ea-64af-48cd-ad04-22c0174df350",
    "title": {
     "en": "Idejuu!"
    },
    "contentRating": "safe",
-   "score": 0.24187617,
+   "score": 0.23787244,
    "languages": [
     "en"
    ]
@@ -38,21 +74,8 @@
     "en": "Street Fighter II"
    },
    "contentRating": "safe",
-   "score": 0.23554866,
+   "score": 0.23450874,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
-   "title": {
-    "en": "Prince of Tennis II"
-   },
-   "contentRating": "safe",
-   "score": 0.23195896,
-   "languages": [
-    "pl",
-    "es",
     "en"
    ]
   },
@@ -62,7 +85,7 @@
     "en": "Jungle Taro"
    },
    "contentRating": "safe",
-   "score": 0.23044348
+   "score": 0.22936203
   },
   {
    "id": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
@@ -71,6 +94,27 @@
    },
    "contentRating": "safe",
    "score": 0.22488222
+  },
+  {
+   "id": "a67996ca-ef48-4fd1-84d5-5319afd49108",
+   "title": {
+    "en": "Prince of Tennis II"
+   },
+   "contentRating": "safe",
+   "score": 0.2247767,
+   "languages": [
+    "pl",
+    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "8e3cde8c-5a4c-401b-9c55-771b236212cb",
+   "title": {
+    "en": "Animal 1"
+   },
+   "contentRating": "safe",
+   "score": 0.2132419
   },
   {
    "id": "db8050ed-2e69-4616-85b5-f615b74d2c80",
@@ -86,7 +130,7 @@
     "en": "Blue Lock"
    },
    "contentRating": "safe",
-   "score": 0.20907708,
+   "score": 0.20912066,
    "languages": [
     "ru",
     "vi",
@@ -108,7 +152,7 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.20863265,
+   "score": 0.20837654,
    "languages": [
     "ru",
     "en",
@@ -121,64 +165,8 @@
     "en": "Final Fantasy Type-0 Gaiden - The Ice Shinigami"
    },
    "contentRating": "safe",
-   "score": 0.20787302
-  },
-  {
-   "id": "ddd44276-89d1-4b8c-89e6-f5ea24e44079",
-   "title": {
-    "en": "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.20646004,
-   "languages": [
-    "vi",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
-   "title": {
-    "en": "Shiden Kai Hawk"
-   },
-   "contentRating": "safe",
-   "score": 0.20646004
-  },
-  {
-   "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
-   "title": {
-    "en": "Yowamushi Pedal"
-   },
-   "contentRating": "safe",
-   "score": 0.20277523,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
-   "id": "da6fc5c2-c9ab-42f8-9671-ef2bfcc16ee4",
-   "title": {
-    "en": "Space Ironman Kyodain (NARUI Toshio)"
-   },
-   "contentRating": "safe",
-   "score": 0.19715701
-  },
-  {
-   "id": "3ffc6b64-bab5-48bb-b566-a6e6e4e13339",
-   "title": {
-    "en": "Baki Gaiden: SCARFACE"
-   },
-   "contentRating": "safe",
-   "score": 0.1970809,
-   "languages": [
-    "en",
-    "ru"
-   ]
+   "score": 0.20786358
   }
  ],
- "updatedAt": "2023-12-10T01:00:46+00:00"
+ "updatedAt": "2023-12-10T18:11:07+00:00"
 }

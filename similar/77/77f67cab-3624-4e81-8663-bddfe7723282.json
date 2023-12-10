@@ -11,7 +11,7 @@
     "en": "GrimAter"
    },
    "contentRating": "suggestive",
-   "score": 0.19744325,
+   "score": 0.19620213,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Patora to Tetsujuuji"
    },
    "contentRating": "suggestive",
-   "score": 0.18324512,
+   "score": 0.18259588,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Prince Asahiko"
    },
    "contentRating": "suggestive",
-   "score": 0.17137818,
+   "score": 0.17064582,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Witch Hunter"
    },
    "contentRating": "suggestive",
-   "score": 0.16445519,
+   "score": 0.162662,
    "languages": [
     "ro",
     "en",
@@ -64,30 +64,6 @@
     "pl",
     "ar",
     "pt-br"
-   ]
-  },
-  {
-   "id": "0d47f933-ffc7-4ec5-9227-39f980804b07",
-   "title": {
-    "en": "Seigai no Majo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15940592,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6dbc24cd-56ed-4171-83cd-8115ac0814b6",
-   "title": {
-    "en": "Returned from Hell"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1573292,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -103,43 +79,39 @@
    ]
   },
   {
-   "id": "abed35eb-aee3-49a3-a293-10301bbb3683",
+   "id": "6dbc24cd-56ed-4171-83cd-8115ac0814b6",
    "title": {
-    "en": "Majo to Kurasu Mayoi no Mori"
+    "en": "Returned from Hell"
    },
    "contentRating": "suggestive",
-   "score": 0.15649165,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "adfcc975-d4d6-4117-8936-31fa9d3483f2",
-   "title": {
-    "en": "Prince Adahiko"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1541505,
+   "score": 0.1573292,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2cede0c2-9659-41eb-9100-2c3927155a85",
+   "id": "0d47f933-ffc7-4ec5-9227-39f980804b07",
    "title": {
-    "en": "Prince Aoihiko"
+    "en": "Seigai no Majo"
    },
    "contentRating": "suggestive",
-   "score": 0.1541505,
+   "score": 0.15723917,
    "languages": [
-    "fr",
     "en",
-    "zh",
-    "ko",
-    "id",
-    "ja",
-    "es"
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "abed35eb-aee3-49a3-a293-10301bbb3683",
+   "title": {
+    "en": "Majo to Kurasu Mayoi no Mori"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15612341,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -160,26 +132,43 @@
    ]
   },
   {
-   "id": "ab5b1ce5-3a36-456c-8385-01b1366534b8",
+   "id": "2cede0c2-9659-41eb-9100-2c3927155a85",
    "title": {
-    "en": "Nina-san no Mahou Seikatsu"
+    "en": "Prince Aoihiko"
    },
    "contentRating": "suggestive",
-   "score": 0.15335827,
+   "score": 0.1541505,
    "languages": [
+    "fr",
     "en",
-    "es-la"
+    "zh",
+    "ko",
+    "id",
+    "ja",
+    "es"
    ]
   },
   {
-   "id": "fcb02939-dbac-4ac5-917a-f3dc0e94d631",
+   "id": "adfcc975-d4d6-4117-8936-31fa9d3483f2",
    "title": {
-    "en": "Yumemiru Koto"
+    "en": "Prince Adahiko"
    },
    "contentRating": "suggestive",
-   "score": 0.1526899,
+   "score": 0.1541505,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "bf4e6b59-036c-400a-a2b1-c5ade52a693b",
+   "title": {
+    "en": "Щасливе довге життя"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15256943,
+   "languages": [
+    "en",
+    "uk"
    ]
   },
   {
@@ -196,17 +185,28 @@
    ]
   },
   {
-   "id": "bf4e6b59-036c-400a-a2b1-c5ade52a693b",
+   "id": "ab5b1ce5-3a36-456c-8385-01b1366534b8",
    "title": {
-    "en": "Щасливе довге життя"
+    "en": "Nina-san no Mahou Seikatsu"
    },
    "contentRating": "suggestive",
-   "score": 0.15256943,
+   "score": 0.15231414,
    "languages": [
     "en",
-    "uk"
+    "es-la"
+   ]
+  },
+  {
+   "id": "fcb02939-dbac-4ac5-917a-f3dc0e94d631",
+   "title": {
+    "en": "Yumemiru Koto"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15193014,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:32+00:00"
+ "updatedAt": "2023-12-10T18:21:24+00:00"
 }

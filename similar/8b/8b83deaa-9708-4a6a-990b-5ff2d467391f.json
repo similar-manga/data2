@@ -22,7 +22,7 @@
     "en": "A to Z"
    },
    "contentRating": "safe",
-   "score": 0.24363542
+   "score": 0.2433516
   },
   {
    "id": "b654e6df-273d-48d5-84a4-8c2a7ce5f571",
@@ -41,7 +41,7 @@
     "en": "Kuchizuke wa Uso no Aji"
    },
    "contentRating": "safe",
-   "score": 0.23601516,
+   "score": 0.23557101,
    "languages": [
     "pl",
     "en"
@@ -53,7 +53,7 @@
     "en": "Saisou Friends"
    },
    "contentRating": "safe",
-   "score": 0.23545513
+   "score": 0.23438656
   },
   {
    "id": "5c4d35f1-1e01-44e7-9438-b7faa14961ad",
@@ -61,52 +61,9 @@
     "en": "Xinghai Rongyao"
    },
    "contentRating": "safe",
-   "score": 0.23035142,
+   "score": 0.22982787,
    "languages": [
     "ru"
-   ]
-  },
-  {
-   "id": "fb7c4d5e-3655-4432-93f6-5061a9e03c1b",
-   "title": {
-    "en": "Ninja Slayer: Glamorous Killers"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033
-  },
-  {
-   "id": "7d7be623-acac-4b2a-9239-e35e53394082",
-   "title": {
-    "en": "G-Defend"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f56b1bda-3e54-4931-a4d9-e160a3b36263",
-   "title": {
-    "en": "Aoi Hitsuji no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "7b8f4f29-bf9f-4f8d-ace7-a27fc22ef2b7",
-   "title": {
-    "en": "Mabayui Hikari"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -121,62 +78,97 @@
    ]
   },
   {
-   "id": "88c682c2-b72c-4d98-a6bc-e547da07c3ba",
+   "id": "168c09ee-122e-42cd-a499-64db98a86ea0",
    "title": {
-    "en": "Hanger ―Shikkounin―"
+    "en": "Intense"
    },
    "contentRating": "safe",
-   "score": 0.21859924,
+   "score": 0.22796033
+  },
+  {
+   "id": "7b8f4f29-bf9f-4f8d-ace7-a27fc22ef2b7",
+   "title": {
+    "en": "Mabayui Hikari"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
    "languages": [
-    "es-la",
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
-   "id": "237ba069-eaa6-4d33-a2f8-f6ac5d902ead",
+   "id": "fec5084b-3334-497c-8886-05d70ab56f07",
    "title": {
-    "en": "DRAMAtical Murder"
+    "en": "Gray"
    },
    "contentRating": "safe",
-   "score": 0.21515295,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "89fda578-ef81-4669-907e-df837c74627a",
-   "title": {
-    "en": "Combination"
-   },
-   "contentRating": "safe",
-   "score": 0.21498363,
+   "score": 0.22796033,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d2d7dd16-7e7b-4bf8-8f61-0e3c0f38437a",
+   "id": "7d7be623-acac-4b2a-9239-e35e53394082",
    "title": {
-    "en": "Uncanny Brains"
+    "en": "G-Defend"
    },
    "contentRating": "safe",
-   "score": 0.21496369,
+   "score": 0.22796033,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
+   "id": "b80b5465-5961-4900-9934-6e94e78a38e0",
    "title": {
-    "en": "Suzuro's Logfile"
+    "en": "If You Do Not Obey Me"
    },
    "contentRating": "safe",
-   "score": 0.21348596,
+   "score": 0.22796033
+  },
+  {
+   "id": "f56b1bda-3e54-4931-a4d9-e160a3b36263",
+   "title": {
+    "en": "Aoi Hitsuji no Yume"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "it",
+    "pl"
+   ]
+  },
+  {
+   "id": "8984e9b3-32eb-4fcc-89f5-c42e8dcec5b2",
+   "title": {
+    "en": "Anata no Shimobe"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb7c4d5e-3655-4432-93f6-5061a9e03c1b",
+   "title": {
+    "en": "Ninja Slayer: Glamorous Killers"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033
+  },
+  {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.22521539,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:05:26+00:00"
+ "updatedAt": "2023-12-10T18:23:42+00:00"
 }

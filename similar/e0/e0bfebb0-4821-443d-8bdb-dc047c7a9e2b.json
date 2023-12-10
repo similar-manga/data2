@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "19f3621b-dd55-4f55-b8ca-e0bbcfb8a853",
+   "title": {
+    "en": "Bass Gaiden - Bass \u0026 Serenade"
+   },
+   "contentRating": "safe",
+   "score": 0.30412856,
+   "languages": [
+    "ar",
+    "en"
+   ]
+  },
+  {
    "id": "a43efa3d-85d9-453b-a78d-25b87a003f72",
    "title": {
     "en": "Dead Heads"
    },
    "contentRating": "safe",
-   "score": 0.30616033,
+   "score": 0.30360916,
    "languages": [
     "pt-br",
     "fr",
@@ -20,24 +32,12 @@
    ]
   },
   {
-   "id": "19f3621b-dd55-4f55-b8ca-e0bbcfb8a853",
-   "title": {
-    "en": "Bass Gaiden - Bass \u0026 Serenade"
-   },
-   "contentRating": "safe",
-   "score": 0.30610037,
-   "languages": [
-    "ar",
-    "en"
-   ]
-  },
-  {
    "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
    "title": {
     "en": "Naruto: Road to Ninja"
    },
    "contentRating": "safe",
-   "score": 0.27484655,
+   "score": 0.27289605,
    "languages": [
     "en",
     "ru",
@@ -50,7 +50,7 @@
     "en": "Sand Storm Boarders"
    },
    "contentRating": "safe",
-   "score": 0.25308076,
+   "score": 0.25368765,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Alien Nine Special"
    },
    "contentRating": "safe",
-   "score": 0.23653291,
+   "score": 0.23370281,
    "languages": [
     "en"
    ]
@@ -103,14 +103,41 @@
    ]
   },
   {
+   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
+   "title": {
+    "en": "Disaster, Old Man and Monster"
+   },
+   "contentRating": "safe",
+   "score": 0.22088717,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9c2aedf7-851c-4997-87bf-7b350eee4095",
    "title": {
     "en": "Undertrain"
    },
    "contentRating": "safe",
-   "score": 0.22189318,
+   "score": 0.22083107,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f19d9356-2f53-4aa2-bf96-4abbcac920e4",
+   "title": {
+    "en": "World's End Sabotage"
+   },
+   "contentRating": "safe",
+   "score": 0.22054821,
+   "languages": [
+    "vi",
+    "fr",
+    "it",
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -126,39 +153,23 @@
    ]
   },
   {
-   "id": "f19d9356-2f53-4aa2-bf96-4abbcac920e4",
-   "title": {
-    "en": "World's End Sabotage"
-   },
-   "contentRating": "safe",
-   "score": 0.21883497,
-   "languages": [
-    "vi",
-    "fr",
-    "it",
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
    "id": "0d4e738b-b3ed-4a19-be4c-80fb78e3ab31",
    "title": {
     "en": "Armagedon"
    },
    "contentRating": "safe",
-   "score": 0.21547262,
+   "score": 0.21486759,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2f052d0b-37d0-4def-9668-a089e811f2d9",
+   "id": "91975305-e784-4316-a1cd-29fa3a6a1949",
    "title": {
-    "en": "Disaster, Old Man and Monster"
+    "en": "Gao Neng Strikes"
    },
    "contentRating": "safe",
-   "score": 0.21425228,
+   "score": 0.21427266,
    "languages": [
     "en"
    ]
@@ -169,35 +180,24 @@
     "en": "Mega Man X2: Get Those Special Weapons!"
    },
    "contentRating": "safe",
-   "score": 0.21366248,
+   "score": 0.21298552,
    "languages": [
     "es",
     "en"
    ]
   },
   {
-   "id": "a397c8b4-28c2-4b0e-a8a0-f2a5faadb3ab",
+   "id": "d5740ce7-c18c-448d-9eac-146555df1e58",
    "title": {
-    "en": "The Tale of the Antique Dealer: An Uramachi Sakaba Side Story"
+    "en": "Kekkai Sensen (Blu-Ray Bonus Comics)"
    },
    "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2b2a534-e3a1-4caf-a166-bbb46f25fe20",
-   "title": {
-    "en": "Instant Death Cold Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.2095431,
    "languages": [
     "en",
     "ru"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:09:01+00:00"
+ "updatedAt": "2023-12-10T18:33:07+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Battle Hawk"
    },
    "contentRating": "suggestive",
-   "score": 0.23136906
+   "score": 0.23010771
   },
   {
    "id": "c753ba3c-d403-4af8-80e6-f453e2f9b591",
@@ -19,7 +19,7 @@
     "en": "#lovers"
    },
    "contentRating": "suggestive",
-   "score": 0.2057431,
+   "score": 0.20444348,
    "languages": [
     "pt-br"
    ]
@@ -30,9 +30,20 @@
     "en": "Ningen Card"
    },
    "contentRating": "suggestive",
-   "score": 0.20233724,
+   "score": 0.20195259,
    "languages": [
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "de08b0be-2e22-4782-a8d3-278ad8ca2400",
+   "title": {
+    "en": "EArTh ∞"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16903058,
+   "languages": [
     "en"
    ]
   },
@@ -48,34 +59,12 @@
    ]
   },
   {
-   "id": "de08b0be-2e22-4782-a8d3-278ad8ca2400",
-   "title": {
-    "en": "EArTh ∞"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16835868,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d7263b06-d816-499e-aa3a-54a3ea48e6b5",
    "title": {
     "en": "Chijou 100-kai"
    },
    "contentRating": "suggestive",
-   "score": 0.16715577,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c616db88-d7ba-4621-823c-f43eef5d74d3",
-   "title": {
-    "en": "Akuru no Shima"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1651471,
+   "score": 0.1672335,
    "languages": [
     "en"
    ]
@@ -86,7 +75,18 @@
     "en": "Maousama no Yuusha Toubatsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.16459483,
+   "score": 0.16671978,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c616db88-d7ba-4621-823c-f43eef5d74d3",
+   "title": {
+    "en": "Akuru no Shima"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1641799,
    "languages": [
     "en"
    ]
@@ -128,7 +128,7 @@
     "en": "Soukou Akki Muramasa: Makai-hen"
    },
    "contentRating": "suggestive",
-   "score": 0.15655643,
+   "score": 0.15587625,
    "languages": [
     "en",
     "ru"
@@ -146,17 +146,6 @@
    ]
   },
   {
-   "id": "b5e3ba0f-f735-4a32-a617-2bd3db500091",
-   "title": {
-    "en": "Wild 7"
-   },
-   "contentRating": "suggestive",
-   "score": 0.15297568,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "815eaaf1-51ff-4c18-8af2-0972147e4309",
    "title": {
     "en": "Lampo"
@@ -165,15 +154,13 @@
    "score": 0.15249857
   },
   {
-   "id": "a3674af0-e98b-4c1f-bf73-61573a9c5fe2",
+   "id": "b5e3ba0f-f735-4a32-a617-2bd3db500091",
    "title": {
-    "en": "Jingai Hime-sama, Hajimemashita ~Free Life Fantasy Online~"
+    "en": "Wild 7"
    },
    "contentRating": "suggestive",
-   "score": 0.1515701,
+   "score": 0.15246557,
    "languages": [
-    "pt-br",
-    "id",
     "en"
    ]
   },
@@ -183,14 +170,27 @@
     "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
    },
    "contentRating": "suggestive",
-   "score": 0.15117916,
+   "score": 0.15065168,
    "languages": [
     "en",
     "es",
     "es-la",
     "ru"
    ]
+  },
+  {
+   "id": "a3674af0-e98b-4c1f-bf73-61573a9c5fe2",
+   "title": {
+    "en": "Jingai Hime-sama, Hajimemashita ~Free Life Fantasy Online~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.15024602,
+   "languages": [
+    "pt-br",
+    "id",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:55+00:00"
+ "updatedAt": "2023-12-10T18:19:40+00:00"
 }

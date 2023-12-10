@@ -11,7 +11,7 @@
     "en": "Then, I'll Go First"
    },
    "contentRating": "safe",
-   "score": 0.2175128,
+   "score": 0.21784465,
    "languages": [
     "de",
     "en"
@@ -23,7 +23,7 @@
     "en": "Sumika's Home"
    },
    "contentRating": "safe",
-   "score": 0.21460687,
+   "score": 0.21374354,
    "languages": [
     "en"
    ]
@@ -41,12 +41,24 @@
    ]
   },
   {
+   "id": "bb4aa5e4-0769-4305-9fcf-130cd32c60de",
+   "title": {
+    "en": "Deathpedia"
+   },
+   "contentRating": "safe",
+   "score": 0.21077867,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "83bf6fcf-d9c5-43c8-9098-e44c9ad321c3",
    "title": {
     "en": "Watashi to Fukigen na Panya-san"
    },
    "contentRating": "safe",
-   "score": 0.21103926,
+   "score": 0.21017958,
    "languages": [
     "en"
    ]
@@ -57,20 +69,9 @@
     "en": "Triangle"
    },
    "contentRating": "safe",
-   "score": 0.21069168,
+   "score": 0.20995183,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8747aaea-ea8f-42f7-84b8-493dfbb72c91",
-   "title": {
-    "en": "Nakanai Tori no Kaeru Ki wa"
-   },
-   "contentRating": "safe",
-   "score": 0.20895715,
-   "languages": [
     "en"
    ]
   },
@@ -80,10 +81,29 @@
     "en": "Impatiens"
    },
    "contentRating": "safe",
-   "score": 0.20595519,
+   "score": 0.20348231,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8747aaea-ea8f-42f7-84b8-493dfbb72c91",
+   "title": {
+    "en": "Nakanai Tori no Kaeru Ki wa"
+   },
+   "contentRating": "safe",
+   "score": 0.1958024,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fc8357d-fce6-494b-a00b-e65e9774d564",
+   "title": {
+    "en": "Himitsu no Yubisaki - Katakoi Doukei Tanpenshuu 2"
+   },
+   "contentRating": "safe",
+   "score": 0.19094242
   },
   {
    "id": "f64c9f3b-9722-4bab-88d7-5270bb909b10",
@@ -97,12 +117,12 @@
    ]
   },
   {
-   "id": "5307712b-a34a-498b-89ef-51949f133a1d",
+   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
    "title": {
-    "en": "The Night We Become More Than Friends"
+    "en": "Orgel Garden"
    },
    "contentRating": "safe",
-   "score": 0.18413846,
+   "score": 0.18377358,
    "languages": [
     "en"
    ]
@@ -113,19 +133,19 @@
     "en": "A Boy Who Fishes Dreams"
    },
    "contentRating": "safe",
-   "score": 0.18393843,
+   "score": 0.18373023,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
+   "id": "5307712b-a34a-498b-89ef-51949f133a1d",
    "title": {
-    "en": "Orgel Garden"
+    "en": "The Night We Become More Than Friends"
    },
    "contentRating": "safe",
-   "score": 0.18392035,
+   "score": 0.18334408,
    "languages": [
     "en"
    ]
@@ -136,62 +156,28 @@
     "en": "100 Days Dream"
    },
    "contentRating": "safe",
-   "score": 0.18350965,
+   "score": 0.18318886,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "9f80722b-56cb-4c6d-b77a-56d5123a531b",
+   "id": "9be7da65-dc4e-4ae0-9768-58453874e8e1",
    "title": {
-    "en": "My Love Ride!!"
+    "en": "Shufu wa Idol!"
    },
    "contentRating": "safe",
-   "score": 0.17564122,
-   "languages": [
-    "tr",
-    "en",
-    "pt-br"
-   ]
+   "score": 0.18299638
   },
   {
-   "id": "193574f4-5112-4645-b597-35eb7033c101",
+   "id": "b0130537-ecb7-4ac9-9988-d001c85a811c",
    "title": {
-    "en": "Ombre Majestueuse"
+    "en": "Ueto Aya Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "799febb7-6298-409f-853c-9c3181a43055",
-   "title": {
-    "en": "Kimi wa Boku no Taiyou"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "uk",
-    "bg",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "c469a31a-ef1d-4299-b189-10d9da4d9f54",
-   "title": {
-    "en": "Watashi no Itoshii Kutsu"
-   },
-   "contentRating": "safe",
-   "score": 0.17460318,
-   "languages": [
-    "en",
-    "tr"
-   ]
+   "score": 0.18078054
   }
  ],
- "updatedAt": "2023-12-10T01:01:03+00:00"
+ "updatedAt": "2023-12-10T18:11:56+00:00"
 }

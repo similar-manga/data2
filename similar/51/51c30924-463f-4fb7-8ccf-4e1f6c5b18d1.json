@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e26cef28-dae7-4f4c-a5fc-14097dd38856",
+   "title": {
+    "en": "Howling"
+   },
+   "contentRating": "safe",
+   "score": 0.26524636,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2948a561-5f8d-4689-a83c-88c467c32658",
    "title": {
     "en": "Kamidori"
    },
    "contentRating": "safe",
-   "score": 0.25346395,
+   "score": 0.2551088,
    "languages": [
     "pt-br",
     "en",
@@ -25,7 +36,7 @@
     "en": "Magu-chan: God of Destruction"
    },
    "contentRating": "safe",
-   "score": 0.24256513,
+   "score": 0.24870956,
    "languages": [
     "en"
    ]
@@ -36,7 +47,7 @@
     "en": "Sengoku ARMORS (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.23765358,
+   "score": 0.23709664,
    "languages": [
     "pl",
     "en"
@@ -48,7 +59,7 @@
     "en": "Hane no Ichizoku"
    },
    "contentRating": "safe",
-   "score": 0.23161192,
+   "score": 0.23651156,
    "languages": [
     "en"
    ]
@@ -59,7 +70,7 @@
     "en": "Kavukizumu"
    },
    "contentRating": "safe",
-   "score": 0.23014778,
+   "score": 0.2317218,
    "languages": [
     "en",
     "it"
@@ -71,24 +82,11 @@
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.22677104,
+   "score": 0.2292072,
    "languages": [
     "en",
     "pl",
     "th"
-   ]
-  },
-  {
-   "id": "19854049-66cb-4af6-b663-0aecdb6105a9",
-   "title": {
-    "en": "Bankara-san ga Tooru"
-   },
-   "contentRating": "safe",
-   "score": 0.22555877,
-   "languages": [
-    "pl",
-    "id",
-    "en"
    ]
   },
   {
@@ -97,10 +95,38 @@
     "en": "Joze, the Faithful Dog"
    },
    "contentRating": "safe",
-   "score": 0.22502671,
+   "score": 0.22839408,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "19854049-66cb-4af6-b663-0aecdb6105a9",
+   "title": {
+    "en": "Bankara-san ga Tooru"
+   },
+   "contentRating": "safe",
+   "score": 0.22759347,
+   "languages": [
+    "pl",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "8311ab2d-f034-4e7a-8635-4dce27bf6027",
+   "title": {
+    "en": "Rurouni Kenshin: Hokkaido-hen"
+   },
+   "contentRating": "safe",
+   "score": 0.21819673,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "es"
    ]
   },
   {
@@ -109,7 +135,7 @@
     "en": "Beelzebub (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.21354724,
+   "score": 0.21747477,
    "languages": [
     "en",
     "pl",
@@ -122,20 +148,24 @@
     "en": "Sand Storm Boarders"
    },
    "contentRating": "safe",
-   "score": 0.21233065,
+   "score": 0.21647795,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "05d74a77-3f30-434a-9bce-f68e98596c50",
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
    "title": {
-    "en": "Ghostrong"
+    "en": "I Spy"
    },
    "contentRating": "safe",
-   "score": 0.21140657,
+   "score": 0.21224762,
    "languages": [
-    "en"
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
    ]
   },
   {
@@ -147,20 +177,6 @@
    "score": 0.21140657,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
-   "title": {
-    "en": "Sakamoto"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "it",
-    "vi",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -184,18 +200,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:58+00:00"
+ "updatedAt": "2023-12-10T18:17:08+00:00"
 }

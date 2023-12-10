@@ -11,7 +11,7 @@
     "en": "Nemureru Mori no Etoile"
    },
    "contentRating": "safe",
-   "score": 0.33518285
+   "score": 0.3354752
   },
   {
    "id": "c36e8268-7a3c-487c-9586-77956adb0816",
@@ -19,7 +19,18 @@
     "en": "Yurayura, Yureru"
    },
    "contentRating": "safe",
-   "score": 0.29681748,
+   "score": 0.29500672,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ecff5dfd-349a-4deb-b22e-5ff35f7beae2",
+   "title": {
+    "en": "Tennen Bitter Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.28702784,
    "languages": [
     "en"
    ]
@@ -30,7 +41,7 @@
     "en": "Fly High!"
    },
    "contentRating": "safe",
-   "score": 0.28416175,
+   "score": 0.28349882,
    "languages": [
     "tr"
    ]
@@ -41,7 +52,7 @@
     "en": "Flying Bunny"
    },
    "contentRating": "safe",
-   "score": 0.28036955,
+   "score": 0.27914277,
    "languages": [
     "en",
     "pl"
@@ -53,7 +64,7 @@
     "en": "Kiss de Mezame Sasete"
    },
    "contentRating": "safe",
-   "score": 0.27565223,
+   "score": 0.27597558,
    "languages": [
     "pl",
     "en"
@@ -65,7 +76,7 @@
     "en": "Nine Ten!"
    },
    "contentRating": "safe",
-   "score": 0.2685375,
+   "score": 0.2683538,
    "languages": [
     "pt-br"
    ]
@@ -76,7 +87,7 @@
     "en": "Yosomi Nanka Yurusanai"
    },
    "contentRating": "safe",
-   "score": 0.2655654,
+   "score": 0.2649666,
    "languages": [
     "it",
     "tr"
@@ -88,7 +99,15 @@
     "en": "Derby Queen"
    },
    "contentRating": "safe",
-   "score": 0.2635071
+   "score": 0.26310602
+  },
+  {
+   "id": "04af887a-1735-4754-8a28-dffdfcf560ee",
+   "title": {
+    "en": "Maiko's Song"
+   },
+   "contentRating": "safe",
+   "score": 0.2630218
   },
   {
    "id": "2f25d83c-eaac-4ddb-ba04-96e933e1d7e8",
@@ -96,7 +115,7 @@
     "en": "Chibi to Pocchari de Renai Shimasu kedo, Nani ka?"
    },
    "contentRating": "safe",
-   "score": 0.26232466,
+   "score": 0.25951302,
    "languages": [
     "en"
    ]
@@ -107,10 +126,26 @@
     "en": "Koibito Asobi"
    },
    "contentRating": "safe",
-   "score": 0.25963175,
+   "score": 0.2593134,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "4b5901ab-a39f-4fb5-b219-d8e98aa4d625",
+   "title": {
+    "en": "Ai no Aranjuez"
+   },
+   "contentRating": "safe",
+   "score": 0.25929996
+  },
+  {
+   "id": "9066eaa1-8ab9-4e10-af19-38d59e2693ff",
+   "title": {
+    "en": "Unicorn no Koibito"
+   },
+   "contentRating": "safe",
+   "score": 0.25905797
   },
   {
    "id": "3b0e10a3-7685-46fd-8707-7f4a935c978a",
@@ -118,7 +153,7 @@
     "en": "Merry Unbalance Christmas"
    },
    "contentRating": "safe",
-   "score": 0.25804064,
+   "score": 0.25759017,
    "languages": [
     "en",
     "pl"
@@ -130,53 +165,11 @@
     "en": "Merry Go Round In Wonderland"
    },
    "contentRating": "safe",
-   "score": 0.25716853,
+   "score": 0.2570086,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7d8eb774-3a02-4845-9e43-ac62913c38b3",
-   "title": {
-    "en": "Boku ga Shinu made Tsukiatte"
-   },
-   "contentRating": "safe",
-   "score": 0.25218093,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "57bc40f5-c33d-445a-9bab-8afaee061e3c",
-   "title": {
-    "en": "Ice on Fire"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "8ea7875c-8a88-4f6d-8f1a-340bd8b10897",
-   "title": {
-    "en": "Toe Shoes"
-   },
-   "contentRating": "safe",
-   "score": 0.25126484,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a5c28c6d-8e9f-4dc9-95c3-39572490fbcd",
-   "title": {
-    "en": "Give the Winning Shuffle to This Hand!"
-   },
-   "contentRating": "safe",
-   "score": 0.24960099
   }
  ],
- "updatedAt": "2023-12-10T01:09:46+00:00"
+ "updatedAt": "2023-12-10T18:34:56+00:00"
 }

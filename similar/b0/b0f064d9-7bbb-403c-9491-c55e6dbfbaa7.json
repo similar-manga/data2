@@ -11,7 +11,7 @@
     "en": "Oni Yashiki"
    },
    "contentRating": "safe",
-   "score": 0.36502975,
+   "score": 0.35606962,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Hatsukoi"
    },
    "contentRating": "safe",
-   "score": 0.23799266,
+   "score": 0.23846596,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Itsuwari Darling"
    },
    "contentRating": "safe",
-   "score": 0.23320997,
+   "score": 0.2336748,
    "languages": [
     "en"
    ]
@@ -45,35 +45,19 @@
     "en": "Otome ni Nante Naremasen"
    },
    "contentRating": "safe",
-   "score": 0.21848826,
+   "score": 0.21850507,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
+   "id": "d1aa1597-4365-4416-9d94-0012ee8e078a",
    "title": {
-    "en": "Red House"
+    "en": "Kage Hinata no Koi"
    },
    "contentRating": "safe",
-   "score": 0.21640186,
-   "languages": [
-    "fr",
-    "ro",
-    "pt-br",
-    "en",
-    "de",
-    "pl"
-   ]
-  },
-  {
-   "id": "32b61031-e570-46af-921e-027cfae497f5",
-   "title": {
-    "en": "Clip Your Face"
-   },
-   "contentRating": "safe",
-   "score": 0.21517266,
+   "score": 0.21547431,
    "languages": [
     "en"
    ]
@@ -84,7 +68,7 @@
     "en": "Chupa!"
    },
    "contentRating": "safe",
-   "score": 0.21472166,
+   "score": 0.21439809,
    "languages": [
     "en",
     "pl"
@@ -102,12 +86,23 @@
    ]
   },
   {
+   "id": "32b61031-e570-46af-921e-027cfae497f5",
+   "title": {
+    "en": "Clip Your Face"
+   },
+   "contentRating": "safe",
+   "score": 0.21402553,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b9906402-a1ed-4294-8fdb-176ec94e8c02",
    "title": {
     "en": "Akai Kami no Marure Ina"
    },
    "contentRating": "safe",
-   "score": 0.21379548,
+   "score": 0.2136299,
    "languages": [
     "en"
    ]
@@ -118,10 +113,26 @@
     "en": "No Use Crying Over Spilt Milk"
    },
    "contentRating": "safe",
-   "score": 0.21295486,
+   "score": 0.21210033,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
+   "title": {
+    "en": "Red House"
+   },
+   "contentRating": "safe",
+   "score": 0.2117355,
+   "languages": [
+    "fr",
+    "ro",
+    "pt-br",
+    "en",
+    "de",
+    "pl"
    ]
   },
   {
@@ -130,23 +141,11 @@
     "en": "A Holy Night to the Lost Lamb"
    },
    "contentRating": "safe",
-   "score": 0.21061985,
+   "score": 0.2100614,
    "languages": [
     "en",
     "pl",
     "tr"
-   ]
-  },
-  {
-   "id": "64267016-79f3-46c4-a2d6-77bda8c1c47d",
-   "title": {
-    "en": "Hana, Saita."
-   },
-   "contentRating": "safe",
-   "score": 0.20963408,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -155,15 +154,15 @@
     "en": "Tonari"
    },
    "contentRating": "safe",
-   "score": 0.20813866,
+   "score": 0.2053117,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8114e8f7-159d-490a-858b-eba765a20f93",
+   "id": "43ac0fc3-bb76-40fd-aee5-8489eda4b84d",
    "title": {
-    "en": "Yuki no Koi"
+    "en": "Oseyo, Hatsukoi"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -172,9 +171,9 @@
    ]
   },
   {
-   "id": "2c7d784f-cb8c-49c2-999e-ab9f2f6453ed",
+   "id": "bf48e745-2369-4d91-980d-d24f4beeb0f4",
    "title": {
-    "en": "Best Couple"
+    "en": "That Summer"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -183,9 +182,9 @@
    ]
   },
   {
-   "id": "bc5735b4-1977-4c6e-b3cd-244a4a836130",
+   "id": "b004e5a2-94d7-4423-bfe5-3c6ef29fbea5",
    "title": {
-    "en": "Shoujo Ningyo"
+    "en": "Summer Love"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -194,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:07:03+00:00"
+ "updatedAt": "2023-12-10T18:28:08+00:00"
 }

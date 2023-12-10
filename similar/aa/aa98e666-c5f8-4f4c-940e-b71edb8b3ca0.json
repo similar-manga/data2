@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d3ddbc36-1293-402a-9089-253168bdcff3",
+   "title": {
+    "en": "Tesso no Ori"
+   },
+   "contentRating": "safe",
+   "score": 0.31688023,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "60d8aa66-3b06-446b-b6ca-e3c788ade41e",
    "title": {
     "en": "Aruosumente"
    },
    "contentRating": "safe",
-   "score": 0.22422606,
+   "score": 0.2237,
    "languages": [
     "en",
     "fr"
@@ -23,7 +34,41 @@
     "en": "Chang'an Fantastic Night"
    },
    "contentRating": "safe",
-   "score": 0.21693136,
+   "score": 0.2167278,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9b620147-cbe5-484d-a880-f921fd7f2a65",
+   "title": {
+    "en": "The Golden Sparrow"
+   },
+   "contentRating": "safe",
+   "score": 0.21085808,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "f8cb571e-01e3-4c44-a62e-2fda89ef3564",
+   "title": {
+    "en": "Yumekui Kenbun"
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9fb2e43a-a422-40b9-b478-5dc896a29e50",
+   "title": {
+    "en": "Uryuudou Yumebanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.20525391,
    "languages": [
     "en"
    ]
@@ -34,7 +79,7 @@
     "en": "Death Trap"
    },
    "contentRating": "safe",
-   "score": 0.20519634,
+   "score": 0.20505427,
    "languages": [
     "en"
    ]
@@ -45,7 +90,7 @@
     "en": "Nothing is a Taboo"
    },
    "contentRating": "safe",
-   "score": 0.20357694,
+   "score": 0.20250063,
    "languages": [
     "en"
    ]
@@ -56,9 +101,20 @@
     "en": "Ryoko's Case File"
    },
    "contentRating": "safe",
-   "score": 0.19052148,
+   "score": 0.18881525,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "82bf73a9-401b-4f07-9dd1-be9a720ccb19",
+   "title": {
+    "en": "Outen no Mon"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
     "en"
    ]
   },
@@ -68,9 +124,35 @@
     "en": "Room 303"
    },
    "contentRating": "safe",
-   "score": 0.18742864,
+   "score": 0.18770193,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c3d3d5b6-7a44-4f12-a625-8af3f716d815",
+   "title": {
+    "en": "Kare ni Irai Shite wa Ikemasen"
+   },
+   "contentRating": "safe",
+   "score": 0.18729037,
+   "languages": [
+    "en",
+    "es",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ffefa22c-d71d-4cf4-8665-a9bbf509eaac",
+   "title": {
+    "en": "Detective Kouko Feels Melancholy"
+   },
+   "contentRating": "safe",
+   "score": 0.18634121,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -82,18 +164,6 @@
    "score": 0.18605211,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
-   "title": {
-    "en": "Dorobou Night Trick"
-   },
-   "contentRating": "safe",
-   "score": 0.18605211,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -109,88 +179,17 @@
    ]
   },
   {
-   "id": "d872bcf3-2e1a-461e-aef2-5db25bf08d99",
+   "id": "b195c815-dc86-4042-b99b-1d492e5b8f37",
    "title": {
-    "en": "Elegant Men"
+    "en": "Dorobou Night Trick"
    },
    "contentRating": "safe",
-   "score": 0.1816763,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "c85d8d75-f41f-45f3-836a-66e75372755f",
-   "title": {
-    "en": "Yousei Hakase to Hana no Tsuru"
-   },
-   "contentRating": "safe",
-   "score": 0.17675939,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6ca039ba-913d-482d-9f02-8c26fca2ecf4",
-   "title": {
-    "en": "Antidote"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee5788ff-7020-4c3b-b3aa-3f72284d153d",
-   "title": {
-    "en": "Bible of Black"
-   },
-   "contentRating": "safe",
-   "score": 0.17541161,
+   "score": 0.18605211,
    "languages": [
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "984b53d5-bd03-474a-aa41-ffae063e058a",
-   "title": {
-    "en": "The Enigma of Amigara Fault"
-   },
-   "contentRating": "safe",
-   "score": 0.17527823,
-   "languages": [
-    "ca",
-    "it",
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "db727e26-25d7-4f0b-8fa2-f7ae1510d73d",
-   "title": {
-    "en": "Akatoki no Yami"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b872545-046c-4db5-abed-e1bfea2c6132",
-   "title": {
-    "en": "Floral Mirror of the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en"
+    "es"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:47+00:00"
+ "updatedAt": "2023-12-10T18:27:23+00:00"
 }

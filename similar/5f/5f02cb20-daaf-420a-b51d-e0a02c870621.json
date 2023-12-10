@@ -11,7 +11,44 @@
     "en": "Star Ocean - Blue Sphere"
    },
    "contentRating": "safe",
-   "score": 0.4124398,
+   "score": 0.41256508,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b05918e4-fb1a-4b10-a919-eaecf00fd7dd",
+   "title": {
+    "en": "Tower Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.31660703,
+   "languages": [
+    "en",
+    "ar",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "aa80d14e-7d70-458f-b0e6-b8d87e2a5d4a",
+   "title": {
+    "en": "Zhan Long 2"
+   },
+   "contentRating": "safe",
+   "score": 0.3159062,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "bff33e55-8882-4eab-8eed-9a5df438ba8d",
+   "title": {
+    "en": "The Legend of Soma"
+   },
+   "contentRating": "safe",
+   "score": 0.30757213,
    "languages": [
     "en"
    ]
@@ -22,29 +59,30 @@
     "en": "Tales of Destiny 2"
    },
    "contentRating": "safe",
-   "score": 0.30628678,
+   "score": 0.30559883,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "635f010e-39e6-491b-9e61-a82af671b52c",
+   "id": "366d6935-6b2f-4139-8b5f-8221eb0134f7",
    "title": {
-    "en": "Tales of the World - Radiant Mythology"
+    "en": "Deception"
    },
    "contentRating": "safe",
-   "score": 0.29615894,
+   "score": 0.30405113,
    "languages": [
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
-   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
+   "id": "5c84bc62-151c-4b1e-ab69-d85545689093",
    "title": {
-    "en": "Joou Kishi Monogatari"
+    "en": "The Seven Deadly Sins: The Rain Forest Invites the Beginning"
    },
    "contentRating": "safe",
-   "score": 0.294818,
+   "score": 0.30132243,
    "languages": [
     "en"
    ]
@@ -55,26 +93,70 @@
     "en": "Grandeek ReeL"
    },
    "contentRating": "safe",
-   "score": 0.29332048,
+   "score": 0.2999767,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7c7b8213-3ede-4dee-b868-7439541348c3",
+   "id": "509cce63-7685-4c58-bfdc-c4b6896b1879",
    "title": {
-    "en": "Phantasy Star - Third"
+    "en": "Meteo Emblem"
    },
    "contentRating": "safe",
-   "score": 0.2865967,
+   "score": 0.29958752,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4e13a83b-274d-49e2-9b59-6c87e05b13aa",
+   "id": "635f010e-39e6-491b-9e61-a82af671b52c",
    "title": {
-    "en": "Tales of Vesperia ~Flynn Seinaru Hakugin no Kishi~"
+    "en": "Tales of the World - Radiant Mythology"
+   },
+   "contentRating": "safe",
+   "score": 0.2966306,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a4db5c3b-dde1-4b1c-bee9-0e72b572b640",
+   "title": {
+    "en": "Deities of a Peaceful Era"
+   },
+   "contentRating": "safe",
+   "score": 0.294795,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
+   "title": {
+    "en": "Joou Kishi Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.29448515,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ff58aa3f-3851-424b-b6c4-2aaf7db38d89",
+   "title": {
+    "en": "Supreme God"
+   },
+   "contentRating": "safe",
+   "score": 0.2869032,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5eafac4-697a-4e36-83d0-fa45fc5bf69e",
+   "title": {
+    "en": "Ilya"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -83,9 +165,9 @@
    ]
   },
   {
-   "id": "63f2916d-00a0-49b7-badb-c5e497e6ca2a",
+   "id": "f1dea29c-e680-4a39-96b5-faffe789c330",
    "title": {
-    "en": "Tales of the Abyss - Senketsu no Asch"
+    "en": "Oshu Supreme"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -94,98 +176,16 @@
    ]
   },
   {
-   "id": "23196490-5e87-4fd5-bf21-7f46ec28414c",
+   "id": "04274aef-2b83-4425-89f9-a1028fe58138",
    "title": {
-    "en": "Juuhime - Sincerely Night"
+    "en": "Goldfisch"
    },
    "contentRating": "safe",
    "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
-   "title": {
-    "en": "Mr. Applicant"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
-   "title": {
-    "en": "GOD EATER - the spiral fate"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "169e622e-308b-406c-84dc-d5df8e4e165c",
-   "title": {
-    "en": "Kaizoku to Ningyo"
-   },
-   "contentRating": "safe",
-   "score": 0.28501618,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "051ecde7-f728-4e4f-ab4d-5589a1f07d45",
-   "title": {
-    "en": "Suyojeon"
-   },
-   "contentRating": "safe",
-   "score": 0.26725543,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fcb7f53f-fd9d-4dfe-a764-20b12d61391a",
-   "title": {
-    "en": "Demon Evolution"
-   },
-   "contentRating": "safe",
-   "score": 0.26219702,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "ce4c29b4-dd3f-46ef-b7a3-f68c59596344",
-   "title": {
-    "en": "Magical Record Lyrical Nanoha Force"
-   },
-   "contentRating": "safe",
-   "score": 0.25827688,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cad1c68e-ece3-4453-9135-aff3918421a3",
-   "title": {
-    "en": "A-kun (17) no Sensou - I, the Tycoon?"
-   },
-   "contentRating": "safe",
-   "score": 0.25610542,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:03:33+00:00"
+ "updatedAt": "2023-12-10T18:18:38+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9e2a39d6-30c1-4249-8774-113dc72a0d50",
+   "title": {
+    "en": "Sixteen"
+   },
+   "contentRating": "safe",
+   "score": 0.37414828,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ebf86f62-d325-4961-b9c8-abf0bf9e644b",
    "title": {
     "en": "New Model Android"
    },
    "contentRating": "safe",
-   "score": 0.3748387,
+   "score": 0.3721098,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Kagehinata"
    },
    "contentRating": "safe",
-   "score": 0.37075984,
+   "score": 0.3719261,
    "languages": [
     "en"
    ]
@@ -33,10 +44,30 @@
     "en": "Hana to Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.3682954,
+   "score": 0.37113357,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "3b314dcf-ab92-4670-af49-490d76046523",
+   "title": {
+    "en": "Lee Bom, Be Mine"
+   },
+   "contentRating": "safe",
+   "score": 0.3631652,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e6b72914-bb7a-4c6e-a7df-3d653821d12e",
+   "title": {
+    "en": "Fukouchuu no Saiai"
+   },
+   "contentRating": "safe",
+   "score": 0.3608924
   },
   {
    "id": "932158c8-1f78-4f8d-be23-b205c479fe80",
@@ -44,7 +75,7 @@
     "en": "Itai no wa Iya nanode Bougyo-Ryoku ni Kyokufuri Shitai to Omoimasu"
    },
    "contentRating": "safe",
-   "score": 0.3586409,
+   "score": 0.3600597,
    "languages": [
     "es-la",
     "it",
@@ -56,16 +87,47 @@
    ]
   },
   {
+   "id": "31a810e7-1d09-4828-be77-a374440ef305",
+   "title": {
+    "en": "Good Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.35916933,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "e3792f0d-57a6-455f-90bd-2e68d7ea5a04",
    "title": {
     "en": "Monster's Child"
    },
    "contentRating": "safe",
-   "score": 0.35530585,
+   "score": 0.3574375,
    "languages": [
     "ru",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "a8437c61-544e-4544-a48e-c911e4a49fd7",
+   "title": {
+    "en": "Naite mo Yuru Shite Agenai yo"
+   },
+   "contentRating": "safe",
+   "score": 0.35470814
+  },
+  {
+   "id": "53fdb760-5e25-435e-b6ec-595e0169a688",
+   "title": {
+    "en": "Vicious Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.35331303,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -74,7 +136,7 @@
     "en": "Hollow Intelligence Defense Force"
    },
    "contentRating": "safe",
-   "score": 0.35158435
+   "score": 0.35251778
   },
   {
    "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
@@ -82,7 +144,7 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.35131675,
+   "score": 0.3521729,
    "languages": [
     "es-la",
     "en",
@@ -90,115 +152,34 @@
    ]
   },
   {
-   "id": "bddb8634-b87b-481f-991b-0d1c6cdcd630",
+   "id": "a13c42f6-ee0f-47f9-840d-f48059f9e359",
    "title": {
-    "en": "My Childhood Friend Teaches Me Everything"
+    "en": "\"AEGIS\" in the Pacific War"
    },
    "contentRating": "safe",
-   "score": 0.34685603,
+   "score": 0.34978503
+  },
+  {
+   "id": "f428edc5-a5f4-455d-a36f-66e5e47d283b",
+   "title": {
+    "en": "Hypnotising My Master to Do What I Say"
+   },
+   "contentRating": "safe",
+   "score": 0.34906328,
    "languages": [
+    "th",
     "en",
-    "id",
-    "vi"
+    "de"
    ]
   },
   {
-   "id": "96bc8859-a7e3-4e89-afa6-5ec6be278286",
+   "id": "3a94c910-4de3-4a28-9c4d-fadd574687af",
    "title": {
-    "en": "Street Crossing Manga"
+    "en": "Sixteen Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.3447722,
-   "languages": [
-    "ru",
-    "es-la",
-    "id",
-    "pt-br",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "463b32af-1ddc-48db-a5e4-4799c8a2e412",
-   "title": {
-    "en": "Rakshasa Street"
-   },
-   "contentRating": "safe",
-   "score": 0.34336585,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "722a8e72-bc43-4a5c-b5f6-96413bd3a7b4",
-   "title": {
-    "en": "Good Person"
-   },
-   "contentRating": "safe",
-   "score": 0.3422698,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "3d57d8d9-7842-40ee-862c-40be1ededdaa",
-   "title": {
-    "en": "Shinkai Tsuzuri no Dokkairoku"
-   },
-   "contentRating": "safe",
-   "score": 0.34006944
-  },
-  {
-   "id": "9a325d49-0ab8-4d34-a2a2-5ac40d717b6a",
-   "title": {
-    "en": "Daikyou Enmusubi"
-   },
-   "contentRating": "safe",
-   "score": 0.33951312,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9afe47ee-5c8b-4572-b7c0-efa4f83da432",
-   "title": {
-    "en": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
-   },
-   "contentRating": "safe",
-   "score": 0.33907494,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eaa170e8-95b3-40bf-a928-c537377d7019",
-   "title": {
-    "en": "And twinkle"
-   },
-   "contentRating": "safe",
-   "score": 0.3389978,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "1b815f84-cd1e-4f05-a86a-bff4dc3e2012",
-   "title": {
-    "en": "Fuzzy Core"
-   },
-   "contentRating": "safe",
-   "score": 0.33898148,
-   "languages": [
-    "en"
-   ]
+   "score": 0.34803474
   }
  ],
- "updatedAt": "2023-12-10T01:05:11+00:00"
+ "updatedAt": "2023-12-10T18:23:03+00:00"
 }

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.32271853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "9f96f17b-1e79-48c1-8028-6d119ca2c16a",
    "title": {
     "en": "Crusher Joe"
    },
    "contentRating": "safe",
-   "score": 0.26182577
+   "score": 0.26222807
   },
   {
    "id": "5c4d35f1-1e01-44e7-9438-b7faa14961ad",
@@ -19,7 +30,7 @@
     "en": "Xinghai Rongyao"
    },
    "contentRating": "safe",
-   "score": 0.26169044,
+   "score": 0.26157475,
    "languages": [
     "ru"
    ]
@@ -37,17 +48,36 @@
    ]
   },
   {
+   "id": "aaebb3e1-2a78-4dc8-9e21-59b1e5b5fb9c",
+   "title": {
+    "en": "I Kill to Be God: Beyond Human Barrier"
+   },
+   "contentRating": "safe",
+   "score": 0.25476092,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e687a77f-0b99-4cbe-becc-a2702892a0ca",
    "title": {
     "en": "Mega Cross"
    },
    "contentRating": "safe",
-   "score": 0.24961643
+   "score": 0.25031903
   },
   {
    "id": "89512c3f-7467-42c0-9a64-24b051253d94",
    "title": {
     "en": "Hellhound"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "0fa03bac-97b3-4f41-a87d-2d1e0754b3da",
+   "title": {
+    "en": "Last"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -69,17 +99,58 @@
    "score": 0.24743582
   },
   {
+   "id": "0162a86d-cd21-4c87-9a7e-d6cb7eabdb20",
+   "title": {
+    "en": "Peerless"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "849bd266-864d-4d46-9381-cb95765b817a",
    "title": {
     "en": "Post-apocalyptic Dispatch Company"
    },
    "contentRating": "safe",
-   "score": 0.24626523,
+   "score": 0.24580562,
    "languages": [
     "en",
     "pt-br",
     "fr"
    ]
+  },
+  {
+   "id": "e175ce55-f63e-4260-887e-4fc999498d57",
+   "title": {
+    "en": "My Insanely Competent Underlings"
+   },
+   "contentRating": "safe",
+   "score": 0.24033721,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cfa9170b-2d2d-4051-85dc-ce2e6ee56912",
+   "title": {
+    "en": "God Retreat"
+   },
+   "contentRating": "safe",
+   "score": 0.24005878,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4878e7a5-684f-4f85-beef-641dba14066c",
+   "title": {
+    "en": "Patriot: Sri Asih"
+   },
+   "contentRating": "safe",
+   "score": 0.23913118
   },
   {
    "id": "93ac2bb1-6a10-4b88-9f52-27a0385c1abd",
@@ -87,82 +158,8 @@
     "en": "Holiday"
    },
    "contentRating": "safe",
-   "score": 0.23476903
-  },
-  {
-   "id": "76e7b87f-49ed-4a56-8687-d0b4e85c6064",
-   "title": {
-    "en": "Dreamer"
-   },
-   "contentRating": "safe",
-   "score": 0.23422559
-  },
-  {
-   "id": "c60a5468-fe05-4438-8193-24b11d0549d8",
-   "title": {
-    "en": "Wetube School"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "id"
-   ]
-  },
-  {
-   "id": "bb4f59f2-d7a0-4adb-b698-f10177c24fd4",
-   "title": {
-    "en": "A World Where Only Superhumans Are Harmed"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b4af43f1-6072-4511-ad04-c4cd365cb7ef",
-   "title": {
-    "en": "Shadow Hack"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "73635280-e4f9-484f-b4f8-29eccb5c2532",
-   "title": {
-    "en": "The Great Age of Genes"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "b29d710f-f8ba-4002-b7a9-26acee48ea9d",
-   "title": {
-    "en": "Deadbrain"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "aae5607d-f353-455a-bec2-9bc3a97c01d5",
-   "title": {
-    "en": "They Say I Am the King of the Future"
-   },
-   "contentRating": "safe",
-   "score": 0.22829978,
-   "languages": [
-    "en",
-    "fr"
-   ]
+   "score": 0.23561925
   }
  ],
- "updatedAt": "2023-12-10T01:00:39+00:00"
+ "updatedAt": "2023-12-10T18:10:49+00:00"
 }

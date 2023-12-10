@@ -11,11 +11,28 @@
     "en": "Wasurene no Language"
    },
    "contentRating": "safe",
-   "score": 0.33653542,
+   "score": 0.34455365,
    "languages": [
     "pl",
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "5ca95d5b-4aa0-4d22-96e1-6844ea7ed106",
+   "title": {
+    "en": "Secret Love"
+   },
+   "contentRating": "safe",
+   "score": 0.32924676,
+   "languages": [
+    "uk",
+    "en",
+    "pl",
+    "fr",
+    "kk",
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -24,11 +41,24 @@
     "en": "Hachimaki Love Letter"
    },
    "contentRating": "safe",
-   "score": 0.3182623,
+   "score": 0.3241698,
    "languages": [
     "pt-br",
     "it",
     "pl"
+   ]
+  },
+  {
+   "id": "0149daa5-89c9-4e05-bf4f-f2440e0d2db7",
+   "title": {
+    "en": "Kimi no Koe"
+   },
+   "contentRating": "safe",
+   "score": 0.32358876,
+   "languages": [
+    "en",
+    "it",
+    "id"
    ]
   },
   {
@@ -37,7 +67,7 @@
     "en": "Hananoi-kun to Koi no Yamai"
    },
    "contentRating": "safe",
-   "score": 0.31677938,
+   "score": 0.3210252,
    "languages": [
     "hu",
     "en",
@@ -52,7 +82,7 @@
     "en": "Hirahira to Gunjou"
    },
    "contentRating": "safe",
-   "score": 0.31607786,
+   "score": 0.32032302,
    "languages": [
     "pt-br",
     "en",
@@ -61,15 +91,18 @@
    ]
   },
   {
-   "id": "e509dab4-ee9d-443e-903a-2c175f374b99",
+   "id": "b100cd89-688d-4ed2-821a-ba8a7947e1ff",
    "title": {
-    "en": "B-Wanted"
+    "en": "Secret Love (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.31469068,
+   "score": 0.31987876,
    "languages": [
     "en",
-    "it"
+    "fr",
+    "it",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -78,10 +111,64 @@
     "en": "Everybody Loves Somebody"
    },
    "contentRating": "safe",
-   "score": 0.31415644,
+   "score": 0.31945613,
    "languages": [
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "e509dab4-ee9d-443e-903a-2c175f374b99",
+   "title": {
+    "en": "B-Wanted"
+   },
+   "contentRating": "safe",
+   "score": 0.31858528,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
+   "title": {
+    "en": "Majo-senpai Nippou"
+   },
+   "contentRating": "safe",
+   "score": 0.3142256,
+   "languages": [
+    "en",
+    "it",
+    "ru",
+    "pt-br",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "2086d827-d80c-42b2-aa2a-bd4161a0b132",
+   "title": {
+    "en": "Natsuaki-kun wa Kyou mo Kokuhaku shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.31340846,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "it"
+   ]
+  },
+  {
+   "id": "f8dbced3-1eea-4547-b657-ce568fbdda0f",
+   "title": {
+    "en": "Pure Love Operation"
+   },
+   "contentRating": "safe",
+   "score": 0.3118775,
+   "languages": [
+    "en",
+    "it"
    ]
   },
   {
@@ -90,7 +177,7 @@
     "en": "Kimi to Kiss Shite Sono Ato de"
    },
    "contentRating": "safe",
-   "score": 0.30688605,
+   "score": 0.31033626,
    "languages": [
     "it"
    ]
@@ -101,10 +188,23 @@
     "en": "Saigo no Negai ~Last Pray~"
    },
    "contentRating": "safe",
-   "score": 0.30651352,
+   "score": 0.31016105,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "c82afd11-07c0-4ce5-a2e8-a5ec5998d171",
+   "title": {
+    "en": "Moekare wa Orenji-iro"
+   },
+   "contentRating": "safe",
+   "score": 0.30866858,
+   "languages": [
+    "it",
+    "en",
+    "tr"
    ]
   },
   {
@@ -113,7 +213,7 @@
     "en": "Shinyuu no Mikami-kun"
    },
    "contentRating": "safe",
-   "score": 0.30608976,
+   "score": 0.30848175,
    "languages": [
     "en",
     "tr",
@@ -121,100 +221,7 @@
     "it",
     "pl"
    ]
-  },
-  {
-   "id": "0ac9b207-992b-4baf-8725-164dddbe1450",
-   "title": {
-    "en": "Ice no Oto"
-   },
-   "contentRating": "safe",
-   "score": 0.3047038,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "11bfa371-f53f-42b7-8213-94b1323b02b6",
-   "title": {
-    "en": "Yubisaki to Renren"
-   },
-   "contentRating": "safe",
-   "score": 0.30444092,
-   "languages": [
-    "hu",
-    "pt-br",
-    "es-la",
-    "en",
-    "tr",
-    "it",
-    "ru"
-   ]
-  },
-  {
-   "id": "1a3e1ef3-6f44-437c-867c-11b900f6b2a5",
-   "title": {
-    "en": "Shitsuren no Susume"
-   },
-   "contentRating": "safe",
-   "score": 0.3032091,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "e7f21de4-42b4-42ab-bac8-31153d8e248e",
-   "title": {
-    "en": "Lemon Planet"
-   },
-   "contentRating": "safe",
-   "score": 0.29847002,
-   "languages": [
-    "it"
-   ]
-  },
-  {
-   "id": "ec23b6a0-2800-4121-a4a4-606d7145f23c",
-   "title": {
-    "en": "I Swear I Won't Bother You Again!"
-   },
-   "contentRating": "safe",
-   "score": 0.29780096,
-   "languages": [
-    "en",
-    "fr",
-    "ru",
-    "it"
-   ]
-  },
-  {
-   "id": "1a79aaa9-9f78-4daa-a8f6-1fb98e375b88",
-   "title": {
-    "en": "Elegy of Rose Castle"
-   },
-   "contentRating": "safe",
-   "score": 0.29772973,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
-   "title": {
-    "en": "Snow White with the Red Hair"
-   },
-   "contentRating": "safe",
-   "score": 0.2976967,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "it",
-    "bg",
-    "ar"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:06:18+00:00"
+ "updatedAt": "2023-12-10T18:25:58+00:00"
 }

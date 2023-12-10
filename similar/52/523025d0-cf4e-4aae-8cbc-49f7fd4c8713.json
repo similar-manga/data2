@@ -11,7 +11,7 @@
     "en": "Westworld"
    },
    "contentRating": "safe",
-   "score": 0.27783763
+   "score": 0.27910304
   },
   {
    "id": "79431f93-2754-4050-8404-0de230241018",
@@ -19,7 +19,7 @@
     "en": "Godzilla vs Mechagodzilla"
    },
    "contentRating": "safe",
-   "score": 0.25918877
+   "score": 0.26393408
   },
   {
    "id": "864d3e66-7f7b-40ba-88b9-497ce470cb1a",
@@ -30,14 +30,6 @@
    "score": 0.2163632
   },
   {
-   "id": "25937d78-d7a2-4502-b064-68c76c0b8bec",
-   "title": {
-    "en": "Hell Village"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253
-  },
-  {
    "id": "b4939f29-3a99-47b4-9d96-d99b3e628ced",
    "title": {
     "en": "Death Penalty Man"
@@ -46,12 +38,28 @@
    "score": 0.2086253
   },
   {
+   "id": "25937d78-d7a2-4502-b064-68c76c0b8bec",
+   "title": {
+    "en": "Hell Village"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253
+  },
+  {
+   "id": "56d59879-2afa-4d57-b899-b963bd165ae5",
+   "title": {
+    "en": "Battle on Monster Island: Son of Godzilla"
+   },
+   "contentRating": "safe",
+   "score": 0.19805588
+  },
+  {
    "id": "534a81df-c941-4583-87cd-471140b5d3b7",
    "title": {
     "en": "Kitan Jojishi Mother Goose"
    },
    "contentRating": "safe",
-   "score": 0.19947602,
+   "score": 0.19733249,
    "languages": [
     "fr",
     "en"
@@ -71,7 +79,7 @@
     "en": "His Killing Plan"
    },
    "contentRating": "safe",
-   "score": 0.18826018,
+   "score": 0.18655306,
    "languages": [
     "fr",
     "es",
@@ -85,50 +93,23 @@
     "en": "Survival of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.1836745,
+   "score": 0.18557057,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c8702a6c-b088-4ec0-a844-b59585a08e86",
+   "id": "6246bcc1-19c7-490f-891a-cb09e240d5c5",
    "title": {
-    "en": "Ichiji no Naka no Desire"
+    "en": "Fushigi-kun School"
    },
    "contentRating": "safe",
    "score": 0.17034185
   },
   {
-   "id": "af3176df-ad31-4cba-8b41-80f8c9dc3c8e",
+   "id": "3637945f-3eb6-45c8-b304-d92e17453d21",
    "title": {
-    "en": "The Frog Boy: The Haunting of the Toad"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185
-  },
-  {
-   "id": "53637470-31a0-433f-b34f-76df55278468",
-   "title": {
-    "en": "Tunnel"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3b6e0aa9-f395-4f97-88ed-87036ec77e11",
-   "title": {
-    "en": "The Black Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185
-  },
-  {
-   "id": "0fe72ff5-af1a-4bc8-bee6-4eaf7990e6e0",
-   "title": {
-    "en": "Eyes Shining in the Dark"
+    "en": "Dead God Dead"
    },
    "contentRating": "safe",
    "score": 0.17034185
@@ -142,13 +123,29 @@
    "score": 0.17034185
   },
   {
+   "id": "756898be-519b-45f9-89c1-0e87993d4acf",
+   "title": {
+    "en": "Dr. Jekyll and Mr. Hyde"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185
+  },
+  {
    "id": "977df2d2-325f-452d-8d3a-3d880208d5d7",
    "title": {
     "en": "The Devil's Waste"
    },
    "contentRating": "safe",
    "score": 0.17034185
+  },
+  {
+   "id": "51bbb771-ded1-4d00-b403-666d41a109a9",
+   "title": {
+    "en": "Scary Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185
   }
  ],
- "updatedAt": "2023-12-10T01:02:59+00:00"
+ "updatedAt": "2023-12-10T18:17:11+00:00"
 }

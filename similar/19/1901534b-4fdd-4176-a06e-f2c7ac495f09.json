@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
-   "title": {
-    "en": "Kuusou Kagaku Edison"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
    "title": {
     "en": "Levius/est"
@@ -29,31 +18,27 @@
    ]
   },
   {
+   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "title": {
+    "en": "Kuusou Kagaku Edison"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "be1f63ec-7d0e-48d5-a490-a2669753260e",
    "title": {
     "en": "Dogs / Bullets \u0026 Carnage"
    },
    "contentRating": "safe",
-   "score": 0.2335627,
+   "score": 0.23288597,
    "languages": [
     "en",
     "bg",
     "pl"
-   ]
-  },
-  {
-   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
-   "title": {
-    "en": "Tsugumi Project"
-   },
-   "contentRating": "safe",
-   "score": 0.22169027,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "es-la",
-    "ru"
    ]
   },
   {
@@ -68,12 +53,40 @@
    ]
   },
   {
+   "id": "b3203295-5353-4a61-8df2-9a9eabf5230c",
+   "title": {
+    "en": "Tsugumi Project"
+   },
+   "contentRating": "safe",
+   "score": 0.22070299,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "c24beff7-bf40-4ee2-a39d-d4f2b4e86026",
+   "title": {
+    "en": "Atom - The Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.21449476,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
    "title": {
     "en": "AGAPE"
    },
    "contentRating": "safe",
-   "score": 0.21291852,
+   "score": 0.21159002,
    "languages": [
     "en"
    ]
@@ -84,7 +97,7 @@
     "en": "Moon Edge"
    },
    "contentRating": "safe",
-   "score": 0.2124765,
+   "score": 0.21147862,
    "languages": [
     "en"
    ]
@@ -95,7 +108,7 @@
     "en": "Snowball Earth"
    },
    "contentRating": "safe",
-   "score": 0.20735238,
+   "score": 0.20735298,
    "languages": [
     "en",
     "pt-br"
@@ -118,7 +131,7 @@
     "en": "Umihara Kawase Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.20637417,
+   "score": 0.20560119,
    "languages": [
     "en"
    ]
@@ -129,9 +142,21 @@
     "en": "Bone Crusher"
    },
    "contentRating": "safe",
-   "score": 0.20146604,
+   "score": 0.20164658,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
+   "title": {
+    "en": "Higan no Orca"
+   },
+   "contentRating": "safe",
+   "score": 0.19706586,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -140,7 +165,7 @@
     "en": "Tiger \u0026 Bunny 2: The Comic"
    },
    "contentRating": "safe",
-   "score": 0.19814807,
+   "score": 0.19630331,
    "languages": [
     "en"
    ]
@@ -159,39 +184,16 @@
    ]
   },
   {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.19382784,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
    "id": "b46e2e33-b8a6-46cc-9504-b3d4c0ebce35",
    "title": {
     "en": "A Country Without Humans"
    },
    "contentRating": "safe",
-   "score": 0.1925813,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f20fd674-d661-4736-9b2d-b07b51841923",
-   "title": {
-    "en": "Gamera Vs. Barugon"
-   },
-   "contentRating": "safe",
-   "score": 0.18579547,
+   "score": 0.19203687,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:00:43+00:00"
+ "updatedAt": "2023-12-10T18:11:00+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "bit by bit"
    },
    "contentRating": "safe",
-   "score": 0.31443265,
+   "score": 0.31676084,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Ahiru no Sora"
    },
    "contentRating": "safe",
-   "score": 0.30924362,
+   "score": 0.3095319,
    "languages": [
     "en",
     "tl",
@@ -36,7 +36,7 @@
     "en": "Yakuza that picked up a kid"
    },
    "contentRating": "safe",
-   "score": 0.3010973,
+   "score": 0.29916432,
    "languages": [
     "vi",
     "id",
@@ -49,7 +49,7 @@
     "en": "Otome no Itari"
    },
    "contentRating": "safe",
-   "score": 0.29470608,
+   "score": 0.29408303,
    "languages": [
     "en",
     "pt-br"
@@ -61,10 +61,33 @@
     "en": "Wish Upon a Glass"
    },
    "contentRating": "safe",
-   "score": 0.2804067,
+   "score": 0.28916022,
    "languages": [
     "tr",
     "en"
+   ]
+  },
+  {
+   "id": "423ef7d6-c45b-4568-965e-4186488c2f0c",
+   "title": {
+    "en": "Triangle Bookend"
+   },
+   "contentRating": "safe",
+   "score": 0.28707555,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c4048cf1-f60f-48a9-abbb-27ab5283f8b7",
+   "title": {
+    "en": "The School Girl's Glasses"
+   },
+   "contentRating": "safe",
+   "score": 0.2812545,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -73,11 +96,23 @@
     "en": "Boku wa Sakana"
    },
    "contentRating": "safe",
-   "score": 0.27951774,
+   "score": 0.2787641,
    "languages": [
     "en",
     "pl",
     "tr"
+   ]
+  },
+  {
+   "id": "0237e46f-07a8-4446-8359-6ffe97777a58",
+   "title": {
+    "en": "The Girl on the Other Side of the Glass"
+   },
+   "contentRating": "safe",
+   "score": 0.27686712,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -86,7 +121,7 @@
     "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
    },
    "contentRating": "safe",
-   "score": 0.27643815,
+   "score": 0.276795,
    "languages": [
     "en",
     "pt-br",
@@ -99,15 +134,17 @@
    ]
   },
   {
-   "id": "c4048cf1-f60f-48a9-abbb-27ab5283f8b7",
+   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
    "title": {
-    "en": "The School Girl's Glasses"
+    "en": "Sora kara Onna no Ko ga!"
    },
    "contentRating": "safe",
-   "score": 0.2730491,
+   "score": 0.27474946,
    "languages": [
-    "en",
-    "es-la"
+    "ru",
+    "tr",
+    "vi",
+    "en"
    ]
   },
   {
@@ -116,21 +153,21 @@
     "en": "Manin Densha to Watashi to Kare"
    },
    "contentRating": "safe",
-   "score": 0.27226773,
+   "score": 0.272237,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "0237e46f-07a8-4446-8359-6ffe97777a58",
+   "id": "6d3fb218-90bf-455f-ae85-114c5a69e231",
    "title": {
-    "en": "The Girl on the Other Side of the Glass"
+    "en": "Ai ni Dekinai Koi wa iya"
    },
    "contentRating": "safe",
-   "score": 0.26888445,
+   "score": 0.26794162,
    "languages": [
     "en",
-    "pl"
+    "tr"
    ]
   },
   {
@@ -139,7 +176,7 @@
     "en": "A Time of Blooming"
    },
    "contentRating": "safe",
-   "score": 0.2682668,
+   "score": 0.26752454,
    "languages": [
     "en"
    ]
@@ -150,7 +187,7 @@
     "en": "Dekichatta Danshi"
    },
    "contentRating": "safe",
-   "score": 0.2675502,
+   "score": 0.26708686,
    "languages": [
     "en"
    ]
@@ -167,41 +204,7 @@
     "es",
     "en"
    ]
-  },
-  {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
-   "title": {
-    "en": "Say Love"
-   },
-   "contentRating": "safe",
-   "score": 0.26321027,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
-   "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
-   },
-   "contentRating": "safe",
-   "score": 0.26178974,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "c98d2953-2aad-4505-abd2-97da2579bedf",
-   "title": {
-    "en": "12-Sai"
-   },
-   "contentRating": "safe",
-   "score": 0.2589546,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:29+00:00"
+ "updatedAt": "2023-12-10T18:31:45+00:00"
 }

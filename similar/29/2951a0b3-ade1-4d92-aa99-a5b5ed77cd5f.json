@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0a69bdf0-ca18-4289-a05f-2d7a912eb9af",
+   "title": {
+    "en": "Kashura"
+   },
+   "contentRating": "safe",
+   "score": 0.26219523,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "13aba323-3f3d-4064-858b-9668032d0ca1",
    "title": {
     "en": "Tenka Ichi"
    },
    "contentRating": "safe",
-   "score": 0.2436448,
+   "score": 0.24378262,
    "languages": [
     "en"
    ]
@@ -22,7 +33,30 @@
     "en": "Lady Victorian"
    },
    "contentRating": "safe",
-   "score": 0.2368077,
+   "score": 0.23672038,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "761b768d-4f65-43b1-af2d-22376f0c1f8f",
+   "title": {
+    "en": "Itsuwari no Freyja"
+   },
+   "contentRating": "safe",
+   "score": 0.23505363,
+   "languages": [
+    "ar",
+    "en"
+   ]
+  },
+  {
+   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
+   "title": {
+    "en": "Hanamuko no Yakusoku"
+   },
+   "contentRating": "safe",
+   "score": 0.22201343,
    "languages": [
     "en"
    ]
@@ -33,18 +67,7 @@
     "en": "Prince of the Night"
    },
    "contentRating": "safe",
-   "score": 0.22388761,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
-   "title": {
-    "en": "Hanamuko no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.22274713,
+   "score": 0.22164069,
    "languages": [
     "en"
    ]
@@ -55,9 +78,70 @@
     "en": "Kamisama Game"
    },
    "contentRating": "safe",
-   "score": 0.21710376,
+   "score": 0.21514648,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0149daa5-89c9-4e05-bf4f-f2440e0d2db7",
+   "title": {
+    "en": "Kimi no Koe"
+   },
+   "contentRating": "safe",
+   "score": 0.21450901,
+   "languages": [
+    "en",
+    "it",
+    "id"
+   ]
+  },
+  {
+   "id": "8aa1fb77-c86e-41db-adfb-0737c3438113",
+   "title": {
+    "en": "Watashi no Shiawase na Kekkon"
+   },
+   "contentRating": "safe",
+   "score": 0.21125515,
+   "languages": [
+    "pt-br",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
+   "title": {
+    "en": "Bell Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.20355146,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "02ff6306-f843-44d0-ad51-e2b257b0af99",
+   "title": {
+    "en": "Sim Cheong"
+   },
+   "contentRating": "safe",
+   "score": 0.20187363,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "039eef76-4446-4c01-8bdd-8b009a10c36c",
+   "title": {
+    "en": "Hakuouki - Junrenka"
+   },
+   "contentRating": "safe",
+   "score": 0.20116203,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -66,10 +150,21 @@
     "en": "Life x 01"
    },
    "contentRating": "safe",
-   "score": 0.20128913,
+   "score": 0.20057797,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "94f9ed79-7423-4dea-843a-e9a9304d03a8",
+   "title": {
+    "en": "Ao Bara Antique no Shoukoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.19982877,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -78,7 +173,7 @@
     "en": "Spirit of the Ocean"
    },
    "contentRating": "safe",
-   "score": 0.19932507,
+   "score": 0.19888729,
    "languages": [
     "fr",
     "en"
@@ -94,98 +189,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "25f349cc-47b8-4522-b7bb-cc179769d250",
-   "title": {
-    "en": "Peking Reijinshou"
-   },
-   "contentRating": "safe",
-   "score": 0.19792531,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dca9c387-460e-4214-9fd6-fa683dc76533",
-   "title": {
-    "en": "Hi no Matoi"
-   },
-   "contentRating": "safe",
-   "score": 0.19627382,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "af454a9c-5006-456b-b6f6-d23e8f84a8e7",
-   "title": {
-    "en": "Yami ni Naku Oni"
-   },
-   "contentRating": "safe",
-   "score": 0.19591327,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3e1f12de-d97d-4baa-b701-0987ab2e1bb3",
-   "title": {
-    "en": "Aries"
-   },
-   "contentRating": "safe",
-   "score": 0.19186269,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
-   "title": {
-    "en": "Niji no Ikusa"
-   },
-   "contentRating": "safe",
-   "score": 0.19063272,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "261291d3-8311-44c1-8dc8-9c4a0eeac79d",
-   "title": {
-    "en": "Kogetsu no Yume"
-   },
-   "contentRating": "safe",
-   "score": 0.18829338,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "416e9b22-ea7a-4ac5-98f2-fe63c49dec8a",
-   "title": {
-    "en": "Otogi Moyou Ayanishiki Futatabi"
-   },
-   "contentRating": "safe",
-   "score": 0.18829338,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "4a9d450d-4423-4f81-9cba-ed8d36bcee62",
-   "title": {
-    "en": "Gu Fang Bu Zi Shang"
-   },
-   "contentRating": "safe",
-   "score": 0.18790554,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:01:21+00:00"
+ "updatedAt": "2023-12-10T18:12:45+00:00"
 }

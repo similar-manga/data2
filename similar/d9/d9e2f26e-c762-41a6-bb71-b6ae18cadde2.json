@@ -11,7 +11,7 @@
     "en": "Amon Game"
    },
    "contentRating": "safe",
-   "score": 0.2806404,
+   "score": 0.29273888,
    "languages": [
     "id",
     "pt-br",
@@ -24,7 +24,7 @@
     "en": "The Comeback of the Demon King"
    },
    "contentRating": "safe",
-   "score": 0.25600886,
+   "score": 0.2540498,
    "languages": [
     "en",
     "ru"
@@ -36,7 +36,7 @@
     "en": "Kyousogiga"
    },
    "contentRating": "safe",
-   "score": 0.24084724,
+   "score": 0.2492399,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Berserk - The Prototype"
    },
    "contentRating": "safe",
-   "score": 0.21550564,
+   "score": 0.22119123,
    "languages": [
     "pt-br",
     "ru"
@@ -59,7 +59,7 @@
     "en": "Vagabond"
    },
    "contentRating": "safe",
-   "score": 0.21255681,
+   "score": 0.21675849,
    "languages": [
     "it",
     "pt-br",
@@ -74,12 +74,23 @@
    ]
   },
   {
+   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
+   "title": {
+    "en": "Asagiri no Miko"
+   },
+   "contentRating": "safe",
+   "score": 0.21072339,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
    "title": {
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.20759898,
+   "score": 0.20866998,
    "languages": [
     "es-la",
     "en",
@@ -100,7 +111,7 @@
     "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou"
    },
    "contentRating": "safe",
-   "score": 0.20398676,
+   "score": 0.20404428,
    "languages": [
     "ru",
     "it",
@@ -112,38 +123,12 @@
    ]
   },
   {
-   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
-   "title": {
-    "en": "Asagiri no Miko"
-   },
-   "contentRating": "safe",
-   "score": 0.2031682,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
-   "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
-   },
-   "contentRating": "safe",
-   "score": 0.20308827,
-   "languages": [
-    "pt-br",
-    "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
    "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
    "title": {
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.2003378,
+   "score": 0.20147973,
    "languages": [
     "en",
     "it",
@@ -162,12 +147,27 @@
    ]
   },
   {
+   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
+   "title": {
+    "en": "Kiba no Tabishounin - The Arms Peddler"
+   },
+   "contentRating": "safe",
+   "score": 0.2011422,
+   "languages": [
+    "pt-br",
+    "en",
+    "es",
+    "pl",
+    "es-la"
+   ]
+  },
+  {
    "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
    "title": {
     "en": "Historie"
    },
    "contentRating": "safe",
-   "score": 0.19816779,
+   "score": 0.20026505,
    "languages": [
     "tr",
     "en",
@@ -178,14 +178,58 @@
    ]
   },
   {
+   "id": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
+   "title": {
+    "en": "re CERVIN"
+   },
+   "contentRating": "safe",
+   "score": 0.19910449,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "6e5ddee5-eccb-48cc-b6bb-43488cc9791f",
+   "title": {
+    "en": "Vagabond (Hong Kong Colored Version)"
+   },
+   "contentRating": "safe",
+   "score": 0.19792159,
+   "languages": [
+    "fa",
+    "ar",
+    "kk",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "b4d803e5-d825-456e-bb0e-77f05ffc1e63",
    "title": {
     "en": "Shin Megami Tensei - Kahn"
    },
    "contentRating": "safe",
-   "score": 0.19809593,
+   "score": 0.19525114,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f97979cc-c0dd-42e2-a32b-c56f8047f7ba",
+   "title": {
+    "en": "Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki ~Saijaku Skill \"Kyuushuu\" ga Subete o Nomikomu made~"
+   },
+   "contentRating": "safe",
+   "score": 0.19340019,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -194,50 +238,11 @@
     "en": "Meiou-sama ga Tooru no desu yo!"
    },
    "contentRating": "safe",
-   "score": 0.19292139,
+   "score": 0.19249439,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9cf439ab-6122-43cf-8ec2-8b3778577850",
-   "title": {
-    "en": "CONTRACTORS"
-   },
-   "contentRating": "safe",
-   "score": 0.19176824,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e23e9bc7-8495-4d9b-9320-0c4bfb68b14c",
-   "title": {
-    "en": "The Betrayed Hero Who Was Reincarnated as the Strongest Demon Lord"
-   },
-   "contentRating": "safe",
-   "score": 0.1895651,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "dc332d04-d3b0-413c-a767-70f5e451b031",
-   "title": {
-    "en": "Kuro no Shoukanshi"
-   },
-   "contentRating": "safe",
-   "score": 0.18604341,
-   "languages": [
-    "en",
-    "fr",
-    "ru",
-    "pt-br",
-    "it",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:08:45+00:00"
+ "updatedAt": "2023-12-10T18:32:27+00:00"
 }

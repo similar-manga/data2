@@ -11,7 +11,7 @@
     "en": "Otousan's Short Story: Little Witch Tries to Fly With a Broom"
    },
    "contentRating": "safe",
-   "score": 0.67168456,
+   "score": 0.67280614,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Shooting Girl"
    },
    "contentRating": "safe",
-   "score": 0.3655993,
+   "score": 0.36347923,
    "languages": [
     "en",
     "fr",
@@ -38,7 +38,7 @@
     "en": "100 Days Dream"
    },
    "contentRating": "safe",
-   "score": 0.327934,
+   "score": 0.3284159,
    "languages": [
     "en",
     "pl"
@@ -50,8 +50,20 @@
     "en": "Gibo-sama wa Majo"
    },
    "contentRating": "safe",
-   "score": 0.30669743,
+   "score": 0.3034957,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "74b82202-505b-4dee-9987-310baeac857e",
+   "title": {
+    "en": "The Witches' End"
+   },
+   "contentRating": "safe",
+   "score": 0.29226232,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -61,31 +73,19 @@
     "en": "The Reborn Witch Foretells Destruction"
    },
    "contentRating": "safe",
-   "score": 0.29539222,
+   "score": 0.29220924,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "393f8edd-319b-495e-a642-e65da65adf65",
+   "id": "6a1f72e3-a2bf-4716-9724-a9c12a5489f6",
    "title": {
-    "en": "The Witch's Closet"
+    "en": "Nagomi Club"
    },
    "contentRating": "safe",
-   "score": 0.2866673,
-   "languages": [
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
-   "title": {
-    "en": "The Message in the Rain Shower"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
+   "score": 0.2881244,
    "languages": [
     "en"
    ]
@@ -105,17 +105,6 @@
    ]
   },
   {
-   "id": "a86d596f-93cf-470a-b18f-06f29665c292",
-   "title": {
-    "en": "Kilroy Was Here"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "161b49bb-7eff-49a2-82b0-4cb0bcc79cee",
    "title": {
     "en": "Okimono Kimono"
@@ -132,6 +121,17 @@
    "id": "aec70392-55e6-4969-900a-a4266778300a",
    "title": {
     "en": "Okamoto Aya"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a86d596f-93cf-470a-b18f-06f29665c292",
+   "title": {
+    "en": "Kilroy Was Here"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -180,30 +180,28 @@
    ]
   },
   {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
    "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+    "en": "The Message in the Rain Shower"
    },
    "contentRating": "safe",
-   "score": 0.2769797,
+   "score": 0.2851258,
    "languages": [
-    "it",
     "en"
    ]
   },
   {
-   "id": "4ea25c92-c07f-43ff-a05a-3def92d15810",
+   "id": "393f8edd-319b-495e-a642-e65da65adf65",
    "title": {
-    "en": "The Witch and Me"
+    "en": "The Witch's Closet"
    },
    "contentRating": "safe",
-   "score": 0.27003056,
+   "score": 0.28438458,
    "languages": [
-    "fr",
-    "tr",
-    "en"
+    "en",
+    "ar"
    ]
   }
  ],
- "updatedAt": "2023-12-10T01:04:08+00:00"
+ "updatedAt": "2023-12-10T18:20:15+00:00"
 }

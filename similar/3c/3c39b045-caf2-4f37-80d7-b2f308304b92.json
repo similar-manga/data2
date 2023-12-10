@@ -11,7 +11,7 @@
     "en": "Keron"
    },
    "contentRating": "safe",
-   "score": 0.3078759,
+   "score": 0.3062803,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "We Can Fly!"
    },
    "contentRating": "safe",
-   "score": 0.26875383,
+   "score": 0.2682246,
    "languages": [
     "en",
     "pt-br",
@@ -37,18 +37,18 @@
     "en": "Creation of the World Garden"
    },
    "contentRating": "safe",
-   "score": 0.26574117,
+   "score": 0.26434487,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
+   "id": "a6675d43-3fa7-4c7a-9ffc-ee91e64dff17",
    "title": {
-    "en": "Arikai Annu"
+    "en": "Kimi ni Aitai"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.25663143,
    "languages": [
     "en"
    ]
@@ -67,12 +67,23 @@
    ]
   },
   {
+   "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
+   "title": {
+    "en": "Arikai Annu"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
    "title": {
     "en": "Kara no Kyoukai - The Garden of Sinners"
    },
    "contentRating": "safe",
-   "score": 0.23167951,
+   "score": 0.23126526,
    "languages": [
     "ru",
     "en",
@@ -87,19 +98,30 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.23091727,
+   "score": 0.22876866,
    "languages": [
     "it",
     "en"
    ]
   },
   {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
+   "id": "c83cb270-6883-4684-8f77-d991509d5af3",
    "title": {
-    "en": "The Tale of That Forest"
+    "en": "Mikiri kara Hajimeru Garyuu Kenjutsu"
    },
    "contentRating": "safe",
-   "score": 0.21492778,
+   "score": 0.22854987,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "44ae2f6a-7d79-4784-8934-81df9c26ca35",
+   "title": {
+    "en": "Kizuna Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
@@ -108,29 +130,6 @@
    "id": "04987753-1655-4149-aa40-fa732c753a41",
    "title": {
     "en": "Godspeed 0.1"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
-   "title": {
-    "en": "Schizanthus"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "3e32a4b1-8fa1-423c-ae24-1b28013a9eab",
-   "title": {
-    "en": "Oyaju Rider"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -152,57 +151,53 @@
    ]
   },
   {
+   "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
+   "title": {
+    "en": "Schizanthus"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
+   "title": {
+    "en": "Niki."
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3e32a4b1-8fa1-423c-ae24-1b28013a9eab",
+   "title": {
+    "en": "Oyaju Rider"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5f89025e-5792-42b6-82a4-a7a741993396",
    "title": {
     "en": "The White Witch and the Snow-Viewing Tea Party"
    },
    "contentRating": "safe",
-   "score": 0.21144639,
+   "score": 0.21196374,
    "languages": [
     "en",
     "pl",
     "it",
     "fr"
    ]
-  },
-  {
-   "id": "1a6ae794-a8f4-4d6f-95d1-f3f7c23761fc",
-   "title": {
-    "en": "Sakasama no Babel"
-   },
-   "contentRating": "safe",
-   "score": 0.21111383,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
-   "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.21006574,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "38ce723f-6069-4fd7-89c8-b3c6242d96b8",
-   "title": {
-    "en": "Doku Doku Mori Mori"
-   },
-   "contentRating": "safe",
-   "score": 0.20776394,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2023-12-10T01:02:04+00:00"
+ "updatedAt": "2023-12-10T18:14:46+00:00"
 }
